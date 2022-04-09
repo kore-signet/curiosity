@@ -1,0 +1,4635 @@
+PARTIZAN 06: A Palace During a Wake
+Transcriber: Cy @vlasdygoth
+
+
+[Jack de Quidt's TANAGER. PERFECT. TOUCHPAPER. begins playing.]
+
+AUSTIN: One thing that Kesh knows better than any other Stel, is that there are many ways to mark a death, and that decorum, tradition, and prestige, are all factors when deciding which type of ceremony to choose. This is a tricky thing. Not a matter of simple formuli, nor something entirely subjective. There is no rule, for example, that says a great leader must have a parade, nor that a war hero needs a gunnery salute. A service must always have the feel of a portrait, but its metaphorical style, medium, and even subject might change depending on the situation. Things are simpler when it comes to Elects, though. While other members of the Principality may be celebrated with a public procession or remembered in a private viewing, buried under religious distinction, or honored with an ostentatious funeral, an Elect simply receives every ritual. Every ceremony. They have no choice in this. And it was during the grand requiem of the Elect Cymbidium that Crysanth Kesh, third in line to the throne of Princept, Spymaster, and renowned diplomat, crystallized what the death of Past's chosen meant for the war against Dahlia and their Apostolosian dissonance with her closing remarks.
+
+AUSTIN (as Crysanth): With their heartless attack on a peaceful Divine, Apostolos sought to break our spirits, to show that their cruelty has no limits. But cruelty is trivial in the face of history. There is nothing novel about the ambition of frauds, or the methods of tyrants. So yes, remember the past. Remember Cymbidium. But above all, take to the battlefield with the strength and righteous knowledge that when we are done with Apostolos, no one will remember them at all. 
+
+[Jack de Quidt's TANAGER. PERFECT. TOUCHPAPER. Ends.]
+
+[02:35]
+
+AUSTIN: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends, I am your host, Austin Walker, and joining me today, Art Martinez-Tebbel.
+
+ART: Hey, you can find me on twitter @atebbel, and that's… that's it. 
+
+AUSTIN: Jack de Quidt.
+
+JACK: Hi, I'm Jack, you can find me on twitter @notquitereal, and buy any of the music featured on the show at notquitereal.bandcamp.com
+
+AUSTIN: Keith Carberry. 
+
+KEITH: Hi, my name is Keith J. Carberry, you can find me on twitter @keithjcarberry, and you can find the let's plays that I do at youtube.com/runbutton.
+
+AUSTIN: And Sylvia use Clare. 
+
+SYLVIA: Hey, I'm Sylvia, you can find me on twitter @captaintrash, and you can find the other show I do, Emojidrome, on your podcast app of choice.
+
+AUSTIN: As always, you can follow us on twitter @friends_table, you can support the show at friendsatthetable.cash, also wanna say specifically, if you have been a patron, and you are interested in what's up with the postcards, or if you've not been a patron, you're still interested in what's up with the postcards, there is a post on the Friends at the Table Patreon feed that you should go look at. I guess the very quick summary is that there's a really cool project coming very soon for folks who were postcard tier patrons last year, and a new series of Partizan themed postcards are gonna start going out, probably next month? If you wanna be in on the ground floor of the Partizan themed ones, which are being done by Simon Sweetman— or, the art is being done by Simon Sweetman and Connor Sherlock. That's right, Connor Sherlock is right, right? No—
+
+JACK: No!
+
+AUSTIN: Connor, Connor Fawcett— Connor Sherlock is an independent game developer.
+
+JACK: Makes really cool walking simulators!
+
+AUSTIN: Very great walking simulators—
+
+JACK: Not involved with us.
+
+AUSTIN: Not involved at all— would work with Connor Sherlock on something one day, right now very excited to work with Connor Fawcett. We're working with both of them to do really cool, kind of in-fiction postcards that are, will have microfiction written by Jack and I on the back. It's a really cool premise, I'm really excited to write those.
+
+JACK: I love that character already, and we haven't written any—
+
+AUSTIN: [cross] Yeah, she is fantastic. 
+
+JACK: Anything about her yet!
+
+AUSTIN: Well, we wrote that, we wrote that likes and dislikes.
+
+JACK: [cross] We wrote bits and pieces, we had a good list. We wrote a pros and cons list!
+
+AUSTIN: [cross] [laughing] We wrote a pros and cons list! Which— no one knows— also on our, also on the Patreon you can listen to Clapcasts, where you will hear—
+
+SYLVIA: [cross] Shoutouts to Ben.
+
+AUSTIN: Shoutouts to Ben! Where you will— [laughs] hear material that got left on the cutting room floor because it was before we clapped our hands to start the show! If you're interested in the artists I just mentioned by the way, just to shout them out, sisweetman— S-I-S-W-E-E-T-M-A-N, for Simon Sweetman on twitter, and Connor Fawcett you can find at @thebadbucket, T-H-E-B-A-D-B-U-C-K-E-T, and again the, the site for our patreon is friendsatthetable.cash. Okay, today we are continuing our game of Beam Saber by Austin Ramsay, which is a hack of Blades in the Dark by John Harper. My principles are to ensure everyone at the table is safe, to fill the world with detail, to convey the world honestly, and to play to find out what happens. So. High level, last time, y'all were sent to secure the body of Cymbidium and some of the remains of the Divine Past from Obelle. You managed to do that, there was some complications! There was uh, the killing of a scientist, the murder of a scientist? An attempted jailbreak, nearly some PVP, there was eventually a reluctant rescue operation, and you did it! You got out safely. I don't think we need to go beat by beat, those episodes were not that long ago.
+ I do have some things here, a list of things here that maybe y'all might wanna follow up on in terms of just, things we should talk about right now, or things to talk about in the future, whether today or in another episode. One is just the terms of the crew's imprisonment, which I know Leap and Millie, y'all brought up with Sovereign Immunity, who said that he would bring it up with, with… with Clem. Two, Figure A, what the deal is with Figure A, which was the robot that Leap recovered from the wreckage of the Divine Past, kind of a synthetic kind of, information scrubbing robot. There is also just the question of what happened in Obelle? I dont— Just to be clear, like, I don't know that anyone, I don't know that we the player— we the players don't know what happened there. Or you the players don't know what really happened there. I don't know necessarily that, that the Rapid Evening has reason to doubt the official Kesh stance, which is that the Apostolosian Swordbreakers killed, killed the Divine Past, but I think we as the players and the audience know that things are not necessarily as simple as that? There were lights in the sky, was it crashed, did, did it lose control? We know that Cymbidium said that he lost control, but that's not necessarily clear what that means. So, y'know, more questions there. I also have written down here, the details on your RUNT, your robot, Milli?
+
+SYLVIA: Yes!
+
+AUSTIN: The…
+
+SYLVIA: Should I?
+
+AUSTIN: Yeah, yeah! Tell, you tell me that now, that's an easy one! That's just a… yeah.
+
+SYLVIA: So the, the RUNT is my Robotic Utility and Navigation Tool. Since we recorded, I kind of figured out what that looks like.
+
+AUSTIN: OK.
+
+SYLVIA: 'Cause it— so what that is, is it's a hunter robot, basically, it's an assassin robot as well.
+
+AUSTIN: [cross] Right.
+
+SYLVIA: That accompanies me, and it has um… do we wanna get into the like…
+
+AUSTIN: Yeah, its edge, with edges and obligations now, right?
+
+SYLVIA: Yeah, so the edge for it is fearsome? Oh wait, did I— No, I did tenacious, tenacious, right.
+
+AUSTIN: [cross] I think you did tenacious, yeah, which is great.
+
+SYLVIA: I was waffling between the two. Tenacious, which is "won't be deterred from a task." And then the um… the flaw is Obligation, which, this is not always available due to other responsibilities, chronic illness, et cetera. But what we were thinking was that there was a failsafe installed into this, of some sort?
+
+AUSTIN: [cross] Yeah.
+
+SYLVIA: That… I don't know if we know the specifics yet, we'll like get to it when it comes up, but it's something that Kesh put in there to keep it from assisting me in escaping.
+
+AUSTIN: Totally.
+
+SYLVIA: And I realized that if I wanted to commit to like, Milli's whole goth aesthetic, the robot needs to as well?
+
+AUSTIN: True! That's an important distinction.
+
+SYLVIA: It is, so, my, I think it has the shape of like— I like my floating shape idea, despite the Destiny ghost thing.
+
+AUSTIN: Yes.
+
+SYLVIA: I think it's shaped like a little coffin?
+
+AUSTIN: Oh my god, that's great.
+
+JACK: Oh my god!
+
+[KEITH laughs]
+
+SYLVIA: 'Cause it keeps her rifle in there, right!
+
+AUSTIN: Oh my god…
+
+SYLVIA: And then also, it has all these panels that can open up and do different things.
+
+AUSTIN: Amazing…
+
+SYLVIA: Yeah.
+
+AUSTIN: So it's like a, it's big. It's a— when you say a coffin, it's big enough for a rifle at least.
+
+SYLVIA: Yeah, I think like, it's big enough to keep her gear in it, yeah.
+
+AUSTIN: Does— 
+
+KEITH: It's always been big enough for a rifle, right?
+
+SYLVIA: Yeah.
+
+AUSTIN: Yeah, yeah, yeah.
+
+SYLVIA: That's like, what it was made for.
+
+AUSTIN: Gotcha.
+
+SYLVIA: Like, this is like a tool for war.
+
+AUSTIN: Right.
+
+KEITH: Is this something that is like, four feet tall, or do you have a Mass Effect—
+
+SYLVIA: Don't make me… [AUSTIN laughs] Don't make me say the height of something! It's—
+
+KEITH: [cross] Oh, right.
+
+AUSTIN: She's very tall, and…
+
+SYLVIA: It's a size that people can think of themselves.
+
+KEITH: Okay— okay.
+
+AUSTIN: Is it taller or shorter than Milli? 
+
+SYLVIA: It is not taller than Milli.
+
+AUSTIN: Okay.
+
+SYLVIA: It is not like— like, I think it is… I think probably the rifle either folds up or comes apart to fit inside of it in some way?
+
+AUSTIN: [cross] Okay.
+
+SYLVIA: I don't think it's like, huge, I'm kinda thinking like… god, I'm really gonna say it, like a couple feet long, maybe? I don't know, that might be too small?
+
+AUSTIN: [cross] A rifle is way bigger than a couple feet!
+
+KEITH: [cross] Does it— does it come up to your knee?
+
+SYLVIA: [cross] I don't know! No. More than that— y'know? Let me see.
+
+AUSTIN: [cross] How about this!
+
+SYLVIA: [cross] I'm standing up!
+
+KEITH: Is it as tall as your knee?
+
+SYLVIA: Yeah!
+
+AUSTIN: How long is a rifle?
+
+SYLVIA: Yes! 
+
+AUSTIN: Just to your knee?
+
+SYLVIA: Well, like, I'm thinking, so I'm thinking like, with— it's also like, wider, too.
+
+AUSTIN: Right.
+
+SYLVIA: So like, I'm like thinking each component of the um… of the rifle like, it comes in like, three separate pieces that are about the length of a keyboard?
+
+AUSTIN: Gotcha. Okay.
+
+KEITH: [cross] This is like a, this is like a Hitman with a silver thing, and you unscrew the rifle into like six different parts. So it can fit into a little briefcase. 
+
+AUSTIN: Right.
+
+SYLVIA: Yeah, but more science fiction.
+
+AUSTIN: But also it is—
+
+KEITH: But it's a coffin robot that floats around.
+
+SYLVIA: [cross] Yeah!
+
+AUSTIN: It's, it's also specifically still also a hunter robot, right?
+
+SYLVIA: Yes!
+
+AUSTIN: So, it has its own—
+
+SYLVIA: So it has weapons in it.
+
+AUSTIN: Gotcha, cool!
+
+SYLVIA: [cross] Maybe it should be a little bigger, then.
+
+KEITH: [cross] Can it fire your rifle while the rifle is inside of it, so that it can?
+
+SYLVIA: Oh, I don't know.
+
+AUSTIN: Maybe that's an upgrade.
+
+SYLVIA: I'll have to think about that one.
+
+AUSTIN: [cross] Yeah, we'll think about it.
+
+SYLVIA: [cross] Yeah, that seems a little…
+
+AUSTIN: Well, well get there.
+
+KEITH: Well it's a hunter robot, so it's gotta do something. 
+
+AUSTIN: [cross] Yeah, it—
+
+SYLVIA: Yeah, there are upgrades that make it better at that.
+
+AUSTIN: Yeah. Yeah. We'll revisit, but I appreciate that now we know that Milli has a floating coffin named— is it, is it named RUNT? 
+
+SYLVIA: It is, so it is a RUNT.
+
+AUSTIN: So it is— it's a RUNT, so it is not a person, this is not a person.
+
+SYLVIA: [cross] No, it's a tool.
+
+AUSTIN: [cross] This is a, this is just okay, gotcha.
+
+SYLVIA: [cross] Like I said, this is like a tool for soldiers, basically.
+
+AUSTIN: Gotcha. Cool!
+
+SYLVIA: Yeah. 
+
+AUSTIN: So yeah, then y'all extracted, that's that mission. Looking forward! So. I already went through, we did the math and the XP and drive clocks off mic, we should really quickly just go over drives one more time though, let's go— let's go reverse order, Milli, what is your drive?
+
+SYLVIA: My drive is claw your way out.
+
+AUSTIN: Good. That's at one tick in the first clock. All of these are at one tick in the first clock, I'll just say that, Leap, what is your drive?
+
+KEITH: Break out of prison, is my drive.
+
+AUSTIN: Of course, of course. Sovereign Immunity?
+
+ART: Just to paraphrase, it was to be assigned to be Clementine's Sovereign.
+
+AUSTIN: Yeah. And Clem!
+
+JACK: My goal is to rule Stel Kesh.
+
+AUSTIN: There we go. Everyone made small progress towards those things, this is a note, you can only make progress towards those things— you can only mark the box once per type of action you took? So in other words, for instance Clem, you got a tick to that because you successfully commanded a, a mission. Whether or not you wanna believe—
+
+JACK: Successfully.
+
+AUSTIN: Y'all succeeded.
+
+JACK: Yeah!
+
+AUSTIN: Y'all got the stuff for it, whether or not you wanna say you commanded it and it all went according to your plan who knows, but I'm not gonna give you a drive clock tick just every time you do a mission going forward, right? In this specific case for instance, Leap and Milli secured or work towards at least, giving themselves more flexibility inside of the prison. But you can't fill a clock by going like, and then I got more flexibility inside the prison, then I got more flexibility inside the prison, you have to make material different gains to continue checking those clocks, or those boxes inside of those clocks. The, so I already did drive clocks, we already did XP, no one leveled up, but everyone is very close to leveling up I believe? Your playbook XP is all up to six, as a note, I just put that there 'cause it's easy to track. You can also, any of that XP in the playbook XP, you could instead put into one of your pilot action tracks, insight, prowess, resolve, expertise or acuity. Those normally advance when you do a desperate roll, and once you fill up a track, you can put that point into, you can put a new point into one of the skills underneath the kind of action track. But we'll, we'll, this can, if you wanna change your mind anytime this session, or before next session, that is a hundred percent fine, so just let me know after you think about it.
+
+SYLVIA: [cross] No, I'm gonna think about it.
+
+AUSTIN: Okay. So what are you doing?
+
+SYLVIA: I think I'm gonna put a, I'm gonna spend these six points to put another point in Struggle.
+
+AUSTIN: Okay, cool. That makes sense. That's gonna come up, for sure. Cool. So that's XP. Briefly, I'll talk about relationships? At the end of every mission, and people I believe will have already heard this via the other downtime, but you go through a whole like breakdown of… like, how, how does your mission reflect with your relationships and your trust with different factions and squads? The long and short for y'all, which is pretty much positive all the way around, is you went up a level with Kesh itself, with Stel Kesh, you're now at level one trust with Kesh. 
+
+[0:15:03]
+
+AUSTIN: [cont'd] And you have neutral, your relationship with Silversky Salvage and Recover or whatever, and also the Swordbreakers. You kind of did well by both of them in the last mission, and so you're at neutral with them. However, your relationship with GLORY is now negative one, your relationship with House Brightline is now negative two. Making some enemies here. Negative three is really bad?
+
+KEITH: [cross] Brightline, they were the big important house that's now not so big or important?
+
+AUSTIN: Brightline is the house that Horizon is secretly part of.
+
+JACK: And Brightline—
+
+AUSTIN: Or tied to.
+
+JACK: Kind of the new Princept, right? They're the Antiprincept?
+
+AUSTIN: They're the— no, the Antiprincept is, the Antiprincept is Aposto— well, depending, Whitestar, Whitestar.
+
+JACK: [cross] Well, what are we calling— Oh, Whitestar!
+
+AUSTIN: Whitestar is the, is the Antiprincept. You haven't met anyone from Whitestar.
+
+JACK: Okay.
+
+AUSTIN: You've done no Whitestar stuff. I don't think, I don't believe so. The only thing—
+
+JACK: Whitestar and Brightline are the same word  to me.
+
+AUSTIN: They're very similar! But a star is a point and a line is a line. 
+
+JACK: [laughs] That's very true! 
+
+SYLVIA: I don't think I listened to this like, yesterday, and then a little today.
+
+AUSTIN: Yeah. 
+
+SYLVIA: And I don't think we met anyone from Whitestar in either.
+
+AUSTIN: The only Whitestar thing that's happened so far is that Dre's character, Valence, played the Whitestar anthem during the SBBR's initial…
+
+SYLVIA: [cross] God, right!
+
+AUSTIN: Attack on Obelle, causing Apostolos to believe, yes.
+
+JACK: [cross] Oh yes, I think that my mum briefed me on that as well, right?
+
+AUSTIN: Yes, totally, yeah. Except that, except that you were not briefed thinking— you don't know if Whitestar was doing that or not.
+
+JACK: No, no, we have no idea.
+
+AUSTIN: So that's, let's say, another thing.
+
+JACK: [cross] We just heard their song.
+
+AUSTIN: Yeah. Another thing, what actually happened in Obelle? What's up with Horizon, at this point we have, we can continue going down basically the end of mission plus engagement and then downtime stuff. So, again I've already done reward and— I've already done reputation and trust and stuff like that. At this point I need someone to roll for your employer faction's reward. You get a supply roll from your employer faction after every completed mission. Your employer faction is Stel Kesh, and they're gonna give you a certain bonus because of the type of government that they are. In order to roll your dice, in order to roll your supply, you roll dice equal to the target's tier, plus your employer faction status, to a minimum of zero. So your target's tier is three, because the target was GLORY, who was the people who are actually trying to take stuff from the Divine Past. Then you add your employer faction status, your relationship with them, your trust with them, which is plus one. So that's four dice. So I need someone to roll 4d6. You take the highest die there, which is five.
+
+SYLVIA: Okay, good! 
+
+AUSTIN: Yeah, that's, you're good! You rolled a five, three, one, one.
+
+SYLVIA: I thought this was an adding them thing.
+
+AUSTIN: No, so you take the highest one. If a crit is rolled, which was not rolled, you would've gotten nine, so that's the only way to get more than six is to roll two sixes. So then you take that five, then you take a bonus based on your, the faction that you're associated with. Kesh is a crypto— a, yeah a cryptocracy, which is a type of oligarchy, so because of that, you'll get plus one trust with your employer, which I've already counted, and then you'll get plus one personnel, which is a type of supply. If you go to the Rapid Evening faction sheet, the bottom left-ish, above long term projects, there is a thing that says… materiel and personnel. Do you see that on this sheet?
+
+JACK: Yeah, yeah. 
+
+KEITH: Materiel is so funny.
+
+JACK: It's so good, bonjour! 
+
+KEITH: It's— Materiel, military material, is the… like, that's just what it is!
+
+AUSTIN: [cross]  That's, yeah… that's what they call it though! That is what English—
+
+KEITH: I know! I know! But it's just funny!
+
+AUSTIN: Speaking… yeah.
+
+KEITH: It's not funny that it's in— it's funny because it's written here, but it's also funny that anyone ever was like, what is this material? What are you talking about? This material for the military! It's like oh, you mean materiel?
+
+AUSTIN: [laughs] Materiel? Yeah, uh huh! So, you have now, one point in personnel, because of you being working with Stel Kesh. One point in materiel, which is the stuff that you stole, Leap? You and Milli stole a bunch of stuff.
+
+KEITH: Yeah.
+
+AUSTIN: I'm rewarding you that as materiel. Plus maybe your cut of the Somber Salvage— or the Silversky Salvage stuff. Maybe there's just like extra stuff in there that's not tied to Past directly and you're able to like, hey, here's some extra materiel. And then you've rolled a five, which means you get five floating supply points. Either at this point or as we play today, you have to, you have to decide what this supply goes into, either materiel—
+
+KEITH: Turn those into sub-supply points.
+
+AUSTIN: Sub-supply points.
+
+KEITH: Sub types.
+
+AUSTIN: Sub type supply points. I know this seems like a lot, let me tell you, in a previous edition of this game, there were way more types of supply! This has been cut down quite a bit. The reason that I say all this now i one of the first things you can do at this point in down— in like, pre-downtime, even before entanglements are rolled, is that every pilot can take a free upkeep downtime activity? And an upkeep downtime activity is how you clear your quirks on your, on your… mechs. I don't remember who has spent quirks. 
+
+SYLVIA: I have.
+
+KEITH: I believe just Clem. 
+
+SYLVIA: I have!
+
+JACK: I have spent a lot!
+
+KEITH: Oh. 
+
+JACK: [cross] Oh, and— 
+
+SYLVIA: [cross] I spent three of them.
+
+
+AUSTIN: [cross] Clem has spent three, Leap has spent one, Leap you spent explosive speed—
+
+KEITH: Oh, I did spend one? You're right, oh I did, yeah, I remember that.
+
+AUSTIN: And yeah, wow— and also—
+
+KEITH: That was to save Clem, yeah. 
+
+AUSTIN: Yes, and also Milli spent three.
+
+JACK: To negotiate with Clem.
+
+AUSTIN: Ah, hm. Is that what it was? So—
+
+KEITH: I think yeah, we, I think we actually both— [laughs] 
+
+AUSTIN: So at this point, with your five supply, y'all have to decide how this works and I don't know if there's an in-fiction way you wanna talk about it, or otherwise, you can each take a free upkeep action, which does not mean you don't have to spend the materiel, but it does mean it doesn't take up one of your downtime moves. [reading] "You spend materiel and roll that many dice, your vehicle refreshes a number of quirks equal to the highest result. If the result is higher than the number of quirk boxes, the remainder is wasted. Additional exhausted quirks can be removed— can be removed by spending one materiel per—"
+
+JACK: [cross] Ah, damn.
+
+AUSTIN: "per quirk." This is all on page… 154.
+
+JACK: That upkeep roll— when we say free upkeep roll, we're only talking about in terms of downtime actions, right?
+
+AUSTIN: Yes, that's it. 
+
+JACK: [cross] It will  absolutely cost us—
+
+AUSTIN: [cross] It will take— yes.
+
+JACK: We will have to convert one of these floatings or a number of these floating supply—
+
+AUSTIN: [cross] A number. 
+
+JACK: To materiel.
+
+AUSTIN: Yes.
+
+JACK: And then spend them.
+
+AUSTIN: Yes.
+
+JACK: Okay! That's interesting.
+
+AUSTIN: [cross] And then roll dice.
+
+JACK: Okay.
+
+AUSTIN: Yes.
+
+JACK: That's very tempting. 
+
+AUSTIN: Quirks are important, as we've talked about, but it's up to y'all to decide. Like, Leap has only spent one quirk! Is it worth it to clear the Head's Up's— is that what it's called, the Head's Up? 
+
+KEITH: Yeah.
+
+AUSTIN: Head's Up is the name of your mech.
+
+KEITH: Yeah. 
+
+AUSTIN: Is it worth it to spend one whole materiel to clear that one quirk, that's up to y'all.
+
+KEITH: I, I feel that it's worth it 'cause I don't understand yet how useful supply points are. 
+
+AUSTIN: Sure.
+
+KEITH: So, why not just clear it? 
+
+AUSTIN: Jump cut an hour in the future— [KEITH and JACK laugh]  "I wish we had more supply points!" 
+
+ART: I mean the—
+
+JACK: [cross] Where did they all go!
+
+ART: The answer is the, the same supply no matter… how much, is that right?
+
+AUSTIN: Wait, no, 'cause you're rolling a die.
+
+ART: One materiel point per quirk? 
+
+AUSTIN: It's, it's one materiel point to roll, it's— you pick a number, you roll that many die, and then after that, if you still have quirks you need to clear, you can spend one materiel point per quirk to finish that job. But then use…
+
+ART: Yeah, one point for one quirk seems like a bad just, ratio. 
+
+AUSTIN: Totally, but if you roll a four— if you roll a three or more, you're, you're—
+
+JACK: You clear 'em all.
+
+AUSTIN: You're clearing most of 'em, y'know? Yeah.
+
+ART: No, I mean for, for clearing a mech that's only taken one…
+
+AUSTIN: Right.
+
+ART: It's only exhausted one.
+
+KEITH: Oh that, that's the, yeah, is that I'm… I'm getting a worse deal. 
+
+AUSTIN: Yes, because you only have one to clear.
+
+KEITH: Right.
+
+AUSTIN: Exactly. 
+
+ART: But I mean, I haven't played this either, so I don't…
+
+AUSTIN: [laughs] It's up to y'all! 
+
+ART: I'm just doing math right now.
+
+AUSTIN: That's, that's an important part. I genuinely think this system sings when you engage with this part of it too?
+
+JACK: Yeah.
+
+AUSTIN: When you start thinking about… long term projects.
+
+JACK: It's the XCOM map, right?
+
+AUSTIN: This is the X— Yeah, a hundred percent, this is the XCOM part, exactly. A hundred percent. Or the part of the XCOM home base.
+
+KEITH: [cross] That's a big part of why you were specifically excited to try Beam Saber when we play it was some of the downtime stuff, so.
+
+AUSTIN: Yeah, we haven't even— you'll see some of it, it's really fucking cool, very soon. 
+
+JACK: I would be prepared to… I would like to roll free upkeep.
+
+AUSTIN: Alright! Are you gonna— are you as the commander also greenlighting other folks to do it? Is that how we're doing it? Do we just wanna let the table decide?
+
+KEITH: I would like, I mean, if… Clem wants to try and stop me from… [AUSTIN laughs] Fixing my mech? Then, I guess she can try.
+
+JACK: [cross] But it's— yeah. Again, this is the cost thing, right, where it's like… one, one materiel dice when you have three quirks, is technically more valuable than one materiel dice when you have one quirk, right? Or am I getting that wrong.
+
+AUSTIN: No, that's, yeah, you're totally right.
+
+ART: You're a hundred percent right, yeah. 
+
+AUSTIN: I'm staying out of it, I'm not gonna make this decision. 
+
+JACK: Okay, sure. Okay. 
+
+JACK (as CLEMENTINE): Thank you for coming. In recognition of your efforts— [AUSTIN laughs] in Obelle, Stel Kesh has decided to make available certain resources in order to enable you to repair mechs that may have been damaged in the battle. I will be doing the same for the Panther, I trust that we will all think carefully about the distribution of resources as we go forward. Thank you very much. 
+
+JACK: I'm gonna roll a materiel dice!
+
+AUSTIN: Yeah, go for it, 1d6. 
+
+JACK: And I have rolled… a three!
+
+AUSTIN: Hey, that worked out. Sylvia and Keith, are you also gonna roll?
+
+SYLVIA: I would like to take one, yes.
+
+AUSTIN: Sure. 
+
+SYLVIA: That's a two.
+
+AUSTIN: Oof.
+
+SYLVIA: So I have to make some decisions.
+
+AUSTIN: You do.  Leap?
+
+KEITH: Okay, so, I, so for me right now, I think my top goal, my number one priority, I wanna take a look at Figure A. 
+
+AUSTIN: Mhm.
+
+KEITH: And my second priority is an upkeep. 
+
+AUSTIN: So do you wanna save— you have, I'll also note, y'all have three downtime actions, so if you wanna save one of your downtime actions for upkeep, you have the time— You will probably have the time to do that. 
+
+KEITH: Yeah.
+
+AUSTIN: Having just run the other downtime session, I don't wanna say like, they ran out of things to do? But they, there was no, there wasn't that sort of time pressure that you feel in Blades in the Dark or Scum and Villainy, because you get three downtime actions in this, on top of this free upkeep action. So, my guess is, you or another player will have a, will have one in their back pocket, so if they wanna toss it to  you they can, but I do think it's important—
+
+KEITH: Okay. 
+
+AUSTIN: To decide if you're taking this free one now, because I think that's a game balance thing, and it's interesting.
+
+KEITH: No, I'm not taking the free one now.
+
+AUSTIN: [cross] Okay. Cool! Alright, sounds good. Million, what did you end up deciding to clear?
+
+SYLVIA: So, I— I cleared up double jointed limbs, the self-oiling ones, and my overwhelming sensors? Which means my hidden firing brace is still spent. 
+
+AUSTIN: Okay, cool. Cool cool cool.
+
+SYLVIA: Yeah. 
+
+AUSTIN: And you're not gonna spend the extra materiel to clear that one thing, presumably?
+
+SYLVIA: No, no. Not yet.
+
+AUSTIN: Okay. Alright! Cool. So, now we're done with that part of the… end mission thing, we go on to one of my favorite things, which is entanglements! 
+
+JACK: Hell yeah! Time to meet the Font Men!
+
+AUSTIN: Time to meet the font men! [SYLVIA groans] As you may recall from Marielda, love to roll some dice, so! [reading] "Entanglements exist because the world is unfair, the brass do things that seem random and incompetent, and your friends are vulnerable simply because they know you. After a reward and trust are determined, the GM generates an entanglement for the squad using the charts below. Look at the factions the squad has targeted during the mission to determine the entanglements that will be used." I actually— okay, cool. So that is not looking at Stel Kesh, it's looking at Stel Apostolos. If the last mission targeted an independent squad, use that squad's status, it doesn't, it's using Stel Apostolos'-- so what's your relationship with Stel Apostolos, a negative one, I believe? Only a negative one! Yeah. In fact, you're almost up to neutral with them. It's not that bad. 
+
+JACK: [cross] I love to be neutral with— 
+
+SYLVIA: [cross] Yeah, I guess this is a faction, not personally.
+
+AUSTIN: Exactly. Exactly! [JACK laughs] If the, they don't know what you're doing! They have not ID'ed you, Milli, as being part of this yet!
+
+JACK: How are we getting up to neutral with them, Austin, what changed that?
+
+AUSTIN: You actually went down. You went down from neutral to a negative— to a negative one?
+
+JACK: Okay.
+
+AUSTIN: But your negative one, you're like, you're actually at negative point seven or something— negative point three or some— you're three points away from being neutral to them. But you could theoretically gain that back if you start doing missions that help them or something, I don't know.
+
+JACK: Fuck those guys. 
+
+AUSTIN: Yeah. [reading] "If the relationship is minus three, roll on table A, if it's minus two or minus one, roll on table B, if it's zero or higher, roll on table C. Then, roll a number of dice equal to three minus the squad's relationship with their patron faction, or the faction with the highest reputation if they lack a patron and take a highest result." So, you're gonna be on table B, 'cause you have a negative one with Apostolos. And then you're gonna roll a number of dice equal to three minus the squad's reputation with your patron faction, so that is two dice. 'Cause you have a one with Kesh, so someone— I need someone to roll two dice.
+
+ART: I can do it, I haven't rolled a…
+
+AUSTIN: Yeah! Good. Roll those dice. Uh, we take the higher one, is that what we take?
+
+SYLVIA: Oh… god, you should look at them.
+
+AUSTIN: Take the highest one, let's see.
+
+JACK: Oh my god. 
+
+AUSTIN: Oh, good! Oh, good. Good, good, good! [JACK laughs] Someone wanna read that for me? 
+
+JACK: [reading] "One of your squad is questioned by your superiors. One of the pilots or a cohort is taken into be grilled. [SYLVIA laughs] Make a fortune roll to see how well they resist the pressure. One to three, level two harm, which can be—" Level two harm!
+
+AUSTIN: [cross] [shocked] Level two harm!
+
+JACK: [reading] "Which can be resisted by pilots as normal. Four to five, minus two trust. Or, bribe the grunts grabbing the person, with one personnel."
+
+AUSTIN: Who gets grabbed here? Um… [sighs] I actually think… my, my most interesting there is it's Sovereign Immunity. I think… that Crysanth Kesh wants to know. Wants to know if Leap and… and Milli tried to flee. Like, is basically trying to see if he would rat them out. And you odn't even— I don't even know that you— It's not clear to you whether or not, whether or not she would already know. And I don't know that she's doing it directly, because you have a relationship with her. You were her Sovereign before. 
+
+ART: Mhm.
+
+AUSTIN: But an interrogator wants to know— or she has sent an interrogator, and so you're like, pulled out of your cell one day, and brought to, y'know, a room somewhere in the prison. And we don't have to zoom in on this, especially given what these results can be. How do y'all wanna handle this? Do you wanna do the fortune roll to see how well you resist the pressure? Or do you want to bribe the grunts grabbing the person with one personnel? 
+
+[00:30:05]
+
+KEITH: I think, I guess this is sort of up to… to the two, the, to the person being grabbed and to the person in charge. Like, I think, I don't know that I would have much input.
+
+AUSTIN: Yeah. 
+
+ART: I'm, I mean… you can have, you can have an opinion on the cost.
+
+KEITH: I also don't have an opinion on the cost.
+
+SYLVIA: Yeah, I don't mind if you want to use that, but like… you can roll, too, it, like, whatever you think. For your character makes sense.
+
+AUSTIN: I will say, the thing you'll be rolling will be a fortune roll equal to your resolve, and your resolve is what, your resolve is three, which is pretty good. 
+
+KEITH: But there's also almost no good roll here.
+
+AUSTIN: No, you have to get a six.
+
+KEITH: You have to get a six. 
+
+ART: I mean but, with three dice your chance of getting a six is… basically fifty— exactly fifty percent, right?
+
+KEITH: Yeah, I guess that's the, I guess that's not bad. And also like, minus two trust isn't terrible either. 
+
+ART: Well.
+
+KEITH: It's with Kesh, which is annoying, but um, what do we have with Kesh, we have—
+
+AUSTIN: You would earn it back, you earned so much— well, you could earn it back, theoretically, right?
+
+KEITH: It doesn't say, we don't have—
+
+AUSTIN: Yeah, so it's over on, it's a weird thing, it's on your  actual sheet, your Rapid Evening, sheet, not on the faction sheet.
+
+KEITH: Oh, okay.
+
+AUSTIN: I don't know why it does that, but yu're at, you're at a full level one with Kesh, which, it costs one, two three, four five six seven eight nine points, to get to level one— you earned nine points in that last session 'cause you did so well.
+
+KEITH: Okay.
+
+AUSTIN: So that would just drop you back to neutral.
+
+KEITH: Neutral eight.
+
+AUSTIN: Eight. Yeah, exactly.
+
+ART: Okay. I think in terms of… I think in terms of character work, I think Sovereign Immunity needs to do this.
+
+AUSTIN: Okay.
+
+JACK: Yeah. I agree.
+
+ART: 'Cause I think, I think it needs to prove, I think, I think, I think he needs to prove himself here.
+
+AUSTIN: Right.
+
+ART: I think I need the…
+
+AUSTIN: Alright, well then the fortune roll's gonna be 3d6. 
+
+JACK: Oh wait, the— the other question, right, was like, do we want to begin the scene prior to the roll, or do we want the roll and then play the scene?
+
+AUSTIN: Yeah, I— I wanna be clear that I'm a little cautious about showing…
+
+JACK: Right.
+
+AUSTIN: This in high detail?
+
+JACK: Like a Kesh interrogation.
+
+AUSTIN: Yeah. I'm happy to talk about it abstractly and certainly if you get a one to three, you're going to need to take a level two harm and we can figure out if that is physical or mental or emotional or what, but uh… I will just say straight up, I am not in a place tonight to be like, a harsh interrogator who…
+
+JACK: [cross] Yeah.
+
+AUSTIN: Potentially could bring torture into play? But I'm happy to talk through what the emotional— I'm happy to talk through all this stuff in an abstract place. But I would like to— I would like to pull a veil on it tonight. Part of that is just about prep, which is like, I don't have an interrogator voice on hand? And that's sort of material I'd like to get right, and not just play for shock. But also, I'm, I think the important and interesting stuff here is about what's going on with Sovereign Immunity and his headspace and, and what happens here, more than getting a clear depiction onscreen, if that makes sense. 
+
+JACK: Absolutely. 
+
+AUSTIN: Art, do you wanna roll these dice then?
+
+ART: Yeah, it's 3d6…
+
+AUSTIN: 3d6, take highest. 
+
+ART: Hey dice.
+
+AUSTIN: Yeah.
+
+ART: Do this for me. 
+
+AUSTIN: Okay. Either way, I respond— Hey, there's a six!
+
+[JACK gasps]
+
+KEITH: Hey dice!
+
+ART: There's a six!
+
+SYLVIA: Hey! 
+
+KEITH: I was very ready to say no, dice! 
+
+AUSTIN: [laughs] Yes, Kesh! 
+
+JACK: Yes, Kesh!
+
+AUSTIN: Oh, that's so funny! Alright, so on a six, you don't take any harm, you don't lose any trust, and we didn't need to bribe anybody. So, talk to me about what happens here. I think, I think, I think the setup at least is that, y'know, three guards arrive at your cell door, with no announcement. And they do not tell you where they are leading you. And they lead you to a part of the prison you've never been to before.
+
+ART: Sure.
+
+AUSTIN: I think we even get the shot of like, you walking past the warden's office, do you know what I mean? Like oh, am I going to see the warden? No. 
+
+ART: Sure. 
+
+AUSTIN: What's this look like from your side? What, y'know, again…
+
+ART: I feel like three— there are like three outcomes that I think are like interesting?
+
+AUSTIN: Sure.
+
+ART: In no particular order. One is just like, resisting interrogation, right? 
+
+AUSTIN: [cross] Yeah.
+ART: Like… whatever, whatever jabronis they send for this are just not good enough, y'know?
+
+AUSTIN: Mhm.
+
+ART: I've been in prison for a long time, right. 
+
+AUSTIN: And you've been trained as a Sovereign Immunity, you've been, y'know, someone who has been in the faith for a long time, and there's a certain degree of— you have a three in resolve for a reason.
+
+ART: Yeah. Another outcome that's like, cute is like… I, I could just sort of like talk them out of it procedurally, right? Like, are you sure that you can do this? Y'know, there are protocols here.
+
+AUSTIN: [laughs] Right. 
+
+ART: That predate your—
+
+KEITH: [cross] You gonna go get a permit first?
+
+[SYLVIA laughs]
+
+ART: Yeah, uh huh!
+
+AUSTIN: Yeah, yeah. I'm a Sovereign Immunity, right?
+
+SYLVIA: Do you have a warrant to torture me?
+
+ART: I have unqualified ability to act in these manners.
+
+AUSTIN: Immunity is in my name! 
+
+ART: Yeah.
+
+KEITH: Fellas. Don't get me wrong, I'd love to be tortured today, I just need to see that permit!
+
+[laughter]
+
+AUSTIN: Three? 
+
+ART: Um. I sure did have a three when I started this list. 
+
+[AUSTIN laughs]
+
+JACK: Oh, is it about deliberately giving up information? 
+
+ART: It's about like… I think it's more about like making it seem like I'm giving them information when I'm not, right? The like… like, giving them misleading information that like, sounds true. 
+
+AUSTIN: About what all happened at the, during the mission.
+
+ART: Yeah, in— in various ways of like aggrandizement too, right?
+
+AUSTIN: Yeah.
+
+ART: Like… oh, they were gonna. But… I really fixed this problem for us.
+
+AUSTIN: Long term, it's dealt with.
+
+ART: Long term, it's dealt with. You don't have to worry about it at all. Like, maybe for like a second, but like, nothing, nothing serious. The problem with that is like, it is saying yes they like—
+
+AUSTIN: Mhm.
+
+ART: It's saying yes in the wrong way?
+
+AUSTIN: Yeah.
+
+ART: And like, the act of convincing this person who just wants like a yes or no question, or like—
+
+JACK: [cross] Yeah. And it might not match with what Cysanth knows, either?
+
+AUSTIN: Right.
+
+JACK: Like, we don't know what she knows. 
+
+AUSTIN: Right.
+
+ART: Right. 
+
+AUSTIN: There's also the version of it where you actually go the hard, the other direction and go, leave? They were having a blast on this mission! [JACK laughs] You should give us more flexibility! Blah blah blah. Right?
+
+KEITH: They saved Clem!
+
+AUSTIN: Which is— I mean, that's true. A hundred percent. 
+
+ART: Yeah, that's a great, that's a great way too.
+
+AUSTIN: Where was your heart in this, in this set of options? 
+
+ART: I mean, as someone who's like, I'm, as someone who's like, wants credibility out of this.
+
+AUSTIN: Yeah.
+
+ART: I want the like… I want the shot of them like taking Sovereign Immunity back and like, he's like a little roughed up and like, but like, they don't have the like… but it's nothing. That's the, y'know, in the, in the Law and Order episode about this incident.
+
+AUSTIN: Right. Law and Order: Partizan.
+
+ART: I guess that's not… Yeah. You know, Law and Order, the famous show where police beat the crap out of people! 
+
+AUSTIN: [laughs, sighs] In, in the PZ, instead of the Oz. Not the Oz, it's just called Oz. Right? It was just called Oz?
+
+ART: Just Oz, yeah.
+
+AUSTIN: Yeah. Pzzz doesn't have the same flow. Do Leap and, and Milli see you being taken away and brought back?
+
+ART: I hope so, that's the whole point.
+
+AUSTIN: Then yeah, then yeah. Let's say that…
+
+ART: Yeah.
+
+AUSTIN: That they both do. And—
+
+ART: I just need— I need credibility, I can't be a…
+
+SYLVIA: Yeah.
+
+AUSTIN: Right.
+
+ART: I can't be… seen as a—
+
+AUSTIN: And we're not saying you secretly said to the inner interrogator, I need credibility, rough me up a little bit os it looks like i— You know, you tried to get me to break.
+
+ART: No, this is just me to, I need, I'm—
+
+AUSTIN: I need.
+
+ART: I'm just trying to book the territory here.
+
+AUSTIN: Yeah, I get you. Great! Good. Alright, so there's our entanglement. I guess Leap and Milli, do y'all, seeing this, do you read it the way that Sovereign Immunity doesn't hope, but the way Art hopes here, which is like- wow, okay, yeah!
+
+SYLVIA: [cross] Yeah. It definitely makes me think… more of him? 
+
+AUSTIN: Okay.
+
+SYLVIA: Like… Before, like I've, it's kinda clear in my like… belief with Sovereign Immunity that I don't think much of his capabilities?
+
+AUSTIN: Right.
+
+SYLVIA: But this kind of like, proves that wrong a little?
+
+AUSTIN: Cool. We should go over beliefs actually, really quick. Now you bring them up. Milli, do you wanna do that?
+
+SYLVIA: So, my beliefs starting with Sovereign Immunity are: A history with Kesh and he's pals with the warden? I definitely can't trust this guy. So…
+
+AUSTIN: Yeah. 
+
+SYLVIA: Y'know. We're already working on it.
+
+AUSTIN: Uh huh!
+
+SYLVIA: With Exeter Leap, it is Leap was a pirate? Maybe I could join his crew. And then finally, with Clementine Kesh, we have Clementine has no business being here. She's going to get me killed.
+
+AUSTIN: Uh huh. Leap, you wanna read yours?
+
+KEITH: Yeah, so um… With Sovereign Immunity, it's Sovereign Immunity is playing in a bigger game than anyone else here. With Million, it's I bet there's something expensive around here, and I bet Million would help me steal it. And with Clementine, it's Clementine's job is to keep us around, and I don't think she can do her job.
+
+[SYLVIA laughs]
+
+AUSTIN: Sovereign? 
+
+ART: For Clementine, it's Clementine's affections are my ticket off this lousy rock. For Million, it's I am a scalpel, I'm not sure I have need of a hammer. And for Exeter, it's I love a scoundrel, I hate complications.
+
+AUSTIN: Alright. And Clem.
+
+KEITH: Too late, I think. 
+
+AUSTIN: Yeah. 
+
+JACK: My connection with Sovereign Immunity—
+
+ART: You can hate things that happen all the time! [AUSTIN and JACK laugh] That's what the world is. 
+
+KEITH: I mean, too late for avoiding complications.
+
+AUSTIN: Yes, yes. Go ahead Clem.
+
+JACK: When Sovereign Immuity's loyalty to my family was tested, he failed. He is not to be trusted. Million may prove an effective bodyguard. And Leap is a loose cannon. I will make him a useful one. 
+
+AUSTIN: You also have a clock with your rival, which has actually been ticked once, and I'll explain why after you read the belief. 
+
+JACK: Gucci Garantine is hiding something. 
+
+AUSTIN: And when you, again I'll just read from the book here, "The rival connection clock can increase in two ways. The rival inflicts a consequence on the pilot, or the pilot adds one tick to the rival's challenge clock. Each of these can add a tick once per mission and downtime. When the connection clock fills, the pilot takes one XP and asks a question about their belief with the rival, which the GM must answer truthfully." That only ticked once because while the rival absolutely harmed you, you did not ever incur a tick on her clock.
+
+JACK: [cross] No.
+
+AUSTIN: Though, though, Milli and Leap did, you did not. So. But hey, a tick is a tick, and maybe you'll, maybe you'll tick the clock during, during downtime, we'll see. Alright, so speaking of downtime, we are now ready to get to downtime proper. Does anyone have something that they're like, I know this is what I wanna do right away. 
+
+KEITH: Yeah, I have one of those and a question.
+
+AUSTIN: Sure.
+
+KEITH: Potentially two questions. For a long term project, can you use a long term project as an end to get another tick on a drive?
+
+AUSTIN: Absolutely. 
+
+KEITH: Okay.
+
+AUSTIN: One of the ways that you can get a drive clock— or drive, yeah ticks, is pretty explicit, it says if they complete a long term project that furthers their drive, they can add one tick to a drive clock, in addition to the normal benefits of completing that project, so yes.
+
+KEITH: Okay. Can I do two long, long term project actions in one move? If they are two different projects.
+
+AUSTIN: You would be taking two of your moves to do two different long time actions. Long term projects.
+
+KEITH: Right, yeah, okay.
+
+AUSTIN: So, yeah.
+
+KEITH: So there's not a rule against like, you can only do the long term project action once per.
+
+AUSTIN: You can do any of these as many times as you want to, I believe.
+
+KEITH: Okay.
+
+AUSTIN: There, there end up being rules around things like, if you repeat one multiple times, like the thing we talked about with collect, right, where it's like hey, does the fiction fall apart here?
+
+KEITH: [cross] Right. Yeah, yeah yeah.
+
+AUSTIN: But if you wanted to spend— you have three actions, you can do those actions doing whatever the hell you want, basically.
+
+KEITH: Okay. And the thing that I actually wanna do?
+
+AUSTIN: Yes. 
+
+KEITH: Is figure out… my robot friend that I have found. 
+
+AUSTIN: Yeah, awesome! Figure A, sure. So yeah, that, that to me sounds like a long term project, Keith.
+
+KEITH: Okay.
+
+AUSTIN: Where is Figure A at? 
+
+KEITH: Backpack. 
+
+AUSTIN: I guess my question is— do you get to store them in the prison, are they taken from you and stored in a part of the Rapid Evening facility?
+
+KEITH: [cross] I—
+
+JACK: [cross] I— Oh, go on.
+
+KEITH: Okay, I mean no, Clem, if you have an idea. 
+
+JACK: I don't think that, that they would've been allowed into the prison without the existence of Figure A kind of… getting to Kesh?
+
+AUSTIN: Mhm.
+
+JACK: Unless like, steps were taken to hi— what pronouns does Figure A use?
+
+AUSTIN: Figure A is they/them.
+
+JACK: Yeah, without specific steps taken to like, hide them…
+
+KEITH: I had taken steps to hide them when I found them?
+
+AUSTIN: Yeah, but I think—
+
+KEITH: But then we sort of like…
+
+AUSTIN: We end this session when you get back on the boat when everyone leaves.
+
+KEITH: Yeah.
+
+AUSTIN: I don't know that it's like come back to your— 'cause you're not in, you're being held in a prison, even with— Even with, they have to make sure you don't have guns on you.
+
+JACK: Yeah, I think you go through multiple security checkpoints, like first at the transport, and then through several sets of gates and then into the amin building, and then like, et cetera.
+
+AUSTIN: Right. One of the things that we realized by the way, in between sessions is—
+
+JACK: Oh!
+
+AUSTIN: The way you get between the Rapid Evening facility that's in the basement, the hidden basement of the round house at the Winter Palace, the round house being like a train depot, depot. And the prison, which is in the kind of military wing of Cruciat the city, is of course, you take a train. There's some sort of cool armored train with no windows or like, limited windows, like the window slits.
+
+JACK: When we say cool armored train, we mean like, deeply frightening train.
+
+AUSTIN: Terrifying armored train. For sure.
+
+JACK: Representative of many awful things.
+
+AUSTIN: Yeah, like all like, dark metal, y'know, steel. Dark, dark iron. 
+
+JACK: you know when you're on a platform and—
+
+AUSTIN: [cross] An angled front. 
+
+JACK: And a train passes through without stopping?
+
+AUSTIN: Yes.
+
+JACK: And they're like, this train will not stop at this platform, and then something just goes like blaaah!
+
+AUSTIN: Yeah. That's…
+
+JACK: Really really fast. That's this train all the time.
+
+[00:45:00]
+
+ART: [cross] This is a real wow cool robots moment, I think.
+
+KEITH: Unfortunately, Jack, trains are much, much slower in this country than in any other country in the world?
+
+JACK: Hmm! Okay, I see.
+
+AUSTIN: [laughs] Yeah.
+
+JACK: Okay, yeah.
+
+SYLVIA: I got it.
+
+JACK: Thanks, Sylvia.
+
+AUSTIN: [cross] Ooh, nice. Good! So yeah, I think, that's not me saying you can't do this long term project.
+
+JACK: No, I could tell you where Figure A is, and I'm sure that we could make arrangements for you to see Figure A. 
+
+KEITH: Okay, yeah, that sounds— I mean that sounds maybe even like, part of the long term project, like? I assume we don't have to work out all of the different steps, but.
+
+AUSTIN: No, no I, but, we, my question—
+
+KEITH: Then it's a question of why it's a long term project probably, because I have limited access.
+
+AUSTIN: You have limited access, and on top of the fact that it's just difficult to do, so what is your long term plan here with Figure A?
+
+KEITH: I mean, I guess I right now my plan is like, get them to… like, in an operational condition.
+
+AUSTIN: Yeah, okay.
+
+KEITH: 'Cause it seems like they're not working?
+
+AUSTIN: Yeah.
+
+KEITH: Like, I can't, I can't… I don't, I can't have any ideas about like, even what, what it is that I've found without…
+
+AUSTIN: Right. Totally.
+
+KEITH: Like, yeah. Who knows.
+
+AUSTIN: Where would you even go from here? So.
+
+KEITH: Yeah, exactly.
+
+AUSTIN: The way long-term projects work is that you write a clock down on your long term project— excuse me, on your long term project list, which is under your damage, it's like next to vehicle gear and contacts and stuff? In this case let's say, repair Figure A. Or bring FIgure A back online or something like that. I think repair probably makes sense. Then you roll an appropriate action. And then based on your roll, we get to mark a certain number of clocks. I think this is a six step clock?
+
+KEITH: Okay. 
+
+AUSTIN: Which is—
+
+KEITH: [cross] Just for this initial thing of, of— getting them to turn on?
+
+AUSTIN: Basically this is like getting Figure A turned on, in a state where you could talk to them.
+
+KEITH: Okay.
+
+AUSTIN: Where they could be a, where they could return to being a full person?
+
+KEITH: Okay.
+
+AUSTIN: And it's complicated, every time you make a roll we'll talk through what that roll means and—
+
+KEITH: Okay, yeah.
+
+AUSTIN: If there is new nfo, you get stuff like that. But, but itis' a, it's a… y'know, this would've been a longer clock if you had rolled more poorly when you had first kind of jump started them?
+
+KEITH: Mhm.
+
+AUSTIN: And a shorter clock if you had fully succeeded, was kind of a fortune roll at the time to see what type of state they were in, 'cause it's been a long time since they were there.
+
+KEITH: Thousands of years!
+
+AUSTIN: Thousands of years, yes. Give me a… see this is, I think this is an… probably an Engineer roll. Which you don't have anything in? You can get bonus—
+
+KEITH: I Have Destroy! This is opposite of Destroy. That's vehicle actions.
+
+[JACK laughs]
+
+AUSTIN: That's a vehicle action, yeah. 
+
+KEITH: ENgineer…
+
+AUSTIN: It's like, Engineer maybe it's Interface, but I dn't think it's interface because it's not… 
+
+KEITH: I have, I have one pitch to you. This is the very first action here?
+
+AUSTIN: Yeah…
+
+KEITH: And it might be Survey, which I guess isn't even—
+
+AUSTIN: [cross] It's not Survey. 
+
+KEITH: [cross] That's not, that's different than just like, looking over something.
+
+AUSTIN: Ah, well. You could diagnose with what destroyed a vehicle, but Engineer might be better. I would lean on Study, but you don't have Study, either. Yeah. I think Survey is a—
+
+KEITH: I'll roll Engineer!
+
+AUSTIN: I think Survey is a reach? Someone can help you, and give you a plus one die for free?
+
+SYLVIA: I— Yeah, I was gonna say, I could probably help, 'cause I have— I have either a point in Study, a point in Survey, or a point in Interface? 
+
+AUSTIN: [cross] Yeah. Yeah.
+
+KEITH: [cross] Right.
+
+SYLVIA: Which all fele applicable
+
+AUSTIN: Totally.
+
+KEITH: Yeah. 
+
+AUSTIN: You could also spend one personnel point for a plus one die here, or to increase the result by one level, which, which, not the dice result, but the actual overall result which is better.
+
+KEITH: Like, the quality?
+
+AUSTIN: [cross] The quality. Yeah.
+
+KEITH: Yeah.
+
+AUSTIN: Like the— basically going from—
+
+KEITH: Great effect.
+
+AUSTIN: Right, right, exactly, exactly. More or less. So, right now with Sylvia helping, it's 1d6. 
+
+KEITH: 1d6.
+
+AUSTIN: Or with, with Milli helping.
+
+KEITH: Right, instead of two and take the lower. 
+
+AUSTIN: Yeah. Exactly, exactly.
+
+KEITH: It's one.
+
+AUSTIN: Exactly, yes. 
+
+KEITH: And then I'll push myself, 'cause I have no stress.
+
+AUSTIN: Alright, go for it. Or that's not true, that's not true, that's not true, you have three stress.
+
+KEITH: I have three stress—
+
+AUSTIN: Yes.
+
+KEITH: And I'm missing that whole first segment.
+
+AUSTIN: You're missing the whole first segment, yeah. 
+
+KEITH: Yeah.
+
+AUSTIN: 'Cause its filled in. But listen, that's actually not a bad thing because that means you could probably cut loose and have a lower risk of overindulging, which we'll get to when we get to cut loose.
+
+KEITH: Right.
+
+AUSTIN: So you'll push yourself for a second die.
+
+KEITH: Um, yeah, I'll push myself for a second die.
+
+AUSTIN: Okay. So 2d6.
+
+KEITH: Roll… 2d6. That's a six!
+
+AUSTIN: That's a six! That's a six. Look at you! 
+
+KEITH: That's what, three segments?
+
+AUSTIN: That is three segments. So you're halfway there.
+
+KEITH: Nice. The best you can do is five on a crit, which is…
+
+AUSTIN: Yeah. Which is two sixes.
+
+KEITH: Yeah.
+
+AUSTIN: Which you still almost got. So what's this look like, in terms of doing— how do you begin diagnosing a robot who has been shut off for thousands of years? Theoretically kept up for many of those years as part of…
+
+KEITH: [cross] Yeah.
+
+AUSTIN: Some sort of general, you know, it was in a museum, it was taken care of so people could theoretically look at it.
+
+KEITH: Yep. So— 
+
+AUSTIN: [cross] You find— yeah, go ahead. 
+
+KEITH: I'm not an engineer. 
+
+AUSTIN: No. 
+
+KEITH: Million, she's not an engineer.
+
+AUSTIN: No?
+
+SYLVIA: No. 
+
+KEITH: But! When—
+
+AUSTIN: But she has a robot! She does have a robot.
+
+KEITH: She does have a robot. But… [AUSTIN and SYLVIA laugh] But I also, I also have a robot here.
+
+AUSTIN: Uh huh, that's true!
+
+KEITH: And last time I turned them on, they didn't say—
+
+AUSTIN: [cross] Oh, I thought you were talking about yourself.
+
+SYLVIA: Yeah!
+
+AUSTIN: I thought you were like, I also have a robot here: me!
+
+KEITH: Oh, no. [laughs]
+
+JACK: It's me! [laughter] Taps head three times.
+
+KEITH: No— [laughs] Um, it's me! Holding up my, my flesh and bone hands that I have.
+
+[AUSTIN groans] 
+
+JACK: This is a robot to me!
+
+KEITH: But last time I turned Figure A on, they did turn on for a second, right? They were like, they turned on, and then just turned back off.
+
+SYLVIA: [cross] Yeah.
+
+KEITH: They turned on, said some stuff, turned back off.
+
+SYLVIA: We um, we hooked it up to the… I think it was, you hooked it up to your battery for a bit?
+
+AUSTIN: Yes.
+
+KEITH: Yeah.
+
+SYLVIA: And then up to my…
+
+AUSTIN: Yeah.
+
+SYLVIA: My RUNT.
+
+KEITH: Right. 
+
+SYLVIA: And then it said like, bluebird and then it talked a little.
+
+KEITH: So I think maybe what it looks like is we get a battery and…
+
+AUSTIN: Right! Sure.
+
+KEITH: We, we try and figure out— we turn, we turn them on and try to figure out like, hey, do you know what's up?
+
+AUSTIN: Yeah. 
+
+KEITH: 'Cause we don't know.
+
+AUSTIN: Right. So I think you— there's like a, a little bit of a montage here.
+
+JACK: Oh, can I be here during this scene? I just want to like, state that upfront.
+
+AUSTIN: I'm gonna say up top, I think narratively, Clem can be anywhere in the Rapid Evening place… whenever she wants to? Barring someone taking precautions against that?
+
+JACK: Right.
+
+AUSTIN: In which case I think what we do as authors is say, I think it's more interesting if they found a way to do this privately? But I think that that's—
+
+JACK: [cross] To do this secretly, yeah.
+
+AUSTIN: Yeah, but I think that that's a, I think that that's a, that  should be a group decision, and it should be… It should— to represent— for me, to represent that, I think we should start at the idea if we have to default one way or the other, Clem's access should be considered on unless we as authors decide hey, that's not what I want here.
+
+JACK: This makes more sense, or is more interesting if…
+
+AUSTIN: Right.
+
+JACK: [cross] Clem can't see this or isn't here.
+
+AUSTIN: [cross] So, you still have to ask, obviously, it is still their scene. 
+
+JACK: Yeah! Yeah.
+
+AUSTIN: It is still Milli and Leap's scene, but. So did y'all, are you—
+
+JACK: [cross] Just like, very passive. 
+
+AUSTIN: Doing this quietly, or like, privately somehow? Or… Is Clem able to watch?
+
+KEITH: Ooh…
+
+SYLVIA: I'll let Keith decide this, 'cause it's his project.
+
+KEITH: Um…
+AUSTIN: I guess maybe the note here is you're probably being filmed no matter what, right?
+
+KEITH: Yeah.
+
+SYLVIA: Oh, that's fun.
+
+AUSTIN: Uh huh.
+
+KEITH: Yeah, then I guess I don't bother. I—
+
+AUSTIN: [cross] At least not yet. 
+
+KEITH: Here's what I'll say, I'm not… I'm not, I asked for permission.
+
+AUSTIN: Right.
+
+KEITH: To do this, 'cause otherwise I wouldn't even be able to get there.
+
+AUSTIN: Yeah, yeah.
+
+KEITH: But I'm not going to tell her that I'm, when I'm doing it.
+
+AUSTIN: Sure.
+
+KEITH: Like, I'm not gonna give her an invite.
+
+AUSTIN: Yeah. 
+
+KEITH: And so if she is there, it's cause she figured out…
+
+AUSTIN: Yes.
+
+KEITH: Like, how, how to be there when I'm there.
+
+AUSTIN: i like that. 
+
+JACK: Yeah.
+
+AUSTIN: Then yeah, sure, you're there, and… I think the first like, day of this, is them basically saying… uh… [sighs] "There isn't enough data. There isn't enough data." Like, over and over again. And one of the things that you learn over the course of this week of working on Figure A is that they… are tuned in such a way that they require, they're used to an incredible amount of stimulus. They are…
+
+KEITH: From the, frontal…?
+
+AUSTIN: From the outside, basically.
+
+KEITH: Oh, okay.
+
+AUSTIN: From anything, from whatever it is. In some ways, I think you actually learn that they felt really comfortable in the midst of that battle? Because so much was going on. If that makes sense, like… for you, as a trained pirate, you feel, not, maybe not at ease there, but comfortable in something like a conflict. They felt… great, like, compared to now, in the, the, y'know, converted workshop or whatever that you're working in, this is, in fact wait, oh wait, you might need— you might have a second die. I need to double check something. What's Workshop give you? Does Workshop only give you shit when it comes to… 
+
+KEITH: Oh yeah, this does sound like a thing I would use Workshop for.
+
+AUSTIN: Yeah. [reading] "Space filled with tools, materials, and database, such that long-term— such that long-term projects, salvage, and fix time downtime actions can be worked on without leaving the F.O.B. I'll still give you one more die for this. Roll me one more die. 
+
+KEITH: Five.
+
+AUSTIN: [cross] Alright, so it doesn't make a difference. But hey, if it had been a six, that would've been sick.
+
+KEITH: Yeah.
+
+AUSTIN: So that's like, the main thing you learn here is that you are able to like, re-tune Figure A a little bit/ So that they can kind of drop down from their high. I don't think you remove that other mode from them in any way?
+
+KEITH: Right.
+
+AUSTIN: But one, yeah, you get them—
+
+KEITH: So I figure out how to lower this, I didn't just put them in front of nine TVs.
+
+AUSTIN: Maybe you also did that.
+
+KEITH: Like Back to the Future. 
+
+AUSTIN: That's kinda funny too, is that what you did first? 
+
+KEITH: Yeah! Yeah, let's bring 'em, bring 'em to like—
+
+AUSTIN: [cross] Play them more music, yeah!
+
+KEITH: Yeah!
+
+AUSTIN: Look at more TVs. I actually love that scene! Yeah, you put them in a bunch of, in front of a bunch of TVs, and it is… and maybe this is a day, Clem, where you're actually busy, because maybe there is like a state funeral for Cymbidium? 
+
+JACK: Hm!
+
+AUSTIN: And that's one of the things on TV right, or on the broadcasts is, is like, the state funeral for Cymbidium, there's a couple of different, y'know, in the Rapid Evening HQ you probably get that footage from Stel Nideo, from Stel Kesh, from Stel Columnar. You get, y'know, you're playing some old cartoon tapes, you're playing stuff from the Palace's history of Partizan, and they start picking out things that are happening that are very small that you, you can notice, but you don't notice right at, y'know, at first.
+
+KEITH: Right.
+
+AUSTIN: Small things like, like um, in terms of patterns that are emerging, in terms of y'know, things that're being left out. You know, they're talking about how like, the elect was killed in a conflict in the town of Obelle, between y'know, members of the Apostolosian and Kesh forces. You know, they pick out really quickly that like, specific numbers are never given, or they, they figure out how many numbers are being given. They're also just able to respond to any question you have about any screen pretty much instantly. They are, they are, they have been hooked into a machine that has been the biggest like, they spent their lives— their life, uh, looking at and incredible flood of data. And so, and so yeah, as long as they're tuned in that mode, they can kind of comprehend things at that high level very, very, very, very easily. But yeah, you're able to like, put in a, not a failsafe or a switch, but like some other, some other mode that slowly eases them into a mode that they're more comfortable talking to you. But they're still not, I think there's just a degree of— they're being overwhelmed by not being the, the, in the role that they had been in before. 
+
+KEITH: Right. 
+
+AUSTIN: And so they are not very open about who they are, or what they know. They'll answer very basic questions, they will say that their name is Figure A. And that… they, and that's probably about, I think that they're probably very secretive about their particular history or what they did or, or… or anything like that. Are there questions you ask before I just have a hard no? 
+
+KEITH: [sighs] Secretive about their particulars…
+
+AUSTIN: Yeah. Which means they give you like, well, what were you doing on Past, they will like, I think that they'll actually be like, what was Past? What is Past? [KEITH and JACK laugh] Y'know? Which is actually knowledge, right, they don't know what Past is, which  is interesting.
+
+KEITH: Right. So, I… um. I think I ask in a, sort of like a hospitality way, like, not, not like in a bribery way, like, is there anything you need? Like.
+
+AUSTIN: Right. Um… I think that they—
+
+KEITH: [cross] Like, I'm a robot and I need to eat a lot of food.
+
+AUSTIN: [cross] Yeah. Right.
+KEITH: So I'm like, do you need food? [laughs]
+
+AUSTIN: [laughs] I think that they say, um… [sighs] I think that they, they do straight up say like, I have not had primary, I have not had primary… "There are major components that have not been restored in quite some time. I can provide a list." And then just immediately starts speaking through this long list of, of components, many of which you've never heard of before. So y'know, there's some things where it's like, circuit, y'know, y'know, whatever uh, what's a, what's a component that goes in a computer? You know, like, you know, memory, memory unit twelve is defunct, or something like that, but other times they're talking about a type of technology that…
+
+KEITH: Memory unit twelve was the one I was gonna say too.
+
+AUSTIN: Okay, wow, really? We were linked up on that, perfect, love it.
+
+KEITH: [laughs] Yeah! 
+
+AUSTIN: Um, a verbo-brain, they need. [KEITH laughs] For real ones only. The, the, but they do start to say stuff that is, that may as well be Star Trek, do you know what I mean?
+
+KEITH: Yeah, yeah.
+
+AUSTIN: In terms of like, oh yeah, they're, their crystal selfhood isn't working, or whatever. And like, that's not a thing that you can go to the shop and get! I guess like, I wills ay a little background here for people who, this is a character who first showed up in a short fiction episode of Twilight Mirage. As like, one third of that in, in one third of that episode. And they were a robot who basically applied to work on a, inside of what would become Past.
+
+[1:00:03]
+
+AUSTIN: [cont'd] And… they, they were not, I will say this, they were not always tuned such to where they need that big deluge of information? But they eventually became so, so used to that. And so this is I think a big process of like, bringing them back down. And trying to figure out like, that's technology from a different era. That's technology that like, doesn't exist most places anymore, because of the, um, the Perennial Wave. So it's a lot of like, how do I refit this, this machine, you know like, have you heard the thing of like, it would be really hard, you can't just like pull old spaceships out of storage and use them again, because the factories that were used to build the components for like, the, Apollo rockets have been shut down, you have to spin the factories back up again and rebuild—
+
+KEITH: Right.
+AUSTIN: Relearn how to build that stuff? It's sort of that, right? And so it's gonna be a process of like, making do. Of finding things that basically work to the same degree.
+
+KEITH: [cross] Yeah. Or like uh, another, I mean I guess this is not important, but like in, you, you, when you're… building stuff for like, war or whatever you just, you turn a bunch of regular factories that make regular things into like—
+
+AUSTIN: [cross] Right, right.
+
+KEITH: Things that make like, helmets and.
+
+AUSTIN: Right.
+
+KEITH: Shit like that, and then they switch it back, and it's like oh, that stuff is you know, those factories are gone now.
+
+AUSTIN: [cross] Totally.
+
+KEITH: 'Cause they never really even existed. 
+
+AUSTIN: Totally. Though I will say, the fact that like Stel Columnar exists means that you will be able to find stuff— there are plenty of robotic frame bodies, there are plenty of basic things for making sure oil is moving through your body well, or making sure that your electrical charge is stored well. In fact, in some ways, it might be better stuff than what was available for, for them, because they lived in a time and place where synthetic beings were not necessarily thought of as full people, y'know? 
+
+KEITH: As someone from there, do I have some idea of like, what I could do to…
+
+AUSTIN: Yeah! 
+
+KEITH: Okay.
+
+AUSTIN: Yeah, and that's why you get to roll again, right, on a—
+
+KEITH: Yeah.
+
+AUSTIN: On the project in the future. 
+
+KEITH: Yeah.
+
+AUSTIN: Is that you'll get to— you know— yeah, you know what, I think I could, I think I can call up someone who's a supplier of this stuff, y'know? I know who, you know who you would call if you needed to replace something, some part of your interiors—
+
+KEITH: [cross] A verbo-brain or a memory twelve unit.
+
+AUSTIN: [cross] A verbo— or a memory twelve unit, exactly. A mem twelve. Alright. Who else has a thing they wanna do here? And we can wrap back around to your other stuff too Leap, for sure.
+
+JACK: Um… I could… I'm, I'm thinking about the Panther, which.
+
+AUSTIN: Yeah.
+
+JACK: Didn't have the best time.
+
+AUSTIN: Yeah.
+
+JACK: In the last session. And I'm thinking about repairing it, which is the… What is that action called? Fix. 
+
+AUSTIN: Fix, yeah, 'cause that thing actually has been damaged. 
+
+JACK: It has been impaled.
+
+AUSTIN: Yes. You—
+
+JACK: What did it get impaled by? 
+
+AUSTIN: The… partisans, the partisan of Gucci Garantine's mech, I believe.
+
+JACK: Independence mech. Yeah.
+
+AUSTIN: Independence— Well, it, it's, please, it's called the Transgress Oblige—
+
+JACK: Oh, yes, sorry.
+
+AUSTIN: Which I said Transgress Obligé last time? And no one stopped me, and I've said like, Noblesse Oblige many times into this microphone, and it makes me wonder— did, were we doing a bit? Was obligé a thing that I don't remember?
+
+SYLVIA: I—
+
+JACK: Transgress Obligé— well, it. Y'know, maybe sometimes words need additional accents in there, y'know?
+
+AUSTIN: Apparently! Anyway.
+
+ART: Yeah, what do I know, every French word?
+
+[JACK laughs]
+
+AUSTIN: No, but I know oblige, that's the thing! That's the thing, it's the joke! The joke is on Noblesse Oblige! Anyway. 
+
+JACK: [reading] "When you use technological know-how and materials to fix a vehicle—"
+
+AUSTIN: [cross]  Yes. 
+
+JACK: [reading] "Roll Engineer." Hah!
+
+AUSTIN: Uh huh!
+
+JACK: This is gonna be the episode of people trying to roll Engineer.
+
+AUSTIN: [laughs] Yeah, so I'll note—
+
+JACK: [cross]  So if you—
+
+AUSTIN: The only reason you're even allowed to do this is 'cause you have a Workshop unit, without it costing you stress.
+
+JACK: With, yeah, 'cause the next sentence is "If you lack a Workshop squad upgrade," We have a Workshop squad upgrade, "It costs two stress to repair your vehicle, as you lack the proper equipment to do repairs. The damaged vehicle marks segments on its mend clock, according to the Engineer result. One to three, one segment, four to five, two segments, six, three segments, crit, five segments. When the mend clock is full, reduce each detail of damage the vehicle has by one level." Interesting! So I, I bring impaled down to, I don't know, [laughs] some corresponding impaled on—
+
+AUSTIN: [cross]  Yeah, yeah.
+
+JACK: On a level one harm.
+
+AUSTIN: You know, patched, or like…
+
+JACK: [cross]  Yeah, yeah, yeah.
+
+AUSTIN: Something like that, right?
+
+JACK: Tarnished, or like, y'know. I mean, tarnished suggests something more aesthetic than…
+
+AUSTIN: [cross]  Frayed, frayed wires, y'know?
+
+JACK: Yeah.
+
+AUSTIN: Like oh yeah, we covered it up, but the wires in there still aren't workin' right. 
+
+JACK: Mhm.
+
+AUSTIN: Leaky, something like that, y'know?
+
+JACK: Right, right right!
+
+AUSTIN: I'll also note really quick, and we can talk about how this, how this works, 'cause we're still really early on in the season, we haven't really talked about certain things here like, like character harm. You, you have a level one harm here.
+
+JACK: I do, yes.
+
+AUSTIN: Called dazed, which will affect all rolls you do.
+
+JACK: Ah, fuck! Okay, so maybe I want to do— [laughs]
+
+AUSTIN: But I— we need to decide whether or not that has cleared yet? Um, If that—
+
+JACK: Yeah.
+
+AUSTIN: If that cleared automatically or if that requires you to uh, do something.
+
+JACK: To take a healing action.
+
+AUSTIN: So I need to look up how harm works again.
+
+JACK: Yeah.
+
+AUSTIN: Which is a thing I should know off the top of my head, but I do not. Let's see.
+
+JACK: Let's look that up, because that will absolutely change the order I make these moves in.
+
+AUSTIN: Mhm. [reading] "Harm represents an enduring affliction. This could be an injury that hurts the pilot physically, mentally, emotionally, or socially, as is suitable to the situation. When a pilot suffers harm, the GM gives a descriptor of the harm in a numerical level to describe the severity. For example, getting kicked might produce the level one harm, but getting kicked off a roof could be the level three harm concussion. [JACK laughs] The nature of the harm applies to what a— If the nature of the harm applies to what a pilot is currently doing, they receive the penalty associated with that level's injury. A level one causes reduced  effect, level two gives you minus one die, level three means the pilot cannot act without pushing themselves or receiving assistance." It… uh. Is it just recovery? Reco— so Recover is the action. I think you, I think you still have it. I don't think you just clear…
+
+JACK: [cross]  That makes narrative sense, like?
+
+AUSTIN: Yeah.
+
+JACK: I'm trying to think about what it'd be like if I had… I mean, dazed is, dazed is a, is a thing that people experience, but I'm trying to think about if we had like a more concrete physical thing, we'd be like, do we want to carry this into the next scene and the answer would be like, probably yes.
+
+AUSTIN: Yeah, I, I like the idea of… um. I like the idea of you carrying level one harm… this specific level one harm, which is dazed, from seeing the interior of the Transgress Oblige, which is this crystalline sculpture of a mech slash of, of the face of the future and potential of humanity. Carrying that with you is kind of great.
+
+JACK: [cross]  Yeah, especially because—
+
+AUSTIN: [cross]  Especially coming off of— yeah, go ahead.
+
+JACK: I, I imagine it, it wraps itself up in a bunch of other—
+
+AUSTIN: [cross] Yes. 
+
+JACK: Compounding feelings! Right? So like, every time I look at the Panther.
+
+AUSTIN: Yeah.
+
+JACK: Which is being presumably like, carried on those great um, you know those great vehicles that they put space rockets on to take 'em to the launch pad?
+
+AUSTIN: [cross] Yeah, yeah.
+
+JACK: Like, I imagine those vehicles are like buzzing around the base, bringing mechs from place to place, and like every time I see it there's probably guilt at…
+
+AUSTIN: Yeah.
+
+JACK: Or a feeling of inadequacy and I think that all of that stems from seeing the interior of the Transgress Oblige. Obligé.
+
+AUSTIN: Let's go with Oblige. 
+
+JACK: Is this an Ibex [ee-bex] Ibex [eye-bex] situation?
+
+AUSTIN: This is— I'm gonna immediately cut it and say Oblige. 
+
+JACK: Okay! Okay, it's Oblige.
+
+AUSTIN: I don't know what I was doing and, maybe there was something in the worldbuilding episode where— I remember in the worldbuilding episode there's a bit where I got excited about naming a mech that the Noblesse Oblige, except privately I immediately wrote myself, aha, I will call it the Transgress Oblige! That's fun. Uh, but, I can't imagine there was a reason why I pronounced it the way I did.
+
+JACK: No.
+
+AUSTIN: Anyway! Anyway, anyway.
+
+JACK: Okay! Yeah, let's take it. Let's, let's have that. Let's have that.
+
+AUSTIN: Okay. So do you want to instead of trying to fix your mech first…
+
+JACK: Totally. I want to— 
+
+AUSTIN: [cross] Recover.
+
+JACK: I want to try and sort out the thing that will cause me problems fixing the mech.
+
+AUSTIN: Okay, then we have a secondary question here!
+
+JACK: Oh, great!
+
+AUSTIN: Which is, there are in the book, alternate healing rules for a campaign [reading] "where damage to pilots and their vehicles is less draining in a long term, consider this version: When the pilot performs the downtime action Recover, they remove all level one harm, even if they do not fill the healing clock. When the pilot performs the downtime action Fix, they remove all level one harm— level one damage from their vehicle, even if they do not repair, fill the repair clock." Read Recover for me, and that will make more sense.
+
+JACK: Okay, I quite like this actually, this, this sounds good. When you get—
+
+AUSTIN: The way it's written already, you mean?
+
+JACK: No, no, no, the way you just proposed.
+
+AUSTIN: [cross] Oh, the way I just said, yeah. 
+
+JACK: [reading] "When you get treatment to heal your pilot's harm, you use the Recover downtime activity. To do this, you need to get medical care from a medic, veterinarian, auto doc, [AUSTIN laughs] or someone else with a good amount of anatomical knowledge. If none of the PCs can fill that need, and you don't have a contact who can either, an acquire asset action can get you access to the professional or machine that you need, which can then provide for the whole squad. Recovery is a long term project. Your healer rolls Engineer for a PC, or the doctor ability or the quality level of an NPC. And the patient marks segments on their healing clock, one to three one segment, four to five two segments, six, three segments, crit, five segments. When the healing clock fills up, reduce each instance of harm the patient has by one level, and then clear the clock. Any remaining segments roll over to the now empty clock. If you attempt to heal yourself and have the Doctor ability, you take two stress after you roll." [AUSTIN laughs] Yeah, I've seen the Knick, that's hard.
+
+AUSTIN: Yeah, that seems tough! 
+
+JACK: [reading] "If you want to just wait to spend your recover activity convalescing to heal naturally," interesting, "take one stress and roll…"
+
+AUSTIN: Zero dice, which is to say, two and take the lowest. 
+
+JACK: Oh, I see! Okay.
+AUSTIN: Yeah.
+
+JACK: I guess because you're just waiting, you're waiting it out.
+
+AUSTIN: [cross] You're like, I'm waiting it out! Yeah.
+
+JACK: And that is a stressful experience. 
+
+AUSTIN: Mhm.
+
+JACK: [reading] "Note that the pilot being healed is the one who takes the Recover activity. Healing a patient doesn't cost any downtime activities for the healer." Oh, you can just do it. "Whenever you suffer new harm, clear any ticks on your healing clock. You can spend one personnel point—"
+
+AUSTIN: That's brutal!
+
+JACK: I know! I know, you goof it up and it just goes!
+
+AUSTIN: Yeah.
+
+JACK: [reading] "You could spend one personnel point for plus 1d to the recover roll, or to increase the result by one level.
+
+AUSTIN: I like the alternate healing rule here, because I think it encourages y'all to—
+
+JACK: [cross] Especially in a campaign like ours.
+
+AUSTIN: Yes, exactly that, which is, I don't know how many, how many arcs we're gonna have, and I would like you to be able to heal level one harm in between missions? Without…
+
+JACK: Mhm. And level one damage.
+
+AUSTIN: And level one damage, without it taking two full actions? You know what I mean? 
+
+JACK: Yeah.
+
+AUSTIN: It also makes level two harm more fun, because level two harm is not fixed that easily, like the level two harm to your Panther. So who—
+
+JACK: It makes it feel like a, like a more, I guess more serious thing, right? If we have this new mechanic.
+
+AUSTIN: Totally, so how— how are you dealing with this level one harm dazed? You don't have a doctor, but also I feel like this is not a doctoring thing, so much as a… um. A psychological and emotional thing.
+
+JACK: So my options here are look for a tool?
+
+AUSTIN: Yeah.
+
+JACK: Or, take one stress and roll zero dice, right?
+
+AUSTIN: Or have a— or have a player do, be the, be… your healer in this.
+
+JACK: Oh, so you're saying it might just be another…
+
+AUSTIN: Yeah. I think it's possible that Sovereign Immunity helps you talk through this shit, right?
+
+JACK: Yeah! I was, I was absolutely thinking of that, yeah. I think I'd like to go for that. So, Sovereign Immunity is going to be rolling…
+
+AUSTIN: Uh huh!
+
+JACK: What do we think this is?
+
+AUSTIN: You tell me!
+JACK: Is this…
+
+AUSTIN: I think it could be… a lot of things. But I think it's probably… It's probably one of the Resolve actions.
+
+JACK: Is it Consort or Sway?
+
+AUSTIN: Yeah, I think it is. I think it is. 
+
+ART: Well, I have Consort and I don't have Sway.
+
+AUSTIN: I think you have Sway?
+
+ART: I only have one Sway.
+
+AUSTIN: Yeah, well.
+
+ART: Twice as much in Consort.
+
+AUSTIN: Twice as much, yeah, you're right, it is twice as much.
+
+ART: But Sway might be… hm?
+
+AUSTIN: Tell me what this looks like, then we'll decide based on that. On Clem's side, even, what's Clem…
+
+ART: Yeah.
+
+AUSTIN: When you go to him, where is this?
+
+JACK: I think I send for him.
+
+AUSTIN: Okay.
+
+JACK: I think I summon him to like, um. Where does Clem spend the day in the Winter Palace? I think it's like… like a parlor, like a receiving room, where there's like desks and sofas and big beautiful views of Cruciat. And like a drinks tray, and… [AUSTIN laughs] A big television— I think it's one of those weird rooms that like, conserve the dual function of being a place to spend time pleasurably? Or a place to spend time in business. 
+
+AUSTIN: Right.
+
+JACK: So there's like a, a um, conference call phone and there's also like, a television with some really standard DVDs or whatever. Whatever space DVDs are.
+
+ART: Can we, can we talk about this for a second though, 'cause I just read a really good article about um, open concept and how open con— like the origins of open concept?
+
+JACK: Oh damn! Yeah, go for it.
+
+ART: And it comes from like… originally, you showed how rich you were by how many rooms you had in your house. But like, the baller move was like, this is the room where all I do is read. [JACK and AUSTIN laugh] This is the room where all I do is eat breakfast. This is my like, that many rooms was like a status symbol. 
+
+JACK: Right.
+
+ART: And that like, what, what poor people had were rooms that did more than one thing.
+
+JACK: Hm!
+
+ART: Because they couldn't afford, y'know, to have a room for each thing they did. 
+
+AUSTIN: Right. So your pitch is that this should be the room for this exact thing.
+
+ART: Right, this is your…
+
+JACK: This is Clementine's.
+
+ART: Someone comes— yeah, this is, this is Clementine's room when, for when people come over and talk. 
+
+AUSTIN: [cross] [laughs] To help make it into—
+
+ART: [cross] About humanity harm! 
+
+AUSTIN: About humanity harm, right! Yeah!
+
+JACK: Yeah.
+
+AUSTIN: That is what this room is for!
+
+JACK: Yeah! [laughs] Yeah, great! Okay.
+
+ART: And it's very much just for that. It, I think the drink tray stays, drink tray was great.
+
+ [AUSTIN laughs]
+
+JACK: Is it like, two sofas?
+
+KEITH: [cross] You need a drink for talking about humanity harm.
+
+JACK: Mhm!
+
+ART: Yeah. Your, your mental health lounge.
+
+AUSTIN: Right! Sure! Sure, that feels…
+
+JACK: [cross] [laughs] God, I'd fucking love a mental health lounge!
+
+[SYLVIA sighs]
+
+AUSTIN: Me too!
+
+KEITH: [cross] It's got like a therapy sofa like, the long red sofa?
+
+AUSTIN: God.
+
+JACK: Oh my god… A sofa that I can just like stretch out on without having to put my legs over an arm of the sofa or something! Jeez.
+
+[1:15:05]
+
+AUSTIN: God. 
+
+ART: [cross] 	Yeah, and like a holographic cat or something.
+
+KEITH: [cross] You can sit there, but you actually make, you actually make your therapist, or in this case Sovereign Immunity, stretch out on the couch and you sit in the big fancy chair.
+
+[JACK laughs]
+
+AUSTIN: Incredible.
+
+KEITH: [laughs] Lie— lie down on this weird couch sofa and tell me what's wrong with me! 
+
+[AUSTIN sighs, KEITH laughs]
+
+JACK: So I think— I think— [laughs] I think Clem is wearing just like, uh, a blue turtleneck and like, uh, perfectly tailored trousers and an enormous pale blue shawl that she has just like, wrapped around herself. And she's holding like, some kind of a big mug in both hands. I think there's a knock on the door and, and Sovereign Immunity is shown in. 
+
+ART (as SOVEREIGN): Good evening, princess.
+
+JACK (as CLEMENTINE): [violently] That was a fucking shitshow. 
+
+[AUSTIN and SYLVIA laugh]
+
+ART (as SOVEREIGN): … Yes. Yes it was.
+
+JACK (as CLEMENTINE): All of that.
+
+ART (as SOVEREIGN): Uh huh!
+
+JACK (as CLEMENTINE): What the fuck happened? 
+
+ART (as SOVEREIGN): Um. Well. Y'know. There's… there's a process to all of this. You, you are learning how to, to confront these obstacles in your life, and you will find—
+
+JACK (as CLEMENTINE): [cross] Fuck the process! Fuck the obstacles! I don't give a shit, I want it done! I want to come away from that feeling like I, I, I achieved something. 
+
+ART (as SOVEREIGN): Well then you need to achieve something!
+
+[AUSTIN laughs]
+
+JACK (as CLEMENTINE): Fuck you! 
+
+ART (as SOVEREIGN): I'm just telling you what the truth is. You have to, you, to win you have to win. 
+
+JACK (as CLEMENTINE): You know they considered this a victory. It was chalked down as a V. 
+
+ART (as SOVEREIGN): Yeah, we—
+
+JACK (as CLEMENTINE): Or a W.
+
+ART (as SOVEREIGN): We did the thing, we got the—
+
+JACK (as CLEMENTINE): Well then why doesn't it feel like we did? 
+
+ART (as SOVEREIGN): Because—
+
+JACK (as CLEMENTINE): Two of my fucking charges just left! 
+
+ART (as SOVEREIGN): Yeah, war is hell!
+
+JACK (as CLEMENTINE): Is this what a Sovereign Immunity does?
+
+ART (as SOVEREIGN): Tells you— tells you things that are true? Yes.
+
+JACK (as CLEMENTINE): War is hell? 
+
+ART (as SOVEREIGN): Uh huh. 
+
+JACK (as CLEMENTINE): What am I supposed to do with that information.
+
+ART (as SOVEREIGN): Use it when you consider war. 
+
+JACK (as CLEMENTINE): Did you speak to my mother? 
+
+ART (as SOVEREIGN): Not directly. 
+
+JACK (as CLEMENTINE): Ah. 
+
+ART (as SOVEREIGN): I don't think we're there yet.
+
+JACK (as CLEMENTINE): Did you give them anything?
+
+ART (as SOVEREIGN): It's hard to make prisoners fight for you. 
+
+JACK (as CLEMENTINE): Okay? I get, I took—
+
+ART (as SOVEREIGN): You're gonna have to reckon with that.
+
+JACK (as CLEMENTINE): I took the handcuffs away. I gave them cafeteria access. It wasn't very difficult for me to do.
+
+ART (as SOVEREIGN): Yeah, and I honestly think that's gonna help. I didn't know that the rest of the prison was so bad. Handcuffs all the time? 
+
+JACK (as CLEMENTINE): Not all the time, but… I don't make the rules. 
+
+ART (as SOVEREIGN): But you— 
+
+AUSTIN: [laughs] Hmm. [KEITH laughs] Hmmm! 
+
+JACK: Adjusts shawl!
+
+KEITH: [laughs] I don't make the rules! Translation: I don't know the rules!
+
+[AUSTIN laughs]
+
+JACK: Exactly! They've not been communicating clearly to me!
+
+AUSTIN: Yeah!
+
+ART (as SOVEREIGN): But you will one day. 
+
+JACK (as CLEMENTINE): I will, yes. [sighs] 
+
+AUSTIN: Just wanna note—
+
+JACK (as CLEMENTINE): Thank you for bringing them back.
+
+AUSTIN: We need to roll still to see if this actually works, but continue, I'm sorry.
+
+JACK: Oh, yeah, totally. 
+
+ART: I think it's real up in the air right now!
+
+AUSTIN: Yeah, fair! 
+
+ART: [laughing] I don't think we've committed one way or the other!
+
+[AUSTIN laughs]
+
+JACK: And I think there's like a moment in Clem— like, [sighs] some kind of, some kind of… some kind of relief of tension passes across Clem's face, and she like, takes a sip of her drink and then it clouds again, and she says:
+
+JACK (as CLEMENTINE): What the fuck was that thing? That mech that pursued me? Saint Dawn? 
+
+ART (as SOVEREIGN): I honestly don't know. I'm not a mech historian. 
+
+JACK (as CLEMENTINE): Did you get a look inside of it?
+ART (as SOVEREIGN): No, I didn't. I didn't. 
+
+JACK (as CLEMENTINE): I don't know, something about that, something about the way that that mech… like, looked out at… at everything? And at me in the Panther… I just feel like if, if that is what is out there in the world, Sovereign, and all I have to stretch out my arm toward is two losers who, who steal a robot and run away? And an old man? I can't even fly the fucking Panther!
+
+ART (as SOVEREIGN): [sighs] Practice. 
+
+JACK: Do you wanna roll?
+
+ART: Yeah, sure.
+
+AUSTIN: 2d6! Uh… Though I guess actually this is going, this is going to succeed. We actually know this is going to succeed. I guess, yeah. This is going to succeed based on the alternative healing rules. 
+
+JACK: Oh shit, because I'm taking the action!
+
+AUSTIN: Because you're taking the action. 
+
+JACK: Does Art need to roll at all? Why is Art here?
+
+AUSTIN: You should roll anyway. 
+
+JACK: I mean?
+
+AUSTIN: 'Cause Art is the one who's allowing you to make this— wow! 
+
+JACK: Ohhh! 
+
+AUSTIN: Wow!! That's a crit!
+
+SYLVIA: Wow!
+
+JACK: Oh, ok, so we just have to, we have to reflect this narratively, right? Like, Art rolled a—
+
+AUSTIN: Yeah! Holy shit! Take a plus one forward on something, like what? What am I supposed to do with this? [JACK laughs] Traditionally this would have been five segments of your healing clock fills, uh, so that would've been very—
+
+JACK: So what is the most like…? What is the, what is the response here? What happens when someone says practice, and it lands so— it crits?
+
+AUSTIN: Yeah. As a note, the healing clock would have been four, four things filled, so it even—
+
+JACK: [cross] So I would've filled it instantly and rolled over one!
+
+AUSTIN: Instantly, and rolled over one. Yes. 
+
+KEITH: So it, this must not have been something that you even knew you could do. 
+
+JACK: Yeah!
+
+[laughter]
+
+KEITH: Practice to get better! This is like when uh, Vegeta— [AUSTIN laughs] came to Earth, and Goku was like, yeah, I got stronger by practicing!
+
+JACK: [cross] Yeah!
+
+KEITH: To get stronger. 
+
+AUSTIN: Practice? 
+
+JACK: [cross]  And he's like, what?
+
+KEITH: [cross] And they're like what, that works? 
+
+AUSTIN: Kakarot! 
+
+JACK: Yeah, god! But like, we, we know Clem has been on like, rowing teams and things? So like, she definitely has some understanding— what is it about this that… that, that strikes such a chord for her?
+
+AUSTIN: Yeah… 
+
+JACK: Is it something about the fact that on some level, she recognizes that she asked for this person's advice, and then like, was just awful to them, just treated them as a complete like, um, punching bag.
+
+AUSTIN: Yeah.
+
+JACK: And the person turned around and said look, here's what you have to od. 
+
+AUSTIN: I think—
+
+JACK: But is that— [sighs] 
+
+ART: Is it like, is it sort of like getting hit in the nose? It's like…
+
+JACK: Oh! Oh, yeah!
+
+AUSTIN: [cross] Can you expand on that a little bit?
+
+JACK: [cross] Just like sit down very suddenly. [AUSTIN laughs] Yeah, do you wanna expand, Art?
+
+ART: That like… um, it's like, it's like a shocking moment, it's like…
+
+JACK: I think, yeah, I think this is a…
+
+ART: That like, Clementine has been, has, has had these moments before, and no one has ever been like, what if you, what if you got better instead of just being like, no, you're perfect now!
+
+JACK: [cross] Or, alternatively—
+
+ART: [cross] You're the best pilot I've ever seen.
+
+JACK: Crysanth might just say you can't do it. 
+
+AUSTIN: Right.
+
+ART: Hm.
+
+AUSTIN: Right. Hard no. Of course you can't do this, right.
+
+JACK: Clem saying I can't even pilot the Panther, Crysanth saying well then we'll take it away from you.
+
+AUSTIN: Right. Of course you can't.
+
+JACK: Um… And I think yeah, I think Sovereign saying practice is just like, jeez. Okay.
+
+AUSTIN: Yeah. Cool.
+
+JACK: And I think just, absolute, absolute… that kind of like, I think Clem goes pale with a combination of anger and contrition? Of first being like, how dare you say practice! And then also being like yeah, he, that's it, that's what I have to do.
+
+AUSTIN: Yeah.
+
+JACK: This, any, any path that I walk here is going to come via… if I want to improve this, it has to come via effort.
+
+AUSTIN: Yeah. Now that effort might be easily, easy for you to achieve because you have the funds and—
+
+JACK: [laughing] Near limitless resources, yes!
+
+AUSTIN: Exactly, exactly. 
+
+JACK: Yes, and in fact, this might teach Clem the wrong lesson, but, y'know.
+
+AUSTIN: We'll see!
+
+JACK: But for the moment yeah, so I think—
+
+AUSTIN: Why don't you just work harder at it is only one step away from this.
+JACK: Yeah.
+
+AUSTIN: Y'know?
+
+JACK: Mhm! But it's definitely coming from a place of…
+
+AUSTIN: Yes.
+
+JACK: Well, I don't know, I don't wanna second-guess Sovereign Immunity's intentions here, but I don't know that Sovereign Immunity is saying… Clem, if you just pulled yourself up by your bootstraps. 
+
+ART: No, I think it's more like, how many times have you flown?
+
+JACK: Right, yeah! And the answer is probably very few! 
+
+AUSTIN: Right. Right.
+
+ART: Yeah.
+
+KEITH: You answer like, six! Like it's a lot. 
+
+[AUSTIN and JACK laugh]
+
+AUSTIN: Right. Exactly.
+
+JACK: I'm one kill away from being an ace!
+
+AUSTIN: Yeah, exactly! 
+
+JACK: But yeah, so I think, I think Clem like, sits down, goes pale, and then just like… stands up and rings the bell for someone to come and prepare Sovereign Immunity a drink.
+
+AUSTIN: Right. And we cut there. Love it, good! Alright, clear that, clear that level one harm, no longer dazed, alright! Milli, what are you up to? 
+
+SYLVIA: Yeah, so I think… the first action I'm gonna take is actually, I wanna do Enhance?
+
+AUSTIN: Ooh, okay, what's that look like, and what are you… yeah.
+
+SYLVIA: [cross] I was looking at that. Well, so, the way I kinda am thinking about this is that I haven't like, the mission was like the first time I've piloted this in a while.
+
+AUSTIN: Right. 
+
+SYLVIA: Is kinda the way I'm thinking of it, and because of that, I think it's not running at like, the… potential that it used to?
+
+AUSTIN: Totally.
+
+SYLVIA: And so I think this is a lot of just like, maintenance stuff that like, is trying to help just optimize what is working already in the hopes that it will bring out more… that it can do in the future.
+
+AUSTIN: That makes sense. 
+
+SYLVIA: Yeah.
+
+AUSTIN: So take one. Take, put one in your Enhance track. I also just noticed something, you actually have another supply point floating, because of your Air Field. Your Air Field says "the first level provides one supply point at the start of downtime activities." So you just get that, which is very good to know. So y'all actually still have five supply points general, and one personnel. 
+
+SYLVIA: Oh. Okay, I might end up doing an Upkeep as well, in a bit then!
+
+AUSTIN: Okay, yeah, given that, uh huh!
+
+SYLVIA: I'll let other people go around first.
+
+AUSTIN: [cross] We'll wrap back around, yeah. Alright, so yeah, did you mark your one Enhance on— ?
+
+SYLVIA: [cross] Yeah, I did.
+
+AUSTIN: Okay. You still have a bunch to go on that, obviously?
+
+SYLVIA: Mhm!
+
+AUSTIN: And that would go quicker if y'all invested long term in a… whatever the thing is for this, I forget what it's called, but there is a, there is an upgrade that lets you get this quicker.
+
+SYLVIA: The Testing Facility slot?
+
+AUSTIN: The Testing Facility, yes. Yes.
+
+SYLVIA: Squad upgrade. That would still be squad upgrade.
+
+AUSTIN: Yeah. Which, when you level up, maybe a thing you can look into. Sovereign Immunity, what are you doing with your first downtime action?
+
+ART: I had an idea. And then I had a really good talk with Clementine. So I might just talk, talk this through a little bit.
+
+AUSTIN: Okay?
+
+ART: I want to like, you know, you know the movie Goodfellas? 
+
+AUSTIN: Yeah.
+
+KEITH: Yep.
+
+ART: You know that, the shot of uh, of them walking through the Copacabana? How it is it's like, they go to like a nightclub, and they like, walk, they do like a big shot all the way through the nightclub.
+
+KEITH: [cross] Is that a low shot? Like, looking up? Is that…
+
+ART: Yeah, yeah, it's like a dolly shot, just like, one all the way through.
+
+KEITH: [cross] A reverse dolly shot, low, looking up? Yeah.
+
+JACK: [cross] Oh yeah, it is the Copacabana, I'm looking at it.
+
+ART: Yeah.
+
+AUSTIN: Mhm. 
+
+ART: I want that, but in the prison.
+
+AUSTIN: Uh huh!
+
+ART: I wanna like, leverage the prison. 
+
+AUSTIN: What's that mean? Like you want, when you say leverage the prison, do you mean put leverage on the prison?
+
+ART: No, I wanna just, I want, I want the, I've had, I've had this detached relationship with the prison and the prisoners, I've been held aside and I've sort of like, let myself be held aside?
+
+AUSTIN: Mhm.
+
+ART: And instead, I want to be, I wanna be a big wheel.
+
+AUSTIN: I see.
+
+ART: At the prison. I wanna, I wanna build a network—
+
+KEITH: This is you realizing that you didn't know what it was like in the prison.
+
+ART: Yes.
+
+AUSTIN: Hmm.
+
+ART: And— 
+
+KEITH: And being like, I could, I could benefit from actually knowing. 
+
+ART: Yes. And I think it's also dipping my toe back into that, that person who, who started a revolution.
+
+AUSTIN: Interesting. Okay. Is this—
+
+ART: So I think this is a long-term project.
+
+AUSTIN: Yeah, this is a long-term project. [JACK laughs] What is your end goal here? Your end goal here is to…?
+
+ART: To be, to be beloved by the prison.
+
+AUSTIN: By the— Yeah, okay. I'm gonna say this is probably an eight step clock.
+
+KEITH: Yeah, that sounds right.
+
+AUSTIN: Right?
+
+JACK: That sounds difficult.
+
+AUSTIN: It sounds a lot, like a lot.
+
+KEITH: [cross] It sounds very difficult. 
+
+AUSTIN: That's gonna take up all eight of these eight potential ticks that are available here. Do you wanna add it to your sheet? What are you gonna roll for this? 
+
+ART: It might be Consort, it might be Sway, it might be…
+
+AUSTIN: It could be any three of those, I think, Command, Consort, or Sway, depending on what your play is here. Like, the… the, the Goodfellas walk is very Sway? Uh, but the, more abstracted thing that presumably takes a number of days and weeks and months would be consort, I think. [reading] "Mingling with allies and acquaintances, gaining information, or access to resources, information, people, places, making good impressions, new contacts," Yeah, that feels like Consort to me. So yeah, then gimme— roll me a Consort and if you'd like to push yourself again, you totally could.
+
+ART: Um, I barely have any stress at all.
+
+AUSTIN: 3d6. That's a five, so with a five, you get uh… two segments filled. You can spend a, personnel to increase the result by one level, but you will have to tell me what that looks like, and presumably get approval from the table to do it. 
+
+ART: I can't figure out what that would look like—
+
+AUSTIN: [cross] Okay.
+
+ART: So I'm just gonna take my two.
+
+AUSTIN: Alright.
+
+ART: I don't know how you use… 
+
+AUSTIN: Yeah, well, it would be… yeah. I feel like it would, in this case, it would be making a move that would be kind of weird, but it'd be like calling in a favor from Kesh, right? I could imagine that being… I could imagine—
+
+ART: [laughing] Send me all the files!
+
+AUSTIN: Well, it could be, yeah, could be send me the files on the people in this prison, it could be send me some contraband, let me have some contraband to give out to people.
+
+ART: Hm.
+
+AUSTIN: It could— 'cause like, personnel is people-scale stuff is the way to think about it? And so like, that is totally the type of thing you could spend a personnel point on. It could be, y'know, get me a bigger room? But again, that's, that's, we'll have to talk about how the hell you get that. But it's up to you, it's up to y'all.
+
+[1:30:05]
+
+ART: Yeah, I think that sound— this sounds like a move for later in the clock.
+
+AUSTIN: [cross] Yeah, agreed. Agreed. Start this out, at least a little bit here. Alright. Everyone still has two more moves! I'll open it back up to the floor. Who has a thing they wanna do?
+
+ART: This is too many moves.
+
+AUSTIN: It's a lot of moves! Well also, it's the first time we're doing this, and next time I bet we all come in—
+
+KEITH: [cross] And everything we'red doing is from like, from scratch.
+
+AUSTIN: Yes, and I bet next time we come in, you're like oh, I wanna keep working on this robot, alright quick, roll it, how's it go.
+
+KEITH: Yeah.
+
+AUSTIN: Blah, y'know? 
+
+KEITH: I, I have another long-term action that I was gonna do.
+
+AUSTIN: Sure, what is it?
+
+KEITH: Oh, I also, I did have a question about.. Um, Cut Loose. 
+
+AUSTIN: Yes.
+
+KEITH: So the thing with Cut Loose is that you have to have another pilot there.
+
+AUSTIN: Yes, you do.
+
+KEITH: And the result of your cutting loose is… tied to your connection clock with another, with the other pilots? Which—
+
+AUSTIN: [cross] It—
+
+KEITH: I think defaults to one. 
+
+AUSTIN: It is not, it doesn't, the, the result isn't tied to that, but that is part of what changes when you cut loose. The result is tied to your dice roll.
+
+KEITH: Oh, you don't need to use the— okay. 
+
+AUSTIN: I believe, maybe I'm wrong though? Um…
+
+KEITH: I could've sworn…
+
+AUSTIN: No, that's correct, that is correct, you roll uh, dice equal to the number of ticks in your connection clock, which is one, you can spend personnel to add dice to that. So, yes.
+
+KEITH: Right. So, it's harder to Cut Loose at the beginning. 
+
+AUSTIN: Correct.
+
+KEITH: Because you aren't connected to anyone, and is, is cutting loose the only way to improve that clock?
+
+AUSTIN: Only way to improve the clock, only way to reduce stress. 
+
+KEITH: Huh.
+
+AUSTIN: So, yeah. But also, you don't want to roll well on this at this point.
+
+KEITH: Right.
+
+AUSTIN: If you rolled a six, you would overstress your— you would over, overindulge yourself. Which is bad.
+
+KEITH: So, my stress is too low… 
+
+AUSTIN: Well, no, it's probably about right, right? If you get a five, you're perfect, if you get a six, it's trouble. 
+
+KEITH: Right. 
+
+AUSTIN: But that's also fun.
+
+KEITH: Sure. 
+
+AUSTIN: You could also do something else, push yourself, and then roll to cut loose, right? 
+
+KEITH: Yeah.
+
+AUSTIN: Like, you do a long-term project now, push yourself again, and then cut loose with your third action, where you would not be able to overindulge.
+
+KEITH: Right, yeah. Okay. Yeah, that makes sense. 
+
+AUSTIN: What is the other long term project you wanted to do?
+
+KEITH: Um, I want to um, basically, I want to case the prison? 
+
+AUSTIN: Sure! That's… yeah.
+
+KEITH: And basically find like vulnerable spots, weak points, blind spots in security, where I could potentially escape.
+
+AUSTIN: Totally. That to me sounds like you could use… Surve, Study, Prowl for that. Up to you. 
+
+KEITH: Prowl? 
+
+AUSTIN: Yeah. I'm gonna say—
+
+KEITH: I don't want to be seen…
+
+AUSTIN: Yes, totally.
+
+KEITH: Casing the prison.
+
+AUSTIN: Yeah. Yeah. 
+
+KEITH: Yeah.
+
+AUSTIN: I'll say that's a six-step clock, also.
+
+KEITH: Okay.
+
+AUSTIN: If that makes sense.
+
+KEITH: Yeah. 
+
+AUSTIN: Alright, cool.
+
+KEITH: As a, as a sort of a prerequisite for maybe even a future clock.
+
+AUSTIN: Totally, but this is also one of those things that, if you succeed at this, advancing your drive— this would advance your drive clock if you succeeded, if you filled this clock for sure, y'know?
+
+KEITH: [cross] Right. Yeah, yeah yeah. Yeah. 
+
+AUSTIN: Alright. Give me… your, your 2d6 for Prowl. Do you want a bonus for pushing yourself, and also are you getting help from anybody? 
+
+KEITH: Um… I would ask Milli.
+
+ART: [cross] I'm sort of doing this thing right now, if you wanna just do it together— alright.
+
+SYLVIA: [cross] I'm down to help. 
+
+KEITH: Wait, Art, you're saying you're doing this right now?
+
+ART: I mean, I'm spending a lot of time in the prison talking to people and looking around.
+
+AUSTIN: [cross] That's interesting, yeah.
+
+KEITH: But are you looking to help me break out? 
+
+ART: I don't' care if you break out. [KEITH and AUSTIN laugh] I cared before, when I was specifically told not to help you break out. 
+
+KEITH: Okay, so, so…
+
+AUSTIN: I kind of like, I, I think we, we're gonna get a lot of Milli and Leap 'cause there's a clear obvious overlap there?
+
+KEITH: Yeah.
+
+AUSTIN: I do kind of like the idea of Sovereign and Leap casing the joint? As, as Sovereign is ingratiating people to him? Y'know?
+
+KEITH: Right. That's a, that's a good way to get people to like you in prison, is to tell them like, oh, i was over in this place and not very much security over there!
+
+AUSTIN: [cross] Yeah, that's where you could stab a guy. 
+
+KEITH: [cross] Apropos nothing— [laughs] 
+
+AUSTIN: Um… god! But I bet you learn all sorts of other stuff from this if you roll well, right?
+
+KEITH: Yeah.
+
+AUSTIN: Which is like, where, I almost said where the good mashed potatoes are? I don't know that that's a thing you learn. [ART and KEITH laugh] But…  Austin, tell me everything you know about prison!
+
+KEITH: [cross] [laughing] There's only one place to get mashed potatoes in prison—
+
+AUSTIN: [cross] Good mashed potatoes!
+
+KEITH: And it's the cafeteria! 
+
+AUSTIN: Maybe the— But maybe, maybe, what if, the war, the warden has good mashed potatoes in a private cafeteria, and you can get those somehow through some system. 
+
+KEITH: But it's also like, still not good mashed potatoes?
+
+AUSTIN: No, they're still not good, they're better.
+
+KEITH: [cross] These are like, bad instant mashed potatoes and good instant mashed potatoes.
+
+AUSTIN: [laughing] Yeah! Oh, gross.
+
+ART: One person has milk, and the other person has water.
+
+[AUSTIN laughs]
+
+KEITH: Oh, gross! Basically grit flakes, like potato grit flakes.
+
+AUSTIN: Yeah, well then that is 4d6 if you're pushing yourself also. 3d6 if you are not.
+
+KEITH: I'm not gonna push myself.
+
+AUSTIN: Okay.
+
+KEITH: I'm gonna take, I'm gonna do, I'm gonna Cut Loose and I'm gonna take the risk.
+
+AUSTIN: [cross] You're gonna take the risk. You're gonna roll the dice, okay.
+
+KEITH: The slight risk.
+
+AUSTIN: Alright, so then let's do this first then still, anyway.
+
+KEITH: Yeah.
+
+AUSTIN: Give me your 4— or, your 3d6, then.
+
+KEITH: Got it.
+
+AUSTIN: Oof! Oof!
+
+KEITH: Yeah, real bad.
+
+AUSTIN: Oof, you hate to see it! You hate to see a one, two, three roll! THat's only gonna give you, that's not gonna give you much here at all, my friend, this is…
+
+KEITH: No, do I have anything for this?
+
+AUSTIN: This is gonna give you one segment filled.
+
+KEITH: Can I get a devil's bargain for this?
+AUSTIN: No, 'cause it's not a desp— it's not a sorry, it's not an action roll, it is a…
+
+KEITH: Oh, okay.
+
+AUSTIN: It is a long-term project roll. Uh…
+
+KEITH: There's no, there's no way to flip this.
+
+AUSTIN: [cross] I'll double check. … Outside of spending, if you want to spend a personnel point, you can increase the result by one level.
+
+KEITH: Oh, yeah sure, I'll spend, I'll spend a personnel point, we have that extra bonus, right?
+
+AUSTIN: Yeah.
+
+KEITH: Yeah, sure.
+
+AUSTIN: Y'all good, everyone good with that happening?
+
+SYLVIA: Eh. Is that the last one we have?
+
+KEITH: [cross] I don't mind if someone's not good.
+
+AUSTIN: [cross] No, you still have five floating supply points. Which are gonna be come materiel or personnel.
+
+KEITH: [cross] Yeah.
+
+SYLVIA: [cross] Oh, yeah, then go for it.
+
+JACK: Will… I'm fine with it, will I know it's gone, but I won't know why?
+
+KEITH: Well, you let us use them. 
+
+AUSTIN: It's, it's such an abstract thing, right?
+
+JACK: I let you, I let you use them to like, repair the mech.
+
+AUSTIN: What it means to spend a personnel point—
+
+JACK: Oh, right, yes, it's kinda like gear.
+AUSTIN: Yeah, it's kind of like gear, that's exactly right. Gear was the thing that we used in the, in the system, well it's kind of gear you mean in this game, but it's also kinda like plus gear in the Sprawl, where it's like yeah, you have a gear point, what's that turn into?
+
+JACK: And you're like eh, it's lockpicks.
+
+KEITH: Yeah.
+
+AUSTIN: It's lockpicks. It's also just like credit? It's like social, it's like credit, or like, reputation. Where… it's like calling in a favor, right? And so if, what you might realize it feels like we've called in a favor I can't account for, you know what I mean?
+JACK: Yeah, yeah, yeah.
+
+KEITH: Someone that you think should owe you doesn't seem to think they owe you.
+
+AUSTIN: Doesn't seem— yes, that's exactly right!
+
+JACK: [cross] Yes! Yeah. I think, I think I'm fine with it so long as from a sort of framing perspective, we understand that this… might leave more of a trail than it would if you weren't using, if that makes sense?
+
+AUSTIN: Yes. Yeah, totally. The like, someone, a guard, a prison guard, someone else, will be like oh yeah, I helped uh, I helped your, your friend, the guy who works with you!
+
+JACK: That was the personnel.
+
+KEITH: Yeah.
+
+AUSTIN: Exactly. So what is it? How are you spending this point?
+
+KEITH: They said they needed it to test the tensile strength of some wall!
+
+[AUSTIN and JACK laugh]
+
+AUSTIN: Exactly! What is it? What is the thing that you get for this? 
+
+KEITH: Um… So, uh, th is a t, that is ort of a thing, I know about two machines tht -do kind of a similar thing but um.. 
+
+JACK: ONe is hammer.
+
+KEITH: I think one of them, one of them the thing,s o I don't need personnel for this, I think we're looking for cameras, blind spot, where the thing that I want is like, so they've got, Ihave a thing for firewood where you stick two little pins in it, it tells you how much moisture there is?
+
+AUSTIN: Mhm.
+
+KEITH: And there's also this machine where it like, tests how sharp a knife is by how much pressure it takes to cut a piece of string. And so I'm sure that there's a machine that if you like, poke a wall it'll tell you…
+
+AUSTIN: Yeah.
+
+KEITH: How hard the wall is.
+
+AUSTIN: Yeah.  Yeah, well the the reason—
+
+KEITH: [cross] And so I think that's what it its, I think it's like—
+
+AUSTIN: Yeah.
+
+JACK: [amused] In a prison!
+
+KEITH: Yeah. Testing the wall—
+
+JACK: This isn't suspicious at all!
+
+KEITH: Test, well, nobody— people aren't thinking about this thing, it's like—
+
+AUSTIN: Let me— I'v got a complete good lie for you already.
+
+KEITH: Okay.
+
+AUSTIN: Which is, your mech is built to, to breach walls, right?
+
+KEITH: Right.
+
+JACK: Oh!
+
+AUSTIN: And so, you could like, well it has two modes. It has a mode where it scans the like, sharp point of my mehc head, to see how, how much it can breach, and it has a mode where uh, it can test a wall to see how much pressure it needs.
+
+KEITH: So wait, so is the favor that I let a guard let me walk around the prison in my mech? [laughs]
+
+AUSTIN: Yes, so— No no, no no no! But with this device that could either—
+
+KEITH: Okay, okay!
+
+AUSTIN: Test like, the piercing head of your mech, the point of the mech, or in a different like, it goes like concave or convex, you know what I mean?
+
+KEITH: Got it, yeah, yeah yeah. 
+
+AUSTIN: But what you're getting, the personnel point is the guards let you bring that device back with you, right?
+
+KEITH: Right, got it.
+
+AUSTIN: And they, they don't even, maybe they don't even look the other way so much as being like yeah, of course, hey Leap, y'know?
+
+KEITH: Yeah, hey. What, y'know.
+
+AUSTIN: Get in the fuckin' train, hey Leap, get the fuck in the train!
+
+KEITH: Yeah. Here, get, put the cuffs on, like no they said I didn't need those. Oh. [laughs]
+
+AUSTIN: "Oh, okay."
+
+JACK: [cross] "Oh, okay."
+
+KEITH: Oh, okay!
+
+JACK: How's that machine I gave you doing? 
+
+AUSTIN: [laughs] How're the walls? 
+
+KEITH: It's, it's great!
+
+AUSTIN: Good.
+
+KEITH: Very strong walls.
+
+AUSTIN: Alright, given that, now you can fill two segments instead of one.
+
+JACK: And we mark that uh, that a thing has gone?
+
+AUSTIN: [cross] That a personnel, yeah, I took care of it. Alright.
+
+KEITH: Two's not, two's not bad.
+
+AUSTIN: Two's not bad! Two's not bad. 
+
+KEITH: That's one less than half. 
+
+AUSTIN: That's no problem. That's— exactly. Exactly. So I'll mark two there, boom. Alright.
+
+KEITH: Oh, I— I don't know what this is, it looks like there are two that are extend— oh, okay, that's 'cause I don't need them.
+
+AUSTIN: Yeah that's only— Yeah, it's only six—
+
+KEITH: [cross] Got it.
+
+AUSTIN: It's not eight. Anyway. Who else, alright, so that's two from you… do you just wanna Cut Loose now and get your stuff done?
+
+KEITH: Um, if someone has something, I—
+
+AUSTIN: Okay, we'll come back. 
+
+KEITH: I should, maybe I should think a second on Cut Loose, see what I wanna do.
+
+AUSTIN: [cross] Yeah, okay. SO then… Leap, sorry not Leap, Milli, Sovereign Immunity, Clementine, action two. Or action… yeah, action two.
+
+SYLVIA: Yep!
+
+JACK: If I know one thing about forged in the Dark games is that stress gets really, uh, intense really fast. 
+
+AUSTIN: Yeah. 
+
+JACK: And so I'm looking at three stress, and part of me is being like, I don't wanna overindulge? But another part of me is like, that means that I am basically, I would basically be starting the next mission…
+
+AUSTIN: Yeah.
+
+JACK: With one third—
+
+SYLVIA: Let me tell you, I'm looking at my two stress a similar way!
+
+AUSTIN: Oh my god.
+
+JACK: I just, I just have flashbacks to being in Memoriam.
+
+AUSTIN: Yeah, I know! I know.
+
+JACK: And watching my stress clock fill.
+
+AUSTIN: Yeah. 
+
+SYLVIA: I'll be honest, I've been thinking of cutting loose with two stress all week, so like…
+
+JACK: Mm! 
+
+SYLVIA: Just 'cause I thought it would be fun. 
+
+ART: Could— could we do a big group Cut…
+
+AUSTIN: I'll allow it. You'll have to talk to me about the ways in which y'all are pairing off? Because again—
+
+JACK: [cross] Oh, sure, so we get the, this is the fuckin'...
+
+AUSTIN: [cross] This is still about fundamentally… 
+
+JACK: [cross] Fire Emblem relationships thing.
+
+AUSTIN: [cross] But I— I am totally, yeah, it is, it is exact— it is Fire Emblem Supports. [SYLVIA laughs] To put it in language we all understand, but also, Fire Emblem does have moments, like oh, it's a big party and everyone's here in the room, and y'know, maybe Ignatz and Raphael are off in the corner talking, but Hilda and Marianne are over here also talking, but it's still a big party, y'know? 
+
+SYLVIA: Sure.
+
+JACK: Can we have Ignatz here? Can he join?
+
+AUSTIN: Ignatz can be here, yes. Ignatz is here, he's painting a picture.
+
+SYLVIA: Ignatz shows up!
+
+AUSTIN: [laughing] Ignatz shows up, yeah! Anyway. So yeah, you could do a big group activity as a Cut Loose? It sounds like multiple people want to Cut Loose. If y'all wanna— 
+
+JACK: [cross] Thinking like, bootleg.
+
+AUSTIN: If y'all wanna do—
+
+ART: It's a prison social!
+
+AUSTIN: If it's a prison social, or if Clem says ahem! There will be a feast, or something, I'm happy to let y'all figure out what that group Cut Loose frame looks like, especially given…
+
+SYLVIA: Field trip!
+
+KEITH: It's team building exercises.
+
+AUSTIN: It's tam building, right, exactly. We're going to the, the funeral of the elect! 
+
+JACK: I was literally just thinking that, it can't! Like, ugh! 
+
+SYLVIA: God!
+
+JACK: We talked about seeing that on television earlier, and I liked that image, so I don't want...
+
+AUSTIN: [cross] We did. Wh— who says the funeral has to be one day? It's the funeral of an elect!
+
+KEITH: Yeah, let's go to a funeral and really cut loose. 
+
+AUSTIN: [laughs] Well, there was the funeral—
+
+SYLVIA: I'll find a way!
+
+AUSTIN: No, so wait—
+
+JACK: No, I know what it is! God.
+
+ART: I've gotten drunk at a funeral before, I mean?
+
+AUSTIN: Same.
+
+JACK: I think I've got it.
+
+AUSTIN: Okay.
+
+JACK: I think I've got it. What if it's the um, okay, right, so like, day one of the funeral is like, the big fucking… parade.
+
+AUSTIN: Yeah.
+
+JACK: The public thing, like, y'know, one thousand people pack into a big cathedral or whatever the Aster… Asterist? Is that the word I'm looking for?
+
+AUSTIN: Asterist, yeah. Yeah, yeah, Received Asterist is the particular branch here, yeah. 
+
+JACK: And there's, it's televised everywhere. Day two is some other public, you know, event, I'm sure— knowing that the fucking moon of Partizan and the Stels, there's some big perscribed thign they do.
+
+AUSTIN: A thousand percent.
+
+JACK: And then on one day, there's like, basically like… a private party at the palace?
+
+AUSTIN: At the palace, yeah.
+
+JACK: With everyone in black—
+
+AUSTIN: [cross] In the ballroom.
+
+JACK: And there's just like, two hundred attendants.
+
+AUSTIN: Yeah. People in— yeah.
+
+JACK: And think for whatever reason, Clem has decided to bring her squad, the Rapid Evening, to this party.
+
+SYLVIA: Oh! I love it!
+
+JACK: To just be like, Clementine Kesh, you know, with her specialist unit!
+
+AUSTIN: Yeah.
+
+JACK: And I think there are, there are Kesh guards all over this thing, so I don't think it's just like, I don't think Clem would be like, everyone, you have free reign of the palace tonight.
+
+AUSTIN: No, the security would be through the fucking roof, but. 
+
+JACK: But!
+
+AUSTIN: But, it's still, yeah, an event.
+
+JACK: The goal is like, you know, the, the butler or whoever rings the bell and says you know—
+
+AUSTIN: Present— wait, does, does the butler say presenting the Rapid Evening? Question number two— 
+
+JACK: I think— oh, no. 
+
+AUSTIN: Is Gucci Garantine here? 
+
+JACK: No, so the butler doesn't say presenting the Rapid Evening for the exact reason— you know when you are worried about breaking an NDA and you think you could probably get away with it but you don't want to push it?
+
+AUSTIN: [cross] All the time. Yeah. [laughs]
+
+JACK: I think Clem is afraid that her mother will… be angry if she announces the Rapid Evening, which is a real bullet dodged, because Gucci is almost certainly here!
+
+[1:45:01]
+
+AUSTIN: Yes.
+
+JACK: So I think it's announced as…
+
+KEITH: [cross] But Sovereign Immunity wasn't in a, in a mech.
+
+AUSTIN: Correct.
+
+JACK: Okay, is there a way we can…
+
+KEITH: No, there's not!
+
+AUSTIN: But what do you mean, wait wait wait. Wait, what do you mean…
+
+KEITH: I'm saying that Gucci Garantine saw Sovereign Immunity.
+
+JACK: [cross] Can cross-reference… 
+
+AUSTIN: Oh! Wait. Did? Oh! She did. That's good, though, I don't mind that! I don't mind— wait a second, who's that big guy?
+
+JACK: [cross] Yeah, no, we're in a fuckin, it's a Victorian Farce now, yeah!
+
+KEITH: [cross] And we weren't in, we weren't in robots either, me and Milli, we ran— she showed up, and we ran!
+
+JACK: You were in a car in the distance at that point.
+
+AUSTIN: You were in a car, you— but I, what I would say here is like, I like this added level of risk, but wait, don't I—
+
+JACK: Yeah, this is uncomfortable!
+
+AUSTIN: Don't I recognize, where do i— where do I know him from? Is a good… is a, is a good, and also again, you don't know that she was that person! 
+
+KEITH: Right.
+
+AUSTIN: You have no reason— 
+
+JACK: [cross] Yes. Oh, yes! This is a one….
+
+KEITH: [cross] She has an inkling and we have no inkling.
+
+AUSTIN: [laughs] Sylvi in the chat says— !
+
+SYLVIA: When did I meet this buff old man? 
+
+[laughter]
+
+AUSTIN: Totally, right? Well it's like, oh…
+
+JACK: Yeah, I love this!
+
+AUSTIN: Yeah. Okay. 
+
+JACK: Can we match cut um, can we have um… in the TV episode of this.
+
+AUSTIN: Yeah.
+
+JACK: HBO.
+
+AUSTIN: Mhm.
+
+JACK: I'm talking to HBO now.
+
+AUSTIN: I'm sorry.
+
+JACK: In the TV episode of this, we have Grand in the prison with those cuts of like, looking up around prison—
+
+AUSTIN: Oh, yeah. 
+
+JACK: And then we get an audio lead of a bell ringing, and someone saying presenting Princess Clementine Kesh and her specialist unit? And then we match cut to Clem entering the room with the Rapid Evening behind her.
+
+AUSTIN: Mhm. Mhm. 
+
+JACK: With exactly the same expression of like, I'm gonna try and— I'm gonna work this space.
+
+AUSTIN: So I just need you to know, you've cursed me. But you've given a gift to many of our fans, 'cause I have to ask you a question, what does everyone's formalwear look like? Here at the funeral dance party.
+
+SYLVIA: Ugh, this is such an ambush.
+
+AUSTIN: Funeral prom, for the goth queen Ver'million Blue!
+
+JACK: We're gonna take twenty five minutes, we will…
+
+[AUSTIN laughs] 
+
+SYLVIA: You joke! 
+
+AUSTIN: Before we get to this, is there anything else that we should do before we do the big cut loose ball, funeral ball, funeral prom thing, because then we can end on the funeral prom instead of ending on, then I go home and fix my mech more.
+
+KEITH: I'm out of moves.
+
+SYLVIA: I, I would like to fix my mech more.
+
+AUSTIN: Okay! Okay.
+
+SYLVIA: I'll just do an Upkeep roll.
+
+AUSTIN: Go ahead and do an Upkeep, give me a 1d6. Right.
+
+SYLVIA: I have one quirk to expend, but.
+
+AUSTIN: Okay, so, doesn't matter.
+
+SYLVIA: It's a four, so three get wasted. 
+
+AUSTIN: Oh, brutal. Brutal!
+
+SYLVIA: Yeah.
+
+AUSTIN: That's how it is sometimes. 
+
+SYLVIA: If I had rolled that earlier, I would've been great!
+
+AUSTIN: Mhm!
+
+SYLVIA: Anyway.
+
+AUSTIN: That's fine. Uh, cool. Anyone else?
+
+JACK: I would also like to do an Upkeep? My, the Panther has been stabbed.
+
+AUSTIN: Right, you actually wanna do a Fix, not an Upkeep. 
+
+JACK: Okay! Yes I do want to do a Fix, not an Upkeep.
+
+AUSTIN: Yeah, Upkeep is just for quirks, Fix is just for fixing things.
+
+JACK: Yes, absolutely.
+
+KEITH: [cross] Clem for real almost died.
+
+JACK: Oh, yeah! 
+
+KEITH: You were very close to dying.
+
+AUSTIN: Well, at least the mech was, right?
+
+KEITH: But then what?
+
+AUSTIN: But then what, yeah, good question. So, impaled, right now, level, level two harm. That repair clock is… four steps, so you'll need, you'll need a crit to instantly do it, or you'll need to spend materiel on top of a good roll to make this happen.
+
+JACK: [cross] Right. Okay.
+
+AUSTIN: So. What do you do here? Also—
+
+JACK: Ah, Jesus.
+
+AUSTIN: Do you have anyone, you have a workshop, so that's good.
+
+JACK: Mhm.
+
+AUSTIN: Which means you at least can do these repairs. Okay, cool. So you need to roll a—
+
+JACK: Do any of us have Engineer?
+
+KEITH: Nah.
+AUSTIN: Milli no, Leap, no. 
+
+ART: Nope.
+
+AUSTIN: Sovereign Immunity, no, Clementine no!
+
+[JACK laughs]
+
+KEITH: What do you need Engineer for! 
+
+AUSTIN: You needed Engineer earlier!
+
+KEITH: I don't know, I don't think any of us need Engineer!
+
+AUSTIN: Okay…
+
+[KEITH laughs] 
+
+JACK: No one needs Prowl, do we! We're not a mech squad!
+
+AUSTIN: [cross] No one needs prowl! So, your Engineer is zero, which means you're gonna roll 2d6 and take the lower. Or you—
+
+JACK: And—
+
+AUSTIN: Or, you could push yourself. To get one die. 
+
+JACK: Okay, and I could also get another die by taking a materiel point?
+
+AUSTIN: By spending a materiel point.
+
+JACK: [cross] Materiel. I love to say it.
+
+AUSTIN: Materiel.
+
+JACK: Okay, I'm gonna push myself, I'm gonna take two stress.
+
+AUSTIN: Okay. Which brings you up to five stress.
+
+JACK: Mhm.
+
+AUSTIN: Mhm.
+
+JACK: And then I'm gonna take a materiel, so I'm gonna remove one, um…
+
+AUSTIN: Yeah, so you drop down, I got that, I'll take care of it. That'll drop down to four.
+
+JACK: So I'm gonna roll two dice. 
+AUSTIN: Two dice. 
+
+JACK: Oh, okay! That's a—
+
+AUSTIN: Five.
+
+JACK: Five.
+
+AUSTIN: That's a five, so, with a five on Fix, you fill your repair clock by… was it one? No, two segments. 
+
+JACK: Two segments.
+
+AUSTIN: Two segments. You can then, if you would like to, spend another materiel point to increase that by one level, bringing it up to a three segments, which is still not fixed! 'Cause it's level two harm. 
+
+JACK: [laughs] Okay, let me see where—
+
+AUSTIN: [cross] Level two damage. Which, I guess—
+
+JACK: Where is my clock? Oh, here it is.
+
+AUSTIN: Yeah do you see it? The repair clock, right there.
+
+JACK: So I have currently filled it two.
+
+AUSTIN: Yeah. Uh huh!
+
+JACK: And I could spend another materiel.
+
+AUSTIN: To raise it to three…
+
+JACK: To raise it to three, which is still not fixed.
+
+AUSTIN: [cross] And then another one to, to fix it all the way, or, I guess you could, there's other ways to, to do this, which is um, let me see. You could… you could spend a materiel to take an additional Fix action, which would let you, which is one of the things materiel— you can spend materiel to take an additional Acquire Asset, uh, Enhance, Fix—
+
+JACK: [cross] Oh my god.
+
+AUSTIN: [cross] Manufacture, Salvage, or Upkeep activity.
+
+JACK: Wow. 
+
+AUSTIN: By spending one materiel, which lets you roll again? Which could theoretically actually get you two for less, do you know what I mean?
+
+JACK: But I would also have to probably push myself again, right!
+
+AUSTIN: Push yourself again and spend materiel again, so maybe it's cheaper just to spend two more and get this done.
+
+JACK: [laughs] Okay, I'm gonna spend two materiel if the table's fine with it, because I can see this being a like, when you're doing a math problem and you get something wrong early? And then—
+
+AUSTIN: Oh.
+
+JACK: Like, if I go into the next mission with a level two harm, and then?
+
+AUSTIN: Oh, you know what?
+
+JACK: Yeah?
+
+AUSTIN: Spending two makes 	a lot of sense here, because, uh, it's gonna, it's gonna fix your mech. Because you, if you, if you spend the, both of those materiel points? You're going to fill this clock and then get one that rolls over. And that one rollover will clear the level one. You're increasing the level, not the roll.
+
+JACK: Oh shit, okay!
+
+AUSTIN: So you'll be boosting from four to five up to six, and then from six to crit, um, and any remaining segments roll over to the empty clock.
+
+JACK: [cross] And then so this drops down there.
+
+AUSTIN: Yes.
+
+JACK: And then this?
+
+AUSTIN: And then that clears it, because we're on alternate healing rules. 
+
+JACK: Because we're on alternate healing rules!
+
+AUSTIN: Yes. Yes.
+
+JACK: Okay, yeah! Absolutely.
+
+AUSTIN: So you're good. 
+
+JACK: Also there is something, so long as people are happy with it, pleasing to me about Clem giving a big speech saying—
+
+AUSTIN: Mhm.
+
+JACK: The Rapid Evening, or Stel Kesh has made resources available to you, and then just goes and is like, is like, I have a beautiful plate of biscuits, and then just eats four biscuits.
+
+AUSTIN: [laughs] Yeah, and then is like yeah, I get to use them all!
+
+KEITH: [cross] Using literally half of all the resources just on yourself.
+
+JACK: To fix my broken mech!
+
+AUSTIN: Your broken mech which you don't— which you had a talk about how you don't know how to pilot it yet! [JACK laughs] Great. Okay, so.
+
+KEITH: And also which is broken because you decided to murder someone instead of—
+
+JACK: Uh huh.
+
+KEITH: Running away sooner!
+
+JACK: She'd have shot— she'd have… 
+
+KEITH: She would've gone and picked up the prisoner she wanted!
+
+JACK: [cross] Oh, she probably would've done. I don't know!
+
+AUSTIN: [cross] She would've taken the prisoner and left, yeah.
+
+JACK: She probably would've taken the prisoner, wouldn't she!
+
+AUSTIN: Alright. So. Real quick, no one has anything else, we're at Cut Loose now.
+
+KEITH: Um…
+
+AUSTIN: Big Cut Loose.
+
+JACK: Oh, Grand, do you have one more?
+
+KEITH: [cross] I have a funny thing—
+
+AUSTIN: [cross] Grand, wow! Sovereign! 
+
+JACK: Oh my god! [laughs]
+
+ART: You did it once before, too, and I didn't say anything.
+
+JACK: Did I? Today?
+
+ART: Yeah, yeah, at the funeral. 
+
+JACK: Oh my god.
+
+ART: Or in the, in the pre-funeral talk.
+
+AUSTIN: That's very funny.
+
+ART: These are all fake people.
+
+KEITH: I have a different funny thing, very quick, I've decided, so Clem comes into the, into the room, is like, you're the last person, do you know any Engineering? And I go no! And I think she leaves, and I"m like, I probably should, right? And I'm gonna switch those XP now—
+
+AUSTIN: Oh, okay!
+
+JACK: [cross] Oh! That's great.
+
+KEITH: [cross] [laughing] And put a point in Engineering now! 
+
+AUSTIN: What had you put them in bef— oh, oh! Nothing, they've been sitting in your playbook.
+
+KEITH: They're my playbook XP, yeah.
+
+AUSTIN: And instead you're gonna put them into Insight—
+
+KEITH: Right.
+
+AUSTIN: Maxing out Insight and taking a point of Engineer, which will raise your Insight up too, nice. Done.
+
+KEITH: Yeah. 
+
+AUSTIN: I'll just mark it, boom.
+
+KEITH: Nice.
+
+ART: I do have an idea for…
+
+AUSTIN: An outfit?
+
+ART: For a thing. 
+
+AUSTIN: Okay. Oh, a thing to do before the Cut Loose.
+
+ART: Yeah. Um, can I do a Schmooze? 
+
+AUSTIN: Tell me what it is and how you're doing it.
+
+ART: Um, I was just thinking I could have like a quick how you doin' with the Curtain?
+
+AUSTIN: Interesting. So I wanna—
+
+ART: Because…
+
+AUSTIN: The thing to know here is the way that Schmooze works is it's about increasing relations with a faction, and not a squad? 
+
+ART: Hm. 
+
+AUSTIN: You could still do it, it would just increase your relationship with Kesh instead of the Curtain.
+
+ART: Sure. Great. 
+
+JACK: Could we remind ourselves real quick who the Curtain is?
+
+AUSTIN: Art?
+
+ART: They're like the old school Rapid Evening-y people, right? They're the…
+
+AUSTIN: Yeah, we don't know how they came into power or what their relationship with the Rapid— the old Rapid Evening is or whatever. But they are like, the true, they have, they have their handles and levers of power, they are behind the scenes, they have agents everywhere in the way that the Rapid Evening historically did. But they're also like, very politically minded? We believe your mother may be part of them.
+
+JACK: Right.
+
+AUSTIN: But yeah, you could totally do that and work towards improving your Kesh relationship.
+
+KEITH: [cross] And she gave her daughter like the, the cheap brand version of the?
+
+AUSTIN: Well, I think no, her daughter, Clementine found the note, found a book that said there used to be a thing called the Rapid Evening, y'know? 
+
+KEITH: Okay, so this wasn't like, Lexus being like, we're gonna start selling Toyotas here. 
+
+AUSTIN: No. [laughs] Right, no. What's that, well what's the thing you wanna do here, Art? 
+
+ART: I think I just wanna have like, a very coded conversation about how like, this is a like, this is a political action, y'know? Clementine Kesh is becoming a mover and a shaker in this part of the… on this part of Partizan.
+
+AUSTIN: Yep.
+
+ART: And I wouldn't be surprised, y'know, if this turns into something bigger. And I just want you to know that I am here, offering her my advice and protection.
+
+AUSTIN: Okay. How do you get that message… who is the, who is— I'm happy with— I think Sovereign Immunity having already worked with Clementine's parents absolutely understands that the Curtain is real and there's some way to contact them and give them this message? What does that look like? How do we, how do we style that? 
+
+ART: I'm trying to decide if it should be very analog or very not analog.
+
+AUSTIN: Hm.
+
+ART: 'Cause like, with their history, I'm thinking it's like… I put it in an envelope, and I put it behind the mailbox, y'know, like?
+
+AUSTIN: Right, right right.
+
+[JACK laughs]
+
+ART: Just like, as like a blind drop.
+
+AUSTIN: Right. Analog is probably better, I think. It's more this season, right?
+
+ART: Yeah. Um, yeah.
+
+AUSTIN: I don't think you're like, going on the deep web. 
+
+ART: I think, i think there's like a guard. That I've noticed… like, doesn't look, doesn't look a things the same way the other guards do, doesn't seem overly concerned with the prisoners and their goings on. And one day, it's just like, I… I hand him an envelope and say, y'know. This is for them.
+
+AUSTIN: Mhm. Cool. Alright. Give me your… fortune roll, using an appropriate action. What do you think this is? 
+
+ART: I mean, I think it's Consort again— 
+
+AUSTIN: [cross] Yeah, I think that's fine. 
+
+ART: But I've used Consort twice already. Alright.
+
+AUSTIN: That's fine, use it. 2d6. Oof!
+
+ART: This went less good.
+
+AUSTIN: This went less good! It's still a fortune roll, so, you increase trust only by one!
+
+ART: Eh.
+
+AUSTIN: Which, hey, that's something. I'll increase it over on your trust sheet, boop, there it is.
+
+KEITH: It's something and by something it's one tenth of a level.
+
+AUSTIN: Basically, yeah. Uh, it's one ninth of a level, please.
+
+KEITH: Okay, sorry. 
+
+AUSTIN: Very different. Listen, I guess it's just like… at some point later that week, that guard comes by and is like uh, "They received your message." And that's it! Right? But like hey, one trust. They didn't reject your message. Getting the message means that there's a line of communication open.
+
+ART: Yeah, no one came and just shot me in the face, either.
+
+AUSTIN: Right, exactly! Um, alright.
+
+KEITH: That's gotta be stressful.
+
+AUSTIN: Yeah, a little bit. Speaking of stress, and losing it, who wants to Cut Loose?
+
+ART: Let's do it!
+
+AUSTIN: What are the pair offs here, and what are you wearing?
+
+KEITH: I'm gonna say that I'm not cutting loose with Clem.
+
+AUSTIN: Sure. Fair.
+
+KEITH: And that it probably would make most sense for me to wanna cut loose with Milli.
+
+AUSTIN: That makes sense to me.
+
+KEITH: But I'm up to— I would only veto Clem. 
+
+AUSTIN: And these don't have to work… these do not have to be like, um, bi-directional? You can, you could do a circle here, do you know what I mean?
+
+KEITH: Yeah.
+
+AUSTIN: But the, the real, the mechanical question here is who do you want to be able to help better in the field, and who do you want— and likewise, that person will cost more stress to help in the field 'cause you care about them more.
+
+KEITH: Oh right, yeah, duh, we don't have to pick each other, that makes sense.
+
+AUSTIN: You don't have to pick each other, yeah, it's asymmetrical.
+
+SYLVIA: So I can go with you for… the, your roll, Keith.
+
+KEITH: Yeah.
+
+SYLVIA: Right?
+
+KEITH: Yeah. 
+
+SYLVIA: Okay, yeah.
+
+AUSTIN: So Leap, what's this look like, what're you wearing? And what are you doing to cut loose with Milli at this funeral ball?
+
+KEITH: Okay, so, the thought that I had immediately as soon as we took a quick break was um, I have my mission gear, and I have prison uniforms, and I don't have anything else, 'cause I'm a prisoner. 
+
+AUSTIN: Right.
+
+KEITH: And so, my first thought was, am I just wearing my prison uniform? But I don't think that Clem would allow that, because she would probably get in trouble.
+
+AUSTIN: Almost certainly.
+
+KEITH: And so the second thought I had was um, I am a robot, and so maybe I don't have any clothes… uh, to wear, so I just don't wear any clothes. [SYLVIA and JACK laugh] At all. 
+
+AUSTIN: Huh! Okay. What's… well. 
+
+[SYLVIA laughs]
+
+KEITH: Um, I do have one other option, and I think maybe I, I would ask Clem that, maybe if I, if I, maybe I offer to go naked, and she says yeah, that's fine.
+
+AUSTIN: Mhm.
+
+KEITH: Or maybe she'd say, well I have to give you some clothes.
+
+AUSTIN: Yeah. 
+
+[2:00:00]
+
+KEITH: Um, so the thing that I get is like, twenty years ago, or fifty years ago's version of like, a spare outfit to go to a party with? Like, we, I found this old suit, or something.
+
+AUSTIN: In the palace in a closet somewhere!
+
+KEITH: Yeah, there's some closet had some, I looked for and by that it's, y'know. Several like… servants and guards.
+
+AUSTIN: Yeah.
+
+KEITH: Looked for, through all the closets, and found like, a very dusty old like, like, there's, y'know. As… it's, already Kesh clothes are not simple clothes.
+
+AUSTIN: No.
+
+KEITH: Right? They're not like, um, you know, modern tuxedoes or whatever. So like, whatever they would normally wear, it's a little… uh, more complicated and a little goofier than that?
+
+AUSTIN: Right, 'cause you think about something like, especially in the last five year, there's been war, what's that done to fashion, what's that done to the popular silhouette, do they use fabric differently?
+
+KEITH: Right.
+
+AUSTIN: Fifty years ago, time of peace, you know.
+
+KEITH: Yeah.
+
+AUSTIN: Maybe a time of excess, who knows? But like…
+
+KEITH: It's like, imagine, it's the same thing like, now look at a suit now, and look at a suit in the 60s, and they look totally different.
+
+AUSTIN: Mhm.
+
+KEITH: They're totally different suits. They're bigger, they're bulkier, they're weirder looking. Um, but also like—
+
+AUSTIN: Wait a second, I thought that Beau Brummell made it so all suits would be the same forever. 
+
+[KEITH and JACK laugh]
+
+KEITH: So I guess that's what, like, think of a suit, think of like—
+
+JACK: Fuck that guy!
+
+KEITH: Yeah! Like, y'know, look at a suit, I don't know, when that guy was going around.
+
+AUSTIN: Right. Right right right.
+
+KEITH: I asn't, I wasn't clued in on the Brummell discourse.
+
+AUSTIN: You're good.
+
+KEITH: Actually, I was, but I still didn't quite get it, so I don't know when he was around. But like, imagine, y'know.
+
+AUSTIN: Before COUNTER/weight he was around, I'm pretty sure.
+
+KEITH: Right. So… Bigger, curlier, tails, stiffer shirts.
+
+AUSTIN: Curly— oh yeah, okay! 
+
+KEITH: Um, like full, y'know, full coattails is in, but not like, curly swoopy coattails.
+
+AUSTIN: Right.
+
+KEITH: Like, where are— when are you from? Stiff shirt, weird faded colors, like a plum, like a faded plum?
+
+AUSTIN: Yeah, okay.
+
+KEITH: And it's like, it's like velvety? Like it's got like—
+
+AUSTIN: Has like a texture that you can see? 
+
+KEITH: It has a texture, like that old suit texture.
+
+AUSTIN: Mhm. Love it.
+
+KEITH: So that's what I'm wearing, and then I will maybe borrow a bit of the Brummell. Shorts— pants that don't go down far enough. And tall stupid socks!
+
+AUSTIN: [laughing] Okay, good! Great! Good. [KEITH laughs] What are you and Milli doing that helps you relieve your stress?
+
+KEITH: [sighs] Uh, I feel like I look like a afucking idiot. So, I don't wanna hang out with people! [laughs] And so I think that I like, go somewhere, I go on like a balcony where there's less people.
+
+AUSTIN: Okay.
+
+KEITH: And like, or like, I sit behind a table and I think uh, at some point Milli comes over and we chat or something, and we have like a conversation, and I'm like, [as Leap] "I look like a fucking idiot, these clothes suck! This is so dumb! I offered to go naked."
+
+[AUSTIN and KEITH laugh]
+
+SYLVIA (as MILLI): … Yeah. I mean, I… personally, I wish they took you up on that, that would've been at least a little more entertaining for me. 
+
+KEITH (as LEAP): There's nothing even wrong! Robots don't wear clothes all the time, it's almost the default! 
+
+SYLVIA (as MILLI): Yeah, I know, but you wear clothes most of the time, so seeing you without them is a little… weird? But I guess the people here wouldn't notice, it would just be…
+
+KEITH (as LEAP): Yeah, they don't know me.
+
+SYLVIA (as MILLI): The three of us. They shoulda just let you do it!
+
+KEITH (as LEAP): They should've just let me do it. I mean, you look at this, and it's like, it's supposed to be tight around my legs, but I have like, battle droid legs? And so it's just like a square and a half— one and a half square inches of metal!
+
+AUSTIN: They didn't hem them for you? They didn't bring them in?
+
+KEITH: No, we had the party to go to! We— Clem showed up like, 45 minutes before this like, okay, put on your tux! I was like, what are you talking about, put on my tux, I was in handcuffs until I bartered my way out of them! 
+
+AUSTIN: I think A.O. is with y'all, and A.O. is like— "Nah, you look good! You're pulling it off! You know what, let me take them up for you." And like, goes down on a knee and produces like, scotch tape from somewhere? And literally like, tape hems the, the pants so they're tight around your legs. [KEITH laughs] I think, I think that he is in a very fine looking tuxedo, that is just like, two different shades of black, with a black shirt and a black tie, and also a top hat. And he has a cane, and he puts down the cane when he does this.
+
+KEITH: Right.
+
+AUSTIN: But he's like, I wanna be clear, like, he gets down a knee to do this, and like, the knee, he puts his knee down on the balcony, like not a big deal, like of course, whatever, I don't care if I get these pants dirty, they're also not my pants, they just found better clothes for me. 
+
+KEITH: Right. Well, A.O.'s not a prisoner, A.O.'s a—
+
+AUSTIN: A.O.'s a prisoner! A.O.'s absolutely a prisoner! 
+
+KEITH: [cross] Oh, right, I was like, he's a mercenary. 
+
+SYLVIA: [cross] Yeah, he's a prisoner as well.
+
+AUSTIN: [cross] He's absolutely a prisoner. He was a mercenary who got captured.
+
+KEITH: [cross] He was a mercenary until he got arrested, right.
+
+AUSTIN: Yes, absolutely! Yes. So. Yeah, he's helping you out too.
+
+KEITH: Okay.
+
+AUSTIN: I need a roll for you. 
+
+KEITH: Right.
+
+AUSTIN: I think you roll now 1d6.
+
+KEITH: 1d6.
+
+AUSTIN: Yes. What is your stress at currently?
+
+KEITH: I— the only thing I can't roll is a six.
+
+AUSTIN: Okay. What a great situation to be in. Alright, two.
+
+KEITH: Two. 
+
+AUSTIN: Phew!
+
+KEITH: Fine. Totally fine.
+
+AUSTIN: Honestly, fine! Not great, you still have three stress going into next…
+
+KEITH: Not great, I'm gonna have to Cut Loose again next time, probably.
+
+AUSTIN: Almost certainly.
+
+SYLVIA: Doesn't seem like Leap's having a great time, so it makes sense.
+
+AUSTIN: Yeah, not, not a big stress reliever, this whole… event.
+
+KEITH: I think complaining helped.
+
+AUSTIN: Yeah! Let's go around the, let's go around the horn, Milli, what are you wearing, and what are you doing to cut loose?
+
+SYLVIA: Okay. So I… also was thinking—
+
+AUSTIN: [cross] Birdman gif! Birdman rubbing hands together gif!
+
+SYLVIA: Yeah! Yeah yeah yeah! So I was, I can just like link it, I was thinking like, okay, similar to what Keith said about Leap like, well yeah, I'm a prisoner, where am I gonna get formal clothes, then I realized my boss probably has a lot of those?
+
+AUSTIN: Yeah!
+
+SYLVIA: So if it's okay, I figured it would be like, makes sense that Clem was just like yeah, take something from my closet. 
+
+JACK: Absolutely! 
+
+SYLVIA: So, I found specifically this one dress from an, uh, Elie Saab collection?
+
+AUSTIN: Ooh. Oooh!
+
+SYLVIA: The winter 2019, I think?
+
+AUSTIN: Look at this! This is goth as shit! This is powerful!
+
+SYLVIA: And I love it. 
+
+JACK: Oh, wow! 
+
+SYLVIA: It's like very long, it's got like, a bit of lace here and there, I'm really bad at describing clothes, I'm sorry, there's like a—
+
+KEITH: [cross] There's like a cape, there's a, like a netted cape.
+
+SYLVIA: [cross] Really nice cutout. Yeah, the cape has like, lace like, it's like a faux cold shoulder almost, where like, there is because there is a thing over it it's not technically that?
+
+KEITH: Oh, that is lace, the dots to me in the small picture looked like, almost like a fishnet thing, but it's yeah, it's like a lace thing.
+
+SYLVIA: Yeah, I think it is supposed— I think it is lace or something like that, yeah, and it's got this big lace cape, it's really sick. But yeah.
+
+AUSTIN: If you do a search for… "how to choose the right evening gown" in quotes, and then also "gracefulstory" single word, you will see a website— you will see an article from gracefulstory.com that is called How to Choose the Right Evening Gown, it is, and then if on that page you do a search for "Elie" or "Saab," E-L-I-E, S-A-A-B, You will find the dress that— the gown that she is talking about. (T/N: links to image)
+
+KEITH: Is it an article that's just saying choose this one? How to choose the right, it's this one!
+
+AUSTIN: This one. 
+
+SYLVIA: I will try— there's that um—
+
+AUSTIN: It's very good.
+
+SYLVIA: Reference account that's gone up.
+
+AUSTIN: [cross] Yes. 
+
+SYLVIA: Recently on twitter, I'll try and remember to send this along.
+
+AUSTIN: Good, good, good.
+
+KEITH: I like the, the…
+
+JACK: It's the top Saab dress.
+
+AUSTIN: Yes.
+
+KEITH: I like the hairnet. 
+
+AUSTIN: It's beautiful. There's a—
+
+KEITH: What is a hairnet called when it's not for work? What are…
+
+SYLVIA: Like, a veil?
+
+KEITH: Like a veil, sure, yeah.
+
+AUSTIN: Yeah.
+
+KEITH: It's like a veil, but it doesn't, it's not covering eyes, it's like sitting on the head.
+
+SYLVIA: Yeah.
+
+AUSTIN: Yeah. I love the big bow. Like, tie.
+
+SYLVIA: Yeah! The— so I had a couple other things I was looking at from like, similar collections, and the big bow was kinda what put me over the edge here.
+
+AUSTIN: Understandably, it's beautiful, it's great, she's, she's a queen. Love it. 
+
+SYLVIA: Mhm!
+
+AUSTIN: What are you doing to cut loose? And who are you with?
+
+SYLVIA: Gosh, okay, I'm still actually kind of… trying to figure out, I think… Okay, so I have an idea for what Milli would find fun at this party. 
+
+AUSTIN: Mhm?
+
+SYLVIA: And it would be fucking with these rich people?
+
+AUSTIN: Oooh….
+
+[JACK laughs]
+
+SYLVIA: Like, just like making them uncomfortable by telling war stories and stuff, or just like—
+
+AUSTIN: [cross] Amazing… espe, like—
+
+SYLVIA: Being annoying.
+
+AUSTIN: You are an Aposto— also, one, you're maybe the only Apo— or maybe, do you think they send an Apostolosian here?
+
+SYLVIA: Oh, I figured I'm the only Apostolosian here, because like—
+
+AUSTIN: [cross] Yeah. Yeah. this is a private event, yeah.
+
+SYLVIA: [cross] And that's one of the reasons why I'm like, come on.
+
+AUSTIN: Apostolos almost certainly sent someone as a, as a… high level dignitary to the public para— not the parade, but maybe the public funeral? Y'know? And on day two, but this is probably all Stel Kesh folks. Or Stel Kesh, and then maybe, maybe Stel Columnar, and Stel Orion and Nideo, but certainly not Apostolos. 
+
+SYLVIA: Um… Okay.
+
+AUSTIN: So yeah, that's kind of, that's kind of, you definitely get looks as you show up, for sure.
+
+SYLVIA: I think the most fun person to have tag along with this would probably be Clem, but I can see the same for S.I. as well. If either of you have preference, but… I kinda like the idea of hanging around Clem to annoy the people she's trying to impress?
+
+JACK: Hell yeah, I'm on board with that.
+
+AUSTIN: Alright.
+
+ART: I can't beat that, no.
+
+AUSTIN: No. Alright, give me a die roll, 1d6.
+
+SYLVIA: Alright! As a reminder, I have two stress, so.
+
+JACK: Oh my god. 
+
+AUSTIN: Here we go, buddy! A four, that's an overindulge, okay.
+
+SYLVIA: So I got a four! So I'm gonna overindulge.
+
+AUSTIN: Okay.
+
+SYLVIA: Which… man. Open bar, huh?
+
+AUSTIN: Oh my god… well, let's come back to— wait, do you have an answer already for what you wanna do here? 
+
+SYLVIA: I… y'know, I have a very specific thing in mind, but I don't know mechanic— if I say it, I know immediately which mechanic it's gonna be.
+
+AUSTIN: Okay.
+
+SYLVIA: Because it is just bragging about something?
+
+AUSTIN: Okay, yeah, true!
+
+SYLVIA: But I don't know if we wanna actually mark it as that?
+
+AUSTIN: We can go either way with it! I'm happy to mark it.
+
+SYLVIA: Okay, I wanna start bragging about the shot that I made at the end of the last episode.
+
+AUSTIN: Ohhh, wow! Do you explain the context? Do you explain what it was to save Clem's life? 
+
+SYLVIA: I think I was just like, I think I mostly talk about saving the entire squad, it's a little more impressive that way?
+
+AUSTIN: Oh, good, uh huh!
+
+SYLVIA: And, the main thing I'm focusing on is just like, yeah, nobody else coulda done that except for fuckin', me. Like, there's no way in hell anyone else— you force anyone else to make that shot, and they're dying.
+
+AUSTIN: Uh huh!
+
+SYLVIA: I'm the only one who's making that shot.
+
+AUSTIN: And just as a note, you've now dropped down a level of trust with Stel Kesh! 
+
+SYLVIA: Yeah.
+
+[KEITH and JACK laugh]
+
+AUSTIN: Despite Sovereign Immunity's best efforts earlier…
+
+SYLVIA: I'm sorry!
+
+AUSTIN: You're back to being neutral, here. Wow. Uh, here's another note really quick, make sure you take that extra… point with Clem? And then likewise, Leap do that with Milli.
+
+KEITH: Right.
+
+AUSTIN: You both need to write a new belief about, about the person who you're cutting loose with. As you increase your clock, you write another belief about the person.
+
+SYLVIA: Okay. How does Clem react to this? 
+
+AUSTIN: Good question.
+
+JACK (as CLEMENTINE): Yes, well, of course I'm very lucky to be able to spend time with such a talented squad. I like to flatter myself that um, I chose my, my compatriots well. I think that—
+
+SYLVIA (as MILLI): Aw, you sure did, princess. She said she's lucky to have me around!
+
+AUSTIN: [cross] I'm making a rival move. Gucci Garantine shows up at the bar. 
+
+JACK (as CLEMENTINE): Gucci, hi! 
+
+AUSTIN (as GUCCI): I had no idea you'd been deployed! 
+
+JACK (as CLEMENTINE): Well, you know, it's all very uh… you know how things are on Partizan.
+
+SYLVIA (as MILLI): Hi, I'm Milli.
+
+AUSTIN (as GUCCI): Milli… a, a pleasure.
+
+[KEITH laughs]
+
+JACK (as CLEMENTINE): This is my sniper, Milli. 
+
+SYLVIA (as MILLI): What's up. 
+
+AUSTIN: Gucci is wearing a, um… kind of a… [sighs] Gucci is wearing a dress that is very wide puffy shoulders, that moves, it's all red, and it moves slowly downwards inwards like a… I wanna be clear, it looks like she's, it looks like she's kind of wearing a pizza slice? Like and all red pizza slice. Uh, shape dress. 
+
+SYLVIA (as MILLI): She looks good enough to eat! 
+
+AUSTIN (as GUCCI): Thank you. Milli, a pleasure.
+
+[SYLVIA laughs] 
+
+JACK: Clem just like, like laughing into her glass of wine. 
+
+AUSTIN (as GUCCI): I did hear them announce you, Clementine, as the um… your special squad? 
+
+JACK (as CLEMENTINE): Yes. Yes, um…
+
+KEITH (as LEAP): That's us, the special squad.
+
+JACK (as CLEMENTINE): This is, this is Exeter Leap. He is uh… how would you describe yourself, Exeter?
+
+SYLVIA (as MILLI): Badass! Right, Leap?
+
+KEITH (as LEAP): Uh… yeah! Yeah! 
+
+[AUSTIN laughs] 
+
+KEITH: And then I sort of uh, I, I sort of fluff my lapels, my big lapels. 
+
+[SYLVIA laughs]
+
+AUSTIN: A badass.
+
+KEITH: And do a pose. 
+
+JACK: Clementine is wearing uh, a suit. Like, plus a, like a long wool coat with a fur collar, and a turtleneck under her suit jacket. I think it, she's dressing as though it's her house? Like, you know at a party where it's like…
+
+AUSTIN: [cross] Yeah. Yeah, totally.
+
+JACK: The host doesn't, the host either feels like they need to overdress or can afford to underdress. So Clem is wearing this suit, and it is all white. 
+
+AUSTIN: Love it.
+
+JACK: White turtleneck, white jacket, white trousers, white shoes, white wool coat, white fur. 
+
+AUSTIN: Incredible.
+
+JACK: There is a fall 2014 Ralph Lauren look that I am going to post that I think is, oh it's, I just went onto the page, and it's how to choose the right evening gown, gracefulstory! 
+
+AUSTIN: Wait, is it really the same—?
+
+JACK: No, no no! 
+
+AUSTIN: Oh, oh oh.
+
+JACK: No, it's not, no no no. 
+
+AUSTIN: That would've been very funny.
+
+SYLVIA: Wow, okay.
+
+AUSTIN: Oh, wow, that's something.
+
+SYLVIA: I need to link you the thing I almost picked because the jackets are so similar.
+
+AUSTIN: [cross] This is incredible. This is an incredible powerful look. 
+
+JACK: Oh, wow! 
+
+SYLVIA: Yeah!
+
+JACK: But the, the look here is basically like, like smartly put together suit, but every bit of it is the same shade of white. 
+
+AUSTIN: Incredible.
+
+JACK (as CLEMENTINE): Well, Gucci, y'know, spirits are high. This is their first time in the palace.
+
+AUSTIN (as GUCCI): I will say this makes a number of things I saw in some recent budgetary reports make more sense. 
+
+[2:15:00]
+
+JACK (as CLEMENTINE): Hah! Yes. Um. I, I… Mother has been very generous. 
+
+AUSTIN (as GUCCI): She's still here, is she?
+
+JACK (as CLEMENTINE): Is she?
+
+AUSTIN: Are you asking me, or are you asking Gucci?
+
+JACK: Gucci. 
+
+AUSTIN (as GUCCI): Yes, haven't you heard? 
+
+JACK (as CLEMENTINE): [cross] Um, no.
+
+AUSTIN (as GUCCI): The Apostolosians closed the Loop. Unprecedented. 
+
+SYLVIA (as MILLI): Oh my gosh, Clem, am I gonna get to meet your mom?
+
+JACK (as CLEMENTINE): Definitely not, no. 
+
+[AUSTIN laughs]
+
+AUSTIN (as GUCCI): She's here, I could introduce you, Milli. I'm sure she would also find you delicious.
+
+JACK (as CLEMENTINE): [laughs nervously] Gucci! Gucci. It's their first time at the palace, sprits are high.
+
+AUSTIN: Um, I think this is… I think that this is ticking a clock internally on Gucci, to look into what the fuck you're doing. You can resist this consequence, as if it were a consequence.
+
+JACK: How, could you remind me how I do that again?
+
+AUSTIN: It's stress based. It's, you would—
+
+JACK: Oh!
+
+AUSTIN: You would choose a, you would roll a die here, I guess the, I guess the, the… how would I represent this, this thing happening to you? Um… I would be starting a clock, is what I would be doing. I'd be starting a clock, and that clock will be, I will be ticking that clock once. And that clock, when that clock fills, it is Gucci Garantine knows who— what the fucking deal is.
+
+JACK: Oh, fuck no, I'm gonna resist this!
+
+AUSTIN: You can resist that by making a, I would say a Resolve check. A Resolve… resist here. 
+
+JACK: Okay.
+
+AUSTIN: Because that's like, Command, Consort, Sway. And trying to throw her off the uh, the game a little bit. 
+
+JACK: But, I, this would be, this is like really weird like, orchestral maneuvers in the dark bullshit, because I don't know that she is even… 
+
+AUSTIN: No!
+
+JACK: Like, any suspicion that I might have might be Gucci might be finding out something that she probably oughtn't.
+
+AUSTIN: [cross] Yes. Right. Yes.
+
+JACK: That's a thing, that's a feeling Clem could have… reasonably, right?
+
+AUSTIN: Yeah.
+
+JACK: Like, we have narrated it such that Clem has weird vibes from Gucci.
+
+AUSTIN: A hundred percent. Do you want anyone to know? 
+
+JACK: [cross] The Rapid Evening might be embargoed.
+
+AUSTIN: Right. Exactly. Exactly. So to do this, what you do is Resolve, which is, your resolve I think is two? 
+
+JACK: Mhm.
+
+AUSTIN: So 2d6, you're gonna take six minus whatever your highest roll, your highest number here is. Stress.
+
+JACK: Okay! 
+
+AUSTIN: So that is, you take two more stress! You rolled a four, so.
+
+JACK: Okay.
+
+AUSTIN: So that's two more stress to you. Bringing you up to seven stress! To eight, no seven stress, yes. 
+
+JACK: Yes.
+
+AUSTIN: Hey, which means you're not gonna overindulge!
+
+JACK: Clem just… downs her champagne flute, and—
+
+SYLVIA: Whoa! 
+
+JACK: [laughs] Just like, glares at Milli, and another one is placed into her hands immediately by someone else. 
+
+AUSTIN: Incredible.
+
+JACK: Yeah.
+
+AUSTIN: Alright! And then, and you're just kind of pulled away at  this point, or like, are you, what is the, sorry, what is the way that you're, you're distracting though, from Gucci going down this route is really the more important question.
+
+JACK: I think— I don't think it happens now.
+
+AUSTIN: I see.
+
+JACK: I think that later in this, in this evening, Clem mentions something to an attendant, and Gucci finds her paths harder to follow when she looks into it.
+
+AUSTIN: [cross] I see. Yeah, okay. So the clock is still opening, but there is no ticks on it is what I'm gonna say. If that makes sense. 
+
+JACK: Okay.
+
+AUSTIN: Yeah?
+
+JACK: Yeah.
+
+AUSTIN: Y'know. She will have other opportunities to get in your way. Alright!
+
+JACK: 'Cause these fuckers keep bragging about shooting people for me!
+
+AUSTIN: [laughs] Yeah! Um, alright. Uh, Clem, what are you doing to Cut Loose? And who are you working with, who are you cutting loose with?
+
+JACK: Hmm. I'm gonna go and see Sovereign.
+
+AUSTIN: Okay! Sovereign, what are you wearing?
+
+ART: You know what we said about Exeter's outfit? What Leap is wearing?
+
+AUSTIN: Yes.
+
+JACK: Like, the very, very old.
+
+AUSTIN: Yeah.
+
+ART: Yeah. What if there was a very well preserved version of like, the six thousand dollar version of that.
+
+AUSTIN: Ahh. Right. 
+
+ART: This is, this is the nice outfit that Sovereign Immunity had when he worked here decades ago.
+
+AUSTIN: Mhm.
+
+KEITH: So like, I was driving like a '65 Plymouth, or something.
+
+AUSTIN: Right.
+
+KEITH: And you're driving like, a restored '65 like, I don't know,  what's an expensive version of a car that existed then still, like a Chevrolet?
+
+ART: Like a Cadillac.
+
+KEITH: [cross] Like a Cadillac, yeah.
+
+AUSTIN: [cross] Yeah, yeah.
+
+KEITH: Yes, Cadillac, that's what I was thinking of.
+
+ART: Yeah. Crushed velvet seats. 
+
+KEITH: Crushed velvet suit.
+
+ART: Yeah, crushed velvet suit!
+
+KEITH: Yeah. And mine was also weird—
+
+AUSTIN: [cross] I mean like, crushed velvet seats, crushed velvet suit, is a Houston rapper's uh… is a hook on some Houston rapper's song for sure. 
+
+[KEITH and JACK laugh]
+
+ART: Is it a bop?
+
+AUSTIN: It's a bop! Uh, anyways. 
+
+JACK: Hm. 
+
+AUSTIN: And what are you doing to cut loose while talking to Sovereign Immunity? 
+
+JACK: I think that um, the camera tracks like, follows Clem from the conversation with Gucci— no, I think Clem like, gently guides Gucci to another party guest? And is like, basically like, talk to this person now.
+
+AUSTIN: Uh huh!
+
+JACK: And then, you know, glides over to talk to Sovereign. What is Sovereign doing? 
+
+ART: Um, like cautiously socializing? Trying to like, see who here… you know, trying not to get into a situation where someone's like, didn't you get arrested? For treason? [KEITH and JACK laugh] Like, just trying to have—
+
+AUSTIN: Yeah!
+
+ART: Like, a bunch of interactions, be out there, and have no one say that.
+
+AUSTIN: Mhm.
+
+KEITH: It was sedition, not treason! 
+
+[AUSTIN laughs]
+
+ART: That's true! 
+ 
+JACK (as CLEMENTINE): Sovereign.
+
+ART: And kidnapping! 
+
+KEITH: And kidnapping!
+
+JACK (as CLEMENTINE): I hope you're enjoying yourself. 
+
+ART (as SOVEREIGN): I'm having a wonderful time, how are you?
+
+JACK (as CLEMENTINE): Well, uh… [SYLVIA laughs] I was talking to Gucci, and uh… Milli decided to introduce themself to the conversation.
+
+ART (as SOVEREIGN): Hmm. 
+
+JACK (as CLEMENTINE): … So, there was that. This must be the first time you've been in the palace for a social event, since uh… I don't know, how long?
+
+ART (as SOVEREIGN): Decades. 
+
+JACK (as CLEMENTINE): Yes, you did sort of disappear quite suddenly, didn't you? 
+
+ART (as SOVEREIGN): Yeah… They did not want me back here.
+
+JACK (as CLEMENTINE): No. No, I can sort of see their position. Tends to put a damper on the party invite, doesn't it? 
+
+ART (as SOVEREIGN): [sighs] Yeah.
+
+JACK (as CLEMENTINE): But now you're back. 
+
+ART (as SOVEREIGN): It's wonderful.
+
+JACK (as CLEMENTINE): It feels good? 
+
+ART (as SOVEREIGN): Definitely.
+
+JACK (as CLEMENTINE): Your old stomping grounds?
+
+ART (as SOVEREIGN): More or less.
+
+JACK (as CLEMENTINE): Have you visited the throne room?
+
+ART (as SOVEREIGN): [laughs] I don't think I'm ready. 
+
+JACK (as CLEMENTINE): Well, you know. It's good to get in a little practice, isn't it?
+
+ART (as SOVEREIGN): Yes, definitely. We'll be back.
+
+JACK (as CLEMENTINE): Hah! You're being well looked after, I can see if you uh… I can furnish you with a waiter or something. If you would like a, you know, some more canapés or drinks. 
+
+ART (as SOVEREIGN): Oh, I'm, I'm doing great, thank you so much. 
+
+JACK (as CLEMENTINE): Well, excellent. [AUSTIN laughs] Well, you know what, I think that sometimes we ought to take a leak, come with me—
+
+JACK: Take a leak? What? 
+
+[laughter] 
+
+AUSTIN: Excuse me??
+
+ART: That's not how… that's not how I'd do it, but I'm…! 
+
+KEITH: [funny voice] That's not how I'd do it, either! 
+
+SYLVIA: [cross] Now it's a party!
+
+JACK: [laughing] Okay, sorry! 
+
+AUSTIN: Have another go. Of that?
+
+JACK: Yeah, I'll give it another shot.
+
+AUSTIN: Okay!
+
+JACK: I'll give it another shot.
+
+ART: [cross] Let's take that from one. 
+
+AUSTIN: Take that from the top, yeah, can we get a… alright. Scene!
+
+JACK: Marker!
+
+AUSTIN: Yeah— [laughs] 
+
+JACK: [laughs] No, let me find— now I have to find another way to frame this—
+
+AUSTIN: Uh huh!
+
+JACK: Otherwise I will lose it halfway through the sentence!
+
+AUSTIN: Uh huh!
+
+[SYLVIA laughs] 
+
+JACK (as CLEMENTINE): Sovereign, my mother has always said that there is no better time than now. Come with me.
+
+JACK: And Clem takes off through the double doors towards the throne room. 
+
+ART: Great. Let's go!
+
+AUSTIN: Great!
+
+JACK: Which is just empty. 
+
+ART: Mhm.
+
+JACK: Because there is a velvet rope in front of it, and rich people fuckin' love nothing more than standing on one side of a velvet rope? They can't possibly cross it, even if they try their hardest. But Clem just unhooks it and we go into the throne room, the floor is… inlay, like uh, like… It's like a mosaic except instead of individual tiles, it's like, I guess glass or, or semiprecious stones that have been like, cut into shapes. I think it's a mural of some kind, I'm not sure exactly of what. Austin, what do you think would be like, the mosaiced floor of the Kesh, of the Kesh Winter Palace throne room?
+
+AUSTIN: Of the Kesh Winter Palace Throne room… I think it would be… um. Hm. I think it would have to do with Kesh itself— or sorry, with Partizan? 
+
+JACK: Yeah.
+
+AUSTIN: I think it would be—
+
+JACK: Oh, is it— is it a map?
+
+AUSTIN: Yeah, it's probably a map of, of Partizan. It's, it's probably not too dissimilar from the map that Annie's drawn us here.
+
+JACK: [cross] That we have, yeah, that's what I was just thinking.
+
+AUSTIN: Yeah, in terms of, like, y'know, maybe less um, less illumination, a little less in terms of the, the like, added bits of the Prophet's Sea note, the, different uh, mythological animals and stuff like that, it's just kind of like the pure map.
+
+JACK: Yeah, definitely.
+
+AUSTIN: Or, you might represent those things much more simply, right? Like, the Prophet's Path is just a single red line, y'know? The, Stel Orion's dragon is just like a few points where you could make out the constellation.
+
+JACK: Yeah. And I think that it's just, it's just this long, long room, with a chair at one end. A throne, that's what it's called!
+
+AUSTIN: A throne, yes. Good.
+
+JACK: And Sovereign and Clem like, walking through this, this space, and the camera tilts up to reveal that the entire ceiling is a mirror? So we're just like, looking down on the reflection of this massive map, with these two figures walking across it. 
+
+AUSTIN: And so is just breaking the rule and being here the thing?
+
+JACK: Yeah.
+
+AUSTIN: Cool.
+JACK: Definitely. ANd I think because Clem is a fuckin, the worst, I think she is taking some satisfaction in knowing that Sovereign in this space…
+
+AUSTIN: Yeah.
+
+JACK: She believes that, that she is going to be inciting a response from Sovereign in this space?
+
+AUSTIN: Mhm.
+
+JACK: ANd I think for Clem, there is absolutely, just this, this like, overwhelming feeling of like this is, this is where I am going to be.
+
+AUSTIN: What is you response to that, Sovereign? 
+
+ART: I mean, I really just wanna stoke that flame.
+
+AUSTIN: Okay.
+
+ART: I wanna say like, "This could be yours, you know. You could have this." 
+
+JACK (as CLEMENTINE): Oh, yes. 
+
+ART (as SOVEREIGN): You need to get… You need to be better. But you could have this. 
+
+JACK (as CLEMENTINE): [laughs] Very familiar. 
+
+JACK: Keith in the chat just said, "Is she sitting on the throne?" Uh, I think she walks up to it, and just sits on it. And I think that there is something wildly transgressive in the motion?
+
+AUSTIN: Oh, yeah.
+
+JACK: But it happens so easily, or it happens so quickly that the, the motion of someone just sitting down, that it… it sorto fo happens before you know it. ANd I think Clem sits on the throne for about four seconds, and then just like, gets up.
+
+AUSTIN: Like it's nothing. Like… Like…
+
+JACK: Oh no, like the—
+
+KEITH: [cross] Or like, overwhelmed by, yeah.
+
+JACK: Like being on it for four seconds is overwhelming.
+
+AUSTIN: Oh, okay, got you. Okay. 
+
+JACK: And is just standing awkwardly? Like ahead and to the left of the throne?
+
+AUSTIN: Yeah…
+
+JACK: As though that's some kind of replacement for sitting on it.
+
+AUSTIN: Love it.
+
+JACK: But I think in its own way, this is stress relieving because… I think it means a great deal to Clem to hear Sovereign say this could be you? 
+
+AUSTIN: Sure. 
+
+JACK: ANd I think that the thrill of doing this is in its own way, sort of cathartic. 
+
+AUSTIN: I like it. 
+
+JACK: Okay, how am I rolling?
+
+AUSTIN: You've already rolled. Did you already roll? Didn't you already roll?
+JACK: No.
+
+AUSTIN: Oh that was your, that was your stress relief, right, okay! So yeah, you're rolling 1d6.
+
+JACK: Just one?  
+
+AUSTIN: Yeah, you only have a one with Sovereign, so yeah. Three!
+
+JACK: Oh!
+
+AUSTIN: Reduce, yeah, yeah three! There you go! 
+
+KEITH: Does that bring you back to where you were right before you had to push yourself?
+
+JACK: No, I am slightly worse off! 
+
+[laughter]
+
+KEITH: The next mission's gonna be a blast, I think.
+
+AUSTIN: Oh, it's gonna be fantastic! [JACK groans] Sovereign, how about you?
+
+JACK: Wait, do I need to write new stuff for Sovereign? 
+
+AUSTIN: Yeah, you will also— everyone needs to do that with the person that they Cut Loose with. 
+
+JACK: Okay.
+
+AUSTIN: So.
+
+ART: Did we say that Clem's mom is here?
+
+AUSTIN: We did! You cannot Cut Loose with an NPC.
+
+ART: No, no no. 
+
+AUSTIN: Okay.
+
+JACK: And you cannot physically Cut Loose with Crysanth Kesh. It is impossible.
+
+AUSTIN: I think by the way, she is wearing Helen Mirren's 2020 Golden Globes dress. 
+
+KEITH: Who does she cut loose with?
+
+AUSTIN: I don't think she's cut loose in quite some time. I think she last cut loose with Sovereign Immunity 20 years ago.
+
+JACK: [laughs] Helen Mirren Golden Globes what year?
+
+AUSTIN: 2020, this most recent one. 
+
+JACK: Oh, this kind of red, red thing?
+
+AUSTIN: Yeah, with kind of off shoulder…  Yeah, yeah yeah.
+
+JACK: And like a necklace 1that Sandra Bullock would steal from Anne Hathaway?
+
+AUSTIN: [cross] Oh, yeah. Uh huh.
+
+JACK: In a movie?
+
+AUSTIN: In a movie, yes.
+
+KEITH: Everybody else— I don't even remember that I can look at other people to come up with an idea for an outfit?
+
+AUSTIN: That seems appropriate.
+
+KEITH: [cross] Like, everyone else— this is the literal picture of the thing, [AUSTIN laughs] and I'm just like, it's extra curly! 
+
+AUSTIN: It's fine! 
+
+SYLVIA: I spent a lot of time planning these things.
+
+JACK: Also, you know. In, in my head, they're extra curly. 
+
+ART: So… I think, I think Sovereign leaves that interaction with Clementine feeling like, pretty good about it, but also like… Like, you know, that wasn't fantastic, that was you know, someone trying to ike use you for like—
+
+AUSTIN: [cross] Oh, yeah!
+
+ART: Trying to like, get a rise out of you. And so I think what Sovereign Immunity does, is goes and finds drunk, overindulged Million. [KEITH laughs] Puts his hand on her shoulder.
+
+JACK: Oh no.
+
+ART: And says in a low voice, "Do you wanna meet Clem's mom?"
+
+JACK: [distantly] No!
+
+SYLVIA (as MILLI): Yes! Oh my god?
+
+ART (as SOVEREIGN): Great, let's do it. 
+
+[muffled laughter] 
+[2:30:00]
+
+ART: And we like, and it's the kinda thing like, you're trying to find someone in a crowded room and you like, don't really know where they are, but like, someone's wearing that Helen— that big red dress, you're gonna find them sooner or later, right?
+
+AUSTIN: Oh yeah, definitely. 
+
+JACK: Also, is she one of those people that the kind of tidal movements of the party are..
+
+AUSTIN: [cross] Yes. She is surrounded by people, right? She's holding court. 
+
+ART: Yeah, uh huh.
+
+AUSTIN: Because she wasn't supposed to be here, she was supposed to leave weeks ago, and now is stuck here, and so it's like a celebrity, this is the, this is the social event of the year here, despite it being this terrible thing, and she's like, three grades ab— if this was happening on a better, on a different planet, she might not even come, you know what I mean? ANd so the fact that she— seh would've come to te public thing, but not the private thing, but here there's nothing better to do. And so…
+
+JACK: She's stuck!
+
+AUSTIN: Yeah! ANd so she's here. 
+
+ART: And I think that like, the effect of the closer we get, the more people who are gonna know.
+
+AUSTIN: Right.
+
+ART: Who Sovereign is by sight? And those people part.
+
+AUSTIN: Mhm. 
+
+ART: Those people don't want to be around this particular Sovereign Immunity, and as we get closer, he whispers back to Million—
+
+ART (as SOVEREIGN): Do you wanna be introduced as Million or Ver'million?
+
+SYLVIA (as MILLI): Eugh, Million. Ew. 
+
+ART (as SOVEREIGN): Okay, it's a very fancy, it's a very formal occasion.
+
+SYLVIA (as MILLI): [cross] Yeah, thank you for asking, but no. Million.
+
+ART (as SOVEREIGN): Okay. 
+
+ART: Do I really have the chutzpah to use her first name?
+
+AUSTIN: I don't know! 
+
+JACK: Oh my god. 
+
+ART: I don't.
+
+JACK: She's killed people. 
+
+ART: Yeah.
+
+JACK: Personally!
+
+AUSTIN: Yeah!
+
+ART: That's not…
+
+KEITH: I mean they all— everyone there has. I mean.
+
+AUSTIN: Did you— I mean the question is did you use Crysanth when you were, when you were her Sovereign Immunity?
+
+ART: Certainly sometimes.
+
+AUSTIN: Right. In public? Question mark?
+
+ART: But I don't, I can't start with it.
+
+AUSTIN: Yeah. Yeah.
+
+ART: I can't. 
+
+AUSTIN: Yeah, yeah.
+
+ART: I can't lead with it. Not in this, 'cause it's like, it's like calling out from like three people away.
+
+AUSTIN: Yeah!
+
+ART (as SOVEREIGN): Your majesty! It's so good to see you, I simply must introduce you to a new friend of mind.
+
+AUSTIN (as CRYSANTH): Sovereign Immunity. I see. Your friend. 
+
+ART (as SOVEREIGN): Million Blue.
+
+AUSTIN (as CRYSANTH): Million… A pleasure. 
+
+SYLVIA (as MILLI): Howdy. 
+
+AUSTIN (as CRYSANTH): …. Howdy.
+
+ART: Howdy is great, good work. 
+
+SYLVIA: Thank you.
+
+AUSTIN (as CRYSANTH): I'm sure you're finding the… Palace grounds to be entertaining?
+
+SYLVIA (as MILLI): They're… I mean, y'know, they're interesting. It… is— [sighs] I've made my own entertainment?
+
+AUSTIN (as CRYSANTH): Of course.
+
+SYLVIA (as MILLI): As I think most people can see. And so…
+
+[AUSTIN laughs]
+
+KEITH: Oh my god! 
+
+SYLVIA (as MILLI): That's been a pretty fun party! For, for ol' Milli.
+
+ART (as SOVEREIGN): The gardens are impeccable. Have you seen the gardens, Million?
+
+SYLVIA (as MILLI): No— I haven't seen the… there's gardens?
+
+ART (as SOVEREIGN): We must go after this.
+
+AUSTIN (as CRYSANTH): I'm sure an escort can be arranged. Sovereign Immunity here is, I'm sure you all know, someone we've decided to give a, a second chance to. I believe it's worth saying that he's been working with my daughter on some special projects. I hope it's all going well, Immunity. 
+
+ART (as SOVEREIGN): She is a quick study, and a talented young woman.
+
+AUSTIN (as CRYSANTH): Oh, she studies now? That's… good to hear. 
+
+SYLVIA (as MILLI): [whispering] Hey. Sovereign. 
+
+ART (as SOVEREIGN): Uh huh?
+
+SYLVIA (as MILLI): [whispering] What's your, what's the deal between you two? Am I like, am I misinterpreting stuff?
+
+KEITH: [cross] Everyone can hear this? 
+
+AUSTIN: [laughs] Yeah!
+
+ART: You ever see like, a drunk person try to whisper? 
+
+SYLVIA: Yeah!
+
+AUSTIN: Yeah. That's this! 
+
+[ART laughs]
+
+AUSTIN (as CRYSANTH): Yeah, Sovereign, how would you, how would you describe our past interactions. 
+
+ART (as SOVEREIGN): We're old friends who don't get to see each other anymore.
+
+AUSTIN (as CRYSANTH): Hm.
+
+SYLVIA (as MILLI): Uh, look, I don't, say no more. Wink. [laughter] It's fine, I'm not judging, it's… 
+
+AUSTIN (as CRYSANTH): Is there anything else?
+
+ART (as SOVEREIGN): Oh, no, you've been so generous with your time already, I just wanted to make sure that my friend got to meet such an… such a luminary and we'll make some time real soon.
+AUSTIN (as CRYSANTH): Of course. Oh, Sovereign. 
+
+ART (as SOVEREIGN): Hm?
+
+AUSTIN (as CRYSANTH): I got your letter. You understand. 
+
+ART (as SOVEREIGN): I do. 
+
+AUSTIN: And she gives you a little nod. 
+
+AUSTIN (as CRYSANTH): One more thing, if you see her, please… send Clementine over. She has not checked in with me. 
+
+ART (as SOVEREIGN): Oh no, I'll see if I can get that fixed. I'll do it right after your escort shows us the garden. 
+
+AUSTIN: Give me a, give me a roll! Give me a fortune roll, give me a… like, a Consort! 2d— what was it, 2d6 you got? 
+
+KEITH: Is this to see if she goes like, no do it now?
+
+AUSTIN: Yeah! 
+
+KEITH: Yeah. 
+
+AUSTIN: Ooh!
+
+ART: Oh!
+
+AUSTIN: She says—
+
+ART: Oh, where are all those sixes! I was rolling sixes earlier!
+
+AUSTIN: That's a two and three! SHe says um— "Of course, I'll send for that escort for you right away." The guards come and escort you, and they escort you past the garden, past a window from which you can see the garden, um..
+
+SYLVIA: Aw, man.
+
+AUSTIN: And into a train. 
+
+ART: They don't let us pause?
+
+AUSTIN: No! Absolutely not! Actually, you know what, yes they do. They pause and they say, "We were told you're supposed to see the garden." 
+
+KEITH: Oh my god, is this Jack Kennedy?
+
+AUSTIN: [in a vague Boston accent] Jack Kennedy's here, and he's a guard. 
+
+JACK: This is a new voice!
+
+SYLVIA: Oh man. 
+
+JACK: I like this!
+
+SYLVIA: I don't know…
+
+AUSTIN: I don't know where this came from, but he showed up!
+
+KEITH: Hey, it came from old Boston is where it came from.
+
+AUSTIN: It did, that's exactly right!
+
+JACK: I don't think we've ever heard this character at Friends at the Table!
+
+AUSTIN: [cross] I don't know who this is! I don't, he also, he's gone now, unfortunately! Um, and they yeah.
+
+KEITH: You could get, you could get back there.
+
+AUSTIN: I'll figure it out. And he uh, yeah, you pause for a moment, you take int he beauty of the garden with the moon, you know, under the moonlight, and then leads you through a number of hallways until you are at the trainyard. Where like, you know, you get the big heavy lights turning on, as if they're rolling out the red carpet to lead you back into the train to take you back to the prison immediately, where you'll be locked in your cell for a full day as uh, a social you know, penance, for the, for the taboos you've broken. 
+
+JACK: Wow! Crysanth just pulled the trigger and was just like—
+
+AUSTIN: Oh yeah. 
+
+JACK: Enough! That's enough.
+
+AUSTIN: Come on, like, it would be just as easy to have you shot, you know? This isn't…
+
+JACK: She like, you crossed so many lines here that I decided on goodbye.
+
+AUSTIN: What it really is is like this stopped being fun.
+
+JACK: Yeah.
+
+AUSTIN: This was fun for a moment, and then you made it not be fun, so I'm bored, bye. Don't forget. Don't forget that my daughter doesn't know— I know the amount of power I have, I am not my daughter. 
+
+JACK: Clementine considered the throne for four seconds before it gets too much for her!
+
+AUSTIN: [cross] [laughs] Yes! Yes, exact— and, and Clementine was like ooh, I wanna sit on the throne, and I think what we have to understand about Crysanth is, who cares about a throne. 
+
+JACK: Right, yeah.
+
+AUSTIN: I don't care about being on the throne.
+
+JACK: The throne room is empty.
+
+AUSTIN: Right, the throne room, the best thing for  me is that the throne room is empty. Alright. Did you roll your dice? You should roll die to—
+
+ART: I didn't, but let me tell you, that was great way to blow off some steam.
+
+AUSTIN: Yeah! Definitely. 
+
+[SYLVIA laughs]
+
+AUSTIN: And that's a six!
+
+ART: Oh, I overindulged!
+
+AUSTIN: You overindulged!
+
+KEITH: Yeah, it, it— honestly, it felt like an overindulgement.
+
+JACK: Okay— [laughs] 
+
+ART: [laughing] It did feel like that!
+
+JACK: [cross] We need to ask ourselves, do we want the overindulging to happen on, while they are still on the way out? Or does this happen in, back at the cell, like what's the order of this? 
+
+AUSTIN: [cross] Or was that, or was that already overindulging and we just—
+
+JACK: I don't wanna rob Art the opportunity to narrate Sovereign…
+
+AUSTIN: [cross] No, I, yes, Art, if you would like to overindulge at this point, again, you should feel free to. What do you wanna do?
+
+ART: I could do just like, a comedy scene of just like, they've like, they lock me in the cell, it's like, I am not allowed to be locked in a cell!
+
+AUSTIN: Right.
+
+ART: That is not the terms of my imprisonment! And just like goes and opens the door, and like?
+
+AUSTIN: God!
+
+ART: And the like, the theater of like, pushing…
+
+AUSTIN: Right!
+
+ART: Pushing it back in.
+
+AUSTIN: So wait, what are you—?
+
+ART: Sorry, I'm like, acting it out.
+
+AUSTIN: No that's fine, that's the job. What are you… what is this mechanically? Which is attract trouble, which is roll an additional engagement, brag, take minus two trust with your patron faction, AWOL, uh, your pilot vanishes for a few weeks, play a different pilot until yours returns from vacation, or Impropriety, reset your connection with the pilot that joined you to zero. I bet it's not that, Milli seemed like she had a good time. 
+
+ART: It, I mean—
+
+SYLVIA: Yeah. 
+
+ART: Well, depending on what level of square quotes we're willing to put on vacation, it might be that one!
+
+AUSTIN: Do you wanna play a different character for the next arc, though?
+
+ART: No.
+
+AUSTIN: Which is what that would mean. So like…
+
+ART: No, I'm having, I'm having fun.
+
+AUSTIN: Yeah, see? SO it's either take minus two or roll an additional engagement.
+
+ART: I think it's roll an additional engagement, that feels…
+
+AUSTIN: Alright!
+[JACK laughs]
+
+ART: Appropriate to the…
+
+JACK: Oh, I love this system!
+
+ART: [cross] fiction established.
+
+AUSTIN: This is the last thing we're doing,r ight? This is the end of this game, right? Or I guess, I guess I wanna have a little bit— I wanna have a quick catch up with Crysanth and, and… uh, you know what? Maybe we could do that, the catch up, maybe the catch up doesn't happen, because Sovereign Immunity did not actually show up to tell Clem to go check in!
+
+JACK: [cross] Oh, that's so uncomfortable. 
+
+AUSTIN: Right?
+
+JACK: Because Crysanth has definitely marked that down—
+
+AUSTIN: [cross] Uh huh!
+
+JACK: In some invisible copy book of protocol.
+
+AUSTIN: Mhm!
+
+JACK: Where she's like, it was Sovereign's fault, or it was Milli's fault, or it was even Clem's fault.
+
+AUSTIN: Or it was even Clem's fault for not holding the leash.
+
+JACK: Or for coming and seeing me!
+
+KEITH: Wow, sounds like there's one person whose fault it definitely wasn't! 
+
+[laughter]
+
+JACK: Who's that fuckin weirdo with the really curly tails?
+
+AUSTIN: [laughing] Curly coattails! Again, uh, great, that's a musical show number for sure, who's that weirdo with the curly coattails? Great showtune. 
+
+ART: So is this an engagement with Kesh? 
+
+AUSTIN: For an entanglement with Kesh, I think, yes. I think so, which means that you're at, I mean again, you're at level zero, so it's table C. Oh, and then you're gonna roll 2d6, you're gonna roll 2d6 and take the lower, is what you're gonna take. Three! 
+
+ART: Three.
+
+AUSTIN: Huh. Interesting! Uh, three is Cooperation. "A squad with plus three status asks for a favor. Agree to do it, or forfeit one reputation per tier of the friendly squad, or lose one status with them. This favor must be completed by the end of next mission, and may take the form of a long term project, mission objective, or secondary objective. If you don't have a plus three squad status, you avoid entanglements right now." That's interesting, because I don't think you have a squad with plus three status. Let me see.
+
+ART: I mean…
+
+
+AUSTIN: But we could, we could play with it still. 
+
+ART: Yeah.
+
+AUSTIN: I think it's interesting that you would get an extra objective because of this, basically. A make it up to me. 
+
+JACK: Right. That could trigger at the beginning of the next mission, right?
+
+AUSTIN: Exactly, and it would give me time to figure out exactly what that is.
+
+JACK: Who is asking for something, yeah!
+AUSTIN: I think it's, it's the Curtain for sure, right?
+
+JACK: Oh, yeah.
+
+AUSTIN: It's Crysanth being like, and you're going to make that up for— make that up to me, you know? Alright. 
+
+[2:41:21]
+
+[Jack de Quidt's TANAGER. PERFECT. TOUCHPAPER. begins playing.]
+
+ART: But I do clear stress first.
+
+AUSTIN: You do clear stress. And I think, I think actually that's the thing, is you get shoved back in, we see the like, day turn to night inside of your cell, and then there's like, a knock on your, on the bars? And that guard slips a letter back to you. And it's like, in a cipher, but it's a cipher you know from being a Sovereign Immunity, and we know that the first letter is like, objective one. 
+
+[Jack de Quidt's TANAGER. PERFECT. TOUCHPAPER. ends.]

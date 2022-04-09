@@ -1,0 +1,986 @@
+Winter in Hieron 02: A Museum in the Distance
+Transcriber: Alix [0:00:00-0:31:40] Cole [0:31:40-finish]
+Austin: Over hills, and through alleyways, the scene opens on Rosemerrow, vibrant and growing. It is nighttime now, and snow drifts quietly down from the clouds. It drifts onto hilltops, and rooftops, into chimneys, and onto streets, where the high society of Rosemerrow move, with haste, towards a museum in the distance. It is a night of balls and of masks and of politicking. And then the camera pans up, and we see four figures running on a rooftop in the snow. Behind them, a figure leaps from roof to roof, snarling and chomping at the air. Which one of you is in the back? 
+Nick: Fantasmo. 
+Austin: Fantasmo... there is a large, I’d say eight foot tall, like, hyena man snapping at your feet. 
+[Music - “INSIDE” starts] 
+Austin (continues): And under your feet there is ice. Everyone else jumps over this, this bit of ice, but it catches you, uh, until you slip and slide, and there is a giant hyena man just above you, pinning you to the ground. What do you do?
+Nick: I cast invisibility. 
+Austin: Great! Good! Welcome back to Friends at the Table! 
+[Nick laughing]
+Nick: [laughs] Thanks! It’s good to be back! Sort of. I’m sort of back, because I’m 'invisi-bill'- I’m invisible. 
+Sylvia: 'Invisi-Bill' is Fantasmo’s real name. 
+[Austin and Sylvia laughing]
+00:03:23 [Music - “Inside” ends]
+Austin: Hey everybody, welcome to Friends At The Table, an actual play podcast focused on critical worldbuilding, smart characterization and fun interaction between good friends. Today we are playing Dungeon World by Adam Koebel and Sage LaTorra. It is a hack of D. Vincent Baker’s Apocalypse World. My agenda as always is to portray a fantastic world, to fill the character’s lives with adventure, and to play to find out what happens. Joining me today, Jack de Quidt. 
+Jack: Hey there! Uh, you can find me on the internet @notquitereal, uh, on Twitter, and you can buy any of the music featured on the show at notquitereal.bandcamp.com. 
+Austin: Keith Carberry.
+Keith: Hi, my name’s uh, Keith Carberry, you can find me on Twitter @KeithJCarberry, you can find the let’s plays that I do at youtube.com/runbutton. 
+Austin: Sylvia Clare-
+Keith (overlapping Austin): Oh! Or the other podcast that I do at-
+Austin (overlapping Keith): Oop.
+Keith: [spelling phonetically] H-A-Y-T dot me dot- well, no, just 'hayt.me.'
+Austin: 'Dot me.' Not 'dot me dot com.'
+Keith: Not 'dot me dot com.' *laughs* Definitely not.
+Austin: Oh, you should get 'dot me dot com.'
+[Nick laughing]
+Austin: Uh, Sylvia Clare.
+Sylvia: (sarcastically) Stop stepping on my intro, Keith.
+Keith: Sorrrryyy Sylviaii.
+Sylvia (overlapping Keith): Hi, you can follow me on twitter.com/captaintrash.
+Austin: [laughs] There’s almost a-
+Sylvia (overlapping Austin): I did a thumbs up at the end of that.
+Austin: That’s good. You had a uh, an almost Emo Phillips cadence there. 
+Sylvia: Great. Well, you know, my dedication to the emo lifestyle. 
+[ALL laughing]
+Austin: And, uh, Nick Scratch.
+Nick: Hello! My name is Nick Scratch, you can find me at nickscrat.ch.
+Austin: Awesome. And I’m Austin Walker, you can find me @austin_walker on Twitter, and at waypoint.vice.com. For now, we’re going to pick up our game of Friends At The Table. We are in the town- not really the town, ‘cause it’s almost like a city-state. It’s the biggest-
+Keith (overlapping Austin): And it wasn’t directed by Ben Affleck. 
+[Sylvia laughing]
+Austin: It’s not- right. Mmhm. Of Rosemerrow, which I’ve just moved us to on this map. Rosemerrow is the largest city in the northwestern quadrant of Hieron. And it is split into a bunch of different, like, sub-towns, all of which are organized around Roseheart, which is the kind of rapidly expanding center of commerce in Rosemerrow.
+Austin (cont.): Rosemerrow is a lot of things. It is kind of famously known as the center of halfling culture, but it’s a lot of other things too. Like, it’s also just a center of commerce It has a- a huge agricultural industry, or at least it did before the snows came. It has- it’s kind of a trading center because of where it’s situated, you know, along the oceanside, but also kind of central to most of Hieron. It has- it is surrounded by forests, and it has this sort of mix of old and new that’s kind of, I guess it’s kind of strange because it isn’t just a mix of old and new, it’s sort of- even the new stuff gestures towards the old stuff. 
+Austin (cont.): There’s a giant road that leads in and out of the town on the kind of northwest and northeastern sides and that kind of does a little 'U'-shaped dip in the middle. And at the very center of that 'U'-shaped dip is Roseheart, which is the kind of center of halfling culture and commerce. To the north of that, the entire northern set is like, uh, it’s called Knoll Hollow, (spelling phonetically) K-N-O-L-L. It’s a bunch of big, hilled- Like, when you think of the word halfling or hobbit it’s that, right? 
+Austin (cont.): It’s like- it’s like Hobbiton, or something, except that there’s a TON of it. There’s a sprawl of little burrow homes, and a lot of the old halfling families live up there. And in general, it almost feels fake. It almost feels like Colonial Williamsberg in some ways, where it’s like because the rest of the city isn’t like that, they could just go live in the sorts of buildings that are in Velas, or that are in the rest of Hieron, but they choose to live in these sort of old- except that I don’t even think they are actually old, like, hills any more at this point. I think that they’re just, like, set up to look like that. And there are a bunch of other zones and districts we’ll get into as we move forward. 
+Austin (cont.): But the thing you’re here to do today, right now- one, is escape this weird hyena man, and two, through a collection of strange events, you’ve all managed to decide that what you need to do is break into this museum, or somehow get into this museum, and each get something out of it. Some of you might be able to walk through the front door. Some of you may not, but you’re on your way to kind of like, investigate it from above. And this museum is in the district known as Westshore-upon-Sea, which is this kind of, like, hoity-toity, artsy kind of theater district- entertainment district, that has a creek running through it. And it is up against the shoreline. So, you’re all together and you’re on this rooftop, and there is a giant hyena man snapping at your face. You said you wanted to turn invisible? 
+Nick: Yes.
+Austin: Gimme a roll! It’s a- that’s a spell cast, right?
+Nick: Yep. 
+Austin: Oh, there it is. 'When you release a spell you’ve prepared, roll plus INT. On a ten plus, the spell is successfully cast, and you do not forget the spell. You may cast it again later. On a seven to nine, the spell is cast, but choose one: you draw unwelcome attention or put yourself in a spot, the GM will tell you how. The spell disturbs the fabric of reality as it is cast, take minus one ongoing to cast a spell until the next time you prepare spells. Or, after it’s cast, the spell is forgotten, you cannot cast this spell again until you prepare spells.’ So, you got an eight. That is not enough to not have to do one of those negative things, which do you choose? 
+Nick: Uh, I’m... I’m gonna forget it. 
+Austin: Ok. Mmm. So- you turn invisible in that moment, and the giant hyena man snaps his head around and he is, like, looking for the rest of the group. 
+[Transitional music - starts]
+Austin: I’m- I’m curious about what Fantasmo has been doing, over the last few months, because as we established [Transitional music - ends] last week, it has been three months since the holiday special of season one. What was it that he’s been- has he been doing for the last three months?
+Nick: So he’s been in a, like, sort of self-imposed magical coma- not for three months-
+Austin (overlapping Nick): Yeah.
+Nick: -and that takes the form of, at one point he had... through magic, memorized every single book in his personal library-
+Austin: Right.
+Nick: - at the top of-- at the top of the tower where his office was. And- but he could only access that by shutting everything else down. And that basically took the form of like, almost a magical virtual reality, of him going into his old library-
+Austin (overlapping Nick): Totally.
+Nick: -and researching. So, he was specifically researching where the Disciples of Fantasmo could have come from. 
+Austin: Totally. Give me a Spout Lore. Which is one of your rolls. I think it’s another INT roll. [pause] There’s a thirteen!
+Nick: Thir-teen!
+Austin (overlapping Nick): ‘When you consult your accumulated knowledge about something, roll plus INT. On a ten plus, the GM tells you something interesting and useful about the subject relevant to your situation. On a seven to nine, the GM will only tell you something interesting. It’s on you to make it useful. The GM might ask you: how do you know this? Tell them the truth, now.’ Well, we know how you know it, obviously.
+Nick: Right.
+Austin: So- [sighs] you know, you’re- you spend a lot of time in that kind of virtual library in your head, and the thing that you end up seeing that connects things for you is there is a— there was a ring that was found on, or that was owned by Gregalo*, who was the guy who was killed, who was part of the Disciples of Fantasmo. That ring had kind of three different vertical lines on it. And you kind of flip through all your imaginary books, or all of your memorized books, and eventually you come to find an entry on a long past kind of secret subsect of the University from before the Erasure, from the old days. At the time, it was called the Disciples of Samot. And, uh- wh- what are your- [amused] what’s your feeling when that happens? Because, remember, at this point you believe yourself to be an old friend of Samot’s?
+*Correct name is Gregalos
+Nick: Right. What’s the feeling when I discover what that symbol was?
+Austin: Yeah! [pause] Like, is it—
+Nick (overlapping Austin): Aughhhhh. 
+Austin: -a relief to know that they were called the Disciples of Samot once, or is it more confusing—?
+Nick: Yeah. I think it’s definitely a relief. 
+Austin: Ok. The Disciples of Samot were a group of mages who were, you know, according to your books, anyway, aligned with Samot during a civil conflict in pre-Erasure times and who helped stave off great disaster. And so they’re kind of heralded as being very positive, very— 
+Nick (overlapping Austin): Mmhm.
+Austin (overlapping Nick): -like, 'Oh yeah! They did—they did a good thing!' At least, that’s what your books say. The one thing that they—the other little thing that you pick up on- There’s two more things. One is, they were really interested in... kind of... asceticism and, like, the study of the self and the study of one’s own capabilities- very focused in terms of what their study habits were. They were not generalists by any means. They were very much about, like, finding the curricula that fits the individual. 
+Austin (cont.): And the second thing is that you— There’s like, a note that basically cross-references another volume that is held in Rosemerrow, in a— You see that it’s, like a- it was a book you never got the chance to read and was always taken out. And it was always taken out by one of your students, actually. There was a student that you had for a while, named Isaac Adelton, who never got a—
+Nick (overlapping Austin): Ok.
+Austin (overlapping Nick): -mage name because he just didn’t graduate. He was kind of a halfling who had interests in— on top of having interests in magic, he had lots of interests in history, and in archaeology, and did a lot of, like, weird excavation and stuff like that. Uh—
+Nick (overlapping Austin): How close was I to this student? 
+Austin (overlapping Nick): Mmmmm, you were—
+Nick (overlapping Austin): Was he, like, a research assistant? Or—
+Austin (overlapping Nick): Yeeeah, sure. He was a research assistant but he wasn’t an especially good research assistant or whatever. 
+Nick: Ok. 
+Austin: And you just realize, 'Oh, right, he always had this one book out.' This one volume that was on the Disciples of Samot. And so, that- You believe he has that with him, and he is associated now, these days, with this museum that’s in Rosemerrow. For all that studying, you get a thing called Bolster. You get a thing called preparation. Take three preparation. 'When you spend your leisure time in study, meditation, or hard practice, you gain preparation. If you prepare for a week or more, take one. If you prepare for a month or longer, take three. When your preparation pays off, spend one preparation for plus one to any roll. You can only spend one preparation per roll.' Everyone’s gonna get this, just so you know. This isn’t just a [Transitional music - starts] Fantasmo thing. Everyone’s gonna get three preparation, because it’s been three months of doing your best. 
+[MUSIC - “” continues]
+Austin: So! Going back to the scene of the crime. Everyone watches— or do you watch? Does everybody notice as Fantasmo slips and falls? [Transitional music - ends] And is pinned down by this giant hyena? 
+Jack: We’re probably pretty busy running, right?
+[0:15;00]
+Austin: Yeah! I guess! It’s up to you!
+Keith: Oh, did we know that this—this wolf-man was coming? 
+Austin: Oh yeah, you were being chased. 
+Keith (overlapping Austin): I— ok, I thought we—
+Austin (overlapping Keith): This is also a hyena-man, not a wolf-man, thank you.
+Keith: Sorry. I thought that this hyena-man—I was under the impression that we were just walking along and- and all of a sudden the—
+Austin (overlapping Keith): No, you—
+Keith (overlapping Austin): -the person in the last—
+Austin (overlapping Keith): No, you were running on a rooftop away from this giant hyena-man.
+Keith: Now I get it. Ok. Ummmm. Yeah, no, does not sound like we would notice right away, at least. 
+Austin (skeptical/amused): Ok.
+Sylvia: Um?
+Austin: Sylvia, what about you? 
+Sylvia: I’d like to notice!
+Austin (overlapping Sylvia): Ok.
+Sylvia (overlapping Austin): ‘Cause I think I would be the third in the order.
+Austin: Sure. So what do you— [amused] Who are—who are you? Sylvia, welcome to Hieron!
+Sylvia (overlapping Austin): Hi! Thank you!
+Austin (saccharine): You have a lot of titles on your character’s name!
+Sylvia (equally saccharine): I do! I—
+Keith: Yes.
+Sylvia: I think I have the most titles now. [unapologetically] Sorry, Art. I am Prince Ephrim the Gifted—
+Austin (overlapping Sylvia): Mmhm. 
+Sylvia: His Summer Son, Lord of the Coming Spring, Prophet of the Unwavering Flame, and Silver Hand of Samothes.
+Austin (sarcastic): Oh, cool! [snorts] Good! What do you look like?
+Sylvia: So! For the look on the character sheet for the Immolator, which is the class I’m playing—
+Austin (overlapping Sylvia): Mmhm. 
+Sylvia: I have 'smouldering eyes, perfect skin, an imperious bearing, a crackling voice'— which I kind of took to mean like the crackling of a bonfire or something like that—
+Austin (overlapping Sylvia): Right.
+Sylvia: And then my note next to that is 'very'—with 'very' bold and italicized—pretty boy.
+[Austin and Keith laughing]
+Austin (laughing): Oh, ve—good!
+Sylvia (smug): Basically Ephrim is this really—I, like—if there was like a encyclopedia in Hieron with the word 'prince,' his picture would be next to it, [Austin laughs] I think. I was telling you, Austin, Janine cited this da Vinci painting as a big influence for her character—
+Austin (laughing and overlapping Sylvia): Uh huh!
+Sylvia: My big influence is k-pop star G-Dragon, [Austin giggles] because they’re like—he’s like the perfect androgynous look—
+Austin (overlapping Sylvia): Yup!
+Sylvia: Which is what Ephrim—Ephrim’s this very androgynous sort of, almost, like, very handsome, but in his eyes there’s this, like, condescending intensity to it.
+Austin: Mmhm.
+Sylvia: And… he is, um, always has some mark of Samothes on his outfit.
+Austin: Awesome. So what do you do? I’m not going to make you roll to see that Fantasmo’s been pinned. What you do see if you stop and notice—I guess, actually, so, Fantasmo, do you- What’s the actual casting of that spell look like?
+Nick: I’m pretty sure I’ve described it in the past, if I’m not…
+Austin: It’s fine if you’re not accurate to what you’ve described in the past— 
+Nick (overlapping Austin): Ok. Um.
+Austin (overlapping Nick): -it’s been three months, so.
+Nick: I’m pretty sure it’s, like, swiping a hand—
+Austin: Ok, right.
+Nick: -in front of my face, and then as it moves past my face the, uh- like, everything above my hand is invisible, but then the invisibility line just keeps going down—
+Austin (overlapping Nick): Right.
+Nick: -after my whole arm is invisible.
+Austin (overlapping Nick): Right. So—
+Nick: It’s like my hand sets off a wave, basically.
+Austin: So, you vanish from underneath. You see him vanish, Ephrim, but then you notice that the hyena-man, whose name is… Steadystep, begins sniffing the air. And besides the smell of smoke from nearby chimney-tops, besides the smell of food from the markets nearby, you know that he also smells Fantasmo, who he has pinned to the ground. What do you do, Ephrim?
+Sylvia: I summon my Burning Brand. 
+Austin (fascinated): What is that?!
+Sylvia: Burning Brand is 'When you conjure a weapon of pure flame, roll+ CON. On a ten plus choose two of the following tags. On a seven to nine, choose one.' I’ll go into the tags in a second.
+Austin: Mhmm.
+Sylvia: And I can treat my INT as strength or dexterity in regards to making an attack with this weapon. 
+Austin: Cool. 
+Sylvia: It 'always begins with the fiery, touch, danger—dangerous, and three uses tags.'
+Austin: Mhmm.
+Sylvia: And 'Each attack with the weapon consumes one use.'
+Austin: Ok, cool. 
+Sylvia: So, let’s see if I get it, and then we can explain what this is. No, I don’t. 
+Austin: No, you don’t. You got a five.
+Sylvia (disappointed): Ahh. [tsks]
+[Transitional music - starts]
+Austin: So, before we see what that five means, why do you—how can you do this? Who are you?
+Keith: Yeah, who do you think you are?!
+Sylvia: So—
+Austin (scornful): Summoning fire from nothing!
+Keith: Yeah! Stop it!
+Sylvia: I’m a— I’m a pretty big deal!
+[Keith laughing]
+Austin: Are you?!
+Sylvia: I like to think so! Or at least that’s what Ephrim wants to be.
+Austin: Uh huh.
+Sylvia: We talked about this a little. So, for anybody... familiar with the show, you know Hadrian, and he is a member of the Order of the Eternal Princes. 
+Austin: Mmhm.
+Sylvia: Ephrim is one of those princes. He is an Eternal Prince in the—what’d you call the full church of Samothes?
+Austin: The Creed of Samothes.
+Sylvia: The Creed of Samothes. Which is sort of a high-ranking, authoritative position within it, but also sort of outside of the typical hierarchy—
+Austin (overlapping Sylvia): Mmhm.
+Sylvia (overlapping Austin): -of the Creed? They’re sort of like special chosen followers of Samothes that are used as these like, at least in Ephrim’s case he’s been—he’s here as like, a face—
+Austin (overlapping Sylvia): Yeah. Totally.
+Sylvia: -for the church, as an important person to sort of spread the word—
+Austin: So speaking of that—
+Sylvia: Yeah.
+Austin: I want you to give me a use of your move Firebrand, because one of the reasons you’ve been here... So, up until a few months ago the person who was in charge of trying to convert Rosemerrow to the church of Samothes- to the Creed of Samothes- was a man known as Exarch Alyosha, and Alyosha was recently called away to be kind of interim Prelate back in Velas. The way the church or the Creed of Samothes works, there are Prelates, who are kind of like regional heads of the church. And there a bunch of those- or they got five of those in all of Hieron, so very important. And then there is a collection of things called Exarchs, who are kind of like wandering monks, missionaries. They are technically at the same level as a Prelate, but they don’t have a permanent church, which means they don’t have as much political power inside of the Creed. 
+Austin: And so, you know, at this point the thing is that he had to leave Rosemerrow, and so, you were told, by— through message from the Solarch, who is the head of the Creed, as far as you know, to go and pick up the missionary duties that Alyosha was doing here in Rosemerrow. The difference between you and Rosemerrow is—oh, sorry, the difference between you and Aloysh— Alyosha was a very meek and considerate and thoughtful leader in the church. And so, very like 'Oh, I’m going to be part of the community. I’m going to listen to their problems. I’m going to help them where I can,' but he’s not going to be a very forceful or a very flamboyant kind of messenger of the church. 
+Austin (cont.): [amused] You set things on fire? You have the power of flame. And so, you being there has been very positive for the Creed of Samothes to take hold, especially in the world where snow is happening. You know, you’re—you’ve been able to save crops. You’ve been able to prevent people from freezing to death. You’ve been able to extend the uses of fuel. You’ve been like, an overnight smash success for a lot of people. For almost- for almost everybody. Except I need you to roll Firebrand, which is a move of yours, to see how the higher ups of Rosemerrow’s kind of political society, what they think of you. So give me a—you can give me a Firebrand if you want.
+Sylvia (overlapping Austin): That’s a charisma.
+Austin: Which says—do you wanna read it before you roll it?
+Sylvia: Yeah, sure! 'When you introduce a new idea to an NPC, roll plus charisma. On a ten plus, they believe the idea to be their own and take to it with fervor. On a seven to nine, their passion fades after a day or two. On a miss, they respond negatively, speaking out against the idea.'
+Austin: Mmhm. [pause] There’s a twelve.
+Sylvia: I got a twelve. 
+[Keith whistles]
+Austin: So, I think that you’ve become kind of a hotshot among the political elite here. Which is part of why the church has taken on so quickly in Rosemerrow. Fero, that’s very weird. Like, this is not…
+Keith: Mmhm.
+Austin: I don’t know the last time you were in Rosemerrow, [singsong] but they definitely weren’t worshipping Samothes!
+Keith (amused): Yeah, yeah.
+Austin (still singsong): And now it’s like, the hot thing to do! 
+Keith: It’s fashionable!
+Austin (laughing): Yes. Yes. 
+[Transitional music - starts] 
+Austin (continued): So, just keep that in mind. So, Burning Brand. What’s that look like when you try to do that? Ephrim?
+Sylvia: I think— [unintelligible] 
+Austin (overlapping Sylvia): Like, what’s it supposed to look like?
+Sylvia: What it’s supposed to look like is… like, basically Ephrim puts his hand out and a weapon of fire appears in it.
+Austin: Ok.
+Keith: Like Kuwabara.
+Sylvia: Basically.
+Austin: Oh, so you’re Kuwabara, gotcha. 
+Sylvia: I’m Kuwabara... Well, it depends. Sometimes it’s a sword, sometimes it’s a—it changes shape—
+Austin: Depending on what tags you give it, basically. 
+Sylvia: Exactly.
+Austin: Cool, cool, cool.
+Sylvia: It’s pretty cool. 
+Austin: Um-
+Sylvia: This time it just kind of fizzles, ‘cause I’m surprised.
+Austin: Is that why it is? Do you just not have the focus—are you just not able to have the focus that you need? 
+Sylvia: I think what actually happens is… Fantasmo slipped on some ice, right?
+Austin: Yeah.
+Sylvia: What if I slipped on some ice too?Austin: Oh, man. Yeah, you know what it is? [Sylvia laughs] You start to draw the fire out, and it melts the ice under you such that it gets slippery. Like, it goes from being a solid ice chunk to being completely—or, not completely, but—
+Sylvia (overlapping Austin): Oh, like that slush?
+Austin (overlapping Sylvia): -slushy and liquidy—
+Sylvia (overlapping Austin): Yeah.
+Austin: -and so you slip and fall.
+Keith: I like the idea that our new badass first move is to slip and fall on some ice. [laughs]
+Austin: Welcome to Friends at the Table!
+Sylvia: You know what?! 
+Keith: Yeah!
+Sylvia: It’s—you know. 
+Austin: Take two damage from falling on your fucking face. 
+Sylvia: And I will also take an XP.
+Austin: Lem and Fero. 
+Keith: Hey.
+Austin: How you guys doin’.
+Keith (overlapping Jack): Hey.
+Jack (overlapping Keith): Hi. 
+Austin: You’ve made it to the museum you were after! And I think only at getting there do you realize that you’ve lost both Ephrim and Fantasmo. You’re at the top of a—Fero, what’s… what’s traditional halfling architecture look like? What does the old world of halflings make when they need to make a big building?
+Keith: It’s a dome. They went straight from the hills to, like, 'Well, this is what buildings look like, right?'
+[Jack and Austin laughing]
+Keith: So, everything is round at the top.
+Austin (overlapping Keith): Ok, cool. So it’s round at the top. The thing that makes this one really nice is that it’s glass up top. There’s- you know, there’s a lot of glass in halfling culture. It’s a culture of glassblowing.
+Keith: Yes.
+Austin: But also—
+Keith (amused): Lotta pipes in halfling—
+Austin: Lotta— [amused] lotta pipes. But it’s not often the case that you get, like, huge structures or glass domes, or at least it didn’t used to be.
+Keith (overlapping Austin): Mmhm.
+Austin: But it is now, for some reason.
+Keith: Yeah.
+Austin: And you’re able to go to the top of that—the top of this museum. I think at this point you could have gone down some stairs and up some stairs and climbed some ladders all—like, it’s been a whole—you two are running as fast as you can. 
+Keith: We went a long way without noticing our friends were gone.
+Austin: Correct.
+[Jack laughing]
+Austin: And now you’re both here, looking down into this museum. It’s a museum that’s been converted. It’s still a museum, so it has all of the traditional stuff that it has. 
+Keith: Mmhm.
+Austin: It has a new wing on it, and this is the opening of that new wing. And the new wing in this case is another dome. It’s like a smaller dome that’s attached to the first dome. So, it’s like a circle and then another little circle near it. Here, I’ll just add it to the map really quick, ‘cause that’s fun to do. Nice, nice black circle, here.
+Jack (vaguely sarcastic): It’s so great to draw circles.
+Austin: It’s—circles are fun! Did you know?
+Keith (overlapping Austin): What a shape. 
+Austin (overlapping Keith): Did you know circles are fun? What color should it be? It’s a museum. It’s… I’mma make it purple. So, here’s like, the main part… Actually, I’m gonna make it closer to the ocean. That’s fun. So it’s there, and now there’s another little wing that’s just attached to it like that. And so, you’re now standing at the top of this new wing. And down below there are like—I’d say there are probably two hundred people in the new wing, at the kind of center of the new wing, which is a circular kind of receiving room. There’s a stage that’s set up. There’s musicians playing. It’s a mix of all sorts of people, not just halfling. And you’re able to look down inside of it. 
+[Transitional music - starts]
+Austin: So, before you do anything new here, what have you been doing over the past three months, Fero? [Transitional music - ends]
+Keith: I would have to say... there’s probably a lot of sulking?
+Austin: Mmhm. Fair.
+Keith: ‘Cause that was a rough time. And, actually, the whole—everything leading up to it was also a rough time. 
+Austin: Yeah.
+Keith: I imagine that... Fero probably spent a lot of time alone.
+Austin: Mmm.
+Keith: Escaping to the woods… and then… the mountains. Like, trying to like, 'Woods, still not far enough away.' 
+Austin: Ok.
+Keith: 'Mountains, here we go. Now we’re—now we’re talking.'
+Austin: Give me a wisdom check.
+Keith: Wisdom check? Sure.
+Austin: Yeah. [pause] You’re pretty good at WIS, right? Yeah, you got a ten! Ten is really good! So, two things happen. One, you feel like there’s a different sort of animal out there. Like, something strange. In the mountains.
+Keith (overlapping Austin): Not the hyena-man.
+Austin: Well, ok, besides the—it can’t be a hyena-man. Hyena-men are not animals. They’re—they—
+Keith (overlapping Austin): Right, yes, they’re- right, yeah.
+Austin: They’re gnolls. They’re gnolls with a 'g.' What sort of animal is it that you notice? And you kind of intuitively, even though you haven’t laid eyes on it yet, you feel it and can be it now. 
+Keith: Ok. Ummm... animal that I feel, in the mountains...
+Austin: I think it’s a fantastic animal, too. I don’t think it’s just a... a wolf. 
+Keith: Ummm... right. Ok. This... is... a... shit, now it’s fantastic! I had—
+Austin: Yeah.
+Keith: I know all about regular animals.
+Austin (overlapping Keith): Yeah, well—
+Keith (overlapping Austin): I have a bunch of them under my belt. I have one fantastic animal under my belt.
+Austin (overlapping Keith): It could be a unicorn. It could be a... a... you know, an ape that has some stone features or something It could be a...
+Keith: No, this is a... fucking shit. This is... I have so many ideas now. 
+Austin (amused): Ok.
+Keith: It is.. it is a... imagine a saber-toothed tiger, if... it was also... hmm. On fire? No. 
+[Sylvia and Keith laughing]
+Austin (disapproving): Mmm—
+Sylvia: That’s my thing!
+[0:30:00]
+Keith: See? Listen! Um, saber-toothed—no. I’m done—No more saber-tooth tiger. Where are we?
+Austin: Oh, so you’re throwing out saber-tooth tiger. 
+Keith: So you’re throwing out saber-tooth tiger. Ok, so, it is... a... giant... 
+Austin: Good.
+Keith: ...winged... NO.
+Austin (overlapping Keith): Ok—
+Keith (overlapping Austin): I do that too much.
+Austin (exasperated): Oh, my god. 
+Keith: It is a giant... 
+Austin (still exasperated): Uh huh.
+Keith: ...poisonous... 
+Austin (hopeful): Ok? 
+Keith: Snake.
+Austin: Oh, I’m sorry, Jack. Your friend can turn into a snake now.
+Jack (overlapping Austin): It’s—it’s—it’s—it’s fine, it’s fine. It’s fictional.
+Keith: That’s a good point. [Jack sighs and laughs] Ok, it is a—
+Jack (overlapping Keith): No no no, be a snake! 
+[Austin laughing]
+Jack: No, I mean, we narrowed it—
+Austin (overlapping Jack): Also, we said fantastic animal, and your thing was a big poisonous snake! Those are real! 
+Jack: You narrowed it down—
+Keith: Well, listen, well, they’re not—not this big. 
+Austin: Oh, ok, this is like a big—a big ol’ snake. 
+Keith (singsong and overlapping Jack): Big-ol’-snake.
+Jack (overlapping Keith): I mean, if it’s a basilisk, I feel a little bit better about it, if it’s a basilisk. 
+Keith: It’s a basilisk—
+Austin: Don’t basilisks have feet?
+Keith: No.
+Austin: (overlapping Jack): No?
+Jack (sarcastic, singsongy and overlapping Austin): Nah, dude, you’re thinking of a liz-aaaard!
+[Keith and Sylvia laughing]
+Austin: Oh, right, lizards. 
+Keith: [sarcastic] Austin, you’re always mixing up basilisks and lizards! No. This is—I’ve got it now. I’ve figured it out—
+Austin (defensive, overlapping Keith): Basilisks have feet. 
+Jack: They d- [dissolves into laughter]
+Sylvia: Some do. [unintelligible]
+Austin (overlapping Sylvia): Some have feet!
+Sylvia: The first image on Google does, [overlapped] but then all- a lot of the others don’t.
+Jack (overlapping Sylvia): I’m thinking of the Harry Potter basilisk, and I’m also not going to google basilisk cause I might see a snake. [laughs]
+Austin: Fair. That’s fair.
+Keith (overlapping Austin): No. I’ve figured it out. I’ve figured it out.
+Sylvia (overlapping Keith): I mean the second one is a bat and a snake. 
+Keith: This is a burrowing...
+Jack: Oh, Jesus Christ.
+Keith (overlapping Jack): ...poisonous...
+[Sylvia giggling]
+Austin:i[long pause] Snake. 
+Keith: Vole. [laughs]
+[Sylvia laughing] 
+Austin: Ok. You get a poison vole. Dig- burrow-
+Keith (overlapping Austin): And here’s why- here’s why else it is fantastic, is because the thing I found that it was [Jack laughs] burrowing in is mountain.
+Austin: Ok, so it burrows through stone. That’s fair—
+Keith (overlapping Austin): And not just like dirt.
+Jack: Ok.
+Austin: Ok, you come up with a cool name for that bullshit. 
+[00:31:40]
+Transcriber Cole beginsKeith: Ok. 
+Austin: But there's another thing that you feel while you're doing that-
+Keith: Ok. 
+Austin: -which is so, you're from the mountains, or you've lived in the mountains a lot, right, Fero? 
+Keith: Yes. Yeah, yeah, yeah. That's where I-
+Austin: Alright. 
+Keith: That's where I went when I left Rosemerrow first. 
+Austin: So, there was an insect species that was like, everywhere when you were in the mountains before. It’s just gone now. 
+Keith: An insect species? 
+Austin: This- well, it’s like an ant or something. Or like a- like a mountain termite. Like, something that lives in the- in the dirt. 
+Keith: Right. 
+Austin: And it’s just gone. 
+[Transitional music - starts] 
+Austin (continued): And that's strange. 
+Keith: Extinct. 
+Austin: It is extinct. Yeah. Which is a thing you notice because you rolled so well. [music plays for a bit]
+Keith: I mean I would imagine there’s a lot of tourists at the museum. 
+[music fades out]
+Austin: Yes, there's a ton of tourists at the museum. Like, tourism is- is huge in Rosemerrow right now. You know when you-
+Keith: Booming business.
+Austin:  When you grew up- so, to talk a little bit about what Rosemerrow looks like again, there's Knoll Hollow up to the north. And then Roseheart, which I mentioned. This is Westshore- upon-Sea, which is just to the southwest of- of Knoll Hollow. 
+Keith: Mhm. 
+Austin: There's this whole kind of center like, bottom area that goes to the- to the woods- When you were growing up, it was like, there is a cool beach, there are fields where people are growing things, there's- there's some villages, there's some windmills. And a lot of that stuff is still there. 
+Keith: Yeah. 
+Austin: But now, there is a place called the Kickshaw, which is where people- There's like, a huge manufacturing district here now where people are just churning out stuff like, tourist trap tchotchkes and woodworking for- for it like, carpentry- all sorts of stuff that gets sold all around Hieron. 
+Keith: I mean if the- if the Church of Samothes this is popular here now that means it's you know, safe for tourists! 
+Austin: Totally. That's actually completely true. Of course, right now, there isn't a ton of tourism because of the snow. 
+Keith: Right. 
+Austin: The- People still haven't quite worked out how to- how to travel long distances in the snow. Ordenna’s doing ok, but not so much for most other people. The other big difference here is that on- There’s two other big differences in the city right now. One is there's a new district called Wistful Peaks, which is like, five or six giant skyscrapers that have forests kind of built into the sides of them. There's a real place in Italy. Jack, do you remember what that's called? I want to say it's- it’s Bosco-
+Jack: It's in Milan? 
+Austin: It’s in Milan, yeah. It's called Bosco Verticale [ver-ti-call] or Verticale [ver-ti-ca-leh]. And it's just like, these skyscrapers with trees and stuff put on them. And so like, Wistful Peaks you can see from across the entire city. These like, giant skyscrapers with trees like, planted on the sides of them. So, that's one big thing. 
+Austin (cont.): The other big thing is the beach area that used to be like- it used to be like, um- I guess in- in Jersey, they're called the Pine Barrens which are like- it kind of like- a piney forest that then runs up unto like, a bay, basically. That used to be filled with trees and dirt, and then eventually kind of slowly became the the beach. They- While you were gone, Rosemerrow got rid of all of those trees for a new expansion. And in fact, in general, Rosemerrow- Rosemerrow feels like it's expanding rapidly given the time away that you've had. Like, it- normally you leave a place for a couple of years, you come back, it's mostly the same-
+Keith: Mhm. 
+Austin: -and you notice a couple of different things. 
+Keith: Yeah. 
+Austin: You’ve been gone for a couple of years or something, right? 
+Keith: Yeah. A few years. 
+Austin: It's- You get lost in your own city. You know? It's- it's- [overlapped by Keith] There are some many more people.
+Keith: It  sounds like, it’s more- it’s like, almost doubled in size. 
+Austin: Easy. Easily double. Maybe triple.
+Keith: And a lot of the buildings have been replaced and moved. 
+Austin: Right. Except that in the Long Sand, which used to be just kind of wooded area, it's now just sand. It's now just like, a huge beach with nothing on it because the winter came and stopped all of the development. No one knows how to build new stuff in the winter yet. 
+Keith: Mhm. 
+Austin: And so, there's just like, big empty- it’s a huge empty sand lot like, miles and miles and miles wide. And then also, every now and then, a huge rusted like, framework for what would have been another skyscraper. And it's just this weird mix of new and old, and also in general, Rosemerrow is filled with people who want to pretend that it is still the old days. Right? Like, that is the weird mix that you're- that you're running into here. Cool. Um, Fantasmo, this giant hyena man lifts you up by the collar even though you're invisible. And you- his like, drooling snout is right in your face and is like, [sniffing foley]
+Nick: Eww. 
+Austin: [snorting and sniffing foley] What do you do? 
+Nick: Does this thing count as a beast or monster? Probably does.
+Austin: Probably. Sure. 
+Nick: It's not a person that I can charm. 
+Austin: Oh, you could charm. Yeah, you could totally use charm. 
+Nick: Ok. But it specifically says the person- 
+Austin: Yeah. 
+Nick: -not beast or monster.
+Austin: This thing has language. This thing is sapient. 
+Nick: Ok. 
+Austin: This isn't a wolf. 
+Nick: I'm gonna reach out-
+Keith: No, it’s a hyena.
+Austin: [amused] It is a hyena. Yeah, thank you. 
+Keith: [quietly] You’re welcome.
+Nick: I’m gonna- I'm gonna touch that gooey snout. [lightly laughs]
+Austin: Ok. Give me another spell check. 
+Nick: Oh! That's not a good roll.
+Austin: And that’s a- that’s a five. Alright. [someone whistles] I think we're going to- You, uh- When you fail that, you reach out to kind of boop him on the nose-
+Nick: Uh huh.  [Keith laughs]
+Austin: -and we just see a camera shot of him snapping like, right at the camera. And then we fade. [Transitional music - starts] Lem, I kind of mentioned this before, but I think this is like, a heist of convenience. Lem, you are technically I guess the leader. You're the one who put this crew together. 
+Jack: Great.
+Austin: A couple of months ago, when the snow happened, before he left, Mobash left you a note. For people who don't remember Morbash is an orcish archivist collector. Kind of an acquirer. He- he goes from place to place and collects things that need to be taken back to The Archives. Um, for reasons. And he was not very pleased with you because you'd stolen this magical fiddle. 
+Jack: Yeah. 
+Austin: Which is bad. Shouldn't have done that. But he was generally impressed with your performance on High Sun Day when you helped solve a murder, and in general, kind of has this vibe that's kind of… not approving of you, but like, wants you to do good. He wants you to do well. [overlapped by Keith] He believes in you.
+Keith: He's rooting for you. 
+Austin: Yeah. Even though he kind of is also your biggest critic. But he leaves you a note. His note explains three things- or he kind of says, you can come back into the good graces of The- The Archives. I'll help make that happen if three things happen. One, you return the fiddle as soon as possible. Two, you recover a specific painting from this new museum that's opening up. That's normally what his job is, but given the snows, he has other places to be. And it is- it is a painting that is not on display; it is locked behind a vault in the basement of this museum. 
+Austin (cont.): Three, he had- while he was in Velas, had been taking care of kind of a spice plant. It's kind of like a- like a thyme that only grows in Velas. And you've had a whole collection of it in a- in a greenhouse that was attached to the orcish library there. But during the blizzard, the- the glass shattered, and much of it froze to death. But he kept one plant alive, and he didn't have room for it in his stuff. So, he wants you to take care of this plant and bring it back to him. 
+Jack: In The Archives?
+Austin: In The Archives. 
+Jack: I've just got a plant? 
+Austin: You have a plant. You have a little plant of thyme. 
+Jack: How big is it? 
+Austin: A couple of feet - or not a couple of feet. Like, kind of like, a foot? I think it’s like a cubic foot. Like, a foot cubed. Like, a foot by a foot by a foot. 
+Jack: I have to carry a plant to The New Archives? 
+Austin: If you want to be on Morbash’s good side. 
+Jack: Great. This is a great show. 
+Austin: Give me a wisdom che- How do you take care of a plant? How do you take care of this plant? 
+Jack: So, I think- I think archivists travel with a particular- with a particular bag. 
+Austin: Yeah. 
+Jack: And I think that there is a kind of a cottage industry. Or, you know, an industry maybe-
+Austin: Yeah. 
+Jack: -across all of the Hieron that we know of places that archivists can buy bags.
+Austin: Totally. 
+Jack: And people who want to look like archivists can buy bags, in the same way you can buy like, Cambridge messenger bags and things.
+Austin: Mhm. 
+Jack: And I think these are sort of like, um- almost like a cross between like, a mid century doctors travelling case-
+Austin: Uh huh. 
+Jack: -that opens up into lots of different bits and pieces, or like, a sewing box or a tool kit.
+Austin: Yeah. 
+Jack: And also just a rucksack and a messenger bag. 
+Austin: Yeah, I kind of imagine like, a really firm backpack. Like, the kind that has like, a wire frame or something that kind of like-
+Jack: With a handle on the top so you can-
+Austin: Yeah.
+Jack: -hold there if you like, you know, boarding- [overlapped] an Ordennan train or-
+Austin: [interjecting over Jack] Climbing or something. 
+Jack: [amused] -climbing. 
+Austin: Right. 
+Jack: And I think the plant is probably in my bag at the moment, and it is- it's strapped in. 
+Austin: Mhm. 
+Jack: It's very cozy. And I think it's surrounded by- by hay or straw and feathers to keep it warm.
+Austin: Ok. Ok. So, it is about keeping it warm. I feel like this is-
+Jack: And I think everyday I water it. 
+Austin: Ok. Give me a wisdom check. Because I feel like this is you’re attending to it. You're watching it carefully. You're trying to judge what sort of quality it is- it is in. 
+Jack: I think we're about to find out what sort of a gardener Lem is. 
+Austin: Yeah. We are. 
+Jack: He’s an alright gardener. 
+Austin: He's an alri- He rolled a nine. So, I'm gonna- I'm gonna keep track of the life of this plant this year. 
+Jack: Wait, really? [laughs] 
+Austin: [overlapping] This is another one of those things I figured out- 
+Jack: [overlapping] How many- how many health does it have?
+Austin: You don't know. It's a plant. How- how do you know about plants? What do you know about plants? 
+Jack: Ok. Sure. I know very little. 
+Keith: I know about plants. 
+Austin: Mhm. 
+Jack: He does. Actually, he does! 
+Austin: He does. Yeah. Do you want to help? 
+Keith: Yeah, I can help. 
+Austin: You can- you can Aid or Interfere. 
+Keith: I will aid. 
+Austin: What's your bond with- with Lem?
+Keith: One bond. 
+Austin: But what is it? 
+Keith: Oh, my bond with Lem is, ‘Lem King is a true friend and might get us all killed.’ [Sylvia laughs]
+Austin: Lem, for the record, what is yours with Fero? 
+Jack: My bond with Fero is- ‘Fero’s happiness at the destruction of Nacre is deeply troubling. I will seek to protect what he wishes to destroy.’ 
+Austin: Good. Cool. Good friendships. 
+Keith: Yep. Very strong group.
+Austin: Give me a- give me an Aid-interfere. 
+Keith: So, this is just a plus one, right? 
+Austin: If you succeed, yeah. Which would make it a ten, which would be a really- 
+Keith: No sorry I mean it would be- it would be a roll- a d-
+Austin: Yes. 
+[simultaneously]
+Keith: 2d6 plus one.
+Austin: 2d6 plus one. [Keith laughs hard]
+Jack: Does this- does this-
+Austin: Keith rolled a one- er a five. 
+Jack: -backfire? Does this backfire?
+Austin: Yeah, uh huh. Well, no. Cause what it does is it opens up Fero to- to whatever happens next. Um, so what-
+Jack: Yeah, it's gonna be retribution. 
+Austin: When was this happening? Is this- This is probably happening, let's say, the night before the heist.
+Jack: Mm. 
+Austin: And like, you two are looking over this plant.  Uh, Fero, Lem is just constantly just like- just doting over this plant and like, checking the soil… or like, changing the soil out completely. 
+Keith: This is- Wait, so this is one of the things that he needs for the man? 
+Austin: Yes. 
+Keith: Ok. [Jack laughs quietly] [overlapped] Wanted to make sure it was that.
+Austin: How do try to help, and how do you fail? 
+Keith: Oh, I know exactly how I try to help and how I-  how it fails.
+Austin: Uh huh. 
+Keith: I- I try to help by- We both get really close. I'm like, 
+Keith (as Fero): Here's how you can tell how durable a plant is. You get really close and you see these little hairs here? 
+Jack: [quietly; overlapped] I swear to god. 
+Keith: And then the plant sort of coughs in our faces, and we just- We are just really- We just- we don't feel like ourselves. Really hard for us to notice the things that are happening. Like, if our two friends decided to stop following us-
+Austin: Yep. 
+Keith: -cause they were being attacked by a giant hyena man, [Jack laughs] we just like-
+Austin: Yeah. 
+Keith: -maybe wouldn't even notice. 
+Austin: Yeah, you know what? You're totally right. You should both take confused. 
+Jack: How do I do that? 
+[crosstalking]
+Austin: I'll flip- I'll flip all- There you go. 
+Jack: Oh, I check-
+Keith:Go to character sheet, and you can just click it. 
+Jack: Great
+Austin: Click. Click confused. You got a little too close to this magic plant.
+Sylvia: [quietly; overlapped] Jesus Christ.
+Nick: And now you're both high as fuck.
+Austin: Yep. Yep! You're both high as fuck.
+Sylvia: I love-
+Keith: At least here in Rosemerrow. Fit right in. 
+Sylvia: [amused] I love that this high ranking archivist asked you to run his grow op, basically. [laughter]
+Austin: Yep. Yep.
+Sylvia: Yeah.
+ [Transitional music - starts] 
+Austin: [using a different voice] ‘Hey, listen I really need this plant, Lem. You gotta.’ [Keith laughs]
+Jack: ‘Gotta come back to The Archives.’ 
+Austin: ‘Gotta come back. Very important.’ [music plays briefly] Ugh, god. I'm glad you're confused now looking in [Jack laughs] down at this- at this thing. So- so, Fero, what are you here for? So, here's- I mean, I’ll  go over where everybody else is. 
+Keith: That’s the thing. I was actually just going to ask that because Fantasmo-
+Austin: I’m gonna ask you.
+[0:45:00]
+Keith: -and Lem are here for very specific reasons. 
+Austin: Yeah. Yes. Ephrim also has two- two things that he wants. Ephrim wants one, there's apparently- there is a... Did we talk about the thing already? Cause I know one of them is-
+Sylvia:  I don’t know-
+Austin: -is generally, you're interested in history and old fairy tales and stuff, Ephrim? 
+Sylvia: Yes. 
+Austin: Which is good. It's capital G- Good. 
+Sylvia: Yeah. 
+Austin: Did I tell you what the other thing was already? 
+Sylvia: I don't think you did. I think you just said you had something.
+Austin: Ok. So-
+Sylvia: And we were going to talk about it. 
+Austin: Yeah. So, I think it is an old ring of Samothes. It is something that will supposedly aid in your quest to undo the blizzard that is consuming Hieron right now. It's a- it's a holy artifact that- that can enhance your natural fire powers. 
+Sylvia: Love it. 
+Austin: So, that's what you're there for. But Fero, yeah, what- Are you just going along because your buddy is trying to rob this old museum? 
+Keith: I think that… fam- So, family is a very complicated thing. 
+Austin: Yes. 
+Keith: For- for a lot of people. Pretty much everybody. 
+Austin: Mhm. 
+Keith: And a lot of times, your family can make you do things that maybe that you wouldn't do if they weren't your family.
+Austin: Yeah. 
+Keith: And also like, things it like, wouldn't- Like, maybe you go home for Christmas, and you do and say things that you would never do in any other context besides being around your family. And I think that that's sort of what's happening here. Fero- there's something that belongs to- to Fero's father that is in this museum.
+Austin: Interesting.
+Keith: And he just wants it. 
+Austin: Ok, what is it?
+Keith: He just wants this old- I think that what he wants is a collection of- a collection of photos and journals. That were-
+Austin: This is-
+Keith: Hm?
+Austin: Go ahead.
+Keith: That were kept by his father. That are not even in the museum to be displayed; they're in there because it's- it's in just a section- it's in a section of like, classic Rosemerrow craftsmanship. Cause all that stuff was in a box that his dad built. 
+Austin: Right. 
+Keith: It’s just- in there.
+Austin: So, this is actually… It is on display because as you look down into the- the display or in through the windows, into what the exhibition is, you kind of start to piece together- and I'm curious what you both individually think about this, um... You know, actually, I think maybe you- you… So, you're there. Are you going inside? Or are you just watching from the top? And I'll explain what it is as you get closer. 
+Keith: Um-
+Austin: Or-or if you- Like, depending on which way you go in. 
+Jack: Yeah, I’ll go inside. 
+Keith: Yeah, I’ll also go inside. 
+Austin: Are you going in through the rafters up top? Are you going back- Are you going downstairs now that you've lost this hyena man? 
+Keith: I'm going downstairs right through the front door. 
+Jack: I'm going through the rafters. 
+Austin: Alright. So, you’re splitting up.
+Keith: Oh, we're splitting up already? Great. 
+Austin: Good. Good game. 
+Keith: Let's split up for a second time. [Jack laughs]
+Austin: [amused] Yep, we're splitting into- into-
+Keith: Oh, I also want to make this-
+Austin: So-
+ Keith: We probably, at this point, have noticed that-
+Austin: Oh, yeah. 
+Keith: -Ephrim and Fantasmo are not here and just don't even consider that we should do anything about it. We don’t even-
+Austin: Yeah. What is - what are you doing? Is part of like- Lem, as the leader of this heist, what are you- why- what's your response to that? 
+Jack: Um-
+Keith: Well, we're confused. 
+Austin: Also, I think that the letter from Morbash pretty much like, specifically said, ‘Alright, you're gonna need to probably build a team to get in there and get everything you need.’ [Keith laughs] The way he- He basically says like, you know, ‘Rosemerrow is filled with- with con men and with ne'er-do-wells many of whom you could- you could bring to your side with just a whisper of coin.’ And so, kind of like,’ Ok yeah. Build a team.’ 
+Jack: So, I think the form that the confusion takes is... Well… [exhales] I think- I wonder whether or not, at this point, on the rooftops, Lem is sort of like, ‘Well, they'll probably find- You know, they'll find their way, right?’ 
+Austin: They’ll find their way. They're professionals. You've seen Fantasmo work. 
+Keith: Yeah, they stopped- they probably stopped to tie their shoes or something.
+Jack: You know when you look back on a thing in your mind, and it's either much, much worse-
+Austin: Yeah.
+Jack: -or much less bad than you imagined?
+Austin: Uh huh.
+Jack: It’d be like, 
+Jack (as Lem): That hyena man wasn't very large. [Austin exhales a laugh] He was like, nor- normal sized. 
+Austin: Perfect.  
+Keith (as Fero): And there's no- We have no evidence that he was even trying to get us. 
+Jack: This is a conversation we're having right? On the roof. 
+Austin: [laughs] Yes. [Keith laughs] 
+Jack (as Lem): We have no evidence that he was trying to get us. 
+Keith (as Fero): He was just probably going this way. 
+Jack (as Lem): Look. Look. We shouldn't have been on the roof, right? [Keith laughs] Like, we shouldn’t have been on the roof. 
+Austin: For one.
+Jack (as Lem): For one. 
+Austin: No. 
+Jack (as Lem): But they’ll be fine. They’re fine.
+Austin: Alright. So, who's going in the-? Fero, you're going in the ground floor? 
+Keith: I’m going on the ground floor. I’m just gonna walk in.
+Austin: Alright, so-
+Keith: It's a museum. There's lots of people in there. 
+Austin: There is a kind of- almost like. a schoolmarm-looking halfling lady with glasses pushed up on her nose. She's like, pushing glasses up on her nose as you come in. Long black skirt. Like, lots of pleats. Pleated skirt-
+Jack: Mhm. 
+Austin: -with like, a tucked in blue sweater with like, a white blouse under it with very sharp red buttons. 
+Keith: Right. 
+Austin: That go up the top. And she is like, 
+Austin (as Museum Halfing): Welcome, welcome. Welcome everybody. 
+Keith (as Fero): Hi, school mom. 
+Austin (as Museum Halfing): That's not my name. Thank you for coming. This is a beautiful ex- uh- ex- 
+Austin: She says, 
+Austin (as Museum Halfing): -expedition. You'll really love it. [someone stifles a laugh] Perfect these days for- for what's going on in the world. It’s good to get back to our roots. 
+Austin: You, uh- you go in through the top, Fero. Fuck! I did it already. Lem. God damnit. 
+Jack: Great. 
+Austin: [laughs] Last episode got someone's arm cut off. This episode got Lem and Fero’s names mixed up. 
+Jack: I’m gonna mark confusion on your character sheet. 
+Austin: Fucking bingo! 
+Keith: You had like, two years to practice. 
+Austin: I know. I know, and I just didn't- I just didn't practice at all. So, Fero, at the ground level you begin being led through this- this tour. At the top level, on the rafters- the rafters take you, Lem, to the kind of big open receiving area where there is a stage where a halfling man is sitting at a table and like, talking to some people near him- like, his advisers it looks like more or less. Remember, also, everybody has those three preparation points. Something to remember. 
+Keith: Are those-
+Austin: You can spend those to get a pl-
+Keith: Those are just three ongoing?
+Austin: A plus one on your rolls.
+Keith: Yeah. 
+Sylvia: [quietly in background] God damnit. 
+Austin: Yes, yes. But not on the- you can't spend them all on one. You can only spend one per roll. 
+Keith: Right, yeah. 
+Austin: And two, you couldn't have spent it on the lead-up roll, and you couldn't have spent it like- Lem, you could not have spent it on taking care of that plant. That was part of your preparation. 
+Keith: Yeah. 
+Jack: Ok. 
+Nick: Can you spend it after the roll?
+Austin: Yeah. You can spend it after the roll. 
+Nick: Ok. 
+Austin: Correct. Yes. Yes. But you only spend one so... So, Lem, you see this- this kind of halfling guy talking to his advisers. You can see there's like, five or six- there's a bunch of people from Rosemerrow here, standing around in this general area. And there's also five or six delegations. There is a collection of big hyena men here, of gnolls, who are like, sitting at a side table. There is a collection of-
+Keith: See! He was just coming this way. 
+Austin: You know. There is a collection of people from- who are- who are clearly like, dressed in their Sunday clothes. But that's to say that like, most of their clothes don't look very nice. And so, their Sunday clothes also are the sort of Sunday clothes that people who can't afford like, daily really nice clothes wear. They're kind of like, a working class like, a farmhand type people who are here in a kind of a group. There is a group of strange knights who- who bear the mark of Ordenna on them. And there's like, a little light puff of smoke that emerges from the back of them. There's one woman there with a short kind of pixie cut and very sharp features on her face who's also decked out in just fucking rad armor. And she's- she's here. 
+Austin (cont.): Uh, and then there's a couple of other groups that- that we’lll get into in a bit. And eventually, you're like, you know, stay- sitting in the rafters looking down. I almost love the image of Lem literally like, feet dangling from the rafters. [laughs lightly] And the one who- the guy who is sitting at the table finally stands up, and I think we probably get this both from the ground level at Fero's perspective and kind of high level from Lem looking down. He's a kind of a stout halfling. You know, the roundness of having enough money to eat well even when you're in the middle of a three month long blizzard. 
+Austin (cont.): I mean to be clear, the blizzard kind of ebbs and flows. It kind of gets really bad for a few- for like, a week or two, and then it gets fine. And then it kind of loops. And people are trying to recover, but it’s- they're not doing a great- great job. Especially because this has been an agricultural town forever. So, there's- there's a lot of food back- like, built up, a lot of rations built up, but not that many. So, this guy, he- kind of stout, still eating well for what he is. Big mutton chops. Hair thinning at the top. In fact, he has a hat on that he takes off as he stands up, and he says- he like, steps up to- He goes like, 
+Austin (as Halfling Speaker): [clears throat] Hem, hem. Eh hem.
+Austin: And kind of calls everybody to attention. There's some clapping. He's speaking into a kind of like, an analog amplifier. He's like, speaking down into what looks like, a microphone but then it pops up and is just like a big megaphone. Do you know what I mean? And he says,
+Austin (as Halfling Speaker): Thank you everybody for coming here today. It's an honor to open up this, you know, the uh- you know, the- the new wing of the museum the uh- It's- it's an honor. Complete honor. And you know, my grandpoppy, you know, Ledman Adelbury McGillicuddy Johnson Johansen Maestro Abelton Alexander Quinton Carver Mason Brubaker Seagram Lenova the fourth. [Keith laughs] He used to sit me on my lap- on his lap- not on my lap- on his lap, and he used to say, ‘You know, Lenny.’ That's me. Lenny Lenova, the mayor. He said, ‘Lenny, you gotta know your past. If you don't know it then, ehh’ You know? And that's the thing all growin’ up, I thought what's the ‘ehh’? But now, these days I look around- I look around Rosemerrow, and I get it. I get what the ‘ehh’ was. I understand. It's the big buildings. It’s the, you know, [quiety] what's happenin’ in Ordenna. And how that’s comin’ here. It's the whole thing. It's the whole thing! And now I'm thinking, you know, maybe we gotta go back. You know, obviously, we all love our history here in Rosemerrow. It's important, and that's why I wanted to dedicate this wing. You know, the- the Ledman Adelbury McGillicuddy Johnson Johansen Maestro Abelton Alexander Quinton Carver Mason Brubaker Seagram Lenova wing of The New Old Museum, you know, to my grandpoppy. And- and I wanted to show what our great history was.
+Austin: And everybody claps like, 
+Austin (as Audience Member):Yay. Halfling history. 
+Keith (as Audience Member): I like him cause he talks just like a regular guy! 
+Austin (as Audience Member): Exactly! He's just you and me! 
+Austin: And uh, the gnolls are like, slow clapping. [claps slowly] And like, one of the gnolls kind of like, lowers his hand and like, 
+Austin (as Unnamed Gnoll): Calm down, guys.
+Austin: Like, and he says- Lenny says, 
+Austin (as Lenny Lenova): So, it's with that great honor that I'm, you know, announcing, also, here on top of the whole- the new wing- the Ledman Adelbury McGillicuddy-
+Austin (as Audience Member): Hurry up!
+Austin (as Lenny Lenova): -uh, the Ledman Lenova wing of the New Old Museum, my intention to run for Chancellor of Rosemerrow for the next election. 
+Austin: And there's like, [mummering foley] Clap, clap, clap. And he says,
+Austin (as Lenny Lenova): The Chancellor from Rosemerrow... [more urgently] the- the Chancellor. 
+Austin: And then finally, there's like- like the pops of confetti, and a band starts [lightly laughs] hastily playing like, brass instruments. And then like, a huge banner falls down that's a picture of him with his big mutton chops like, pointing forward. And it’s a hand-painted mural of him pointin’ forward with one finger and giving a thumbs up with the other one. And it just says like, ‘Lenny Lenova. He'll get you there!’ [Nick and Keith laugh] 
+Sylvia: [exhales] God. [Jack sighs]
+Austin: And- and it's at this point- at this point, I think Fero’s made his way into- So, the actual- Let me give you the exhibit actually. The exhibit is literally the stuff that you were talking about, Fero. It literally is like- you probably find a sign at some point, and it says like, the- ‘The New Old Wing of the museum is dedicated to- 
+Keith: [amused] The New Old Wing. 
+Austin: Yeah, it’s The New Old Wing. Um, ‘is dedicated to the act of preserving halfling artwork and images and the daily objects of everyday life. It is a- kind of like, a reflection on the history of halfling- of the halfling culture of the long road that brought us here to our current civilized lives and to our- our, you know, the highest highs of modernity.’ It is a bunch of different sub exhibits. And like, they include everything from family portraits and like, little sketches that children had done to things like, everyday carpentry. And it's not... I guess maybe this is a thing Lem notices, there's a- there's almost a taste of The Archives here cause it's just like, ‘Oh, this room of the museum is for cabinets.’ And it's just 20 cabinets in a row and like, organized, you know, chronologically in this room. 
+Austin (cont.): But then you turn and go into a different room, and in that other room, it's like, teddy bears. And that's just- those are organized by color. And unlike The Archives, you don't get the impression that it's done that way here because that's trying to create some sort of almost magical effect. It's instead because different people were in charge of each room. And so it was like, ‘Oh I decided. Like, it’s color. It starts from the grey teddy bears and goes to the black teddy bears, and just color in the middle.’ So, there’s all sorts of different everyday stuff. One room is just family portraiture, and it's just wall- like, floor to ceiling portraiture with very little room in between the individual images. [overlapped] And it’s just-
+Nick: That was organized by size. 
+[1:00:00]
+Austin: [laughs] Yes, exactly.
+Nick: Smallest on the one side. 
+Austin: Right. And I think it's- it's smallest at the very top. 
+Nick: Yes. 
+Austin: Largest at the very bottom. So, you can’t even see the top ones. [Nick laughs] There is a section that's a bunch of- that’s like, dioramas of Rosemerrow. And like, some of them are really shitty like, grade school dioramas, and some of them are like, this person loves toy trains and has built the exact duplicate model of Rosemerrow. And there's one of them there that is the ‘Lenny Lenova Rosemerrow of Tomorrow’ that is like a lot of- a lot more of the kind of mounded houses that are currently in the north of Rosemerrow and a lot less of the skyscrapers. [laughs] Though um- though you do see a note- like a- you do see a little sign that says like, ‘Inverted. Inverted living quarters.’ And so, it’s just like, you look down below the table, and it's still skyscrapers; they just go deep underground instead of being above ground. 
+Keith: Oh my god. 
+Austin: So, he still has to- You know, it’s still a growing town. He just wants to look like the way it used to look. It's at this point that Ephrim and Fantasmo enter the picture again. As everyone's cheering, and it's like, [brass instrument foley] ‘broom, broom, broom, broom, broom, broom, broom~’ Like, there's like, dance music playing and- and brass instruments that our friend, Steadysnip- Steadystep, the gnoll, re-enters the scene. He like, leaps down from the other side of the rafters, Lem. Carrying in his teeth Ephrim, and carrying in his arms the- I guess, at this point, Fantasmo, you are- you’ve become in- you’ve become visible again. You also are going to take a little bit of damage for having been knocked the fuck out. [typing] 
+Jack: I think it probably-
+Austin: Take two damage. 
+Nick: Ok. 
+Jack: It's probably like, in this individual moment that, I don't know about Fero, but Lem definitely realizes how large the gnoll is. 
+Austin: Yes, he is I’d say twelve feet tall. And the thing is, he is not even the biggest. There are, at this place, four gnolls. Nope, that's not true. Five. Four of them are between I'd say ten and twelve feet. One of them is a little smaller, and that's the one that's dressed in what you would- you kind of guess is like, human or like, kind of like, Velasian style clothing. He has on pants and like, a baggy shirt. Like, a baggy, linen shirt. 
+Austin (cont.): And then there's one that's like, fifteen feet tall, and she is here to like, make no friends. Or maybe-  I don't know- maybe she's here to make friends, but she's not very good at it. And she's missing part of her snout, or she's missing part of the fur and skin on her snout. She just has like, muscle showing. Like, grown-over scar tissue. It's gross. And she looks like she's just here to like- like she could just fuck everybody up. And she's sitting with her arms crossed and is not very pleased with anything that's happening here. Ephrim and- and Fantasmo, you're tossed down on the ground in front of the other gnolls, and there's some like, snickering. And then, the little one kind of sighs, and people like,
+Austin (as Random Crowd): What's that's going- What’s going on? 
+Austin: But also they're dancing cause there's music happening, and they're also like, going to try to glad hand with Lenny because politics. Then eventually, the smaller gnoll goes over to talk to one of the halfling guards that’s up on the podium. What are the rest of you doing? Fero and- and- Sorry, Fantasmo and Ephrim, you can now come to, and you're just like, in this room. You've- you've awoken, and your hands are tied, and you're on the ground in between a bunch of gnolls in a halfling museum. 
+Keith (as Fero): Oh, hey. I knew that the hyena man was just on his way here. 
+Austin: [amused] Did you say this to Ephrim and Fantasmo? 
+Keith: I just say it out loud. Yeah. 
+Austin: Great. Good. 
+Sylvia: So, how far am I from like, a guard or anybody? Like, are they not here yet? 
+Austin: Oh, everyone's here. You're just- I’m gonna move you to a new room. 
+Sylvia: Ok. 
+Austin: That way can just draw this out real quick. 
+Sylvia: Ok. 
+Austin: Let's see. So, here's the big wing. That's not really in the center at all. I made another little concentric circle. Let's put that there. There's like a- Oop- oop- come here. Draw a shape for me. That’s in freehand.
+Keith: This is an egg. You're drawing an egg. 
+Austin: No, I'm not. I'm not drawing an egg.
+Nick: I thought it was an olive. 
+Austin: It does look kind of like an olive. Alright. So, there's an entrance to the south here. That's where you walked in, Fero. Lem, you are in the rafters above this big center circle. And then Fantasmo and Fero, you’re- or Fantasmo and Ephrim- I’m gonna get names right, I swear. 
+Sylvia: Jesus. 
+Austin: Are- are uh, in the middle of this room now. The podium and stuff is at the top where this long rectangle is. 
+Nick: So, is there just crowd-
+Austin: Yep. There's just a bunch of people here.
+Nick: -everywhere?
+Austin: Totally. So, you guys are here. That's- that's where you've been left with the gnolls. 
+Sylvia: I wanna-
+Austin: In fact, like, people see you, Ephrim, and like,
+Sylvia: [overlapped] I wanna move- 
+Austin (as Random Crowd): [whispering; mumbling] Is that Ephrim?
+Sylvia: I want to try and like motion for either a guard or someone who looks very well dressed to come over to me. 
+Austin: Um, that’s-
+Sylvia: Whichever I see first, or would I have to make a roll to-? 
+Austin: Yeah, that feels like a Defy Danger- Well, that feels like- either… What are you tryin’ to get them to do? Just to come over?
+Sylvia: I just wanna talk to them. 
+Austin: Are you doing this without being noticed by the other gnolls who have you- who are like, standing-
+Sylvia: Oh, the gnolls! Oh, so there's gnolls watching? 
+Austin: Yes. Yes. Yeah, they dropped you-  
+Sylvia: I totally blanked there.
+Austin: They dropped you- er Steadystep dropped you-
+Sylvia: Ok. 
+Austin: -at the foot of the other gnolls. You’re like, in the gnoll group now. 
+Sylvia: Then I want to talk to a gnoll. 
+Austin: Ok. 
+Sylvia: A different one though. Not Steadystep. 
+Austin: Alright. Do you want to talk to the little one? The one who has like, the people clothes on? 
+Sylvia: Yeah, the little one.
+Austin: Alright. How do you get his attention? 
+Sylvia: I just sort of like, you know the thing where you like- that- you like, move your head- 
+Austin: Like a little nod? 
+Sylvia: So, you're-
+Austin: Like, a little upwards-
+Sylvia: Yeah, like, just like- like-
+Austin: Yeah. 
+Sylvia: Tryin’ to like, ‘Hey, come here.’ 
+Sylvia (as Ephrim): Hey. 
+Austin (as Small Gnoll): [breathes heavily] Who are you? 
+Sylvia (as Ephrim): I am- Well, first of all, it's a pleasure to meet you. My name is- [sighs] I'll save you the full introduction. My name's Ephrim, and there’s been-
+Austin (as Small Gnoll): [laughs mockingly] You’re royalty! 
+Sylvia (as Ephrim): Yeah, there's been a bit [overlapped] of a misunderstanding. 
+Austin (as Small Gnoll): I didn't expect to meet royalty. This is quite an honor. My name is- [lightly laughs] My name is Chatterchin. 
+Sylvia (as Ephrim): It's a pleasure to meet you, Chatterchin. 
+Austin: He does like a bow. 
+Sylvia (as Ephrim): Now- 
+Sylvia: I sort of nod my head. [exhales heavily]
+Austin (as Chatterchin): What’d you do? 
+Sylvia (as Ephrim): You see- you-
+Austin (as Chatterchin): Why- why you got- Why we got you all tied up? 
+Sylvia (as Ephrim): Well, here's where the misunderstanding. You see, myself and the mayor, we’re- we're quite close. [Austin/Chatterchin laughs once] And I was hoping to surprise him after his announcement. You, no doubt, know of my gifts, and he was- I was hoping-
+Austin (as Chatterchin): The fire stuff. 
+Sylvia (as Ephrim): -to do a bit of a display.
+Austin (as Chatterchin): [lightly laughing] You do all- you do all the fire stuff. 
+Sylvia (as Ephrim): Yeah. Of course. I'm glad my reputation precedes me. So, unfortunately-
+Austin (as Chatterchin): Are you a wizard? Are you the wizard?
+Sylvia (as Ephrim): Um- N- [sighs]
+Austin (as Chatterchin): Which one of you two is the wizard? 
+Austin: He looks at you and then Fantasmo. 
+Nick: At this point, Fantasmo, who was actually still out until like, just this moment-
+Austin: Mhm. 
+Nick: -wakes up and looks around and then just like, sort of leans over to Ephrim and says,
+Nick (as Fantasmo): Who are these fuzzy Muppets? 
+Austin (as Chatterchin): Name's Chatterchin. I'm the- I'm the emissary. The gnoll emissary. 
+Nick (as Fantasmo): Nice to meet you, Chatterchin. I would shake your hand, except I’m- I can't. 
+Nick: And I like, sort of, you know, hold my wrists up.
+Austin: Yeah. 
+Austin (as Chatterchin): Ah, you were caught-
+Sylvia (as Ephrim): You see, Chatterchin, this is my assistant. Fantasmo. 
+Nick (as Fantasmo): What? [Austin laughs hard] 
+Sylvia (as Ephrim): Like, I said we were coming to do-
+Nick (as Fantasmo): Excuse me?
+Sylvia (as Ephrim): -a bit-
+Sylvia: I... like, hit him with my knee to get him to be quiet. [Nick laughs] 
+Sylvia (as Ephrim): This is my assistant, Fantasmo. He is magically gifted, as well. Yes. And we were hoping to, you know, sort of surprise the mayor after his announcement. And a bit of a misunderstanding with your large friend there has led to this sorry predicament. [overlapped] And I was just-
+Nick (as Fantasmo): Misunderstanding? He tried to eat me.
+Austin (as Chatterchin): [lightly laughs] You were uh- you were- You like the mayor? You friends with the mayor? 
+Sylvia (as Ephrim): Oh, Lenny and I? We're- we're good- we're quite close. 
+Austin (as Chatterchin): That's too bad. That's too bad. Not big fan- not big fans of him. [Sylvia/Ephrim sighs] Now you shut your mouths. And you just wait. Sound good? 
+Sylvia: Aw man. Ok. [Keith laughs hard] Um, hold on. I'm seeing what I can do here. 
+Keith: Oh wait. I thought ‘Aw man. Ok.’ was said in character.
+Sylvia: No, no. No, no, no. [everyone laughs] Sorry. That was Sylvia. [Jack and Austin laugh] 
+Sylvia (as Ephrim): See regardless of whether you and Leonard get along very well, I don't think it would be the best idea or the best look for you on whatever emissary mission you're on to have someone like myself, an unwitting prisoner, when we were doing something quite so innocent. So, I think it would be in your best interest and, of course, our best interest if you just undid these hand ties and, you know-
+Austin: Is this a- 
+Sylvia (as Ephrim): -did me a solid here.
+Austin: Are you parleying? 
+Sylvia: I was parleying or firebranding [inaudible; overlapped] -here.
+Austin: What’s- How does firebrand work again? You just did this, but- 
+Sylvia: Firebranding is just when you- 
+Austin: I see. 
+Sylvia: It's ‘When you introduce a new idea to an NPC, roll plus charisma.’ 
+Austin: Huh. 
+Sylvia: ‘On a ten, they believe the idea to be their own and they take to it with fervor.’ [overlapped] ‘On a seven to nine-’
+Austin: I'm torn on whether or not this as an idea.
+Sylvia: Yeah, that's the problem. 
+[crosstalking]
+Austin: I think this is-
+Sylvia: I don’t-
+Austin:  I think this is- 
+Sylvia: I think- I think it’s Parley. 
+Austin: I think it’s Parley, which is ‘When you have leverage over a GM character or manipulate them, roll-’ or ‘and manipulate them, roll plus charisma.’
+Sylvia: Ok. 
+Austin: ‘Leverage is something that they need- leverage something- it's something that they need or want.’ And so, what they want is definitely your- you- like, they don't like the mayor, but you being close to him is not good for- for them either. So, they want you to not fuck them over with what they're doing with the mayor. So- so, go ahead and give me a charisma. 
+Sylvia: Ok. I got an eight.
+Austin: So, ‘on the seven to nine, they need some concrete assurance of your promise right now.’ My Roll20 is not updated yet. There goes. So, he says. 
+Austin (as Chatterchin): Alright, Prince. You- you wanna do me a solid, then I'll- I'll let you go. [lightly laughs] You go introduce me to Mr. Mayor, and you help me convince him that we get our stuff back. Stuff's not theirs. It's ours. Ok?
+Sylvia (as Ephrim):  Which stuff are we talking about here? 
+Austin (as Chatterchin): The museum. The stuff in the museum. They didn't make that. 
+Sylvia (as Ephrim): Well, I suppose I'm out of options here so…
+Sylvia: And then he just kind of like- Ephrim just sort of raises his hands to have them untied.
+Austin: He just lifts you-
+Sylvia (as Ephrim): [overlapped] Whatever you say, Chatterchin. 
+Austin: He lifts you by the ba- by the bonding that's like- er like, the ropes that have tied you. He does not untie you. 
+Sylvia: Right. 
+Austin: And he like, guides you towards- towards the mayor. 
+Austin (as Chatterchin): You, too, wizard. 
+Austin: He does not help you up. Lem and Fero, what are you two doing? 
+IKeith: Was able to watch all that? 
+Austin: Yeah, totally.
+Keith: And here? 
+Austin: Yep. 
+Keith: I'll just go join them. 
+Austin: Ok. You walk up with them. [Sylvia laughs hard] Lem?
+Jack: I'm gonna try, and… What- what are my options for getting-?
+Austin: You get down. 
+Keith: I just- 
+Jack: Well, that’s-
+Keith: [interjecting]  I feel it’s very reasonable- Sorry, Jack. I just feel it's very reasonable that these gnolls would want their stuff back. 
+Austin: Mhm. 
+Keith: Ok, sorry. 
+Jack: Um, so like, this- this painting that I'm trying to get- 
+Austin: Yeah. 
+Jack: -it's not on display, right? 
+Austin: It is not. It is- it is in a holding- It is like, in a holding vault. And it's part of the main museum, as far as you know.
+Jack: Ok.
+Austin: Um-
+Jack: So, I’m still up- No, go ahead. 
+Austin: Go ahead.
+Jack: Oh, when I'm still up here, can I roll Discern Realities? 
+Austin: Totally. 
+Jack: So- 
+Austin: [interjecting] What's that do- what’s that look like? Tell me how he's doing it. 
+Jack: So, I think what's happened here is that Lem has kind of like, drawn his feet up onto the rafters and is watching the people-
+Austin: Mhm. 
+Jack: -who are in the museum, and he's watching where the Ordennan people are and where the mayor’s people are and where the gnolls are and the guests. 
+Austin: Yeah. 
+Jack: And what doors certain people are allowed to open or move through. 
+Austin: Yeah. 
+Jack: And where people are looking as they pass through certain doors, in the same way that when you're walking around in a museum, you're looking, and you’ll go, ‘Oh, ok. That bit’s closed.’
+Austin: Yeah.
+Jack: Lem’s watching for that in an attempt to try and sort of get a sense of like... I doubt we did a lot of preparation, honestly. 
+Austin: Doesn't sound like it. 
+Jack: And I think from this vanta-I think I'm taking advantage of this vantage point, too. 
+Austin: Yes. Give me a- give me a check, and then you should also do a Bardic Lore with me- 
+Jack: Yeah. 
+Austin: -after that. 
+Jack: Absolutely. Ok. So, I'm rolling wisdom. Am I still confused? Or have I shaken that- I think-
+Austin: No, you are still confused, friend.
+Jack: Ok. Ok. Great. Uh, that's seven. 
+Austin: That's a seven. That's not bad. So, what do you uh-?
+Jack: So, on a seven to nine, I get to ask you one question from this list. 
+Austin: Yep, give me a question. 
+Jack: And I'm going to ask, ‘what here is useful or valuable to me?’
+Austin: Huh. That's a good question. In what sense do you want value? 
+Jack: Um-
+Austin: Are you talking about… your mission?
+Jack: Kind of path of least resistance. Yeah. My-
+Austin: Yeah. You can. You can get from- If you don't want to fuck with the rest of what's happening below, you can just leave. There's a- the rafters connect to a sort of pathway that goes outside. There's like a railed walkway that goes between this wing and the other wing. And because every- all the focus is here today that means security in the other wing will be minimal. So, your- your path of least resistance to go get what you want is right there. But there's also your friends tied up below. 
+Jack: Ok. Um-
+Austin: And then actually- you actually get a bunch of questions, which is ‘Whenever you- you enter an important location, your call, you can ask a GM for one fact from the history of that location. And you also have Bardic Lore, ‘When you first enter- encounter an important creature location or item covered by the grand histories of the known world, you can ask the GM any one question about it. The GM will answer truthfully. They may- they may then ask you what tale, song, or legend you heard that information in.’ 
+Jack: Ok. So, let's do location first and then-
+Austin: Sure. 
+Jack: -and then place? 
+Austin: Sure. 
+[1:15:00]
+Jack: So the- the thing I'm going to ask is Rosemerrow is very old, right? 
+Austin: In what way? 
+Jack: As a community. Not necessarily as a thing called Rosemerrow, but this place here is old. 
+Austin: Yes. 
+Jack: That's not the question. This is a- this is a p-
+Austin: Oh. Yes. [laughs]
+Jack: -a predicate to the question. 
+Austin: Yes, yes. 
+Jack: I guess so, the question is the first time this museum shows up in texts we have-
+Austin: Yeah.
+Jack: -what is it?
+Austin: The first version of it? The first of the big, old building that's the domed structure is... I think you can probably put it together here, which is like, ‘Oh, like, this used to be a meeting spot- a meeting place for where the gnolls and the halflings used to trade.’ This was a trade- a giant trading hall from the old days, when the gnolls, who lived in the north met the halflings that lived in the forests to the south. They'd come up here onto this like- this beautiful kind of beach neutral ground- or again, it was actually closer to being gnoll territory than it was halfling territory, and they would do trades. And it was also very... it was always very... um, precarious. Their relationship was never very positive. But in the old days, there was still a thing where like, you had to- you had to trade to- to live after the Erasure. And so, struggling communities found a way to meet in this one place that was like, sacred and- and work together. 
+Jack: Ok. And then I'd like to ask a question about the gnolls. 
+Austin: Sure. 
+Jack: Do I have to ask about a gnoll in particular,  or- or can I ask about the gnolls?
+Austin: No, you can ask about the history of the gnolls. 
+Jack: Ok. So, in gnoll culture-
+Austin: Mhm. 
+Jack: -what's the story? 
+Austin: Of like, them? 
+Jack: What's the story they tell? Like, you know, in the- If in the West, we're obsessed with the three act structure of like-
+Austin: Yeah, yeah, yeah. Their story is… there- there are no third acts in gnoll culture. They've lived through the first two acts. They're waiting for the third act. The first act is ‘We used to be wolves.’ Like, not literally, but we used to be like, the top of the food chain. We used to have stuff and not- and not- not literally. Not ‘we used to eat people.’ We used to have culture. We used to have buildings. We used to have places, and now we live in the fucking woods. And the second act is those fucking halflings took it from us. They told their lies, and they convinced their allies to help drive us away. And to take what was ours, and not just our buildings. They took those, too, but they took our... everything. They took our language. They took our jokes. 
+Austin (cont.): We used to live in holes in- in mounds because we were digging creatures. We used to build little nests there, and they fucking went in there and put in fireplaces and like, redid the walls and said it was theirs. It had always been theirs. [Jack breathes deeply] That is the story that is told by the gnolls, anyway. And they're waiting for the third act. Every now and then someone rises up who is like, considered the new third act. Right now, it's the tall woman, who is like, fifteen feet tall. Her name is Mother Glory, and she like, has promised to be effectively the gnoll messiah. She's here to- to usher in the kind of reinvigoration of the gnolls and to bring them back to the glory they once had. 
+Jack: Hm. Ok 
+Austin: How do you know that? 
+Jack: I think that, um-
+Austin: Is it a particular song you know? Is it a book written by an archivist? Is it from an ethnography of the gnolls? 
+Jack: Yeah. I think that- that we have a text. And it's a... I think the text we have is a dictionary of etymology. 
+Austin: Mm. 
+Jack: And it's a gnoll dictionary of etymology. And it is in thirteen volumes, and we have eight.
+Austin: [breathes a laugh] Ok. 
+Jack: And all of our research and everything that we can find, says that- that the- the- It stops there. 
+Austin: Mhm. 
+Jack: There are no volumes nine through thirteen. They were planned- 
+Austin: Right. 
+Jack: But they just don't exist. 
+Austin: Alright so, then let's- let's pivot here. That's what you're here for. Fuck the painting. You're here for nine through thirteen. 
+Jack: Oh wow. Which I've heard is here? 
+Austin: Which you've heard is- Well- well, which is kind of part of this whole thing, too, which is Morbash also wants to know if this stuff is legit. Is this halfling stuff or is it gnoll stuff? Like, or is it a mix? Like, because if it's really- if there really has been a thousand years or whatever of halfling history-
+Jack: God, of course this thing is in the vault, right?
+Austin: Right. 
+Jack: Like, this thing’s not in the gallery with the teddy bears-
+Austin: No, no, no, no. Right. 
+Jack: -ranging from black to grey. 
+Austin: Yes. Because if that book- if those books exist, they can confirm that the stuff upstairs is either gnollish or is manufactured or is- or is real. Maybe the book say- maybe books eight through thirteen say, ‘And we all lived all together, as a big group and things fell apart.’ Like, who knows? 
+Jack: Right. 
+Austin: You don't- you haven't read those books yet. And so, Morbash needs to know if this stuff is legit because if it is, then that could be good for the pattern. You need to know if it's- 
+Jack: Right. 
+Austin: Like, if you're- if you're tryin’ to do a huge pattern magic thing, like the archivists are always trying to do, then you need to know the veracity of the equipment that you're using. Right.?
+Jack: Yeah. 
+Austin: Like, if the goal is to put you know twelve halfling cabinets in a row in a certain order, you need to know if they're really ancient halfling cabinets or not. [Jack laughs] And if they're not, then you can't use them. So, that's- that's I think part of what your thing is. So, it’s to get those books and to verify the truth behind this stuff. But those- those books are definitely in that vault in the main- in the main hall.
+Jack: Ok. 
+Austin: In the main museum. 
+Jack: So, I'm gonna just slip through the path of least resistance-
+Austin: Ok. 
+Jack: -towards that section.
+Austin: Off by yourself. 
+Jack: Mhm. 
+Austin: Alright. So, Fantasmo and Ephrim are led to Lenny Lenova, who is the mayor, again, of Westshore-upon-Sea, which is the kind of township- the kind of entertainment-focused township of Rosemerrow. I know that's not how anything works. Like, there isn't just like, 'Oh, this is the entertainment district of town’ really. That things are more complicated than that, but like, it is the place where all the big theaters are. It is the place where- where, you know, the best entertainment that you can find in Rosemerrow can be found there. Like, other places have decent little clubs and musical spots and restaurants and stuff, especially places like, Roseheart, Creek Crescent, and the Kick Shaw. The more agricultural places to the east and the southeast are a lot more spread out, and so like, there might be one place to go see a community play- like a community theater play, among all of The Mills, Viridian Village, and- and Flank Fields. Whereas here, like, you're falling over theaters, you know? There's all sorts of stuff-
+Keith: It’s the best stuff cause it's got the rich people. 
+Austin: It's got the rich people. Exactly. And- and so, Lenny Lenova is the- is the mayor of Westshore-upon-Sea, not the mayor of Rosemerrow. Just to be clear. But he- he is aiming to become the Chancellor of Rosemerrow, which is the- the kind of head position here that kind of organizes all the different mayors and- and all the different communities to- towards one big goal. So, this is a little awkward because Chatterchin, like he said is not a big fan of Lenny Lenova. But he- he leads Ephrim and Fantasmo in front of the podium and says, 
+Austin (as Chatterchin): Mr. Mayor, I have a couple of your friends here to see you. 
+Keith: I am also there by the way. Just to- 
+Austin: Yeah. He doesn't know that you're there with them. 
+Keith: Right, no. he just thinks I’m-
+Austin: He just like, who is this other halfling? 
+Keith: -close by. 
+Austin: Ephrim, what do you do? 
+Sylvia (as Ephrim): Lenny! Great to see you. Bit of an awkward situation. [overlapped] I was hoping to surprise you.
+Austin (as Lenny Lenova): Why you all tied up? What’d you do? [Keith laughs]
+Sylvia (as Ephrim): Yeah, so I was hoping to surprise you in a much different way than what's happening right now. 
+Austin (as Chatterchin): He was caught creepin’. He was- He was creep- He was a creeper. [lightly laughs] He was a creeper on the-
+Sylvia (as Ephrim): I know. 
+Austin (as Chatterchin): -on the roofs. 
+Sylvia (as Ephrim): I know what a big fan you and a lot of the people here are of my gift, and I was hoping the surprise- I heard about your announcement. I won't say from who. Um, but I heard about your announcement. 
+Austin (as Lenny Lenova): It was secret. It was not supposed to be- it wasn’t supposed to be known-
+Sylvia (as Ephrim): No, and I wanted to- I wanted to surprise you with a little display. And I was supposed to come in from the rafters, but unfortunately, one of the gnoll friends here- 
+Austin (as Chatterchin): Tell them to give us stuff. 
+Sylvia (as Ephrim): -had a misunderstanding about it. Anyway, so, I'm in a bit of a spot, and I was hoping you could help me out. Apparently, you have- you and your museum are in possession of some things that belong to these good um… fel- fellows. Um, gnolls? It’s gnolls, right? 
+Austin (as Chatterchin): Yeah. Yeah. 
+Sylvia: And Ephrim kind of like gives Chatterchin a look. 
+Austin (as Chatterchin):  It’s gnolls. 
+Sylvia (as Ephrim): Ok, sorry. I'm not in- I’m not from here. Anyway, apparently you've got some things of theirs, and um, I’d really appreciate it-
+Austin (as Lenny Lenova): Nothing of the sort! What are you talking about? This is all- [stammers; then whispers] Did you read the signs? The signs say- they say it's the halfling history. It’s the whole speech I just gave. It’s the good stuff. It's ours. We've been building this for- I don’t know- a long time. Decades, centuries, etcetera. 
+Sylvia (as Ephrim): Lenny. Signs can say a lot of things. For example, the sign on your desk says ‘mayor’ when it should say, ‘Future Chancellor.’ 
+Austin (as Lenny Lenova): True. You got- you got me there. It's a good one, eh?
+Sylvia: Ephrim winks. 
+Sylvia (as Ephrim): So, I think you maybe- You and the gnolls should sort of look into this, and I think you'll find… that you should really… give them back their things so I can be untied.
+Austin (as Lenny Lenova): What things?! I don't- Listen. This stuff came- 
+Sylvia (as Ephrim): Chatterchin, can you explain a little better? I’m- I'm woefully unprepared for this. You haven't really explained to me what you're looking for other than-
+Sylvia: Uh, and I do air quotes with this, 
+Sylvia (as Ephrim): -‘our stuff.’ 
+Austin (as Chatterchin): Our stuff. You know, the- it’s a bunch of stuff. It's the- it's the cabinet. It's the silverware. They didn't know how to make knives. They were using sticks. It's also- [breathing deeply]
+Austin: He like, goes through a catalogue of a bunch of different things, um… that are just like, daily instruments. Things that you just have. Like, there's a collection of pens, the teddy bears. 
+Austin (as Chatterchin): Like. they used to hunt bears. Why would they have toy bears? 
+Sylvia: So, so it was nothing super rare or anything that you mentioned, right? 
+Austin: No.
+Keith: And also nothing- 
+Sylvia: So, what-
+Keith: not a specific item. Just like, in general, all the stuff- 
+[crosstalking]
+Austin: Yeah. 
+Sylvia: Just like- just like-
+Keith: -that you make-
+Austin: Yes. Yes. 
+Keith: -stuff we used to make. 
+Austin: Yes. 
+Sylvia (as Ephrim): Ok. So I think we can come to an agreement here. Now hear me out, both of you. Well, he's not looking to take the entire museum here. They're… just want their due. 
+Austin (as Lenny Lenova): They’re not due anything! Listen. I had this stuff put together as an exhibition. There's a brilliant guy archaeologist named Isaac. What a- Just a swell dude. He did some diggin’. He went through the- the, you know, our collection that spread all across the- the different parts of the city. He found the good old stuff, and he brought it together. It's not- it's not old stuff from the gnolls. The gnolls live in the woods. They- What do they need a cabinet for in the woods? What do they need? [mumbles excitedly] They got the woods! 
+Sylvia (as Ephrim): Lenny, I have a question. 
+[Jack de Quidt’s “Inside” begins playing]
+Austin (as Lenny Lenova): Yeah. 
+Sylvia (as Ephrim): Which do you think would do better for you? A collection of some cabinets? 
+Austin (as Lenny Lenova): They’re good- They’re good cabinets.
+Sylvia (as Ephrim): Or an endorsement for your running as chancellor from one of the Eternal Princes of Samothes? 
+Austin (as Lenny Lenova): Uh, wait a second. You already told me you wanted me to be the chancellor. I- I- [stammering] Now I gotta-
+Sylvia (as Ephrim): I mean… 
+Austin (as Lenny Lenova): I already got all these other people. 
+Sylvia (as Ephrim): I haven't said it in any official capacity, Lenny. Um, I hate to play hardball here, but…
+Sylvia: And I hold up the wrist ties,
+Sylvia (as Ephrim): In a bit of a hardball place. 
+Austin (as Lenny Lenova): We could just get those- Guards, come untie this man. These gnolls kidnapped- This is against the law. [Lenny fades out as music volume increases] 
+[music plays out to end]
+[1:29:55]

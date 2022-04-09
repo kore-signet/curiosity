@@ -1,0 +1,1710 @@
+PARTIZAN 00: The Divine Principality
+Transcriber: Kārlis (@townout on Twitter)
+(TANAGER. PERFECT. TOUCHPAPER. begins to play)
+It is the year 1423 of the Perfect Millennium, and the galaxy has been conquered by the Divine Principality. At the center of this empire, the only place where its five Great Stels meet, there is a moon beating where a heart should be. The moon of Partizan.
+Abetted by immortal, machinic gods called Divines, and the legions of Hallowed mechs which extend their terrible reach, the Principality spent millennia sharpening itself on its rivals. What it could not devour it obliterated. What it could not obliterate, it simply outlived. It was an empire, unshakeable.
+Until now.
+For the first time in the Principality’s long history, two of its five Stels have gone to war with one another, each guided by a ruler with sound claim to the title of Princept, leader of All Divinity. For five years, they have fought to a standstill, while equivacators and scavengers find profit in rubble. 
+But historical crises do not only serve crass opportunists, they revive opportunity itself. Under the shadow of this war you find yourself wondering: For how long will there be empires? For as long as we breathe? Longer? Will the categories of our conquest outlast us, or could there come a day for something else. 
+We once dreamt that breaking free from our ancient home in the cosmos would allow us to escape the mass and pull of tyranny and trauma. We failed then, but perennial chaos offers us another chance: Can we launch with such speed that we glide, graceful or imperfect, beyond war and pain? Or is the truth more damning than that: 
+(the music cuts abruptly)
+Might we carry our own gravity with us?
+(the music swells, as a drum kicks in and a solemn piano melody is underscored by an intermittent unsettling synth, until it fades to silence)
+—————
+
+Table of Contents
+The Setting and the Setup [00:06:14.00]
+Character Creation [00:27:11.00]
+Clementine Kesh [00:28:45]
+Kal’mera Broun [00:35:40]
+Exeter Leap [00:48:35]
+Valence [01:02:45]
+Ver’million Blue [01:16:40]
+Thisbe [01:24:30]
+Sovereign Immunity [01:34:00]
+Assigning Drives [01:50:00]
+Establishing Connections [01:59:33]
+[02:30:00]
+Fashion [02:42:28]
+[03:00:00]
+
+—————
+
+Austin: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization and fun interaction between good friends. I’m your host, Austin Walker. And joining me today, to kick off a brand new season of the show, Ali Acampora. 
+Ali: Hi! You can find me at @ali_west on Twitter. 
+Austin: Art Martinez-Tebbel.
+Art: Hey, you can find me on Twitter @atebbel. 
+Austin: Keith J. Carberry.
+Keith: Hi, I’m Keith J. Carberry, you can find me on Twitter @KeithJCarberry and you could find the Let’s Plays that I do at YouTube.com/RunButton.
+Austin: Janine Hawkins. 
+Janine: Hey, I’m Janine Hawkins, you can find me @bleatingheart on Twitter.
+Austin: Sylvia Clare. 
+Sylvia: Hey, I’m Sylvia. You can find me on Twitter @captaintrash and you can listen to my other show, Emojidrome, on your podcast app of choice. 
+Austin: Andrew Lee Swan.
+Dre: Hey, you can find me on Twitter @Swandre3000.
+Austin: And Jack de Quidt.
+Jack: Hi! You can find me on Twitter @notquitereal and buy any of the music featured on the show at notquitereal.bandcamp.com. 
+Austin: And you can find it there because Jack composed it. And that is the site that you can give them money for it, (chuckles), which you should do because it rules. You can follow us on Twitter as a group, as a show, @friends_table. You can follow me on Twitter @austin_walker. And as always, you can support the show, if you like it, by going to friendsatthetable.cash, where, very short plug, we have a billion hours of content. It’s not a billion, but it’s a lot. I don’t know what the hour count is.
+Keith: It’s 25 000. 
+Austin: That’s not— that’s not— it’s not hours. Minutes, maybe. We might have—
+Art: It’s as old as soup.
+Keith: Yeah. It’s as old as soup.
+Austin: That’s a joke no one gets, unless you spend a dollar (laughs) to go to our Patreon and join at the dollar tier, where you get access to a thing called the Clapcast, which is us talking about the history of soup, apparently, today is what we did. And rotisserie chickens. 
+For five bucks, you get access to bonus campaigns, live shows— live streams, rather, a tips show, all sorts of other stuff. I think a lot of our Patreon stuff is pretty incredible. I just checked, 12 507 minutes is what our Patreon feed is. Which is a lot. 
+Keith: And that’s less than half of the cumulative Friends at the Table library.
+Austin: It is still less than half of that. Which is to say that, over twice that is free for people. And then, 12 000 minutes, 208 hours available on the Patreon feed. Five bucks gives you most of that stuff. So. 
+Also, I’ll add really quick, there is a feature called Drawing Maps, which is me going over prep. In this case, the last eight episodes have been about prep for this season. So if you hear stuff— I’m about to do a whole breakdown of what this setting is and what the next season is going to be. And if you were like, “Hey, Stel Apostolos sounds cool, I want to hear more about them, but I don’t want to wait until they come up in play.” You can give us five bucks right now and go listen to literally hours of me talking about how I came up with all the different stuff in this setting. In addition, if you are really interested and you haven’t heard it yet, there is a thing called The Road to PARTIZAN that is on our main feed that started as a series of live games that kind of connects PARTIZAN to a past sci-fi season of the show. It is okay if you don’t listen to that. That is not required reading, so to speak. And neither is listening to Twilight Mirage or listening to COUNTER/Weight, which both exist in the same universe but very far away in time. Don’t feel like you need to go back and listen through anything extra, if that makes sense. 
+—————
+The Setting and the Setup [00:06:14.00] 
+All right. So, as I said a moment ago, today is the beginning of a new season of the show. And because it’s a new first episode of a new season, I should take a minute to say a couple of things. Big picture, small picture, and talk a little bit about what this season is. The first thing is just, if you’ve been curious about what Friends at the Table is and whether or not it’s for you, this would be a totally okay place to hop on board for the very first time. If you want other recommendations, you can go back and listen to Episode 0 in the feed—sorry, 1, the very, very, very, very first episode where I give kind of a rundown of what the other seasons are, but… Like what the show is. But if you want to hear people play actual play, play tabletop roleplaying games, you wanna hear how we do it, this is a totally good place to hop on board. 
+With one note, which is, you might notice that this is Episode 00. The reason that is, is that a big part of our show is looking at the ways in which game mechanics can influence the stories that we tell. And so today’s episode is really focused on that. It’s focused on characters and the kind of character creation, situating them in the world, what elements of their histories are, stuff like that. I really like episode zero— And also some lore stuff, some setting stuff. I like episode zeros. I think episode zeros make our show unique. I think a lot of our fans love them. But I also know that some folks would rather jump ahead to the part where there’s mechs fighting things. And if that’s you, then I would say maybe listen to the next 15 minutes or so, at least, where I’m going through what all the setting stuff is so you get a sense of what it is, and then feel free to come back next week for the first full episode. But I actually think, on the other hand, if you’re like, “I don’t know if I would like that or not,” give it a listen! Listen through the whole episode. You might like it. It’s good to hear everyone’s voices together. And it’ll be a fun thing. 
+So, all right, what is PARTIZAN? I guess there’s a few ways to pitch it. Let me start really broad. It is a grimy sci-fi story about mechs and their pilots at war. And also, aspiring political figures who are trying to shape history. And we’re gonna do that by playing a game called Beam Saber, which is by a designer named Austin Ramsay. It is a Forged in the Dark game. You can find it by going to austin-ramsay.itch.io or by searching “Beam Saber RPG” on your search engine of choice. For those you don’t know, Forged in the Dark means that it is a game based around a core rule set from a game called Blades in the Dark by John Harper. We played that game back in our Marielda mini-season, which is one of my other favorite places to tell people to hop onto the show. And Beam Saber is kind of a Forged in the Dark game that is based on Gundam and Front Mission and things like that. I think it’s a great fit for us. I’m really excited to start playing it. So that is the really broad sell. 
+Here is the more specific one about the setting and then the story we’re looking to tell. So, something like 200 thousand years into our future? 150 thousand years, 200 thousand years? 157 thousand— somewhere in there. The galaxy as we know it has, as I said in the intro, largely come under the control of an empire called the Divine Principality. This is an empire that has been growing for 5000 years. And at this point, it is the largest dominant force in the Milky Way. It became dominant through normal empire stuff—military force, economic pressure, the control and manipulation of natural resources and culture and everything else. But also because it has at its disposal these things called Divines, which I said were machinic gods or machine gods. Each Divine is associated with it with a name that is kind of an aspect or an attribute it embodies, like Courage or Valor or Brilliance or Order or Truth. Sometimes these Divines are mechs, they are giant skyscraper-tall mechs. Sometimes they are brilliant artificial intelligences that are moving through a network or are carried around in a briefcase. Sometimes they’re like almost mythological creatures, like mechanical dragons or something. And they all let the Divine Principality do some amazing things. And what I mean there is, kind of, things that break the rules.
+PARTIZAN takes place in a sci-fi setting, but it’s a very specific sort of sci-fi setting, and, specifically, a very specific sort of sci-fi aesthetic. It is that sort of heavy, almost mechanical, a little analog  technological vibe that you get from stuff like Alien and Star Wars: Rogue One. Or like in Gundam: 08th MS Team or Votoms, if you’re an anime mech person. You know, glowing green and amber screens with like text parsers on them instead of big glowy touch screens that you touch that are like high res. You know, cockpits that have a billion buttons and switches and they all go like (clicking noise) or like (ka-clunk). That stuff. And then, that general vibe mixed with some late medieval, early modern aesthetics. Accentuated and, you know, kind of stylized. Banners waving in the wind and sworn oaths of fealty and massive monuments to monarchs and to the Divines. And people wearing capes. And we will get to fashion, I promise. A strong influence here as BattleTech. BattleTech is a fantastic setting and, specifically the BattleTech game that came out in 2018. People just go look at the opening cutscene to BattleTech, because it really sells what I’m trying to set up here.
+The reason for all of this in the setting is that, thousands of years before the game starts, there was this thing called the Perennial Wave, where a kind of heretical, rebellious, Divine named Perennial spread these nano-machines through space. They fluctuate, there’s like high tide and low tide Perennial Wave. But even when it’s low tide, tech is really unreliable. And so people have to use tech that is reliable, even when it’s high tide. And so it’s like, again, less like super glowy touch screens with high res graphics and blah, blah, blah. Way more DOS prompt-looking shit.
+All right. So in a few minutes, we’ll talk about the characters, who the players are, what the parties are up to. I did say “their parties,” there are two parties this season. But first, I want to talk about what’s up with this specific moment in history, explain why the game is taking place on a moon called Partizan, a map of what you can find in the episode description along with a map of the galaxy. That map was done by Annie Johnston-Glick, a fantastic artist. You can follow her on Twitter @dancynrew. And, while I’m at it, you can follow Austin Ramsey, who made Beam Saber @notaninn. 
+So the Divine Principality. It is organized into a pretty rigid, hierarchical system of tiered semi-autonomous houses. At the very top are the great Stels, Kesh, Nideo, Orion, Apostolos and Columnar. I’ll get into each of these again so you don’t have to have written them down right now. In fact, if you check the episode description, I’ve also put a cheat sheet in there. I’m going to do that kind of with every episode this season where like, if there’s new big picture stuff being introduced, I’m going to include a dossier, basically, that is like, “Here’s an NPC name, here’s a mech, here’s some information for you to remember about stuff.” Whatever is important, should be there in some capacity, as long as it’s like a big spoiler surprise thing. And then, if it is, I’ll put it in the next episode so that, you know, “Oh, wow, this person showed up! Who are they?” And then, here’s what they are, basically. 
+All right. So each of those Stels has a bunch of houses underneath it. Countless. And many of those houses take vassals underneath them. At the very top, supposedly, is the people, but it’s never the people. It is. In fact, someone called the Princept. And the Princept is the kind of leader of all of Divinity. Divinity is kind of the abbreviated way of talking about the Divine Principality. Sometimes there might be a regent from another Stel or whatever, but generally it is the Princept. Though each Stel is really complex and they have all of the inconsistencies and complications and hypocrisies of real nations, I think it’s fair to say that each of the five Stels has a specialty or like a shorthand that we can talk about. And I want to spend the time to go over them. Again, there’s a cheat sheet in the description, but let me just go over them really quick, because I think having a good idea of them helps with everything that follows. 
+So one, first up, is Stel Kesh. And Stel Kesh is all about the past. They are historians and academics and researchers, but also kind of like humanists, traditionalists. They are their defenders of the status quo. They are also the Stel that the Princept, the ruler of the Principality, again, is almost always born into. I’ll note also Princept is gender neutral. Princept is, regardless of what your gender is, you take the title of Princept. Stel Kesh is aristocratic by nature, and their architecture, their fashion, even their mech designs, which are often reused or nostalgic-designed mechs, reflect that emphasis on aristocracy and tradition.
+The second Stel, Stel Nideo, is all about controlling the present. Kesh is past, Nideo is present. And they do that by shaping how you will and won’t act both through direct and indirect means. They are priests, popstars and police. Those are the three Ps. (laughs) They control the culture industries, they use the latest in surveillance technology, they are home to the largest unified church in the galaxy, which is called the Church of Received Asterism. Received Asterism preaches that the Divines are each reflections of the Divine Principality’s greatness. So you have the Divine Courage: it is a reflection of the courage of the Divine Principality. It’s a hollow— or it’s not a hollow… But it’s a limited reflection. It’s not all the way to the courage of the whole Principality. Pretty close. This is the biggest church in the galaxy by far, or at least in the Divine Principality.
+Stel Columnar is all about the future. Columnar is largely synthetic and robotic beings and they have invested heavily into determining what comes next. They are like the bleeding edge of science, the avant garde of the art world. They are the chief political reformers of the Principality, which doesn’t make them guiltless or keep their hands clean. They are the only of these five Stels that have a technical democracy in— or like an actual democracy in place. Some of the other ones have some degree of democratic representation that’s limited or kind of broken. They are technically democratically operated, but they are also like happy to profit off of the endless wars and conquests of the rest of the empire. And also, they’re really down with cultural appropriation, theft of resources, stealing from the little guy, so to speak. Even inside of Stel Columnar. You know, taking someone’s good idea and twisting it around so it’s owned by either the government or by a big corporation inside of Stel Columnar. So you know, they are not… And again, fundamentally, all of their wealth and technology is built on the back of expansionist and imperial bullshit.
+Also, note, Stel Columnar is technically the home of Progressive Asterism, which is a variation on Received Asterism that is sort of like… It’s less of a rigid hierarchical church, it’s more of like thousands of associated smaller churches and sects that are each kind of directed— or dedicated, rather, to a specific Divine. So instead of having the Church of Received Asterism, where you might think of it as a pantheon of Divines, you might here still see it as a pantheon, but you’d have a specific church dedicated to Courage. You’d have a specific church dedicated to Valor. And the other half of this, the other half of Progressive Asterism is, they believe that you have… They believe a bunch of different things but one of the things they might believe in in one particular sect or another one is, “Hey, what if Courage isn’t just a reflection of the state, but is a reflection of courage itself? The fundamental idea of courage, not just the Principality’s courage. Or, even, what if it’s a reflection of God’s courage?” Some Progressive Asterists, some churches believe in a God or the universe as a God or something else, right? Some other being beyond the Divines, beyond the states. 
+The fourth one here is Stel Orion. We already have past, present and future, Stel Orion is about space, by which I mean both outer space and also just like space? Like stuff, like matter, area, existence. Orion is spelled Orion, O-R-I-O-N, and it controls the most territory in the Milky Way of any faction. And they’ve turned most of it into an end-to-end kind of factory. It is a mercantilist culture. It is run by merchants and robber barons and resource hogs and a couple of labor guild representatives are on that council. They are also the Principality’s largest manufacturers of goods, including weapons. If Columnar gets you the cutting edge stuff, Orion gets you the basics. They give you kind of like the grunts, you know? If Columnar gives you cool prototype mechs, Orion is filling out the stock stuff.
+Finally, there is Stel Apostolos, which is all about motion, change, dynamism, violence. They have a universal conscription and they have a long history of fighting wars, including against the Divine Principality before they were brought in. And because of that, Apostolos is de facto the strongest military force in the empire. And that even reflects in their fashion sense. This is a group that like uses weapons as accessories, that uses, you know, modified uniforms as streetwear.
+They are the most diverse Stel in terms of alien species. They have— the majority species for Stel Apostolos are people who are non-human, but still humanoid species called Apostolosians, all of whom have varying degrees of fish-like qualities. Like some of them have scales or colorful skin or iridescent skin or even kind of vestigial gills. They also have a distinct relationship with pronouns. They are gender neutral— They use a gender neutral “they” as their primary set of pronouns. There’s also a secondary— or not a secondary, an additional pronoun that is like a choice for each kind of… normatively, in this culture, Apostolosians also choose a pronoun and they do that many times in their life. We’ll talk about that a little bit more later when we get to some of the Apostolosian characters.
+Apostolos is also important for one other big reason, which is that they are central to the largest civil war in the history of the Principality, which started five years ago. I say largest because the Principality was, in a sense, built to sustain itself through internal conflict and war. It’s a hierarchical system, but it’s not unified. Or it doesn’t resist internal skirmishing and fighting. You know, loyalty goes upwards. Everyone is loyal to the Princept. And everyone in Kesh is loyal to Kesh. And everyone inside of a particular house of Kesh is loyal to like that house in Kesh. But, as you go down, you can have internal fractures. This is built into the design of how the Principality works. It was founded by a philosopher named Aram Nideo, who also founded Stel Nideo. And people are loyal to the shape of the empire, not necessarily to any individual point inside of it besides the Princept. So again, think about the Holy Roman Empire. But all of that is under threat because of Apostolos, or— Well, it’s a little more complicated. 13 years ago, a child named Dahlia Kesh, who was poised to become the new Princept, upon reaching adulthood, was kidnapped by a small rebellion and held as a political hostage on a Stel Nideo farming world. Eventually, it was the leader of Stel Apostolos, who has the title The Apokine, who led a force to rescue Dahlia and then raised them as their own child. Eight years later, which is five years ago, Dahlia announced that they were taking their rightful place as the leader of Kesh and the leader of Apostolos. When they did that, they also brought to light a history of corruption that is kind of core to the Principality, which includes the very shifty history of bringing Apostolos into the fold and kind of assimilating Apostolos.
+In response to this, Stel Kesh said, “No, you’re not the real Princept. We have our own anti-Princept,” or, I guess they would say, “We have the real Princept, you’re an anti-Princept.” And presented a person called Cynosure Whitestar Kesh, who is like a middle aged diplomat of mediocre merit. And so there’s a civil war. Stel Apostolos and Stel Kesh are at each other’s throats. Stel Orion and Columnar are trying to find how to profit from that. And Stel Nideo is still trying to save face and recover from when one of their agents, a rogue agent, kidnapped the Princept. They’re waiting in the wings to try to reassert their power and kind of manipulate things from the shadows.
+All of this means that the game takes place in a moment of high instability, where bold action could lead to revolution or reform or a reactionary kind of re-constriction of freedom. Touchstones here: French Revolution, you know, Thirty Years’ War, Warring States period of Japan, and Three Kingdoms-era China.
+I’ll say that this is the first time in one of our seasons that we have a clear bad guy from the jump. In no uncertain terms, the Divine Principality is the villain. But it is not a story, or it’s not going to be a story, about fighting the Divine Principality from the outside. That is happening, there is a post human culture called the Branched that has been fighting the Principality for hundreds of years to a standstill. But the actual camera is not there. The camera is in the middle of that empire. It’s focused on complex, compromised, complicit, even, sometimes, protagonists. And unlike those other villains we’ve done in the past, the Principality is like all-encompassing in a way that can be kind of hard to see how you would fight it. This isn’t even like a rising fascist movement. This isn’t Nazi Germany, right? This is not a young upstart power. This isn’t whatever the New Empire is in these new Star Wars movies, right? I already forg— The New Order, or whatever it’s called, right? This is Rome. This is America. This is a huge empire of which there have been many, many, many in our own history, right? We’re not starting at “How do you fight fascists?” or “How do you fight against empire or an empire?” We’re kind of starting at “How do you learn that you can or should fight against an empire from inside of it?”
+And that is why the game is set on the moon of Partizan, which is at the very center of the Divine Principality. It is far away from those frontlines in the unbroken war against the Branched. You can see in the episode description, where the map is, it is the only world in the galaxy where all five Stels meet, where they have kind of major cities and populations. That’s not only because of its placement. There’s also a religious importance. This is nearly a thousand years ago, there was a prophet who came to this planet, named Logos Kantel, who turned it from a red rock, a barren rock, into a beautiful living world, filled with life and resources. And an ocean called the Prophet’s Sea. That movement was eventually turned into Progressive Asterism, as a way to kind of quiet it, actually. And there’s one more special feature, which is, right after Logos Kantel showed up, right after the prophet showed up, and said, “Hey, God let me turn this place into a magical, beautiful miracle world,” which again, you can kind of see on the map. Right after they did that, the Princept of that time said, “No one is allowed to go beyond Partizan.” There is an arm of the galaxy called the Scutum-Centaurus arm, which we’ve marked down as Caelestia Nullius, which is “no one’s heavens, no one’s space,” basically. They said, “No one goes past there. No one gets to go down that arm yet.” And then like five hundred years later or something, another Princept said, “Whoever wins the war against the Branched, they get to go there first. Whoever defeats the Branched, they will gain the right to first breach the Partizan gate.”
+—————
+Character Creation [00:27:11.00]
+So yeah. That is a little longer than I wanted, but still tighter than it could have been. That is the basic setup. That is the situation. And so now, 20 minutes of that, I think it’s probably worth talking about the characters and who they are and what we’ll be doing this season. Does that sound good? 
+Keith: Yeah.
+Austin: Unless someone has more questions, in which case I’m totally fine just rambling indefinitely. Let me open the character creation guide that I made, because I think this is probably a good way to start. That, plus, the sheets. Shout outs really quick… I just want to do, really, a special shout out to whoever made these sheets that are great. (searching) Reference sheets… 
+Keith: These sheets are great.
+Austin: Aren’t they so good?
+Keith: Every time I type something in, I was like, “Someone did this in a spreadsheet? This is…”
+(Ali laughs)
+Austin: It’s incredible. Erik Radman. Rodman? Rad man? Eric R-A-D-M-A-N…
+Janine: Hell yeah.
+Austin: (chuckles) Created these fillable pilot and squad sheets. So shout outs to Erik. You can follow Erik on Twitter @ErikRadman on Twitter. These sheets are the best. Does anyone want to— do we want to talk about what the groups are first? Or do we want to just go through characters? How do we want to do this? I guess I’ll say there are two groups. And let’s start, I think this maybe makes it easiest. Jack, can we start with you? 
+Clementine Kesh [00:28:45]
+Jack: O-kay! I’m going to be playing Clementine Kesh, a 23 year-old heir to the throne of Kesh. Albeit a kind of fairly limited heir, Clementine is sixth in line to the… 
+Austin: Well…
+Jack: Well, was sixth in line.
+Keith: Now you’re anti-sixth in line!
+Jack: Now (laughs) I’ve been kicked off and I’m anti-sixth in line. Austin and I talked about what is a proximity to a position of power that feels both plausible and laughable. And sixth was kind of the number we ended on. I don’t know who is sixth in line to the UK throne. I know who’s first and maybe second, if I stretch, and then after that—
+Austin: (laughs) It gets fuzzy?
+Jack: I have no idea at all.
+Janine: Jack, I think you! I think that’s how it works.
+Jack: It might actually be— (laughs) God damn. Can I pre-abdicate?
+Austin: Yeah, you can take yourself out of the line, right?
+Jack: Yeah! Clementine— we know exactly how old Clementine is because we know that she was born in the year 1400.
+Austin: Yes.
+Jack: Because right now it is 1423.
+Austin: It’s 1424, isn’t it 1424— is it 1423?
+Jack: Am I 23 or am I 24? Because we found Clementine’s age because we were like, “Oh, she should have been born at the—”
+Austin: During the turn. Like at the turn.
+Jack: During the turn, yeah.
+Austin: 1423. You were right! I should’ve trusted you.
+Jack: 1423.
+Austin: Yea. That’s a better year. You get a bunch of different numbers in there. 
+Jack: Clementine uses she/her pronouns. She is a… how best to describe it? She is like a spoilt, noble daughter who has lived for her entire life in a variety of palaces, some palaces bigger than others. She definitely— Clementine is the sort of person who has palace preference, you know who is—
+Austin: (laughs) Oh, my God.
+Jack: “I prefer this one to that one.” She has spent her time doing the sorts of sports rich people do. I don’t know what they are in space. 
+Austin: Still polo. It’s still polo.
+Jack: It’s still polo, I think it’s classic.
+Art: Haunting, horror horses.
+(Austin laughs)
+Jack: I wonder if that’s one of the things where it’s like, it is actually horse polo just on the grounds of planets, you know? Like there’s probably some kind of cool space version. But it’s also just like horse polo, hunting… Yeah, it’s various sports involving sticks, swimming, rowing, athletics. But with the kind of idle application of someone who is very bored because of their idleness. Clementine spends a lot of time being like, “I’m at the palace in the summer and I spent that time rowing.”
+Austin: Love it. I think it’s probably like a good st—
+Art: Is it rowing or is it crew? Does it go back— Does crew—I know it’s like rowing and then it’s crew, if you’re like in an Ivy League school. Does it go back to rowing if you’re, like, very posh? Does this— Is this like a horseshoe situation?
+Keith: I always thought crew was what you call it when you’re in school.
+Austin: I thought it was like if it’s a sport, it’s cr— like if it’s like a competitive sport.
+Art: Mm. That’s prob— cause you’re with a crew.
+Austin: Right, yes.
+Jack: What about if you like bought a boat last year and had it delivered to the boathouse?
+Austin: (laughs) Oh, you’re just the worst person. Let’s get to like—
+Dre: I feel like there has to be a richer word for it.
+Austin: I— go look it up. I’m sure it’s out there. We’ll come back around.
+Keith: Do you regatta in a rowing th— is that a regatta? Or is there a different name for it—
+Austin: No. No. That’s not. A regatta is a sailboat. For sure.
+Keith: Well. It has to be a sailboat?
+Austin: I guess it doesn’t ha— I believe so. If you told me you were doing a regatta and then it was a crew boat, I would not… I’d say, “You name this something else, please.”
+Art: If you Google “rich person rowing,” you just get rowing. And then people also ask, “Is rowing a posh sport?”
+Jack: Yes. 
+Art: And yes.
+Austin: Yeah, it is.
+Art: And they still call it rowing. So. It’s also on the list of the most elitist sports. 
+Austin: That’s accurate. Even, yes.
+Keith: Apparently sometimes calling it crew is a United States thing.
+Austin: I can’t believe we have to get off the boat again. I can’t believe it.
+(Keith laughs)
+Art: The boat boat?
+Keith: Sorry. I do have an answer to the question. “Modern rowing competition sport can be traced back to the early 17th century races, regattas.” So there also is regattas with rowing.
+Austin: Jack. Clementine is 23. The other note for her here is that she— and we’ll get some other stuff in a little bit. But I want to kind of get a taste of who’s at the table before we go deeper into character sheets and stuff. She is an Officer, right?
+Jack: She is, yes, which is described as a tactical and personable trooper.
+Austin: (laughs) Yeah. OK. We’ll see about that. We’ll see how personable she is. And I guess maybe this is the last bit that we should note is, what is the squad you are leading? 
+Jack: Clementine is the recently appointed squad leader of a Kesh-sponsored unit, and they are known as the Rapid Evening. 
+Austin: They’re called the Rapid Evening, which is a group that h noas been… a name that I think kept Clementine probably found in some library or some serial that was like, “Oh, wow, they used to be these great heroes of the past.” 
+Jack: Yeah. Noble heroes of Kesh.
+Austin: Yes. And so, you are leading the Rapid Evening, which is, in this case, particularly, immediately very noble because the rest of your crew are specially assigned inmates, political prisoners, and otherwise, that Kesh has sent to you to work towards some collective goal, which we haven’t talked about yet. I know what it is, but it will make more sense after we record the first session of the other side of the table. But the players on your side are all people who have been imprisoned by Kesh. And so this is what I say that, out the gate, we are not necessarily following particularly heroic people. Clementine Kesh is maybe the biggest example of this. Was once heiress to the galaxy’s most terrible empire and now coerces people into hurting people for that empire who are imprisoned. We’ll see where we go from here.
+Jack: Off to a good start.
+Austin: Off to a good start. Let’s jump across the table here. Who from the other side wants to go first? Ali, can I lean on you as the simplest of these characters and I don’t mean that as a diss, but in terms of just like, boom, here we go.
+Kal’mera Broun [00:35:40]
+Ali: Hey! Where should I start? I’m playing—
+Austin: Name and pronouns probably. And concept.
+Ali: Yeah, I’m playing Kal’mera Broun. They use they/them pronouns. Goes by Broun, Brown with a U. It’s important to say that. (laughs)
+Austin: Love it. That is their last name?
+Ali: Yeah.
+Austin: Cool. Can you spell the first part for people who want to write it down so they can immediately start thinking about fan art?
+(Ali laughs)
+And fic, I want to— y’know. 
+Ali: Sure. K-A-L-’-M-E-R-A. They are an Apostolosian who was sent to Partizan on like a work visa sort of situation? 
+Austin: Love it.
+Ali: They were designing… I keep saying designing weapons, but I mean less in terms of designing mechs and more in terms of designing missiles. And like knowing how fireworks work, you know? Like, “Oh, if you put copper and this other thing, it’ll make this sort of explosion versus like other things.”
+Austin: I love that you have gotten to, “My ‘I’m not an arms manufacturer, I swear’ t-shirt is answering a lot of questions that you’re asking.” (laughs)
+(laughter)
+Jack: It’s just fireworks and missiles.
+Ali: I’m just specifying the kind of work that they do! (laughs)
+Keith: “I’m not an arms manufacturer, I’m an arms inventor! Some factory does the manufacturing!”
+Austin: That is right, though, right—
+Sylvia: I consider myself a munitions innovator.
+(laughter)
+Austin: Monetizing the violence. 
+Ali: Uh huh! Hi.
+Austin: Can I just briefly pause and note one other thing about your character? And I’m only noting it because it is a reflection of a worldbuilding thing I did. And I don’t want you to have to try to explain a complicated thing that I wrote, that’s unfair to you. Which is, you put an apostrophe in your first name, which is Kal’mera. It’s Kal-apostrophe-mera because Apostolosians, as a culture, have this kind of special relationship with their names and with their pronouns. You can, again, go listen to a Patreon episode of a show I do called Drawing Maps, where I get really deep into this and how I came up with it and who I talked to, blah, blah, blah, blah. And the gist of it is that Broun, who’s going by their last name, ine, uses they/them pronouns, which is the majority of Apostolosians, not everyone. It turns out people everywhere have gender feelings and even if you are in a primary a-gender or gender neutral or genderqueer society, you will still wind up with gender feelings. And so some folks take, you know, he/him or she/her or pronouns from other cultures that are not even human cultures. But the bulk of Apostolosians use they/them or they use these pronouns that they also attach to the front of their given names, their kind of root name. In your case, it’s Kal. Kal would be a fixed pronoun, and that comes this kind of special sort of almost like a saint in the culture of Apostolos. There are these things called eidolons who are these like saintly figures, for whom many Apostolosians look to as inspiration and to aspire to become. And so, all throughout your life as an Apostolosian, it’s expected that you kind of think about who you want to be, you look at kind of the big, you know, tome of previous eidolons and you go, “You know what? I think I want to become a great warrior like this person. And so I’m going to affix part of their name to my name and use it as a pronoun.” So like someone could say, you know, “Kal goes to the store” or they could say “They go to the store”. Both of those are acceptable. And that’s not necessarily that Kal is just your nickname, even, right? It might be that you’re— like you said, you go by Broun, right?
+Ali: Yeah. And I think, we talked about this vaguely, but I think they’re also pretty strictly they/them. I think with there being such a division from their homeland, so to speak, without kind of revisiting that part of themselves or really feeling the need to. Kal is not something that they have changed in their adult life. 
+Austin: Right. Whereas other Apostolosians might every five years, or every 20 years or every five months, be like, “You know what? I’m gonna switch up my pronouns.” Broun is like, “I’m going to go to work. I’m working on a missile, actually. I’m not going to go look at the pronoun tome right now!” I’m not trying to put words in their mouth, I don’t know that it’s dismissive in that way, but it is… I think one of the things that’s so interesting about this character you pitched to me is, you said, they’re not in Apostolos. They’ve grown up or they’ve— have they grown up in Orion or did they just spent a lot of time in Orion?
+Ali: I think it’s like... Late teens, you join a work education program. Got shipped off to Orion space and then got shipped off to Partizan and had a great job that they really liked!
+Austin: Love it.
+Ali: And then the tragedy, unfortunately, is that they were laid off from that job (laughs) and are now stuck on this moon and have since been getting by by doing freelance repairs and custom designs and smuggling parts for people. The way I felt about this character a lot is that it’s like, the first thing of having the knowledge of like, “Oh, in this year, this company made mech legs with this sort of material,” and being able to identify that. And then being like, “Oh, if you want me to repair your thing, I need this. And I’m the only person who has this thing.” And then the third level of being like, “Hey, a bunch of this copper just fell off this truck.”
+(Austin, Keith and Ali laugh)
+Austin: And is that the level you’ve been operating at, to some degree, at this point? (laughs)
+Ali: I think so. I think it depends.
+Austin: Or is it just like, you don’t say no to a check. Right? It’s like, yeah, maybe my day job isn’t going to get the copper— I walked past a Duane Reade, which is a pharmacy here in New York, and it was going out of business and it said “Free Metal Inside”. And I was like, “Maybe I should go get some of that metal. Maybe I could flip some metal.” You know?
+Art: You’re gonna flip that metal??
+Austin: That’s what people do!
+Jack: I can’t work with cheap metal, Art!
+Austin: You don’t know what it’s like out here on the streets.
+Keith: That copper, that goes.
+Austin: Copper goes quick. There was probably no copper in that Duane Reade, it was probably just racks, right?
+Keith: Not anymore! You go in and you get the copper straight away, you’re out.
+Austin: You’re right. I should note, Ali, you explained your history, your tragedy in your opening. Those are things that Beam Saber does when you’re creating your character that are tied to where you put action points in your starting attributes. We don’t need to get into those point-by-point here, we’ll maybe, at the end, go over where they are, all together. But what I do want to note is that, while we went over your history, tragedy and opening. Again, “salaried weapons designer, laid off, then freelance repair/custom parts/building,” which you’ve written here down as “trade/criminal,” which I love, we did not word-for-word go over Jack’s history, tragedy and opening of Clementine’s. Jack, can you just read those to us real quick? 
+Jack: Sure, of course! Let me look at my character sheet again here. History: Sixth in line to the throne of Kesh. Tragedy: Removed from line of succession with excuse of religious pilgrimage. I’ve been sent to Partizan as a kind of rite of passage.
+Austin: It’s almost like a Rumspringa, right? Like, that’s the way I kind of…
+(laughter)
+Jack: What?
+Austin: A Rumspringa? Do you not know what a… No?
+Keith: Yeah, do you not know about Amish people in the UK? (laughs)
+Art: No, there’s no way any English people know what that is.
+Austin: Really?
+Dre: Yeah, fair.
+Janine: They don’t have them there! 
+Austin: But it’s an interesting thing, and Jack is…
+Keith: Yeah, Pennsylvania’s here!
+Janine: The reason we have them is because they don’t have them there!
+Austin: I guess so. So, Jack. The... So not all Amish have these or use the term, but a Rumspringa or Rum[sh]pringa is a sort of like, there is a year somewhere in your late adolescence, you’re like 19 and you get to fuckin leave your Amish community.
+Jack: Right, right, to go out into the world. 
+Austin: To go out into the world and you go like, “All right, this is what the world is.” And then you can decide, “Hey, do I—” I said 19, it might be earlier than that, it might actually be like 16, probably depends on the sect. You get to come back and be like, “You know what? I want to stay Amish. This place is like— I like this. This is my home.” Or, you can say, “Gotta go!” (laughs) And I mean, what you’ve described here is a pilgrimage more than sort of like a Rumspringa, so maybe that’s not accurate?
+Jack: Yeah, it’s not very exciting.
+Austin: Okay. I know that because you’ve written down for your opening…
+Jack: Well, so my opening here— Oh, real quick. The other thing about the tragedy is that traveling to Partizan has necessarily removed me from the line of succession. And my opening is: Sulking in the Winter Palace.
+(Ali laughs)
+Sylvia: Oh, my God.
+Jack: The Kesh… I guess the Kesh family? 
+Austin: Has a Winter Palace here, absolutely. The Kesh family has a Winter Palace here.
+Jack: Has like a massive Winter Palace in their land, which is the north? 
+Austin: It is the north. It is in the city of Cruciat to the north on that cross-shaped island.
+Jack: It is like an archipelago, sort of island thing. There’s a magnificent palace there. Right now it’s kind of empty? There’s like a skeleton staff—
+Austin: That is literally— Yeah, so I wrote this down yesterday, which is that the Kesh family maintains it. It is for the Princept, if the Princept were ever to arrive, or for leading Kesh nobility. But, with them not there, it is, like you said, supporting staff and you, kicking around—
+Jack: There’s like 500 rooms and one 23 year-old sulking noblewoman. 
+Austin: Great. Love it. Ali, jumping back to Broun, I know that you get copper wire and also flip metal and missiles as your job or, this is what you did do before, because the Opening is about kind of what you did right before you joined the crew. Do you want to explain what the crew is? Have y’all figured out what the crew is yet? 
+Ali: I don’t think we’ve made a decision and I’ve not (laughs) made a decision for us. Right now we’re like torn between spies or delivery.
+(laughter)
+Keith: (laughs) Why not both?
+Austin: That is correct. I’m going to drag Recon over here on the sheet so that y’all can flip between the two as you make considerations. Y’all can figure it out, but, I mean, so that group is Ali, it’s you as Broun, and then it’s Dre and Janine and, broadly, fair to say you’re mercenaries, right? Like the Rapid Evening is the other side, and they are a crew of prisoners being put to work by a former heiress. But y’all are in it for yourselves. Y’all are like here to make money and take missions, right?
+Ali: Yeah. We’re sort of pilots for hire.
+Austin: Yeah. Yeah. Exactly. That’s a thing that reflects what Orion’s entire vibe is. Orion does not have a— (jokingly) Orion says they don’t have a horse in the race between the civil war, between Kesh and Apostolos. And they’re happy to sell missiles (laughs) to everyone.
+(Ali laughs)
+Austin: And happy to do deliveries and happy to do reconnaissance and all that stuff. And so y’all are part of a group that is technically part of the Orion economy, which as far as Orion is concerned, that means you’re loyal to Orion. But you do missions for whoever like hires you, basically. Again, whether those are deliveries or spy shit, that’s gonna be up to y’all to decide. Who wants to go next? Now that we have both sides kind of broadly introduced. 
+Keith: I can go, I don’t mind going!
+Austin: Let’s do it. Tell me about your character.
+Exeter Leap [00:48:35]
+Keith: So my character is also a last name, first name character. Exeter Leap, goes by Leap, he/him. 
+Austin: Is that a— so you are Columnar? You’re Equiaxed, which is like a particular type of Columnar. Columnar is one of the five Stels. Is that a cultural thing? Is going by your last name a common thing, or is this just a you thing?
+Keith: Yes, this is a cultural thing. 
+Austin: OK.
+Keith: And… Let’s see… Where are we starting? Are we starting— 
+Austin: Tell me who Exeter Leap is, and pronouns and the pitch.
+Keith: Exeter Leap is a… I would say… pirate? A bank robber. But the thing is that the way you rob a bank in space is to rob it when it’s going from one place to another place, which is a lot like being a pirate. 
+Austin: The thing you’re describing is being a pirate (laughs), that is the thing you’re describing.
+Keith: The thing I’m describing is being a pirate—
+Janine: Or a bad cowboy.
+Austin: Oh, yeah! Yeah, I played that game, Bad Cowboy 2.
+(laughter)
+Austin: The third in the—
+Keith: Bad Cowboy Redemption 2.
+Austin: Yeah. Sorry, yes, (laughs) Bad Cowboy Redemption 2. 
+(Keith laughs)
+Austin: (laughs) I did rob a bunch of land ships as they went from place to place. A note there, too, on ships, is that the fact that you were a space pirate is like fucking wild because it suggests that you either knew how. or knew someone who knew how, to fly a spaceship, which is very rare knowledge in this world. Not everyone knows how to fly a spaceship, it’s carefully regulated information and spaceships are very rare and expensive. I guess, you know, ships were really expensive in the age of pirates also (laughs). But took a lot of skill. And that skill or that education came with an agreement to do work for years in service to one of the five major Stels. And so the fact that you were a space pirate is like— this is not a story filled with spaceships. You can’t just like go to the shipyard and get yourself a ship. That is like a life dream. In the same way you can’t just go to— I guess in our world it’s easier to get a plane (chuckles) than here it is to get a ship. But it’s similar in the sense that, if you met a person who was like, “Oh, yeah, I’ll just take my plane there,” you’d be like, “Excuse me, what the fuck did you just say to me?”
+Keith: It’s like getting a plane if small planes didn’t exist.
+Austin: That’s right. Yes, exactly.
+Keith: It’s like if getting a plane meant buying a 737.
+Austin: Yes, that is exactly right, so. And you did that and then used it to (laughing) crash into other 737s and rob them. 
+Keith: Yeah. Well, I don’t know that I bought the ship legitimately.
+(Austin laughs) 
+Keith: I haven’t done a lot of thinking about the ship that I have. 
+Austin: That’s fine. Don’t worry about it. We can talk about it later if it comes up. I think I know who has that ship, I just realized.
+Keith: One good way to steal it— Here’s one good way to get a ship is that you and all your friends get a job on a ship and just take it. 
+Austin: There you go.
+(Sylvia laughing in the distance)
+Austin: Love it. That leads me to your tragedy, which is…
+Keith: Captured?! Arrested?!
+Austin: Presumably you were robbing Stel Kesh at some point?
+Keith: Yeah, I was robbing… Well, so, as a person who lives in the Columnar space territory, or lived, but being part of the Equiaxed, which is a separate… It is a distinct cultural entity within it that—
+Austin: Can you spell that really quick?
+Keith: E-Q-U-I-A-X-E-D, Equiaxed.
+Austin: Okay. And Columnar like Column-A-R. C-O-L-U-M-N-A-R.
+Keith: Yes, yep. Um… (pause)
+Austin: The Equiaxed, you were setting up who the Equiaxed were.
+Keith: Right. So they are— They’re a distinct culture that, for a time pre-Stels, was a semi-autonomous culture within the Columnar territory, largely made up of cyborgs, what I initially pitched as a reverse cyborgs.
+(Austin chuckles)
+Keith: Mostly these were people who were born as robots and for, you know, a host of different possible reasons, have integrated organic material into their body. For the same sorts of reasons why in a more traditional sci-fi thing, a person would integrate technology into their body, which is that they, you know, need it for something or want it for something. 
+Austin: Right. The same reason that people have prosthetics or that someone does body modding. A range of reasons, ranging from like a desire to change how their body is functioning to aesthetics and everything in between. People are complicated and complex and bodies are too, right?
+Keith: Yeah. Yeah.
+Austin: Briefly, I do want to use this moment to shout out Kevin Snow, who is a fantastic games writer and narrative consultant, who I’ve been having meetings with to talk about the representation of disability and chronic illness in this season. Because this is a season about robots and robots are about bodies and it’s the season about war, and war tends to include, you know, bodies, it turns out. This will certainly be a war about bodies or with bodies in them. So, shoutouts to Kevin Snow @bravemule on Twitter, who has been a fantastic collaborator and a great source for thinking through a lot of this stuff. 
+I’ll note also, the other thing about the Columnar is, we’ve said that they’re robots, right? We did say that?
+Keith: Yeah.
+Austin: Or like majority robots?
+Keith: Yeah. It’s a huge chunk of space.
+Austin: They’re also the most technically democratic of the cultures? But even that has some caveats, which are about like how their democracy changed over time…
+Keith: Yeah, both before and after, there are a lot of caveats.
+Austin: Both before and after they joined this big empire. 
+Keith: Becoming a Stel, yeah.
+Austin: And I should note that, like, that group, despite being a democracy and despite being like— they’re kind of like the… I thought of them a lot as being the liberal democratic ally to a big empire, where you’re like, “Hey, well, we’re not the ones going to war all the time and hurting people! We’re just here to import rock music and watch TV, and we’re just having a good time up here! It’s no big deal!” And like, OK, but. Maybe— 
+Keith: They said that their, you know, “heir to the people” thing was a lot like our big decision brain that we have. Isn’t that cool?
+Austin: (laughs) Right. It’s basically the same! Yeah.
+Keith: Then they outlawed the big decision brain. 
+Austin: (sarcastically) But whatever, we can vote now!
+Keith: Yeah.
+Austin: Yeah. It’s messy. Everything in this season is definitely going to be compromised in that very interesting way. Anything else about you? You got arrested for being a pirate. 
+Keith: I got arrested for being a pirate, yeah. Oh, so the reason I brought up Columnar as a territory, was that, like, I think a lot of my piracy is targeting outgoing Columnar ships. I would say that the general relationship between the two groups is fraught. Even before joining the Divine Principality, the relationship between the like— There’s a reason that the Equiaxed is a culturally distinct group, and that’s because it was not working inside of the territory at large. And it only got worse under the Divine Principality. So it’s, you know, why not steal their guns and money then? 
+Austin: So, basically, Equiaxed were robots who were cyborgs— or robots who integrated flesh and organs into their bodies. And they were already a minority inside of Columnar, who were ostracized or at least put to the side because of this. And then Columnar joined this gigantic empire who was, with one hand, like, “Hey, tell them to stop that, that’s weird.” And with the other hand they were saying—and Columnar leadership happily obliged—were like, “But can we use their technology to turn it into guns? What if my gun had eyes or whatever?” That’s not litera— or maybe it is, we’ll see. Ali, did you put any eyes on any missiles? (laughs)
+Ali: I didn’t.
+Austin: You probably didn’t.
+Keith: Did you give a missile a stomach or something?
+Austin: Gross. 
+Ali: Mmmmmm…
+Keith: Oh, also, I have like 80 percent of a human digestive system.
+Austin: Oh, interesting. What’s the part you don’t have?
+(Ali laughs)
+Austin: You know what, don’t—
+Keith: I don’t have a butt that shits out food (laughs).
+(loud laughter)
+Austin: (laughing) Okay, there— Yeah, I knew it. I knew it. I knew it. I said it. I said it out loud, I said “What?” And then I immediately was like, “He’s gonna say he doesn’t have a butt that shits out food.”
+Janine: Technically, none of us have that.
+Dre: Oh, Jesus.
+Austin: Wait, the real achievement would have been if you had a butt that shits out food.
+(Ali laughs)
+Keith: (laughing) But no mouth. 
+Austin: But no mouth.
+Janine: Eats a hot dog but then shits out an eclair.
+Austin: Gross. (laughing) We have got to stop. 
+Keith: So during the opening up of diplomatic relations between the rest— or between the Divine Principality and pre-Stel Columnar Tabulary, the robots of the Columnar decided that diplomacy was not working the way things were because they didn’t have any robots that looked like people. And so they decided, “We better make one of those or these people will not like us very much,” which is sad, but also true. And so a chunk of my body is the, you know, early attempts of them trying to make legs that could walk. But it was just a pair of robot legs with nothing else. And so it’s really hard to make a human. So the way that I balanced it out, to give myself the rest of a body, was to basically like intake food and then just burn it up to create fuel.
+Austin: Like people, like bodies, like human bodies do?
+Keith: Right, like human bodies do. You burn it up—
+Austin: Got you. So you have like robotic legs, that were just like, that was the basis of your body. And then do you have a human— Do you have a robotic torso, but it’s fueled with food, basically? 
+Keith: I have a robotic torso with some organs, like a basic digestive system.
+Austin: Gotcha.
+Keith: And then I have a tongue that can taste. 
+Austin: Nice!
+Keith: Because, you know— you’re going to eat all the time—
+Austin: You’re gonna eat all the time.
+Keith: And yet, eat all the time because it’s probably less efficient than like a body that was built from the ground up to do this.
+Austin: Wait, are we going to get a Han from Fast and the Furious thing with you? Are you eating in every scene? Are you constantly snacking on shit?
+Keith: I actually did have it written down, so—
+(Austin laughs)
+Keith: So the legs of this were, in my head, there’s a robot called Cassie, which is like some company was trying to make a robot that can walk like a person, which is, again, a very hard thing to do. And so that’s the original frame, the original chassis was Cassie… the Chassis. And at the end of that video, they were like, “This thing is about 25 percent as efficient as an actual person in walking.” And I was like, “That’s funny, that means I could be eating all the time.” (laughs)
+Austin: (laughs) Great. Yeah, so that is true about you. 
+Keith: Yeah. 
+Austin: We will get to fashion it a bit, I promise. In my mind, we’re gonna get to the fashion zone a little bit later. I see you highlighted—
+Keith: So we did History, criminal, we did Tragedy, captured… 
+Austin: And then your Opening is… I mean your Opening is probably not the thing you’ve written here because you’ve been in prison the whole time. Right?
+Keith: Well, I thought the Opening came between the History and the Tragedy. Or wait, does the Opening come between—
+Austin: No, it comes between the Tragedy— Opening is last, Opening is the final thing.
+Keith: Opening is laaast, okay.
+Austin: Yes. Opening is, what were you doing immediately before the camera hits you, basically. Which, it’s— we basically know, right? 
+Keith: Was I just in? Was I just in like… general population prison?
+Austin: I don’t know! You tell me. (laughs)
+Keith: I, what do you do…
+Austin: You can sleep on this. You don’t need to know this right away, but it’s like…
+Keith: I guess I need to figure out…
+Austin: And guess what, you were one of three prisoners, so maybe you can get some inspiration in the others in the Rapid Evening.
+Keith: Yeah, true. Yeah. So that’s where I’m at.
+Austin: Let’s hop back over the side of the table to Team Orion, you know, pilots for hire. We don’t have a name for them yet. We’ve tossed some names around, but, you know, we got some time to get there. Dre or Janine, who wants to go next? 
+Dre: I can go.
+Austin: Sure. Oh, we should note real quick, Keith, you’re an Infiltrator, right?
+Keith: Right. I am an Infiltrator.
+Austin: A class that you once said your old default for tabletop roleplaying games was Thief, and you’ve never done that for us. So, we should try it, that’s fun. 
+Keith: Actually, until the live show at Gen Con where I played the same class, not realizing until I started working on this character sheet for the first time, I was like, “Oh, these are the moves…”
+Austin: These are basically…
+Keith: “…that I just was reading about. I know this character now!”
+Austin: These are very similar moves. Yes. Which is good! All right, Dre, tell me about your character. 
+Valence [01:02:45]
+Dre: Yeah. So my playbook is the Empath and my character’s name is Valence. Valence uses they/them pronouns. Valence is a character that’s actually from outside of the system.
+Austin: From beyond the gate, beyond the Partizan gate. 
+Dre: Yes. Yeah. 
+Austin: Which— I imagine I should say, talking about ships being rare, all of the systems of this empire are put together or like connected by this thing called the Portcullis system, where there is these giant literal stone octagonal gates that  have like hyperspace lanes or whatever the fuck. And there was one built that no one is allowed to use that goes further into the Scutum-Centaurus arm. So you’re from a culture that way, basically.
+Dre: Yes. Mm-hmm.
+Austin: Interesting. Tell me about Valence then. 
+Dre: So Valence came here to the system basically because, five years ago, something came out of that gate. 
+Austin: On your side of it.
+Dre: On our side, yeah.
+Austin: Interesting.
+Dre: And was hostile. I don’t think it did like a ton of damage or anything, but, basically, Valence was sent here as a forward scout to figure out who sent that, why and what’s going on. 
+Austin: OK, interesting. An Empath is like… are you a psychic? Are you a… We have a word that we’ve used through each of these seasons called a Stratus, which has never really been fully pinned down what that means. But are you a Stratus? 
+Dre: I don’t— no, I don’t think so, at least not in the way that we’ve used Stratus in previous seasons. And maybe the better way to talk about this or give flavor to that, is talk about the two moves that I’ve taken?
+Austin: Yeah, sure. We haven’t talked about moves yet, but let’s do that here because I think it’s so key to what an Empath is.
+Dre: Yeah. So one of my moves is Farsight, which is “When you gather information with Survey, take +1D and the information you get can be from a place or time that you were not present in.”
+Austin: So is that like Echo Vision like— I said Echo Vision cause I just finished playing that Star Wars Jedi game.
+Dre: Yeah, but that’s also like Final Fantasy XIV. That is also called Echo.
+Austin: Oh yeah, it is called the Echo in that also, it is the same thing. You’re fucking right. (laughing) I’m playing two games at once that have that same thing called the same thing. I guess, you know, it’s an echo. It’s an echo of history. It’s an echo of time.
+Dre: Yeah.
+Austin: So is that what it is for you?
+Dre: Yes, but that’s not how my character understands it. So Valence is kind of, for their History, a marked spiritual. In their culture, they were basically like a religious scholar.
+Austin: Right. Okay.
+Dre: And so I think they see this kind of this Farsight mood as more of like a… like a religious connection more than like a technological or a psychic connection. 
+Austin: Gotcha. Yes. OK. So that is the big difference here, is that when we talk about Stratuses in the past, Strati in the past, we always had a sort of technological tinge to it, to some degree. Whereas here you’re saying, for Valence, this is a gift from God or something, right?
+Dre: Mm-hmm.
+Austin: I guess this is a good moment to briefly talk about the Prophet and the Prophet’s Sea and all that stuff, which we set up at the beginning of this. It was very fun, during one of the Road to PARTIZAN games, to introduce the idea that someone in this world of machine gods, these Divines, which represent grand ideals, might also believe in God. Like just— we’ve done a lot in this setting over the years that is like, “Here’s Righteousness, here is, you know, whoever, Rigour, blah, blah, blah. Here’s Grace, here’s Belgard.” All these like, you know, very cool Divines. But we’ve never been like, “And also, people in this world might believe in God the way that people on Earth of many different denominations and faiths believe in a God or multiple gods.” And so both your character and then also the Prophet, the person named Logos Kantel from, again, 1400 years ago, at this point, or a thousand years ago? I’ll have to double check. I think a thousand years ago, actually. Is when— It’s actually a thousand years this year. That is like one of the big things. It has been a thousand years this year since Logos Kantel came to Partizan and made the Prophet’s Sea and preached the idea or, you know, their believers began to believe in the idea of God. A God, a particular monotheistic vision of God. And currently on Partizan, one of the big factions, that is not tied to one of these five Stels, is this group called… I mean, I guess, in traditional Friends at the Table way, they have a bunch of different names. (laughs) But the one that I think is the most important for this moment is the Friends of Gur Sevraq. They are the Friends of Gur Sevraq, or they are the Church of the Resin Heart or the Disciples of Logos. They are a church that, again, still is saying, “Hey, there is a God who is powerful and who has some relationship with us and wants us to change the way history is going.” Do you know if you believe in the same God as Gur Sevraq? And Gur’s group? 
+Dre: Uh, no. 
+Austin: You don’t know. Yeah. OK.
+Dre: Yeah. I don’t know. I’m not saying like, “No, we don’t.” I’m saying, “I don’t think my character knows.”
+Austin: Right, yeah, to— I mean… Do any two religions worship the same God? You can kind of be like, “Huh, OK. Yeah. OK, well, here’s where the text is.” But also, you know, faith is wild.
+Dre: Right. Yeah. Like, we could be two different sects of Protestantism. We could be a sect of Protestantism versus Catholicism. We could be two completely different religions all together—
+Austin: Right, non-Abrahamic religions alto— you know what I mean? Yeah. Who knows? But that can be a fun thing. What is the other move you wanted to highlight? Because I think it does, again, speak to what being an Empath is.
+Dre: Yeah. Emoji? You know, “The secret method to interact with an app or an AI as if it was a normal human, regardless of how corrupted or ramp it appears.” And we talked about, too, how AI is going to look very different in this season than other seasons. 
+Austin: Yeah, I… You were like, “Oh, I took these moves,” and I was like, “Cool.” And I looked and I think I immediately messaged you with like, “Hey, have we talked about this move yet?”
+(laughter)
+Dre: “Hey, you sure about that?”
+Austin: “Are you sure? Wait a second. Are you sure?” Because the whole thing… So. Beam Saber, as written, has a very cyberpunk-adjacent setting, where there are these things called apps, proxies and emoji, all of which are things that exist in this kind of artificial reality or augmented reality space that the vast majority of people either have access to or get access to through technology. Kind of like, you know, you’re walking down the street and you see a bunch of holographic signs that are appearing in your vision, even though there aren’t actually holographic signs in physical space. But we did that already? (laughing) We did that kind of twice, in a sense. COUNTER/Weight gets there somewhat and Twilight Mirage that’s, like, everywhere for a lot of that season. And we didn’t really want to do that again? And so one of the things that’s true about this world is that many, many, many, many years ago, like 4500 years ago, or maybe less, like 4000 years ago, this thing happened called the Perennial Wave, which was, depending on who you talk to, various things happened. But the gist of it is, this one Divine, who now is thought of as kind of heretical, the Adversary, a demon more than a Divine, took over this thing at the center of the galaxy that gave her great power and allowed her to shoot out wave after wave after wave of these tiny nano machines, which badly deteriorated the technology throughout the entire galaxy. 
+And it did this in a seemingly arbitrary way. There are— or semi-arbitrary way. There are always exceptions. There are always like, you know, things that like, “This shouldn’t work, but it still does,” or, “Hey, how do Divines continue to function the way they do here?” versus, “Why does this toaster not work the way it used to?” And that thing, the Wave, is something that we’ll be seeing a lot of the season, where it’s almost like… I like calling it the Wave because it brings to mind like high and low tide. And that is a thing here. Sometimes you have a high tide of the Perennial Wave, sometimes you have a low tide. When it’s a low tide, everything works the way it’s supposed to, everyone’s built technology to be kind of resistant, as resistant and as simple as possible. But this is why like, probably very few lasers in this season, much more like interested in mechanical technologies in that way. Very few, you know, again, holograms and stuff like that. Very, very little in terms of like super futuristic tech. And it’s much worse stuff that’s like reliable, that just fucking works. But even that stuff, on a high Wave day, just will like… “(sighs) Everything’s coming in fuzzy on my radio. Everything’s a little bit— you know, missiles are going wide. You send a file to somebody and it comes out corrupt because of Perennial Interference.” 
+And the reason I bring all that up is because for you, emoji are not, you know, absent AIs that you run into, are not the retail outlet AI. It’s like weird ghost shit? It’s stuff brought to this world from another world in the Wave. Its echoes of cultures that have been eradicated by the Divine Principality. It is stuff that’s completely new, that has come alive because the Wave crashed against something in a particular way. It is not chill. The stuff that I think about a lot here is the way in which magic is used in certain fairytales or in Shakespeare. The sort of like, “Hey, this is actually supposed to be kind of scary and unpredictable,” you know? More so than something like the way we did it in Twilight Mirage or even the much more predictable way that comes out of most fantasy games. It’s not D&D where you can summon whatever. Or it’s not Final Fantasy, which we’re playing right now, you can’t summon the whatever spirit of Ifrit to your side. Right? 
+But you might use Farsight and then Emoji to talk to something that is kind of scary and other-worldly, but is not necessarily like… You’re not a hacker because you have this, which is kind of how the move is kind of written, you know? We’ve had other characters who have been hackers who can like talk to things. Mako in COUNTER/Weight could be like, “Hey, I’m going to talk to the AI that’s inside of this security system,” or even Fero in Hieron as a Druid of like, “I’m gonna talk to the spirit of this house plant.” This is not what that is, you know? You’re not going to walk into a room and be like, “I want to talk to the spirit of this chair.” That is not what this will be. If that chair has an apparate AI that you can talk to, it will be a very frightening thing for that to have existed (laughs). So, Dre, what is Valence doing in the Partizan system? And like in this, more importantly— I guess you already said, scouting to figure out what the fuck came through the gate to some degree? But also, as a mercenary, what is their… situation? 
+(pause)
+Dre: So I think their main role is, they are kind of a face and like a connector, you know? As part of their kind of… They’re basically just here to learn as much— like their overarching goal is to learn as much as they can. And so in doing so, you know, it behooves them to meet as many people as possible and to learn as much as they can. So they’re kind of like information broker, “I know a guy” kind of person. 
+Austin: Is there anything else you will talk about? What’s the name of this— You’re an alien species in the sense that you’re a species that we’ve not seen yet before, right?
+Dre: Yes. 
+Austin: Do you have a name for that species? And are you humanoid, basically?
+Dre: Yes. Humanoid. Yeah. I mean, do we want to get into fashion here?
+Austin: Let’s wait for Fashion Corner later, once we get all the basics of characters (laughs) then we zip through.
+Dre: The culture they come from is called the Nobel. 
+Austin: OK. The Nobel. OK. Cool. N-O-B-E-L? 
+Dre: Yes.
+Austin: Cool. Is there anything else? I think that’s probably a good— that’s kind of like, I get it. Valence. They/them. OK. I was going to keep reading, but that’s the fashion. I’ll let you read that when we get there. OK! Who wants to go next? Do we jump back across the pond to the Rapid Evening? 
+Sylvia: I think that would be me, then?
+Austin: Yes.
+Sylvia: Or, no, Art also still needs to go. 
+Austin: Let’s do you first and then we’ll end on Art. We’ll end on Art’s side, or your side. Tell me about your character, Sylvia.
+Ver’million Blue [01:16:40]
+Sylvia: So I am playing Ver’million Blue. She goes by she/her pronouns.
+Austin: Fuckin’ A. Fuckin’ A, Ver’million Blue. That’s what the fuck I’m talking about. Friends at the Table. That’s right. Get it right. 
+Sylvia: (laughs) She mostly goes by Million. She is an Apostolosian, so the V-E-R is the eidolon pronoun that she has. She doesn’t use it that much… (laughs) for similar reasons, actually, the Broun does, but we’ll get into the different—
+Austin: Oh. Ver’million Blue and Broun. Oh, I love this game! I love it! Y’all are the best. This is a gift for me. You wrapped it up and I got to open it and it hit me.
+Sylvia: You’re welcome!
+Austin: Broun and Blue. I love it. Anyway.
+Keith: Sylvia, what did you say? What did you say Ver’million Blue does for similar reasons that Broun does. 
+Sylvia: Uh, Ver’million Blue also, doesn’t use her Apostolosian pronouns very often because she’s also sort of disconnected from our culture, but for a different reason.
+Austin: Yeah! Uh huh! 
+Sylvia: So. I guess, if I’m gonna describe her— I should say, my playbook is the Scout: “A dangerous sniper and explorer.”
+Austin: Hell yeah.
+Sylvia: And to sum up Ver’million a little bit is that she is a sort of tank-grown super soldier? Kind of a clone of one of the past eidolons from this—
+Austin: Yeah. Do you know which eidolon?
+Sylvia: Yeah! I need to… I sent this to you. I need to get the actual pronunciation of it. But the eidolon that she’s named after is for Vervain or… I think that’s how you pronounce it? It’s a plant.
+Austin: Yes. V-E-R-V-A-I-N.
+Sylvia: Yeah. And… It might be [verve-I-n] actually, now I’m looking at it. I don’t know! Someone will tell me. I will look up a YouTube video.
+Austin: And a robot will go “Vervain. Vervain.” Or something like that. And then, you’ll be like, “I still don’t know.”
+Sylvia: I’ll be like, “I don’t know. I couldn’t tell what… that letter you used was, was that a V or a B?” 
+Austin: I think it’s [verv-ay-n] because it’s like verbena, but it also just says, “or [verv-ay-n]”. So I’m going to say [verv-ay-n].
+Sylvia: I like how [verv-ay-n] sounds.
+Austin: Yeah. But that is the eidolon… Wait, so you are a clone? You are…
+Sylvia: I am a clone of that eidolon.
+Austin: You are a clone of Vervain. There is a group called Glory that is trying to recreate the eidolons. And use them as super soldiers?
+Sylvia: Pretty much, yeah. It’s sort of like… I think we talked about it being sort of… partially a Columnar project as well, using resources from there?
+Sylvia: Yeah. It’s like an “in conjunction” thing for sure.
+Sylvia: And yeah, so, Glory produces these soldiers for different reasons. Ver’million was specifically a sniper. Like she was created to be a sniper. And then, due to what, I think, people call like— what is officially listed as the “defects in production”…
+Austin: Wow.
+Sylvia: But more just like, “not really a great personality for this,'' she was sort of deployed in the front line and left for dead. 
+Austin: Are there other Vervain clones that they’re like, “We just have to put her through different training shit”?
+Sylvia: Probably? I don’t think she’s the first and I don’t think she’d be the last, right?
+Austin: So you flunked out of pseudo-fascist Clone Warrior school because you didn’t want to be that.
+(laughter)
+Sylvia: Yeah! What if you could like be a dropout from your fucking supersoldier fascist regime? 
+Keith: Is that what you got arrested for? For not being good enough at the fascist school?
+Sylvia: Well, here’s the thing. So, they left me for dead, except it turned out I was actually good at this. So I survived. And then I went AWOL and betrayed them, and that’s what landed me in prison. 
+Austin: We described you as maybe having shot down a troop transport or something? Or disabled it or like, took out your partner’s mech and then sabotaged an Apostolosian military vessel from a long range?
+Sylvia: Like it was blatant betrayal, you know? 
+Austin: And then Kash caught you? Or Kesh… 
+Sylvia: I think, when I was on the run, Kesh probably snapped me up and locked me away as either a bargaining chip or, in this case…
+Austin: Right.
+Sylvia: Someone to hold a gun for them.
+Austin: Which is ironic, right, because they are at war with Apostolos. And yet also like… there is a “my enemy’s enemy is my friend” here, but like, you weren’t leaving so you could go fight Apostolos.
+Sylvia: No. 
+Austin: Love it.
+Sylvia: I was just leaving to leave. I just wanted to get out. And instead, here I am. 
+Austin: Love it. A thing I love here, too, is what we have is Apostolos working with the Columnar to create a supersoldier program by trying to resurrect their dead saints, basically, and them working with Orion to make missiles that shoot good. And that says everything you need to know about Apostolos, Columnar and Orion, 100 percent.
+(laughter)
+Austin: 100 percent. What else? What else is interesting here about Blue? Or Ver’million? Uh, Million. Million is what she goes by. 
+Keith: We can’t have, all of a sudden, three last name characters. I forbid it. 
+Sylvia: No. It’s… She doesn’t go by her last name. 
+Austin: (laughs) Is… I guess we should note… Or I guess I’m curious, are she/her pronouns something from Vervain or is that something that Million has been like, “No. I use she/her pronouns.”
+Sylvia: That’s just her.
+Austin: OK. Cool, cool, cool.
+Sylvia: Yeah. I think Vervain probably is the sort of standard Apostolosian—
+Austin: Like gender neutral.
+Sylvia: —they/them? Yeah?
+Austin: Totally.
+Sylvia: But, I think, from early on, Million was like, “No! I’m girl.” 
+Austin: “I’m girl. (laughs) Actually.”
+Keith: It’s sick how you can just take out half of Ver’million and get Million, a different cool first name.
+Sylvia: Yeah. That’s what I’m doing.
+Austin: That is the thing that’s happening.
+Keith: I know! That’s what I’m— I’m agreeing, that’s cool. 
+Austin: When Sylvia pitched me this character and was like, “My name’s Ver’million Blue,” I was like, “Yeah,” it was Vince McMahon, like, increasingly excited image set of like, “Ver’million Blue. Ver’million. Million. Milli.” Love it.
+Keith: Yeah. 
+Sylvia: It’s a nickname matryoshka doll. It’s pretty good. 
+Austin: I love it. Mwah. Um, cool!
+Keith: Mil. Mm!
+Austin: Love it. Perfect. And so now you are part of the Rapid Evening, or you’ve been recruited into it.
+Sylvia: I’ve conscripted, yeah.
+Austin: Yes. Recruited was strong. Apologies. Definitely conscripted. 
+Sylvia: I think we can probably get into the auspices of why, but I’m imagining it’s sort of like, “Do this and we’ll let you free!”, wink. But like, probably not really. 
+Austin: We’ll see, right?
+Sylvia: People lie about that shit.
+Austin: You know, your boss is on the call, so…
+Sylvia: I know!
+Austin: Take it up with her.
+Sylvia: Yeah.
+Austin: I should note here also…
+Jack: What? 
+Austin: Hm?
+Jack: What? 
+Sylvia: Oh, I was just joking about (laughs) how you wouldn’t actually release me.
+Austin: (laughs) All right, we need Roll20! Let’s roll some dice!
+(Ali and Dre laugh)
+Keith: There is a fight here now. 
+Austin: There is now a fight, we’ve made it to the fight. Umm. Cool! Anything else here before we move on? I think that’s probably the gist of it. 
+Sylvia: She has teal hair. But we said Fashion Zone later, but I wanted to make sure…
+Austin: She has teal hair, thank you.
+Sylvia: She has teal cool hair.
+Austin: All right. Good. Uh, Janine? Are you ready to talk about your character? Tell me about her.
+Thisbe [01:24:30]
+Janine: So I’ll be playing Thisbe. Her playbook is the Artificial.
+Austin: Cool, which is a— briefly, this is a shout out, is a Patreon backer thing for Beam Saber backers on Patreon. Will eventually be its own like… It is part of a set of special playbooks that will be in a different expansion book, basically. But if you’re a Patreon backer, you can get those right now. 
+Janine: Yeah! And she’s a robot. She is specifically a robot from a previous time. She is a robot who is, this is an important distinction, she was not made by the Hypha, but she was made to resemble the Hypha.
+Austin: The Hypha being like a cool deer-like species that were nomadic and were Strati. They were like space psychics who— or they had— they understood the technology and how to create space psychics through kind of cool antler tech. So you were built to look like one. 
+Janine: Yes.
+Austin: And were you also built with that style of technology in your robot antlers? 
+Janine: Yes. So, the— I mean, we’ll get into that in Fashion, I imagine.
+Austin: Yes.
+Janine: The antlers, specifically (laughs). But the idea that I have repeated a lot since sort of this character’s inception and sort of expanded upon and twisted in different metaphors, is that she is like a shovel or a hammer or a radio. I’ve recently added onto that that she’s like a fancy fountain pen. She’s basically like a high quality kind of multi-purpose tool. That is her purpose. That is the reason she exists. That is what she was built for. 
+Austin: You say purpose because the Artificial’s first move, which is Required Thing, is that you choose a Frame Type, small, medium or large, and then a Purpose which is like guard, ruin, acquire, labor or discover. And so you’ve chosen “labor” as that Purpose, also because it’s interesting to know what the purpose of this robot was, presumably.
+Janine: Yes. Yeah. I actually hadn’t considered frame size and I was just like, “What if she’s big?”
+Austin: She can be big! Totally. Let’s, you know. Big here is “Size of a small automobile.” (laughs)
+Janine: Yeah.
+Austin: Which is fun. 
+Janine: But like standing upright?
+Austin: Yeah.
+Janine: I want like medium large, y’know (laughs)? 
+Austin: I gotcha. The question would be what you want your scale— We’ll talk, after.
+Janine: Yeah. 
+Austin: So what’s her deal? What is her History, Tragedy and Opening. Does she… So she was a labor robot from a previous time, presumably, from the Divine Principality after they conquered and kind of scattered the Hypha. Right?
+Janine: Mm-hmm. Because she’s— like the reason she looks like a Hypha is because she was intended to fulfill the role— like, you know, with the Hypha they had a use and people were like, “Oh, we should— we want to take advantage of this use. We want to exploit this skill they have.” And Thisbe exists as like, “What if we just make a robot that does that instead of working with them?” That kind of thing. 
+Austin: And so that thing was a combination of, like you said, like it’s a bunch of different stu— it’s a bunch of different labor tasks, but also some sort of like exploration role? 
+Janine: Yeah. It’s principally like being able to sense and scan and do that kind of thing. Another metaphor would be like a metal detector. 
+Austin: Sure. 
+Janine: But also, if you’re going to build this very advanced robot with like a big body to accommodate scanners and shit, why not also make them really good at like smashing stuff? 
+Austin: Uh huh. 
+Janine: And, you know, doing things like that that maybe you don’t want to do because it’s hard and dirty. 
+Austin: Yeah. I remember there was that truly terrible policy from Andrew Yang that he wanted to build called the Legion of Builders and Destroyers, which would be— 
+Keith: Oh… my God. 
+Austin (laughing): Did you not hear this, Keith? 
+Keith: No. 
+Austin: (sighs) “He proposed siphoning 10 percent off the military budget, approximately 60 billion a year, to a new domestic infrastructure force called the Legion of Builders and Destroyers. The Legion would be tasked with keeping our country strong by making sure our bridges, roads and power grid, levees, dams and infrastructure are up to date, sound and secure.” OK, I’m on board for this at this point! Right? “Follows up by saying it would also be able to clear derelict buildings and structures that cause urban blight in many of our communities and respond to natural disasters. The Commander of the Legion—“ capital C, capital L, “—would have the ability to (incredulously) overrule local regulations and ordinances to ensure that projects are started and completed promptly and effectively.” He dun built space marines—
+Keith: That guy fucking sucks.
+Austin: That guy fucking sucks.
+Keith: That guy fucking sucks so bad. Ugh.
+Austin: Just if you’re like, “wait a second, but isn’t it cool to get rid of urban blight?” Think for a few moments about who  gets declared as blight, about which communities (nervous laughter) would be— what regulations would be overruled so that they could get kicked out. Ugh. Anyway.
+Keith: Don’t you hate being a homeowner and falling ill (laughing) because there’s a house you don’t like on your street?
+Austin: God. Anyway, the point is they probably did that shit with you, but thousands of years ago, right?
+Janine: Yeah.
+Austin: And then what happened? 
+Janine: I mean, that’s— the other thing is like, in the context of now, you have a screen that does one thing. Thisbe is from before that. That is why she is able to be a multi-purpose thing as she sort of predates that. But at the same time, I’ve also described her to you as like, she is… you know, we’ve had a lot of robots on the show before. She’s not like gonna be cracking jokes and doing a lot of… I mean, she might crack jokes, but not intentionally, that kind of like— you know. And I describe her as like, she’s a few notches above her mech in terms of awareness and independence. 
+Austin: And you don’t see that because your mech is, like, especially sapient (laughing). You say that because your mech is just barely… Like, is just a robot, basically, right? 
+Janine: Yeah. 
+Austin: Yeah, yeah. That’s really cool.
+Janine: So her history is basically that she was dug up by farmers. They dug her up with a tool. She has a big— again, we get into this in fashion, but she has like a scar on her face where basically her face was split open with a shovel, essentially, and kind of patched up. And in the process of this, she doesn’t have her memory of what she was before. She just only has a memory of what she is now. So these farmers sort of patched her up and kind of set her to work. But she is a big fancy robot, which is not a thing you can be subtly, especially in a world where the technology has vastly simplified. So she… I think we agreed that she was like, basically, forcefully purchased? By some other mercenaries?
+Austin: Yeah, I think that what we talked about was like… I think you had pitched me that either… Not too much attention, but there was some reason the farmers were, like, “yeah, this isn’t working out for us,” right? 
+Janine: I mean, she’s a dangerous thing to have and was maybe a little more than they could handle. So they, you know, if someone walks up and says, ‘hey, we’ll give you a lot of money for this thing that you like, but are struggling with quite a lot…” You know? 
+Austin: Yeah… And then, you went with the soldiers.
+Janine: And they kinda maybe had the feeling of like, “oh, you know, we’re sending— this big dog is too big for our yard. We’re gonna send them to a farm upstate.” That kind of thing. 
+Austin: Right. Right.
+Janine: But then… Well, then this—
+Keith: You don’t have an upstate. 
+Janine: (laughs) But then the, you know, the mercenary group that she gets sent off with, they use her in a mission where most of them get wiped out. 
+Austin: Right.
+Janine: So their thing that they do is they sell her to the current crew, the player crew. And for a while, they just kind of used her as a labor robot, which, you know, but then it’s sort of the realization of… She’s a little more than that.
+Austin: Right. 
+Janine: She’s like a part of this team. 
+Austin: So at first it was like, “hey, Thisbe, can you move these boxes?” And then eventually it was like, they noticed that Thisbe was moving boxes on her own or was like making decisions.
+Janine: Yeah. She’s like anticipating what people— That’s a big, important thing for me playing her this season is to have her trying to anticipate what the people she considers operants need from her. 
+Austin: Interesting.
+Janine: So noticing that it’s a thing of like, “okay, well we talk to her and she talks back and also she tries to do things to help us and it’s a little weird to just think of her as a truck.” 
+Austin: Right. Right. She is more than a truck.
+Janine: Or shovel.
+(Keith laughs)
+Austin: Right, right. Cool! All right. Well, from one farmer to another…
+Art: Hey! 
+Austin: Art, tell me about your character. 
+Sovereign Immunity [01:34:00]
+Art: Hi! My character is named Sovereign Immunity. 
+Austin: That’s— OK. Is that a name?
+Art: Well… What is a name?
+Austin: Great.
+Keith (laughing): Fuckin’. People in glass houses!
+(Austin and Art laugh)
+Austin: Well! Talk to me about Sovereign Immunity.
+Art: Sovereign Immunity is a name in as such as… If this person had any— Any document this person has, that’s what it says.
+Austin: Just says “Sovereign Immunity”.
+Art: Says “Sovereign Immunity”. Everyone in the monastic order to which Sovereign Immunity belongs is named Sovereign Immunity.
+Austin: Do they have nicknames? Also, wait, is it everyone part of the order or is it everyone of a certain rank in the order?
+Art: I guess it’s probably just the people assigned to do this thing.
+Austin: OK. Right. That makes sense.
+Art: Being a Sovereign immunity. 
+Austin: OK, so Sovereign Immunity is like a title for this role that you have been. 
+Art: Yes, but I don’t want to think about what the pre… What the name before that was.
+Austin: Right. How long have you been a monk? How old are you?
+Art: Old. What did we figure out? How old is Sylvester Stallone? Sylvester Stallone’s age plus, like, three or four years.
+Austin: Uh, Sylvester Stallone…
+Art: Because it’s the future, so people will be a little older.
+Austin: …is 73. So you’re like…
+Art: So like 76-ish.
+Austin: OK. Is this our first character of advanced age? I think it might be.
+Keith: In the main seasons, right—
+Janine: In the main campaign, I think.
+Austin: Yeah, yeah, yeah. Yes. Yes.
+Janine: Yeah. 
+Art: That aren’t just like immortal…
+Austin: Oh, you’re right. Yes. Yeah, you’re right.
+Art: Because, you know, like how old was... (deliberate mumbling).
+Austin: ⸢Signet⸣.
+(Janine laughs)
+Austin: We can say main character names from past seasons (laughs), we don’t need to— ⸢Signet⸣ was very old. 
+Art: Sure. That’s not who I was gonna say and it’s kind of a spoiler.
+Austin: Okay. So I won’t say anything else. 
+Art: Yeah. Um…
+Austin: Who the fuck does Art mean. This is interesting. 
+Keith: It’s COUNTER/weight.
+Janine: Yeah, yeah.
+Keith: Main character.
+Austin: Ohhhh, yeah, yeah, yeah. That’s a spoiler. Sure.
+Art: Yeah. I thought so. 
+Austin: Yeah, you got it. 
+Art: And I think it’s a very, it’s— My look touchstones were like older action stars? Like, you know, how like Sylvester Stallone, Arnold are like impossibly muscular for their age, if you think about what we thought was what people could do?
+(laughing)
+Art: Even if you look at like, you know, Jack LaLanne, who was like an old fitness guy, doesn’t look like these people look. 
+Austin: Who? I don’t know this person you just said.
+Keith: (crosstalking): Jack LaLanne is a famous exerciser…
+Janine (crosstalking): Jack LaLanne, he like pulled stuff across the water with rope in his teeth and stuff.
+Keith: Yeah.
+Janine: He like sold stuff…
+Austin: Spell him? Spell his last name?
+Art, Sylvia, and Keith all crosstalk: L-A-L-A-N-N-E.
+Austin: Oh, La-Lane? OK. Got it, I thought you were saying Mulaney…
+Janine: You’re probably familiar with his telemarketing or his, like, infomercial work more than his fitness ones…
+Austin: Yeah. Okay. I see now. Yeah, you’re right. This is not what— Yeah, I know this guy from that. But this is— you’re right. This is a different body type than what contemporary aged action stars look like. 
+Art: Yeah. Or like. Another touchstone for me was what Triple H looked like at this year’s Wrestlemania. It was the first year I was like, “oh shit, Triple H is getting old”.
+Austin: Gotcha. I just typed in “Triple H Wrestlemania” thinking that I would get this year’s, but that is not how that works. So, that’s fine. So you’re older, you’re a monk, you’re part of an order. We don’t have the exact name of the order yet.
+Art: No, we’re real close.
+Austin: We’re real close. 
+Art: We’re within two or three revisions. 
+Austin: But we kind of pictured that order as, you want to explain what the deal with that order is? I guess?
+Art: Yeah. They’re like… At one point they were very powerful, militarily. I said it’s like, “what if the archbishop of this monastic order was Genghis Khan?”
+Austin: Right.
+Art: And they were this feared unit of warrior monks. And they set up a system where you would get advice from them. And it was really like—you get advice for them so they don’t come and, you know, knock your stuff over.
+Austin: Right.
+Art: And that sort of had— I said, like, the successor to the Genghis Khan archbishop was Don Corleone.
+Austin: So still powerful.
+Art: And it just turns into this massive protection racket, basically.
+Austin laughs.
+Art: This society of monks are like, “that would be a real shame if monastic—“
+Keith: Warrior monk more like warrior punk.
+Art: I’m sorry, Keith?
+Keith: No, sorry.
+Austin: It was a— don’t, you keep going, Art.
+Keith (laughs): Yeah.
+Art: Alright. It’s like this order of monks was like, “you know, it’d be a real shame if a bunch of warrior monks came and wrecked your stuff. You should hire us to make sure that doesn’t happen.”
+Austin (laughs): Was there a… So we’re obviously drawing on a bunch of different things here. But both kind of like… Sōhei, which is like a type of Japanese historical warrior monk. But also things like the Order of the Templars or whatever. Right? Of military religious orders from medieval Europe. And I’m curious, in both of those cases, there were rival orders. There were rival— like the Knights Templar were not the only Christian military order and there were many, often rival combatant Sōhei orders in Japan. Were there other quarters like that in ancient history for the Divine Principality in your order? 
+Art: I’m sure. And I’m sure that this is like a great moment of victory and that it has ebbed and flowed since.
+Austin: Okay.
+Art: But like, long term, they couldn’t keep it up.
+Austin: Right.
+Art: They’re way less… Basically, they’re not a military force anymore. And instead, they’ve become good at their jobs, basically. They have become effective advisors to political figures, kings, nobles… You know.
+Austin: Right. CEOs, whatevers…
+Art: On and on. CEOs, yeah. And now their strength lies in tradition and old agreements.
+Austin: Right. Right. Old alliances, the old papers. A favored narrative trick of ours and many writers of genre fiction. A thing that I really like conceptually that we talked about a little bit privately was that, at one point, this order… One of the things that made this order so powerful was that it was often first to a place? This is a very… Stel Nideo is the Stel that you would have been born into. And now, Stel Nideo is the source of religion in this culture. Or it is where the Received Church of Asterism, which is one of the two major faiths, is housed out of. And it was the first of the major faiths of this culture. And because of that, there was always a degree of authority that came with just being a fucking monk, being part of the church. And I suspect, or the thing we talked about was like, the monks of your order would show up to a place pretty early on, often before a large military or civil presence from Stel Nideo. And certainly in places that were often forgotten by Stel Nideo. And so that let you get all of this, like… Get your foothold early into these communities. And part of the deal that ended up being made by the third successor, the successor to Don Corleone, who we batted around a couple of different other mob-adjacent characters… But was basically like Stel Nideo came knocking and it was like, “OK, you are not Genghis Khan. You are not Don Corleone. Someone—us or someone else—is gonna come for your head. It’s time to adjust how you’re running this thing.” And y’all were allowed to stay in power locally, in terms of like—hey, here is a community where the monastery is still the centerpiece of it. And you were encouraged to do more of that advisory work. But the fleet got broken up. Or got nationalized or whatever, right? All of your military assets, you’re once great army, just became part of the Nidean Army, instead of being the army of the order or the navy of the order. Right?
+Art: Right, yeah. Like most things, you can exist outside of this system on this wing and a prayer just as long as you have the leaders who everyone is too afraid of to…
+Austin: Right.
+Art: And then as soon as you give an inch, it’s over. 
+Austin: Right. So you are a Sovereign Immunity which means that you have been one of these advisers. Do you want to set up what that means and who you’ve worked with? 
+Art: Yeah, I mean, the most prominent assignment, and it probably wasn’t the first, but we don’t need to get into it, but is that this Sovereign Immunity was the adviser for Clementine’s parents.
+Austin: Right. Clementine—Jack’s character’s—parents.
+Art: Yes.
+Austin: I have written down dates here that you don’t have in front of you, but Clementine’s born in 1400. And I imagine, at that point, you’re already working as Sovereign Immunity for her parents. 
+Art: Yes. And that goes well. This is a prosperous partnership. Until it isn’t—
+Austin (laughs): Uh-huh.
+Art: —anymore. When this Sovereign Immunity… supports a farmer rebellion, an uprising. In a moment of idealism and passion and perhaps not the foresight that this order is…
+Austin (pompously): One would expect more from a Sovereign Immunity.
+Art: Of course.
+Austin: What was that rebellion? Was it about money? Was it about supplies? Was it—? Because like, we’ve talked about how the revolutionary character has yet to arrive or it’s on the precipice of arriving. Class consciousness has not quite hit. And there have been, as always, efforts from this empire to either put down any rebellions or any revolutions or reform and integrate, instead of needing to go into all out warfare. But mostly put down. So I’m curious, what was the thing the farmers wanted here? And what motivated you?
+Art: I think it was like, you know, relief from taxation.
+Austin: Sure. It was like, “hey, it’s been a really rough—”
+Art: They felt like they were being overly…
+Austin: “—ten years of harvest. And the taxes that you’re hitting us with are going to kill us, are going to hurt us. We will feel it more than you will feel it, if you don’t get this wheat or rice or whatever.”
+Art: Yeah. So, the Sovereign Immunity takes up arms. And it’s sort of like a thing like, they actually do have this amount of unqualified… Immunity? And so like a big portion of this was just like…  weird people talking to lawyers. 
+Austin: Right.
+Art: Like, “can we do…? What are we allowed to do here?”
+Austin (laughs): Right. Can I mention you skipped one of the big things you did? Or maybe it has slipped from your— 
+Art: I thought it was still in the future?
+Austin: No.
+Art: No? I thought it was at the end of this.
+Austin: Oh, it is. It is at the end of this.
+Art: Yeah.
+Austin: Yeah, okay. Yeah. 
+Art: Yeah. This revolution doesn’t gain the traction that…
+Austin (laughs): Oh, weird! Really? This one farm on one planet in this galactic empire was not enough to tilt the scales against…
+Jack: To overthrow House Kesh.
+Keith: Gotta start somewhere.
+Austin: House Nideo, please. I guess, well, you were assigned to House Kash. So was this a Kesh farm?
+Art: Yes.
+Austin: Okay, gotcha. 
+Art: The betrayal of House Kesh is an important part of this, I feel, in terms of—
+Austin: Oh, yeah, you’re right. Duh, yes.
+Art: —the squishiness of it. But he kidnaps the… Is it the Prophet?
+Austin: The Princept. 
+Art: The Princept.
+Austin: Who is a child at this point.
+Art: Yeah.
+Austin: A child named Dahlia. 
+Art: And again, it was a terribly bloodless kidnaping because just like, “well, we’re not allowed to arrest you for this, so.” And then eventually everyone said, like, “nah, you can do this.” And they did. And it was over very quickly. 
+Austin: So there is one note here because of things we’ve established, which is—they don’t. Kesh does not capture you at that point.
+Art: Right.
+Austin: The Apochine, who is the leader of Apostolos, is like, “you know what? I am done sitting around and watching politicians and priests fucking twiddle their thumbs while the leader of our empire is sitting in some farmer’s pigsty” and kicks down the door with an Apostolosian army and takes the Princept. 
+Art: OK. But they were obviously housed at a house, I mean, a pigsty is a terrible place to keep a prisoner. There’s no—
+Austin (laughs): OK, fair. Fair.
+Art: It’s not defendable at all. 
+Austin: Uh-huh.
+Keith: It is the last place you would look!
+Austin: It’s true. It’s true.
+Art: But it’s out in the open, so you’d just see it.
+Keith: Hiding in plain sight.
+Austin (laughs): “Oh, there is the child. There.”
+Art (laughs): “Oh, there! Right there. Right over there.”
+Austin: So, yeah. So, Apostolos shows up, kicks down the door with their military might, steals back the Princept and says, “clearly the Princept is not safe in either Nidean, nor Kesh hands”—the two groups that would traditionally raise the Princept—and says, “we’re going to take this child to raise on the frontlines, where it’s safer” (laughs). 
+Art: So, the Sovereign Immunity is imprisoned, but the imprisonment is complicated. It’s technically that this is the Sovereign Immunity assigned to be adviser to the warden of the prison. 
+Austin: OK, so you have like a cell, but it’s called a room?
+Art: Yeah, I have a cell. It’s called a room. 
+Keith: Do you have extra amenities at all? Or is it just like—
+Art: I have an honor guard, but it’s just guards.
+Austin (laughs): Wait, are they there because of you being an action hero?
+Art: Yeah, I think so, yeah.
+Austin: Okay.
+Art: And there’s a general like… I think like once a month I have dinner with the warden.
+Austin: Right. So you do do some—
+Art: As like a show of accepting of the advice, but like, it’s nothing. It’s like, it probably takes 15 minutes, you know? 
+Austin: Right. There are dinners and there are dinners.
+Art: I think it’s like, “you could technically leave at any time. But unfortunately, there would be a prison revolt as you were on the loading dock and you would be killed in the crossfire”.
+Austin: Right. Right.
+Art: “No one’s officially saying you can’t leave, but you’re a prisoner. You’re just in jail here, there’s no—”
+Austin: Could your order have pushed harder to keep you safe or did they do all they could do and this is like…? Was this kind of like, “take the fucking deal”?
+Art: I think this is a pretty good deal.
+Austin: Yeah!
+Art: As far as this all looks.
+Keith: It got you the dinner!
+Austin (laughs): It did get you the dinner.
+Art: Yeah!
+Austin: Cool. All right. And at this point, you’ve been presumably assigned to Clementine’s— to the Rapid Evening as her Sovereign Immunity. 
+Art: No, that is my Drive—
+Austin: Oh! Interesting.
+Art: To become assigned to Clementine. 
+—————
+Assigning Drives [01:50:00]
+Austin: It’s interesting that you say the word Drive. One of the things in this system—and we’ll just walk through these as best we can right now—on top of there being mechs and— I think maybe we save vehicles for actually when they show up on screen, that could be fun. And there’s a lot there, but I don’t want to just walk us through all of those things tonight. But Drives are important.
+A Drive in Beam Saber is a goal for your character to have. It’s a one-sentence thing that is like, “hey, this is what I want for my character”. 
+They can be really small. They can be like, retirement—which in our world is very big (laughs). But they could be very personal things, like—I want money to retire; I want to steal this rare diamond; I want revenge on the person who bullied me in high school. Right? Very personal things. Or, they can be really big, bold things about the future of your squad or your faction or the world in general. 
+Drives are something that emerges from this idea that you, the players, can take authorship away from me. And the way it works is that you have one Drive and you have two Drive Clocks. These are things that are like, they fill up as you work towards whatever your Drive is.
+So, Art, your Drive is to become Clementine’s assigned Sovereign. And so that means, as you do things that maybe would advance that Drive, advance for yourself to that goal—you impress Clementine’s mother, the order reinstates some extra privileges, you make certain popular appeals, blah, blah, blah—you would get ticks in this Drive Clock. You would check off boxes.
+The way the Drive Clocks work is, you can spend them to get stuff!
+If you spend one of them at any point: You can negate any harm or damage; you can change any roll that you’ve already rolled into a six, a full success; or you can provide a bunch of aid to one of your allies. You can like do a bunch of different teamwork things together with them all at once, basically. Take one extra die, have improved effect, improve position, and ignore level 3 harm. So you can just be like, “you know what? I’ve been working hard on this thing, but I’m going to use that energy and that goodwill that I’ve built up in my own heart to help you, friend,” etc.
+If you get two Drive Clocks— So if you’ve done eight things to progress yourself towards your Drive, you can change your personal circumstances. So you could, Art, be like, “you know what? I’ve saved up all eight of these ticks, I’ve filled up two of these clocks, I’m going to take authorship from you, Austin, and write into the fiction that I have become Clementine’s assigned Sovereign”. And that is cool.
+At three Clocks, and I’ll note you only have two, but if you and your crew can spend a total of three clocks, you can change the fate of your squad or of any squad. You could obliterate an enemy’s squad. You could convert the squad that you have from, you know, frontline duty to something much safer and ensure that your friends will live through the war. You could get yourselves the supplies you need to go save a town that you know is under threat.
+And at four, if you can somehow convince your crew to pitch in for four, you can change the stakes and the fate of an entire faction. Which means, maybe you want there to be a reform or a rebellion that moves the faction in some way from a theocracy to a democracy, that changes who is in charge of the whole thing, etc.
+And that is how Drives work and they rule. And let’s just go around the table real quick and tell me what each of your Drives are, if you have one right now. So, Art [Sovereign Immunity], yours was to become Clementine’s assigned Sovereign. Let’s go in reverse order. Janine [Thisbe], do you have a Drive yet? 
+Janine: I have like a tentative Drive.
+Austin: Sure.
+Janine: Which is to find the farmers again and be of proper use to them.
+Austin: That’s really good. Yeah.
+Janine: Like a homecoming kind of thing. 
+Austin: That’s cool. Yeah. Like some sort of like… Is that about… We’ll talk, yeah…
+Janine: I think, part of it is that like, I think she would have to be aware of why they got rid of her?
+Austin: Riiiight.
+Janine: I don’t think it’s sort of like a lost puppy thing of like, “well, I just have to go— I got lost and I have to go back to them.” 
+Austin: “I gotta find them!” 
+Janine: I think she understands—
+Austin: Wait, also do you know where they are?
+Janine: No.
+Austin: Okay.
+Janine: That’s the thing, is she has no idea. Because space is huge.
+Austin: Right. You were on some other world, you weren’t here on this farm.
+Janine (laughs): Space is huge, and— Yeah! She was sold to mercenaries who extremely would just go wherever the fuck and aren’t exactly gonna tell her like—
+Austin: Totally.
+Janine: —“Hey, we’re going to this place. Buckle up.” 
+Austin: Right. Right.
+Janine: It’s more like, “get in the trunk” (laughs).
+Austin (laughs): Wow. OK. Sure. Uh, Million! 
+Janine: It’s tough for robots.
+Austin (laughs)
+Sylvia: Yeah!
+Austin: What is your Drive?
+Sylvia: My Drive is to claw your way out. Just sort of find an escape from these soldiers—
+Austin: Like, “get me out of this prison situation. Get me into a life that has nothing to do with war”?
+Sylvia: Pretty much, yeah.
+Austin: Cool. Then, back on the other side, was it Dre, were you next? Are you Empath [Valence]? Yes. 
+Dre: Yeah. I think I’m still kind of workshopping on mine. But the one I have now is—convince a Stel to become tireless defenders of the Nobel. 
+Austin: That’s really interesting. So like, you know that someone attacked some Nobel shit at some point. That will probably happen again. There is a war going on. Who knows how long they will keep this rule that they don’t expand further? Let’s get some allies sooner than later. That’s cool. Jump back to the other side. Was it Keith [Leap] next? Yes.
+Keith: Yeah, I’m still working on someth— I have a couple that I’m deciding between more than anything. 
+Austin: OK, we can talk after, easily.
+Keith: Yeah. 
+Austin: Uh… Broun.
+Ali: Yeah, my Drive is to own a spaceship. 
+Austin: Fuckin’ love it. I love it.
+(Ali laughs)
+Austin: I love it. It’s just, “what if I had a spaceship?” That’s all. 
+Ali: Yeah, you know, I could just go wherever I wanted instead of being stuck on a moon that I— (laughs)
+Austin (laughs): That you kind of hate?
+Ali: That I— Yeah!
+Austin: Great. Cool. I guess that leads us back to Clementine? Is that it?
+Jack: I want to rule Stel Kesh.
+Austin: Okay… That’s not… One of you wants a spaceship. And one of you wants to be… in charge of… the oldest…
+Keith: Now, is that a personal thing?
+Jack: Oh, it’s very personal.
+Keith: Or is it a faction-wide thing?
+Austin: So! Here is a fun thing about the way Drive Clocks work (laughs). If— Here’s what I would say, off the cuff. Right? And there’s actually an example of this in the book. In fact, maybe I should just read the example in the book because it will say it better than the way I would here. I should note really quick, there is one Drive that can’t— one thing Drives cannot do, which is, a Drive cannot just end the war. The war is— there’s too many— it’s over-determined. There’s too many things that are causing a war to happen. And so you can’t just be like, “I spend four Drives and the war is over”. 
+Jack (laughs): In 16 episodes, we’re done.
+Austin: We’re done. Exactly. So! Here is— this is the bit that I love here. “What is meant by change and circumstances is left intentionally vague because what can be changed and how much are ways to control the tone of the game. In a game where pilots are narratively powerful, changing a faction could be convincing the empire to become a constitutional monarchy, giving political power to the masses. In a less heroic game, spending four Clocks might only mean that the child empress is able to reach adulthood in good health. While the example about the child empress reaching adulthood is a four Drive change, it could also be a two Drive change instead. The difference”—and this is the personal versus faction-wide thing—“is the scale of the effect. Spending four would mean the empress grows up and this changes the empire. Spending two means she grows up but is ineffectual and becomes a footnote in history.”
+So, (laughs) is Clementine Kesh the ruler of Stel Kesh the way rulers come in and out of history and you go, “oh, huh? This Wikipedia page is really short!” Or (laughs) is it something that changes Stel Kesh? And that is one of the things we’ll have to figure out. And also, who knows? You can change your Drives. You know? You can spend your points and change your Drives in play. So. You know. Fantastic. We’ve done Drives. 
+Art: Wait, I just have one more note before we move on from…
+Austin: Yes.
+Art: …is that the Sovereign Immunities come with a complicated system of nicknames that I will not get into, right now.
+Austin: Okay.
+Art: But of course, when everyone in your order is named one thing, you need things to call people. And we will just get to that as we go. 
+Austin: As we go. Uh, I will say that one of your names is already said in a previous episode. In an intro, I mentioned something that people could scour the intros from the Road to PARTIZAN.
+Jack: Oh yeah, he showed up! And I sat up very suddenly in my chair because I was like, “wait, hang on a second” (laughs).
+—————
+Establishing Connections [01:59:33]
+Austin: Right. Totally. All right, so let’s save fashion. Let’s talk about connections. So Beam Saber does have a system for inter-player character relationship beliefs. But those aren’t done yet. They will be done by the time we get to our first episodes, I believe. But what we do have is relationships with NPCs. There is, again, something like this in Beam Saber. But what we’re actually doing is we’re lifting something from Jeremy Keller’s Technoir, which I’ve used in COUNTER/weight and in one of the Bluff City games, that is a system for connecting your characters to NPCs in the setting. It really helped, I think, get COUNTER/weight off the ground because it gave us some immediate connections to NPCs. It’s really useful. And so, the way that works in Technoir is that you connect your characters during character creation and they kind of give you things for each time you kind of tap them for favors. Here— I’ve just sent around a list of all the NPCs with some descriptions and adjectives describing them. And then I asked you to pick two of them—one from a sheet corresponding to your Stel and then one from the other Stels, or kind of a grab bag one and then the opposite faction, the other side’s faction. And to kind of pick two total and write an adjective describing your relationship with them.
+So Clementine, we’ll stay with you at this moment. What were the two NPCs you highlighted on this chart or on this list? And what were the adjectives that you used to describe your relationship with them?
+Jack: The first NPC that I chose is the Blossom, who is associated with House Nideo. And the three adjectives that Austin put beneath the Blossom are shrewd, serene, and massive. Can I just read this bit? Or these secrets?
+Austin: Yeah, go for it!
+Jack: Says: “The Lambic House is just supposed to make beer, sell it around the world, and keep people happy. But with each keg delivered by the sect’s Abbot of Provision, the Blossom also serves a short, populist whisper.”
+Austin: Mm.
+Jack: And I think… we have… our own adjectives, which describe our relationship with these people.
+Austin: Yes.
+Jack: And Clementine is tantalized by the Blossom…
+Austin: Tantalized…
+Jack: …because the Blossom delivered beer to palaces during Clementine’s kind of teenage years. And during that time she discovered—I don’t exactly know how, we can find that out—that the Blossom wasn’t exactly what he seemed to be.
+Austin: Right.
+Jack: That there was a short, populist whisper served. And I think as far as Clem was concerned, this was very exciting in a kind of transgressive way to be this… triple punch of—the person delivering the beer has a secret. The secret is that they are kind of pseudo-revolutionary or like vaguely revolutionary. And finally, that they are affiliated with House Nideo. They’re like… I’m a Kesh princess. The beer is being delivered by a Nideo organization, who is packaging something with it. So that tantalizing is not romantic. It’s more just like the discovery of just… “Oh, my God, there’s a secret and I found it.”
+Austin: Right. I’ll note you said “the triple punch”, which is definitely one of the beers made by the Lambic House. 
+Jack: Oh, yeah. The Triple Punch.
+Austin: Yeah, absolutely.
+Jack: Definitely.
+Austin: I mean, it is literally— a triple is a Trappist beer. And this is a Trappist monastery. It’s also a Sovereign Immunity monastery. It’s part of the same order that Sovereign Immunities are from, though the Blossom is not necessarily a Sovereign Immunity, I don’t think. I don’t think, at all. 
+Jack: Oh, damn.
+Austin: But yeah, Art, good thing to know here. That you do have… The Lambic house is part of your order. 
+Jack: The Blossom is a single person?
+Austin: Yeah. One person, the Blossom.
+Jack: With the name “The Blossom”?
+Austin: Mm-hmm!
+Jack: Okay. That’s just their name.
+Austin: Yeah.
+Jack: I was thrown by massive.
+Austin: Uh, they’re massive! Or he’s massive, (crosstalking) he’s a big, big, big, big, big man.
+Jack (crosstalking): I didn’t know if it was like an organization. Okay, I see.
+Austin: Yeah.
+Keith (crosstalking): How big?
+Art (crosstalking): Who’s that big man?
+Austin: Who’s that— Whooooo’s that big man?
+(Ali laughs)
+Jack: Answer—
+Austin and Jack: The Blossom.
+Austin: Uh-huh! Uhhh.
+Keith: The original Big Man was a plant monster.
+Ali: Mm-hmm.
+Austin: Th— That’s true! That’s true. I was like, “this one isn’t,” but I realized you meant his name is the Blossom, so.
+(Ali laughs)
+Keith: Yeah.
+Austin: Great. So who is the other person you have a connection with, Jack? 
+Jack: The other person I have a connection with is Gucci Garantine [pron. Garanteen] or [Garant-I-ne], I don’t know how we’re saying that.
+Austin: Garant[een] is right, Gucci Garantine, yeah.
+Jack: Gucci Garantine, whose three adjectives are idealistic, clever, and rich. “By light of day, Gucci Garantine—” Garantine is from Kesh?
+Austin: Yes.
+Jack: “By light of day, Gucci Garantine manages House Brightline,” which is a Kesh lower house?
+Austin: Yes.
+Jack: “With…” something special that we’ll probably get to eventually.
+Austin: We’ll get there in the rest of the sentence you’re reading.
+Jack: “By light of day, Gucci Garantine manages House Brightline’s diplomatic engagements. But, from the shadows, she operates all of resistance group Horizon’s activities on Partizan.” So I’ve kind of been picturing her as like an aide-de-camp or like an attaché for House Brightline, who shows up with like a… well, like a sci-fi clipboard?
+Austin: Yeah.
+Jack: You know, with like timetables and stuff—
+Austin: I think it’s probably a smart attaché case and then, yeah, sci-fi clipboard and like… a copy of the budget. Right?
+Jack: Yeah. 
+Austin: She—
+Jack: But it’s not just the budget as well. It’s like, “oh, the Brightline ambassador will be doing this at this time…” 
+Austin: Yes. Yeah, totally. But also she is sometimes the ambassador, right? Like, when the ambassador can’t show up, she has to be the person who greases palms and says kind words to the richer noble from House Kesh or from Stel Kesh. Or from House Kesh, like you. And—
+Jack: And she’s also running a resistance group on the moon of Partizan.
+Austin: Yeah, so Horizon popped up in one of the Road to PARTIZAN games, which is a really fun one. It was one of the ones that helped explain where we got to our technology state here. We played a great game by Briar Sovereign named Armour Astir, a game I mispronounced as Armour Ast-er basically the entire session. Feel very embarrassed by it. And Horizon is like… Horizon would be the good guys in the anime? In the sense that they’re like, “Hey, Stel Kesh used to be a noble house. We used to guard the galaxy from its terrors. We used to be the good guys.” And really what they mean is we used to be space cops (laughs). 
+(laughter) 
+Austin: And there would be no interrogation in the anime about what that means. And so Horizon is like a monarchist group that wants to go back to when we were the good monarchy instead of this monarchy. 
+Jack: Yeah, they’re not anti-Kesh, they’re just like anti… these folks? 
+Austin: Yeahhhh, they— I think it’s vague, right? But they come from a place that is like, “we have a lot of wealth.” There’s like a noblesse oblige, right? In fact, I have to write down that Gucci Garantine has a mech called the Noblesse Oblige right now.
+(Ali laughs)
+Austin (typing): “Has a mech… called just The Oblige.” All right. Normally, I don’t write my notes in this public-facing document, but I’m doing it because it’s right here. Which I think actually introduces the second thing, which is Gucci might be your rival?!
+Jack: Yeah! So the thing about—
+Austin: What is the adjective you have? What is the adjective you have with her?
+Jack: I have the adjective cagey—
+Austin: Love it.
+Jack: —which is interesting because Austin and I were like—Gucci and I both have discreet secrets. Gucci’s secret is that she’s running Horizon. And my secret is that I want to overthrow my entire family?
+Austin (laughs): Uh-huh.
+Jack: And neither of us know this, but we both absolutely get a vibe from the other. The way I described it to Austin is like, you have a really good time chatting and you like catch up and you play some polo or do some rowing or whatever in the palace over a summer. And then, later that evening, as you’re going to bed, you’re like, “hang on. Did I—? Hang on. Did I miss something?”
+(Austin laughs)
+Jack: And it’s basically been that for our entire… I think she’s like very slightly older than me—
+Austin: Yeah, like a year or two or three.
+Jack: —but throughout our whole appointments…
+Austin: Yeah, I love it.
+Jack: …there’s been this vibe on both sides of like, “wait, what am I not seeing?”
+Austin: Right. Definitely. We should talk after this about whether we want to declare her as your rival, because rival means something very particular and very cool in Beam Saber. Austin Ramsey did a really great job of kind of emulating how—
+Jack: It activates the nemesis system?
+Austin: It basically does, right? It basically does activate the nemesis system because as a GM, I can be like, “hey, yo, your nemesis showed up. Your rival showed up. Fuck”. You know? Cool. Okay. And so that, again, was cagey for Gucci, right?
+Jack: Mm-hm!
+Austin: Love it. Cagey for Gucci (laughs). That’s the name of the line that we’re putting out this year. All right, I’ve added those to your allies list just so that they’re on your page. But we don’t— you know—
+Jack: Thank you.
+Austin: Who knows if they’re actually allies because—
+Jack: Right, right.
+Austin: —but what’s important is you have those relationships. All right. Let’s jump from— God, now, we’ve gone in this weird order where I’m jumping between the two things. Thank you. Ali. Hi!
+(Ali laughs)
+Austin: Tell me about Broun and their relationships.
+Ali (laughs): Speaking of Gucci, my first relationship is with Gucci.
+Austin: Oh, interesting. 
+Ali: Our relationship is that I am exploiting her (laughs).
+Austin: Oh, great, love it. How?
+Ali: We didn’t get into this much when I was talking about Broun, but when we had sort of thought of what a mechanic would be in this world, there was like the idea of formally having a job. Meaning that you have access to be able to buy certain equipment or certain materials because you’ve been certified for that specific thing. 
+Austin: Interesting. Yeah, yeah, yeah. 
+Ali: And then also the flipside of that being like, if you work for a company, you know… (laughs) your mechs probably have insurance through that company and there are probably like mechanic places that will only work with those insurance companies. So there’s probably like this whole aftermarket thing of being able to be like, “well, I can repair your stuff|. And that’s kind of how Broun’s been getting by—
+Austin: Oh, interesting…
+Ali: —by doing like kind of… Right, like unregulated repairs. So—
+Austin: Are you working on Horizon stuff without knowing that it’s Horizon stuff?
+(Ali laughs) 
+Austin: Or do you know? 
+Ali: I think that I do— Well, me— (laughs) They are a resistant group, which is what made me hesitate being exploiting. But when I saw that it was like “idealistic, clever, rich”, I was like, “absolutely I’m taking advantage of this person”.
+Austin (laughs): Oh, it’s so good.
+Ali: But I think that, like, if you’re running a resistance group, you’ve a lot of stuff that needs to be fixed.
+Austin: Yeah.
+Ali: And Broun being able to be in the position to be like, “I will fix this for you and I’ll put it on the Carfax or whatever the equivalent of that is” (laughs).
+Austin: No, but this is a particular thing, right? We— there is— So… Without opening up the— I mean, I actually have to for something else, but without opening up the literal faction list that I have here, there is a group called the Scrivener’s Guild. Right? Which is literally a guild of accountants, basically. Accountants and like… God, there was another, better analogy that someone had.
+Keith: Notary publics?
+(Ali laughs)
+Austin: Yeah, exactly. They’re notary publics, exactly. Who are like armed notary publics who keep track of basically any contract with an Orion... Like an official Orion operant or worker, right? Operant I just said because Janine said the word ‘operant’ and it’s drilled into my brain, even though it’s not what it means.
+(Ali laughs)
+Janine: It’s a good word.
+Austin: It’s a good word. But anyone inside of like— an official Orion laborer who has a… you know, is part of a labor guild or has their credentials to operate as an independent mechanic, as Broun would. You’re supposed to go through the Scrivener’s Guild, there’s supposed to be a paper trail. 
+(Ali laughs)
+Austin: You do work for the Scrivener’s Guild, your missions are gonna come from the Scrivener’s Guild, or like they’re going to be like the middlemen for the missions you go on. But I love this. This is great. This is good.
+(Ali laughs)
+Austin: Like I said, I’m happy for y’all to take stuff from the other side because it builds these connections where like now, we have this great indirect connection between you and Clementine. Even though you don’t know each other, you know?
+Ali: Right.
+Austin: Um. Love it. So that’s one. Wait, was your adjective? Exploitive, right? Exploitative?
+Ali: Exploiting.
+Austin: Yeah, exploiting. Got it.
+Ali: Uh-huh (laughs). And then my second one is Agon Ortlights?
+Austin: You got it, Agon Ortlights—
+Ali: Okay, perfect.
+Austin: —which we got to from a very funny bit. Art, do you remember this bit? (laughs) This person’s original name was Newp Ortlights (laughs)—
+Art (laughs): Oh, yeah.
+Austin: —because we had joked that Stel Orion names are all just scrambled brands like Bes Twestern. Bubb— What is that one?
+(Keith laughs loudly)
+Austin: What is Bubb Leyum? I don’t even know what that—
+Art: Bubble— 
+Austin and Art: Bubble Yum!
+Austin: Right. Bubb Leyum—
+(Ali laughs) 
+Austin: —and Newp Ortlights. 
+(loud laughter)
+Austin: And I was like, “yo, Ortlights is the dopest sci-fi name”. So actually, I’m going to just— you know what? Let’s just live our best lives. That person’s name— her name is Newp Agon Ortlights, she goes by Agon.
+Ali: Perfect. Yeah. So, the descriptors for Agon are powerful, determined, and intrepid. And I’m just gonna read this. “Aided by her Servbot companions, Agon worked hard to maintain the rank of Lieutenant in the Company of the Spade where she has become a veteran mercenary, a skilled miner, and hell of a drinking buddy.” My relationship with her is cooperative. I think it’s a very similar thing where like, we’re both mercenaries, she has a bunch of Servbots, probably also needs a repairing, so (laughs). 
+Austin: Almost certainly! Totally.
+Ali: But instead, because we’re kind of existing in the same spaces, it’s like, “we’re mercs, we’re not going to step on each other’s toes”."
+Austin: Riiight.
+Ali: “We’re not like working together, but like—”
+Austin: Yeah.
+Ali: “—you know, we’ll do favors.”
+Austin: Yeah! She’s super cool. She is like— I mean, “she’s super cool” in the sense that she is a mercenary working in this terrible empire (laughs).
+(Ali laughs)
+Austin: But she is part of a thing called the Company of the Spade. Orion has a bunch of people who— Orion is like a big labor-focused Stel, lots of resources, lots of mining work, lots of agriculture. And they have lots of people who work out on asteroid belts and on other planets and etc. And that means a couple of really interesting things. I think like— every one of these Stels has something that’s like, “wow, that’s really cool,” and then there’s this twist to it. And so like, for Apostolos, it’s like, “wow, neopronouns are actually sick and this idea of a culture that’s all about change and all about trying to become your best, most aspirational self and being open to that is awesome”. And also, they are like a militaristic, like— leaning very— like futurism, leaning too close towards fascism, right? You could see how badly they could tip in that direction. 
+And with Orion, it’s like— I actually think that Orion is this place that has become deeply interested in making sure that their spaces are accessible and that there is a culture that understands disability and that engages with disability. And also, they are an exploitative capitalist hell nation? And those two things intersect in very interesting ways. Agon is someone who is diagnosed with chronic fatigue syndrome, which is why she has these Service Bots. She’s someone who’s like, “I can be a dope mercenary”. It just means knowing— it means doing the things that people in our  real world with chronic fatigue need to do, which is like pacing, understanding which muscle groups she can work and she can sense that she is like pushing too hard. And the Service Bots are basically like robot service animals for her, and are like an aid. And is also this person who has like come up as a minor on some asteroid belt somewhere working through thick and thin with a bunch of other miners. And at some point they were like, “hey, we know how to work in strange environments. I bet we can fight in strange environments better than—'' There's almost like a land-lover quality? Do you know what I mean? Or not for them, but they look at other mercenaries and they’re like, “You know what? Fuck other mercenaries. They never walked on asteroids before (laughs). If you need someone to go to like weird environments, we got that shit on lock.” So she is very cool. 
+And I’m going to put down— what was the adjective? Cooperative?
+Ali: Yeah.
+Austin: Love it. (typing) Cooperative. Boom. All right! Hop back across to the Rapid Evening. Was it Keith? Keith, you were next, right? Leap?
+Keith: Yes—
+Austin: Leap. What do you got?
+Keith: Um, I… Did I lose my page here? OK, no, I got it. All right. So, my first one—after the things load in—it was… Alise? Alise Breka? Is that—
+Austin: No, that was you making a joke on Alise Breka, I believe?
+Keith: Was it?
+Austin: It looks like it. Your note here is a joke. 
+Keith: Mmmmm…
+Austin: You have two other things on this— Oh wait, do you not?
+Keith: No, I don’t.
+Austin: Oh wow, okay.
+Keith: I was, uh… 
+Austin: Cool, okay! Fuck it.
+Keith: I was, uh… What’s the word for it? I was, uh… brainstorming!
+Austin: Gotcha.
+Keith: And so I had a couple of things on the board.
+Austin: Love it.
+Keith: All right.
+Austin: So tell me about Alise Breka.
+Keith: Alise Breka—inquisitive, creative, connected. “Guest lecturer at Verglaz University and author of the popular Renegade Hearts pulp series, which tells stories of daring and romantic Hallow pilots. Here to research her next book.” My comment— I guess— you said adjectives, I said me.
+Austin: You did— do that. You did—
+(Ali and Art laugh)
+Keith: I think that this next book is going to be about me.
+Austin: OK. So, like, you’re the subject of her next book.
+Keith: Yeah. How can I not be, I’m a space pirate!
+Austin: You’re a space pirate. Who is now doing mysterious work— That’s a thing we glazed past earlier. Briefly, Clementine, it’s also a secret from Gucci that you’re running the Rapid Evening, right?
+Jack: Yes, absolutely.
+Austin: Okay, cool. So, yeah, so you’re also like here being— you’re a pilot— you’re a pirate, not a pilot— You’re also a pilot.
+Keith: Right.
+Austin: You’re a pilot pirate. Pirate pilot. Hmm. And she’s here to be like, “tell me about your time as that”. But also, you’re doing this other thing that you’re probably not allowed to talk about? Very good. 
+Keith: Am I— Am I obviously in jail?
+Austin: Yes! Yes? Yes.
+Keith: Okay, so maybe I— maybe… OK, so here’s my pitch. I have decided on what my Drive is.
+Austin: Okay.
+Keith: It’s break out of prison.
+Austin: Yeah, okay, yes!
+Keith: Write your next book about how I’m about to break out of this prison.
+Austin (laughs): Ohh, It’s so good!
+(Ali and Art laugh) 
+Austin: Ohhhh, it’s so good. I should note a few things—
+Jack (laughs): “I’m here with Leap—”
+(Austin laughs)
+Jack: “—He’s about to break out of prison.”
+Austin: Um, Alise Breka, two important notes. One, like Keith read, she is a novelist who writes pulpy stories about romance and high adventure and mech pilots. And they’re very popular. Two is, if you do a Google search for Shelley Duvall in Vogue, 1971, there is a picture of actress Shelley Duvall in a beautiful, garish costume of purple, orange, and green. And that is Alise Breka, 100 percent. There’s a link for those of you who are in the document that I have added to her name. Very bright and colorful, deeply powerful, confident looks.
+Keith: Yeah, I’ve totally seen this picture before.
+Austin: It’s a great picture. It’s fantastic.
+Keith: Yeah. 
+Austin: So you are the subject of her next book… (typing)
+Keith: Mm-hmm.
+Austin: Cool. So you’re like, interview… You’re like… interviewing. Or like, interviewee. You’re her interviewee, right?
+Keith: Yeah. Well, I feel like— I mean, I don’t know… I don’t know if she came to do a book on me or not. But.
+Austin: It just happened this way.
+Keith: It’s just the obvious choice.
+Austin: Yeah, I’m with you. Yeah! 
+Keith: How could it be something else?
+Austin: Okay. Wait. Are you now signaling to me that it’s not the case?
+Keith: No.
+Austin: Is there a wink? Did you wink?
+Keith: No.
+Austin: OK.
+Keith: Nope.
+Austin: OK. What is the other—? Who is your other connection? 
+Keith: (sighs) Here we go… This is from the Orion NPCs list—Callister Drive. Greedy, scruffy, and bombastic. “The Columnar-born Callister Drive once preyed on the Principality shipping channels alongside infamous pilots like Exeter Leap. Now, in exchange for a noble title, he’s decided to ply his trade on behalf of Stel Orion.”
+Austin: Yeah.
+Keith: My adjective here was shaken. I think this was kind of, I think like… I must have known the day when like, oh, Callister Drive went and is now, like, a nobleman…
+Austin: Right.
+Keith: …Callister Drive Callister!
+Austin: Yeah. Because. So, Callister Drive was given a noble house—House Callister. But because he’s now in House Orion, they’re like, “you can’t do the thing where your last name is your first name. You can’t do that.”
+(laughter)
+Austin: So it’s House Callister! So his name now is Callister Drive Callister. But you will still just call him Drive, right? That’s— you went by that name. Or he went by that name with you.
+Keith: Yeah.
+Austin: Was he— You have shaken with him. Were you shaken because it’s like… You can’t believe he… 
+Keith: Well, I think that I… I don’t know… So, we haven’t worked together. Like we weren’t part of the same crew.
+Austin: Right. 
+Keith: But I know him and I think that there’s this feeling of like… It never would have crossed my mind to just like—
+Austin: Sell out?
+Keith: —sell out like that?
+Austin (laughs): Yeah.
+Keith: And so— And I know this guy was like— he didn’t seem like a guy that would just go and do that. That’s terrifying that—
+Austin: So are you shaken because it’s like, that was on the table to begin with?
+Keith: Shaken like… What if I decide to do that?
+Austin: Right. Yeah, yeah, you could s— yes. 
+Keith: Like how…? It didn’t seem like he could get from where he was to there. And it doesn’t seem like I can get from where I am to there, but he did it, so.
+Austin: He fuckin’ did it.
+Keith: That’s fucked up. 
+Austin: It is fucked up. All right, cool. Is this now, Dre?
+Dre: Oh, right… OK, so the first NPC I picked was Midnite Matinee, who is opportunistic, aggressive and playful. “The Leporine [pron. L-e-por-I-ne]…”?
+Austin: Yeah. Let’s say that. [Leep—]
+Dre: [L-ee-por-een]?
+Austin: I don’t know. I don’t know how to pronounce this word. If only there was a YouTube channel (laughs).
+Dre (laughs): If only it was still taking submissions.
+Austin: Yeah, [L-e-por-I-ne], says Google.
+Dre: Uh. “The harelike leader of Carrion Collections knows she’s destined for more. She and her trusty Jackal-model light AutoHollow are going to take what they can get, even if it means stepping on people to get it.”  And the adjective that I assign to her is exhausting. 
+Austin: Yeah, so she is like a rival mercenary. She works for Carrion Collections, which is— she’s like a hare— She’s like a— what is the Final Fantasy thing? Viera? Is that it?
+Dre: Yes.
+Austin: She’s like that, but I think fuzzier? Like it’s, like, more hair. You know— more fur than that. 
+Dre: Yeah. 
+Austin: Carrion Collections is a salvage operation thing. And they are like scavengers that go to battlefields and take what they can get, and go get the (laughs) copper out of things and flip them. The other note here is, the word AutoHollow shows up. Hollows in the setting are what mechs are called—unless you have been blessed by a Divine, in which case you have a Hallow instead of a Hollow. But most people have Hollows. I don’t know that anyone here has a Hallow. Maybe one of you, but we’ll talk. Cool. So you’re exhausted by her? Is it just like… every time she shows up, it’s a whole thing?
+Dre: Yeahhh. Well, yeah. And I think it’s also just like, “oh, my God, this fucking kid”.
+Austin (laughs): Okay, yeah.
+Dre: “Like, things are way more serious. Just take something seriously for once in your goddamn life.”
+Austin: Sure. Ummm. And who is the second person? I love that you’re going from that to this.
+Dre: Rosé Rita—
+Austin: Uh-huh!
+Dre: —who is nosy, devious, flaky. “Stel Orion isn’t particularly known for espionage but that doesn’t mean there aren’t a few professional snoops among its ranks. And Rosé’s information has turned the tide across both boardrooms and battlefields.” And the adjective I used was intrigued. 
+Austin: Totally. That’s kind of as it is. Rosé is Rosé— like that is what Rosé is. There’s no sec— there’s no other— I don’t have to explain shit. Rosé is an information broker who… is an information broker, so. All right! Add it to your sheet. Um, awesome! Now we go to Sylvia. Is that right? 
+Sylvia: I think so?
+Austin: Yes.
+Sylvia: I think we got me and Keith switched, but it’s fine.
+Austin: Oh, that’s fair. Okay. We got back around.
+Keith: No, I’m pissed about it.
+Austin: Shit. Well, you got to go!
+(Sylvia laughs) 
+Austin: Anyway.
+Sylvia: So, the first of the two NPCs I’ve remarked here, is A.O. Rooke.
+Austin: Mm-hm!
+Sylvia: Should I just read the blurb here?
+Austin: Yeah, the adjectives and the blurb, yeah. 
+Sylvia: Okay, so. Also, pronouns are he/him—
+Austin: He/him for A.O., yeah, yeah, yeah.
+Sylvia: He is boisterous, young, and loyal. “Audacious Opportunity Rooke was a young Orion merc caught in a daring and foolhardy raid against Stel Kesh. Refused to give up his employer and is now paying the price in service to the Rapid Evening.” And then my relationship with him, I have trusting written down. I’m kind of waffling between it and friendly.
+Austin: Mm.
+Sylvia: But the relationship is still like… The way I see their relationship is like, “oh, we’re kind of in the same shitty situation…”
+Austin: Riiight. Yeah!
+Sylvia: “…so, we’re gonna be friendly. We’re gonna be friends (laughs) over that.” 
+Austin: Totally! A.O. is definitely face-cast for me as the young Florida rapper Mikey More. Mikey like Mikey and then More like M-O-R-E. Who I really like, a lot of his music. Very young. Like, “too young to be doing this” young. Not that— that’s not true, like… As young as people in real life— As young as people do it, you know what I mean? But I think for you, who has been through a military career and like… you were literally born for this. They made you so you could fight people. And you don’t like doing it. So, this kid… I can so easily see why you are protective. Or no, you’re not protective, sorry. You are trusting? 
+Sylvia: No, that— I’m trusting.
+Austin: You’re trusting, sorry. There’s someone else who has one here. Uh…
+Sylvia: Second one?
+Austin: Yeah!
+Sylvia: So my second is, I think is— is this Si’dra [pron. See-dra] or [Sidra] Balos?
+Austin: [Sidra], I believe. Um! I would say, this is interesting… 
+Keith: [See-dra]’s a word.
+Austin: [See-dra]’s interest—  [See-dra]… 
+Keith: Sidra means cider in Spanish.
+Austin: Does it? That’s cool. Let’s do that then!
+Keith: Yeah. I don’t know if it’s spelled the same way, I’m not looking at it.
+Austin: No, this is an Apostolosian name. So there’s an apostrophe in there, and I doubt the Spanish word just has…
+Keith: It is spelled the same without the apostrophe.
+Austin: Without the apostrophe, S-I-D-R-A.
+Keith: Yeah.
+Sylvia: So, they are sunny, flexible, and pacifistic. Oh, also, faction is Columnar but formally Apostolos? 
+Austin: Yes, they defected from Apostolos to Columnar.
+Sylvia: So: “During their time in a communications division of the Apostolosian Navy, Si’dra saw the cost of war firsthand. Now they dream of a world where people can connect instead of fight.” And my relationship there is sympathetic.
+Austin: Mm.
+Sylvia: I think this is a combination of maybe even having served together at one point—
+Austin: Yeah.
+Sylvia: —but mostly just like hearing about her philosophy through the grapevine and being interested in it.
+Austin: She— or sorry, was it, Si’dra, they.
+Sylvia: They, sorry I might—
+Austin: No, you’re right, they/them. Yeah, yeah, yeah. They’re not written here, so I should do that. They/them. Si’dra, apologies, works for a group in the Columnar called Strand Semaphore. And again, it’s like, “Oh! This is a dope character. Si’dra wants people to like— pacifistic, want people to connect.” Strand Semaphore uses stolen ancient Hyphan technology to send text-based communications anywhere on the moon, so long as there is an outpost there. So again, it’s just compromise after compromise. It’s just, you know, here we are. You know? We are all recording this from powers that have killed indigenous peoples, that have stolen the wealth of nations and individuals, that have enslaved people. It fucking sucks (laughs). 
+[02:30:00]
+So. So, this is it. This is the world we live in. Si’dra is sunny, flexible, and pacifistic, and also does this thing that they do. And you are sympathetic.
+Sylvia: Mm-hm.
+Austin: Is that a sort of like… What is that symp— Is that sympathy like…
+Sylvia: I think it’s like… (sighs)
+Austin: Is that sympathy or is it sympathy? Do you know what I mean? 
+Sylvia: Yeah. So I kind— (laughs) I kind of wrote that down because it had those both meanings, right?
+Austin: Love it, okay.
+Sylvia: Million is both a sympathizer with this sort of cause and message. But at the same time, I think that, when they knew each other, it was like, “oh, someone who actually sees how fucked up this all is and cares about the people of the world.”
+Austin: Yeah, that makes sense to me. Cool. Uh, Janine!
+Janine: So, I have one for Kesh and one for Other, if that’s okay.
+Austin: Yeah, I think that’s totally fine. 
+Janine: Okay.
+Austin: At this point, I’m more excited about cross things than not, if that makes sense?
+Janine: Yeah, yeah.
+Austin: Well, we have a good mix, so I’m happy with it. 
+Janine: So, my first one is Sombre Sky. Brilliant, ambitious, practical. “Chief engineer at Silversky Recovery and Restoration. They stay out of politics, except for when politicians bring her new gear to play with.”
+Austin: Mm.
+Janine: Is it “they” or “her”?
+Austin: Uh… “They” there is the group.
+Janine: “They” as in Silversky Restoration?
+Austin: Yeah, yeah, yeah. 
+Janine: Okay.
+Austin: And then— But yeah. She is she/her. 
+Janine: Okay. And my adjective there is avoidant. I think in general, Thisbe is now very, very wary of people who are like, “ooh, toys”. 
+Austin: Mm-hmm.
+Janine: Because she is, you know… A lot of people look at her and see “ooh, toy”.
+Austin: Yeah, totally.
+Janine: So I think anyone who has that attitude immediately makes her extremely fucking nervous. 
+Austin: Totally. 
+Janine: And she— I think that nervousness— I picked avoidant because I think the thing that Thisbe wants is to just not be around that kind of person. So I think she would try to avoid Sombre Sky— 
+Austin: Has there been some sort of interaction at this point? Like did you do a mission for Kesh and Sombre Sky was like a little too interested? 
+Janine: I imagine that would have happened probably when Thisbe— like between when Thisbe was removed from the farm and like—
+Austin: Right.
+Janine: —maybe before she signed on with… or was acquired by the current crew? Like—
+Austin: Yeah.
+Janine: It seems like one of those things where like paths might have crossed, there might have been some like, “oh, wow, what’s that thing that you got?”
+Austin: Totally. 
+Janine: And it just probably would have lingered as an unpleasant kind of interaction.
+Austin: Totally. That makes sense! Cool. And then your second one. We should— I should note that, for me, this is a fun flag of like, “hmm, is this someone I can introduce as a potential rival for you”. But, but yeah, all right.
+Janine: Yeah. My second one is Mourningbride of the Sable Court or Sable Court, is there a “the”? 
+Austin: There is a “the”, there should be a “the”, I may have just forgotten it.
+Janine: Okay. And Mourningbride is mysterious, regretful, resolute. “Once the Elect of an unknown Divine, Mourningbride journeyed to the Sable Court after learning about her people’s history. Now, she is a witch of the Ashen.” It doesn’t say here— I was assuming Mourningbride’s Hypha? 
+Austin: Yeah, definitely Hypha. Yes, yes.
+Janine: Or— okay.
+Austin: Ashen is, is… I don’t know if you remember how that game ended? But we did a game in which we introduced this species called the Hypha, and one of the things that they lost in the end was their name. We know that they’re the Hypha, but here we mostly call them the Ashen. It’s like…
+Janine: Right. 
+Austin: ….you know. You can learn that they were called by Hypha, but people call them the Ashen now. And there is like an ash, like— I don’t know if it’s makeup, I don’t know what the particulars are there, we can develop that as it shows up on screen. But yeah, yeah, so she used to be an Elect. And now she is like in a dope witch coven (laughs) near a lake. 
+Janine: Yeah.
+Austin: And you have what with her?
+Janine: The adjective that I’ve picked for her is… I originally wrote uneasy, but I think the word I actually want is uncanny.
+Austin: Ooh, good.
+Janine: Because Thisbe is, of course, a robot made in the image of what this person actually is. 
+Austin: Yeah.
+Janine: And there are a lot of very complicated, uncomfortable implications of looking at someone who resembles you, but is the farthest thing from you. Like you are just—
+(Austin sighs)
+Janine: You exist as like… a… almost like a cartoon—
+Austin: Yeah.
+Janine: —of this person. 
+Austin: How have you met Mourningbride, at this point?
+Janine: I… (sighs) I don’t know because it’s kind of hard for me to (laughs)— to… It’s— you know, with Thisbe, it’s the thing of like always who she was with—
+Austin: Right. 
+Janine: —when something happened. So the answer to a lot of these questions is like, she was with someone who—
+Austin: Did blank.
+Janine: —had business with Mourningbride.
+Austin: Yeah, yeah.
+Janine: Or…
+Austin: “You were hauling supplies to the edge of the forest for someone,” you know what I mean? 
+Janine: Mm-hmm.
+Austin: Someone probably— I actually think that’s probably it. Someone made a deal with the Sable Court, like a contract, like an official contract somehow that was like, “hey, we need someone to send us supplies. A huge pallet of building materials,” or something. Or something less mundane, you know?
+Janine: Mm-hm.
+Austin: Not quite newt’s eye, but, you know, that sort of huge order of stuff. And no one wanted— Like, someone hired you or someone who had you as a labor robot at that point was like, “I’ll just send the fucking robot to do it,” you know (laughs)? “I’m not going in that fuckin— the woods where the weird deer witches are, fuck that!”
+(Janine laughs)
+Austin: And then there’s just a good moment of eye contact, you know, at the tree line. Love it. All right. Who… is… next? I guess, Art, are you last? 
+Art: Yeah, I think so. 
+Austin: Okay!
+Art: Yeah, I took Apparatus Aperitif—urbane, savvy, unpredictable. “Logos City, the largest independent city on Partizan, is known as a religious center, but its robotic Night Mayor ensures that everyone has a good time at the end of their time traveling the Prophet’s Path.” And I took obsessed.
+Austin: Can you tell me about this? 
+Art: Yeah! It’s like a— I feel like I’ve said this phrase too many times recently, but it’s a shiny object, right? I don’t just mean that because it’s a— because they’re Columnar.
+Austin: A robot person, they’re a Columnar person, yeah.
+Art: Right. That’s not what I’m saying.
+Austin: Okay.
+Art: But like, this is a powerful person.
+Austin: Mm.
+Art: And before Clementine showed up, that was what I saw as my path out.
+Austin: Interesting. Cool. Yeah, they’re cool. Like, they are… We didn’t talk about it, but the Isles of Logos and Logos City are like the final place you go on your pilgrimage to Partizan. It’s like… the Prophet’s Path is this path on the map, if you scroll back up to the map, there’s this long weird shape that is like, “oh, this is the path the Prophet walked before creating the moon and then walked back, presumably, you know, with followers” or creating the sea. And then the city is where the miracle happened, where the sea was made. And so it’s like, “wow, a religious center,” but also—there are nightclubs there. But also— you know what I mean? There is nightlife in that sense. And Apparatus Aperitif is the person who makes that happen. They keep everyone… they don’t make it happen in the sense that they like supply things, but they are the person who— like Night Mayor is a real thing, it’s someone who solves problems for people who run nightlife establishments. It’s someone who—
+Keith: Ohh.
+Austin: —establishes regulations? But also, in a good Night Mayor, is someone who is not necessarily like… Like a cop? But is someone who wants to enable there to be a vibrant night life in the city, if that makes sense. Keith, did you think it meant just the mayor at night? 
+Keith: Well, I thought maybe there was a complimentary Day Mayor, um—
+Austin: There is! I mean, that is the thing. That is part of why it is called that, in some ways?
+Keith: Well, I thought it was like an official elected position. I thought either there is a complimentary Day Mayor and they share power between night and day…
+Austin: Uh-huh.
+Keith: Or it was just like a mayor, like a really cool mayor that did all the mayor shit at night.
+Austin: At night. Yeah.
+Keith: And also partied hard. 
+Austin: It can be— so, it can be that, to some degree, in the sense that it is often the Night Mayor or the Night Tsar or whatever the person is called, is an appointed official. Like, is a governmental person who is the person who you call… who is like your point person at night? Do you know what I mean? Like—
+Keith: Right.
+Austin: And if there is a car accident in the middle of a big nightclub district, maybe you get the Night Mayor on the phone, you know? If there is a situation where— again, in the ideal situation, this is something where like, if you have a district where sex workers work and there is an issue, this is someone who could provide support. Like official support for the people who need help in that district that’s very busy at night. So that, like, there isn’t just— you don’t only have to go to the police, you don’t only have to go to… And again, there are bad examples of this where this is basically a fancy cop, Apparatus Aperitif is not that. Apparatus Aperitif is genuinely here to make sure— Like Apparatus Aperitif is someone who is like, “hey, people are people even in the holiest of holy places in the galaxy. And my job is to make sure that these people are safe and have a good time, and are able to explore their faith in whatever way they fucking want to.”
+Keith: Are they Equiaxed as well?
+Austin: Um, I don’t know! I know that they’re Columnar. I’ll think about whether or not they’re Equiaxed, I could see that. That seems likely. It seems likely that they would want to taste stuff in the same way you do. You know?
+Keith: Yeah.
+Austin: I could see that. So, yeah. 
+Keith: It’s funny to think that that’s maybe even a really common thing, is getting a tongue that can taste (laughs)—
+Austin: That can taste. Or getting, like, on the down low, right? You wouldn’t say that you have that, but whatever. Interesting. OK. Well, those are NPCs. Those are the connections. There is stuff— 
+Art: Oh, and I have protective of A.O. Rooke. 
+Austin: Oh, yeah. A.O. and you are— right, you’re protective. Again—
+Art: And with that— we’ve done that.
+Austin: Yes. A thing that didn’t come up here because no one took this connection is that the Scrivener who is going to give the mercenary side their missions is A.O.’s mom whose name is… Why did I close this document that we were clearly not done yet? K.O. Rooke, Kueen Overture Rooke, and she fucking rules. She is Big Freedia, the incredible bounce musician, that’s how I face-casted her. And she is a former ace, former mechanic, unparalleled commander, and now kind of a dispatcher (laughs). So. And no one took her, but.
+Keith: Wow, it says “powerful friend” right there, can’t believe no one took— 
+(Ali laughs)
+Austin: No one took her, but you’ll interact with her because she will be giving you missions.
+Keith and Ali: Yeah.
+Austin: So, yeah. And yeah, her son is in Kesh prison. We’ll see how that shows up or how that comes together. 
+All right. There is other stuff we can do here, we could talk about crew moves and blah, blah, blah, blah, blah. We definitely will privately have to talk about which other crews and squads you pissed off and which ones you’re allied with. But that’s stuff we can do between sessions and bring up as it comes up in play. 
+—————
+Fashion [02:42:28]
+Austin: For now, we need to end this by doing the most important thing and talk about what your characters look like and dress like (laughs). So, Art, let’s again start with you and go back the other way. Tell me— I mean, you already kind of talked about body type here, but what does—
+Art: Yeah.
+Austin: —what does Sovereign Immunity… What’s Sovereign Immunity’s deal? What’s their vibe?
+Art: Well, I mean—
+Austin: Or his vibe.
+Art: It’s hard to come back down like this, but I do think that a monk who’s been imprisoned for this long is probably not a daring fashion icon.
+Austin: Damn. Disappointed.
+Art: I think that this is probably…
+Austin: Okay, well, then… what is it, is it robes? Is it like…?
+Art: Yeah, I mean, it’s probably a lot of times just like… the prison uniform.
+Austin: Okay.
+Art: And yeah, there’s probably some robes mixed in and they’re probably pretty drab. We’re probably talking about earth tones, grays, blacks, or probably in this kind of setting. My look adjectives I took were weathered, fit, weary, and chiseled. 
+Austin: Okay! Yeah, I see it. Can we get— because that is kind of, not boring, but, you know, can we get a taste—?
+Art: I think it’s boring. But it’s— I’m saying something with it.
+Austin: Yeah! I get you. Yeah. Boring, to an end. Can we get a—
+Keith: It’s a statement. It says “I’m boring”.
+(Ali and Keith laughs)
+Austin: That’s the statement. Given that we… we don’t need to get into vehicle or mech abilities and stuff here… because we’ll get into that in play. But give me a— what does your mech look like, then? Let’s add a little spice to this. Tell me about your mech.
+Art: All right, the mech is a rural construction robot, kind of like repurposed a little bit. And it still shows an awful lot of battle damage.
+Austin: Okay.
+Art: I think the big symbol for it is like the… the headline for it is there’s like a marking, there’s a Sovereign Immunity symbol that you’re supposed to put on your vehicles to show that you’re not supposed to be shot at because you have this status.
+Austin: Right.
+Art: And the mech was burned badly toward the end of the fighting and it’s all like scorched?
+Austin: Cool.
+Art: And at the end, they took the badge off of it, which now gives it like the negative space look. 
+Austin: Oh, that’s really good. Okay. See, there’s your fashion—
+Art: And it still functions as that badge. 
+Austin: Yeah.
+Art: Like that’s how they— “Well, you can tell, look, it’s the same shape. It’s good to go. You get to that prison planet!”
+Austin (laughs): “Get the fuck out of here!” Love it. We can talk about what it does in play, but that’s a good— it has some good tricks up its sleeve. So we’ll see what happens when it comes into play. Dre—
+Art: And it hovers, it doesn’t have legs, it hovers.
+Austin: It’s hovers. It’s a hover farming agricultural— rural construction model. It doesn’t do agricultural work, it does like construction in agriculture. Right. 
+Art: Right, yeah.
+Austin: Okay. Let’s go to Dre because I know, Dre, you have a hard out and we’re getting there. So, tell me about what Valence dresses like. 
+Dre: Oh, okay. Good.
+Austin: I love it. I’m so excited.
+Dre: The best part of this character.
+Austin: Yes.
+Dre: Um, so. Valence—
+Austin: That’s not true, there’s a lot about this character that I love, Dre. 
+Dre: This is my favorite part—
+Austin: That’s allowed. I’ll allow it.
+Dre (laughs): Because that’s where this character started from, was just, “hey, I want a sick mask for this season”. So, Valence wears an intricate wolf mask that covers their entire face.
+Austin: Hell yeah.
+(Ali laughs, distantly)
+Dre: And a hood that obscures their head. They wear a simple robe with high lapels that kind of fits loosely around their body. I’m drawing a lot of inspiration here from Destiny concept art.
+Austin: Suuuuuure, right.
+Dre: Not the real in-game art, but concept art because Destiny concept art is some of the best shit on this Earth. 
+Austin: Hell yeah. Cool. You wanted to give us a quick thought of what your mech looks like, too? 
+Dre: Yeah. So, it is kind of like a small chicken-walker mech?
+Austin: Yeah.
+Dre: But then helicopter blades are also on top.
+Austin: So it can fly, like basic flight.
+Dre: Yeah, it’s not… Yeah, it’s not zooming around or anything, but it can, you know— it’s like a not-great helicopter, in terms of flight.
+Austin: Okay. Is it more like an AT-ST or more like a Magitek Armor?
+Dre: It is definitely more like a Magitek Armor.
+Austin: OK.
+Dre: And it’s a Small, in terms of size. So it is basically like… It’s like a flying car that has legs and also not the best form of flight. 
+Austin: But it’s very fashionable, I’m sure.
+Dre: It looks incredible.
+Austin: Okay, good (laughs). All right. Let’s hop back over— and Dre, if you have to bounce, you can probably bounce. 
+Dre: No, I’ll stick for as long as I can.
+Austin: Okay. Let’s hop back over to, I guess, Sylvia, let’s go back to you here?
+Sylvia: Right, uh…
+Austin: Tell me about what Million looks like.
+Sylvia: So, yeah, Million— I’m just gonna read what I wrote.
+Austin: Yeah, that’s fine!
+Sylvia: Million is an Apostolosian soldier with sharp features, disheveled teal hair, and tired eyes, unusually obscured by that hair. 
+Austin: Great.
+Sylvia: She’s still in combat shape, despite her incarceration. 
+Austin: Does she do a lot of workouts to, like, stay in shape, like…?
+Sylvia: Yeahhh! I think part of it (laughs) is also like… the prisoners have to do labor, right.
+Austin: Yeah, yeah, definitely. 
+Sylvia: Like, there’s part of that. She can still pick up a gun, but she’s not like fucking peak condition ripped anymore. She usually wears goggles around her neck, which she has to use when she pilots her mech and… The sort of— I don’t really have it written down here, but style touchstones are sort of like, little bit of old school goth in there, a little bit like grungy punk in there. Usually wearing some kind of leather jacket if she’s able to, but I mean, she’s in prison, she’s probably wearing a lot of jumpsuits lately. 
+Austin: Yeah, heroes don’t always wear capes, as you’ve proven here, I love it! Give me a snapshot of your mech! 
+Sylvia: Right. So, my mech is a humanoid mech with a built-in railgun that actually changes shape to accommodate and use…
+Austin: You are a sniper, so that makes sense. Yeah.
+Sylvia: Yeah! It is basically a giant sniper rifle that can also pick up guns and use them. We sort of described it as like… We kind of compared it to a stealth fighter—
+Austin: Yeah!
+Sylvia: —so it’s got very sleek black and silver plating. There’s a bit of a— I think there’s some glow underneath. And then, the one thing that I’m very certain on is that it’s got like sort of a cyclops motif when it comes to the head—
+Austin: Hell yeah.
+Sylvia: It just has one big glowing eye on the head.
+Austin: Amazing.
+Sylvia: But I’ll save the rest for when we actually—
+Austin: Yeah, we can describe it as it comes up! All right… Is Janine next, on the other side? Yes. Janine, tell me what Thisbe looks like.
+Janine: So, I haven’t completely nailed this down because this is my first… This is my first main season character that has not been a thing that I can just be like, “oh, right, it looks like this person, but these kinds of clothes”—
+Austin (laughs): Right.
+Janine: —“and like change this a little”. This is like a completely fake thing. So it’s—
+(Austin laughs)
+Janine: It’s hard for me to nail everything down very specifically. So I’m going to try. I have in my description field here, “sleek, glassy robot Hypha/Ashen with large, exaggerated legs and a more stylized face,” not the skull face of the…
+Austin: Right.
+Janine: I think it— you know, the Hypha, originally, are described as having a skull face, and I think someone who is like, “I think Hypha are useful, but their face is creepy would”—
+(Austin laughs)
+Janine: You know, I could imagine someone who’s making a fake Hypha would be like, “let’s make this cuter”. 
+Austin: So when you say a stylized face, yeah, what do you mean? Do you mean like…
+Janine: I mean it’s more like a deer’s face. 
+Austin: Okay.
+Janine: It’s more like an actual ungulate face rather than the skull. You know, they’ve softened it and made it a little more palatable to them.
+Austin: Right.
+Janine: That’s the… And there is a big scar down the middle of it. And the scar is filled with sort of a clear polymer-like material. 
+Austin: Right, because someone literally dug you out of the ground, hit you in the face with a shovel, and was like, “AHH, shit”. 
+Janine: Yeah. Yeah. (laughs) And she also has, rather than having antlers, she has ram’s horns, but they are extremely intense? The best way I can describe what I mean is like, you know how a watch spring is just like a very… it’s just a spiral, basically.
+Austin (typing): That’s me typing “watch spring” into— Oh yeah, I see.
+Janine: Yeah, it’s— you know, all springs are spirals in a sense, but it’s specifically a spiral that is very small and gets bigger because it winds around itself. So her horns are like that but sort of, they’ve popped out. So they’re more like a ram’s horn kind of conical extension. But the point is that they wind and wind and wind on either side of her head.
+Austin: Cool!
+Janine: She’s very tall, I’m now very committed to her being large.
+Austin: Love it.
+Janine: And she… I know when I was describing Belgard’s… I’ll just say. There was a point when I was describing Belgard last— in Twilight Mirage, where I think I likened her to Drossel von Flügel from Fireball Charming, specifically.
+Austin: Mm-hmm.
+Janine: And I’m going to draw on that again, but this time I really, really mean it (laughs).
+Austin: Oh, OK! (laughs) 
+Janine: Because Drossel… Drossel’s like my favorite robot in media. I just think she’s cool. But she has extremely— especially the Fireball Charming thing with— Fireball Charming, by the way, is like a Japanese Disney CG thing. 
+Austin: Mm-hm.
+Janine: And she just has like huge thighs (laughs).
+Austin: They’re gigantic.
+Janine: And everything else is very tiny and sleek, but she has these incredibly powerful-looking legs that just— there’s no like foot on the bottom, really, they just taper to a kind of slanted flat part. And that’s the look that I’m after.
+Austin: Hell yeah. Cool!
+Janine: Very tall. Big legs.
+Austin: Big legs. Big, thick thighs. Powerful… Powerful deer, you know— 
+Janine: Yeah. And kind of like a… Kind of like a… not pearlescent finish, but like a sort of… You know, it’s glassy, but opaque—
+Austin: What color?
+Janine: Sort of shiny, weird… I’m kind of picturing like bluish? And I can’t tell if I’m picturing bluish because I like bluish or because I put a picture of Chaos from Sonic Adventure in my inspiration folder.
+Austin: (inhales) Hoooooooo… (sighs)
+(Keith and Sylvia laugh)
+Janine: Fair.
+Austin: Chaos, also— Listen, Chaos was in my Twilight Mirage inspiration folder, I can’t… you know? What can you do? 
+Janine: Yeah. I’ve also got a little blue deer figurine in here, so we’ll say bluish.
+Austin: Bluish. Okay, I like that. Like the blue glass, like I know what you mean! Yeah. 
+Janine: Y’know, like a muted sort of blue, but yeah.
+Austin: Yeah. Tell me about your vehicle.
+Janine: So my vehicle is Mow.
+Austin: Uh, excuse me?
+Janine: Mow.
+Austin: Spell it. M—
+Janine: M-O-W.
+Austin: Okay, M-O-W. But…
+Janine: But you could do M-O-E, you could do M-O, no one—
+Austin: Mow.
+Janine: Thisbe’s certainly not keeping track.
+Austin: Right. Not M-O-A, though. So.
+Janine: No.
+Austin: Okay.
+Dre: Mm. Does the Mow have a leaderboard that you kick it to?
+Austin (laughs): “Let’s go to the leaderboard with MO’!!!”
+(Janine laughs)
+Austin: Sorry, I just— 
+Dre: Thank you, Austin.
+Austin: I had some guts to get out. 
+(Janine laughs)
+Austin: Some energy, you know? Anyway. 
+Art: I think we have to pay Mike O’Malley 50 bucks now, I think.
+Austin (laughs): You know what? I’m happy to. Mike, you come collect this 50 bucks. You know? We can hang out. Is Mike O’Ma— is he a good one? Is he okay? Did he turn out to be—
+Ali: I think so…
+Austin: Okay. God. I love Mo’ so much. Anyway, let’s keep moving. Tell me about Mow, your vehicle. 
+Janine: So Mow basically has the build of a gorilla kind of thing?
+Austin: Mm-hmm.
+Janine: You know, where Thisbe is very bottom heavy, Mow is very top heavy.
+Austin: OK.
+Janine: Sort of quadrupedal motion, huge focus on the arms. There is a sort of… It’s hard for me to describe without just giving away the fun thing—
+Austin: You could do that if you want to, but…
+Janine: —but there’s like a little horn, kind of… Eh— well, there’s like a little horn thing on the back.  Like I sort of… I don’t know the word I want, even.
+Austin: I know what you mean. 
+Janine: Like a protr—
+Austin: Like a protrusion.
+Janine: It’s like a thing that protrudes from the back of it—
+Austin: It’s almost like a— not like a beetle horn… 
+Janine: —it’s not original to the model.
+Austin: …but— Oh, okay.
+Janine: But— kind of!
+Austin: Okay. Cool, cool, cool.
+Janine: But it’s like built in. I mean, specifically, I call it like a saddle horn, but the function is a bit different.
+Austin: Okay.
+Janine: And Mow is kind of battered, but is sort of lovingly maintained. Like in terms of like— Mow has seen better days, but also Mow is like, you know… washed and waxed and taken care of. 
+Austin: Riiight. Cool!
+Janine: And is very big.
+Austin: Is also a large, heavy mech?
+Janine: Yeah, one of the quirks is intimidating bulk.
+Austin: Love it. So good.
+Janine: So. 
+Austin (laughs): All right. Let’s hop back over the fence to Keith. 
+Keith: Hellooo!
+Austin: What are you— What’s Exeter Leap wear?
+Keith: Wear, um… So Exeter Leap is a robot… We talked about that. I don’t think we talked about his build at all. He’s got sort of like a camcorder head—
+Austin: Ooh.
+Keith: —but he has a mouth.
+Austin: Oh-kay. 
+Keith: And the way that I pictured it is like, imagine, if… like a slightly less like pronounced version of Crow from Mystery Science Theater underneath like a Geth eye. Sort of like that.
+Austin: Say that out loud, one more time for me.
+Keith: The mouth of the robot from Mystery Science Theater—
+Austin: Crow, yeah, uh-huh.
+Keith: That mouth, Crow—
+Austin: Crow T. Robot.
+Keith: Crow T. Robot, underneath a Geth eye. Like the Geth, sort of—
+Austin: Yeah! Okay.
+Keith: —from Mass Effect.
+Austin: Yeah, uh-huh!
+Keith: Sort of like that. Not as big as that mouth. And then the eye isn’t like snaky, it’s more like a camcorder. But that’s like the look. And… That’s mostly, you know—
+Austin: Do you wear clothing?
+Keith: Yeah. Yeah. So. I have here: “Signature look for—“ I lost my page, here we go, Infiltrator. “Pastel and jewel tone chino shorts and—“
+(Austin sighs)
+Keith: Stop me if someone else has already done this in Friends at the Table because I was writing it and I was like, “someone probably already has—”
+Austin: This is not a callback??
+Keith: Is this something someone did and I’m forgetting about it?
+Austin: Read the fucking thing you wrote. 
+Keith: “Mood ring hoodie.” Who did that? Who did mood ring hoodie—
+Austin: (sighs) Art’s character…
+Janine: God damnit.
+Keith: God damnit.
+Art: I did do that…
+Keith (crosstalking): God damnit, I fuckin’—
+Austin (crosstalking): It wasn’t a hoodie. It was a hat. It was a hat?
+Keith (crosstalking): I knew— it was a hat.
+Austin and Art (crosstalking): It was a hat.
+(Ali laughs)
+Keith: This is a whole hoodie—
+Austin: Art was playing a ship captain and had a mood hat. 
+Keith: I still fuckin’— I was writing it and I was like, “we must have done this”. And it’s because I knew that we did it because—
+Austin: But it’s in this universe, so it’s fine, is the fucked up thing—
+Keith: Yeah.
+Austin: —is that Art’s—
+Keith: But now it’s a whole hoodie.
+Austin: It’s a whole— This technology (laughs) has advanced, somehow. The Perennial Wave—
+Keith: It has advanced, now it’s a hoodie.
+Janine: We kind of have that technology now.
+Austin: That’s what I’m s—
+Janine: You can buy a bottle of liquid crystal and put that on whatever you want. 
+Austin (whispering): Damn.
+Keith: Um. Well, but this is nice thread. This is like woven…
+Austin: I’m so…
+Janine: (quietly) Mood thread. Mood Thread! New company.
+Austin: You sent me.
+Janine: It’s ours. No one can do that. It’s us.
+Ali: Ooooh…
+Austin: Love it. Love it. All right. Tell me about… Do you have a mech idea yet? What’s your deal? 
+Keith: Yeah, yeah, so I have a mech called Heads Up from Emergent Tech Rapid Response.
+Austin: OK, sure. (laughs) I just want to know, everyone does have this stuff. I’m not dragging you for saying it out loud, but I want you to know that I’ve looked at a lot of people and they all have dope brand names and ideas for what the name of the mech is. I’m so excited for people to hear all of them, but go ahead. Tell me about Heads Up by Emergent Tech Rapid Response (laughs). 
+Keith: This is a mech with large cylindrical legs that taper upward towards the head—
+Austin: Wait, is there a torso?
+Keith: There is a torso—
+Austin: Okay.
+Keith: —but the entire… Like the width of the body shrinks as it goes up through the torso into the head.
+Austin: Okay.
+Keith: And then those proportions are mirrored by the arms. You got large armored fists—
+Austin: Got you.
+Keith: —that— also, those arms taper up into narrow shoulders. 
+[03:00:00]
+Keith:And then a single, sort of like a mounted mortar gun on the back of the mech. Or maybe like a… I don’t know, what’s the thing? What’s the other thing that’s not a cannon?
+Austin: A… mortar— what?
+Keith: Besides mortars? There’s like a third thing. 
+Austin: Flours. Like what—? A lot of things aren’t mortars. Rockets? (laughs) Flame throwers? 
+Keith: Howitzer, that’s the third thing.
+Austin: That’s like a cannon, yeah. I know what you mean. 
+Keith: I think there’s a difference and it’s something, but it’s something like that. It’s in that—
+Austin: Oh, it’s like a—
+Keith: —it’s a simple mech— it looks—
+Austin: Yeah, like an artillery cannon, is specifically what you mean—
+Keith: Yeah, yeah.
+Austin: —something that doesn’t shoot directly.
+Keith: Yeah, something that doesn’t just like shoot straight. 
+Austin: Yes. Yeah. 
+Keith: You can like lob it. 
+Austin: Yes, that makes sense.
+Keith: And like Leap himself, Heads Up has like… In terms of like robot construction, think Battle Droid, not Super Battle Droid, it’s not like smooth metal. It’s like pieces of machine.
+Austin: Right. You can see the lines. 
+Keith: Right.
+Austin: You said, Battle Droid, you were referring here to Star Wars’s Battle Droids, the ones that go “roger, roger,” those ones?
+Keith: Right. Versus Super Battle Droids, the ones that go (deeper voice) “roger, roger”.
+Austin: Wait, what are the— Oh, those are like big and bulky and like— But kind of like nice, shiny—
+Keith: They’re the ones with no heads?
+Austin (crosstalking): Right. Their heads are like built into the torso.
+Keith (crosstalking): The Super Battle Droids have no heads. Yeah, yeah.
+Austin: And they’re very nice and like… Yeah, they have like a…
+Keith: They’re sleek—
+Austin: Yes.
+Keith: They have— yeah, there’s less of like—
+Austin: The Battle Droids are very greebly, they have like lots of little edges and bits, and like…
+Keith: Yeah, totally.
+Austin: Yeah. Gotcha.
+Janine: What the fuck— greebly? 
+Austin: Yeah, a greeble (laughs)—
+(Art laughs)
+Keith (sarcastically): “It’s a type of flightless bird.”
+Austin: Is a— (laughs). A greeble is, quote… Or— Sorry. “A greeble or a nurnie is fine—”
+(Keith laughs, Janine sighs)
+Austin: “—detailing added to the surface of a larger object that makes it appear more complex, and therefore more visually interesting. It usually gives the audience the impression of increased scale.” So like Star Wars stuff specifically is famous for lots of greebles. Like if you look at like an Imperial Star Destroyer, it’s—
+Keith: Greeble city.
+Austin: Greeble fuckin’ city out here. There’s just like all sorts of weird notches and shit all over it that don’t necessarily make any sense? Like why is there just all this weird exterior shit? Why are there portholes all over the place, et cetera? And those are greebles.
+Janine: Okay.
+Austin: It’s like a very popular thing in model design, model making. Anyway. Greebly. That’s your lesson for the day. Cool! I’ve lost track. Are we— Ali? Ali. Ali!
+Ali: I think it’s— yes.
+Austin: It is. Tell me about Broun. What’s their deal? What do they look like? 
+Ali: Sure! Yeah. I’m just going to read as written here and then I’ll take questions at the end. 
+Austin: Appreciated. Because I have some.
+Ali (laughs): So, they’re Apostolosian. Long neck, high ears with multiple piercings. No eyebrows, occasional decorative face paint. Burgundy hair, like a shoulder-length Dutch braid with iridescent skin.
+Austin: What— Like, iridescent like a fish would have…?
+Ali: Like a fish would have. Yeah, I wanted to go for skin tone that’s shiny instead of, like, legitimate scales?
+Austin: Yeah, okay, gotcha.
+Ali: But I think it’s like a very low, low effect. I will probably end up sending you like a picture of a highlighting sample (laughs). 
+Austin: Yeah, yeah, yeah! I gotcha. Cool.
+Ali: Sephora link, eventually. And then for fashion, I’ve written plated hoodies, overalls, and Genji’s sweatpants? (laughs)
+Austin (sighs): (typing) Genji’s sweatpants… 
+Ali: So Overwatch 2 was recently announced— 
+Austin: Yeah, okay.
+Ali: —and Genji has a new outfit, and I’m obsessed with his sweatpants. And, uh—
+Austin: They’re good!
+Ali: After COUNTER/weight, I think that I can just take anything I want from the Overwatch heroes. Because like—
+(Art, Austin, and Keith laugh)
+Austin: That’s fuckin’ true. (laughs)
+(Art, Ali and Keith laugh)
+Austin: Get ‘em. Get ‘em! That’s right. 
+(Ali laughs)
+Austin: Fuckin’ respect, Ali. You let her take Genji’s fuckin’ sweatpants. Those are her sweatpants now. 
+(Art and Ali laugh)
+Austin: She gon’ put them on a fish alien—
+Keith: I don’t see sweatpants anywhere.
+Austin: Oh— look up “Genji 2”— “Genji Overwatch 2”. Don’t look up “Genji 2”, which is—
+Ali: Yeah…
+(Ali and Keith laugh)
+Ali: They’re like…
+Art: Oh, yeah!
+Austin: They’re nice!
+Ali: They’re like— yeah! They have these like low pockets with like another pocket inside, and like striped. And then they have this like cord at the end that you can tighten them around your calves, which I think is cool. 
+Austin: Yeah, you can make them into capri’s, basically, right?
+Ali: Yeah.
+Austin: They’re very cool. 
+Ali: You know, it’s just good to be comfortable. You know, you’re working (laughs).
+Austin: Yeah, I’m down! This is good. Also, “plated hoodie” is good. Like, metal in the plating? Is that like the… What’s the plating? 
+Ali: Yeah, for sure. It’s definitely like a protection thing.
+Austin: Okay.
+Ali: But like, you know, you want to be casual, but you don’t wanna get shot (laughs).
+Austin: Damn. True. Hell yeah. 
+(Ali laughs)
+Austin: Fashion game on point. 
+Ali: Yeah. Moving onto my mech.
+Austin: Yes.
+Ali: My vehicle’s name is the Three Cheers!
+Austin: Great.
+Ali (laughs): I don’t want to get into the specific robots that I have…
+Austin: Linked out to here?
+Ali: Yes, yes, yes. (laughs)
+Austin: But.
+Ali: But I will say that like, it’s like a humanoid shape, with really pointed shoulders that are really large. Almost imagine lobster claws or something—
+Austin: Oh, interesting.
+Ali: —or like just something that’s really big, coming off of the…
+Austin: Okay.
+Ali: …the shoulders, and those open up and have missiles inside, because I’m a “missinalier”—? Wait, no—
+Austin: That’s— Yeah, I know what you mean. 
+Ali (laughs): And also like a really pointed chest. And I think the unique thing about this mech is that it was a mech that I bought or was given to me or like work-loaned from the company that I had worked for, which is Adamant Arms and Artifice. But I think that like, since not working for them anymore, I’ve just completely repl— I’ve kept the mechanical skeleton that’s underneath it, but I’ve replaced the armor plates completely. 
+Austin: Ohh-kay.
+Ali: So it ends up looking kind of, you know, not sophisticated (laughs)? 
+Austin: So, it’s like piecework, it’s like patchworked together. Gotcha. 
+Ali: Right. Yeah. Yeah, exactly. So— and it’s also an advertisement for my skill! (laughs)
+Austin (laughs): “You too can have some patchwork shit, let’s get it.”
+(Ali laughs)
+Austin: Listen, it works! If it works, it works!
+Ali: It’s just like, “hey, here’s this entire new robot design and you can have it, too”. Another thing that I’ve noticed here is that there’s like exposed rivets on it so the plates can be really easily replaceable, but they’re not standardized rivets?
+Austin: Mm-hm.
+Ali: There’s like a lot of scoundrels on this moon, I’ve noticed—
+Austin: Oh yeah!
+Ali: —looking at the NPC list.
+(Keith laughs) 
+Ali: And I kind of don’t want to get my shit stolen.
+Austin (laughs): Wooow. 
+Keith (sarcastically): “Got a lot of scoundrels on this moon!” 
+Ali (laughs): So I have, like, made my own screwdriver, essentially, so no one can get it.
+Austin: Love it.
+Keith: Proprietary hardware.
+Ali: Yes, exactly.
+Austin: Yeah! Totally. Absolutely. Love it. Okay. Cool. I’m excited to see all of these in action. You talked about being like a rocket missileer-type mech. And the fact that you are like… I put together recently that the Technician is very similar to, Sylvia, the class that Aubrey was? 
+Sylvia: Mm-hmm.
+Austin: I didn’t put it together, like obviously that is what it was. But the other day, Ali and I were trying to figure out like, “well, wait, it says here that you have a bandolier and payload bays, like what can go in there?” And then you look at the list of like, what can the Technician start with, in terms of different types of missiles or like sleep dust-type shit? And thinking about Aubrey-style chemical contraptions, but in a mech, is the best. I’m very excited to see what Broun gets up to.
+Ali: Yeah!
+Austin: Cool! All right. We wrap back around, finally, to the Princess of Kesh herself, Clementine. Thank you for staying up late, Jack. I really appreciate it.
+Jack: Of course! No, it’s one of these things where, like… It’s character creation, baby!
+Austin: Yeah! That’s it. That is what it is! Explain to me what Clementine Kesh looks like.
+Jack: I decided to go super simple with the face-cast this season. I think Clementine Kesh is basically just the British supermodel Cara Delevingne.
+(Austin laughs)
+Jack: If— you know. Sometimes you just gotta go for it—
+Austin: Yeah!
+Jack: —and say, “yeah, that person!” Just like… sort of… Runway striking in that way that the big fashion houses sort of select the looks of models? 
+Austin: Mm-hmm.
+Jack: White lady. And then, in terms of her dress—
+Austin: I’m gonna link, for the people here in the chat, the image that you sent me and I was like, “ohhh, yes”. 
+Jack: Yes. So this is— Yeah. In terms of dress, I’ve been thinking a lot about like Alexander McQueen for formalwear or battle wear. This is the piece that I saw and I was just like, “oh, this is absolutely Clementine!”
+Austin: Mm-hmm.
+Jack: Which is… this one…
+Austin: Oh, that’s so good. 
+Jack: So just like very architectural, but also very, like, fussy? This is a white dress with slashes at the shoulders, just a very stark, white dress. 
+Austin: You can find this picture by searching Google for “a cotton poplin shirtdress is slashed and pleated in chalky shades of clean and vintage white”… which is also what your Excerpt name would be (laughs).
+Jack (laughs): Yes. Just like a very elaborate… Elaborate earrings and headwear. But with that kind of like affected simplicity that the super rich or the super stylish want to do on the runway?
+Austin: Yeah.
+Jack: Or when, you know, going out. You see like photographs of people being like… “So-and-so appeared at the whatever gala or the whatever ball” and it’s just this very calculatedly casual look or a very calculatedly formal look?
+Austin: Right.
+Jack: And I feel like it’s absolutely the dress of someone in their early 20s who has military or ritual responsibilities nominally, but primarily has an impossible budget for clothes and tailoring and all kinds of things, in that regard.
+Austin: You know what I like is, I’ve just realized that you almost have— the cotton poplin short dress image is like who Clementine Kesh is. And if you do a search for “LAPEL AFFAIR Cara Delevingne”, you’ll find a Balmain Instagram post. And that is Clementine Kesh, leader of all of Kesh. Right? Like the severe look—
+Jack: Right, (laughs) that’s the one that she kind of wants.
+Austin: Yeah, yeah, exactly. 
+Jack: But there’s a kind of awkwardness to that McQueen—
+Austin: Yes. Yes.
+Jack: —that I like a lot. Of just like, (hesitantly) “I’m in charge of the Rapid Evening”…
+(Austin laughs)
+Jack: “What did I get into?” 
+Austin: Yeah.
+Jack: But also something that like— it’s not a pitiable position because it’s just like, you are running a crew of convicts…
+Austin: Yeah. 
+Jack: …for your mother.
+Austin: For your mother who is worse than you, probably.
+Jack: Yes! (laughs) Yes.
+Austin: Because…
+Jack: And definitely cleverer.
+Austin: Oh, absolutely cleverer. And, I’ll note, higher in the line of succession than you (laughs).
+Jack: Yeah, what number is she? What’s her mother’s name?
+Austin: I don’t know, I sent you a whole list of what the numbers are.
+Jack: Yeah, I have a family tree.
+Austin: I built— One of the things that I’m realizing, “oh, we’re in it now,” is when I built a (laughs) family tree for the Kesh family and related cousins and stuff, none of which is probably going to come up in play directly in that way! But was important for me—
+Keith: Until they crash a Christmas party.
+Austin: Yeah, trueeee.
+Jack: Right! Yeah, 100 percent.
+Austin: Oh, what a good mission that’ll be. Finally we know what the holiday special is. Uh… (laughs) Do you want to take us out by describing your mech? Maybe describe it before you name it?
+Jack: Yeah, absolutely! So my mech is a large, black, humanoid mech.
+Austin: Mm-hm!
+Jack: I think that’s the easiest way to describe it when we talk about anime- or Gundam-style traditional mobile suits.
+Austin: Yeah.
+Jack: That’s kind of what we’re talking about. It has a… Large, black, humanoid mech, large sort of fin-like wings rising from its back. A beaked, bird-like head. This is a Panther unit.
+Austin: Ah. 
+Jack: And, in fact, it is a Panther unit that, as far as Clementine is concerned, was piloted by a celebrity.
+Austin (laughs): Oh! Okay! I see.
+Jack: A long… A long time ago, it was piloted by a very talented pilot called Jace Rethal. I don’t think Clementine has looked into the history beyond knowing the value of the mech.
+Austin: Right. 
+Keith: What is the value of the mech?
+Jack: It’s— If you have to ask… 
+Austin: OOOOH—
+(Keith laughs)
+Jack: It’s something that has been passed down generationally, has been kept in a variety of cold and warm storage rooms to make sure that it is—
+Austin: Has probably been rebuilt many times?
+Jack: Yeah, absolutely. It’s been Ship of Theseus’ed pretty significantly.
+Austin: Yeah.
+Jack: But I don’t know whether or not Clementine or House Kesh would necessarily admit to that beyond making— what’s the word? Like, restoration?
+Austin: Right. Of course.
+Jack: Yeah, it’s Jace Rethal’s Panther, which, if you haven’t listened to previous Friends at the Table episodes, was a massively significant, hyper-capable mech piloted by a brilliant figure. 
+Austin: Yeah, it’s— You have the Gundam. You, the person running the— like, the Gundam in the sense of like, in the story of COUNTER/weight, we talked about Jace, who is an NPC for the bulk of that season, as being the Amaro, the lead of the show that never aired, right? The original— COUNTER/weight is like the sequel show to a show that doesn’t exist that was about—
+Jack: Right.
+Austin: —that was about Jace Rethal, and the Panther is like their final mech, that is like famous.
+Jack: Although, to be absolutely clear… As far as Clem is concerned, it is a celebrity mech.
+Austin: Right. You don’t know.
+Jack: You know, you hear about rich kids IRL— 
+(Austin sighs)
+Jack: —who would inherit a Spitfire, which is just like an iconic British WWII fighter plane that is just impossibly valuable, and it’s kind of just like, “oh, yes, I have a Spitfire in the hangar”. 
+Austin: I want to know– one thing, for people who are screaming at us right now, who are longtime fans—don’t worry, it doesn’t work as well as— Uh, sorry—
+Jack: Ohhh, yeah, no, absolutely. 
+Austin: It might work that well one day. Clem doesn’t know how the fuck to pilot this thing. It’s way beyond her capabilities. 
+Jack: No, this is not— This is someone picking up the, like, legendary fantasy sword and just being like, “Uh, it cuts sharp. I don’t know.”
+Austin (laughs): Love it. All right. Well, on that note of stepping all over our own fuckin’ history, we should wrap it up. Again, we on this call need to do other stuff before we record our first real session. But I feel like I know these characters better now, I’m very excited to see them in action—
+Jack: Hell yeah!
+Austin: I’m very excited about some of the great overlaps, in terms of NPC connections. We need to find out a name for the mercenary crew.
+(Ali laughs)
+Austin: But Dre is asleep now, so. Hopefully asleep now, going to bed. And we should all also do that soon. Those of us in the East Coast, at least. Um… I’ll just say real quick—
+Jack: Aw, man—
+Austin: As always, if you enjoy this, friendsatthetable.cash is the address you can go to support us. It would be really, really kind of you to do that. Because this is time consuming (laughs) and especially this part of it, the early game, the like— I’ve worked really hard on getting all this stuff in order and getting it ready to play. So, I have no qualms and no humility in saying that I really appreciate it, that people support us and let us do this, and have literally, for people who don’t know, let me do this as like most of my full time job, now. I still do podcasts at Waypoint, but, like, Friends at the Table and then some side-writing gigs are what my life is. And so thank you for that! And if you wanna help me continue to do that, you can do that by going to friendsatthetable.cash. And help all of us do that, I don’t take all that money, that isn’t just my money. I’m not like (laughs) a hoover.
+(laughter)
+Jack: That’d be an astonishing salary for podcasting.
+Austin: Yeah.
+(Ali laughs)
+Austin: All right!
+Art: Really bad news for us.
+(Austin laughs)
+Art: Austin was just taking it all— 
+Austin: I just took it all the whole time. What I gave you was IOUs, and I owe you! So. Mm-hm! 
+Dre: We have Austin Bucks!
+Sylvia: That’s why my—
+(Keith, Ali, and Austin laugh)
+Dre: I’ve got all these twenties with Austin’s face on them.
+Austin: I’m smiling! It’s me, you know— I’m not. It’s me doing the “That feel when Mondays” face (laughs).
+(all laugh)
+Austin: Uh, all right. Thank you for joining us. We’ll be back next week with the first episode.
+(TANAGER. PERFECT. TOUCHPAPER. plays again, fades to silence.)

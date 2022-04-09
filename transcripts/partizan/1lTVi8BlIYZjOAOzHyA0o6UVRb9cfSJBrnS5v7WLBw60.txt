@@ -1,0 +1,2948 @@
+PARTIZAN 07: Ambush in the Sand
+Transcriber: @robotchangeling
+
+[PARTIZAN theme music begins]
+
+Austin: When Kenzington Be was assigned to Columnar’s 301st appraisal unit, it was as a punishment. She was, in a literal sense, being told to go kick rocks. Her years of unblemished service in the 21st Voluntary Composite Division were erased, all because she had a moment of weakness—a moment of conscience. She had spent a half dozen deployments commanding the Emerald Escadrille, her humble unit, fearlessly and joyfully. There was nothing that Kenzi loved more than being in the shit, breaching some pirate vessel’s hull, busting into an illegal Orion listening station, or going one-on-one with whatever mercenary team had been sent to disrupt her stel’s march towards the future. And then, a special assignment. The sort of operation that turns a job into a career. Her squad was to be the vanguard of the divine Asepsis, a machine of purity logics, which saw blight where others saw only bruise, dissent where Kenzi saw only difference. And so, insubordination. She refused to be the trigger for that thing. And so, demotion. If she wouldn’t be a trigger, they’d make her a scope instead. She was given this reconnaissance unit, the 301, and told in no uncertain terms that she would pay back the state for the investment they put in her. And she’d do it by finding them something more valuable than a good soldier. It stung when they said it, but it didn’t break her. It didn’t even make her unloyal. So, yeah, she’d dig in the rocks until she found diamonds. She’d scan horizons for contraband shipments ripe for state reappropriation. She’d even wander into the woods in search of witches and ghosts. Let the scientists figure it out if she found some. She’d do anything it took to earn her honor back. And once she did? [music goes silent] She’d work out the best way to kill a divine. [music finishes]
+
+Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am your host Austin Walker, and today we are continuing our game of Beam Saber as part of our PARTIZAN season. You can find me on Twitter—this is not the normal way I do this intro—at @austin_walker. Ali, where can people find you?
+
+Ali: You can find me over at @ali_west on Twitter, and you can find our show over at @friends_table.
+
+Austin: Janine?
+
+Janine: You can find me on Twitter at @bleatingheart, and all I can think of is @bleating_heart, [Ali laughs] because there are so many underscores.
+
+Austin: That’s not a thing! Is there another bleating— is there a @bleating_heart on Twitter? Is that a cheese company?
+
+Janine: The cheese company, I think, is just all one word.
+
+Austin: No, it’s @bleating_heart.
+
+Ali: Oh, no, yeah.
+
+Austin: That’s them.
+
+Ali: That’s them!
+
+Janine: Oh, okay.
+
+Austin: Yeah.
+
+Janine: They’re fine, then.
+
+Austin: Shoutout to this California cheese company, handcrafting American original sheep, cow, and mixed milk cheeses. And Dre?
+
+Dre: Hey, you can find me and all my hot, poppin’, viral tweets at @swandre3000.
+
+Austin: [scoffs] God. You can find us on Patreon and support us at friendsatthetable.cash. We are continuing to do a bunch of catch-up stuff. That makes it sound like I'm talking about the condiment. I'm not talking about ketchup the condiment, the tomato condiment. We’re not doing anything with ketchup the condiment, as far as I know. Ali, we’re not— there’s no secret project I don't know about, right?
+
+Ali: [brief pause] Not that I can tell you about.
+
+Austin: The third postcard set [Ali laughs] is going to be a bottle of ketchup. It’s not. It’s not true. Don’t do that. We’ve got a bunch of stuff going on. I just did one of the first of the new style of Drawing Maps streams, which I think I need to still get in the feed, now that I think about it, which I should do tonight or tomorrow. It’s been a very busy couple of weeks. Another quick thing that I want to shout out is that Beam Saber is about to be on Kickstarter. Not by the time you hear this, but in a couple of weeks it’ll be on Kickstarter. I think March 2 is when it goes on Kickstarter. And you can actually go follow that now. I mean, if you want to, obviously you can and should follow Austin Ramsay’s official Beam Saber Twitter account, which is...I guess this is all just through the @notaninn account, I think? Which is N-O-T-A-N-I-N-N. And then you can find the Kickstarter at tinyurl.com/BeamSaberKickstarter. I think it’s capital B, capital S, capital K? Like Beam Saber Kickstarter, with capital B S K, because I think tinyurl makes you...I think TinyURL cares about that? Maybe it doesn’t. Maybe I'm wrong. Who cares. Try it out. If you can find it, you should, and again, it’ll be up shortly, and so shoutouts to that. I think that that’s all I have in terms of announcements right now. As always, as we play Beam Saber today, my agenda is to ensure everyone at the table is safe, to convey the world honestly, to fill the world with detail, and to play to find out what happens. When we last left off, y'all had just finished your first downtime. No one hung out, which I was sad about, but that kind of lines up in some was with your crew. [chuckles] Y'all got a bunch of side stuff done. Dre, you made friends with a church.
+
+Dre: Mm-hmm.
+
+Austin: Janine, you got left on read by a… [Janine chuckles] by a spooky deer lady.
+
+Janine: More or less.
+
+Austin: And Ali, you did chores for some… [Ali chuckles] for some bankers or whatever. For the Scrivener’s Guild, right?
+
+Ali: Yeah...yeah. 
+
+Austin: That’s the quick and dirty.
+
+Ali: Oh, and I made a robot.
+
+Austin: You did make a robot!
+
+Ali: I made a droid.
+
+Austin: Do you have details on that robot yet? Okay. We have a little bit of unfinished business. [Ali laughs] One, you made a robot, but I don't know that we had a name for it or details on what your droid would be.
+
+Ali: Right.
+
+Austin: Not droid— droid, TM, not us. We don’t own droid. [Ali laughs] Your robot would be. 
+
+Austin: Do you have details on that yet?
+
+Ali: [overlapping] I'm allowed to say droid.
+
+Austin: Okay, yeah, fair.
+
+Ali: I do, yeah. It’s called a Bing 32.
+
+Austin: A Bing 32?
+
+Ali: [laughs] Yeah.
+
+Austin: Okay.
+
+Dre: Wait, Bing?
+
+Ali: Yeah.
+
+Dre: Or Big?
+
+Austin: Do we get a— 
+
+Janine: Do not use it to search for GIFs. 
+
+Austin: Don’t search for GIFs. Bing is dirty.
+
+Ali: Oh. Wait.
+
+Austin: It’s… [Austin, Janine, and Ali laugh] It’s too much backstory here.
+
+Dre: Oh, Ali.
+
+Austin: Bing—
+
+Janine: It’s not a lot of backstory. If you search for GIFs on Bing, it’ll mostly just return porn.
+
+Ali: Oh.
+
+Janine: GIFs (??? 7:04) mostly return porn.
+
+Dre: If you have safe search turned off, but yeah.
+
+Ali: What is Bing? I forgot what Bing even is.
+
+Dre: It’s Microsoft’s search engine.
+
+Austin: Bing is the Microsoft search engine
+
+Ali: Oh, (??? 7:11)
+
+Janine: Don’t you like get pizza if you use it or something like that now? Isn’t that a thing?
+
+Austin: I think there are rewards.
+
+Dre: Microsoft points.
+
+Austin: Yeah, there are.
+
+Janine: Right.
+
+Ali: Yeah, they just think of points. Anyway. It’s Bing like thing, because it’s made by a company [laughs] who like releases a bunch of different prototypes, like things, and because this is like a bag it’s a Bing. It’s a Bing 32.
+
+Austin: [confused] Wait, it’s a bag?
+
+Ali: [indistinct while laughing] 
+
+Austin: You left out the part where it was a bag!
+
+Ali: It’s not a bag, but it’s like a pencil holder. It’s like a tool holder.
+
+Austin: You didn’t— okay, we—
+
+Ali: The Bing 32!
+
+Austin: [defeated] Okay, it’s a Bing… [Ali laughs]
+
+Janine: Can that be their slogan? “Because it’s a bag, it’s a Bing”? [Ali laughs harder] 
+
+Austin: It’s a bag, it’s a Bing!
+
+Janine: TM?
+
+Dre: Need a bag? It’s a Bing! [Ali continues laughing]
+
+Austin: Bag-a-Bing, Bag-a-boom! What— okay. I need to...I need to...can you slow down, and can you explain to me what this robot is mechanically and visually?
+
+Ali: [laughing] Okay. Okay. 
+
+Dre: And spiritually.
+
+Austin: And spiritually. In my heart. I need to know.
+
+Ali: If you look in the Beam Saber book…
+
+Austin: The Bing Saber book. Got it. [Ali and Dre laugh]
+
+Ali: Page like 217, 218, there is a repairipede.
+
+Austin: Right.
+
+Ali: Which is a cat-sized droid that can use tools.
+
+Austin: Uh huh. Yes.
+
+Ali: [laughs] So, I was thinking of it as a...have you heard of a Mr. Bento? It’s like a lunchbox.
+
+Austin: I'm googling rapidly.
+
+Ali: By the…Zojirushi company? And it’s like...it’s essentially like...it’s a stainless steel bucket, basically.
+
+Austin: I see. Oh, it’s bigger than I thought it was!
+
+Ali: [laughs] And then there’s different like compartments. 
+
+Dre: Mm-hmm.
+
+Ali: Yeah, yeah, yeah.
+
+Austin: I saw it by itself, and I was like, “Okay, it’s like a thermos.” And then I saw a person holding one—
+
+Ali: Right.
+
+Austin: And it’s gigantic!
+
+Ali: There’s a meal in there. [laughs] 
+
+Austin: There is a meal in there.
+
+Ali: Anyway, I think it’s kind of like that. It’s like cylindrical…
+
+Austin: Like a cylinder, yeah.
+
+Ali: Right. But then it has like a—
+
+Austin: What color is it? [Ali sighs thoughtfully] Yours. 
+
+Ali: [laughs] I—
+
+Austin: I know this one has a number of colors it can be.
+
+Ali: Right, yeah, exactly. I think that mine is like a...man, what is metal? Like, I don't know.
+
+Austin: Is it just...but it’s not...you haven’t painted it another color.
+
+Ali: No, I think it has like a decal on it. It might have like stripes or something spraypainted on or something.
+
+Austin: Does it have like the KMB service logo on it? [Ali laughs]
+
+Janine: Did you hydro dip your Bing? [Dre laughs]
+
+Austin: We are seven minutes in, and we’re saying things I don’t even know what they mean. [Ali laughs] 
+
+Janine: Camo, like carbon weave. [chuckles] 
+
+Austin: Yeah. Hydro dip your Bing. Do not search that on Bing! [Ali, Dre, and Janine laugh]
+
+Ali: I think the way that it works is that there’s like...it has like a pointed head with like stripes going down it.
+
+Austin: Okay.
+
+Ali: And then it’s just like a metal color. It’s like a, you know, just like a metal.
+
+Austin: Like a silver…
+
+Ali: Yeah.
+
+Austin: Like a metal.
+
+Janine: Rose gold?
+
+Ali: Right. Yeah, yeah.
+
+Austin: [chuckles] Okay. Like a rose gold.
+
+Ali: I was gonna say rose gold, but then I was like that’s kind of fancy and fashionable, but like, it’s that, but like—
+
+Janine: You can say copper. It’s basically the same thing but doesn’t sound as fancy. [Janine, Ali, and Austin laugh]
+
+Austin: And then you have it. Does it hover? Does it roll? Does it…
+
+Ali: I think it’s a hoverer. 
+
+Austin: It’s a hover—
+
+Ali: I think it can’t go super high. Like, it’s not gonna be looping around.
+
+Austin: Yeah. 
+
+Ali: But…
+
+Austin: It’s like eye-level? Lower than eye level?
+
+Ali: Yeah, mostly. I think it mostly hovers at like a good three and a half, four feet level.
+
+Austin: Gotcha.
+
+Ali: And it can probably go higher if it needs to go up, but not more than like eight feet.
+
+Austin: Sure.
+
+Janine: Does Bing have wing? [Ali laughs] 
+
+Austin: I'm imagining is very clean, no, right? It must just have like a hov— like a—
+
+Ali: Yeah, I think there’s like an air system from below it.
+
+Janine: Okay.
+
+Austin: Yeah.
+
+Ali: It’s like one of those.
+
+Austin: Yeah.
+
+Dre: Sure.
+
+Austin: Does it make a noise? Is it like [imitating low pitch engine] bwum bum bum, bum bum bum, bum bum bum bum? Or is it like a [breathy burning sound]? Like, what’s the vibe?
+
+Ali: I think it’s more like a laptop fan sort of situation?
+
+Austin: Okay.
+
+Ali: Like a hum?
+
+Austin: Right, yeah.
+
+Ali: And I think that it does communicate. It has some beeps.
+
+Austin: Ooh, okay. But it’s not a person.
+
+Ali: No.
+
+Austin: Okay.
+
+Ali: But I think that it...the way that it works is that the pointed top kind of flaps open, like one of those train things. You know those train things? [chuckles] 
+
+Austin: Yeah. Yeah!
+
+Ali: And it goes choo choo, and the thing opens. [laughs] I think it’s like that, but like… [laughs] 
+
+Austin: I said yeah. I'm gonna be honest with you. No.
+
+Janine: [laughing] What?
+
+Austin: I don’t have a clue what you just said. One of those train things that has a flap that opens? [Ali and Janine continue laughing]
+
+Dre: And goes choo choo.
+
+Austin: Goes “Choo! Choo!”
+
+Dre: Like on the exhaust?
+
+Ali: Yeah. But you know how it opens?
+
+Austin: A whistle? [Ali laughs] 
+
+Janine: Do you mean the whistle when they have to pull the thing to let the air out through the whistle to make it whistle?
+
+Austin: Yeah. I do think...I do think…
+
+Janine: Does a part come down?
+
+Dre: I know what Ali’s talking about. [Ali laughs] 
+
+Austin: I think I do too. Like the whistle on a train, and you pull on it, and it goes…
+
+Ali: Right!
+
+Janine: But like what’s the part that moves there?
+
+Austin: It’s like a cylinder. So is it like...is there like a cylinder on top of the cylinder? And it—
+
+Ali: No, it’s like...yeah, there’s like a cap.
+
+Austin: Like a hatch.
+
+Ali: And then it’s like...yeah. 
+
+Austin: Like a cap, right.
+
+Ali: It’s like a Pez dispenser.
+
+Janine: “Steam whistle testing using compressor.” I'm gonna watch this video.
+
+Austin: “How work?”
+
+Janine: This is just photos with sounds, you asshole! [Ali chuckles] 
+
+Dre: Is it like this? The little thing that’s on top here?
+
+Austin: Oh.
+
+Ali: Yeah, like flaps open. 
+
+Dre: Okay.
+
+Ali: [laughs] Do you see? That’s closed, and that’s open. You can just catch...
+
+Austin: You’ve sent us in...Dre, you’ve sent us...that’s an image of IG-88. [Dre laughs] That is...we cannot use that droid. I’ve said this. [Ali chuckles] Okay, wait. Ali— okay, so you’re saying the lid comes off.
+
+Ali: It comes open, yeah.
+
+Austin: I see. You’ve actually drawn what I think almost looks like a beer stein. Like a German beer stein? [Ali laughs] Do you know what I'm talking about?
+
+Dre: Oh, yeah!
+
+Ali: Yes. [laughs] Yeah, I do.
+
+Austin: And that is literally what this is. And then...I mean, it isn’t, but you can see where I'm— if you type in “German beer stine”...
+
+Ali: Yeah. But that’s close, yeah.
+
+Dre: Yeah.
+
+Austin: And that lid comes up, and then it goes...is that what it…
+
+Ali: Right. And then I think— 
+
+Austin: Wait, what happens when that happens? [Dre chuckles] 
+
+Ali: Well, there’s compartments inside of it.
+
+Austin: Okay.
+
+Ali: And then there’s little arms that lift out…
+
+Austin: Yes. Got it. Love it.
+
+Ali: That picks the compartment that it needs and then starts using the tools, 'cause that’s what it does.
+
+Austin: So, the compartments are—
+
+Ali: It uses tools. Yeah. 
+
+Austin: So, the arms come out, and then reach onto like the body of it, opening compartments and revealing…
+
+Ali: Right.
+
+Austin: That’s just a...no, that’s just a train whistle that talks, Dre. We don’t have that. That’s an anthropomorphized train whistle. [Janine chuckles]
+
+Ali: And then I—
+
+Austin: That one’s going, [exuberant voice] “Hey!” That’s if Keith played a train whistle. [Dre laughs]
+
+Janine: He still has time.
+
+Austin: [chuckles] Yeah, we’ll see. I, you know...Leap could get a train whistle face down the road. You know, lots of upgrades you can get in this system.
+
+Ali: Here for that.
+
+Austin: So, this is a Bing 32 repair bot, is what I'm writing on your sheet.
+
+Ali: Yeah. Yes. Thank you.
+
+Austin: I'm gonna say that this is… [Ali and Janine chuckle] i'm going to italicize it, because… [Dre chuckles] Sorry, Ali sent a drawing...that stopped me dead in my tracks.
+
+Dre: [sighs] Well, now I know what’s going in the Drawing Maps update. [Ali and Dre laugh] 
+
+Austin: This looks like…
+
+Janine: Does it have a single shirt cuff?
+
+Austin: A shirt cuff? Oh, I see what you’re saying.
+
+Dre: Uh huh, yeah!
+
+Austin: I’m seeing something different. I imagine this— [Ali continues laughing]
+
+Janine: Like one of those tiny celluloid ones? 
+
+Austin: Yeah, I was reading the top on this one as a tank top that it had pulled up over its shoulder, [chuckles] and was like topless, except there was like rolled up to the top of the neck, and underneath it had an arm holding— it’s holding like a— not a screwdriver. I don't know what tool that is.
+
+Ali: [chuckles] Like a wrench, maybe? 
+
+Janine: Oh, okay. I thought that part was like a little crab hand so it could grab the tools out of itself.
+
+Austin: Right. I see what you’re saying. I can see why you would think that.
+
+Janine: And then it had like a cuff or like a bangle.
+
+Austin: Yeah. I'm excited we’re getting this out of the way so that when we get to my shitty map later, we’ll all be bored of making fun of art. [Ali laughs] 
+
+Austin: ‘Cause mine is not better. Thank you, Ali.
+
+Ali: Yeah, you're welcome.
+
+Austin: I'm gonna make the call that the Bing 32 repair bot is able to like move itself around, so it’s not gonna cost you a slot on your...your heavy...your gear, your load, right?
+
+Ali: Oh, okay.
+
+Austin: Right? It—
+
+Ali: I appreciate that.
+
+Austin: It doesn’t...right?
+
+Ali: Yeah. It’s like a whole separate...yeah.
+
+[0:15:01]
+
+Austin: Yeah. I guess what I'll say is...hmm. But you will be walking around with a big— with a Bing 32 at all times, so like, maybe that fictionally will come up. Where it’s like, hey, you can hide, you gotta sneak your Bing 32 down behind a log or whatever to hide behind.
+
+Ali: Mm-hmm.
+
+Austin: We’ll see. We’ll let it play out. But I've added it to your sheet. Thank you for that. [Austin and Ali chuckle] Second piece of business. Thank you, Dre, for making this worse. You’ve...what’s...is that...why does it say Bing 32 up there now? [Ali laughs] 
+
+Dre: ‘Cause that’s what its name is.
+
+Austin: Of course. What a fool I was.
+
+Janine: I don't think that’s where its mouth would be.
+
+Ali: I'm finishing...I'm making a color sketch now. [laughs] 
+
+Austin: Good.
+
+Ali: So things will… [chuckles] 
+
+Austin: Good. Great. The color is really gonna help. Alright. Second thing. You’ll note on your character sheets that you have two different...there’s an un-filled in, currently, as far as I can see...yeah, un-filled in for all of you—I guess, Thisbe, you have down “TBD”—slot where it says “Call Sign.” Now, months ago, I raised this idea. [Dre laughs]
+
+Ali: Mmm.
+
+Austin: That call signs...you should have call signs, 'cause it’s, you know...I've read comic books.
+
+Janine: Cool.
+
+Austin: One, it’s cool. Two, it’s good to have names that aren’t your real name. That way, if you, for instance, decide to do a false flag operation by mistake that implicates you in a galactic war, you’re not out on the radio being like, “Yo, Valence. Hey, Thisbe. What’s up, Kal’mera Broun? That’s my government name. You know where to find me. My address is blank.” And instead you could be like, “Hey…” and then like a cool name, but I don’t have a cool name, because I'm not here to give you your names. And what I raised before we started playing this game, but which we punted on until y'all got to know your characters and each other’s characters a little bit more, was that we do it similar to the way real fighter pilots do it? Which is no one’s allowed to pick their own call sign, their own nickname. Their compatriots actually give them the nicknames. And so, now we’ve been in this a couple weeks. Now that we’ve been through a full session, through a full downtime, I feel like maybe we’re at the point where y'all can start giving each other call signs. I at least wanted to raise it and see if anything came to mind or if y'all wanted to talk about it.
+
+Janine: I think it would be really interesting to make these based on...based largely on roles and actions taken in that first encounter?
+
+Austin: Sure. Mm-hmm.
+
+Dre: So is my call sign just like Unconscious, or… [Ali, Janine, and Austin laugh] 
+
+Austin: Uh, we’ll call you Nap. [Dre laughs] We’ll call you Sleepy. Yeah. 
+
+Ali: You can be...you can be DJ?
+
+??? 17:46
+
+Ali: That’s hilarious. [Dre laughs]
+
+Austin: Oh, true! 'Cause you played that music. [Ali and Austin laugh] 
+
+Dre: Oh, god!
+
+Austin: That’s pretty good!
+
+Dre: Yep, nope, I'm writing that down. That’s good.
+
+Austin: Uh huh! Good. Love it. Alright, so that one’s obvious and easy. [Ali laughs] Uh, what about for Thisbe and Broun?
+
+Janine: For Broun, I...that was like the first thing I started thinking about. And my first train of thought was something that was like, no, there’s no way to read this that’s fun and not mean, which was to play on like stealing, and like… [chuckles]
+
+Austin: Oh, yeah. Oh, yeah! [Dre and Ali chuckle]
+
+Janine: So, I thought…
+
+Ali: Mmm?
+
+Janine: Maybe there’s something nicer in like Broker, or like...not Dealer, that’s not a good one. But something that is like, more…
+
+Austin: You just— right. You didn’t want to go all the way to like, Big Thief. You wanted to be like...you’re a respectable thief.
+
+Janine: Merchant.
+
+Austin: Right. Uh huh.
+
+Janine: A lot of those words are very mean, though. [chuckles] 
+
+Austin: Yeah, no, I'm looking at these words. These are bad. Some of these are worse than thief. Trafficker, [Ali chuckles] I'm gonna say, worse than thief.
+
+Janine: Yeah!
+
+Dre: Yeah.
+
+Janine: Also, kind of true, though? But like, yeah.
+
+Austin: Right, uh huh. Scrivener is on this list, which is funny to me.
+
+Dre: Lifter. 
+
+Austin: Damn. [chuckles] I didn’t know Broun lifted. [Ali snorts, laughs] 
+
+Dre: I mean, is...oh, yeah.
+
+Janine: Jobber.
+
+Dre: Jobber? [Janine laughs] 
+
+Austin: We cannot [laughs] call Broun a jobber. Like, Bandit. Bandit’s like a classic…
+
+Janine: What about something like Pockets?
+
+Austin: Hey, Pockets. [Ali laughs] Pockets is so friendly.
+
+Janine: I just wanna offer variations in tone. [chuckles] 
+
+Dre: I mean, we could also do something that has to do with Broun being like a mechanic tinkerer person.
+
+Janine: That’s true. I feel like we also need to agree that these should be two syllables. Because everything that’s one syllable or three syllables sounds a little bit off, but two syllables feels like...
+
+Austin: Feels good. Yeah. 
+
+Dre: Mm-hmm.
+
+Ali: Yeah.
+
+Janine: Yeah.
+
+Austin: Yeah.
+
+Janine: Lantern.
+
+Ali: Mmm.
+
+Austin: Beacon? [Ali gasps] Yeah? 
+
+Dre: Mmm?
+
+Ali: Sorry.
+
+Austin: Unrelated.
+
+Ali: [laughing] Hiroshi Tanahashi is at an Outback Steakhouse right now, and I'm gonna close Twitter, so I’m not...
+
+Austin: Wow. Incredible. [Dre sighs] I miss Outback.
+
+Ali: Distracted. Please go on.
+
+Austin: Rocket.
+
+Dre: Bloomin’.
+
+Austin: Bloom— yeah, Bloomin’! Hmm?
+
+Ali: I’ll take it.
+
+Austin: Onion? 
+
+Ali: [laughs] Yeah.
+
+Austin: Listen, I already have a Rosé Rita in the NPC list.
+
+Ali: Oh, god.
+
+Austin: So, we already have our Outback shoutout. [Ali chuckles] 
+
+Dre: True.
+
+Austin: What about for Valence? Let’s pause on Broun. Valence? Oh, we have DJ for Valence. What about Thisbe?
+
+Dre: Yeah, I'm DJ.
+
+Austin: Sorry. What about Thisbe?
+
+Dre: Uhh...
+
+Austin: Thisbe broke a lot of shit.
+
+Dre: Wrecker? Thisbe’s also big.
+
+Ali: Yeah.
+
+Austin: Thisbe big. Mow big.
+
+Ali: I feel like the defining Thisbe moment of that mission was when she just went forward. [laughs] Towards all those people.
+
+Austin: Yeah.
+
+Dre: What if we do the age old tradition of the person who is the largest having the nickname of Little something?
+
+Austin: Or Tiny, or like…
+
+Dre: Yeah. [Janine laughs] 
+
+Austin: It would be very strange to have to explain to her.
+
+Janine: No, robots understand irony.
+
+Austin: Oh, okay.
+
+Ali: Yeah. 
+
+Austin: DJ was so easy. I think it gave us the wrong… [Ali chuckles] We got out there. We got a win right away.
+
+Dre: Yeah. Yeah. Well, I just looked up synonyms for deer, and the first one is buffalo and then camel, and I don’t— 
+
+Austin: No.
+
+Ali: No.
+
+Dre: —think that’s how synonyms work. 
+
+Janine: No.
+
+Austin: They’re both ungulates, I guess, is the thing.
+
+Ali: Lil camel?
+
+Janine: There are a lot of… [Ali chuckles] There are a lot of breeds of deer that are like deer plus other animal, or like some sort of...there’s a lot of like small deer.
+
+Ali: I would go with Bolt. I would go with Missile. I would go with Bullet. [chuckles] 
+
+Dre: For you or for Thisbe?
+
+Ali: Thisbe.
+
+Austin: For Thisbe. ‘Cause of the forward momentum—
+
+Ali: Yeah.
+
+Austin: Striking, quick, hit, explosion, boom. Yearling. It’s too hard to say.
+
+Ali: Yeah.
+
+Janine: That sounds like some shit that Morningbride would call her.
+
+Austin: Oh yeah. Writing that down for this session. 
+
+Janine: [chuckles] I want to tentatively suggest Monger, for Brown.
+
+Ali: Monger…
+
+Austin: Monger seems powerful. That’s like…
+
+Janine: Monger is pretty powerful. And also like...could kind of go either way in terms of morality? [chuckles] 
+
+Austin: Yeah. Yeah.
+
+Dre: Yeah, but Broun did also just tell another faction to like fuck off when they tried to come collect their stuff, so.
+
+Austin: Oh, yeah, I think that was a case for using it. [Ali laughs] 
+
+Janine: Yeah, Mon— 
+
+Dre: Yeah, that’s what I'm saying.
+
+Janine: That’s a— [chuckles] 
+
+Dre: That’s a fuckin’ Monger move right there.
+
+Janine: That’s fun, like, well, you can’t buy my fish, 'cause fuck you!
+
+Dre: Yeah.
+
+Austin: Uh huh.
+
+Dre: I do also like how that goes with the move that we took?
+
+Austin: True.
+
+Dre: To make Acquire Asset better.
+
+Austin: True.
+
+Dre: Because then it’s like, oh yeah, you gotta go— oh, you’re looking for that? You gotta go talk to the Monger. [Janine chuckles]
+
+Austin: Here’s what I also like about it is Ali isn’t that excited about it. [Ali, Janine, and Dre laugh] And that is the right response to—
+
+Ali: I'm just letting y'all talk!
+
+Austin: —having your friends assign a call sign to you. [Ali laughs] Along the lines of Monger there’s also Hawker. You could be a hawker. You could be like a...yeah. Monger’s better than that.
+
+Janine: I got to Monger via blacksmith—
+
+Austin: Mmm.
+
+Janine: Which is also not bad, I would say, but like…
+
+Austin: Yeah.
+
+Janine: Evokes less.
+
+Austin: I liked Ironmonger and then remembered that that is just a…
+
+Dre: Mm-hmm. That’s a Marvel.
+
+Austin: Marvel character. Yeah. 
+
+Ali: Oh. Hmm.
+
+Austin: Yeah.
+
+Dre: He’s like Iron Man but bad. 
+
+Austin: [chuckles] Correct.
+
+Ali: Right, he’s a monger.
+
+Austin: He’s a monger instead of a man. [Ali laughs] Less than a man, more of a monger.
+
+Ali: I'm gonna write it down!
+
+Austin: Let’s go with Monger. Alright.
+
+Ali: Oh, I'm writing it down on Thisbe’s. I'm sorry.
+
+Austin: Wow. Owned. [Ali and Janine laugh]
+
+Dre: What about Heavy Metal?
+
+Austin: What about...what about Hard Rock? [chuckles] 
+
+Ali: What about Lil’ Metal?
+
+Austin: What about Thrash? [laughs] 
+
+Dre: [laughing] What about...what about Little Big Country? [Ali sighs] 
+
+Janine: What about Ride or Die?
+
+Dre: Yeah.
+
+Austin: Ride or Die. That’s...I mean, that’s Thisbe’s motto, certainly.
+
+Janine: That’s… [chuckles] 
+
+Ali: Mm-hmm.
+
+Janine: Yeah, that’s kind of the philosophy this season.
+
+Austin: Uh huh.
+
+Dre: What about Quarter Mile?
+
+Austin: [chuckles] God. What about Diesel? [Dre laughs] 
+
+Janine: [chuckles] Do they have diesel?
+
+Dre: [chuckles] I don’t hate it, actually?
+
+Austin: I don’t hate it either. But no, I think at this point, we’ve just moved on to diesel being the other meaning of diesel, which is just like ripped. [Ali laughs] Just like, damn, she’s diesel! I don't hate Diesel. Diesel’s my favorite so far, I'm not gonna lie.
+
+Dre: [laughing] I like Diesel too!
+
+Ali: Yeah, Diesel’s fine. Yeah.
+
+Austin: I kinda like it. Someone write it in, and we’re gonna move on. This is all very important character work.
+
+Janine: Did you know that some...WordHippo suggests alternatives to diesel, including “snakebite and black,” “purple nasty,” and “snakey B.”
+
+Dre: Oh, no, it’s purple nasty now. [Dre and Ali chuckle]
+
+Austin: Yeah, sorry, yeah, we’re gonna call you purple nasty. [Janine laughs] Do not search for “purple nasty” on Bing!
+
+Ali: No.
+
+Dre: Miss Purple if you nasty.
+
+Austin: If you— yes. AKA snakey B. AKA snakebite and black. Alright, now that we got that very important bookwork, you know, done. We got all this...all of our...everything’s in order. We can talk about what we’re doing today. Last time we talked, it sounded like, and I believe this is true, y'all were headed up towards Lake Timea, which is at the northern end of the Memoria Teardrop, which is Columnar’s region here on Partizan. That’s correct, right? I didn’t sleep through a change? I didn't miss anything?
+
+Dre: Nope, that sounds right to me.
+
+Austin: Okay. And that is so that you can deliver a message to Morningbride, who is an initiate in a group called the Sable Court. That message was delivered to you via Cymbidium, the former elect of the divine Past, at the very end of your last mission in Obelle. I'm gonna say, straight up, the transit to get through the Memoria Teardrop and like through the mountains is pretty straightforward, though I would love to know, kind of, what’s it look like to move yourselves plus three big mechs across Partizan? Like, what do we think...what’s that transit look like? Are you riding them there? Are you like…
+
+Janine: All I can think of now is fuckin’ trains.
+
+Austin: Yeah?
+
+Janine: And I'm not against trains.
+
+Austin: I'm not against trains either!
+
+Ali: But it’s the thing of like...the train brings us to a place, and then we’ve gotta get over to the forest…
+
+Austin: Yeah. I do think it’s honestly true that it would cost you something to load up your mechs on a big train, move them through the mountains, et cetera.
+
+Dre: Sure.
+
+Janine: What if we just like...what’s that thing called when you have a skateboard and you grab the back of a truck and you risk dying?
+
+Austin: Skitching? What if you skitch the train?
+
+Janine: What if we just skitch the train in our mech? [chuckles] 
+
+Austin: I think they might notice Mow? Mow is pretty big.
+
+Ali: Yeah… [Dre chuckles] 
+
+Austin: This gives us a really easy opportunity, actually, to break out something that we have not used yet, which is a move called Acquire Asset. Which, you just got a new special ability about here? Let me find it. It is— there it is. There it is. Okay. So, when you acquire an asset, you gain temporary use of an asset. To do that, what you do is you roll a couple of dice. Or, you roll some dice. You roll the squad’s tier in dice. The result indicates the quality of the asset that you get. 1 to 3 is a minus one tier from where you are, 4 or 5 is a tier equal to what you’re at, 6 is a tier better than what you’re at, and a critical is a tier above what you’re at. You can spend materiel to raise the result of this roll beyond even a crit by spending two materiel per additional tier added. The reason that you would do this is basically like, hey— or, kind of, the thing that Acquire Asset does fictionally is it says, hey, for the next mission, you know, debatably more or less beyond that, depending on what the thing is, I'm gonna get something that we just don’t traditionally have access to. You know, this is a game that doesn't traditionally...it doesn’t just have money, and I could just say like, oh, spend one materiel or one personnel to make this happen, but this move is specifically about getting something for temporary use. I would say that what you’d basically be buying here is like transport to and from the Memoria Teardrop, which will be safe, secure, if, you know, you don’t have to make any rolls in terms of just getting there and getting back. You’re not gonna be stopped at any borders. You’re not going to be pursued by anyone who is out, you know, out for blood against you, like for instance the Red Fennecs, the smuggler group that you pissed off already once. [Ali chuckles] And the better the tier is, the more protected, the safer, the better that transit goes. In fact, I'm gonna set a minimum quality level here to tier one. Y'all are tier zero, currently, so like, you need at least a tier one train to carry three big mechs—or, I guess, one very big mech, one average size mech, and one tiny baby mech—all the way up to where you’re going. To do this roll, again, it is your tier. Your tier is zero, but you do have a move, right? What is that new move called?
+
+Dre: Pack Rats.
+
+Austin: Yes.
+
+Dre: Do you want me to read it?
+
+Austin: Yeah!
+
+Dre: “Your FOB is a jumble of requisition items. When you roll to acquire an asset, take +1d.”
+
+[0:29:48]
+
+Austin: That’s good, 'cause it gives you one D to roll at least, here. [chuckles] Which is not very much. You...that...I guess I would fictionalize as being like, maybe there’s like a BYOB style component to this? Where it’s like if you bring your own like trailer to hold your mechs, then you get a reduced cost for this train fare, you know? Something like that. Do y'all want to roll this straight? You can, also, I believe, spend materiel to increase the roll? I will, again, double check this sheet. That’s an extra thing. Yes. You could spend a materiel to get another die on this roll. Again, what you need here, basically, is...you basically are going to need a 6 on this to get it safe. To get like good quality transport up to the north of Columnar territory. Otherwise, there could be some complications. As a reminder, you currently have...oh, do you not...alright. You have a number of supply points left that you also haven’t categorized. You still have 6 supply points left, which…
+
+Dre: Right.
+
+Austin: Which, actually, I think that’s not true. I think that those are straight up materiel, because they come from selling the…
+
+Dre: Oh, yeah.
+
+Austin: The robots. Right? The Troops?
+
+Ali: Mmm.
+
+Dre: Yeah. [indistinct]
+
+Austin: So, you have a bunch of materiel you’re sitting on. So, if you wanted to spend one or two for extra die you totally could do that.
+
+Dre: Probably should?
+
+Ali: Yeah.
+
+Austin: Alright.
+
+Ali: Seems like an important setup thing.
+
+Austin: Yeah. Give me a 2d6. There you go! A 5 and a 6.
+
+Ali: 6!
+
+Austin: So, you’re able to get very simple, clean transport. I think that there’s probably...you know, this is a weird train, because it goes between Orion space, Nideo space or territory, and Columnar territory. But I think it’s actually probably...it’s, one, a train that carries stuff back and forth a lot. It’s probably like a big freight train. And, two, I think that part of that tension is that we know Columnar and Orion both have like...there’s like professional beef between both of those stels. They’re both trying to be, like, the number one facilitator of war and technology and commerce in the galaxy. And so...and Nideo’s kind of caught in the middle there. So, you can imagine there’s definitely lots of tense, you know, almost...meetings between spies who are, you know, imbedded in the various territories. Meeting in Nideo who’s kind of in between the two, and lots of furtive glances and lots of stolen secrets and stuff like that. And also it’s a cool train in the mountains, and mountain trains are always kind of...have an added layer of like...spookiness and class. [Ali chuckles] I'm guessing this ride goes well? Like, unless y'all...do y'all have any things you want to do or talk about on this train? Is it...are y'all quiet? Do you go to the food car? What is your train vibe?
+
+Dre: Valence’s train vibe is, I think, very chill and relaxed. They are not like opposed to having conversation, but if nobody’s talking to them, they will probably be like reading books.
+
+Austin: Yeah.
+
+Dre: Or napping.
+
+Austin: This is like a...I should note, this is...it’s not like a little train. This is a multi-day train situation. This is not like a Baltimore to Boston. This is like a...you know, New York to Seattle or something, you know? Maybe not that...it’s not that far. It’s not that far. But it’s like a New York to Detroit or something like that. So, it is definitely at least an overnight train. And probably more, because it’s going up through the mountains, and there’s tunnels and dangerous paths, and it has to be careful. Regardless, at some point, then, unless...does anybody else have train vibes they want to share?
+
+Ali: I think Broun has been spending most of the time like playing cards with people in the like mess...car?
+
+Austin: Oh, that’s good. Yeah. Are there...are you...is it like a completely...are you trying to get anything from those conversations or or are you kind of— or those interactions, outside of “I’m playing cards,” or is this like completely “I'm just wasting time”?
+
+Ali: I think it’s a wasting the time thing, 'cause it’s a lot of other people who are doing odd jobs who are just fucking off.
+
+Austin: Yeah. Yeah. Totally.
+
+Ali: Yeah.
+
+Austin: Do you end up like playing a lot with the staff? You know, and not just other passengers but people who are like, working in the engine block, and then come back to hang out? Stuff like that?
+
+Ali: Yeah.
+
+Austin: Alright. So. Eventually, you get to Columnar territory. It’s called the Memoria Teardrop for two reasons. One is it’s vaguely teardropped in shape. It’s kind of this big territory. We’re in the south. There’s almost like a little cradle of mountains that run first kind of from the west and then down south and then wrap back up to the east to make a little cradle for where there is a major city called Vigil City. That is the capital of Columnar on Partizan. But that is not where you’re headed. You’re headed far north of that, towards Lake Timea. And the train does not go out all the way there. But you do get a view from the train of kind of what Columnar territory is like. And it’s basically like...these mountains that lead up to this big plateau, this kind of almost continental plateau ridge, that like stretches for miles and miles and miles. You can see Vigil City off in the distance, which is really noticeable, because it has all these strange shapes in the skyline? I talked about this on, I think, a Drawing Maps or something. But the way that, kind of, Columnar architecture looks...it’s lots of stuff that we, today, would identify as being like...I forget the exact term. Not just computer-generated, but computer-aided architecture. Lots of deconstructivism. Stuff that’s like asymmetrical, almost polygonal, almost like it doesn’t have a use for...it doesn’t want to look like just squares and basic shapes. It wants there to be edges and it wants there to be...kind of asymmetry in a lot of its design. So you can imagine the skyline as being...having very weird, you know, shapes kind of poking up in various places. It doesn't just look like a city. It looks like something someone would build with very flexible Legos or Legos that weren’t just blocks. It looks like something someone would build by messing around with a very basic 3D engine, you know? That has a low poly count, 3D engine. Like a PS1 city. [chuckles] And so you see that. 
+
+And the other thing you see as you pass through the mountains is lots of mines. The other reason it’s called the Memoria Teardrop is because the Columnar found something here in this region of Partizan. And that is memoria. And memoria is...I think you probably all know this, even if you didn’t necessarily have direct like connection to it or have ever worked with it, but it is a mineral that has a great deal of kind of...it’s a very dense mineral that basically has been used for high storage capacity. It has like a natural quality that can store a lot of data, store a lot of information. And, one, for the Columnar as synthetic people, that’s really useful. But also just in a world where technology has been set back by the Perennial Wave, this is one small advantage that the Columnar in Partizan and as they ship this stuff around the galaxy, one thing that it gives them, or that they use in their designs, that they put in their mechs, that they put in their computers, that kind of seems like it’s, you know, insulated from some of the ways in which the Perennial Wave has shut down other types of high storage memory materials and designs. So you just see like mine after mine of this stuff as you pass through the mountains, on the way to the kind of plain on the north of the Memoria Teardrop. 
+
+At some point, they let you off, probably at some small town in the middle of this state, in the middle of this region. And the rest of this trip you have to make on your own, north towards Lake Timea. But, before we go, I guess we’ll say two things. One, is there anything you want to do before you kind of leave towns and cities behind [chuckles] and walk out into the wilderness? Two, if you say no now but change your mind later, remember that this game has a flashback system that lets you do things like acquire assets in a flashback or set up, you know, something with a contact in a flashback or whatever else you need to do, so. But I do want to put it to you right now, like you’re at the train station. You’re leaving kind of this town. If you want to do anything else before we get to, like, the woods, now would be a good time to bring it up. And if not, that’s also fine.
+
+Janine: I actually have a...I didn’t get to do my train vibes, 'cause I thought of them too slow?
+
+Austin: Oh, I'm sorry. I feel bad. I'm sorry. 
+
+Janine: [chuckles] But part...is the passenger area big enough for Thisbe to even be in?
+
+Austin: God, I don’t think so.
+
+Janine: 'Cause on a normal train, the answer is no. [chuckles] 
+
+Austin: She’s big. Yeah. She might be—
+
+Janine: Unless she’s like crab walking or something the whole time, which is not likely.
+
+Austin: She would have to be, yeah.
+
+Janine: Like, even for her to be like crouching or squatting, I think the aisles would need to be wider than any train ever.
+
+Austin: Totally! Totally. I think that you’re totally right. I guess the alternative here, though, is maybe there are a couple of cars where that is the case, for two reasons. One is...for opposite reasons, weirdly? For opposite reasons that wrap around in a very strange way. One is that Orion, Stel Orion, we know is...would be, in our minds, very progressive when it comes to body types and disability. There would be...because this train moves through Orion territory, there would be some sort of...what’s the word I'm looking for? Accomodation made for people in Orion who had, you know, made their bodies big cyborg bodies—
+
+Janine: Mmm.
+
+Austin: —so that they could go work on weird volcano asteroids, right? And the opposite thing that’s happening is that Stel Columnar has this deep-seated resentment of the fact that they have had to make buildings and structures for human bodies. Which is this kind of anti-human and anti-humanoid, anti- what we think of as a humanoid alien species, bias that veers on ableism. Like, they don’t like that they’ve had to build stairs for people to walk up, because in their minds, you just like jack into the building and then move into a different— you know what I mean? Like that’s...I'm a computer person, there’s no reason for us to think about legs, unless that’s a specific thing that we want. And I've talked about this on, again, a Drawing Maps, if you want to hear me go deeper into this. But this is not like a...I’m not being like, “Rah rah, the Columnar are right,” here. [chuckles] This is like a deep-seated thing. And also it’s complicated, because they’re also part of this empire where they are...not a marginalized background, but a minority background and have different bodies. And I think for those reasons, it’s possible that we could think of as there being a passenger car or two that are specifically built for very large-bodied individuals. For people who have...just naturally have big bodies, for humans who have changed their bodies for that way, for synthetics that are really big. You’re not the only very big person in this setting, you know? 
+
+Janine: Okay.
+
+Austin: So, I think that there probably is a space for you here. And I think that that’s an important distinction, for sure. If you were in Stel Kesh...if you were in Stel Kesh and Stel Apostolos, my answer would be probably not. Like, those are not cultures that would build...are accommodating cultures in that way. So.
+
+Janine: Okay.
+
+Austin: Does that change your vibes again?
+
+Janine: No, no, it helps. Because otherwise it was going to be...otherwise train vibes would be the same as boat vibes, which is standing one place with your head locked in position. [chuckles] I think Thisbe’s train vibes are like...she is like looking out the window, but she’s doing the thing that dogs do? That’s maybe sort of a mean comparison, but like… [Austin chuckles] Doing the thing where like you can’t really take in the speed at which you’re moving—
+
+Austin: Mmm.
+
+Janine: So you sort of...you sort of stare and look until you find one thing to fixate on, but then your head moves very fast, because it’s gone immediately.
+
+Austin: [chuckles] Right.
+
+Janine: So, it’s a lot of...it is a lot of searching, searching, and then locating a thing, and then head jerking, and then searching again.
+
+Austin: Right.
+
+Janine: That’s it. [chuckles] That’s it.
+
+Austin: That’s good! That’s a good image. Thisbe as a dog looking out the window is very good. Alright. Eventually, I guess, y'all just leave and go up towards this lake. And it’s a beautiful lake. It’s fairly large. It’s a freshwater lake. Y'all live near a big freshwater lake, so that’s not like a new thing, and in fact, it’s much smaller than the lake that you’re near. But it’s a different vibe, right? Because the lake you’re near borders Oxbridge, the giant metropolis you live in, whereas this is like far away from any major cities. And, I think, after probably, you know, another half day of travel in your mechs, you can see the edge of this lake and the forest that surrounds it. It’s called Lake Timea. T-I-M-E-A. And is a kind of increasingly dense northern forest, and this is close to where you first met Morningbride to make that delivery, before the game started, Thisbe. Do you brief anybody about what this is? Or about what to expect, or…?
+
+Janine: Um…
+
+Austin: Do you talk more about what you’re here to do with them before you get here?
+
+Janine: I think I probably just say as much as Thisbe knows. Like, I don't think Thisbe does a lot of inferring.
+
+Austin: Right. Do you think that she’s not— 
+
+Janine: At least not like right now.
+
+Austin: Okay. Do you think that’s a thing that she’s not—
+
+Janine: Like, I think she could.
+
+Austin: Okay. But she would have to be prompted to do that sort of inferring?
+
+Janine: Yes.
+
+Austin: Okay.
+
+Janine: Because she is very much like...she is reacting. She is not acting. She was told to do the thing, so she’s gonna do the thing.
+
+Austin: Right. Right.
+
+Janine: So, for her, it is very much just like, here is the message I was given. Here’s who I was told to give it to. Here’s where they are.
+
+[0:45:00]
+
+Austin: Right. Okay. So, I think you get to the edge of this...kind of lake, and kind of right at the forest’s, the tree line, and...is there something you do to send a message that you’re here? Do you just get here and wait?
+
+Janine: Are there any mountains?
+
+Austin: Not here, no.
+
+Janine: It’s mostly just trees right here, yeah.
+
+Austin: Mostly just trees here, yeah. It’s pretty flat all the way up here.
+
+Janine: I don't think it’d be a good idea for Thisbe to climb a tree.
+
+Austin: No.
+
+Dre: Wait, you don't just have this person’s phone number?
+
+Austin: [chuckles] Valence, you’re in the woods.
+
+Janine: I mean, also like, yes and no, but like, I've probably gotta get up high. [chuckles] 
+
+Dre: I mean, but we’ve got mechs though, that…
+
+Austin: You do. I guess this is a fair thing to say. This is not a world with like a unified telephone system.
+
+Dre: Mmm, fair.
+
+Austin: One of Columnar’s...one of Columnar’s major things is that they have a thing called...I guess there’s two examples of this. One is...I want to say it’s Nideo? Nideo has a divine called...I thought it was Nideo, but maybe I'm wrong. Someone has a divine that is straight up just like, oh, you can talk to everybody inside of your own stel. There’s basically a phone system that works. Columnar has a thing called strand semaphore, and strand semaphore is basically a kind of...what’s it called? Telegram system. And that is pretty advanced, because it can send messages across the entire moon. But very simple messages, not even vocal messages. Just like text messages. And so that is the world. There is local radio communication, and there is special weird shit that can happen, like what Thisbe did last time, using a giant robot that has a giant, you know antenna built into it explicitly for doing that sort of stuff. But most people aren’t just like, “Yeah, hit me up on, you know, duh duh duh duh duh.” [Ali chuckles] Hit me up online, you know? [Dre chuckles] But yeah, it’s in your court in terms of how you want to tell people that you’re here. Or, tell Morningbride that you’re here.
+
+Janine: I mean, I guess the thing to do would just be to do the thing I did before, right?
+
+Austin: Yeah.
+
+Janine: To broadcast...'cause I think last time we said that Thisbe broadcast from like basically the border.
+
+Austin: Yes, you were like up on the...I think you were in Nideo space at that point, like up on a mountain basically, right?
+
+Janine: Yeah. It was like a sizeable distance, though—
+
+Austin: Yeah.
+
+Janine: So, doing it...even if I'm not on a hill or whatever might be fine.
+
+Austin: You’re much closer now.
+
+Janine: Yeah.
+
+Austin: Yeah. This is definitely going to be a role, and I think this time there is a risk to it in a way there was not before. I think that this is probably interface? But you tell me what you think using Mow to broadcast— or like, broadcasting a message at this place at this point would be.
+
+Janine: Um...yeah, I think interface makes the most sense?
+
+Austin: Yeah. Which is when you interface, you work closely with electronic equipment, making an extension of your body. You might hack into a technologically enhanced vehicle or understand how it works. You know, it is Mow that has the thing, that has the device, makeshift psionic amplifier. But I think using it like this...it still feels like it’s Interface, and not like Manuveure or Scan. Or I guess it could be Manipulate, but, eh. I feel like it’s Interface.
+
+Janine: Yeah.
+
+Austin: That’s 1d6. It’s Risky Standard. Do you want to push yourself or get help from someone if someone has a way of doing that? Or take a collateral die.
+
+Janine: Right. I have a move that applies to push self, but it does not apply in this situation. [laughs] 
+
+Austin: Isn’t it for like doing big dangerous things?
+
+Janine: It’s for extreme strength or extreme speed, so. [chuckles] 
+
+Austin: Yeah, not exactly what this is.
+
+Janine: I could transmit super fast, but like, I don't think that that matters? [laughs] 
+
+Austin: [chuckles] Yeah, I don't think that that’s it. I don’t think that’s...yeah. I get it. I don't think that’s quite right.
+
+Ali: Are you still just trying to get like super high? Or you need like a…
+
+Janine: No, this is just putting a broadcast out.
+
+Ali: Oh, yeah.
+
+Austin: What I would say is—
+
+Janine: Just like standing on Mow and using Mow’s like makeshift psionic amplifier.
+
+Ali: Oh, yeah.
+
+Austin: Yeah. What I would say is this is...you’re basically rolling to make sure you’re heard, to make sure the person who wants to hear— to make sure the person who you want to hear hears you and that also other people don't necessarily hear you, you know?
+
+Ali: Right.
+
+Austin: That is what would keep this safe.
+
+Ali: Yeah, I would assist by like, either having a device that can amplify the transmission or like a thing that you plug in to change the channels a little bit to, you know…
+
+Austin: Yeah, yeah, yeah, like tune in a little bit, and like…
+
+Ali: Yeah, yeah, yeah.
+
+Austin: Totally.
+
+Ali: So it’s a little bit more pointed than it would be.
+
+Austin: Totally. You find like other signals in the air and you manuveure it against those and like, oh, these are the bands that aren’t being used and it’s safer, and blah blah blah, whatever.
+
+Ali: Right.
+
+Austin: Love it. Is Bing 32 helping you with this?
+
+Ali: Yeah, I bet. [laughs] 
+
+Austin: Okay. I just want a visual, that’s all. Alright. 
+
+Janine: I should also...I can spend one of Mow’s quirks for this, right?
+
+Austin: You could.
+
+Janine: Isn’t that a thing to push self?
+
+Austin: Yeah. You totally could. You totally could. This would not be a bad roll to do that on.
+
+Janine: Yeah. And also we have a quirk that makes perfect sense for this.
+
+Austin: That is explicitly this, yeah.
+
+Janine: Yeah.
+
+Ali: Oh, okay.
+
+Austin: So yeah, then 3d6. Ali, you should take, or, I guess, sorry, Broun should take 1 stress for helping.
+
+Ali: Sure.
+
+Janine: Just want to be extra safe on this. [chuckles]
+
+Austin: Mm-hmm!
+
+Janine: ‘Cause it’s…
+
+Austin: Mm-hmm. That’s a big one. Risky Standard. And there is a 6!
+
+Janine: Okay.
+
+Austin: Look at you! Awesome. What is the message that you send? 
+
+Janine: Um… [chuckles] It’s very hard to think in Thisbe terms, 'cause my terms are like...where you at? Like, I'm at your house. Where are you?
+
+Austin: Where are you? Yeah. [Janine and Ali chuckle]
+
+Dre: Hey, your Uber driver’s here.
+
+Austin: Yeah. [chuckles] 
+
+Janine: Thisbe probably just like...mmm, to be honest, when I imagine this scene in my mind, I kind of just picture her like pinging. Just like a ping.
+
+Austin: Like, ping! Yeah, okay. Sure. 
+
+Janine: Just like a fuckin’ numbers station or something, like. [chuckles] 
+
+Austin: Yeah. That’s totally fine and probably is why this is a safe thing, right?
+
+Janine: Yeah.
+
+Austin: So, yeah. So, I think you get that same feeling of that...of those pings being collected and then thrown back at you, which is like, definitely her way, Morningbride’s way of communicating that she’s here, or that she hears you and will be here soon. But I do think that we get a shot of y'all just like waiting. It’s a big forest. You know, Morningbride is like a creepy witch lady, but that doesn’t mean she can teleport. [chuckles] So you’re just waiting at the edge of this treeline. The sun is beginning to— well, again, the days here are long, so it’s like we’re in that dusk mode, for sure, where like things have been hanging at what we would think of as the end of the day for a few hours now. And finally there is movement at the edge of the treeline, and out comes an Ashen, who is Morningbride, this kind of big...I mean, not as big— with Thisbe in any scene, big is the wrong word. [Austin and Janine chuckle] But this kind of like imposing figure in dark robes. She has a...I mean, I think, and tell me if I'm wrong about this, Janine, but I think the Hypha and the Ashen have a really wide spread of what horns they can have, right?
+
+Janine: Yeah.
+
+Austin: And antlers and everything else. The thing that I love here that I found recently was a Hebridean sheep? Which has these fuckin’ dope horns.
+
+Ali: Ohh.
+
+Janine: Oh, yeah. Yeah. 
+
+Austin: These like four horns. 
+
+Dre: Whoa!
+
+Austin: Two of them going way up and then two of them kind of wrapping around and downward. So it’s almost as if you can see a V on the top of her head, and then you can imagine two more wrapping down and around, almost like mandibles or like...I don’t—
+
+Janine: I want to say the statue of satan that was in the Sabrina show that got a lawsuit in it [Ali laughs] had something to do with this horn layout?
+
+Austin: Is that the old Sabrina? Oh, wow, this is…
+
+Janine: No, the new.
+
+Austin: Okay.
+
+Janine: Chilling Adventures of Sabrina.
+
+Austin: I don't think this has those horns, but I could see why you would think that.
+
+Janine: Maybe not. 
+
+Austin: It certainly has the top horn part. Or, no, it has double. It has like a third horn on top. That’s weird.
+
+Janine: Oh, this is...yeah, this is a different one than what I was thinking of.
+
+Austin: This is a different one.
+
+Janine: Yeah.
+
+Austin: But if you do a search for what I said before, Hebridean sheep, H-E-B-R-I-D-E-A-N, you will see this thing I'm talking about with like four horns. And she has, actually, fairly light skin. She’s fairly pale. And, again, Hyphan, Ashen, which is what they’re kind of culturally called at this point in history, have deer-like skulls, but just have skin. Like, there’s not fur. There’s not fuzz. There’s not like hair covering their facial— their skin.
+
+Janine: There might be fuzz, but it’d be like the way that humans have fuzz on their faces.
+
+Austin: Yes. Right, right, yeah, yeah, yeah. But they’re not like hairy animals, [chuckles] is what I mean, right? 
+
+Janine: No.
+
+Austin: They’re not like a deer looks.
+
+Janine: I mean, some of them might be, but like everyone’s different.
+
+Austin: Yes, fair.
+
+Janine: Every human is different, like… [chuckles] 
+
+Austin: Yes. Every human is different. That’s fair, yes. And I think, at this point, I am going to steal that thing that you said before, and she says:
+
+Austin (as Morningbride): Yearling, I did not know you were coming with guests.
+
+Janine: I think Thisbe looks about as confused as she could, by the word “guest” specifically.
+
+Austin: Uh huh.
+
+Janine: And just says:
+
+Janine (as Thisbe): They are operants.
+
+Austin (as Morningbride): Operants. I see. Well, you’ve come at a strange time. I'm afraid I cannot let you into the court.
+
+Janine (as Thisbe): I don’t need to go there.
+
+Austin (as Morningbride): Very well. What is it you came to tell me?
+
+Janine: Yeah, then I think Thisbe just recites it.
+
+Janine (as Thisbe): Sister, I did not know that Morningbride would send one of our own. Please tell her—
+
+Janine: And like, in the most stilted way. 
+
+Austin: [laughs] Yes.
+
+Janine: Like, the pauses that were given to here she is repeating.
+
+Austin: Mm-hmm.
+
+Janine: But it is just:
+
+Janine (as Thisbe): [stilted] Please tell her...tell her that I forgot what we learned in the garden. That I lost control. Tell her that. Tell her that the rethread...that the rethread the Strand—
+
+Austin: That they rethread the Strand. That’s, yeah.
+
+Janine (as Thisbe): That they rethread the strand and sent it where they must not, where they cannot. Tell her that I know she carries Courage in her heart and that she can do what I have failed to.
+
+Austin (as Morningbride): I see. Very well. Thank you. You've come a long way. I apologize that I cannot offer you any rest or hospitality. Is there anything else?
+
+Janine (as Thisbe): That was the message.
+
+Austin: Valence and—
+
+Ali (as Broun): What—
+
+Austin: Yeah, go ahead, Broun. [Ali and Dre chuckle]
+
+Ali (as Broun): What’s, uh, going on?
+
+Austin: I think Morningbride just looks back at you, Thisbe, as if to say...not as if to ask permission, but...I don't know...she is visually communicating that she does not trust these people and is looking to you for assurance of them, of whether or not she can.
+
+Janine: I think that particular...I think that particular intent escapes Thisbe completely.
+
+Austin: Good. Good! [Janine laughs, Dre chuckles] 
+
+Janine: I think Thisbe just says:
+
+Janine (as Thisbe): That is Operant Broun.
+
+Austin: Good.
+
+Austin (as Morningbride): Operant Broun. The troubles of my court are not your troubles.
+
+Ali (as Broun): We came all the way out here. This is it? Just a “message received”? Can’t even, you know, wash my hands? Drink some water?
+
+Austin (as Morningbride): The lake is right there, Operant Broun.
+
+Ali (as Broun): Got it. Thanks. 
+
+Dre (as Valence): Is there nothing we can do to help or be helpful in this? I mean, it sounds serious.
+
+Janine (as Thisbe): That is Operant Valence.
+
+Austin: [laughs] I think...there is something about you specifically, Valence, that she is trying to figure out. And she says:
+
+Austin (as Morningbride): Operant Valence. Hmm. [slight pause] You know what it is like.
+
+Austin: Let me start over.
+
+Austin (as Morningbride): You know what it is like to be hunted—to be prey—despite your mask?
+
+Dre (as Valence): Yes, and?
+
+Austin (as Morningbride): Why would I invite a wolf to my home? A wolf I do not know. At a time when we are hunted?
+
+Dre (as Valence): I'm confused, because you just said yourself that you see that I know what it’s like to be hunted.
+
+Austin (as Morningbride): Which is why I would hope that you would understand the risk I would be putting me and mine at were I to invite strangers into our home when we are already under threat.
+
+Ali (as Broun): Makes sense to me!
+
+Dre (as Valence): Yeah.
+
+Janine (as Thisbe): I believe Operant Morningbride is under the mistaken impression that we’re hunters. [Ali chuckles] 
+
+Ali (as Broun): Well, it’s been lovely meeting you. [Austin laughs, Janine chuckles] 
+
+Austin: I think as...y'all are like ready to go, basically, right?
+
+Dre: Yeah. Valence would love to help—
+
+Austin: Mm-hmm.
+
+Dre: But also is not the type of person to be like—
+
+Austin: To push it.
+
+Dre: “I'm here to force you to let me help you!”
+
+Austin: Yeah. 
+
+[1:00:00]
+
+Austin (as Morningbride): Yearling, before you go. When you sent me that message, were there any others in the wave?
+
+Janine (as Thisbe): What is the wave?
+
+Austin: I think she like sighs, like:
+
+Austin (as Morningbride): Oh, child. What is the wave? The wave. It’s the wave.
+
+Janine (as Thisbe): There was no water. I was on a mountain.
+
+Austin (as Morningbride): I meant the second message. The message you sent today. There are others near here who...have sent their own pings and who we have narrowly avoided. If you could...if you had...found them, then that information would be a boon and a gift. If you hadn’t, it is fine.
+
+Dre (as Valence): Would it be useful if we went and found them?
+
+Ali: Is there a way that the device that I used was maybe able to pick up some of the like...I guess it wouldn’t be valuable information, but it might just be like the broadcast stuff that other messages were on, right?
+
+Austin: You can...you know what? What I'll say is if you want to give me a Study check.
+
+Ali: Okay.
+
+Austin: I don't know if that’s a thing you have.
+
+Ali: Try to do like a…
+
+Austin: Yeah, you’re like— 
+
+Ali: Like a diagnostic on the…
+
+Austin: Yeah, exactly that, yeah.
+
+Ali: Okay.
+
+Austin: Like, you have the data. You have like the printout or like the...you can like have Thisbe pull up the data and be like “Oh, look, here is...let me triangulate the blah blah blah.”
+
+Ali: Right. Okay, I have 1 in Study, so.
+
+Austin: You have 1 in Study. Is anyone helping? Do you want a collateral die? Are you pushing yourself? Do you have any gear that would help?
+
+Dre: Okay, so what exactly are you studying?
+
+Ali: I think that I am studying my—oh, I'm just gonna mark this gear even though I have it—my own long range transmitter? But as a way to like reverse engineer it, because like when we were working on it to get the message to Morningbride, it was like oh let’s knock out all these other channels that we don’t want to use.
+
+Austin: Yeah.
+
+Ali: Re-looking at that information, being like, oh well it was channel ABCD that had the shit on it.
+
+Austin: Right. Totally, totally.
+
+Ali: Yeah.
+
+Austin: Like, you maybe...maybe all that stuff comes in on a buffer and you just don't access it, or, you know. You know.
+
+Ali: Right. It’s a thing that you...yeah.
+
+Austin: There’s an echo. There’s like a shadow of a signal or whatever.
+
+Ali: Right, yeah.
+
+Dre: Can I assist here using my Far Sight?
+
+Austin: Totally. Tell me what that—
+
+Dre: So, that’s where I gather information with Survey.
+
+Austin: Yeah. I mean, you don’t have to roll any...you just, you’re gonna take 2 stress, 'cause you’re helping.
+
+Dre: Yeah, yeah.
+
+Austin: But tell me what the helping looks like specifically.
+
+Dre: So, if what Broun is doing is going is going through these other like communication channels or communication waves…
+
+Austin: Mm-hmm.
+
+Dre: Maybe if there’s anything that looks suspicious that we can triangulate some coordinates off of, I can then use my Far Sight and see if I can get any sort of a…
+
+Austin: Like a glimpse of an image, like a…
+
+Dre: A glimpse of something that’s going on there, yeah.
+
+Austin: Totally. Totally. So, give me...so, that raises your Study to 2. 2d6. This is just a Gather Information. I don't think there’s a risk to this. So it’s just a flat 2d6. No Risky Standard. You can just do it as a fortune roll, in other words.
+
+Ali: So, I'm trying to use the thing.
+
+Austin: Oof!
+
+Ali: Oowee!
+
+Austin: 1 and 3. It’s fine. Even with...I mean, so here’s what I'll give you is...I can give you something, I just have to change...you know, maybe I don’t even need to do that. Okay. I don’t. You...so, on a Gather Information roll, a 1 to a 3 is not a hard fail, it’s just a limited information success, basically. you know that, if you zoom way in on this Lake Timea map on this, the main map of Partizan. I zoomed in all the way, and it zoomed me out all the way. Thank you, Roll20. Please stop. Please stop. There it is. [Ali chuckles] Okay. I'm gonna say that y'all are basically in this little zone between...you see the little tiny lake, and then there’s the big lake?
+
+Ali: Mm-hmm.
+
+Austin: You’re like in between those two right now. You’re able to triangulate down that it is...this group is...or, this other hunter that she has mentioned, is in one of these little divots on the kind of...it’s north of you, but the southeastern half of the lake. Do you know what I'm talking about? 
+
+Ali: Oh.
+
+Austin: Like across the shore from you, but still on the southern half of the entire lake. The eastern side. It’s hard to describe lake locations.
+
+Dre: Mmm. Yeah.
+
+Janine: So, the lake looks kind of like if a squirrel jumped bad—
+
+Austin: Yeah.
+
+Janine: —and did kind of like a faceplant?
+
+Austin: Yeah. A hund— 
+
+Janine: And it would be like at the squirrel’s nose?
+
+Austin: It’s like the squirrel’s ears.
+
+Janine: Okay.
+
+Austin: What you would see like…
+
+Ali: Okay, okay, yeah. [chuckles] 
+
+Austin: There’s like the three ears of the squirrel that’s faceplanting. [chuckles] It would be like the ears. 
+
+Ali: Okay.
+
+Austin: It’s like in one of those little zones there. So, you’re...you sense...I mean, how’s your Far Sight work, again? In the past, it’s been book-related.
+
+Dre: Yeah. Well, I think in the past it’s been book-related in that Valence goes into a trance and kind of is like just flipping rapidly between pages and it’s almost like certain bits of phrases or even just individual words kind of pop out to them.
+
+Austin: Right, right.
+
+Dre: To like form some kind of like a sentence. So probably in this one it’s probably very vague. It’s probably just something...like, even just one word or something.
+
+Austin: Right. Maybe even a word that doesn’t mean anything to you but would to Morningbride? Like the name of the beach or something like that, right? Let’s see. What’s a good name for a beach? Uh. These aren’t good words. These are bad words. [Dre chuckles] I think the thing that you find is some passage in the book that is talking about a battle, and it talks about red soil. And that is like the phrase, is “red soil.” And if you say that, Morningbride says quickly:
+
+Austin (as Morningbride): Red Sand. There’s a beach called Red Sand. I see. How…
+
+Austin: Is very curious about your book magic. [Austin and Dre chuckle]
+
+Austin (as Morningbride): Operant Valence. Maybe there are things we should talk about. [thoughtful breath] Give me a moment. 
+
+Austin: And she like goes down on one knee. And I think in the sunset you see her horns like shimmer weirdly for a few moments. A quick question, Valence. Could you now use your Far Sight to get even a better picture, now that you know where you’re looking?
+
+Dre: Um…
+
+Austin: Or do you think that that’s the...you’re like, that’s...one shot done? I know this is the opposite of the way GMing is supposed to work, where I'm gonna, you know… [Dre laughs] I'm supposed to close off abilities here, but I think it’s worth me asking.
+
+Dre: Yeah…
+
+Austin: Because you didn’t use that ability, you helped Broun use their Gather Information.
+
+Dre: Right.
+
+Austin: But it’s totally…
+
+Dre: I do think this could be...normally I would say no, 'cause I think it’s like, you know, the game normally doesn’t let you reroll Gather Informations?
+
+Austin: Mm-hmm.
+
+Dre: But I do think this could be a cool thing where it’s how does Valence’s Far Sight kind of...can it/how does it mesh with whatever Morningbride is doing here?
+
+Austin: Totally. Though, I will say that what Morningbride is doing here is distinct.
+
+Dre: Mmm.
+
+Austin: Morningbride is doing something...Morningbride is not like...Morningbride is not using Far Sight here.
+
+Dre: Yeah.
+
+Austin: Morningbride is sending a message, basically.
+
+Dre: Mmm.
+
+Austin: Back to base, effectively. I don’t need it to...I think what, in fact, we should just move forward here, which is— 
+
+Dre: Yeah.
+
+Austin: After a moment or two, she stands back up, and she says:
+
+Austin (as Morningbride): We cannot pay you in...the sort of material you would be used to, but you would be rewarded. We have our own ways. We believe that...the occupiers to the south have a unit military somewhere in our woods. If you’ve given us the correct location, then...and I may need a favor. 
+
+Austin: I think she kind of lays it out for you at this point. 
+
+Austin (as Morningbride): My group lives in fear, despite our strength. We hide ourselves, despite the pursuit of knowledge being our only true objective. And it is important that the Columnar do not know for a fact that we live in these woods. My people, with whom I have little sway...they wish to take direct action against those who trouble our woods. But they have lived here for longer than I have, and what I know is that those outside these forests, once they know where we are, will close in on us like a noose. I cannot stop the Sable Court from taking action once there is firm knowledge that there are invaders here. Which is why I would employ you to drive them away yourselves. If they are where you say, there is some additional trouble. My people have prepared the region with…
+
+Austin: What’s the word that she would use? Um...what’s a good word for like...warnings or like a...not like an alert, but like a…
+
+Ali: Would she say something like insurance or…?
+
+Austin: No, no, no. She’s going the other way. But there’s like a specific term that I'm thinking of that I cannot think of. I think what she would say is…
+
+Austin (as Morningbride): The Court has warded the area near Red Sand, and if one of these wards is tripped, there will be no stopping them. But I can tell you where these wards are, and if you can go to this beach, drive away these invaders, and do so without tripping one of these alarms, then I will be able to show you the hospitality that...that I otherwise could not. [short pause] Again, we are not sovereigns, in your terms. We don't have a checkbook. But there are things we can offer that Columnar and Orion and Nideo cannot. 
+
+Ali (as Broun): Things like…?
+
+Austin (as Morningbride): Information. Memoria. Technique.
+
+Dre (as Valence): That sounds more interesting to me than a checkbook.
+
+Ali (as Broun): But if we were talking checks, what is this worth to you?
+
+Austin (as Morningbride): Operant Broun, I gave up your idea of worth when I came here.
+
+Ali (as Broun): Sounds boring. Okay. [sighs] 
+
+Dre (as Valence): [sighs] Come on, Broun. You know if there’s a profit to be made, you’ll find it. We’ve just gotta get in. 
+
+Ali (as Broun): Fine. I'm not saying no, I'm just, you know. [Austin chuckles softly] I like to know up front! Employers usually aren’t so cagy.
+
+Dre (as Valence): Yeah, but…
+
+Janine (as Thisbe): I don’t believe that’s— [Ali chuckles] 
+
+Dre (as Valence): When you don’t feel safe, you get cagy.
+
+Ali (as Broun): Well…
+
+Janine (as Thisbe): Our employers are very cagy. [1:13:18 ??? amused sound]
+
+Ali (as Broun): Yeah, but they’re up for negotiation. Anyway, I'm not saying no! Let’s go. It’s fine.
+
+Austin: [chuckles] So, I think, you know, you’re able to pull up a basic geographical map of this region, which I'm going to move you to now. The green is woods. The long brown north-south thing is a path. The other color brown is also a path, like the northwesty one. And then the tan sand color is a beach. And then the blue is a lake. Do you see the red diamonds?
+
+Dre: Mm-hmm.
+
+Janine: [nervous chuckle] Yes.
+
+Ali: Yeah.
+
+Austin: I can’t tell what you can see sometimes, 'cause of the way the GM stuff works.
+
+Janine: Ah.
+
+Austin: It’s hard to tell what is overlay, what is map, what is background, what is token. Especially when I'm hiding other things. I think that Morningbride explains to you that basically they’re...that the Sable Court has hexed and warded this part of the woods. I mean, this is true for the entire woods, so they know if people are coming towards them. And for the sake of like easy communication, there are four diamonds on this screen. I guess, for people listening, on the far west, is a beach and some water, right? That is Red Sand, which I named before—or after, rather—I colored this thing just regular sand color. [chuckles] But imagine it’s kind of a red sand. Then, there is, to the— from going west to east, the sand eventually gives way to woods. The woods run basically across the rest of the map, except that, one, there’s also some additional woods to the southwest. And then there’s a big path running north-south down the middle, and then another running from the very bottom of the map, dead center, up towards— northwest towards the beach. And then there are these four red diamonds. One at the very north on the path, one at the very south on the path, one at the west kind of where the beach meets the woods, and one at the east deep in the woods. 
+
+[1:15:22]
+
+The thing that she is basically laying out for you here is a mission. Which you can, I guess, choose to take or not take, but it sounds like you’re taking. The objectives are simple. One is to drive them away, drive them off this map. Ideally south, but I think south or east would work. You cannot drive them north, 'cause that would be closer to where the Sable Court is. [Dre chuckles] I guess you could drive them into the water? That would theoretically get them out of here. [chuckles] Or you could hurt them or kill them, like I'm not, you know. You basically have to get them to not go further north on this map. The second thing, the kind of secondary objective is capturing their equipment. I think she lays out to you in plain words that living in the middle of the woods mean that you have a hard time getting certain sorts of equipment, which Thisbe already knows, as someone who’s delivered stuff here before. And that if you could get their stuff for the Sable Court, that would be an additional successful objective and would be rewarded with something else. There are rules of engagement here, but they’re very simple, because this is not...you know, this is not a state that has agreed to certain terms. The main ROE here, the thing you cannot break without really risking your relationship here and having a big fictional change is you cannot trigger any of these hexes, any of these wards that have been placed, the four diamonds: north, south, east, and west. And the way that those are triggered is by having someone kind of stay in them for too long, which will be represented by icons on the map and a very short clock. 
+
+Basically, if someone is...if someone, including you, is on one of these things for a little bit too long, there will be a message sent back to Sable Court HQ, and then Sable Court will take action. And what Morningbride knows, because Morningbride— as a reminder, and this is going to be said in the dossier, but this was said in a Road to Season 6, Road to PARTIZAN intro, Morningbride spent a lot of time working for the stels. Morningbride is a former elect. And so, what Morningbride knows first fucking hand, is if Columnar knows that they’re here for sure and like gets confirmed visual data, this whole thing is done. The Sable Court will get wiped out in a second. So they might win this battle, but if they can transmit an image, if there is...if this team goes missing and the team can like, you know, it isn’t very clear that they were driven off by a group of bandits or raiders or something, there’s a chance that more Columnar will come. So there’s a real risk here of if the Sable Court decides to show their own military might and fight them off, that could cause trouble for the Sable Court down the line. That is the gist of this mission. At this point, you can do any other gathering information you want to. You can tell me anything else you want to try to get done before we get to engagement. Just as a note, again, this is kind of on the other side of this lake, but you could come at this from any angle. You could get yourself into position around, you know, at any angle here.
+
+Dre: Do we have anything we could use to try and scout the area and see more about where they are?
+
+Austin: Up to y'all!
+
+Dre: Yeah.
+
+Austin: You tell me. I mean, again, you have Far Sight, which we know.
+
+Dre: Mm-hmm.
+
+Austin: I don't know if anybody else has any sort of scouty stuff.
+
+Janine: I have two points in Survey, but…
+
+Austin: True.
+
+Dre: How far away from you can Bing fly?
+
+Ali: There’s probably like a radius.
+
+Austin: Yeah. I would say, given that what Bing primarily is at this point is “a cat size drone able to use a variety of tools…”
+
+Dre: Yeah, fair.
+
+Austin: Probably not the best like…
+
+Dre: Stealth drone?
+
+Austin: Stealth drone, exactly.
+
+Ali: Yeah.
+
+Austin: Recon drone, et cetera.
+
+Janine: It’s like a lunchbox holding a wrench flying overhead over this fuckin’ campsite. [Austin, Dre, and Janine laugh] I love it. I love Bing.
+
+Austin: There are many ways you could use that to your advantage, though. So yeah, let’s start with your Far Sight then, Valence. Give me your...so, you’re at 3d6. This is a thing I don’t think anyone can help with. Uh, I guess...or no, Thisbe, you already marked Mow’s thing to gone, right?
+
+Janine: Yeah, yeah.
+
+Austin: You already marked the psionic amplifier, so yeah, probably not.
+
+Dre: So this is across the lake from us, right?
+
+Austin: It is. Yeah. 
+
+Dre: Okay.
+
+Austin: I can move you back over to there, so you get a...bop.
+
+Dre: No, that’s okay.
+
+Austin: Okay. I'll move you back again. [chuckles] 
+
+Dre: I'm trying to think. Because now that I think, you know, Valence did this once before, and I'm trying to think what would make it work better this time?
+
+Austin: Mmm.
+
+Dre: And I'm almost wondering if there is some sort of...I think they definitely position themselves like very...like right on the...and maybe they’re even in the lake. Like, they’re standing waist-deep in the water.
+
+Austin: Oh, that’s good.
+
+Dre: Directly facing where this other camp supposedly is.
+
+Austin: Do you...have y'all seen Valence...I guess y'all saw Valence do this at Obelle, but just a quick gut check: what do Thisbe and Broun think about Valence using a book to learn things from far away?
+
+Ali: I've decided not to ask questions. [Janine laughs] 
+
+Austin: Good answer. Good answer. [Ali laughs] 
+
+Dre: Very utilitarian. [chuckles] 
+
+Ali: That’s, uh...I took a look at that, and said “Not my problem, [Austin chuckles] whatever’s going on over there.”
+
+Janine: I think Thisbe’s understanding of it is probably something like...you know, when she is scanning or whatever, she is employing various sensors and data storage whatever, and books are like a kind of data storage for people—
+
+Austin: Sure. Yeah. 
+
+Janine: So like, I think to her, it just makes a kind of sense, but only because she doesn’t really look at it any deeper than like, books equal this—
+
+Austin: Right!
+
+Janine: And use of books can equal this, this, and this, so…
+
+Austin: Yeah, it’s totally easy to recategorize things in terms that are diff...yeah, that totally makes sense to me.
+
+Janine: It’s a very fragile harddrive or motherboard or whatever you want to call it. [chuckles] 
+
+Austin: Right, yeah, totally. [Dre chuckles] Perfect. Alright, so 3d6 for the Survey. Again, this is a...this especially is a Gather Information roll. This is not...I don't think there’s any...mmm. Mmm! You know what? I changed— mmm. Hmm. 
+
+Dre: Hmm. [makes I don't know sound] [Ali laughs] 
+
+Austin: I'm thinking about the fact that you’re haunted, [Ali gasps] which is interesting to me.
+
+Dre: Aw, hell yeah!
+
+Austin: I can imagine you being haunted turning this from a Gather Information roll to an action roll. 
+
+Dre: Okay.
+
+Austin: Because there are ways for it to break on a failure. Do you know what I mean?
+
+Dre: Mm-hmm.
+
+Austin: As a reminder, if you...I think it’s any time a scar basically causes you any sort of struggle, you get an XP. So this would give you an XP, for sure.
+
+Dre: Yeah, sure. Let’s do it.
+
+Austin: So yeah, 3d6, Risky Standard.
+
+Dre: Oh.
+
+Austin: That’s only two.
+
+Dre: Let me roll one more dice.
+
+Austin: Yeah.
+
+Dre: [laughs] That didn’t…
+
+Austin: It’s a 1, so no. [Dre laughs] So, 4 or 5. On a 4 or 5, you get a...on a Risky 4 or 5, you get a Risky consequence. I think that this...is going to...I'm going to introduce and adjust a clock here. And this clock is going to be about them—about this crew that’s here—becoming alert. And so, on a 4 or 5, the thing that has happened here is...it’s a six step clock. They start seeing things in the woods. They start seeing the Perennial Wave, which we haven’t talked about too much. But the Perennial Wave is literally these super tiny nanobots that have spread throughout the galaxy that are part of why technology has been set back the way it has been. But also sometimes...sometimes weird shit happens with them. And sometimes they roll in and it’s like high tide, and sometimes it’s low tide and they don’t bug you very much. But when it’s high tide especially, and especially in weird places like Lake Timea, weird shit happens. And this is part of why this recon group is here to begin with is that they’re here to investigate weird shit? I know now in my mind they’ve basically become ghost hunters, which is very funny. They start seeing the shapes of people moving through the woods. And they go to investigate, and like no one is here. And, you know, I think you’re able to...I mean, are you able to directly see this, or again, this is just the book is telling you shit, right?
+
+Dre: What if I'm seeing this through the eyes of these ghosts?
+
+Austin: Ooh, good.
+
+Dre: But I don’t control how long I get to look through them—
+
+Austin: Yes.
+
+Dre: So I'm just jumping.
+
+Austin: Yes! Yes. Good, good. So, what you see is, you see people— then, I can actually make this actually appear, then. There’s a campfire. There’s a bonfire on the beach to the southwest, kind of like on the very bottom edge of this beach near these woods. And the...that beach has a number of mechs on it. You can’t...with a 4 or 5, or with a 5, you can't identify what type they are. But there are three mechs on that beach near the bonfire, and there are three people. All of them are Columnar, all of them are synthetics. They’re all different like models and shapes. And, in fact, I think you see...the one who kind of comes up to you...they have like a rolly...like omni-rolly ball bottom? And they’re like rolling through the woods towards a different apparition that they see, and then finally turn and see you, and then like your sight then disappears as you dissipate. But you can hear them calling back to...I think that you even catch a name. They say:
+
+Austin (as synthetic): [shouting] Kenzi, there are definitely ghosts in the woods!
+
+Austin: You don’t know who Kenzi is, but presumably they are this person’s...or she. Kenzi is she/her. Kenzi is this person’s commanding officer. So yeah, there are three mechs. They are near this campfire that I've marked on the map, so you know exactly where they are, at least right now. But I am going to advance this alert clock, this six step alert clock, up to two. Boom. Thisbe or Broun. Any other stuff you want to do as a setup before you do an engagement roll? 
+
+Ali: [sighs thoughtfully] I had an idea, but I don't know if it’s a better in-mission thing or as like a setup thing. I have a move called Roadmaster.
+
+Austin: Mmm.
+
+Ali: “You know how to wreck or destroy an area with experimental substances or methods, so it is either impassable or good terrain to infantry vehicles or apps, your choice.” And I thought if we had had like an engagement plan…
+
+Austin: Mmm, mm-hmm.
+
+Ali: I could destroy the roads out and like pin them in?
+
+Austin: Yeah. I don't think that that’s a...I think that’s part of an engagement thing, for sure.
+
+Ali: Okay.
+
+Austin: Or a once the mission is happening you could continue to do it or do it when it makes sense then? But. 
+
+Ali: Okay, yeah.
+
+Austin: But I think that the second you do that, you are engaged. [Ali laughs] Or I guess you could...you could theoretically do it as a prowl and try to sneak in and do that, but that seems very risky. [chuckles] 
+
+Ali: Right, yeah. My idea was like, if we knew the way that we were gonna go in…
+
+Austin: Mm-hmm.
+
+Ali: I could make sure that there weren’t any other exits, you know, but that might be a…
+
+Austin: Yeah. I mean, the thing is it’s woods, so the exits are everywhere.
+
+Ali: Right.
+
+Austin: But the easy exits are obviously this path that they have taken to the woods. I guess here’s one thing I'll give you, Valence. It’s clear that that path to the woods is something that they made.
+
+Dre: Mmm.
+
+Austin: That is a recent path. Those trees are recently felled.
+
+Dre: Okay.
+
+Austin: So they have the ability to make their own paths through the woods and have done that to get to this beach. The other path, the north-south path, is a much older path.
+
+Janine: This is...okay, so...do you know how sometimes...I don't know if anyone else knows this. But if you turn a TV— if a TV is on in a room, but it’s like muted…
+
+Austin: Mm-hmm?
+
+Janine: And you can’t see the screen or something, but sometimes you’ll walk into a room and still know it’s on?
+
+Austin: Yeah, a hundred percent.
+
+Janine: Okay.
+
+Austin: Super sensitive to that stuff, yeah.
+
+Janine: Yes, yeah. I am wondering if I can...if because...I'm wondering if it makes sense for Thisbe to be trying to use that effect to sense vulnerabilities in a synthetic opponent kind of thing?
+
+Austin: [thoughtful breath] In terms of like…what sort of vulnerabilities would you want to— 
+
+Janine: I basically want to use Survey to look for like...to study them.
+
+Austin: Right. 
+
+Janine: But— 
+
+Austin: And find weaknesses in their bodies and their mechs, presumably?
+
+Janine: Yeah. But I think that you saying it visually kind of makes less sense, given our position and stuff, than…
+
+Austin: Right, right.
+
+Janine: Doing some sort of antenna...I was gonna say antenna monster? [chuckles] That’s not what Thisbe is.
+
+Austin: Doing an antenna monster. 
+
+Janine: Doing some kind of antenna monster stuff. [laughs] 
+
+Austin: Yeah, Operation Antenna Monster. Ali, we got the episode title. We’re good to go.
+
+Ali: Yep.
+
+Austin: Operation Antenna Monster. Fuckin’ ship it, honestly. 
+
+Ali: Uh huh. Write it down!
+
+Austin: So, yeah. Is that like a...what is...that’s a Survey, but what you’re doing is using your like...not your brain, your horns? Your… 
+
+Janine: Yeah. Because like…
+
+Austin: Totally.
+
+Janine: You know, electronic emission-y kind of…
+
+[1:30:00]
+
+Austin: Yeah, I will say that this is a Gather Information roll again. Give me a Survey, and I can give you some more about who they are, what their like electromagnetic profiles are, basically. you know what I mean? You can kind of reverse engineer if they do have weaknesses or if there are elements of what they are. So yeah, just give me a straight Survey then. 2d6.
+
+Janine: Okay. 2d6.
+
+Austin: Mm-hmm. Ooh, those are not good. That’s a limited success, with a 2 or a 3.
+
+Janine: Yeah… [sighs] 
+
+Austin: Unfortunately. Limited success is not nothing, so I can give you...I can give you a couple things on limited success. One is it’s clear there is a commander robot and two assistants, and there is a commander mech and two other mechs with that commander mech? And what I can actually give you, using your exact metaphor here that is true, is you can sense a bunch of little...of that kind of electromagnetic feeling, that like “I walked in a room and the TV is on” feeling. And you know that those are like digital cameras. The big...the commander mech has a billion cameras. Not a billion, but dozens of camera drones that it can launch. You can feel their like...you can feel the potential for them to turn on and snap shots instantly. You know what I mean? They have...they almost...not literally desire, but they have a preference for flying around and taking, you know, snapping photos. And kind of recannoitering a place and getting that information back to the main command mech unit, at which point, who knows what it does? But that is the type of mech it is. In fact, I will reveal that one of the three mechs at the thing is this big camera mech. This is called an Obscura. It is made by Columnar. It is made by the Zenith fund. So. 
+
+Janine: [laughs] That’s just...that’s just a lil camera!
+
+Austin: That’s just a little camera icon.
+
+Janine: That’s a lil camera icon.
+
+Austin: Just wait until you fuckin’ see the other one. If you laughed at the little camera, you’re gonna lose it over the other one. [Ali chuckles] 
+
+Janine: You shouldn’t hold your camera over the fire like that. [Austin laughs] You’re gonna fuck up the lens.
+
+Dre: Mm-hmm.
+
+Austin: It’s north of the fire. It’s not above the fire. It’s a 2D map.
+
+Janine: I love to toast my camera.
+
+Austin: [chuckles] Yep.
+
+Janine: [laughs] Put it on a graham cracker.
+
+Austin: [chuckles] Yeah.
+
+Janine: This is how robots camp. 
+
+Austin: [chuckles] Broun, do you have anything? Or do you want to talk engagement? 'Cause it sounds like you have a big engagement plan, but.
+
+Janine: I think I'm engagement ready. I don’t have a lot of gear that could…
+
+Austin: Yeah. So, engagement time. Step one is, as always, decide how much load you’re bringing in. Your mechs are set, so that’s not changing this time. But in terms of personal load, are you gonna be light, medium, or heavy? Which, I...this might connect to what type of plan you want to do, because light [chuckles] is definitely easier for a stealthy thing, whereas if you’re going in loud anyway, who cares, right?
+
+Ali: I have mine set to medium.
+
+Austin: Okay.
+
+Dre: Is this something we need to declare before we—
+
+Austin: Before Engagement.
+
+Dre: —choose which Engagement we want to do?
+
+Austin: No, you can talk through Engagement.
+
+Dre: Okay.
+
+Austin: Yeah.
+
+Dre: 'Cause I think I would like to pick...figure out what we’re doing for Engagement—
+
+Austin: Okay.
+
+Dre: —before picking my load.
+
+Austin: Sounds good. As always, you choose a Tactic and then a Detail. The Tactics, again, are assault, Deception, Scientific, Social, Stealth, and Transport.
+
+Ali: I could see this as a Stealth plan?
+
+Dre: Mm-hmm.
+
+Austin: As a reminder...yeah, I just want to underscore a thing, which is this is the plan for the Engagement. It’s not like, oh, and then we have to stay stealthy the whole time.
+
+Janine: Right.
+
+Austin: So if you had like a “let’s start with some stealth, and then boom,” yeah, that’s totally acceptable. Like, that is on the table.
+
+Dre: Is there any way we could use the Perennial Wave and/or these weird ghosts in a Scientific or Deception plan?
+
+Austin: Those are...I think if you’re using either of those things, that is a Scientific plan. 
+
+Dre: Okay.
+
+Austin: Deception...I just want to specifically cordon off the Perennial Wave, the weird apparitions caused by the Perennial Wave, or the fact that it has haunted you as being what we’re calling Scientific or what we might think of as “Weird.”
+
+Dre: Mm-hmm.
+
+Austin: That is kind of how I want to delineate that stuff here.
+
+Dre: Yeah, fair.
+
+Austin: Deception would be you have like a birdcall and you make them...you know, or like a, you make some noise and they go “What’s over there?” that would be more Deception. But if they go “What’s over there?” and then they go “a ghost!” that’s Scientific. [Janine and Dre laugh]
+
+Janine: [doubtful] Is it?
+
+Austin: In this world, yes.
+
+Janine: Okay.
+
+Dre: Sure. Yeah. 
+
+Austin: Scientific is replacing in Blades in the Dark the Weird assault tactic.
+
+Dre: Mmm, okay.
+
+Janine: Okay.
+
+Austin: This game, by default, doesn’t have the weird magic shit that we’re talking about that is like weird ritual unpredictable super-science meets magic shit. So, that’s where I put that, for sure.
+
+Dre: Okay, yeah.
+
+Austin: [dramatic] “Technological power, the unusual procedures used.”
+
+Dre: So, Broun, you were talking about using your skill to wreck certain roads or certain paths?
+
+Ali: Yeah, I was gonna try to pin them in, basically.
+
+Dre: Okay.
+
+Ali: Like, if we block all of the exits…
+
+Dre: Mm-hmm.
+
+Ali: Well, not all of them, but like a section of the space.
+
+Dre: Right.
+
+Ali: And then approach and then attack them and then they’re, you know. [laughs] 
+
+Dre: Like, if we can stop them from going to the north or the east…
+
+Ali: Right, yeah, exactly.
+
+Dre: Then that would also stop them from going into those wards or whatever.
+
+Ali: Right.
+
+Dre: Okay.
+
+Austin: I will say: there’s a ward very close to them, which you can see—
+
+Ali: Mm-hmm.
+
+Austin: But people at home can’t see this. It would be hard to get to that, to like block off that ward, but yes, the very far north one and the very far east one are definitely ones that you could somehow make it tough for them to get to it, you know?
+
+Dre: Yeah. Could we use the Perennial Wave to destabilize or just knock out some of their mechs and equipment?
+
+Austin: It would be something we haven’t seen you do yet.
+
+Dre: Yeah.
+
+Austin: But that’s not...i'm not saying that that’s a thing that you couldn’t do. We just haven’t visualized this yet, right?
+
+Dre: Yeah.
+
+Austin: Again, we know you’re haunted. You know what? Here’s what I would love. Can you roll me a fortune die? Roll me 1d6, and this is gonna be the tide. We’re gonna see what the tide is. You want it to be high tide, because that increases your ability to fuck around.
+
+Dre: Nope!
+
+Austin: That is a 1. [Dre chuckles] It is not a high tide. It is a low tide.
+
+Dre: Okay.
+
+Austin: I hadn’t even—
+
+Dre: Alright, Broun, so what are your ideas? [Austin and Ali laugh]
+
+Austin: And this is the luck. This is the thing, right? It isn’t...I guess you could wait until it’s high tide. That is a totally viable plan. But I think that means me advancing some clocks, you know?
+
+Dre: Yeah. Yeah.
+
+Austin: Maybe moving what their positions are based on what you know that they are now. Stuff like that, right? But I do want, in the book of your long term playbook, waiting for high tide before doing some dirt is totally an acceptable thing. Because there are— sensors go weird when it’s high tide, you know? You start seeing things that you don’t normally see. The radar just stops working right, stuff like that, right? So, definitely a thing you could do. Just, in this specific case, it would cost you some time.
+
+Janine: Do we want to...so, do we want to use them as a veil, basically, to get in close without being perceived? Is that the idea?
+
+Dre: Are you saying we Scooby Doo this and pretend to be a ghost?
+
+Austin: I had had— 
+
+Janine: I mean, that— 
+
+Austin: That’s a very funny idea. [Dre chuckles] I will shoutout one thing, really quick, based on abilities you do literally have, which is: if you did the Deception or the Stealth plan that Broun mentioned, Broun does have both Roadmaster, which is the thing about making things unpassable, but also Saboteur, which says that when you wreck your work is quieter than usual and the damage is hidden from casual inspection. I would give you a bonus on the “we’re going to box them in” plan.
+
+Dre: Okay.
+
+Janine: Oh, yeah, that sounds great, then.
+
+Dre: I like that. [Ali chuckles] 
+
+Austin: For those abilities specifically.
+
+Janine: Mm-hmm.
+
+Austin: Versus can we be ghosts. I like ghosts! I like “can we pretend to be ghosts and spook ‘em,” but I just wanted to be clear—
+
+Dre: Maybe if it was high tide.
+
+Austin: If it was high tide, definitely. They’d already be a little scared. But at low tide, you’d have to wait for high tide, and then also like...figure out how to be ghosts or manipulate ghosts of the past or weird nanomachine spookiness, so this seems easier.
+
+Ali: Mm-hmm. Sure, yeah, I'd be happy to.
+
+Austin: Alright. This sounds like Stealth to me, then?
+
+Ali: Yeah.
+
+Austin: Do you want to walk me through what you’re doing specifically? Or like mark on the map where you’re doing shit?
+
+Ali: Yeah. Where do we want to...where do we want to approach them from? We’re kind of...so, if we’re on the other side of the lake...we’re kind of...
+
+Austin: You can hit this map on any place you want to hit, basically. Yeah, you’re across the lake, effectively, so you could approach them from any angle.
+
+Ali: Right.
+
+Austin: Which is also just easier than trying to, you know, adjust this map to be lined up according to the big map.
+
+Ali: Right, right, right. Yeah, yeah, yeah. I think, in my heart of hearts, what I think is that the most effective way is we can maybe approach them from the shore? And then...I'm gonna draw something. If we approach from here, right? We can move from the shore.
+
+Austin: Oh, and then is the purple the area that you would not...you would block them off where the purple line is.
+
+Ali: Right.
+
+Austin: The big, wide...
+
+Ali: Yeah, exactly.
+
+Austin: Yes, yes, yes. I see what you’re...
+
+Ali: Yeah. 
+
+Austin: You would basically like...what are you— are you like sending some—
+
+Ali: I would cut off that road that they have.
+
+Austin: Right.
+
+Ali: And then make it so that they couldn’t get to the other one.
+
+Austin: Right.
+
+Ali: So like they...
+
+Austin: What are you...is it like a chemical that you’re spilling on the ground? Is it a…?
+
+Ali: I could do it a lot of ways. I could think of...like a tripwire system might work.
+
+Austin: Would it be blowing...like, what would happen when they get to that point?
+
+Ali: Um...I could just set explosives. [laughs] Right?
+
+Austin: Yeah, totally.
+
+Dre: Mm-hmm.
+
+Ali: Just, you know, explosives. Mines. I have some mines. [laughs] 
+
+Austin: You do have some mines.
+
+Ali: [laughing] Broun just going through like a big suitcase.
+
+Austin: [laughs] Flipping through what you could bring on this mission, right.
+
+Ali (as Broun): Well, I got these firebangs.
+
+Dre (as Valence): ??? 1:40:26
+
+Ali (as Broun): I got some mines. Uh...I think I just have this bag of nails that I could make explode, probably?
+
+Janine: You pop Bing open. It’s just three screwdrivers and a bunch of grenades. [Austin and Ali laughs] 
+
+Austin: Yeah, there you go. All the tools a repair bot needs!
+
+Janine: They’re tools, yeah.
+
+Austin: Yeah. But you’re basically putting something down so that if they go that direction it fucks them— the thing that I was just trying to get in my head is: if they go that direction, do they get fucked up? Or can they not go that direction at all? Do you know what I mean? Like, is it…
+
+Ali: Oh. Yeah, yeah, yeah. I don't think it’s— I think it’s supposed to be kind of a trap situation.
+
+Austin: Okay. Gotcha. Alright! 
+
+Ali: I think that it’s actually something that fucks with their electronics systems?
+
+Austin: Okay. Like an ECM— 
+
+Ali: Like something that will electrocute…
+
+Austin: Okay. Yeah, yeah, yeah.
+
+Ali: Right.
+
+Austin: Alright. Then mark down...that, to me, sounds like placed explosives, which is a personal gear thing, so just mark that down. And then it’s time to make a roll. Engagement rolls. Is the mission bold?
+
+Ali: Yes.
+
+Austin: Yeah? Okay. 
+
+Dre: Yeah, I mean, I think so.
+
+Austin: Yeah.
+
+Dre: We’re…
+
+Austin: You’re setting...you’re sneaking around them. Yeah, yeah, yeah, totally. Okay. So, yes. One. So, that’s actually two, 'cause you start with one. Is it especially complex? I don't think in the long history of our plans this is especially complex.
+
+Dre: Mm-hmm.
+
+Austin: “You set some mines and drive people into them” is not… [Ali chuckles] Does it exploit their vulnerabilities? I don't think it does. They are a reconnaissance crew specifically. I guess, for the record, for people taking notes at home, this is a group from Columnar that is called...the 301, or the 301st Appraisal Unit, which is a reconnaissance squad. It’s a tier one squad, so they’re not that much better than y'all in terms of like quality of gear and shit, which is good, 'cause you’re about to fight them head on. Or, not head on, but...well, this might be a head on component. Anyway, it does not exploit their vulnerabilities. But I also don’t think it’s ineffective towards the target, given the fact that you’re so good at this particular thing that you do. Do you receive external support? No. Is anyone else interfering with the mission other than the target? No. So, you’re still at 2d. Are there any other factors that affect the mission? I’ll give you that plus one for having both of those abilities that help this plan. [Dre makes nervous sound] Broun, I'd say you go— [chuckles] yeah. Broun, you go for this one, since it’s your abilities that we’re fictionally using as the lever on which this turns.
+
+Ali: 3d6?
+
+Austin: 3d6. [Ali ??? 1:42:57] That’s a 4. 4’s not terrible. 4 gives you a risky position. So. How long does this take you to prep this field of ECM mines and shit like that?
+
+Ali: Um...probably a while, like a couple hours. But I think that it...if we all do it together—
+
+Austin: Yeah.
+
+Ali: And…
+
+Austin: You get through it.
+
+Ali: Yeah, Bing 32 helps. I think it’ll be good.
+
+Austin: Are you on your feet? You’re on your feet doing this. Your mechs are somewhere else.
+
+Ali: I think so, yeah.
+
+Austin: Yeah, okay. To give a sense of scale, I think for the sake of clarity, a mech takes up one square on this map that we’re using. So that camera mech is the size of a mech, you know?
+
+Ali: Okay, yeah.
+
+Austin: So it’s quite a bit of space, but you’re able to lay these out, and, you know, the thing about mechs is that they’re big, and that means it’s easy to plant mines for them, because they step on a lot of space at once, you know?
+
+Ali: Mm-hmm.
+
+Austin: So, you’re able to do this. Do you go north to south or south to north? I know this is a weird question.
+
+Ali: Oh, I know what you mean.
+
+Austin: Like, do you start at the bottom left here and go up and— are you drawing a J or are you drawing like a...are you going the other direction?
+
+Ali: I think that if we have been...if we had been surveying them— 
+
+Austin: Yeah.
+
+Ali: —for quite some time, we probably start from north to south?
+
+Austin: Yes.
+
+Ali: So we can go that way and then grab our gear and head back.
+
+Austin: Okay. Right, I see what you’re saying. Yeah, yeah, that makes sense. Alright. Yeah. So, this is set up. I think that there is...in this final...as you’re setting down the final set of mines in the kind of southwestern area, there is just like a stillness that is...and it’s low tide, so you don’t think it’s a spooky Perennial Wave stillness. But there is something about, you know, the moments, as you’re finishing up this trap, setting this trap, that everything feels still and wrong? You could try to figure out if there is something else happening here in this moment or you could move on, but regardless, that is a...I'm saying that out loud, because it’s worth saying that out loud. But otherwise we now need to...what’s the actual...so, the trap is set. How do you spring the trap on them?
+
+[1:45:20]
+
+Ali: I was thinking that we would attack them via the shore. 
+
+Austin: Like come up them through the water? Or come down from the beach to the north, or…?
+
+Ali: Yeah. Either of those works. I think that water attacks are cool and fun.
+
+Austin: Water attacks are cool and fun.
+
+Ali: But that’s me personally. [chuckles] But I'm willing to go with the team here.
+
+Janine: That’d be fine.
+
+Ali: It’ll be very scary.
+
+Austin: It will be very scary.
+
+Dre: It’ll be like that 90s Marines commercial that had that Godsmack song in it. [Ali chuckles] 
+
+Austin: I don’t have that one on deck.
+
+Ali: Yeah, me neither.
+
+Austin: Necessarily, but…
+
+Ali: That’s not in my memory bank. [laughs] 
+
+Austin: But yeah.
+
+Dre: Must’ve got different commercials growing up in the South.
+
+Austin: God. [brief pause] I've added icons for your three mechs. You just can't see them yet. Now you can see them.
+
+Ali: Oh.
+
+Austin: Thisbe, Mow is a big gorilla. [Ali laughs] 
+
+Janine: Which one of those is the gorilla?
+
+Austin: The one with the big butt. 
+
+Janine: Which one of those has a butt? I can't see.
+
+Ali: Yeah, why is Mow double yeeked up? [Ali and Austin laugh]
+
+Austin: You can’t tell which one of these is Mow?
+
+Ali: [laughs] It’s all the way on the top.
+
+Janine: Oh, okay. Okay. 
+
+Ali: Like way up there.
+
+Austin: Yeah.
+
+Janine: To me, it looked like some sort of shadow fairy.
+
+Austin: Okay.
+
+Ali: No, that’s an ass, and that’s a head.
+
+Austin: That’s an...that’s...uh huh. [laughter]
+
+Janine: Yeah. Yeah. It’s overlapped with the clocks. It was a little bit confusing.
+
+Austin: Okay, fair, fair.
+
+Janine: It’s also very fuzzy around the edges? [Ali and Austin chuckle]
+
+Austin: I didn’t draw it, okay? I can go to my weird token creator if you need to— if I need to, but...so yeah, y'all come up. What is the...paint me a picture. Listen. You come up out of the water. You come up out the water. What’s that— what do you do?
+
+Janine: I don't think Thisbe comes out of the water without already having a target. I think the thing is that she’s gonna build that momentum whenever she can.
+
+Austin: Right.
+
+Janine: I wanna fully charge the camera mech.
+
+Austin: There we go. Okay.
+
+Dre: That’s like...yeah.
+
+Janine: I just want to like...really...just like—
+
+Austin: Uh huh?
+
+Janine: Directly out of the water, just like, really—
+
+Austin: That is…
+
+Janine: You know, steamroll.
+
+Austin: Yeah, that sounds like a destroy. This is a risky standard. I’ll talk about that mech a little bit as you charge to it and prep your dice. It is, again, a Zenith C Obscura. It has very wide shoulders that lead down to treaded legs, or like a treaded bottom. It’s like a tank tread mech. And it has like...when I say “wide shoulders,” I don’t mean “it has wide shoulders.” I mean it has like...almost like wings? It’s almost like...I'm imagining it almost like the wings of a beetle, basically. But like, as if they could open and close. I guess a little bit like the wings on a...uh...why am I blanking on Haman Karn’s mech? 
+
+Ali: Ah, the Quebely.
+
+Austin: The Quebely, yeah, exactly. Like that style of...but these close in the back or open up, and when they open up, it reveals all of these little camera pods that can launch out. In this case, though, I don't know that it’s gonna get the chance to, because you’re about to roll Destroy. What is your Destroy?
+
+Janine: I'm also about to push myself to act with extreme speed.
+
+Austin: Okay. Give me...give me…
+
+Janine: So that’s 2 stress, right?
+
+Austin: That is 2 stress when you push yourself, absolutely. 3d— or, in addition to the other bonuses for pushing yourself. Which means I think you’ve complete— actually, that extreme speed is going to make your specific roll risky— or, not risky, controlled, because you’re moving with such speed that it surprises them. So let’s say controlled. Or if you— I guess is the other half of it. When you push yourself you can either give yourself a bonus die, give yourself a bonus to your effect, or change the position that you’re in. So, do you want to...what do you want from the push, basically? 
+
+Janine: I want the bonus die.
+
+Austin: Okay, so then 3d6. Controlled standard. That is a 4. Wow, 4, 1, 4. Not great. Not great.
+
+Janine: No.
+
+Austin: But listen, on a controlled, the consequences are a little more bearable. I mean, first thing’s first, let me get some clocks on here about doing stuff to these people. [Dre laughs] What’s it look like as you slam into this mech that is much smaller than Mow?
+
+Janine: I think it probably looks like if a real gorilla got really angry at one of those robot gorillas from the early 2000s?
+
+Austin: Mm-hmm. [Dre giggles]
+
+Janine: Just in terms of like...I kind of imagine Mow like tipping it onto its back.
+
+Austin: Sure.
+
+Janine: Or like throwing it off in some...I mean, I don't know that that happens, obviously, because of my roll. But like, some sort of I think throwing it off balance should be part of the...'cause Mow is huge.
+
+Austin: Yes.
+
+Janine: And heavy.
+
+Austin: Mm-hmm.
+
+Janine: And meant to tear up fields. [Austin chuckles] And this is a camera robot. [chuckles] 
+
+Austin: It is a camera robot.
+
+Janine: A camerobot.
+
+Austin: In fact, it is a camera robot that is...it isn’t even good at moving regularly? Like, it’s treaded, which means it’s very stable. It’s a very stable platform.
+
+Janine: Am I beating up the Mars Rover?
+
+Austin: It’s bigger than the Mars Rover.
+
+Janine: Okay.
+
+Austin: But yes. [chuckles] 
+
+Janine: Does it also play a song on its birthday?
+
+Austin: It does, and it’s very sad. [Austin and Janine chuckle] I'm gonna mark the Obscura clock, which is a six step clock...twice, I believe? I'm gonna double check that, as I continue to re-internalize these rules. Effect, boom, here we go. Uh...yeah, two ticks. So, this is a six step clock. This is like a hefty, big, you know, deal to knock this thing out. Actually, you know what? I'm gonna change that. I think that’s not true. I think this is a four step clock, like that’s the whole thing is that it is not particularly well-defended, or defensive, as a mech. It is not a...despite being a commander mech, it is not a particularly sturdy thing. But I am going to increase the bodyguard die to 8, which is both of those tied together. Let me change that to bodyguards and change that to 0. Alright. So, Mow just slams into this thing. I think...what I'll say is it has less give than...or, it has more...what’s the...how do I want to say this? It has more give than you think? Like it’s not as...it doesn’t break. You know what I mean? It doesn’t just…
+
+Janine: It’s like springy?
+
+Austin: Yeah, it’s springier than you might have thought. And so it doesn’t instantly get demolished. But yeah, you’ve shoved it basically back across through the fire and back to the other side of the fire now? And now Mow is here, right in front of these two other mechs which I am now going to reveal, now that you are right in front of them and can see them. You just...they’re called Wedges, and the token site that I had did not have a wedge shape.
+
+Janine: Those are cheese.
+
+Austin: Those are cheese. The Wedge is— lot of the Columnar mechs are named after basic machines or simple elements of machines, which is why the camera mech is called an Obscura. And so the Wedge is a...it’s kind of a medium humanoid-shaped mech. It’s kind of Columnar’s answer to the Troop. It is like this very flexible fighting platform. It has hands, unlike the Troop. It has lots of articulation, but it is still kind of this big bulky thing. It has like a torso that is one big unit. There’s a couple of things that I can point to here, but the big one is this rad Lego mech I found? That is like a big singular torso unit with big bulbous armored shoulders and knees and legs and feet. It’s kind of...its head is built into the torso directly, but it’s very round. It’s still, again, kind of wide and heavy-looking despite being a medium mech, so in that way it’s similar to the Troop? But it’s not very blocky the way the Troop is. And this is what makes up the front lines of Columnar’s army, which I guess like...it’s interesting, because you don’t necessarily know a lot about these mechs, Broun, 'cause you’ve never worked on these. These are from the sort of rival nation in terms of mech design. I'm sure Broun has very specific thoughts about what they get right and what they get wrong, you know?
+
+Ali: Mm-hmm.
+
+Austin: But they’re called Wedges, and they’re here. There’s another version of them that we might see a little later, but we’ll see! The two pilots for those rush into their machines immediately and I think spread out a little bit, because they understand that Mow is big? That Mow big. [Austin and Janine chuckle] And that being close together is dangerous in general, so. So, who’s up? Valence or Broun, who goes next?
+
+Ali: I'm good with just closing in on another mech, if this is gonna be like a combat situation, right?
+
+Austin: Oh, this is a combat situation, yeah. For sure.
+
+Ali: I can go for this one over here.
+
+Austin: So you’re charging into the western...I'm gonna say that that one is named...I guess I'll write their character names down, huh? That makes the most sense. That way we know which one is which. The one on the left, let’s say, is...where did I put people names at? There they are. That is Dina. Dina Dash. And as you charge in at it, you can see that it is wheeling a flamethrower and has like a net-launcher on the back, so, you know, be careful of that. And the one on the right is piloted by Cobra. Cobra Junction. Both robot people.
+
+Janine: Also both video games, for sure, right? [chuckles] 
+
+Austin: Oh, a hundred percent. Yeah, Dina Dash is just Diner Dash. 
+
+Janine: [overlapping] Cobra Junction I don't know, but Diner Dash? [laughs] Yes.
+
+Austin: Uh huh, yeah.
+
+Ali: I...fuck. There was a specific tool that the Three Cheers has that I was going to describe, but I completely forget what this fucking thing is. You know that big tool thing where it’s like folded in half, but then there’s like, on the inside of it, there’s like a thing, and then if you squeeze it it’ll cut something off? Like a bolt cutter. 
+
+Austin: A bolt— 
+
+Ali: Is that what I'm thinking of?
+
+Austin: Is that what you’re thinking of? What do you mean squeeze—
+
+Janine: I mean, some pliers’ll do that too. They’ll have like a cutting…
+
+Austin: A bolt cutter just looks like...hmm.
+
+Ali: I mean, I think it...it’s what I'm describing, but if the cutting part was on the inside instead of the outside, right? Where it’s like this big metal stick...
+
+Austin: I see.
+
+Ali: And then when you fold it inwards, the blades are inside, so you squeeze it, and then something gets cut off. Do you know what I mean?
+
+Janine: Like a nutcracker but sharp?
+
+Ali: Yes.
+
+Austin: Like a sharp nutcracker. I got you. No, I get it. Yeah, that sounds dangerous to me. 
+
+Ali: [laughs] Yeah. So, I would like to have that thing in one of my mech’s hands. Oh yeah, it’s magnetic is the other part. [laughs]
+
+Austin: Okay. 
+
+Ali: So I think that you like— 
+
+Janine: Is this a giant switchblade?
+
+Ali: Basically. But in a way that you can...the Three Cheers can flick it open and then flick it back, right? And there’s like movement in the having to squeeze it, obviously, and to maneuver it and to do all of that successfully. But it also is a way to cut things off of other things. [laughs] 
+
+Austin: Right. Like, are you normally using this to like clamp stuff and hold it in place, but in this case you’re like, “I’mma cut it off.”
+
+Ali: Right. Yeah, yeah, yeah, exactly. Yeah. 
+
+Austin: Okay. Okay!
+
+Ali: So, I think it— 
+
+Austin: Declare that. That, to me, sounds like a melee weapon or two.
+
+Ali: Sure, yeah, I…
+
+Austin: So, yeah, mark that.
+
+Ali: Yes. But yeah, I think it’s the sort of thing of engaging in combat really quickly.
+
+Austin: Yeah.
+
+Ali: Like trying to avoid this flamethrower, and then...kind of springing that thing and then attaching it to the elbow the flamethrower’s on, if that makes sense?
+
+Austin: Hell yeah. Give me a 3d— or, give me a—
+
+Janine: And then making a charcuterie board.
+
+Austin: This is a battle, which you are not particularly good at, [Ali laughs] but this is definitely a battle. Right now, this is 0d6 for you. Do you want to push yourself? Do you want help? Do you want a collateral die?
+
+Ali: Yeah, I'm gonna push myself. That’s 2 Stress? For one more—
+
+Austin: It is not, 'cause you are in a mech.
+
+Ali: Oh.
+
+Austin: So we use one of your Quirks.
+
+Ali: Oh, sure. Sure, sure, sure.
+
+Austin: You’re doing— yeah, that stuff. So, you exhaust a quirk. Which one are you exhausting here?
+
+Ali: I think compactable limbs, and I'm gonna wait for the roll to describe how that goes.
+
+Austin: Okay, okay, sure.
+
+Ali: ‘Cause it could…be describable if it goes well?
+
+Janine: Can I aid?
+
+Austin: Totally.
+
+Janine: Can I aid with a Quirk? I don’t remember.
+
+Austin: No, you always aid with Stress. Which is one of the benefits of Stress. And one of the benefits of aiding is, even in a mech, you’re not burning through your Quirks that way. So that’s 1 Stress to help.
+
+Janine: Okay, I'll do that. 
+
+Austin: How would you like to help, and what...I guess, yeah, you’re burning...you said you’re burning compactable limbs, right? Yeah, okay.
+
+Ali: Mm-hmm.
+
+Austin: So, how are you helping, Thisbe?
+
+Janine: Um, I think… [chuckles] So, I think as Broun approaches and is drawing their weapon, I think Thisbe throws her head back and screams? Like, not a pain— just like a very loud, very alarming kind of...scream is the wrong word. It is probably closer to like an electronic bark or something.
+
+Austin: Okay. 
+
+Janine: It’s like—
+
+Austin: This is from Thisbe, not from Mow?
+
+Janine: Yes.
+
+Austin: Okay.
+
+Janine: You know, 'cause Thisbe’s on the outside anyway, so, you know—
+
+Austin: Yeah, yeah, yeah. I was just getting the right, yeah.
+
+Janine: That’s part of the spectacle to me, is…
+
+Austin: Yeah! Uh huh!
+
+Janine: Is Thisbe’s riding Mow and then throws her head back—
+
+Austin: Yeah.
+
+Janine: And her weird little watchspring horns are bouncing around and she makes this very sharp, very strange alarming sound—
+
+Austin: Mm-hmm.
+
+Janine: —as a sort of distraction.
+
+Austin: Alright. Yeah. So, take plus one to your roll, Ali. And then another one from spending your Quirk, so 2d6, Risky Standard. That is a 6!
+
+[2:00:02]
+
+Janine: Nice.
+
+Ali: Oh my god, thank god. It’s a 1 and a 6. ??? [Janine, Ali, and Dre laugh]
+
+Austin: It is a 1 and a 6! It is a 1 and a 6. That’s the part that I didn’t say, because I was excited about the 6. 
+
+Ali: Um…
+
+Austin: Um...go ahead. You tell me what this looks like. 
+
+Ali: [chuckles] Yeah, so, I think there’s a little bit of a mech spat here, kind of a punch back and forth and engagement.
+
+Austin: Yeah, definitely.
+
+Ali: And I think what happens is the Three Cheers sort of activates that thing and it like slips under the armpit of this mech.
+
+Austin: Yeah.
+
+Ali: And then it springs back, and then what the Three Cheers does is, because its legs can fold in half, it does that as it’s doing the crunchy part?
+
+Austin: Mm-hmm.
+
+Ali: So, the momentum of it falling helps the cutting, and then also if the mech is going for another punch or whatever and suddenly the head is like four feet lower than it should have been.
+
+Austin: Right.
+
+Ali: Or like, I guess if it’s like a 50 feet thing, it’s like 25 feet lower than it should have been. [chuckles] 
+
+Austin: Right, right, right.
+
+Ali: And it’s just like, “oh, you’re short now, and now I don't know what to do, [Ali and Austin laugh] because I was not expecting that to happen.”
+
+Austin: Right, totally. Love it.
+
+Ali: And because this is the first time this is on screen, I think that the maneuvering of the limbs is actually a really physical like hard thing to do. I think that like Three Cheers has sort of a standard cockpit, but it has...there’s like these levers on the wall, and it’s very much Broun having to stand up from their seat—
+
+Austin: Mm-hmm.
+
+Ali: —grab onto this thing, and then use their body’s momentum to push this thing down.
+
+Austin: Right.
+
+Ali: Yeah.
+
+Austin: Okay. As you do this and as you slam into Dina’s Wedge, it gets pushed back. You’ve chopped off the flamethrower part of it at least. You note that there is a third weapon here that...I'm trying to remember...Kenzi is she/her. Dina is they/them. They reach for it, which is, they have— both of the Wedges have large mech chainsaws, [Ali laughs] which is how they are clearing this space.
+
+Dre: Hmm.
+
+Austin: And so, with the other arm, produces one of these chainsaws and spins it back around themselves so that they clear out some trees behind them with this very, you know, wide sweep as if you’re sweeping a katana to make space, you know? Meanwhile, Cobra, in the other Wedge, in Wedge B, is pulling off to the east a little bit to get into the woods and make some distance as he brings to bear a big heavy machine gun, like a two-handed machine gun. He’s edging close to that line where the mines you’ve set up are, but he’s not there yet. He does begin to just lay down covering fire. Valence, you are still out of action right now. Or, not out of action, but out of the fray. What do you do?
+
+Dre: So, what I would like to do...one of the special gear I have on my vehicle is a fine social data retrieval program?
+
+Austin: Okay.
+
+Dre: Which is “a finely coded program that can expertly find details of any target’s personal life.”
+
+Austin: That’s wild. Okay. 
+
+Dre: I would like to try and...I don't know how this— 'cause now—
+
+Austin: I feel like…
+
+Dre: Hmm.
+
+Austin: You need to know who they are first, right?
+
+Dre: Well, I know who Kenzi is.
+
+Austin: [overlapping] You know Kenzi. Okay, but who’s Kenzi?
+
+Dre: [laughs] Fair.
+
+Austin: Uh, you could roll it! I'm not gonna say you can’t roll it. It’s just gonna be hard.
+
+Dre: But what I'm more thinking is that maybe I'm targeting Kenzi’s mech specifically and seeing if there’s any sort of information stored within that mech.
+
+Austin: I see what you’re saying. So you’re...uh, this is a thing you’ll have to close distance and physically connect to. There’s no like wi-fi hacking available here.
+
+Dre: Sure. Yeah.
+
+Austin: What there is is weird...the time that we go wireless is when ghosts get involved, you know what I mean? Like we jump from “I have to connect this big power brick to a thing” to “there are ghosts in the woods.” There’s no convenient wi-fi. There’s only spooky, scary wi-fi. [Dre laughs] But if you could get close enough and like did that. If you were trying to get information out of this person, that’s a thing you could definitely do.
+
+Dre: Yeah. 'Cause I think my goal here is to find something that I can use to pressure them so they just back off and leave.
+
+Austin: I see. Then...so, you are gonna close distance, then?
+
+Dre: Mm-hmm.
+
+Austin: And like try to connect to this thing. Okay. Give me a...you know what? There’s other things that can come out of this. I think there’s two rolls here? Or really what this is— that’s not true. Right now, it is desperate standard. Because you have to close the distance past this incoming fire that Cobra is putting down.
+
+Dre: Right.
+
+Austin: You could do a setup action to do that safely, but I do think that basically...basically what we’re looking at here is a desperate standard for Manipulate. Or, I guess, Scan. either one of them would be for the connect to the Obscura mech—
+
+Dre: Mm-hmm.
+
+Austin: —and try to get that information. But you can do a setup action and it’s a maneuver to increase your position.
+
+Dre: Okay.
+
+Austin: Or you could just take the desperate, but desperate is desperate. You know how that shit go.
+
+Dre: Right. I'll do the setup action.
+
+Austin: Okay!
+
+Dre: So, I'll try and do Maneuver. Can I burn...I can burn one of my Quirks to get an extra die, right?
+
+Austin: Absolutely!
+
+Dre: Okay. I'm gonna use foldable rotors here.
+
+Austin: Okay.
+
+Dre: I think because my mech is old and weird and uses rotors [Austin chuckles] it can move in some very strange ways. So I think there’s points where literally like half the rotors on one side just turn off, and so I tilt really weird—
+
+Austin: Oh, that’s cool.
+
+Dre: —to the left and just drop in ways that look very uncomfortable.
+
+Austin: Okay.
+
+Dre: So yeah.
+
+Austin: So yeah, give me a...what is your Maneuver again?
+
+Dre: 2d6 using that Quirk.
+
+Austin: Okay. So, give me a 2d6. I’ll say this is risky standard, ‘cause the point here is—
+
+Dre: Okay.
+
+Austin: —that you’re trying to maneuver in, and I'll honor the earlier engagement risky.
+
+Dre: You can’t push yourself in a vehicle, right?
+
+Austin: You can, but that’s burning your Quirk.
+
+Dre: Right, okay.
+
+Austin: You did that already, in this case.
+
+Dre: Yeah.
+
+Austin: Uh…[thinking sound] yeah. I could offer you a collateral die if you wanted one, but it is not like a...it’s an up to you thing.
+
+Dre: Eh.
+
+Austin: Yeah.
+
+Dre: We’ll save that for the after roll.
+
+Austin: Okay.
+
+Dre: Okay, 6!
+
+Austin: That’s a 6! You, again, close that distance. You’re like dodging between fire, and you get right up to the Obscura, which you see, at this point, Kenzi is trying to climb into in this moment, actually. As you kind of...I guess, do you like lower down and connect? Like what’s this look like?
+
+Dre: Hmm...okay. 'Cause I was thinking of maybe trying to use my enhanced comms here, as a way of maybe it can like...like, there’s no wi-fi, but now I'm close enough that I can almost have like a…
+
+Austin: Yeah. Totally.
+
+Dre: Like a private wireless network or something?
+
+Austin: Yeah, at this distance...like, mech to mech close quarters like this...the thing that, for people who are not watching our screen, people listening at home, Dre’s Hippocampus was like all the way across the beach, you know, twelve mech distances away or whatever, which is definitely too far for that sort of wireless connection. Where is your...what is your comms thing again?
+
+Dre: It’s one of my Quirks.
+
+Austin: Oh, it’s one of your Quirks. Totally! 
+
+Dre: Yeah.
+
+Austin: Yeah, you can push yourself for that. A hundred percent.
+
+Dre: Okay. Okay. 
+
+Austin: So then that would be Scan, right? You’re looking for information?
+
+Dre: Yeah.
+
+Austin: Yeah. Go ahead and give me a 2d6, then. I would give you a collateral die if you...I think the collateral die is actually really simple. You will take level 1 harm, or level 1 damage. The Hippocampus will take level 1 damage as Kenzie tries to get you off.
+
+Dre: Mmm.
+
+Austin: And get you away from the Obscura. But you’re like staying close enough to keep that connection tighter so you get more information or whatever.
+
+Dre: Okay. I'll take that.
+
+Austin: Okay. You can also then resist that, but that’s another conversation we can have after it happens.
+
+Dre: Great. Okay. 
+
+Austin: You roll this, and we’ll talk about what it looks like.
+
+Dre: Yeah.
+
+Austin: Because you could also totally fail this—
+
+Dre: Just fail. [laughs] 
+
+Austin: And then we get real, real consequences, so.
+
+Dre: Is this risky standard?
+
+Austin: This is risky standard, yeah, definitely.
+
+Dre: Okay.
+
+Austin: So, that’s plus 1 from the scan, plus 1 from the collateral die, and plus 1 from you doing the burning enhanced comms. So, 3d6, risky standard. That is another fuckin’ 6!
+
+Dre: Whoa. [laughs] 
+
+Austin: It’s a 3, 3, 6, but it’s a 6! Alright. So, tell me what you want out of this before I tell you anything bonusy.
+
+Dre: Hmm. Like, the scene I have in mind of if this goes perfectly—
+
+Austin: Which, it’s a 6, so.
+
+Dre: —is there’s something in here that I get, so when I put out a comm message to Kenzi—
+
+Austin: Mm-hmm.
+
+Dre: —she is just like “Who the fuck is this and how do you know this?”
+
+Austin: Right. This is like you know the name of their school, you know what they major, or like—
+
+Dre: Or, if Kenzi’s not their real name, what their real name is.
+
+Austin: It’s Kenz— yeah, I mean, that is true. Her name is Kenzington.
+
+Dre: Okay.
+
+Austin: Her name is Kenzington Be. No one calls her Kenzington. Everyone calls her Kenzi. So like, even having her name at all would be spooky and weird. You know that she is the commanding officer of the Columnar 301 Appraisal Unit. You know that she...you know, here is like the type of thing that’s like this is a personal thing that is not a deep invasion of privacy type thing. But you know that she used to be in the 21st Voluntary Composite Division, which is...the 21st Voluntary Composite is like the big army of Columnar here on the planet, like the big mech squad. And the 21st...she was going to be dishonorably discharged. I don't know that you know why. I don't know that I know why. But instead she kind of called in a favor and got demoted to this much smaller squad instead. So that’s a thing you know about her that she is ashamed of. 
+
+I'll also describe her, since I'm talking about her. She has...she is, in some ways, a minor version, a smaller version of the Three Cheers. She has...she’s a humanoid mech, or a humanoid person, but she can fold down her legs into tank treads, straight up, just like the Three Cheers can. But then she has like a long oval torso, like a sleek oval torso above that, and her treads are a little bit more round. And her head is a totally spherical head with dozens of little camera eyes all around the entire thing, so she’s always taking in a 360 degree or thereabouts view. Or more than that I guess, because there are more than 360 degrees when you add the third dimension. [chuckles] It’s all around her, like a complete picture of everything. So that is who she— and she’s in the mech at this point. 
+
+You should take a level one damage, 'cause of that collateral die. Let’s say singed? as what she reveals is in between those cameras inside of the beetle wings are little missile pods. And they’re not good at this range. You know, at a long range with a lock-on, she could have obliterated you, but at this close range, most of the missile warheads aren’t even engaged this close, you know, and so they’re like bouncing off of you. But a few of them ignite and do singe the Hippocampus, so go ahead and mark that down. I will say that you can resist that if you want to, but resisting stuff in mechs gets expensive quick. The way you resist in a mech is there’s no roll for it. You just basically take...you expend Quirks equal to the relevant action, which in this case would probably be Expertise. Or, sorry, I think it’s 6 minus that number? Or 4 minus that number? I'm gonna find it. [reading] “Unlike when a pilot resists, no dice are rolled for vehicles that resist consequences with Expertise or Accuity. Instead, a vehicle resisting a consequence must exhaust four Quirks minus the attribute rating being used to a minimum of one. For example, if a vehicle has at least one point in maneuver and battle, its expertise rating is two, so resisting with Expertise would require exhausting two Quirks.” That is, I think, literally what your situation is or near it? Or, no, you only have a one in Expertise. So you would need to exhaust three Quirks. You don’t even have three Quirks. You cannot resist this level one damage, so you are singed.
+
+Dre: Yeah. That’s fine.
+
+Austin: Alright. So, there’s something else you learn. I told you the big one, which is about how you can get under her skin. But with a 6, I'm giving you another thing, which is they noticed something...god, is it actually two different— I'm gonna give you an option. I'm actually gonna give you an option. You basically see...you have enough time to either clear their already taken photos and research which you know could lead other people to this region and, you know, they have traces of Hyphan footprints and shit like that, right?
+
+Dre: Mmm.
+
+Austin: Or you can...there’s absolutely a thing here that just says like “strange observations.”
+
+Dre: Oh, shit!
+
+Austin: And that, I'm gonna say, gives you an immediate benefit and also will be just a list of weird shit that we can return to multiple times in the future, and you can add that as a long term project that we come back to that is like shit—
+
+Dre: Austin!
+
+Austin: Uh huh?
+
+Dre: This isn’t even a question for me.
+
+Austin: Okay!
+
+Dre: Give me that weird shit!
+
+Austin: I'm giving you that weird shit. Alright, so that means— I just want to be clear, a hundred percent. That means she still has [Dre sighs] the records of— potentially has those records. 
+
+Dre: [conflicted, disappointed] Man.
+
+Austin: There’s other ways for you to go in and get that other stuff or make sure she doesn’t get out—
+
+Dre: Okay. Okay.
+
+Austin: —and stop, you know? And deliver this—
+
+Dre: Me—
+
+Austin: ??? 2:14:36
+
+Dre: Me, the player—
+
+Austin: Yes.
+
+Dre: Wants weird shit.
+
+Austin: I know.
+
+Dre: I think Valence the character would delete the photos and data.
+
+Austin: Damn, no weird shit. Okay! 
+
+Dre: Yeah.
+
+Austin: Look at you. This is how you get XP for playing your character. [Dre laughs] This is how you do the thing where you express your history, tragedy, or opening, you know? This is how you address a challenge with understanding or poise, which gets you XP. [Dre laughs] Alright, so yeah, you delete that stuff, and then the connection snaps as the Obscura manages to kind of step away from you and up past Mow and is trying to get away from all of you and is right up against this western ward which is a dangerous place to be. It hasn’t— you know, she hasn’t tripped the alarm yet, but she’s close. I mean, at this point, they’re kind of spread out. What do y'all do?
+
+[2:15:30]
+
+Janine: I think I have an idea of what to do.
+
+Austin: Okay! What’s up, Mow? Or, Thisbe. [chuckles] Sorry.
+
+Janine: So, the thing that I want to do is keep Kenzi moving, mostly.
+
+Austin: Okay.
+
+Janine: But Cobra Junction is also kind of vaguely in that direction.
+
+Austin: Yeah, Cobra Junction is laying down fire, so yeah.
+
+Janine: Especially relative to Mow’s size, so…
+
+Austin: Yes. That’s a good point.
+
+Janine: Yeah.
+
+Austin: I'll also just note...I haven’t brought this up, because I want to keep things flowing and I think that y'all have had such a good element of surprise in both of these missions, but I think at this point where it’s slowly becoming a fight instead of a massacre, [chuckles] the fact that they are a higher tier than you is something I'm going to start introducing as additional complication and challenge, which doesn’t change your— should not change your action, necessarily, but I just wanted to say it now, before I said, “Oh, and this is going to be, you know, limited because they have better armor than you,” or whatever, you know? It’s an element to the Forged in the Dark games that is important, and I also want the audience to know I haven’t forgotten about it. I'm just being a fan of the players. [chuckles] So, what do you do?
+
+Janine: So, the thing that I want to do...to be honest, is a little bit like the thing I did last time but in a slightly different way. I want Mow to advance towards Kenzi and Cobra but with the scary chew-up-y thresher—
+
+Austin: Ohh.
+
+Janine: —kind of chansaw-y monster arm?
+
+Austin: Yeah, yeah, yeah. Totally. 
+
+Janine: Swinging— I need to— [chuckles] Swinging back and forth in a wide arch in front of Mow—
+
+Austin: Uh huh.
+
+Janine: But like, directed into the ground
+
+Austin: Okay. like smashing shit up.
+
+Janine: So basically I want to throw up a bunch of fucking dirt and rocks and garbage—
+
+Austin: Mm-hmm. Mm-hmm.
+
+Janine: —at both of them.
+
+Austin: Yeah. This is labor. 
+
+Janine: In kind of a sweeping fan.
+
+Austin: I think this gives you your labor bonus, that style of thing, for sure.
+
+Janine: I don’t remember what my labor bonus does.
+
+Austin: It gives you a plus 1d—
+
+Janine: Oh.
+
+Austin: —anytime that you attempt to fulfill your purpose, which is labor.
+
+Janine: Nice.
+
+Austin: This is what this robot does. So, get a plus one to that. This is Destroy, though, for sure.
+
+Janine: Yeah.
+
+Austin: Right?
+
+Janine: Yes.
+
+Austin: I think we could argue about what your long term plan is, in terms of moving around— I guess that’s an important question, before I say anything else. What is the ideal result from a— if you roll a 6 here, what do you get?
+
+Janine: I think my ideal result is...Kenzi maybe gets pushed backwards towards our defense line?
+
+Austin: Mm-hmm.
+
+Janine: Our explosion line. Maybe also Cobra does. Like, it’s basically...mmm.
+
+Austin: I get you. I get— that’s the 6, yeah.
+
+Janine: It’s like, push them…it’s a lot of like big distraction, big also...making the situation very confusing—
+
+Austin: Yes.
+
+Janine: Making a huge fucking mess. [chuckles] 
+
+Austin: I think this would also impact Cobra’s ability to lay down this fire and hurt y'all—
+
+Janine: Mm-hmm.
+
+Austin: —and put you into danger, right? I will say that this is...because Cobra is laying down this fire, this is desperate standard.
+
+Janine: Mm-hmm.
+
+Austin: This is a scary thing that you’re...you’re like charging into gunfire, so yeah, 3d6. Do you want to push yourself? Do you want to get help, collateral, et cetera, et cetera, et cetera?
+
+Janine: I’d like to use a Quirk.
+
+Austin: Sounds good. So, take an— 
+
+Janine: ‘Cause I got that scary weapon.
+
+Austin: You do have that scary weapon. 4d6.
+
+Janine: So it just makes sense.
+
+Austin: Yeah.
+
+Janine: I swear to god, if this...I don’t even want to say it.
+
+Austin: Uh huh. Listen, it happens like this.
+
+Janine: It does.
+
+Austin: Is anyone helping, before you roll?
+
+Janine: Sometimes you gotta fuck up a streak. [chuckles] 
+
+Austin: Sometimes you gotta fuck up a streak. Desperate standard. Also, you take an XP for rolling desperate in Destroy.
+
+Janine: Is it...that’s like a specific—
+
+Austin: Yeah, I'll mark it. I got it.
+
+Janine: Okay.
+
+Austin: I'm right here. Boom.
+
+Janine: Alright, let’s do it. [sighs] 
+
+Austin: 4d6.
+
+Janine: Okay. There’s a 6 in there.
+
+Austin: That is a 6!
+
+Janine: That’s fine. [chuckles] 
+
+Austin: Hell yeah! Alright. So, this immediately...again, I think this is gonna get what you want. I think Kenzi is close, but not quite at the line. I'm going to...you know, here’s what I'm gonna let you do. When you get a success on a standard thing, you can...you basically get to advance a clock that you want to advance twice. Like, that is one of the ways that you can interpret a result. In this case, we have the Obscura clock at two. We have the bodyguards clock at two. The Obscura clock is two out of four. The bodyguards clock is two out of eight. So, much different clock distances. You could push Kenzi all the way back into this defensive line. Or you could push them both back a little bit. You tell me what you want to do.
+
+Janine: Um...so wait, what’s pushing them both back a little bit? Would that be one tick on each clock, or…?
+
+Austin: One tick on each. Yeah, one tick on each clock.
+
+Janine: Okay.
+
+Austin: Yeah, yeah, yeah. And that would also represent just Kenzi slowly losing control of the situation a little bit, you know what I mean? 
+
+Janine: Yeah.
+
+Austin: I think her clock more than...this is the thing about Forged in the Dark games, about Beam Saber, is that these clocks aren’t like health pools. It’s not like, oh, if you get to four, that means that Kenzi’s mech is destroyed. What it means is that Kenzi as an obstacle has been dealt with, which could mean that her mech is destroyed. But it could also mean that her morale breaks and she flees. It could mean that she waves a white flag and gives up. You never know, right?
+
+Janine: Mm-hmm.
+
+Austin: So, it’s flexible in this case. But it would mean pushing her dramatically towards the end of her being an obstacle.
+
+Janine: I think I'd like to take care of Kenzi and the Obscura, then, because...specifically because you mentioned that she has those…
+
+Austin: Oh, yeah.
+
+Janine: The missiles and stuff—
+
+Austin: Oh yeah.
+
+Janine: —and is now at a greater range, where [Austin chuckles] like that’s a real issue—
+
+Austin: Yeah.
+
+Janine: So I think I'd like to just deal with that. [chuckles] 
+
+Austin: Okay, so, do you just keep putting pressure on her and then charge towards her so that she steps back and back and back and then boom?
+
+Janine: Yeah.
+
+Austin: Okay. We get this—
+
+Janine: Like herding her, basically. [chuckles] 
+
+Austin: Yeah, exactly. Well, that’s the thing is like, you’re herding her, and you’re doing it without ever touching her, right? 'Cause you’re just like...you’re basically...Mow is tossing trees and shit around. [Austin and Dre laugh] 
+
+Janine: Yeah.
+
+Austin: Just wrecking the woods. You pass through that ward, but so quickly that it doesn’t set the ward off. You’re not like standing in that position for too long. So that would still be a concern, but you’ve moved quickly. And yeah, I think Kenzi just keeps retreating, keeps retreating, gets back to the path, and then I'm gonna give this to Ali, since, Ali, it’s your trap card that is being activated. [amused sound] What’s this look like as this kind of tank mech kind of retreats into the mine line?
+
+Ali: I think sparks?
+
+Austin: Okay. Lots of sparks.
+
+Ali: Yeah. Smoke? 
+
+Austin: Uh huh. 
+
+Ali: [laughs] I don’t think it’s like a—
+
+Austin: Is it loud?
+
+Ali: Uhh...probably.
+
+Austin: Is it bright? It’s bright. The lights are—
+
+Ali: Yeah, I think it’s one of like— yeah. It’s one of those— like, have you been— 
+
+Janine: Is it boomy or like sizzly?
+
+Ali: I think it’s boomy, 'cause it’s like...have you...like, when...have you ever lived near an electric thing and the electricity goes out—
+
+Dre: Mm-hmm.
+
+Ali: —in your neighborhood?
+
+Austin: Mm-hmm.
+
+Ali: And it like makes a noise. [laughs] 
+
+Austin: Yeah.
+
+Ali: There is a noise that happens. [PARTIZAN theme music begins in background] And I think it’s sort of like that sort of thing. I think it’s a heavy like brrrr.
+
+Austin: Yeah. And I think we get just a great little...I almost said animation, but like, it would be. Of all of the Obscura’s beetle wings, the two big beetle wings opening up, and then you can see the camera pods. They’re dying to be launched, and they all kind of just like [rapidly] duh duh duh duh duh duh! Like almost stutter their way inside of those pods, and the wings are kind of shaking a little bit, and then just goes like [powering down sound] and shuts down. [music plays out to the end]

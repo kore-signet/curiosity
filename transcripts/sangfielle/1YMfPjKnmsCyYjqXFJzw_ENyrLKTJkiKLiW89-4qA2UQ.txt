@@ -1,0 +1,3804 @@
+Sangfielle 17: What Happened at Bell Metal Station Pt. 1
+Transcriber: robotchangeling
+
+
+Austin: Sangfielle is a series that draws on elements of dark fantasy, horror, and gothic fiction. As such, a list of content warnings will always be made available in the episode description.
+
+[Music begins: Sangfielle by Jack de Quidt]
+
+Austin (as narrator): Some stories—and, to be honest, some of my very favorite ones—are simple at the end of the day. There’s a beginning, a middle, and an end. There’s heroes and there’s villains, and there’s little in between except for space soon taken by blades, bullets, and bards exchanged. These stories don’t have the texture and nuance of the so-called literary mode, but they are comforting. How couldn’t they be? Their worlds are simple, confident in themselves. There are good guys and evildoers and third parties defined mostly in the way in which their lives are at stake. Hell, even when the heroes lose in those stories, it’s...it’s, well, like I said, it’s loss. It’s open and shut. It’s easy to understand. But we here at the serialized almanac of the Heartland Rider are not fabulous nor peddlers of fiction. Now, I don't hold a grudge against purveyors of the imagined or hypothesized, but we are here to tell it as it is. To tell the truth. And the truth is that it’s not so simple, or at least I don't think it is. This world is a mélange without recipe. You can taste it and tell me after the fact whether you think it’s thyme or oregano, cinnamon or something hotter. But you cannot look at the thing as it lies on the plate and know in truth how it was flavored. In fact, the world is a whole damn meal of untraced providence, a prime cut from pedigree unclear, dressed with greens soft in color but otherwise unrecognizable. All of which I mean as a preface to and a priming for an account that is complex in character, diluted in piquancy and murky in the final state of things. There are heroes, and there are villains, and there are people in between, but I am not sure that there is much comfort here. And if there is a world laid bare for us in the pages that follow, I can tell you this one thing for certain: it is anything but confident in itself.
+
+Austin: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am your host, Austin Walker, and joining me today, Jack de Quidt?
+
+Jack: Hi there. I'm Jack. You can find me on Twitter at @notquitereal and you can buy any of the music featured on the show, at notquitereal.friends— [pauses]
+
+Austin: Buh— 
+
+Jack: At notquitereal.bandcamp.com.
+
+Austin: [chuckles] Okay, there it is. Keith Carberry.
+
+Keith: Hi, my name is Keith J. Carberry. You can find me on twitter at @keithjcarberry, and you can find the let’s plays that I do at youtube.com/runbutton. We’re about to finish a Metal Gear Solid, which is one of our free ones, and then we’re also about to finish Shenmue 2, which is on our Patreon, which contentburger.biz. You should watch those.
+
+Austin: Yeah, have you announced what the next Patreon one is going to be yet? Or is that TBD?
+
+Keith: Uh...I'll say it here, because I don't mind. I think that we’re gonna do KOTOR 1.
+
+Jack: Ooh!
+
+Austin: Damn, exciting.
+
+Keith: I think we are.
+
+Art: Oh.
+
+Jack: That sounds great.
+
+Austin: It’s a good game. I like that game.
+
+Keith: Yeah.
+
+Austin: Yeah. Finally, you already heard the voice, Art Martinez-Tebbel is joining us.
+
+Art: Hey, you can find me on Twitter @atebbel, and if you are interested in getting any of the stuff from our most recent Fangamer drop, there’s going to be a restock either in the recent past, the present, or the future. [someone laughs] 
+
+Jack: Oh, interesting.
+
+Keith: Wow. So, we’ve got our bases covered on when it might happen.
+
+Austin: One of those three. Yeah.
+
+Art: Depending on when you hear this. If you hear us far enough in the future—
+
+Keith: Right.
+
+Art: If you’re listening to this in a couple years, it’s over.
+
+Jack: Yeah.
+
+Austin: Right.
+
+Keith: Yeah.
+
+Austin: But if you hear this near when it comes out, it will be one of those.
+
+Art: Yeah.
+
+Keith: Check again just in case there’s a different thing happening.
+
+Art: Yeah, if you’re listening to this in the far future.
+
+Austin: Oh, the season nine merch is killer.
+
+Art: See what’s going on, yeah. [Jack laughs] 
+
+Austin: Who even knows?
+
+Jack: God, season nine. What season are we on now? Seven?
+
+Keith: Seven?
+
+Austin: Seven, so...
+
+Jack: Ah, season nine might be fun. I don’t really know what that is.
+
+Keith: Yeah.
+
+Austin: I don't know what season nine is. Uh, I guess I have a very loose idea. I don't know what game it is.
+
+Keith: You think it’s gonna be fun?
+
+Austin: I mean...maybe!
+
+Art: Well, there’s a chance it’s just Sangfielle 2, right?
+
+Austin: That’s the chance, yeah. There’s a chance it’s this world again, even if it’s not Heart, even if it’s not these characters.
+
+Jack: Does the music sound very easy to accomplish?
+
+Keith: Yeah.
+
+Austin: Yeah, you’re just kind of snoozing through it, Jack, honestly.
+
+Jack: Oh, great!
+
+Austin: I'm not saying you’re phoning it in. You’re doing a good job, but you’re like, eh, this ain’t a problem.
+
+Jack: Yeah, yeah.
+
+Keith: It’s gonna simultaneously be our best and easiest season on all fronts.
+
+Jack: Holy shit!
+
+Austin: Wow, okay!
+
+Art: Wow.
+
+Austin: Today we are playing Heart: The City Beneath by Grant Howitt and Christopher Taylor. Our goals are to ask questions instead of planning; evoke an atmosphere of wonder, horror, and humanity; to build and break tension; to pay attention to what everyone at the table wants, both long- and short-term; and to play to find out what happens. Let’s start by doing that last...or, not that last one. Let’s start by actually doing number four here. Let’s go over beats, character beats, as one way of thinking about what players are looking for long and short term. Duvall, let’s start with you. What are your beats?
+
+Art: Great. My beats are “Acquire a renowned piece of equipment,” and—
+
+Austin: Which we believe is a painting that you’re now on the hunt for.
+
+Jack: It’s this cursed painting, right?
+
+Art: Yeah, we’re gonna get a…
+
+Jack: It’s a spooky painting?
+
+Austin: Yeah, uh huh.
+
+Art: [laughing] It’s a spooky painting.
+
+Keith: I think all paintings are spooky to some degree.
+
+Austin: True.
+
+Art: We’ll come back to that. And “Destroy evidence or rhetoric that proves your task to be impossible.”
+
+Austin: And that one’s a minor?
+
+Art: That’s a minor. Honestly? I'm giving him a lot for a minor on that one.
+
+Austin: Yeah, yeah.
+
+Art: I guess it depends what their definition of evidence or their definition of— 
+
+Austin: I mean, if you like rip some posters down.
+
+Art: Yeah, yeah.
+
+Austin: Right? I guess “evidence or rhetoric,” those are...rhetoric is loose.
+
+Art: To destroy rhetoric feels like I have to kill a society.
+
+Jack: [chuckles] What the— 
+
+Austin: No, I think they mean individual— they mean pieces of. I don't think they mean…
+
+Keith: I think you gotta find a debate club.
+
+Austin: You gotta beat the shit out of ‘em. Anyway, let’s keep going. Lye, what are your active beats?
+
+Keith: My active beats. Minor beat: “Charm someone with tales of your exploits.”
+
+Austin: Mmm.
+
+Keith: And major beat: “Successfully perform a dangerous action that saves the day.”
+
+Jack: Whoa!
+
+Austin: Exciting.
+
+Keith: Yeah, it’s a big one.
+
+Austin: That’s a big one. That’s major, yeah. Pickman.
+
+Jack: I have a minor beat which is “Find a heart-touched sapling on a delve and bring it back to a haven for planting.”
+Austin: Hmm.
+
+Jack: And I have a major beat which is “Meet and learn from an emissary of the Heart.” I met an emissary of the heart.
+
+Austin: You did.
+
+Jack: It seems to be a woman and her train. I did not learn from them.
+
+Austin: Not yet, at least, right? But speaking of that woman and her train, that was Chantilly Scathe, you may recall. She was the...not really the engineer of, more the…
+
+Keith: Ringleader?
+
+Austin: She had a ringmaster vibe, right? Yeah. 
+
+Keith: Ringmaster, that’s the word I'm looking for, yeah. Ringmaster. 
+
+Austin: Yeah, but that wasn’t really it either. More like the...
+
+Jack: She’s the fuckin’ person of the train. She’s like what if a train could output a person.
+
+Keith: Emissary?
+
+Austin: An emissary of the heart, yeah.
+
+Jack: Yeah.
+
+Austin: Uh huh. An emissary of the Shape.
+
+Keith: Oh, right. It was in there already.
+
+Austin: It was in there.
+
+Keith: I thought I thought of emissary, but I had just heard it twenty seconds ago.
+
+Austin: Uh huh. Speaking of her and her shackled train, the Grand Cormorant Limited. The last thing that your characters...the last time your characters were in the game was during our downtime. At the very end of that downtime, Dre’s character Chine had taken a little nap, had taken a lil snooze and had a weird dream and was woken from that dream by a shout as someone said that the egg sac was gone. You may recall this. For people who’ve listened to the previous arc, they will know that your crew, the Blackwick Group, was woken up in a start and hustled over to the point at which it was found missing. The people who were guarding it had been clubbed, knocked out, and the big egg sac itself had gone, had been taken away. Half of the Blackwick Group went up into the mountains, because there were some footsteps in the area, some tracks that led up towards the mines and above. But there was something else that happened soon after that egg was found missing, which is that the Grand Cormorant Limited left, heading east first and then south into the night. In the middle of the night, we’re talking about like 3 a.m. hours, right? Unannounced, you know, supposed to probably stay another day, but did not, left in the middle of the night. And so while the other group is off tracking down that egg sac up in the mountains, y'all have been asked to go try and track down that train which is heading south. Which, I know Art, you’re looking for— or, Duvall, you’re hoping to get to Sapodilla. Sapodilla is to the south. Maybe it went to Sapodilla.
+
+Art: Mmm.
+
+Austin: Maybe going on a train excursion is an excuse to go look for your painting.
+
+Art: I tell you, we’ve really drilled all of the useful stuff out of trains.
+
+[Timestamp: 0:10:00]
+
+Austin: [chuckles] It’s true.
+
+Keith: I feel like this is a train-heavy season. I think it’s built in. [Jack chuckles] 
+
+Austin: It is built in.
+
+Art: Yeah, but if you don't know where the tracks go, the train’s a lot less useful. [Jack laughs] 
+
+Austin: Well, in this case...and I think the person who knows this most quickly is Pickman. You don’t know where it’s going, but if it’s going south, chances are that the people who will know where it went are the Bell Metal Band. The Bell Metal Band are one of these loose Shape Knight gangs, which is—I just realized y'all were on the wrong page—here to the south in Sangfielle a few tiles away, kind of right at the intersection of the middle of the Shape.
+
+Jack: Oh, huh.
+
+Austin: You can see the Shape here, these black lines. These are the major arteries of the Shape, let’s say. And right where the one that goes from the top left to the bottom right and the one right in the middle going up-down, where those meet is a station called the Bell Metal Station. Called such both because there’s a big bell at the very top and also because the station itself was made of this very sturdy bell metal, or at least the outside of it was. [Art laughs] And you know that there are...you’re in the party, Pickman, so I guess I'll ask you. How much do you know about the various bands or gangs of Shape Knights out there?
+
+Jack: The ones that are this close to us comparatively I know much more about.
+
+Austin: Mm-hmm.
+
+Jack: Than the ones for example out by old Roseroot.
+
+Austin: Sure.
+
+Jack: I think I have a pretty good idea of some that are up towards the second canton, just because that’s where I come from.
+
+Austin: Right, where you’re from. That makes sense, yeah.
+
+Jack: And I've definitely gone back in a couple of times undercover.
+
+Austin: Yeah.
+
+Jack: Stuff on the eastern side of the mountain range I'm a little less confident about. But yeah— 
+
+Austin: Or, the western side?
+
+Jack: Uh, yeah, the western side.
+
+Austin: Yeah.
+
+Jack: Yeah, the western side.
+
+Austin: Totally. And in many ways that is the area least controlled by the Shape.
+
+Jack: Yeah, absolutely.
+
+Austin: The Shape does not reach that far in that direction. It does a little bit, but at this point at least, it has not extended. I guess as far as you know.
+
+Jack: [chuckles] Yeah.
+
+Austin: You haven’t been out there, right?
+
+Jack: Nope!
+
+Austin: I guess you went out to the wet god’s temple which is out to the west, but that’s kind of it.
+
+Jack: I think it’s just like, you know, Pickman at the spa levelling a pair of binoculars in the distance [Austin chuckles] and just seeing the smoke from a smokestack moving and being like, “Yep. Trains’s out here. ‘Bout what I expected.”
+
+Austin: Yep. That’s where it’s supposed to be. Yep. Mm-hmm. So, the Bell Metal Band runs this station at this crossroads of two of the major Shape tracks, the Shape lines. And the thing that they basically do...you know how in Americana stories you get the thing of teenagers or twelve-year-olds, somewhere, you know, young teens throwing snowballs at passing cars or flickin’ pennies at trains, that sort of thing?
+
+Jack: Yeah. 
+
+Austin: They do a very advanced version of that. They have built this structure that is sort of like a train roundhouse, built around the tracks, from which they can take scrapings of passing trains, from which they can snipe at passing trains or drop big heavy anvils on them to try to knock something off the side. And then when something gets knocked off the side or when they manage to scrape some paint away, they study it. They are equal parts vandals and scientists, the Bell Metal Band. They have kind of a reputation for being weirdos, because of how they are weirdos.
+
+Keith: Mmm.
+
+Austin: And you suspect that if Chantilly went south, she would either be on this main road, close enough— or, not road, on this main track. Close enough to the main track that if you could walk it you would catch up with her eventually, if she’s stopped out at some other station, and see her in the distance or see some residue of that train itself. Or would have passed through the Bell Metal Station, at which point you can get a direction and be told, yeah she kept going south, yeah she went west, yeah she went towards Sapodilla to the east, et cetera. So that, I think, is probably your first idea, in terms of hey if we gotta track this train down, that’s the way to do it.
+
+Jack: Yeah. Is this the nearest major station to Blackwick?
+
+Austin: So, the answer is no, but, I mean, define major station, right? 
+
+Jack: I mean, Blackwick has its own station—
+
+Austin: Correct.
+
+Jack: But it’s just probably a single platform thing.
+
+Austin: That’s right, yeah.
+
+Jack: And the way you’re describing Bell Metal sounds like it’s right at this intersection. It sounds like they’ve built this whole situation.
+
+Austin: Mm-hmm.
+
+Jack: I think I'm counting a major station as anything with more than two platforms?
+
+Austin: Right.
+
+Jack: Or with a specific reputation among the Shape Knights. 
+
+Austin: Yeah. So, the closest one is Yellowfield, probably, which is still a single platform, but it sees a lot of action because of all the candles that get shipped in and out of it.
+
+Jack: Oh right, yeah.
+
+Austin: But it’s not a destination station, right? Bell Metal is also not a destination station. Like, I'll tell you right now, Bell Metal Station doesn't have the haven tag, right? But it is a landmark in the most non-gamey sense. You know when you’re on a train, you take a train somewhere and you’re like oh we’re passing that old power station or whatever, you know that old power station.
+
+Jack: Uh huh.
+
+Austin: Bell Metal Station is sort of like that for people who take that northwest-southeast line. It’s super familiar. You pass through it often. It’s been there for years and years at this point, and so it’s a very familiar sight. The nearest station that is...there’s sort of a ghost station. Actually, maybe this is...this is the thing you do. I'm not going to make you roll for this. Last Rest, which is the abandoned town to the east, just past the lake to the east of Blackwick, called such because that was where the now-Sunken Empress Altapasqua last rested before heading west into the lake and then never coming out again. That town has long since become abandoned in the last 150 years or so, but there is a full, pristine train station there that trains arrive at, stop at. The doors open and shut. They wait as if someone is gonna get on. Someone never gets on, because no one lives there. Last Rest is a desolate place, literally in game terms. But that’s the nearest station. In fact, that’s where the train line...so, the train line in Blackwick goes east, over the lake—not over, to the north of the lake—curves around the north of the lake, and then connects to this big north-south vein. That is the direction that it goes in, and so that is the way in which...if you were like what’s the closest other big station, that would be the one, the Last Rest station.
+
+Jack: Hmm.
+
+Austin: You could also...so, one thing you could do here is go to Last Rest, right? Maybe another train will pass by, you’ll get a ride on that. Maybe you can find out maybe she didn’t go south, maybe she went north. Eh, you know she went south. People saw the lights across the river going south, right? So I'm gonna commit to giving you that.
+
+Jack: But it might be quicker to walk to Last Rest and take a train south to Bell Metal than try to hike all the way to Bell Metal on foot?
+
+Austin: You could also hike to Bell Metal on foot. Both of these are options to you. That’s why I've used this tileset to build a loose map there. Walking across the desert there would be a longer trip, assuming you get a ride at Last Rest, right? That’s the assumption. That’s the bet you’re making here, right? Do you want to walk there and hope you catch a train or do you just want to try to walk straight south to Bell Metal as it is, you know? Or from Blackwick to Bell Metal as it is.
+
+Jack: [chuckles] Austin is adding these little train hexes that look like Pipe Dreams tiles. [Art laughs] 
+
+Austin: Yeah, there’s a whole...Heart comes with these if you buy it digitally.
+
+Jack: Oh, that’s great!
+
+Art: Mmm.
+
+Austin: There’s a bunch of them that I haven’t used, because we’re not...in Heart, the city goes down, and so you get these great ones that are these spiral staircases going down or these broken stairs, which are fantastic, but we’re not literally going down by tier. Our tiers are less consistent than that.
+
+Keith: I say we take the train. 
+
+Art: Yeah, I feel like…that’s more fun.
+
+Keith: Walking that whole way, feet hurt.
+
+Austin: Mm-hmm.
+
+Keith: No thank you.
+
+Austin: Alright.
+
+Jack: I think Pickman is grumpy from having been woken up by all this thing.
+
+Austin: Yes, yes.
+
+Jack: And she just says:
+
+Jack (as Pickman): I can get you on the train.
+
+Jack: Like, looking out towards the east in the direction of Last Rest.
+
+Austin: Yeah. Is there anything anyone wants in Blackwick before you move on? Before you start heading east.
+
+Keith: I think I want to heal some mind stress.
+
+Austin: Okay. How do you want to go do that before you leave?
+
+Keith: We have...there was a place to do that, right?
+
+Austin: Yeah, there is. I want to say the automat. You just go hang out in the automat, shoot the shit, et cetera.
+
+Keith: Yeah.
+
+Austin: And normally I'd be like, well it’s not open, but it’s an automat, so the idea of you hanging out with your friends at the— 
+
+Keith: It’s an automat. It’s an automatic mat.
+
+Austin: Yeah. So, before you leave, the crew goes to the automat. I want to say— 
+
+Keith: Oh, I guess— 
+
+Austin: Hmm?
+
+Keith: I was thinking, I said automatic mat, but I bet “mat” is still part of automatic. [Jack laughs] There's just not a shortened version of restaurant. 
+
+Austin: Right, it’s in there, yeah. It’s just automat, I guess, huh. Weird, no etymology section on the automat wiki page.
+
+[Timestamp: 0:20:00]
+
+Keith: On the automat, yeah. 'Cause it’s not automatrest. Automatorant. 
+
+Austin: Automato— right, exactly. It’s not that.
+
+Keith: Sounds like a minor mountain range.
+
+Austin: Oh, it’s a German word originally. That’s interesting.
+
+Keith: I buy that.
+
+Austin: Anyway. Yeah, the automat is there, and that is a...let’s see here. D6.
+
+Keith: Is laundromat German? I don't know.
+
+Austin: It’s a d6 dining hall. You just have stress, you don’t have…
+
+Keith: No damage, just stress. Or, no fallout, just stress.
+
+Austin: No fallout, right? How much stress do you have?
+
+Keith: Three.
+
+Austin: Okay, so what are you spending to...what are you trading here for automat access?
+
+Keith: [sighs] 
+
+Austin: You got some resources going here.
+
+Keith: Yeah, I just like ‘em all.
+
+Austin: Yeah, I get it, but you gotta pay.
+
+Keith: Yeah, I gotta pay. Uh, well...I have that religion driftwood. I don’t remember— oh, that’s from…
+
+Austin: That’s from Erlin, yeah.
+
+Keith: Right.
+
+Austin: Yeah. You just leave that very nice driftwood.
+
+Keith: Maybe there’s something else. I don’t really want to spend that. Oh, you know what I have? I have the nun’s candles.
+
+Austin: Uh huh.
+
+Jack: Oh my god!
+
+Keith: I'll spend those candles.
+
+Austin: So that means you’re only gonna get up to d2 back.
+
+Keith: Yeah, that’s…
+
+Austin: It might be only one back.
+
+Keith: Yeah. Maybe I do want to do something else. I guess I'll do the driftwood. I feel a little bad about it, but I'll do it.
+
+Austin: [chuckles] This is the thing that happens when— 
+
+Keith: I'm not gonna do the Genburi statue.
+
+Austin: Sure, uh huh. There has to be some sort of night attendant at the automat. There’s probably some miners in here at this point, right?
+
+Keith: Yeah.
+
+Austin: Who are coming off their shifts or getting ready to go on their shifts. Or, not their shift, because they’re not salaried employees, but you know, their delves basically into this thing. And they’re in here talking about this or that with each other.
+
+Keith: Mm-hmm.
+
+Austin: But there’s probably some sort of night manager at this place. You just hand over this driftwood?
+
+Keith (as Lyke): [resigned] Yeah. It’s not...the thing I want is a little more, but I don't really want to spend like that.
+
+Austin (as night manager): No, this is good. It’s good. Good wood.
+
+Keith (as Lyke): Alright.
+
+Austin: Takes it from you.
+
+Keith (as Lyke): I know it’s good wood.
+
+Austin: Puts it in a...there’s a bunch of cubbies on the attendant’s side underneath the counter.
+
+Keith: Yeah.
+
+Austin: Just slots it into one of these cubbies. Go ahead and roll me d4.
+
+Keith: Okay.
+
+Austin: And erase that driftwood.
+
+Keith: A one, great.
+
+Austin: Oh, brutal. Brutal!
+
+Keith: So, I get my meal that I'm not satisfied with, and I'm still... 
+
+Keith (as Lyke): I know that it’s good wood. I guess it’s not really fair, but I wish I had something that was worth more but also that I liked less, which is kind of hard...I mean, I get why that isn’t the case.
+
+Austin: [chuckles] Uh huh. Yeah. 
+
+Austin (as night manager): Mmm. Mm-hmm. Yeah.
+
+Austin: And just is not making good conversation with you, which is part of why this doesn’t clear more stress.
+
+Keith: Yeah.
+
+Keith (as Lyke): There’s a lot of pepper on this. I like pepper, but this is a lot of pepper.
+
+Austin (as night manager): [not paying attention] Yeah, pepper’s on the counter.
+
+Keith (as Lyke): No, it’s too...it’s already got pepper.
+
+Austin: He’s like yelling at you now from behind the automat selection, you know, the slots that you can withdraw your sandwich from or whatever, the glass and metal.
+
+Keith (as Lyke): It seems like a layer of pepper instead of just a dusting.
+
+Austin (as night manager): [distant] We don’t have dust. Pepper and salt are on the counter.
+
+Keith (as Lyke): Okay. Yeah. Egg salad, got it.
+
+Austin (as night manager): No, your other side. That’s a table— no. Okay, forget about it. 
+
+Austin: Gets back to prepping sandwiches or whatever. Anyone else want to do anything before we leave Blackwick?
+
+Jack: I'm gonna write a note in charcoal— 
+
+Art: Mmm.
+
+Jack: —on the wooden front door of the Blackwick company’s place. I'm gonna write: Marn and co., comma, gone to last rest, comma, looking for Grand Cormorant, comma, Pickman. In case they get back before us.
+
+Austin: Sure, totally.
+
+Jack: And want to know where we’ve headed.
+
+Austin: Alright. You know, I think as you leave...actually, Duvall, do you have anything you want to do before we take off?
+
+Art: No. I mean, I feel like I should, but I really feel like I got my stuff covered in the downtime, but everyone else did something…
+
+Jack: [chuckles] You could just write “Duvall” under Pickman’s note. [Austin and Keith laugh]
+
+Art: “Also Duvall.” Very Shawshank Redemption here.
+
+Austin: [chuckles] Yes. Keith, what’s up?
+
+Keith: I just kind of have a lot of stress right now, and I think before I leave, I want to grab something with my candles to just get another roll.
+
+Austin: Okay. You also want to spend...
+
+Keith: Yeah.
+
+Austin: Yeah, go ahead and roll those candles. Roll that d12.
+
+Keith: D2.
+
+Austin: Or, d2. D2. I wish it was 12.
+
+Jack: 12.
+
+Austin: God.
+
+Keith: One. Okay.
+
+Austin: Another one. Okay, well, that one, you know.
+
+Keith: So I went down from a total six to a total four.
+
+Austin: That’s meaningful. That’s meaningful.
+
+Keith: Yeah.
+
+Austin: You’ve also dodged— 
+
+Art: You’ve made me feel better about leaving with total two.
+
+Austin: Yeah, you’ve dodged a lot of fallout at this point, so.
+
+Keith: I have. I have really dodged a lot of fallout.
+
+Austin: You’ve never...have you gotten fallout ever?
+
+Keith: None. Zero. 
+
+Austin: Yeah, okay. As soon as you hand this candle over, I think the attendant just lights it and puts it into a sconce that’s right there.
+
+Keith (as Lyke): Nice sconce.
+
+Austin (as night manager): Thank you. Have a good delve into the mines.
+
+Keith (as Lyke): [sighs] You too. I mean— sorry. You know what I mean.
+
+Austin (as night manager): Uh huh. 
+
+Austin: And you’re off. The route here— 
+
+Jack: What time is it?
+
+Austin: It’s like 4 a.m. 4:30 now, maybe, because of the automat stuff? You know, the sun will be up in a little bit, but it’s still dark. It’s cold out. It’s like that...actually, that’s not true. It’s probably humid out, because you’re next to this lake, right? Lakes feel like around them would be pretty humid.
+
+Jack: Mist.
+
+Austin: Yeah.
+
+Keith: Little bit of fog.
+
+Jack: Wading birds coming in to try and get the worms and little fish in the morning.
+
+Austin: Yeah. And you know, I think you can hear...as you walk away from the town, you can hear the sounds of pickaxes up in the hills. People mining for things, people yelling, going about their work. And it’s such a quiet...it’s the exact quiet hour, you know? The majority of people are asleep still, and so every little sound is that much heavier. This is a delve. It’s gonna be a short delve, going from Blackwick to Last Rest. Are you just walking the train line between the two? Or are you finding some other route? Are you walking the shoreline? What is the plan?
+
+Art: Mmm.
+
+Keith: I like to walk a train line. That’s a vibe.
+
+Art: Yeah, it’s very 80s horror vibe, right?
+
+Austin: Mm-hmm.
+
+Jack: Yes.
+
+Art: Or am I getting...I'm getting some movies mixed up. [chuckles] 
+
+Keith: It’s horror vibe, it’s coming of age movie vibe.
+
+Austin: Yeah, are you—
+
+Keith: None of us are coming of age, but it is that.
+
+Austin: No.
+
+Art: All of us are coming of age.
+
+Austin: Wow. Makes you think.
+
+Art: I think it makes you think.
+
+Austin: [laughs] So yeah, who wants to take the lead here on an initial roll? I think just in general, to set up what the difficulty of this task is, is what Jack already said. You’re tired. This is not what you...you kind of are in the downbeat from your previous adventure still. You don’t want to go hunt down this egg sac by chasing a train at 4 a.m. in the morning, you know?
+
+Keith: It’s not my hour.
+
+Austin: It’s not. It’s not.
+
+Keith: Lye Lychen is an eleven a.m. kinda guy.
+
+Austin: A hundred percent. I feel like that’s exactly right for Lye and also me. [Jack laughs] Lye and I are aligned in this.
+
+Keith: Yeah.
+
+Art: Well, I mean, I think I'm the perfect person to do the delve then, because I can delve while sleeping.
+
+Austin: Oh! Sure. You gonna use your apis ambulation here?
+
+Art: Yeah, uh huh.
+
+Austin: What’s that— read me that again?
+
+Art: “Gain access to the delve skill. Once per session—” so we gotta be sure we want it.
+
+Austin: Yeah.
+
+Keith: Okay.
+
+Art: “While on a delve, you an opt to fall asleep and let the bugs inside your body steer you. In this state, the bugs speak for you and perform actions on your behalf. Roleplay accordingly.” Feels a little accusatory, rules text. [Jack laughs] 
+
+Austin: Uh huh.
+
+Art: “The GM can use fortune fallout to represent your inhuman pilots.”
+
+Austin: Uh huh.
+
+Art: “Assuming you get a few hours rest and progress on the delve, refresh d6 from any of your resistances.” I don't think I have any resistances.
+
+Austin: They mean your stresses, your supplies.
+
+Art: My stress, oh.
+
+Austin: Yeah, yeah, yeah.
+
+Art: I can get some—
+
+Austin: You can heal the rest of—
+
+Art: I can earn money doing this? [Jack and Art laugh] 
+
+Austin: Well, it’s like you’re...in this case, I think getting supplies back would be like, while you sleep, the bugs are remaking shit for you in your pack. They’re like, oh yeah, your hammer’s damaged? We’ll just wax together a new one.
+
+Art: Mmm, that’s good. I just took a new skill that lets me synthesize new things from wax and bone.
+
+Austin: Okay, so perfect. So it’s exactly that, then, if you wanted to do that.
+
+Keith: Whose bone?
+
+Art: I think mine? [Jack laughs] It says extruded bone.
+
+Austin: Eeugh. 
+
+Jack: Oh, yep.
+
+Keith: Ugh, yeah, that’s yours.
+
+Jack: I think that’s yours.
+
+Austin: Yeah. Don’t worry about it, I guess. My only note there is, d6 and you only have two stress. Is that what you want? But I guess also we just saw Keith roll to heal, and who knows, you could roll a one.
+
+Keith: Yeah, I rolled a cheap d6, where the minimum was two.
+
+Austin: Mm-hmm.
+
+Keith: And that’s what I got. 
+
+Austin: And you got that.
+
+Keith: I rolled a d2 and d4, and I got two.
+
+Austin: Yeah.
+
+Art: But how many delves could possibly happen?
+
+Austin: That’s true. I should say, this is wild and desolate.
+
+[Timestamp: 0:30:01]
+
+Art: Mmm, I don't have those.
+
+Jack: I have desolate.
+
+Austin: Okay, well, you have delve.
+
+Keith: Okay. 
+
+Art: Great.
+
+Keith: So maybe Pickman.
+
+Jack: But I’m fucking tired. [sighs] Pickman is a—
+
+Austin: But not literally, because we know what tired means in this game, because Pickman was.
+
+Jack: Oh, yeah, no. Pickman wakes up at 6:30 on the dot with a cup of coffee.
+
+Austin: Mmm.
+
+Jack: And just like some bread. And this is three hours before that.
+
+Keith: How do you have the coffee before waking up? [Austin chuckles] 
+
+Jack: That’s not...that’s not how it works. It doesn't work that way.
+
+Keith: You said you wake up at 6:30 on the dot with a cup of coffee. Where did the coffee come from?
+
+Art: That’s why it’s a horror season, Keith. [Keith, Jack, and Austin laugh]
+
+Keith: It was a ghost.
+
+Art: Who was coffee? [Keith, Jack, and Austin laugh]
+
+Austin: So yeah, Pickman, do you want to lead it then with your delve and desolate, and then someone else can help? Duvall can help here?
+
+Jack: Yeah, okay.
+
+Austin: Duvall, you’d be saving your apis ambulation.
+
+Art: Saving my once per, yeah.
+
+Austin: Yeah, okay.
+
+Keith: You can fall asleep later, when...you’re hurt.
+
+Art: [laughing] Something else is happening.
+
+Austin: Uh huh.
+
+Jack: So, I'm selecting delve and desolate in these little drop down menus.
+
+Austin: That’s correct.
+
+Jack: I don't have mastery.
+
+Austin: This is standard, not risky.
+
+Jack: Uh huh.
+
+Austin: And you get a plus one from help.
+
+Jack: Oh, hell yeah.
+
+Austin: Alright, so you are rolling one dice for free plus your delve plus your desolate plus one from help from Duvall. That’s four d10. You’re looking for a six or above and ideally an eight, nine, or a ten.
+
+Jack: And it’s standard?
+
+Austin: And it is standard.
+
+Jack: Okay!
+
+Austin: And that is three, six, five, five. [chuckles] 
+
+Jack: I've seen worse.
+
+Austin: So that is success at a cost. I've seen worse. This is a d4. You’re still basically at the edge of Blackwick here, so both you and Duvall should roll a d4 and take that stress.
+
+Jack: Okay. I take four stress right off the bat.
+
+Austin: Oh my god.
+
+Keith: That’s so high.
+
+Jack: That’s the most stress.
+
+Austin: That’s the most stress that there is.
+
+Jack: What do you want me to put this into, Austin?
+
+Art: What the heck?!
+
+Austin: Oh, you both rolled four.
+
+Keith: Oh no!
+
+Austin: Off to a great start, friends. [Jack laughs] 
+
+Keith: [groans] I'm gonna finish this alone, 'cause you’re both gonna die!
+
+Austin: Uh huh. I think, given that you both did this, I have to put that into fortune in both cases. That feels right to me, you know?
+
+Jack: In that it’s just extremely unlucky? Okay, I have one fortune protection, so I'm gonna take three stress.
+
+Austin: You take three, that’s correct.
+
+Art: Oh, I have some sort of thing that I keep forgetting. First time I take a fallout...
+
+Austin: Well, that could be right now. We’ll find out.
+
+Jack: Oh, dear. Okay. 
+
+Austin: But for now, put that four into fortune, and both of you hit fallout test for me.
+
+Jack: Oh shit!
+
+Austin: Oh my god, Pickman.
+
+Art: Oh shit.
+
+Austin: Oh my god. Well, Duvall. Let’s...okay, so, Duvall got minor fallout. Pickman got major fallout, rolling a seven versus the seven, unfortunate.
+
+Jack: [laughing] It’s a terrible start.
+
+Austin: Duvall, you take minor fallout, except you don't take minor fallout.
+
+Art: Right, I avoid the fallout and do not remove stress.
+
+Austin: Right, correct. That’s thrice warded.
+
+Art: So I am thrice warded.
+
+Austin: “Each session, the first time you would take minor fortune fallout, avoid that fallout. Do not remove stress.” Pickman, the good news is you can remove all of your stress. [Austin and Jack laugh] Oh, but you also succeeded, so wait—
+
+Jack: Yeah.
+
+Austin: Before I resolve this, I want to see how much delve damage you did to this thing. You don’t have anything that gives you bonus damage on a delve.
+
+Jack: Nope.
+
+Austin: You have like nothing. All you have is this gun and a doll head that speaks. Did you bring that with you? It’s a resource, so probably.
+
+Jack: “You’re going to die,” says the doll head.
+
+Austin: [laughs] Yeah.
+
+Jack: “Die on the tracks.”
+
+Keith: This is the most pyrrhic victory of all time. 
+
+Austin: [laughs] Give me a d4?
+
+Jack: What, again? I can roll..
+
+Austin: As you do your base damage. This is your base damage to the delve, yes.
+
+Jack: Well, I'm really good at rolling four on a d4.
+
+Austin: I saw that before.
+
+Jack: That’s a four. I told you. 
+
+Austin: Oh, hey, look...
+
+Art: Hey!
+
+Austin: That’s a four. Okay, let’s see here…
+
+Jack: What the fuck happens here?
+
+Keith: What’s even happening? What was this even roll for?
+
+Austin: So this roll is for navigating the fucking...you’re in the dark when everyone’s tired and grumpy. And I know…
+
+Keith: Should have let the bees do it.
+
+Austin: Should have let the bees do it. You’re a hundred percent right. The next...so, you’re gonna take the fallout, the fortune— oh, this is major. I was looking at minors. Oh no.
+
+Jack: It’s major!
+
+Austin: [pained] It’s major.
+
+Keith: Oh, can I pop in now, before we get too deep. I can't do anything about this right?
+
+Austin: No.
+
+Keith: There was something that said that I can't do—
+
+Austin: What do you mean?
+
+Keith: ‘Cause I have the thing, “Your hands are covered in spiderweb ink. You have the capacity to stitch, fix, bind with a thought.”
+
+Austin: No.
+
+Keith: “Gain the mend skill. Once per session, you can fix someone or something in a matter of seconds, even if it would usually take hours of careful work.” That doesn’t apply here.
+
+Austin: Absolutely not. No, 'cause no one’s hurt in that way, and nothing broke.
+
+Keith: Yeah.
+
+Austin: This is fortune fallout. And so, I mean, this is...the thing that is about to happen is “No Way Out: You lead your party into a dead end, trap, or ambush. Get out alive.” It can be cleared by you just getting out of here, right?
+
+Jack: Okay.
+
+Austin: And so the thing that happens is you’re...the train tracks take this sudden turn north, as if they’re steering clear of something. You know, the lake is off to the right. You’re not walking the lakeshore. But the train tracks, for whatever reason, seem to head north. And maybe it’s the tiredness, you just don't pick up on this Pickman. Just like, alright, keep going.
+
+Jack: One foot in front of the other.
+
+Austin: And you just keep walking across, one foot in front of the other. And at some point, I guess about halfway through, there is suddenly light in your face being shot at you from a lantern, and you hear the sort of [chuckles] xylophonic rattling of bones as two skeleton men stare at you from behind this lamp, and one of them goes:
+
+Austin (as skeleton): [dramatic, exaggerated voice] Now, who goes there? You are trespassing on the property of the True Loyalists of her Empress, Altapasqua! 
+
+Jack (as Pickman): No harm meant.
+
+Austin (as skeleton): And you will pay the price!
+
+Jack (as Pickman): No harm meant. We’re just on our way to Last Rest.
+
+Austin (as skeleton): I do not care. We do not care where you are going, do we?
+
+Austin: And so there are two in front of you. The one that’s talking has a bunch of finery on: you know, frilly shirt covering his bones, velvet jacket, long pants. The other one has short pants on, but then a platemail torso armor above. These are two emissaries, or two true loyalists, of Altapasqua. You have to ask them why they call themselves true loyalists. That’s one of the two branches of this. If you recall, there’s a civil war going on among the skeletons of the sunken empress.
+
+Keith: Right, I remember that.
+
+Austin: This is Phendelton who’s speaking, [Jack chuckles] and the one with the platemail on is Brace.
+
+Keith: Okay. 
+
+Austin: And Brace just goes:
+
+Austin (as Brace): [slow, deep voice] Yup.
+
+Keith: I've met people like this before. I know how to deal with this.
+
+Keith (as Lyke): [clears throat, mimicking Phendleton’s fantasy cadence] ‘Tis just us, adventurers three. [Art laughs] What must we do to go free?
+
+Austin (as Phendleton): Ah, you know our ways well, adventurer! [Art and Jack continue laughing]
+
+Jack: Pickman glances at Duvall. [Austin laughs]
+
+Art: It’s just like a wide eyed. 
+
+Austin (as Phendleton): You must show us that you’re loyal to the sunken empress in the same way we are or beat us in a game of chance.
+
+Jack (as Pickman): [softly] What the fuck? 
+
+Austin (as Phendleton): Which will it be?
+
+Keith (as Lyke): In what way specifically are you loyal to Altapasqua?
+
+Austin (as Phendleton): Ah, but that is the question, isn't it, trespasser?
+
+Keith: Mmm.
+
+Austin: And draws a sword as if to punctuate this, a cutlass. 
+
+Austin (as Phendleton): Now, which will it be?
+
+Jack (as Pickman): What are the options again? It’s game of chance…
+
+Keith (as Lyke): Game of chance or we have to prove…
+
+Jack (as Pickman): Some fucking guessing game?
+
+Keith (as Lyke): We have to guess...actually, they both seem like games of chance. Is that the way that you’re loyal? Is it by initiating games of chance?
+
+Jack (as Pickman): [overlapping] Wait, no, no, no, don’t make a guess. Don’t make a—
+
+Austin (as Phendleton): Is that your answer? [cackles]
+
+Jack (as Pickman): Yeah, exactly. No, it’s not. Be careful.
+
+Keith (as Lyke): Oh, but it’s the only thing we know about them.
+
+Jack (as Pickman): We could just fucking kill ‘em.
+
+Austin (as Brace): I think he said we’re gonna— 
+
+Austin (as Phendleton): I heard what he said! But he did not say it was his answer.
+
+Keith (as Lyke): Yeah, I haven’t locked in.
+
+Austin: Sorry, who said…? That was actually Pickman, so she. Apologies there.
+
+Austin (as Phendleton): She did not say it was her answer.
+
+Keith: Well...do I have any notice skills in this game? I don't think so.
+
+Austin: Discern.
+
+Jack: Discern!
+
+Austin: Discern.
+
+Keith: Discern. Oh, discern. What can I...can I discern?
+
+Austin: You can try to discern.
+
+Keith: Is this occult? I can discern occult pretty well, I think.
+
+Austin: I would say this is either discern occult or discern religion.
+
+Keith: I have both of those.
+
+Austin: The Sunken Empress feels right to be religion here.
+
+Keith: Okay.
+
+Austin: Given the ways in which we talked about her and her relation to the devil church and all that shit.
+
+Keith: Dealer’s choice. That’s my specialty, so.
+
+Austin: Alright. Give me a discern religion.
+
+Keith: Okay. I won’t bother asking for help. You two are fine.
+
+Austin: You sure? So three d10, then. This is standard.
+
+Keith: Three d10. Six.
+
+Austin: Oh my god. Success at a cost again. Roll d4 and I'll tell you where to put that. The thing that you notice...so, what are you looking for? And tell me how you’re looking for it. Are you looking for some clue as to what their true loyalty to Altapasqua means?
+
+[Timestamp: 0:40:12]
+
+Keith: Three. Yeah, that’s what I'm looking for. 
+
+Austin: So, the thing that you pick up on, I think, is...god, how do...the plate armor of Brace has a number of...you know how air pilots, how fighter pilots will have bogies shot down etched into the side of their plane or stenciled onto the…
+
+Keith: Yeah.
+
+Austin: So they have that too, but it is skeletons with crowns on them, as if...not a logo, because these are all hand-stenciled, but each one has a crown on it, as if...you’ll have to unpack what that might mean.
+
+Keith: Okay.
+
+Austin: But that’s what you see in the dark here. Take that three stress that you just got to your mind. You’re being yelled at by skeletons in the middle of the fucking night.
+
+Keith: Right. 
+
+Austin: And then give me a fallout test and hope that it doesn't break bad. [chuckles] 
+
+Jack: [relieved] Ah, yeah.
+
+Keith: No fallout.
+
+Austin: Unbelievable. Lye Lychen rolled a nine, above the seven total stress he has currently.
+
+Keith: [laughs] Like water off a duck’s back. Everything.
+
+Austin: Unbelievable. Unbelievable. [Keith laughs] So yeah, Brace has skulls with crowns on their head etched into— 
+
+Keith: And this is great, I’ve been...this is now...the silver lining of not clearing more mind stress is I now can roll mind with mastery.
+
+Austin: Mmm!
+
+Keith: Because when my mind stress is four or higher—
+
+Jack: Oh, wow!
+
+Keith: —I roll with mastery when I attempt to cast a spell.
+
+Austin: Interesting.
+
+Keith: Bad news, I don't have any spells that help, so.
+
+Austin: Yeah, in this specific instance, I don't think you have spells ready to go, huh?
+
+Keith: Yeah.
+
+Austin: I mean, you could...Sanctum of the Stone Chorus, that’s a spell.
+
+Keith: I totally could, but we probably would just have to come back here on the way out.
+
+Austin: Probably, yes. Yes.
+
+Keith: Probably.
+
+Austin: Yes. [chuckles] Ahh.
+
+Keith: Oh, does this help? It’s not a spell, exactly, but I “can smell sources of magical power. The more potent and active, the more pungent the smell.” Is there any magic around?
+
+Austin: They’re magic, because they’re undead skeleton people.
+
+Keith: Okay.
+
+Austin: But I don't know that you know enough...I guess what you know is, from their smell, that they are not waterlogged. They are from the high tide, not the low tide group. So that means that they’re further away from Altapasqua, the Sunken Empress.
+
+Keith: Okay. The true loyalists are further away.
+
+Austin: Between that and the fact that their logos, their kill counts, seem to be skulls with crowns on them, you’re starting to doubt what loyalist might mean.
+
+Keith: Right. 
+
+Keith (as Lyke): It seems like the way that you prove your loyalty is by killing the other group, is by waging war on the other group.
+
+Austin (as Phendleton): Yes. Yes! Yes!
+
+Keith (as Lyke): Nailed it.
+
+Austin (as Phendleton): The false loyalists must die.
+
+Keith (as Lyke): Okay.
+
+Austin (as Phendleton): Have you killed any?
+
+Keith (as Lyke): Oh, I'm…
+
+Austin: If this skeleton had eyebrows, they’d be waggling.
+
+Keith: Weird. [laughs] 
+
+Jack: Is this Pendleton?
+
+Austin: This is Pendleton. This is Pendleton.
+
+Art: Well, let’s be happy about that not being the case.
+
+Keith (as Lyke): Hey, have you two killed any of the false loyalists? I remember some really disloyal people that I killed before. [Austin laughs] I can’t be certain, but I'm pretty sure they were false loyalists.
+
+Austin: This is a real “do either of you have the compel skill?” conversation. [laughs] 
+
+Jack: I do.
+
+Art: I don’t.
+
+Jack (as Pickman): [tired] Okay, fuckin’...
+
+Art: I should.
+
+Austin: Yeah.
+
+Jack (as Pickman): [deadpan, as usual] I've killed hundreds of false loyalists. All day. All day and night. Before I worked as a Shape Knight, I used to...
+
+Austin: [laughing] I love how you just swung as big as you could! 
+
+Keith: [laughs] Yeah, who would lie about being a professional slaughterer of false loyalists?
+
+Art: Also with just no…
+
+Jack (as Pickman): I was on a brigade. See this gun?
+
+Jack: Pickman takes the gun down off her back.
+
+Jack (as Pickman): See this armor? It was awarded.
+
+Keith (as Lyke): I remember you mentioning being a brigadier.
+
+Jack (as Pickman): Mmm, yup.
+
+Keith (as Lyke): It was a brigadier, right? [trails off] 
+
+Austin: Brace tightens the lantern light to look closely at the gun.
+
+Jack (as Pickman): Yep. I'm a real pro at—
+
+Austin (as Brace): But you don’t have any of the marks. You don't have the kill marks on your armor.
+
+Jack (as Pickman): Why would I mark ‘em on my armor? Its precious to me.
+
+Austin (as Brace): [softly] Ohh.
+
+Jack (as Pickman): I mark them on my...I got tattoos.
+
+Keith (as Lyke): Easier to sneak up on ‘em if they don't see the marks.
+
+Jack (as Pickman): Yeah, exactly, what he said. [clicks tongue] I'm a real pro at killing skeletons. Isn’t that what they say, Duvall?
+
+Art (as Duvall): Uh huh.
+
+Austin: Give me a roll. Compel and then…
+
+Art (as Duvall): Real skeleton pro.
+
+Austin: Desolate, wild, or, as established, religion, since it’s this Altapasqua shit.
+
+Jack: Compel, desolate—
+
+Austin: That’s two.
+
+Jack: Plus one dice from Lyke? [chuckles] 
+
+Austin: Is Lyke helping? Yeah, Lyke is helping.
+
+Jack: It sounded like Lyke called me a brigadier.
+
+Keith: I was helping. I was helping.
+
+Austin: Yeah.
+
+Art: I thought that was the opposite of helping. Lyke threw you under the bus. [Art and Austin laugh]
+
+Austin: Duvall I don't think has anything to help with here, unfortunately.
+
+Art: My winning personality.
+
+Austin: Yeah, uh huh. [laughs] So that’s plus one from Lyke. That is again four d10, looking for a six or a five.
+
+Keith: I'm angling to finally get some fallout. [Jack laughs] 
+
+Austin: Oh. Good.
+
+Jack: Do you want some of mine? [Austin laughs] 
+
+Keith: I'll have my own. Ten!
+
+Austin: Hey, that’s a ten! 
+
+Art: Wow!
+
+Austin: That’s an increased stress dice size. That’s incredible. Oh, they believe you.
+
+Austin (as Phendleton): You are the Goat-Killer of Skeletons!
+
+Jack (as Pickman): Well…
+
+Austin (as Phendleton): Fabled among your kind.
+
+Jack (as Pickman): Hold on.
+
+Art (as Duvall): I don't think we should say that.
+
+Jack (as Pickman): I don't know that we need to go that far.
+
+Austin (as Phendleton): Skeleton Killer among goats.
+
+Jack (as Pickman): Again, no.
+
+Austin (as Phendleton): I am pretty sure it is you, but I will keep your secret safe.
+
+Jack (as Pickman): Mmm.
+
+Austin (as Phendleton): Skull Crusher.
+
+Jack (as Pickman): Mmm.
+
+Austin (as Phendleton): Hmm?
+
+Keith (as Lyke): Hmm.
+
+Austin (as Phendleton): Crown Breaker.
+
+Art (as Duvall): Mmm.
+
+Keith (as Lyke): Mmm!
+
+Art (as Duvall): Mmm.
+
+Keith (as Lyke): Mmm!
+
+Art (as Duvall): Mmm, hmm, hmm.
+
+Keith (as Lyke): Hear, hear.
+
+Austin: If this skeleton— 
+
+Art: It’s not humming from Duvall, it’s, uh…
+
+Austin: [laughing] Oh, those are bugs buzzing? 
+
+Keith: [laughs] A thousand bees go [imitating bees buzzing] mmm, mmm!
+
+Art: [imitating bees] Mmm!
+
+Jack: Wait, Austin!
+
+Austin: If this skeleton could wink, he* would. Yes?
+
+Jack: I rolled a crit.
+
+Austin: You did.
+
+Jack: I think Pickman just points at...who’s wearing the plate armor?
+
+Austin: Brace. Not Pendle...not whatever I said the other person’s name was.
+
+Jack: Pendleton?
+
+Austin: Pendleton? Pendleton. 
+
+Art: I think it was like— 
+
+Austin: Phendleton! Sorry, Phendleton. 
+
+Art: There we are.
+
+Jack: Phendleton!
+
+Austin: [laughs] It’s a P-H, though.
+
+Jack: [laughs] I think Pickman just points at Brace and says:
+
+Jack (as Pickman): You. Give me your armor. The cause has need of it. [Austin and Keith laugh]
+
+Austin: Aaaah. You did get a crit.
+
+Jack: I did get a crit!
+
+Austin: You did get a crit, and this is not a thing where you normally would get to...yeah, you know what? I'm gonna give this. I'm gonna...I think what you get back is:
+
+Austin (as Brace): [intimidated] Uh...C- Crownbreaker. I can’t go— 
+
+Jack (as Pickman): You don’t need to call me that.
+
+Austin (as Brace): Skull Crusher, then. I cannot give you my chest plate. It is important to me. But perhaps the lantern or a gauntlet or this broadsword.
+
+Jack (as Pickman): ...I'll take the sword.
+
+Austin (as Brace): [sighs] 
+
+Austin: And pulls it out of a sheath. Actually, you know, removes the entire back sheath. And then kneels before you, hands Phendleton the lantern and then kneels before you and lifts it up and says:
+
+Austin (as Brace): It is an honor to meet the one and only Bone Smasher.
+
+Jack: Just nods.
+
+Jack (as Pickman): Arise, skeleton.
+
+Jack: [chuckles] Takes the sword, slips it into a scabbard on her armor.
+
+Austin: Uh huh. This is...let’s see. Give me a second here. This is a d8 brutal weapon.
+
+Keith: Ooh.
+
+Jack: Oh shit, this is good!
+
+Keith: Oh, brutal’s not as...is not good, right? Brutal’s actually bad?
+
+Jack: Brutal’s fantastic, if you’re Pickman.
+
+Keith: Oh, okay. I thought maybe brutal was the one that if you rolled too good then it hurts you? Is that a different one?
+
+Austin: I think that’s dangerous, if I recall correctly.
+
+Keith: Okay.
+
+Austin: Brutal is you roll two dice and pick the highest when doing damage.
+
+Keith: That’s really good.
+
+Austin: It’s very good. It’s very good.
+
+Jack: Now…
+
+Austin: You lift it up. It is jagged. you know, it’s very sharp, but there are...I actually think what it is is that there are…
+
+Keith: Serrations?
+
+Austin: It’s serrated, but it’s serrated towards the hilt, so it’s like it would hook into something.
+
+Jack: It’s like a fucking cheese grater type situation?
+
+Austin: Yeah, and it will break apart something that it gets stuck into, you know what I mean? So it’s actually pretty good against armor. It latches into armor and lets you just rip it open.
+
+Jack: What’s the name of this weapon? It’s a…
+
+Austin: I said that it was a broadsword, because that was the thing that came to mind that Brace would have, but I think it’s a...god, what’s a good… [chuckles] What’s a good way that a skeleton would call like a can opener? Because that’s basically...it’s like a can opener sword.
+
+[Timestamp: 0:50:03]
+
+Art: What a skeleton would call a can opener?
+
+Jack: Is it like a molar?
+
+Austin: This is the true riddle. [Jack laughs] 
+
+Keith: I feel like this is the riddle they would have asked us if we hadn’t…
+
+Austin: [laughs] Yeah.
+
+Art: [imitating Phendleton] What do I call a can opener? [all laugh] 
+
+Austin: I think it’s like Plate Breaker, the broadsword, you know?
+
+Jack: Skull smasher.
+
+Austin: Skull smasher, right.
+
+Keith: This is just how they name things.
+
+Austin: Bone crumbler. It is, a hundred percent.
+
+Jack: Oh, Bone Crumbler is great. What a…
+
+Austin: It’s the bone crumbler.
+
+Jack: Bone Crumbler.
+
+Keith: Top remover.
+
+Jack: [typing] Skeletal broadsword.
+
+Keith: This is maybe a stretch. Is this charming someone with tales of...not exactly my exploits, but I did help on the roll.
+
+Austin: It is not your exploits. No. It is not...it’s also fake.
+
+Jack: Keith, god bless you. You’re really going for this one.
+
+Keith: I got...hey, look.
+
+Art: “Did I do this thing that Pickman just did?” [laughter]
+
+Keith: Hey, I was on the hook for stress. That’s possible.
+
+Jack: No, no, I feel you. I think it’s admirable. It’s just wrong.
+
+Austin: It is admirable. But it’s not—
+
+Keith: “Tales” implies to me it doesn't have to be true, and “your” doesn't imply singular.
+
+Austin: No, no.
+
+Jack: No.
+
+Austin: I think it does. Unfortunate, but it does. In any case, they see you forward. They let you go forward, and in passing them, getting that crit again, I think that they’re the last thing before you are at the outskirts of Last Rest. I think as you walk away, you can hear Phendleton and Brace say:
+
+Austin (as Phendleton): What luck we’ve had today to meet a legend.
+
+Austin: And Brace is like:
+
+Austin (as Brace): [awed] Gave her my sword.
+
+Austin: And you walk away towards the sunrise.
+
+Jack: Do I put— 
+
+Austin: The end. That’s it, actually. That’s the end of Sangfielle. [Art and Austin chuckle7]
+
+Jack: Do I need to roll stress on this delve?
+
+Austin: Yeah, give me a d4, 'cause that was a boon. A boon is where you, you know, you've done some side things successfully, basically.
+
+Jack: Wouldn’t it be a d6, because…
+
+Austin: No, you do your delve damage.
+
+Jack: Increase outgoing stress to...oh, I see, right. Okay. 
+
+Austin: Mm-hmm.
+
+Jack: One d4.
+
+Austin: Yeah.
+
+Jack: Nope, that’s not right. I need to say “roll” first.
+
+Austin: You do. You do, it’s true.
+
+Jack: That’s another four.
+
+Austin: Hey, there you go.
+
+Jack: I always roll a four on a d4.
+
+Austin: That’s more than enough to finish this delve off here. It’s a short delve, just going from Blackwick to Last Rest. You’re already very close to it at the point at which this broke bad the first time, but here, as you near Last Rest...this is gonna be a very filled episode of NPCs. I didn’t expect those skeletons to show up. I'm glad I had them on deck, though. You hear the sounds of fighting coming from the Last Rest Station. I think, you know, from a distance it is like seeing...not just the ruins of a town, but a fake town. It’s a situation where everyone just got up and left, so it’s a ghost town, but there something about this place that feels produced, partially because of how clean and crisp and new looking the train station here is. But you also see, at that train station, I think maybe the first thing you see is dust kicking up into the air, and you hear someone yelling as the sun slowly begins to rise on Last Rest Station. And you hear the sound of some sort of creature or creatures chittering in the early morning light. There is a sound of gunfire, just a single shot, and then more slamming sounds. You can't see what’s happening because of the buildings around the station, but it’s happening right in the middle of the station’s...you know, there’s the station to the left of it, or there’s a platform to the left of it and the right of it. On both of those platforms there are ticket counters and interiors, so if you approach it from the north or the south you would see it just fine, but coming right at it from this direction, you see the tunnel in from this large station, and you can't quite see what’s making all this racket, but coming up over the buildings is every once in a while this big burst of dust and someone yelling. What do y'all do?
+
+Art: Is it fight shouting or is it…?
+
+Austin: Yeah, it’s a hundred percent there’s a fight happening in there.
+
+Keith: It’s just whooping.
+
+Austin: And you heard the sound of gunfire.
+
+Keith: I gotta go take a look.
+
+Austin: Alright. You take the lead here and sneak up. I think you probably find a wooden door with one of those push bars. You peek in through the window, and you see a bunch of stuff happening. There’s a huge figure moving back and forth with some sort of two-handed weapon fighting things that you can't quite make out. On the tracks, there is a big platform, like a train car but without the top part of the car. It’s just a platform on wheels.
+
+Keith: Yeah.
+
+Austin: You can't see it all the way from this perspective, because you’re looking in the window of the station, basically. And there are some people on that platform. One of them has a gun, but they’re not fighting. Just the big shape is fighting, and there are some other things moving around in your vision, but you can’t...you’re having a hard time focusing on them. You don't know what the deal is with them, but you can’t quite see them without rolling dice first.
+
+Keith: That’s weird.
+
+Austin: Mm-hmm. They’re eluding your vision. Also, I should say, just again to make this clear, it’s like you’re looking at...it’s an open air station, but it has these walls and a roof. Does that make sense?
+
+Jack: Yeah.
+
+Art: Yeah.
+
+Austin: It’s like half a building. You know, okay. 
+
+Keith: It’s like a pavilion?
+
+Jack: Like a…
+
+Austin: Yeah, yeah.
+
+Jack: Hmm. Okay. Do we want to try and make a discern roll before we get into the melee here, or shall we just go for it?
+
+Keith: Ooh, seems like a discern roll, right? I don't want to get…
+
+Jack: What you have passed on...I assume you have passed this on to us, having crept forward, right? Like, crept back and been like, here’s what the deal is?
+
+Keith: Yes. 
+
+Keith (as Lyke): There’s some shapes. There’s a big noticeable shape. There’s some less noticeable shapes. The gunfire was not dangerous gunfire, it seems like.
+
+Jack: These sound like Shape Knights to me, which makes Pickman feel more duty-bound to engage, but if either of you would like to make some kind of a discern roll to get us in on a good footing, I would also be up for that.
+
+Keith (as Lyke): Well, I'm not a Shape Knight expert, but they didn't seem like knights, more like shapes to me. So if that sounds like a Shape Knight to you?
+
+Art (as Duvall): Let me check it out. Let me look before we leap. 
+
+Jack: [chuckles] Let me check it out. I'm bees. [mild laughter] 
+
+Art: Yeah, let me check it out using bugs.
+
+Austin: Do you have a bee checking skill?
+
+Art: I do.
+
+Austin: Okay.
+
+Art: “When you stand still and close your eyes, you can see through the eyes of any of your bugs—”
+
+Austin: Ah.
+
+Jack: Oh shit, this is great.
+
+Art: “—allowing you to spy around corners or look into closed spaces.”
+
+Austin: Yeah, this works, for sure.
+
+Jack: Tailor made.
+
+Austin: Uh huh. Your bee is able to get a better—or your bug, whatever—gets a better look at all of what’s going on here, right? There are three figures...okay. There is a large—I guess I would call it a hand cart or a train cart—that has a bunch of supplies on it and also has three peddle bikes attached to it, built into it. And that’s where the three figures on that thing are standing, including one with a gun. Those three figures are...you recognize them, actually, Duvall. It is Agdeline, Larch, and Ettel, the three people who tried to rob you on your way to Roseroot Manor.
+
+Art: Mmm.
+
+Jack: Oh, what the fuck? Okay.
+
+Austin: It’s weird that they’re here. It is...for listeners and—
+
+Keith: Oh, they’re friends.
+
+Jack: Huh.
+
+Austin: Jack, it’s weird that they’re here. Out of character, they are also in the other side of this game for some reason, so that’s strange.
+
+Jack: Yep. They’re celebrating up in the weather station.
+
+Austin: They are celebrating up in the Weather Room, yeah, uh huh, a hundred percent.
+
+Keith: They like us, kind of, now, right?
+
+Austin: [doubtful] Mmm.
+
+Keith: Didn’t I save one of their lives?
+
+Austin: You...oh, right, you also saw them there.
+
+Keith: Yeah.
+
+Austin: Right, so yeah, you have a...yes, there is a...it’s interesting that you said that, because when Janine met them again, she was like, “Well, I can't show my face, because they hate me.”
+
+Jack: ??? [59:00] tried to fight them.
+
+Austin: Yeah, exactly.
+
+Keith: Yeah, they…
+
+Austin: But yes, you healed one of them. Yes.
+
+Keith: I remember explicitly that they left, and you were like they might be your friends now, because of what you did to them.
+
+Austin: Mm-hmm. You’re in a better relationship with them, for sure.
+
+Keith: Right. Janine sort of...bled them out or something. [laughs] 
+
+Austin: Pulled the consciousness out of...yes, this is true.
+
+Keith: But I saved them from dying.
+
+Austin: You did. So, there’s three of them on this cart. Again, your bug is able to see a big shape, bigger than Pickman, which is an achievement. Bigger than the biggest thing...not as big as Roseroot, not as big as Aterika-Kaal, Duvall, which is a god, so not that or any of the big statues from any of the shrines you’ve been to.
+
+Keith: Duvall was there, right? Yeah, Duvall was there.
+
+Austin: Yeah, Duvall was there, but I'm saying not as big as that, but you know, eight, maybe ten feet tall. This woman who you think at first may be ojantani? Because of her size and her massive horns, but the horns aren’t the kind of...they’re not the sort of...there’s something about most ojantani horns that feel pastoral like an ox’s horns. These feel built for combat. They are ragged and sharp and scarred. Also, her face doesn’t have the normal curve of the ojantani bovine face, and instead it’s like a long wolf-like snout with sharp teeth.
+
+[Timestamp: 1:00:33]
+
+Keith: Hmm. Is this a...what are they called? Is this a cleaver?
+
+Austin: Most importantly, her skin, instead of being fur is...it’s not black as pitch, it is pitch. It is bubbling.
+
+Keith: Ooh.
+
+Austin: You’ve never seen skin like this before.
+
+Jack: Hmm.
+
+Austin: And in the early morning sun, it almost is iridescent. It’s like oil skin. And she is—
+
+Keith: Reflective black bubbling…
+
+Austin: Yeah, uh huh. Keith, or Lyke, if you’re hearing this, your intuition that this is a cleaver is pretty much right on. In fact, speaking of things what cleave, the weapon that she is holding is this long polearm, taller than her you think as she’s swinging it, maybe a little bit shorter than her. And when you look for the blade or the club on top of it, a voulge or a spearhead or whatever, you instead see a large jawbone of some sort of creature that’s been sharpened to an edge, and it’s almost like a large sickle or scythe. And she is fighting something that you actually can see through your bee, because your bee is attuned to the same rhythms of these things. Jack, I don't think that you had a name for these things—
+
+Jack: Oh no.
+
+Austin: These things that take care of the train tracks. [Art laughs] I've been calling them gandies in my notes.
+
+Jack: Dandies?
+
+Keith: Dandy or gandy?
+
+Austin: Gandy, G-A-N-D-I-E-S, because the classic name for people who took care of or who worked on railroads were gandy dancers, named such because they looked like ganders, like geese, when they waddled to and fro out there.
+
+Jack: This is—
+
+Austin: And so these are...uh huh?
+
+Jack: This is very funny, because we talked about this ages ago, ages and ages ago.
+
+Austin: Yes. Yes.
+
+Jack: And I didn’t even know if they were going to make it into the show—
+
+Austin: Mmm.
+
+Jack: Such that a couple of weeks ago I was thinking, “I’ll message Austin and ask if these things are gonna be in Sangfielle.” [chuckles] 
+
+Austin: Well, here they are!
+
+Jack: Oh no!
+
+Austin: And here they are, and this giant cleaver woman has just cut through two of them with a single blow, and that is…
+
+Jack: Do we want to describe what these gandies are?
+
+Austin: Yeah, do you want to describe them for me?
+
+Jack: The Shape trains aren’t the only things on the line that belongs to the Shape.
+
+Austin: Yes.
+
+Jack: In fact, there are lots of tasks that need to be performed on Shape lines that the trains either can't perform or don't necessarily want to—refueling, changing points, sending messages up and down the line, putting the water in on water towers—and so they, I think extrude is maybe the right word, these bizarre...what are they made of? Sort of papery carapace-y type things from tubes alongside the railroad.
+
+Austin: Yeah.
+
+Keith: So this is like...it’s like armored paper mâché.
+
+Austin: That’s about right. Or fleshy paper mâché, waxy paper mâché?
+
+Jack: Yeah. Waxy paper mâché.
+
+Austin: There’s an overlap with some of the bug stuff from Duvall here.
+
+Jack: Mm-hmm.
+
+Austin: Which is why the bugs can see it. The bugs are tied to the Structure, the Shape is the Shape. The Shape and the Structure, we don’t know how aligned they are, if they’re different words for the same thing, if they are allied, if one is subservient to the other, if those words don't mean anything except that’s the closest thing we can use to describe something or what. But in this moment, at least, the bugs are on the same wavelength, are flapping their wings at the same speed as these gandies are moving around, and so they’re able to focus very clearly on them. What were you going to say, Keith?
+
+Keith: I lost it. If I had something, I lost it.
+
+Austin: If you remember it, you can let me know.
+
+Jack: They’re not super worried about being killed usually, right? Are they? 
+
+Austin: No, and that’s part of— 
+
+Jack: Usually they just extrude another one out of the tube, the little brass tube on the train.
+
+Austin: And there are so...the paper mâché, the dust that is coming up in the air, you realize, is the paper mâché of their bodies being just pummeled. 
+
+Jack: Oh, the trains exude them. They don't extrude the things that they need to fix.
+
+Austin: Correct.
+
+Jack: Yeah, no.
+
+Keith: Okay, got it.
+
+Austin: No. I mean, so, you get a look at three different types of them here. One of them has big fleshy paper mâché-y mallet limbs, presumably to knock spikes into the ground and build new track or to knock dents out of the sides of the metal hulls of the trains. There's one type that...you know, they’re insectoid in my mind.
+
+Jack: Yeah.
+
+Austin: We’ve talked about Chryssalids from XCOM, we’ve talked about the keepers from Mass Effect, in terms of them having four legs that they clamber around on, sharp legs, and the second type also has a tail that raises up and extrudes a twisted railroad spike like a scorpion tail.
+
+Keith: I was thinking of cicada husks that you see around in the summer.
+
+Jack: Oh, yeah.
+
+Austin: A hundred percent. All of this is a hundred percent on point, yes. And the third type is just like those other two, except from their underbellies, they just have hanging from the waxy papery flesh, little tools, like screwdrivers and wrenches.
+
+Jack: Oh my god.
+
+Austin: Just dangling under there like loose flesh, except it’s these tools. And you find those all over the place. You know, they’re the universal fixers, you know? And there’s a bunch of them, but they’re being dealt with in this moment—
+
+Jack: Just pulped.
+
+Austin: By this large cleaver. How you want to handle this is up to you.
+
+Keith: The cleaver is on the same team as our thief friends?
+
+Austin: As the Toll Collecters, is what I've started calling them, yes.
+
+Keith: Yeah, yeah.
+
+Austin: As far as we can tell.
+
+Keith: Right.
+
+Austin: I mean...yes. I know what their circumstances are. They seem aligned, that is correct. It is clearly the cleaver’s stuff up on that train, that pedal bike thing. So that’s what you see. So, yeah. That is the situation. How you want to intercede is up to you.
+
+Jack: Mmm.
+
+Austin: If your hope is to scare those gandies away or finish fighting them or wait until this cleaver deals with them.
+
+Keith (as Lyke): Pickman, you vouch against the bugs, right?
+
+Jack (as Pickman): In what sense?
+
+Keith (as Lyke): You don't like the trains, the bugs are part of the trains, and so…
+
+Jack (as Pickman): Yep.
+
+Keith (as Lyke): Reflexively, you would go, the bugs are in the wrong.
+
+Jack (as Pickman): Yep.
+
+Keith (as Lyke): The gandies are in the wrong.
+
+Jack (as Pickman): Yep. They’re not things. They don't think.
+
+Keith (as Lyke): Good enough for me!
+
+Keith: I take out my gun.
+
+Austin: Did you hear that, Duvall? They’re not people.
+
+Art: I did hear that, yes.
+
+Austin: Hmm.
+
+Art: But, you know, are they? [Jack chuckles] 
+
+Austin: Is there a spot— 
+
+Art: [chuckles] Are any of us?
+
+Austin: Yeah, is that in character from Duvall here?
+
+Art: I mean, kind of. Isn't that the whole point?
+
+Keith: Trying to figure that out currently.
+
+Art: Yeah.
+
+Jack (as Pickman): I didn’t...it’s a different situation with you, I'm sure.
+
+Art (as Duvall): Maybe.
+
+Jack: Big armored shrug. [Austin chuckles] Shouldering the gun.
+
+Keith (as Lyke): Well, I know the other set. Well, we all know the other set. They were nice after they stopped robbing us.
+
+Austin: Pickman has not met them, probably, but…
+
+Jack: No. I've probably heard the story.
+
+Austin: Yeah.
+
+Keith: Oh, you were the one that wasn't there.
+
+Austin: Correct.
+
+Keith: It started with you, so I was like, oh we were all there, but no. It was me and Duvall that were there, and you were not.
+
+Austin: Mm-hmm. Yeah. I was only noting that I know Jack listened to that arc.
+
+Keith: Right.
+
+Austin: Or, sorry listened to the other half of this arc that just aired.
+
+Keith: Who saw them. Right.
+
+Austin: Who knows that they’re also at Weather Room, because I know Jack listened ahead to see if there was a music cue in there somewhere, so.
+
+Keith: Got it. Got it.
+
+Jack: I think, you know, Pickman cocks the gun one-handed, dropping it like a shotgun.
+
+Austin: Mm-hmm.
+
+Keith: Ooh, there was one bit of housekeeping besides me making sure I didn't need any moves.
+
+Austin: Uh huh.
+
+Keith: I don’t think it’s crucial, but I'm looking at my equipment, and I have that revolver that I bought.
+
+Austin: Yes.
+
+Keith: The d8 revolver that I spent twelve money on. [Jack laughs] 
+
+Austin: Uh huh.
+
+Keith: And we didn’t pick tags for it.
+
+Austin: Right, we were gonna pick fancy tags, right?
+
+Keith: I just have kill and ranged, is what I have.
+
+Austin: We were gonna pick something that made it fancy-ish, right?
+
+Keith: Right, 'cause I spent a lot more than it was worth.
+
+Austin: Yeah, yeah, yeah. [sighs] 
+
+Keith: This is not crucial, if I miss one.
+
+Austin: Yeah.
+
+Jack: Vampiric. It heals stress when it hits things. [laughs] 
+
+Austin: No. Absolutely not. Breaks this game. I mean, I can make it vampiric. There’s a way to make it vampiric. That’s fun.
+
+[Timestamp: 1:10:02]
+
+Keith: And what does that do?
+
+Austin: What I would give it, if you want it to be vampiric, is block, which gives it plus one blood protection. And also something bad like dangerous or distressing. I think it would be distressing. It would give you this blood protection somewhat magically as instead of your own blood dripping onto the floor, it would siphon your own...whatever damage you take physically, it would feed off of that. And as long as you have it, that goes to you. It’s fine, don't worry about it. It’s like a symbiotic gun that you hold.
+
+Keith: Right.
+
+Austin: But also it’s distressing. When you inflict stress with this item and roll the maximum amount, mark d6 stress to mind, as it does some weird shit vampirically when you shoot someone with it. Maybe a line of blood gets drawn back to the barrel and it’s very clearly siphoning that back or something? I don't know, I don't know. Trying to stay away from blood this season, and yet here we are. [Jack chuckles] 
+
+Keith: Yeah, that’s a lot. 
+
+Austin: See? This is what— 
+
+Keith: Maybe that’s not what I want for my filigree revolver.
+
+Austin: Uh huh.
+
+Keith: That’s a little much.
+
+Austin: Mm-hmm.
+
+Keith: It’s not grossing me out, it just seems too risky.
+
+Austin: Yeah. Then maybe it’s just...what about piercing? “You cannot reduce stress inflicted by this equipment using blood protection, and adversaries do not benefit from their protection value.”
+
+Keith: Oh, sure.
+
+Austin: It shoots armor-piercing bullets.
+
+Keith: Okay.
+
+Austin: It’s a revolver. It has big, large, round bullets or whatever.
+
+Keith: Yeah.
+
+Austin: Sure, why not, right?
+
+Keith: Yeah, sure.
+
+Art: But it’s because the bullets are evil.
+
+Austin: That’s why, yeah. They’re evil bullets.
+
+Keith: And if I want to make it hard for myself later, I can always use Rust and Iron—
+
+Austin: To make it— yes.
+
+Keith: Which increases the equipment’s quality by one step, but also gives it the tags dangerous and unreliable.
+
+Austin: There you go. There you go. Okay. So, housekeeping done. What are you doing?
+
+Jack: I guess I'm gonna break cover passing through one of these little buildings. Or it’s just a gate into this open central area?
+
+Austin: It’s a building. Like you said before, it’s a pavilion. If you were looking at it from the outside, you would think it was a full building from the right angle, but you turn the angle a little bit, and obviously it becomes not so much a full building. But yeah, you can push through this door and sneak in if that’s what you’re looking to do. Or kick it in and come in loud.
+
+Jack: I'm gonna kick it in and…
+
+Austin: Okay. And charge at one of these…
+
+Jack: It’s a big enough place that I think Lyke and Duvall could maybe move more sneakily coming in from another angle or whatever.
+
+Austin: Yeah.
+
+Jack: But yeah, I'm just gonna charge one of the gandy dancers and…
+
+Austin: Sure.
+
+Art: Excuse me, I'm an action hero. I'm gonna charge in too. [others laugh] 
+
+Jack: With your bugs.
+
+Austin: Okay. Yeah, with your bugs. Alright, so give me a...this sounds like a—
+
+Art: It’s like a charge in, but if the person’s kind of forgotten how their arms go.
+
+Austin: Euugh, yeah.
+
+Art: It’s like a charge but with just dead, flat arms.
+
+Austin: Yes. So, this is a d6. Sorry, not a d6, sorry. This is a kill. Kill and then desolate, and this is a train station, so it’s desolate or technology here.
+
+Jack: I'm gonna roll kill and desolate.
+
+Austin: Mm-hmm.
+
+Jack: Because I love this image of all the dust flying.
+
+Austin: Yeah, yeah.
+
+Jack: Kill, desolate, no help.
+
+Austin: No help?
+
+Jack: I don’t think, right?
+
+Austin: Anything else you got going on here? No. But, I should note, everyone around you gets plus one blood protection for this scene.
+
+Jack: Mm-hmm.
+
+Austin: As long as they stay within one arm’s reach of you.
+
+Jack: Yep.
+
+Austin: Which is useful, so keep that in mind. Also keep in mind that once per situation, you can bellow out an order and remove d4 blood or mind stress from a nearby ally.
+
+Jack: Yeah, it’s true.
+
+Austin: That’s an important thing.
+
+Keith: Did you say four blood or mind?
+
+Austin: D4.
+
+Keith: D4.
+
+Jack: That’s a four for me. 'Cause I always roll fours on those. [Keith laughs] 
+
+Austin: ‘Cause you always roll fours? Uh huh.
+
+Keith: Okay.
+
+Austin: We’ll find out about that.
+
+Keith: For what it’s worth, I have four mind stress.
+
+Austin: Yep.
+
+Jack: [chuckles] Good to know. Yeah, okay, so that’s three d6?
+
+Austin: Three d10.
+
+Jack: Three d10.
+
+Austin: Yep.
+
+Jack: I'm so used to rolling d6s when we make this show.
+
+Austin: I know, I know, I know. It’s weird. Hey! Now that is a critical success.
+
+Keith: Look at that. Your second one in a row!
+
+Austin: Your second one in a row! And this time you’re doing damage
+
+Jack: I'm gonna try and get a sword from someone else here.
+
+Austin: No, 'cause here we know exactly what this crit does. It increases your outgoing stress die, so that means instead of doing d8 damage here, you’re doing d10 damage here.
+
+Jack: Oh my god. Just…
+
+Austin: With your barbed espignol. What’s this look like? Tell me…
+
+Jack: It’s like a shot from a Western, right?
+
+Austin: Mm-hmm.
+
+Jack: It’s like the doors slam open and dust comes off the side of the building, and Pickman is behind it silhouetted, her horns and the shape of her armor and her gun.
+
+Austin: Mm-hmm.
+
+Jack: She just vaporizes like four gandy dancers with her espignol.
+
+Austin: Yeah.
+
+Jack: Which is sort of like a shotgun that doesn't have ranged attacks.
+
+Austin: Yeah, you have to get so close that it’s not ranged.
+
+Jack: And doesn’t have any ammo. Every time Pickman’s pulled the trigger, it’s fired.
+
+Austin: Yeah.
+
+Jack: And she doesn’t really know why?
+
+Austin: Yeah.
+
+Jack: And then just…
+
+Austin: Give me a…
+
+Jack: Yeah, just…
+
+Austin: Yeah, give me your damage, then. Roll a d10.
+
+Jack: One d10?
+
+Austin: Yeah. Remember, you don't necessarily want the ten here. [chuckles] 
+
+Jack: No, I don't. Well, wait.
+
+Austin: Because you have wild, which will…
+
+Jack: Oh, shit, you’re right. Yep.
+
+Austin: Which will give you fortune damage.
+
+Jack: Oh, I need to hit roll again. Why the hell am I doing this? Oh, that’s a four.
+
+Austin: Alright, four. That’s, you know. That’s not nothing.
+
+Jack: No.
+
+Austin: You absolutely...you know, one of the ones with the big spike tails, the big railroad spike tails, is charging at the back of the big cleaver, and you just blow that one completely away. And it, again, turns into literally paper mâché. You can see the newsprint, you know?
+
+Jack: God.
+
+Austin: As it flutters away into the sky. And the cleaver turns and growls at you at this moment, and says:
+
+Austin (as cleaver): [harshly] Who are you?
+
+Jack (as Pickman): I'm Pickman, Shape Knight. Figured you could use some help.
+
+Austin (as cleaver): Agh. I have it under control.
+
+Austin: And then swipes at another one, and one of them actually...one of the ones with the little tool belt jumps up on her back and begins to claw away at her shoulders at this point. Distracted her for a moment here, unfortunately. Duvall and/or Lye, what are you up to?
+
+Art: Great question. Oh, I should just do the same thing I did the other time, when I did...remember when I did four d4 damage?
+
+Austin: I remember when you did four d4 damage, yeah.
+
+Jack: Oh shit.
+
+Art: I'm just gonna do that again. It’s gonna go the same.
+
+Keith: This might be bad this time, because there’s people in the way this time, I think.
+
+Austin: There’s a lot of people— well, the thing that I said last time was be aware that weapons with spread on them, if you fail, I will remember that. 
+
+Art: Yeah.
+
+Austin: Anyone standing near the target on a successful use must roll evade domain or another applicable skill to avoid marking stress as well, et cetera. So, you know.
+
+Art: But it doesn’t matter. I don't miss. [Jack laughs] 
+
+Austin: That’s true. Let’s see this roll. What are you rolling? Let’s talk about what you’re rolling. You don't have kill, [chuckles] so you’re already rolling one plus...you have technology, so that’s two dice.
+
+Art: I have technology.
+
+Austin: Two dice currently.
+
+Art: Uh huh.
+
+Austin: Two d6.
+
+Art: [feigning confidence] What else do I need? What are we talking about here? 
+
+Austin: Oh boy. Make sure you get rid of that plus one that’s in there, unless you’re getting help somehow, which seems hard to do.
+
+Jack: I mean, I could help by trying to cover his entrance.
+
+Austin: You just did a thing. I would say that that’s...
+
+Jack: Yeah, that’s true.
+
+Austin: You know. If we’re rolling it out like this, that would be…
+
+Jack: My skills are on cooldown.
+
+Austin: Yes.
+
+Art: [laughs] So, I'm rolling one…
+
+Austin: Two.
+
+Art: How did I do this last time?
+
+Austin: Two. You were just— yeah, you roll— 
+
+Art: Two, two.
+
+Austin: It’s discern plus the standard one that you already get. So, two d6, use the highest result.
+
+Art: I'm just making sure, 'cause again, this happened so well last time. Oh, I could just say that I succeed.
+
+Austin: You could just say that you succeed and take stress.
+
+Art: Uh huh.
+
+Austin: Instead of rolling, you could use majestic: once per situation, when you roll to resolve an action, you— oh, no, sorry, that’s not true. That’s majestic, that’s not…
+
+Art: Oh, unorthodox methods.
+
+Austin: Unorthodox methods is once per session, before you roll dice to resolve an action, instead state that you roll a six.
+
+Art: And we decided that…
+
+Austin: Does that trigger majestic?
+
+Art: Unorthodox methods and majestic, does that?
+
+Austin: I don't think we’ve talked about that. Did you just take majestic recently?
+
+Art: Oh, no, no, we figured that out. Majestic is the major…
+
+Austin: It’s a minor that you took from…
+
+Art: Minor from the major.
+
+Austin: From a major thing, right? That says any time you roll a six...or, sorry, once per situation, when you roll a six, treat it as if you rolled a ten, right?
+
+Art: Yeah. But does that go?
+
+Austin: I'm...I'll double check. It seems like no one in this server that I'm looking at has ever asked this question. [chuckles] I'm gonna say it does trigger. So, in other words, you have unorthodox methods. It says once per session, before you roll dice, you get a six instead. You can choose to get a six. You succeed, but you take stress. Majestic says once per situation, when you roll to resolve an action and you roll a six...mmm, you know what, maybe it says when you roll to resolve an action. You’re not triggering it, right?
+
+[Timestamp: 1:20:08]
+
+Art: Right, I'm not rolling.
+
+Austin: Yes, you’re not rolling, so...
+
+Art: I state that the result is a six.
+
+Austin: Yes, yes, so you’re right, it does not count.
+
+Art: Alright. So as not...I'm just gonna roll it. What’s…
+
+Austin: Two d6. Or, two d10.
+
+Art: I'm gonna get a six, and then I'm gonna get a ten. [Jack laughs] 
+
+Austin: Yeah. Uh huh, sure. That’s gonna…
+
+Keith: I think maybe you could even get a ten straight…
+
+Austin: Yeah, a real ten.
+
+Keith: Oh, you got an eight though.
+
+Art: I got an eight.
+
+Keith: That’s good!
+
+Austin: You got an eight! Eight’s good!
+
+Jack: That’s beautiful. Yeah, that’s great.
+
+Austin: Eight’s a success. Take no stress.
+
+Art: Well it wasn’t...it needed to be a six or a ten there.
+
+Austin: I...no. Eight’s not bad.
+
+Art: I was hoping for that.
+
+Austin: Eight’s not bad! You succeeded.
+
+Keith: Honestly, eight might be better than getting a six and saying it’s a ten, because that means later on you could do that, when it…
+
+Austin: You could still do that, it’s true.
+
+Keith: Yeah.
+
+Art: Sure, yeah.
+
+Austin: I mean, it’s once per situation, which is pretty good.
+
+Keith: Yeah.
+
+Austin: In any case, give me your stress here.
+
+Keith: Oh, it’s once per situation?
+
+Austin: The six counts as a ten is once per situation.
+
+Art: Six counts as a ten per situation, yeah.
+
+Keith: Wow, that’s pretty good.
+
+Austin: Not free six. Free six is once a game, once a session.
+
+Art: That’s how we got to all that damage is I rolled a six on damage.
+
+Keith: Right.
+
+Austin: Yes, yes, which...well, there’s a third thing here which we have not said that’s another six thing, right?
+
+Art: Right.
+
+Austin: Which is that when you’re rolling to inflict stress on a delve or adversary, buh buh buh buh buh, or remove stress from yourself or an ally and you roll six, the number’s sacred, roll an additional d6 and add it to your total, right? So.
+
+Art: Right.
+
+Austin: So in this case, go ahead and give me your damage.
+
+Keith: The bug stuff has a lot of math.
+
+Austin: It does.
+
+Art: Yeah.
+
+Austin: Bugs. They love math.
+
+Art: Oh, that’s what happened last time. I critted, so it went from a d4 to a d6.
+
+Austin: To a d6, and then you rolled a—
+
+Art: So I could then roll a six.
+
+Austin: Yes, exactly.
+
+Art: And then the six became— yeah.
+
+Austin: That’s what happened, yeah.
+
+Art: That’s what happened last time. It’s not gonna happen this time, because it’s only a d4.
+
+Austin: Correct, so give me your d4. That’s two.
+
+Art: Two.
+
+Austin: Not as good. But it hits a bunch of them, that’s the thing, right? It’s still a spread weapon, so it does spread out and hit another one of those spiked ones, two of the mallet ones, and two of the tool ones, including the one on the back of this large cleaver. And so they’re all—
+
+Art: It’s a bug on bug warfare.
+
+Austin: Bug on bug warfare. A number of them turn and look at you and...do they make noises, Jack, these gandies? What do they do?
+
+Jack: Oooh.
+
+Austin: They [makes rattling, hissing bug noises] hhhaaaaa. Shihihihihi. What’s their vibe?
+
+Jack: I think they’re making that sound.
+
+Austin: Turkururur.
+
+Jack: I think they’re making weird papery sounds, sounds of paper rubbing. Oh, no, I tell you what it is.
+
+Austin: Ooh, okay.
+
+Jack: They’re not making any sounds with their mouths or whatever.
+
+Austin: Mm-hmm?
+
+Jack: We’re just hearing the sound of the material of them moving against itself.
+
+Austin: I see. It’s a crumpling…
+
+Keith: Cricketing?
+
+Austin: Right, sure. Uh huh.
+
+Keith: Yeah.
+
+Jack: Yeah, I suppose, but even crickets are like, I'm gonna—I don't know what they do—rub my legs together to make a sound?
+
+Austin: [rustling paper near mic] It’s like one of these?
+
+Jack: Yeah, yeah, yeah. [rustling continues] [Jack chuckles] You know when you’re wearing trousers that make a noise, have a material that’s noisy or whatever?
+
+Keith: Oh, it’s George Costanza’s swishy pants.
+
+Jack: Yeah, exactly!
+
+Austin: This says Billing Department. It’s probably fine, right?
+
+Jack: Oh. Huh. Whose billing department?
+
+Austin: It’s fine. Don't worry about it. You’re not supposed to get charged for your COVID test anyway.
+
+Jack: Ugh. Uh huh.
+
+Austin: This is a very old piece of paperwork.
+
+Jack: But yeah, it’s this byproduct sound.
+
+Austin: Mm-hmm.
+
+Jack: Otherwise, they’re almost completely silent.
+
+Austin: Great. Makes it worse. Alright, Lye, what are you doing?
+
+Keith: What are my possible attack rolls here? What are the skills and domains applicable?
+
+Austin: What are you trying to do? Forget about rolls. Tell me what you’re trying to do.
+
+Keith: Well...I guess I just want to attack. I haven’t really...
+
+Austin: That would probably be kill.
+
+Keith: I've only made like one attack roll the whole series.
+
+Austin: Mm-hmm, mm-hmm. This is part of why I was surprised you wanted to spend all that money on a gun.
+
+Keith: Well, part— so, there’s two issues, and I solved half of it.
+
+Austin: Yes.
+
+Keith: Half of the issue was that I really wanted this mend coat.
+
+Austin: Yes.
+
+Keith: And that meant taking pretty bad weapons.
+
+Austin: Yeah.
+
+Keith: But the other half of it is that I don't have a spec-ed towards attack kind of guy.
+
+Austin: Yeah, you did not take any of your magic damage spells. Instead, you went with healy stuff and teleporting and…
+
+Keith: Yeah, yeah.
+
+Austin: Very good stuff.
+
+Keith: Great stuff! Great stuff.
+
+Austin: You’re in a rough place here, because I would say… [sighs] The skills that I traditionally look to to say these are fighty skills are one, two, three, four, five of the ones you don’t have.
+
+Keith: Yeah.
+
+Austin: Kill, obviously.
+
+Keith: Yeah.
+
+Austin: Because that’s the one. Hunt, because you’re tracking something down, you’re lining up shots, et cetera.
+
+Keith: Mm-hmm.
+
+Austin: Endure and evade, which are sort of defensive attacks, right?
+
+Keith: Yeah.
+
+Austin: You’re not necessarily zeroing in on something, but you’re putting yourself in harm’s way or your dodging incoming attacks and getting a little bit in as you can. And sneak, which is you’re setting up a situation where you can kind of get a hit in.
+
+Keith: Right. And I'm working towards sneaking.
+
+Austin: Sure. I believe you, yes. I think I let things like discern work for aiding someone else attacking.
+
+Keith: Okay.
+
+Austin: And delve can help you set up situations where you don't need to attack and can instead do something else, right?
+
+Keith: Right.
+
+Austin: If you wanted to climb onto the rooftop and find something to drop down on someone or, you know, climb onto the rooftop and ring a bell, or...you know what I mean? That sort of… [??? 1:25:30] These are all things that I don't think are available necessarily in this moment, but you know what I'm saying.
+
+Keith: Is there something that I could discern that might help someone else fight better?
+
+Austin: You could...a discern roll here would give you something, yes.
+
+Keith: Okay.
+
+Austin: I know exactly what it would give you.
+
+Keith: Great.
+
+Austin: A discern roll would be useful here. You don't have the domain, so that would be just two d10 right now.
+
+Keith: Okay.
+
+Austin: And I don't remember if you have any special discerning things.
+
+Keith: Well, I can smell magic.
+
+Austin: I'll give you mastery for that. That helps here.
+
+Keith: Okay. So I'm going to discern...
+
+Austin: So click mastery which will be a bonus die. Yeah.
+
+Keith: With mastery, and it’s neither occult nor religion.
+
+Austin: Correct.
+
+Keith: Okay. Even though I can smell magic, not occult still.
+
+Austin: Not occult. Magic is really...we have to...the other way around this then is…
+
+Keith: Yeah.
+
+Austin: In other words, I'm letting that you can smell magic be broader than occult, otherwise you wouldn’t be able to smell this at all. Yeah.
+
+Keith: Got it. Okay. I'll take it. And so that gives me plus one?
+
+Austin: Yep. To your amount of...no, just click in mastery. Don’t put the plus one, yeah.
+
+Keith: Alright. That’s a seven.
+
+Austin: That’s a seven! That’s a success, but you take stress. Here it is a d6 stress, so roll a d6.
+
+Keith: [impressed/dismayed whistle] 
+
+Austin: But I'll tell you what you smell. You smell coal burning as if in an engine, as if in a furnace
+
+Keith: Oh wow.
+
+Austin: And you sense that coming from one of these pipes that is underneath the overhang of the train station’s platform, you know how a platform goes out a little bit to meet where the train car will be.
+
+Keith: Yeah.
+
+Austin: It’s not flush necessarily with the vertical wall. So underneath that overhang from the station platform, there is one of those pipes hidden in the shadows, which is where these gandies are coming from as Pickman noted earlier, as she said that these things come from some sort of pipe nearby. This is why they keep coming, is because there’s this pipe just spitting them out over and over again.
+
+Keith: Okay.
+
+Austin: Take two to...I'm gonna say as you’re looking around at this point, we’re kind of in it now Lye, and you’re gonna take two blood as one of the tool belt one of thems comes skittering over in your direction
+
+Keith: Yeah.
+
+Austin: Without using...actually, the thing is as it gets closer you see, despite the fact that these things have these sharp-bladed legs, the ones that have tool belts also have like...baby hands? Like, hands that are too human-looking, very soft, very fleshy-looking human hands.
+
+Keith: Ew.
+
+Austin: And one of them, that one reaches out and slashes at you with a screwdriver or a paper cutter maybe, something like that, a little blade. 
+
+Keith: Yeah.
+
+Austin: So take the two stress you just rolled into blood.
+
+Keith: Minus one because of something from Pickman, right?
+
+Austin: Correct, yeah. You’re staying close. As long as you’re within arm’s reach of Pickman. Pickman has big arms. At this moment, you’re still within arm’s reach, so yeah, just take the one, and then roll that fallout test with eight stress. This might be the moment.
+
+Keith: [disappointed whistle]
+
+Austin: There’s a minor fallout.
+
+Keith: Minor fallout, there we go.
+
+Austin: Do you have anything that triggers when you get a minor blood fallout?
+
+Keith: No.
+
+Austin: Okay. Making sure. So you get the minor blood fallout...let’s see here. Hmm. Maybe it isn’t a knife and instead… [Keith laughs] What’s this look like when you’re smelling magic and looking for this thing? Give me the shot of you as you…
+
+Keith: I think it’s a very sort of...it’s a physical sensation.
+
+Austin: Mmm.
+
+Keith: So, the two...reality smells and magic smells exist on the same level.
+
+Austin: Yeah, okay.
+
+Keith: Except that there’s sort of telltale...there are things that only smell like magic, even if magic smells like things that are real.
+
+[Timestamp: 1:30:03]
+
+Austin: Yeah. So, you get cut like I said, and then as you’re like, “Whoa! What the fuck is going on here with this guy with little human hands?” produces a hammer from the weird mâché flesh tool belt.
+
+Keith: Smashing it with a hammer?
+
+Austin: Clocks you in the head with it. You take the minor blood fallout “Ringing Head: your next action will be dangerous, and after that it will be risky. After you’ve done both of those, this will clear.”
+
+Keith: Okay. Okay.
+
+Austin: So you’re next one is dangerous, and then it’ll be risky after that.
+
+Keith: Oh, that’s great. This is great.
+
+Austin: Mm-hmm! At this point, the one that was on the cleaver’s back hops off and is back on the train platform and is going to the three Toll Collectors, who one of them, I think it’s probably Agdeline, goes:
+
+Austin (as Agdeline): [shouting] You said we wouldn’t have to fight!
+
+Austin: And the cleaver says:
+
+Austin (as cleaver): You won’t.
+
+Austin: And reaches out with the scythe and pulls the one on the cart back off—
+
+Jack: Huh!
+
+Austin: And slams it back in front of you and your group of people. What are y'all doing? Do you want to explain what your plan is here Lye? It sounded like you had a plan brewing.
+
+Keith: Okay, I have an A and a B, because...so, one of my...I mean, I do have the thing that says “when I take a dangerous action that saves the day,” that’s a major thing.
+
+Austin: Mm-hmm.
+
+Keith: We did just start doing this.
+
+Austin: Mm-hmm!
+
+Keith: And I have only had this for half of a...well, I guess I've had it since the Aterika’Kaal.
+
+Austin: It doesn’t matter. Listen, you can start a thing and immediately do it, and it counts.
+
+Keith: Okay, fair. So, if I save the day here with a dangerous action, that would be great.
+
+Austin: Uh huh.
+
+Keith: That would check that box. So that’s why I'm motivated to do this.
+
+Austin: Yes.
+
+Keith: The second thing is that taking a dangerous action might be a little easier for me, because I have a good weapon. My Aterika’Kaal ritual knife is good, which means that I treat dangerous actions as risky actions when I use that knife.
+
+Austin: When you use that knife, that’s correct, yes.
+
+Keith: And there’s a clear way that I could at least start to save the day with a dangerous action, and it would be if I can close the thing—
+
+Austin: Yeah.
+
+Jack: Yeah.
+
+Keith: That the things are coming out of.
+
+Austin: Tube.
+
+Keith: I don't know if I can use the knife to do that.
+
+Austin: It’s a good question. I don't know that you...it depends on what you want to do with it, because that doesn’t feel like you could.
+
+Keith: Kill it. [laughs] 
+
+Austin: Well, it’s a pipe. It’s a big, open— 
+
+Keith: Yeah, I know.
+
+Austin: And when we say a pipe, just, Jack, to...it’s like a window-sized pipe, right?
+
+Keith: Right.
+
+Austin: It’s feet across, right?
+
+Jack: Oh, weird. I mean…
+
+Austin: Oh, you’re not. You’re thinking of it as little.
+
+Jack: Yeah, I'm thinking of it as almost like a little organ pipe. 
+
+Austin: Oh, okay.
+
+Jack: The thing that was weird about me was that these were built into the walls of the trains to a certain extent.
+
+Austin: I see. Right, right, right.
+
+Jack: Like speaking tubes, almost?
+
+Keith: These things are big, so they sort of balloon out when they extrude?
+
+Jack: Yeah, or they unfold from like...you know like a folded paper cone?
+
+Austin: Yeah, mm-hmm.
+
+Jack: That can come out of a tiny little space, almost like a…
+
+Austin: Like a snow cone cone. Like a little…
+
+Jack: Yeah, yeah, yeah. 
+
+Keith: Okay.
+
+Jack: Where it’s like, I reckon, in width, it’s about the size of a...I don't know the size of American coins. [laughs] It’s about the size of…
+
+Austin: But you’re in the realm of coins, is an important note.
+
+Keith: Cool.
+
+Jack: Yeah.
+
+Keith: Right. Quarters are the size of— 
+
+Austin: Is it wider than a coffee cup?
+
+Keith: Oh.
+
+Jack: No. Narrower than a coffee cup.
+
+Austin: You think it’s more narrow than a coffee cup. These things come out of it. Okay.
+
+Jack: They just pour out. Or they just squeeze themselves out.
+
+Austin: Yeah. Gross. So gross. Okay. Then yes, I think that that knife could do this.
+
+Keith: Okay.
+
+Austin: Assuming you succeed at this roll.
+
+Keith: Can I use a mend roll for this? Because mend…
+
+Austin: Yes. I think that is what you’re doing. Yeah, a hundred percent.
+
+Jack: This is in the station?
+
+Keith: Okay, so this is…
+
+Austin: It’s underneath the…
+
+Jack: What’s it fucking connected to? [laughs] 
+
+Austin: Down!
+
+Jack: Yeah!
+
+Keith: Down.
+
+Jack: Under.
+
+Austin: And Lye is smelling coal fire.
+
+Keith: We gotta use those cool stairs.
+
+Austin: Maybe. Maybe at some point. You could go underneath Last Rest.
+
+Jack: Oh, yeah.
+
+Austin: Yeah.
+
+Keith: Okay.
+
+Austin: So yes, I think that your knife could be used with mend to seal that thing shut somehow.
+
+Keith: Yeah.
+
+Austin: Maybe with some additional tools that you have in your mend coat, you know what I mean?
+
+Keith: Right.
+
+Austin: Cauterize it closed. Or it might not even be permanent, you know what I mean? But it would at least stop this for the remainder of the situation, at the very least.
+
+Keith: Right.
+
+Austin: So that’s what you want to do?
+
+Keith: That’s what I want to do.
+
+Austin: Risky is still very hard, because it removes a die.
+
+Keith: Yeah. You lose your highest die.
+
+Austin: You lose your highest die. You would be rolling mend, and you don't have a domain for it. You would not have mastery on this anymore, because I gave you that for finding this thing, so you wouldn’t have mastery. It sounds to me like maybe you would need help to do this, because otherwise you’re rolling— I mean, I guess you don't necessarily. You’re only losing one die, right? So it would be mend plus one is two dice. It would come down to one die. [chuckles] 
+
+Keith: Okay. Here’s...oh, I don't have to roll for that though. I have a thing that could immediately...this is now, selfishly—
+
+Austin: Uh huh, yep. You want to roll...yes.
+
+Keith: I could immediately solve this using Mark of the Weaver without even having to roll.
+
+Austin: That’s true.
+
+Keith: [laughs] But then I wouldn’t get my beat.
+
+Austin: Yeah, uh huh. As a reminder, Lye has the beat “Successfully perform a dangerous action that saves the day,” as you just said, but just to remind people.
+
+Keith: Yeah, yeah.
+
+Austin: And it wouldn’t be a dangerous action if you just did it for free.
+
+Keith: No. Okay. Let me just re-look at my stuff.
+
+Austin: Mm-hmm.
+
+Keith: Because I have a lot of things that are just weird passive things.
+
+Austin: Yes.
+
+Keith: Which eventually is gonna make Lye very cool. Yeah, I have all of these things that like make it really great when I cast a spell but then no helpful spells for anything yet.
+
+Austin: Yeah.
+
+Keith: Okay. If I get help, that would mean that I'm essentially rolling two dice, right?
+
+Austin: You’re getting an extra die, yeah. So you’d be rolling three d10, dropping the highest.
+
+Keith: And losing one.
+
+Austin: Yep. I mean, both of them could help you in this if they could tell me how.
+
+Keith: Yeah. Oh, when you take minor fallout you don't clear anything, right?
+
+Austin: You clear the stress of the thing that you got, so yeah, that blood goes down to zero, so that means you’re...I just did it for you. You got a seven total stress, still a lot of stress, unfortunately.
+
+Keith: Still a lot. Okay. Hey, yeah, if I get more fallout, then, you know, fuck it.
+
+Austin: Uh huh.
+
+Keith: Someone want to help? Or I'll just roll one.
+
+Jack: I can help.
+
+Austin: So that’s one. What are you doing?
+
+Jack: I am going to…
+
+Austin: Also, communicate this plan to your team in character for me, Lye.
+
+Keith (as Lyke): They’re coming out of the pipe. I'm gonna jam it up.
+
+Jack: Yeah, I think Pickman just shouts:
+
+Jack (as Pickman): On me! [Austin laughs] 
+
+Jack: And puts a hand on Lyke’s shoulder I think, and just starts walking together as one unit, if Lyke is okay with that, towards the pipe.
+
+Keith: Yeah. Alright.
+
+Jack: Covering…
+
+Austin: This is a real Vermintide situation. 
+
+Jack: Yeah, just being like, I am literally holding onto you here so we don't lose each other in the melee. And yeah, just firing the weapon.
+
+Keith: Yeah.
+
+Art: I could help—
+
+Jack: Oh!
+
+Art: —if a bunch of synthesized wax would help.
+
+Jack: Oh shit, when doesn’t that help, Art? 
+
+Keith: Oh, yeah, well I could use the…
+
+Austin: Yeah.
+
+Keith: I could use my knife to slice up the wax to plug the hole.
+
+Austin: Yeah, there you got. That’s teamwork, baby!
+
+Art: I don't know how it’s generated.
+
+Austin: You could tell me.
+
+Art: I don't know if we really want to get into it.
+
+Austin: Do you just have— have you generated some offscreen already for this…
+
+Art: Just pulling some out of my pockets. [laughs] 
+
+Austin: You’ve got like a sheet of premade wax.
+
+Art: Mmm, a sheet. That’s a good one.
+
+Austin: You know what I mean?
+
+Art: Yeah.
+
+Keith: God. I have this move— 
+
+Austin: Not like a sheet, not like linen sheets, not like bedding sheets. A sheet like a baked sheet of wax, you know?
+
+Art: Sure.
+
+
+
+Austin: Like sheet of cookies or something.
+
+Art: Yeah. Get some cookies on that wax.
+
+Austin: [laughs] Uh huh, yeah. What were you saying, Lyke?
+
+Keith: I have this move Sacrifice.
+
+Austin: Yeah.
+
+Keith: That is like, once I get spells— 
+
+Austin: Yes, uh huh.
+
+Keith: This would have been perfect for this if I were casting a spell.
+
+Austin: Uh huh.
+
+Keith: “Before you cast a spell from this class, you can opt to destroy a resource with the occult domain. Roll the resource’s dice. The amount rolled is added to your protection value against any stress incurred as a result of casting a spell.”
+
+Austin: Yeah.
+
+Keith: But nothing I've done so far has needed that, because I don't cast any spells yet.
+
+Austin: Yeah. You’ll get there.
+
+Keith: I'll get there. Okay. I've cut it up. I plug the hole. I roll my thing.
+
+Austin: Uh huh.
+
+Keith: And six.
+
+Austin: Six, that’s a success.
+
+Keith: Six-cess.
+
+Austin: That nine breaks bad. I take that nine from you. The other ones were a one and a three, so that six, thankfully.
+
+Keith: Art, you wanna turn that into a ten? [Jack laughs] 
+
+Austin: Doesn’t work when you’re helping, unfortunately. As you are doing this, Pickman and Duvall, the gandies have turned all their attention on you, and so as Lye is trying to plug this thing, both of you are going to take d6 blood stress here as they come in on you as violently as they can. And then Lye, you are going to take d6 echo stress as you’re dealing with some wild shit you shouldn’t be touching with your hands.
+
+Jack: [laughs] The pipe?
+
+Austin: The pipe, the pipe that goes down to this thing.
+
+Jack: This is blood stress?
+
+Austin: This is blood stress for Duvall and for Pickman who are running defense here.
+
+Jack: I rolled a one.
+
+Austin: Uh huh, so put that in blood— or do you have blood protection?
+ooi’m o
+Jack: But that doesn’t count for anything, because I have one blood protection.
+
+Austin: That’s true.
+
+Jack: Do I still need to roll a fallout test? I mean, it’s meaningless.
+
+Austin: Nope, 'cause you did not take it. 'Cause you did not take it.
+
+Jack: And I have no stress anyway, so I'd be fine.
+
+Austin: And you have no stress, yeah, so you’d be fine, yeah. Duvall?
+
+Art: Ugh, I rolled five, minus one?
+
+Austin: Minus one from the blood protection from…
+
+Art: Alright, so that would put me to ten.
+
+[Timestamp: 1:40:01]
+
+Jack: Ah.
+
+Austin: That’s fallout numbers, baby. Almost.
+
+Art: [laughs] That’s fallout, baby.
+
+Jack: I have a skill called Knight Protector, that says, “Gain the kill skill.” This has proven useful for Pickman so far. “Once per situation, when an ally within arm’s reach would mark stress to blood, you mark an equivalent amount to blood instead.” So I think what happens is...how does this thing attack Duvall? Is it just clawing at him?
+
+Austin: It’s just clawing, yeah. It’s a bunch of them clawing at Duvall, yeah.
+
+Jack: I think Pickman’s hand just shoots out and just pulls one of them off Duvall and onto her.
+
+Austin: Ooh, okay.
+
+Jack: Isn’t able to necessarily counter it yet, but can get it off Duvall and onto the person who is wearing armor instead. So I'm gonna take five blood stress, minus one for my blood protection which is four.
+
+Art: Okay, and then I do a fallout...who’s doing the fallout test for...
+
+Austin: It would still be...you’re not gonna do one at all, 'cause you didn’t take any stress.
+
+Art: Oh, sure.
+
+Jack: I removed the bug from you. Or, not a bug, a gandy.
+
+Art: Yeah.
+
+Jack: [laughs] I don't know what these things are.
+
+Austin: A gandy, yeah. But you are taking now...you are doing a fallout test.
+
+Jack: Yes.
+
+Austin: Pickman. 'Cause you’re taking…
+
+Jack: Oh!
+
+Austin: Yeah.
+
+Jack: That’s take minor fallout.
+
+Austin: That’s minor fallout. You rolled a one!
+
+Jack: I know! 
+
+Austin: But, you know, blood fallout isn’t...minor blood fallout isn’t too too bad. I guess don't tell that to Lye who just got one, but…
+
+Jack: It’s fine, Lye!
+
+Austin: [laughs] I think you are limping at this point. They just get on you like that, Pickman, and begin to hit you, stab at you. You’re holding them back as Lyke is doing his work, but you take Limping: foes target you. You get places last. Speed and stealth are risky.
+
+Jack: Ooh. Trying to find cracks in the armor with their horrible little limbs.
+
+Austin: Yeah, yeah, totally. Like literally poking up through little joints in the platemail, yeah. Or, not platemail, whatever it is. So that’s no good. Lyke, you also got fallout. You got minor echo fallout.
+
+Keith: Yeah. The echo ones are weird.
+
+Austin: They are. I'm gonna give you a choice.
+
+Keith: I had a recommendation.
+
+Austin: What’s your recommendation? I'm curious if it’s one of mine.
+
+Keith: Do you remember my weird dream?
+
+Austin: I don’t. What is your weird dream?
+
+Keith: You actually brought it up an episode or two after we first talked about it, but Lyke had a dream of some unknown thing noticing me.
+
+Austin: Right.
+
+Keith: Some monster.
+
+Austin: Yeah. So are you thinking The Ravening Call?
+
+Keith: Yes.
+
+Austin: So was I.
+
+Keith: Right.
+
+Austin: So we are aligned on this. Ravening Call says “This fallout has no effect, but it stays on your character and occasionally manifests itself as a broken staccato howl in the back of their mind. Should the fallout be upgraded, see The Ravening Beast below.” So at this point, it’s as you’re loading the thing up with the wax and sealing it shut, you can hear something from within this pipe calling out to you, resonating with you. And there’s something else I think that ties—
+
+Keith: Through the wax.
+
+Austin: It’s through the wax, but then you seal it, and you still hear it. And it takes you a second to realize that it’s also coming from the little glass tube or whatever that you have Aterika-Kaal in, and it’s as if it’s resonating or as if Aterika-Kaal is doing a call and response to that howl. Which, by the way, the two people that you’re with do not know that you have Aterika-Kaal with you. [Jack laughs] 
+
+Keith: Sure don’t.
+
+Austin: So it’s like a “Shh! Shh!” moment, but also it’s just creepy that you can hear this howl that is coming. And it sounds directed at you, you know? It’s not saying “Lyke,” but it’s like...you know sometimes you hear an animal make a noise and you’re like, that sounded like people words. You know it isn’t, but…
+
+Keith: Yeah.
+
+Austin: But, whooh.
+
+Keith: No one else heard it?
+
+Austin: I believe that’s what it...I believe “you” hear it, so in this moment only you’ve heard it. And go ahead and add that to your sheet, The Ravening Call. At this point, these things are still around, but having seen you close the tube, a number of them scatter, because they’re gonna want to fix that, but if you’re here they might get killed before they can fix that. And so most of them scatter off into the sunrise, into whatever long sunrise shadows they can get away from you in. The cleaver continues to sweep her huge scythe at them and scare them off and does the good deep:
+
+Austin (as cleaver): Ha ha ha! Yes, run!
+
+Austin: And most of them run away. I think maybe one or two stay on the platform and keep looking at you from a distance but don't attempt to close in on you again at this point.
+
+Jack: Okay.
+
+Austin: At this point, I think Agdeline, Larch, and Ettel—who are, as a reminder, a devil, a big guy, and a seahorse guy. A big human and a seahorse guy—all notice that it’s two people they’ve met before and then a Shape Knight.
+
+Keith: Mmm.
+
+Austin: And they’re like:
+
+Austin (as Ettel): Ah!
+
+
+
+Austin: And flicks the blood off the jaw blade on the large scythe and then does a little nod to you, and then flips the hood of a cloak up over her head and climbs awkwardly, just 'cause she’s so big, back up onto this pedal bike train cart, basically. [Jack laughs] 
+
+Keith (as Lyke): Uh, no offense, but why do you need them?
+
+Austin (as Katonya): I am going far and would prefer to get there quickly.
+
+Art (as Duvall): Hey, we’re going far. Where are you headed? What’s your destination?
+
+Art: Says Duvall, as he’s taking a little jar out of his pack and gathering up the dead bugs.
+
+Austin: [chuckles] Good, yes, good.
+
+Art: Yeah.
+
+Austin: I should give you some resources for that, but let me answer this question first. I think at this point she scans the three of you and catches that one of you is a Shape Knight, and she says:
+
+Austin (as Katonya): Ah! Like her, Shape Knights. They need my help.
+
+Jack (as Pickman): What station?
+
+Austin (as Katonya): Bell Metal.
+
+Jack (as Pickman): Oh, great. Yeah. We’re going to Bell Metal.
+
+Art (as Duvall): Mmm!
+
+Jack (as Pickman): You mind if we tag along?
+
+Austin: Crosses her arms.
+
+Austin (as Katonya): [reluctant sigh] I suppose.
+
+Art (as Duvall): It’s gonna be awkward otherwise, because we’ll just be tagging along behind you.
+
+Jack (as Pickman): Yeah, we’ll be walking behind you.
+
+Keith (as Lyke): Yeah.
+
+Austin (as Katonya): Ah, they go fast. I would outpace you.
+
+Art (as Duvall): Well, come on. You haven’t even seen us.
+
+Austin (as Katonya): You got here in the middle of night. I can tell two of you haven’t eaten. You've exerted yourself, and you are limping. We would outpace you. [snorts]
+
+Art (as Duvall): Alright, well when this is over, we’re gonna have a race, but…
+
+Jack (as Pickman): Nope. [Keith laughs] 
+
+Austin (as Katonya): I will win. Pfft. But get on board.
+
+Jack: I think Pickman points at the...it’s like a handcart powered by bicycles?
+
+Austin: Yep, mm-hmm.
+
+Jack: And says:
+
+Keith: Foot cart?
+
+Austin: Yeah, mm-hmm.
+
+Jack (as Pickman): Toll collectors. Where did you get this?
+
+Austin (as Ettel): Oh, uh…
+
+Austin: And this is Ettel speaking.
+
+Austin (as Ettel): Oh, you know, we’ve been here and there. We find things. We put them to use!
+
+Jack (as Pickman): You steal this from Shape Knights?
+
+Austin (as Ettel): [probably lying] No! Steal from a Shape Knight? How would we ever? You’re the first Shape Knight I met, buddy.
+
+Jack (as Pickman): Well, you're about to meet some more down there.
+
+Austin: Larch says:
+
+Austin (as Larch): That’s not true. [Jack laughs] 
+
+Austin: And Ettel’s like:
+
+Austin (as Ettel): [hushed, admonishing] Larch!
+
+Jack: Pickman hoists herself heavily onto the train cart.
+
+Austin: Uh huh. Let me tell you what you got here from these gross bug things. Again, I don't know that they’re actually bug things, right? They’re these gandies, these paper…
+
+Keith: It’s just that everything we’re associating with them are bugs.
+
+Austin: That’s exactly it, right? They are bug-like in so many ways, except for what they seem to be...I mean, I guess including what they’re made of, but it looks like they’re made by bugs more than that they are bugs.
+
+[Timestamp: 1:50:04]
+
+Jack: By bugs, for bugs.
+
+Austin: They’ve been made in the images of bugs. Right, exactly, yes.
+
+Keith: They’re like the Mickey Mouse’s Fantasia cleaning up magical instruments but if those were all bugs.
+
+Austin: Mm-hmm. Yes, exactly. So there’s a few things here, and y'all can pass these out as you want. I guess you get this first thing, obviously. You’re looking for the carapaces specifically, right?
+
+Art: Mm-hmm.
+
+Austin: So I think that’s a d6? Let’s say d8, because that’s the tier that we’re on here. D8 gandy carapaces. They’re big, you know? They’re like a big tortoise shell almost. So it’s a collection of them. You could break this down into fewer gandy carapaces. And I want to say that those are probably...it’s weird, because they’re technology technically, like I would put them as a technology thing, but what the thing is physically is not technology, right? It’s probably more like wild. Or warren? I guess they’re little bug carapaces, they’re little creature carapaces. Let’s go with wild, 'cause the’re parts of a creature. So, gandy carapaces.
+
+Art: We’re spelling gandy…
+
+Austin: Yeah, that’s fine. I or a Y is fine.
+
+Art: Alright.
+
+Austin: I don’t particularly have a preference in this case. And that’s wild, but I think it might also be...not...I guess people...they seem tough, right? They seem like they’d be usable in various ways, so I'm not gonna give it a niche or something like that.
+
+Keith: Yeah, you could make it into armor, or you could make it into a bowl.
+
+Austin: Ick. Don’t…
+
+Art: That’d be a fancy bowl.
+
+Jack: Don’t eat out of it!
+
+Austin: I wouldn’t eat out of that bowl.
+
+Keith: I think Austin thought it would not be a very fancy bowl. [laughs] 
+
+Austin: No. I guess people— 
+
+Art: I don’t mean to eat cereal out of, but it’s a decorative item.
+
+Austin: Oh, I see. [chuckles] Now I see.
+
+Keith: I meant to eat cereal out of, honestly.
+
+Austin: [dismayed] Ohh.
+
+Keith: But I get your point.
+
+Austin: Here we go, sorry. I was trying to find my resources here. I think that these are...no, I think that’s right. I think just the d8 wild makes sense. But the other thing that you will find on them—and maybe you split this up between two of you if you want to—are the tools from some of these creatures, the ones that have the tool belts built into them.
+
+Keith: Yeah.
+
+Austin: You find wrenches and railroad spikes and a kind of gandy toolbox, and that is a d6 piece of equipment. I guess actually I would say that’s equipment and not a resource. That’s a toolbox, so that’s a single thing, and that’s d6 and tiring.
+
+Keith: It’s heavy?
+
+Austin: It’s heavy. These are heavy things, yeah.
+
+Keith: I was gonna say, and I'm fine with splitting that if you still want to do that, but I was gonna...you said that Art’s thing wasn’t niche. What if I looked for something specifically that was niche?
+
+Austin: Like what?
+
+Keith: What would a niche— 
+
+Austin: What would you want here from these gandies that would be niche?
+
+Keith: [thoughtful sigh]
+
+Austin: I feel like most of their stuff is just not that exciting, 'cause they’re just a hoard of little things.
+
+Keith: Okay.
+
+Austin: You know what I mean? I would say that…
+
+Keith: What are their sensory organs like? Do they have antennae? They got eyestalks?
+
+Austin: They’ve mostly been [??? 1:53:57] No, they don't have anything like that. As Jack said, they’re not making noises from mouths even, you know?
+
+Keith: Yeah. Okay.
+
+Austin: So I would say—
+
+Keith: If there’s nothing niche, it’s fine.
+
+Austin: Yeah, I would say gandy tools, which is a d6 tiring tool that is a delve tool, basically. I don't think that you could break that up, 'cause it’s a piece of equipment, so one of you will end up with that.
+
+Keith: Okay. Pickman, you can have that. I don't mind.
+
+Jack: Yeah! Thank you.
+
+Austin: That seems like a thing a Shape Knight ends up with, you know? You know what? These are not tiring. These are wyrd.
+
+Jack: Ooh!
+
+Austin: W-Y-R-D. “When you inflict stress with this item and roll the maximum amount, mark d6 stress to echo.” They have a connection to the Shape, and so using them risks echo stress. 
+
+Jack: And what is this? This is a toolbox? This is a…
+
+Austin: It’s a set of the tools from one of their bellies.
+
+Jack: And they’re fairly normal human tools?
+
+Austin: Made of the same stuff that they’re made of, this kind of dense paper mâché wax carapace stuff.
+
+Jack: Awful. But you could…
+
+Austin: Yeah.
+
+Jack: Like, oh this is a flatheaded screwdriver, this is a little hammer for delicate work.
+
+Austin: Yeah, a hundred percent. Yeah.
+
+Jack: This is a hammer for heavy work.
+
+Austin: Mm-hmm.
+
+Jack: This is a scalpel.
+
+Austin: The heavy work one is the one that bonked Lyke in the head, yes.
+
+Jack: [chuckles] Yeah. God, sometimes on Friends at the Table…
+
+Keith: It hurt. I still have…
+
+Jack: ...a bug just walks up to you and hits you over the head with a hammer.
+
+Austin: Yes. 
+
+Keith: Yeah.
+
+Austin: Lyke, you still have...just to be clear, you do still have the other…the battered.
+
+Keith: Yeah. I'm still risky on my next roll.
+
+Austin: Yes, correct. Yeah, yeah, yeah. Yep, you got it. Alright. So you climb on board?
+
+Jack: Yeah. I think I'd like to…
+
+Austin: It sounds like.
+
+Jack: I think I'm gonna say to...I think Pickman again just addresses them as a group and is like:
+
+Jack (as Pickman): Toll Collectors. What’s your deal? My friends met you in the mountains above Blackwick, you know, not too long ago.
+
+Austin (as Agdeline): Well, you can ask your friends.
+
+Keith (as Lyke): Yeah, you can ask me.
+
+Jack (as Pickman): I want to ask you.
+
+Austin (as Ettel): Our deal. Eh, what’s anybody’s deal? You work in the mines.
+
+Austin (as Agdeline): You don't do so well. You find a new way to make a living.
+
+Jack (as Pickman): Hmm? And what is that living?
+
+Austin: And they’re peddling…
+
+Jack: [laughs] Yeah, peddling this little…
+
+Austin: This train car. It’s going kind of slow but not as slow as limping would, certainly.
+
+Jack: Yeah.
+
+Austin (as Agdeline): Oh, this and that. Odd jobs.
+
+Jack (as Pickman): Look, there’s— 
+
+Keith (as Lyke): Look, this is a better job for you than what you were doing before, because people will overreact.
+
+Austin (as Agdeline): To being toll collectors, you’re not wrong.
+
+Keith (as Lyke): Yeah.
+
+Jack (as Pickman): I don’t mean to be rude. Just, there’s three of you. None of you are very big. Now you’ve signed up with a—
+
+Austin: Larch is pretty big. [Jack chuckles] But for a human.
+
+Jack (as Pickman): Some of you are pretty big. You’re pretty big for a human. Sign up with this cleaver to take them south, and you were up in the mountains near…
+
+Austin (as Ettel): Okay, okay, okay. You don't have to—
+
+Austin: And I think Katonya says:
+
+Austin (as Katonya): Well.
+
+Austin: And then Agdeline says:
+
+Austin (as Agdeline): We can tell our own story, dear. We thought that Katonya here—a good friend of ours now, you see—was...what do we say? Easy pickings.
+
+Jack (as Pickman): Mmm.
+
+Austin (as Agdeline): It turns out not so much, and so we arrived at an alternative relationship with her. Still one where we both benefit, right?
+
+Austin: And Katonya— 
+
+Keith (as Lyke): Two Ls in a row?
+
+Austin (as Agdeline): It’s...I don’t like to think of them as losses. I like to think of them as experiences, you see.
+
+Keith (as Lyke): That’s a really interesting perspective.
+
+Jack (as Pickman): Mmm.
+
+Austin (as Katonya): Hmm. In any case—
+
+Keith: I think Lye is mostly serious saying that.
+
+Austin: Okay, yeah. Katonya then kind of responding to you Pickman but also just gesturing to the whole group, is like:
+
+Austin (as Katonya): And your deal? What is your deal? Your whole deal? What is it?
+
+Austin: Skin bubbling, still.
+
+Keith (as Lyke): Do you want to take it?
+
+Austin: Long claws.
+
+Art: Mmm.
+
+Jack (as Pickman): Traveling south, looking for a train. Something’s gone missing from Blackwick, and we aim to get it back.
+
+Austin (as Katonya): Hmm. You go towards dangerous territory.
+
+Art (as Duvall): Danger is prominently featured on our business cards.
+
+Austin (as Katonya): I do not believe in business cards.
+
+Art (as Duvall): Well, it’s a—
+
+Keith (as Lyke): I said that they were a little hokey.
+
+Austin (as Katonya): Hmm.
+
+Art (as Duvall): It’s— what? People need to know where to find you.
+
+Keith (as Lyke): [sighs] I think it adds a certain mystique if it’s a little bit hard to find us, but I understand that that’s not…
+
+Art (as Duvall): I mean, we’re at the automat. It’s not like it’s that hard.
+
+Keith (as Lyke): Right. Which is why I gave in eventually.
+
+Art (as Duvall): Yeah, I'm…
+
+Keith (as Lyke): I mean, not eventually. I barely even brought it up that I… [Austin chuckles] It’s fine.
+
+Art (as Duvall): Do you or do you not have a business card on you?
+
+Keith (as Lyke): I do not.
+
+Art (as Duvall): [appalled] You don’t? Oh my god.
+
+Keith (as Lyke): I tell people!
+
+Art (as Duvall): What if they don’t remember?
+
+Austin: Ettel has stopped. 
+
+Keith (as Lyke): Then they didn’t really need us.
+
+Austin: Ettel gets up from the pedal bike, and says:
+
+Austin (as Ettel): Business cards? I like these. Can I get a couple? Hand ‘em over.
+
+Keith (as Lyke): [suspicious] Are you gonna give them to people and say that that’s who you are? [Jack laughs] 
+
+Austin (as Ettel): [audibly lying] No.
+
+Keith (as Lyke): ‘Cause you are not allowed to do that.
+
+Austin (as Ettel): [petulant] Why not?
+
+Keith (as Lyke): Because we’ll find out.
+
+[Timestamp: 2:00:00]
+
+Austin (as Ettel): How?
+
+Keith (as Lyke): And there’s a lot of us, and they’ll be angry, and they’ll beat you in a fight again.
+
+Austin (as Ettel): [grumbles] Can I still see one?
+
+Keith (as Lyke): [pause] I don’t have...I don't know.
+
+Art (as Duvall): Yeah, sure.
+
+Austin (as Ettel): The Blackwick Group. Hell of a name.
+
+Art (as Duvall): Danger is our specialty.
+
+Austin (as Ettel): It says that right here.
+
+Art (as Duvall): Come by the automat.
+
+Austin (as Ettel): Come by the automat. What do you do? Besides fighting the weird train monsters.
+
+Keith (as Lyke): We, last job, beat up a god.
+
+Austin (as Ettel): Yeah, big one or a little one?
+
+Keith (as Lyke): Big one. Big nasty old...plant monster.
+
+Austin (as Ettel): You beat ‘em up?
+
+Keith (as Lyke): Big as a house. Killed it, dead. Bigger than a house. Literally, actually, it was a house also, so.
+
+Austin: I think Katonya says:
+
+Austin (as Katonya): It is not good to kill gods.
+
+Keith (as Lyke): Nah, but this one had gone bad.
+
+Austin (as Katonya): It is evil to kill a god. The Course does not like the removal of things.
+
+Keith (as Lyke): What about an evil god?
+
+Austin (as Katonya): Mmm, who is to say evil?
+
+Keith (as Lyke): You did.
+
+Art (as Duvall): Well, you just did.
+
+Keith (as Lyke): You just did.
+
+Austin (as Katonya): Was the god removing things?
+
+Keith (as Lyke): Yeah.
+
+Austin (as Katonya): Like?
+
+Keith (as Lyke): People.
+
+Austin (as Katonya): You saw this?
+
+Keith (as Lyke): Yeah.
+
+Austin (as Katonya): Perhaps then, best to be dealt with.
+
+Keith (as Lyke): Yeah. Hey, I mean, if someone had the time and resources to dedicate to rehabilitating or at least studying such a thing, I'm all for it, and I think we all agree on that.
+
+Austin (as Katonya): Yes, this I would like quite a bit. [someone chuckles] 
+
+Keith (as Lyke): Right, we all agree. We all agree that if that had been able to happen, that would have been great.
+
+Jack: Pickman is looking down the track ahead of her with a pair of small binoculars that have been unclipped from her armor and is not paying attention to what is happening. [laughs] 
+
+Austin: Mm-hmm. Something strange is happening ahead, and we can...we’re collapsing time in here a little bit. It’s been a few hours on this train at this point.
+
+Keith: Mmm.
+
+Austin: There’s been lots of small talk. The track becomes increasingly convoluted. At first there’s just one switch, and it goes off to the right, off to the west here. Then there’s another one that goes off east. And then there’s two more in very close proximity. And then soon you see that the ground becomes covered in these twisting, circling, wrapped-back-around-on-themselves train tracks, just as if you started scribbling across the ground. The main line still goes straight south.
+
+Jack: Oh, it’s not like we’ve entered Mr. Bones’s Wild Ride and we’re gonna go round in circles for the next…
+
+Austin: We have not. Well, if the switches flip on, you will.
+
+Jack: Yeah.
+
+Austin: If it switches onto the wrong track. And off in the distance, you see more gandies out there laying some of this track.
+
+Jack: Mmm.
+
+Austin: You know, it’s like passing a farm and seeing someone working with a horse or something, or seeing people begin to...a tractor going across the horizon and collecting wheat or whatever. Or sowing wheat. I don't know how tractors work; don’t @ me.
+
+Jack: They do both.
+
+Austin: That makes sense. And yeah, I think that’s what you’re seeing here.
+
+Jack: Have I seen this happen before on the lines?
+
+Austin: Never. Never.
+
+Jack: This is new? Okay.
+
+Austin: Maybe not never, but mmm...this is unique. You’ve seen weirdness, certainly.
+
+Jack: Yeah. This is a sign that...if we were playing Phasmophobia, this would be oh the temperature is starting to drop or something.
+
+Austin: Oh yeah.
+
+Jack: We’d be like, mmm, okay.
+
+Austin: Oh yeah, a hundred percent. A hundred percent. 
+
+Jack: I think Pickman holds up a hand and says:
+
+Jack (as Pickman): Stop the cart.
+
+Jack: And then just gets off and starts limping along the track towards where it starts getting…
+
+Austin (as Agdeline): Darling, I don't think that’s a good idea.
+
+Austin: Says Agdeline.
+
+Austin (as Agdeline): What with you limping and all. It makes you an easy target.
+
+Jack: Shrug without turning around.
+
+Keith: Jack, can you tell me what Pickman’s fallout is again?
+
+Jack: It is “Limping: Foes target you. You get places last. Speed and stealth are risky.”
+
+Keith: And Art, what kind of fallout do you have right now?
+
+Art: Supplies and fortune.
+
+Keith: Okay.
+
+Art: I could clear a bunch of it if I could do some sleep delvin’. [Austin and Jack laugh]
+
+Keith: I could…
+
+Austin: Oh, so you just have...wait, Duvall, you don't have fallout. You just have stress.
+
+Art: I've got stress. No, my fallout is the luck fascination.
+
+Austin: Which you don't want to get rid of, is my understanding.
+
+Keith: Right.
+
+Art: Well, we’ll see how it goes.
+
+Austin: Okay. Yeah.
+
+Art: I mean, it hasn’t come up yet, right?
+
+Austin: Right, right.
+
+Art: I haven’t missed a…
+
+Austin: Correct, you have not missed an opportunity yet.
+
+Keith: Yeah.
+
+Art: Jack rolling a bunch of fours is not a in-universe… [laughs] 
+
+Austin: I mean, maybe it is, but. [Jack and Art laugh] If you wanted to roleplay that, I wouldn’t say no, you know?
+
+Keith (as Lyke): Pickman, I think I could fix your leg up, if you think it would help for the…
+
+Jack (as Pickman): Yeah. Why not?
+
+Keith (as Lyke): Okay. Well, I'm gonna use my…
+
+Jack (as Pickman): Oh, is it the spiders again?
+
+Keith: I'm gonna use my Mark of the Weaver. 
+
+Keith (as Lyke): It’s just ink, just spiderweb ink.
+
+Jack (as Pickman): Huh.
+
+Keith (as Lyke): And so I...oh, I've done this to you before.
+
+Jack (as Pickman): You’ve done it to my gun, yeah.
+
+Keith (as Lyke): Yeah, so that was your gun, this is your leg. It is basically the same deal. It’ll just take literally three seconds.
+
+Jack: Like, limps…
+
+Austin: I still think…
+
+Jack: Hmm?
+
+Austin: I'm gonna say I think you have to roll mend to do this still. It just happens very quickly, but I don’t think you get to not...for fixing fallout specifically, which is a big deal.
+
+Keith: Okay.
+
+Austin: I'm gonna make you roll for it.
+
+Keith: Okay.
+
+Austin: I think that to me is still…
+
+Keith: For fallout specifically it’s a roll?
+
+Austin: Fallout is such a big deal.
+
+Jack: Yeah.
+
+Austin: Do you know what I mean? That it should feel like there is…
+
+Keith: Yeah.
+
+Austin: Yeah, no, you normally cannot just roll to get rid of fallout. You have to go to a landmark, to a haunt, to get rid of it. So the fact that I'm even allowing it is a big deal, you know what I mean?
+
+Keith: Okay, yeah.
+
+Austin: So give me a...this is a mend. It’s probably a mend...I guess it’s a spell, right? So I would let you use occult to do this.
+
+Keith: Okay.
+
+Austin: So yeah, I would count this as a spell. So if you wanted to you could sacrifice also, but I don't know if that’s worth it for you in this situation.
+
+Keith: Mmm, no. I'll just roll.
+
+Austin: So that is mend, occult, that’s two d10. Failure is risky here.
+
+Keith: Oh, I have…
+
+Austin: Yes.
+
+Keith: Well, I have mastery, because I have four mind stress.
+
+Austin: You do. There you go.
+
+Keith: And since I'm rolling on a spell, I can use mastery...
+
+Austin: So that is another die, so that is...I said two before, but I meant three, so that’s four d10, yes.
+
+Keith: Okay.
+
+Austin: Because that base one I always forget about. And this is risky.
+
+Keith: Ten. Two tens.
+
+Austin: Oh my god!
+
+Jack: Oh my god!
+
+Art: Whoa!
+
+Jack: Holy shit!
+
+Austin: You sure you don't want to start thinking about luck in roll terms, Art? [chuckles] Because that was five, seven, ten, ten.
+
+Art: It’s hard to become fascinated with the amount of damage being done to a delve, you know? [Jack laughs] 
+
+Austin: Your bees know what it should be. You know what I mean? 
+
+Art: Mmm.
+
+Austin: The bees know what the average and the mean is, you know? And so I think seeing this go so well. So tell me what this looks like, Lye.
+
+Keith: It’s almost like I brushed something off of Pickman’s leg, like if there was lint or a piece of dust and I just swept it off.
+
+Austin: Yeah.
+
+Keith: And it just was. But you can maybe see some webs working and tightening, but it really looks like almost nothing.
+
+Jack: Huh.
+
+Austin: Yeah. Get rid of it. Clear it.
+
+Art: So it seems I have to roll to learn about it.
+
+Austin: You could discern if you wanted to. Is that the thing that you’re talking about here?
+
+Art: I guess.
+
+Austin: Yeah, “You must try to learn more about it, firsthand if possible. Whenever you attempt to learn about your weird—”
+
+Art: But I roll with mastery to learn about it.
+
+Austin: Correct. I would say this is discern occult with mastery. And I'm gonna say this about this whole little day of things being lucky in this way. Does it feel like there is something happening here? And I have answers for successes here, which is interesting. Especially if you’re...you and your bugs are looking at this happen, you know? Hey, that’s a success. That’s an eight. Also, briefly, just as a reminder—
+
+Art: Oh, it’s a six. It’s a ten.
+
+Jack: Oh!
+
+Austin: It’s a six! It’s a ten! Luck exists!
+
+Jack: [laughs] Luck exists!
+
+Keith: Six is a ten.
+
+Austin: It’s a six, it’s a ten. Yeah, you rolled eight, six, two, one. When you roll a six, that six counts as a ten, so that’s a crit!
+
+Jack: God.
+
+Austin: I wish you had a different— yeah, go ahead. What were you going to say?
+
+Jack: I just love that we stopped this train car…
+
+Austin: Yeah.
+
+Jack: And she said, “Oh no, you better be careful!” and then we just do two absolutely incredible rolls back to back.
+
+Austin: Yes. Yes, totally.
+
+Jack: Danger is our profession.
+
+Keith: I don't know, Austin, if you picked up on this. I am trying to charm with tales of my exploits now to these people.
+
+[Timestamp: 2:10:02]
+
+Austin: Yeah, you should check that off, a hundred percent. Yeah, yeah, yeah.
+
+Keith: Okay.
+
+Austin: I think you’ve done that now between the tales of your exploits plus successfully healing this person. I think, you know, at this point I think Ettel’s like:
+
+Austin (as Ettel): Well, what are you doing there? What is this? What’s this thing? What’s the spiderweb ink? What’s that ink? Looks like a web.
+
+Keith (as Lyke): Oh, that’s just how I heal. [Jack laughs] I can fix people. Remember I did it on you!
+
+Austin (as Ettel): Oh, that’s the same…
+
+Keith (as Lyke): Well, I did it on one of you.
+
+Austin (as Ettel): Right, yeah, but what is it? What is it? What’s the— you did it on Agdeline.
+
+Keith (as Lyke): It’s just a magic sort of thing. I just sorta...you know, things are apart, and I [clicks tongue] pull ‘em together.
+
+Austin (as Ettel): Just like, [clicks tongue] like that?
+
+Keith (as Lyke): Almost everything that’s broken is because things that are supposed to be together aren’t. Almost all of it.
+
+Austin (as Katonya): He is right.
+
+Keith (as Lyke): So if you can pull stuff that’s apart together, then you can fix almost anything.
+
+Austin: Duvall...I want to give you something here. I mean, the thing that you...Katonya notices you studying the thing that is happening here, right?
+
+Art: Mm-hmm. It’s probably not particularly subtle to study the outcome of… [chuckles] 
+
+Austin: No.
+
+Art: Yeah.
+
+Austin: Do you verbalize it in any way?
+
+Art: Tell me what it is before I tell you what the verbalization is.
+
+Austin: The thing that’s gonna happen is Katonya is going to try to talk to you about how she believes the world works.
+
+Art: Mmm. I think it’s more like...ugh, how do I do this without it being too strange? Like, strange as in...
+
+Austin: You have the fallout Fascination, so you should lean strange, do you know what I...do you start taking notes? Do you…?
+
+Art: Yeah, I'm trying not to be Adrian Monk, you know? 
+
+Austin: Right, sure.
+
+Art: I'm trying not to lean into that kind of…
+
+Austin: Yeah, yeah, yeah. That depiction of a certain sort of...yeah.
+
+Art: Yeah. You know, and that’s…
+
+Austin: Obsessive, yeah, that’s rough.
+
+Art: So I think it might be notes. I think it might be sketching, but not sketching what’s happening, sketching the chords of the universe.
+
+Austin: Oh, light work, sure, of course.
+
+Art: Well, it’s a sketch.
+
+Austin: Yeah.
+
+Keith (as Lyke): Looks a lot like spiderweb, there.
+
+Art: Yeah, it probably does.
+
+Austin: It probably does. It probably does.
+
+Art: Sorry, artists listening to this. [Austin laughs] That I just like...you know, just sketching the universe. Easy work!
+
+Austin: Mm-hmm.
+
+Art: Like you do. That’s not what I mean. You’re all great. 
+
+Austin: [chuckles] As you’re doing this, I think Katonya says:
+
+Austin (as Katonya): Ah, you are drawing the Course.
+
+Art (as Duvall): That...I hadn’t...I'm not familiar with that term so much. You said it before.
+
+Austin (as Katonya): The Course.
+
+Art (as Duvall): Yeah.
+
+Austin (as Katonya): It runs through Sangfielle. It runs through everything. Under it.
+
+Art (as Duvall): Mmm.
+
+Austin (as Katonya): It is the pulse of the land, except the un-pulse. It is not rhythm, it is a...a sound.
+
+Keith: Beam.
+
+Austin (as Katonya): Endless. [sighs] 
+
+Art (as Duvall): Does it tell us...does it determine our actions?
+
+Austin (as Katonya): This is good question. It shapes possibility. Not in a way what closes, in a way that opens. Like a shovel and a beach of sand, like a garden and a pocket of seeds. It is the reason why things are not on beat. It is the reason why I am large even for large. 
+
+Austin: And Larch says:
+
+Austin (as Larch): Uh huh, what? Did you say something? [Art chuckles] 
+
+Austin: And she goes:
+
+Austin (as Katonya): Ha, ha! No. [Art laughs] Any time it should be four when two plus two, but it is five, that is the Course. And it is five often, yes.
+
+Art (as Duvall): Hmm. But do I make it five or does the Course make it five?
+
+Austin (as Katonya): Hmm. This is a question long investigated, and investigation of it is a waste of time. What is the answer you seek? 
+
+Art (as Duvall): I need to know. I need to be sure that I can...that I could shovel the beach or I could throw the shovel into the ocean.
+
+Austin (as Katonya): Of course you could! Of course you could. But even if you could. [chuckles] You see? Perhaps the Course, you are the outlier. The Course runs into the sea for you, still the Course.
+
+Art (as Duvall): Mmm. So if you look back, it’s a straight line.
+
+Austin (as Katonya): Now you see.
+
+Art (as Duvall): What is it if you look forward?
+
+Austin (as Katonya): An open plane, always. Here, take this.
+
+Austin: Produces a little book. This is a book of fables. You almost immediately recognize this, because...or, you recognize part of it at least, because Chine has one of these, or used to at least. 
+
+Art: Hmm.
+
+Austin: I think maybe it’s just a piece of...the version they have is just a little trinket, not a resource. But this is, you know, you’re pursuing a thing, you critted on this, I think this is a d10 resource.
+
+Art: Ooh, I'm gonna sell this book. 
+
+Austin: I might make it equipment, but I don't know what type of equipment to make. I need to spend some time of my own figuring out if I can make a book that’s cool, you know?
+
+Art: Sure. Who couldn’t?
+
+Austin: This is the thing. But I mean it in this game’s system, you know what I mean?
+
+Art: Right, yeah.
+
+Austin: Can I give you a book about the...you know. The books that the cleavers have, the cleavers carry around these fable books, right? These books of fairytales and fables that they use to both help make sense of the world for other people but also as a way to engage with the Course and the wildness of the Course, the unpredictability of the Course. The Course being, again, this almost oppositional thing to the Structure and the Shape. The openness, which in this moment where you’re seeing the two of them almost collide metaphorically in this huge field of twisting lines, twisting train tracks, is one of these things that’s illustrating a strange synthesis of these two powers in so far as they might be two distinct powers, if they are at all. You know, these are not chaos and order necessarily, but that sort of the chaotic but also it’s still train track, it’s still orderly in that way. A train can still only move on its tracks, even if they’re all over the place. It kind of resonates with you in this moment that you’re hearing this despite being literally made of the two plus two equals four of the bugs. And—
+
+Keith: But also a person being filled with bugs is kind of a two plus two equals five.
+
+Austin: But also— exactly, yes, a hundred percent. And so I think you’re sitting in this contradiction in this moment. And this book of fables, I think I might end up making it some sort of gives you mastery on certain wild and occult rolls type thing, right? Maybe it’s a discern piece of equipment, that’s fun. The idea that you’d be flipping through a book and be like oh yeah this is this type of creature, you know? It’s like a heartsblood beast. Okay, here’s what it is. I've invented this new thing.
+
+Art: Alright.
+
+Austin: Move that book of fables up to equipment. And you could still sell it. Equipment is something you could sell down the road. But move it up to equipment. It is a...I guess the thing it does is discern and then wild or occult, and then in parentheses put “beasts.” I'll know what it is, so that’s not that big of a deal. And now that it’s equipment, it’s only d...you know, I'm gonna say it’s d8 equipment. So whenever you could solve something with discern, it does a lot of discern damage, if that makes sense. It’s a weird system. It’s a weird system to invent this for, because this is not...normally you’d delve to do damage to a delve, so to speak, so we’re kind of working around this here, and we’ll see how it feels in play.
+
+Jack: This is the travel guide, right? This is like a...
+
+[Timestamp: 2:19:59]
+
+Austin: Yeah, mm-hmm, but it’s a book of fables you've never read yet, so...and they’re weird fables. I wish Dre was on the call to talk through it, but in my mind, a lot of them are not...it’s not just that they’re like, “oh yeah, it’s like the Grimm fairytales, they’re darker than people know.” It’s like a lot of them just don't resolve. [Jack laughs] You turn the page expecting more of a resolution, and there just isn’t one, and it’s a new one, you know?
+
+Art: That’s not a great fable. It’s supposed to have a moral.
+
+Austin: Nope, no. Well, the moral is you turn the page and there’s another fable, and sometimes they intersect in strange ways. Sometimes you’ll read a fable and you’ll get to the next— you’re like, I guess I'm reading the next one, and then the first one will come back in the middle of it, strangely. Something that didn’t get said here is cleavers hold those books of fable very close to them. Those are a religious text for them but also a meditation guide but also just a pragmatic thing that they keep on hand. The fact that she would give you hers...and it’s hers. It’s marked up. It’s annotated, you know? Is troubling, maybe, Duvall. You know that Chine would not give you his book, so a thing to think about as we move forward.
+
+Keith: I just want to note that the conversation between Duvall and the cleaver whose name I'm forgetting…
+
+Austin: Katonya.
+
+Keith: I take Tombo out to watch this—
+
+Austin: I forgot about Tombo.
+
+Jack: Tombo!
+
+Keith: Because Tombo I feel is always up my ass about the nature of luck.
+
+Austin: Uh huh. Do you want to remind people who Tombo is?
+
+Keith: Tombo is my brightly colored fish in a jar who’s always arguing with me.
+
+Austin: How could I have forgotten?
+
+Keith: I put him on a different page and so I forgot about briefly.
+
+Austin: Yeah, yeah, same. Uh huh, you gotta pull him back on the resources thing. Make him a d2 resource.
+
+Jack: God, Tombo is such a good name.
+
+Keith: Tombo is priceless.
+
+Austin: You’re right, I get it. Also d2, though. [Keith laughs] 
+
+[Music plays: Sangfielle by Jack de Quidt]

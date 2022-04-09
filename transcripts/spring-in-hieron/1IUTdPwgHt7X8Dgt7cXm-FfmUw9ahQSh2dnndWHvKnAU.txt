@@ -1,0 +1,2735 @@
+Spring in Hieron 14: Neighbors To Be Made
+
+AUSTIN: For a moment it is as if nearly everything hangs in the air. A number of the Mistral, members of the border control hunting down the terrorist Quill, stop in flight, and stare not at their adversaries but up at the sky. The three of you, as well, are frozen in place, as are the members of the Quill themselves, scattered below on the beaches. All throughout the island of Deya, and in fact all across all of the Isles of Flight, it is as if everything is frozen in place. Except, of course, for the moon Del, which is descending rapidly towards you. What do you do?
+
+KEITH: How rapidly?
+
+AUSTIN: [sighs] You know, so—
+
+KEITH: I heard it wasn’t that rapid.
+
+AUSTIN: It’s a moon, so it’s like [laughs] y’know, how long does it take for a moon to fall?
+
+KEITH: How…well.
+
+AUSTIN: You can’t Google it.
+
+KEITH: A long time, I think.
+
+[ALI laughs]
+
+I think—it’s tough because the moon isn’t held up by anything, so it never would fall.
+
+AUSTIN: In this weird fantasy world, right, yeah. It’s being pulled down, I think is the important thing. Right? 
+
+KEITH: I—yeah. 
+
+JACK: Can we kind of make some sort of extrapolation of where it might come down?
+
+AUSTIN: To the north. [sighs] Into the water. Um. But close enough that—I mean, so listen. You’re on a flying island, but you’re on the lowest of the flying islands.
+
+JACK: Mm-hm.
+
+AUSTIN: I think it is fair to say that much of the north—center-north of Hieron will be flooded.
+
+JACK: Right.
+
+KEITH: Oh!
+
+AUSTIN: Uh, by the impact of this moon.
+
+[JACK sighs]
+
+[MUSIC - “SOMETHING” begins]
+
+And, y’know, you don’t know. You don’t know enough about big waves.
+
+KEITH: Hey, um.
+
+AUSTIN: And also just like, damage, you know?
+
+KEITH: On the bright side, Lem’s river is not gonna look so bad.
+
+[ALI snorts]
+
+AUSTIN: [laughs] Yeah, not so much.
+
+[KEITH laughs]
+
+JACK: [laughs] Oh, god.
+
+ALI: [sadly] Is my boat gonna be in the same place?
+
+AUSTIN: Good question.
+
+[MUSIC - “SOMETHING” plays out]
+
+AUSTIN: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am your host, Austin Walker. You can find me on Twitter @austin_walker, and today we are continuing our game of Dungeon World by Sage LaTorra and Adam Koebel. Joining me today, Keith J Carberry.
+
+KEITH: Hi, my name is Keith J Carberry. You can find me on Twitter @keithjcarberry. You can find the Let’s Plays that I do at Youtube.com/RunButton.
+
+AUSTIN: Jack de Quidt.
+
+JACK: Hi! You can find me on Twitter @notquitereal, or buy any of the music featured on the show at notquitereal.bandcamp.com. Special shoutout to Art Martinez-Tebbel for lending his guitar over the next couple weeks.
+
+AUSTIN: Hell yeah. And Alisha Acampora.
+
+ALI: Hey! I [laughs] am Alisha Acampora. You can find me @ali_west on Twitter.com. And I never mentioned this on the show, but I recently guested on Wrestlesplania?
+
+AUSTIN: Hell yeah.
+
+ALI: Which is a very good podcast where someone who very much likes wrestling and knows a lot about it explains what’s going on to her friend who does not know as much, but is really liking it now.
+
+[AUSTIN chuckles]
+
+And I had a great time, I talked about The Shield.
+
+AUSTIN: Ooh!
+
+ALI: My first wrestling love. You have remembered me crying about them on a different episode of this podcast.
+
+AUSTIN: I do remember.
+
+[ALI laughs]
+
+KEITH: Literally crying or figuratively crying?
+
+ALI: I was talking to you, and I actually cried!
+
+KEITH: I remember that, yeah.
+
+[ALI laughs]
+
+AUSTIN: [doubtfully] Mm.
+
+ALI: [laughing] I didn’t—um. Cry on the episode, I don’t think, but it’s funny, and it’s good, and you should listen to it.
+
+AUSTIN: That is Wrestlesplania. You can find that on any of your podcatching devices. Uh.
+
+KEITH: I’ve heard of it!
+
+AUSTIN: While you’re on one of those podcatching devices, you should also point your browser to friendsatthetable.cash, where you can support us, and you can toss us a couple bucks to get a bunch of fun, good Patreon stuff, including—and I guess this is the first time I’m pitching this on this podcast—the first of our—you know we do a bunch of live games? We do a bunch of—we do a whole different campaign, called Bluff City, but one of the things we just started is the road to season six, season six being the next sci-fi season that we’re gonna do down the road. It’s probably sometime late 2019. We’re gonna do a number of live games that kind of set the stage for that game, drawing a…filling in some of the gaps, I’d say, between the upcoming season six and the previous Twilight Mirage. 
+
+We played a game called Dialect, which is about the creation and death of an isolated language, and kind of the culture that goes with it. We built some like rad space deers who were psychics, some space deer psychics. Who were—for those who’ve listened to the Counterweight and Twilight Mirage—who had really the complete story on how to fuck around with being a Stratus. They had the Stratus shit completely on lock. So go listen to that, if that sounds interesting to you. That is available for all five-dollar backers and above. So, again, friendsatthetable.cash! 
+
+For y’all, though, we are not in outer space, and in fact, [laughs] we’ve kind of made it so that—
+
+KEITH: Well, a piece of it’s coming to us.
+
+AUSTIN: —yeah, a little, exactly! It felt like maybe bringing the outer space to home. I think it’s kinda more like inner space, but. Um, before we continue, though, I am curious. Let’s go over some bonds and over some…alignments. Hella, let’s start with you.
+
+ALI: Um, sure! My alignment is Neutral, “Increase your reputation while working to fulfill Death’s task to you,” and that task is “Help the dead or the dying pass on to [third syllable rhymes with tar] Adu…laria?”
+
+AUSTIN: [third syllable rhymes with air] Adularia, yeah.
+
+ALI: Adularia.
+
+AUSTIN: Which is what we’re calling the new…post-life…place. The new heaven. The new afterlife.
+
+[ALI laughs]
+
+That…Adelaide is kind of setting up.
+
+ALI: Hey, everyone. Heaven owns.
+
+[JACK laughs]
+
+AUSTIN: That’s—wow! Nice. XP.
+
+ALI: [laughs] My bonds are “I feel bad that Adaire feels uneffective when she’s the most talented person I know. Now that we’re home I wanted her to feel supported and evolved.” [laughs] Lem is, “I hope me and Lem can find a way to start a relationship between the Quill and the Last University”?
+
+AUSTIN: Mm, interesting.
+
+ALI: Um, that’s changed since last time.
+
+AUSTIN: Yeah.
+
+ALI: And then Fero’s is still the same, which is, “Fero was difficult when I traveled with him and he still is, but I’m different now. This journey could be different.”
+
+AUSTIN: Cool. Um. Fero, let’s go with you!
+
+KEITH: I’m gonna start with the one with Hella, because it’s fun.
+
+AUSTIN: Mm-hm.
+
+KEITH: After hearing that. “Hella is different, but we haven’t changed.”
+
+AUSTIN: [snorts] Yeah, right, that’s right.
+
+KEITH: Yeah.
+
+AUSTIN: I should note that last—this didn’t make the recording last time, but I said that that was like a Mountain Goats song, what I really meant was it’s like a Belle and Sebastian song. It is, of course, very close to one of the final lyrics in their great track, “Jonathan David,” which was off of an EP that you can find on the collection of EPs and B-sides, Push the Barman. Anyway. That’s my do—
+
+KEITH: Push the Bar, Man, or Push the Barman?
+
+AUSTIN: I think it’s Push the Barman.
+
+KEITH: Got it.
+
+AUSTIN: I think. It actually has like a longer title that I never remember the whole thing to. Push the Bar—Push Barman to Open Old Wounds, is what it is actually called.
+
+[JACK makes an amused noise]
+
+So. Yeah. ‘Cause it says “Push Bar to Open,” but then they’ve kind of graffitied “man” and “old wounds”—anyway.
+
+[KEITH laughs]
+
+Let’s go over your—the rest of your bonds.
+
+KEITH: I have a bond with Lem. “Lem King is as clueless now as he was when I last saw him.”
+
+AUSTIN: [roughly] Okay!
+
+JACK: [amused] Incredible. Incredible!
+
+KEITH: Throndir is, “Throndir is a fool who will get us in trouble,” and then Ephrim, “Lord Ephrim thinks helping means being in charge.”
+
+AUSTIN: [laughs] So just really the most judgey bonds. Just true feel—really just tell us what you feel.
+
+KEITH: Yeah.
+
+AUSTIN: Okay! And alignment. You messaged me about this, and.
+
+KEITH: I did.
+
+AUSTIN: We should talk about this, ‘cause I think it’s an interesting question.
+
+KEITH: Yeah. Okay, so, at the end of the last episode, or maybe even for a little while, I’ve been thinking over Fero’s alignment.
+
+AUSTIN: Yeah.
+
+KEITH: And I just—I feel like he is having a really hard time…
+
+AUSTIN: Mm-hm.
+
+KEITH: Figuring things out—I feel pretty comfortable with where Fero is. Like I feel like I have a handle on it?
+
+AUSTIN: Yeah.
+
+KEITH: But I feel like what I have a handle on is that Fero doesn’t have a handle on it.
+
+AUSTIN: Sure.
+
+KEITH: And so I was thinking like of different—like the alignment statements. I was thinking of different statements, and where they fall, and how he feels, and what he wants, and I was just like, I don’t think that he [laughs] deserves to have…I don’t think that he deserves to have a path that following will reward him for.
+
+AUSTIN: Right. And I think that that’s interesting. I think that, in other words, like, you don’t think that there should—he is not in a place where he is pursuing an ideological or moral code in such a way that it should be represented mechanically as…
+
+KEITH: Mm-hm.
+
+AUSTIN: …progression for him, as a character in this game.
+
+KEITH: Yeah.
+
+AUSTIN: I like that a lot, conceptually. What I do wanna say though is we’ve already—we have conceptualized alignment in this game to be about what specific characters—how they judge, right?
+
+KEITH: Yeah.
+
+AUSTIN: By way of Hadrian’s stuff with Samothes, Samot, Maelgwn, et cetera.
+
+KEITH: Yeah.
+
+AUSTIN: And so the two things here is one, I think it’s useful to have both alignments and bonds that direct you towards action. Right? Like the…every alignment and every bond could be improved by saying, “I will,” and then adding a sentence at the end of it that goes, “And I will __,” in relation to that thing, because it just helps guide and focus play.
+
+KEITH: Mm-hm.
+
+AUSTIN: But two…so, one, like I think it’s fine for you to like decide you’re not gonna play towards an alignment, or that you’re not going to pursue that XP, or…If you like, “I don’t want that XP,” you don’t have to take the XP. Right?
+
+KEITH: Mm-hm.
+
+AUSTIN: But what I do wanna know from Fero, like what you’ve given me is like, okay, Fero is in a messy place, he doesn’t know what he wants to do right now. How does that—like a great alignment can start with like, “I don’t know what to do right now, so, bah bah bah bah bah.” Because we both know that like not knowing does not prevent action from occurring. Or, often, can lead to a sort of like unconscious prioritization of a type of action?
+
+KEITH: Mm-hm.
+
+AUSTIN: Where like, I know that when I don’t know what to do, I am like paralyzed. I don’t—so, I’m not gonna be the one who makes decisions. Or, so…[stammers] Sometimes it goes the other way. Right? Which is like I’m so afraid of things right now that I’m gonna make sure I’m always the one in charge, so that nobody else fucks up and puts me in trouble. Right? Things like that are totally viable. 
+
+The other thing can be something like, “Neutral—” If you look at like the Neutral alignment stuff in the book, some of it includes stuff that is like, we’ve talked about this as being like “Neutral is bad,” obviously? Which is like, “Make an ally of someone powerful.”
+
+KEITH: Yeah.
+
+AUSTIN: Or whatever, where it’s like, “Mm, okay.” That’s really just Lawful, in a sense, right?
+
+KEITH: See, that—well, okay, so like that’s what I was thinking—so I was thinking like maybe right now Fero’s Neutral. That’s where I went first.
+
+AUSTIN: Yeah.
+
+KEITH: I was like, maybe that mechanic—maybe Neutral. And I couldn’t get—so the book stuff is—I was reading like the alignments from the book for Neutral.
+
+AUSTIN: Yeah.
+
+KEITH: And I hate—they all suck.
+
+AUSTIN: Yes.
+
+KEITH: Not like—they’re not like bad. They’re just—
+
+AUSTIN: But they’re not Fero.
+
+KEITH: They’re not Fero, yeah, they’re not good—
+
+AUSTIN: The closest one for me is there’s the one that’s like “Uncover a hidden truth.”
+
+KEITH: Yeah.
+
+AUSTIN: And I wonder if that’s massageable, in the sense of like, [breathes] Is Fero in like a information-gathering place right now?
+
+KEITH: I think I have something that I can—[stammers] I think that it just clicked.
+
+AUSTIN: Okay.
+
+KEITH: The thing—do you remember? This is from a second ago. But the reason I was having such a hard time, I got all in my head, do you remember…Michael Lutz’s alignments for the alignments? [laughs] I think that was Michael Lutz.
+
+AUSTIN: It was not. That was Darius Kazemi. And yes.
+
+KEITH: Oh, it was—right, you’re right. Yeah.
+
+AUSTIN: I do remember this. Ali hates it.
+
+KEITH: I remember [laughs] So I was reading the Neutral ones, and I was going in my head like these are all alignments for alignments. Like I was seeing all of those, while I was reading the like what they were intended to be. 
+
+AUSTIN: Right. We—
+
+KEITH: Like I was reading Lawful—ugh, what was it? Lawful Evil as Neutral or something? Yeah.
+
+AUSTIN: Right. Yeah, for the people who don’t know, there was a meme going—you know. The D&D alignment chart meme is a super old internet meme. 
+
+KEITH: Yeah.
+
+AUSTIN: Pre-internet meme, probably. All right, maybe not pre-internet, maybe because of the way internet—anyway. Darius Kazemi, who is like a bot maker and internet artist and aca—academic is stro—practitioner. Had a chart that was like—
+
+[15:00]
+
+“What are the alignments of the alignments?” And so like Neutral is like Chaotic—or Lawful Evil. Right?
+
+KEITH: Lawful Evil, yeah.
+
+AUSTIN: Yeah, and Neutral is Lawful Evil ‘cause, actually, Neutral people are people who are like “I don’t wanna get in trouble, so I’m not gonna do anything unlawful. And also, I don’t wanna get in trouble, so I’m just gonna let good people die.”
+
+KEITH: Yeah.
+
+AUSTIN: “You know, I’m gonna—” and so in their actions…
+
+KEITH: And we couldn’t figure out what the chart was supposed to mean, and then that one was like the key for the rest of them.
+
+AUSTIN: The Rosetta stone.
+
+KEITH: Yeah, exactly.
+
+AUSTIN: Yeah, exactly. Anyway.
+
+KEITH: Anyway, so I think that I have something. If you come back to me in a few, I think I can write it down.
+
+AUSTIN: Okay. Sounds good. So let’s go to Lem, and then we’ll come back around for you on alignment—Lem King.
+
+KEITH: Yeah.
+
+AUSTIN: Tell me your alignment and your bonds.
+
+JACK: Hello. Lem King is Neutral.
+
+AUSTIN: Oh, okay! [laughs]
+
+[ALI snorts]
+
+You don’t say!
+
+JACK: My bond is “Avoid conflict or defuse a tense situation.”
+
+AUSTIN: Cool.
+
+JACK: Which is a really inter—uh, that’s not a bond. That’s a alignment description, which is a really interesting alignment description, and it kind of, hearing you and Keith talk about…what bonds allow you to do?
+
+AUSTIN: Mm-hm.
+
+JACK: Was a interesting way to focus my thinking there, because it feels like “Avoid conflict or defuse a tense situation” allows for quite a wide possibility space.
+
+AUSTIN: It does. It does. Like, “avoid conflict” is…
+
+JACK: Like, “Peace. I do not want to have anything to do with this.”
+
+AUSTIN: They’re actually opposite, right?
+
+JACK: Yeah!
+
+AUSTIN: Yeah, like, because you know what avoiding conflict can mean…
+
+JACK: Yeah.
+
+AUSTIN: Is like retreating from a tense situation and letting others suffer through it.
+
+JACK: A hundred percent. But at the…and I don’t want that to put, you know, defuse a tense situation on some kind of pedestal of goodness—
+
+AUSTIN: Right. Right right right.
+
+JACK: —because I think very often defuse a tense situation, and the way I tend to play it with Lem, is like, [amused] “Well, let’s just sit down and talk.”
+
+AUSTIN: Yeah yeah yeah.
+
+JACK: And it’s like—
+
+AUSTIN: There’s a very respectability politics to it, right?
+
+JACK: Yeah, exactly! It’s like, meh, hang on a second here! Um. I have three bonds. I have a bond with Hella, which is, “Aubade changed Hella. I will look to her to find the ways that it changed me.” I’m getting close to resolving that, I think. Given Hella and Lem’s conversations about the Quill?
+
+AUSTIN: Mm-hm.
+
+JACK: Ephrim. “I draw strength from the fact that Ephrim has built something.” And I have a new bond with Fero, which is “Fero is a part of what we have made, whether he likes it or not. I will not let him turn away.”
+
+AUSTIN: Ooh.
+
+ALI: Oh…
+
+AUSTIN: See, that is a good “I will,” statement. Right? Like, okay. I can see how this will play out in action, in play. I like it.
+
+KEITH: I have my alignment now, also.
+
+AUSTIN: Let’s hear it.
+
+KEITH: [clears throat] I think that this and the next one, hopefully, will be the fastest I’ve ever changed it?
+
+AUSTIN: Uh-huh.
+
+KEITH: But right now, Fero is Neutral.
+
+AUSTIN: Mm-hm.
+
+KEITH: “I have been pulled in every direction by every person around me, but I will find my path.”
+
+AUSTIN: Yeah. Do you think it’s “my path” or “my own path”?
+
+KEITH: I can do either.
+
+AUSTIN: Do you think “own” is too strong?
+
+KEITH: Um…
+
+AUSTIN: I think “own” is too strong. Let’s leave the possibility that your path—
+
+KEITH: I think “own”’s too strong.
+
+AUSTIN: —could theoretically be someone else’s path too. Yeah. Okay.
+
+KEITH: Yeah.
+
+[ALI laughs]
+
+AUSTIN: Yeah, let’s—I mean, that’s kind of the stake, right? In some ways.
+
+KEITH: Yeah.
+
+AUSTIN: All right.
+
+KEITH: There’s also, yeah, there’s a lot of paths set out that are already there that I can see.
+
+AUSTIN: That’s true. That’s true.
+
+KEITH: You know?
+
+AUSTIN: Yeah. All right. So there’s the moon is falling—one of the moons is falling. Del is falling.
+
+KEITH: Bigger moon or smaller moon?
+
+AUSTIN: The same size moon.
+
+KEITH: Same size, wow.
+
+AUSTIN: So, I don’t think we ever got into this, and—
+
+KEITH: What are the odds.
+
+AUSTIN: —[stammers] you’re not gonna now. But like there was a space race. Here. But the space race was between Severea and Galenica? And the race was [laughs] who can build the moon first. And the better one. And…the one—you know, Severea was making hers for the Mistral. And it’s the one that’s falling right now. But I think that they were like pretty closely equivalent in terms of size.
+
+JACK: We will build a moon, not because it is easy!
+
+AUSTIN: [laughs] Yeah.
+
+KEITH: But because it is fun!
+
+[JACK laughs]
+
+AUSTIN: That’s what he said!
+
+ALI: [laughs] Is there like—I mean obviously there’s like a…aspect of panic among the people here, but is there anything to discern with regards to like…should we be evacuating people, or should we be trying to disrupt the…police force’s significant people.
+
+AUSTIN: I guess my question for you is like how tight do we wanna stay on this, in terms of the moment to moment?
+
+ALI: Okay, yeah.
+
+AUSTIN: Because we froze at the moment people started to realize the moon was falling? Um. I can zoom out—wh—
+
+KEITH: And there’s a twist, too.
+
+AUSTIN: Wait, what was the twist?
+
+KEITH: We just got a message.
+
+AUSTIN: Oh, right. You also got the twist, yeah yeah yes. Yes yes yes…
+
+ALI: Right.
+
+AUSTIN: See, I’ve recorded other stuff since then. And in my mind, I’ve closed the door on some of those questions. Um.
+
+KEITH: Oh, got it.
+
+AUSTIN: Right. But there was a twist, which was, uh…[coughs] Emmanuel had texted back [laughs] God damn it. Just saying—
+
+KEITH: What were the letters again?
+
+AUSTIN: You want me to, I’ll spell them out again really slowly. Um. That Samol was there, and that Samot was dying. And that you should come home. And that came in just to Lem, but I’m—I don’t know that—Lem, did you communicate that to the party?
+
+JACK: Yes. Absolutely.
+
+KEITH: I asked what it said and, yeah, and Lem told us. Yeah.
+
+AUSTIN: Right. That’s right, that’s true. Yeah.
+
+Yeah, so that was the little extra twist, in that moment, as the moon falls. Um. So yeah, so we can stay really close here, in which case we could talk like what these specific cops are doing. And stuff like—but in the more zoomed out sense, I can give you a bigger picture of what’s happening over the next like hour, if that—if you wanna inform your decisions in that way.
+
+ALI: Okay, yeah. I mean I don’t know that we need to like [amused] put like—go through this whole day or whatever, but I think that like, after that happening, Hella immediately springs to action, and like. Being able to decide what that action should be…
+
+AUSTIN: Yeah. So I—
+
+ALI: Is her. Yeah.
+
+AUSTIN: I think at seeing that, the cops here are going to like stop—mm. I think two of them break off, to go somewhere else, and then another one probably dives down after some of the Quill, baton—you, weird, wavy sword in hand. You know, like, there is panic in the sense that there is not necessarily unified response in the immediate aftermath of this. Um. So if, again, if you wanna stay on like, this one cop diving down to the beach, we can do that? I also…am happy to, like I said, happy to give you the bigger picture stuff in the minutes that follow. Well, what’s Hella’s spring into action look like, I guess is my question.
+
+ALI: Um. I guess—it’s tough ‘cause I don’t know if I wanna like roll Discern Realities [laughs] and like see what she does? Um.
+
+AUSTIN: Sure.
+
+ALI: Because I think that there’s…there’s definitely the indecision of being like, “Oh, should I help people who are in the streets, or should I be trying to help this weird group of birds who apparently can take a moon down, and I’m interested in that?”
+
+AUSTIN: Mm-hm.
+
+ALI: It’s probably the second thing? If this is like a moment of opportunity, like, “Oh, they’ve done their plan.”
+
+AUSTIN: Right.
+
+ALI: “And are being chased.”
+
+AUSTIN: Yeah.
+
+ALI: [amused] “Here’s a good way for me to prove my worth, and help them! And then like follow them, and be like, hey, what’s up.” But. [laughs]
+
+AUSTIN: Sure!
+
+ALI: [amused] Kind of a big-picture…um. Yeah, so that’s my next—I think that’s what I’m committing to. I’m putting my cards down.
+
+AUSTIN: Yeah, so do you like—do you just like take off after this bird cop down toward the beach, et cetera? And like start climbing down the mountain, or like the hills and cliffs and…and all that? Is that like where you’re going to?
+
+KEITH: [urgently] Wait, you’re helping the Quill, not the cop, right?
+
+AUSTIN: Yeah yeah yeah!
+
+ALI: Yes. Yes yes yes.
+
+AUSTIN: But that’s where the cop went.
+
+JACK: But the cop’s going down there, yeah.
+
+KEITH: Ohh, the cop’s going to the…
+
+ALI: The cop is flying!
+
+AUSTIN: Yeah, they’re all birds.
+
+KEITH: Oh, I can fly.
+
+ALI: Can I [laughs] I don’t know why I have in my head that I should do this. But can I just like throw like a rock, or like a bottle at them? And then just like hide? 
+
+[AUSTIN chuckles]
+
+[KEITH laughs loudly]
+
+JACK: Ah. Ah.
+
+AUSTIN: [mildly] You know, yeah! You can!
+
+KEITH: You’re so rude that the moon is falling—
+
+AUSTIN: Give me a Volley!
+
+[ALI laughs in surprise]
+
+Yeah, absolutely you could do that.
+
+[ALI sputters]
+
+JACK: [wry] Fuckin off to the races, folks!
+
+AUSTIN: I love it! Let’s do it!
+
+ALI: [laughing] It’s a bad idea…
+
+AUSTIN: You have 1 Dex!
+
+ALI: But I have…[laughs] feel like…I feel like they’ll be like, “Oh, who’s trying to start this riot? I shouldn’t go to the beach!” [amused] And then I can go to the beach.
+
+AUSTIN: I see what you’re saying. [mildly] Yeah. Uh-huh. Give me a Volley.
+
+JACK: Oh! Hey!
+
+AUSTIN: I love this moment, everyone is just quiet looking up at the moon, the cop starts going after the other—the freedom fighters—
+
+[ALI starts laughing]
+
+And then Hella throws a fuckin beer bottle. You got an 8. That’s pretty good. “Deal your damage and choose one: you have to move to get the shot, placing you in danger of—in the danger of the GM’s choice;—” 
+
+[JACK sighs]
+
+“—you have to take what you can get, -1d6 damage; or you have to take several shots—”
+
+[JACK snorts]
+
+“[wry]—reducing your ammo by one.” Uh.
+
+JACK: Second bottle!
+
+AUSTIN: Yeah, what I’ll say is like if you choose that one, it means you don’t get to throw anything at this bird again.
+
+[ALI laughs]
+
+[JACK chuckles]
+
+Without doing some other roll to get something.
+
+ALI: Um.
+
+AUSTIN: You throw a rock? What’d you throw?
+
+ALI: There’s gotta be like a beer bottle on the street or something, right?
+
+KEITH: Yeah, there’s gotta be. [laughs loudly]
+
+AUSTIN: Oh my god…Yeah, okay, it’s a beer bottle. Absolutely. Uh, do your damage.
+
+[ALI laughs]
+
+KEITH: What’s the name of the beer?
+
+AUSTIN: I don’t think it’s—I think it’s all like a—it’s just like a brown bottle, right? I don’t think they have like printed labels, right?
+
+[ALI sighs]
+
+Maybe they do. I don’t—hm…
+
+KEITH: No. I one time, there’s a beer that I really like that I had on tap one time, and they bought—the bar that I go to bought bottles.
+
+AUSTIN: Ooh.
+
+KEITH: And the bottles were painted [huffs a laugh]—
+
+AUSTIN: Ooh!
+
+KEITH: —there was no printed label. They were painted green, and then like spray-painted the name of the drink on the [laughing] side of the bottle!
+
+[ALI chuckles]
+
+Also, I believe that this drink is made illegally in Italy.
+
+[AUSTIN chuckles]
+
+And then distributed legally to America.
+
+AUSTIN: [wry] Oh my god…
+
+KEITH: Yes. [laughs]
+
+AUSTIN: [mumbles] I’m leaving…
+
+KEITH: It’s called Yellow Doctor, if you can find it. It’s really good.
+
+AUSTIN: Great. Uh, I think this is some sort of chocolate stout. That’s what I’m gonna say this is.
+
+[KEITH snorts]
+
+There’s a little bit of it left. It falls out of the bottle as you’re throwing it. Um.
+
+[ALI laughs almost silently]
+
+Do your damage!
+
+ALI: But! [laughs] Okay!
+
+AUSTIN: And then also roll 1d6 and subtract it. So you do d10, roll d10 then d6, it’ll subtract the former from the—or the latter from the former.
+
+ALI: And then another d6?
+
+AUSTIN: And a d6. You got an 8 on your damage…
+
+[JACK gasps]
+
+ALI: I got a 1 on that.
+
+AUSTIN: [amused] And you only got a 1 on the 6, so you did 7 damage to this bird.
+
+JACK: Oh Jesus, is Hella gonna kill this bird?
+
+KEITH: Oh my god!
+
+[ALI laughs silently]
+
+AUSTIN: So I know how much HP these things have.
+
+[JACK laughs silently]
+
+ALI: I’m merely disrupting. [laughs]
+
+AUSTIN: I—you hit this bird right in the back of the head. [laughs]
+
+[ALI gasps]
+
+And it just—it just plummets. It just like dives.
+
+[ALI groans]
+
+Right into the beach sand below. Uh. Turbulent, good name. Good name for a beer. Keith.
+
+KEITH: That birds drink.
+
+AUSTIN: That birds drink.
+
+[ALI laughs quietly]
+
+And [laughs] this one, speaking of a little turbulence here.
+
+JACK: Jesus christ!
+
+AUSTIN: [amused] Completely crash lands in the beach below.
+
+[JACK whistles]
+
+For what it’s worth—
+
+KEITH: Does the fall do any extra damage?
+
+AUSTIN: You know, I could roll another more, but it doesn’t matter.
+
+[ALI makes a tiny uncomfortable noise]
+
+JACK: Oh my god. Oh my god…
+
+AUSTIN: I want—[amused] if you could have split that damage between two of these bird cops, you would have killed two of them.
+
+ALI: [outraged] Wh—[wheezes]
+
+JACK: Jesus christ.
+
+AUSTIN: They only have 3 HP. They’re not…
+
+JACK: [laughing] Jesus christ!
+
+KEITH: Holy shit!
+
+AUSTIN: They’re people! They’re just people. Like.
+
+[ALI wheezes]
+
+KEITH: You killed that guy!
+
+ALI: [laughing] I—
+
+KEITH: You just killed that guy!
+
+ALI: All of the people that I know have so much [laughing]—they have—
+
+KEITH: I said—the moon started falling, and I said “What should we do?” and you—
+
+[Laughter]
+
+—you didn’t say a word. [laughing] You picked up a bottle—
+
+[ALI laughs]
+
+—turned around, and threw it at maybe the first person you saw! I d—
+
+[Laughter]
+
+ALI: Listen, I’m stressed! They’re going to the beach, we have to go to that beach.
+
+KEITH: Do you know that guy?
+
+ALI: N—[laughs helplessly] Congr—
+
+AUSTIN: There are—you can look down at where the bird cop—who had a name. By the way.
+
+[ALI groans]
+
+That was Raphoa. Raphoa is dead on the ground. In the beach. And there are like two other Mistral down there, Quill, who are waving up at you. And like giving you a thumbs up, basically. Who are just like, “Hey!” Like, “Nice work!”
+
+[JACK sighs]
+
+They’re a little far away, but you can get down there.
+
+ALI: [sighs] [amused] I think Hella like sheepishly does like a salute and [laughing] comes down…
+
+AUSTIN: Oh my god!
+
+ALI: [laughing] They’re complimenting me, and I’m gonna go make a friend.
+
+AUSTIN: Yeah.
+
+ALI: So. Like a nod back, like “Yup.”
+
+AUSTIN: [sighing] Yeah…
+
+ALI: [amused] Another day being Hella Veral, I guess!
+
+AUSTIN: [whispers] Jesus christ…
+
+ALI: Um. Uh-huh!
+
+AUSTIN: So Hella throws this, and then you’re headin down. To the—climbin down this cliff, goin to the beach.
+
+KEITH: I don’t know that I’ve decided what to do!
+
+AUSTIN: Yeah, I’m curious, Fero and Lem, what are you two up to? While this is happening.
+
+JACK: Just like, uh…
+
+[AUSTIN chuckles]
+
+[chuckles] Just like a complete panicked glance at Fero. Just sort of blinking…
+
+KEITH: I return the panicked glance!
+
+[ALI laughs silently]
+
+JACK: And then I think, you know—
+
+AUSTIN: They’re bonding!
+
+JACK: You know, I think with the [laughs]
+
+[KEITH laughs]
+
+I think with the air of…the air of someone who has heard like an upsetting noise and doesn’t really wanna get involved with it, just sort of like awkwardly begins to follow Hella down the rocks.
+
+AUSTIN: [whispers] Oh, god…
+
+JACK: Like a safe distance behind of just like, “well, shit. All right. Let’s go down there. I mean, I guess! I’m not psyched about the fact that we are—” I think Lem like calls, to Hella. Man, you know what I’m picturing? Remember when Ali and Keith, we played PUBG and we tried to climb up those rocks.
+
+[ALI shrieks]
+
+[KEITH laughs]
+
+Where Keith did like effortlessly.
+
+AUSTIN: Mm-hm.
+
+JACK: And we were stuck at the bottom of the rocks? This is what I’m picturing, and I think Lem just calls—
+
+KEITH: Was that before or after I had to leave you both for dead?
+
+[AUSTIN laughs]
+
+JACK: No, you left Ali for dead, and you said, “Ali, get in the car. Jack, you can go to hell.” And then—
+
+[KEITH laughs]
+
+[AUSTIN laughs]
+
+[laughing] drove away—
+
+[Laughter]
+
+ALI: [laughing] Don’t spoil the rest of this episode!
+
+AUSTIN: Yeah, basically!
+
+JACK: Okay. Sorry. So uh, yeah—
+
+AUSTIN: The wall is comin. The wall is [laughs] is the moon, and it’s comin.
+
+JACK: I think Lem, you know, just like calls like, eight to ten feet down the rocks ahead of him towards Hella, and is like,
+
+(as LEM): We’re approaching the waterline, Hella! Are we going down here? Like, it’s much safer up there!
+
+ALI (as HELLA): Well, we have like 20 minutes? We should use it now if we’re gonna do it.
+
+JACK: Just like a wide shot of the moon descending inexorably.
+
+AUSTIN: God.
+
+JACK: Like, Lem slipping on a rock, scrambling down looking back up at Fero.
+
+(as LEM): Fero! Are you coming?
+
+KEITH (as FERO): I literally don’t know!
+
+ALI: [laughs]
+
+(as HELLA): Fero, c’mon! It’ll be 20 minutes.
+
+LEM: Fero, you should stay up there. Make sure people are like inside, or something, have gotten somewhere safe!
+
+HELLA: Yeah, we’ll come back and do that too.
+
+FERO: Yeah, okay, I’ll do…that.
+
+KEITH: And instead of doing that I actually—
+
+[30:00]
+
+—start telling everyone to leave the city.
+
+AUSTIN: Yeah.
+
+KEITH: Because there’s a moon coming.
+
+AUSTIN: So, with Fero, I might as well tell you what you pick up in this moment, which is like.
+
+KEITH: Okay.
+
+AUSTIN: You know, I think actually…so…
+
+KEITH: You want me to roll for Discern Realities?
+
+AUSTIN: Yeah. Discern Realities, for like while you’re doing that, to kind of put together some stuff.
+
+KEITH: 13.
+
+AUSTIN: Hell yeah. Ask me some motherfucking questions! This is why you gotta Discern Realities!
+
+KEITH: Okay, let’s see…um. What is about to happen [laughs]?
+
+AUSTIN: Um, the moon is—no, okay so, obviously the moon is coming. I can tell you now, like, it will be here…fairly quickly? Um, not this hour, but like by…I wanna say end of days? Uh, end of the day?
+
+KEITH: End of days, yeah.
+
+AUSTIN: End of days. 
+
+[ALI laughs]
+
+By end of days. [laughs] Um, but like overnight, basically. Like not tonight, but a little later than that.
+
+KEITH: Like three am?
+
+AUSTIN: Maybe even later than that. But like before the sun rises again.
+
+KEITH: Got it.
+
+AUSTIN: Um, and—so that’s the first thing. The second thing is like, yeah, people are trying to leave the island. Some of them are going down the…[stammers] like, visitors are trying to leave by leaving the island and like going down the long ladder-bridge thing, the bridge thing, that y’all walked up? To just like flee to the south or southeast, as quickly as possible.
+
+KEITH: Mm-hm.
+
+AUSTIN: Others…the people who are like the wealthy business owners here are scrambling to get into the like feather jeweled dragon buses, to go up to higher islands, to try to get higher than the incoming wave? And that—was your question—your question was “What is about to happen?”
+
+KEITH: What is about to happen.
+
+AUSTIN: Yeah, and so those people are gonna do that, and there is going to be a bit of a fight over who gets into that. But what you know, because you got this 13 and because you asked what’s about to happen, it doesn’t seem like many of the like, people are like like the working class of this island, are actually scrambling—some of them are, certainly, are scrambling to get onto those jeweled buses, those jeweled dragon—winged-serpent buses. But most of them are not. And the other thing that’s gonna happen is—
+
+KEITH: Work called and said that they weren’t actually getting the day off.
+
+AUSTIN: They don’t get the day off! Yeah, no. They are beginning to disappear. Not disappear like black helicopter disappear, but just like, “Hey, wait. Wasn’t this street more populated a little earlier?” So that’s that one.
+
+KEITH: Hm. Okay.
+
+AUSTIN: Two more questions.
+
+KEITH: [clears throat] What should I be on the lookout for?
+
+AUSTIN: Um, there are members of the Quill ushering people into—like down alleyways and—sometimes into building structures, and then down, into the body of the island. It’s this big floating rock island. And they are like slowly—it’s almost like…a game of telephone, or something, right—or not a game of telephone, ‘cause that would be like, “Oh, the words are getting confused,” but it’s just like, the word is being passed around.
+
+KEITH: A really, really ineffective game of Telephone.
+
+AUSTIN: Right, one in which the words are pr—you know, kept exactly right.
+
+KEITH: Mm-hm.
+
+AUSTIN: Um, people are being brought to a bunker, basically, to a big bunker underground here. But not the people who like run the businesses! Who are scrambling to get on these buses, and there aren’t enough of them.
+
+KEITH: All right, I have one more.
+
+AUSTIN: Yeah. That was “What should I be on the lookout for?”
+
+KEITH: Yeah. What here is—
+
+AUSTIN: I’m gonna say one more thing for that—
+
+KEITH: Okay.
+
+AUSTIN: —which is that like…the other thing here is…the cops and the people who are in charge, the ones who get away, like, there is already a degree of anger in their eyes? That suggests retribution. And especially because like the ones who are leaving clearly don’t give a fuck about the people they’re leaving behind.
+
+KEITH: Yeah.
+
+AUSTIN: And you know you just catch from overheard conversations and stuff, that like…“Oh, they’ll get theirs for this.”You know, like.
+
+KEITH: Mm-hm.
+
+AUSTIN: Basically.
+
+KEITH: Um. What here is not what it appears to be?
+
+[AUSTIN makes a considering noise]
+
+Is that a tough one? I can re-pick.
+
+AUSTIN: No, um. You know, I think it’s gonna be one of those things where whatever you pick is gonna end up being fairly metaphorical, you know?
+
+KEITH: Yeah. Mm-hm.
+
+AUSTIN: Because I’ve given you the big stuff here. Yeah, give me another question. Give me a different one. Because the big thing there was gonna be like, if you asked me that before, would have been like, “Oh yeah, there are secret pathways down to this other place.”
+
+KEITH: Um, what here is useful or valuable to me?
+
+AUSTIN: Sure. So, I can give you that in a very clear way, which is, there is…you find, on the kind of southern shore, of one of the—of the island basically, a sort of…I don’t know if it’s experimental or prototypical or what, but there is like mechanical version of one of these dragon buses, that’s just like a glider. It’s like a big—it’s like a giant hang glider with like some twirly blades and like a basket. It’s basically like a thing you could fly away on.
+
+KEITH: It’s like a hot air balloon hang glider.
+
+AUSTIN: Yeah, it’s like a hot air balloon hang glider.
+
+KEITH: I see.
+
+AUSTIN: But like a longer basket, you know? It’s like an airship. It’s like an airship, but like not one that could launch itself. 
+
+KEITH: Is it like a—
+
+AUSTIN: But from up here you could—glide pretty far.
+
+KEITH: Is it like a bicycle in that I—oh, so I can’t just like…start it up and start flying, I have to jump off of something?
+
+AUSTIN: No, but…Yeah. Yeah.
+
+KEITH: Okay.
+
+AUSTIN: It has like a rope attached to it, or it’s like it has like a—I think maybe by default, it’s on a sort of zipline type thing that could be pulled back up this way?
+
+KEITH: Okay.
+
+AUSTIN: But like—and that’s part of the experiment with it. Right, like it’s someone’s attempt to do something other than the bridge to connect up here. Or maybe this is how they like can transport big quantities of stuff down to the mainland when people do big wholesale trading or whatever, right? But basically, you have a way off of these islands if you want it.
+
+KEITH: All right.
+
+AUSTIN: And you and—I’d say probably like eight other people could fit on this thing?
+
+KEITH: Got it.
+
+AUSTIN: Comfortably. Um, so those are your things. Uh…Lem and Hella! Uh, you go down to the beach. I’m not gonna make you roll to climb down this…cliff system. You’re very careful. It’s very scary. But you do it. And when you get to the bottom, you see a couple of young Mistral. 
+
+You know, I think—you know, maybe these are the two young ones that you’ve seen running around here and there for the last little bit. The two who lost their sibling, but who have been…kind of running distractions, and doing some other stuff, Oorn and Urrn, who were two of the sky artists for the Quill. 
+
+And they are there waiting for you as you arrive. And Oorn is, I wanna say, like green, with red marks…and he is like…
+
+(as OORN): Great throw!
+
+ALI: [thickly] Hey! [clears throat] Sorry. [laughs] 
+
+[KEITH laughs]
+
+(as HELLA): Hey! Um. Thanks. Hella Veral. Nice to meet you!
+
+AUSTIN: And Urrn, who is Oorn’s sister, is like,
+
+(as URRN): A pleasure to meet someone with such a great arm!
+
+HELLA: Um.
+
+LEM: Please don’t encourage her.
+
+HELLA: [wry] I encourage myself.
+
+URRN: Normally we go through a whole process of vetting people, and making sure that they’re committed to the cause, but…[huffs] I think we should just take you right to Jazella!
+
+HELLA: That would be great! Who’s that?
+
+LEM: [slightly insincere] Yeah. Yeah, fantastic!
+
+OORN: She’s our boss.
+
+AUSTIN: Says Oorn. [sighs] Yeah. I think that they’re just like, eager to be like…
+
+[ALI laughs]
+
+“Yo, this lady threw a fuckin beer bottle and knocked this motherfucker out and he fell and died.” [laughs]
+
+[KEITH laughs]
+
+ALI: [laughs] I want—okay.
+
+JACK: [amused] Grim fuckin initiation!
+
+AUSTIN: Blood in, blood out. You know!
+
+JACK: Oh, god.
+
+ALI: Yeah, I like wanna Perform Last Rites, but after not doing it the last time I’m like, eh, one for one. [laughing] I don’t know if I should!
+
+AUSTIN: What’s that mean!
+
+ALI: Well, ‘cause the person—
+
+KEITH: Well, you don’t do it once, and then you don’t do it a second time.
+
+AUSTIN: That’s two for two!
+
+ALI: Right, the pers—[laughs]
+
+If the person who like probably deserved to be in paradise before…
+AUSTIN: Uh-huh.
+
+ALI: …Didn’t get in, I don’t know that this guy does! [laughs] I’m just like cursing them out!
+
+AUSTIN: I mean, look, you could still find that first body, y’know? Um.
+
+ALI: Oh, I didn’t know that I had time like that.
+
+KEITH: Also, Adelaide—
+
+AUSTIN: Yeah yeah yeah.
+
+KEITH: —Adelaide never said like, judge them, right? Just like, collect them.
+
+ALI: [very weakly, half-dead] That’s true…
+
+AUSTIN: That’s true.
+
+ALI: [weakly] That’s true…
+
+AUSTIN: So, I mean here’s a thing that happened, is we—there was a scene, in one of the first episodes back from Aubade, where Adelaide was explaining what the role was, and instead of actually doing the explanation, what we did instead was, uh, you flirted. You flirted with Adelaide and vice versa!
+
+ALI: Whoops! [laughs silently]
+
+AUSTIN: Whoops! So I should just set some of this up a little bit, because—presumably, y’all had that conversation. Right, like, we didn’t—we cut away, but like, that isn’t necessarily a situation where like the whole scene was seen. So! What she said before was that when someone dies, part of them will be fleeing quickly to the Heat and the Dark, and that she would slow that down. And then when you arrive at their spirit, you will be able to perform the rites…and that’s when the flirting started, because you were like, “What? What rites? What do I do, what?”
+
+ALI: Mm-hm.
+
+AUSTIN: And so the whole thing is like you have this window of time. People, when they die, in Hieron, their spirits flow into the Heat and the Dark, at which point they are obliterated. Forever. Adelaide can slow that down. Adelaide can kind of like, put a pause on that? But that pause is limited. There is a limited amount of time for that, partially because if people wait in the line—or if enough people kind of backed up in the line, then it will just push through. She can’t hold back the flood of spirits, right? And they’ll burst through the wall that she’s set up, so to speak, the kind of spiritual wall, and flood into the Heat and the Dark, and will die. Forever. Partially, it’s because when people are waiting around in a line, sometimes they get curious about other places.
+
+[ALI laughs]
+
+And as we know from Marielda, that’s how ghosts happen. When too many people are in line, and they’re not being processed quickly enough, the spirits can wander away. That’s just numbers.
+
+[ALI continues to laugh silently]
+
+And that is what could happen, also, if you’re not quick enough. Is that the spirits could end up wandering the earth, separate from any power that you have, until you go find them. You know? You’d have to go find them again.
+
+Um, and so your job is basically to do the rites, which are effectively you convincing them to go to Adularia. To be like, “Hey! There’s this place you can go to, but you need to decide to do it.” Um, and, you know, I bet that there is—I can see this one of two ways. One is like dope Witch Hunter Robin like cool hyper-Catholicism, you know, you have a very specific set of phrases to use, and you’re doing cool like motions, and things are glowing. 
+
+The other is, it’s sort of like working in a call center, in that you basically have a script. [sing-song] Because most people in the world would like to go to heaven. [normal] If you were like, “Hey, guess what. If you want a little more time before you finally go into the Heat and the Dark and are obliterated from all existence—maybe you’re still processing some stuff, maybe you just wanna hang out on like the cool opal beach that’s down there—like, you can go there.” And you say the same basic stuff, and like, that’s probably good enough. You know? But I mean now and then, maybe someone is like, “No, fuck that, I’m not ready to go at all yet. I wanna be a ghost.” And those are trickier things. 
+
+But yeah, that’s the high level of how this works. You make that connect, you like convince them, and then she is able to like pull their spirits out of the queue and into Adularia, where they can kind of live an unlife until they’re ready to move on!
+
+ALI: Okay.
+
+AUSTIN: Um. So, yeah. It’s up to you what you wanna do here. You’re totally fine to not do the rites on this guy, if you don’t want to.
+
+ALI: [laughs quietly] I feel bad not doing it. I feel like she’s gonna be mad at me.
+
+AUSTIN: Mm-hm.
+
+ALI: So while I have the chance, I would like to.
+
+AUSTIN: Okay. Is there a roll for this, or is this a thing…is there like a…
+
+ALI: Yeah, I don’t…I guess we haven’t…thought this far.
+
+AUSTIN: We haven’t. Um.
+
+JACK: The visuals of this are kind of wild, though, right? In that like as far as Oorn and Urrn are concerned?
+
+AUSTIN: Yeah.
+
+JACK: A cop just falls out of the sky…
+
+AUSTIN: Yeah. Uh-huh.
+
+JACK: …in front of them, and then we climb down, go, “We did that.”
+
+AUSTIN: Uh-huh.
+
+JACK: “Time to perform [laughing] a ritual.”
+
+AUSTIN: Uh, how’s the—
+
+ALI: [sighs] I gue—I mean—the things are—it’s a quick ritual, and then I think like.
+
+AUSTIN: Yeah.
+
+ALI: Meeting a stranger who is like, “Well, I have to respect the dead.”
+
+AUSTIN: Right.
+
+ALI: “In all cases?”
+
+AUSTIN: Right.
+
+ALI: Is kind of like, “Oh, okay, what’s up.”
+
+JACK: Mm!
+
+ALI: “Sure.” Um.
+
+AUSTIN: Yeah.
+
+JACK: Yeah.
+
+AUSTIN: Yeah, I—I don’t know that this is a case where I’m gonna make you roll for. There might be some.
+
+ALI: Okay.
+
+AUSTIN: Where I’m like, “Oh yeah, this person…” 
+
+You know what? You killed this person. I change my mind.
+
+[ALI laughs with a wheeze]
+
+KEITH: “Do you wanna go to heaven?” [shouting] “Hey! You just threw that bottle!” [laughs]
+
+AUSTIN: “Yeah, hey, I killed you.” Yeah. Yeah. You know?
+
+[ALI laughs]
+
+I think this is a Charisma roll.
+
+ALI: Fair! Um. In the future.
+
+AUSTIN: Yeah.
+
+ALI: I would just like to…be able to dignify the actions that I take as [laughing] lethal or non lethal. 
+
+AUSTIN: You don’t get to! That’s not what this—you can do that if you get a move that lets you do that!
+
+ALI: [laughing] Okay…
+
+AUSTIN: Don’t throw bottles at people if you don’t wanna kill people. Like that is—I’m dead serious.
+
+ALI: [sighing] Yeah…
+
+KEITH: And they were in the sky.
+
+AUSTIN: Yeah. Like, fiction has consequences.
+
+ALI: No, they—yeah, it’s true…
+
+AUSTIN: There are straight up moves in this game that if you don’t want to do lethal damage, you can go find them and take them. But like.
+
+[ALI laughs quietly]
+
+Motherfuck—if someone hit me in the back of the head with a bottle, I might die. Even—I’m not even a bird.
+
+ALI: It’s the truth…
+
+AUSTIN: So, and also Hella is like, strong as shit.
+
+ALI: Jesus…
+
+KEITH: And—birds—
+
+AUSTIN: Your damage is d10.
+
+ALI: Augh.
+
+KEITH: Birds traditionally have really brittle bones.
+
+AUSTIN: Right.
+
+JACK: Yeah. It helps them get up there.
+
+AUSTIN: Yeah.
+
+ALI: It was a mistake…I got an 8 on my Charisma roll. [laughs]
+
+AUSTIN: There you go. So I think this is—you know, actually this isn’t a Charisma roll, this is like specifically a like a Parley. And so I think what he says to you is like, he basically makes you a deal, and he’s like, 
+
+(as RAPHOA): Yeah, I’ll go to your weird…space heaven. But…you have to bury my body. I don’t wanna get washed away.”
+
+HELLA: You don’t wanna live—
+
+[45:00]
+
+—you don’t want your body to be with the moon? I’m kinda in a hurry…here.
+
+[KEITH laughs]
+
+ALI: No, I’ll do it, I’ll do it! Why am I—[laughing]
+
+KEITH: Listen, cop!
+
+[Laughter]
+
+AUSTIN: God.
+
+KEITH: Don’t be an inconvenience to me! Do you know how annoying that is?
+
+[ALI laughs]
+
+AUSTIN: You know what I do to people who inconvenience me?
+
+[JACK and KEITH laugh]
+
+I got a spirit bottle with your name on it! I got an estus flask ready to go.
+
+JACK: Jesus.
+
+AUSTIN: Um.
+
+ALI: “Just—when you arrive, can you just tell her this went better? I’m kinda new on the job.”
+
+AUSTIN: [huffs a laugh] So yeah, does Hella then start to dig out a grave?
+
+KEITH: I wonder if Hella’s gonna get in trouble.
+
+[ALI sighs]
+
+[laughing] With Adelaide.
+
+[ALI laughs]
+
+AUSTIN: [amused] We’ll see!
+
+ALI: [laughs] My three-month review is gonna be…
+
+AUSTIN: Yeah.
+
+ALI: But it’s okay.
+
+AUSTIN: [interviewer voice] Well, you started off on a rough foot. Uh, but.
+
+[ALI and JACK laugh]
+
+I’ve seen lots of improvement.
+
+Oorn and Urrn—
+
+ALI: I think that she—
+
+AUSTIN: Yeah, go ahead.
+
+ALI: I think that she does, though, where she’s like—I kind of in my heart of hearts don’t want to be seen burying a body?
+
+AUSTIN: Yeah.
+
+ALI: I am, however, on the beach, so it would be faster than usual.
+
+AUSTIN: Yeah.
+
+KEITH: Does it count as not letting his body get washed away if you bury him on the beach?
+
+AUSTIN: You know, he didn’t make it clear, and so I think I’m gonna let it ride.
+
+KEITH: Okay.
+
+ALI: All right.
+
+AUSTIN: That’s on him.
+
+[KEITH laughs]
+
+JACK: This is the sort of Lord of the Rings semantics, choose your words carefully approach?
+
+AUSTIN: Yeah. Yeah, a hundred percent. He said—
+
+KEITH: Yeah. He did say, “I don’t wanna be washed away.”
+
+AUSTIN: Right, but what he said was, “Bury my body, because I don’t wanna…”
+
+KEITH: “Bury my body because I don’t wanna—” yeah, okay. Okay!
+
+AUSTIN: He didn’t say “bury my body somewhere where I don’t get washed away—”
+
+KEITH: Fair. You’re right.
+
+AUSTIN: You know, washed—let me tell you, a lot of places are gonna wash things away here.
+
+[JACK chuckles]
+
+KEITH: I think we’re halfway towards respecting the will of the dead and that’s progress.
+
+AUSTIN: You know what, that’s progress.
+
+[ALI sighs]
+
+Um, Oorn and Urrn are gonna be like, 
+
+(as OORN and URRN): Hey. [slight laugh] Really wanna go introduce you to Jazella!
+
+HELLA: I can catch up. This is gonna take like ten minutes. I—by the time you’re on the other side of the beach, I will be there with you.
+
+AUSTIN: They look at you, Lem.
+
+LEM: We should go. Hella, you can catch up with us, right?
+
+HELLA: Yeah yeah yeah!
+
+LEM: You won’t be long?
+
+HELLA: Not at all.
+
+LEM: Okay. Good luck.
+
+HELLA: It’s just important to me.
+
+AUSTIN: Uh, Lem, they lead you down into like off into the distance, and Hella you can see as you’re digging this body that like, they’re leading Lem to a cave system. And they lead you through this you know weird you know—there’s—it’s already a complicated cave system, and then you see that there’s like a couple of fake walls, 
+
+[JACK huffs a laugh]
+
+and…like some other stuff, that’s marked…and I think maybe Oorn waits at the cave entrance for Hella, and Urrn is gonna lead you down into it, ahead of time. 
+
+And into what is—and Fero, you can basically also be emerging into the same space around the same time, from looking around, basically, if that’s where you want be, if not, that’s okay. Just gigantic underground bunker inside of this floating island. Bunker is too strong a word, it’s not like—you know, I suspect it’s been partially carved out of the stone, but it is not like a carefully…like…designed space. 
+
+You know, there aren’t like, um, bunk beds and a mess hall. You know, I think maybe there’s some of that, for the actual Quill, but then once you pass through their section of the base, it basically just opens up into like a big holding area, where people can like wait together here. And then there’s some cots for people who need to lay down, and there is some food here. There’s like, you know, stew or something, being served. But like, it’s basically a place to weather the coming crash. And the wave that hits.
+
+LEM: So you knew this was coming.
+
+URRN: We did it! So yeah!
+
+LEM: How?
+
+URRN: You should talk to Jazella.
+
+LEM: Do you know how?
+
+URRN: I don’t know—I just like to paint things in the sky. I’m not a scientist.
+
+LEM: Oh, we saw some of that.
+
+URRN: Yeah…
+
+LEM: That was cool! That was cool.
+
+URRN: That was off—
+
+LEM: You were on those big snakes?
+
+URRN: Y—no—[sighs]
+
+AUSTIN: She’s getting like a little—this is Urrn, she’s getting a little like…
+
+(as URRN): That was mostly Aarn, today. And…Aarn, um…didn’t make it. Like—yeah. Um. Anyway. Yeah, we knew what we’re workin on. Anyway, come with me. She’s here somewhere.
+
+AUSTIN: And leads you toward like the stew line, basically. And there is a tall…bird with like white feathers and grey and red markings, big orange eyes, and a big yellow beak. And I think she’s wearing like a cool pink dress with like a sash, and…I think has like has some…they read like piercings, but they’re actually like certain feathers have been almost like dyed metallic colors? Like shiny metallic colors? So it almost looks as if, one, she has like fingernails, like long…
+
+JACK: Huh.
+
+AUSTIN: Uh, painted fingernails, but also just like around various parts of her body, what looks like almost like piercings, except it’s as if she has metal quills, like precious metal quills. Or feathers in her body. And yeah, that is—she’s—and so I think, at that point, Urrn is like—
+
+(as URRN): Jazella! This is, um…oh…um. Anyway—
+
+LEM: My name’s Lem King?
+
+URRN: Lem King! He and his friend, they saved us from…you know…one of the cops.
+
+AUSTIN: And Jazella’s like, big bird eyes open up even more. I have like a very particular weird bird in mind, I actually now that I’m thinking about this?
+
+[JACK laughs quietly]
+
+Is…
+
+JACK: You bird facecast?
+
+AUSTIN: I actually don’t—yeah, I did bird facecast, but it’s not a real…I don’t know if it’s a real bird—I actually think it is a real bird. I just know—
+
+KEITH: Big Bird’s not a real bird.
+
+AUSTIN: Fuck.
+
+[KEITH laughs]
+
+JACK: [mock protest] Big Bird is a real bird!
+
+KEITH: Big Bird’s—no, that’s a puppet.
+
+AUSTIN: Um, it is this Stellaris bird. Hold up. But with less eyes.
+
+KEITH: Okay, so no, it’s not a real bird. [laughs] Still. [laughs]
+
+AUSTIN: No, but like this type of bird exists. Right? Minus the eyes.
+
+KEITH: Mm—the four eyes? [laughs]
+
+AUSTIN: Minus the four eyes.
+
+JACK: Wow, this bird is cool as hell!
+
+KEITH: And the clothes. Forget the—
+
+AUSTIN: Birds can have clothes.
+
+JACK: This bird looks like it’s about to give me a dread portent.
+
+AUSTIN: Yeah.
+
+KEITH: Forget two of the eyes, and the collar—the double collar.
+
+JACK: Yeah.
+
+AUSTIN: Listen, I already described her as wearing a pink dress. So we know she isn’t wearing space armor.
+
+JACK: Okay.
+
+AUSTIN: But.
+
+KEITH: No, I’m just talking about real birds.
+
+AUSTIN: Oh, oh oh, right, yeah. Real birds don’t…
+
+JACK: This is a great bird!
+
+AUSTIN: Yes. It’s a great bird right there.—Um. Anyway! She is…so she kind of like, she has these big orange eyes, and she like, they open up at you, a little bit. And she says, like. [sighs]
+
+(as JAZELLA): Wow. Saved them from a cop.
+
+LEM: Well, it wasn’t me. It was my friend.
+
+[ALI laughs]
+
+JAZELLA: …At least you’re humble, Lem King. [sighs] And you’re here now.
+
+LEM: Are we safe here?
+
+JAZELLA: By our predictions, yes.
+
+LEM: Good. Um, what about…up there?
+
+AUSTIN: [huffs] Which way are you p—how far up are you pointing? Are you not—
+
+JACK: Like up towards the surface of the island.
+
+AUSTIN: She shakes her head.
+
+JAZELLA: Deeply unlikely.
+
+LEM: There’s like a lot of people up there.
+
+JAZELLA: And the bulk of them will be down here soon enough. And the ones who aren’t are the ones who’ve hurt us. And so they can find their own ways off.
+
+LEM: Okay. Okay. Um. Right.
+
+JAZELLA: The bulk of the people on the Isles live up on Sprou. Two islands to the west. It is higher in the sky, and we believe it will be safe. Those on the second isle, Eluce…we have some people there, performing a similar task, though…many there would resist our help altogether. They have not been strong allies to the everyday people of the Isles.
+
+LEM: And what about on…
+
+JACK: Is it called Varee? Very? I don’t know how to pronounce it.
+
+AUSTIN: Varee. Yeah. Yeah.
+
+JAZELLA: Oh. Those on Varee are the ones who’ve done us the most harm. And most of those have already been dealt with.
+
+LEM: …How long are you gonna stay here in this bunker?
+
+JAZELLA: It should not be long, the wave will pass quickly. And we can begin to rebuild our…[quiet] entire lives.
+
+LEM: I fear you will not be rebuilding them for long before something else transpires. Something far more dangerous.
+
+JAZELLA: [wry]…Our lives are dangerous, Lem King. There is always something new transpiring. To believe otherwise is…to have a place of luxury. One day, maybe we will live in a world where…nothing new dangerous transpires. But until then, for those like us down here, that will be just the next day in the week.
+
+LEM: And then there will be no more days. I don’t know how to impress upon…something very bad is coming. Something worse than…than we have ever seen. It’s already targeting the southern part of the continent.
+
+AUSTIN: She is like—
+
+LEM: It’s only a matter of time.
+
+AUSTIN: She’s like pouring stew out to people as this happens. And then I think like, when you say like, “It’s only a matter of time,” she like stops and like hands over the ladle to somebody else, and kind of steps over—it’s like a big fish stew. There’s just like big pieces of fish in there. Looks great. And she steps over towards you. And she says,
+
+(as JAZELLA): Lem King, I do not know you, and you do not know me, or my people. You propose a terrible day is coming. Consider—
+
+She can’t say for once. She doesn’t know you that well.
+
+(as JAZELLA): Consider that for many, the worst is behind them already, and even if all we do is busy the time between now and the end of days [laughs slightly] with the work of creating a new, better world? Those days will be…better than any that came before. Even with a definitive end in sight, at least they will not spending their days toiling, caught under claw and talon.
+
+[LEM sighs]
+
+What is coming?
+
+LEM: Down in the south, we call it the Heat and the Dark.
+
+JAZELLA: Mm.
+
+LEM: It’s…It is an absence of light that swallows anything it touches. And a force counter to it has emerged, in the most southern regions and around the city of Velas. A bright light that is…as destructive, if not more so.
+
+JAZELLA: We’ve seen these things. We have [snorts] a great vantage point. Thus far they have not reached us. And perhaps they will. And perhaps we underestimate the size of the wave we’ve created. These things are risks. And they are risks we do not take lightly. But…I cannot stand here and let someone who has not known our lives…lecture me about the possibilities of…
+
+LEM: That may be so. But it would be negligent of me not to come here with a warning. You say you have a great vantage point, and I don’t deny that. But we have seen it take from…so close. I do not want to take away from what your height here gives you, in seeing this thing coming, but…we are full of fear. You see these dark shapes spread from your vantage point. Who are we to know whether or not they have spread beneath all of the continent already, and it is only a matter of time before it crumbles!
+
+JAZELLA: [sighs] I see.
+
+LEM: It would be negligent of me not to come here with this warning.
+
+JAZELLA: There is something in what you say that strikes me as familiar. The…tyrant, Zogia, who will be buried at the bottom of the sea in just a day…when he first emerged, he spoke similar words. Perhaps it was why he was able to convince so many of us that losing our mastery was a small price. If the end was truly coming, then what good is mastery? But what we saw was that the end does not come evenly. 
+
+If you are right and the continent below will seek out—if you are right, and the continent below will sink out from under you, and then perhaps here, the island of Deya, and the rest of the Isles would soon follow, then men like Zogia are even more corrupt in their abdication of this world. They fled to a place so far away, and so different, that this thing you call the Heat and the Dark may not have ever touched them. All the more reason to bring them back here. 
+
+But I recognize your fear.
+
+[1:00:00]
+
+It is authentic. I do not need you to be vouched for to understand your plight and your dilemma. If there is anything the New Isles can do for you and yours when the time comes, send word. We will look into this Heat and Dark and…into the bright light as well. Perhaps there is something to be found in the ruins of Zogia’s schools and in his…notes and vaults. And if there is, we will send word. Where are you from? Down there, on the continent.
+
+LEM: I was born in the New Archives.
+
+JAZELLA: Mm.
+
+LEM: But I left it some time ago. Under less than ideal circumstances. And through travels, circuitous and unpleasant, found my way to a small community in the ruins of the Last University.
+
+JAZELLA: Mm. The tower, yes. I know it. Well. We will be in touch, if necessary.
+
+AUSTIN: Uh, Hella, you can be here now if you’d like to be.
+
+ALI: Okay, cool, yeah. I was wondering.
+
+AUSTIN: 10 minutes. You know, you gotta bury a body sometimes.
+
+ALI: [laughs] Yeah.
+
+JACK: Just like, sand on your hands.
+
+AUSTIN: Yeah.
+
+ALI: [laughs] Yeah, I think it’s the—[clears throat] if the show has ever had a montage of Hella at her day job at Adaire’s [laughs]
+
+AUSTIN: Yeah.
+
+ALI: It’s like—the same exact scene of the, “Oh, Hella’s done with work,” thing—
+
+AUSTIN: Yeah?
+
+ALI: —and it’s like the same frame and it’s her on a beach like, washing her hands in the sea and then running back towards the cave?
+
+AUSTIN: Yeah.
+
+ALI: Um. And I think like upon entering this room, she like approaches this main bird lady.
+
+AUSTIN: Mm-hm.
+
+ALI: And like, firm handshake, like 
+
+(as HELLA): Hi, I’m Hella Veral, and…you know—
+
+JACK: [laughs] I killed that cop!
+
+ALI: [laughs] There—
+
+AUSTIN: Mm-hm!
+
+HELLA: You know. If there’s a…a world we’re building, you seem like a good neighbor to have. [laughing slightly] Um. Nice to meet you.
+
+AUSTIN: She nods her head. And says,
+
+(as JAZELLA): I’ve heard you have a good arm.
+
+HELLA: Two of them!
+
+JAZELLA: [huffs a laugh] Yes. Well. Have some stew, and…feel free to find some space to weather what comes next.
+
+AUSTIN: Uh, Fero, what’s up with you? Are you also coming into this little cave system, or are you goin somewhere else? What are you up to?
+
+KEITH: Yeah! I can come—I’m gonna come down.
+
+AUSTIN: Okay. So then yeah, let’s get the party back together. I think like you see the two of them talking to Jazella, and yeah. That’s, you know, there are people here to talk to. There are people of all stripes here. And, you know, you’re not locked in here. They haven’t closed the gate, so to speak, yet. But the three of you can talk to each other, or Jazella, or do whatever you want!
+
+KEITH: [yawns] Um.
+
+Yeah, I’m gonna…hm. I guess I will start by joining…Lem and Hella.
+
+AUSTIN: Okay.
+
+FERO: I found a way to get outta here!
+
+HELLA: Oh, yeah?
+
+FERO: Yeah, I found like a…I don’t know, I guess it’s like a…glide bucket?
+
+LEM: [laughs fearfully] Oh! Is it safe?
+
+FERO: It looks like it’s safe!
+
+HELLA: Thanks for scopin that out! Good one.
+
+FERO: Oh, yeah, so we can get outta here. Whenever.
+
+[HELLA sighs]
+
+LEM: [sighs] How are things up there?
+
+FERO: Um. It looked like mostly everyone was gone. Left or came down here.
+
+LEM: Oh! Oh, well…That’s good.
+
+FERO: Yeah.
+
+LEM: That’s good.
+
+FERO: Mm-hm. Well.
+
+LEM: I spoke to Jazella? Um. They’re not really scared of the Heat and the Dark. Or—that’s not fair. They…it’s—
+
+FERO: Don’t know why they should be scared?
+
+LEM: It’s not much to th—I tried to explain, and I think I got some kind of a way there, but…d—Do you remember when the gnolls, do you remember when you told the gnolls about the Heat and the Dark?
+
+FERO: Yeah.
+
+LEM: And they kind of said like, [laughs slightly] “Yeah, okay.”
+
+FERO: Yeah, I very well remember that.
+
+LEM: …Right. Well—
+
+FERO: So it’s like that?
+
+LEM: Right.
+
+FERO: They’re like, “We’re busy”?
+
+LEM: Right. Well, this was a bit like that. A bit like that. They were like, “Anything that can come has to be better.”
+
+FERO: Yeah…
+
+LEM: “Than what we’ve had.” And I kinda get that!
+
+FERO: [not pleased] Eugh…Yeah. I don’t…
+
+LEM: And she said that she would—
+
+JACK: Uh, does Jazella use she/her pronouns?
+
+AUSTIN: Yep! Yep.
+
+LEM: And she said that she would…look into Zogia’s library, see if there was anything about the Heat and the Dark, or, you know, some way that the starstuff interacts with it. [sighs] And said that—
+
+FERO: But won’t it get all wet?
+
+HELLA: Oh.
+
+FERO: Aren’t all those books gonna get really wet?
+
+LEM: Maybe they’ve got—yeah. I didn’t ask about that. Maybe they’ve got people in there now emptying it out. I don’t know. Really, that’s—[sighs] Yeah.
+
+FERO: ‘Cause I bet they didn’t waterproof their buildings on the moon.
+
+LEM: We didn’t. Um.
+
+[AUSTIN and KEITH laugh]
+
+AUSTIN: Oh, boy! [laughs silently]
+
+LEM: [sighs] Hella!
+
+HELLA: Mm-hm?
+
+LEM: Do you think we could…I don’t know, do you think they’d send an ambassador or someone?
+
+HELLA: Um, yeah. Yeah, I mean—
+
+LEM: To come back with us?
+
+HELLA: Now that you’re talking about books, I was gonna say, like…we’ve got them. Uh. And if there’s people who are vulnerable and shouldn’t be in a cave for a little bit. They can come to the university at some point? Like we should have a bigger conversation about this, if we’re gonna be in this cave for a little bit.
+
+LEM: Yeah. 
+
+FERO: The glide bucket has room for nine.
+
+HELLA: Oh!
+
+LEM: Oh!
+
+FERO: And I can fly beside it, so.
+
+HELLA: If we get swept back to my boat, eh. 10, 11.
+
+LEM: I just—yeah.
+
+FERO: Whoa.
+
+LEM: Sorry?
+
+HELLA: Hm?
+
+FERO: Shouldn’t we walk?
+
+[AUSTIN laughs]
+
+HELLA: I hate to bring in home…
+
+LEM: And we won’t be able to move faster than the wave.
+
+FERO: All right. Well, I don’t know how glide-y the glide bucket is, so. I guess there’s the boat. 
+
+So let’s go!
+
+[LEM sighs]
+
+ALI: Yeah! I guess the…yeah, I don’t know how to zoom in on this, ‘cause there’s definitely like a like…y’know. We didn’t really plan to be here…
+
+AUSTIN: Yeah!
+
+ALI: …for a ton of time. We came here on be—[stammers] we should just zoom in, ‘cause Hella can say all of this. Um. In character?
+
+AUSTIN: Yeah! Let’s do that. Let’s say it in character, then.
+
+ALI: Yeah. Um. I’m still just thinking of the gist of it, though, but [laughs]
+
+AUSTIN: Yeah…
+
+ALI: We can jump in halfway through this conversation of Hella explaining,
+
+(as HELLA): We’re trying to build a community…in the Last University, and we were…sending—
+
+AUSTIN: Is this a conversation with Jazella, is what you’re saying?
+
+ALI: Yes! Yes.
+
+AUSTIN: Gotcha gotcha gotcha gotcha.
+
+HELLA: And we were sent here by the Golden Lance to try to find what was going on [laughs slightly] with the moon, essentially?
+
+AUSTIN: Yeah.
+
+HELLA: That has been answered for us. And the peop—
+
+FERO: It’s falling.
+
+HELLA: Mm-hm! And the people in power—
+
+AUSTIN: It is!
+
+HELLA: —who had the questions were super not chill, and kind of fucked up. So…I figure if we’re gonna have this conversation we were sent to have, it should be with you! Um. I don’t know that you’re…
+
+JAZELLA: I appreciate it. 
+
+AUSTIN: I imagine this is a conversation now not happening in the stew line. I think this is happening in like the command center. Like the…energy here should be very Rosencrantz and Guildenstern Are Dead. Like the—during the middle—
+
+KEITH: I haven’t read it.
+
+AUSTIN: Okay. Um, is there like another—what’s an equivalent thing?
+
+JACK: Like the snappiness of like Sorkin, but not awful.
+
+AUSTIN: Yeah, like imagine being—oh, you know what it is? Sorkin—it’s sort of like the world around you is in Sorkin mode, and you’re extras.
+
+[ALI chuckles]
+
+Right? Like, you’re in the middle of someone else’s revolution!
+
+JACK: [laughing] Right.
+
+AUSTIN: And…and the camera knows that here. Right, like there are people moving around quickly, there are lots of people who have proper noun names, who have like capital letters and who are like people who have titles and roles, and they’re all moving about their day, while you are like—
+
+JACK: We’re the people that get—we like get walked by in the walk-and-talk.
+
+[ALI laughs]
+
+AUSTIN: Right. Exactly. It’s exactly that.
+
+KEITH: Was that Dulé Hill?
+
+AUSTIN: Yeah, exactly that! 
+
+[KEITH laughs loudly]
+
+Like holy shit! Dulé Hill’s here! Weird, okay.
+
+KEITH: [high pitched voice] Dulé Hill’s here?!
+
+AUSTIN: Okay. He wasn’t in the pilot!
+
+[JACK chuckles]
+
+[KEITH laughs]
+
+Anyway. [laughs] Someone said—all right.
+
+KEITH: I haven’t seen that show, I just know that—I just know who’s in it.
+
+AUSTIN: Yeah. Yeah. He was not in the pilot, and one of the notes was like, “Hm. This is a very—this show looks a certain way.”
+
+KEITH: Got it.
+
+AUSTIN: Um. All right. Uh. So yeah. I think you’re like in this command center, and there’s a bunch of maps and stuff. And I think she’s like
+
+(as JAZELLA): Yes, I spoke with Lem King about this, and…Of course. When we are done, and we’ve rebuilt things, we would be happy to speak with you on a further basis.
+
+HELLA: Oh, yeah, absolutely. I, um. [breathily] Sorry, you’re turbo busy. But.
+
+FERO: With the moon thing.
+
+HELLA: Uh-huh.
+
+JAZELLA: Yes.
+
+HELLA: Your hands are super full. But we like live in a giant library? And I was talkin to that weird cop guy about how the whole magic thing worked.
+
+JAZELLA: [wry] Oh, the weird cop guy. Which one?
+
+AUSTIN: His name is Hershlan—Hershan—
+
+FERO: Uh, Urrn’s uncle.
+
+AUSTIN: —you got it. Yeah, Urrn’s uncle works. Yeah.
+
+JAZELLA: Ah, I see. Hershan. Hm.
+
+AUSTIN: She like finds herself thinking for a moment. And she like pauses. [sighs] And then she’s like—[sighs] hang on a second, I need another name that we haven’t used yet from my name list, one second. I have a name list for these people. They have some good names. Um. She’s like,
+
+(as JAZELLA): Tiloa, can you—[whispers] can you send someone to check on Hershan? Thank you. Um. Anyway. Yes, what about—yes, the library. You have a library. That sounds fantastic. It’s a university, right?
+
+HELLA: R—yeah! I just mean like—[sighs] if there’s knowledge to be had, if there was someone who wanted to come back with us…
+
+JAZELLA: As a sort of…potential trade?
+
+HELLA: I mean, not even that, but like…
+
+FERO: Diplomat.
+
+HELLA: If y’all’ve been getting your magin take—magic away—taken away for like years? They taught that there.
+
+JAZELLA: I see. Yes. Mm.
+
+HELLA: Sorry if I’m being super offensive.
+
+JAZELLA: No no no no no no no! I’ve been so—[huffs a laugh] [sighs] You need to understand that for most of us…It’s gone. There’s not…
+
+HELLA: Okay.
+
+JAZELLA: We’ve given up. No no no, I’m saying. This is interesting.
+
+HELLA: Oh.
+
+JAZELLA: I had not considered that perhaps…we are interested in material, immediate change here. Big picture things. And that is why we’ve taken the actions we have. I have—no qualms.
+
+FERO: Like what?
+
+JAZELLA: About—the moon. [amused] The moon is the big one.
+
+FERO: Oh, the change was that no more moon.
+
+[ALI laughs helplessly]
+
+JAZELLA: Removing Zogia’s entire structure of rule!
+
+ALI: I think—
+
+FERO: I meant post-moon.
+
+JAZELLA: Yes, yes, and so things like that as well, right? A…more equitable arrangement for living throughout the four islands. Varee has nothing but space and only the very wealthy live on it. A great deal of natural—
+
+KEITH: [shouting from far away] Not anymore!
+
+[ALI snorts]
+
+JAZELLA: …Right. Yes. Not anymore. Uh, Diloa, who is not the same as Tiloa. They are sisters.
+
+[KEITH laughs]
+
+[huffs] And we will use that space well. We will make sure that no one’s mastery is clipped ever again. These are things we’ve arrived at, and many still that we will not know until it is time. But one that we have not considered is…a way by which the great many of us could be re-met with our mastery.
+
+KEITH: Remastered.
+
+AUSTIN: [in character voice] Remastered. We need to—we need the Mistral remastered, on the Playstation 4 entertainment console unit.
+
+[ALI shrieks]
+
+KEITH: On an all new epic skew. [laughs]
+
+AUSTIN: [amused] With an all new epic skew. Of Mis—of Isles of Flight remastered.
+
+[JACK sighs wearily]
+
+[in character voice] I prefer a remake to a remaster, most times.
+
+[ALI snorts]
+
+Um.
+
+[JACK laughs]
+
+Yeah. And so she’s like, I think she’s into this idea. ‘Cause like, she hadn’t thought of that part. And so she’s like,
+
+(as JAZELLA): I see. Yes.
+
+KEITH: You think people will consider this a cash grab?
+
+AUSTIN: God.
+
+ALI: [laughs] Hella’s like—
+
+AUSTIN: [laughs] Didn’t we just remaster three years ago?
+
+[ALI laughs]
+
+[KEITH laughs]
+
+ALI: Um. Hella’s beaming, for coming up with a good idea, but uh…
+
+AUSTIN: Mm-hm. She’s like,
+
+(as JAZELLA): Yes, I…[stammers] There was…Xeralia. Xeralia was one of those who worked on Varee and who, let’s say, came to her senses about…the way things were. Brilliant mind. Xeralia could go with you. [stammers] Pending her acceptance, of course. Or could join you, later, perhaps. And—perhaps she could find a way to return what was taken from us.
+
+HELLA: That would be amazing! Yeah yeah yeah! Um, if there’s a way that we could help, yeah!
+
+JAZELLA: I appreciate it. It has been…quite a long time since outsiders came here offering help without a very direct and immediate request following.
+
+ALI: I think she like—she looks at Lem and Fero, and is like,
+
+(as HELLA): We kinda need medicine, I think, at the place we’re at? But that’s not a thing you go around asking people for, who just took down a moon. [amused sound]
+
+KEITH: Are we hurtin for medicine right now?
+
+AUSTIN: You are hurting for medicine right now. Meanwhile, in—
+
+[KEITH and ALI laugh]
+
+—in the Last University, Hadrian is out of gauze as he tries to—
+
+[1:15:00]
+
+—perform surgery on a god.
+
+ALI: it is our specific lack, and Hella is a manager for a bunch of…
+
+AUSTIN: Yeah.
+
+ALI: Guards? [amused] And probably notices that we’re out of bandaids.
+
+AUSTIN: Oh, yeah. Totally.
+
+ALI: Um. [laughs]
+
+AUSTIN: So do you make that request, or do you not make that request?
+
+ALI: I think that I’m making it in the exact way that she made it, which is like.
+
+AUSTIN: Okay.
+
+ALI: “This is what our need is. [laughing slightly] I understand if you can’t spare it.”
+
+AUSTIN: Yeah. She says—yeah, so I think she says,
+
+(as JAZELLA): We will see. [sighs] There will be more fighting yet, but…again, Varee has a great deal of space, and it is high, and close to the sun, and there is clean water there. [amused] Medicinal herbs are not something beyond our ability to grow.
+
+FERO: [whisper] Where does the water come from?
+
+JAZELLA: Uh, rain. Natural water, rain. Rivers.
+
+FERO: Wow! All rain.
+
+JAZELLA: Rain water, river water…sky water. The various waters.
+
+[ALI laughs]
+
+FERO: How do you get a river float…The ground floating I get, but the river…
+
+JAZELLA: We’re all floating! Hieron is floating.
+
+FERO: But it’s—y’know. Big.
+
+JAZELLA: So is Varee, Varee is very large. Varee is the biggest of the islands!
+
+FERO: All right, fine. This—no—I’m not counting it as an answer, but I’m satisfied.
+
+AUSTIN: Does Ordenna have rivers?
+
+ALI: Probably.
+
+KEITH: Ordenna floats in the water.
+
+AUSTIN: Real talk, does Ordenna have rivers?
+
+ALI: I think so! I mean.
+
+AUSTIN: Yeah! Right, well, I guess I’ll put it this way: Ordenna has fresh water, right?
+
+ALI: Yeah. Yes yes yes. Yeah yeah.
+
+AUSTIN: They’re not shipping in fresh water.
+
+ALI: No no no.
+
+AUSTIN: Yeah, Varee is not as big as Or—Varee is like a little smaller than Ordenna, or…Marielda. The City of First Light. Right, so like…there is fresh water on that floating island.
+
+KEITH: Okay. I’ll buy it.
+
+AUSTIN: You know, it’s weird.
+
+KEITH: This is a magic planet, I get it.
+
+AUSTIN: It’s a magic planet!
+
+ALI: Yeah.
+
+AUSTIN: Yeah.
+
+ALI: There’s hot springs, there’s rain. Like.
+
+AUSTIN: There’s rain, there’s hot springs.
+
+KEITH: But what good is the magic planet if some people on it didn’t hear certain kinds of magic?
+
+AUSTIN: I gotcha. Totally. A hundred percent. Um. Yeah.
+
+ALI: Um.
+
+AUSTIN: So yeah. I think she says like, 
+
+(as JAZELLA): I think this is an acceptable…exchange. I don’t make it lightly, and it is…
+
+What’s the word I’m looking for…
+
+(as JAZELLA): It is provisional until we pass it…through the rest of Quill leadership, but…this seems…
+
+HELLA: Oh, yeah! Yeah.
+
+JAZELLA: This seems appropriate.
+
+HELLA: Um. Like I said. To being good neighbors.
+
+[Pause]
+
+AUSTIN: [in character voice] Like a good neighbor…[laughs]
+
+[ALI laughs]
+
+Anyway. Um, yeah. She’s like, and she nods, and like offers you a hand. A…bird—a wing. To shake.
+
+ALI: [low] Second firm handshake today.
+
+KEITH: Not to have!
+
+AUSTIN: Not to have. You don’t get to have that wing. She’s not like, “Yo, check out these good chicken wings!” Um. Yehttps://www.youtube.com/watch?v=n8mh5zHr_Sgah!
+
+ALI: [laughs slightly] I think Hella gives like a specific different firm handshake?
+
+AUSTIN: Okay. Sure.
+
+ALI: [laughs] And I want—this character to be like, “Oh. She has multiple good handshakes.”
+
+AUSTIN: She has multiple good handshakes.
+
+ALI: “That is a good arm!”
+
+AUSTIN: Yeah. Yeah.
+
+[Both laugh]
+
+Hm! Yeah. I think that that’s good. I’ll—I’m gonna make a note of it right now. That you’ve negotiated to exchange…a medicine deficiency. Cool. Um, nice work!
+
+Normally I’d make you roll for something like that, but I think the trade that you offered was so strong that like she’d be happy to be able to start shipping you stuff like that. Again, presuming that everything works out okay.
+
+ALI: [laughs] Yep!
+
+[AUSTIN sighs]
+
+KEITH: Speaking of that.
+
+AUSTIN: Yeah!
+
+KEITH: Is…I wanna leave. I mean, Fero wants to leave.
+
+AUSTIN: Do you say that out loud?
+
+KEITH: No. [laughs] No no no.
+
+AUSTIN: Okay.
+
+KEITH: Fero wants to leave, but I don’t wanna leave before…I don’t know, I guess doing my due diligence on like, are we finished here?
+
+AUSTIN: I don’t know!
+
+KEITH: Should I, like…? 
+
+AUSTIN: Yeah! That’s a good question.
+KEITH: Do we feel like we’re done?
+
+AUSTIN: Shhhh…
+
+KEITH: Is there some—
+
+AUSTIN: I think that’s a conversation to have in person. Or in character.
+
+KEITH: I’ll fly to…
+
+AUSTIN: Unless you were saying Fero wouldn’t have that conversation in person, is what you’re saying.
+
+KEITH: No, I’m f—I’m willing to have it. I’m willing to have it in person.
+
+AUSTIN: Okay! Then yeah. Where is it?  Where in this weird cave system bunker area is it? Are you eatin some stew, are you back up top in like the empty city? Where is this conversation happening?
+
+KEITH: Let’s go to the empty city.
+
+AUSTIN: Okay.
+
+KEITH: Let’s like, “Hey, we’re gonna go wheel this glider. Like, close to where to where we’re gonna be taking off from.”
+
+AUSTIN: Everyone good with that?
+
+ALI: Oh, yeah.
+
+KEITH: Like, “Hey, I’ll show you the glide bucket.”
+
+AUSTIN: Yeah.
+
+ALI: Right.
+
+AUSTIN: I think while you’re up the, you see…you see Hershan being led from the like—from the place he was before down into the cave system. Um. So he is not going to die up there.
+
+KEITH: Good for Hershan, I guess.
+
+AUSTIN: I guess! Right? Like I think there’s a moment where she was—she really considered leaving him to die. You know?
+
+JACK: Mm.
+
+KEITH: Yeah.
+
+AUSTIN: Um, and then…
+
+KEITH: Well, he could have also left, with everyone else.
+
+AUSTIN: Maybe! Remember, not everybody got away. Like, I think there’s lots of people here who are like…you know. Who are gonna get stuck up here. No lots. Not lots in the sense of statistical population number? Right? But like, the wealthiest people here probably got away. The people right under that? No. You know?
+
+KEITH: And they don’t get to go downstairs.
+
+AUSTIN: They are not being invited downstairs, no.
+
+KEITH: To know, you gotta know.
+AUSTIN: Exactly. And I think to some degree this is like—they ran the numbers, they know how much food they can get for people. They know how many people can fit in here. And also like, they don’t have guillotines, they have the wave.
+
+JACK: Just one very large guillotine.
+
+AUSTIN: Yep.
+
+JACK: Created by the moon. [laughs slightly]
+
+AUSTIN: Created by the moon! And frankly, I bet that they even somehow tried to scam it so that the wealthiest, richest, shittiest people here, the most like—the worst bosses the people who they know are abusive, and they know are petty tyrants, are the ones who did not get on the serpent buses. You know?
+
+JACK: Right.
+
+AUSTIN: You gotta know the driver,  you know? So I bet there’s all sorts of things happening there.
+
+KEITH: Mm.
+
+AUSTIN: It is not a bloodless revolution by any means.
+
+KEITH: No.
+
+AUSTIN: And like again.
+
+JACK: It’s a blood-ful revolution.
+
+AUSTIN: They killed a lot of people on Varee.
+
+KEITH: They’re dropping the moon. There’s a bunch of people on the moon, too.
+
+AUSTIN: Yeah! There are a bunch of people on the moon. They’re killing a bunch of people on the moon. Yes.
+
+KEITH: Yeah. Yep!
+
+AUSTIN: And they destroyed—I mean, they’re not just—again, they’re not just dropping it. They’re using the device that sent birds up there, that sent the Mistral up there, to yank the moon down into the sea.
+
+KEITH: Using the mastery to—they’re reversing the mastery.
+
+AUSTIN: Right. And so like they can’t even…those people can’t even just fly back down.
+
+KEITH: ‘Cause they don’t have the power too.
+
+AUSTIN: They don’t have the power to, ‘cause they used that device.
+
+KEITH; They could glide down!
+
+AUSTIN: Not from the—space! You know?
+
+KEITH: Not spa—yeah.
+
+AUSTIN: Yeah. But if you do the thing where you jump off at the last minute, you know?
+
+KEITh: Yeah, but you’re falling so fast at that point.
+
+AUSTIN: But no. You’d fall so fast! And we don’t need to see that.
+
+KEITH: What’s the terminal velocity of a moon?
+
+AUSTIN: In Hieron, a weird, floating rock planet, like I don’t know.
+
+KEITH: Yeah.
+
+AUSTIN: But it’s  not gonna go well for them. Zogia is not gonna stick his hand out of the ground at the end of this.
+
+KEITH: Got it.
+
+AUSTIN: You know?
+
+KEITH: That’s good.
+
+AUSTIN: Um. Yeah.
+
+ALI: [sighs] This was well organized, and I’m proud of them! [laughs]
+
+AUSTIN: Good—yeah. They did the damn thing.
+
+JACK: Yeah, this is like…
+
+KEITH: [cartoony voice] You guys really did it, huh?! [laughs]
+
+JACK: Like we see a lot of instances in Hieron, right, of like people organizing and that organization having [laughs] varying degrees of success?
+
+AUSTIN: Yeah.
+
+JACK: So it’s kind of heartening to just go like, “Oh shit!”
+
+AUSTIN: Yeah.
+
+KEITH: Wanted to drop the moon and you dropped the goddamn moon.
+
+AUSTIN: And then you had a place for the people who were gonna like—the masses of underprivileged who had suffered.
+
+JACK: There’s a…bit of this. I don’t—have they taken a count of the people who just live in the north?
+
+AUSTIN: No.
+
+JACK: Okay.
+
+AUSTIN: No. And so yeah, you’re right.
+
+JACK: Right. That bit kinda sucks.
+
+AUSTIN: Yep! It does.
+
+JACK: Um, but on the islands, I’m super—nice one, birds.
+
+KEITH: Is—now is that something? Can we go and try to evacuate the—I guess they’re seeing the moon drop.
+
+AUSTIN: They are seeing the moon drop.
+
+JACK: Yeah, they’re seeing the moon drop, and I suppose if we, as we leave…[laughs silently] I’m realizing how, y’know,…[ sighs] There’s only so helpful we can be…
+
+AUSTIN: Yeah.
+
+JACK: …if we’re fleeing south going, “Come on, quick! Come on! [laughs] There’s a huge wave of water coming!”
+
+AUSTIN: Everyone else flee too! Yeah.
+
+KEITH: What if…yeah.
+
+AUSTIN: People are fleeing.
+
+JACK: But I mean, you know, there’s part of that, right? If a community sees a group of people fleeing at speed from the direction that the moon is falling? [sighs] The unspoken message is. “Please watch out, the moon is gonna move.” 
+
+KEITH: What if we—what if we stop—what if we leave now, and we stop at the New Archives?
+
+AUSTIN: That’s possible.
+
+JACK: I mean, I don’t know how many people are left there! But—
+
+KEITH: I wanna get—I wanna get something. I wanna have something.
+
+JACK: Oh.
+
+KEITH: From there.
+
+AUSTIN: Oh, shit! Okay, let’s do this.
+
+[ALI laughs]
+
+Unless the rest of the party says no, but like I want—any time a player is like, “I have a goal,” I’m interested in the goal.
+
+FERO: Lem, do you remember when you stole that thing that was really useful to you? From the New Archives?
+
+LEM: Yeah. It began a series of events that—
+
+FERO: Mm-hm!
+
+LEM: You know, kind of ruined my life.
+
+FERO: Yes. I want to steal something from the New Archives.
+
+LEM: Please don’t.
+
+FERO: I don’t know that there’s a system set up to…really get me in trouble for that, anymore.
+
+LEM: Well, you can’t just—steal something from the Archives.
+
+FERO: And there’s about to be a wave that hits it, and I feel like actually I’m rescuing something from the New Archives.
+
+AUSTIN: Mm.
+
+LEM: Right. Look. [sighs]
+
+That’s a very persuasive position—
+
+[ALI laughs]
+
+FERO: Yep! Thank you.
+
+LEM: That I feel like you…chose very carefully, given my circumstances. I don’t like this, Fero. I don’t like the idea of my—you know. My home being destroyed by a wave.
+
+FERO: Mm-hm.
+
+LEM: I like that—less—
+
+FERO: You only want to destroy it with a river.
+
+HELLA: Hey.
+
+LEM: Oh, come on!
+
+Okay.
+
+HELLA: What do you want, anyway?
+
+LEM: What do you wanna take?
+
+FERO: I’m having trouble making new animals, and I thought maybe if I could find some good magic shit, I would—
+
+LEM: W—no, it doesn’t work like that, Lem. You—
+
+JACK: [furious] Oh my god!
+
+[Laughter]
+
+KEITH: That’s the second time you did that!
+
+AUSTIN: Wow!
+
+KEITH: You did that like two or three episodes ago.
+
+AUSTIN: Holy shit!
+
+JACK: [laughs quietly] Oh my god.
+
+Okay, I’m gonna d—
+
+AUSTIN: It’s not even that late. You’re on the west coast of the United States right now. We can’t even be like, “Oh, it’s 4000 am!”
+
+JACK: I’m just…I’m—look. I tell you what it is, right. It’s like I’m trying—[laughs] I’m trying to manage Lem’s own hypocrisy here.
+
+AUSTIN: Uh-huh!
+
+[ALI laughs]
+
+JACK: ‘Cause this conversation targeting Lem is…one that I think about a lot. Okay.
+
+LEM: Look, it doesn’t just work like that, Fero. You can’t just—go in there—what did—just take some magic shit?
+
+FERO: Yeah. 
+
+LEM: Firstly—
+
+FERO: Well, one magic thing. I want a magic thing.
+
+HELLA: You want a specific one?
+
+LEM: Do you know what it is?
+
+FERO: No! I wanna—you know, look around. Touch stuff.
+
+[Quiet laughter]
+
+LEM: You can’t do that!
+
+FERO: Experiment. We’ve got until morning!
+
+LEM: My home’s going to be destroyed. You—experiment?
+
+FERO: Or, like, you know, try stuff out! Yeah, experiment. Yeah, I guess experi—
+
+LEM: Who’s going to be doing the experimenting? Fero?
+
+FERO: I think I would!
+
+LEM: …Really.
+
+FERO: Yeah! I could—maybe if you two wanted to pitch in.
+
+LEM: If you wanted me to help you loot my home.
+
+FERO: Fine. Loot—I remember, we decided to call it rescuing. Rescuing something from the oncoming wave.
+
+LEM: Okay. Right. Okay…
+
+ALI: I [chuckles] I think Fero—Hella made a promise to Fero. Last episode. [laughs] And she gives Lem a very—like she puts her hand on Lem’s shoulder, gives a very appreciative look, and is like,
+
+(as HELLA): Fero, I will help you with whatever experiment.
+
+FERO: Sick.
+
+LEM: It doesn’t work like that, Fero!
+
+FERO: What do you mean?
+
+LEM: You can’t just…It’s like walking into a shop, right, that contains like everything.
+
+FERO: Yeah.
+
+LEM: The shop contains everything that’s ever been made, right?
+
+FERO: I lived there for years. Yeah. I know!
+
+LEM: You lived outside there.
+
+FERO: Yeah, but I saw—
+
+LEM: And you g—
+
+FERO: I saw people, y‘know. A line of people carrying…all the same kind of desk chair. Or whatever.
+
+LEM: Right, so are you looking for a desk chair?
+
+FERO: I don’t know what I’m looking for yet. I have to s—when I see it…and then probably touch it. I’ll know. And maybe if I like wave it around? I don’t really know magic stuff.
+
+HELLA: Mm. Fero, I—
+
+LEM: How much pattern magic have you done, Fero?!
+
+FERO: None. Zero. No, not pattern magic! Just regular magic.
+
+HELLA: Wh—can I ask you this? Can I at least say like, are we going to a furniture room? Are we going to a book room? Are you looking for an amulet, perhaps.…‘Cause you’re—
+
+FERO: Amulet sounds really promising, but honestly I’m open to whatever.
+
+[AUSTIN wheezes with laughter]
+
+LEM: [sighs] Okay. Right.
+
+FERO: Amulet is a fi—I feel like if you were to give me a noun, and ascribe a percentage chance that it’s magic—
+
+AUSTIN: Oh, I love this—
+
+FERO: —amulet would be one of the highest.
+
+HELLA: That’s fine too.
+
+AUSTIN: I love that—the thing that Fero is looking for is like a thing that makes perfect sense in any like traditional game world.
+
+JACK: Mm-hm! Mm-hm!
+
+[ALI laughs]
+
+[JACK laughs]
+
+AUSTIN: Fero wants like an amulet of +1 Intelligence.
+
+JACK: The magic amulet.
+
+KEITH: Yeah.
+
+AUSTIN: Right?
+
+JACK: Yeah, it’s got like a gem in the center of it.
+
+AUSTIN: Yeah. They give—
+
+JACK: Well—
+
+AUSTIN: +1 Intelligence, so that you can make the roll better. This is a perfectly normal thing for a game character to want.
+
+KEITH: Yeah!
+
+[JACK laughs]
+
+I’ll say this! And, Austin, this was your idea!
+
+AUSTIN: Was it?
+
+KEITH: Yes, this is literally—yeah! I said—I told you.
+
+AUSTIN: Yeah.
+
+KEITH: I said to you, “Man, it is so hard to make these animals.”
+
+AUSTIN: Yes. Yes.
+
+KEITH: “‘Cause my Intelligence is so low, and I’ll never be able to raise it.”
+
+AUSTIN: Yep.
+
+KEITH: And then you said, “Well, what if you find something magical?” [snorts]
+
+AUSTIN: There you go! What if? What if?
+
+KEITH: What if?
+
+[JACK sighs]
+
+AUSTIN: This is a totally—like, we live in a magical world! Here’s the most important thing to understand about what is happening right now, is Hella, you absolutely—when you were just like a mercenary person—definitely would occasionally be brought on to jobs that was this exact thing!
+ALI: Mm-hm.
+
+AUSTIN: That was like, yeah we’re gonna go try to find some magic shit. ‘Cause this is the world of magic shit?
+
+KEITH: Yeah, and we need a specific kind of magic thing.
+
+AUSTIN: Yeah. We don’t know what yet!
+
+KEITH: By the way, this is exactly what the archivists do as a j—
+
+AUSTIN: Yeah. Well—mm—
+
+KEITH: This is exactly—isn’t it?
+
+AUSTIN: It’s similar. No, because what they do is everything. They want one of—they want as many of everything—
+
+KEITH: But that’s only because their type of magic works different.
+
+AUSTIN: Right, but they’re—you know, I think you can probably put in a special request to get the like specially reupholstered couch, or whatever—
+
+KEITH: Yeah. But—as—
+
+AUSTIN: —for your special ritual, you can have one of them!
+
+JACK: That man drowned!
+
+KEITH: If I need a +1 intelligence—
+
+[1:30:00]
+
+—glove, so I can turn into an animal faster.
+
+AUSTIN: Yeah.
+
+KEITH: Like what’s the difference between that and like, “There’s a specific kind of cannonball…”
+
+AUSTIN: So they—
+
+KEITH: “…that only exists at the bottom of this lake.”
+
+AUSTIN: The key difference.
+
+KEITH: “And I need that—to make animals better.”
+
+AUSTIN: It’s less like that—their thing is more like getting components for wizard spells, where they’re just like, “Oh, we need eye of newt, we need 12 bits of demon ash, we need—” and they just want all—they want a stocked pantry. They want a stocked pantry.
+
+JACK: It’s like when you’re playing a crafting game, and you’re really early on, and you’re just like, “I don’t know what blue kelp is!”
+
+AUSTIN: Right.
+
+JACK: “But I know I want a lot of blue kelp!”
+
+AUSTIN: Bottle all the blue kelp. I wanna have a chest filled with blue kelp. That tends to be what they do. More than I need this very special cannonball, they just go into the cannonball room, where they’ve already collected a thousand different types of cannonballs, and then move them in different ways. So it’s slightly different. I get what you’re saying!
+
+KEITH: The thing that I’m remembering, the thing that is probably season one, talking about the archivists, and talking about how like it used to be that they would go to a place and be like, “Hey, we would love it if we could get these desks.” That’s why I said desk chairs.
+
+AUSTIN: Mm-hm.
+
+KEITH: And then it slowly transformed into like, they’d go into a place and say, “We need this kind—we need these desks or else.”
+
+AUSTIN: That did happen. Yes.
+
+KEITH: Yes.
+
+JACK: Like some departments were like that, right, and they were often like very good at that specific job. But I think the other thing to note here, and I think the thing that is like, that the…the anxiety that is just visibly bubbling up in Lem is Lem doesn’t know what exists anymore in the archives. Like, we know that there has been rampant destruction there, as a result of, y’know, Lem’s own actions! And so there’s a whole part of reluctance here that like…Lem doesn’t even want to begin to say, “Maybe the jewelry workshop doesn’t exist anymore,” because to do that would be to accept responsibility for the fact that he wiped out the jewelry workshop.
+
+AUSTIN: Right. Lem, a thing you could do is…Spout Lore here. If you want to know if the thing that Fero is looking for exists. Or existed, when you were there.
+
+JACK: Sure, I—yeah. Okay. I can—
+
+AUSTIN: And whether or not you share that information, who knows, right? But like, you would know this.
+
+JACK: No, yeah, absolutely! Let me roll Spout Lore and then I’ll [laughing] see what I wanna do with…
+
+AUSTIN: Ah, with your intelligence, your intelligence is +1.
+
+JACK: Okay…
+
+AUSTIN: 2d6+1. That’s an 11. So, like, the answer is all of the stuff—all of the questions—of the things that we just said before, of the like, “That’s not how the archives work! Like, they collect everything!” is of course true. But also! Of course there is a magic amulet, or some shit, that could help Fero think of new creative animals, right?
+
+JACK: I know what it is.
+
+AUSTIN: What is it?
+
+JACK: As well.
+
+AUSTIN: Tell me what it is.
+
+JACK: It’s a bird.
+
+AUSTIN: [whispers] Oh my god…
+
+JACK: It’s a small living bird.
+
+[ALI laughs]
+
+AUSTIN: Okay.
+
+JACK: It’s like a wren, or something.
+
+AUSTIN: Yeah.
+
+JACK: And we have an—
+
+(as LEM): Okay, Fero.
+
+FERO: Yeah.
+
+LEM: Okay…Right. I didn’t wanna tell you this, because you’d say something like “That’s bullshit.” But we had an aviary…where we kept lots of different kinds of birds. Live birds. Mostly live birds. And some of them flew about, you know, on their own, and some of them were kept in little cages.
+
+FERO: Like a pavilion.
+
+LEM: And—like a—right, like a pavilion…[sighs] And there was a whole department of people to feed the birds, and to, you know, see what they did, and one of these birds, like a very small—like a little bird, it does the thing that you want. Like an amulet.
+
+FERO: An—okay. Got it.
+
+LEM: But it was—it’s a bird, Fero! I don’t know who’s been feeding it. I don’t know—I don’t even know if it’s still—I don’t know if the…
+
+FERO: Find its own food, it’s a bird!
+
+LEM: Well, it’s trapped in the aviary.
+
+FERO: I’ll let it out—I’ll help it. It sounds—now this is a mission to rescue a bird!
+
+We gotta let these birds out! All of them! Or they’re gonna get killed by the wave!
+
+LEM: [amused] Oh, no, not all of them. 
+
+FERO: Yeah, we have to let all those birds out!
+
+[AUSTIN laughs]
+
+LEM: There are some other birds in there. No, we really don’t wanna let some of those birds out.
+
+HELLA: What's wrong with birds?
+
+FERO: Wait, are there any other animal sections? Are these are a zoo? We have to free the zoo animals.
+
+[ALI sighs]
+
+And I have to keep one of them.
+
+[Laughter]
+
+LEM: “We have to free all the birds—except mine!”
+
+HELLA: Well, Fero, you could—you talk to birds, you could ask if it wants to come sit with you, right? Yeah.
+
+FERO: Yes. I will ask it.
+
+HELLA: Fero.
+
+FERO: Yeah. I’ll ask it!
+
+HELLA: Okay.
+
+FERO: You can watch me ask it.
+
+HELLA: I totally do!
+
+Want to.
+
+[KEITH laughs]
+
+[Laughter]
+
+AUSTIN: Okay, wait! Did we just jump cut? Did I miss—to us being—
+
+Here’s a real question! Have—can I just reframe this entire past scene? I have a question.
+
+KEITH: Yeah.
+
+AUSTIN: Have you left the Isles of Flight—or have you been—did all that conversation happen and in the background you’ve been like, prepping the sandbags on the side of this floating glider.
+
+[MUSIC - “SOMETHING” begins]
+
+KEITH: Yeah, that’s exactly it.
+
+JACK: I love it! Because it’s like the—it’s like when you’re on a journey and you’re debating taking a detour.
+
+AUSTIN: Yeah.
+
+JACK: And the road for the detour is getting closer and closer.
+
+AUSTIN: Yes.
+
+JACK: And you’re like look, we have to decide if we’re gonna go here, you know, soon, or else we’re gonna pass the exit.
+
+KEITH: Well, the good news is that I’m not gonna be in that glide bucket. So, I can do whatever I want.
+
+AUSTIN: God damn it…
+
+[MUSIC - “SOMETHING” plays out]

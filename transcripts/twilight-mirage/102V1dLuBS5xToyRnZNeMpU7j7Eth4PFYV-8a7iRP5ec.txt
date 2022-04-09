@@ -1,0 +1,2989 @@
+Twilight Mirage 35: This Year of Ours: The Notion
+Transcriber: GK#1768
+
+[Music - “The Notion” begins]
+
+Austin (narrating): From a certain perspective, the Twilight seemed to rest perfectly at peace, an etheric coastline: the nine idylls – even Volition – in close, harmonious orbit within a sea made of light and color, and tidal rhythms drawn by the pleasant waving of the distant asteroid belt that encircled the Quire system. But unfortunately for Keen Forester Gloaming, Chief Intercessor of the Rapid Evening’s newly formed Mirage division, that perspective wasn’t visible from the bridge of the Welkin Absolute, flagship of his humble task force. 
+As the long, ribbon-like frigate flittered through the Shore like a wind-up toy or a tapeworm, Gloaming looked beyond the rocks and towards the only thing that Crystal Palace feared: Possibility. 
+
+Austin (as Keen Forester Gloaming):  K-upside transmission three-two-eight, record MD-Gloaming. 
+Crystal Palace, as we approach the one year anniversary of our incursion into the Quire System, dovetail synopsis confirms that the last eleven months have been aligned with guaranteed events. As predicted, the two largest operators inside of the Mirage are in a moderate state of fracture. Combine this with the arrival of external agitators and opportunists, and this system is working daily towards their definite collapse, at which time a clean-up crew can address the problem of Volition and any other probabilistic phenomena.
+But, Crystal Palace, there is something I’m worried you missed. You forecasted forty-four meaningful entities inside of the Mirage, and there are exactly that. You identified the existence of temporal and spatial shifts before any of our agents landed on these worlds. You told me that we would fight my daughter to a standstill and we did. And I never batted an eye… until last week.
+An operation on Seneschal. Removal of a low level deviation risk, a woman named Open Metal. Our agents chased her down a rib, out of Drifting, into Marginalia, into a little automated fishing village by the western falls. They cornered her at the end of a high, long causeway, but when they went to fire, she leapt into the sea, and landed on a boat, and vanished.That boat wasn’t supposed to be there. There were no “meaningful entities” on schedule, no temporal or spatial shifts registered. I looked into it. It was an old man who liked to fish. Your models account for everything except the most ordinary people. And if someone gives them the notion that they can make this work… it just might.
+
+[Music - The Notion ends]
+[02:38 - Intro Ends]
+Austin: Welcome to Friends at the Table, an actual play podcast focused on critical world-building, smart characterization, and fun interaction between good friends. I’m your host, Austin Walker. And today we are playing our first full real session – sort of, kind of, maybe – of Scum and Villainy by Stras Acimovic – uh, I’m hoping I’m pronouncing their last name right – and John LeBoeuf-Little. Also hoping I’m pronouncing – Le-bow Little? Le-boof Little? There’s an ‘f’ in there. Uh, Scum and Villainy is a hack of Blades in the Dark, a game by John Harper, a game that we’ve played before. Um, my goals are to convey the fictional world honestly, to bring the Twilight Mirage to life, and to play to find out what happens.
+Austin (cont.):  I also have a set of principles that I’m gonna read, since this is our first full session, um, with this. My principles are: to be fans of the PCs;  to always follow the fiction, to make the world wondrous, to make space mysterious, to cover it in big clunky, touchable technology, to address the characters, to address the players, to consider the risk, and to hold on lightly. There are also player character best practices in this book, because this book is fantastic – um, and those I’ll read for you also. And those are – also, there’s a section you should all read – everyone in this call, between now and our next recording, should totally read… chapter six, I think, which is how to play the game. And they don’t mean that in the, like, “here is what an action roll is”, they mean that in terms of, like, here is what... um, I mean they also mean that in terms of, like, what are the different actions and, like, how can you interpret them, but they also just mean that in terms of like… I’ll get there. But one of them is like, it’s…[reading a list] ‘embrace life on the rim, chase danger and action, describe the action faithfully, advocate for the story you want, use your stress’ – which is a currency and kind of a meter in the game. ‘It’s okay to go with the fun idea. Start fresh, add detail in play, and plan on the fly.’ It’s just such a good chapter, like, I tweeted about this kind of stealthily yesterday, by referring to it as the chapter, as the same chapter in Blades, because it’s very similar. Um, but… it’s fantastic. Like having a whole section that says, like,  ‘Hey, like, if you want to show a thing off, you should introduce that thing…”advocate for the story you want” is really good to have in text, instead of just being like, a thing that we agree upon at the table, but that is not a thing that is explained at length. So, everyone should read chapter six.  
+Uh, joining me today, I’m gonna, as always, go across the bottom line of my screen… Uh, Arthur Martinez-Tebbel.
+
+Art: Hey, hi! Uh,  you can find me on twitter at @atebbel.
+
+Austin: Andrew Lee Swan...
+
+Dre: Hey! You can find me on twitter at @swandre3000
+
+Austin: Alisha Acampora...
+
+Ali: Um, hi! You can find me at @ali_west on twitter and you can find our show over at @friends_table.
+
+Austin: Janine Hawkins…
+
+Janine: I’m Janine Hawkins. I’m at @bleatingheart on twitter.
+
+Austin: Keith Carberry…
+
+Keith: Hi, you can find me on twitter at @KeithJCarberry and you can find the let’s plays that I do at youtube.com/runbutton. 
+
+Austin: Sylvia Clare
+
+Sylvia: Hi, uh, you can find me on twitter at @captaintrash, and I’m also a producer over at videogamechoochoo.com. 
+
+Austin: And Jack de Quidt…
+
+Jack: Hi, you can find me on twitter at @notquitereal, or buy any of the music featured on the show at notquitereal.bandcamp.com.
+
+Austin: Any of the music, of which there has been a ton, probably, in the last… (overlapping) couple of weeks.
+
+Jack: (overlapping) We should say, at this point, we’re at that great Friend At the Table moment where I don’t know what the theme you just heard is.
+
+(Ali, Austin, and Jack laugh.) 
+
+Art: We’re doing a new – we’re doing a new opening theme?
+
+Austin:  (overlapping) Yeah, we’re doing a new opening theme
+
+Jack: (overlapping) Oh, yeah, yeah, yeah, yeah…
+
+Austin: We’re doing a lot. I haven’t explained what this looks like yet, for all of you, but we’re gonna actually run all of those vignettes that we recorded, as the full recordings that we did, seven days in a row, one per day. Um...
+
+Art: You can’t run that two-hour thing we did.
+
+Austin: No, we’re gonna cut ours up, into – Art and I did, just a lot of material, by mistake. A lot of it was about a large dog, it’s a whole thing, anyway –
+
+Keith: That was a big dog, though.
+
+Ali: If you pay a dollar on patreon.com, you can hear about the big dog. (laughs)
+
+Sylvia: (overlapping) I mean –
+
+Austin: Is that – is the – the clapcasts are only a dollar. 
+
+Ali: Yeah. Mm-hmm. 
+
+Austin: Yeah, everyone should pay a dollar to our patreon, which you can find at friendsatthetable.cash. If you want to hear us, just – like we just talked for... probably thirty minutes about complete bullshit. If you miss hearing us just talk about bullshit, a dollar a month gets you access to that. Five dollars a month gets you access to an entire second campaign that we’re running called Bluff City… It also gets you access to a monthly, uh, tipcast, Tips at the Table, where we answer your questions and talk about role playing games, and table manners, and… Table manners in a roleplaying game (laughing), not just, like dinner table manners.
+
+Ali: Oh, but send those too!
+
+Austin: Sometimes those too, you’re right, sometimes those too. We talk about all sorts of stuff. And we also do a live game, Live at the Table, so, if you’re just jumping on here, which I can imagine someone doing, uh, those are the things available. Or, if you’ve just, like crammed all of the last month and a half of our, uh, Twilight Mirage content into your face… this is a good time, maybe to jump on, because you need even more content. (Ali laughs)
+
+Austin (cont.):  Um, today, we are going to, again, kind of pick up where we left off with those vingettes, and, uh, fictionally have everybody together on the ship for the first time. But, before we do that we have to talk about our ships. Um, or our ship, rather, and what it is, and what its stats are, and what cool shit you want on it. I don’t want to go over everyone’s stats as individual characters; I think we’ve just done that, basically. But if people have questions for eachother about that, that can just come up in play. Does that make sense? Okay. Okay, so, if you open up the little file cabinet (laughing) on the right , you’ll see that there is, besides your own name – besides your own character’s name – there is also a thing called The World Without End. And if you open that and go to the character sheet, you’ll see that (overlapping) I have a list of systems –
+
+Keith: (overlapping) Oooh, I don’t have that. 
+
+Austin: Do you not? 
+
+(Murmured agreement from other cast members)
+
+Keith: (overlapping) I have bio and info.
+
+Art: (overlapping) It’s blank.
+
+Janine: Yeah, there’s nothing in here.
+
+Austin: Oh, does the – the character sheet isn’t there? Okay, that’s a bummer.
+
+Keith: I have The World Without End, there’s just nothing in there. 
+
+Austin: Yeah, yeah, yeah, give me a second. I was hoping I could make it so that it – I was hoping that it could be in your journal, and you could see it without having to have edit access to it. Um, but I’ll just do this. Give me a second… boop. There. Now you should all (overlapping) have actual access.
+
+Keith: (overlapping) There you go. 
+
+Austin: (smiling) You can see here that I have a ‘Systems and Factions’ page that just says “go to the shared doc” (Ali laughs) because that’s not where – this stuff isn’t ours, and this sheet isn’t editable in a way I can change the names of these, like, star systems yet, and my hope is that that changes. Uh, and we have a google doc that has all of the planets, and the factions, and that stuff. So we’re gonna manage all of that through that faction sheet that I linked you yesterday. But, at the top, do you see where is says ‘faction mode’? If you click where it says ‘faction mode’ twice, it’ll go to ‘ship mode’. And that is the ship. And that’s where  all of the stats are. And, um, just right now, the very basic – oop, okay, this is gonna be – no, once it goes to ship mode, (overlapping) we should stay on ship mode. 
+
+Dre: (overlapping) No touch, no touch. 
+
+Austin: No touching. 
+
+Sylvia: (overlapping) Everybody sit on your hands. 
+
+Jack: (overlapping) Oh my god, this is shared.
+
+Janine: Ugh. 
+
+Austin: This is – that’s what I’m saying, it’s shared. This is why I’m like don’t – don’t fuck with it. That’s why I wanted to be able to share it without actually sharing it. Uhm… we may also just end up having this on a doc instead. But for now, for at least this opening bit, we should talk through what ships are and what our stats are, and like, what the ship looks like. So actually, I want to start there. Jack, you were the one who introduced The World Without End to this game. So can you describe that ship to everybody in terms of what it looks like, and what its history is?
+
+Jack: Yeah, The World Without End is a, uh... used to be a fishing ship, catching resonant minnows in kind of huge golden nets. It’s like a long – it’s like a very long, thin needle, uh, on landing gear. Um, it has like a long central corridor. And on the outside it is – what color did we decide on in the end, Austin?
+Austin: I think it was a gold and… and...
+
+Jack: It’s like white and gold.
+
+Austin: White and gold with like a brown deck? (overlapping) Because, like, the very front of it… yeah.
+
+Jack: (overlapping) With like a wooden – yeah. Almost like a wooden, yeah, wooden deck around the outside of the ship. Um –
+
+Austin: Yeah. 
+
+Jack: And, uh,  it has written – the name of the ship is written along the length of it, um… which is pretty long. How long would we say the ship is? It’s like...
+
+Austin: Uh, there was a sequence when someone walked away from you and walked for, like, minutes (overlapping) down the length of the ship. 
+
+Jack:  (overlapping) Yeah, it’s – it’s like a – I think the easiest way to picture it would be a long needle with a deck around the edges of it… and kind of gantryways, and holes, and exits to, uh, deploy the fishing nets  or climb out onto the deck on the outside.
+
+Austin: Right. And the very front of it also had, if I remember right – I’m just going to draw, like, a shape, really quick, um – also had… It’s like – there’s the ship; it’s this long, needle-like structure. And then I remember, in my mind anyway, there was like... this sort of, like, front area where this whole front, the whole front of the needle was, like, cut in half in the top. And you stood on it like a deck. (overlapping) And then yeah –
+
+Jack: Wait, where is it?
+
+Austin: It’s just on the page. (overlapping) Do you not see that? It’s hard to see –
+
+Keith: (overlapping) Oh, I see that. Yeah, I see.
+
+Austin: It’s like drawing these fucking – here.
+
+Jack: Oh!
+
+(Everyone laughs)
+
+Austin: Let me move these GIANT PAINTINGS out of the way. Um… oh, that’s not gonna move. Roll20, why do you hate me? There we go. So, yeah, it’s basically this, and the front part is a deck. And then, like, there’s just a huge, long corridor that kind of runs the entire middle, that like, the rooms in this ship are like above and below. Like you open a door and it leads [to] a tiny stairway down that, like, runs underneath the, like, the…. middle portion, if that makes sense? (Ali hums agreement) Here, I’m gonna do it this way, also. So it’s like, there’s this loooooong thing there, that’s the corridor, and then like up above will be a – will be like, bedrooms or, like, dorms or whatever. And then down below will be, like – this one is, like, the kitchen, or whatever. Um, so it’s kind of cramped, and not super comfortable by default. It also has, like, these big nets, for fishing, that are also going to be used to – between those and the kind of grappling claws (Jack hums agreement), to attach to other ships and to do other stuff. And… does it have sails?
+
+Jack: No. No, no, no….
+
+Austin: No sails on this one. Okay
+
+Jack: It just kind of – it just kind of… the – I thought a lot about, um,  you know sometimes you see those nature documentaries where,like, little creatures live in holes in coral reefs under the sea?
+
+Austin: (overlapping) Yeah.
+
+Jack: (overlapping) And they all, like, poke their little heads out to try and grab everything that’s coming by? (Austin hums agreement). I sort of pictured the fleet of fishing ships that The World Without End is part of, uh, when those were a big thing, (overlapping) sort of being docked –
+
+Austin:  (overlapping) Right.
+
+Jack: – in whole gantries where, like, fifty of these ships would come out of these holes on the side of a – on the side of a –
+
+Janine: Eww, gross. (laughs)
+
+Austin: Great.
+
+Jack: ...and go heading off.  
+
+Janine: Oh no. 
+
+Austin: Good, that sounds… great. And not terrible. 
+
+Jack: There’s only one of them now, it’s fine (laughs). That’s another thing we should say, this ship was gifted to Fourteen Fifteen – or, ah, gifted? 
+
+Austin: Mmmm, left.
+
+Jack: – was left to Fourteen Fifteen by a fisherman, uh, with whom they kind of hitched a ride to the By-and-By through the blockade. And the fisherman had, uh, some kind-of faintly unsettling prophecies about what was to come (overlapping) and then just sort of left.
+
+Austin: (overlapping) Yeah. Just sort of left, just sort of walked away and left you with the keys to this fucking thing, basically. 
+
+Jack: Pretty much. 
+
+Austin: Um, so this ship is modeled after… in Scum and Villainy there are kind of three default ships. There’s the Stardancer, which is like a smuggling vessel, there’s the Firedrake, which is this massive, kind of military ship, and then there’s the Cerberus, which is – I’ll read from the book: “It’s for extraction specialists looking to find missing people or items and claim bounties.” It's kind of the bounty-hunting ship of the group, which kind of puts it right in the middle. in some ways. So, the first thing we need to do – the first thing to know here, is we’ve chosen the ship type. We have the ship in the sheet in front of us. You begin with two bucks, two credits. I think I’m gonna actually just increase that to four because we’re basically a group of – we’re two teams, basically, in a single ship. And also because we’re kind of coming in in the middle of your characters lives, and not at the beginning, or, not at the beginning of your story. Then we have to choose an initial reputation. 
+
+Austin (cont.): (reading) “Your crew has formed and acquired a ship. Given this group of characters and their previous escapades, what initial reputation would you have —
+[15:00]
+Austin: — amongst the factions of the sector?  Choose one from the list on the right, or create your own. You earn XP when you bolster your ship’s reputation, so think of this as another cue to indicate what sorts of actions you want in the game. Will you be recklessly ambitious, targeting higher tier targets? Will you take on daring jobs that others deem too risky? Are you interested in the strange weirdness of the black? Or are you – hmm – or are you professional in all dealings?” Their suggested ones are ambitious, brutal, daring, honorable, professional, savvy, subtle, and strange. But I would be totally fine with anything else. I mean maybe at this point we should talk about, like, I’ve talked to you all individually about what the group is you’re with, um, right, what the crew is, the things that you’re doing. And – and we can kind of hammer that out a little bit more, if you want help with this, but the whole notion is that you are are technically representatives of both the New Earth Hegemony and the Divine Free States, in that a member of each of those groups has cosigned you. Um, but their group, the leaders of Seneschal, Seneschal’s Brace, which are the Cadent-Under-Mirage and Declan’s Corrective, are kind of, sort of on the outs with their respective culture… or, er, their respective governments, to some degree, in that they want there to be an actual unity in this sector, instead of just there being a kind of loose, easy truce – or an uneasy truce, rather. Uh, and so there’s sort of – your role is twofold. One is to actively help people, according to what your bosses send you. They say “oh, there’s a mission on this planet, can you go do this, this and this”. But there’s also just, like go out there and spread the word that we’re all in this shit together, by sort of being un… un… (laughs)... unelected peacekeepers and helpers, people who will reconnect families and help put out fires. It’s been made pretty clear to you at this point that you do not have any jurisdiction outside of what people will give you. You do not – if you hurt somebody in the process, you don’t have a license to hurt people. You don’t have the sign-off to, like, go kill folks. That might happen. You might get into a fight and have to hurt somebody. But, like, that does not mean that doing that has no consequences. Like, this game has a whole system of “heat” and “reputation”. So we’re gonna lean into that a little bit. And to the degree that you are, uh.. kinda crime fighters, or almost (laughs) like interstellar superheroes, like, we should be careful about falling towards either secret police or, like, mob justice. And I think we’ve had enough conversations that we’ve hit the right vibe to avoid either of those two things. So, um. So what do you think: reputation? What appeals?
+
+Ali: Um, so, I think off the bat we can just take “brutal” off the list (several people hum in agreement).–
+
+Austin: (overlapping) Yeah, one hundred percent. 
+
+Ali: (overlapping) – because that’s like, whatever. There’s something about “strange” that I think we could just, like, outright veto, or maybe lean in to? Because I think there’s enough people here who are, like,  kind of weirdos…
+
+(Everyone laughs)
+
+Janine: Yeah. 
+
+Jack: Agreed. 
+
+Ali: And then there’s also, like, the other side of strange, which is like the, um...that first song from Beauty and the Beast about Belle, where it’s like – they’re kind of, like, they just walk around and try to help people, and it’s nice, and it’s weird, but... okay. So that appeals to me a little bit –
+
+Keith: Which song is this?
+
+Austin: ‘There’s something about…. Belle’. That one, you know.
+Ali: Yeah. 
+
+Austin: That one. ‘There’s Something About Belle’. Classic. Classic comedy. 
+
+(Ali joins everyone else laughing)
+
+Ali: It’s the one where the entire town, like, she’s walking through the town and everyone’s singing about her and it’s like “there goes that girl who’s kind of a weirdo but, like we all like her.”
+
+Keith: OOOOh! Okay. 
+
+(Austin starts humming ‘Belle’ from Beauty and the Beast)
+
+Ali: Yeah. Yes. Yep.
+
+Art: (while Austin is humming) And it is NOT about how they like her. They do not – they do not like her. 
+
+Austin: Right, that’s what Ali’s point is. It’s like, what fucking weirdos, like, you’re out there trying to help peop – deal with your own shit. (Ali laughs)
+
+Jack: Yeah, I – I –
+
+Austin: There’s a sort of pep to y’all that does not fit, is what you’re suggesting. 
+
+Jack: Yeah, there’s something that I really like about, like, you’re right, we’re a bunch of weirdos. (laughing, others laugh in the background). I think if we’re being honest with ourselves, what’s frequently going to happen is a weird ship is gonna descend from space, and then a bunch of weirdos are gonna get out and go “Alright, hello, hi!” 
+
+(Everyone laughs)
+
+Art: Okay. While I agree that you all are weirdos...
+
+(Louder laughter)
+
+Dre: Oh, okay. 
+
+Keith: Oh, boy. 
+
+Art: – I just think that we’re painting with, maybe, too broad a brush.
+
+Janine: I mean, I – I also feel pretty strongly – or, I do feel pretty strongly about ‘strange’ because, like, ‘daring and ‘honorable’ given, you know, the miracle and stuff, and the role our characters played, feels like an easy choice. But ‘strange’ is probably more broadly applicable. Because even though there are, yes, there are some weirdos in the group, and stuff, but also, what we’re doing is, itself strange. People who can move around the way we can aren’t...normal, really, right? –
+
+Austin: Right.
+
+Janine: –So there’s a degree of just, like, a very practical kind of strangeness to what we are able to do. 
+
+Austin: Well, I even think that there is a political strangeness to it, also, right. Which is, when you show up to help people, you’re not showing up as representatives of the local government, and you’re not showing up as agents trying to infiltrate and gain, you know, like, secrets. You’re going to help people, and that does not fit into the paradigm that has been set up, politically, in the Twilight Mirage and in the Quire system right now. So I think that, like, from the fact that you have people who fly spaceships with their hair, to the fact that – I guess you don’t actually fly it with your hair, right Dre?
+
+Dre: Eeeh, you know. It looks like it!
+
+Austin: Okay (everyone laughs)… to, to people who can use the emotional current of a location to change the physical environment, to a person who flies a big robot butterfly mech, to a person who is currently in the body of a species of person who has, for tens of thousands of years, not existed...um – (overlapping) there’s strange –
+
+Keith: To a minor celebrity! (everyone laughs)
+
+Austin: To a minor celebrity. You know, I think frankly –
+
+Janine: To youtuber/influencer.
+
+Austin: – (overlapping) I think a fairly big celebrity.
+
+Keith: (overlapping) Moderate celebrity, moderate… I’m being humble.
+
+Austin: (overlapping) Moderate celebrity. Let’s say moderate. 
+
+Janine: Horse friend.
+
+Austin: Yeah, horse friend. To a horse friend. To a, you know… Grand? I’m gonna just say it. You’re a little strange.
+
+Art: How DARE you? I would like to make – just, before we sign off on this… “savvy”?
+
+Austin: Savvy is good.
+
+Jack: Savvy is… I was thinking about this a lot, and I was thinking about the last time we played a sort of Blade-sy system, we were complete, uh, fools, who screwed up left, right and center (everyone laughs) and a thing that was –
+
+Sylvia: Speak for yourself.
+
+Jack: I think that was like, a thing that worked well in Marielda, because Marielda was about heists going wrong, and was about things spiralling out of control. And I just want to be careful that we don’t – that we don’t pick “savvy,” you know, intending to be really savvy and careful, and everything, and then also fuck that up spectacularly. 
+
+(laughter in the background)
+
+Dre: (overlapping) Yeah, savvy is a lot of pressure.  
+
+Janine: (overlapping) Yeah, that’s the thing, is, like… savvy is really good on paper. Like, I would love to see us as savvy. But I don’t know that I’ve ever felt savvy.(Ali giggles)
+
+Jack: Noooooo…
+
+Janine:...in this universe.
+
+(more laughter)
+
+Keith: If we’re strange we can choose to be either savvy or not savvy  as it calls for it.
+
+Jack: I mean, true, but –
+
+Keith: – as players.
+
+Jack: When people get out – Keith, when people look at you get out of the ship do they think “ah, a weirdo” or do they think “that very savvy horse friend”?
+
+(Everyone laughs)
+
+Austin: When you get out of a ship riding Duck with your eyeball following you around…
+
+Keith: I think – I mean, I think that they  just go “oh yeah, it’s that guy”.
+
+Austin: Yeah, yeah yeah yeah…
+
+Keith: “I saw you on the– I saw you on the TV.” 
+
+Jack: It’s the most measured response to any human who has seen anybody from the TV. “Oh, you’re from the TV.” 
+
+Keith: “You’re that guy, from TV.” 
+
+Austin: (overlapping) But it’s like –
+
+Janine: (overlapping) Also –
+
+Austin: Go ahead. 
+
+Janine: I was gonna say that, like, the - the things that we’re savvy in are themselves strange too. 
+
+Austin: (overlapping) I think that’s also fair, right.
+
+Jack: Yeeeeeah. 
+
+Keith: I’m also – I’m underselling Gig. People know who he is. 
+
+Austin: People know who GIg is. And also, I think, I’m writing the word strange down in reputation. I’m done. (Ali and Janine laugh.)
+
+Austin: Um, I will add the, uh (faint typing sounds underneath)… long, needle-like, golden and white, with  wooden deck, uh, tight quarters… fishing vessel. Misspelled vessel…. there we go. (typing sounds end). Alright! (Austin sighs). Reputation is ‘strange’. Grand, you’ve been overruled. Also you’re strange. (reading from the gameplay book) “Each ship starts with several preselected ship’s systems that reflect its focus. So, to start off with, the cerberus, which is the base model that we’re kind of basing The World Without End on, has… zero of three crew quality, it has two out of four comms – it is, these are stats that will come up as you do stuff. Um, uh… Gig in the chat has – is trying to sooth poor Grand Magnificent by saying “Grand, it’s strange how talented you are.” (Jack laughs) It’s extremely good. Austin (cont.): Uh, so again, crew quality is zero of three, comms two of four, engines one of four, hull zero of two, and weapons one of three. Um, that “of” number is the maximum for these given systems. And  other thing that’ll come up where it’s like you’re in a chase, “roll your engines” instead of, like, roll pilot, plus your engines. Or maybe the fact that you have one engine and somebody else has three means you’ll have limited effect instead of great effect, or something like that. Um, so, the...uh, the… for each of those – for each point you have in one of these stats you also can have… you can also kind of – I don’t think you have them, it’s that you have the possibility of the space for special subsystems. For instance, you start with long range scanners, uh, which are one type of communications upgrade. Uh, and then you could get a second one. Um, yeah, you start with jump drive, and your engines are one, you could not get a second one until your engines go up to two. Uh, and so the first step that you have here is that you can now increase, uh, two additional systems, to improve. Your choices are engines, hull, comms, and weapons. You could also increase crew, but it’ll cost you two cred and you will owe the folks that helped you improve it. (Reading from the playbook) “A better crew quality is about the quality of gear and equipment, uh, of the crew. A higher crew quality means that you’re able to take on more powerful factions on equal footing and in person, and can therefore handle harder jobs more easily. Not to mention your crew will just have nicer stuff. Um, this is the difference between, like, having the coffee machine you have to bang with your fist to get it to spit out the coffee, versus, like, having the – a nice coffee machine that, uh – or a mediocre coffee machine. Then up to level two, maybe it makes you really nice stuff. Or, like, this is basically like when you’re going to be going up against a higher tier foe, their stuff will just work and yours will just start to fall apart a little bit. Or, you know, the – you try to  hit them with a stun baton, but their stuff is pre-fitted to, you know, resist the sorts of stun weaponry you have. Um, so that’s what crew quality is. Does anyone have strong feelings here?
+
+Keith: (after a short pause) Um –
+
+Dre: So we get two? 
+
+Austin: I know we – you get two, or crew. Crew is – No, I guess you could do crew. Yeah yeah yeah. (quoting the playbook) “You can choose two systems to improve.” It then does say “you may instead choose to improve crew quality,” but I’m not sure if that means instead of both of – I think it’s… (overlapping) you know what, I know how to figure this out, actually. 
+
+Art: (overlapping) It’s very strangely worded. 
+
+Keith: What are the other, uh things that we can improve? I don’t see them on the list; I know you listed them. 
+
+Austin: Comms, engines, weapons, hull. Or crew quality. The, uh… I believe that it is...one or the other, because when you fill in your crew XP meter, which is somewhere on this page on the bottom right, um, once you’ve done that all the way, you can either get a new special ability, two upgrades, one quality… oh no, yeah, I think it’s ‘or one crew’. So yeah, pretend that crew is one of them, it’s just that you have to spend two dollars – two credits to actually upgrade it. (overlapping) So yeah. 
+
+Keith: (overlapping) Well, I definitely think crew. I’m in the tank for doing crew as one of them. 
+
+Austin: (overlapping with Dre) Everyone else. Feelings?
+
+Dre: I would say crew quality and engines would be my top two with maybe also (overlapping) hull as a third one. 
+
+Austin: (overlapping) Oh, the pilot wants to – (quiet laughter in the background) 
+
+Dre: (overlapping) Yeah. I’ve gotta go fast!
+
+Austin: – the pilot wants to increase engines, who could have guessed? (more laughter)
+
+Keith: I think maybe comms?
+
+Art: Yeah, comms and… and hull –
+
+Jack: (overlapping) I was also thinking about comms.
+
+Dre: (overlapping) Oh, we’ve already got two in comms. 
+
+Art: – what’s an underayed hull? 
+
+Austin: Und – what? 
+
+Art: An underayed hull. THat’s what’s keeping us from the vacuum of space. 
+
+Austin: Right. You also have zero hull right now. 
+
+Keith: Hull is – that’s a good counterpoint to comms, is hull. 
+
+(Everyone laughs)
+
+Austin: (still laughing) Uh, yeah. Hull is the thing that makes it so you don’t get sucked into space, which is scary, because space is scary. 
+
+Keith: What if we like space, and that’s why we’re here? 
+
+Austin: True, true, I hadn’t thought about that. I’ll read you from the whole, like, write up: “Hull governs how tough a ship is. Hull modules are passive systems laid out throughout the ship that are often necessary to even allow certain actions.”  Um… also, this is not a really great description. I think there’s another one somewhere. But, but yeah. It’s low. It’s – zero is low, is the thing I will say. 
+
+Dre: Maybe we should take one hull, then. 
+
+Sylvia: Mmhmm.
+
+Keith: Well, what are our comms at?
+
+Dre: (overlapping) They’re at two –
+
+Austin: (overlapping) Comms is two.
+
+Keith: (overlapping) Oh. Yeah, hull. 
+
+Dre: – (overlapping) that’s higher than anything else is.  
+
+Austin: Okay. Give em one.
+
+Keith: I – I am having... Oh, I just finally found where this stuff is on this page. I could not find it for the life of me. 
+
+Austin: And then it sounds like crew? (overlapping)  It sounds  –
+
+Dre: I’m good with that. 
+
+Keith: Yeah. Crew and hull. 
+
+Austin: Yeah, crew means you have better blankets, you know?
+
+Keith: Yeah.
+
+Art: (overlapping) Sure.
+
+Austin: That’s how I’m trying to live. (overlapping) Very important stuff. 
+
+Keith: Does it mean we have more  – (overlapping) does it mean  – do  we have a crew, or is it just us?
+
+Austin: It’s just you, it’s just you...but it’s like the quality of your crew. This would be like, um, in Blades, you had a sort of like, gang tier, your crew had a tier. (overlapping) This is basically your crew tier. It’s similar, it’s similar. 
+Keith: (overlapping) Right, yeah.
+
+Sylvia: It’s kinda like miscellaneous crew equipment (overlapping) more than it’s like, the people you have as your crew.
+
+Austin: (overlapping) Yeah, exactly. Exactly. Totally. There will be times when it says, like...I’ll need a fortune die to be like uh, hey, um does your, you know, the grappling hook that you brought on this thing, is it strong enough to withstand the force of the gravity on this hyper-... 
+[30:00]
+Austin: -dense planet, or something. And I’ll role fortune dice based on your crew quality. Your crew quality may be, like, a bonus. Um. Stuff like that. No….um. Uh, oh my god.  I hate you. I hate you, Keith. Keith said “wouldn’t miscellaneous be under weapons”, with missile spelled… (overlapping) like the word. 
+
+Keith: (laughs) I never intended that to be read to the audience. (continues laughing)
+
+Austin: (reading from the book) A better crew quality is about the quality of gear and equipment of the crew. I higher crew quality means you are able to take a  –”  I said this bit already. But, here’s the important thing: because you increased crew quality, you now have to decide, uh  – or, uh, I guess I decide. It says “after you decide what you want to improve, the GM will tell you about a faction that helped you get those improvements. They did you a favor. How did your crew respond? Pay them off, giving them an additional credit in exchange for a job well done, no strings attached, nothing owed. You owe them one, giving you a +1 status with them. Or did you  –” oh, actually, you need that for both of those. So, first of all, you owe somebody something for this crew quality increase. One hundred percent. Because it says “if you choose crew quality, you must take this option.” Uh, or you can stiff somebody. So, for that point in hull, you could stiff somebody on this. But, who do  – what do you think, of these things? I think maybe  –  I’m gonna pull up this (overlapping) list of factions...
+
+Art: Does anyone else feel like Austin tricked us into taking crew quality and is then like “now you owe someone”? 
+
+Austin: Heh he, yeah! But it’s a good owing somebody. You know? (overlapping) I’m going to relink the faction sheet.
+
+Dre: Plus one status isn’t a bad thing to start off with.
+
+Austin: Yeah, it’s a good thing! There is that faction sheet again. Um, here’s my suggestion. I think Erannia Motor and Hull is a good  – is a good… Surge and Janey from the ground game (overlapping) on Quire, are cool –
+
+Jack: Oh, yeah! (overlapping) yeah, yeah, yeah...
+
+Dre: (overlapping) Hell, yeah. 
+
+Austin: – and they help you fix up that hull, is what my – or that they helped you with the crew quality. Maybe they just like, fitted you with – they just kinda like did a once over with the ship, you know. Like normally they make small land vehicles, but you landed The World Without End by their garage, and they just spend a week tightening up all the bolts, giving it a good polish, making sure all of the plumbing works, you know?
+
+Ali: Oh, I like that, yeah. Especially because they get to go around and repurpose fishing stuff for, like, what we’re doing.
+
+Austin: Right! Right, yeah yeah yeah, exactly.
+
+Keith: I have a quick question. The – So we only need to owe someone for crew  (overlapping) not for other stuff…
+
+Austin: (overlapping) For crew quality. The other one you either have to pay one credit or stiff somebody and take minus one faction with them. 
+
+Art: Or we could owe them. 
+
+Austin: Or w- you could owe them. 
+
+Keith: I  Yeah. I mean I’m fine with… I’m fine with whoever, for this. (overlapping) I like Surge. 
+
+Austin:  I’ll definitely put in the plus one. Surge - Surge is good. Surge and Janie are - they’re good people.Um, so what about for the hull? 
+
+Keith: The hull, I - we pay, right? We’re not gonna stiff anyone. Unless there’s someone we hate, we can stiff someone we hate, I guess. 
+
+Austin: That’s my question, do you stiff somebody. Like, could this be a situation where it’s like, yeah, we made our hull better by stealing a bunch of really good plating from some assholes. 
+
+Keith:  Yeah, like, do you wanna – do we wanna have a minus one with the Restored Throne?
+
+Ali: ...Do we wanna do this out the gate?
+
+Janine: I don’t!
+
+Austin: I mean, you’re gonna be at negative one with some people, no matter what. 
+Dre: Yeah.
+
+Ali: Yeah…
+
+Janine: Yeah, but, like, here’s the thing is, like Signet just joined on with this crew, right, and the first thing we do is fuckin’ steal some shit? No, bye!
+
+Ali: (overlapping) Also just for our spaceship.
+
+Janine: (overlapping)  Sorry, Cascara. Bye!
+
+Austin:  It’s a good spaceship. Alright, so I -
+
+Keith: I was just offering. I -
+
+Art: “Steal” is such a strong word. 
+
+[Austin laughing]
+
+Ali: Yeah.
+
+Keith: Yeah. And it’s also accurate, so. 
+
+[Ali and Austin laugh.]
+
+Janine: Appropriate without credit. 
+
+Austin: Appropriate. Listen, there are some real asshole factions on this list. I do want to be clear. 
+
+Keith: Yeah
+
+Jack: Oh yeah, but like 
+
+Austin: There are some people here who… fuck them. I’m not saying -
+
+Janine: Yes, totally. 
+
+Jack: There’s different kinds of putting your best foot forward, and I don’t know if the one we want to go for right now is immediately rob one of the factions. 
+
+[laughter]
+
+Austin: Disagree.
+
+Keith: All I’m saying is that I don’t care at all about breaking the law. 
+
+Art: Yeah.
+
+Ali: Oh! That’s… that’s great to hear. That’s… yep.
+
+Austin: Good. Great. 
+
+Keith: Sorry, that’s not, that’s not in character. I have to find where… I have to find -
+
+Austin: Out of character - (overlapping) Keith is into breaking laws...
+
+Keith: Out of character, I’ll break any law.
+
+[Janine hums cautiously.]
+
+Art: Keith Carberry doesn’t care about breaking the law. 
+
+Sylvia: In character or out of character, I agree. 
+
+Austin: Alright, so who… then either I think it’s uh, I’m gonna say it’s just Seneschal’s Brace. I think it’s Cascara and Declan’s Corrective. 
+
+Jack: Yeah, we went to Cascara and said “help!” 
+
+Austin: “help.” And then they’ve said, like, yeah… of course. Like, we’re just gonna do this for you, you’re gonna get a plus one status bonus with us, and we’re gonna call in a favor at some point, because that’s what we’re here to do anyway. I think that’s the easiest and most fiction-first thing that we can do. 
+
+Keith: Oh, there’s like, so many pages of factions. I only was looking at the first one. [laughter in the background from the others] There’s factions that I wasn’t seeing on there and I was like “I thought that -”
+
+Sylvia: Did you forget what show you were on? 
+
+Keith: Yeah, exactly, yeah. I was like where’s-
+
+Austin: There are forty-four factions. 
+
+Keith: [laughs] I was thinking where’s the horrible faction where people want to be metallic space monsters…
+
+Austin: Uh-huh. 
+
+Keith: And I was like “oh, I guess they’re just not on the list yet.” Uh, but no, there’s three pages.
+
+Austin: Oh, dude, there’s way more than three pages. 
+
+Keith: Well, it’s fourteen pages, but there’s three pages of charted out factions. 
+
+Austin: [laughter in the background] Yeah, it’s good. Okay, that is your, uh, that is customize your ship. Did that. [reading from the book] “Choose a special ability. Choose one of the special abilities listed on your ship. If you can’t decide which one to pick, go with the first one on the list. It’s placed there as a good default choice. It’s important to pick a special ability that everyone is excited about. You can get more special abilities in the future by earning crew xp. Just like picking your ship type, origin, and systems, choosing a special ability is another chance to focus the game. Instead of playing a generic ship crewed by scoundrels, you end up with the StarDancer and her crew of ambitious smugglers, who salvaged the ship after a previous crew went missing.” And then this fanfiction about this game continues in a really good way...I love it, but also we can just pick one of these abilities. Your options on the Cerberus are: The Getaway: you gain potency when you scramble or helm to avoid capture or run a blockade. When doing a delivery job take plus one dice to the engagement roll. Cargo-eye: your crew gains plus one -” wait, no this is all from -
+Dre: [overlapping] That’s the… that’s a different ship. 
+
+Austin: [overlapping] this is the wrong one, one second.
+
+  [murmurs of agreement from the others]. 
+
+Austin (cont.): Huh, let me… check this shit out. Get ready. Mhm. Cerberus. Add abilities. Bop. There they are.
+
+Ali: Oh my god. 
+
+[Everyone makes surprised noises. eg: “ooh” “whoa”]
+
+Keith: Whoa, that’s a lot of stuff. 
+
+Austin: Wait, wait wait wait! I added them all, hold on a second. Let me clear them all. Let me clear these all and just redo it. This system is really cool; this Roll20 sheet is really cool. It like - “Oh, here, let me just make everything visible really quick”. Also I just made way too many of these. There we go. Here are our options. 
+
+Keith: Uh… the getaway is no longer first. 
+Dre: [overlapping] Yeah, it shouldn’t be there. 
+
+Austin: [overlapping] The Getaway shouldn’t be there at all. 
+
+Keith: Oh, okay, yeah. 
+
+Austin: Yeah, it shouldn’t...yeah, the getaway was the wrong one. Okay so “Licensed: take negative two heat, minus two heat on any legitimate bounty hunting jobs. Your ship can [laughing] carry particle weapons and your crew can add or can carry and legally use heavy blasters in pursuit of a target”. Heavy blasters in our game are just any guns, like, I’m just gonna say. Like, don’t - no one should have - I guess heavy guns are maybe things you can reload. Like special weapons that are quicker to reload than the ones where you just throw them away. I think that’s the distinction I’m making. For people who listened to the vignettes, the sort of thing that the representative from the Concrete Particulars had, that’s a heavy blaster. Um, which still could probably only fire eight shots total ever, you know, but is, in this world, heavy. 
+
+Jack: Is that the one where he was wearing a bandoleer of bits of gun?
+
+Austin: Yeah, instead of having just a bullet on a bandoleer, it’s the entire slide on top of a pistol that reattaches to the receiver, basically. Um, two: “On the Trail: Your crew gains an extra downtime activity to work on longtime projects that track bounties that have gone to ground.” I’m gonna recognize that as being very broad, is what I would say. Like “bounties”, I want to be clear, is not just thing you have bounties out on, but anything you’re looking for. Any sort of target, or person, or organization. That would be On the Trail. Snatch and grab: When you use deception, infiltration, or a social plan” - those are three of the types of plan you can use to get into something, so “infiltration, deception, or social plan to execute a kidnapping, add plus one dice on the engagement roll”. Again, I think kidnapping is pretty broad. Kidnapping, I think, can include both going after a bounty and capturing them, but it can also mean rescuing somebody who has themselves already been captured. You’re just rekidnapping them. So, like, any sort of like, “I’m going in to get a person,” you’d get a plus one dice on the engagement roll. And for people who have not played Blades, an engagement roll is... instead of being like “let’s spend an hour to talk about how to get off this boat, we just go “alright, which of these five basic plans are we using to get off this boat? Are we using magic, are we sneak - are we, like, just hyping ourselves up socially [laughing], are we gonna like, sneakily get off this boat. And then we jump to the moment of getting off the boat and roll some dice to see how it goes.Uh, so that’s what the engagement roll is. “Loaded for bear: Your crew can carry plus one load, they have distinctive ar- distinctive and high quality armor. When you wear armor it counts as heavy armor”, which means you get to use it twice. “Play both sides: when you release a bounty target, make them a crew contact and add plus two heat”, which is just good. Like, I just love that so much, of just like “alright, we’re gonna let you go, and you’re our friend now... but we’re also gonna get into some trouble”. And then “Deadly,” which is “each crew member can add plus one action rating to command, scrap, or skulk - it’s up to you individually - up to a max of three. 
+Are there strong feelings here?
+
+Keith: I’m having strong feelings for Snatch and Grab. 
+
+Ali: Yeah, that’s one of the ones that we had trouble with a lot in Marielda, I would say [Austin laughs], either that or On the Trail.
+
+Keith: That was my backup, so I’m a hundred percent there. 
+
+Ali: On the Trail, like, seems like it is important, but like, stress gets really dicey really quickly. 
+
+Austin: True.
+
+Ali: And you need that downtime roll to even do anything about it.
+
+Austin: Mhmm, yeah.
+
+Jack: But is that downtime roll just to work to track bounties that have gone to ground?
+
+Austin: Like I said, I’m gonna be really broad with what that means, like, it’s to track people and organizations that you’re trying to find, like -
+
+Jack: Okay, and that could result in… smoothing out that stress. 
+
+Austin: No no no no… it’s that, the point Ali’s making is: you don’t want to be in a situation where you’re spending all of your downtime just um - 
+
+Jack: Oh!
+
+Austin: all you -
+
+Ali: - Either just relieving stress or doing these other side problems.
+
+Austin: Right, and letting that stress -
+Jack:  Yes, and getting hit by that priest. 
+Austin:  Exactly. Exactly. Um, the thing that I’ll have to ask Strash, who has - by the way, shout outs to Strash, who provided us with a living pdf of this game that over the last two weeks has gone from like 120 pages to 250 pages as it gets laid out. 266 pages now, I just opened it up, [laughs] and it’s gained 16 pages from where it was yesterday. Um, it’s a gorgeous book, I like it a lot. But uh, the - the - I’ll have to ask Strash if this gives the ability to everyone in the crew, or if the crew gets one extra downtime action. (noises of realization from the others in the background)  Because that’s a big, big - that’s a big distinction, right?
+
+Jack: Mmm-hmm. The only other one that I was looking at, and I think I’m probably more in favor of On the Trail, is Play Both Sides is, like, the most Friends at the Table move that has ever been written… which is: “when you release a bounty target, make them a crew contact and add plus two heat” which is just very much, like, that’s another one of those things where it doesn’t necessarily seem great on the page, but then in play when we realize that’s something that we can do and we, like, ask one of the assassins out on a date, or something…
+
+Austin: Right.
+
+Sylvia: Hm!	
+
+(Keith laughs)
+
+Ali: But I feel like that’s just a thing we do otherwise (overlapping) and that we don’t need our ship to do for us. 
+
+Jack: (overlapping) We can just ask the assassins out on a date. 
+
+Austin: There’s a big difference - there’s a big big big - there’s a big difference, which is: you let someone go without this move, I have no obligation to make them a contact. 
+
+Dre: Right, that probably requires some kind of roll…
+
+Ali: But - 
+
+Austin: Do you remember that sequence in - there was a sequence in Winter in Hieron in which someone helped someone else, and then we get a little vignette of them saying goodbye, and they’re just like “alright, bye! Thanks for saving me! Peace.” And it’s cold. That’s what will happen if you don’t take this move, when you try that shit. Or like, there will be -
+
+Jack: Mmm. (overlapping) Or we’ll have to make another roll.
+
+Austin:  (overlapping) - by default. You’d have to work at it. What I would say is, it would have to become a short long-term project. It would have to become, like, a four clock long-term project to convert someone in the world into a contact and not just a person in the world, you know.
+
+Ali: Yeah, I get that. I just - I don’t know that any of us would be in the position where we were like “I really want my character to explore this relationship with someone” and you’d just be like “no”. 
+
+Austin: No, we would explore, but it would start with them being cold.
+
+Ali: Okay, yeah. 
+
+Austin:  Like, they would not be a crew contact -
+
+Jack: Yeah
+
+Austin: - they would be - I would, I would - which is fine. 
+
+Jack: I think I’m actually likely – I’m pretty happy to take that – it’s about kind of what narrative doors we want to be open at the start –
+
+Austin: Mm-hm. Right
+
+Jack: – rather than just sort of, you know, open at any point in the game.
+
+Art: Is there a value in having that arc, though, to doing the project?
+
+Austin: Totally. Or there’s a value to doing it that way so you don’t get heat, you know? Part of the thing here is that you don’t – you could also let somebody go and not get that heat, and also not get them as a contact. Like, even if you took this move you would still have that option, where it’s like “ah, well I guess they got away…” whereas its a much different thing where it’s like – part of that heat is you’ve taken them as a contact, people know you’re staying in touch. The system doesn’t trust you now –
+
+Art: Sure
+
+Austin: – because you’ve not only let them go, you’re like, saddling up with them, you know? I’m… again, I’m fine with any of these – maybe the only one that doesn’t make sense to me is the bit about particle weapons, which is like [Ali laughs] – that doesn’t seem in line with what the goals are… as useful as particle weapons might be. 
+
+Jack: I think I’m happy to pin my colors to ‘On the Trail,’ uhm….
+
+Austin: Okay. 
+
+Dre: I’m okay with that one, yeah. 
+
+[Janine makes an affirmative noise in the background.]
+
+Ali: Yeah. I am so willing to hear a case for snatch and grab, though.
+
+Austin: We will – we will – I mean, so we’ll wrap back around to these in a moment, is the thing. 
+
+Art: (overlapping) And we’ll get more of these, right?
+
+Keith: (overlapping) So, my pitch for snatch and grab is we are constantly,  as a group, using deception, infiltration and social plans to execute things. [Laughter in the background.] And, uh, that oftentimes goes really bad and this gives us a plus one d to that not going bad. [00:45:12]
+
+Dre: (overlapping) Oh, but it’s so fun when it goes bad.
+
+Ali: (overlapping) Engagement rolls are very important. 
+
+[Noises of agreement from the others.]
+
+Keith: Yeah, yeah. We are –
+
+Austin: It’s a good way to start things off. 
+
+Jack: Because yeah, we can say like, “oh, we’ll sneak into this place really well” and that –
+
+[Everyone laughs.]
+
+Jack: – fuckin, is bullshit if we then roll really bad…
+
+Austin: [sighs happily] This system is good.
+
+Keith: The list of times we have tried and failed to use deception, infiltration and social plans to accomplish a task is longer than this list of factions. 
+
+[Laughter continues]
+
+Jack: Look, Keith, I staged a candle based protest outside a well-known university. 
+
+[Keith joins the laughter]
+
+Austin: And then walked into a dinner party. It was great! Um, I think we’re probably going to end up with both of these, is what I’ll say. 
+
+Ali: Okay.
+
+Austin: Well, we’ll see, maybe not. Alright, so that was a special ability. Then upgrades. In addition…
+[45:00]
+Austin: …to the special abilities, each ship – in addition to the upgrades that each ship comes with, and right now, your upgrades are long range scanner, grapplers, and a jump drive. I can go over those, if you need to know what those are. So –
+
+Keith: Grapplers, I don’t even need to know. 
+
+Austin: No no no, you have those already. 
+
+[Laughter from Jack in the background]
+
+Keith: Oh, okay.
+
+Austin: (overlapping) No, you’ve already got your grapplers. 
+
+Keith:  (overlapping) I thought you were saying we could only have one of these three, right now.
+
+Austin: No, you start with those upgrades already Keith: Okay, great. 
+Austin: –which is good. Long range scanners are – they let you, kind of, scan things –
+
+Keith: (overlapping) Long range?
+
+[Art laughs]
+
+Austin: – far away. Long range? Long range scanners. Jump drives… you know, jump drives in this system are all about going through jump gates and shit, which we don’t have. But I’m basically saying that if your ship doesn’t have a jump drive, you can’t leave the orbit of the current planet you’re at. Or, like, you can’t – you can go in orbit, but you can’t go from one planet to another one. Um, that’s our quick mechanical fix for what the Twilight Mirage is and how it’s different front he world of Scum & Villainy. So if your jump drive gets damaged, you’re gonna be stuck in that orbit until you can fix that jump drive. Ah, and then grappler are.... they’re grapplers. They’re what they sound like.  I think for this ship, it’s a combination of the weird nets of like, microfiber and metal nets and actual big grappling arms, Outlaw Star style. And hooks, and pulleys and all sorts of other shit… uh [sigh] ….but, so on top of those, which you already have, you now can also choose two additional upgrades. For example, it says ‘you might pick the Cerberus Stun weapons upgrade and also the auxiliary armor upgrade module. That’s a crew that loves their weapons! An upgrade is a valuable asset or system module that helps the crew in some–’ oh, oh, wait, I missed something. There is also, you do also have some other shit I just remembered. You have a brig, by default [Austin laughs], where you can lock somebody up. If you want to change that to something else, I’m cool with that. I’m gonna leave it up to Jack, who designed this ship back in the holiday specials, because I don’t think that ship had a brig. 
+
+Jack: Yeah…
+
+Austin: Unless you count the brig as the place you keep the fish, in which case it definitely has a brig. 
+
+Art: A smelly brig.
+
+Jack: I mean, I think that my question is, like, does this have a hard mechanical purpose, or is it just for guiding –
+
+Austin: Yeah. It has a hard mechanical purpose, in that – let’s say you try to capture somebody and lock them up. Um, I’m gonna make your roll to see if they stay locked up. If they try to escape, brig is gonna give you a big bonus to that roll because – I mean, you may not even make that roll if you have brig, right? That’s the whole thing is, the way that they describe brig, um… I think if you capture the average person, who is not, like, a sneaky assassin or something – ‘Brig: Space Jail.’
+
+[Laughter from the group]
+
+Jack: Oh, great. 
+
+Austin: ‘–not meant for long term incarceration. Will resist most attempts to escape.’ So, like, unless this is, like – unless you’ve got yourself a real Snitch Nightly type character, like, I’m not even gonna have them roll to get out. You’ve captured them. They’re in the brig. 
+
+Jack: Yeah… yeah yeah. Okay. I think I’m fine with brig, but I don’t think it’s a – I think it’s something that we got Janey and Surge to kind of put in. 
+
+Austin: Okay. 
+
+Jack: I don’t think that it’s – I mean it’s an entirely functional brig, but I don’t think it’s – I don’t think the fisherman bought this ship with a brig on it. Austin: – with a brig in it. Okay, cool.
+
+Jack: So –
+
+Austin: If that’s the case my question then is, is there something else here that is on the ship that you think actually makes more sense than the brig. The options are – if you just scroll down on this page, by the way….
+
+Jack: Yeah…. I’m looking at it, um…
+
+Austin: Um…
+
+Jack: I’m trying to think –
+
+Austin: At least that’s some of it, also I think you have prowess… you do. 
+
+Jack: (overlapping) Oh, we do have prowess.
+
+Ali: (overlapping) I like the brig as, like, a repurposed tank.
+
+Jack: Yeah.
+
+Janine: Yeah, I was thinking the exact same thing –
+
+Austin: Oh, that’s really good.
+
+Janine: – of like, a tank for like oh hey, not just like any old space fish, but like, ‘oh, we found a space lobster with a pepsi can tattooed on its claw’ –
+
+(laughter in the background)
+
+Austin: (laughing) Uh-huh
+
+Janine: –we gotta, like, save this stuff’.
+
+Austin: We’ve gotta lock that shit up. 
+
+Janine: Yeah. 
+
+Jack: Yeah. 
+
+Austin: Wait, that’s the thing, is like, I want to include – I’m cool with including – you didn’t see that story? You go look up that story in your free time, it’s weird. Um, I wanna include brig if there’s a reason for something that was already on the ship to be a brig. I don’t love the notion of  (overlapping) ‘And the first thing we did is we paid our friends to add a space jail’. 
+
+Jack: (overlapping) – add a space jail, yeah. The thing is, it’s a tough one, right? Because on the one hand, yeah, that is tonally troubling. Oh the other hand, as Keith put it, we’re gonna be doing a lot of extracting people and things. 
+
+[Austin makes a noise of agreement] 
+
+Jack: Obviously there’s different ways to do that. In the past we were really lucky with Morning’s Observation. Um…
+
+Austin: Right.
+
+Jack: We know that the fisherman has a galley –
+
+Austin: Yep, we do know that.
+
+Jack: – which facilitates longer trips. And, in a sense –
+
+Austin: Also, it will let you – it would let you – there is another move, from another ship, that is incredible, that needs a galley, that you might wanna take at some point.
+
+Jack: Is this the one about building gambits?
+
+Austin: (overlapping) No, that one’s good too, though.
+
+Dre: (overlapping) This is home cooking, right?
+
+Austin: This is home cooking: when you – “your whole crew gains home cooking as a vice. Right after a job you may spend one credit and a downtime activity to cook for everyone, allowing the whole crew present to make a vice roll. If anyone overindulges, a fight erupts and everyone gains one stress after the vice roll. Requires a galley module.”
+
+[noises of laughter and ‘yikes’ in the background]
+
+Jack: That’s phenomenal. 
+
+Austin: [continuing to read] The crew can split who spends the activity and who pays the cred. The stress at the end is applied after all results. That includes tinkering with maximum stress gain”… blah blah blah… “ You gain one stress total, not one per overindulgence.” So… home cooking is really fucking cool, but I don’t want to throw you to it, you know. 
+
+Sylvia: Just – 
+
+Art: Brig is such a bad definition of space jail, it’s just boat jail. That’s what a brig is, it’s a boat jail, [laughter in the background] 
+
+Jack: I think I – 
+
+Art: We have brigs now. 
+
+Austin: Whoa whoa whoa, Sylvia wanted to say something. 
+
+Sylvia: Personally speaking, just from Echo’s point of view, getting on a ship with these people –
+
+Austin: Yeah
+
+[laughter from the others]
+
+Sylvia: – who arrested them, and the first thing they do… is make a little jail. 
+
+[Laughter]
+
+Sylvia: That’s a little weird. 
+
+Ali: Yeah. 
+
+Jack: Yeah, yeah, yeah.
+
+Austin: Let’s –
+
+Jack: I’m actually really interested in galley as being a specific refocusing of something that we might get adjacent to a brig, right? Which is that –
+
+Austin: Right.
+
+Jack: If we are about extracting people from places –
+
+Austin: Yeah.
+
+Jack: – we have a place where we can serve meals. And we have a place where we can –
+
+Austin: Right.
+
+Jack: – do longer trips, it’s like –
+
+Austin: You did this already.
+
+Jack: Yeah, it’s like… are we the people who kidnap people and put them in a brig? Are we the people who rescue people from a bad situation and cook them a meal. 
+
+Austin: (overlapping) With Morning’s –
+
+Janine: (overlapping) It worked with Morning’s Observation. 
+
+Jack: Yeah, yeah. 
+
+Austin: Yes, yes, that’s literally what you did, is you (overlapping) literally took him from –
+
+Janine: (overlapping) Captured him, gave him some pasta, put him in a nice bedroom. 
+
+Austin: You took him out of a tank. He was in a weird tank even, and like no, get him some fucking pancakes. 
+
+[Ali laughs]
+
+Austin: And that’s how we’re gonna hold our – 
+
+Janine: It’s — yeah, yeah, yeah.
+
+Austin: He could have tried to escape, and some other people would have tried to escape. You’d captured Mother’s Story instead of Morning’s Observation, I don’t think that, like, the pancakes or whatever would have worked. 
+
+[Ali laughs]
+
+Jack: He would have killed Fourteen Fifteen and then –
+
+Austin: Yes, exactly. The end. Alright, so, so –
+
+Art: You kind of make it sound like if we ever get a brig it’s gonna be like locking them in the pantry, though, that’s like, a little bit what that exchange suggested.
+
+Austin: All this has done is change what’s already here. Now, you still get two ship upgrades –
+
+Jack: Oh…
+
+Austin: Two additional upgrades, which is like, again, there’s a bunch of these. Let’s pick out what they are, and then we can talk about who you screwed over or who did you a favor to get you these. 
+
+Art: (overlapping) Alien Pet –
+
+Dre: (overlapping) If it has multiple boxes, that’s how many it costs? Like, if we wanted to do ‘Personal Vehicles’ that would take both of our things. 
+
+Austin: Right, Cerberus has special options. Every ship has a bunch of options that they could get. I think by default the ones that are on the ship page are the ones that you can get at this point, so: ‘Nexus link’, ‘particle cannon’ – Nexus link is, like, a connection to the internet, by the way, it’s like, you can actually connect to stuff, stuff in different systems. Not just whatever you have on your ship. Uh, ‘ship gear’, ‘AI modules’, all that is stuff you could just get right now. Then Cerberus also has its own subset, which are, um, ‘Tracers: a wide array of ways to track your target’ – like tiny bugs, or beacons that can attach to holds, or transmission cloners, various stun weapons. ‘Personal vehicles’ – which I happen to like a lot. ‘Your crew has a few – perhaps one per crew member – sleek single seater crafts that can fold up enough to fit into a reasonable parking space. Limited fuel but can break atmosphere. Can carry basic weapons, although they can’t seriously damage anything freighter sized or larger. You may want a landing bay on your ship,’ uh, which you would not have. (laughs) ‘It costs two upgrades to unlock this instead of the usual one’. So, yeah, that would take both. There’s also ‘Hard Knocks,’ which starts you with one extra gambit, which also costs two instead of one. And ‘Smooth Criminals,’ which is: “sometimes legality is only a question of who has the gun. Each crew member gets one additional stress box. It costs three upgrades to unlock this, instead of one. That’s, like, a fantastic move, though, the notion of “oh, I can just get a little more stress than everybody else” is so good. But yeah, personal vehicles –
+
+Art: So are we even going to talk about ‘Alien Pet’? 
+
+[Ali and Dre laugh]
+
+Ali: (overlapping) We already have three of them
+
+Austin: (overlapping) We do have – at least two, who’s the third? What’s the third?
+
+Ali: Oh, I want a third one, I – sorry. Just including it.
+
+Austin: Oh, okay!
+
+[Keith and Ali laugh. Everyone else follows.]
+
+Ali: [inaudible] [54:18] of this game, I get to run into a big lizard, I’m sorry. [continues laughing]
+
+Austin: Oh my god, ah. You know, fictional flags. We have Duck, on this ship, there’s a horse on this ship.
+
+Sylvia: Hell yeah. 
+
+Austin: There’s an alien horse on this ship, and there’s an alien snake on this ship, right?
+
+Sylvia: I mean, if it wants to be. I don’t know if that thing is my pet. 
+
+Austin: Oh, maybe that – maybe it stayed with the ship. 
+
+Ali: [gasps] Awww....
+
+Austin: And went with Pretense.
+
+Sylvia: Yeah…
+
+Austin: That’s kind of good. I kind of like her having – 
+
+Sylvia: Yeah, I’m cool with that. 
+
+Austin: (overlapping) a [inaudible -- fire ship?] snake. [00:54:53]
+
+Keith: (overlapping) Well, we’ve at least got Duck.
+
+Austin: You’ve got Duck. Duck’s a good pet. God…
+
+Keith: Duck could talk a little bit, (overlapping) what else do you want from a pet?
+
+Austin: I can’t believe your eye drone and your weird horse are already just, on your class playbook –
+
+Keith: I know. It’s like. (overlapping) It’s built into the class playbook, yeah.
+
+Austin: (overlapping) It’s unbelievable. 
+
+Sylvia: Wait, fucking… for real?
+
+Keith: (overlapping) Yeah, yeah. 
+
+Austin: (overlapping) One hundred percent. 
+
+Sylvia: Holy shit. 
+
+Keith: One of them is a personal drone, and then the other one is alien pet, yeah.
+
+Austin: A personal camera drone specifically. Specifically. 
+
+Keith: Camera – yes, yeah,, personal camera drone specifically, yeah.
+
+Austin: – that flies around, yeah. 
+
+Sylvia: Jesus. 
+
+Keith: Although this one comes with little arms that can pick up small objects, so… 
+
+[Someone inhales sharply]
+
+Keith: (overlapping) I got an upgrade!... yeah.
+
+Austin: An upgrade to your eye, great…
+
+Janine: Ew! So it’s an eyeball with little like…
+
+Keith: It’s a… yeah. It’s an armball.
+
+Sylvia: Yeah.
+
+[Everyone makes distressed noises and talks at once.] 
+
+Dre: (overlapping) Can your eye pick your nose?
+
+Janine: Oh, Is this like PF Magic Oddballs, when you take the eyeball out of one of the animals, and it has a little, like, string on it? 
+
+[Everyone makes alarmed noises and talks over each other]
+
+Austin: I hate this whole conversation.
+
+Janine: – And it crawls around until it can crawl back into the eye socket of the animal?
+
+Ali: I‘m not listening to this. I’m not listening to this.
+
+Keith: The arms aren’t always there, it’s only when I need to pick something up and I’m not around.
+
+Austin: I’m so mad.
+
+Ali: They should – no, they should go in, it should be a Haro situation where there’s flaps.
+
+Sylvia:  It’s like a little –
+Austin: It’s a Haro situation, yes.
+
+Sylvia: It’s like a –  it comes out of a – it’s like a, what do you call it – crane machines? The little grabber comes out of the peephole and grabs stuff. 
+
+Keith: It’s sort of like – what are those toys, that are sort of like Beyblades, but they pop – they’re like little balls that pop open into robots. 
+
+Austin: I don’t know.
+
+Keith: (overlapping) They’re a new toy. 
+
+Sylvia: (overlapping) Oh, I – I had those!
+
+Janine: (overlapping) That’s a thing, was that Bakugan? Was that Bakugan? Or, no, those were robots that shot balls out of them. That’s different… 
+
+Keith: Maybe it is Bakugan...
+
+Janine: Bakugan battle brawlers, or something. 
+
+Austin: (overlapping) No, it is Bakugan! Look at these...
+
+Keith: (overlapping) No, it is Bakugan, yeah, that’s what it is, Bakugan!
+
+Janine: You, like, flick a marble and then it, like, pops open and then –
+
+Keith: (overlapping) Yeah, that’s exactly what it is. 
+
+Sylvia: I was thinking of a different thing.
+
+Keith: (overlapping) Yeah it is Bakugan, that’s what I’m talking about. 
+
+Austin: (overlapping) Oh, these are cool!...Look at these Bakugans...
+
+Janine: It’s some fucking bullshit…
+
+Dre: Oh, whoa…
+
+Jack: Oh, wow. 
+
+Keith: So, yeah, that’s what I have. That’s my upgrade. Is a Bakugan. 
+
+Austin: Oh, whoa. They can combine into a bigger one!
+
+Janine: Of course they can.
+
+Jack: I’m gonna youtube this, I wanna see one of these things do it.
+
+Austin: Fuckin’ Friends at the Table...
+
+Keith: Aw, they have wrist – they have wrist launchers! What!
+Austin: Of course they do.
+
+Janine: Of course they do!
+
+Sylvia: It’s a fucking anime kid’s toy, of course it has something on your wrist that, like, does a cool thing. 
+
+Austin: (overlapping) Wrists are really under –
+
+Keith: (overlapping) Man when I was a kid the only – [laughs] yeah, that’s a great place for a tool, is your wrist. 
+
+Austin: Aw, man. 
+
+Ali: [negative] Mmm-mmm.
+
+Keith: When I was a kid I had a spy wrist tool. It was a fingerless glove that had a strobe light for morse code, a whistle, and –
+
+[laughter from the others]
+
+Jack: This is Moonrise Kingdom bullshit out here. 
+
+Keith: It had a whistle, and a flashlight – a red flashlight. Very weak.
+
+Janine: It’s like a junior rave kit, is what that is. 
+
+[Ali laughs. The others join.]
+
+Keith: Yeah, yeah. Oh, it also had a little tab for ecstasy. 
+
+Janine: (overlapping) I was gonna say, did it come with like, little – little stamped Pez candies?
+
+Dre: (overlapping) What about your light up yo-yo?
+
+Austin: Can we go to Bakucon? 
+
+[Everyone laughs]
+
+Dre: Wait –
+
+[Several people talk over each other inaudibly.] [00:57:40]
+
+[Ali laughs] 
+
+Keith: I’m good at Bakucon.
+
+Austin: The last one was January 17th, 2017. And so… oh no, wait, this is two thousand and ten. It’s 2010. 
+
+Janine: What if we do a live show, but the only live show we ever do is at Bakucon? 
+
+[Laughter]
+
+Ali: (overlapping) That would be fantastic. 
+
+Austin: (overlapping) Do they still have Bakucon?
+
+Sylvia: (overlapping) My favorite My Hero Academia character. 
+
+Austin: No, it’s over, it only happened that one year...we missed it. 
+
+Janine: And it was 2017?
+
+Austin: 2010. I misread.
+
+Janine: Oh, okay, sorry. 
+
+Austin: It was January 17th. 
+
+Janine: I was gonna say I thought this was dead?
+
+Austin: There are six people in the official Bakugan wiki discord right now. 
+
+Jack: Oh, there are.
+
+Austin: It’s just, in a sidebar on the fandom on the wikia.
+
+Sylvia: There has to be another one.
+
+Janine: They’re probably really good friends.
+
+Keith: Yeah, I bet they’re really close. 
+
+Dre: One of those six is a bot.
+
+Keith: ‘Cause I’ll bet they’re, like – 
+
+Austin: That’s actually true. One hundred percent. It is. It’s the discord –
+
+Ali: Um...
+
+Keith: (overlapping) I’ll bet there was like, sixty people in the skype, and then –
+
+Austin: Right, and then they switched over to discord, and that was it. I like Personal Vehicles –
+
+Ali: Yes.
+
+Austin: – because it makes my life easier. Because it means that we won’t run into a situation where it’s like “you finished your mission, the other team got the ship impounded, so now you’re stuck here”.  [laughter from Ali] Or, like, ‘the other ship gets picked up by a star destroyer, and now you have to go save them’ is a fun mission, and we can’t do that if you can’t get off the planet.
+
+Keith: Yeah. 
+
+Austin: And to be fair you could always rent another ship, or something, but I also have just an image in my head of, like, I like the notion that there was a time when the fisherman had a bigger crew, which we know is true, um, and they had basically space diving suits that were used to go fix the netting and to go operate the… whatever, you know. Like to go actually fuck with stuff out in space, and that these are like, a mix of a diving suit and an Iron Man suit? Or maybe a little bit bigger than that, like eight to twelve feet tall, that are basically little personal mechs, also. And we’ll add these to your sheets as personal vehicles, um. I would love the notion of them all having the same basic thing, but then being customizable. Like, Echo, you still have parts of the Overture. 
+
+Sylvia: Mm-hmm. 
+
+Austin: Right, what did you save, like the arm and the weird antlers, or something?
+
+Sylvia: Yeah, I think like the head, the arm, and part of the torso (overlapping)
+Janine: (overlapping) Well, now we’re on metabots. 
+
+Austin: Yeah, we are now on Metabots. 
+
+Sylvia: Hell yeah we are! Fuck, I love metabots, dude. 
+
+Keith: Sorry, I’m on Roblox. 
+[1:00:00]
+Austin: (sighing)  Okay, well. 
+
+[Keith laughs]
+
+Austin: (overlapping) We can’t all be… whatever. 
+
+Keith: Got twenty dollars worth of Roblox points from GameStop. 
+
+Austin: Great. So, yeah. I like the notion of – you all have these things. Also I think they’re called Anglers, or Hooks, or some fishing thing. Um, and they’re deployed by a big canister that you just, fuckin’, drop off the side of the vessel – off the side of the ship, through orbit. And they, like, pop open. Like in my mind they’re like oil cans, or depth charges, that they pop through atmosphere and then they open up. And it’s like there you are in these cool suits that can fly around a little bit. That’s my pitch on ‘Personal Vehicles’. 
+
+Jack: (overlapping)  I’m into it.  
+
+Keith: My less interest counterpoint – but I mean like, slightly, uh, we could get more different stuff, is instead of doing ‘Personal Vehicles’ we could do ‘Land Rovers’ and one of the other things, like ‘Shields,’  or ‘Medical Bay,’ or something else. 
+
+Austin: Right. That is true. 
+
+Keith: I mean, don’t get me wrong, I am jazzed to design my own personal mech, and I might get twenty of them… 
+
+[Laughter from Austin and Ali]
+
+Austin: Oh, yeah? You don’t say. 
+
+Keith: Yeah, might get twenty. 
+
+Austin: Um, (overlapping) It is up to y'all.
+
+Jack: (overlapping) I do like the visual – I love the visual of, like –
+Keith: Same.
+
+Jack: – someone in – like, Echo in a big armored diving suit sort of thing, climbing out of one of the side doors of The World Without End as it pulls in over the thing and just –
+
+Austin: Right. 
+
+Jack: – jumping off the side of the ship. 
+
+Austin: Right. Yeah, there’s a little bit of that story Canderous –
+
+Keith: Ginyu force
+
+Austin:  Also Ginyu force, also there’s a little bit of Ginyu force. The Canderous Ordo –
+
+Keith: Yeah. 
+
+Austin: – whatever thing. 
+
+Keith: (overlapping) Um, why am I forgetting the –
+
+Austin: (overlapping) The sky-drop thing. 
+
+Keith: Basilisk War Drones. 
+
+Austin: Thank you. 
+
+Keith: You’re welcome. 
+
+Austin: (laughing) I knew I could trust you. 
+
+Jack: And also, the um – also the ODST drops, and also like –
+
+Austin: (overlapping) Right right right, hundred percent. Those, yes.
+
+Jack:  – mechanical patriots from Bioshock Infinite. 
+
+Austin: Oh, yeah, I forgot about those. 
+
+Jack: Like, the one cool visual in that damn game. 
+
+[They laugh] 
+
+Austin: And then also, like, there’s just this notion of… maybe they look cool in the atmosphere. Maybe they look cool. And it’s like “oh, shit, we’re gonna be okay. They’re here.” You know? I want that vibe sometimes, and that is, like, on my anime bullshit, but – also I want mechs to still be here to some degree. So, that’s my push. And again, you can get all of that other stuff also, down the road. I’m gonna mark it and then we’ll wrap back around. If people have thoughts in a week, we can totally change shit. Alright! So, that is – oh no, no. So we now actually have to – there’s another part here, which is: “you’ve assigned those upgrades. After you’ve assigned your upgrades, your GM will tell you about two factions impacted by your choice. One faction helped you get an upgrade; you’re on good terms. Did they broker a deal? Did you run a job for them? Did you bail them out of trouble? They like you, and you get plus one status with them. At your option, spend plus one cred to repay their kindness and take plus two status with them instead. Uh, I think that, again, we could double down with groups that build stuff, right? Or is this a bit where Cascabel Arms gives you a bonus – like, you get a bonus with Cascabel because, you know, his crew made those work better. Is this a thing where you worked with The Brink, which is a – you saw them in Grand Mag’s vignette, they’re like a – it’s like Satellite and Primary from the intros, who kind of turned into a sort of interstellar, kind of, uh… what’s the word I’m looking for? Dive bar? Like, truck stop, basically. Who run a secret, like outside of the  – kind of, in the shadows space where they – did they coordinate things for you, where they gave you the pieces you needed. It could be a bunch of things. Salvage Mandate would also be great for this, right? Like, they fit – like, they recogni – like, you landed here, you landed on – we’re actually starting on Gift-3, which is the Salvage Mandate’s world. And, like, is this a situation where you came here, and they got you fitted with the, like – “oh, we know those ships, we actually have eight of the – or seven of the old suits, or whatever, that go with the ship”. And get them reattached. I think that’s a –
+
+Jack: Yeah.
+
+Austin: We’ve all sorts of things that –
+
+Dre: I like the Savage Mandate a lot. 
+
+Austin: Yeah. 
+
+Jack: I do like the narrative of us pulling into the ship yard, and someone coming outside and going “oh my god.” 
+
+[Dre laughs]
+
+Austin: Right, right. And like, almost as a favor, being like, a favor to you in some sense, of just like – or not just a favor to you,  like, obviously, you’re at Status one, which means they can kind of call on you and all that. But also just like… we need – we’ve had these things in the yard for  a decade, or whatever, you know? We wanna fit them with something. We wanna – It’s feels good to reattach them to their home, you know? Which kind of is in like with the mandate in general, to some degree. 
+
+Jack: Yeah, yeah. 
+
+Austin: So that’s one. So one is – I think it’s – let’s go with the Salvage Mandate as the plus one. So then there’s another faction that was screwed over when you got an upgrade. “Did you steal the part from them? Was it a specific individual ship? Was it illegal and now the Hegemony hunts for you? Now hunts them.” By the way, the Hegemony is in this book. Just as, like, name. It’s a different Hegemony. But I’m still just gonna read it, because we have a Hegemony. 
+
+[Austin laughs.]
+
+Austin (cont.): So, they don’t like you, you get minus two status with them. “At your option, the crew can spend one credit to mollify this and make it negative one instead. Tell us how you smooth things over.” Um [exhale of breath]… I kind of want to make this way more general, where it’s not about these suits you got. ‘Cause, like, “no, those were ours” is like a shitty… thing. [laughter in the background]  But maybe it was like a – maybe something else fell through. Like, maybe you did these instead of working with somebody else who you’d agreed to do a contract with. Or, maybe there’s just another group – maybe this is, like, the Rapid Evening, being like, nervous about you. Or maybe it’s – I’m trying to think, who else makes sense here? Um, maybe it’s the Iconaclastics who are getting nervous about your ability to move through space, and like, actually interfere with shit. Um, are there any thoughts here?
+
+Art: That second one appeals to me a little more than the first one. (overlapping) I’ve never really liked… preference. 
+
+Ali: (overlapping) Yeah, those guys suck. 
+
+Jack: Yeah.
+
+Dre: Yeah.  
+
+Austin: Yeah. Ah, we could go real hard at the  – I guess we’ve already had the – Herringbone Flotilla is already at negative one, so we don’t really want that to go all the way to negative three –
+
+Dre: (overlapping) Yeah, cause we’d start off at war, right?
+
+Austin: (overlapping) – that would be really bad. You’d start off at war, yeah.
+
+Jack: Eee, I kind of –
+
+Austin: Ah! Oh!
+
+Jack: Have you worked it out? 
+
+Ali: Oh no... 
+
+Austin: I’ve worked it out. It’s the Advent Discovery and Salvage Society. It’s this fucking group of, like, shitty treasure hunters? And they wanted those suits. Like, they made an order for those suits, and then this person from the Salvage Mandate, who already doesn’t fucking like them, was like… “I could just move the numb – I could just move the numbers around so it makes it look like you got the order in first” and gave them to you. Uh, but now the Advent Discovery and Salvage society, who are just the worst... like, they’re basically Egyptologists of the low, lowercase E. The shitty, goes to Egypt, does – like, raids tombs, and puts stuff on private collections, uh, type of – 
+
+Jack: Like Howard Carter and his bullshit of just like –
+
+Austin: Yeah, a hundred percent. Yeah. 
+
+Jack: “We’re gonna hire one hundred local people to dig a massive hole for me and then fucking dig up Tutankamun, or something. 
+
+Austin: (overlapping) Yes, that’s what they are.
+
+Janine: (overlapping) The Elgin Robot Marbles. 
+
+Jack: The Elgin Robot Marbles!
+
+[Austin laughs]
+
+Jack: Ugh. 
+
+Austin: Exactly! That is the – so, like, if there’s one steampunk faction in this game, (overlapping) it’s the Advent Discovery and Salvage Society.
+
+Jack: (overlapping) Fucking arseholes. 
+
+Austin: – who are just meant to be a drag on all of Steampunk, so. That is who they are. And I think that’s what it is. I think it’s negative two with them. They also just fucking suck [Jack’s laughter in the background] and I have plans to use them early. They’re one of the groups where I’m like – yeah, no fucking – I’m not here to – they’re shitty. Shitty. Anyway. So I think that’s what it is. So… unless you want to spend a dollar to fix things up with them, I think that’s probably –
+Jack: Nooooooo way. 
+
+[Janine and Art laugh in the background.]
+
+Austin: No, you’re not feeling it?
+
+Jack: Can we pay a dollar to make things worse with them? 
+
+[Austin, Ali, and Keith laugh in the background.]
+
+Austin: If you want to spend a dollar, I’ll let you spend a dollar. 
+
+Art: (overlapping) Could we get a dollar to make things worse with them? 
+
+Jack: Oh, true!
+
+Austin: Anyway, there that is. Take a five minute break and then we’ll do ‘Favored Contact’ and then do one level up, and then we’ll be good. [Large exhale of breath]. Okay. (reading from the book) ‘Take a look at your list of potential contacts on the ship sheet. Though all the contacts are your friends and allies, one is closer’. Uh, oh sorry – This is for – there is just this list of contacts on your ship sheet. These are like, a specific – these are people. So they have, like, defaults – and you can add them to this really quick and delete them, because you probably won’t use them as written, exactly. So by default, their list is “Stacy Weathers, ace reporter,” “Arlox, an Ashen Knives pasha” – we don’t have any Ashen Knives or pashas, “Ishi, a weapons dealer,” “Lix, a xeno tracker” – like an alien tracker, uh, and “Jersey” – no, “Jesrey, a fixer”. I’m just gonna immediately make this character’s name Jersey. Uh, [laughs] and so the way this works is that one of these people, or whoever we want to be a ship contact – one of them will be buds with you, and then one of you will be, um – whoever you pick is your bud. And whatever faction they’re aligned with, you get a plus one status with. And whatever faction is opposed to that one contact of yours, you will get a negative one. 
+
+Sylvia: Oh, boy. 
+
+Austin: So. (reading from the book) “This is a contact who is a close friend, longtime ally, or partner in crime. The GM will tell you about two factions that are impacted by your choice”. Um, I think some easy ones from the last game… it’s like, it’s Cascara, it’s – who else is it? It’s Korrin Kim, it’s – I’m trying to think of more NPCs – it’s Morning’s Observation, it’s Sho Salon, it’s Surge or Janey, it’s Cascabel or it’s what’s-her-face, um...uh, Saint Caliper. Just an NPC who really fits in here, who seems like a good group contact. 
+
+Jack: I could make a case for Morning’s Observation. 
+
+Austin: Yeah. I’ve no idea what he’s doing. 
+
+Jack: I think that might be one of the reasons to pick him. Um…
+
+Austin: Well, except… we would have to figure that out right now so I could say who likes him and who doesn’t so we could fuck with the status. 
+
+Jack: Oh, true, yeah.
+
+[Jack clicks their tongue.]
+
+Jack: I mean, I think Morning’s Observation is gonna show up even if we don’t pick him –
+
+Austin: Yeah yeah yeah. 
+
+Jack: Um, so maybe it would be better to go with someone who at this point we can say –
+
+Austin: I’m fine with figuring out who it is – or, figuring out what he’s up to now. But it’s a matter of actually doing that, which… in other words, let’s – we can have that conversation, but it means having that conversation, you know?
+
+Jack: Yeah. 
+
+Austin: Like, I know where Sho is. I know that Sho is with the Temple of the Lost. I don’t think Morning’s Observation is there. 
+
+Janine: The thing about Morning’s Observation is like, he… hung out with a bunch of strangers and then kind of sided with those strangers a little more than, maybe, his own folks. And, like, so where does he go in this? Does he go find more strangers? Does he go to the people he’s kind of not sure about? Like –
+
+Austin: I kind of – I don’t know.
+
+Janine: Or would he make an effort to, like, stay in touch with the people he knows?
+
+Austin: It is easy for me to think of him as being someone who ends up with the other outcasts at The Brink – with Satellite and Primary, and their little family of weirdos. Of, like, people who are not from here, but who find a way to have a fun and good life anyway. Also I can imagine him just being on that space station and being a chef or, like, being a fixer, you know what I mean? Like, doing things around that place, um –
+
+Jack: Yeah, I could see that working. 
+
+Austin: Uh, and then that would give you an immediate negative one with the Rapid Evening,  which is a really good and interesting, um – I kind of dig that, but also Morning’s Observation is such a ship-game character that I want to make sure I’m not just shutting off the Quire side crew. 
+
+Art: Hm.
+
+Austin: Like, the boring answer is Cascara, here. But like, we know – she is going to come up. We know she is with the Seneschal's Brace, the crew that runs the planet Seneschal. So, like… that’s fine. That to me feels like the really straightforward, boring answer, than like, “here’s a friend, this low level person who’s still in the world, and can help you with stuff.”
+
+Ali: Who do we already have who’s, like, a positive? Um, because, I mean if we also –
+
+Austin: Okay, so, if you look at the – we have plus one with Seneschal's Brace, which is where Cascara, Declan’s Corrective, and the Cadent Under Mirage are. We have a plus one with the Salvage Mandate, who are the kind of Gumption’s Gambit and Mandati group. You have a plus one with Erannia Motor and Hull. And that’s it. You have a negative one with The Herringbone Flotilla – thank you, Even – for a thing that happened during the – during Even’s vignette. They’re space pirates. You have a negative two with Advent Discovery and Salvage Society. And that is it. And you’ll get another negative here. 
+
+Ali: Oh, okay. because I feel like the – if our other positive is with Janey and them, Morning kinda balances that out a little. 
+
+Austin: Okay, that’s true. 
+
+Ali: But I don’t wanna be – I don’t wanna be that person, cause, you know.
+
+Austin: Yeah, no no no. I like that. I’m into it.
+
+Ali: I don’t know, but I’m not that... (overlapping) [inaudible???] [00:01:14:00]
+
+Austin: So, let’s do – let’s do – oop. Got rid of all of them. There we go.  
+
+Ali: This also means he can’t be, like, our Peg. So, I just want to make sure.
+
+Austin: Your – what?
+
+Ali: You know Peg in the other one, and the two girls?
+
+[Everyone makes noises of understanding, eg: Oh, ah!]
+
+Jake: Peg and Zaktrak. 
+
+Austin: Yes yes yes. Yeah, this ship is already so big; there’s already so many people on this ship, that I don’t – I mean, it actually doesn’t mean that. He could become that. It just means –
+
+Ali: Oh, he starts off there. Okay, okay. 
+
+Austin: With the Brink, right? Ah, so yeah, I’m gonna give you plus one with The Brink… I’m gonna give you minus one with the Rapid Evening. Nothing like having a tier five negative one at the start of the game. Uh, a ship has to pay up – oh, we act – uh, so the last thing is, I’m giving you a level. I’m giving you one level in ship. You get a level in ship. In the same way that I’m giving everybody a bonus level, I’m giving the ship a bonus level. But that means you have to decide where to put that bonus level. So… uh, if you go to…
+[1:15:00]
+Austin: …the page about crews advancing… you can get either: one new special ability, one ship quality – so, one more comms, weapons, engines, hull – two more ship upgrades – so if you wanted to get ‘Nexus Link’ or to get ‘Holo Emitters’ or ‘Land Rovers’ or ‘Ground Vehicles’ or whatever, you get two of those, one ship quality – so one more point in comms, engines, weapons, hull… or crew,  but again crew costs money. And at this point it costs… more money, like it costs four times the new crew quality, so it would be eight to go from one to two. And that is it. So, those are your options. My gut says ‘Snatch and Grab,’
+
+[Noises of agreement and ‘yeah’s from several people, including Jack and Keith]
+
+Austin:  ‘cause there was a good Snatch and Grab argument. 
+
+Dre: Yeah, I agree with that. 
+
+Austin: Does anyone have any other thoughts?... Okay. I’m good with ‘Snatch and Grab’. (overlapping) I’m gonna delete the rest of it. 
+
+Art: (overlapping) I was really in favor of ‘Snatch and Grab,’ yeah. 
+
+Austin: Okay, cool. Boop… bop… beep...bop. Done. There we go. Alright, so we have a ship now. The last thing that we actually have to do is just make sure that we know how expensive it is to fix this fucking ship up…
+
+[Laughter from several people in the background/]
+
+Austin: (overlapping) Because that is a thing in this game. 
+
+Art: (overlapping) Cheap?
+
+Austin: (sarcastically) Yeah, just… it’s super cheap, don’t even worry about it, I’m sure –
+
+Keith: I’ve got a move for this. 
+
+Austin: You do. (reading from the book) “A ship has to pay upkeep fees every downtime, or risk damage as parts wear out. To calculate your upkeep costs, add your crew quality to all ship quality ratings and divide by four, rounding up.” So… one, two, three, four, five, six. Divide by – divide by four. So, six divided by four is… like, one point something, right? One point two? (overlapping) One point five?
+
+Jack: (overlapping) Six divided by four is one and – one point five. 
+
+Austin: One point five and then you round up to two. So, alright. So, yeah, upkeep is two. And the way that that works is that in between missions, you’re – you have to decide whether or not to pay that two credits or skip a repair, in which case there’s a chance a part might break. In which case, that’s when, Gig, you can be like “I’ll just fix it, don’t worry.” 
+
+Keith: Yeah, my move is “during downtime the repair action costs zero cred.” 
+
+Austin: Yeah, the thing is, like, things can also get fucked up just from, like, being in the ship and having stuff happen, so… um. Okay! I think we have a ship, I think we have a crew. I’ll note that the way you get xp for your crew is when you play the crew of The World Without End – oh. Oh, welp, I closed the page. Guess what I just did, I closed the page instead of typing, so I can’t read anymore. (reading from the book again) “When you play the crew of The World Without End you earn xp when you execute a successful extraction, or capture a bounty...when you contend with challenges above your station, when you bolster your crew’s reputation, or develop a new one.” See, maybe you’ll develop a new one, Art, it’ll be fine. “Or when you express the goals, drives, inner conflict, or essential nature of the crew.” So… and all of those are things that you can make cases for at the end of every session. I’ll also note that the ship starts with one gambit; I’m giving you – both sides of every game that. I’m not – it’s not one gambit between the two sides. So, in a sense it’s like two that you’re splitting in half. Um, ‘cause otherwise that would just be shitty. Um, okay. I think that’s that! Um, I would love to know, what’s it like when y'all show up for this. I don’t wanna belabor it, necessarily. I don’t want it to be like, you each come in, one by one, to a town, and where are you now, But, like… so let’s just assume we’ve had the – at this point the audience has heard Cascara give a pitch for what y’all are seven times; I’m fine with not delivering a big speech version of that. She’s done it. In her –
+
+Keith: Is it the same pitch to each person?
+
+Austin: No, no, everybody – each person has a different pitch. In fact, one person had to kind of pitch her. Um, it made sense, even. It’s a similar pitch. The heart of the pitch is the same, Gig. Like, she isn’t misleading anybody. So when the full pitch does come, it’s similar, right. Like it is the fact that, like, “we need – we don’t believe that this place is going to be stable, and self-sufficient, and good for people until we all see each other as part of the same – the same larger collective unit, and not as like… Earth, and the Divine Fleet, and, like, we need a leadership that unites those things and we need a symbol to unite those things.” I mean, maybe this is where we end up with a name for this group, which… Jack, you had a suggestion, right?
+Jack: Yeah, I thought of the name ‘The Notion’ to describe what we are, which is just sort of this – and I think this fits with ‘weird’ as well, of Cascara kind of just going like “alright, I’m putting together a team to try to – not just make this place better, but also make some kind of sense of it, and even work out how one would try to go about making sense of a place like this, or what making sense of it means”. And it’s this kind of notion. It’s also a term in sewing and haberdashery to refer to, like, the small, like the little components that you use to make a thing. Right, like… tailor’s chalk, and pins, and various things to hold fabric in place. And I thought that fits, to an extent, with what Cascara is suggesting that we do. 
+
+Austin: Yeah, yeah. I like it a lot – like it a lot. And also it’s just a great – it’s just a good mouthfeel. The Notion. Good way to, like – I can imagine it being deployed in sentences in fun ways. So, yeah, that part of the pitch is the same, in every instance. The part that isn’t, maybe, is the “what do I need you for.” Let me tell you, convincing Gig to do it is a lot different than convincing Grand Mag to do it. So, let’s not do the whole, like, here is – they are, they give you a pitch or – we get a series of shots of everyone in the room together for the first time again... Of the Cadent, and Declan’s Corrective reintroducing themselves, and like going over their visions. And then we get y'all going into the ship for the first time. Where'd you park the ship? We’re on… at this point we’re on Seneschal, which is this massive world where the By-and-By kind of wrapped around it. The By-and-By has turned into a sprawling city. Imagine a mountain range that is like a spine, that goes north-south over the course of an entire planet, and then has ribs that go longitudinally. Except instead of being a mountain range, it’s a huge city. So it’s this like, almost this vertical line with these horizontal lines wrapping around much of the planet, um, with beautiful natural space in between – kind of forests, and hills, and lakes, and rivers, and stuff – in between these massive, sprawling mega-cities that are all connected. And I imagine – do you land in the city, or do you land in nature? 
+
+Dre: Are you posing that to the group, or…
+
+Austin: Yeah. Well, I guess I’m posing that to Fourteen Fifteen first, because Fourteen Fifteen’s the one with the ship. Um, you can either meet them in the middle of the city, which is where Declan’s Corrective works out of, or you can meet them out in the – there’s a sort of resort – not a resort, a retreat, like a… a place near a bunch of waterfalls, where the Cadent has kind of, like, a small village, where the Cadent does a lot of work. 
+
+Jack: Yeah, I think probably the – probably the retreat, um –
+
+Austin: Okay. 
+
+Jack: If only because I’m – I’m not a pilot. I can fly this thing, but –
+
+Austin: Right, right. 
+
+Jack: You know, I can fly it; presumably I was trained to be able to fly some stuff, but I –
+Austin: Yeeeah...
+
+Jack: But...the fisherman was the pilot of this, and I’m a bit like… yeah, I don’t feel great about bringing it down into a city at this point, so. 
+
+[Austin laughs]
+
+Austin: Fair. So, you’re in Anticipation Falls. So we get this shot of The World Without End above all these waterfalls, and lakes, and other water features. And you can hear children running around in the sort of tiered – towards the lower tiers of this kind of community that’s been built out of wood in the hills around this lake. And there’s just the sound of water splashing from the falls in the distance. And there’s the smell of chocolate, and you can hear monks chanting… it’s like a nice, religious resort. And, uh… I imagine it in my mind as like, it’s somehow parked in the air or something, or like on a landing pad up – attached to the side of a building –
+
+Jack: Yeah. 
+
+Austin: –overlooking the cliff, you know what I mean? And everyone’s led to the ship, and is on deck. And, you know, it’s the Twilight Mirage; it’s beautiful out. And you can see, again – you can see the other planets, so close. Like, these aren’t stars. It’s not like “oh yeah, you can see Mars” and “oh yeah, that star looks a little red.” Like, no, it’s here. It’s – it’s bigger than the moon. It’s bigger than a supermoon. The furthest away thing looks like a supermoon. It’s just that the mirage is dense, and it means that space travel is still very slow, and it’s magical. It’s magical in the sense of, like, not making much physical sense, but we’re just kind of fucking figuring out how deal with it. And so there’s just, like, all of you standing near the ship. And I think maybe before you get on, Cascara kind of rolls down the runway towards you all, and she says, like 
+
+Austin (as Cascara): I know you all believe in the mission. I know you all believe in making this place better. But I – I just need to reiterate. Everything you do out there is going to have an effect. And it’s not – we can’t... really clean up after you. 
+
+Austin: She’s, like, a little caught up. She’s, like, a little – um, she’s not tearing up, necessarily, but there is a degree of, like, letting the babies go, you know? Um. 
+
+Austin (as Cascara): Whatever you do out there will reflect not on me, but on you. And… just keep that in mind. 
+
+Austin: And then she, like, salutes you. 
+
+Austin (as Cascara): We’ll send a mission briefing as soon as we have one prepared. But for now, just, ah… get used to this thing. It’s your new home. 
+Keith (as Gig): How many bedrooms are there? It’s long, right? It’s a long ship. 
+
+Austin (as Cascara): It’s a long ship, but there aren’t that many bedrooms. 
+
+Keith (as Gig): (a sharp exhale) Aw, man, I guess I unpacked the one closest to the galley. 
+
+[Austin, Jack, and Ali laugh.]
+
+Ali (as Tender Sky): (overlapping) Where’s the –
+
+Austin: (overlapping) I would – go ahead. 
+
+Ali (as Tender Sky): Where’s the pool, ‘cause you said there was gonna be…
+
+Austin: Oooooooo (laughs). 
+
+Ali (as Tender Sky): – a pool?
+
+Jack (as Fourteen Fifteen): I – I – 
+
+Keith (as Gig): I saw a wooden deck. Is there shuffleboard on the deck?Ali (as Tender Sky): Oh! 
+
+Jack (as Fourteen Fifteen): I – I think you should probably take a look – you should probably take a look around inside. 
+
+[Ali laughs]
+
+Art: Do you – 
+
+Jack (as Fourteen Fifteen): Tender, I’m sorry, I – there’s no pool. You –
+
+Ali (as Tender Sky): Cascara said there would. 
+
+Jack (as Fourteen Fifteen): (laughing, while Ali laughs in the background) Cascara said there’d be a pool? 
+
+Austin: (laughing) Cascara is rolling away. 
+
+[Everyone laughs.]
+
+Jack (as Fourteen Fifteen): Alright, come on in. 
+
+Art (as Grand Magnificent): You guys think this is a cruise ship? I mean, you can see this thing, right? This is…
+
+Jack (as Fourteen Fifteen): It’s a fishing ship. It used to be a fishing ship. Now it’s a –
+
+Keith (as Gig): (overlapping) Don’t fishermen like swimming?
+
+Art (as Grand Magnificent): (overlapping) The Queen Mary it is not. 
+
+Jack (as Fourteen Fifteen): The Queen Mary… it is – it is not, sorry, what was that? You, with the eye?
+
+Austin: (incredulous) They haven’t fucking met!
+
+		Keith (as Gig): Don’t – don’t fishermen like swimming?
+
+Jack (as Fourteen Fifteen): Well, this was a – it was a space – it was a space fishing ship. It does not go in the – I don’t think it goes in the water. Um, I was told that one of you would be a pilot. 
+
+Dre (as Even Gardener): Yeah, that’d be me. 
+
+Austin: We should all describe our characters real quick. ‘Cause some of you have changed in dramatic ways, and I just realized that we’re all not necessarily on the same page.
+
+[Noises of agreement from the others]. 
+
+Austin: Let’s go down the line, start with Grand Magnificent. Grand, what do you look like right now?
+
+Art: Um, Ya’ll ever seen that movie where Edward Norton is a criminal? He’s like, um –
+
+Austin: Death to Smoochie. 
+
+Art: No. Um...
+
+Keith: Fight Club.
+
+Austin: Fight Club.  
+
+Art: Is he really a criminal in that? 
+
+Keith: He was in an episode of –
+
+[Noises of incredulity from the others.]
+
+Janine: Yes. 
+
+Ali: Yes
+
+Art: I guess he is. 
+
+Sylvia: More of a terrorist…
+
+[Noises of agreement]
+
+Austin: Yes. 
+
+Sylvia: Um –
+
+Austin: American History X!
+
+[Indistinct laughter and background noises of surprise and agreement]
+
+Art: Not that one.
+
+Keith: He was in an episode of Stella, was it the episode of Stella he was in? He wasn’t a criminal in that, but…
+
+Austin: The Incredible Hulk.
+
+Art: The Incredible Hulk is a superhero. 
+
+Austin: (overlapping) He’s a villain – he’s a criminal. Also a criminal. 
+
+Keith: (overlapping) Still a criminal superhero.  He used to go tearing the town because everyone hates him so much. 
+
+Austin: Yeah. 
+
+Art: Okay. I was talking about (overlapping) The Score, I think.
+
+Austin: (overlapping) Twenty-fifth Hour. 
+Sylvia: (overlapping) The Illusionist. 
+
+[A long pause.]
+
+Art: Anyway…
+
+Austin: Rounders?
+
+Art: No, I’m pretty sure it’s The Score, why are we still doing this?
+
+Keith: Groundhog Day. 
+
+Art: What’s, like, the space version of this? 
+
+[Everyone exclaims, Ali laughs.] 
+
+Sylvia: Holy shit. 
+
+Austin: Oh… I – oh my god. 
+
+Dre: That’s the Spencer’s Gifts Dad hat, I’m pretty sure. 
+
+Austin: It is. 
+
+Ali: Is that a Looney Toons hat?
+
+Art: No, it’s a Baltimore Orioles Hat!
+
+[Everyone explodes into laughter again.]
+
+Jack: We’re a podcast… we’re a podcast… it’s (overlapping) this is Edward Norton –
+
+Austin: (overlapping) Yeah, please describe. 
+
+Jack:  – wearing bad sunglasses…
+
+Austin: (scathingly, overlapping)….bad sunglasses….
+
+Keith: He’s wearing bad sunglasses, talking on a very old cell phone, 
+
+Jack: (overlapping) … talking on an old cell phone…
+
+Keith: – and it looks like he has two messenger bags on?
+
+Jack: (overlapping) He’s wearing two messenger bags – 
+
+Austin: (overlapping) At least two. 
+
+Jack: He’s wearing a white and pale blue checked shirt that’s open –
+
+Keith: Oh! There’s a third strap!
+
+Jack: There is a third.
+
+Austin: (overlapping) There’s a third strap. There’s at least three bags. 
+
+Keith: (overlapping) He might have three messenger bags. Or, two messenger bags and a purse. 
+
+Austin: Could be. So you’re just, like, the most dressed down dude you’ve ever seen? You just, like, you’re like Casual Fridays. Grand Magnificent Casual Fridays. 
+
+Art: Um, yeah, but like, you’re right, it’s really pointedly dressed down, casual. It’s definitely hat and sunglasses. It’s definitely very little –
+
+Keith: Oh…
+
+Austin: Do you have a jacket?
+
+Keith: Hold on. Are you thinking of The Italian Job? 
+
+Sylvia: I was literally googling (overlapping) “hacker the Italian job” 
+
+Art: (overlapping) No, I’m one hundred percent thinking of this outfit. It had a Baltimore Orioles hat in my head. This is a good movie, by the way. 
+
+Austin: (agreeing, overlapping) The Score. Yeah, it’s an alright movie. 
+
+Art: (overlapping) Directed by Frank Oz, the voice of yoda. 
+
+Austin: Huh. 
+
+[Unknown]: Hm!
+
+Austin: Um, okay. Do you have like a jacket or anything. You’ve noth – you’ve just a short sleeve, button-up shirt on. 
+
+Art: No, I think it is a jacket. I was definitely thinking that this was a jacket when I was thinking about it. It is like, uh, it’s hard to know, like, mat – 
+[1:30:00]
+Art: it’s hard to really zero in on materials. 
+
+Austin: Right.
+
+Art: Like, this definitely isn’t like leather, or denim. But it’s like, I was going to say it’s like fabric, and that’s the most worthless descriptor in the world. 
+
+Austin: It’s not great. I will say, because you have a fine coat, is one of the items you have. 
+
+Art: Yeah, it’s hard to communicate to you the jacket I’m thinking of. It’s – um… [01:30:03]
+
+Austin: Seersucker jacket. 
+
+Art: Yeah, it’s a seersucker jacket. Yeah, that’s – it’s a really dressed down, trying to blend in look, and then, just, a fucking seersucker jacket, just…
+
+Austin: Is it your RKS shirt, or jacket? Is it – like, is there any – are there any symbols on it, or any – is it just like a nice leather jacket. Is it like a...
+
+Art: It’s like a –
+
+Austin: A windbreaker…
+
+Art:  – it’s not leather. 
+
+Austin: Okay. 
+
+Art: I guess, like, I’m struggling to come up with what a nice jacket that isn’t leather is, and…
+
+Keith: Cotton. 
+
+Austin: (overlapping) Jacket experts. 
+
+Ali: (overlapping) Corduroy? 
+
+Austin: Is it a corduroy jacket? Is it that corduroy jacket I wear?
+
+Dre: Oh, you got elbow patches on that? 
+
+Austin: Oh, is it like a corduroy jacket with a fur collar –
+
+Keith: Is it tweed?
+
+Austin: – You know what I mean?
+
+Keith: (overlapping) Is it a tweed jacket?
+
+Dre: (overlapping) Like a bomber jacket?
+
+Austin: Yeah, it’s like a – is it like a bomber jacket?
+
+Art: It’s like a bomber jacket. But it’s – I mean, I think the real answer is some sort of space fabric we don’t have. But that looks nice. And isn’t leather.
+
+Austin: Yeah, of course.
+
+Keith: Is it a windbreaker (overlapping) that looks like leather but is actually a windbreaker. 
+
+Ali: Members only. 
+
+Keith: Oh, is it a members only jacket? 
+
+Dre: (overlapping) Is it a starter jacket?
+
+Keith: (overlapping) You got a club jacket?
+
+Art: Sure, yeah. Something like that, like a members only jacket. 
+
+Keith: Or, like a leather – like a letterman jacket. 
+
+Austin: A letterman jacket’s kind of a look. 
+
+Art: Yeah.
+
+Keith: Did you letter in art?
+
+Janine: You can do that. 
+
+Austin: You can!
+
+Art: On the varsity art team. 
+
+Austin: That’s sharp. I wonder whether that’s it. 
+
+Art: Does – was there a point where members only just issued one of these to, like, every third person in the tri-state area? Is this why (overlapping) this is like ingrained in my brain?
+
+Keith: They were very popular.
+
+Ali: Mm-hmm. 
+
+Sylvia: Is Grand just wearing the fucking jacket from Drive? Is he just that guy?
+
+[Laughter in the background.]
+
+Ali: Oh, no. 
+
+Art: Nope. 
+
+Ali: I mean, maybe, but...
+
+Art: No, it’s this Stranger Things jacket. This is it. I watched this episode yesterday, that must be why it’s, like, in my head. 
+
+Austin: Yeah, okay. With the, like, the button collar that just hangs by its side, and like…
+
+Art: Yeah. This is it.
+
+Austin: Okay, I like it. What color is it?
+
+Art: Um…
+
+Keith: Wow. I’m...
+
+Austin: Oh, I’m so in love with what’s about to happen. I… fucking love it so much. What color is your jacket?
+
+Art: That color. 
+
+Ali: Oh!
+
+Austin: Okay, so you’re still Grand Magnificent.				
+
+Ali: (overlapping) I like that!
+
+Austin: (overlapping) Art linked a shimmery orange…
+
+Keith: (overlapping) With a –
+
+Art: It’s like a shimmery burnt orange.
+
+Keith: Does it have the double zipper too, is that what you’re doing? 
+
+Art: Yeah, of course it has a double zipper, what if I need to get into my pockets?
+
+Keith: I – Wha – you lift up the j – never mind.I just wanted to say for –
+
+Austin: Don’t worry. 
+
+Keith: – for the people listening that it’s not a double zipper as in they’re side by side, it’s double as in there’s one that starts at the top and one that starts at the bottom – 
+
+Austin: (with resignation) Uh-huh. 
+
+Keith: – and they meet in the middle –
+
+Art: I think that’s a frequent jacket feature.
+
+Keith: – making it a jacket that can never unclasp – 
+
+Austin: Yeah. 
+
+Keith: – you have to pull it over. 
+
+Art: No, that’s not true. No.
+
+Ali: No, no no no, you zip them both to the bottom.
+
+Austin: Yeah, you just zip them to the bottom. You [inaudible] [01:32:53]
+
+Janine: No, that’s not true. That’s not true. You can – double zipper’s, they like, seat together, you – it’s fine. 
+
+Keith: You can unzip that?
+
+[A whirlwind of instructions from everyone about how this works, including:]
+
+Janine: (overlapping) Yes. 
+
+Ali: (overlapping) Yeah, you pull them both to the bottom. 
+
+Keith: (overlapping) That’s a magic trick. 
+
+Art: (overlapping) – all the way to the bottom. [1:33:00]
+
+Janine: It passes through. 
+
+Austin: Keith, they are not selling a jacket [where] you have to put it over your head [he starts laughing] 
+
+Jack: (overlapping) – once, and then that’s it. 
+
+Keith: They do that all the time – it’s called a hoodie! They’re very popular!
+
+[Jack laughs.]
+
+Sylvia: I’m wearing one right now.
+
+Keith: Yeah, Sylvia’s wearing one!
+
+Sylvia: They exist.
+
+Austin: Okay, so, just everyone have – I just want everyone to be on the same page real quick. Grand Magnificent has on this burnt orange shimmery jacket, has a button-up shirt on under that –
+
+Keith: Cinnabar.
+
+Austin:  – glasses, three messenger bags. Shorts? Pants?
+
+Art: Um – 
+
+Austin: Like, Dickies? Like, work pants?
+
+Art: Yeah, like Dickies, like work pants. 
+
+Austin: Alright, you have that in your mind. 
+
+Art: Yeah. 
+
+Austin: Even. Tell me what you look like now. 
+
+Dre: Oh, boy. Okay, so Even doesn’t really have skin, per se, anymore...?
+
+[Austin laughs.]
+
+Sylvia: Oh, that’s a big one!
+
+Dre: I mean, listen, I’m not like a see-through science classroom skeleton, or anything. 
+
+Janine: I knew it was coming and [it was] still really good
+
+Austin: How are you not? 
+
+Dre: It’s, um , it’s not quite chitin but I guess it’s getting there.
+
+Austin: It’s like chitin, it’s pretty chitinous.
+
+Keith: So you’re like an ant now? 
+
+Dre: No, I’m like a warframe now. 
+
+Austin: Yeah. 
+
+Sylvia: Nice. 
+
+Austin: You’re like a warframe. You’re like a genderswapped Kerrigan. Um –
+
+Dre: Yeah. Oh, also, my hair is just, like, really long, like, stalk tendrils. 
+
+Keith: Hold on –
+
+Art: So it is Kerrigan. 
+
+Keith: Austin just said genderswapped Kerrigan instead of ant, and that’s like, a nominal difference. 
+
+[Austin laughs.]
+
+Art: Yeah, Kerrigan is basically an ant. 
+
+Ali: The difference there is the titty. 
+
+Austin: It is. 
+
+[Everyone laughs.]
+
+Austin: Like, the first image, So, I mean, listen – the image that we got of this – the first image that I found when I was like, ah, maybe what Dre is describing to me is genderswapped Kerrigan was – this guy – 
+
+Dre: (overlapping) Here, I’ll link it – I’ve got it on my [inaudible]. 
+
+Austin: This guy – this guy’s got some titty. 
+
+[Ali hums.]
+
+Keith: Yeah.  That’s true.  This is kind of – it kinda looks like he’s got the Venom symbol  clasping his abdomen.
+
+Austin: Okay, well that’s – this – he doesn’t.
+
+Dre: Well, yeah, it’s definitely, it’s not – (overlapping) the hair from this is the important part, I think
+
+Austin: (overlapping) I’m tossing some warframes in here too. Yeah. The hair from that. The weird faces from these fools. These warframes I’m linking. 
+
+Keith: I don’t know, dawg, look like an ant to me. 
+
+Dre: I’m gonna to link the warframe that I like the most for Even’s skin. It’s – it’s Ivara. I just like that, like, fleshtone color. 
+
+Austin: Oh, that’s good. Yeah, that’s good. 
+
+Keith: That looks like a cross between a parasect and the – and a legion from Mass Effect. 
+
+Dre: Yeah, you’re not wrong. But like –
+
+Austin: Anyway, that’s Even Gardner now. 
+
+Dre: Uh-huh. Yeah. 
+
+Austin: What ha –
+
+Keith (as Gig): Hey, man, long time no see. I guess. 
+
+Austin: Wait, would you even recognize him as Even?
+
+Dre: I think Even still has his face. (overlapping) Like, he’s not –
+
+Austin: (overlapping) Okay.
+
+Keith: (overlapping) Same voice? 
+
+Dre: Yeah.
+
+Keith: Do you have – yeah, face too. 
+
+Austin: But also these long – how long are your tendrils, your hair tendrils? 
+
+Dre: I would say, like, shoulder length. 
+
+Austin: Okay. 
+
+Dre: The could get longer or shorter, depending on –
+
+Keith: – your mood.
+
+Dre: – what’s going on. Yeah. 
+
+Austin: Yeah. 
+
+Keith: Or maybe temperature. 
+
+Austin: You have wings, also. You still have wings. 
+
+Dre: Oh, yeah, yeah, I still have my wings. Duh. Come on. 
+
+Austin: Okay. 
+
+Art: (overlapping) Get your head out of your ass, Austin. 
+
+Austin: (overlapping) We’ll have to figure out how to fit those into your fuckin’ space suit. 
+
+Keith: Maybe it’s not an ant, maybe it’s a wasp. Maybe you look like a wasp now. 
+
+Austin: I can see a little bit of that, sort of, plating. Okay – 
+
+Keith: Yeah, yeah. 
+
+Austin: – there’s Even. 
+
+Art: I mean, if someone showed up and they were, like, their own, like, I recognized their face and they were on a giant wasp body, I don’t think that my first reaction would be “oh, hey, how’s it going.”
+
+Dre: (overlapping) Hey, it’s my bud! 
+
+Art: It would be like, this wasp monster’s gonna eat me and steal my face. 
+
+[Austin and Keith laugh.]
+
+Austin: It’s a nice wasp monster.
+
+Keith: Well, but Art, that’s because you don’t live in the Twilight Mirage. 
+
+Art: That’s true. 
+
+Austin: Right. 
+
+Dre: Yeah, true.
+
+Austin: That is the big difference.
+
+Syvia: Yeah, we did see this guy grow wings, so... 
+
+Austin: Right, yes, one hundred percent. He did show up once all “I got wings.” So, uh, cool. Cool. Uh, Signet?
+
+Janine: Uh, um… so, Signet basically –  I, as a very happy accident, stumbled upon this designer who released a collection earlier this year that is a hundred percent, like, front to back, just the stuff Signet is probably gonna be wearing. The designer is – I like, kind of – I have to scroll in my shit and find it, where the fuck is my shit here?... Uh, Eli Saab. Um, it is the Fall/Winter 2017 collection. It’s all based on, like, fairytale shit, so there’s a lot of – there are a lot of capes, there’s a lot of embroidered coats. There are a lot of gowns, um, with varying degrees of embellishment. Lots of white and gold and black and gold, but then the occasional colorful ones. Like, there’s some nice blue ones, some nice green ones... Yes, the – Austin linked one that’s, like, I think – 
+
+Austin: (overlapping) This is, like, a whole look. There’s sixty-two looks here. 
+
+Janine: (overlapping) – at this moment she’s either wearing what it pulled for that thumbnail, or possibly wearing this dress, which I’ll just describe as, like, it’s like, there’s a sheer cape, and then there’s like, a skirt that sort of goes from grey to white and is also very sheer, so you can kind of see, like, the sort-of mini short bodysuit bottoms underneath. And then the bodice is, like, sort of like two rectangular panels with a very deep, sort-of V down the middle, that only joins at the waist. And then just a sort-of a gold – flat gold belt kind of thing. Like, this is probably, to a degree, supposed to be simple and practical. This is not one of her fancy-fancy outfits. This is like a –
+
+Austin: This is not one of her fancy-fancy outfits. 
+
+Janine: No, like the other stuff in that collection is like her fancy-fancy shit, like –
+
+Austin: Yeah, I see. I see what you mean. 
+
+Janine: Lots of the things with the embroidered coats and the (overlapping) embroidered capes and –
+
+Austin: (overlapping) I think some – Wait, I’m looking at this image, and I think this one woman is see-through. 
+
+Janine: Yes, I mean… sure. Yeah. 
+
+Austin: No, but like I can see the person behind – what’s happening here?
+
+Janine: I think that’s just that there’s mottled color in the skirt. 
+
+Austin: It just happens to match the lady behind her?
+
+Sylvia: Yeah… 
+
+Janine: It doesn’t – I mean, yeah, I would imagine they would schedule those outfits close together.
+
+Austin: (overlapping) Okay. 
+
+Sylvia: That looks cool, though. 
+
+Austin: Good call. That looks cool as hell. 
+
+Janine: Yeah. This whole collection is fucking great, and it immediately, like, captured all this stuff that I had been trying to go for with Signet, but had only this sort of loose collection of shit that, like, gestured at it, so I’m very, very excited.
+
+Austin: I’m happy that you have sixty-two looks to pull from now.
+
+Janine: Yeah, they’re all really fuckin’ good too, (overlapping) I’m very happy. 
+
+Austin: (overlapping) Yeah. Um, cool. Next up is Gig. What’s Gig wearing? 
+
+Keith: Hey, um, I think I’ve got…hmm,  let’s see. Oh, you know what I have? I have one of those rugby shirts that’s, like, got, like, one big grey stripe across, like, a red long sleeved collared polo, you know, with the white collars. Um..
+
+Austin: Yeah. 
+
+Keith: And then I’ve got a… a hoodie underneath a windbreaker. And then jean shorts with a big, sort-of, those, like, fabric belts? You know those?
+
+Austin: Mmm-hmm. 
+
+Keith: Sort of like grey fab–
+
+Austin: What color fabric is – like a grey – like –
+
+Keith: Like a tan – like a tan fabric belt. 
+
+Austin: Truly, truly normcore Gig Kephart. 
+
+Keith: Pretty normcore, and then whatever the equivalent to – imagine the version of fake adidas, or bake – yeah, like imagine a version of fake adidas that’s actually, like, it’s fake because they wanted to do the same thing but with more expensive shoe parts. 
+
+Austin: Right. Good. And again, eye – the big change with your eye is that when it’s out it also has arms. 
+
+Keith: Yeah, I can pop out some arms on that sucker now. 
+
+Austin (quietly): Goddamn. 
+
+Keith: Um, I – I would li – I wanna read the item thing more closely to see if it allows that. Um, allows –
+
+Austin: Wait, allows what?
+
+Keith: No, I had a different idea I was gonna pitch. But I actually like – I was gonna pitch it, potentially, it having its own, like, um… like AI inside of it, instead of –
+
+Austin: Mmmm. 
+
+Keith: Because before, I would just make it do stuff –
+
+Austin: You controlled it. Yeah yeah yeah….
+
+Keith: I controlled it and I would make it do, like, little beeps and chirps to make it seem like it was a pet. 
+
+[He laughs.]
+
+Keith: ...or something. 
+
+Austin: But now you’re saying –
+
+Keith: But now I’m saying no, I actually still like that better. 
+
+Austin: Okay. 
+
+Keith: Yeah, so I’m not changing anything else about the eye.
+
+Austin: Cool, um… Echo. You still have your Drive jacket. 
+
+Sylvia: Actual – I own it still. Echo’s not wearing it, though. So –
+
+Austin: Oh, okay. 
+
+Sylvia: So I think a big thing with Echo is that just in, like, their face and stuff, they look a lot – they look older now. 
+
+Austin: Okay.
+
+Sylvia: Just in, like –
+
+Austin: Some people’s one year has been longer than one year. 
+
+Sylvia: Yeah, just from stress and also, like, basically having to become part of the military. 
+
+Austin: Right. 
+
+Sylvia: Another big change is that they’ve actually cut their hair short to like a bob-thing.
+
+Austin: Cool. 
+
+Sylvia: It’s like a jaw – like, a little past their jaw. 
+
+Austin: Ahhh, is it like Trunks hair length and shape? 
+
+Sylvia: Kind – not the shape, but like that length, yeah.
+
+Austin: Okay, okay. 
+
+Sylvia: ‘Cause like if – fuck, Austin, fuck. 
+
+[Austin laughs in the background while Sylvia makes a pained noise and curses.]
+
+Austin: I’m sorry, but are you describing –
+
+Sylvia: They’re Trunks now!
+
+Austin: Yeah, are you Trunks?
+
+Dre: God, please be Trunks.
+
+Sylvia: I was gonna say, because they’ve got a dope leather jacket now, with Trunks – 
+
+Austin: I know. 
+
+Sylvia: –yeah. Still wearing crop tops though, ‘cause like, come on. 
+
+Austin: Trunks has a crop top jacket, though, like. 
+
+Sylvia: Yeah, no, not a crop top jacket. We’re not going that – like, no. ‘Cause crop top shirt, ‘cause you’ve gotta let the fuckin’ eight pack breathe. 
+
+Austin: You gotta, you gotta… let ‘em know. 
+
+Sylvia: Yeah, exactly. 
+
+Austin: You’ve worked hard… for the eight pack. 
+
+Sylvia: That’s the thing, it’s all natural. Just kinda came…
+
+Austin: Yeah. Right. Uh-huh… uh-huh. 
+
+Sylvia: It – it happens when you are doing fuckin’ martial arts your entire fucking life. 
+
+Austin: True. Fair. Fourteen Fifteen – unless there’s anything else?
+
+Sylvia: No, not really –
+
+Austin: Sword – sword on your back, still? 
+Sylvia: Oh, yeah, yeah for sure. 
+
+Austin: Or in a case, or something, to travel?
+
+Sylvia: It’s still in the same sort of case that’s, like, slung over their shoulder and kinda hanging, yeah.
+
+Austin: Cool, got it. Alright, Fourteen Fifteen?
+
+Jack: Fourteen Fifteen is kind of small and compact, kind-of slight. They have, uh,  messy, uh blonde, or kind of like a… light brown hair that is up in a ponytail behind their head, like a messy ponytail. Uh, they have, uh, two sort of grey stubs of horns protruding from their forehead. They look a lot like the people from Quire, because they are. That is one of the bodies that they are in. They are wearing a sort of like a work suit made from a quite – like a rough material. I looked at a lot of the costumes from There Will Be Blood, um –
+
+Austin: Hmm, sure. 
+
+Jack: I don’t like the hat, and I don’t like the sort-of formality of this, but the material of Daniel Plainview’s suit here is, like, pretty much what I’m thinking of. 
+
+Austin: Sure, sure.
+
+Jack: And it’s a shirt and a tie and a jacket. Probably, like, a waistcoat –
+
+Austin: Are they – cool, cool.
+
+Jack: – buttoned up underneath. 
+
+Keith: Full wool
+
+Austin: Did they have – mid-length hair?
+
+Jack: Yeah, it’s...
+
+Austin: I remember you describing their hair as being Holly Hunter — or you described them as… 
+
+Jack: Yeah, it’s Holly Hunter in – their whole look is sort of Holly Hunter in The Big Sick. So I guess it’s sort-of just below shoulder length, but it’s kind of bunched up in a ponytail on the back of their head. 
+
+Austin: Hm, Cool. Tender? 
+
+Ali: Hi, hey. 
+
+Austin: If you’re back... 
+
+Ali: Yes, hello. 
+[1:45:00]
+Austin: What’s Tender Sky look like now?
+
+Ali: Um… so I did like three hours of lingerie research for this look –
+
+Austin: Uh-huh. 
+
+Ali: And I think that, um –
+
+Austin: I thought you were going to say “and then I lost it all.” Like a homework assignment, 
+
+Ali: (overlapping) Oh no. I made a pinterest
+
+Austin: – and now I’ve lost all the research. Got it. Good. 
+
+Ali: So I think that she now has this big, like, um… like silk housecoat, uh…
+
+Austin: Ooooh
+
+Ali: – that’s, like feather-lined. 
+
+Austin: This is good. 
+
+Ali: Yeah.
+
+Jack: Oh, dang. 
+
+Ali: It’s just like one of the – It’s like a lingerie gown, basically, where it’s like just a – like, a coat that’s like way bigger than it needs to be –
+
+Austin: Mm-hmm.
+
+Ali: – I guess, and it has a feather lining that makes it kind of protrude out, but it’s a really –
+
+Janine: Maribu? 
+
+Ali: –thin material.
+
+Janine: – I think, is the word. For the specific feather stuff, right? The specific fluffy, sort of 1950s, really puffy, um – I think they call it maribu. 
+
+Ali: Yeah, maybe. 
+
+Austin: I believe you. 
+
+[Ali laughs.]
+
+Janine: I’m just saying, if you want that word…
+
+Ali: Yeah, yeah yeah yeah... it’s out there. That will help. But yeah, it’s one of those… I think the – the one I linked to you is kind of a soft pink color. I think it’s still that same color, but you know how, um… what’s the guy from Destiny? Um….
+
+Austin: Cayde-6. 
+
+Ali: Zahar...a? That’s a different person. 
+
+Sylvia: Zavalla? 
+
+Ali: Zavalla. You know how his head has the… the moving pattern on it. 
+
+Austin: No, wait. I think you’re thinking of a different person. 
+
+Sylvia: You might be thinking of someone else. 
+
+Austin: Zavalla is just a bald guy, right?
+
+Ali: Yeah. And his head has the – the like –
+
+Austin: Oh, does that stuff move around?  
+
+Ali: Yeah.
+
+Austin: (overlapping) Huh. 
+
+Dre: (overlapping) I actually noticed that. 
+
+Ali: Yeah yeah yeah.
+
+Austin: Is that on purpose? 
+ 
+Ali: (overlapping) It’s gotta be. 
+
+Austin: (overlapping, laughing) Is that a bug? In the – the weird [laughter]...
+
+Ali: No, he’s just like a – he’s just like a –
+
+Austin: Oh, yeah, look at this.
+ 
+Ali: – he’s just a skin man, who has stuff on his head that moves. Anyway, I think that it’s like, a very light pattern built into it that constantly moves –
+
+Austin: Moves around.
+
+Ali: Like that guy’s face does. [Laughs]. 
+
+Austin: Oh, yeah, that totally does move, that’s neat. Cool. 
+
+Ali: Um, and then under –
+
+Austin: What do you wear under that.. yeah.
+
+Ali: [laughs] That is… it’s kinda like a – like a high bikini bottom, tucked – with like a big silk shirt tucked into it....
+
+[She laughs and Keith joins.]
+
+Ali: WIth like a really deep V-neck. [She laughs more]. 
+
+Austin: Uh-huh. 
+
+Ali: I should provide... photos for the fans. 
+
+Austin: Yeah, we should, yeah. 
+
+Ali: ... ‘Cause it’s very specific. 
+
+Janine: We’ll just have to put together a, like, post-miracle lookbook.  
+
+[Noises of realization and agreement from the others, including:}Austin: (overlapping)  Oh, yeah. A hundred percent. 
+
+Sylvia: (overlapping) We should, though
+
+Ali: We should do that. But, yeah, I think it’s basically this, with like, a deep V. Um, and like, it’s like a button down shirt but without any buttons on it? Except that there’s buttons on the back, ‘cause that’s cool. And then it’s like –
+
+Austin: I one hundred percent thought you were going to link us to just a picture of a button, like, “I found these really good buttons”. 
+
+Ali: [Laughs] I do have (overlapping) the picture of those buttons. 
+
+Austin: (overlapping) She did, she did do the thing.She did. .. Those are nice! Those are nice buttons, those are good buttons. I’m not gonna lie. 
+
+Ali: See? Um, and then the shirt goes into these, like, ah…. two or three inch wrist panel sections that, like, I think in uh, Twilight Mirage, and not this weird store that I found are, like, actually armored. 
+
+Austin: Oh, sure. Umm. Awesome. So that’s what everyone looks like. Who goes on the ship first? Also, wait. Earlier, I want to make sure I get the order right here, because Fourteen Fifteen has a room already. Fourteen Fifteen, I’m guessing you’ve been sleeping in the Captain’s quarters?
+
+Jack: Um, yeah. It was – no, I do have a room. Um, I don’t know if I’m in the fisherman’s quarters, or if I’m in the bunk – I guess I’m in the fisherman’s quarters. 
+
+Austin: Okay. Yeah, I think this place just has bunks right now. Because you did not take the cool bedrooms upgrade. 
+
+Jack: I am very glad I just picked the captain’s quarters. 
+
+[Everyone laughs.]
+
+Austin: Well, one of the upgrades –
+
+Keith: I’m glad I picked the one next to the galley. 
+
+Jack: The bunk? The – the...
+
+Austin: Yeah, that’s the thing, there is an upgrade that is – um, where did it go? Here it is. “Crew Quarters: you can sleep anywhere, but crew quarters are actually meant for it. Crew Quarters afford privacy and comfort in a domain where such things are luxuries. Also, you don’t have to share, and you know the first mate snores.” You didn’t take those, so for now, The World Without End does not have operating crew quarters. 
+
+Ali: Wait –
+
+Austin: Instead – uh-huh?
+
+Ali: Wasn’t it established that there was, like, a big crew on this ship. 
+
+Austin: Yeah, and I’ll bet you that they have, like most ships, a shared, like, room that they all fuckin’ sleep in. 
+
+Janine: I thought you drew us a picture of, like, here are all the rooms. 
+
+Austin: No, yeah. That’s the kitchen, and this one is like, the –
+
+Janine: Okay.
+
+Austin: – and this one is like, the – there was a place where there was, like, a pool table, for instance, and some couches. So you could probably – you could totally be like, I want privacy, I’m taking – I’m sleeping in the room that has the pool table in it. But it’s not a bedroom, and it’s not comfortable. 
+
+Keith: Deal. 
+
+Dre: Nope.
+
+Janine: What? 
+
+Austin: ‘Kay, well. I definitely know where Gig is sleeping, and it’s the one with the pool table.
+
+[A heavy sigh in the background]
+
+Austin: I kind of actually love that notion, of, like, there are all these other rooms, and everyone – noone wants to be – noone wants to fucking share a room with anybody. You’re all adults. We’re not in college. Uh, I’m gonna stay in, like, the dinner serving area, I’m just gonna have a cot in there, or whatever. You know? Um, I mean, you could go back and get rid of Personal Vehicles, to get crew quarters, but…
+
+Ali: I remember you pitching this ship as being like “oh, there’s space for people – like, five or six people already worked on it”. 
+
+Austin: There’s space for a lot of people. But, like, there aren’t bedrooms. It’s a fishing–
+
+Janine: – But “space” is stacked like cordwood in the fish hold.  
+
+[Ali laughs.]
+
+Austin: Right, exactly. Um, I mean, like, this is the game, right. Fuckin’... upgrades. Spend that money to get these upgrades. 
+
+Ali: And there’s no pool?
+
+Austin: (overlapping) No, the pool was on the ship that –
+
+Keith: (overlapping) There’s a pool table. 
+
+Austin: There was a pool. There was a pool on a ship… and then Sylvia lost that ship. Echo lost that ship. 
+
+Ali: Can I make a pool?
+
+Austin: Huh – o – you could try. 
+
+[Ali laughs.]
+
+Dre: That’s a good long-term project.
+
+Austin: That’s a good – I would say that’s a good long-term project: to make a pool is a good long term project. 
+
+Keith: I have a – I actually have a how-to video on that, ‘cause it was the first step in making the ice-skating rink that I made, was that we had to make a shallow pool. 
+
+Ali: Oh!...
+
+Austin: That is true. You did have to make a pool. Can this be– this is all in character now, I’m gonna be quiet. 
+
+Keith (as Gig): – so if you go to youtube.com/gigkephartvideos…
+
+Ali (as Tender Sky): Is that a forward slash?
+
+Keith (as Gig): Regular slash. Whichever one is the regular one. 
+
+Ali (as Tender): Okay. Yeah, I think that came up in my recommended videos, ‘cause I was like, trying to make, like, a fish pond. But I couldn’t get the fish right, it was, like a whole thing… but yeah –
+
+Keith (as Gig): Wait, you couldn’t get them right, like they kept dying, or you couldn’t get them right like they weren’t fish?  
+
+Ali (as Tender): N – ahhh… they weren’t fish, um. There would be stuff in there, and they would, like, swim around, but it wasn’t like a fish. (overlapping) It was like a square… 
+
+Keith (as Gig): Oh, you can just go (overlapping) get fish, I think. 
+
+Ali (Tender): Yeah, I mean, I – That’s the whole thing, I don’t get stuff….Um…
+
+[Austin laughs.]
+
+Keith (as Gig): What do you – wait, what do you mean you don’t get stuff? (overlapping) Like, you won’t go get something? 
+
+Ali (as Tender): (overlapping) Well, I just make – I just make it – I just make it? It’s like, you can buy a scarf or you can make a scarf. 
+
+Keith (as Gig): So you tried to make a fish, and it didn’t – it wasn’t a fish. 
+
+Ali (as Tender): [inaudible] [01:52:15] Yeah.
+
+Keith (as Gig): What was it?
+
+Ali (as Tender): They were gonna be in the pond, it was a whole thing. 
+
+Art (as Grand Magnificent): How many times did you make a scarf before you went and bought a scarf, if your scarf just didn’t turn into a warm neck thing. 
+ 
+		[Tender laughs]
+
+Ali (as Tender): Well you, like the –
+
+Keith (as Gig): What were you making that you thought was gonna be a fish and it wasn’t a fish? What was it?
+
+Ali (as Tender): I told you, it was a pond, it was a fish pond with fish in it. 
+
+Art (as Grand): That’s not a – that – I – that is not a satisfying explanation. 
+
+Keith (as Gig): That is not a satisfying explanation.You tried to make a fish, and–
+
+Art (as Grand): You just got water. You tried to make fish and you got water? That’s not –
+
+Ali (as Tender): Yeah, and there were, like, some squares in there. And the squares swam around. It’s like, kinda cool, actually. It’s like, it’s still like a mile from here, if you guys wanna –
+
+Ali: We’re still at Anticipation Falls, right?
+
+Austin: Yeah, yeah.
+
+Ali (as Tender): Yeah, I could show you guys. If you wanna… I don’t know if we have time. 
+
+Keith (as Gig): (overlapping) Well, we have personal vehicles. 
+
+Art (as Grand): (overlapping) I don’t want you to take this the wrong way, but that sounds horrifying. 
+
+[Ali and Austin laugh.]
+
+		Ali (as Tender): It is… I don’t know. I liked it. (overlapping) So, yeah –
+
+Keith (as Gig): (overlapping) I have a whole section on ecospheres and I have a whole section on shallow pools, and deep pools. 
+
+[Ali laughs.]
+
+		Ali (as Tender): I’ll – I’ll check that out. 
+
+		Jack (as Fourteen Fifteen): So – so you’re Even?
+
+Dre (as Even Gardner): Yeah. 
+
+[Ali laughs.]
+
+Jack (as Fourteen): So, ah… I don’t know if there’s much I need to go over. Have you ever flown one of these?
+
+Dre (as Even): I mean, I haven’t. 
+
+Jack (as Fourteen):  I mean – sorry, I mean, just a – what happened to you?
+
+Art (as Grand): Great question. 
+
+Dre (as Even): Woah... wow. 
+
+[Ali laughs.]
+
+ 		Keith (as Gig): He’s been slowly transforming into a wasp since we met. 
+
+Dre (as Even): I don’t know if wasp is right, but slowly transforming, (overlapping) that part’s right–
+
+Keith (as Gig): (overlapping) You’ve got wings, and now you’ve got, like, an exoskeleton.
+
+Dre (as Even): It’s not a real exo – I mean, I don’t like, molt or anything. I mean not – not yet, I guess. 
+
+Art (as Grand): Is it like your bones?
+
+Dre (as Even): No. 
+
+Keith (as Gig): I don’t think wasps molt. 
+
+Art (as Grand): No? You have bones then under that? 
+
+Dre (as Even): Yeah. 
+
+Ali (as Tender): Wait, so this whole situation, that you have –
+
+Ali: And she does, like, the hand. She looks him up and down.
+
+Ali (as Tender): – this is new?
+
+Dre (as Even): Um, I mean. New-ish. 
+
+Ali (as Tender): Newish. Okay. 
+
+Dre (as Even): I mean, it’s new since I’ve seen Gig, Echo, and – Grand Mag, is that you?
+
+Art (as Grand): Don’t worry about it. Yeah.
+
+Dre (as Even): Okay.
+
+[Austin laughs.]
+
+Sylvia (as Echo Reverie): Even, the last time I saw you, you had wings, and now… like, don’t get me wrong, I cut my hair. Things happen. 
+
+[Several people burst out laughing in the background.]
+
+Sylvia (as Echo): I got an eyepatch, it’s all cool. People change, it’s fine. This is a bit… extreme. But –
+
+Dre (as Even): Um, yeah. It’s different. But… I mean, it works.  
+
+Sylvia (as Echo): No judgement.
+
+Jack (as Fourteen): No, it’s I mean, – no, it’s – it’s great. So you’ll be – 
+
+Dre (as Even): I can – I can fly. 
+
+Keith (as Gig): I can do this.   
+
+Keith: And I – my eye comes out of my head, and, uh –
+
+Jack (as Fourteen): Okay, no, back in – back in the head. 
+
+[General mayhem as everyone starts talking and laughing at the same time. Including:]
+
+Ali (as Tender): Mmmm...Don’t do that. 
+
+Keith: The arms pop out and I start clapping with them. 
+
+Dre (as Even): No, you do... He does that a lot. He does that a lot
+
+Sylvia (as Echo): Oh shit, it’s got arms! 
+
+Keith: To like a – not just like and applause, but like a little clap song. 
+
+Dre (as Even): Uhhhh.
+
+Ali (as Tender): Oh, just like on the show! I know that song. 
+
+[Someone -- likely Keith -- claps out a short rhythmic series of beats.]
+
+Dre (as Even): Hey, Gig. Gig.
+
+[There is laughter in the background, which continues sporadically under the following section.]
+
+Keith: And then a little bow. 
+
+Dre: Even makes one of his hair tendrils move to go for your eye to high five. 
+
+Keith: Oh, nice. Got it. 
+
+Austin: (quietly, still laughing) Oh…
+
+Ali: Fuck...
+
+Art: (pained) Oh… 
+
+Jack (as Fourteen): I’m just – uh...
+
+Sylvia (as Echo): Alright, I’m gonna go put my stuff somewhere. I’ll talk to you later. 
+
+[There is still laughter in the background.]
+
+Jack: Yeah, Fourteen is just climbing the ladder up to this ship (overlapping) that is kind of hanging in the air. 
+
+Dre (as Even): Well, I can sleep in the cockpit, that’s fine. 
+
+Keith: Um –
+
+Austin: Alright, so, Even’s in the cockpit, got it. 
+
+[Ali snorts.]
+
+Austin: Next. We got – we know Fourteen Fifteen is in the captain’s – the actual Captain’s quarters. We’ve still got five bodies to place. 
+
+Art: (overlapping) I think Grand is gonna be in the crew –
+
+Keith (as Gig): If anybody wants to play a game, I’ll be in the pool room. 
+
+Art: I think Grand is gonna be in the regular crew quarters. 
+
+Austin: You’re, like, alone in the regular crew quarters. There’s like, bunk beds. You put your stuff in a corner, you climb to the top of the bunk bed. Or are you a bottom bunker?
+
+Art: I think Grand might be a bottom bunker, with like a sheet. 
+
+Austin: Okay...
+
+Art: Like, for privacy. 
+
+Austin: Oh, you put up a sheet, 
+
+Art: Yeah. 
+
+Austin: Not, like, you just have a sheet. 
+
+[Dre and Ali laugh.]
+
+Art: No…I mean, also that. He does have sheets. 
+
+Austin: Yep, yep, okay. You see, this is important. This is important for fanart, frankly. 
+
+Ali: (quietly) God...
+
+Dre: Which part?
+
+Austin: All – just, all of it. Just like, everyone in there. Even asleep on the crew – or, Even asleep on the floor of the cockpit, you know. 
+
+Dre: Oh, wait, no listen, he’s not asleep. He’s still plugged into the ship while he’s in there.
+
+Austin: Oh, okay. 
+
+[Ali laughs.]
+
+Art: You still plug into things?
+
+Dre: Yes, that’s what the hair’s for. 
+
+Art: Oh… my god. 
+
+Dre: Oh, yeah, I guess you don’t all know that. So, yeah,  I guess at some point people walk by, and see Even’s hair, like plugged into various parts of the cockpit, and he’s just kinda like, suspended in the air. 
+
+Art: Mmm, I think Grand sees that once and then stops heading over to the –
+
+[Everyone laughs.]
+
+Art: – heading over to the cockpit. I think a lot of business can be done in the rest of the ship. I hear there’s a pool table.
+
+Austin: God…
+
+Keith: Hair bed is cool. 
+
+Austin: Alright, so Gig, wait, you were in the –
+
+Keith: I’m in the billiards room. There’s probably darts too, right?
+
+Austin: It is – like, we described it in a scene, last time. Um, it’s like – we described it as literally being just enough room to walk around a pool table, uh – there was definitely like a jukebox, or something else in there, during that sequence, also. 
+
+Keith: Oh, dang. 
+
+Austin: Like, everything’s tight. 
+
+Keith: Yeah, this is tight!
+
+Austin: It’s like a hard leather – it’s like a hard – mmm, it’s like a hard leather booth, do you know what I mean?
+
+Keith: Yeah, yeah. 
+
+Austin: Like, booth-like seating around the edges, like at pizza hut, or something. 
+
+Keith: Like an ol – yeah, exactly, yeah. Like, fake, like plastic leather. Pl – yeah
+
+Austin: Yeah, exactly. Echo, where did you say you were going?
+
+Sylvia: I didn’t, I’m not entirely sure. 
+
+Austin: Okay, Tender and Signet, also?
+
+Ali: Yeah, what’s up for grabs?
+
+Sylvia: Yeah…
+
+Austin: I don’t know, more bullshit rooms on this weird space fishing ship. 
+
+Sylvia: Is there, like, a place with a nice window anywhere?
+
+Austin: I realized that the thing we’re doing is Mass Effect. (overlapping) The thing we’re doing is –
+
+Janine: (overlapping) Yeah…
+
+Sylvia: (overlapping) Exactly
+
+Austin: Where are you on the Mass Effect ship?
+
+[Ali laughs.]
+
+Sylvia: Um…
+
+Dre: Is there a gym that Echo can hang out in? And people just, like, walk by, and Echo’s doing fuckin’ Dragonball Z suspended chin-ups, and shit.
+
+Austin: (overlapping) Probably
+
+Sylvia: (overlapping) I was thinking more like – Echo’s workout stuff was more like in Iron Blooded Orphans, they just do pull-ups in the boiler room, and shit. 
+
+[Keith and others laugh in the background.]
+
+Austin: Yeah yeah yeah, totally. Hundred percent. Boiler room. Got it. 
+
+Sylvia: Wait, no, fuck it!  I’m not sleeping in the boiler room!
+
+[Ali laughs.]
+
+Keith: It’s toasty in there. It’s nice. 
+
+Austin: No, but it is definitely the sort of, like, tell me a place that might exist on a spaceship. 
+
+Ali: That’s like – 
+
+Sylvia: That’s awkward, for like midnight snacks and shit.
+
+Keith: That’s like – yeah. 
+
+Ali: Yeah, don’t take the dining room as your personal room.
+
+Sylvia: The thing we’ve gotta keep in mind is, like, people could be getting up and like, doing missions at whatever time, (overlapping) and come back and need food while someone is sleeping in the dining room, right?
+
+Austin: (overlapping) True... true.
+
+Austin: I know, I’m just saying, it’s almost – have you ever been to like, Christmas at a family’s place, where they just DO NOT have enough beds. 
+
+Several people in unison: Yep
+
+Austin: That’s it... oh, I guess I’m gonna sleep on the fuckin’... the floor of this hallway, next to two different bathrooms, and it’s just miserable. 
+
+Ali: Yeah, I lived with someone whose boyfriend, who was on the lease, just came back – ex-boyfriend, by the way – and was like “I want to live in this apartment even though you both live here, and I’m gonna sleep on the kitchen.” (overlapping) So please, no one do that. 
+
+Austin: (quietly, in the background): Oh my god…
+
+[Jack groans audibly in the background.]
+
+Austin: Yeah, fair. Tender draws a line in the sand. 
+
+Keith: Yeah, I lived somewhere where someone had put tacked sheets up to the entryway to the dining room, and lived in the dining room. So I get that, too. 
+
+Ali: Yeah, don’t – is there, like, extra space where the vehicles are held? 
+
+Austin: I imagine those are – yeah, I bet there’s, like – 
+[2:00:00]
+Austin: I imagine there’s almost, like, a torpedo room, you know what I mean? Kind of a long, thin room, or an escape pod room. So, yeah, someone could totally sleep in there.  
+
+Keith: Oh… sleep in an escape pod. 
+
+Jack: (overlapping) There’s also a room –
+
+Ali: (overlapping) Yeah. 
+
+Sylvia: (overlapping) Oh Fuuuuck….
+
+[Generally excited murmurings from people in the background.]
+
+Ali: I called dibs, I’m sorry. 
+
+Sylvia: It’s okay. 
+
+Austin: – escape pods – to be clear, there are no escape pods. The things that are in those escape pods are – or, in those canisters – are your big weird mechs. Or, your big armor suits. So you could sleep in the room that those – that you get in – board those. 
+
+Ali: Right, yeah. I imagine there’s a line of, like, nine spaces, and there’s seven whatever, then I sleep in the eighth. 
+
+Austin: Oh, I see, you’re like, in the empty canister –
+
+Ali: Yeah. Sure, okay. Yeah, I like that. We still need Echo and a Signet. 
+
+Jack: Um –
+
+Austin: If you want me to, I can send you the Millenium Falcon blueprint. I have it. 
+
+[Ali laughs.]
+
+Jack: There’s definitely a room that contains within it the nets.
+
+Austin: Right, true. 
+
+Jack: The nets we described as – if you’ve played or seen some of the recent Prey game, the nets look like the sort of gold, gossamer things that the aliens make in that game. Um –
+
+Austin: That is true. 
+
+Jack: – sort of gold, um, candy floss, almost. 
+
+Sylvia: So, I’m gonna sleep in that room, and I want to make a hammock out of one of the nets. 
+
+Jack, Ali, and several others: Ooooh!
+
+Austin: That’s good!
+
+Art: What’s Candy Floss?
+
+Jack: Uh, what do you call it in America?
+
+Sylvia: Like, Cotton Candy. 
+
+Janine: Cotton Candy. 
+
+Austin: Cotton Candy. 
+
+Art: Okay, got it. 
+
+Keith: I was thinking, (overlapping) like dental floss.
+
+Jack: (overlapping) I couldn’t remember the American name. 
+
+Keith: Candy – you guys call it Candy Floss?
+
+Jack: Sure do. (laughing slightly) No, that was just a very specific lie I made up. 
+
+[Keith, Jack, and Dre all laugh.]
+
+Janine: I’m trying to think of where Signet would be, and I keep coming back to like – she’d probably sleep in Belgard, if that was possible, but I don’t know where, like –
+
+Austin: I don’t – yeah, I don’t want Belgard to just be attached to this ship all the time. (overlapping) That’s like, the whole thing. 
+
+Janine: (overlapping) Yeah, that’s the problem, is, yeah – that’s definitely the problem, and I don’t really know where else…
+
+Dre: Yeah. 
+
+Austin: You could also –
+
+Janine: … to put her. ‘Cause I kind of don’t really see her, like, wanting to – the thing is, like –
+
+Austin: Yeah, I –
+
+Janine: – I don’t see her thinking that personal space is necessarily a priority, but then when everyone takes personal space, and then Grand takes the sort-of bunk area, it’s sort of like “okay, well that’s his personal space now. Good.”
+
+Art: No, that’s – (overlapping) there’s so many bunk beds.
+
+Austin: (overlapping) Put up a sheet. Yeah, there are. There are like twelve bunk beds. 
+
+Ali: Oooohhh, you just on the two far ones, with a sheet in the middle of the room–
+
+Austin: With a sheet in the middle of the room.
+
+[They laugh.]
+
+Janine: Oh, that’s actually good.
+
+Austin: Yeah, I kind of like that a lot. 
+
+Jack: Yeah, it’s like, turn one room into two rooms in one easy step!
+
+Austin: Yep. 
+
+Ali: Yeah.
+
+Austin: I mean, you could even have Tender try to build a fake – to split that room in two. 
+
+Ali: Yeah. Should I roll that, or...[She laughs.]
+
+Austin: I mean, sheets are safer. 
+
+Ali: (still laughing) True. 
+
+Austin: I mean, if you want to roll, there’s a good – there’s a chance that, like, you start with a zero hull anyway, ‘cause it’s damaged... that’s pretty funny, but – 
+
+Janine: Ahwwww…
+
+Ali: Don’t. No. 
+
+Austin: I know…
+
+Janine: That’s not funny for us, particularly, honestly. 
+
+[Ali laughs.]
+
+Austin: Oh, it’s pretty funny. 
+
+[Someone chuckles in the background.]
+
+Austin: Gig could fix it. Gig’s a mechanic now. 
+
+[Janine, Ali, and several other people voice their approval.] 
+
+Austin: Yeah, I like the notion of there being the sheet up and then – I do think, like adding – I think adding proper bedrooms is a really good long term project. 
+
+Janine: Yeah…
+
+Austin: Like, we don’t want to spend money on this, but – I basically think the situation on the ship is there was a time when it was run by, like, a full crew of people. But the last few times, it’s been the fisherman. And we’re seen the fisherman – the fisherman is, like, a weird, lonely old man, who has maybe not kept the ship up. And so I imagine there’s lots of, like, you open a door and – it’s like X-COM, where it’s just like “oh, there’s nothing but debris in here, fuck” –
+
+[Ali laughs.]
+
+Austin: ...“alright, we’ve gotta clean this place out and turn it around, and, like, actually, do the upgrade.” So that’s  what those upgrades look like. Um… so yeah, maybe after your first couple of jobs you can either buy a bunk bed – or, an actual bedroom set – not a bedroom set, not like a – (laughing) like guys, I got this Queen sized bed, don’t know where to put it – 
+
+Dre: (overlapping) Goin to Macy’s.
+
+Austin: (overlapping) but, like, an actual crew quarters, or you could build it. That’s – both of those are fine.
+
+Ali: Where’s the ship food-bed?
+
+Austin: It’s – ah, the food-bed’s in the galley, 
+
+[Jack laughs in the background.]
+
+Austin: that’s the – that’s the problem, actually.
+
+Ali: (overlapping) Yep, okay. Just making sure
+
+Austin: (overlapping) But there’s a rule that you can only use it when you’re awake. Like, it’s a food-bed. You’re not there to sleep. So… you can eat in the food-bed. Collective food-bed. 
+
+Ali: [mock-offended] I know how a food-bed works. 
+
+[She laughs.]
+
+Austin: Some listeners might not. Listeners might not know about food beds. So I gotta let ‘em know. So, you take off, do you head off into space?
+
+Jack: I don’t know. 
+
+Jack (as Fourteen): Even, what’s…
+
+[Music: The Notion re-emerges in the background and slowly rises over the following conversation.]
+
+Dre: I mean, I think – is there, like, an intercom system?
+
+Jack: Yah.
+
+Austin: Yeah, there is. And it makes like, a – oh god, I just remembered – a thing is that the ship is currently programmed so that every night at, like, ten thirty pm, it goes like “night night! night night!” all throughout the entire –
+
+[Ali laughs.] 
+
+Jack (as the ship): (overlapping) Time for bed! Time for bed!
+
+Austin (as the ship): (overlapping) Time for bed! Time for bed!
+
+Jack: But we can probably turn that off, probably. 
+
+Austin: (doubtfully) Maybe…
+
+Keith: I like it. (overlapping) Does it go off?
+
+Janine: (overlapping) That sounds like a long term project, doesn’t it? 
+
+Austin: That does sound like a long term project. It sounds like a –
+
+Keith: If it doesn’t go off then I stay up too late, and I can’t wake up in the morning… and so, I like it. 
+
+Austin: It goes off. It goes off. It goes off. 
+
+Dre: Yeah, you’re in space, you need to know what time it is. You gotta keep your internal clock right. Um, have we gotten any mission briefings sent in? 
+
+Austin: Um, so, yeah, I think once you are well established in orbit, you are given a communication by Cascara, who tells you that your first stop is Gift-3, the world where Gumption’s Gambit – the survivors of Gumption’s Gambit and the Mendati have joined together. There is some work to be done there. 
+
+[Music: The Notion continues and eventually concludes.] 
+[2:07:19]

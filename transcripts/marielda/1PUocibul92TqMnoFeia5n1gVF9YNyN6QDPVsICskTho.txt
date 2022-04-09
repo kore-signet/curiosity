@@ -1,0 +1,1833 @@
+Marielda 05: War and Azaleas
+
+
+Transcriber: Ray B.
+
+AUSTIN (as the Narrator): There used to be a saying in old Hieron, before the Erasure back when the City of First Light was still Marielda: people talk, gods write. It was meant to be one of them metaphors about making sure to plan before doing something risky, but in Marielda it was literal. See there’s this organization, holy bureaucrats with a censorious bent, and the black lines and bookburnings to match. Technically they’re considered educators, Samothes called them the Preceptors of the Font of True Knowledge, but most folks, they just called them the Fontmen. They patrol Marielda hunting down risky ideas and dangerous facts with an arbitrary ferocity, doesn’t matter if the knowledge they squash is helpful or injurious at the end of the day the Fontmen decide who’s a heretic. They made it their mission to make the saying true; people talk, gods write. But that was before the Six.
+
+THEME SONG, “Marielda” PLAYS
+
+AUSTIN: Hey everybody welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterisation and fun interaction between good friends. We are continuing our game of Blades in the Dark by John Harper. This is Austin Walker, joining me today Ali Acampora:
+
+ALI: Hi! You can find me @ali_west on Twitter and you should also find our show @friends_table.
+
+AUSTIN: Andrew Lee Swan,
+
+DRE: Hey, you can find me on Twitter @Swandre3000.
+
+AUSTIN: Sylvia Clare,
+
+SYLVIA: Hi, you can find me on Twitter @captaintrash.
+
+AUSTIN: And Jack de Quidt,
+
+JACK: Hi, I’m on Twitter @notquitereal and you can find all the music used in the show at notquitereal.bandcamp.com
+
+AUSTIN: And what good music it is. 
+
+JACK: Thank you!
+
+AUSTIN: As always my goals are to convey the fictional world honestly, to bring Marielda to life, and to play to find out what happens. So where did we leave off? We left off with everyone going out for a nice night of drinks and recovery, and that means that it is time to talk about downtime and the way downtime works in this game. Because in between doing the heists there is this whole kind of a cycle of recovery. So after you finish your score, after you finish the heist, you do payoff, then heat, then entanglements, and then you get to downtime proper. So let’s start with payoff, good news: y’all made some money!
+
+ALI: [quietly] Yay!
+
+AUSTIN: How much did I say you made? You make eight coin split four ways. Eight coin is for a major score, serious loot, and the way I’m thinking about that is that like, that is the immediate value of knowing where the trains go. Like just knowing what the potential train lines are can immediately make you bank, by either selling that information direct to people who want to rob trains, [quiet laughing in the background] by like knowing how this is going to affect local prices and making bets on that, stuff like that. Like eight coin is a lot, but it’s also like it’s split four ways so it’s like two coin each, that’s not a… ton of coin. And, if you want you can, during downtime, use the information you already had to begin kind of like, refining it into new information, into new product, and we’ll get to that in a second. So that’s the first step, the second step is heat: [Reading] “after a score or conflict with an opponent the crew takes heat, add +1 heat for a high profile or well connected target, add +1 heat if the situation happened on hostile turf, add +1 heat if you are at war, add +2 heat if killing was involved” No one got killed, right?
+
+[Simultaneously]
+	
+JACK: No...
+
+SYLVIA: Not...
+
+ALI: Mmmm, no.
+
+AUSTIN: Just beat up a little bit, but Pala-din did but ehh...
+
+JACK: Someone cut my throat! 
+
+SYLVIA: What happened to… what was his name? Thackeray? 
+
+AUSTIN: Thackeray.
+
+ALI: Yeah didn’t he get thrown out of a train?
+
+SYLVIA: Yeah…
+
+AUSTIN: No, no one saw what happened to him. Once, once Hitchcock got back on board everyone turned to look and no one saw where he went. 
+
+[ALI makes a lip-smack-y sound]
+
+ALI: Ok?
+
+AUSTIN: I compared him to Batman like seventy time.
+
+[DRE laughing]
+
+SYLVIA: Yeah I’m pretty sure we like, closed the door, and didn’t even like look to see.
+
+AUSTIN: No, I specifically said when you look back he was gone
+
+SYLVIA: Ok, like either way...
+
+ALI: Ok, alright then 
+
+AUSTIN: But, but it was a loud and chaotic, high exposure heist so that’s four heat.
+
+JACK [sarcastically]: No!
+
+AUSTIN [laughing]: Yeah, yeah a train had to reroute itself. A God had to reach out and reroute a train for you. So.. you know…
+
+SYLVIA: Mm
+
+AUSTIN: So, so that’s heat and payoff, so now if you look at the crew sheet you’ll see that The Six have four heat. At, once that maxes Stuff Happens, so be careful. I also need to clear your coin here, so the way coin works is like when you get it you have it, but like you’ll note that you don’t have infinite space for coin on your character sheets, because like coin… takes up space, like it, it, they’re not like, you know it’s not like a, you have a hundred dollar bills in this universe, and its, its, you don’t just save up four coin, or more than four coin and just have it in your house without that being a serious risk. So for now you’re good, just something to think about in the future, maybe investing in a vault of some sort. You’ll also see on the crew sheet I also added Zaktrak and Peg to your cohorts list, they are adepts which means that they are [reading]  “scholars, tinkers, occultists and chemists” they have the edge independent, which means that [reading] “they can be trusted to make good decisions in the absence of orders and act on their own initiative” but they also have principled which is a fault, and that means that they will, they have an ethic that they will not betray and they won’t do any violence, they’re not like, they’re not gonna hurt anybody for you. But hey, having a cohort is nice cause it means you can, you know, rely on them in some circumstances. You also have two golden retrievers [laughing] which we set up in a flashback because Castille stole them from the, the Office of Reconfiguration, the Bureau of Reconfiguration. That’s what you stole right, you stole those dogs?
+
+ALI: I, yeah, I go there...
+
+AUSTIN: I think you stole something else also
+
+ALI: No, so, like, it was during the like, setting up gang relationships
+
+AUSTIN: Right.
+
+ALI: And I go there and do that like kind of often
+
+AUSTIN: Right, you’re just constantly stealing from the lost and found
+
+ALI: [laughing] Yeah
+
+AUSTIN: Basically. Ok and, and then I’m trying to think of other smaller things before we move on to the big stuff. Before we move on another step, before we move on to the next thing which is where drama starts to happen with entanglements, one thing I asked you all to do was, because I don’t know how to leave a system alone, was to come up with beliefs and instincts, in the same vein that they exist within a game called Burning Wheel. [hesitating] You know to be fair, Blades in the Dark does give you, does ask you for beliefs and instincts in a sense in that it rewards you for playing up your beliefs and instincts or getting in trouble because of them so I figured why not just let you write those; that system is not like tied-- I mean it’s intrinsic to the way Burning Wheel works but it’s not so intrinsic that it can’t be ported. So… let’s talk about your beliefs, who wants to share their beliefs first?
+
+[Soft giggles]
+
+DRE: Oh god
+
+SYLVIA: Every time...
+
+AUSTIN: I know
+
+[More laughing]
+
+AUSTIN: Who’s going first?
+
+JACK: [enthusiastic] I’ll go! I’ll go! [slightly less enthusiastic] I’ll go.
+
+AUSTIN: Ok!
+
+JACK: Ok. So. 
+
+AUSTIN: You only have one set of beliefs right? And instincts?
+
+[ALI laughing]
+
+JACK: What? [More laughing] Oh, yes I do.
+
+	[Overlapping]
+
+AUSTIN: You only have one set, right? Ok.
+
+[DRE laughs]
+
+JACK: Ok, so… one of my beliefs is that nowhere in the city is truly inaccessible and no one in the city will tell me where I can and can’t go, or I guess no one will tell us where we can or can’t go.
+
+AUSTIN: Right. That’s a good thing for a thief to have.
+
+JACK: Sylvia, I was thinking of some sort of belief related to Aubrey? Especially as some sort of like, I like the idea of, of these like cutthroat scoundrels looking after this, this tiny Cobbin alchemist, just sort of like [in a voice] ‘hey, hey follow our lead, you, you know’ etcetera. I don’t know where that history comes from with, with those three so I don’t know whether or not you have any ideas there.
+
+SYLVIA: Where that had come from is maybe you ran into, like you guys ran into Aubrey like, doing an earlier job and she kinda, like, helped them out sort of like the way Zaktrak and Peg...
+
+JACK [Overlapping]: Oh yeah
+
+SYLVIA:...Got roped into our crew. That, that sort of happened to Aubrey as well, like while she was running like, medical supplies or something. 
+
+JACK: Did Aubrey know that the Hitchcocks were twins prior to the train mission?
+
+SYLVIA: Hmm… I would kind of like it if, like, Aubrey was the one who did?
+
+JACK: Yeah, I like the idea of kind of just like-- and one of them has to go in there and just be like, like ‘look Aubrey this is a big secret’
+
+[Laughter]
+
+AUSTIN: But did you? Aubrey did you keep that one instinct that we talked about, or did you get rid of it?
+
+SYLVIA: Ah, I didn’t, I could?
+
+[AUSTIN makes a disappointed noise]
+
+SYLVIA: I could take that…
+
+AUSTIN: I kind of like-- I kind of like it.
+
+[overlapping]
+
+SYLVIA: I kind of like that one. I’ll change ‘never go into danger alone’ to ‘always know which Hitchcock is which’
+
+AUSTIN [laughing]: Good! Yes!
+
+JACK [Excited]: Aw that’s such a good instinct!
+
+AUSTIN: Such a good instinct... And then there’s a third one that you haven’t quite written out, it just says ‘the long con, the map, the mansion’ and I’m just gonna read, I’m gonna read from our chat earlier because I think this is good enough and important enough for what your character is that we should include it.
+
+JACK: Ok.
+
+AUSTIN: We were trying to figure out what Hitchcock’s long term goals were and to do that of course you have to start thinking about what their history is? And we realised that they are, their parents were from, from Nacre, right? I want to make sure I’m getting this right Jack?
+
+JACK: Yeah, yeah, yeah
+
+AUSTIN: Or that their parents lived in Nacre, that the Hitchcocks were born up in Nacre which, for new listeners is a, a city that we established Deep in the future in the first season, a kind of seaside resort town. And back before they were here, back before… they lived in Marielda when they were little boys, Hitchcock’s father left Nacre and left their mother and it wasn’t quite, we’re not really quite sure why that was. But, for a long time their mother had told their father this story about how, when she was a little girl living in the plainlands of Hieron there was this nearby mansion that was where the richest family in the world lived. She was just a, a little village girl and occasionally she would run up through the fields and through the woods and kind of like go snoop around at the estate and one day they caught her snooping. And because they were kind, they let her inside and treated her to like, delicious food and they let her listen to music that was played by like, a strange device. And the Hitchcock’s mother used to tell these stories to their father, and then on the trip from Nacre to Marielda, you know which the young boys were not thrilled about, their father repeated it to them, that they needed to remain vigilant because after all that mansion could be anywhere on route, and if, if, you know he had to focus on, on you know driving the cattle there or whatever, driving the ox wagon to Marielda so he needed them to vigilant, be on the lookout for that mansion, just in case. And then like, as the grew up they, the boys were told more stories by their father that he’d been told by their mother, including that one day while visiting the mansion she found a map posted up on the wall, and the people there told her that it was a map to paradise, that it was a map to a place where wishes came true. And after telling the boys that story, on a very hot night, on another night where there is not enough food to go around, he took them to their uncles house, and told them that he was going to go find that map and come back for them when he did. And then he didn’t come back. 
+
+JACK: And so the Hitchcock brothers, knowing that it’s out there somewhere, but knowing that it’s far, far in the north in Hieron, and they’re not exactly sure where, figure that the best and the easiest way to get behind what is now definitely enemy lines would be to pose as cavalry officers. So they join up and they do their training and they make their way to the mansion, all choked in vines and plants, and inside the find half a map, with the belief that the other half of the map lies somewhere back where they came from in Marielda. So that’s my second belief: the Hitchcock brothers are involved in a gigantic con in an attempt to find the second half a map to paradise, and they believe that they’re gonna find it somewhere in Marielda. 
+
+AUSTIN: We all have our own white whales. 
+
+[Soft laughter]
+
+AUSTIN: So, who’s next? No, uh, instincts, let’s talk instincts.
+
+JACK: Oh, I only have two instincts…
+
+AUSTIN: Ok. You, you can always tell me if you come up with a third one that make sense in play
+
+JACK: Ok, sure. One is ‘always part a fool from his money’.
+
+[Soft exhaled laughter]
+
+AUSTIN [laughing]: Good!
+JACK [also laughing]: Figure that one’s fairly self-explanatory, and the other one is ‘always have somebody on the inside’, no matter how small, the Hitchcocks will always have endeavoured to have somebody on the inside of wherever they’re going. 
+
+AUSTIN: Perfect. And again if you come up with a third one let me know. Let’s jump to Sige.
+
+DRE: Sure! So let’s see, I guess we’ll start with beliefs. So two of Sige’s beliefs are kind of tied up in his family of origin [AUSTIN makes a mhm noise]. So his parents were, or at least his parents kind of helped build that boat that we talked about-
+
+[Simultaneously]
+
+AUSTIN: Right.
+
+JACK: Oh!
+
+DRE: -in the Quiet Year; the one that was like, that basically a bunch of rich folks melted down all their magic items to make this boat that was immune, or at least somewhat seaworthy on like the sea, like the fire seas around the island, [AUSTIN makes a mhm noise again] and that boat was eventually destroyed. And then Sige lost his parents in the fighting between the Pala-din and the forces of Samot. So two beliefs that are tied to that, the first one is that ‘the Pala-din were built to kill and in the end that’s all they’re good for so I’ll never trust one’ 
+
+[Someone does a little huffing laugh]
+
+AUSTIN [amused]: Good, yep, perfect.
+
+[quiet wheezy laughter in the background]
+
+DRE: And the second one is ‘this island ruins everything it touches, I must escape before it ruins me too.’, and that ties into his vice which is trying to rebuild the boat. Basically not to try and like make money off of it, just to sail across the sea and get off the island. [AUSTIN mhm] And the last one is ‘I will take any job or do any deed unless it harms a child’ 
+
+AUSTIN: Gotta have- gotta have principles right?
+
+DRE: Hey, man has to have a code
+
+AUSTIN: Gotta - gotta have a code 
+
+[DRE laughs]
+
+AUSTIN: There it is 
+DRE: Instincts; ‘strike first, strike hard’ pretty- pretty straight forward-
+
+AUSTIN: Yeah-
+
+DRE: -’Scrounge for extra loot while on the job’
+
+AUSTIN: That’s a pretty good one
+
+DRE:...and ‘never trust a person in power’ 
+
+AUSTIN [with finality]: Ok. ...Lets go to Castille.
+
+ALI: Hi! Hey!
+
+AUSTIN: Hey! Hi!
+
+ALI [laughing slightly]: So I’m still kind of lost on a bunch of these-
+
+AUSTIN [cheerful]: That’s ok! 
+
+ALI:- we can maybe talk about it…
+
+AUSTIN: We’ll work it out
+
+ALI: So I feel pretty good about my… instincts; my first is ‘guard those who have guarded you’
+
+AUSTIN: Ooo, that’s very specific, I-I appreciate that
+
+ALI: Yeah it was either going to be that or… ‘who have shown you kindness’, but I think I…
+
+AUSTIN: Yeah I like ‘guard those who have guarded you’ because it also speaks to like your function? 
+
+ALI: Right
+
+AUSTIN: Your function-mindedness. You know?
+
+ALI: Yeah [laughs]
+
+AUSTIN: As a- as a- as an automaton, you know?
+
+ALI: Right, exactly. My second one is ‘violence is only returned’... but I didn’t know if I- I wanted to broaden that a little bit ‘cause I wanted it to apply towards protecting other people? But I feel like that first- [AUSTIN mmm’s] -one does enough.
+
+AUSTIN: I… But that’s the thing though is that like-
+
+ALI: Right
+
+AUSTIN: - then you don’t believe violence is only returned
+
+ALI: Right… yeah
+
+AUSTIN: I mean you can, and that’s cool, but it means that you have to- that’s what you believe, right? Or that’s-
+
+ALI: Right
+
+AUSTIN: -that’s- that’s how you- you’ll live. Which is interesting, which means it’s good, but it means it’s like [ALI laughs] you need to be ready to- to do that. But I also like it cause it interacts nicely with Sige’s belief that the only purpose you have is to kill.
+
+ALI: Right [laughs]
+
+AUSTIN: And the fact that you don’t have to destroy as one of your functions, your functions are to guard, to discover and to acquire.
+
+ALI: Right, yeah
+
+AUSTIN: So like, that’s really interesting. So I- I kind of like ‘violence is only returned’
+
+ALI: Ok, I think I’m gonna keep that and then just be sort of careful about who… I attack-
+
+AUSTIN: Yeah
+
+ALI: -In that case, or like the way in which I do
+
+AUSTIN: Totally 
+
+ALI:... And then the third one was gonna be… ‘the mission is king’ [AUSTIN mhm’s] which is basically just- is sort of like ‘to acquire’ is kind of valued over ‘to guard’ 
+
+AUSTIN: Right, like at that point are you… so- so these are- are these instincts or beliefs? Cause two of them sound like beliefs to me.
+ALI: Oh, these were instincts 
+
+AUSTIN: Ok. The last one, the violence one, and the… this one sounds like beliefs to me. 
+
+ALI: Ok.
+
+AUSTIN: Because they’re really clearly like, about how you view the world and your place in it. Whereas instincts tend to be like… at the snap of a finger what do you do. So like ‘protect your friends’ [Austin snaps] totally, good.
+
+ALI: Ok
+
+AUSTIN: And never do violence would be totally fi- fit in there too… you know it’s almost kind of like on the line, but this one- of like ‘the mission is king’ to me feels like something that’s more considered, that Castille has like sat down and said [gravely] ‘well listen at the end of the day’ [Ali laughs] ‘I gotta get mine, like-
+
+ALI: Ok,
+
+AUSTIN [still gravely]: -at the end of the day, I don’t… I don’t care who I hurt, or-or I don’t care who gets hurt, necessarily, or I don’t care who gets left behind, the mission is king.
+
+ALI: Ok, alright yeah
+
+AUSTIN: If that’s the direction you want her to go, you know?
+
+ALI: Yeah, ok.
+
+AUSTIN: So, so yeah that’s- you can keep working on those but like try to have those finalised in your head in some way by the end of the session, that way you can-
+
+ALI: Ok!
+
+AUSTIN: -at least like- we can reward you for them
+
+ALI [laughing]: Right
+
+AUSTIN: ...Alright then let’s talk Aubrey
+
+SYLVIA: So… I have two beliefs that I’m pretty solid on and I have all my instincts [Austin mhm’s] good so… I guess I’ll start with beliefs
+
+AUSTIN: Yeah…
+SYLVIA: My first one is ‘never permanently harm someone’, that’s just an extension of the last game where-
+
+AUSTIN: Right, right, you used like, knockout gas but you didn’t use… you like-
+
+SYLVIA: Where like I tried to use like a coughing thing,
+
+AUSTIN: Right, Right
+
+SYLVIA: And that was the- the worst thing I did and I made sure to be like ‘no this has an antidote with it as well’ [Austin mhm’s] 
+
+AUSTIN: I don’t hate that, I think that that’s- I think that that’s like, I think it’s a little- it gives you a little bit of wiggle room but I think that there’s a version of it I like that’s still basically-
+
+SYLVIA: Yeah
+
+AUSTIN: -never permanently harm someone so for now let’s just go with that and if we want to- if we want to condense it later…
+
+SYLVIA [at the same time as Austin]: Yeah, it’s gonna be less- it’s gonna be more sleep gas and less choking stuff
+
+AUSTIN: Yeah
+
+SYLVIA: Totally, for sure. The other one I had was ‘knowledge should be used to help others/society’ [Austin mhm’s] which is the sort of like, what Aubrey thinks we’re doing is less about money and more about like-
+
+AUSTIN: Helping?
+
+SYLVIA: Helping?
+
+[Soft laughter]
+
+AUSTIN: Aww
+
+[DRE laughs in the background]
+
+JACK: Aww
+
+SYLVIA: Yeah…
+
+AUSTIN: Sweetheart
+
+ALI: That’s too bad
+
+AUSTIN: Yeah…
+
+SYLVIA: …Yeah she’s a little naive with that stuff 
+
+[More background affectionate laughter]
+
+SYLVIA: And then my last one, I’m not a hundred percent sure on but I was thinking of just, like, from heritage and background stuff is that she sort of believes that Emberburrow deserves to be a proper parish or a town, like it deserves to be recognised as more than just this- it deserves to be more than just the refugee camp that it is right now
+
+AUSTIN: Yeah, I actually think that that’s a- a perfectly solid belief, like that's a-
+
+SYLVIA: Ok
+
+AUSTIN: It’s actionable, it’s a clear thing about the world-
+
+SYLVIA: Yeah
+
+AUSTIN: It’s a think that you want to see change, like that’s a perfect straight up belief. That’s something you can take steps towards, and I can reward you-
+
+SYLVIA: Yeah
+
+AUSTIN: -Taking steps towards it, or I can give you challenges based around the fact that that’s a thing you want, but is also hard to have. Alright?
+
+SYLVIA: And then my instincts are, like I said earlier [grinning] ‘always know which Hitchcock is which’ 
+
+AUSTIN [louder, joking]: That’s not what you have written down here! What do you have written down here?
+
+SYLVIA [smiling]: I always wrote ‘always know which hitch is which’ 
+
+[Everyone laughs]
+
+AUSTIN: God damn it!
+
+JACK: How do you know that? Like…
+
+SYLVIA: I think she just like studied little things about them cause when she found out about it she started paying really close attention
+
+[Austin mhm’s]
+
+JACK: Right! 
+
+SYLVIA: So like she notices that like, one of them like… walks a slightly different way maybe, or has slightly different like just minor little tics [Austin mhm’s] and like almost indiscernible differences in the way they carry themselves or appearance maybe? Does that sound alright to you?
+
+JACK: Yeah, sound’s fine
+
+AUSTIN [slightly muffled]: Totally
+
+SYLVIA: Ok. My other instinct is ‘always collect samples of weird, strange, or magical things’ I wasn’t sure which descriptor to put best but I wanted something that tied into her vice
+
+AUSTIN: Yeah, yeah that makes sense
+
+SYLVIA: Yeah, and then the other instinct is ‘always know where the exits are’ 
+
+AUSTIN: Ok, that’s- that’s like- that’s one of those ones that could come into play in a- in a- that one can be tough because you just don’t, you don’t know where the exits are, but-
+
+SYLVIA: Yeah
+
+AUSTIN: But what I’ll say is that like, when you say that ‘no look on my sheet it says I always know where the exits are’ that’s the sort of thing where like I can give you a bonus die because of that- 
+
+SYLVIA: Ok!
+
+AUSTIN: When it’s like ‘I’m gonna find out where those are’ 
+
+SYLVIA: Yeah
+
+AUSTIN: But you know, that’s- that’s totally- that is a totally fine instinct.
+
+SYLVIA: Ok
+
+AUSTIN: Alright so that’s everybody so now it’s time to get entangled. [Reading] ‘After a payoff roll entanglement according to the level of your heat plus your wanted level’, so your heat is four which is not great, and it’s split into three things: level zero to three, level four and five, and then levels six plus, so I think I just roll 1d6? Who wants to- who wants to roll the 1d6?
+
+JACK: Who’s the luckiest?
+
+DRE: Guhhh
+
+[Ali laughing]
+
+SYLVIA: I’ll do it 
+
+AUSTIN: All right
+
+SYLVIA [deadpan]: I got a one. 
+
+AUSTIN [in his ‘my players just rolled bad’ voice]: Ok, that’s… maybe not the worst thing
+
+[Ali laughs]
+
+AUSTIN [reading]: [sighs] ‘One of your gang’s or other cohorts causes trouble due to their flaws. Lose face, forfeit rep equal to your tier plus one, make an example of one of the gang members or face reprisals from the wronged party. If you lack a gang or a cohort with a flaw there is no entanglement.’ You do have a cohort with a flaw! So what happened? How did Peg and Zaktrak get you in trouble by not- by refusing to hurt somebody?
+
+ALI: Oh boy
+
+AUSTIN [morbidly gleeful]: Any suggestions? What went wrong there? And to who? Let’s look at the crew sheet real quick… God there are some Factions on this sheet, [Ali laughs]  I don’t know if y’all have seen this but boy.
+
+AUSTIN: Alright so- so I think like a couple of days after the heist Zaktrak is still learning how to get to the dancing school from Emberburrow. He doesn’t like- he doesn’t like know the way to do it without being conspicuous yet, and he realises he’s being followed, he’s being followed by one of the Fontmen, who are the people who control knowledge and anything written in Marielda. He’s wearing like a- like a very utilitarian suit and a bowler cap, all white, kind of a thin material, kind of a pale blue shirt, and Zaktrak panics and runs into the alleyways and finds himself with the upper hand, but he can’t bring himself to even- to even knock out this Fontman and so he’s like ah I got away, it’s cool, it’s cool, but he didn’t get away and he ends up getting tailed back to the district where you are. Not exactly where you are, they don’t know exactly where you are, but the Fontmen are on the lookout for what they call a Kobold, because there was one reported as being a part of the heist. So they’re on your heels now if- if you don’t somehow right this. So either you lose face, because word gets out that you have somebody who you’re letting like lead back to your HQ, and either you- you have to [laughing] punish Zaktrak to not lose face, or you lose face because- because people think that like you're not keeping your- your cohort on a short leash, or you can be kind of like no 'fuck it let the Fontmen come' and if you do that then the Fontment are gonna go from a zero to a negative one with you [laughing]
+
+ALI: Mmm how much face do we have to lose at this point? 
+
+AUSTIN: So you would lose... what would your... you would- it would be bad [laughing]. Because you're- you're currently a tier one crew, and if you lost one rep- and you only have... wait cause you  gained rep from the last mission, right? you must have gained rep from the last mission. One second, let me- let me figure out how much that is, that should've been on that sheet? [reading] to gain rep, accomplish criminal scores, for each successful score your crew earns rep equal to the tier of the faction you preyed on.' The bigger the victim the more rep it's worth. Y’all aim pretty high so…[laughter] so uh, yeah I think you have like four rep, for or five depending on who you count as having stolen from there. I’m gonna say that you stole from the Bureau of Reconfiguration maybe?? 
+
+JACK: I mean that matches up with what our target was right? 
+
+AUSTIN: Yeah, Yeah
+
+JACK: Like if our target was the plates then…
+
+AUSTIN: Yeah, yeah, cause you didn’t really steal from Samothes 
+
+JACK: Mmm, no.
+
+ALI: Right
+
+AUSTIN: Because everything is Samothes’s in- in a sense, you know? So yeah, three- you get three- you’re at three rep. If you… if you let this go unpunished, if you let Zaktrak go unpunished, if you don’t do something to communicated to the other criminal organizations in this community that like, you’re willing to keep your people in check then you’ll lose two rep.
+
+ALI: [noise of disapproval]
+
+AUSTIN: And go down to one
+
+JACK: We could just let- we could just, you know, square off against the wind and let em come
+
+ALI: [exhaled laugh] 
+
+AUSTIN: Cause that always works well for you in the end
+
+SYLVIA: I’m ok with that
+
+AUSTIN: Alright!
+
+DRE: Yeah, I’m good with that
+
+SYLVIA: -Like- I’d be- ok [laughing]- Ali? 
+
+ALI: Are we good with that? [laughs] Are we? 
+
+JACK: Well do you wanna be the one to discipline Zaktrak? 
+
+AUSTIN (as Zaktrak): I just- I was so worried…
+
+ALI [laughing in the ‘oh no’ kind of way]: Discipline can mean a lot of things
+
+JACK (as Hitchcock): Zaktrak, Castille has something to say.
+
+[Everyone laughing]
+
+ALI: I don’t like- I don’t know- if one of you guys fucked up the was Zaktrak did, we’d have a conversation about it
+
+AUSTIN: Yeah but a conversation isn’t... this, isn’t- you know, you had a- trust me you- you had a conversation. Zaktrak knows he fucked up, like-
+
+ALI: Ok
+
+AUSTIN: -Do something or… you know what I mean, like, again the thing that-
+
+ALI: Right
+
+AUSTIN: -the reason you’d lose rep here is that word gets around that [Dre mhm’s] you aren’t running a tight crew. You’re like- ‘this is some ameture shit, and they didn’t even discipline the dude? Are you kidding me? [Ali laughs] No we can’t work with them we’ll get in- we’ll get caught up in that shit!’ Or- or whatever, let the Fontmen come! They were at zero before with you somehow, so… what,s a negative one?
+
+ALI: Ok, yeah
+SYLVIA: Yeah, that was kind of my whole thing was like they’re- it’s just negative one we have negative one with a bunch of people 
+
+JACK: Right
+
+[Dre laughs loudly in the background] 
+
+JACK: Yeah, you know…
+
+SYLVIA: Fuck it...
+
+DRE: Famous last words [laughing]
+
+AUSTIN: Hey, already lowered it
+
+JACK: The last time we ignored a clock we only got the Liberty and Discovery Automatic Corps, its ok
+
+AUSTIN [laughing]: Uh, alright, so speaking of liberty; downtime: [reading and still laughing] ‘when you’re at liberty between scores, and find some rest from the peril, you may pursue two downtime actions, you also recover all of your armour uses if you have armour. During downtime you may take additional actions by spending one coin or one rep for each additional action.’ So there are one, two, three, four, five, six, seven base actions? And if you have something that’s like not one of these we can just talk about it and figure it out. For any of the rolls you make here you’ll get a plus one dice if you are getting help from a friend or a contact. You can also increase the result level by spending money afterwards. So like, if you want- l’ll- I’ll go through the things and we can talk about that as- as it goes. 
+So one, you can indulge in your vices; vice is h-is how you recover stress, it's one of the only ways to recover stress, which again kind of acts like HP in this game. Uh… [reading] ‘when you indulge in your vice you visit a purveyor of your vice and roll dice equal to your lowest attribute. Clear stress equal to your highest die result, if you clear more stress than you had marked you have Overindulged, see below’ [laughing] Um, so be careful with that. 
+You could recover, which means you remove all level one harm, you may also begin to heal your level two and/or your level three harm if you have access to proper treatment. 
+You could begin a long term project or continue one, if you have the means. When I talked earlier about… trying to do something extra with the stuff that you stole: with the- the kind of like... plates, that would be a long term project. 
+You could acquire an asset, which is that you- you get the temporary use of an asset. You role the crew’s tier, which would be… in your case a 1d6, [reading] “the result indicates the quality of the of the asset: 1 to 3 poor, 4 to 5 standard, 6 fine, critical” which you can’t get, “exceptional” So that’s like- if you were like what we- what we really need for this next heist is ‘blank’. You could- or what we really need to just have on hand just in case is ‘blank’.
+You can train, in which you get to… I just remembered we got an update for this from John so I’m actually gonna read the updated version: [reading] ‘when you spend time in training mark 1 XP on the XP track for an attribute or your playbook advancement. If you have the appropriate crew training upgrade unlocked mark 1- mark an additional XP. I don't think you have any true craining... ugh, crew training [laughing] abilities unlocked so that doesn't come up... But it just like, hey, give me XP 
+You could gather info. Away from danger the action role requires the- indicates the quality so if you wanted to go gather information about something else in the city you could just make a Gather Information role for it. I think it's like safely like it's just not a risk at all, it's just a matter of 'yeah you're gonna get info... you're cool' 
+And you can reduce heat. You can just say how you reduce the heat and roll your crew's tier, and again based on how you roll you reduce that heat, reminder that you're up to four heat.
+...So who wants to do one of these things? You could also... start with Hitchcock only because I know at least one of these has to be- has to be a vice for you. Right?
+
+JACK: Ok, so I'm going to try and recover, because I'm hit- injured...
+
+AUSTIN: Oh you're also injured. Are you injured badly, I forget? 
+
+JACK: Yeah I have a minor injury and like... it's not great
+
+AUSTIN: Ok. So what's that look like? Tell me what recovering looks like for Hitchcock.
+
+JACK: So... I think what happens is that... Ethan Hitchcock is the one that's wounded right, cause he's the one that went after Thackeray in the train. [Austin mhm's] So he... he stumbles into the room and says to his brother, like [As Ethan] 'I'm... I'm just... I'm feeling just terrible... you'll take my class this afternoon, right? You'll- you'll [sucks in a breath] you'll sit in for me right? You'll- you'll take my class? I'll be fine, I'll be fine...' And then he just goes and lies down.
+
+AUSTIN: Wait which one is Ethan, is Ethan the dancer or...
+
+JACK: Ethan is the swordfighter [laughs slightly]
+
+AUSTIN: Ok so the dancer has to lead the sword fighting class.
+
+JACK: ...So I think that... on his way to bed he just sort of grabs bandages and... various ointments and things, from... the thing, and just sort of lies in bed and halfheartedly attempts to apply them or something
+
+AUSTIN: Reminder that like your- yeah your injuries were... bleeding! So that's good that you're bandaged up but there’s also just like 'outmaneuvered' which makes sense for why...
+
+JACK: Yeah, he's just- I think he's just- I think he's also just saying [As Hitchcock] 'bring me... whiskey, I'll feel so much better... I'll feel so much better...' and then just goes and lies down
+
+AUSTIN: Oh my god what a whiny baby boy
+
+JACK: And then like one of the dogs goes and sits next to him or something and... you know. So how do I roll for this? 
+
+AUSTIN: You just- no that's fine you recover, you're recovered... all level one-
+
+JACK: Oh, really?
+
+AUSTIN: Yeah, level one harm just recovers-
+
+JACK: Just goes?
+
+AUSTIN: -when you use recovery 
+
+JACK: ...Nice. So, Meanwhile! [Austin mhm's] Edmund Hitchcock goes upstairs, and I wanna indulge in a vice. 
+
+AUSTIN: What are your- what's his vice again?
+
+JACK: What I've got written down is 'gambling' question mark? But I like the idea they're just sort of like... I think it's probably a hangover from their time in the military [Austin mhm's] of just this sort of like... enforced competitiveness?
+
+AUSTIN: Sure. 
+
+JACK: Just striving for competitiveness or whatever, so I think he goes upstairs and promptly opens a betting pool on the dueling pupils... and just starts going around betting on which pupils are gonna win fights and whatever, and all the pupils are like 'man, captain hitchcock's being weird today'
+
+[Ali laughs]
+
+AUSTIN: Does he- so is it just among- it doesn't like- he doesn't like let people in from the outside to watch duels or anything...
+
+JACK: I don't think so but I definitely think that probably opening a betting pool among your students is not great...
+
+AUSTIN: It's not great, it's not great. So that you do roll, you roll- I think there's just a button for it, I think there is just a Vice button.
+
+JACK: Oh, really?
+
+AUSTIN: Yeah.
+
+JACK: I see it! 'Indulge in Vice'.
+
+AUSTIN: Indulge in Vice. 
+
+JACK: Oh god so I just press this button? 
+
+AUSTIN [jokingly menacing]: That's all! Jack just press the button, it'll be fine...
+
+JACK: Ok... yeah. I want a high number here. 
+
+AUSTIN: But not- yeah you want a high number, you don't want a...
+
+DRE: Not too high...
+
+JACK [confused]: Nothing is happening? Nothing happened!
+
+AUSTIN: Nothing happened?
+
+JACK: Nah, I'll press it again
+
+AUSTIN: No, nothing?
+
+JACK: Nope, nothing [laughter]
+
+SYLVIA: I think it- is it because it's your lowest stat and you have zero in insight?
+
+AUSTIN [disappointed] : It is that, that is why
+
+JACK: Oh wait so can I just... what?
+
+AUSTIN: I think you have to- I think you have to... hmm [Jack laughs]
+
+DRE: You roll 2d6 and... take the lowest
+
+SYLVIA: It doesn't say...
+
+[Laughing]
+
+AUSTIN: I- he might have to do that, or take a stress to get- to get the skill
+
+[Everyone laughs]
+
+SYLVIA: Jesus!
+
+AUSTIN: I- I need to look this up! I have to look this up, we have to know!
+
+SYLVIA: I'm... not seeing anything about it
+
+AUSTIN: It has to be that! Right? 
+
+SYLVIA: I'm not seeing anything about if you don't have any stats in anything here... but...
+
+AUSTIN: Yeah...
+
+ALI: [jokingly] Should we call John? 
+
+JACK: [imitating what Austin would say] John, one of our players has done something real stupid.
+
+[laughter]
+
+AUSTIN: This is... hey John, hey John... Mr. Harper... Blades in the Dark... Blades in the Dark...
+
+JACK: Look, I dinged it and now I can't feel good.
+
+AUSTIN: ... What if I... [laughing] what if I... 
+
+[Everyone laughs]
+
+AUSTIN: [in a small, squeaky voice] Attribute, question mark? Check the old... here we go. Here's the old Google, the old Google community. Google+ is where all the indie rpgs go. That is actually true.
+
+JACK: It's just a subforum of GMs going 'ugh, my players, ugh...'
+
+AUSTIN: It's... it's a lot of that, it’s a lot of that! Here we go! [reading] "What happens if you have a 0 attribute but have to indulge in your vice?"
+
+JACK: Ah, this is gonna be bad.
+
+AUSTIN: [reading] "Can you not make the roll? Do you have to take a trauma damage? Or do you say you indulged in your vice but were unable to recover any stress?" [reading the answer] "When you have to roll, and you have 0 dice, you roll 2d and take the lowest." There you go.
+
+JACK: Okay, so I just roll 2d6 and take the lowest one.
+
+AUSTIN: Yeah, yeah.
+
+JACK: Okay! I lose... two stress!
+
+AUSTIN: [laughing] You lose two stress, bringing you down to six.
+
+[Ali laughs]
+
+JACK: It's fine!
+
+AUSTIN: It's fine! It's fine.
+
+SYLVIA: It's something. 
+
+JACK: Aw man... so... aw god, yep, that's a bad situation
+
+AUSTIN: Yep, it's not a good one.
+
+JACK: So Edmund's gonna come downstairs and Ethan's gonna go ‘Ah, how did it go?’
+
+AUSTIN: Yeah
+
+JACK (as Edmund): [dejectedly] One of them died. 
+
+[Everyone laughs]
+
+AUSTIN: Ah, that happens.
+
+JACK: Ok! So I have... oh my god I'm gonna get trauma.
+
+AUSTIN: Yeah, you're up there buddy. You could always crit and that could heal you also.
+
+JACK: I have six out of nine stress...
+
+AUSTIN: Yeah, but if you crit you lose one, so just roll a lot.
+
+ALI: You'll just take it easy this time, it's fine [starts laughing]
+
+AUSTIN: Yeah, just take it easy baby..
+
+ALI: It's fine...
+
+SYLVIA: Six out of nine huh.
+
+AUSTIN: Oh my fucking-- nice.
+
+SYLVIA: Yeah.
+
+[laughter]
+
+ALI: Also I think that it's Frank who's hanging out with Ethan.
+
+AUSTIN: Okay. Not Beans?
+
+ALI: [laughing] Not Beans!
+
+[DRE laughs]
+
+JACK: Beans is not into it.
+
+ALI: I think Frank likes Ethan more.
+
+JACK: Aw...
+
+AUSTIN: Does Beans like Edmund more?
+
+ALI: [laughing] Maybe, we'll see.
+
+SYLVIA: Aw, that'd be really good!
+
+[Everyone laughs]
+
+AUSTIN: That's how Aubrey knows!
+
+SYLVIA: Yeah!
+
+[More laughing]
+
+AUSTIN: Alright.
+
+SYLVIA: It's one of the ways.
+
+AUSTIN: It's one of the-- yeah, yeah, yeah, it's one... that's actually even better, it's like if Aubrey 
+doesn't have a single solution for this, it's just like she knows seven different ways and she can count at least on one of those ways being active at any point, you know?
+
+SYLVIA: [overlapping with Austin] Yeah.
+
+AUSTIN: Alright, speaking of Aubrey, what are you doing with your downtime? 
+
+SYLVIA: Well first I am gonna indulge in my vice, cause I also have six out of nine right now. 
+
+AUSTIN: That's bad.
+
+SYLVIA: And I think what that looks like is her... I think we established that the reason we have a 
+one, like a positive one with Blacksand Alchemical is because Aubrey is friendly with them.
+
+AUSTIN: [overlapping with Sylvia] Yeah. 
+
+SYLVIA: Cause her vice is Weird I was thinking maybe she goes up and just sort of like, pokes around and sees what everybody's doing there and making and sometimes is like ‘no no no if you do this it'll explode more’.
+
+AUSTIN: Right. She's literally going to... someone else's fucking workplace and telling them how to do their jobs better.
+
+SYLVIA: I was thinking she goes to where they train other alchemists and tries to-- and pretends she's a student but is actually like ‘no, actually, if you... do this, this'll happen’.
+
+AUSTIN: [overlapping with Sylvia] Oh, okay. Good. Perfect, good. Gimme, gimme a roll.
+
+SYLVIA: Okay, yeah, it did work!
+
+AUSTIN: It totally worked! So you got down to three!
+SYLVIA: So I lost... three. Okay, that works.
+
+AUSTIN: So what's the next thing you want to do?
+
+SYLVIA: I wanna start a long term project.
+
+AUSTIN: Ooo, okay. What one?
+
+SYLVIA: I just need to...
+
+AUSTIN: So I'll-- to explain what a long term project is, it's a thing that like, Aubrey's gonna work 
+on over the next... number of missions, basically. [Reading] "Some projects 
+will take a long time. A basic long term project like tinkering up a new feature for a device is eight segments. Truly long term projects, like creating a new designer drug, can be two, three, or even four clocks representing all of the phases of development, testing, and final completion. Add or subtract clocks depending on the details of the situation and the complexity of the project. A long term project is a good catch all for dealing with any unusual player goal, including things that circumvent or change the elements of the mechanics or the setting. For example by default in the game, trauma is permanent, but maybe a player wants to work on a project where they can create a device to draw traumatic spirit energies into the ghost field" [laughing] you know, that's how you deal with trauma! 
+
+[everyone laughs]
+
+AUSTIN: [reading] "thus reducing a character's trauma, and unleashing a storm of enraged ghosts in the area. It would be a long and dangerous process to set up everything needed to begin, and work on, a project like this, but almost anything can be attempted as long as the group is interested, and it seems feasible to everyone" I like this game so much, I like so much that this is just also a place where we can be like, this is the tone and speed of our game, because that ghost project that this book suggests could take six eight segment clocks, or it could take two four segment clocks, depending on what type of game you want to run. And that's one of the things I love about this game, is that the clock system is really flexible and it can really reflect like, how high adventure versus how gritty you want your game to be. So, what do you want to do?
+
+SYLVIA: So, it's gonna be an alchemy project, and she's trying to develop-- I don't know if we're gonna stick with this name, but in the playbook it's called Fireoil.
+
+AUSTIN: Okay
+
+SYLVIA: Which is basically described as [reading] "A glowing red fluid which erupts in white hot flame on contact with the air" and... actually there's-- if you want to the go to the alchemy page there's like, questions you're supposed to ask.
+
+AUSTIN: Alright. So. [reading] "what effect does the alchemical produce, and by what delivery 
+method?"
+
+SYLVIA: So, I'm thinking it sort of works like thermite would, almost.
+AUSTIN: Oh, Okay! So this is about like, getting into places, this isn't like...
+
+SYLVIA: Exactly! This isn't like-- this burns through things. It's like a vial that you pour on something and it starts burning through like, steel essentially.
+
+AUSTIN: [overlapping with Sylvia] Gotcha. Mhm. How long does it last? 
+
+SYLVIA: I think it burns very quickly, it lasts for like, less than a minute almost, I'd say.
+
+AUSTIN: But it is a fire? It's just like a super hot fire?
+
+SYLVIA: It is just like an intensely white hot fire.
+
+AUSTIN: What is the delivery method, how are you delivering it?
+
+SYLVIA: So... it sort of takes a minute, and when it comes in contact with the air it'll combust. So she keeps in a corked, a very tightly corked vial.
+
+AUSTIN: Okay.
+
+SYLVIA: And then you pour it out and then...
+
+AUSTIN: So you pour it, you don't... I guess you could throw it and it could break theoretically but that would be...
+
+SYLVIA: [overlapping with Austin] Yeah, also that, yeah.
+
+AUSTIN: Okay, so you ask, what do you ask me?
+
+SYLVIA: [overlapping with Austin] Ideally you pour it onto something. In a worse situation, you throw it.
+
+AUSTIN: You ask me "how is it potentially harmful to consume or dangerous to handle" 
+
+SYLVIA: Yeah, and does it require any rare materials?
+
+AUSTIN: No, actually, because you live in a city with fire water everywhere. That's a good base, what you do is you're gonna take that and then add certain chemicals to it that let it sit in glass, and then that give it like and enraged response to oxygen, basically. It is potentially harmful because if that glass breaks... [ Austin laughs]
+
+SYLVIA: It's friggin' fire.
+
+AUSTIN: It's fire on you instantly. So yeah, that's not good.
+
+SYLVIA: How long does it take to create a dose?
+
+AUSTIN: For the sake of, again, the way our tone works, what I'm gonna say is that if you complete a four clock thing you can just have it, you can just have a dose with you for each mission basically. So it's a long term project to develop this but then you'll just have it. And then I ask "what are rare, strange, or adverse aspects of the formula that kept it in obscurity and out of common usage?" 
+
+SYLVIA: Well I mean I think the most obvious reason that it stayed out of common usage is it's incredibly dangerous to distill this properly.
+
+AUSTIN: Right.
+
+SYLVIA: If something goes wrong in the process people get hurt. 
+
+AUSTIN: Sure.
+
+SYLVIA: Just in development of it, it's like... when Aubrey's developing this she like goes off, like I think she tries to go off-site to make this in case something goes wrong.
+
+AUSTIN: Totally. Alright, I've added-- what was it called, Fire Oil, is that what you called it?
+
+SYLVIA: Fire Oil is just the name in the thing. 
+
+AUSTIN: I've added it to your clocks page! You see that? It's neat! [smiling] There's a clocks page. I'm happy about it. 
+
+[Laughter]
+
+AUSTIN: [smiling] Because of course I am. Are you doing this at HQ, where are you doing this?
+
+SYLVIA: I think she's doing-- I like the idea that she has her own like, home lab thing that she’s doing it at.
+
+AUSTIN: Okay.
+
+SYLVIA: And specifically in this case, if that's okay, because she doesn't want an accident to happen. Unless you want an accident, like you want the possibility. Do you want that possibility?
+
+AUSTIN: Yeah, of course I want that possibility!
+
+SYLVIA: Okay, so she's doing it, she's got a lab at the base then...
+
+AUSTIN: Yeah, I also just think it's like, who let her have a lab at her base, at her home? Do you know what like-- the nice thing about your base is that its hidden and you're allowed to have that stuff there because-- or not allowed to, you're able to have it there because it's off the grid, you know?
+
+SYLVIA: [overlapping with Austin] Yeah, totally, that makes sense. 
+
+AUSTIN: Are you getting help from anybody? 
+
+SYLVIA: No, I don't think so.
+
+AUSTIN: Okay, so you got a four, which mean you increase it by three, I'm pretty sure. 
+
+SYLVIA: Okay.
+
+AUSTIN: Let's see... long term projects... [reading] "roll a trait and mark one segment on the project clock per level, 1-3 is one, 4-5 is two" So mark two on that clock.
+
+SYLVIA: Okay.
+
+AUSTIN: So one more good roll and you have this. Are you sure you don't want to spend any money?
+
+SYLVIA: Yeah, you know what, I will, I'll spend one coin to do this.
+
+AUSTIN: What's that like look like for the people in the Crew HQ. Also we need a better name than Crew HQ, start coming up with like, a good name for where The Six hangs out. 
+
+SYLVIA: Oh man.
+
+AUSTIN: But yeah, so what's that look like, as everybody else is just hanging out at base.
+
+SYLVIA: So I always liked the idea of Aubrey's stuff being off in one corner like somewhere.
+
+AUSTIN: Totally.
+
+SYLVIA: But in like the main room, so everybody's like, everybody might be hanging out or talking-- I see like Sige and one of the Hitchcocks or Castille talking, and then all of a sudden there's just like this loud hissing noise and then a small explosion. Just like,
+
+SYLVIA (as Aubrey) That was supposed to happen! [laughter] That means it's working! 
+
+SYLVIA: And then she's just got soot all over her and she's like,
+
+SYLVIA (as Aubrey): I just need to tweak it a little more though... 
+
+SYLVIA: And so she has to go out and buy some more supplies so she can tweak it a little more...
+
+AUSTIN: [smiling] Good.
+
+SYLVIA:... is what she's spending the coin on.
+
+AUSTIN: So that lets you roll one more time. And you're still not, you're still not asking for help 
+from anybody?
+
+SYLVIA: I'm trying to think of who could help with alchemy stuff...
+
+AUSTIN: Who's you're-- who are your contacts?
+
+SYLVIA: My friends and stuff?
+
+AUSTIN: Gentle Johnny could help, right?
+
+SYLVIA: Gentle Johnny could help me get stuff for it actually, yeah.
+
+AUSTIN: Or Zaktrak could help! 
+
+SYLVIA: Okay, yeah!
+
+AUSTIN: You have a cohort, that's why you have a cohort.
+
+SYLVIA: Yeah, actually yeah, and they're both-- Zaktrak and Peg both know tinkering stuff...
+
+AUSTIN: [overlapping with Sylvia] They know tinkering, that's what they do, yeah totally.
+
+SYLVIA: Yeah, and since Cobbins sort of inherently are good at alchemy...
+
+AUSTIN: They're not--
+
+SYLVIA: Well not inherently but culturally
+
+AUSTIN: Yes, important distinction, yeah.
+
+SYLVIA: They learn it when they're young.
+
+AUSTIN: Yeah, so take...
+
+SYLVIA: Is that add a die?
+
+AUSTIN: Yeah, add a die... Oh, a six! Look at that!
+
+JACK: Wow!
+
+AUSTIN: Alright so that gives you three more successes, which gives you enough to have this, 
+look at that!
+
+SYLVIA: Okay.
+
+AUSTIN: So yeah just add it to your list of possible things you could bring out. Alright, who wants to go next, Sige or Castille? 
+
+DRE: I can go.
+
+AUSTIN: Alright.
+
+DRE: I first want to start a long term project.
+
+AUSTIN: Okay.
+
+DRE: I want to try and figure out what more information I can get from the stone tablets we got, specifically I think Sige wants to figure out what sort of navigational stuff can come from these for his...
+
+AUSTIN: Huh!
+
+DRE: His eventual voyage across the seas.
+
+AUSTIN: Okay, that's interesting…
+
+DRE: 'Cause one of these was-- I mean the train was going toward-- it seemed like, at least, that one of the trains was going towards the volcano...
+
+AUSTIN: Absolutely was.
+
+DRE: Which is off the island, right?
+
+AUSTIN: Yep, totally
+
+DRE: So, yeah...
+
+AUSTIN: Alright, so that sounds like a... probably a study? What's this look like, what's the actual research he's doing look like?
+
+DRE: Oh man...
+
+AUSTIN: It's either-- here's what I'll say, I think it's either study or survey.
+
+DRE: Yeah, I mean I've got nothing in either one so...
+
+AUSTIN: [laughing] Oh, okay, that's good. Long term projects!
+
+DRE: [laughing] Yeah, and I think this is definitely going to be like Sige can't do this himself so 
+he has to go talk to someone and be like ‘Hey... can you look at this for me?’
+
+AUSTIN: Who is it that he's going to?
+
+DRE: ...I do, I have my friend Lilith, and I marked her story as being like, kind of like a con artist who sells fake magical items.
+
+AUSTIN: Totally.
+
+DRE: But maybe part of her thing is that in order to-- she knows what's fake and what's not...
+
+AUSTIN: I just think that that's the sort of person who would know how to look at-- who could look at this and help you decipher it, because she would have study, probably [laughing].
+
+DRE: [laughing] Yeah!
+AUSTIN:So yeah, I'd say roll 1d6. Where do you meet her?
+
+DRE: Mm, that's a good question, let me pull up the map.
+
+AUSTIN: I think she probably works in-- I kind of like that works in Orchid Parish. Like, selling 
+fake elven goods to the fuckin' up and coming gentrifiers of Orchid Parish, who like want to seem hip.
+
+[Dre laughs]
+
+DRE: Yeah, maybe we just-- the Net and Basket is like the tavern there, right?
+
+AUSTIN: It's like more of a cafe these days than a tavern, like they'll sell you liquor but only if it's in a coffee drink.
+
+DRE: [laughing] Gotcha! Cause I was thinking maybe she has a tent set up by there to talk to dudes when they come out...
+
+AUSTIN: Yeah, totally.
+
+DRE: Overindulged...
+
+AUSTIN: I think she probably has to do the thing of like, she sets up a table but then whenever the Pala-din come, arrive-- come around, she has to close up shop and bounce. She's hustlin'.
+
+DRE: You just gave me a very-- a very vivid memory of my head when I visited Rome when I was in like highschool, and there were all these people who had set up kind of like impromptu tents and tables and stuff like that, and one of them said like ‘oh the cops are coming’ and there was this wave of like twenty people rushing across this bridge with fold-up tables and backpacks full of stuff.
+
+AUSTIN: [laughing] That's so good!
+
+DRE: It was-- it was something. But yeah, that's totally what she does!
+
+AUSTIN: Alright, cool. Alright, so give me 1d6, okay that's a four! We should have said ahead of time how long this was going to take, I'd say to get-- again I'm just gonna say it's a four to get more information that you can, that you can do something with. So, so with a four roll that is a... plus two... yep! So advance that clock to two. I'm gonna add it to your playbook. Was that one, was that the first thing you did?
+
+DRE: Yeah, and I'm gonna indulge my vice 'cause I'm at five stress.
+
+AUSTIN: Ah, yeah, okay go for it. So 1d6 to recover stress.
+
+DRE: Oh good! 
+
+AUSTIN: Oof, look at that six! 
+
+JACK: Nice!
+
+DRE: Got a six! The one time that I don't need that...
+
+AUSTIN: Oh, my poor friend, no, no no no, oh my friend, my friend Sige.
+
+[Jack laughing in the background]
+
+DRE: If only I hadn't critted that one roll.
+
+AUSTIN: If only, if only you hadn't gotten a six here! Here's the thing with vice, [deep in breath] if you clear more stress than you have you overindulge. [Reading] "Overindulge" Sige had five and he rolled a six.
+
+DRE: Yep!
+
+AUSTIN: "You make a bad call because of your vice, in acquiring it or while under the influence. What did you do? Did you attract trouble? In which case you get to select or roll an additional entanglement" Let's roll it if you do that, "Big talk: you brag about your exploits while indulging in your vice, and you gain three heat for the crew. [with emphasis] Lost: you play a different character until this one returns from their overindulgence; or tapped: your current purveyor cuts you off, you have to find a new source for your vice" Which is interesting given what your vice is. So which of those four happens?
+
+DRE: Ugh...
+
+AUSTIN: [laughing] You tell me.
+
+DRE: So here's, here's the thing, I totally cursed myself to this earlier, because earlier when I 
+was sick of studying for this test I was like ‘oh, I know I'm gonna roll vice, what if I roll a six? Maybe I'll roll a second character to distract myself from doing this test studying’ So [laughing] I totally have a second character pulled up!
+
+AUSTIN: [laughing, incredulous] What!? How do you have a second character ready?!
+
+DRE:...'Cause I was sick of studying, Austin
+
+AUSTIN: Oh my god, I've been-- ok listen, I've been there. I made characters for game I wasn't even playing before, so...
+
+DRE: But yeah, I don't think I'm ready to toss Sige aside on our second heist.
+
+AUSTIN: [Overlapping with Dre] We just met Sige!
+
+DRE: Yeah...
+
+AUSTIN: [you can hear his evil GM grin] But you know, if he dies down the road it's good to know, it's good to know you have a backup.
+
+DRE: Yeah yeah yeah.
+
+AUSTIN: What if he overindulges again somehow.
+
+DRE: Let's, let's do another entanglement.
+
+AUSTIN: Okay. You want to roll for it? You get to roll this time.
+
+DRE: Okay.
+
+AUSTIN: So... go ahead and roll 1d6.
+
+DRE: First I'm just gonna mark this stress all the way down.
+
+AUSTIN: Oh yeah, you got no stress at all!
+
+[Laughter]
+
+ALI: Feelin' good!
+
+DRE: I'm just over there, working on the boat, feeling good.
+
+AUSTIN: Did you-- did you just roll again? Did you just roll another six?
+
+DRE: I did roll another six, yeah.
+
+[Laughter]
+
+ALI: [whispering] Jesus fucking christ.
+
+SYLVIA: Really living up to the name of the crew.
+
+DRE: Yeah, it's great.
+
+[Everyone laughs]
+
+AUSTIN: [laughing] Oh that's, okay, yeah,good! Uh huh.
+
+JACK: I'll take one of those sixes!
+
+AUSTIN: [emphatically] Fuck. Y'all done goofed. [Reading] "Show of force,"
+
+JACK: Oh no...
+
+AUSTIN: "A faction with whom you have a negative status makes a play against your holdings. Give them one claim or go to war, drop to negative three status" Let's go over your-- let's go over your factions here one more time. Ah, this is fun, this is good. Alright you have negatives with: the Fontmen, thanks Zaktrak; the Golden Lance; The Bureau of Reconfiguration; the Office of Lost Materials; Marielda Obsidian and Ore; and The Yellow House. 
+
+JACK: Part of me, kind of narratively, likes the idea of it being the Fontmen
+
+AUSTIN: Uh huh
+
+JACK: In that we've just been like ‘Let the Fontmen come!’ And then they come.
+
+AUSTIN: [laughing] And then they do! And then they show up!
+
+DRE: Yep, yeah, okay.
+
+JACK: And we're all just like ‘Ah, okay, um, right.’
+
+ALI: Now we know to punish people, is what we know. What have we learned?
+
+AUSTIN: [laughing] What have we learned?
+
+DRE: Nothing
+JACK: [overlapping with Dre, laughing] To punish people?
+
+SYLVIA (as Aubrey): You're such a cop Castille, jesus.
+
+JACK (as Hitchcock): [jokingly] Yeah Castille!
+
+JACK: It's gotta be the Fontmen, right? 
+
+AUSTIN: So you're going to war?
+
+JACK: No... I think that's a bit much 
+
+AUSTIN: Well pick your decision, either you go to war or you lose part of your territory. 
+
+DRE: Oof
+
+AUSTIN: Which means you would literally lose either...
+
+JACK: Aw christ.
+
+AUSTIN: You'd either lose your vice dens... oh! You should do that first, you should-- let's do that first. [laughing] Someone roll 1d6.
+
+JACK: I'll do it.
+
+ALI: Austin wants to give us money for our vice dens before we lose them.
+
+AUSTIN: [overlapping with Ali] I'm trying to help, that's all...
+
+JACK: I rolled a six!
+AUSTIN: Aw you rolled really well too! So take another-- take two coin, I'm gonna give it to the crew. The crew has two extra coin now.
+
+JACK: Is this us just immediately sending a messenger to the vice dens going ‘Quick, quick!!’
+
+[everyone laughs]
+
+AUSTIN: Remember the vice dens are like secret libraries, so it's just like ‘Quick, get in touch with everybody who has overdue books! Charge them the fee!’
+
+[Ali laughs]
+
+JACK: Just like yeah, just what if a gang clatters into a quiet reading room and goes ‘No! Quick!’ 
+
+AUSTIN: [laughing] What if it's, it's actually like ‘We regret to inform you that we've had to close down the nearby branch’ and that means you owe us money for those books now 'cause you can't return them.
+
+[Dre laughs]
+
+JACK: The good news is you own them...
+
+AUSTIN: Yes, you got a deal! Or you could go to war. 
+
+DRE: What does it-- what does it mean when we go to war? 
+
+ALI: Yeah, let's explore that one
+
+AUSTIN: [overlapping with Ali] Fuckin'-- we've been asking that question for decades. Centuries
+
+[everyone laughs]
+
+DRE: Hashtag deepthoughts here.
+
+ALI: You know--
+
+AUSTIN: I'll read about war, let's read about war, let's read about war.
+
+ALI: If we're gonna go to war with anyone...
+
+AUSTIN: Yeah! 
+
+JACK: These... are you saying you do want to go to war with these fucking guys?
+
+ALI: Yeah...
+
+JACK: [jokingly disdainful] These guys...
+
+ALI: The vice dens were given to us from Austin as a favour!
+
+DRE: As a gift!
+
+ALI: We're not gonna give them back, and I want them!
+
+JACK: They made us shout at a library!
+
+[Laughter]
+
+AUSTIN: All right, they get a three [reading] "War: this--" so to remind you, the way the faction relationship system works, "the more extreme it is the more willing someone is to affect you, either positively or negatively, regardless of what it costs them" so plus three is like oh man they love you, and they'll give you gifts and like help you out, even if it-- even if it hurts them. If you're at a negative three "this faction will go out of its way to hurt you, even if it's not in their best interest to do so. They expect you to do the same and take precautions against you. When you're at war with any number of faction your crew suffers a plus one heat from scores, temporarily loses one hold, and PCs get only one downtime action, instead of two. You can end a war by eliminating your enemy, or by negotiating a mutual agreement to establish a new status rating" 
+
+JACK: [softly] Oh my god... That's brutal.
+
+AUSTIN: Yeah! I mean maybe Castille could win the war on her terms.
+
+[Ali laughs]
+
+AUSTIN: Totally, right?
+
+ALI: Yeah, that's all I gotta do.
+
+JACK: What was your-- what was your belief about no attacking unless it’s like [dissolves into laughter] reciprocated?
+
+[everyone laughs]
+
+ALI: Nothing is set in stone. And... those aren't on my character sheet.
+
+AUSTIN: Ah... I thought that was one of your beliefs which was like really clever cause you are made of stone, nothing is set in stone.
+
+JACK: [overlapping with Austin] That's a good belief, yes, yeah, I get that joke.
+
+[laughter]
+
+DRE: How do you eliminate an enemy?
+
+JACK: Or come to a mutual agreement!
+
+AUSTIN: Or yeah-- or come to a mutual agreement. So if you hurt somebody you reduce their rep, and if you reduce their rep enough they go down from the tier that they're at to a lower tier if their hold is weak.
+
+ALI: What tier are they...?
+
+AUSTIN: I should actually check to see if your-- so if you go to war your hold will... go from...
+
+ALI: [very quietly] Jesus christ.
+
+AUSTIN: Oh boy, your hold would go from weak-- so you would go from a tier one crew that's weak to a tier zero crew that's strong. Which is bad. Which would mean that like, outside of your cohorts anybody else that hangs out with you would bounce, until you increase your rep again, basically.
+
+[everyone makes frustrated, worried noises]
+
+AUSTIN: [in a singsong tone] They are tier three!
+
+JACK: We might have to give up a library... is what I'm thinking
+
+SYLVIA: [sadly] Yeah...
+
+JACK: Like those libraries are so good.
+
+AUSTIN: I could spin this, if you give me war-- if you let me have this war, I could spin this. I could give you-- this is my devil's bargain with you.
+
+ALI: Okay. 
+
+AUSTIN: [in his evil GM voice]This is-- I'm holding your hands. If you trust me here.
+
+[laughter]
+
+JACK: [through scared laughter] This has never, literally never been in our best interest. We've done this for three years!
+
+AUSTIN: Two more hands sprout from my torso so I can hold all of your hands at once.
+[horrified laughter]
+
+ALI: I don't want to hold the new ones.
+
+AUSTIN: If you trust me... I can spin this into something interesting.
+
+JACK: Malcolm fucking Tucker over here trade in
+
+[laughter]
+
+ALI: I am willing to go to war...
+
+SYLVIA: I'm down!
+
+JACK: I-- I am prepared to go for Austin's terrifying war.
+
+AUSTIN: Alright. Good. Let me reduce the old...
+
+ALI: How do we win a war, wait.
+
+AUSTIN: You have to-- you just have to negotiate, we'll come to that talk in a second. Castille what are you doing? With your downtime?
+
+ALI: Do I only get one move now because we're at war?
+
+JACK: Oh stop-- okay.
+
+AUSTIN: [overlapping with Jack] I'll let you have the two here 'cause I'm gonna say it's happening instantaneously.
+
+ALI: Okay. Thank you for that. 
+
+AUSTIN: But I will say that whatever your second one is ends with 'oh we're at war'.
+[everyone laughs]
+
+ALI: God... I was gonna do vice and a long term project? 
+
+AUSTIN: Uh huh?
+
+ALI:But if I have to be working towards this war I would rather do that.
+
+AUSTIN: I see what you're saying. But you don't-- you're not at war yet. At the time that you're doing this you're not at war. Do you see what I mean?
+
+ALI: Austin.
+
+AUSTIN: I'm just saying, you're not there yet.
+
+ALI: Unless a war is happening and I only get one action?
+
+AUSTIN: Yeah, totally! 
+
+ALI: [softly] Okay. Right, but what actions are we able to take against a... you know what I mean?
+
+AUSTIN: That sounds like a long term project to me. But it's also just a thing we can address narratively through the course of play.
+
+ALI: Okay.
+
+AUSTIN: But if you started the long term project-- if you started a long term project about this war then it would be... a thing you could work towards even when not rolling during a long term project, do you know what I mean? Like you might do something through play naturally where I'd be like 'take another advancement towards'-- I'm gonna tick this box towards winning this war, because you did x, y, and z.
+
+ALI: Okay, right...
+
+AUSTIN: But I do kind of like the notion of Castille being like 'you know what? Fuck it, don't come for my people'...
+
+[Ali laughs]
+
+AUSTIN: And that being your entire downtime. 
+
+ALI: Ugh, but no I'll take my turn to like... figure out this...
+
+AUSTIN: Alright. What are you doing? What is the-- what is the thing that you want to do? [quietly] As I open your clocks page. 
+
+ALI: Right, man I don't know... what's their deal?
+
+AUSTIN: I mean so they're basically... again, they're all like-- they're all suits and daggers... maybe... no I don't think it's daggers at all, I think it's probably something heavy. I think it's like canes. They're suits and canes and knocking on the door softly and then kicking it in. They're like the FBI, right? Sorry, they're not, they're like-- they're like the IRS, or they're like-- they're a little bit more traditionally governmental in nature, except that they also have the licence to like go kick down your door and burn your books. 
+
+ALI: Okay.
+
+AUSTIN: I think probably that's what they do. I think-- you know what they have is their canes are like... super short range versions of the guns.
+
+DRE: Ugh
+
+AUSTIN: Which is like they can twist the top-- they can twist a ball on the top of their cane to ignite the lower third, which can set-- which they literally do use to burn books and paper that is-- that they find heretical. Or to burn down your door... 
+
+ALI: Right.
+
+AUSTIN: Again, this can be as zoomed in as 'they come for you and you beat them up' or as zoomed out as 'I conduct an operation... that hurts them in some way'.
+
+ALI: Okay, right.
+
+AUSTIN: Just tell me what you think is neat for Castille to do. 
+
+ALI: I guess she keeps them from coming into one of the libraries. By like...
+
+AUSTIN: Okay, that... sounds like Skirmish to me.
+
+ALI: ...Beating them up... yeah, okay.
+
+AUSTIN: And I also need to figure out how this plays into... we actually should rewind for just a second, just again to kind of paint the picture, which is like... this happened because Sige overindulged. So what did you do Sige to get them-- to get noticed?
+
+DRE: Uhm...
+
+AUSTIN: And your indulgence, by the way, was like-- is like you're building that boat, forever. You're constantly building that boat.
+
+DRE: Yeah.
+
+AUSTIN: Rebuilding it, getting it ready theoretically leave, hypothetically, one day. 
+
+DRE: [laughing] It never will. One of two ideas: so I think it's either-- kind of our obvious one is that I need... I need magical items to melt down to put into this boat, and so I get too aggressive and steal from some place I shouldn't have. Especially from the Fontmen, since they keep track of, or they keep a hold of all of these magical items and stuff like that.
+
+AUSTIN: Mhm
+
+DRE: The other thing I could think of would be that I just disappeared to work on this boat for too long, and I was supposed to pick up some sort of guard shift or security shift and I just didn't show up. And it gave them an opening to get into the-- to get into the base.
+
+AUSTIN: Yeah, I like that second one. Here's what I like, is that like after Zaktrak fucked up y'all made an agreement, which was like basically a buddy system. That was like 'listen, we're always going to have someone else to interfere, to throw tails off. The second we hit Chrysanthemum Parish one of us has to meet the other one, or you know whatever, to throw off a tail. And then you just didn't show up, and Zaktrack was like 
+
+AUSTIN (as Zaktrak):alright I can't lead them back to our main base, what do I do, what do I do, what do I do?
+
+AUSTIN: ...and then knocked on the door to the library-- stepped into the library really quick and was like, 
+
+AUSTIN (as Zaktrak): Castille I'm so sorry!
+
+AUSTIN: and then the door catches fire, and it’s the same effect that we saw-- that we saw Aubrey working on, where it's just like, there's this very light [Austin makes a hissing noise], and then everything goes up in flames, like a white fire, takes the secret door into the library up, and then three of the Fontmen come in. Give me your-- your roll, Castille. I'm gonna say that this is an eight-- an eight step clock. 
+
+ALI: Okay, what am I rolling?
+
+AUSTIN: It sounds like you're just doing Skirmish to me, or Wreck maybe... I think... Let me look at what the things say...
+
+ALI: Yeah... Maybe it's wreck? Wreck is the fight-y one, right?
+
+AUSTIN: Mm, Skirmish is the fight-y-- they're both fight-y, they're slightly different fight-y.
+
+ALI: Okay.
+
+AUSTIN: Wreck is [reading] "You wreck a place, item, or obstacle with savage force or carefully applied sabotage. Breach defenses with force, create distractions and chaos." Whereas Skirmish is "You skirmish with an opponent in close combat, assault or hold a position, brawl and wrestle."
+
+ALI: [sighing] Okay... this is-- this is definitely skirmish but I have zero in skirmish.
+AUSTIN: All right, well roll 2d6 and take the lower. I was gonna say Zaktrak could help but he won't do violence so...
+
+[Dre laughs]
+
+AUSTIN: You could take a stress-- you could take a stress to get one point, which is better than 2d6 and the lowest. 
+
+ALI: I'll take a stress for this...
+
+AUSTIN: Okay.
+
+ALI: This seems stressful.
+
+AUSTIN: It does seem stressful. 
+
+[Ali laughs]
+
+AUSTIN: Aw, look at that six!
+
+DRE: Nice!
+
+AUSTIN: Good work!
+
+ALI: That's a six!
+
+JACK: Nice.
+
+AUSTIN: So when you roll a six in this, I think you get to advance that clock by three...? 
+Let me see again, long term project... yeah, three. So you manage to beat them away and... do you-- do you kill any of them? Or do you just beat them up real good? What's it look like when they come in?
+
+ALI: [sighs] I think I do, yeah. I feel like this is a serious enough threat to like the whole operation that she would. So I think it's like [laughs] her and Zaktrak make eye contact and then the door goes up in flames, and she has to physically push him aside.
+
+AUSTIN: Aw...
+
+ALI: She's at the door when they try to come in, and then it's just like swinging fists.
+
+AUSTIN: Okay.
+
+ALI: Like, I'm sure she has a bunch of cool daggers that she pulls out. They're not coming in. 
+
+AUSTIN: Sure, awesome. Alright, well we're at war. 
+
+ALI: [softly] Cool.
+
+AUSTIN: So I think it's probably two nights later. Everyone is, you know... back in HQ, I think everything has kind of calmed down a little bit... and you hear a knock on the top floor door. There are no classes, Hitchcock, so you weren't expecting anybody so the door is locked up there, but what do you do?
+
+JACK: Is everybody here? So everybody's gathered?
+
+AUSTIN: Yes. 
+
+JACK (as Hitchcock): I mean... we should probably go and answer it, right? Sige...DRE: Yeah, I'll go exit the door.JACK: Yeah, I think Sige or Castille is probably our best bet... especially since Castille just went-- and since Castille was just doing war. AUSTIN: MhmJACK: Probably not a good idea... to send her up, in case it's...ALI: I think we send Sige out, because he's the one that got who got us in this messJACK: Yeah Sige. DRE: [laughing] No, that's fine, that's fairAUSTIN: Ok, so Sige, you go upstairs--SYLVIA: He's also the big one.ALI: Yeah...AUSTIN: You go upstairs, and like on your way up you knocking two more times, and then when you get up there and you look, no one is there. You open the door, and then you see on the ground is a red envelope, with a-- kind of like a seal on the back that is a shield with a chevron. DRE: I mean do I recognize this symbol...AUSTIN: ...No?DRE: As particularly signifying anything?AUSTIN: [sighs] Let me look at your sheet again, what's your heritage? No, no... you've seen this around... like occasionally-- you saw someone you worked with on a sabotage-- on like a saboteur mission once who wore this symbol, but you didn't really ask them about it. DRE: Okay, and there's nobody around?AUSTIN: Nope.DRE: Okay! Well I close the door, and I lock up behind me, and I go back downstairs with the note. I lay it, I guess on a table in front of everybody, and just goes-- shrugs and goes:	DRE (as Sige): They weren't there anymore.AUSTIN: Oh, this is stupid! You have a reputation with this group, so you know who this is. This is that organization-- you already have a plus one, which is why they contacted you. This is the... this is the Red Rank Irregulars... the symbol of the Red Rank Irregulars.ALI: Oh, we're pals with them!JACK: [overlapping with Ali] Yeah, we're pals with them!AUSTIN: Totally. JACK: Oh, we should just open it then. AUSTIN: Yeah! A poison dust-- no, that's not, you didn't get...[Everyone laughs]JACK: There's a snake inside![More laughter]AUSTIN: It's a paper snake, it's very thin... You open the note, and it is handwritten, it is in a fine script, red ink on white paper, on a very thin, almost like a dusty paper, like the paper is fresh, somehow. And it says "Dears, I've heard you've gotten yourself into a bit of trouble. Meet me under the Azaleas and we'll see what we can do." and then it's dash-- like signed like dash CH, who you know has to be Claret Holiday, the leader of the Red Rank Irregulars.JACK: Do we know the place she's referring to?AUSTIN: Maybe? It could be one of two things. It could be either, and you'll have to figure this out, either somewhere in the hanging gardens, the Hanging Gardens of Maelgwyn which are nearby, or they could be... in the Southern Bucket tavern which, despite the fact that the Southern Bucket is... kind of a shithole, takes pride in the fact that it is adorned with very nice flowers. Some people think that they're trying to like pretty the place up so they can get into Orchid Parish, instead of being consider outside of the Parish and in Helianthus. And then in Maelgwyn park, in the Hanging Gardens, I should paint this picture to you, cause I've kind of developed this a little bit since the last time. So the hanging gardens of Maelgwyn are near you,and they are this like, very... it's like big marble columns that create three different tiers, and then inside-- you can go like through the columns and inside what's sort of like an interior garden mixed with like a shopping arcade, so that you can like... there's a lot of nighttime rendezvous that happen in there, or not even nighttime because there are just lots of little alcoves and dark corners that you can hide away in. But on the roof there's just kind of-- almost like a jungle, like it's so, so stacked with plants and stuff that it's just totally a place you could walk into and disappear into... I'm gonna send you an image of the hanging gardens of Babylon, which is the obvious inspiration here.JACK: Wow. Do we  want to split up?
+
+SYLVIA: Yeah, I was gonna suggest the same.
+
+DRE: Yeah...
+
+ALI: Mm
+
+JACK: Um... I kind of feel that like... Marielda is a city full of various sorts of information...
+
+AUSTIN: Mhm
+
+JACK: And even if we don't meet-- one person is guaranteed not to bump into Claret, but they might bump into somebody else or something else, which could go badly 'cause this is Austin, but it also might be... it might be good.
+
+[Ali laughs]
+
+AUSTIN: Sure. 
+
+JACK: We're diversifying our capacity for disaster
+
+AUSTIN: Alright, so it sounds like-- it sounds like you want to split up at the very least. 
+
+JACK: [laughing] Yeah.
+
+ALI: Yeah, I'll split up.
+
+AUSTIN: Alright, who's going where?
+
+SYLVIA: [quietly, overlapping with Austin] I guess we're splitting up.
+
+ALI: I'm going to the gardens.
+
+AUSTIN: Okay. 
+
+SYLVIA: I'm gonna go to the tavern, cause...
+
+DRE: Sige'll go to the tavern.
+
+AUSTIN: Alright so Sige and... okay cool.
+
+JACK: I'm going to the park. And this is-- I'm sending Edmund, Ethan is still relaxing... by relaxing I mean healing, given...
+
+AUSTIN: You mean drinking whiskey.
+
+JACK: I mean drinking whiskey [starts laughing].
+
+SYLVIA: Sleeping and petting a dog.
+
+AUSTIN: That's relaxing... Who wants to go first? I'll ask you... No I won't, we're gonna start in the park, I changed my mind. So you're looking for azaleas...
+
+ALI: We are.
+
+AUSTIN: What do you-- do your character's know what azaleas look like?
+
+JACK: I think they look like rhododendrons but that's also what I think they look like for real life and I might be wrong.
+
+AUSTIN: I need to look it up and see if that's true... Mm, yeah, ah, mm.
+
+[Jack laughs]
+
+AUSTIN: You're not-- you're not-- you're wrong, but you're not that wrong. 
+
+JACK: [laughing] Okay.
+
+AUSTIN: You're wrong. 
+
+[Ali laughs]
+
+AUSTIN: I'm looking at these rhododendrons more... Ah, it depends on the rhododendron, is what I'll say, but you're wrong. But I can see where you're coming from!
+
+JACK: Okay, so... Castille?
+
+ALI: Can I do a Study because I looked up what they looked like before we went.
+
+AUSTIN: Totally! 
+
+ALI: Cool, cool.
+
+AUSTIN: Give me a Study. This is a controlled-- just give me a straight-- yeah it's a controlled standard effect, basically.
+
+ALI: [laughing] I got a three, I have no idea what flowers look like!
+
+JACK (as Edmund): So do they look like rhododendrons Castille?
+
+[Everyone laughs]
+
+AUSTIN: Castille, you are so sure. So first of all...
+
+[Laughing]
+
+AUSTIN: Hitchcock says they look just like rhododendrons, and you're like 'I'm pretty sure that's not true', and then you're like flipping through a book looking for pictures and it's one of those things where Hitchcock is describing what rhododendrons look like and it just get confused in your head, and you see a picture and he points and goes 'oh yeah, that's them right there', and you're like 'yeah, yeah, okay, yeah, here they are, good' and you go into the hanging gardens. What time are you going? Did she say? Did she say meet me-- she just said meet me by, right?
+
+ALI: Yeah.
+
+AUSTIN: So I mean that's a pretty like, right now sort of thing. So you head into the hanging gardens, and I'm imagining it's actually like pretty bright and sunny out, but by the time-- but you go through the-- you kind of climb up the stairs to the second tier of the hanging gardens, and start walking through the interior, and it's like-- I actually imagine it's kind of sandstone in there, there's like sandstone cobbled floors, and a bunch of really cute shops, but like it's also just very easy to get lost and confused. It's like a much-- it's like a mall that's just way too big... and that has all sorts of twists and turns inside of it. And you keep-- you keep seeing what you think is azaleas, but it's like 'oh this is the wrong colour', 'oh that's too many-- that's too many petals on each flower' and eventually you find yourself in, you know like the corner of some malls where it's like oh 'three new shops are coming next year' but right now there's nothing here but like a Footlocker and that's it. Do you know what I'm talking about?
+
+JACK: Yeah.
+
+ALI: Mhm.
+
+AUSTIN: You're there, and you see... in a little planter-- or like in a, not a little planter, like one of the walls, the whole side is a planter basically. And you're like 'ah, here they are, azaleas'. They're rhododendrons, of course. And you stand there and wait, and no one shows up.
+
+[Ali and Jack laugh]
+
+AUSTIN: Until, you hear the familiar sound of a can... and then another, on the, the hard lime-- not limestone, sandstone columns. And then you see four Fontmen walking towards you... They have their-- two of them have hats on, one of them... doesn't. And then one of them also doesn't. It's two and two.
+
+JACK: [sighing] Oh god.
+
+AUSTIN: They all have canes.
+
+JACK: Have  they noticed us?
+
+AUSTIN: Oh yeah. They're walking towards you. They're like, I'd say forty paces away.
+
+JACK: Would you describe them as bristling with intent?
+
+[Laughter]
+
+AUSTIN: Um... I think as long as they have their uniforms on they have intent. That's the sort of people they are.
+
+[Jack takes a deep breath]
+
+AUSTIN: Maybe they have like a very-- I think they kind of have like a very light pinstripe on these suits, like a very thin pinstripe. Your-- your back is against the wall here, as far as you can tell anyway. There is the Footlocker, anyway. 
+
+[Ali laughs]
+
+AUSTIN: It's like a shoe store, there's a shoe store. There's a little shoe store that's like... this old man who cobbles shoes, and makes his own shoes. He's-- he's kind of frustrated 'cause when he first moved in this was a really good part of the park, 'cause like lots of people came to visit the other shops that were down here. There used to be a pretzel place and that's all closed right now 'cause new stuff is coming, but like there's no foot traffic, so he's just like... he's in there just like his arms are crossed and he's looking out, looking kind of like left and right for anyone to show up... He's kind of hoping you'll come in the shop. 
+
+[Jack sighs]
+
+ALI: Okay, I'm of two minds here.
+
+JACK: Yeah...
+
+ALI (as Castille): [laughing] Hitchcock, would you rather... be a part of a shuffle, or would you rather... go into the shop and pretend to be buying shoes?
+
+JACK (as Edmund): We could just do that! Well I kind of feel that like, we might accidentally buy some shoes. I don't know if we have the coin.
+
+ALI: Oh what if we accidentally buy forty pairs of shoes...
+
+[Everyone laughs]
+
+JACK: Um, I was thinking-- well so-- I mean do we know... are the Fontmen the sort of people who would not be averse to brawling openly in a mall in the middle of the day?
+
+AUSTIN: You've... yes.
+
+JACK: I know we're at war...
+
+AUSTIN: You're at war with them and they're... authority. 
+
+JACK: Oh, kay.
+
+ALI: Right.
+
+AUSTIN: They would kill you, and then charge this guy for watching. 
+
+JACK: [deep in breath)] How many of them are there?
+
+AUSTIN: Four. 
+
+JACK: I mean I also have six stress... is the other thing.
+
+[Ali laughs]
+
+JACK: The other thing is that I'm an extremely stressed boy. 
+
+ALI: Do you want to go inside the shoe store and I'll fight them? I only have three stress...
+
+JACK: [laughing] Okay! Okay, sounds fine!
+
+ALI: If I get super hurt I'll just run off!
+
+JACK: I mean I could also join in, like I can assist if it gets bad. 
+
+ALI: Right.
+
+AUSTIN: While you're doing that, and you're trying to figure this out, let's jump to the Southern Bucket. 
+
+SYLVIA (as Aubrey): So I've never had a beer before, do you think they're going to notice that? I'm very worried about this because if they don't think I fit in, I might get kicked out. Would that happen? Does that happen at these sort of things? Sige why aren't you talking, please talk!
+
+ALI: [softly] Aw...
+
+[Dre laughs]
+
+DRE (as Sige): Listen, it's fine we're just going, we're gonna talk and-- and we're gonna-- we're gonna take care of this problem and it's gonna be fine. 
+
+SYLVIA (as Aubrey): Ehhhh
+
+SYLVIA: And she's literally hiding behind like his leg... as they walk in, like a little kid does. 
+
+DRE (as Sige): Yeah, you stay there and it'll be fine.
+
+AUSTIN: You come in and the place is-- is jumpin' right now. There is a live act playing some like, hot jazz, and there's like a dance happening on the bottom floor, and you can see that there are some... again like in the corners, and in between different seats and stuff, around the dance floor, on the outskirts of the dance floor, there are different flowers placed all around, but you don't see any azaleas... until you look up, on the second level, which is where there are some azaleas in-- kind of like above a corner booth. And you start walking towards the upstairs and someone almost goes to stop you and then kind of looks the two of you over, and you both cut a very specific figure, let's say.
+
+[Dre and Sylvia laugh]
+
+AUSTIN: One of you is a giant man and the other one is a Cobbin, and they're like 'hm' and they let you go upstairs. And then there's nice red leather seat, or like a--  like a booth that you can sit in, but no one's there yet. A waiter comes over.
+
+AUSTIN (as Waiter): How's it going? What would you like to drink? Everything will be on Miss Holiday, of course.
+
+SYLVIA (as Aubrey): Your strongest beverage please!
+
+SYLVIA: And then she leans over to-- she leans over to Sige...
+
+SYLVIA (as Aubrey): [in a stage whisper] I'm trying to blend in.
+
+DRE (as Sige): Yeah, yeah you're doing good. Um, what do you all have on tap tonight?
+
+AUSTIN (as Waiter): Oh, well, um, not much on tap tonight unfortunately, the [mumbles a bit], the Lance Noble came in and-- and took our tap away recently, but you know...
+
+SYLVIA: [under their breath] Jesus...
+
+AUSTIN (as Waiter): We have lots on bottle, and a few other liquors that we can do mixed drinks for you if you'd like. We, of course, have our specialty the-- the...
+
+AUSTIN: What's their specialty? The... it probably just has the words Southern Bucket in it, or just the word southern... oh!
+
+AUSTIN (as Waiter): [laughing] Of course we have our specialty, the Southern Comfort...
+
+[Everyone laughs]
+
+SYLVIA: Oh my god.
+
+ALI: Good job.
+
+AUSTIN (as Waiter): I can get you two of those, that would be great!
+
+DRE (as Sige): That would be great, thank you.
+
+AUSTIN (as Waiter): Perfect, perfect.
+
+AUSTIN: Comes back--
+
+SYLVIA (as Aubrey): Thank you garcon!
+
+AUSTIN (as Waiter): You're just adorable.
+
+AUSTIN: He says, and like almost goes to reach out and pat Aubrey, and then no, no, doesn't do it...
+
+SYLVIA (as Aubrey): No! Don't, don't do that!
+
+AUSTIN: ...Is not that person. Almost is.
+
+SYLVIA (as Aubrey): Go get me my drink, don't do this to me!
+
+AUSTIN: Leaves and comes back with the drink. I almost want to make-- I so badly want to make-- How does Aubrey handle her soco?
+
+[Sylvia and Ali laugh]
+
+AUSTIN: I think it's probably cut with like... I think it's probably soco and... what sort of...
+
+ALI: Lime.
+
+AUSTIN: I guess lime? I don't think... yeah I guess lime. Limes would grow in this-- in this climate. Yeah, it's just a soco and lime.
+
+[Quiet laughter]
+
+SYLVIA: I think what she does first is she just sort of looks at Sige to see what he's doing with it...
+
+DRE: Um, I think Sige just puts it on the table but he's not drinking it.
+
+AUSTIN: Mm... interesting.
+
+SYLVIA: Okay...
+
+SYLVIA (as Aubrey): Sige! If you don't drink it they're gonna know!
+
+SYLVIA: And then she drinks both of them.
+
+[Everyone laughs]
+
+AUSTIN: Oh no!
+
+DRE: [laughing] Oh no!
+
+SYLVIA (as Aubrey): Okay, I took care of it!
+
+AUSTIN: I-- I want you to... either, take the level one harm... Drunk, which gives you a reduced effect, or take one stress.
+
+SYLVIA: Um... yeah she's drunk.
+
+AUSTIN: Okay, wright down drunk. So everything is like, you're waiting there for twenty minutes, and then... the song switches from this hot jazz number, this hot boppin' number, to this slower jazz tune... like a cool jazz tune, and the whole vibe of the place seems to like... go low, like everything calms down, and everyone who was like fast dancing moves in to slow dance, or stops dancing altogether, and the conversation gets lower, and it's as if the room that had been under this sort of red glow turns a little blue. Both of you, for reasons you don't know, take one stress. And then Claret Holiday shows up, stepping one foot, then the other up the-- up the stairs. She is wearing a... so she has curly red hair and a dark complexion, and it's like-- it's like dyed red hair, not red red hair, at least that's what it looks like. It's not orange, its red, and she has very pout-y lips, and is wearing a military jacket and a pair of military uniform pants, and has a very fine saber at her side, and walks very intently towards you, and like... the whole room feels cool in a way that Marielda rarely feels cool.
+
+AUSTIN (as Claret Holiday): My friends,
+
+AUSTIN: She says, as she sits down.
+
+[The opening guitar of the Marielda theme begins playing]
+
+AUSTIN (as Claret Holiday): Thank you for coming.
+
+DRE (as Sige): Thank you for having us.
+
+SYLVIA (as Aubrey): You're welcome!
+
+[someone sighs]
+
+AUSTIN (as Claret Holiday): Enjoying yourself, Aubrey?
+
+SYLVIA (as Aubrey): I... I mean I'm used to this sort of thing.
+
+[everyone laughs]
+
+SYLVIA: And she like leans back and tries to put an arm up behind her chair, but she can't quite reach...
+
+AUSTIN: Oh, aw, good!
+
+SYLVIA: ...so her arm is sort of just stuck behind her.
+
+AUSTIN: Claret raises one hand and like-- just like holds it there for a second and then lowers it, and then a waiter, the same waiter appears with a drink for her.
+
+AUSTIN (as Claret Holiday): You weren't followed, of course.
+
+DRE (as Sige): No.
+
+SYLVIA (as Aubrey): Nope.
+
+AUSTIN (as Claret Holiday): You took precautions?
+
+DRE (as Sige): Absolutely.
+
+AUSTIN: [dubiously] Did you-- did you take precautions?
+
+[The Marielda theme begins in full]
+
+
+

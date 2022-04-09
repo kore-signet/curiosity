@@ -1,0 +1,3106 @@
+Spring in Hieron 04: Material Effort
+Transcribed by @robotchangeling
+
+AUSTIN: In this age, there is only one mundane place in all of Hieron where you can definitively answer the question as to whether or not the world has what we would call a horizon. And that is why the young friends Benjamin and Blue J have spent the afternoon climbing the high serpentine spire of the Last University’s oldest, tallest tower. They leap across gaps in the stairwell, avoid falls through a combination of athleticism, magical acumen, and the safety of a bond well formed. And as they climb, they peek through the windows of that building, to see those below going about their days: farming, tending to the sick and wounded, hauling materials to repair old structures or build altogether new ones. Further up, the rustic scenery of life under the tower gives way to a vision slightly further away: a pastoral landscape, with towns and villages in the distance, and the bumps and bruises of Samol himself render into the earth. It is bucolic, but for the inclusion of the abstract archways of star-stuff and the occasional burst, geyser-like, of the Heat and Dark. And soon, beyond the first classroom, past the wizard’s oldest, most private laboratory, above the final latchway, there is what, at first blush, seems to be a simple cramped crawlspace. But when the young companions crawl in, Rosana’s son lifting up his best friend, the cobwebs and knotted wood bend and turn and open, and finally, vanish. This is not an attic, but an enchanted crow’s nest to the entire world. They play there, running on what looks like open air, dancing and chasing each other, slipping into impressions of those who work below, and practicing their dueling stances with wide grins, standing on the clouds. And this is why, long before you, Ephrim or Throndir, arrive in the cemetery where you meet your old friend, Benjamin and Blue J are the first to see Fero appear. And the camera slips low from there, tracing a path down the tower, and [“Something” by Jack de Quidt begins playing] through a group of laborers and over thatched woods and a chimney and eventually to the graveyard, where Fero, I need to know: what do you say when you see your friends?
+
+KEITH (as Fero): What’ve you guys been up to? Where am I? [laughter]
+
+AUSTIN: And we’re back.
+
+SYLVIA: Oh my god. 
+
+[song plays to the end]
+
+AUSTIN: Welcome to Friends at the Table, an actual play podcast focused on critical world building, smart characterization, and fun interaction between good friends. We are back to continue our game of Dungeon World by Sage Koebel—no, that’s wrong, Adam Koebel [laughs] and Sage LaTorra, I don’t know how that happened.
+
+KEITH: That’s the name of like, their thing, right?
+
+AUSTIN: The name is Sage Kobold Productions, I believe?
+
+KEITH: Right.
+
+AUSTIN: And we are also continuing our game of Cecil Howe’s Do Not Let Us Die In The Dark Night Of This Cold Winter. I’m here with Keith Carberry.
+
+KEITH: Hi my name is Keith Carberry, you can find me on twitter at @keithjcarberry. You can find the let’s plays that I do at youtube.com/runbutton, those are good.
+
+AUSTIN: Andrew Lee Swan.
+
+DRE: Hey, you can find me on twitter at @swandre3000.
+
+AUSTIN: And Sylvia Clare.
+
+SYLVIA: Hey, you can find me on twitter at @captaintrash, and you can listen to my other show Emojidrome on iTunes or Google Play. 
+
+AUSTIN: You can find me on twitter at @austin_walker, and for those who are not here right at this moment, you can find Janine Hawkins at @bleatingheart, Art Martinez-Tebbel at @atebbel, Ali Acampora at @ali_west. And you can find the show at @friends_table on twitter, and you can support us at friendsatthetable—I also forgot Jack, @notquitereal to find Jack de Quidt. You can support the show at friendsatthetable.cash. But this is the Last University party, when we last left off, Fero, you had just arrived, coming over the hill in your weird horse person body. That was a good one, that was not creepy as fuck.
+
+KEITH: Yeah! It was not, it was cool and not creepy.
+
+AUSTIN: Mmm...it felt a little creepy to me. Just a little bit.
+
+KEITH: A little creepy to meeby?
+
+AUSTIN: A little creepy to meeby. And I’m curious, what is the...I think maybe I’m just gonna put this on Throndir and Ephrim. Can you catch Fero up? What is the scene in which you’re catching Fero up to what’s happened over the last four years of life here in the Last University? Four full years, we’re going into the fifth year.
+
+SYLVIA: Okay.
+
+DRE: Yeah, where do we take Fero first?
+
+SYLVIA: Yeah, there’s a lot to cover.
+
+KEITH: Oh, I get a tour? I get like an official tour?
+
+AUSTIN: Yes.
+
+SYLVIA: [laughing lightly] Okay so not the cemetery first.
+
+DRE: No, probably not.
+
+AUSTIN: I mean, he did come from the north, so he may have seen the cemetery— [laughs]
+
+SYLVIA: Oh, so he actually probably had to come through.
+
+DRE: Yep.
+
+AUSTIN: He probably like saw—you probably even met him in the cemetery, like looking down from there from the outside of the shimmer wall?
+
+KEITH: That also puts a new spin on the horse guy crumpling down—
+
+DRE: Oh, jesus.
+
+KEITH: —into a small figure.
+
+AUSTIN: Yeah. I’ll let y’all take the lead on this.
+
+[pause]
+
+KEITH: Wait, how many people in the cemetery? Is this a big cemetery that I’m standing in, or is it just like a handful of people?
+
+SYLVIA: Uhh...it’s not tiny?
+
+KEITH (as Fero): Wow this is a big—you guys have been busy.
+
+AUSTIN: You explained who’s in there?
+
+SYLVIA (as Ephrim): Yeah...we’ve definitely dealt with a lot of trouble over the past few years. I’d say the biggest name is probably, Morbash passed away, pretty recently actually.
+
+KEITH (as Fero): Oh, okay. He...still—did he still suck up until...?
+
+SYLVIA (as Ephrim): No, he was helpful. He helped us out a lot, honestly, towards the end, there.
+
+KEITH (as Fero): Oh, okay. I guess that’s good.
+
+SYLVIA (as Ephrim): Yeah.
+
+KEITH (as Fero): How’d he die?
+
+SYLVIA (as Ephrim): He was sick.
+
+KEITH (as Fero): Contagious sick, or...?
+
+SYLVIA (as Ephrim): No, just…
+
+KEITH (as Fero): Old?
+
+SYLVIA (as Ephrim): He just couldn’t keep up, you know? His body just kinda let him down. He didn’t—
+
+KEITH (as Fero): Ooh. That’s rough.
+
+SYLVIA (as Ephrim): Yeah. We used to have a bunch of animals here, they left. 
+
+KEITH (as Fero): Why?
+
+SYLVIA (as Ephrim): Throndir, do you want to…? You’re the one who could talk to them. [laughter]
+
+DRE: I wasn’t sure if I was here, because you met Fero...
+
+KEITH: Yeah, yeah, we’re doing a big tour.
+
+DRE: Alright, alright.
+
+DRE (as Throndir): Alright, so, food was a problem for a little while, I think we’ve got it squared away now, but...
+
+KEITH (as Fero): ‘Cause all the animals left, I bet.
+
+DRE (as Throndir): Well [sighs] yeah, they just kinda figured that it was like, well, if we’re taking our chances here, we might as well take our chances outside.
+
+KEITH (as Fero): Why were they taking their chances here? What’s the chance to take here? Why are there chances here?
+
+DRE (as Throndir): That’s a, like, really existential question that you just asked. That I don’t know if I’m prepared to answer. [laughs]
+
+KEITH (as Fero): Sorry, I...listen, I spent four years getting really into it.
+
+DRE (as Throndir): Yeah, no, fair. Turns out it’s really hard to like, feed and shelter ten different groups of people that have varying levels of getting-along-ness.
+
+KEITH (as Fero): Oh, there’s like a ton of people here, I thought it was kinda just you guys.
+
+DRE (as Throndir): No, no. There’s...
+
+AUSTIN: Yeah I think the camera sort of pans, and we kind of get Fero walking towards like...you can see from the hill where the cemetery’s on, looking down into the university campus, like it’s a collection of people from Velas, who...Rosana, the kind of lay-leader of the Creed of Samothes, is one of the people who kind of just gets stuff done, who, her husband is Hadrian, who is missing still, Fero. Chatterchin, who you recognize immediately as the kind of stand-in leader of the gnolls. Rosette, the queen of the mothkin and leader of the weavers, also here with a bunch of moth people. There’s also Corsica Neue, the queen of death and...or, the kind of self-appointed queen of death, and leader of the Unstill, the kind of last remaining undead people on Hieron. Balion Wythe, who we didn’t see on screen, we only saw in an intro in the first season—or, not the first season, in the last season of Hieron, in Winter—who was the partner of Chancellor Lutz...who’s like an adventurer halfling legend, legendary warrior. She’s kind of like an elderly—she’s kind of like Gimli, I guess, or like...I kind of picture her as looking sort of like the paladin, or the fighter I guess, in the Dungeon World handbook, with like really cool armor on, but also she’s a halfling. There are orcs who are not represented by Morbash at this point, they’re just kind of like loosely affiliated, remnants of the archives—
+
+KEITH: Loose orcs.
+
+AUSTIN: Loose orcs. I think Devar is there. You recognize Devar, you recognize Uklan Tel, but neither of them are in charge of these orcs, you know? Whereas Morbash was kind of the de facto leader at that point. Jerod Shiraz, who is the leader of the Ordennan Dissent, D-I-S-S-E-N-T, who kind of defected from the rest of Ordenna. They’re Ordennans who kind of decided that Ordenna had gone too far, and that like in the wake of everything that had followed, they should not be trying to be a conquering superpower. And Blake Bromley, who is a thief, who is effectively running—I imagine that they call it like, the scout’s guild, or like the...there’s probably a really good name for this. What’s a good like, euphemism for thief?
+
+DRE: The appropriations task force.
+
+AUSTIN: That’s literally I think what the Archives called it. [laughs] So.
+
+DRE: Ah, shit, alright.
+
+AUSTIN: It’s something like that though, right? We’ll think about it.
+
+SYLVIA: They added 2.0.
+
+AUSTIN: [laughs] Exactly. But you know, it’s a collection of basically underhanded thieves and scouts, and people who can get things done, and Blake is leading that. So those are the groups you kind of see moving through all this space in the university. This university campus—
+
+KEITH: Moonlighter’s guild!
+
+AUSTIN: Ooh, the moonlighter’s guild.
+
+SYLVIA: That’s really good.
+
+DRE: That’s pretty good!
+
+AUSTIN: Moonlighter’s guild. They get stuff done for you, you know, they’re like odd jobs, you know, they’re handy and they can…
+
+KEITH: Yeah, and also a moonlighter is a thief.
+
+AUSTIN: Mmhmm! They work by moonlight. There we go. Alright. Do y’all take Fero on an actual tour? Fero, what are you eager to see?
+
+SYLVIA: Oh yeah, for sure.
+
+DRE: Sure.
+
+KEITH: Let me look at...sorry, I was on thesaurus.com, let’s look at the map. [laughter]
+
+AUSTIN: There are more buildings here than what are on the map currently, is what I’ll say.
+
+KEITH: I…
+
+AUSTIN: In fact, Dre, could you do a screenshot of this the way you did for...?
+
+DRE: Yeah, sure!
+
+AUSTIN: Thank you.
+
+KEITH (as Fero): Oh! Do you guys have like a trash bin? I’ve got like some...I got like, my food bags, I ate all the food on the way, so. Is there somewhere I could toss this out?
+
+AUSTIN: That’s a good question, where do you keep the refuse and stuff?
+
+DRE: That’s gross...I guess people gotta poop, though.
+
+SYLVIA: I mean—
+
+AUSTIN: People gotta poop.
+
+KEITH (as Fero): No, it’s empty food bags.
+
+DRE: Like are they reusable?
+
+SYLVIA: I mean, we could probably just reuse those.
+
+DRE: Yeah, put them in the store.
+
+KEITH: In my head it was like a paper bag.
+
+KEITH (as Fero): Do you guys wanna reuse this paper bag?
+
+DRE (as Throndir): Yeah! I mean that’s what you keep mushrooms in.
+
+SYLVIA: For that we could also just use, you know, if we need to use it for fuel—like not actual, the game mechanic fuel, but if we need it to start a fire, we can...
+
+KEITH (as Fero): Yeah, you can have this.
+
+AUSTIN: Speaking of that, though, Fero, could you roll 1d6 for me?
+
+KEITH: Yeah. [pause] 3.
+
+AUSTIN: Alright, so. Fero, you get to have a combination of three things, or up to three in any of these following categories. Or not up to three in any of them, but you can have three units of either one or a combination of: food, fuel, and medicine. What do you have? And you should make this decision based on—
+
+KEITH: Two medicine, one fuel.
+
+AUSTIN: There you go. Okay.
+
+DRE: Oh, thank god. Good call, Keith.
+
+KEITH: I don’t need to eat! Hi, it’s me, I don’t eat.
+
+AUSTIN: It’s true, you don’t eat. What is it? What is the medicine, what does the fuel look like? What are those things? Fuel is both...so for this game, for Fero, you’re just joining us, fuel during what had been the extension of winter when things were still cold and snowy, did include things you burn for fuel. But there’s also just like, materials, you kind of think fuel really broadly, really abstractly. It’s just like the things you need to make a place function?
+
+KEITH: Okay.
+
+AUSTIN: So it’s like wood, not just to burn, but to fix a door. You know—
+
+KEITH: I know what I have for fuel.
+
+AUSTIN: What is it? 
+
+KEITH: I have a peat brick.
+
+AUSTIN: Mmm. What is that? I don’t know what that is.
+
+KEITH: Peat is like…
+
+AUSTIN: It’s like moss, right? Isn’t peat like the—
+
+KEITH: It’s like a weird moss—
+
+AUSTIN: Yeah.
+
+KEITH: There’s a lot of it in like Ireland and Scotland—
+
+AUSTIN: Mmhmm.
+
+KEITH: —and it has a weird smoky flavor that you might taste in like a whiskey—
+
+AUSTIN: Mmhmm.
+
+KEITH: —if you’ve ever heard someone describe something as peaty.
+
+AUSTIN: Yeah.
+
+KEITH: But also, you burn it for fuel.
+
+AUSTIN: Oh, okay.
+
+KEITH: It’s good fuel.
+
+AUSTIN: So it is literally fuel. Alright, so that means we’re gonna get another plus one on medicine, and then we’re gonna get another plus one on fuel. So that brings your fuel up to four, and your medicine up to two. Hell yeah.
+
+SYLVIA: We fixed the storeroom, right?
+
+AUSTIN: Mmhmm!
+
+DRE: Yeah, we did.
+
+SYLVIA: Okay. I’m gonna take the X off the map, then, just so we know that.
+
+DRE: Wait, didn’t...was it two medicine and one fuel, or was it two fuel one medicine?
+
+AUSTIN: Oh, was it two? My bad, my bad, you’re right. So that means medicine’s up to, what, three, then? And fuel is up to…yeah, okay, you’re right.
+
+KEITH: I’m dropping this link about peat in the chat. This site is calling it the forgotten fuel.
+
+AUSTIN: Ooh. So you’re at four medicine and four fuel, then, is that right?
+
+KEITH: I said two fuel, one medicine? So whatever the original stores were...
+
+DRE: Oh, okay. Shit.
+
+AUSTIN: Was that what you said?
+
+KEITH: Sorry, no no no, I got it backwards.
+
+AUSTIN: Yeah, I thought so.
+
+KEITH: I said one fuel, two medicine.
+
+AUSTIN: Yeah, so you’re at…
+
+DRE: Four and three, three medicine.
+
+AUSTIN: Yes. Four fuel, three medicine, eight food.
+
+KEITH: Okay. So wow, I added more medicine than you had, double the medicine you already had, and I don’t need to eat. This sounds like it’s working already.
+
+AUSTIN: It does. I mean it’s working for another reason, which is: normally the way the game works, every player is like taking care of a bunch of populations, but that’s not what’s happening here, so we’ve greatly thrown the world into your favor as a group, here. Because you didn’t get extra mouths to feed when Fero showed up, which again, is literally true. Fero doesn’t need to eat, so.
+
+SYLVIA: Thank god, honestly. [laughs]
+
+AUSTIN: Is there anything else you want to talk about in terms of showing Fero around or catching Fero up onto like, what’s been happening?
+
+KEITH (as Fero): What’s this building here called the first wing?
+
+SYLVIA: Oh, that was...
+
+DRE: Oh, shit, what is the first wing? Is that where the laboratory was?
+
+SYLVIA: Was that where we started teaching students, I think?
+
+KEITH (as Fero): You guys are great at tours. [cackles]
+
+AUSTIN: What was that, Ephrim?
+
+SYLVIA: I think that’s where we started teaching students again, wasn’t it?
+
+AUSTIN: That’s correct.
+
+DRE: Yes!
+
+KEITH (as Fero): What are you teaching?
+
+SYLVIA (as Ephrim): Anything that we can, here. We have a lot of resources from the university, so. I mean, Benjamin’s been getting pretty good at magic, so.
+
+KEITH (as Fero): Who?
+
+DRE: Oh.
+
+SYLVIA (as Ephrim): Hadrian’s kid.
+
+AUSTIN: Hadrian’s kid is...15, now?
+
+SYLVIA (as Ephrim): He’s a good kid.
+
+KEITH (as Fero): He’s still here? He didn’t go like...with his dad?
+
+DRE (as Throndir): Eeh…
+
+SYLVIA (as Ephrim): No, he...we should explain that, too, probably.
+
+DRE (as Throndir): Yeah.
+
+SYLVIA (as Ephrim): They’re in a sword.
+
+DRE (as Throndir): Uh huh!
+
+SYLVIA (as Ephrim): His dad, and Hella, and Lem, and Adaire, and…
+
+DRE (as Throndir): Yep. Plus other people.
+
+SYLVIA (as Ephrim): We don’t know how many people. We’re trying to get them out.
+
+KEITH (as Fero): What kind of sword?
+
+DRE (as Throndir): Oh, it’s Hella’s sword.
+
+KEITH (as Fero): [interrupting] Oh, I get it, I figured it out. I said it, and then I was like, I know what kind of sword.
+
+AUSTIN: Yeah.
+
+SYLVIA (as Ephrim): Yeah.
+
+DRE (as Throndir): I guess there’s probably that star in there?
+
+SYLVIA (as Ephrim): I believe they said every person that Hella—that has been killed with that sword in some way is in that sword, but…
+
+KEITH (as Fero): That’s messed up.
+
+SYLVIA (as Ephrim): But Hadrian, Adaire, Hella, and Lem aren’t dead? Or at least we don’t think they are, and so we should be able to get them out, in a few years...
+
+KEITH (as Fero): How?
+
+DRE (as Throndir): I’m lettin’ Uklan Tel worry about that.
+
+SYLVIA (as Ephrim): Yeah, we got a guy for that.
+
+KEITH (as Fero): Too bad we don’t have Uklan Show here.
+
+AUSTIN: [pause] Yikes.
+
+DRE (as Throndir): That was pretty good.
+
+SYLVIA (as Ephrim): And that ends the tour. [laughter]
+
+AUSTIN: And we can get back into it! Because, you know, the year’s gonna continue. One thing I want to know is, Fero, where do you mostly hang out on this university grounds? And again, you can add something new here. I kind of imagine it like...think of it like an XCOM base, where there’s lots of debris and stuff, and adding stuff to the map is as much clearing debris and building new stuff as it is clearing debris and realizing what something already is, and being like, oh shit, this is a blank. 
+
+KEITH: Huh, okay. Honestly… so I think I should make my own space, but the underground garden sounds sick.
+
+AUSTIN: Underground garden is where there’s been a lot of activity. Benjamin and Blue J have a little hangout space down there. Blue J, by the way, is one of Red Jack’s oldest kids, who’s like a blue oni kid, and who has picked up Throndir’s bow, because Throndir put the old bow down.
+
+[TIMESTAMP: 0:20:13]
+
+KEITH: Like he stole it?
+
+AUSTIN: No.
+
+DRE: [simultaneously] No.
+
+KEITH: Throndir left his bow somewhere and Blue J stole it from him? [Austin laughs]
+
+DRE: I don’t think he stole it, I think he probably just saw a bow laying around, and was like ‘aw, this looks cool!’
+
+KEITH: Oh. Are you gonna need it back?
+
+DRE: I don’t know…
+
+AUSTIN: Throndir like [emphasis] hung it up.
+
+KEITH: Oh, you like, laid down your arms.
+
+DRE: Yeah.
+
+AUSTIN: Just the bows, though, not the—
+
+KEITH: Just the bows, okay.
+
+AUSTIN: Not the gun crystal that he’s been holding onto.
+
+DRE: Yeah, I don’t have a gun yet, it’s still a crystal.
+
+AUSTIN: You gotta build that thing at some point.
+
+KEITH: It’s growing, his crystal is growing into a gun?
+
+DRE: I gotta charge it.
+
+AUSTIN: Hmm, I hate this. [Dre laughs]
+
+AUSTIN: So you think you’re moving into this underground garden, Fero?
+
+KEITH: Honestly, I think that I should burrow out my own new thing.
+
+AUSTIN: Oh, that’s good, yeah! Add a little other compartment here.
+
+KEITH: I’m going to tunnel towards the storeroom.
+
+AUSTIN: Okay. Are you going to build like a—
+
+DRE: Oh, god, don’t break it again. We already broke it once. [laughter]
+
+KEITH: No, I’m good.
+
+SYLVIA: [laughing] We broke it the first turn.
+
+AUSTIN: Do you like actually build a little tunnel that straight up connects the two? ‘Cause we did figure out that the storeroom also has a basement, that was a big important thing.
+
+KEITH: Oh, okay, yeah, I’ll connect the two, great.
+
+AUSTIN: Awesome, cool. And then do you have just like a little side room off that tunnel? Like are we building a whole new underground—
+
+KEITH: Yeah, so probably between...like, I’m gonna build a tunnel from the underground garden to the storeroom—
+
+AUSTIN: Yeah.
+
+KEITH: —and then sort of in the area between the storeroom to the first wing, I’m gonna build a different—
+
+AUSTIN: Hell yeah.
+
+KEITH: Yeah.
+
+DRE: God.
+
+KEITH: So they’ve got an underground garden, maybe I should have—maybe I’ll try to get some animals back in here that live underground.
+
+AUSTIN: Okay. I kind of like that. That’s cool.
+
+KEITH: Like an underground—
+
+DRE: Just turning into like midwestern universities, with underground tunnels—
+
+AUSTIN: A hundred percent, yes—
+
+KEITH: A giant terrarium.
+
+AUSTIN: —it literally is that. It totally is that. That’s, what university, Western Ontario, where I was doing my grad school, totally had the same thing of just like, secret tunnels connecting parts of the campus.
+
+DRE: Yep.
+
+KEITH: That’s bizarre.
+
+AUSTIN: Because when it gets snowy, when it gets really snowy?
+
+DRE: Yeah, dawg.
+
+AUSTIN: They don’t cancel school! Like, it’s Canada, it’s the midwest, you’re not gonna cancel school.
+
+KEITH: So you just walk underground?
+
+AUSTIN: Yeah, totally. You get to campus however you can, and then—
+
+DRE: ‘Cause it’s -30 outside with the windchill.
+
+AUSTIN: Yeah.
+
+KEITH: They’re fucking...they’re stealing time from you. That’s crazy.
+
+AUSTIN: Listen. I know it, I know it. It’s rough out there.
+
+KEITH: You want to go somewhere where it snows often enough but not so often that they know how to deal with it.
+
+AUSTIN: [laughing] That’s how I’m trying to live my whole life, honestly. Okay. So, we’re going into turn five. Keith, you’re drawing this I’m imagining right now?
+
+KEITH: Oh! Oh, sure, I’ll draw that.
+
+AUSTIN: Yeah, I just want to make sure we update this map, you know?
+
+KEITH: Let’s see, is that? That’s not the color of a tunnel…
+
+AUSTIN: Year five. Alright. 
+
+KEITH: I am not! You’re five! [Sylvia laughs]
+
+DRE: Aw shit, aw shit.
+
+AUSTIN: Jesus christ.
+
+DRE: Got ‘em!
+
+AUSTIN: First things, planning. Give the village—oh, we already did that. Steps of each turn. Step one: death and weather, count the dead. So...let’s go back, I want the whole rules, not just the quickie rules here. Death is dealt, as a preamble to action. So we ended up getting enough fuel to clear off the sickness for this turn, right, or they’re gonna be able to, right, so. I guess first and foremost: [reading] “Death is dealt as a preamble to the action of cold winter. The first stage of each turn is determining the number of villagers who have died as a result of previous turn. For example, if there’s only enough fuel for three of the four buildings,” blah blah blah. So that hasn’t happened, we had enough fuel in the end, which is good. “Then, after the dead are counted, you roll a d3 to determine the current turn’s temperature.” So let me do that. Better hope for a low one again. Another two! I’m rolling these twos nonstop; I don’t think we’ve ever had a temperature that wasn’t a two, huh?
+
+KEITH: Is two cold?
+
+AUSTIN: It’s one, two, or three, and it determines how much fuel each building needs. So that means you’re gonna need to spend…
+
+DRE: Four.
+
+AUSTIN: Four. How much do have right now, again?
+
+DRE: I believe four.
+
+AUSTIN: Alright, well. I guess this might be a turn to get some fuel. So you’ll have to spend that. Then, is this the step at which we advance the S’s and the H’s?
+
+DRE: ...Yes.
+
+AUSTIN: Or is that the now step two, rationing the supplies?
+
+DRE: Oh, yeah.
+
+SYLVIA: Yeah, we ration supplies first, and…
+
+AUSTIN: And then…
+
+SYLVIA: ...then I think we advance them? Because—
+
+AUSTIN: Okay. That makes sense.
+
+DRE: Right.
+
+SYLVIA: Oh, no, we advance them and then I think if we don’t fix it by the end of the turn…? I don’t—I gotta look at this.
+
+AUSTIN: Yeah, the timing on this stuff is still kinda weird. It’s been a couple of days since we played the first time.
+
+SYLVIA: Yeah.
+
+AUSTIN: Each supply removed, is moved to a buh buh buh, yep. Adventurers—
+
+KEITH: Oh, they moved to the buh buh buh?
+
+AUSTIN: Yeah, uh huh. Adventurers who have villagers do not eat, likewise take villagers who remain as such...
+
+KEITH: Could you actually go more over this, ‘cause I don’t know what’s happening.
+
+AUSTIN: Yes. So, if you take a look at our scratch sheet, Keith.
+
+KEITH: Yeah.
+
+AUSTIN: You will see that there are two lists of populations here. There is the Ephrim group and the Throndir group, and you’ll see that some of them have letters next to their names, like S’s and H’s. The S’s represent sickness, and the H’s represent hunger. The sickness can occur at the end of a turn; we roll to see if any new people got sick over the last year, right. The H’s represent hunger; if anyone doesn’t eat in a given turn, they get hungry. If you do not treat someone who is sick, you check another box, and if they ever get to three S’s at the end of a turn, like at turn four, or step four of any given turn, if they’ve not been cleared and they have three S’s or two H’s, they die. In our case they either die or leave, depending on what is narratively appropriate. We didn’t want to make it so that like, you know, oh all 700 orcs or whatever are just straight up dead. That seemed like a lot.
+
+KEITH: Right.
+
+AUSTIN: But, what would seem more realistic is like, oh, this group of people, these animals are all just gonna flee and leave from this kind of outside wall. I guess I should not this too, there’s two like circles here, there’s two concentric circles. The outside wall is this kind of white shimmering star-stuff layer, that encloses the entire university and keeps it safe from the Heat and the Dark. And then the inner side is literally the walls of the university, it’s like the campus walls basically. [pause] So, that is what those S’s and H’s are, if that makes sense. So in this case, Corsica Neue and the Unstill have two sickness dots, the Orcs also have two. And so they both need medicine. Then, Balion Wythe and the halflings, Jerod Shiraz and the Ordennan Dissent, and Rosette and the moths are all hungry. So everyone who we just listed needs to get fed and needs to get medicine, otherwise they will die or leave at the end of this turn. So, how are y’all gonna ration stuff?
+
+SYLVIA: So we can take care of everyone who’s sick with our medicine.
+
+AUSTIN: Also, I guess, is Fero the active player for this turn? Does that make sense?
+
+DRE: I guess so.
+
+KEITH: How do I be the active player?
+
+AUSTIN: So it rotates, and in this case, I think we’re gonna make you the active player, unless you don’t want to go first so you can see what a full run-through is. There’s not much in terms of—
+
+KEITH: No, no, walk me through it. Ephrim and Throndir can—
+
+AUSTIN: Can help, okay. So the first thing I need to know from you is: are you a wizard, a thief, or a fighter?
+
+KEITH: Thief, I guess.
+
+AUSTIN: Let me read you the things, that way it’s like, very clear, in terms of what your abilities are. And let’s think about it in a way that reflects the way you’ve played Fero, I think is a good idea. So, “Some wonderful nature grants a fighter the ability to press routes”, I guess is what the wording is here? I think that’s a typo. “...bestows great patience on a studious wizard, and gives a thief the shadow to hide in broad daylight. These same traits will give the adventurers bounty when searching for supplies, despite being clutched in the whited-out hell of winter’s grip. Long and short, strength or brute force-based characters are to count as fighters, arcane or faith-based characters are to count as wizards, and stealth or agility-based characters are to count as thieves.” Effectively, what that means, is that fighters get fuel more easily, wizards get medicine more easily, and thieves get food more easily, is that correct y’all? Did I fuck that up just now?
+
+DRE: No, you got it.
+
+AUSTIN: Okay.
+
+KEITH: Okay, so I’m going with my initial instinct the thief. I am an agility-based character—
+
+AUSTIN: Mmhmm.
+
+KEITH: I feel like being the druid who changes into animals—
+
+AUSTIN: Right.
+
+KEITH: —is a stealth move here, and I would be really good at getting extra food, because I do not—
+
+AUSTIN: True! You don’t eat.
+
+KEITH: —have to eat any of it for myself.
+
+AUSTIN: Fair. Alright. You did explicitly say you wanted to try to get some animals down here. So, I’m going to write down thief, awesome, that should help your food problems, at the very least. So as the active player, you are the person who kind of like, answers some questions and decides some things, but there’s also a lot of stuff that you cannot decide by yourself, right, like there’s some decisions around like, where are we putting resources and stuff that are not as simple as that. So, in this case, you have to decide who you are giving food and medicine to.
+
+KEITH: Okay.
+
+AUSTIN: You have eight food, you have three medicine, you have four fuel. It’s one medicine to cure, right?
+
+DRE: Yeah.
+
+SYLVIA: Yes. 
+
+AUSTIN: Yeah. So there are two people sick, that seems like a pretty easy choice. And then you have to decide who eats and who doesn’t. As a reminder, if you don’t feed someone this turn, they’ll get an H at the end of the turn to show that they’re gonna get hungry. Or I guess they get an H right now, to determine that they’re hungry, or whatever, right? Again, the timing is weird—
+
+DRE: That’s what we were deciding to do.
+
+AUSTIN: Basically, if you don’t feed someone who already has an H this turn, they’re going to leave or starve at the end of the turn.
+
+KEITH: Okay.
+
+AUSTIN: So.
+
+KEITH: And also...the people with two S’s, do they also die?
+
+AUSTIN: Same thing. If they get to three S’s, they are dead. So they—
+
+KEITH: How do you get to an S? How do you get one S?
+
+AUSTIN: So there’s a roll at the end of the turn to determine how many people get sick.
+
+KEITH: Right.
+
+AUSTIN: And then we determine who got sick and why. And then—so that’s like a specific roll thing, whereas everybody needs to eat, every turn. 
+
+KEITH: Right, got it, okay. So, I’m feeding the three.
+
+AUSTIN: The three who are already hungry? Which means the people who are not eating, though, that means that they will get an H this turn.
+
+KEITH: Okay. How hard is it to get food? Can we just give—we have eight food—
+
+AUSTIN: You do have eight food.
+
+KEITH: —can we just give everyone some food?
+
+AUSTIN: You could totally do that.
+
+KEITH: We have eight people, let’s just give everyone…
+
+SYLVIA: Yeah, let’s just give everybody some…
+
+AUSTIN: Okay.
+
+DRE: Yep.
+
+AUSTIN: Alright.
+
+KEITH: Let’s throw a party for them, for everybody.
+
+AUSTIN: Oh, that’s cool, what type of party is it?
+
+KEITH: I mean, it’s a “let’s eat all of our food that we have left” party. [laughs]
+
+AUSTIN: So I mean, is it like a big...this is just a fat year, right, this is just a year where like…’cause again, we’re abstracting a bit here, right, so it’s not just like, oh there’s the one party and everyone got to eat this turn, because we’re saying it’s a whole year, right? So that means that for this whole year, people don’t go hungry.
+
+KEITH: Everyone eats.
+
+AUSTIN: Everyone eats all the time.
+
+KEITH: Yeah.
+
+AUSTIN: And they’re eating to their desire, right? Like one H, getting one hungry tic, is like, ‘oh okay this sucks, I went a year of my life being hungry most of the year, like eating enough to live, but basically pushing it. If that happens again, I’m done.’ And so this is like, no, we actually—everyone goes to sleep with as full a stomach as can be expected, you know.
+
+KEITH: Yeah.
+
+AUSTIN: It does mean we spent eight food. And then medicine, you’re going to treat both these people?
+
+KEITH: Yeah.
+
+AUSTIN: Both these groups, rather.
+
+KEITH: We also...yeah. Does one medicine cure two sick?
+
+AUSTIN: No, you have to spend two medicine.
+
+DRE: No…
+
+AUSTIN: No no no, sorry, sorry, sorry, I thought you meant two sick groups. Yes, it clears sicknesses.
+
+KEITH: It clears sickness, got it.
+
+AUSTIN: Yeah, totally, a hundred percent. So that means you have one medicine left. Cool. And then I’m guessing, again—or, this part isn’t a choice. Fuel gets spent. People are going to spend fuel no matter what, which means you’re also down to zero fuel.
+
+KEITH: Which—what needs fuel?
+
+AUSTIN: Buildings need fuel, and so right now, because you have eight people, you have two buildings, and that means each building needs fuel equal to what the temperature is. I rolled a two on temperature, so you gotta get that four fuel.
+
+KEITH: Got it. Okay.
+
+AUSTIN: So that part’s pretty much self-explanatory, as long as you have the amount of resources you need, [laughs] which until this moment, has been a toughie for a while.
+
+KEITH: Okay, wow, it’s sounding like it’s going pretty well.
+
+AUSTIN: Yeah.
+
+KEITH: Old Fero seems to be back in the habit.
+
+AUSTIN: Good to go, now. So that’s step two. Step three is: gather new supplies. [reading] “In step three, the adventurers must elect to gather only one of the three supplies. Its is unwise to split the party for many reasons.” So you can’t be like, oh I’m gonna go do this, and then I’m gonna go do that, though that is still sort of reflected in the way this works. “When the adventurers have decided on the supply to collect, the active adventurer”—which is you in this case, Fero—“rolls 2d6 for the number of gathered units. Gathered units are the base number of units collected by the adventurers. After the adventurers have had a chance to describe their foraging, you record the amount of units in the storeroom. Once the gathered units have been added to the stock, adventurers will get two more chances to gather supplies.” Those two things are: one—
+
+KEITH: Hold on, hold on, that all went right over my head.
+
+AUSTIN: Okay. So, you say like, oh do I want to go get fuel, do I want to go get medicine, do I want to go get food. 
+
+KEITH: Okay.
+
+AUSTIN: You pick one of those things. What are we going to do this year? What are we focusing on? And then you—
+
+KEITH: Well, we have no food, so let’s get food.
+
+DRE: Mmm—
+
+AUSTIN: Okay, well let me explain—
+
+KEITH: Okay, hold on...
+
+AUSTIN: —the rest of these rules really quick, so that you know the mechanics of it first. So, you pick that, you’re gonna roll 2d6, we’re gonna get 2d6 food, right. Then, on top of that, you get bonus stuff according to what you’re good at, right? So, if you—
+
+KEITH: I’m...good at food.
+
+AUSTIN: So, if you pick food, that means you’re gonna get to roll an additional 1d6 to that.
+
+KEITH: Yeah.
+
+AUSTIN: So it’s already 3d6. And then I think...Throndir will also get to do that, so that’ll be a 4d6 on food.
+
+KEITH: Mmhmm.
+
+AUSTIN: Right? Then, on top of that, if you have a specialty that is not the thing you’re doing, you get to roll 1d3 to be like, ‘oh yeah and on the way, I also found this other thing. Or I did this side project that helped me produce blank.’ So, in this case, say you go with the food, what you’d end up doing is you roll 4d6 for food, and then Ephrim, because Ephrim is a wizard, would roll 1d3 on medicine.
+
+KEITH: Got it.
+
+AUSTIN: Right? Now, there’s another world in which you say like, let’s go get fuel, and that means that you roll 2d6 to get fuel. You don’t get any bonuses to get fuel, but you and Throndir would both roll 1d3 on food, and Ephrim would still roll 1d3 on medicine.
+
+KEITH: Got it.
+
+AUSTIN: Right? Or, if you did the medicine one, you would roll 2d6, Ephrim would roll an additional 1d6, and then—is that right? And then the two of you would still roll the medicine one.
+
+KEITH: Okay.
+
+AUSTIN: And get no fuel.
+
+KEITH: So here’s my question.
+
+AUSTIN: Yes.
+
+KEITH: Is the next turn next year?
+
+AUSTIN: Yes. We’re doing turns as years here, yeah.
+
+KEITH: Ok. So, basically, I can go and get this enormous bonus on food…
+
+AUSTIN: Yeah.
+
+KEITH: But, that means that [emphasis] for sure next year we will have no fuel.
+
+AUSTIN: [laughs] Just none, none fuel at all, yeah.
+
+DRE: And when a building isn’t fueled, we lose one person guaranteed.
+
+AUSTIN: Guaranteed.
+
+DRE: There’s nothing we can do about it.
+
+AUSTIN: Yeah.
+
+KEITH: Wow—
+
+DRE: Per building that’s not fueled.
+
+KEITH: —so I guess I’m rolling 2d6 fuel. [laughter] 2d6 fuel, 1d3—
+
+AUSTIN: Food, er…
+
+KEITH: —medicine, and 2d3 food.
+
+AUSTIN: Yeah, you each roll whatever your thing is, that way people get to roll dice no matter what.
+
+KEITH: Yeah.
+
+AUSTIN: But that means, Fero, yeah, you go ahead and roll your 2d6 on fuel, and then roll the 1d3 on food. And yes, Ephrim, I do think a welcome back party for Fero is not a bad one.
+
+KEITH: Three fuel!
+
+AUSTIN: Alright. [laughs] Three fuel is not enough fuel, my guy! [Sylvia sighs]
+
+DRE: Well, if we get a one next year…
+
+AUSTIN: I guess that’s true, if we get a one on temperature, that’s good. Go ahead and give me your food 1d3, Fero. And then tell me—once we roll, we’ll be able to tell a story about how this all happened. There’s not a lot of…
+
+KEITH: One food.
+
+AUSTIN: One food so far, good.
+
+DRE: Three food!
+
+AUSTIN: There you go, hey, so four food, that’s not bad.
+
+KEITH: Four food total, not terrible.
+
+AUSTIN: You can feed [laughing] half the people next turn. And Ephrim, how much medicine did you get?
+
+SYLVIA: One!
+
+AUSTIN: Oh, killin’ it right now. This is good shit. So food was plus four…
+
+KEITH: That was—
+
+AUSTIN: Fuel is plus three…
+
+KEITH: That was bad.
+
+AUSTIN: Yeah, welcome!
+
+KEITH: Out of one, two, three, four dice rolled—no, five—out of five dice rolled, three of them were ones.
+
+AUSTIN: [laughing] Yes. It’s true.
+
+KEITH: So, really bad.
+
+AUSTIN: It’s really not good, it’s really not good. So, what’s this look like? Where do you go for fuel? Like what’s the thing that you go for, and why did you get such little fuel? [pause] I guess I should paint a little bit for you, Fero. You’ve left the Mark of the Erasure, you’ve come back into the rest of Hieron, and here the snow is mostly melted, and there are more and more of those strange plants growing that we talked about?
+
+KEITH: Yeah.
+
+AUSTIN: That are kind of aggressive, and a strange new type of life. So there’s more of that stuff. Again the snow is mostly melting, but it is...think of it as like early March, it’s coming in like a lion right now. It’s pouring rain constantly, there are parts of Hieron now that have a sort of like rainforest vibe to them? Because they’ve become really really really dense with forestation, and it rains just constantly. And I imagine that some of those storms are hitting here at the university. So, why such low fuel, and also kind of middle of the road food, and low medicine?
+
+KEITH: So, I think that...I think that maybe there’s somewhere that I spotted to make those peat bricks.
+
+AUSTIN: Yeah.
+
+KEITH: But by the time that I’m there, those plants have like rooted in that soil.
+
+AUSTIN: Mmm.
+
+KEITH: And I think that that has something to do with why you can make peat bricks, is like extra rich soil, and maybe just like it’s sapping the nutrients from the ground. And just like, oh this just isn’t good soil for making these bricks anymore, we wasted our time trying to come here and make bricks out of them.
+
+AUSTIN: Right. Like you set up like a whole thing—
+
+KEITH: Like maybe we made a bunch of bricks—
+
+AUSTIN: Yeah.
+
+KEITH: —and then when we went to try to use them, they don’t work.
+
+AUSTIN: That makes perfect sense. I like that a lot, actually, because then you’ve done the thing of like, you spend literally...maybe even like the first few you make totally work, right. You still got three fuel, which is not nothing—
+
+KEITH: Yeah.
+
+AUSTIN: —but you do your first run, and at that point maybe the new plant life hasn’t taken yet in the same way, and you’re like ‘oh cool, these totally work!’ Like you prove it, you already brought some on your first trip, you know, when you first arrived. Then you go back out with people, you show Throndir and Ephrim. People are like ‘whoa, this is awesome!’ and maybe that’s why there was such a big party when you showed up, was like, we have a new fuel source, this is incredible! And then it turns out that you don’t have a new fuel source, because you do this huge operation the second time to get all of the stuff and bring it back, and it just doesn’t burn the same. Which is a shame.
+
+KEITH: Yeah.
+
+AUSTIN: Which is bad, even.
+
+KEITH: Mmhmm.
+
+AUSTIN: In fact, here’s the...we even get a shot of Uklan Tel playing with it a little bit, and not only does regular not burn it, Heat and the Dark style fire like gets smothered by it instantly. It like, [air whoosh sound]. Almost like seeing a fire being like, not just blown out, but...what is this image I have in my head of like a fire almost in a vacuum just immediately disappearing, you know what I mean? Oh, you know what it is—
+
+KEITH: Yeah.
+
+AUSTIN: It’s like in a sci-fi movie or something, where there’s fire and then the airlock opens, it’s like that. Where it’s like, oh there’s no more air in here, there’s no more fuel for the fire. Or it’s like seeing a fire being placed under glass, you know what I mean?
+
+KEITH: So it’s sort of...I mean this is I guess a less cool version, but. You have a lighter and you stop pressing the button and the fire is just gone.
+
+AUSTIN: It’s not that—it’s literally as if there is no fuel left for the fire.
+
+KEITH: Right.
+
+AUSTIN: Specifically. So it’s not just like, the fuel is cut off, it’s not just that, it’s literally—it’s as if it burned all of the fuel around it, and there’s nothing left, you know? I think like if you put a candle under glass, and the way that like, oh wow it just [extinguishing sound] it’s gone. Is how that looks. Not instantly, but, you know. Throndir, where did you get your three food from?
+
+DRE: I’m of two minds here. Well, maybe it’s a little bit of both. So, I was gonna draw a new building on here…
+
+AUSTIN: Hell yeah.
+
+DRE: And, I think this is like a...I think what happened is that like, Throndir is like going about kind of doing rounds through here and sees Blue J like practicing with the bow—
+
+AUSTIN: Yeah.
+
+DRE: And...Blue J’s okay, but he’s got some work to do. And I think Throndir like kind of goes up to him, and is like,
+
+DRE (as Throndir): Okay, no, you’ve gotta tuck in your elbow like this, and—
+
+AUSTIN: Right.
+
+DRE (as Throndir): —you want to sight it like this...
+
+DRE: And so Blue J has become a better shot—
+
+AUSTIN: Okay, cool.
+
+DRE: —and I think to kind of help Throndir...like I don’t think Throndir is like, “nobody’s allowed to kill animals anymore”, but I think he still has like, because he knows some of the animals that are getting killed are the animals that left—
+
+AUSTIN: Right.
+
+DRE: —there is very much this sense of, okay, if we are going to kill animals, we should not be wasting any of it. And I think...
+
+AUSTIN: Right. And also getting shots that kill them and don’t just hurt them and they have to live with like a wound?
+
+DRE: Yeah, yeah. And I think to assist with that, he makes almost like a preservation, like, smoking shed where like—
+
+AUSTIN: Cool.
+
+DRE: —the parts of the meat that like don’t normally cook up right, can either be like slow-cooked to be more palatable, or get turned into jerky, or whatever.
+
+AUSTIN: Yeah. Cool, awesome. Label it, I like it. Ephrim. You did not get a lot of medicine this turn, what’s the deal.
+
+SYLVIA: [sighs] Yeah...I’m wondering if maybe it’s one of those things where it’s like, because we’ve established that we have some renewable resources for the medicine—
+
+AUSTIN: Yeah.
+
+SYLVIA: —that maybe it’s just like a bad harvest that year for it?
+
+AUSTIN: Sure, sure.
+
+SYLVIA: [laughs] I don’t know if I’ve got anything like…
+
+AUSTIN: That’s fine.
+
+SYLVIA: ...that really works great.
+
+AUSTIN: You know, I guess, one thought is...and I’m not blaming Fero on this, I want to be clear that that’s not...but Fero dug a big tunnel, [laughs] right? And so maybe it’s just like, oh we can’t get in there and harvest this year, we’re building out this cool tunnel that connects the garden to the storeroom. In the long term this will help us in a big way, but right now it means we’re just not gonna be able to—there’s gonna be some disturbances in the underground garden this year.
+
+SYLVIA: Yeah.
+
+AUSTIN: You know? Cool. Fero, now comes the most amazing part.
+
+KEITH: Mmhmm.
+
+AUSTIN: I need you to roll 2d6 again. This is an occurrence. And in the book, there’s a list of occurrences, so, just give me a…
+
+KEITH: [sarcastic] Oh wow, I can’t—I’m sure that a lot of them are good news!
+
+AUSTIN: Uh huh, can’t wait!
+
+KEITH: Roll 2d6, and we’re gonna get one of the ones that are good news. Six! 
+
+AUSTIN: So what’s—it’s a four and a two.
+
+KEITH: Oh, are there two occurrences?
+
+AUSTIN: [laughs] Oh my god! No, there’s a table, and then there’s a—there’s a table—
+
+DRE: Oh, great. Good
+
+AUSTIN: There’s a table—
+
+SYLVIA: Oh my god.
+
+AUSTIN: There’s a table? And then there’s a list, there’s like six things on the table. And what you got is four, two. [reading, laughing] “Domesticated animals have broken into the storeroom and made a mess of the food supply. All but 1d3 of the food is destroyed.” Which is, honestly, so on point with what we did this turn.
+
+KEITH: Yeah. Yeah, it really is.
+
+AUSTIN: You built a [laughing] subterranean menagerie that was connected to this storeroom by a tunnel. [all laugh]
+
+SYLVIA: I wonder why that went wrong?
+
+AUSTIN: [laughs] It’s really funny! It’s—
+
+SYLVIA: Oh my god.
+
+KEITH (as Fero): Guys, I’m sorry, I swear to god I was—the next thing I was gonna do was a gate! [laughter] Like, I had the wood to do the gate, like right there!
+
+AUSTIN: Oh, no.
+
+SYLVIA: Everybody’s just like “Ohh, a gate…”
+
+AUSTIN: Well, Keith, I need you to roll—Fero, I need you to roll 1d3. Please roll a three, for your own sake.
+
+KEITH: No, wait, don’t I want to roll a one?
+
+AUSTIN: No, it’s all but 1d3. [laughs]
+
+KEITH: Ohh.
+
+AUSTIN: Which is, you know what? That makes it good that you didn’t get a lot of food this turn, ‘cause that would have been really disappointing. Imagine if you all had done the 4d6—
+
+KEITH: One.
+
+AUSTIN: Okay, well you got one? Good. Great. You have one food.
+
+KEITH: What is up with these rolls?
+
+AUSTIN: [laughs] It’s bad, it’s bad! It’s not good!
+
+KEITH: This is a joke that I wasn’t here for, but [DRE: Oh, yeah] I can assume, a lot of the context here. Throndir says, “Who forgets to build a gate? That’s like breaking the storeroom on the first turn, then not fixing it for three years!”
+
+DRE: So we broke the storeroom on the first turn, with our occurrence—
+
+KEITH: Yeah, how long did it take you to fix it?
+
+DRE: About three years. [Keith laughs]
+
+AUSTIN: Red Jack even gave y’all like a whole lecture about it. It was good.
+
+DRE: It cost all my fuel!
+
+KEITH: Oh, is Red Jack here?
+
+AUSTIN: Red Jack’s here, yeah.
+
+DRE: Yeah.
+
+AUSTIN: Red Jack is here, again, Corsica Neue...
+
+KEITH: I don’t think Fero’s met Red Jack, right? I don’t think…
+
+AUSTIN: No, I guess—oh, maybe briefly towards the end of the season, but maybe you’d already bounced. No, I think you already bounced, ‘cause Red Jack and Rosana led people from like Velas and Rosemerrow, to meet up with Corsica Neue’s group and then head south. So yeah, I don’t think you’ve met Red Jack. Emmanuel is here. Victoria Solomon and Dr. Gloria Lake are like in and out, they’re kind of exploring the world and trying to get a handle on the outside world; they can answer questions for you about that. I mean, this is—so this is the phase that we’ve added, which is like, the NPC catch-up phase. So Fero, who do you want to talk to? Which NPC—you can ask me like, oh is so-and-so here? And I’ll let you know, and that won’t use your turn, but. It’s anyone who’s listed and anybody who like, it makes sense for them to be there, you know?
+
+KEITH: Yeah...
+
+AUSTIN: You all kind of get one question for them.
+
+KEITH: ...You know, how about, Chatterchin’s right there, right in front of me.
+
+AUSTIN: Yeah, Chatterchin is right there and in front of you. Where do y’all meet up with Chatterchin? Does Chatterchin come to you or vice versa?
+
+KEITH: How about I go to Chatterchin? Let’s do that.
+
+AUSTIN: Yeah. How long into this year does this conversation happen? Is it like, you found the—
+
+KEITH: Two days.
+
+AUSTIN: Okay, so it’s early. That’s good, I’m glad that you’re like—
+
+KEITH: It’s early.
+
+AUSTIN: —you’re actually having the conversation pretty early on.
+
+KEITH: Yeah.
+
+AUSTIN: Where is it? Is it like where the gnolls are hanging? Is it—
+
+KEITH: Where are the gnolls hanging?
+
+AUSTIN: I don’t know. Anyone here have thoughts on that?
+
+SYLVIA: I mean...yeah, I’m not sure, it kind of depends on if they’re not comfortable being in the dormitories or not, right?
+
+AUSTIN: I actually think—here’s what I think. I think it’s been five years. Two things. One: one of the things that happened during the Rosemerrow investigation game is that Adaire gave information to Marisol Sweetwater, who was like the editor-in-chief of the one like, monthly publication in Rosemerrow. And that information was about the first contract, which was like the constitution, the kind of Rosemerrow constitution, that proved that the gnolls had their culture stolen away from them and had their land taken away from them, and the halflings had kind of—
+
+KEITH: And their, like, technology, too?
+
+AUSTIN: Everything. Everything, exactly. And Marisol Sweetwater was like, yeah I’ll look into it I guess, [laughs] and did. And offscreen I think, the word started to spread that there was actually—you know, I don’t think it changed the minds of every halfling ever, right? But word did spread that things were not the way that they were taught. You know, there’s kind of a run of like, the things in our history books aren’t what they—aren’t right. They don’t have history books, but the things that our history teachers are telling us are maybe not as simple as we thought. And I suspect that for the first couple of years, the gnolls were living beyond the dormitory—beyond the campus walls, but inside of the kind of star-stuff shimmer. But maybe in like year three or four, they did move in to the dormitory, right? And were like, you know, we have the space, we are not like—it’s cold, it’s raining. We want to be inside, we get to be inside here. I imagine that Corsica Neue and Red Jack and I imagine the two of you, Throndir and Ephrim, kind of made a point of that?
+
+SYLVIA: Mmhmm!
+
+AUSTIN: Awesome. Maybe it even took less than that, maybe it was year one, you know what I mean? But I do imagine that at first there was some resistance, because of years of kind of internalized self-hate, and you know it can be hard to break and actually understand when something is being legitimately offered versus when, for them, they’d been oppressed for so long, it had not been. So yeah, they’re in the dormitories, is where they live. But then you know, they’re everywhere on campus, you know. You could have met Chatterchin at the meeting hall, where people eat and watch, you know, stage performances, and play live music, or you could have met him doing work at the storeroom, you know.
+
+KEITH: Mmhmm. 
+
+AUSTIN: So, up to you. As like a co-author, where you want to frame the scene.
+
+KEITH: ...I—how about, yeah, how about I just go to the dormitories, [AUSTIN: Okay] like I just go and be like, eh, Chatterchin’s probably there.
+
+AUSTIN: Yeah, and he is, and I think that you get like—you actually get a lot of like, angry looks from various gnolls? They kind of like—they let you pass, but they kind of like give you that look as you pass by, you hear someone,
+
+AUSTIN (as unnamed gnoll): [muttering] Fero? Fero...
+
+AUSTIN: And you find Chatterchin, and I think he is sitting on the edge of a—there’s a lot of bunk beds here, but he has a regular bed, and he’s like sitting upright on it, and is like taking notes on stuff. And he looks up at you, and he’s like,
+
+AUSTIN (as Chatterchin): [sigh] I heard, ha, I heard you were back. Didn’t expect that.
+
+KEITH (as Fero): Uh...yeah, I’m—yeah. I’m back. I mean—
+
+AUSTIN (as Chatterchin): Is this for good? Or are you leaving again?
+
+KEITH (as Fero): I guess we’re both—what’s that?
+
+AUSTIN (as Chatterchin): Are you leaving again, or are you staying this time? 
+
+KEITH (as Fero): Um...well, I guess this—
+
+AUSTIN (as Chatterchin): Is this a quick stop? On your way through the world?
+
+KEITH (as Fero): I’m here for a little, I’m here for a bit. I don’t know how long—
+
+AUSTIN (as Chatterchin): Oh, no promises...this time.
+
+KEITH (as Fero): Well, what do you want me to promise to do?
+
+AUSTIN (as Chatterchin): Nothing ever again. Don’t make me a promise, Fero.
+
+KEITH (as Fero): Okay, I—
+
+AUSTIN (as Chatterchin): That’s the promise I’d love.
+
+KEITH (as Fero): Listen.
+
+AUSTIN (as Chatterchin): [scoffs] 
+
+KEITH (as Fero): I get it. I, you know. But I had to go, ‘cause I thought that I could stop—
+
+AUSTIN (as Chatterchin): You what? You what? You get what, Fero?
+
+KEITH (as Fero): I get that—why people are mad at me.
+
+AUSTIN (as Chatterchin): [sighs]
+
+KEITH (as Fero): I get that people are mad at me and I get why people are mad at me. But I thought that this, here, where we all are now, I thought that if I left, I could stop it. This is what I thought was important enough to leave for. To stop this.
+
+AUSTIN (as Chatterchin): Then you shouldn’t have promised to begin with. Hmm?
+
+KEITH: [softly] Did I promise?
+
+AUSTIN: Oh, yeah.
+
+KEITH: Yeah, I guess so.
+
+KEITH (as Fero): Yeah, I—yeah. You’re right.
+
+AUSTIN: [sighs] He like looks down at his notes and stuff and is just like,
+
+AUSTIN (as Chatterchin): Well, good luck. I’ll make sure that we stay out of your way as you help.
+
+KEITH (as Fero): I mean, no, you don’t have to stay out of my way.
+
+AUSTIN (as Chatterchin): Oh, I will make sure we stay out of your way while you help.
+
+KEITH (as Fero): Okay. Well, you can do that, I just—
+
+AUSTIN (as Chatterchin): I promise you that’s a favor for you.
+
+KEITH (as Fero): Listen, I just wanted to say sorry, is it.
+
+AUSTIN (as Chatterchin): You wanted to.
+
+KEITH (as Fero): And I am, I’m sorry. I wanted to, so now I am, and I’m sorry.
+
+AUSTIN (as Chatterchin): Okay. See you around, Fero.
+
+KEITH (as Fero): Yeah, bye, see ya.
+
+AUSTIN: And people make way for you and let you leave, and no one hassles you. But I do think that they keep their distance, for this year, at least. There’s like one of those things of just like, the story gets told, and gets retold, and gets retold, and is like...there’s gonna have to be material, you know, effort put in to repair that relationship, you know? 
+
+KEITH: Mmhmm.
+
+AUSTIN: I think that is probably the takeaway that seems clear for Fero, is like, there’s a lot of work to be done. 
+
+[TIMESTAMP: 0:54:34]
+
+[“(Welcome To) Aubade” track plays]
+
+AUSTIN: How have things been for you four, for this year? Any stand-out events, any major changes? Does anyone want to describe anything, that they kind of shook things up—or not! Or just a day in the life, if not. And this can be any time this year.
+
+ART: Are you asking for like a status report, or are you asking for a scene?
+
+AUSTIN: Both, right? Like I want the status report in general. And I feel like four years is a long time to be in a place, right?
+
+ART: Four years is a long time to be in a place.
+
+AUSTIN: Four years and you’ve spent...you know, four years is what we did in college, Art, and it’s easy for you and me to be like, oh yeah that was that part of my entire life with Art, hanging out with Art for four years. I lived in Canada for four years, four and a half years, and it’s like, that was a whole chunk of life. Whereas when I spent like, oh yeah, I spent a year or two here, like, it means something, but like it’s harder to track progress as a person, or like lack of progress as a person. If you spend four—I’ve spent years places and been like, damn, I basically was in stasis. [laughs] And so I’m curious—so yeah, let’s start with a general status report, how is everyone feeling at year four? The beginning of year four.
+
+ART: I’ll go first.
+
+AUSTIN: Sure. [Ali giggles]
+
+ART: Been better? 
+
+AUSTIN: Yeah.
+
+ART: I think, you know, I think there’s a part of Hadrian that’s starting to despair.
+
+AUSTIN: Mmm.
+
+ART: That like, you know, Hadrian thought that he’d be home by now.
+
+AUSTIN: Yeah.
+
+ART: And so there’s just like a...a kind of like sad resignation, you know. If this were like a movie or a sitcom—I don’t know why I said sitcom, sitcom is not the genre we’re doing. [Ali laughs] But like, it would be like, Hadrian would have a beard, right? That’s what that would be?
+
+AUSTIN: Oh, does Hadrian have a beard now?
+
+ART: He would have like the unkempt beard of, I just don’t care anymore, right, that’s the…
+
+AUSTIN: Mmm.
+
+ART: Or...oh, like—I’m going again with a not-on-theme comedy. But you know in Anchorman, when Ron Burgundy gets fired, and he’s like wandering the streets?
+
+AUSTIN: Yeah.
+
+ART: I think we’re in like that manner of Hadrian. He’s not wearing like a red suit or anything, though. Not yet, at least. Talk to me in year five. [laughter]
+
+AUSTIN: Yeah, we’ll see, we’ll see, we could get another costume change. Is this about like, for Hadrian, is it...I mean all you can do is wait, right? Like, you don’t—
+
+ART: Yeah, and that’s not...that’s not his...and I think Hadrian would have told you that he could.
+
+AUSTIN: Mmm.
+
+ART: That like, before this happened, if you’d have been like ‘Hey Hadrian, what if what you had need to do was just wait and be content and study and, you know, be literally with Samothes, could you like chill and not worry about things for four years?’ And Hadrian would be like ‘Yeah, that would be perfect, that’d be the best thing’. And it turns out that’s not the best thing, it’s terrible. He’s restless, he doesn’t feel like he’s accomplishing anything.
+
+AUSTIN: Are you spending time with Samothes often? And if so, are you like—have you brought this up? And we don’t have to do that scene right now, but I kind of want to know like, is it a lot of like hanging around and not having that conversation and instead talking about...what it means to be a good person? Like I don’t know what the conversations look like there. If there are any.
+
+ART: I think it’s probably like a really high ratio, right? I think it’s like, you know, Hadrian tries to talk to Samothes like two, three times a week.
+
+AUSTIN: Mmhmm.
+
+ART: And so that’s like 150 times a year—
+
+AUSTIN: Yeah.
+
+ART: —if a year here is the same number of days a year in our world is?
+
+AUSTIN: Sure.
+
+ART: And like, maybe two of those, he’s like, “Hey!”
+
+AUSTIN: Two of those a year? Or two of those a—
+
+ART: Two of those a year.
+
+AUSTIN: Oh, okay. You get like two real talks.
+
+ART: He’s like...yeah, hey. Like every six months he’s like, hey. 
+
+ART (as Hadrian): What’s up, why are we doing anything, why can’t we leave, like this really seems like this is something you should have figured out by now—
+
+AUSTIN: Mmm.
+
+ART: —like not that confrontational, but like.
+
+AUSTIN: Right. And he like very patiently walks you through, like,
+
+AUSTIN (as Samothes): Yeah, we tried. It doesn’t it—it’s not that we didn’t try, it’s that we tried for years and years and years, and instead decided to make a place that we could be content living here.
+
+AUSTIN: Right?
+
+ART (as Hadrian): Right, but like, is there something I could be doing, like is there—
+
+AUSTIN: Yeah. Right. Of course.
+
+ART (as Hadrian): I really want to get out of here, there are people I need to see, there are things I need to do.
+
+AUSTIN: And then the other 147 conversations are just, like…
+
+ART: What’s being a good person like? 
+
+AUSTIN: Yeah.
+
+ART: You know, what do you think—
+
+AUSTIN: What’s the coolest part of making the sun?
+
+ART: Yeah, what was that like? I mean I bet Hadrian’s heard that story like, ten times by now—
+
+AUSTIN: Right.
+
+ART: —and is like, well it’s a pretty good story, you know.
+
+AUSTIN: Yeah, yeah. [Ali laughs] Cool. Alright.
+
+ART: Yeah.
+
+AUSTIN: Other folks, how’s the mood faring?
+
+JACK: Lem is pissed.
+
+AUSTIN: Yeah. [Ali laughs]
+
+JACK: [laughs] You know when you have a deadline—
+
+AUSTIN: [emphatically] Yeah. [mild laughter]
+
+JACK: And you have to hit it. It’s one of those deadlines that you just have to do.
+
+AUSTIN: Yeah, uh huh.
+
+JACK: And you sit down at your desk, and you’re like, today’s the day. [laughs]
+
+AUSTIN: Yeah!
+
+JACK: Not even today’s the day that I’m gonna get something done, today’s the day that is gonna work, you know?
+
+AUSTIN: Mmhmm.
+
+JACK: Like I’m gonna write something really beautiful, or I’m gonna make some progress in some way, and it doesn’t happen, and you go to bed at the end of the day kind of filled with this animus, this sort of rageful animus, that like—
+
+AUSTIN: Mmhmm.
+
+JACK: I just, like, I was at my desk, and I tried, and nothing happened. Imagine that for a year.
+
+AUSTIN: Mmhmm.
+
+JACK: Like just nonstop. The pattern—we last saw Lem with this like absurd goal, right? This ridiculous overscoped goal, of being like, I’m gonna solve it.
+
+AUSTIN: Yeah.
+
+JACK: And if you were to ask him, what are you going to solve? He’d be like, “...the problem”.
+
+AUSTIN: Right, right. [laughter]
+
+JACK: And now he’s finding that like, that he can’t like do that. Does the pattern work in Aubade, in the sense that the orcs consider it?
+
+AUSTIN: [sighs] There is a pattern here. I think, you know, you spend—there’s no roll here, it’s Aubade, right, you get the information.
+
+JACK: Sure.
+
+AUSTIN: You spend the time, you get the information. There’s a pattern here; it’s a different pattern, right? I think it’s a...you can probably still find some root pattern there, because it’s...you know, this blade is made of the same stuff that the world is made of.
+
+JACK: Sure.
+
+AUSTIN: It’s matter, right? And so it has to connect to some way back to Hieron. But it’s so different, it’s so much more removed and misaligned, right, or aligned in different ways. You know, it’s almost as if everything...I mean, Lem doesn’t know this, because Lem is not like, an atomic physicist or whatever, right? [laughs] [Jack laughs]
+
+AUSTIN: But it’s almost as if everything in Hieron has the same basic like—not just the same basic building blocks, in terms of what the building blocks are made of, but like...It’s like, okay, here’s what it is. Everything in… [laughs] I guess this sort of works. Everything in both Aubade and on Hieron are—as a person, you see them as pixels on a screen, right. They just look like pixels. And, you know, the same whatever—the computer is rendering something. But Hieron is polygons, and Aubade is voxels, right?
+
+JACK: Yeah.
+
+AUSTIN: And it’s like, well, there’s some commonality here, at the bottom, right, there is—
+
+JACK: I can make an object out of these.
+
+AUSTIN: A hundred percent. And there’s, you know, the basic fundamental ‘I’m getting something to render on a screen’ is probably similar in some way—and please don’t correct me, I know this is a bad metaphor, [Jack laughs] I know that I’m probably wrong about this, but you get what I’m saying. And here it’s just not, it’s a different situation. And so I think you learn. Like you can—if you wanted to do pattern magic here, you could.
+
+JACK: Well, I think that’s part of it, and I think that’s how Lem kind of spends the first six months.
+
+AUSTIN: Mmhmm.
+
+JACK: Is that he goes—he sort of justifies it to himself by saying like, sure, I can stack blocks, but if you asked me to stack blocks underwater, of course I’d struggle at first. 
+
+AUSTIN: Right.
+
+JACK: Like, of course I’d struggle, so like let me get right back down to basics.
+
+AUSTIN: Mmm.
+
+JACK: And I think he drills himself with like, old-school archive training.
+
+AUSTIN: Mmhmm.
+
+JACK: Just like...you ever see that visualization of how different algorithms sort things?
+
+AUSTIN: No.
+
+JACK: Have any of you seen this? Oh, it’s great. It’s an animation of different sorting algorithms, showing simultaneously. Showing things being sorted alphabetically, or being sorted by size, or being sorted by scale, and the way they work. So I think like, that’s what basic pattern training looks like? It’s like, can you execute the pattern to arrange these objects in the right way.
+
+AUSTIN: Mmm.
+
+JACK: Or, can you execute the pattern to very slightly change the texture of an object. And he gets it! And then he sits back down at his desk, over the next six months, over what, June to December, and just like absolutely no progress is made whatsoever! And so I think when I said Lem is pissed, what we’re seeing is Lem at the point of that realization, of going like: I tried to meet this thing on its own terms, and I’ve gone backwards, if anything.
+
+AUSTIN: Is the—what makes you fail?
+
+JACK: I don’t know! What makes you fail when you can’t write that day?
+
+AUSTIN: Totally, totally. But I think there’s a distinct difference between—I’ll put it this way. Like, I like to think of myself as a writer. I have those days, a hundred percent. And I have periods, I have stretches, I have month-long, you know, periods where it’s like, I sat down to write this thing and I couldn’t do it. The six-month-long, ‘I’m making no progress on a variety of projects’, tends for me to be [laughs] a broader failure at work. [Jack laughs] Does that make sense, do you know what I’m saying?
+
+JACK: Yeah, yeah, absolutely, I think you’re right.
+
+AUSTIN: Where it’s like, I fucking can’t—and, those tend to be either, I’m lacking some training or knowledge, I’m not getting the resources I need, some other part of the production process—and I am not talking about this show, to be clear— [Jack laughs] There’s something wrong in the pipeline somewhere, whether that could be about having access to certain resources or materials, or having to rely on someone else to do a thing, and I can’t control other people. Or having different expectations, right? But some of those are not here, right, like—
+
+JACK: Sure.
+
+AUSTIN: You have the resources here, you have the time, so I’m curious like, what is it that Lem is—it could just be, it’s different here, but I want to just drill down a little bit and figure that out.
+
+JACK: I think there’s a petulance that comes with believing that you—being told that you are capable of doing something—
+
+AUSTIN: Mmm.
+
+JACK: —and finding time and time again that you can’t. And I think in that case, what we’re talking about is a lack of knowledge. But that’s more—there’s different kind of lack of knowledge, right? I don’t know—I, Jack, don’t know how to play the violin. And I also don’t know how to fly.
+
+AUSTIN: [laughs] Right.
+
+JACK: One of those things I can alter. I can fly—
+
+ART: You’re too old to play the violin, that’s just—
+
+JACK: Art, Art, I think about this every single day. [laughs] [laughter] Every single day I think about this. I think perhaps Lem could work to execute the problem that Uklan and the orcs have sent him here to— [laughs] or, have sent him to—
+
+AUSTIN: Mmm, yeah.
+
+JACK: He believes he has been sent here to do. 
+
+AUSTIN: Right, right.
+
+JACK: But I think he is so lacking in the experience, and also in the guidance or direction that he needs to fulfil this in a way that will satisfy him, and in a way that will satisfy what he believes to be the people who have asked him to do this.
+
+AUSTIN: Right. So you think if this was a more like open-ended exploration of learning and experimenting and just like, yeah let me figure out some new stuff, Lem would be succeeding. But because it’s this very—
+
+JACK: Maybe if he had a mentor, as well.
+
+AUSTIN: Sure, sure.
+
+JACK: But he wouldn’t ever work with one. He’s—
+
+AUSTIN: Yeah, that’s the other thing, is like, you could have a mentor here, right, like I’m sure there is some old archivist in here. But—
+
+JACK: No, but Lem’s like, I’ve got it, I’ve got it, I’ve got it. I’ve got it. I have.
+
+AUSTIN: And he does not.
+
+JACK: [laughing] And he does not remotely.
+
+AUSTIN: Great, good, good, angry Lem. Adaire, Hella?
+
+[TIMESTAMP: 1:07:02]
+
+JANINE: I have a thing, but also it rolls directly into a scene, so I should maybe go last.
+
+AUSTIN: Well then we’ll save that, yeah. Hella, how about you?
+
+ALI: So, year four is the year that Hella gives out apology cards.
+
+AUSTIN: Oh my god, what?
+
+ALI: Which [laughs] is also a thing that can roll into a scene.
+
+JANINE: [loud whisper] Describe her stationary, I need to know what her stationary looks like, thanks. [Ali laughs]
+
+AUSTIN: Good question, good question. Good answer, good answer!
+
+ALI: Yeah, it’s weird, because I wasn’t sure if I was gonna like frame a scene around it, or just be like, I have a couple ideas in mind, here’s who she gives them to.
+
+AUSTIN: Yeah.
+
+ALI: But I think specifically it’s like a—the last episode, we ended on a holiday, and I think it’s like a post-holiday stationary. [laughs]
+
+AUSTIN: Oh, that’s really good.
+
+ALI: That she got, like specifically—Adaire like, commissioning someone in the town to like, so she can sell holiday cards at the store, and then Hella being like, oh they’re on sale now. [laughs]
+
+AUSTIN: Right.
+
+JANINE: And she like, picks up the generic ones that are all like doves that say “wishes for peace this season”. [laughter]
+
+AUSTIN: And then, are you delivering them to people you’ve killed?
+
+ALI: No, no no no—
+
+AUSTIN: Oh, okay—
+
+ALI: No no no.
+
+AUSTIN: You’re not apologizing for that.
+
+ALI: [sigh] I mean—
+
+ART: Ha!
+
+JANINE: If they got killed, they earned it. [laughter]
+
+AUSTIN: Sorry, Ginny, whoever the fuck you are, whatever you’re doing.
+
+ALI: Oh, god, yeah, I don’t know that she’s seeked out Ginny, they had a deal—
+
+AUSTIN: Uh huh.
+
+ALI: —and didn’t need to pick that one up again. But, okay, there’s one for Lem, there’s one for the star, there’s one for Hadrian. I haven’t really thought of one for—there’s a joke one for Adaire, and I could also probably do a serious one for Adaire. [laughs]
+
+AUSTIN: We gotta hear both. [laughter]
+
+ALI: [laughing] Those are mine.
+
+AUSTIN: Let’s zoom in on this now because this is like a scene, but it’s kind of like a—not like a half scene, but it is like a...they’re like little micro exchanges, so yeah, let me hear about these cards.
+
+ALI: Okay. I’m gonna go with Lem first.
+
+AUSTIN: Okay.
+
+ALI: ‘Cause I think this is the one that I have the clearest like mind of.
+
+AUSTIN: Where do you find Lem? Lem, where does Hella find you?
+
+JACK: In my laboratory, I guess.
+
+AUSTIN: How angry are you when she arrives? [laughs]
+
+JACK: [sighs]
+
+AUSTIN: Like what’s the expression on your face as the knock hits the door?
+
+ART: You needing an apology card when that happens? [laughter]
+
+JACK: I’ve just woken up.
+
+AUSTIN: Okay.
+
+JACK: I think the knock has woken me up, I’ve fallen asleep in my chair.
+
+ALI: Oh.
+
+JACK (as Lem): I’m just coming, I’m just coming.
+
+JACK: And Lem opens the door, and he’s just absolutely disheveled. You can see papers and stuff behind him.
+
+ALI (as Hella): Oh, hey...hey, are you good? [Austin laughs]
+
+JACK (as Lem): It’s been... [sighs] Come in, take a seat, anywhere’s good.
+
+ALI (as Hella): Do you have like a cold?
+
+JACK (as Lem): What?
+
+ALI (as Hella): Do you have a cold, is this…?
+
+JACK (as Lem): Can’t get them here. Can’t get a cold here.
+
+ALI (as Hella): Oh.
+
+JACK (as Lem): I tried.  [laughter]
+
+ALI (as Hella): Did you just like, go outside wet, in wet clothes I guess, didn’t wear shoes for a week? How did you try to get a cold?
+
+JACK (as Lem): Well, that, that, and then I found some more esoteric...you know, pro...you know, ways, and they didn’t work, it’s just...what are you doing here?
+
+ALI (as Hella): I—sorry, sorry, you just—
+
+JACK (as Lem): No, I’m sorry, that was rude of me. It’s good to see you, Hella. You can sit down there, just put all that stuff on the floor, it’s fine.
+
+ALI (as Hella): Okay, I won’t be here long if you’re like busy? I just had this card that I wanted to give you. And we can—
+
+JACK (as Lem): Who’s it from?
+
+ALI (as Hella): From me.
+
+JACK (as Lem): Oh!
+
+ART: Who’s it from… [Ali laughs]
+
+AUSTIN: Oooh.
+
+ALI (as Hella): It’s from me, I just—I wanted to give me and you the option not to talk about it out loud, but...we had a good time at that holiday party, and I just enjoyed spending time with people. We’re in a magic sword. I just felt like, if I was gonna talk to anyone, it would be now. Right?
+
+JACK (as Lem): Right. What—what do you want to talk about?
+
+ALI (as Hella): This letter, which is very nice by the way. [laughs] It has all this gold paint on it, I thought it was really nice, it’s like—
+
+JACK (as Lem): Oh, it’s very nice.
+
+ALI (as Hella): Yeah. I think it’s very nice. Adaire...she’s doing a good job at the shop, and I really—I just, [nervous] I liked these cards, and I wanted to buy them for people, and I wanted to say that I’m sorry, to you, for, um. This is the worst one. Remember when we were in Nacre?
+
+JACK (as Lem): Yeah.
+
+ALI (as Hella): And...I never said anything then. And I didn’t say anything for four years. But then, [nervous laugh] it’s fucked up that I almost left you there. And I’m sorry about that.
+
+JACK (as Lem): Is that what the card says? [loud, sustained laughter]
+
+AUSTIN: [laughing] Alternate reality where Hella just drops the card off in the mailbox, and Lem wakes up, goes outside, opens it, and it says, “and that was fucked up”. Ohh.
+
+JACK: Oh, god.
+
+AUSTIN: Bless.
+
+ALI (as Hella): I mean, it mostly says that. And also mention the party, I did that part too in the card.
+
+JACK (as Lem): This is—this is really sweet. Have you—have you given these to other people yet?
+
+AUSTIN: [laughing] You fuckup? Who has a lot to apologize for?
+
+ART: Hella, you know you fucked up a lot, right? That’s… [Ali laughs] That’s the question you were just asked, I’m just making sure you know. [Jack laughs]
+
+AUSTIN: If you need a proofreader, or edits. [laughter]
+
+JACK: Don’t give him ideas.
+
+ART: You know.
+
+ALI (as Hella): I mean, there’s a few. Not as many as you’d think, I bet.
+
+JACK (as Lem): Well...thank you for coming by. I should probably get back to work, but it means a lot that you’d give this. I’m gonna open it, and I’m gonna put it on my desk where I can see it. Do you...do you want me to forgive you?
+
+ALI (as Hella): I...I should have...I should have given this to you at a better time.
+
+JACK (as Lem): No, no, no, it’s fine, it’s fine, it’s been a—you know.
+
+ALI (as Hella): I guess that’s like one of the things about guilt is that like, I don’t know that you thought that it was a fucked up thing to do, I still think it was.
+
+JACK (as Lem): I thought it was a bit fucked up, but you didn’t leave me there, Hella. We’re in the sword together.
+
+ALI (as Hella): Yeah, but...yeah. I mean, I guess it worked out, right, but that’s not the important part.
+
+JACK (as Lem): What is?
+
+ALI (as Hella): Well, that you—well, I guess you still trust me, so I don’t know.
+
+JACK (as Lem): No, I trust you.
+
+ALI (as Hella): I just think, if I were you. [laughs]
+
+JACK (as Lem): If you were me?
+
+ALI (as Hella): If I were you, and I had to ask me a favor, I would be like, but there was that time, right?
+
+JACK (as Lem): Right, that is...yes. Yeah, you’re right.
+
+ALI (as Hella): And like, we’ve been here for four years, and I just, you know. I don’t want there to be a part of you that thinks...I really have a good time with Hella, but. You know?
+
+JACK (as Lem): No, I don’t think that.
+
+ALI (as Hella): [surprised] Oh.
+
+JACK (as Lem): No. I...it must have been weighing on you.
+
+ALI (as Hella): Well...I don’t know. We’ve been here for a while. And it’s just like…[sighs] It’s like you’re busy all the time, and I can’t help you with this stuff, right? And like we would walk around in the woods, and I could help you with stuff, right?
+
+JACK (as Lem): Like, by killing people.
+
+ALI (as Hella): Well—but—ugh, like— [laughter]
+
+AUSTIN: Where’s the lie, though?
+
+ALI (as Hella): And I have that teapot, and we would talk, and it would be—you know what I mean. It wasn’t this.
+
+JACK (as Lem): [sighs] No. But we’ve found ourselves in a strange place at a strange time. And there’s work to be done.
+
+ALI (as Hella): Well, yeah. I mean, I thought that too. That’s why I got that boat. But then it was just nice to like...you know, think about it.
+
+JACK (as Lem): Oh, that was a work boat?
+
+ALI (as Hella): [laughs] Well, sort of, it was like a security thing. Like I was gonna like do patrols, and it just was...
+
+JACK (as Lem): Huh.
+
+ALI (as Hella): Embarrassing. [laughs]
+
+JACK (as Lem): That’s interesting.
+
+ALI (as Hella): What’s interesting about it?
+
+JACK (as Lem): Oh, it’s just, I’ve been so busy, it’s just nice to know what my friends have been up to, when we’re not all in a boat together. I saw Hadrian, he’s really...he’s—it’s not going well for Hadrian.
+
+ALI (as Hella): Yeah, I have to go see him. I have a card for him, too. He’s one of the ones. [laughter]
+
+JACK (as Lem): Well, don’t let me keep you. Can I give you anything for...just tell Hadrian...tell Hadrian that I’m thinking of him, and that I’m thinking of...what’s his—he has a son, right?
+
+ALI (as Hella): Ben, yeah, what?
+
+JACK (as Lem): Ben. Tell him that I’m thinking of Ben.
+
+ALI (as Hella): Have you—did you not know that?
+
+JACK (as Lem): No, I knew that, there’s just a lot of—I’ve got a lot on my plate.
+
+ALI (as Hella): Oh, you’re reading names all day, that’s right, I’m sorry. Are you sure you’re okay?
+
+JACK (as Lem): Nope! [laughter]
+
+AUSTIN: Damn. Same.
+
+JACK (as Lem): Thanks for coming by, Hella.
+
+ALI (as Hella): Yeah. Yeah. I’ll bring you dinner tomorrow.
+
+JACK (as Lem): Are you sure?
+
+ALI (as Hella): Yeah. Look at you.
+
+JACK (as Lem): Thank you very much. Thanks. 
+
+ALI (as Hella): Yeah. Okay. I’ll see you then.
+
+JACK (as Lem): Alright.
+
+ALI (as Hella): Alright, bye.
+
+JACK: And Lem just doesn’t close the door? [Ali laughs] Like Hella leaves, and the door just kind of remains open. Does she like come back up the steps to close the front door, or does she just sort of leave it there? [laughs]
+
+ALI: Is it like a door to the outside, or is it like—
+
+JACK: It’s like a door to an internal...I guess I’m just picturing those like, the apartment that I’m in now, you know, where the apartment opens up into a corridor.
+
+ALI: Oh, okay, but it’s like other people’s private spaces?
+
+JACK: Yeah yeah yeah. Mmhmm.
+
+ALI: She closes it behind her.
+
+JACK: There’s no sound from the room. [laughter]
+
+AUSTIN: Perfect. Good. Who is your second card to?
+
+ALI: I guess I’m going to Hadrian now. [laughs]
+
+AUSTIN: Great.
+
+ALI: Where’s Hadrian? No, this should be—I should be inviting you somewhere. It should be like a—I’m stopping of at Lem’s, and then I asked you to meet me at like a cafe or something.
+
+ART: Sure.
+
+ALI: [laughing] Unless you had a better idea, I’m sorry.
+
+ART: No, that’s—I didn’t have an idea.
+
+ALI: Okay.
+
+ART: I was gonna restate Hadrian’s existing obligations, and…
+
+ALI: [laughs] Okay. I was just thinking, if you’re in like a ‘wandering the streets, got a beard’ stage, she’d be like, let me invite you out, and we’ll go...right? Okay.
+
+ART: I mean, Hadrian’s still doing dock day, and still doing—
+
+AUSTIN: Like, shrine stuff.
+
+ART: Work at the shrine, and spending two days, three days a week hanging out with Samothes. Who I guess is just not mentioning the decline in…
+
+AUSTIN: Yeah, I guess is just being very polite. So I think that there is, if you’re—maybe it’s like a shrine day, and there is like, not a—I suspect there are, you know, the Shrine of Sabinia corner of this city is mostly like fields and then the big shrine, but I kind of like the idea of there being, near one of the major roads that kind of separates it from one the other districts, something more like a pub or a sausage house, or like a—you know what I mean? Like a little more…
+
+JANINE: Yeah.
+
+ART: Hella and Hadrian, meetin’ at the sausage house. [Ali laughs]
+
+AUSTIN: It’s a sausage house, I love it. Hella and Hadrian at the sausage house.
+
+ALI: Yeah, I was thinking something where like you can get like a good soup, like a good meal.
+
+AUSTIN: Yeah! Yeah. Hearty.
+
+ART: Yeah. But it’s important that everyone have like that accordian polka sound in their heads during this scene.
+
+AUSTIN: Yes. [Ali laughs] Perfect, yeah. And people get out of the fi—you know, it’s like, you’ve done your big harvest yield or whatever, and you’re like, fuck, I gotta get a good soup, I gotta get a good meat stew—
+
+ALI: Mmhmm.
+
+AUSTIN: —in me, and then you go there.
+
+ALI: They’ve maybe gotten like a—
+
+AUSTIN: Who gets there first? Who’s waiting for the other person?
+
+ART: I mean, if this is a continuous day as implied, I think it makes more sense for Hadrian to be there first?
+
+AUSTIN: Sure.
+
+ART: ‘Cause it just feels like that last conversation went a little longer than perhaps budgeted.
+
+AUSTIN: Fair.
+
+ALI: Fair, yeah. So I think Hella comes in like,
+
+ALI (as Hella): Oh, I’m sorry I’m late, I was talking to Lem. He says hi, by the way.
+
+ART (as Hadrian): Oh, great.
+
+ALI (as Hella): Do you need like a refill on your beer? Were you waiting long?
+
+ART (as Hadrian): Uh, yeah, that’d be great, thank you.
+
+ALI (as Hella): Okay. Yeah, okay. Just give me a second.
+
+ALI: And like Hella does that, like very…
+
+AUSTIN: Mmhmm.
+
+ALI: [laughs] Comes back with a big sausage and two beers, sits down. 
+
+ALI (as Hella): So what’d you get up to at the shrine, today?
+
+ART (as Hadrian): Oh, you know, it’s people coming in and out. The harvest makes everyone a little...antsy’s not right, but they’re...anxious, anxious to show proper respect.
+
+ALI (as Hella): Oh, right. Yeah, I mean, people—you know, excitement. It happens. That’s fun, that must be fun.
+
+ART (as Hadrian): It’s a great time, honestly.
+
+ALI (as Hella): Okay.
+
+ART (as Hadrian): It’s nice having—I mean, it’s not my congregation, I don’t think of it as my...I’m a much smaller figure here than I am back in Velas, but it’s very nice to feel—it feels just the smallest bit of home.
+
+ALI (as Hella): Well—you know, what do you mean, like you’re—like these are still your guys, right, like y’all believe the same stuff.
+
+ART (as Hadrian): Yeah, but I—I have a leadership position...
+
+ALI (as Hella): Ohh.
+
+ART (as Hadrian): Back home, that is much less so here, I mean. To say nothing of the seniority some of these people have.
+
+ALI (as Hella): Okay. Oh, I didn’t know you would like miss that. Not that like—yeah, I guess you were like a leader. [Austin laughs]
+
+ART (as Hadrian): Yeah, it’s a fun responsibility.
+
+JACK: It’s amazing how we’re just like a group of just like… [laughs] [laughter]
+
+AUSTIN: I’ve never seen someone do a face turn in such a heelish way. [Ali laughs] It’s unbelievable.
+
+JACK: Spectacular.
+
+ART: Hella’s out here like, “Good to see you, I’ve never paid attention to anything you’ve said to me before…”
+
+ALI: [laughing] Noo...
+
+ART: Did you notice I have magic powers based on faith?
+
+ALI: [laughing] I just—Hella saw Hadrian out of the office a lot.
+
+AUSTIN: Yeah, yeah.
+
+ART: Sure, yeah.
+
+ALI: You know? [laughs]
+
+ART: I’m one of those no-church church folks. [Ali laughs]
+
+ALI (as Hella): You’re right, it’s weird, it’s like...I mean, when you think of harvests and stuff especially like, you know, High Sunday used to be [emphasis] the day. And it’s like, you know.
+
+ART (as Hadrian): Yeah, we don’t have that here.
+
+ALI (as Hella): Right! There was the star thing, the whole wall, that was cool, but it wasn’t like, the thing.
+
+ART (as Hadrian): Yeah.
+
+ALI (as Hella): It’s just been weird.
+
+ART (as Hadrian): Do you think it’s a different sun in here? I never even asked.
+
+AUSTIN: Yeah, there’s a sun in here.
+
+ART: But is it...did he make it?
+
+AUSTIN: Yeah.
+
+ART: So it’s a different sun.
+
+AUSTIN: Different sun. One of many suns Samothes has made.
+
+ART: God. Dude’s busy.
+
+AUSTIN: Yeah.
+
+ALI: [laughs] [indistinct] It was like a patent sort of thing...
+
+AUSTIN: [laughing] Mmhmm.
+
+ALI: You just make suns.
+
+AUSTIN: You just make suns. You’re the person who knows how to make suns, you make suns. Like a lot, but not—yeah. Anyway. I’m not giving a canonical number of how many suns Samothes has made, [Ali laughs] but it’s a bunch. It’s at least one for every strata, plus the one in here, and I bet he fucked up with the first one and had to make a second, like. That seems right.
+
+ART: Sure. I had no idea that each strata needed its own custom sun.
+
+AUSTIN: Mmhmm. Not each lamina, but each strata, yeah.
+
+ART: That doesn’t stay.
+
+AUSTIN: No, no, you gotta get a new one.
+
+ART: Fascinating, honestly, it’s not what we’re here to talk about, but that’s interesting.
+
+ALI: Mmhmm.
+
+AUSTIN: I bet there’s one strata where Samothes was like, no. I’m not gonna do it. And then like that whole strata, all of the lamina in that strata, just don’t have a sun, because he refused. Like fuck it—like no, I’m gonna be a teen, and be like, no fuck off.  [Ali laughs]
+
+AUSTIN: You’ll see how much you miss me. And then learn that he missed them more than the other way around. Anyway…
+
+ART: It’s fucked up, if you think about it.
+
+AUSTIN: Mmhmm!  [Ali laughs] The gods all suck! The gods all suck. So, anyway.
+
+ALI: I think it’s like a fade back into that conversation though, where like, Hella and Hadrian are talking about their favorite cool festival memories, whatever. [laughing] I can’t think of like—what was the nog site that Keith made in season one?
+
+AUSTIN: Excuse—oh, there was some sort of like…
+
+ART: It was like goose nog, right? Or…
+
+AUSTIN: Goose nog, yeah, it was goose nog, of course. [Ali laughs] Love to drink a good goose nog.
+
+ART: Doesn’t taste the same here.
+
+AUSTIN: No. Different ingredients, different water, you know?
+
+ART: Yeah. Probably different geese, right?
+
+AUSTIN: Yeah. Different geese.
+
+ALI (as Hella): Oh, different geese. Not the same geese.
+
+AUSTIN: Different geese.
+
+ART: Yeah.
+
+ALI (as Hella): I say goose nog and people are like, what are you even talking about? Like it’s goose nog.
+
+AUSTIN: Do you mean duck nog? No!
+
+ALI (as Hella): No! Anyway, Hadrian, I just...thanks for coming out, ‘cause I know that you’ve been busy, and...
+
+ART (as Hadrian): I’m never too busy for you.
+
+ALI (as Hella): Yeah, I appreciate that. I wanted to like buy you dinner and let you know that I appreciate that. It’s true.
+
+ART (as Hadrian): Hey, they don’t have money here.
+
+ALI (as Hella): Oh. Well…
+
+ART (as Hadrian): Well, I guess they do, but like…
+
+ALI (as Hella): Adaire’s been paying me [laughs] so…so I don’t know if she’s made her own currency...
+
+ART: [laughing] Does anyone take it? [laughter] Do you just have like a house full of money?
+
+ALI: I think she tells other people to just trade it, to buy boat stuff, whatever.
+
+ART: Sure.
+
+ALI: [indistinct] Anyway. [laughs]
+
+ART: I’m having a great time, I...
+
+ALI (as Hella): [sighs] It sucks talking about time.
+
+ART (as Hadrian): Yeah.
+
+ALI (as Hella): ‘Cause it’s been forever.
+
+ART (as Hadrian): Yeah, it’s been entirely too long.
+
+ALI (as Hella): I feel like I’ve taken a lot of yours especially.
+
+ART (as Hadrian): No.
+
+ALI (as Hella): Well, I just like...I think people look at us, and they’re like, why are they friends, right?
+
+ART (as Hadrian): But that’s not...that’s not important.
+
+ALI (as Hella): Yeah. I just wanted to… [sighs] I’ve been doing this thing, there were these cards that were on sale. And the last time we were at that party, I was like, I really enjoy the people that I have in my life, and I just wanted to let them know that, so I wrote you this card. And I...
+
+ART (as Hadrian): Oh. Okay. [Ali laughs]
+
+ART: I think Hadrian’s the kind of person who just like, immediately opens it up and reads it. [Ali laughs]
+
+AUSTIN: What’s it say?
+
+ALI: [laughs] I think the gist of it is like...oh, the Hadrian one has to be special because there was a letter scene there. But I think it’s specifically like, “Hey Hadrian, I really appreciate all of the time that we’ve spent together. I’m sorry that you have to be away from your family, but—” [laughing] Wait, this sounds so weird. The original apology was going to be like, “I’m sorry you’re away from your family, but it’s been good to spend time with you”, but saying that out loud now is just crazy!
+
+AUSTIN: Wow! Goddamn!
+
+ALI: [laughing harder] It sounds insane!
+
+AUSTIN: Hoo, Hella you gotta get better at sliding into those DMs, that ain’t it, this ain’t it chief. [Ali continues laughing] God!
+
+ART: Ohh.
+
+ALI: But I think it’s a roundabout way, it’s probably a longer letter, because I think it’s specifically like…”The time that I felt most hopeless in my life is when you reached out to me. And I appreciate that you are someone who trusts me. Because your trust in me makes me a better person, so thanks. I hope this card form [laughs] shows you how much I’m trying. Thanks, Hella Varal.” [Ali and Art laugh]
+
+AUSTIN: Hadrian, what is your response as you read it?
+
+ART (as Hadrian): This is so sweet, and so...unnecessary. I really do treasure our friendship and, you know, I see new light in the world when it reflects off of you...
+
+AUSTIN: [quietly] Goddamn!
+
+ART (as Hadrian): You know, Samothes—
+
+ART: No, I’m not gonna say that, that’s fuckin’—I’m not gonna say that… [laughter]
+
+AUSTIN: Yeah. Guy’s out here about to commit heresy. [laughter]
+
+ART: Yeah, I don’t even want to talk about it.
+
+AUSTIN: I mean, here’s a question. Is that something—does Hadrian catch himself there, or is that Art being like, no that’s not a thing Hadrian would…
+
+ART: It’s not a thing—it’s like...yeah, I’m like writing bad poetry. And, one, I don’t think Hadrian writes bad poetry—
+
+AUSTIN: [doubtful] Mmm…
+
+ART: Two, I don’t think it’s appropriate for the scene. 
+
+ART (as Hadrian): And like, this is sort of an awkward segue, but I’ve sort of been wanting to talk to you about something.
+
+ALI (as Hella): Oh, yeah, sure, anything. What’s up?
+
+ART (as Hadrian): This is gonna sound a little strange, I really need you to hang with me on this one, but...
+
+ALI (as Hella): Totally.
+
+ART (as Hadrian): When we get out of here, do you think we should maybe consider...taking over the world?
+
+ALI (as Hella): [laughs] Hadrian...I don’t even...
+
+ART (as Hadrian): [crosstalk] See, I don’t think anyone is gonna fix this stuff. But we, we could maybe do it! Or at least like, we could find the people who could do it and make sure everyone else listens to them. Because that’s the problem up there, not everyone’s listening. And we could make ‘em listen.
+
+ALI (as Hella): Wait, who’s listening, what? [light laughter]
+
+ART: Rude. Rude, Janine. 
+
+AUSTIN: Janine in the chat says, “by killing them!” [laughter]
+
+JACK: Gotta bring Hella on.
+
+ART (as Hadrian): You know, we just have all these disparate factions and cities and places, and I don’t know that we have time for that right now. [laughter] And you’re the most impressive...
+
+JANINE: Murderer.
+
+ART (as Hadrian): Fighter [laughter] I’ve ever seen. And I—I’ve often thought that, you know, one of the reasons I need to be around you is if something happened and you did something terrible, [laughter] that I’m the only person on the planet who I think has an even remote chance of stopping you.
+
+AUSTIN: [laughing] I’m sliding all the way down in my seat…
+
+ART (as Hadrian): And I don’t think—
+
+JACK: Okay, so this is the second weirdest face turn that we’ve encountered.
+
+AUSTIN: Is it?
+
+ART (as Hadrian): And I don’t think I could do it, I think you’re stronger and faster than I am, and I think your instincts are better, but I think that, you know, I could maybe slow you down long enough for someone else to maybe do it. But what if I didn’t, what if I didn’t stop you, what if it was—what if we were together, I think we’re literally unstoppable, as a unit.
+
+ART: It’s important to imagine Hadrian’s crazy beard [laughter] when listening to this scene. It’s important to like—this is coming from someone who hasn’t shaved in maybe months, and who just has like this big wide-eyed look in his eye, and just needs to get his idea out into the world.
+
+ALI: [giggles] Okay. Thank you for describing that. I think Hella like puts her hand on Hadrian’s shoulder, and her voice is really low, and she just says like,
+
+ALI (as Hella): Yeah, like...you and I can do anything. And when we leave here, whatever that looks like, we can fix.
+
+ALI: And she doesn’t believe it. [laughs] Like...
+
+AUSTIN: Right, right.
+
+ALI: I was thinking of a second thing for her to say, and it’s that. And she just smiles. ‘Cause she would want to follow it up with something?
+
+AUSTIN: Mmhmm.
+
+ALI: But I think she’s just like,
+
+ALI (as Hella): Yeah, I mean. I don’t know that we’re taking it over. I didn’t even enlist in the military? So I don’t know…
+
+ART (as Hadrian): I don’t think we need an army, per se, I think it’s just…
+
+ALI (as Hella): Well, I just mean like, you like to go to the church because you were like a leader there. And I like to go to the church ‘cause I can sit in a booth with a bunch of people that I know, right?
+
+ART (as Hadrian): I don’t think you’re using the church right. [Ali laughs] It’s not—we can talk about it later, it’s not important.
+
+ALI (as Hella): Yeah, but when we get out of here, it’s gonna be fine. Right? Like, we’ve learned so much. Look at you. [laughter]
+
+AUSTIN: [laughing] Beard, eyes. Foam from beer in beard.
+
+ART: Yeah, that’s probably a big part of it. Probably a little bit of stew, too, like...not like chunks of stew, just like the stew liquid. I mean, I think...we might be winding this down.
+
+AUSTIN: Yeah. Yeah, I think that’s fair. I have a question for Hella before, in terms of just Hella’s interiority, like. One, did that idea—was there a spark in Hella that was like, “oh this makes sense”. Or like, that’s interesting. And two, is this a thing where you’re like, “yeah totally, let’s do that”, because you know, no, whenever you get out of here, it’s gonna—Hadrian’s working through some stuff, and it’ll be fine by the time we get back. 
+
+ALI: Yeah, I think there’s a part of her that understands that this is plan like, B of C.
+
+AUSTIN: Mmhmm.
+
+ALI: And like, has helped Hadrian through weird times before, and tried to be supportive through it. So I think that the way that this scene ends probably ends with her being like, 
+
+ALI (as Hella): Yeah, if we’re gonna do that we should like train in the mornings again, and like...
+
+AUSTIN: Yeah.
+
+ALI (as Hella): You should shave. [Ali laughs]
+
+AUSTIN: Okay, that’s interesting, right. So yeah, do you spin it back, basically, to be like...here’s how we can prep for that, and—
+
+ALI: Yeah, yeah yeah.
+
+AUSTIN: —those things are all like, self care and more hang time? [laughter] Art in the chat says “why are you booing me dot gif”. Good. Perfect. And do you show up?
+
+ART: Of course.
+
+AUSTIN: Alright. So, Lem down, Hadrian down. Who gets the third card?
+
+ALI: Oh. I think in this case, as an extension of that Hadrian scene, it should be Chapter?
+
+[TIMESTAMP: 01:34:32]
+
+AUSTIN: Okay. [pause] It’s like sunset by now, probably.
+
+ALI: Yeah. They’ve been hanging out.
+
+AUSTIN: Yeah, they’re around. They’re probably working on their weird sandbar, the place where Hadrian saw them that time, which is to the southwest. Or like they’re building their weird like, micro-version—they’re like practicing the creation of stuff with themselves, with star-stuff and sand, and all that, so. That is where you find them.
+
+ALI: I think Hella actually like watches them for a little bit—
+
+AUSTIN: Mmhmm.
+
+ALI: —and like, waits for them to stop and approach her.
+
+AUSTIN: I think it takes a bit. They’re like pretty focused. And then, they kind of finish a little micro-version of the city in front of them, and then leave it there. They kind of raise it up as if it’s on a plateau, and then they surround it with a sea of star-stuff, so there’s just kind of like a glowing, bright—the kind of weird non-light-producing, their non-aura-producing glow of the star-stuff, that’s almost like an ocean of fireflies, of really tiny fireflies, all around this kind of island that’s been lifted up. And then they see you there, and they say,
+
+AUSTIN (as Chapter): [voice edited to echo] Hella, I apologize. I did not see you there.
+
+ALI (as Hella): Oh, no, it’s okay. What are you doing out here?
+
+AUSTIN (as Chapter): Oh...this is where I practice my craft in case it is needed. I...go ahead.
+
+ALI (as Hella): Yeah, what is—I just—yeah, no, you go ahead, ‘cause like what the hell...is that, this is here?
+
+AUSTIN (as Chapter): We build things, we...I...soon after you sent me here, I realized that, though I was no longer in Hieron, I could still serve my purpose and protect this place from the Heat and the Dark by creating it anew. Of course, I learned also that in doing so many of the people here would be lost regardless, and life would continue, but not these lives. And I have resigned myself instead to protecting those here, to closing this place off from the Heat and the Dark forever. And so I practice now because I have come to enjoy it. I simply wish to see what I will not build, in all its stunning glory.
+
+ALI (as Hella): Oh, so you won’t...you won’t like be here for it?
+
+AUSTIN (as Chapter): No, I simply won’t be doing this at all. I had a choice either to create a second island which would survive the Heat and the Dark’s inevitable arrival, or I would surround this place with my light.
+
+ALI (as Hella): Wait, but why wouldn’t that first one work?
+
+AUSTIN (as Chapter): It would, it would, and I would fill it with all sorts of beautiful new beings and duplicates of those still here, and I could help some make the move, but the majority would not survive.
+
+ALI (as Hella): [laughs] Do you know what Ordenna is?
+
+AUSTIN (as Chapter): No.
+
+ALI (as Hella): [laughs] I mean, it’s just when you’re talking about it, it’s just funny ‘cause like, the story is that—it’s a lie, so it doesn’t matter.
+
+AUSTIN (as Chapter): Lies matter, yes?
+
+ALI (as Hella): Sure. The story is, is that [sigh-laughs] Hieron is a cursed land, filled with magic, dangerous things. We were able to separate the island from everything else and scorch the earth, so it wasn’t like poisoned anymore, right? And we were safe. We thought we were safe.
+
+AUSTIN (as Chapter): I see...these are those who hunted my kind in Rosemerrow. The Justiciar, the ones who carry blades of dark. They believe they fled the corruption?
+
+ALI (as Hella): Yes, that’s kind of the point. God, it’s so fucking stupid to say it now, but the idea was that Ordenna was like a blessed land, and we would be safe there. We weren’t, obviously, but like, it was just, I mean… [sighs]
+
+AUSTIN (as Chapter): No, it is anything but that. If...if it is true that the land of Ordenna is anything like the metal blades and metal soldiers they use, then it is not that they have avoided the cursed magic, it is that they have given up life itself in favor of proximity to the Nothing. When it comes, it will come for them first.
+
+ALI (as Hella): [sarcastic] Great. Fantastic. Love that you’ve just told me that. [laughs] But it’s like, I mean, you’re doing the same thing.
+
+AUSTIN (as Chapter): No! No, I was going to do the same thing. But I’ve spoken with the people here, and with Samothes and Hadrian, and I have gone on so many good boat rides. I would not...I am abdicating my duty to create a new world, and I will do everything I can to protect this one instead. 
+
+ALI (as Hella): [breathy sigh/laugh]
+
+AUSTIN (as Chapter): So that it does not fade away.
+
+ALI (as Hella): You’re abdicating?
+
+AUSTIN (as Chapter): I’m...giving myself to this world. You saw the holiday, the sphere I drew around this place, yes? The light.
+
+ALI (as Hella): Yeah, yeah, sorry, I was just thinking, yeah.
+
+AUSTIN: They lift the island up further and it breaks away from the sand. And then they do it again, they show like the shield enveloping it, and as it does the stars around it that are making the glowy firefly ocean get pushed away. There’s still like some of them inside the bubble, but like, it’s basically as if it’s been removed from the ocean entirely. They say,
+
+AUSTIN (as Chapter): I’m going to shield this place with my life. Those who live now and their descendents and Lord Samothes will live on, regardless of what happens to Hieron. Regardless of It’s arrival.
+
+ALI (as Hella): It only works in here, huh? [sighs]
+
+AUSTIN (as Chapter): Unfortunately, I think...you would have a hard time convincing my kin. They have not known Aubade.
+
+ALI (as Hella): [soft laugh] God…
+
+AUSTIN (as Chapter): I suspect they do what they can to combat the arrival, but their job is to create a new world, not to save yours.
+
+ALI (as Hella): Sorry, I came here to talk to you and i just got [laughs] distracted, ‘cause that’s—I mean, all of that stuff is cool, it’s just...
+
+AUSTIN (as Chapter): It’s very cool, yes.
+
+ALI (as Hella): Yeah, I just haven’t thought about...there’s just things I haven’t thought about in a while, and...
+
+AUSTIN (as Chapter): Mmm.
+
+ALI (as Hella): It’s just weird it didn’t work, right? That it wasn’t true, it was so believable.
+
+AUSTIN (as Chapter): I don’t know enough to know if what you’re referring to worked, or didn’t, or did what was intended.
+
+ALI (as Hella): It was just good for us, like we could make armor out of it and sew it into fabric, and like we defended ourselves, like [sighs]. Why doesn’t this—what’s so different about it?
+
+AUSTIN: They like, hold out their hand, and say,
+
+AUSTIN (as Chapter): Would you see for yourself?
+
+ALI (as Hella): Yeah, I mean, sure.
+
+AUSTIN: You come closer, I’m guessing?
+
+ALI: Yeah.
+
+AUSTIN: They make like...they make the sand into just a patch of star-stuff, right. They like extend their hands out and the sand beneath them turns into the same kind of glowy firefly light, and they say,
+
+AUSTIN (as Chapter): Simply stand here.
+
+AUSTIN: And when you do...I’m trying to figure out how you feel this. It’s like...the wind gets knocked out of you, right? And so, there is—have you had the wind knocked out of you before? Like maybe [indistinct]
+
+ALI: [crosstalk] Hella sure probably…
+
+AUSTIN: You, Ali.
+
+ALI: [laughs] Oh, me? Um...yeah.
+
+AUSTIN: Okay. So, my memories of getting the wind knocked out of me are like, gasping for breath and knowing that I will be fine and can breathe, but not being able to, and that’s terrifying. And being like, I know there is air in the world, but I cannot breathe it right now. And it’s sort of like that. It’s...I think being on it gives you some sort of insight, especially being on it in here, where this is like, this is divine land you stand on directly, this is hyper-concentrated divine land, [Ali laughs quietly] like you are right here, so you can kind of feel what’s being pulled away from you. So, Samol is made out of the Heat and the Dark, right? 
+
+ALI: Mmhmm.
+
+AUSTIN: Samol is the first thing the Heat and the Dark made, ever, ever ever ever in history. There was the Heat and the Dark forever, and then there was Samol. So Samol is one step removed from the Heat and the Dark. Samol started making other people and things, and so they were like two steps removed, and so on, right? The Heat and the Dark made some other stuff. The Heat and the Dark made Tristero and made Samot, and Samol interceded on their behalf in some ways and all of that. But over time, things got kind of further and further away, and so became kind of insulated from the Heat and the Dark. And I suspect maybe even Chapter is telling you this. Is this one Chapter? This is the one that’s Chapter, right? Obelus is the one that’s still out in the world.
+
+ALI: Yeah, yeah.
+
+AUSTIN: Okay. So Chapter’s kind of telling you this. And I think they can explain it, which is,
+
+AUSTIN (as Chapter): What we are, what Samot did, was continue to refine the world itself.
+
+AUSTIN: And this is like, you cannot breathe on this thing. Like you can hold here for longer, but you will die if you stay here for too long. Maybe you wouldn’t, Hella probably—mmm, long enough you would. [Austin and Ali laugh] Longer than most people, but no, right? You would have to be reconstituted with thist stuff in some way.
+
+ALI: Yeah.
+
+AUSTIN: They explain that Samot took the world itself and worked it over, until it was something new. And then took that over, and worked it over until it was something new. Like squeezing moisture, water, out of a rock until you have a river. Over and over and over and over again. And then taking all of that water, and condensing it into a single ice cube, and then smashing that, and continuing to refine again and again and again and again. There’s those videos that—I think I linked them in our chat recently, of this person on youtube who uses mercury to do like wild mercury bullshit. [Ali laughs] Have y’all seen those? They’re really good, if you get a chance, go into our Spring chat and pull up the mercury videos that I linked. They are by someone on youtube named NileRed. And they—the ones that I showed here are way more like, weird plant life in spring, but there’s a video—youtube is yelling at me. There’s a video on that channel that is called “Aluminium and Mercury”, and in that one, and I think in another one of the mercury videos, there’s a lot of like, mercury doing weird shit with other material until it builds something, and then the guy who runs it like pulls the mercury out and does something again, right? And so like that is what the stars are. Samot took some of Samol, took some of Hieron, and like crunched it down real tight, and then refined that and took the smallest bits of it and crunched it down again, so that it ended up like the longest possible chain away from the Heat and the Dark. So in some ways it is the least living thing, but in other ways, because there is that distance, it is the thing safest and most insulated from the Heat and the Dark. And so, it is at once this thing that has no life in it at all, the way that you understand life, because y’all are all kind of towards the top of—humans are pretty early on in the “how close are we to the Heat and the Dark”. [Ali giggles] Whereas the stars are very, very, very far away. And so they are like condensed magic in some ways, but also that condensed magic is just not for you to be on. And so they are like the opposite of Ordennan steel, in that sense, right? Ordennan steel is like trying to return to zero, no magic, no life, nothing, just like the anti-life. And this stuff is...the most possible life? And you’re not built for it. You’re just not built for it. And I, you know, just to—I guess, probably Chapter explains that like,
+
+AUSTIN (as Chapter): My first lord Samot’s plan was to have us build a new world that would survive, one as dense as we are. We were not finished. And you were not prepared.
+
+ALI: I think when Hella comes out of the like, [laughs]
+
+AUSTIN: Yeah.
+
+ALI: [indistinct] intense zone, she’s just like crying, just ‘cause it’s like…
+
+AUSTIN: Yeah.
+
+ALI: Also trying to catch her breath, but like, visually showing how intense that experience was.
+
+AUSTIN: Yeah.
+
+ALI: And is just like,
+
+ALI (as Hella): I’m sorry. I’m sorry. I just—it sucks that it doesn’t work. And I came here to apologize for like sending you here or whatever, but like, it’s just. It wouldn’t have made a difference, right? It just wasn’t...I’m happy for you that you’re gonna—the wall is cool. The wall is really cool.
+
+AUSTIN: They’re like searching for words here. They say,
+
+AUSTIN (as Chapter): When I first arrived here...
+
+AUSTIN: And they like absentmindedly touch their wound, or like start to move their hand up that way and then maybe stop.
+
+AUSTIN (as Chapter): I was roaring fury. I still had not learned. Your blade had not taught me much, except pain. And when I calmed, I met Samothes, and he took me by the hand, which I know caused him great pain. And in sharing that pain, I found peace. I knew that the burden was not mine alone, and soon, soon he showed me a way to be dutiful and productive that had no finality. One day, he told me, there would be an end, because he knew the Heat and the Dark would reach here too. But before then, he said, there were so many small things to do. And I did not believe him, because those things were small. And then I began to do them. People were afraid of me, at first. But soon, they came to realize that together we could do things that they could not imagine before they knew me. And so I found respite in the small thing, long enough for me to discover which finality was mine. I suppose I am saying that I cried too.
+
+AUSTIN: And then they like retract all the star-stuff into themselves. How would they show you affection… [Ali giggles] I think...I think that they simply bring up like a...I mean, this is the thing that they do. They lift the sand around you, and it’s like, the sand is covering the star-stuff, right? It’s like it’s layered on top of it. And sort of like envelop you in a weird sand hug? [Ali laughs] And you can feel it in there, like the heat is in there—or not the heat, but the absence is inside of there, but there is like this moment of pressure on the middle of your back, right, which is like calming and [exhales peacefully]. And then it goes away, but like—and that’s it.
+
+AUSTIN (as Chapter): I appreciate your apology.
+
+ALI (as Hella): It’s been nice knowing you, so I wish the circumstances could have been different.
+
+AUSTIN (as Chapter): They could not have been, and that is okay.
+
+ALI (as Hella): Yeah. Yeah, sure.
+
+AUSTIN: Do you give them the card?
+
+ALI: Yeah, probably. She like remembers her purpose at least—
+
+AUSTIN: Yeah.
+
+ALI: —that much, despite being like, ‘oh, I’m sad about home’. 
+
+AUSTIN (as Chapter): Thank you. It means the world.
+
+ALI (as Hella): Thank you, for...you know. Taking time to talk to me.
+
+AUSTIN: I think that they like turn and begin to walk down the sandbar in a different direction.
+
+ALI: Aww. [laughs]
+
+AUSTIN: And like are immediately back to being this weird playful thing of just like, they’re...it’s almost as if they’re making the sand—they’re not literally making the sand into dolphins that swim around them in a school, but they’re like, playing with the star-stuff in the sand in ways that are like—it’s like putting your hand out the window in a car, you know? And like going up and down, like that style of thing, but with the sand and the air and the sea. So does that leave Adaire? Adaire’s card, do you have a real card or a joke card, either one is fine by me.
+
+ALI: [laughs] Adaire, do you want to go to your scene?
+
+JANINE: No, we should do this first.
+
+ALI: [laughing] Okay. Oh man, okay. God, this is the tough one, ‘cause like the joke one was gonna be like, “I’ve been giving people the wrong ribbon [laughs] even though you told me not to”. [Janine laughs] “‘Cause I think it looks better when you’re not there, I’m sorry.”
+
+JANINE: Ooh.
+
+AUSTIN: Woof.
+
+ALI: I should have had this one. This is an important one. But it’s—’cause I think that Adaire and Hella like, don’t talk about their own stuff enough that like, they can always find a different thing, right?
+
+JANINE: Yeah, that’s like a huge thing with them, is basically, I want to say every interaction they have is like, focused on some other thing. There’s still a conspiratorial angle often, of just like, “what are we gonna do about this?” [Ali laughs] But it’s never like, “what are we gonna do about our individual problems?” [laughs]
+
+ALI: Yeah. And I also think of Hella who’s always like—she’s always like tried to do right by Adaire in a genuine way, that I haven’t thought of a show thing that she’s done that was like really rude [laughs] ‘cause everything else is kind of on camera. But I guess like—okay. I guess the thing would be that she would understand that Adaire is as genuinely uncomfortable here as Hella has been, in a way that is real and like, they’re both extending the same effort to be like “hey, what’s going on, we’re part of society”, [Austin laughs] but both know that that’s like not...like society’s a weird thing. So I guess if it’s like, [laughs] it’s just one long day of Hella’s life, she’s like meeting Adaire as the store’s closing or whatever, and is like,
+
+ALI (as Hella): Hey, do you need me to help clean up or anything?
+
+JANINE (as Adaire): No, we just—you know, we got a batch of newbies in, and they’re, you know, they’re doing the rounds with the brooms.
+
+ALI (as Hella): [amused] Ohh, okay, so no more closing duties, you don’t need me unstocking all these boxes and…
+
+JANINE (as Adaire): Well, I mean, no, we still want to—you know, everyone’s gotta do their part and set a good example, we don’t want to just make it seem like when you join up you have to do a bunch of grunt work and then sit on your butt all day sorting ribbon, but, you know. [Ali giggles] I’m just saying today we’re good.
+
+ALI (as Hella): Okay, fair, right, it was my day off, so I shouldn’t be offering.
+
+JANINE (as Adaire): Mmhmm. Yeah, no.
+
+ALI (as Hella): How did we do today? Were sales good?
+
+JANINE (as Adaire): Ah, pretty good, pretty good. We’re having a real issue keeping the new bonnets in stock, they’re flying off the shelves.
+
+ALI (as Hella): I told you those would do well.
+
+JANINE (as Adaire): Yeah, you did. I didn’t think they would, ‘cause they’re bonnets? But, apparently bonnets are the new berets, so. [Austin chuckles]
+
+ALI (as Hella): Yeah, people here want to look fancy, you know.
+
+JANINE (as Adaire): Oh, I know.
+
+ALI (as Hella): [laughs] We’re gonna go down to the theater—I’m gonna walk down past the theater, everyone’s gonna be wearing a bonnet, it’s gonna be hilarious. [Janine laughs] I’m sorry...it’s been a weird, long day. This is stupid, you’re going to think this is stupid. You’re gonna be the one who thinks that this is stupid. But, you know those cards that I kept telling you that I really liked?
+
+JANINE (as Adaire): Yeah?
+
+ALI (as Hella): [amused] And I like hid one in the employee area and you yelled at me ‘cause you thought I was stealing it?
+
+JANINE (as Adaire): I didn’t think you were stealing it, I just, you put it in there—there’s moisture there and they’re cards, like you can’t just—
+
+ALI (as Hella): Oh.
+
+JANINE (as Adaire): You could’ve just asked me, I would have told you somewhere dry you could put them. It’s fine, it doesn’t matter now. It was okay, I was overreacting.
+
+ALI (as Hella): [crosstalk] Well I just didn’t want someone to buy them, or put them back in the… [laughs]
+
+JANINE (as Adaire): No, it’s fine. It’s fine.
+
+ALI (as Hella): Well, I bought them. Wrote them to people, and I wrote you one. And I was apologizing to everyone, [laughs lightly] and I didn’t know what to apologize to you for.
+
+JANINE (as Adaire): Well then why did you write me a card?
+
+ALI (as Hella): I wrote you a thank-you card.
+
+JANINE (as Adaire): Okay.
+
+ALI: [laughs] Hella just like, pulls it out. [Janine laughs] And like, hands it to her.
+
+ALI (as Hella): You know. I don’t know, it’s dumb. It’s dumb, right? I just wanted you to know that I appreciate this. That you let me get involved with the store even though like, you know, that’s, back on top or out of the sword or whatever, that was kind of your whole deal. You could handle it alone. And [sighs] I don’t know, Adaire, we’ve been here for like...I don’t know. I don’t want to do this anymore, like be in the sword, but it’s been okay.
+
+JANINE (as Adaire): [crosstalk] I mean—
+
+ALI (as Hella): And it’s cool that it was like, you and Hadrian and Lem, but like it’s cool that you were here especially.
+
+JANINE (as Adaire): Yeah. [uncertain] I...feel the same? I, you know, it’s fine in here, it’s okay. It’s alright.
+
+JANINE: She’s probably like fiddling opening the envelope a little bit. [Ali laughs] And just like saying like “it’s alright” in a bunch of different ways. [Ali laughs more]
+
+AUSTIN: God. Very clear “no”, actually?
+
+JANINE: [carefully] She thinks it’s okay.
+
+AUSTIN: [doubtful] No—mmm, okay. [Ali laughs] Enough to keep repeating it over and over.
+
+JANINE: [promising] We’ll get to it. That’s the thing, when Ali—
+
+AUSTIN: [crosstalk] My question is—
+
+JANINE: When Ali was talking about like, oh, Hella and Adaire can commiserate over how much they don’t like this place, like...I think Adaire does sincerely tell herself a lot that it’s okay here.
+
+AUSTIN: My question is not that. My question is, is that convincing for Hella?
+
+JANINE: Mmm…
+
+AUSTIN: Because we can’t like, there should be...the scene has to happen, right? So like, if Adaire is hiding that from Hella, then she’s hiding it from Hella, and she’s successful at hiding it from Hella. 
+
+JANINE: [crosstalk] I’ll say that Adaire is...
+
+AUSTIN: [crosstalk] But if she doesn’t, then Hella should have a chance to intercede and talk.
+
+JANINE: Adaire is not applying any art to this.
+
+AUSTIN: Okay.
+
+ALI: Okay, fair.
+
+ALI (as Hella): Yeah, it’s been like...it’s been great, right? I mean, that’s the fucked up thing, is that it’s been great.
+
+JANINE (as Adaire): But like it’s good, so it shouldn’t feel fucked up, right? Like it’s good...
+
+ALI (as Hella): Sometimes it just still feels like it’s fucked up. I don’t know. It’s fine, right? It’s fine. We’re gonna get out of here and it’s gonna be...we’re gonna go home and it’s gonna be home, and it’s gonna be what it is. We’re gonna be able to say, hey, for four years I was on a boat, and I know what to do now, ‘cause I had time to think.
+
+JANINE (as Adaire): I gue—do you think that’s what’s gonna happen?
+
+ALI (as Hella): That’s what literally everybody else thinks.
+
+JANINE (as Adaire): I didn’t—I don’t give a shit what everyone else thinks, Hella. I’m asking you what you think.
+
+ALI (as Hella): Mmm. [sighs] It’s just weird to be here. And to be able to see every day, like, the effect of my actions, right? Like I guess I don’t, ‘cause I’m not even home [laughs] and like, who the fuck knows. God. Fuck! But you know what I mean, right? Where it’s like, people came here, and they’re doing fine. [laughs] But like, [sighs] I don’t know. I don’t know. It just, we don’t even know! We don’t even know the things that we don’t know. [laughs] But like...
+
+ALI: Sorry. [laughs]
+
+JANINE (as Adaire): What? [Ali laughs]
+
+AUSTIN: Damn, true.
+
+ALI: I’m getting where I’m going.
+
+ALI (as Hella): It just feels like if I was gonna do this, it should have done something. Four years, I can’t even remember four years back home.
+
+JANINE (as Adaire): Really?
+
+ALI (as Hella): Well, I can, but like a lot happened. Like a lot happened. Like a lot happened, Adaire. All that shit with Calhoun and the fucking snow? And like, there wasn’t even a sun, Adaire. I’ve been carrying around this ring ‘cause I thought that I would be able to bring a sun home. Who the fuck knows what’s happening?
+
+AUSTIN: Oh, if you ever take that ring off, by the way, a second sun shows up again? [Ali laughs] Like to be clear. Yeah, right? Or when you put it on, I forget the—it has been literally two years since we did that. Or a year and a half.
+
+ALI: [crosstalk] Ooh. I think...
+
+AUSTIN: [crosstalk] I just listened to that episode like a month ago but I don’t remember.
+
+ALI: [laughs] Well she does whatever doesn’t cause the second sun—
+
+AUSTIN: [crosstalk] Okay.
+
+ALI: ‘Cause that’s a little bit of a [laughs] a faux pas.
+
+AUSTIN: Yeah. For there to be a second sun in here, yeah.
+
+ALI: Anyway I think that was the end of that sentence [laughing] just being like...
+
+AUSTIN: Just like there is a lot of shit that’s happened.
+
+ALI: Yeah.
+
+JANINE: Yeah. I don’t know that...I’m trying to think of what Adaire would say in response to that. This is the flip side of Adaire’s whole thing in Winter, which was like, “I’m just here because they need directions, I don’t really understand what’s going on, I guess the world is ending? And it’s a big purple thing? And now I’m having dinner at a god’s house, I don’t understand.” But like the flip side of that is that like, now it’s...that time feels like static to her in a way that this time doesn’t. I think it’s probably kind of hard for her to parse, because she is like one step back from it in a way that Hella—well, Hella is kind of one step in. I also think she doesn’t really understand what she wants at this point. [Ali laughs] So I think she’s very tentatively listening to Hella, and is very grateful for this nice card, which she’s like turning over her fingers and noticing is like a little bit warped from moisture—
+
+AUSTIN: [crosstalk] Mmhmm. [Ali laughs]
+
+JANINE: But it’s fine, it’s not noticeable. It’s just like a little, it’s not perfectly—you could steam it with some tea and press it under a book, it’d be fine.
+
+ALI: I guess that’s the thing, that like Hella doesn’t lean on Adaire in this way, right?
+
+JANINE: Yeah. It does kind of make sense that Adaire doesn’t understand what she needs to provide in this situation. [Janine and Ali laugh] This also isn’t a situation where it’s like, “Man, Adaire, the thing I need really right now is if you could get me some whiskey under the table, that would be great”.
+
+AUSTIN: [crosstalk] Mmhmm.
+
+JANINE: Like, she could do that. Those are the kinds of requests and needs that Adaire is very good at fulfilling for her friends. When it’s like, “I don’t know where we’re going or what we’re doing or what this is”, I think Adaire’s response might honestly be like, hey, okay, okay, okay, I got it. Alright. 
+
+JANINE (as Adaire): You know what you need?
+
+ALI (as Hella): Tell me. You always know.
+
+JANINE (as Adaire): We’re gonna go inside, and we’re gonna go to the gallery level, and the gallery level ,we’re gonna go to the cafe, and we’re gonna see if they have any of those, you know, the things we started offering. The, uh...
+
+JANINE: Mmm, I hate myself.
+
+JANINE (as Adaire): The DuTartes, you know? [laughs]
+
+AUSTIN: Ah, yes. [all laughing]
+
+ART: WHOA.
+
+JACK: Mmm. No.
+
+ART: Wow.
+
+AUSTIN: Mmm. You know, I’m gonna go on a limb...I love it, I love it, one problem.
+
+JANINE: Mmhmm?
+
+AUSTIN: I don’t think you should ever sell a thing that’s “doo tarts”. I wouldn’t wanna eat a doo tart.
+
+JACK: No, I don’t like it.
+
+JANINE: I have a whole...mmm.
+
+AUSTIN: Uh huh?
+
+JANINE: You know, it’s like…
+
+AUSTIN: Yeah.
+
+JANINE: Every store needs like a gimmick, they need like a thing. And Ducarte’s has two things. Ducarte’s has their famous DuTartes, which are fruit tarts. 
+
+AUSTIN: Yeah.
+
+JANINE: They’re very good. And the other thing is the feature fountain.
+
+AUSTIN: Uh huh, what?
+
+JANINE: Which is on the third floor…
+
+AUSTIN: Uh huh? [Ali laughs]
+
+JACK: Mmhmm.
+
+JANINE: And it is a fountain of Adaire, being lifted by a crowd. [laughs]
+
+AUSTIN: Great.
+
+JACK: [crosstalk] Oh, that’s it?
+
+ART: [crosstalk] Very important question.
+
+AUSTIN: [crosstalk] Oh, that’s the end of that sentence. [laughter continues]
+
+JANINE: It’s a beautiful store.
+
+ART: I have a really urgent question.
+
+JANINE: Mmhmm.
+
+AUSTIN: Art?
+
+ART: So let’s say I’m shopping, I’m shopping here.
+
+AUSTIN: Yeah.
+
+ART: And I need to buy some items. I need to buy like either a lot of items or some larger items, and it’s just hard to carry them...
+
+JACK: [crosstalk] Oh, fuck off. Fuck off.
+
+AUSTIN: [weakly] Uh huh.
+
+ART: At once? [laughs]
+
+AUSTIN: Yeah.
+
+JACK: Uh huh...
+
+ART: Do you have anything that might help…
+
+JANINE: [crosstalk] Mmhmm?
+
+ART: ...get these all around at once?
+
+JANINE: Uh...trolleys.
+
+AUSTIN: Yeah, there it is.
+
+ALI: Mmm. [laughs]
+
+AUSTIN: That’s the only answer.
+
+ART: Alright. Good talk everyone.
+
+AUSTIN: Improv rule number twenty-two. [Janine laughs] Trolleys. [laughs] That’s what the trolley problem is, right? Alright. So, do you go get the DuTartes?
+
+ALI: Yeah.
+
+AUSTIN: Alright. Is the DuTarte scene uneventful, basically? Is it slipping back into like, you have lots of things to talk about so you don’t have to talk about real shit?
+
+ALI: I think so. Don’t fix it if it’s not broken.
+
+AUSTIN: Mmhmm. [Ali laughs]
+
+[TIMESTAMP: 2:05:19]
+
+AUSTIN: And then that’s the last part, right?
+
+JANINE: Funny you should say that. [Ali laughs harder]
+
+AUSTIN: So, Adaire. What are you about to break? Or fix.
+
+JANINE: Why would you say that? Um…
+
+AUSTIN: Yeah, I don’t know. [Ali laughs]
+
+JANINE: So, this is...I should just start with the status update.
+
+AUSTIN: Mmhmm.
+
+JANINE: Adaire is a little confused because Adaire has in this time built a very successful—you know, it’s not like, she’s not like...I say very successful. It’s successful on the scale of like, this is a small town, or this is like a little city, [crosstalk] and it’s a controlled economy...
+
+AUSTIN: [crosstalk] If you were selling things called DuTartes and you’re not being laughed out the city, you are very successful.
+
+JANINE: [laughs] You know, it’s like a cute gimmick, it acknowledges the gimmickiness. You know, she’s running a store where like I imagine all the employees wear little half-capes kind of like she has, and that’s the uniform of just like, people can dress how they need to dress and kind of express themselves within a certain like professionalism spectrum but also they have these cute little capes...
+
+AUSTIN: Mmhmm.
+
+JANINE: And everyone has fun, it’s a good atmosphere, it’s supportive, they’ve got like a little speech they give to customers, it’s great. And she’s like, publicly fully in this role of like, I run this cool business, [AUSTIN: Mmhmm] and we do great stuff, and we’re a pillar of the community and whatever. But…
+
+AUSTIN: You have an open mic night, [Janine laughs] you have all sorts of stuff, yeah, mmhmm.
+
+JANINE: I, again, imagine Ducarte’s as like a very like classic kind of late 1800s department store, [AUSTIN: Mmhmm] of like, they want you to spend the day there. You come in to do some shopping, but then you go to the cafe, and you get a DuTarte, and you like maybe go to the like hangout level and look at the fountain, [AUSTIN: Mmhmm] and like, drop your kids off in the toy section, whatever. [considering] Are there kids here? Yes, there are, we’ve established that.
+
+AUSTIN: [crosstalk] There are kids.
+
+JANINE: Okay. Okay. But she is also like, her whole life has been about survival and comfort and like pursuing comfort, and you know, winning it very briefly for a moment here and there, [AUSTIN: Mmhmm] and then having to keep hustling. And now she has this comfort and this success and she has all the things that she has been pursuing for her whole life, and it doesn’t feel right—
+
+AUSTIN: Mmhmm.
+
+JANINE: And she doesn’t really understand why it doesn’t feel right. And I think she kind of...I think she starts to come into the understanding of it by accident or something, or no it was—not by accident, I think she just gets an impulse. Like you know how sometimes, you are just in a situation where you’re just like, “What if I just did this, what if I just did this bad thing? What would happen?” And like, most of the time you don’t do that thing.
+
+AUSTIN: Mmhmm.
+
+JANINE: Because you have impulse control. Like some people don’t, and that’s a thing.
+
+AUSTIN: [amused] Mmhmm.
+
+JANINE: There’s just this one time initially where I think that impulse gets the better of her, and she’s like “What would happen if...what would happen if I just did this thing?” And I think the thing she does is that she like loosens the axle on a cart or something like that. Just ‘cause she’s on this like side street or something, and there’s just a cart here, and she’s just like, “what if I just like...that thing looks loose, what if I just push it a little bit, what would happen?” This is even probably like, one of her suppliers carts or something. And the predictable thing probably happens, where like, the wheel falls off, and then there’s a period of just like, “Oh we have to fix this fuckin’, [crosstalk] wagon thing, what an annoyance”.
+
+AUSTIN: Mmhmm, yeah.
+
+JANINE: And I think that’s a thing Adaire starts doing more often.
+
+AUSTIN: Just like, small sabotage here and there.
+
+JANINE: Small sabotage. 
+
+AUSTIN: Mmhmm.
+
+JANINE: Because, you can’t really disrupt a city like this by just taking things—
+
+AUSTIN: No.
+
+JANINE: —because that can be satisfied. But if the thing you take is people’s time and energy— 
+
+AUSTIN: Mmhmm.
+
+JANINE: —and like, not only...you know when you break a thing, even if you get the new thing, you have to get rid of the old thing. There’s still, there is still...
+
+AUSTIN: You don’t. [crosstalk] There’s no loss here.
+
+JANINE: [crosstalk] You don’t?
+
+AUSTIN: No. The hammer’s always in the right place. Like, oh wow it’s remarkable, it just didn’t break all the way.
+
+JANINE: I mean like, if a thing is like…
+
+AUSTIN: No.
+
+JANINE: So things never break all the way?
+
+AUSTIN: You can always patch it back up and it works just like new. Unless the thing you want is to have a little character and there’s a little like shake in the back wheel now. 
+
+JANINE: [thoughtful] Hmm.
+
+AUSTIN: And you don’t even need to know that that’s the thing you want, but that’s it.
+
+JANINE: That’s still fine.
+
+AUSTIN: Yeah, yeah, yeah.
+
+JANINE: It’s still—
+
+AUSTIN: [crosstalk] It does take people’s time, and I think there’s people who are annoyed
+
+JANINE: [crosstalk] Yeah that’s the thing is that, the point is that it still should take time.
+
+AUSTIN: Mmhmm.
+
+JANINE: The whole thing of like, even if you have to get rid of whatever is just an answer to like, why not just replace the thing if you have whatever.
+
+AUSTIN: Mmhmm.
+
+JANINE: But if it’s just a thing with repairing then whatever, it still takes up time, it still satisfies the need.
+
+AUSTIN: So I think...so two things happen. One is, at first, lots of people are very annoyed by this. [Austin and Janine laugh] There is probably like, a meeting about it. It’s like, “What’s happening to everything, why are things breaking?” And I think the church...there’s like a number of sermons about this? And like, talks? And the takeaway is, we don’t have but time. We live in a world when we decide when we die. And it’s...you could never imagine anyone in Hieron buying that bullshit. [Janine laughs] Because everyone you know, even the people who have stuff in Hieron, even like...even the Sol Ciderbrews—he was the bad one, right? Sid Half-off was okay, Sol was bad?
+
+JANINE: Yeah.
+
+AUSTIN: Move from a place of precarity and like, their selfishness is grounded in a fear. Their selfishness is grounded in, “I don’t have all the time in the world. And so, if my day gets disrupted, then [emphatically] fuck.” And so I suspect like for the first few...and one, I suspect for any new arrivals, this is really annoying. Like, for people who Hella sent with the sword, and probably for whoever had the sword before Hella, like that whole generation of recent arrivals. It gets to them. But for people who were born and raised here, and kind of have lived in leisure, and have lived in a way where it’s like [nonchalant voice] “yeah, tomorrow”, it doesn’t have that same sort of disruptive effect. And I suspect there’s probably like, a divide there that’s really interesting for a while. And so if Adaire is looking for that sort of friction, there is that friction. Like I can imagine someone like Ginny being like, [irritated voice] “Why is this not bothering anyone else, I have places to be.” [Janine laughs] “There is a traffic jam, this city doesn’t even have traffic, what the fuck.” But yeah, I think that’s the big picture response to that, in terms of how society adjusts? Is there like a specific instance where it’s like, go big or go home? Or is this just a hobby?
+
+JANINE: I think this is just like, a thing that Adaire does when it feels like there is an opportunity. 
+
+AUSTIN: Right.
+
+JANINE: Like, she will go on with the course of her day and stuff, and then just realize...there’ll be this moment of just like, her thief instinct kicking in to be like: there’s no one around.
+
+AUSTIN: Mmhmm.
+
+JANINE: I’m here with this thing.
+
+AUSTIN: Mmhmm.
+
+JANINE: I have X amount of time. I have these tools at my disposal. What if I just do this?
+
+AUSTIN: Mmhmm.
+
+JANINE: And then she will just do that and then carry on with her day. I think...it’s not a thing that she does constantly, it is a thing that she does covertly to kind of scratch an itch.
+
+AUSTIN: Mmhmm.
+
+JANINE: But it is also not specifically about...like, she doesn’t want to make people unhappy, that’s not…
+
+AUSTIN: [crosstalk] Yeah, I was gonna say, does anyone ever get hurt here?
+
+JANINE: [crosstalk] That’s not exactly the goal.
+
+AUSTIN: Or do you ever get caught doing it, do you ever get anyone hurt?
+
+JANINE: I think she is...it’s not a compulsion. It’s a thing that she elects to do when she sees a window. So I don’t see a thing where she would be like, overly risky about it—
+
+AUSTIN: Mmhmm.
+
+JANINE: Or like, if she thought there was a chance she would get caught, [crosstalk] then she would go through with it anyways.
+
+AUSTIN: [crosstalk] I mean like, she never wants someone to get hurt, right?
+
+JANINE: I mean, what is getting hurt here? [Ali giggles]
+
+AUSTIN: Physically, physically hurt. Put into a position where like, they are suffering from physical pain, specifically. [crosstalk] We know that they can be healed.
+
+JANINE: [crosstalk] She probably wouldn’t go out of her way...she’s not gonna like—
+
+AUSTIN: [crosstalk] No, no, no, again, it’s not my question about what...
+
+JANINE: [crosstalk] —rig some sort of Home Alone trap to burn someone’s hands off. [laughs]
+
+AUSTIN: [laughs] My question isn’t what she would do, it’s does she have that desire in her. This is like that lack question again, right, like. Is her desire “I would like to hurt someone”, or “it would be nice if someone—”
+
+JANINE: No, no.
+
+AUSTIN: [crosstalk] Well then yeah, so yeah, I don’t think...
+
+JANINE: [crosstalk] I had a moment where I was looking at alignments, and I was like...because I’m considering how Adaire should fall, and there is a thing with evil where it’s like, “you cause suffering for suffering’s sake”.
+
+AUSTIN: Mmhmm.
+
+JANINE: And there is some bit of truth there, but it is not quite...it is not a bit of truth that would carry out of this particular situation.
+
+AUSTIN: Mmhmm.
+
+JANINE: And the thing that is more accurate is the chaotic descriptor of like, exposing hypocrisy. Like the thing that Adaire is doing in her mind is she is like evening out the cosmic scale—
+
+AUSTIN: Mmhmm.
+
+JANINE: —of like hardship in whatever way she can. She can’t do that at a big scale, and also I don’t think would want to do it at a big scale. Like she wouldn’t want people starving.
+
+AUSTIN: Right.
+
+JANINE: But she just wants a little more strife because it feels unfair.
+
+AUSTIN: To who? To her. To people in Hieron? To...does she even think through it that way?
+
+JANINE: I...hmm.
+
+AUSTIN: Like, who’s it unfair to?
+
+JANINE: Just, I think it’s unfair to like… [sighs] You know, Adaire’s thing has been taking care of herself because that’s kind of the most she’s been able to do successfully is take care of herself. And being able to take care of herself then answers the question of, you know, it deals with that but then there is that lingering like, what if I could take care of my family? 
+
+AUSTIN: Mmhmm.
+
+JANINE: Like, what if I could do these other things? So the unfairness would be to people who aren’t here, who don’t get to benefit from the like, even and experienced and much wiser hand of a close and compassionate god.
+
+AUSTIN: Mmhmm.
+
+JANINE: Or godlike figure. And have to like, deal with fuckin’, the end of the world and whatever.
+
+AUSTIN: Mmhmm. Does Adaire ever self-sabotage? Like, is there ever a like, I’m gonna loosen this thing and it’s gonna fall apart at some point, and that’ll be fun?
+
+JANINE: I don’t think she self-sabotages...I think this is her self-sabotage, doing this shit.
+
+AUSTIN: Mmm.
+
+JANINE: Because that takes up her time.
+
+AUSTIN: Mmhmm. Right, right right right. [Austin and Janine laugh] She’s spending actually a lot of time…
+
+JANINE: She’s…
+
+AUSTIN: Well, right.
+
+JANINE: Yeah, she’s taking her time to do these things. I think the important thing that she does though, and this is a thing that I definitely want, this is what I want my scene with her to be. I think she...importantly, there’s no one who is exempt from this.
+
+AUSTIN: Mmhmm.
+
+JANINE: Because that wouldn’t be fair. [Ali laughs quietly] If she exempted people because she liked them. So the scene that I wanted to do is Adaire gouging the waterproofing out of Hella’s boat. [Ali gasps]
+
+AUSTIN: Jesus christ.
+
+ALI: Wow...that’s my boat! [laughter]
+
+JACK: After those nice cards.
+
+AUSTIN: So what happens...is the scene you want you being caught doing that, or that affecting Hella?
+
+JANINE: I would like to leave that up to Ali, I think.
+
+ALI: Oh, okay, what’s real here, hold on. [laughs]
+
+AUSTIN: There’s a lot of ways to do it! [Janine laughs]
+
+ALI: [laughs] A lot of ways to do it. I don’t know that her getting caught is the thing, ‘cause I trust that Adaire would be...but if like, this is the thing that she was gonna do, this is the one that she would plan out very firmly.
+
+JANINE: Well… [Ali laughs] I mean, the other side of that, though, is that like, if there is anyone that Adaire would subconsciously or consciously kind of want to catch her doing stuff, it would be Hella.
+
+ALI: Okay. [laughs] Okay.
+
+JANINE: So it’s totally feasible to believe that like, maybe she would be a little less careful this time.
+
+ALI: Okay, fair…oh man...sure, okay. But I don’t think that like...my impulse is that she doesn’t like, catch her or whatever, but it’s more like a [exhales]. Yeah, I don’t know, I think that it’s like, Hella’s upset, right? And I don’t think that she knows what happened, ‘cause it would be easy for her to just like, even if she thought that it was Adaire, it would be easy for her to be like, “oh, I guess I didn’t like sand it right” or like, “I don’t know how the seasons work, and like…
+
+AUSTIN: Yeah, yeah, right.
+
+ALI: “I should have put more lining on” or whatever. But I think that like Adaire does have to see how legitimately like [laughs] bummed out she is by it. And like not even like in a… [laughs] there’s definitely like, the scene goes back to Hella eating a tart, a DuTarte, right, but like… [Janine laughs] She’s just kind of like, talking to Adaire about it and complaining about it, and just being like,
+
+ALI (as Hella): I don’t know how this could have happened...like I thought I was taking really good care of it.
+
+JANINE: Oh, I know what this might be, this might be...Hella’s upset, and Adaire’s like,
+
+JANINE (as Adaire): Eh, it’s fine, you know, I’ll help you fix it, it’s fine, we’re fine.
+
+JANINE: And then while they’re fixing it, Adaire is like,
+
+JANINE (as Adaire): Oh, don’t forget the spot here.
+
+AUSTIN: Ah...
+
+JANINE: And Hella’s like, “wait, what, I didn’t…”
+
+ALI: [laughs] Aw…
+
+AUSTIN: And just like reveals a thing that you didn’t...
+
+JANINE: [laughs] Uh huh.
+
+AUSTIN: Uh huh. Like, “don’t forget you have to loosen the blah blah blah”, and it’s like, how would you ever know that you need to do that. [Janine laughs] So yeah, you want...then yeah, so that is the sequence, then.
+
+ALI: Okay.
+
+AUSTIN: So it’s like, we get the shot of Adaire doing it, then we get the shots of Hella seeing the leak and being like, “what the fuck”. [Ali laughs] And then we get the shots of Hella and Adaire talking about it, and then Adaire fucking up and revealing, and so that is where we zoom in. What is Hella’s response to, fucking, Adaire ratting on herself?
+
+ALI (as Hella): Wait, I didn’t...did I tell you that part of it? I only thought that was broken.
+
+JANINE (as Adaire): I mean, you must have, right?
+
+ALI (as Hella): Well, no, ‘cause I only fixed the...did you see who did it?
+
+JANINE (as Adaire): No, I’m like never down there.
+
+ALI (as Hella): You’re not never down there, you’re like...we go out there together. You don’t like walk past to get to the store...
+
+JANINE (as Adaire): Well then you would’ve seen them.
+
+ALI (as Hella): [laughs softly] Okay...you wouldn’t… [starting to get suspicious] Adaire. You wouldn’t have known that the [hesitates, thinking of something] rope was cut short and that I would have to get a new one.
+
+JANINE (as Adaire): I mean if I had known that I would have just brought you a new rope.
+
+ALI (as Hella): Do you need to sell more rope?
+
+JANINE (as Adaire): No! I’d give you rope. The margins on rope are like, you know, whatever.
+
+ALI (as Hella): Oh, yeah, I don’t…[sighs] Adaire, I...the time that I spend out there is really important to me. You know that, right?
+
+JANINE (as Adaire): Of course.
+
+ALI (as Hella): We can talk about it, right? Like, I just...I’ve been hanging out with Hadrian in the morning, and then I work at your shop, and then like, I have to make sure Lem eats, and I just...you could just say something.
+
+JANINE (as Adaire): Well, I mean, you know, it’s...sometimes a break in routine is fun, right?
+
+ALI (as Hella): Adaire...
+
+JANINE (as Adaire): Like, it gives you something new, like a new challenge, you know? Everyone likes a new challenge.
+
+ALI (as Hella): [confused] No. Adaire, that’s what I was telling you last time, this whole thing is already a challenge. What’s going on?
+
+JANINE (as Adaire): It’s not...but like, it’s not a challenge?
+
+ALI (as Hella): That’s the point. [laughs] 
+
+JANINE (as Adaire): [sighs] That’s the point, isn’t that the… [exasperated] that’s what I was saying! It’s like, I mean, I get it, right? I get it. It’s like it’s always, it’s always High Sun Day here, even though that doesn’t even exist. But it’s like you wake up, and you look in the mirror, and you say, “it’s gonna be a good day!” And it is, ‘cause nothing’s gonna stop it, but like… [sighs] I didn’t, I don’t—I don’t know. I don’t know what to tell you. That sucks. Don’t go back there if you’re gonna like...or do, I don’t know, [indistinct, emotional] what are you doing? What’s the point—did you do… [sighs] All of those sermons?
+
+AUSTIN: Yeah, yeah, yeah. Yeah. Like, you get it, right? Like, this is the moment when Hella puts it together.
+
+ALI: Yeah.
+
+AUSTIN: There have been sermons, yeah, uh huh, yeah.
+
+ALI (as Hella): If you wanted to fuck around, we could have figured something out [Janine laughs quietly] that wasn’t like...
+
+JANINE (as Adaire): That wasn’t what? [more intense] What do you do here that has any effect other than this?
+
+ALI (as Hella): Isn’t that the point? Don’t you want to not have effect on something for once in your life?
+
+JANINE (as Adaire): That’s been my whole fucking life, Hella. What are you talking about?
+
+ALI (as Hella): That’s not true, that’s not true! You talk to people all the time, you show them maps, you introduce people to people, you talk to mayors, you lead us around, what are you talking about?
+
+JANINE (as Adaire): Literally everything you just said is facilitating someone else having an effect on the world. I guess in a roundabout way that’s having an effect, but that’s not an effect that like, gets me anywhere, or really does anything.
+
+ALI (as Hella): So this was it. This was the Adaire touch that you wanted to put on the world?
+
+JANINE (as Adaire): No!
+
+ALI (as Hella): You wanted everyone to walk around and say, “ugh, god, fuck”, and that’s your effect.
+
+JANINE (as Adaire): This is…[sighs] there’s nothing else that...I can’t have an effect on the world, like the real, the real world. I never could have an effect on that real world. But this place, everyone is happy here all of the time, and no one is happy any of the time except for like five people in that other place. And, that sucks. I think that sucks.
+
+ALI (as Hella): I also think that sucks!
+
+JANINE (as Adaire): [laughs] Then you shouldn’t be mad at me!
+
+ALI (as Hella): Well, you just try to have a good time!
+
+JANINE (as Adaire): No, I’m not—I’m trying to make other people have less of a good time! It’s not about—
+
+AUSTIN: You’re really laying it all out there!
+
+JANINE (as Adaire): It’s not—I don’t find it fun, I have a lot of very sore fingers because I keep getting splinters and shit in them from fucking with stuff, and it sucks, and like, I don’t have a lot of free time, because [sighs] I’ve gotta run this business, and then also do this stuff, because it just—it’s not—it’s not cool that everyone’s fine here.
+
+ALI (as Hella): I’m sorry, Adaire, that you don’t have a lot of free time. I just [sighs]. No, I’m not mad. I get it. I do get it. [laughing a little] But it’s like, we’re gonna go back and it’s gonna be shitty, right? [laughs] It’s gonna be shitty when we go back.
+
+JANINE (as Adaire): Sure, and I mean, I’m not gonna make it shittier there, it’s not…[sighs] I don’t know when we’re going back, and I feel weird here, and this makes me feel less weird. Honestly, it might make you feel less weird too, [Ali laughs slightly] ‘cause you seem like you feel weird about this.
+
+ALI (as Hella): It doesn’t feel like a wasted opportunity to you otherwise?
+
+JANINE (as Adaire): What wasted opportunity, I have a fuckin’ five floor department store.
+
+ALI (as Hella): It’s [indistinct].
+
+JANINE (as Adaire): [crosstalk] I have sixteen employees. They memorized a speech for me! Like to tell the customers.
+
+ALI (as Hella): Right, I know the speech. “Welcome to Ducartes, [mumbles].” 
+
+AUSTIN: [quietly] Uh huh.
+
+ALI (as Hella): I know the speech.
+
+JANINE (as Adaire): Well, I didn’t make you—I’m glad you memorized—that’s very sweet. [Ali laughs] I wasn’t gonna, like—‘cause I know you’re not great at memorizing stuff sometimes.
+
+ALI (as Hella): I mean, fine, if you wanna...I’m not gonna stop you. I should stop you. The thing that I should do is stop you. And I swear to god, Adaire. [Ali and Janine laugh] You can’t fuck with the four of us! [crosstalk] Like at least let it be the four of us.
+
+JANINE (as Adaire): [crosstalk] I had—no, okay. Nah, I draw the line here. [Ali laughs] It’s extremely fucked up if I fuck with everyone except you guys.
+
+ALI (as Hella): Why?
+
+JANINE (as Adaire): That’s the point. ‘Cause then I— ‘cause then it’s like, “well, it’s shitty if everyone else is happy, except for my friends, they should be happy all the time, they deserve it ‘cause I know them personally and I’m Adaire, the arbiter of happiness.”
+
+ALI (as Hella): Okay, but your point is that all your friends have lived this shitty existence, and now everybody here gets to have a good time.
+
+JANINE (as Adaire): I mean, these people lived a shitty existence. These people got murdered by you in some cases, that’s not great. But they’re happy now, and that’s the thing that I’m concerned about. [laughs]
+
+ALI (as Hella): [laughing] You’re arguing against your own point, Adaire.
+
+JANINE (as Adaire): The point is not...the point is, if everyone outside has had a shitty time, and everyone in here also had a shitty time at some point, and now—it’s about now, it’s about now, it’s about—things are too clean here. And it’s not fair, and it’s not okay, and, you know, that’s all it is.
+
+ALI (as Hella): I mean, you’re right, you’re still right.
+
+JANINE (as Adaire): It’s not like I’m gonna fuck with you again like, tomorrow. I space it out.
+
+ALI (as Hella): [reproachful] No—Adaire.
+
+JANINE (as Adaire): This is also the first time I fucked with you—
+
+AUSTIN: [crosstalk] God. 
+
+JANINE (as Adaire): —so like, it’s fine.
+
+ALI (as Hella): So there’s gonna be multiple times.
+
+JANINE (as Adaire): Probably not, it depends on how long we’re in here, honestly. Like, I’ve never doubled up on anyone yet, I haven’t had to, but it’s only been a few months.
+
+ALI (as Hella): You don’t wanna just try, with the rest of us? I know it’s been a long time. And I know that it hasn’t gotten easier. And I know that it just gets weirder. But sometimes it’s just fine! And it just feels like...shit was so bad, Adaire. Shit was so bad.
+
+JANINE (as Adaire): So you’re telling me everything’s okay now?
+
+ALI (as Hella): No, I’m just saying, if we only get four years, if we only get five years here, they’re gonna be the happiest five years of our lives.
+
+JANINE (as Adaire): Fine. What’s one bad day in a span of five great years, to anyone?
+
+ALI (as Hella): I guess you’re right. I don’t know, I feel like I’ve had bad days here, is the thing, is why I’m mad. I don’t know about everybody else. People seem like they have a good time, but I don’t know that. I don’t know that. You don’t know that.
+
+JANINE (as Adaire): I mean, I think we can kind of agree that we mostly know that. [Ali laughs] Look, I know what’d make you feel better.
+
+ALI (as Hella): What would make me feel better, Adaire?
+
+JANINE (as Adaire): What if we loosen one of the legs on one of Hadrian’s chairs.
+
+ALI (as Hella): [kind of outraged] No! This is the thing, Adaire, I...Hadrian’s a really good friend of mine, and he’s like not okay right now. And if you talked to him, you would know that.
+
+JANINE (as Adaire): [crosstalk] Okay, well...
+
+ALI (as Hella): [crosstalk] If you really talked to him you would know that. And like, Lem isn’t okay, and like, I’m sort of not okay, and clearly you are also sort of not okay, Adaire.
+
+JANINE (as Adaire): [sighs]
+
+ALI (as Hella): Just...
+
+JANINE (as Adaire): Okay, that’s fair.
+
+ALI (as Hella): Right? And like I get it. I get that this is the thing that you do, and it’s good to be good at the one thing.
+
+JANINE (as Adaire): I’m good at lots of things! [Ali laughs]
+
+AUSTIN: Yo!
+
+JANINE (as Adaire): What the Hell?!
+
+ALI (as Hella): [still laughing] No, but—
+
+JANINE (as Adaire): You work at my store! [laughs]
+
+ALI (as Hella): I know, but you know what i—like, I wish I had a sword, Adaire. I wish I had a fucking sword. But I don’t have anyone to fucking kill in here! But I want one so badly. But I don’t get a sword and I don’t just go fling it around. 
+
+JANINE (as Adaire): [crosstalk] You could ask for a sword.
+
+ALI (as Hella): [crosstalk] What I do is I have a boat, and I try to have a good time, and I write cards to people, and I invite people I don’t want to hang out with out, and then I have a good time and sometimes it’s fine! That’s the thing! [exhales] That’s the thing. I was born to be good at having a sword, and here it’s fucking pointless. It’s just, it’s good to just imagine if that was different. And this is different. You don’t want it to just be different?
+
+JANINE (as Adaire): You didn’t sound so happy with it being different before.
+
+ALI (as Hella): [sighs] That’s because I know the other place still sucks. And I can’t feel happy here if I know that place sucks. Because I—I grew up there. I met people there, I met you there, I met Hadrian there. I fucking, I grew up there, my parents are still there, maybe, if the Heat and the Dark didn’t get to them first. But don’t make this shitty too, just ‘cause you feel like it’s fair.
+
+JANINE: I’m trying to think of, like, I don’t know… [Ali giggles] I don’t know that Adaire is convinced, but also, like, it’s not...it’s one of those things where I think she currently feels like, well, we’re both right. You know, like…
+
+ALI: [laughs harder] Yep!
+
+JANINE: [laughs] She’s not going to acknowledge that maybe she is wrong or doing something shitty, I think she still feels like justified, partially because it does make her feel better. [Ali laughs] But also is like, well, okay, certain people are having a rough time, so maybe I should like be attentive and leave them off the list. But anyone who’s obviously and sincerely happy [laughs] better watch out, I guess. [Ali laughs]
+
+AUSTIN: I’ll get ‘em.
+
+ALI: And I think Hella’s fine with that, right, because she has pushed her in this conversation but not enough to be like, don’t ever do that again.
+
+JANINE: I think there’s also probably one last offer of like,
+
+JANINE (as Adaire): Is there like someone you really don’t like, ‘cause...you know. I could find a window.
+
+ALI (as Hella): I...that’s the fucked up thing.
+
+JANINE (as Adaire): Like a metaphorical window, or a real window. It depends on what you’d want to do.
+
+ALI (as Hella): I mean, but there isn’t. Like, I would have said Ginny, ‘cause like [scoffs] we were fucking rivals. We were like, literally rivals. And now she’s just like, in town. She comes to the store sometimes. 
+
+JANINE (as Adaire): Yeah, she’s a good customer.
+
+ALI (as Hella): [sarcastic] Yeah, I’m glad, great. [sincere] But, I’m saying that like “great”, but like, that’s actually great! And I’m the problem. Whatever. Keep a list. Don’t fuck around with Ginny. Just, I don’t know. I don’t know.
+
+JANINE (as Adaire): So you don’t want me to fuck around with Ginny, alright.
+
+ALI (as Hella): Just don’t touch my boat, and don’t touch Hadrian’s chair, and don’t touch Lem’s fucking, pile of books. Whatever else you [indistinct].
+
+JANINE (as Adaire): There’s not that much you can do to books.
+
+ALI (as Hella): Well, I’m sure you would figure it out. [crosstalk] With all the moisture.
+
+JANINE (as Adaire): [crosstalk] I don’t want to ruin the books. Well, okay, yeah, I could make them moist. But that’s a whole process.
+
+ALI (as Hella): Apparently wasn’t a process when I did it.
+
+JANINE (as Adaire): ‘Cause you had like a ready source of moisture—it doesn’t matter. [Austin laughs]
+
+ALI (as Hella): If you’re not okay, just tell me.
+
+JANINE (as Adaire): I’m as okay as I’m gonna be.
+
+ALI (as Hella): Okay. Then I won’t get in the way of...whatever else. [hushed tone] But we like live with a god. And he’s like a god? And he’s like, gonna know. So just a heads-up.
+
+AUSTIN: Mm.
+
+JANINE (as Adaire): Yeah, you know, [sighs] I grew up under the threat of Samothes knowing shit, and I think I would relish the opportunity for him to actually know shit.
+
+ALI (as Hella): Yeah, I, fucking...you know how many people I killed that prayed to him? [laughs] Lucky them.
+
+JANINE (as Adaire): Yeah, this worked out great for everyone, I’d say.
+
+AUSTIN: Mm…
+
+ALI: [laughs] I think that’s scene?
+
+AUSTIN: [crosstalk] Yeah.
+
+JANINE: [crosstalk] That’s probably scene.
+
+ALI: [crosstalk] It’s just Hella being like, [laughs] raising a tart to her like,
+
+ALI (as Hella): Yeah. Great to all those people that I killed.
+
+[TIMESTAMP: 2:32:52]
+
+AUSTIN: Alright. So that’s Hella and Adaire’s scenes. [Ali laughs] Lem and Hadrian, you both get a scene.
+
+ART: I sort of got my A-priority scene already.
+
+AUSTIN: Wasn’t that by way of Hella’s?
+
+ART: Yeah. 
+
+AUSTIN: Okay.
+
+ART: That’s called efficiency.
+
+AUSTIN: That’s...
+
+ART: I mean, I guess…
+
+AUSTIN: No, I don’t need another one, if you have nothing else.
+
+ART: I mean, at some point, I guess we need the big, I need a big Samothes scene.
+
+AUSTIN: Yeah, I got that in my back pocket, I got a big final scene for everybody, basically.
+
+ALI: [intrigued] Ooh.
+
+AUSTIN: It like—well, you know, there’s things. But if you had something else, or Lem also.
+
+JACK: I don’t know that...I don’t know that I have anything specific. I think we have got from Lem the position that he is in, from—
+
+AUSTIN: Yeah.
+
+JACK:  [laughs] From the course of this last year. And then we’ve got sort of like, I think he was touched by Hella visiting.
+
+AUSTIN: Mmhmm.
+
+JACK: Even if he didn’t quite know either how to respond to that or how to identify that feeling within himself.
+
+AUSTIN: Is there—so, Hella’s scene suggested a kind of ongoing care for you and for Hadrian. I’m curious for both of you, is there an effect from that? Like, do you, over the course of that year, as Hella makes sure that Lem is eating and trains with Hadrian, besides the, like, experience points… [Austin, Jack, and Ali laugh] Is Hadrian’s beard in a better place? Lem, are you waking up and like, feeling better?
+
+JACK: [slowly] Yeah. I think it would be naive to think that Lem...you know, sometimes you just manage to take a shower and you still work badly for three months. [Jack and Ali laugh] You know, like…
+
+AUSTIN: Yeah.
+
+JACK: There’s a part of it, I think, that is like...okay, cool, now my belly can be full, and I’m still gonna be frustrated about what I’m doing. But I think also...I think Lem’s frustration is transmuted in some way? And I don’t know quite what way that is. I don’t think it goes away, and I think perhaps it buries itself as an anxiety rather than as a frustration. It buries itself in the anxiety of like...I should be studying, but I’m doing something else. But I’m doing something else!
+
+AUSTIN: But you’re doing something else. Right.
+
+JACK: And then the flip side of that is, I’m doing something else and I’m enjoying it, but I should be studying.
+
+AUSTIN: Yeah yeah yeah, totally.
+
+JACK: And I think the ghost over Lem’s shoulder probably becomes more and more solid the more translucent his research becomes in front of him.
+
+AUSTIN: Mmm. Cool. Hadrian?
+
+ART: I think Hadrian starts doing a little better, outwardly.
+
+AUSTIN: Yeah.
+
+ART: With this like, extra thing. It’s like something to focus on, something to do. It’s like, it works all those muscles and reflexes and ways of thinking. But I think he like— [“Something” by Jack de Quidt begins playing] I think he still sleeps really badly. 
+
+AUSTIN: Mmm.
+
+ART: I think that there’s a lot of like...it doesn’t really ease his stress and tension about what’s happening outside, and how not present he is.
+
+AUSTIN: Mmhmm. Yeah. As the year begins to wrap on, the storm gets closer and closer. And, I think it is communicated to you, in different ways, on different days, that that means the blade is getting close to being repaired. And, when it is time to go, you will all get on a boat, and ride into the storm.
+
+[song continues to the end]

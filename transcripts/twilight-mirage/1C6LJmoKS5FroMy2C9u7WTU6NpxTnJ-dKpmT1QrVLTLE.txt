@@ -1,0 +1,1877 @@
+Twilight Mirage 15: A Life and A History
+Transcribed by Elliot @cordialement#1268
+
+[MUSIC - “The Twilight Mirage” begins]
+
+	AUSTIN (as Satellite): Report 140.
+
+When does something become history, Primary? Like, how long until whatever it is we do here starts being the sort of thing that future agents refer to with a sort of romantic distance? How long before another Primary halfway across the Arm is telling another Satellite about us? About whatever it is we wind up doing here? That is, if we do anything here. If we do anything. It’s… it’s a lot to think about. 
+
+Primary, my predecessor filed 286,059 reports. That’s 783 years, 264 days, I don’t know how many hours. That isn’t even that long for Satellite observers like me. Dimani. Primary. Whatever happens here, please know how important you are to me. Please know that way before anyone else thinks about what we do as history, way before anyone else is talking about us, I already think of you as… 
+
+Pause recording. Begin substitute for past 21.99 seconds. Start.
+
+But don’t worry about that, Primary. Let’s both just keep doing our best.
+
+[MUSIC ends]
+
+AUSTIN: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am your host, Austin Walker. Joining me today, Art Martinez-Tebbel. 
+
+ART: Hey, hi! You can see me on Twitter @atebbel.
+
+AUSTIN: Sylvia Clare.
+
+ART: See me on Twitter. That’s not right.
+
+AUSTIN: See you on Twitter. Sylvia Clare.
+
+SYLVIA: Hi, I’m Sylvia. You can find me on Twitter @captaintrash, and you can find the work that I do on videogamechoochoo.com.
+
+AUSTIN: Keith J Carberry.
+
+KEITH: Hi, my name is Keith J Carberry. You can find me on Twitter @KeithJCarberry. You can find the Let’s Plays that I do at youtube.com/RunButton. And Kylie and I for RunButton relaunched, finally, our Patreon at contentburger.biz, so you can go there instead of the awful, terrible website GameWisp that sucks.
+
+AUSTIN: And Andrew Lee Swan.
+
+DRE: [chuckles] You can find me on Twitter @swandre3000.
+
+AUSTIN: You can find me on Twitter @austin_walker, and you can find the show where you can support us at friendsatthetable.cash. By the time you’re hearing this, we are probably well into our second Bluff City game of Inspectors, a game about hunting ghosts in our fictionalized Atlantic City. It was really good. There are crystals. There is a lot of really good stuff happening in that show, so…
+
+[SYLVIA chuckles]
+
+AUSTIN: Go check that out. Friendsatthetable.cash. We’re also nearing, as of recording, the next stretch goal, which would be me recording bits of my-- or not recording, but doing a livestream of some of my GM prep, which would be really fun and exciting, because-- If you haven’t that sorta thing before, I definitely advise checking out Adam Koebel’s version of those streams, where he kind of shows you behind the scenes before he does a session. 
+
+And it’s not like-- because the games, or the sorts of games that we play, that are so open-ended, it’s a lot of like, “Okay, who are the NPCs that I’m designing? What are their motivations?” And like, how it all comes out in play is still up in the air, but it gives you a little bit of an insight into what the creative process of prepping for a session like the one you’re about to hear now. So, if that sounds interesting to you, if you wanna get on board with our Live shows, with our Tips shows, anything like that, go to friendsatthetable.cash. We really sincerely, seriously appreciate the support.
+
+Okay, so, today we are continuing our game of the Veil by Fraser Simons. My agenda is to make the world feel real, to make it high-tech and make it personal, to make the protagonists’ lives interesting and interconnected, and to play to find out what happens. To restate your goals as a group, you’re here to bring into the fold the people who left the Fleet hundreds of years ago, to colonize Quire. You’re here to spread the Mesh across the planet, and you are here to investigate the rumors of a last living, hiding Divine. 
+
+When we last played, I don’t wanna give like too deep of a thing, but we kind of-- we left off with Grand Magnificent in the presence of the Doyenne, Undela Apogica, who is like the kind of leader of this faction called the Crown of Glass. She was in the process of commissioning you into making her a mech. 
+
+We had-- Gig had just located the, an expert in the old world of Quire, named Leaf Cart-horn, and had kind of found out that Leaf had recently, had been put on forced sabbatical, by the University, by the Sculpture, because his focused had shifted onto his personal studies instead of teaching architecture, which was his job. And the… everybody else, Even and Echo, were kind of doing some research into the history of Quire, and specifically the Crown of Glass, and sort of the place of the Doyenne, and the way that she had previously ousted a king who had led this society until fairly recently. Can we go over beliefs before we continue? Let’s start with Gig in the top left here.
+
+KEITH: Okay! My beliefs are, “If the story’s behind a locked door, break in,” “I can change any situation with my knack for positive thinking,” and “Echo values the life on this planet as it already is, and I will back up their instincts.”
+
+AUSTIN: Okay. Echo?
+
+SYLVIA: Alright! My beliefs are, “If someone doubts you, prove them wrong,” “Don’t let Gig use you for entertainment,” and “Make sure that the Mirage isn’t being forced on Quire.”
+
+AUSTIN: Grand Magnificent?
+
+ART: “I will lend my genius to these quaint colonialists and through that will find new authenticity.”
+
+AUSTIN: Mhm.
+
+ART: “Echo has led life worth living; I will find a way to distill that essence into my work.” “I will find the hidden Divine; it will validate my work by letting me build it a new body.”
+
+AUSTIN: Awesome. And Even Gardner.
+
+DRE: “Orders from the Fleet have good reasons behind them, so they should be followed,” “I need to experience the rush of connecting with new technology as soon as I can,” and “Grand Magnificent has made a great contribution to our mission; I should help him find what he seeks.”
+
+AUSTIN: Okay. So actually--
+
+KEITH: Real quick can I say something about these beliefs?
+
+AUSTIN: Yes.
+
+KEITH: So, you know how impressionists say, like, they have an anchor phrase for like how to do an accent?
+
+AUSTIN: Mhm.
+
+KEITH:  They’ll like say that one-- Hearing Art read his first belief is like my anchor into playing this game.
+
+AUSTIN: [laughs] Yes, it’s a good one.
+
+KEITH: Every time. Every single time, I’m like, “Oh okay, this is what we’re doing. I forgot.”
+
+[AUSTIN laughs]
+
+KEITH: And I’m here now.
+
+[DRE laughs]
+
+AUSTIN: Good. So I think we actually open on Even and Echo. Maybe just like a montage of shots of the Myriad, which was the-- Myriad the ship and also the AI that accompanied you and brought you down to Quire, is arriving in Sculpture City at a kind of a landing pad. And on it is both Myriad the robot lady who is the ship, and also Alekhine, who is kind of the overseer of this-- of this entire expedition, and also the person who has the authority to make a deal with the Doyenne, and with any of the societies here. I’m not gonna like point on the map where-- You know, maybe I will. I’ll point on the map where this is. it’s like, “I’m not gonna point on the map. Yes, I will. I’ve changed my mind.”
+
+[SYLVIA and DRE laugh]
+
+AUSTIN: Let’s say it would be outside of either of these things. So I think like this spot here, which is like the southeastern side of the city-- Gonna draw like a little, a little gray circle really quick, that’s like, “Here’s the--” Or you know what? Let’s make it an orange circle, it’s a little more visible. That’s the landing pad where Myriad lands is… like there? And we just get like, y’all helping with bags. In my mind this ship has a very, like, retro-futurism, art deco style. Like big rounded-- like big rounded middle that comes to a very sharp point, with like big fins. Do you know what I mean? Sharp, sleek silver. 
+
+And Myriad is the same way. Almost looking like the sort of robots that are in Metropolis, right? Or the robot that’s in Metropolis. Very like her… her body is covered in like, ribbing and all of her-- like her shoulders are a little bit extended upwards, and there’s like a tight, like-- Hey, I’m literally just thinking of that. The robot from Metropolis. But also like, has extra limbs? Has like two extra arms coming out of her back, and she’s using those arms to carry luggage.
+
+And I described Alekhine a long time ago for us, but he’s basically just a big military dude? Like I would suspect he has a similar build to you, Even. Kind of like a bulky guy who has served his time as a soldier on the front lines and at this point is also just kind of like moving into being more of a desk jockey-- I guess actually more of a diplomat, right? A kind of officer-diplomat. He has a military cut and a big, bulbous head. He speaks with like a military laugh. Or like a big, deep military laugh, do you know what I mean? Like the sort of laugh that often feels disconnected from the results on ground, in a kind of scary way. But he’s helping you guys like carry luggage through the streets, toward Old Gold, the club that you are all residing in on offer by the Doyenne.
+
+And I think we just like good-- good images of like feet stepping out of the spaceship, and luggage being rolled through the streets, or hovered through the streets, or whatever. And then like, you know, drinks being poured, and like a toast. It’s just like rapid shots of that stuff. And then finally it’s just like, the four of you. Even, Echo, Myriad, and Alekhine, in a private room. Myriad says like
+
+	AUSTIN (as Myriad): No bugs detected. We can speak in peace.
+
+AUSTIN: And Alekhine, who’s like again, big white dude with like a huge jaw, sits down and like does the thing that people do sometimes where they like pull up their pants from the top of their pant-- You know what I mean? Like they pull up, so that their pants are not dipping down past their ankles a little bit, and it’s like a weird tic of his. And he has like grey military uniform, and he says,
+
+	AUSTIN (as Alekhine): Gardner. Where are we with the Crown?
+
+	DRE (as Even): In terms of…?
+
+AUSTIN (as Alekhine): [sighs] Expanding the Mirage. Bringing her back into the fold. Gaining access to her resources.
+
+DRE (as Even): The Doyenne said that the only way she’ll let us integrate our Mesh with theirs is if they basically get-- basically free, uh, propaganda for their thoughts, their belief, I guess their civilization, as they would call it. So that basically anybody who tries to connect to our Mesh from the planet has to go through them.
+
+AUSTIN (as Alekhine): Okay. This is good. Not ideal, but… If they’re willing to negotiate, if they have terms, then they can be made to be our terms instead of theirs. I will send word, and Myriad and I will begin negotiations as soon as possible.
+
+SYLVIA (as Echo): Hey, uh, Even, you left out the part where, uh, she killed the last ruler and then scrubbed like every mention of him from most of their public archives. Or at least his name.
+
+AUSTIN: Myriad-- Myriad says,
+
+AUSTIN (as Myriad): I’ve already seen this. I’ve connected to their local Mesh and begun building a profile on the Doyenne.
+
+DRE (as Even): And?
+
+AUSTIN (as Myriad): I’ve begun building a profile on the Doyenne. These things take time, Gardner.
+
+DRE (as Even): Sure.
+
+SYLVIA (as Echo): Uh, here’s a line you can add to your profile. “Echo doesn’t trust her at all.” There is something super sketchy there.
+
+DRE (as Even): Even-- wait.
+
+AUSTIN: No, that’s you.
+
+DRE (as Even): Why are we talking in third person? I also don’t.
+
+[AUSTIN laughs]
+
+	DRE (as Even): I also feel the same as Echo.
+
+AUSTIN (as Alekhine): We are not here to make friends, of course, you understand that. We are here to save our people, and sometimes that means working with the powerful.
+
+DRE (as Even): It’s not even about… being friends. It’s about not wanting to compromise… what the Fleet is.
+
+AUSTIN (as Alekhine): [sighs] I respect your idealism.
+
+AUSTIN: Myriad like chirps a few times, and then says,
+
+	AUSTIN (as Myriad): Your reservations have been added. Is there anything else?
+
+	SYLVIA (as Echo): No, I guess not.
+
+AUSTIN: Myriad says,
+
+	AUSTIN (as Myriad): Are there any public enemies?
+
+[15:00]
+
+	DRE (as Even): I don’t think there’s public enemies, but…
+
+	AUSTIN (as Alekhine): Private ones, then.
+
+	DRE (as Even): Do you know who the Saints are? 
+
+AUSTIN: I think Alekhine just looks over at Myriad, and Myriad says,
+
+	AUSTIN (as Myriad): Yes.
+
+	DRE (as Even): One of them, Saint Auger, ve is not very much of a fan as the Doyenne.
+
+	AUSTIN (as Alekhine): Who are the rest of the Saints? Could we use them against her?
+
+DRE: I’m trying to remember the names of the other two we met. 
+
+AUSTIN: It is, uh, Caliper.
+
+DRE: Caliper.
+
+AUSTIN: Caliper is the youngest one. She’s the one who like wants the culture to expand, and is also the one who was missing shots. And then Symmetry is like, the… sort of the leader of the group? He’s the one who kind of told you the history of the Doyenne and led you into their Gallery space. So it’s Symmetry, Caliper, and Auger. And the dead one, the one that was assassinated, was Glass.
+
+DRE (as Even): So, Symmetry seems… reasonable. He’s a good soldier, so I don’t know how well he would stand to be asked to go against the Doyenne in any way. Caliper is maybe more, uh, enthusiastic in supporting the Doyenne? But there’s also something not right about her, and that could let us leverage that against her to get what we need.
+
+AUSTIN (as Myriad): Define ‘not right’.
+
+DRE (as Even): In the, uh, the firefight where we first encountered the Crown of Glass, Caliper missed on purpose a lot. Which is weird, because she seems to be the one who’s most enthusiastic about spreading their civilization and even maybe subsuming some of the other factions on the planet, but… She didn’t fight. I mean, she made it look like she was. But she didn’t fight.
+
+AUSTIN (as Myriad): Perhaps those two goals are not in direct competition. Perhaps Caliper believes that expanding their civilization has nothing to do with the current Doyenne.
+
+AUSTIN (as Alekhine): I’d like you both to investigate this. Find out what this Caliper is doing, and whether or not it is something we can leverage, either to put someone more hospitable in charge or to gain us favor with the current Doyenne.
+
+DRE (as Even): Alright, can do.
+
+AUSTIN (as Alekhine): Now, what is the best drink in this place?
+
+DRE (as Even): I had some whiskey earlier. It was pretty okay. If you-- Grand Magnificent did what Grand Magnificent does and made up a whole brand new cocktail on the spot, so I guess you could also ask him about what goes in that thing, but--
+
+SYLVIA (as Echo): There was also some really good, weird ground juice.
+
+AUSTIN (as Alekhine): Ground… juice.
+
+SYLVIA (as Echo): Yeah like it’s like a jeli fruit thing, and it comes out of the ground, and then they make a juice out of it. Sounds dumber when you say it out loud.
+
+[AUSTIN and DRE laugh]
+
+SYLVIA (as Echo): It was good, though.
+
+AUSTIN: And I think we just cut at that point to Gig, who loves him some ground juice. [laughs] Gig, we last left off with you kind of identifying where this person-- this doctor was. Dr. Cart-horn. Leaf Cart-horn. I kinda just wanna jump to you being at his apartment/study or whatever? I think it’s like a little apartment building. It’s actually similar-- it’s actually in kind of a similar place outside of the actual place of like the school or the governmental area. You know, I’m kind of imagining it as being kind of a run-down mid-century apartment complex, but he lives on the top floor. 
+
+Like you see like the buzzers, that’s like what you know. It’s like, “Oh, Dr. Cart-horn, top floor.” There’s just an elevator you can walk in. There’s not much security around here. And I think it’s like a beautiful glass elevator. Like the elevator’s on the outside of the building, so you’re rising up above this section of the city. Are you like pursuing a story at this point? Are you-- where’s your head at, as you go to talk to this guy?
+
+KEITH: I think besides that, I’m always sort of pursuing a story, or at least what I think might be a story. I think that I’m just really inter-- like I found this horse and people on the planet didn’t know what it was. 
+
+AUSTIN: Right, right.
+
+KEITH: Like I think that that’s sort of just innately interesting.
+
+AUSTIN: Yep.
+
+KEITH: Like to me, that I found-- and it was like frozen. Like I found a frozen horse building?
+
+AUSTIN: Okay. Yes.
+
+KEITH: And they were like, “No, I’ve never seen that sort of thing before.” Like that’s-- it’s just really bizarre. [laughs] So… I think I’m entirely motivated by curiosity at this point.
+
+AUSTIN: Sure.
+
+KEITH: But I’m like-- I guess I’m hoping that this is like, a thing. 
+
+AUSTIN: Right.
+
+KEITH: If I dig in the right spots, maybe this is something.
+
+AUSTIN: You’ll pop-- Yeah, I gotcha, gotcha, gotcha.
+
+KEITH: Yeah. 
+
+AUSTIN: Alright.
+
+KEITH: Especially because there’s not much that we’ve learned about these planets besides like these weird factions.
+
+AUSTIN: Right. So you arrive at the top floor and there’s like a ding. And then you just like-- the elevator on this floor is just free-standing in a huge, open studio space. And off in the one corner, like you just see like a bed up against an exposed brick corner. There’s like huge windows looking out over the city. It’s the sort of place that only exists in fiction, because we can imagine this person as like a disgraced professor, but still somehow manages to have a really rad apartment. You know. But there’s probably some papers that are like, overdue rent or whatever, for this place. 
+
+And then, you hear something else. Which is like, you hear-- it almost sounds like… digging a little bit? Like you can hear-- you hear like the sound of a shovel hitting soil and then lifting over and over again? And then like, as you move around this space, you see that there is a figure in the opposite corner of this big open studio space with these huge windows, who is moving her hands? And it seems to be like doing some sort of sculpture work, but without touching anything. She’s like literally-- there’s like a little… sandbox, basically, that’s filled with this weird red clay, and she’s just kind of like motioning with her hands, and like chopping down into the clay and bringing it up, and putting it into different shapes, and trying to do stuff. It’s almost like she’s playing with a lot of Play-Doh all at once, but like, telekinetically. 
+
+KEITH: Okay.
+
+AUSTIN: She has-- from the back, you can see that she has blue hair? And she’s wearing like a gray tanktop. She’s like wire-thing. Like super super super thin. She has like, again, blue hair and pink-- like actually pink-- skin. And is just working away on this stuff. And has headphones in, probably. Or, you know what? There’s just music playing. There is just like, you know, bebop jazz playing while she’s doing this.
+
+KEITH: Wait, have I just opened the door? Have I just gone in?
+
+AUSTIN: Yeah, like the-- I mean, there is not a door, it’s just a-- 
+
+KEITH: [overlapping] Oh, it’s just top floor
+
+AUSTIN: [overlapping] The elevator comes up, and like the metal… It’s like an old-fashioned elevator, do you know what I mean? Like just with the metal gate, and the metal gate peels back, and you’re able to step in, and there isn’t like an entryway or anything.
+
+KEITH: Okay. How loud is the music?
+
+AUSTIN: It’s like… loud enough to be like… she didn’t hear the door-- the bell ring when the elevator arrived.
+
+KEITH: Okay.
+
+	KEITH (as Gig): Uh, hi-- hi there! Hi there!
+	
+	AUSTIN (as the figure): [humming] Uh, wha--? H-Hey. Hey.
+
+	KEITH: Hi. 
+
+	AUSTIN (as the figure): Hey. Hi. Who are you? Uh…
+
+	KEITH: Hi. My name is Gig. [overlapping] Who are you?
+
+AUSTIN (as the figure): [overlapping] Sorry, the doctor isn’t in right now, and uh… and uh, can I take a note?
+
+KEITH: I guess. Uh, my name’s Gig and I have a question. I found a horse. And it’s a weird one.
+AUSTIN (as the figure): Okay. This sounds wild. Um… Like I said, doc’s not in. Uh, I’ll write down that you found a horse. Do you have like a place? A place where he could send a note back. What’s your Gallery number?
+
+KEITH: Um… I’m… eh… from a spaceship, and not from this planet. But I think that I’m staying in that big building over there.
+
+AUSTIN (as the figure): You’re from a spaceship.
+
+KEITH: Yeah, and I came down here, and I found a horse immediately and no one knew what it was.
+
+AUSTIN: She like turns around-- at this point, she turns around, she crosses her arms, and all of the clay kind of like softly floats back down into the sandbox. She also has like, glowing yellow stars on her face? Or like, tattoos, but they’re like tattoos of the sort of like skywriting stuff that we’ve seen Grand Magnificent and Janey do, that’s like the glowy stuff, but it’s in her face skin. And she’s like,
+
+AUSTIN (as the figure): Oh, wild, I’ve heard a little bit about that. You, uh, helped with the Doyenne’s attack, right?
+
+KEITH (as Gig): Helped is a strong word, but I was there. 
+
+AUSTIN (as the figure): Well you did that whole transmiss-- that’s you! You’re the guy with the, with the camera.
+
+KEITH (as Gig): Oh, that. Yes, I am the guy with the camera.
+
+AUSTIN (as the figure): Holy shit, I’ve never met like a real celebrity.
+
+KEITH (as Gig): I’m no-- no, I’m not a real celebrity.
+
+AUSTIN (as the figure): Are you recording this right now? Do I have to sign anything? Is there like a paper thing?
+
+KEITH (as Gig): Uh, you can if you want. I usually don’t ask.
+
+AUSTIN (as the figure): You should ask. That’s how you-- you should ask. In the future.
+
+KEITH (as Gig): Well, it’s just always going on.
+
+AUSTIN (as the figure): Ok--
+
+KEITH (as Gig): I would have to ask everyone.
+
+AUSTIN (as the figure): Ok-- well, that seems inconvenient, but also like, I don’t-- Like maybe I’m working on something private. Don’t take pictures of my work.
+
+KEITH (as Gig): I didn’t. If that-- for what it’s worth.
+
+AUSTIN: She like raises her eyebrows.
+
+AUSTIN (as the figure): Gimme the paperwork. I’ll sign it. This sounds fun.
+
+KEITH (as Gig): Okay.
+
+AUSTIN (as the figure): So tell me about this horse.
+
+AUSTIN: And she like hops over, and pulls like a… table over, like a little card table over, to write, to sign-- do you just produce some paperwork? Do you have like an iPad? Like how do you get  permission to use people’s images and likenesses and stuff?
+
+KEITH: I… I think it’s-- I think it’s like… I think it’s a physical notebook where each page is like a small…
+
+AUSTIN: Oh. Like a tiny--
+
+KEITH: Use contract?
+
+AUSTIN: Right, right, right right.
+
+KEITH: Yeah. And so you can just turn to a fresh page and sign the thing.
+
+AUSTIN: Cool.
+
+KEITH: And like, here’s what the thing is, and here’s the person that needs to sign.
+
+AUSTIN: Right, right right right. She signs it with like a future pen. She like does like a-- she does a thing with her finger on it, and then just like, basically signs with her finger, and hits the clicker on a pen and swipes over where she did her finger-sign, and it like turns it into a signature.
+
+	KEITH (as Gig): That’s cool. It seems like it takes longer than just using a regular pen.
+
+	AUSTIN (as the figure): Yeah but like, doesn’t take any ink. So…
+
+	KEITH (as Gig): Oh, okay, that’s fair. Saves on ink.
+
+	AUSTIN (as the figure) Exactly. Um, so tell me about--
+
+	KEITH (as Gig): Is ink expensive here? I haven’t-- I haven’t had to buy ink yet.
+
+AUSTIN (as the figure): Well, no. It’s just like, you wanna use ink for important things, not for your signature. That’s like a waste of time.
+
+KEITH (as Gig): What’s-- what’s more important than a signature?
+
+AUSTIN (as the figure): Like, everything. Are you kidding me? Like, uh…
+
+KEITH (as Gig): Well, okay, sorry. What, that uses ink, is more important than the signature?
+
+AUSTIN (as the figure): Like sketches, and like books that you write, and… like anything. Like anything. LIke what-- like who cares about a name? Anyway. I wanna know about your horse.
+
+KEITH (as Gig): Okay, so it starts regular-sized and then it gets smaller, and it has a prehensile mane, and it can talk a little bit, and…
+
+AUSTIN (as the figure): Do you need another drink? I’m gonna go make one for myself. 
+
+KEITH (as Gig): Sure, I’ll have one. Do you have, um, do you have… uh… jam juice? Jelly juice? Do you have the ground drink?
+
+AUSTIN (as the figure): The ground drink… I’ll see what Doc has. Uh, keep tellin’ me about the horse that gets smaller.
+
+AUSTIN: She like, leans down into a-- she like pulls out from of one of her bu-- she pulls out from her butt pocket, her own notebook, and writes down, “Horse that gets smaller,” and closes it and puts it away. And then goes into like--
+
+KEITH (as Gig): Well, hold on. Write that the mane is prehensile. I think that that’s as important, if not more important.
+
+AUSTIN (as the figure): Okay. Prehensile mane. Okay.
+
+AUSTIN: And then she like starts mixing you a drink. And really, she’s mixing herself a drink, because it’s like, okay. Weird prehensile horse situation.
+
+KEITH (as Gig): If you don’t-- if you don’t have the jam juice, jeli juice, I’ll just have one of what you’re having.
+
+AUSTIN (as the figure): No, j-- we, I think he has the jeli juice.
+
+AUSTIN: And then is like
+
+	AUSTIN (as the figure): [dismayed hum] No. This is bad.
+
+AUSTIN: And she like holds up a gallon jug of jeli juice and wiggles it, and it’s like… it shakes wrong. It shakes the wrong way, it’s like, [retching noise]. That’s the sound it makes.
+
+KEITH (as Gig): I don’t like-- yeah, I also don’t want that.
+
+AUSTIN (as the figure): I’m just gonna have, um, uh, this of alcohol.
+
+AUSTIN: And I don’t know, what’s a good alcohol-- what’s a good fictional sci-fi alcohol name? [sighs] I think she’s just-- I think she’s actually just gonna have like whatever this world’s whiskey equivalent is? 
+
+KEITH: Okay.
+
+AUSTIN: Like whatever they served you as whiskey before. 
+
+AUSTIN (as the figure): It’s a little early, but, you know. Weird horse facts make me thirsty. [sighs]
+
+KEITH (as Gig): Same.
+
+AUSTIN (as the figure): Let me be straight up with you: I don’t know shit about horses. It’s not really my vibe. Um, like maybe the Doc does? But he’s more of a buildings person than a horses person.
+
+KEITH (as Gig): I-- you know, I couldn’t find any information really on anybody that knew anything about this horse. This is the only name I could find. Um… 
+
+AUSTIN (as the figure): If you went to the Garden, I bet they would know about horses, ‘cause they know about animals and plants and fruit. Um, they probably have good jeli juice, too. But Doc is--
+
+KEITH (as Gig): I heard it was from the Garden. It was from The Garden. That’s what the guy that gave it to me the first time said?
+
+AUSTIN (as the figure): Oh, see? Wait. The horse or the jeli juice?
+
+KEITH (as Gig): He said it’s from The Garden. Sorry. The guy that gave me the juice first.
+
+AUSTIN (as the figure): Oh, okay.
+
+KEITH (as Gig): The horse I found in a building. He was frozen.
+
+[30:00]
+
+AUSTIN (as the figure): You’re wild. I don’t know how much of what you’re saying is real, but it’s interesting.
+
+KEITH (as Gig): 100% of it. I promise you, all of it’s true.
+
+AUSTIN (as the figure): Alright. Then--
+
+KEITH (as Gig): I can play back some of it. 
+
+KEITH: I’ll play back some of it for her.
+
+AUSTIN: Oh, okay, cool. So I think we like fade out on a scene of you drinking whiskey with this lady and like, trying to convince her that this is a real fucking thing and that you’re not just like a weird person who wandered into her-- her… professor’s like studio space, basically. 
+
+KEITH: Mhm.
+
+AUSTIN: She is his-- his, uh, research associate. Research assistant. Which comes up in the conversation. Let’s hop to Grand really quick, who is in a studio space of his own, presumably, at this point. So, this studio space. What are you-- are you like jumping into it right now? Actually, what I think maybe happens is like we get the shot of… when you move the [stammering]. So Gig, really quick, what does it look like when you show somebody this? Do you have a projector?
+
+KEITH: I was kind of think-- I was thinking of it as a projector, yes. [overlapping] That’s how I was thinking of it.
+
+AUSTIN: [overlapping] Okay. That’s fine. That’s a cool-- and it just like hangs in open air as if there was a screen there, basically?
+
+KEITH: Um… no, that’s more expensive.
+
+AUSTIN: Okay, does this go on a wall?
+
+KEITH: This goes-- This goes on a wall. 
+
+AUSTIN: Okay.
+
+KEITH: I think it’s like, good enough that it can go on any sort of wall? Like it doesn’t have to be like a white wall or something?
+
+AUSTIN: Mhm. Okay. So I just wanted to--
+
+KEITH: It definitely comes out of my eye.
+
+AUSTIN: I just wanted to get the screen composition. So what I think we get is like, we get a shot of you and this woman, Lily, looking at the wall from behind, and the projection is there. And we get like a soft cut from that to the Doyenne and Grand Magnificent also looking at a screen, where Grand is sketching out the design of this mech. What’s it look like? Like what’s the very first-- so the thing she asked you for was, a mech that captures like, all of the power and magnificence of humanity. What is like your first rough draft? [laughing] Your first direction?
+
+ART: Um...
+
+AUSTIN: Also, I mean, I think we’re past that now. I think this has been like, this is the next day. Right? Or like two days later or something. So maybe we’re past that, but like what were the first few steps? What do they look like?
+
+ART: Well I mean like, I’m sure that like the first draft looked like a classical sculpture?
+
+AUSTIN: Right, sure.
+
+ART: Was just like-- or like, “Here’s Michaelangelo’s David,” and it’s like, “That’s not right. That’s-- where’d--?” But like, I think that’s the first thing that would like come... from that. And then I think you like, well what is…?
+
+AUSTIN: Right, like I think that’s a big part of the conversation that you have with her over those few days. Like, you remember that basically she… cashed in the Faith you have on her by letting you do this? As like, as an artist she is basically putting her name on your work. Not like literally like “this is mine,” but as a patron she’s supporting you, and that raises your status on the planet. 
+
+But also there is this thing of like, you also just have access to one of the most powerful and knowledgeable people on the face of Quire. And as part of that, she’s also unfolding a little bit more about what the Crown of Glass believes, and kind of what’s core to it. And one of the concepts that she gets across to you is this-- they have a church, right? They have faith. But their faith is kind of this humanist belief; it’s the church of the self. And I think maybe when you put up this classical direction of it, she-- there’s part of it that appeals, because the kind of core belief of the church of the self is that… it’s kind of functionalist. 
+
+Like the whole culture is kind of functionalist. Like, despite being a faction that’s all about art, and all about… you know, having these really beautiful places, it is first and foremost a functionalist kind of artistic school that shapes all of the ideas that come out around that. Like it’s great if you can also embellish a little bit, but even embellishments should reflect some kind of use case, or reflect something innate inside of the-- inside of whatever the work is, right?
+
+And they also like deeply believe, and this is kind of what comes out of it, the kind of classic-- classical style like Davidian human figures, is that nothing that-- for her and for the church of the self, everything is interior to a work. There should never be anything that needs context. There should never be like, you understand that this is beautiful because it reminds you of a thing, or because it’s a statement on a thing. The kind of dominant artistic ideology here is that everything that is necessary to comprehend a work of art is contained within the work of art itself. If it’s referencing a previous work, then you should be able to find that work in the new work, somewhere deep inside of it.
+
+ART: Okay. Alright.
+
+AUSTIN: Which is like, you know. That’s kind of like what she’s kind of explaining over the course of like, this like intercut set of like lectures she is giving you, basically.
+
+ART: Okay, I have-- I have an idea. And I might need to-- I might need to talk it out a little bit. [laugh]
+
+AUSTIN: Su-- Yeah. Definitely.
+
+ART: I wanna use the Glass. I wanna use the Glass for some selfish reasons of just like, I wanna know how this fucking Glass works. This is, I think this is the coolest thing they have.
+
+AUSTIN: Mhm. Yes. Sure.
+
+ART: But I wanna use the facets of the Glass, and the way that you can like work with it, to make-- to make a design that looks-- that can look different, radically, based on the direction you perceive it from.
+
+AUSTIN: Oh, interesting. So like if-- like literally if you’re looking at it from the front versus from the back, it looks different.
+
+ART: And even like, what if you’re-- and if you’re like looking at it from 45 degrees, you sort of like, can see the…
+
+AUSTIN: This is-- this is exceptionally good for reasons that you do not know yet, because of a thing that happened in the last-- or maybe you do. Did you listen to the most recent planet game, or space game yet?
+
+ART: No, I think I’m two back on space game.
+
+AUSTIN: Okay. There’s a space game that hits into this in a very similar and interesting way, that is a good parallel. That is the sort of parallel that like, you know,  if people on TV fan forums watching this TV show would be like, “Oh, they’re very-- Like, this is a reference to that. What’s that mean?” I like that a lot. But what’s an example of it, visually speaking?
+
+ART: Um… I need it to like reflect their history in a way that I might just like not be aware of. But like I want the like… I sort of want it to be like a collection of, it’s hard because I wanna say a connection of like cultural icons? 
+
+AUSTIN: Right.
+
+ART: But they’re like super into erasing their own history a little bit.
+
+AUSTIN: Yeah. Yeah, and they also literally just don’t have access to a lot of it, also. It’s a combination of those two things, yeah. Do you have questions about their history? Or about any of the stuff that she can answer?
+
+ART: I mean I guess, like, I wanna know… I wanna know the four most important people.
+
+AUSTIN: Alive, or ever?
+
+ART: Ever.
+
+AUSTIN: Okay. So, she says,
+
+	AUSTIN (as the Doyenne): Myself, of course. I’ve brought--
+
+	ART (as Grand): Of course.
+
+AUSTIN (as the Doyenne): --stability, and the hope of a future, to this planet. The people who brought us here, the leader of that group, who dreamt of a world driven first and foremost by the artistic impulse, and by praxis, by the notion that you can make your life a living work.
+
+AUSTIN:  Austin doesn’t know the name of that person yet. But can come up with one. [sighs] So that’s two.
+
+AUSTIN (as the Doyenne): The first Glassworker. The first one who-- the first person who realized what all of this could be. And then the unnamed king, who is important mostly in that he was a vehicle for my rise.
+
+ART (as Grand): Do you wanna be the-- the front? Do you wanna be the principal image?
+
+AUSTIN (as the Doyenne): No.
+
+ART (as Grand): Or would you find that distasteful?
+
+AUSTIN (as the Doyenne): It would be distasteful.
+
+ART (as Grand): Okay, then I want-- then I want the two, the two rulers on the sides?
+
+AUSTIN (as the Doyenne): [takes breath] The king cannot be part of this.
+
+ART (as Grand): [sighs]
+
+AUSTIN (as the Doyenne): You can have an empty face. But not his.
+
+ART (as Grand): Okay. Then I-- do you wanna be on the left or the right then? Do you wanna be like the right for the strength? Or do you wanna be-- do you wanna be on the left for… I dunno.
+
+AUSTIN (as the Doyenne): Magnificent, this is limited. I am incredible. I am nothing compared to what humanity on whole is.
+
+ART (as Grand): [starts, but is interrupted] 
+
+AUSTIN (as the Doyenne): If I am valuable, it is only because I lift others up to be--
+
+ART (as Grand): But we’re getting the-- we’re getting the-- it’s the synthesis. It’s not about you. It’s about… it’s about see-- it’s not about looking at it directly and seeing one.
+
+AUSTIN (as the Doyenne): Mmm.
+
+ART (as Grand): It’s about looking at it from an angle and seeing the multitude.
+
+AUSTIN (as the Doyenne): How many sides can you show? 
+
+ART (as Grand): I mean, I’ve--
+
+AUSTIN (as the Doyenne): How finely can you cut the Glass?
+
+ART (as Grand): I mean this is my-- I’ve never worked with the Glass before. Four was what I thought was,was reasonable. I mean, you-- I mean, we can, we can push it? I mean...
+
+AUSTIN (as the Doyenne): [sighs] Four is so small. Here.
+
+AUSTIN: And she like does the thing that raises up the pebbles on the ground to turn this place into a Gallery space again and transport you both into this like living virtual reality that’s like projected all around you. And begins to pull down from the air, like, a collection of what she thinks are the most interesting hundred artists of her lifetime.
+
+ART: Oh my goodness.
+
+	AUSTIN (as the Doyenne): [firmly] Cut finer.
+
+	ART (as Grand): Okay! How much-- how much Glass do you have?
+
+	AUSTIN (as the Doyenne): [laughs]
+
+AUSTIN: And she like swipes-- or actually, you have to walk here, it’s the Gallery.
+
+	AUSTIN (as the Doyenne): Follow me.
+
+	ART (as Grand): Okay.
+
+AUSTIN: She says, and leads you down a couple of corridors. The-- Off in the distance, you see like the old king AI leading somebody else to some exhibit.
+
+[ART laughs]
+
+AUSTIN: And eventually like, she leads you to the… hold up, I’m just gonna bring you back to the Quire map really quick. To like the eastern part of Sculpture City. And it’s just like miles and miles and miles and miles of Glass mine. And they’re just like constantly digging.
+
+	AUSTIN (as the Doyenne): You will not want for material, Magnificent.
+
+ART (as Grand): Alright then, yeah, I see no reason why we can’t... why we can’t do this. I’ll-- I’ll cut it until it’s right.
+
+AUSTIN (as the Doyenne): Good.
+
+ART: And… and then, I’m way less confident of that internally.
+
+AUSTIN: Right, of course.
+
+ART: But like, whatever.
+
+AUSTIN: Do you, at this point, like-- is there any of… is there any of you that’s like, “I was supposed to teach these people something.”
+
+ART: No, cause I’m gonna crush this.
+
+AUSTIN: Okay.
+
+ART: They’re gonna love this. I mean, yeah, this is a little… I mean, it is. It’s like I’m-- I don’t have the real world art vocabulary for this, but this is like, you know, it’s like showing up and being like, “Look at what I did with my four colors of paint!”
+
+[AUSTIN laughs]
+
+ART: And them being like, “Okay, look.” [laughs]
+
+AUSTIN: [laughing] Right.
+
+ART: “There are so many more colors than you think you know about.” And it’s like, “Oh.” But like, I can-- I can work with purple. I knew about purple.
+
+[AUSTIN laughs]
+
+ART: I didn’t have purple paint before.
+
+AUSTIN: Right. Great. Good. Alright. Uh, Even and Echo, let’s jump to you. How are you investigating Caliper?
+
+DRE (as Even): Hm… I don’t know. Do we wanna--
+
+SYLVIA (as Echo): I mean--
+
+DRE (as Even): --do this in a sneaky way, or just stay like, up front way?
+
+SYLVIA (as Echo):  We could just talk to her.
+
+[DRE laughs]
+
+AUSTIN: You could.
+
+DRE (as Even): We could.
+
+SYLVIA (as Echo): I mean, y’know. It’s-- people don’t talk enough. Like, you know? You don’t have to be sneaky all the time.
+
+DRE (as Even): You know what, Echo? You’re right.
+
+AUSTIN: So where do you find her?
+
+DRE: Oh…
+
+AUSTIN: Like just set the scene for me. Do you know what I mean? I’m not saying like-- I mean, she isn’t trying to hide? Do you know what I mean? Like she is a public person.
+
+DRE: Right. Actually, I think I have a good opening line if I can set where we meet her?
+
+AUSTIN: Sure. 
+
+DRE: If we meet her, like, in the hangar of like where her-- her mech is.
+
+AUSTIN: Okay.
+
+DRE: So the mech is also called a Saint, right?
+
+AUSTIN: Yes, yeah. [overlapping] Yes. They are one and the same. Yes.
+
+DRE: [overlapping] Like that’s her title and also the type of mech she has. Okay.
+
+AUSTIN: Totally. Yep. And also the name of like-- It is, she and it both are Saint Caliper.
+
+DRE: Okay. Got it.
+
+AUSTIN: So yeah, you find her in the hangar. It is like the afternoon. She’s probably working on, you know, something on part of it. Like she’s probably rewiring something, or she probably has a wrench and she’s like wrenching together the arm socket to keep it, you know, tight or whatever. Checking all of the connections. And she’s like up on a scaffolding, kind of working on its upper shoulder.
+
+DRE: Oh, that’s even better, cause now I just fly up to talk to her.
+
+AUSTIN: You fly-- oh, right, cause you have wings.
+
+DRE: Right. I have wings, Austin.
+
+[SYLVIA laughs]
+
+AUSTIN: Forgot about your wings. [sighs] What do you-- what do you say?
+
+DRE: Oh, I know exactly what I say. I say,
+
+	DRE (as Even): Have you finished working on your targeting computer?
+
+	AUSTIN (as Caliper): [scoff] Uh… I’m sorry?
+
+DRE (as Even): I just… assumed, um, in the encounter where we met, it seemed like it was hard for you to, uh, to hit anything. You seem pretty capable, so I assumed maybe there was something wrong with your targeting computer.
+
+AUSTIN (as Caliper): [slowly] Uh huh. What do you want? Both of you.
+
+AUSTIN: Echo, where are you standing while Even is flying up on the-- towards the scaffolding?
+
+SYLVIA: I mean, probably just gotta climb up, right?
+
+[AUSTIN laughs] 
+
+DRE: Just the strange bird man and a parkour child.
+
+AUSTIN: Yep.
+
+DRE: [laughing] Just going up to talk to this lady.
+
+AUSTIN: God. [sighs]
+
+AUSTIN (as Caliper): What do you want? What business is it of yours? You’re not even from here.
+
+DRE (as Even): We’re not. But we have interest here.
+
+AUSTIN (as Caliper): [sighs]
+
+DRE (as Even): Why did you not fight to protect the Doyenne? 
+
+AUSTIN: She like rolls her eyes.
+
+	AUSTIN (as Caliper): I fought just fine.
+
+	DRE (as Even): No, you--
+
+	SYLVIA (as Echo): No.
+
+DRE (as Even): You really didn’t. 
+
+AUSTIN: She’s--
+
+DRE (as Even): At least not to the potential that I think you have. Maybe that’s your maximum potential and I misjudged you, but…
+
+[45:00]
+
+AUSTIN: This sounds like a Sway. “When you want to get an NPC to do something you want, and their motivations don’t line up with yours, on a hit they do it and choose one. On a 7-9, choose two.”
+
+DRE: Alright. Um…
+
+AUSTIN: How do you feel about this?
+
+DRE: I don’t-- hmm. My gut instinct is Powerful, and my thing would be that like, Even has noticed this thing that seems to make her uncomfortable? But I don’t know how much leverage this actually has.
+
+AUSTIN: Right.
+
+SYLVIA: I mean, the way this works is, it’s not like how much concrete leverage your character thinks you have, right? Yeah.
+
+DRE: Sure.
+
+AUSTIN: In terms of choosing emotion and choosing state, yes. Totally.
+
+DRE: And maybe-- yeah, and I think also this is like, Even-- No, this is powerful, cause Even has a direct order.
+
+AUSTIN: Right. Yes. Yep.
+
+DRE: This is an order. This is what he has to do. So… there. An 11!
+
+AUSTIN: It’s an 11, Jesus Christ. Okay, so yeah, choose one: You’re gonna owe them some serious cred; your own faith is in question, and you give them Faith on this; you’re gonna need to give them something now instead of something later; you need to do them a favor first; or you need to give them a piece of yourself, body or heart. And I think she just says like,
+
+	AUSTIN (as Caliper): Why should I tell you anything?
+
+DRE (as Even): Look. I think we’ve gotten off on the wrong foot, but if my gut instinct is correct, I think we have a lot more in common than we both may think.
+
+AUSTIN: So which one of these are you choosing?
+
+DRE: How does the one about Faith work in this situation?
+
+AUSTIN: She would have Faith on you, which means that she could then use any of the Faith moves on you. Or not any of them, but the way that those come up is that, like… So when someone has Faith on you and they use it or ask you to do something that you don’t wanna do, you then have to make rolls, or else things-- things basically go bad between the two of you, and can go bad elsewhere in the world, basically.
+
+DRE: Okay. Uh, let’s do that. Cause we haven’t really messed much with that.
+
+AUSTIN: Yep.
+
+DRE: The Faith mechanic yet. So let’s do that. 
+
+AUSTIN: Cool. So you say basically like, “I’ll owe you one?”
+
+DRE: Yeah. Or it’s-- it’s kind of both, “I owe you one,” but also, “I think that this is the start of us building a potential working relationship.”
+
+AUSTIN: Okay. Interesting. Um… She says,
+
+AUSTIN (as Caliper): [breath] Yeah, okay. Maybe. I can tell that maybe you don’t have the warmest of feelings to our beloved Doyenne. Maybe that aligns you just so. Follow me out of here in an hour. And stay quiet. Listen in, and you’ll get some information. Alright?
+
+	DRE (as Even): Alright.
+
+AUSTIN: She like pats your cheek, very patronizingly.
+
+[SYLVIA snickers]
+
+DRE: I brush her hand away.
+
+SYLVIA: That weird laugh noise was in character.
+
+AUSTIN: Alright, good. Thank you. 
+
+[DRE giggles]
+
+AUSTIN: And she gets back to working on her mech. In fact, as you start to leave, she shouts back,
+
+AUSTIN (as Caliper): And there was nothing wrong with my targeting! I’m the best shot this planet’s ever seen.
+
+	DRE (as Even): Yeah. But I just got here. So.
+
+AUSTIN: [laughs] Good. Uh, Gig. You have now shown Lily this whole thing. She’s also finally introducing herself to you. Her name is Lily Lysander, and she’s like,
+
+	AUSTIN (as Lily): That’s a weird horse. I’ve never seen anything like that horse.
+
+	KEITH (as Gig): [overlapping] Yeah, me neither!
+
+	AUSTIN (as Lily): I’ve never, ever, ever seen anything like that horse. 
+
+	KEITH (as Gig): It’s a weird horse. It talked!
+
+AUSTIN (as Lily): [sighs] And those buildings. They were like, like a cemetery for horses, but weird ones.
+
+KEITH (as Gig): Yeah, I thought it was maybe like a museum.
+
+AUSTIN (as Lily): Could be a museum! Yeah.
+
+KEITH (as Gig): Anyway, I messed around on a computer and this one sorta melted out, so.
+
+AUSTIN (as Lily): This is interesting. Maybe-- maybe we should go to the Doc. He’s not that far away.
+
+KEITH (as Gig): No? I mean, I don’t know. I don’t know, but--
+
+AUSTIN (as Lily): But he’s not. Do you wanna do like a day trip?
+
+KEITH (as Gig): Yeah! We can ride Duck.
+
+AUSTIN (as Lily): [hesitating] I have a car. [laugh]
+
+[DRE laughs]
+
+KEITH (as Gig): But we have to bring the hor-- I mean, I’ll ride Duck then, and you’ll drive your car slow. That’s fine. 
+
+AUSTIN (as Lily): Yeah-- if we bring-- [takes a deep breath]
+
+KEITH (as Gig): Can Duck fit in the car?
+
+AUSTIN (as Lily): It’s a small car. How big’s that horse? It’s hard to tell.
+
+KEITH (as Gig): Well it’s regular horse size in the front.
+
+AUSTIN (as Lily): Right, it changes sizes. Uh… yeah, I guess I’ll drive slow. [sighs]
+
+[KEITH laughs]
+
+	AUSTIN (as Lily): I’m not riding that horse. 
+
+	KEITH (as Gig): I mean, you can ride the horse, I’ll drive the car?
+
+	AUSTIN (as Lily): [more vehemently] I’m not riding that horse. I refuse to ride that horse!
+
+KEITH: Cut to, she’s riding the horse.
+
+AUSTIN: She’s riding the horse. No, she has a car. She has like a little blue, like Volkswagen buggie basically, except it has fuck-off huge tire treads, like… monster truck, small, or monster truck wheels. Like very heavily treaded. Because their roads here, even their roads aren’t great. You know, it’s-- she has like a cute little fucking car. It’s a nice little thing. It’s like, yeah. It has stickers in the windows, and there’s definitely some like-- I think she probably brings like a picnic basket with some food for her and you and the doctor. For Doctor Car-- what’s his fucking name? Cart-horn?
+
+KEITH: Cart-horn.
+
+AUSTIN: Yeah. And she starts leading you up to this point here. E25 on the map. And as you go, things start to get like a little more… green? Like you kind of drive through a kind of desert with low hills and stuff, and then eventually you kind of get to this spot that’s like, denser and denser with woods, and… there are still hills, but the hills get rockier and less sandy. Like the sand gives way to these kind of black rocks. And then the black rocks give way to rocks that are covered in moss, this kind of green and pink moss. And here and there trees break up through the rocks. 
+
+And it’s like one of those things, like you’re riding pretty slow so you get a good shot of it. You get like, you know, a good look of everything? The moss… the moss moves sometimes in ways that feel like it shouldn’t be. Like it’s not like the wind is blowing. It’s not like there’s, like, things running through the moss. Like moss doesn’t move that much. It doesn’t wave in the wind at all in fact. But you can kind of see it undulating, here or there, in snatches of vision. Yeah. 
+
+And you’re just like heading in this direction, following her car. And eventually you get to a dense-- like you’re following this road, and eventually you get to E25, and probably like towards the southern end of it, there a couple of little like… You kind of like come over a hill and look down into these big clay pits that look similar to the clay that she’d been working on, but are covered over with that moss, also. It’s all kind of mixed together. 
+
+And down there-- like from the top of this hill we just get this very, like, stark shot, of-- it’s kind of an overcast day now-- of like the, another little vehicle-- it’s kind of like a scooter, a hover scooter-- a white table, and like some instruments. Some like old-school looking computerized instruments, like big metal boxes. Very, uh, actually very Gumption’s Gambit style technology.
+
+KEITH: Ooh.
+
+AUSTIN: With like things sticking in and out of the clay pit, and the moss, and just like… this researcher down there. And he kind of like looks up as you come over the hill and like, waves? And then sees your horse and like gets taken aback? And is like [makes repulsed noise]. And then we just cut to, you’re down there with him, and he’s like,
+
+AUSTIN (as Cart-horn): You know, this ground juice stuff… You know, you’re lucky I had some out here. I’m a big fan.
+
+KEITH (as Gig): It’s really good. Um…
+
+AUSTIN (as Cart-horn): Do you take [stammering] one shot or two? Two shots, one shot? One shot, two shots?
+
+KEITH (as Gig): I didn’t know they came in shots. I’ll take--
+
+AUSTIN (as Cart-horn): Well they come in, uh, the jeli juice. But then what you do is, you take a little bit of the scoop-- you scoop out-- you scoop out a little more of the jelly. You put the jelly right in. You take the juice, you just scoop in one or two shots of the jelly. 
+
+KEITH (as Gig): Oh, I’ll take--
+
+AUSTIN (as Cart-horn): You do one or two sh-- just jelly shot.
+
+KEITH (as Gig): Two. Two, then. That’s more, I want more of it.
+
+AUSTIN (as Cart-horn): There you go.
+
+AUSTIN: And then he does that. 
+
+	AUSTIN (as Cart-horn): So, uh… [blustery noises] Hell of a horse.
+
+	KEITH (as Gig): Yeah, right? It’s wild.
+
+	AUSTIN (as Cart-horn): Wait, it’s a wild horse?
+
+	KEITH (as Gig): No, it w-- I mean, I don’t know. It was frozen. 
+
+	AUSTIN (as Cart-horn): Ok… you’re throwing a lot of words at me here. Uh…
+
+	KEITH (as Gig): Yeah, sorry. It’s--
+
+AUSTIN (as Cart-horn): Anyway, uh, start from the basics. I’m [stammering] Doctor--  Doctor Leaf Cart-horn. Great to meet you. [stammering] You’re the guy from the-- the TV. You’re [snapping] the eye, the eye, the eye guy.
+
+KEITH (as Gig): Yeah. Mmhm. I’m… I’m Gig. I--
+
+AUSTIN (as Cart-horn): Gig. 
+
+KEITH (as Gig): Yep.
+
+AUSTIN (as Cart-horn): Great to meetcha. It’s great to meet a fan whenever I can meet a fan. It’s great to see someone who, who respects my work. 
+
+KEITH (as Gig): [drawn out] I….. I don’t-- I’m not-- it’s-- so here’s the thing. I’m not a fan, but that’s only because I’m not from this planet and I just got here.
+
+AUSTIN (as Cart-horn): Lily, you said that he needed-- he knew that I was a good-- [stammering] Lily. Wh--?
+
+KEITH (as Gig): I mean, I came to you because you’re the only one that I could find doing some research that would maybe know something about any of this stuff. So in that way I’m a fan.
+
+AUSTIN (as Cart-horn): Sure. Yeah, okay, okay. Yeah we-- yeah. Okay. Great to meet a potential fan, that’s what I meant to say. That’s it.
+
+KEITH (as Gig): Would love to be a fan soon. Of you.
+
+AUSTIN (as Cart-horn): What do you-- uh, what do you know about this place? What did Lily-- what did-- Lily, did you-- Lily. What did you tell?
+
+AUSTIN: And she’s like
+
+	AUSTIN (as Lily): I didn’t... Don’t worry, I just brought him out here, Doc.
+
+	KEITH (as Gig): “Don’t worry?” Is there something to worry about?
+
+	AUSTIN (as Cart-horn): No! No. It’s just that I-- no. Everything’s fine. 
+
+KEITH (as Gig): Okay, that’s-- hold--
+
+AUSTIN (as Cart-horn): Just doing some experimental, some experimental research. Just doing some-- 
+
+KEITH (as Gig): I--
+
+AUSTIN (as Cart-horn): Some stuff out here. Just doing my work. 
+
+KEITH (as Gig): You know, I have--
+
+AUSTIN (as Cart-horn): It’s been a rough month. It’s been a rough month. They… [blows out air] They don’t respect what I do. Uh, in the Sculpture.
+
+KEITH (as Gig): Who?
+
+AUSTIN (as Cart-horn): The Sculpture! The board. The board. [disgruntled noise]
+
+KEITH (as Gig): The board… Oh.
+
+AUSTIN (as Cart-horn): You know, they’re not big fans of me, and uh… they think that I waste my time, but I’m not wasting my time. I’m gonna find something very important.
+
+AUSTIN: And Lily is like,
+	
+	AUSTIN (as Lily): Doc. Doc, you gotta calm down. You’re getting all worked up again.
+
+KEITH (as Gig): Now, here’s a thing. I don’t know the board. But I do know you. I didn’t go to the board, I came here.
+
+AUSTIN (as Cart-horn): [sighs] Yeah, y-yeah. Okay. You wanna take a seat? You want more jeli juice? 
+
+KEITH (as Gig): Uh, yes.
+
+AUSTIN (as Cart-horn): I wanna make myself another jeli juice.
+
+KEITH (as Gig): Can I have three shots?
+
+AUSTIN: And like, puts in four-- he puts in four shots of his. So, he’s like,
+
+	KEITH (as Gig): Oh, I’ll have four, then.
+
+AUSTIN (as Cart-horn): Alri-- oh, this your first time drinking jeli juice, you gotta be careful.
+
+KEITH (as Gig): Third time.
+
+AUSTIN (as Cart-horn): Third time, third shot. 
+
+KEITH (as Gig): Well there’s earlier--
+
+AUSTIN (as Cart-horn): I can do-- I could do-- three shots, I could do three shots. Three shots, I can do three shots.
+
+KEITH (as Gig): Okay.
+
+AUSTIN (as Cart-horn): Third time, three shots.
+
+KEITH (as Gig): I had one the other day, and then I had one just now, and I’m about to have one, so third time.
+
+AUSTIN (as Cart-horn): Alright, three shots. Okay.
+
+KEITH (as Gig): Three shots.
+
+AUSTIN: He adds three-- he like put four in yours, and then takes one out, and puts it into his, raising his up to five. [laughs]
+
+	AUSTIN (as Cart-horn): Alright.
+
+KEITH (as Gig): Now is there a reason-- hold on, is there a reason why I can’t hand-- I thought this was just juice. Is there a reason why I shouldn’t have four?
+
+AUSTIN (as Cart-horn): Nothing’s just juice. Always remember that.
+
+KEITH (as Gig): What… every-- okay. Now here’s-- everything that I’ve-- all the juice I’ve had up until I guess now has been just juice.
+
+AUSTIN (as Cart-horn): N-- hm. No. [stammering] Juice has things in it. Juice, juice-- juice has a social function. Juice has a-- a history to it. Everything is [stammering] more than the thing it is. This is the problem with-- it’s frankly the problem with the Doyenne and her whole vibe.
+
+KEITH (as Gig): Yes.
+
+AUSTIN (as Cart-horn): She doesn’t understand that things are more than the things that they are. They’re also additional things. 
+
+KEITH (as Gig): Yeah. I don’t-- I met her, and I wasn’t a fan.
+
+AUSTIN (as Lily): She’s really boring.
+
+KEITH (as Gig): Is she on the board?
+
+AUSTIN (as Lily): She’s like, next to the board.
+
+KEITH (as Gig): She’s like the board’s board?
+
+AUSTIN (as Lily): She’s like the board’s… yeah. Basically.
+
+KEITH (as Gig): Man. Boards.
+
+AUSTIN (as Lily): Anyway… what is it you need the Doc for? He is really doing some important stuff and it would be cool to like-- like it’s a cool horse. 
+
+KEITH (as Gig): Yeah.
+
+AUSTIN (as Lily): It’s a cool story, we can show the projection Do you wanna see where he got this horse, Doc?
+
+AUSTIN: And the doctor is like,
+
+AUSTIN (as Cart-horn): Yep, yeah, sure. [blustering noises] Can you give me like the fast version?
+
+KEITH (as Gig): Yeah, sure, I can play it in like triple speed or quadruple speed.
+
+AUSTIN (as Cart-horn): Hell, yeah, triple speed.
+
+KEITH (as Gig): Got it. Or I could just show you a montage. 
+
+AUSTIN (as Cart-horn): Can you cut a live montage? Is that how your thing works?
+
+KEITH (as Gig): Yeah. Absolutely, I can do that.
+
+AUSTIN (as Cart-horn): Okay. Well… sure. 
+
+KEITH (as Gig): Alright, here’s the montage.
+
+AUSTIN (as Lily): Why didn’t you just cut me a montage? 
+
+AUSTIN: Says Lily.
+
+KEITH (as Gig): I wanted you to get the full experience, I think. I didn’t-- I didn’t realize that you didn’t wanna watch the whole thing.
+
+AUSTIN (as Lily): Fine.
+
+AUSTIN: And you see this montage. Uh… He’s like,
+
+AUSTIN (as Cart-horn): I’ve never seen-- I’ve never seen buildings quite like that, but I do think that those… are from the Glassed age.
+
+KEITH (as Gig): Okay. Now can I tell you why I’m cur-- cause you guys seem to not know why I wanna talk to you about this. If I can present it to you--
+
+AUSTIN (as Cart-horn): No no no no no no no no.
+
+KEITH (as Gig): Okay.
+
+AUSTIN (as Cart-horn): You found a weird horse in a weird building, and I understand. I get it.
+
+KEITH (as Gig): Yeah! Yeah, well. It’s even more than that. I came to a new planet, and I was excited to find things I’d never seen before and ask questions, and no one knew-- I seem to have found something that no one even knew about. 
+
+AUSTIN (as Cart-horn): It’s a big planet. I find new things that people don’t know about [stammering noises] four times a year.
+
+KEITH (as Gig): But like first thing, straight away? Four times but like, first thing? Like right off the bat, all of a sudden people don’t know about a weird horse?
+
+AUSTIN (as Cart-horn): You pick a direction you go on, and it’s a big planet, you’re gonna run into something no one’s seen. It’s a big planet.
+
+KEITH (as Gig): I guess, but it-- all I--
+
+AUSTIN (as Cart-horn): It’s an old planet. That’s actually more important. It’s not that it’s big, it’s that it’s old. It’s that it’s very old and it has… layers. It has depth. It has a life and a history of its own. It’s, it’s, it’s a thing. Hm. It’s a thing where you can see lots of the same thing. You can see lots of Glass mines. You can see lots of plateaus. There are lots of, of, of old cities. But that’s [stammering] half the picture. That’s only half the picture. 
+
+[1:00:01]
+
+AUSTIN (as Cart-horn): The rest of the picture is, you pick a direction, you go, you find a thing, and you go, “Hey! What, what is this? What is this horse? Why did they freeze this horse?” And I [stammers], that’s my whole thing! I’m trying to figure out why they froze this horse. The board doesn’t care about frozen horses. The board is only-- ah, they wanna know how you froze the horse. They don’t wanna know why you froze the horse. They don’t wanna know who froze the horse. They don’t wanna know [stammers] what the significance of a frozen horse is. I wanna know! What was the significance of a frozen horse?
+
+KEITH (as Gig): [clicks teeth] Man, the board.
+
+AUSTIN (as Cart-horn): [sighs] Where was this?
+
+KEITH (as Gig): [overlapping] This dang board sounds like nothing but headaches.
+
+AUSTIN (as Cart-horn): [stammering] Where did you get the horse exactly? Where exactly, did you get the frozen horse?
+
+KEITH (as Gig): Um…
+
+AUSTIN (as Cart-horn): Also why is it shaped like that?
+
+KEITH (as Gig): I don’t know. I just found it. I came to you to ask those two questions.
+
+AUSTIN (as Cart-horn): [groans] Can I touch it?
+
+KEITH (as Gig): I mean, I can point on a map where I found the horse. Yeah, you can touch--
+
+AUSTIN (as Cart-horn): Can I--
+
+KEITH (as Gig): Hey, well hold on. Hey Duck, can this guy touch you?
+
+AUSTIN (as Duck): [groans] Yeeaaah.
+
+KEITH (as Gig): Yeah. He says yeah.
+
+AUSTIN (as Cart-horn): Does that horse-- does that speak? Does that horse--
+
+KEITH (as Gig): That horse talks a little bit.
+
+AUSTIN (as Duck): [garbled] Yeah. A little. [unintelligible]
+
+AUSTIN (as Cart-horn): Ok-okay, I’m gonna pet the horse.
+
+AUSTIN: And like, he goes to pet it and the prehensile mane just tries to shake his hand. He’s like,
+
+	AUSTIN (as Cart-horn): Aah! Hm. Hm.
+
+[KEITH laughs] 
+
+	AUSTIN (as Cart-horn): [groans] That’s a smart horse you got yourself.
+
+	KEITH (as Gig): Yeah, he knows about handshakes.
+
+	AUSTIN (as Cart-horn): What’s, uh, what’s, what’s his name? What’s his name?
+
+	KEITH (as Gig): Duck.
+
+AUSTIN (as Cart-horn): Mm. Is that-- that’s a joke. You’re funny, you’re funny, you’re a funny guy.
+
+KEITH (as Gig): Well it is his name, no. Well I guess I didn’t-- I don’t know if I asked what Duck’s name was, or if I just started calling him Duck. Duck, do you mind being called Duck?
+
+AUSTIN (as Duck): [groans] Duck.
+
+KEITH (as Gig): Du-- yeah, there we go. See? We’re good.
+
+AUSTIN (as Lily): He just said Duck.
+
+KEITH (as Gig): He said Duck, yeah.
+
+AUSTIN (as Lily): [drawn-out] Wow…
+
+[DRE muffles laughter]
+
+AUSTIN (as Lily): [lets out breath] So, um, those buildings… how many of them were there?
+
+KEITH (as Gig): Um… It’s like a--
+
+AUSTIN (as Lily): Do they all have horses? Or was it just like--
+
+KEITH (as Gig): I-- So I saw a bunch of horses in the building. And I guess it was sort of like a… 
+
+KEITH: It was like a complex, right? Like it was one-- it was one building, but there was lots of sections, right? And I walked in--
+
+AUSTIN: It was actually like a bunch of little-- it was a bunch of small like mausoleums.
+
+KEITH: Oh, so it was like little buildings?
+
+AUSTIN: Yeah yeah yeah. 
+
+KEITH: Oh, okay. I thought they were like connected.
+
+AUSTIN: No, no no. They were like free-- free standing.
+
+KEITH: Okay.
+
+	KEITH (as Gig): So it was free-standing small buildings.
+
+	AUSTIN (as Cart-horn): [whispering] Small buildings, small buildings…
+
+	KEITH (as Gig): I went into one of them. 
+
+	AUSTIN (as Cart-horn): Okay.
+
+	KEITH (as Gig): And there was, um, a buncha horses kind of frozen.
+
+AUSTIN: [snaps] He like snaps his fingers.
+
+	AUSTIN (as Cart-horn): [gasps] I-- yeah, okay! Okay.
+
+	KEITH (as Gig): Okay.
+
+AUSTIN (as Cart-horn): This is from-- [stammering] this is from the moment. This is from when it moves from the Glassed Age to the Blooded Age. This is it. This is when people realized it was going bad. They wanted to save something. They wanted to save [stammering] anything, in this case a horse. They wanted to save horses, I guess. Which, which frankly, good on them for understanding the value of a good horse.
+
+	KEITH (as Gig): Yeah.
+
+AUSTIN: And then Duck goes like, [assenting murmur]. 
+
+	KEITH (as Gig): Hey Duck, do you know why you were frozen?
+
+	AUSTIN (as DUCK): [confused murmur]
+
+	KEITH (as Gig): Okay. It was worth a shot.
+
+AUSTIN (as Cart-horn): How much do you know, about the [stammering] ages, the eons, the, the epochs?
+
+KEITH (as Gig): I know 100% nothing about those.
+
+AUSTIN (as Cart-horn): Oh, you need to start from the beginning. I’m not much of a teacher, I know that I’m technically supposed to be a teacher, I’m more of a… [sigh] But--
+
+KEITH (as Gig): I thought you were technically not supposed to be a teacher now.
+
+AUSTIN (as Cart-horn): No, I’m su-- Well, hm. I’m working on it. Once I find what I’m looking for here, they’re going to let me back in.
+
+KEITH (as Gig): That’s the board, it’s not you. It’s the board.
+
+AUSTIN (as Cart-horn): Exactly. I’m gonna find-- I’m gonna find something, and bring it back, and they’ll say, “Wow, you were right, and here is your, your lecture hall back. And here are your students. And here is all the time that you need to really have a breakthrough.” [sighs]
+
+KEITH (as Gig): You’ll get there, Doc.
+
+AUSTIN (as Cart-horn): So… can you help, Lily?
+
+AUSTIN: And Lily’s like
+
+AUSTIN (as Lily): Alright, is this like the [sighs] first class thing?
+
+AUSTIN: And he’s like
+
+AUSTIN (as Cart-horn): Yeah, yeah, yeah. [stammering] But do it like the big way.
+
+AUSTIN: And she’s like
+
+AUSTIN (as Lily): Alright, I’ll do it-- I’ll do it the big way.
+
+KEITH (as Gig): This is exciting, I’ve never been to school before.
+
+AUSTIN (as Lily): Wait…
+
+KEITH (as Gig): I was homeschooled.
+
+AUSTIN (as Lily): Yeah, o-- yeah, I can see it. I can see it.
+
+[KEITH laughs]
+
+AUSTIN: And she like, puts her hands out over the rocks and moss and clay pits, and does what she did before, and like telekinetically lifts part of the pit, part of the clay, up out of the ground. And you don’t see any mechanism that she’s doing this with, right? Like… And she’s also kind of nonchalant about it. Like this is clearly taking effort, but she’s like, you know, like swiping back on her hair, and kind of straightening out her hair as she does it, and… again, like she’s wearing like a gray faded tank top and a pair of jeans. Like she isn’t like a magician. Even though she’s doing something that’s pretty remarkable. 
+
+And she, from this clay pit, lifts up this sphere, and begins cutting away on it until you see something that looks sort of the way Quire looks. And… Cart-horn starts to walk you through it.
+
+AUSTIN (as Cart-horn): It was 40,000 years ago when, when the people here on Quire, the original people, the people who, who, who didn’t speak like us, the people who had never-- never dealt with anyone from the Fleet, when they stepped into modernity. When they, they first started to understand [stammering] basic computing, basic, basic science. When they first came into an age that could really be called the Age of Quire. And core to what they believed in was that the planet itself was holy. Perhaps you’ve seen the symbol.
+
+AUSTIN: And Lily kind of makes the same earth symbol, the same planet symbol that was on the church, out of this sphere.
+
+AUSTIN (as Cart-horn): It was, it was a time in which the, the, the planet was seen as a sort of arbitrary god. You see, the planet here can do incredible things. I don’t know if you’ve seen that. Have you seen that?
+
+KEITH (as Gig): Um… N-- I mean, I found a building of frozen horses. I guess the planet itself? You’re moving clay around, that’s important.
+
+AUSTIN (as Cart-horn): That’s important.
+
+KEITH (as Gig): That’s something.
+
+AUSTIN (as Cart-horn): Trust me, incredible things. They called the world “Qui err vi na em.” Which meant, basically, “the soil, alive, but without memory.” Qui err, vi na em. And, uh--
+
+KEITH (as Gig): Wai-- can everybody do this clay trick?
+
+AUSTIN (as Cart-horn): No, she’s very good. She’s like exceptionally good. And also, also also, spoilers: the soil got memory later. That’s a pretty amazing thing. But at the time it was just an age of like dirt and luck. We call it the Dusted Age. An age of dirt and muck and sometimes… [stammering] you know, a boy will fall down a well. Sometimes Quire will lift them back out. 
+
+And other times they won’t. There, there was no sense of loyalty between the soil and the people of this planet. It was just… sometimes it helped. Sometimes it hurt. Living here was… a sort of… strange balance. You knew that there were things that were unexplainable, and you knew that sometimes they would… turn a pauper into a king, but other times… would kill innocents. But then, years passed. Many years. Lily, the next-- next. Next.
+
+AUSTIN: And she’s like slipping through slides made of this clay stuff that she’s floating? And eventually… so like, time is passing. It’s the sphere and there are also two moons to begin with. Right? There’s Quire and there’s two moons. And then, she like lifts up another piece of ti-- like a pebble, and slams it into the side of Quire. And she says-- or and then the doctor says,
+
+AUSTIN (as Cart-horn): 25,000 years ago. Give or take, give or take. Something hits Quire. Something. It’s a [stammering] ship of some sort, is what I think it is. Maybe a ship of some sort? Uh… a spaceship, to be clear. Not an ocean ship. We have those here, too, but this was a spaceship, and it hit from space. And that’s called the f--
+
+KEITH (as Gig): I’m from there.
+
+AUSTIN (as Cart-horn): You’re from there? The fir-- we’re from there! Not directly, but if you knew your history, we would also be there. So many people don’t know that about us. People think we’re just from here, we’re not from here. We’re from space. The first visitor comes, and everything changes. It brings something that changes the way the soil works. And “Qui err vi na em” becomes “Qui err qi-em.” “The Soil, alive, it remembers.” And-- Quire entered a [stammering] golden age, the Glassed Age.
+
+All of this, all of this… stuff here, it changed and became something… stronger and better and people stopped being people. There was a blending of technology and nature and humanity, and the old boundaries between what is and what could be, they fell apart. That’s what I think happened, anyway, based on a lot of research that I’ve done. And… it stayed like that. For a long time. I don’t understand much. It isn’t-- it isn’t like it is now. When I look at the old ruins, people blend together, and they… don’t respect dates and time? [blustering] It’s all very burry. It’s not very scientific, it’s hard to study. 
+
+But from what I can tell, it was an age of happiness and joy for a lot of people. [stammering] When I bring back what I find here, the board will see that I’m going to help them bring us back to that age. And the only way to do that is to understand the past. And that’s why I need to find what I’m finding here.
+
+That was 25,000 years ago, though. And some time around 10, 11, 12,000 years ago…
+
+AUSTIN: And, at this point, there is-- the time is advancing and advancing and advancing, and after the first visitor arrives, a thing that happens is, two more moons show up? Like there are now four moons around it? Sometime between the beginning of the Glassed Age and the end of it? And then, another ship arrives. Another rock, another pebble slams into another side-- the southern side of Quire. 
+
+AUSTIN (as Cart-horn): This ship, mm, is not so large. Bigger than the first visitor, but the second visitor, we’re not talking about an armada. We’re not talking about a [stammering] military vessel. Or, if it’s a military vessel, it’s a fairly small one. From what the records indicate, only a few hundred people on this vessel. This is a planet of billions. And now there are not billions. We slipped into something else. They slipped into something else. We, not they. They, not we. I… it’s complicated, depending on who you think Quire belongs to at this point. [sighs] 
+
+That ship brought something. I don’t know what yet. But it led to war, and to chaos, and… if this place had been a utopia before, it was nothing like it any more. That was the end of the old Quire, the good Quire. Do you know the southern half of the planet-- I don’t know how well you know the southern half of the planet. [stammering] It’s ocean, now. It’s a sea. It wasn’t always that way. If you look at old maps, it-- there were oceans, there were seas, of course. But they were spread throughout the entirety of the planet. They were not all down there, and now they’re all down there, and I don’t know what can do a thing like that. Outside of… hypothetical technology. 
+
+And then 800 years ago. There was another visitor. And that’s the one you probably know. That’s the one we come from. And that’s it, that’s the short history of Quire.
+
+KEITH (as Gig): Hm.
+
+AUSTIN (as Lily): That was a good one, good one, Doc. You really nailed it this time.
+
+KEITH (as Gig): It seemed good to me.
+
+AUSTIN (as Cart-horn): [sighs]
+
+KEITH (as Gig): It really cleared stuff up. You know, people didn’t-- I mean it didn’t clear-- it’s not that it cleared stuff up. It’s just, it was a lot more information than anybody else had, which is nice.
+
+AUSTIN (as Cart-horn): Maybe if they made my class a required part of the curriculum, more people would know that information. Also, I have to say up front, this is original research. It has not been peer-reviewed. But I’m pretty confident of pretty much all of it.
+
+KEITH (as Gig): I mean is there like an alternate theory?
+
+AUSTIN (as Cart-horn): S-sure. Sure, yeah, of course of course of course. People think that there was a nuclear war. People think that there had been just-- People don’t know about the visitors. They think that there are, that those are moments in [stammering] history, but not-- they don’t understand how cleanly time is divided. They--
+
+KEITH (as Gig): It would sound-- it would sound crazy to me if you were like, “Oh, all of-- all of our planet’s history, you could lay it out via alien visitors arriving to the planet.” I would think that that was crazy, were I not an alien visitor arriving to your planet.
+
+AUSTIN (as Cart-horn): Exactly. Exactly! And people don’t wanna confront that fact. That’s why I think that they don’t recognize that the work I’m doing is important, and is valuable, and can help us. [sighs] There is another theory, which is that, you know the golden age that I talk about, the [stammering] Glassed Age? That age, some people think is a dark age instead.
+
+[1:15:00]
+
+That [stammering] the reason that the dates and the figures don’t make sense is that there was a fall of an empire or something, but that’s bullshit. It’s bullshit. They’re wrong about it.
+
+KEITH (as Gig): Yeah. Yeah, board.
+
+AUSTIN (as Cart-horn): [sighs] No, the board doesn’t even care. This is the problem. The board doesn’t even respect me enough to have a counter-theory. [sighs].
+
+KEITH (as Gig): Hmm. 
+
+AUSTIN (as Cart-horn): Anyway, that’s… kind of what I got for you. And--
+
+KEITH (as Gig): That’s-- that’s a lot. And so you think, what-- what is this-- how does this connect with the horse? Which age of the hor-- would this horse come from?
+
+AUSTIN (as Cart-horn): From what you showed me, and from the buildings, uh, from the make of the buildings, from the fact that it was frozen in time, I think that that is at the boundary between the Glassed Age and the Blooded Age. The age between, uh… great peace and prosperity, and impending doom for billions. It strikes me that someone, somewhere, really loved these horses. And wanted to save them. 
+
+KEITH (as Gig): I’ll say.
+
+KEITH: And then I pet Duck on the…
+
+	AUSTIN (as Duck): [affectionate murmuring]
+
+AUSTIN (as Cart-horn): I hope I was able to answer your question, and I also hope that you will sign this petition that I have for the board, that will convince them to, hopefully, reinstate me as a professor, and bring my class back to the masses who need it most.
+
+AUSTIN: And he provides--
+
+	KEITH (as Gig): Yeah, I’ll sign. I’ll sign it. Yeah, sure.
+
+AUSTIN: He provides like a-- he reaches into one side of his like lab coat, and pulls out a… a clipboard, and then reaches into the other side and pulls out a cigarette. And we like… there’s a pause here that is like… the natural momentum of this scene feels like it’s about to come to a close, and then Lily Lysander says,
+
+	AUSTIN (as Lily): Wait, Doc, I think I got it. Doc, there’s something--
+
+AUSTIN: And then we cut, to… uhh, let’s go back to Grand Magnificent.
+
+ART: Hey, hi.
+
+AUSTIN: How’s it going?
+
+ART: Um… this is probably where I’m getting into belief territory, right? This is probably, like, “Oh, shit.” Because I have an idea of how to do this.
+
+AUSTIN: Yeah.
+
+ART: And I was really sure that I could nail four.
+
+AUSTIN: Uh huh.
+
+ART: And, honestly, I probably could have easily kicked it up to, you know, eight.
+
+AUSTIN: Yeah, eight directions. Pretty easy to see how you would split out eight directions.
+
+ART: No problem. Eight would have been, would have been nothing. Honestly, if we’re being like just 100%, I think I coulda done 16. I think I coulda-- I could have done it and I would have struggled.
+
+AUSTIN: Right.
+
+ART: And I would have gotten to 16.
+
+AUSTIN: What about 100?
+
+ART: [clicks teeth] It’s fuckin’-- it’s fuckin’ hard.
+
+AUSTIN: It’s a lot.
+
+ART: Yeah, cause, cause I’m doing… what, I’m essentially doing six 16s, is that right?
+
+AUSTIN: Does that add up? Six 16s? Six times 16? 
+
+ART: Six times 16, that’s--
+
+AUSTIN: That’s more than that. [overlapping] Yeah.
+
+ART: It’s 96. Yeah just a little more than that, but like…
+
+AUSTIN: Yeah.
+
+ART: Six and a quarter 16s is a weird thing to say.
+
+AUSTIN: Yeah. 
+
+ART: But like I like it. 
+
+AUSTIN: You’re doing 10 10s. Right? Is that the easier way of doing it?
+
+ART: What?
+
+AUSTIN: I guess it’s not 360 degrees, though, right? That’s the problem. Anyway--
+
+ART: Right.
+
+AUSTIN: Yeah.
+
+ART: Right, yeah. Yeah, each facet only gets 3.6 degrees, though. That’s-- that’s true.
+
+AUSTIN: Right. Right. 
+
+ART: And I’m not a jeweller. Right? I’m… I work with metal. And now I’m working in...
+
+AUSTIN: Right, like this thing-- to be clear, this thing also then needs to be a thing you get into and pilot.
+
+ART: Yeah, but that feels easy.
+
+AUSTIN: Okay.
+
+ART: I’ve made so many pilotable things before.
+
+AUSTIN: Do you voice any of this to her, or is this all internal?
+
+ART: I think it’s internal for a while.
+
+AUSTIN: Okay.
+
+ART: Because like, the material doesn’t matter, right? I can fuck this up, you know, dozens of times before we get there.
+
+AUSTIN: Right. Right.
+
+ART: And I think what I really need to do is like… is figure out what figuring this out is.
+
+AUSTIN: Okay. Do you have an idea of what it is?
+
+ART: No.
+
+AUSTIN: Okay.
+
+ART: Because like honestly, as a person outside of this, I’m having trouble like… figuring this out.
+
+AUSTIN: Is it… So, I mean like… Do we want the scene of you fucking up? Like do-- you know what, I think maybe we just do the roll and we figure out what it is.
+
+ART: Alright.
+
+AUSTIN: And you have the material to like, do it again after? I guess, here’s a thing I’ll say is, I’ll give you XP if you roll this at disadvantage to represent this… like, belief coming in contact with the reality. Which is like, “Oh, these people actually expect more of me than I thought I would need to actually be influential and meaningful.”
+
+ART: Sure, and remind me of what--
+
+AUSTIN: Disadvantage is, you roll twice, you take the lower. You take the lower roll.
+
+ART: Okay, and I think I’m rolling-- Does it count as two rolls? For--
+
+AUSTIN: No, no, no.
+
+ART: I’m gonna roll scared?
+
+AUSTIN: Okay.
+
+ART: Because like, this is a, this is an ego check.
+
+AUSTIN: Okay.
+
+ART: Uh, so here’s one. 
+
+AUSTIN: That’s an 8.
+
+ART: Here’s two.
+
+AUSTIN: That’s a 3. [snorts] Bad news.
+
+ART: Alright.
+
+AUSTIN: Alright, so, how does it go bad? You tell me how it goes bad. In terms of visually.
+
+ART: I mean I think that like we sorta talked about what this is gonna look like, right? Which is gonna be like, you can see this-- you can see this like symphony of-- not symphony, like you can see this collection of people and you can see like, how everyone like works in with each other? And instead like, no matter how you look at it, this kinda looks like a Frankenstein.
+
+AUSTIN: Right.
+
+ART: Like you’re not seeing potential, you’re not seeing… these visionary figures assembling in a chorus, you’re seeing, you know, you’re seeing like a bad mashup. Like, uh, you know that game you play at baby showers where you like, paste together the parents to like, “well this is what the baby’s gonna look like”?
+
+AUSTIN: Sure.
+
+ART: Alright. I promise you it’s a thing, and I know it because Jess is--
+
+AUSTIN: You’ve done this. Right.
+
+ART: --planning a baby shower right now.
+
+AUSTIN: Okay.
+
+ART: And like you do like cross-sections, and like it never-- it always looks weird. The photos never quite line up. It’s also not how people work, no one looks like that. No one’s like, “Oh, you have three inches of your mom’s face followed by three inches of your dad’s face.”
+
+AUSTIN: [laughs] Right. Right. Right. Um… And I think, like, do you present it or do you just know instantly that it’s bad?
+
+ART: I think… [lip trill] This is one of those things, right? Does the-- it depends on what this roll means. 
+
+AUSTIN: Right?
+
+ART: Does the roll mean that I don’t know it’s bad?
+
+AUSTIN: No, you know it’s bad. Because the roll means that you’re gonna get to try a-- well, I don’t know, it’s up to you. Does Grand know it’s bad, or does he need to be told?
+
+ART: Um…
+
+AUSTIN: What’s more interesting? Cause there’s another-- there’s another thing that’s also going to happen that I will foreshadow in a moment, because you failed. But I… The part of it that’s like “does Grand know?” is totally up to you. That’s your character.
+
+ART: [frustrated sigh] I think it’s more interesting for this to start to creep in as self-doubt than for it to be like a fun scene of like, “This sucks, you suck.” Like...
+
+AUSTIN: Right right right, totally. 
+
+ART: So yeah and I think… I think he destroys it.
+
+AUSTIN: Mhm.
+
+ART: In kinda like-- we kinda got that with doing the mech for Even, that’s like, “Nope.” And when he likes, talks about it, he says it was a mechanical problem. He’s like, “Ope. The-- the hip joints didn’t work.” 
+
+	AUSTIN (as the Doyenne): So you’re committed to the design. Fundamentally.
+
+AUSTIN: I think this is over dinner. Right, like-- we get lots of shots over dinner, with Grand Mag, and I kind of love it. It’s like later that night, basically, and it’s like-- or another day, whatever. We’re kind of blending time here. And it’s like the Doyenne across from you-- across from you at a very long table, but like on the same side as you. Do you know what I mean? It’s a huge, it’s like a banquet table, but the two of you are on the same end, just across from each other.
+
+ART: Okay, it’s not like the Doyenne’s at the head and I’m at like… two-thirds.
+
+AUSTIN: No, but like, it has this effect of making the room feel tall? Like we get the shot of it that sees the whole length of the table, and so it’s as if the table itself is standing above you looking down. And the same thing like-- there are sculptures in here that are similarly angled such that it looks like you’re looking up at something, that’s like the perspective of this shot. And the Doyenne, who in this scene is in braids. She has her hair braided with like little gold, kind of like… ornaments, throughout it. Says, yeah,
+
+	AUSTIN (as the Doyenne): Are you committed to the core design, then? 
+
+ART (as Grand): I--
+
+AUSTIN (as the Doyenne): Just going to fix the mechanical error, or is there… is this an opportunity for you to perhaps find a new direction?
+
+ART (as Grand): I mean, I think… I think that the-- the mechanic-- there’s no two layers of design, right? Form and function are… are one thing, if you, if you get past the pedestrian way to look at it. I think it’s revealing a flaw in the design. I believe… strongly that I could work past it. Um, that I think there’s a way to synthesize this properly.
+
+AUSTIN (as the Doyenne): Why… Why are each of the 100 sides on the outside?
+
+ART (as Grand): Because I’m… I’m never designing for the person on the inside.
+
+AUSTIN (as the Doyenne): Hm.
+
+ART (as Grand): The embroidery on my clothes is always on the outside. I don’t have any embroidered clothes with me here. It was-- it’s not very… it’s not very rustic?
+
+AUSTIN: She laughs, and then like eats a piece of whatever like glazed meat is being served.
+
+[ART laughs]
+
+AUSTIN: And then is like,
+
+AUSTIN (as the Doyenne): I’m not asking you to design clothing. I’m asking you to design a weapon of war that you step into, that you present as yourself to the world, but also that you integrate with. The Saints. I’ve been inside of those before. When I… When we moved against the king, I was inside of one. And… I was lucky, because on the inside of my machine were mirrors. And I always had a good image of my own face. I could see how serious I was about this. When you design a machine like this, you are designing it as much for the outside world as for the pilot. This is not a painting, exactly. It is a palette. You are putting together… a toolset for someone else to change the world with.
+
+ART (as Grand): Who is the pilot for this?
+
+AUSTIN (as the Doyenne): I’ll see when it’s done. I was thinking, me… or you. Depending.
+
+ART (as Grand): Alright. We probably would wanna look at different things.
+
+AUSTIN (as the Doyenne): Probably.
+
+ART (as Grand): I’ll work on it.
+
+AUSTIN: And she nods. Even and Echo. An hour passes, and outside of the… the warehouse, the place where the Saint was being worked on, you see Caliper leave. She’s like out of her mechanics jumpsuit and into a more official-looking like overcoat, like official, “She is a Saint” outfit. And she moves through the city to… [thinking noises] slide you over to Sculpture City… to a little, do you see this little spot right here to the southeast of the Sculpture? The Sculpture, again, is the part of the city where the university itself is. And she goes to a… guard tower that’s actually there. It’s like a single standing guard tower that is very thin? Like there’s not much to it. Like it is, there’s a door on the bottom and… 
+
+Woop, I just deleted the map. That was bad. That sucked. Uh, put that on the back side here, I’m gonna get the map layer. There we go. Was trying to draw a thing, and instead I deleted the map.
+
+Yeah, so she’s at this like little guard tower and the bottom of the Sculpture, and… there’s like a guard out front, who nods to her and lets her in. And then, you can see her… there’s a staircase that kind of… that kind of like pops on the outside. It’s like on the inside and the outside, do you know what I mean? Like she walks up a flight on the inside, and then opens a door and comes outside, like walks out an open air doorway. And then kind of walks up alongside spiraling around this watchtower, until she’s at the very top of it.
+
+And the top of it is like, it has a sort of… flares outward and then comes back inward as a triangle for the roof. So it’s sort of like a lantern-shaped top. And she’s somewhere in there. And you see her go in there, and that is the last time you see her for, until you go up there. [huffs] Not the last time, but… And then she disappears from sight, is what I’m saying.
+
+DRE: Right. And she’s not bringing us with her. 
+
+AUSTIN: No.
+
+DRE: We have to find a way to get in there.
+
+AUSTIN: Yes. Yep.
+
+DRE: Hmm.
+
+SYLVIA: Okay. I mean, you got wings, so I think scaling a tower is probably not too troublesome for you.
+
+[DRE laughs]
+
+AUSTIN: It is, in the scene… in the weird time-fuck sequence that we’re in, still like afternoon for y’all. 
+
+[1:30:02]
+
+SYLVIA: Oh, okay.
+
+AUSTIN: Yeah. And there is a guard out front. So, things to think about. 
+
+DRE (as Even): Hm… I guess, do we do, one of us distracts the guard, and the other of us tries to sneak in?
+
+SYLVIA (as Echo): Great job. Distract the guard.
+
+DRE (as Even): Okay.
+
+[SYLVIA laughs]
+
+AUSTIN: [amused] How do you distract the guard?
+
+DRE: Um… Oh boy. What does this guard look like?
+
+AUSTIN: She’s like… kind of burly. She’s got on-- she’s kinda burly, but she’s just wearing like a dress uniform. Do you know what I mean? And she has like a sidearm in a holster at her waist. She’s not like wearing armor or anything like that. Short, curly hair. With like a pretty serious look on her face. She’s like 42, 43, appears to be 42, 43.
+
+DRE: Okay. Do we have anything, like, that marks us as guests at the Gold club or anything like that?
+
+AUSTIN: No. Uh… did you get anything? Probably like a hotel card or whatever, do you know what I mean?
+
+DRE: Yeah.
+
+AUSTIN: Like a door card.
+
+DRE: Okay. I just walk up to the guard, and I... uh, say,
+
+DRE (as Even): Hey! Um, I’m new around here. I’m a little lost. I was wondering if you could help me out?
+
+AUSTIN (as the guard): [sighs] You’re a visitor? Where are you-- where are you from, buddy?
+
+DRE (as Even): Um…
+
+AUSTIN (as the guard): You were-- Oh, the-- okay, Old Gold. You’re really far from where you need to be. 
+
+DRE (as Even): Yeah. I know. I-- Sometimes when I go to a new place, I like tell myself, “Ah, don’t, don’t get a map. Don’t do any of that, ‘cause you only learn a place once you really walk it,” you know?
+
+AUSTIN (as the guard): Yeah, okay. Uh… That’s a bad way to live life.
+
+DRE (as Even): I’m learning this.
+
+AUSTIN: Give me a Divert. “When you engage with someone in an attempt to distract, misdirect or otherwise direct attention to yourself or elsewhere, roll.” How are you feeling about this diversion?
+
+DRE: Um… I think Scared? It’s not a good diversion. [laughs]
+
+AUSTIN: Okay. No, it’s bad. It’s bad, actually. You did just say, “this is where I’m staying,” to a guard, so…
+
+DRE: Yeah. Uh huh. Oh, hey! It’s a great diversion.
+
+AUSTIN: Oh, it’s a 12, hell yeah. Nice work. What did you have in Scared, by the way? What was that roll, what was that roll?
+
+DRE: Uh, +1.
+
+AUSTIN: Okay. That’s a thing I’m gonna try to get into a better habit of doing. I know there are lots of people who listen who wanna know like, “What was the stat you actually rolled, numbers-wise, so I know if I should be nervous or not?” So let’s start saying that as we roll. But “when you get a 10+, pick three of the following: Your actions create an opportunity for you or someone else; you glean a flaw or weakness; they become confused or flustered; or you’re able to slip away.”
+
+DRE: Um, I’m going to obviously pick “create an opportunity for me or someone else”, in this case someone else. And that someone else is Echo.
+
+AUSTIN: Yep.
+
+DRE: I would like to have them become confused or flustered, and then I will also slip away.
+
+AUSTIN: Okay. Are you slipping in, or are you slipping out?
+
+DRE: Aw, can I slip out and even take them with me?
+
+AUSTIN: Yeah, totally. How do you-- What’s that look like, though? Paint me that picture.
+
+DRE: God. I think I’m just so annoying that they are just like, 
+
+[AUSTIN laughs]
+
+DRE: “Oh my god, listen. I’m just gonna walk you the first couple blocks, just so you will leave me alone.”
+
+AUSTIN: Do you make, like, do you purposefully make wrong turns that point you back at the tower a couple of times?
+
+DRE: Yeah, or I’m like, “Oh, but what’s this!” And I just wander down like, towards like other stores or something.
+
+AUSTIN: Right. Right. Okay, cool. Echo, how do you-- what do you do with this guard distracted?
+
+SYLVIA: Is the door locked? Or is the guard…
+
+AUSTIN: No, the door is open.
+
+SYLVIA: Okay then.
+
+AUSTIN: The guard would… Or I guess maybe the door would be locked. That doesn’t-- yes, the door would totally still be, it would have a key card access type thing. But now if you wanna fucking parkour your way up there or whatever--
+
+SYLVIA: Yeah. I’ll probably do that. Um… So I was looking at my options here.
+
+AUSTIN: Yeah.
+
+SYLVIA: How high up is the outer staircase?
+
+AUSTIN: The first, like, the first outside thing is two floors up.
+
+SYLVIA: Okay. So, something I haven’t really had a chance to use yet is the Honed’s Potential skill.
+
+AUSTIN: Uh huh.
+
+SYLVIA: Which is the thing that generates Humanity.
+
+AUSTIN: Oh right.
+
+SYLVIA: I’ve been rolling the Humanity I’ve had for the past couple sessions, just cause I haven’t used any, and I don’t wanna have a huge backlog and powergame it?
+
+AUSTIN: Yeah, sure. I think that there’s a cap on it anyway. Yeah that’s fine.
+
+SYLVIA: Either way, I only have three right now which I think works. And one of the things you can do with that is perform an extraordinary feat of physical aptitude, and then in quotations-- or in parentheses, “The MC has final discretion.” So tell me if this isn’t cool.
+
+AUSTIN: Sure.
+
+SYLVIA: But I basically wanted to use that to do like… a cool flippy parkour move to get up to the stairs.
+
+AUSTIN: Totally. Totally. Without having to roll for it, so nothing can go bad.
+
+SYLVIA: Yeah.
+
+AUSTIN: Yeah, absolutely. Yep.
+
+SYLVIA: Okay, so mark off one Humanity there. 
+
+AUSTIN: Cool.
+
+SYLVIA: I’m down to two.
+
+AUSTIN: Um… awesome. So yeah, you totally get up there, and you can hear that the-- I think that there’s a guard inside who coughs, and like goes to check stuff out, but you’re able to like climb higher up in before they come out and find you. And then eventually you’re on the top floor, the kind of lantern part of the thing. And you can… you can feel that it’s another one of these Gallery rooms. But like-- you can just feel the vibration of the rocks begin to lift up. What do you do?
+
+SYLVIA: Gallery room as in like, the room we saw with the Doyenne, right?
+
+AUSTIN: Yeah, yeah, totally. Where you’re able to like-- it transports you physically to be in this weird Gallery space.
+
+SYLVIA: [sighs] Great. I love those!
+
+AUSTIN: You’re a big fan.
+
+SYLVIA: Yeah. Is there-- okay. So I’m not in… that room, I’m outside.
+
+AUSTIN: No, you’re outside of it, but you can’t quite hear what’s going on inside.
+
+SYLVIA: Okay. And is there only one entrance, or…?
+
+AUSTIN: Yeah. Yeah.
+
+SYLVIA: Alrighty then. I mean… is this door locked as well?
+
+AUSTIN: No.
+
+SYLVIA: Okay, can I like--
+
+AUSTIN: In fact what you see is, there is like… there is like something holding it open. You know what, it’s the wrench that Caliper was using on her Saint before.
+
+SYLVIA: Oh, shit, alright. Dope.
+
+AUSTIN: It’s like holding it open.
+
+SYLVIA: She’s a team player.
+
+AUSTIN: You know, they-- you won those rolls, and she thinks that you’re gonna be team players, too.
+
+SYLVIA: I mean, you know. There’s no reason not to be right now.
+
+AUSTIN: Mmhm.
+
+SYLVIA: I guess I’ll just slip in, then.
+
+AUSTIN: Awesome.
+
+SYLVIA: And see if there’s any way I can do that… sneaky-wise.
+
+AUSTIN: Sneakily? Sneakily? Yeah, totally. What’s the-- how do you do it sneakily? Because I think the actual thing you’re resisting here is like, if it was just sneaking into a room, you would be able to do it. But you’re sneaking into the Gallery, which you kind of responded really poorly to before. So I think it’s like-- I think it’s more of like a stomach sickness meets emotional preparedness thing? Like you’re confronting this space that is a physical representation of this thing that you’ve never had access to before, which we’ve kind of talked about a few times.
+
+SYLVIA: Yeah.
+
+AUSTIN: And it’s a thing that Echo seems to be-- like they seem to be working through that feeling in some way right now.
+
+SYLVIA: Yeah, so I actually have like a few ways I deal with motion sickness actually.
+
+AUSTIN: Yeah.
+
+SYLVIA: And not all of them will apply here, but one of the big ones is steadying myself with something.
+
+AUSTIN: Hm, okay.
+
+SYLVIA: So I think what I’m gonna do is keep the sword on my back sheathed, but I’m gonna like pull it off, and in the sheath sort of use it like a… cane almost to steady me?
+
+AUSTIN: Oh, that’s a good idea. Yeah. Totally, that’s really cool. I think that that’s probably just Risk. “When you’re aware of, or act to avoid, imminent danger, say how you do it and roll.”
+
+SYLVIA: Okay.
+
+AUSTIN: I don’t think there’s anything else here. Let me see. Is there anything else here? No that looks right to me, unless you have another idea.
+
+SYLVIA: No, no. I was just gonna say, for the roll I’m leaning towards Powerful, because I think determined would fall under that?
+
+AUSTIN: Yeah. That makes sense. I like that.
+
+SYLVIA: Okay. So that’s a +2.
+
+AUSTIN: Nice. Good roll.
+
+SYLVIA: Do I have disadvantage on this like I did with the last Gallery, or…?
+
+AUSTIN: I think the thing I was going to-- I was gonna say that your idea there would have given you advantage, so I think it evens out to be just a regular roll.
+
+SYLVIA: Okay, cool. I rolled a 10.
+
+AUSTIN: That’s a 10! Nice work. I think it just-- you get the thing you want. “On a 10+, you do as you describe, and the danger doesn’t come to bear.” I just realized that there’s something I needed to tag onto the last scene with Grand briefly, before we… You know, I can actually show it here a little bit. Uh… Which is, you hear the sound of-- as you like slip inside, you hear the sound of like jets overhead. So, there’s a little showing the barrel of the gun. 
+
+And when you go inside, what you get is, you’re in that Gallery space again. Except like this time you’ve come into it when it’s already on, so you don’t get that really disorienting thing of like, the rocks lifting up around you, and the projection turning on? You’ve never seen this space where it wasn’t the Gallery space. So literally, you’ve slipped into this door, and the inside is too big. Like the inside is just, you’re in a museum now. But it just like-- it doesn’t, because you didn’t log on, you just kind of walked in, you don’t have that immediate motion sickness.
+
+And ahead of you, you see Caliper walking with a sort of lanky figure, a few feet ahead of you. And I’m gonna let the sneaky roll kind of, you know, what’s the gaming roll, gaming term for this?
+
+SYLVIA: Let it ride?
+
+AUSTIN: Let it ride, thank you. And not take that away from you, so you’re able to kind of just eavesdrop on them as they walk around. If that’s what you wanna do. Unless you wanna like--
+
+SYLVIA: No, that sounds perfect.
+
+AUSTIN: --go tackle somebody, I don’t know what your plan is.
+
+SYLVIA: No. Not yet. That option’s still there, though.
+
+AUSTIN: Totally. So, Caliper… I’m gonna be like abstract here, because of time. So, some broad details. The person that Caliper’s talking to never uses their name, and when they speak, they speak with a sort of like… double-layered voice? There’s like a very masculine voice-- not a very masculine voice. There’s a masculine voice and a feminine voice, and the two of them kind of layer on top of each other. What we would traditionally think of as being a masculine and a feminine voice. Um… not even traditionally, but you know what I’m saying. There’s like a deeper voice and there is a lighter voice.
+
+And then, you never catch a picture of-- there’s a moment where you’re like, “I gotta see what this person’s face is like!” And they… like they turn a corner and they almost catch sight of you, but you like, I don’t know, you slip behind a vase or something. And you see that their face is like a video projection. Like literally they are like clothing walking around, and inside is just like a hanging video projection of like white fuzz basically. Like white, you know, like screen fuzz. Um… And what they talk about are, they kind of confirm the things that you’ve seen happening. They confirm, they’re like,
+
+AUSTIN (as the mysterious figure): Caliper, you’ve done a good job. The elimination of Saint Glass has created a power vacuum in Sculpture City. It’s one that we believe you could step into cleanly. And when they Doyenne does fall, you can step even higher. 
+
+AUSTIN: Um, and you know, lots of talk, lots of promises about what this will mean for… the Crown of Glass in general, and how this is the way forward, and how the Crown of Glass will spread through the wilderness and will, you know, bring civilization to the savage cultures, and blah blah blah. Right? Like that is what you’re picking up here. And Caliper is… excited about all of that stuff, but there is like a tinge of… she is definitely being led down the path here. Right? But also does genuinely think that the Doyenne is not… There’s a bit at which what she says is,
+
+AUSTIN (as Caliper): I’ve been thinking about this for a long time, and… [sighs] I’m as loyal as they come to the Doyenne. Seriously. But I’m more loyal to the Crown. I’m more loyal to what we can do with Quire. And… [sighs] What she did was incredible. We had to get rid of the king. But a kingslayer can’t unite the world. She needs to be replaced. Someone else needs to step up.
+
+AUSTIN: And it kind of becomes clear that whoever this other person is is part of a conspiracy to replace the Doyenne with a new figure who does not have blood on their hands. Directly, publicly. And who can lead the Crown to expand throughout Quire. And, you know, also like accusations that the Doyenne is, you know, an egomaniac, is a sociopath. Is like, you know. Lots of demeaning things said about the Doyenne. Um… I think those are the big ones. If you wanna roll, you can get more. If you wanna do like an Analyze roll or something, you can totally do that.
+
+SYLVIA: Sure.
+
+AUSTIN: Or Probe I guess is what that would be? Yeah, probably… Mm. I guess it’s a combination of-- It could be either one. Maybe Analyze would actually give you better information, looking at them. Cause Probe is like, is this person telling the truth? Like what are they actually feeling? Um, it’s up to you.
+
+SYLVIA: Analyze seems to be more combat-oriented, though.
+
+AUSTIN: Yeah, I mean… Don’t even think about it as a comb-- like, I can make those abstract.
+
+SYLVIA: Okay.
+
+AUSTIN: Do you know what I mean? Whichever has better, has more interesting-- Actually, that’s not true. It’s not whichever has more interesting questions. It’s, how do you think Echo is going about this? Is Echo studying the voice intonations and sort of like psychology of these people, or are they trying to break down the information that they’re hearing to develop-- to learn more information?
+
+SYLVIA: I think it’s probably the former.
+
+[1:44:59]
+
+AUSTIN: Okay. So then that’s Probe.
+
+SYLVIA: Okay.
+
+AUSTIN: “When you pay attention, study or examine someone’s reactions during an interaction in an attempt to learn more about them, roll.” Which of the two people are you studying?
+
+SYLVIA: I think Caliper, because…
+
+AUSTIN: Okay.
+
+SYLVIA: It’s hard to read the expression on a video. Yeah.
+
+AUSTIN: Totally. So tell me how your feeling and what your state stat score is.
+
+SYLVIA: I think I’m gonna stick-- I think I’m gonna stick with determined, which is +2.
+
+AUSTIN: Cool.
+
+SYLVIA: Powerful is the name of the stat, but…
+
+AUSTIN: Yeah yeah yeah.
+
+SYLVIA: Yeah, I think like… yeah, I think I’ll just go with that. Do I need to-- is there any specific way I’m doing this, or is it just kinda like getting closer and trying to--
+
+AUSTIN: Yeah, you tell me. You tell me how you’re doing it. I think it’s like--
+
+SYLVIA: So I think--
+
+AUSTIN: Go ahead.
+
+SYLVIA: I think it’s generally just like using the cover that’s available to me within this room to get as close as I can without giving myself away. 
+
+AUSTIN: Okay.
+
+SYLVIA: Is the risk there?
+
+AUSTIN: Sounds good.
+
+SYLVIA: Okay. So I’m gonna roll this. That’s a 9.
+
+AUSTIN: That is a 9. On a 9, you get… One of those questions or two, let’s see. One. One hold. So you can ask… “Are you telling the truth? What are you really feeling? What do you intend to do? What do you wish I would do? Or how could I get you to blank?”
+
+SYLVIA: Oh, man. Can I… Hmm. [pause] I’m wondering if we could make-- Could I ask Caliper this question directly after this exchange? Or do I have to do it right now?
+
+AUSTIN: I mean you’re asking me this question,
+
+SYLVIA: Okay.
+
+AUSTIN: Abstractly? This is information that Echo is learning through observation.
+
+SYLVIA: Okay. 
+
+AUSTIN: And then you could-- we could revisit it later directly also, but you would be making the choice to revisit it directly having the information already. Do you know what I mean?
+
+SYLVIA: Yeah. Alright, so I’m a little torn between a couple and I’d love to hear, like, other people’s ideas on what would work here. It’s either “What do you intend to do?” or “What are-- Are you telling the truth?” with, directed at Caliper.
+
+ART: Do you really doubt that they’re telling the truth?
+
+SYLVIA: I’m just wondering if they’re like, playing both sides I guess is my immediate jump here, but I feel like I could probably get that from “What do you intend to do?” Maybe I just needed to talk that out a little. [laughs]
+
+AUSTIN: Mmhm.
+
+SYLVIA: I guess I’ll go with “What do you intend to do?”
+
+AUSTIN: So… I think that there’s, like, you pick up kind of two different things here. One is… I think it’s actually maybe three different intentions that are all battling with each other here. The one is the one that she’s very open about, which is she intends to spread-- she truly believes that the Crown of Glass is civilized and safe, and that the planet of Quire will be better off if the people of the Crown are in control of it. Like she genuinely believes that the other factions on this planet are dangerous, and even if they’re not-- even if they’re not, you know, bad people, they’re not in a position to lead Quire towards, like, becoming a new unifying force. Or towards it being like a worldwide culture. Especially now that she knows that the Fleet wants to colonize it. She wants the Crown of Glass to be the leading power on this planet before y’all come down here in force. 
+
+So that’s one. Two is, there is some sort of personal bond here, between her and whoever this person is. And she intends to repay a favor of some sort. Based on how she speaks, based on questions she asks about how things are going with this other person, you can confidently say that this other person is a high-ranking member of one of the competing-- one of the, not competing, but one of the other schools of art that make up the five main cities of the Crown of Glass. So it’s either someone from the Factory, someone from the Theater, someone from the Garden, or someone from the Desk. 
+
+[MUSIC- “The Twilight Mirage” begins]
+
+AUSTIN: Someone high ranking that she has a close connection to. And then the third thing is this like terrible, selfish urge, which is, she intends to replace the Doyenne. She intends to be, to have the respect, to have the admiration. She wants people to think that she is as brilliant an artist, and as clever a leader, and as brutal a military tactician, as the Doyenne was. And that is a small intention. That is a quiet intention that I don’t think that she even necessarily knows that she has. Like I don’t know that she’s confronted it yet. But it is there.
+
+[MUSIC finishes]

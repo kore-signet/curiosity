@@ -1,0 +1,3840 @@
+Sangfielle 13: Market Day in Blackwick
+Transcriber: vesta
+
+AUSTIN: Sangfielle is a series that draws on elements of dark fantasy, horror, and gothic fiction. As such, a list of content warnings will always be made available in the episode description.
+
+[MUSIC - ‌‌“Sangfielle‌‌” starts]‌ 
+
+AUSTIN (as Narrator): Well folks, we got something new here in the Serialised Almanac of the Heartland Rider: a front page advertisement. Now, when the original editor of this hallowed publication first put ink to paper, the idea of using our whole front page for promotional material? Was out of the question. But times are hard here in the Heartland and one Mr. Dayward yon Vantzon-Estonbergh, you might know him as Dayward YVE, well. He sent us a great big cheque and told us that as long as we mention the grand opening of his new Trade Hall, the Open Hand Trade Hall up on the second level of Blackwick near the old ruins at the abbey, we could spend the rest of the page talking about regular goings-on as normal. And so again, today’s issue is brought to you by the Open Hand Trade Hall. 
+
+AUSTIN (as Narrator) [continued]: Now, there are some other things going on in Blackwick right now that might be more worth your attention. First and foremost and right on time, Trade-Medium Babor Mirah and their leg of the Caravan of the Coin should be rolling into town just after sunrise today. And if you haven’t dealt with the Caravan then let me tell you, you are. You never know what you might find and here’s the thing. Folks at the stalls, they don’t know either. Old Ribbadon, frog god of wealth, you know the name, well he put a curse on them a long time ago. And now every time they unpack their things, their stock changes. Which means that unlike a normal market like for instance Mr. Dayward yon Vantzon-Estonbergh’s Open Hand Trade Hall, hypothetically, you won’t have sellers telling you that something’s one of a kind when they actually got fifteen more out back.
+
+AUSTIN (as Narrator) [continued]: I have also heard that there’s a new train in town today. The Grand Cormorant Limited. From what has been described to me you will not want to miss it or its mysterious mistress, Miss Chantilly Scathe. Oh, and a howdy welcome by the way to the Sisters of the Mother-Beast back in Blackwick after what’s that-? Centuries away? Well, who could’ve managed to make that happen, hm? That’s right, the Blackwick Group. And they’ll be out and about today too. So, say hello. But keep your distance. Cause you never know how close is too close with a group like that.
+
+[music ends]
+
+AUSTIN: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterisation, and fun interaction between good friends. I’m your host Austin Walker. Joining me today, Janine Hawkins.
+
+JANINE: Hi, I’m Janine Hawkins, I’m @bleatingheart on Twitter.
+
+AUSTIN: Ali Acampora.
+
+ALI: Hi! You can find me over @ali_west on Twitter, and you can find the show over @Friends_Table.
+
+AUSTIN: Andrew Lee Swan.
+
+ANDREW: Hey, you can find me on Twitter @Swandre3000.
+
+AUSTIN: Sylvi Clare.
+
+SYLVIA: Hey! I’m Sylvia, you can find me on Twitter @sylvibullet, and you can listen to my other show Emojidrome wherever you get your podcasts.
+
+AUSTIN: Jack de Quidt.
+
+JACK: Hi, you can find me on Twitter @notquitereal and buy any of the music featured on the show at notquitereal.bandcamp.com.
+
+AUSTIN: Art Martinez-Tebbel.
+
+ART: Hey, you can find me on Twitter @atebbel, and I understand Fangamer is doing a new print of some of our stuff, um, if you listen to this you probably have this stuff you’ve ordered from us before. Crazy, right? I don’t know [friends burst out laughing].
+
+AUSTIN: It only took a year. Also, finally, Keith Carberry.
+
+KEITH: Hi, my name is Keith J Carberry, you can find me on Twitter @KeithJCarberry and you can find Let’s Plays that I do at youtube.com/runbutton.
+
+AUSTIN: You can find me on Twitter @austin_walker. You can support the show by going to friendsatthetable.cash. At this point we’ve done two arcs now of Heart: The City Beneath by Grant Howitt and Christopher Taylor. If you’ve enjoyed these arcs, if you’ve enjoyed our opening arc of The Ground Itself by Everest Pipkin, if you’ve enjoyed this season or past seasons, and you’d like to toss us a couple bucks, again you can go to [short pause] friendsatthetable.cash. I was trying to do the Patreon? I was like patreon.com/Friends_Table, is that right? I just don’t say it that way ever, so.
+
+KEITH: It’s also not as fun of a name.
+
+AUSTIN: No. friendsatthetable.cash. How’s everyone doing? Everyone doing okay? We ready to get into our first- I mean this system doesn’t really have downtime per se? But it does have- but y’all got beat up a little bit, and have some things you wanna pursue, and so we should- so I think get everyone and kinda talk about what a day off in Blackwick looks like? I mean today’s a particularly busy day in Blackwick and we’ll get there. And to kinda help orient us, I’d love to start by just saying, reminding people of your character name, pronouns, and beats that you have active right now? Just so that we can get those all out there, so we’re all on the same page. Let’s start with Es, or Janine. 
+
+JANINE: Yeah! So, I’m playing Es, pronouns are she/they. She’s the Witch. Calling is Adventure, and my current beats are “help an important or influential figure in a Haven”, that’s a minor beat. And “catalogue your exploits for an extended period, either do it yourself or hire a bard”, that’s a major beat.
+
+AUSTIN: Okay. Let’s go to Keith.
+
+KEITH: Hi, my name is Lye Lychen, I’m the Junk Mage, and my major beat is “successfully perform a dangerous action that saves the day”, and my minor beat is “charm someone with tales of your exploits.”
+
+AUSTIN: And pronouns for Lye?
+
+KEITH: Oh, he/him.
+
+AUSTIN: Okay. Art?
+
+ART: Hey, I’m playing Duvall, Duvall’s pronouns are he/him. And the beats I have right now are, as a major beat, “acquire a renowned piece of equipment”. And as a minor, “destroy evidence or rhetoric that proves your task to be impossible”.
+
+AUSTIN: And your task again, your greater task, is what I’m guessing it’s referencing there in that beat.
+
+ART: Yeah. I don’t have that written down, so I’m just gonna-
+
+AUSTIN [overlapping]: Yeah you could-
+
+ART: -just do it.
+
+AUSTIN: Yeah.
+
+ART: Yeah, I’m gonna do it live. It’s “try to prove that there- that Duvall has agency”?
+
+AUSTIN: Mhm.
+
+ART: That Duvall essentially like survived his encounter with the insects, with free will intact.
+
+AUSTIN: And that like free will exists writ large, like what the self is, in some ways, right? Like,
+
+ART: Yeah, yeah, 
+
+AUSTIN [overlapping]: The notion that-
+
+ART: That free will is a thing- or I mean, or-
+
+AUSTIN [overlapping]: Or the opposite! Right? 
+
+ART: If free will isn’t a thing at all, then does it really matter that your body has been taken over by insects? Wasn’t your body just controlled by other insects?
+
+AUSTIN: By smaller insects originally, right, yeah, uh huh.
+
+ART: Yeah.
+
+KEITH: Big questions.
+
+AUSTIN: Jack.
+
+JACK: Hi, I’m playing Pickman, her pronouns are she/her, she is a Shape Knight. Her calling is Heartsong. My currently active beats are, the minor beat “find a Heart-touched sapling on a Delve and bring it back to a Haven for planting”, which would’ve been great if I were in the other party.
+
+AUSTIN: Yeah, uh huh.
+
+JACK: Would’ve worked out great!
+
+KEITH: Wow, I did your thing.
+
+JACK: Yeah! Sick, you wanna- do you wanna trade?
+
+KEITH: I like this- I like-
+
+JACK [overlapping]: I can see everything.
+
+KEITH: I’m not going to tell you about mine.
+
+JACK: Oh, okay! [chuckles] And my other one is, “meet and learn from an emissary of the Heart”, and that is a major beat.
+
+AUSTIN: Mm, okay. Ali.
+
+ALI: Hi!
+
+AUSTIN: I was gonna say your character name then I realised you should do that.
+
+ALI: Yeah, I’m playing Marn Ancura, the class is Hound. My calling is Enlightenment. My two active beats which are both minor, are “succeed at a task that someone else has recently failed to achieve”, and “gain favour with a faction that can help you learn more about your goal.” And my goal is to develop a homemade cure for curses.
+
+AUSTIN: Love it. Great. Pronouns on Marn, again?
+
+ALI: Oh, she/her.
+
+AUSTIN: Okay. Sylvi!
+
+SYLVIA: Hi! I am playing Virtue Mondegreen, pronouns are she/her, and my beats right now, my minor beat is “gain favour with a faction that can help you learn more about your goal”, and my major beat is “kill someone who is trying to stop you from claiming knowledge.”
+
+AUSTIN: Ah, okay! I like that in the chat earlier today, Art was like, do I wanna take a beat that’s gonna get me in trouble destroying stuff, and you’ve just taken one that says “kill someone” outright, so.
+
+SYLVIA: I am here to get into trouble this season!
+
+AUSTIN: Gotcha, gotcha. Your goal again, is to reclaim your vampire power? Or to further extend your life?
+
+SYLVIA: Yeah, to sort of like, reclaim my immortality.
+
+AUSTIN: Right, sure.
+
+SYLVIA: Yeah.
+
+AUSTIN: Love it. Finally, Dre.
+
+ANDREW: Yeah, I’m playing Chine, he/they pronouns. My active beats are, “perform an act of service to an NPC witch”, and “following a long ritual, name the Heart, only refer to it by this name from now on.”
+
+AUSTIN: Okay. So! I wanna say it’s probably been a couple weeks since both of your previous adventures. There’ve been a couple of small things here and there for you to investigate or check out but nothing of note unless you have something to bring to bear. And it is, I wanna say it’s like a Saturday morning. Or our equivalent of Saturday morning here in Sangfielle. And it’s one of those days that like you can sense it’s busy even before you kind of leave your quarters or wherever you’re staying. Actually I don’t know, are y’all- is there like an attached set of bedrooms to the retail shop you’ve taken over? Where do you- is there a hotel you’re living out of? What’s the- what’s the vibe?
+
+ALI: It feels like a little much if we were all also living together, right? I feel like that’s a weird employment situation.
+
+JANINE: I wonder if it’s not a mix, like if you know, a lot of shops would have like an apartment over top that would have enough room for like a few people, but like other people maybe are like staying with other people in town. Or at an inn, or,
+
+ALI: Mhm.
+
+AUSTIN: Right, right.
+
+JANINE: Hotel I guess.
+
+ANDREW: I sleep on the roof.
+
+AUSTIN: I kind of figured that. 
+
+ANDREW: Yeah.
+
+AUSTIN: I actually truly did almost like suggest that last time. That makes sense. Anyone else have like a, they wanna shout out where they’re staying?JACK: I think Pickman has a room at the inn which she keeps in exchange for carrying barrels [Austin chuckles] up and down from the cellar.
+
+AUSTIN: Good! Pay your way.
+
+ART: I think Duvall has a place from when he was living here before? And I think it’s just sort of like waiting for that lease to run out?
+
+AUSTIN: Sure. You didn’t buy it outright, you’re leasing like a lot that has like a house on it or something.
+
+ART: I think even more like a room above a general store?
+
+AUSTIN: Okay, sure. Sure. That makes sense.
+
+ART: So then you could like pre-pay?
+
+AUSTIN: Yeah.
+
+ART: Yeah.
+
+AUSTIN: That makes sense. So you paid for a year or something-
+
+ART: Yeah and there’s like a couple months left or whatever.
+
+AUSTIN: Sure, sure. Chine, as someone who’s sleeping up on the roof, I think that there is like, a thing that happens here in the neighbourhood I live in Queens is- this has not happened in over a year at this point but, there are lots of street festivals and street fairs that are attached to like, various you know, communities, churches, ethnic groups you know. Like oh today, there was a huge ramen festival a couple of years ago on a street near me and that was incredible and I could always hear that.
+
+ART: Did you lose my number?
+
+AUSTIN: You don’t live in New York!
+
+ART: I can get there! [Sylvia laughs]
+
+ALI: There’s- I bet there’s ramen festivals in LA.
+
+ANDREW: Yeah I think the thing about everything going on right now is that it’s super easy to fly cross-country and [Austin laughs, friends chuckle] not at all stressful.
+
+JANINE [overlapping]: Especially just for noodles.
+
+ANDREW: Or a thing that- just not do impulsively.
+
+ART: Well I just heard that they’re not having them now, so it only happened at a time when things were different.
+
+AUSTIN: When you could have done it, that’s true. In any case- it was during the last World Cup, because I can remember people getting ramen and then like sitting outside of bars,
+
+ANDREW: Okay!
+
+AUSTIN: -and looking in at the TVs. And the bars were upset because people weren’t coming in to like [Ali chuckles], sit down and like eat food and buy drinks because they got ramen from the street festival, you know? Anyway, the- when it’s happening I can kind of like feel it from my apartment because it’s happening a couple of blocks like north of me or east of me or whatever. And that’s the vibe here, is that like before the sun has even you know, hit noon, even before its the day fully, you can hear the arrival of some things, Chine, that kind of rise you from- stir you from your slumber. You’re probably having a weird dream? We’ll wrap back around with some weird dreams in the future with you I’m guessing.
+
+ANDREW: Mhm.
+
+AUSTIN: But you’re roused from it. Actually, is there an image you see- what’s the last image you see before you’re awoken by the noise of new arrivals?
+
+ANDREW: Teeth.
+
+AUSTIN: Teeth. Good. Love it. Fantastic. Love to see teeth in my dreams. [Andrew chuckles] And you awake to the sound of dozens of people arriving to the south of town as the Caravan of the Coin shows up. The Caravan of the Coin for people who don’t necessarily remember, are- is a kind of trading caravan that was cursed by Ribbadon, the old frog god of wealth, to where every time they leave and arrive somewhere new, the things they carry change, the things that are in their kind of caravan, also their pockets, their bags, their sacks, their crates, they change to something of equal weight. But that’s the only thing that stays the same about them. And they are looking for an old silver coin that they borrowed from and never returned to the frog god of wealth. But they’re kind of like a roaming trading caravan. And they arrive here once- you know once in a while, I’d probably say once a season is probably right? And it’s always like a big day because they show up and have new weird things that they can trade. So that’s one set of sounds that wakes you up.
+
+AUSTIN [continued]: The second set of sounds is you hear the telltale sign of a train whistle. Steam whistle, as a train appears on the horizon. You kind of like, you know, clearing your eyes and looking out across the lake to the east, and to the north of that lake, is that train track that runs to the train station at the north of the lake. And you can kind of see this bright red and brown and gold train that’s headed towards town. So that’s some additional sounds. And then on top of that [chuckles], coming up- or coming through the woods also to the north and up on that second layer of the town, you can hear chanting. You can hear the sound of women's’ voices chanting. Chanting a hymn, as you see members of the Hymn of the Mother Beast arriving. From this distance you cannot make out their faces, you cannot see if those are ones you recognise or not, but as a reminder at the end of the last session on your side, you did make a connection with that hymn in that priory. And so this is part of that paying off as like, there’s a handful of these nuns showing up for shopping day I guess! To check out what’s going on in Blackwick, a place they left a hundred and fifty- most of them left a hundred and fifty years ago. So it’s like a wild day. 
+
+AUSTIN [continued]: And then finally, up also where the church used to be, the abbey used to be, but now there’s all these little trade stands, today is the grand opening of the Open Hand Trade Hall which is something built by one Dayward YVE. Which the other group, the Lye, Es, and Duvall group worked with. He’s been staying in town more often. He and both his maid and his butler have been staying in town. And he’s decided to devote himself to unifying the trade in this place, by building this big trade hall. It’s almost like a flea market vibe? Like it’s just, I don’t know if you’ve all been to indoor flea markets?
+
+ANDREW: Mhm.
+
+AUSTIN: Not like a flea market outside of someone’s house, but like you know, you have a huge lot of land and you build kind of like a, almost like an open air indoor structure? Very high ceilings, and you can rent a lot. And this is a place that’s kind of brought all of the various traders who sell stuff that gets pulled out of the mine into one place. And he’s been trying to like unify them all under one banner, which means he gets a cut of stuff on top of himself being someone who will buy stuff on consignment. Either from other merchants and tradespeople, but also will buy, almost like a pawn, or a gold buyer, someone buys stuff who comes out of the mountains themselves. And he looks really sad as the train shows up and as the caravan shows up, because he’s sitting under a Grand Opening sign and he’s slowly realising as the day rises that there are other maybe more exciting things than his bad mall? [Keith chuckles] And so that is the day here in Blackwick. And I think as other people stir and get out of bed and have their morning tea or coffee or whatever, the energy in the town is one of those things of just like, “wow there’s a lot going on!” You have kids running through the streets who are excited to check out various parts of- go to see what the caravan’s brought in, go look at the bring train that’s pulled into the station. 
+
+AUSTIN [continued]: And that’s kinda where we’re at. I guess this is sort of a downtime episode which is to say, I’ve put these pieces out there, but I’m curious what you are all interested in doing. If you have scenes or ideas or things you want to do together, or stress you want to try to reduce, or fallout you wanna heal. This is gonna be kinda player led, I’m gonna take a backseat a little bit here. Outside of introducing additional characters and playing them and stuff like that obviously, but. I don’t have like a plot today necessarily. Necessarily. I have a little- I got some things. [Friends chuckle a bit]
+
+JANINE: You don’t say?
+
+AUSTIN: But there’s no armchair today. So what’s up?
+
+ALI: I have some boils that I would love to get rid of?
+
+AUSTIN: Oh I love that.
+
+ALI: [Art chuckles] That’s priority number one.
+
+AUSTIN: Uh huh.
+
+ALI: I don’t like it. 
+
+AUSTIN: I don’t like it. What is the fallout called?
+
+ALI: Buboes?
+
+AUSTIN: Yeah,
+ALI: Buboes.
+
+AUSTIN [overlapping]: Buboes. Echo minor, your skin blisters and bubbles.
+
+ALI: Just read the first sentence!
+
+AUSTIN: “Your skin blisters and bubbles.”
+
+ALI: [chuckles] I don’t like the second one.
+
+KEITH: Just a bit of the buboes.
+
+AUSTIN: You don’t like the second sentence, when you take Blood stress take an extra D4? I won’t read the rest, it’s gross.
+
+ALI: Yeah. Thank you.
+
+AUSTIN: Yeah, uh huh. I see. [Ali chuckles] Mhm.
+
+ALI: It gets worse.
+
+AUSTIN: They get worse! They get worse if you don’t get this taken care of. Hey, you need someone who can heal Echo fallout. There’s someone else here who has Echo fallout, right?
+
+ANDREW: Meee.
+
+AUSTIN: Pickman?
+
+KEITH: I also have Echo fallout, and also I’m the one who can heal that.
+
+AUSTIN: This is true.
+
+JACK: I think I also have Echo fallout, right?
+
+AUSTIN: You do. What’s your Echo fallout? Pickman, and then we’ll come around to Lye since Lye you’re the person who can handle-
+
+KEITH: Sorry, I don’t have fallout, I just have Echo stress.
+
+ANDREW: Yes, same. 
+
+AUSTIN: Stress is easier to heal, also.
+
+JACK: My Echo fallout is a minor fallout called Hex-Eye. “Your vision swims as you start to perceive worlds other than your own layered on top of one another. Any action you take that requires accurate judging of distances becomes Risky. Once per session you see something useful”, fuck that, I’d like to be healed. [Austin and Ali laugh]
+
+AUSTIN: You do see something useful though, right? That is- before you get it- I guess let’s wait and see if it gets healed and how it gets healed. Lye, you’re saying you can heal this?
+
+KEITH: Yes, I can heal this.
+
+AUSTIN: How does that work and then let’s talk about how that would even come up in terms of you getting it taken care of.
+
+KEITH: Well, I have-
+
+AUSTIN [overlapping]: How you would take care of it, rather.
+
+KEITH: I have a power that lets me create a sort of wormhole to a place of- wait, is that the one that does this?
+
+AUSTIN: I think that’s true.
+
+KEITH: Okay. Yes. Okay, I have a power that lets me create a sort of wormhole to a religious place. And when I’m in that place and meditate, I can remove D6 stress from Echo, so not fallout. You may remove D6 stress from Echo, your allies may use-
+
+JACK [overlapping]: Aw, fuck.
+
+KEITH: -the temple in the same way. [someone snorts]
+
+AUSTIN: The place-
+
+KEITH: You may not open more than one path to a temple at any one point of time.
+
+AUSTIN: But if it- a place that can heal D6 stress can heal minor fallout, is the thing.
+
+KEITH: Okay.
+
+AUSTIN: So I think that still works.
+
+KEITH: Okay.
+
+AUSTIN: We did this last session. But we need to talk about how this happens before you roll any dice, before you do anything. How do you tell them that you can bring them somewhere to do this, what does this conversation look like? Who else wants to go get some Echo stress healed? [Ali chuckles] Etcetera.
+
+KEITH: We’re just going on a trip.
+
+AUSTIN: It’s a- but let’s be in character. Let’s see these characters talk to each other because, we’re all here. 
+
+KEITH: That’s- we can go in on that’s the end of me explaining what I just explained to them.
+
+KEITH (as Lye): So anyone who needs to heal can come or just you know, go on a trip.
+
+ALI (as Marn): It’s a portal?
+
+KEITH (as Lye): Yeah, it’s a portal.
+
+ANDREW (as Chine): So do you know like exactly where we’re going on the other side, or is just a-
+
+KEITH (as Lye): No. I specifically have no idea.
+
+ANDREW (as Chine): Hmm. I already did that last week.
+
+[Sylvia laughs]
+
+KEITH (as Lye): It’s safe. It’s safe every time.
+
+ANDREW (as Chine): No, I believe you.
+
+KEITH (as Lye): Okay.
+
+ALI (as Marn): I mean if we’re going together, you know, what’s the risk?
+
+KEITH (as Lye): That’s our motto!
+
+[Ali giggles]
+
+ANDREW (as Chine): Is it?
+
+KEITH (as Lye) Sure is!
+
+ALI (as Marn): Did you get those cards printed yet?
+
+KEITH (as Lye): [whispers, sighing] I forgot...
+
+ALI (as Marn): That’s fine. After the trip. It’s okay.
+
+KEITH (as Lye): Alright, so does anybody wanna come? We’re gonna go- it’s basically I’m taking you to a church it’s just, any- any church like, through anywhere.
+
+ALI (as Marn): Do we have to bring anything?
+
+KEITH (as Lye): No. Just the Echo you want to destress.
+
+AUSTIN: And what you’re sacrificing or paying to get it de-stressed. So yes.
+
+KEITH: Right.
+
+ANDREW: Oh, right. Okay.
+
+JACK: I think Pickman in the corner of the room is just like, you know, adjusting straps on her armour. Like, going and standing by the door with that air of like, everybody else, I’ve put on my boots on already and I’m waiting for people to put their shoes on.
+
+AUSTIN: As a reminder for people from, who listened last episode, and as a piece of information for the Hymn team who didn’t hear this yet, last time that Keith used this-
+
+JACK: Oh, it’s very good.
+
+AUSTIN: Sorry not Keith, but that last time that yeah, Lye used it, they were brought to Genburi, a god of education who takes the form of an elderly man with the head of a rat? He is very tall and has a masculine build. His large eyes are chestnut, he is usually portrayed as wearing a sexy suit of armour that is mostly amethyst in colour, and which is covered in geometric designs. He can impart or take away the knowledge of languages. And so they went to sexy rat god temple last time. So can you read me this move and then tell me if there’s a roll involved?
+
+KEITH: Sure, yes. This is Sanctum of the Stone Chorus. “Priests and prophets offer a thousand voices a respite and maybe a place to pray. Roll Discern + Religion to cast the spell. On a successful you find or spontaneously create a path to one of the halls or temples with the Boundless Conclave whose many priests offer a place to rest with the implication that maybe you’ll offer something in return to one god of many. When you meditate here, remove D6 stress from Echo, your allies may use this temple in the same way. You may not open more than one path at any one time. After an hour or so the path will seal shut, but not without warning, so you’ll have time to leave.”
+
+AUSTIN: I like- today is like, there’s all sort of wild shit here at Blackwick, and what we’re doing is leaving Blackwick for an hour. Just an hour away, you know. 
+
+KEITH: Hour tops.
+
+AUSTIN: Hour tops. So who all is going on this trip?
+
+ANDREW: Chine is going.
+
+AUSTIN: Also I guess we should make the roll. We should make the roll. It’s Discern + Religion.
+
+KEITH: Sure. 
+
+AUSTIN: You have both of those.
+
+KEITH: Yes, yeah.
+
+AUSTIN: Okay. So that’s three dice, does anyone help- can anyone else help you with this ritual? Is this a thing that’s possible? I would say anyone who has magical shit going on can, right? 
+
+KEITH: Yeah.
+
+AUSTIN: But do you want them to?
+
+KEITH: Umm... No. I got this. We’re good.
+
+AUSTIN: Yeah?
+
+KEITH: Yeah I’m good.
+
+AUSTIN: I guess you kind of sold this as, I can do this, right?
+
+KEITH: I can do this.
+
+AUSTIN: And so there’s a degree to which you wanna make it clear that you did it. And hey, you did it, success at a cost, take some stress here. I’m gonna say, you take some Mind stress here. This is- trying to remember- double check what the amount of harm Blackwick does. Just one second. D6, let me roll- I can do it. Roll D6. And you take three Mind stress Lye.
+
+KEITH: Got it.
+
+AUSTIN: Raising you to- oh my god, you kind of have a lot of stress, huh?
+
+KEITH: So that was three. How does this work again?
+
+AUSTIN: You add it to your current stress?
+
+KEITH: Okay.
+
+AUSTIN: Right now so it looks like your Mind was at three coming in, was that right?
+
+KEITH: No, I just did that.
+
+AUSTIN: It was at zero, okay. So now hit fallout test. No fallout! You rolled high. You rolled eleven, so no fallout.
+
+KEITH: I’m good at this. I’m good at not fallout.
+
+AUSTIN: You’ve had a lot of stress. Alright, now what you- Keith, to roll another- give me one D10 as I look at this list of ten deities I’ve generated from [Ali chuckles] the seventhsanctum.com deity list.
+
+JACK: Oh, amazing.
+
+AUSTIN: Four here.
+
+SYLVIA: Could I- quick question?
+
+AUSTIN: Yes.
+
+SYLVIA: Sorry this is just for people who are trying to get Echo fallout, Echo stress?
+
+AUSTIN: Echo- stress you could also come and clear Echo stress, correct.
+
+SYLVIA: Okay.
+
+KEITH: Actually it’s easier and cheaper to do Echo stress.
+
+AUSTIN: Yeah, Echo stress you can just come do-
+
+SYLVIA [overlapping]: Okay, well I guess I’m coming then.
+ 
+AUSTIN: Yeah. [Ali and Jack chuckle] Okay. Let’s see here. This tactful god of lakes takes the form of a young man. He is very short and has a graceful build. His round eyes are charcoal-coloured. His body looks as if it is made of water. He is usually portrayed as wearing an attractive uniform- not sexy armour, an attractive uniform, made from the essence of water. He carries a guidebook. He can walk upon water as if it was dry land. So you got some sort of lake god here.
+
+ART: The essence of water.
+
+AUSTIN: The essence of water. 
+
+ART: So, he’s naked.
+
+KEITH [overlapping]: The essence of water is wet.
+
+AUSTIN: People are talking about him as if he’s naked.
+
+ART: Yeah, but it’s an attractive uniform made out of just being wet? I mean.
+
+AUSTIN: But he’s also made- his body looks as if it was made of water. So it’s two different types of water maybe?
+ANDREW: Mmm.
+
+ART: Well it’s water and then the essence of water.
+
+AUSTIN: What do we think the essence of water looks like?
+
+KEITH [overlapping]: Right. Which is wet.
+
+ART: It’s dry water and then wet water.
+
+JANINE: I think it’s steam. I think his body is wet water, and then he’s got like a steam shroud.
+
+AUSTIN/ANDREW/ART: Ooooh.
+
+AUSTIN: An attractive steam shroud.
+
+JANINE: Like a Sonic god.
+
+ART [overlapping]: Attractive steam shroud.
+
+AUSTIN: He’s kind of a Sonic- he’s a lake god. But I guess he could be-
+
+JANINE [overlapping]: A jacuzzi god. Jacuzzi!
+
+AUSTIN: Not naming him Jacuzzi.
+
+JANINE: No! [chuckling] But he’s a jacuzzi god.
+
+AUSTIN: Uh huh!
+
+ART: That’s the god of accusing people of things. [Friends laugh]
+
+AUSTIN: Great, good. [More friends laughter]
+
+JANINE: Booo!
+
+AUSTIN: What’s the- what’s the-
+
+ART: No, I’m winning this! [More laughter]
+
+AUSTIN: What’s the temple look like that you get taken to? And like what’s the- so what’s the portal look like Lye? And what’s your ritual look like as you begin to cast this?
+
+KEITH: So. Well, I definitely did it casually to be like, I got this I got this, so I didn’t do a good enough job and so it was harder than usual, so I think the portal’s smaller than it was last time, and it’s sort of like cold, wet, blue stone, sort of like, builds itself out of the ground.
+
+AUSTIN: Okay, that’s fun! And then like it, lights up and is it like an energy port- is it water, do you have to walk through water to do this? Like a stargate? 
+
+KEITH: Maybe like a long puddle? Like I don’t think it’s like wading through anything?
+
+AUSTIN: Mhm.
+
+KEITH: But it’s definitely cold and wet and sort of like, I don’t know if anyone’s ever been in like a old food storage cave?
+
+AUSTIN: Sure.
+
+ANDREW: Mhm.
+
+KEITH: Where it’s just like, wow it really is just like thirty degrees cooler all of a sudden. I think it’s like that.
+
+AUSTIN: So then as we go- as everyone steps through, is this a god of lakes who has like, the temple is looking out on some lakes? Is this like- there aren’t lakes here but the temple has some water features, like what’s the vibe?
+
+KEITH [overlapping]: Let’s say it’s on the small island that would be at the center of a medium to large sized lake?
+
+AUSTIN: How big is the lake to the east of Blackwick? Is that a medium lake or is that a small lake?
+
+KEITH: Oh that’s a- that is a medium or large lake.
+
+AUSTIN: So it’s a similarly sized lake, then.
+
+KEITH: Yeah.
+
+AUSTIN: Alright I’m drawing it. Boom. It’s over here. This is it, do you see it on the map?
+
+KEITH: Yeah, cool.
+
+AUSTIN: So in the middle of that is a- I’m gonna put it all on one thing so that it’s easier, and in the middle of that is an island, and now you’re on a temple on the island. Is it like a- I’m gonna say it’s like a big open air temple, you know what I mean? Like there are-
+
+KEITH: Yep.
+
+AUSTIN: There are- or maybe there are multiple floors, but there are walls separating the world outside-
+
+KEITH: Right, like those like, columns?
+
+AUSTIN: Right, yeah thank you for putting “wet god”, whoever did that here. [Friends chuckle] One of my many rap aliases.
+
+KEITH: If I see- If I see the mountains I’ll see it- and I’ll look I’ll say,
+
+KEITH (as Lye): Oh, it’s a close one!
+
+AUSTIN: Sure. Yeah, I mean it’s pretty far. But it’s not- I guess it could be further away, certainly.
+
+KEITH: Yeah.
+
+AUSTIN: You can see the mountains at least, right? They’re pretty far away.
+
+KEITH: Okay.
+
+AUSTIN: But you can see them. And what sort of people are here? Are there other- the last one we went to was pretty packed, maybe this one’s a little quieter? The last one we went to was almost like a running school, because it was about languages and stuff.
+
+KEITH: Yeah, people were learning and there were like instructors going around and helping people, and-
+
+AUSTIN: Yeah.
+
+KEITH: Yeah. 
+
+AUSTIN: Is this one a little less populated?
+
+KEITH: It’s definitely less populated, but it’s also like not bustling? Like no one’s doing anything except for praying.
+
+AUSTIN: Okay.
+
+KEITH: Or like looking, like there’s people- like the most anyone is doing is like sitting in a chair looking at the lake and like maybe whispering? It’s very library.
+
+AUSTIN: Mhm.
+
+KEITH: There’s like a sort of, we’re not supposed to be loud vibe.
+
+AUSTIN: What’s the climate like here? Is it warm and humid?
+
+KEITH: Humid. Extremely humid.
+
+AUSTIN: Hey everybody, Lye brought you somewhere extremely humid.
+
+KEITH: Yeah. [Jack sighs] It’s so humid. [Ali chuckles] It’s like when you walk out of a house and it’s wet. You’re wet. You’re just wet, immediately you’re wet.
+
+ANDREW: Mhm.
+
+AUSTIN: We need a name for this wet god. This god of lakes.
+
+ART: I mean this guy needs to have a really hot name.
+
+AUSTIN: Yeah? What’s a good hot one-
+
+ART [overlapping]: I don’t have one.
+
+AUSTIN: Like Art.
+
+KEITH: Oh, I will say, it is not that hot. It is humid. It’s extremely humid, it’s not like super hot.
+
+ART: I didn’t mean temperature.
+
+KEITH: Okay.
+
+ART: I meant-
+
+AUSTIN: You meant like, hot.
+
+KEITH: You meant, [whistles like a catcall].
+
+ART: Yeah! [Ali chuckles]
+
+KEITH: Look at this god! Look at this god over here! [chuckles]
+
+AUSTIN: Fuck! Names are hard when I don’t-
+
+ANDREW: Names are hard.
+
+AUSTIN: When I have zero prep for what the temple is gonna be of!
+
+JANINE: Ines.
+
+AUSTIN: Excuse me?
+
+JANINE: Mueller.
+
+AUSTIN: Who has?
+
+JANINE: Mooles.
+
+ANDREW: Wetmos.
+
+JANINE: Domos. Erlin.
+
+AUSTIN: Yeah it’s Erlin.
+
+ART: It’s Erlin!
+
+AUSTIN: Erlin that wet god.
+
+ART: That’s a granddad name.
+
+AUSTIN: Pretty sure it’s Erlin. Erlin like in Erlenmeyer Flask?
+
+JANINE: I think I had an ‘i’, but sure.
+
+AUSTIN: Oh, okay. We’re gonna go Erlin. Erlin the god of- the Tactful God of Lakes. I’m going to say there’s not that many representations of Erlin here? It’s not like a big statue- last place we went to there was a huge statue. Here I think it’s more like there are maybe some small- not even murals? But like, representations of various times Erlin did this or that.
+
+KEITH: Yeah, very tactful.
+
+AUSTIN: Very- exactly, very tactful. Nothing gaudy. Nothing too dramatic.
+
+ART: If you wanna bring home some stuff though there is a gift shop. If you wanna- [Austin chuckles] A wall scroll, or-
+
+KEITH: Oh, that’s a good-
+
+AUSTIN: Like an anime convention wall scroll of the Tactful God of Lakes, Erlin.
+
+ANDREW [overlapping]: A silkscreen shirt.
+
+AUSTIN: Yeah, uh huh!
+
+JANINE: Really damp, long pillow case.
+
+KEITH/AUSTIN/ANDREW: Eugh!
+
+AUSTIN: Okay. Then yeah, where do you- what does the- where does the meditate to reduce stress part of this- what’s that look like? Does anyone have any ideas for- is it a particularly- what if there’s one place that is not as humid? That like, blessed by Erlin, there is this sense of like, just cool enough to just be like a nice day by the lake. Maybe it’s just a shore, maybe we get to a beach episode really quick.
+
+ANDREW: Okay.
+
+JACK: Yeah, is it like a, just like- but it’s sort of laid out to have like, meditative slash like vague spa vibes?
+
+AUSTIN: Yeah!
+
+JACK: Where it’s like, there is like a wooden path down to the shore, and there’s like a metal bowl of some like nice smelling liquid. Or there’s like a jug and a glass of water or something. There’s a place to sit by the- this lake, and like- oh! Is there like, is there like bells out in the lake? Almost like buoys with bells attached
+
+AUSTIN: Oooh, yeah! Love that.
+
+JACK: Or like, something that has like a low mist over the lake-
+
+AUSTIN: Yeah!
+
+JACK: Like, these low, quiet bells on the water.
+
+AUSTIN: And there is like some you know, lake birds, you know flying overhead, and a combination of their calls and the bells is kind of nice. You feel like you’re attuned to a sense of lake-ness that you didn’t really think about until now. Like what’s it means to be a lake, you know? An inland body of water.
+
+JACK: Can a lake be evil?
+
+AUSTIN: Can a lake- [chuckles] yeah, can a lake be evil? Can a lake be good, you know? Yeah if you meditate here, you can just take D6, you can roll D6 to roll that Echo stress. For people who want to heal Echo fallout, you’ll need to spend a D6 resource to gain Erlin’s blessing and clear that fallout. So that’s again, that’s just Marn and Pickman?
+
+JACK: We don’t roll, it we just remove it?
+
+AUSTIN: You just spend it and remove it cause it’s a fallout.
+
+SYLVIA: Sorry, for stress do we roll or do we-
+
+AUSTIN: You roll, yeah you roll D6. And then you reduce that much stress. There is no like overindulging or anything like that.
+
+SYLVIA: Okay. 
+
+AUSTIN: Ey, Chine got a six! Virtue got a three. Virtue, how do you deal with the sun out here?
+
+SYLVIA: I think that she’s got- she’s holding onto her parasol after giving it to the guy last time and really regretting it. It’s kinda nice, cause I feel like with how damp this place is, there is water dropping all over the place, so it’s actually working as an umbrella as well?
+
+AUSTIN: True. This is true.
+
+SYLVIA: But she’s tired, you know? These people keep trying to do stuff during the day, when she’s clearly stated that it doesn’t work for her schedule most of the time. She needs her sleep.
+
+AUSTIN: This is true. Who’s left with any stress at this point. Did y’all clear it up all the way?
+
+ALI: Yeah, I mean I can spend my savoury salts to get rid of it at this point?
+
+AUSTIN [overlapping]: Ohhh, yeah! Do you- how do you- what’s the ritual or whatever- what’s the offering look like here?
+
+ALI: Well I think that it works in two ways because like, if it’s like super super humid, I think that like you know, the salt goes into the air and sort of the like, healing fulfilment of that is, it’s not the like, “I eat a meal” sort of thing, but like-
+
+AUSTIN: Right, right.
+
+ALI: You know. [chuckles]
+
+AUSTIN: Oh yeah people on the other side, Marn has some salt that-
+
+ALI: Not anymore!
+
+AUSTIN: Well yeah, not anymore [Ali laughs]. But down in- when they went to the other world, they found some salt you could eat for nourishment. So yeah. Now- I guess nourishes you a different way, yeah.
+
+ALI: Yeah. I also think like, there’s an element too that’s like, processing trauma, right? Cause like, the way that this happened was via a poison, but it was a poison that like gave me blisters but gave me Pickman like, psychotic- [chuckles]
+
+AUSTIN: Like, seeing other-worlds-ness.
+
+ALI: Yeah yeah yeah.
+
+AUSTIN: Yeah, visions of- visions of other places.
+
+ALI: Mhm.
+
+AUSTIN: It was specifically the special poison that the magistrates have woven into- I mean it seems like woven into bullets, maybe their horns,
+
+ALI: It was definitely that guy’s horns.
+
+AUSTIN: I mean in this case it was horns. But we also saw the bullets cause that’s also what fucked up the sky, remember?
+
+ALI: Oh yeah, sure sure sure.
+
+AUSTIN: And also the knife?
+
+ANDREW: Yeah!
+
+AUSTIN: And the Residuum, so that’s the same poison. The strange red shit. And so it’s bad, it like corrupts you in this really serious, non-physical way, right?
+
+ALI: Mhm.
+
+AUSTIN: And that’s the thing right, it’s not just that it gave you these terrible blisters, it’s that these blisters were not curable by any of the known- like you’re good at this, and so yeah, there’s a little degree of what this was that was stressful was also that you couldn’t take care of it quickly.
+
+ALI: Yeah, the way I was thinking about it was like, part of the anxiety about like not being able to cure them makes it worse? So like, actually having the time to like think about it and also like think through that experience-
+
+AUSTIN: Yeah.
+
+ALI: Is like, oh, okay.
+
+AUSTIN: Is there a degree of this moment then being like, alright, I’m going to figure this out. [Ali chuckles] Like, this is, I’m like set on this being my goal in life, is to figure out again, like kind of, D.I.Y cure for this sort of shit, yeah. Love it. Pickman, how bout you, what are you offering up here?
+
+JACK: I’m offering up some train bones?
+
+AUSTIN: ‘Scuse me? [Sylvia laughs]
+
+JACK: Ah you know. You know train bones. Um. In this case, the train bone is a folded-up menu card for the dining car. You know, it says, it says the name of the train, which in this case is Prince Alexander. And it says Prince Alexander Dining Car, press- ring bell to call assistance, available, and then it just lists like some bread rolls, or it lists- it’s nothing really fancy. And this is being folded- you know when you fold a card really thickly, that it sort of becomes very solid?
+
+AUSTIN: Yeah.
+
+JACK: And I think Pickman’s been carrying it around for long enough that the edges have kind of become folded and rounded, and folded into the middle of the menu card is a meal token for Prince Alexander, which has Prince Alexander Meal Token 1, and then written on the back is like, cannot be exchanged or something.
+
+AUSTIN: That is what you expect to see. However, once per session, you see something useful. 
+
+JACK: Ooh!
+
+AUSTIN: And on the token is wrong, Jack. The token that you look at does not say The Prince Alexander, the menu is all the same, it’s all the right stuff there. Instead, it says The Grand Cormorant Limited. And there is a picture on it, or like an etching of a bunch of grapes. 
+
+JACK: Huh!
+
+AUSTIN: You don’t know what this means. Or maybe you do-
+
+JACK: Okay.
+
+AUSTIN: Maybe you’ve intuited it, but I don’t know.
+
+JACK: I think Pickman just like, scrunches her eyes shut? Like she’s got a migraine or something, and opens her eyes to see if it still says the same thing?
+
+AUSTIN: Uh, yeah! It seems like it’s stuck like this. I mean again you’re still seeing an overlapping world of many places? In all of them except for- for everything else, things fluctuate between various worlds, you know? You’re seeing elements of existence that even now you know, much later, you are still struggling to kind of keep straight in your head. But this coin, this token- this food token, has become like, locked in place across- like, for instance, this menu actually changes like what is on offer depending on like which reality you’re looking at, you know what I mean?
+
+JACK: It says Grand Cormorant-
+
+AUSTIN: Cause I’m watching Nancy Drew. So it’s like, terrapin on one, and there’s a nice pasta dish on another, you know?
+
+JACK: Oh yeah! The oysters-
+
+AUSTIN: Yeah! It’s the Grand Cormorant Limited is the name of the train that it’s for. And it has-
+
+JACK: -a picture of some grapes!
+
+AUSTIN: There is a- maybe there is a cormorant on one side, and then yeah, a picture of a bunch of grapes on the other. 
+
+JACK: Okay. I think Pickman’s like, this is correct, this is useful, but I’ve come here to do a job. And so like, fairly casually they just pitch the menu card and the coin overhand into the lake? Where it just goes *plip*!
+
+AUSTIN: Hey Pickman is littering everyone!
+
+ANDREW: I mean that’s fine. I think I’m just swimming in the lake with all my clothes on, so.
+
+AUSTIN: Okay! Why! Okay, sure!
+
+ANDREW: I gotta wash them!
+
+AUSTIN: True, okay, fair. That’s a good answer.
+
+KEITH: Some people are probably like watching, like side-eyeing the litter.
+
+AUSTIN: Mhm.
+
+JACK: But let me remove this. I think that you know, she just splashes water on her face and shakes her head to clear her ears. And I think that the feeling passes. 
+
+AUSTIN: And the feeling passes, yeah your sight comes back to what it was before. Alright, does anyone else-
+
+KEITH: Actually real quick while we’re here-
+
+AUSTIN: Yes.
+
+KEITH: If I roll to heal some more of my stress, I can use the Religion tag which I have, if I heal before we go, right?
+
+AUSTIN: Have you not already done my stress heal?
+
+KEITH: I have only healed my Echo, but I also have my Mend thing? 
+
+AUSTIN: What’s your Mend thing?
+
+KEITH: I have my- what is it called- Overstuffed Coat which has the domain Mend, and die 1D6, and I just have other stress that I can heal?
+
+AUSTIN: So Mend- if you wanna roll Mend to heal stress, you have to make a roll that is like, I’ll just read it, using skills to heal. “When attempting to remove stress, the active player makes a check using the Mend skill and the domain most relevant to the injury, loss or location in which it took place: Wild for a snake bite, Haven for a gunshot, Desolate for exhaustion, Occult for mind-addling hex. On a failure or partial success they make stress to Supplies. On a successful action- a successful action removes D4 stress, characters can increase this amount with suitable equipment”, which I guess that’s what you have, right? You have something for that. And then I will note that trying to heal yourself makes it Risky.
+
+KEITH [overlapping]: Right. We talked about this, I remember this.
+
+AUSTIN: So, which is- you know, that’s Risky which means I get to take your highest die when you do it. What’s the stress that you’re looking to heal? Also remember- I’ll remind you, there are also back in Blackwick, haunts that you can go to to heal stress for resource- in exchange for resources?
+
+KEITH: Okay.
+
+AUSTIN: Where you just pay to get- to roll dice to heal straight up without any risk involved.
+
+KEITH: Okay, I was gonna heal my Blood- my two Blood stress.
+
+AUSTIN: So there is a D6 Blood stress heal haunt back in Blackwick, so if you wanted to you could spend a resource to roll-
+
+KEITH: Okay.
+
+AUSTIN: That resource dice worth of the thing, basically.
+
+KEITH [overlapping]: And the thing is, Ali and I could roll Mend on each other if we wanted to do that.
+
+AUSTIN: This is true. Yeah, that is also true.
+
+KEITH: Okay so then I won’t do that here.
+
+AUSTIN: Yeah yeah yeah.
+
+KEITH: But I will see if there’s a little trinket I can take with me.
+
+AUSTIN: You’re tryna to rob this place?
+
+KEITH: No! It’s a church. They’ve got literature, and they’ve got, you know, things, and Art already said there was a gift shop.
+
+AUSTIN: Yeah Art did say there was a gift shop, this is- yeah, but a gift shop, [chuckles] you buy stuff from a gift shop! Sounds like a Discern + Religion if you’re looking for something actually worth anything.
+
+KEITH: Yeah. Discern + Religion, roll. That’s a nine.
+
+AUSTIN: It is a nine! It’s a full success. What do you- what type of thing are looking for here? Yeah, I will say that there’s something here that you can- with that sort of roll.
+
+KEITH: I just like having bits to remember the different places that I’ve been in the through- Sanctum of the Stone Chorus.
+
+AUSTIN: Yeah! I think there is a really polished like lake- we already did this, we did this at the salt place, we did really polished salt stones or something didn’t we? So I don’t wanna double dip there. What’s a good lake thing? What’s a good lake resource?
+
+ANDREW: I know this is more of an ocean thing, but this is like a church with a god, so maybe some really nice driftwood?
+
+AUSTIN [overlapping]: Driftwood’s nice.
+
+KEITH: Actually was thinking the same thing.
+
+AUSTIN: I like that.
+
+KEITH: Yeah.
+
+AUSTIN: What’s the- what makes it- what marks it as being part of this, of Erlin’s temple? What makes the driftwood as not just being driftwood, but being like divine, Religion domain driftwood?
+
+KEITH: [exhales] Um, well there’s gotta be prerequisites. There’s gotta be a certain- it’s gotta be a certain size. It can’t be too small and it can’t be too big. It can’t have too many offshoots. It has to be comfortable to carry. They stamp the you know, whatever their temple branding? They stamp-
+
+AUSTIN: So this is like driftwood that’s already washed up and been gathered. This is not like, you’re walking the coastline and found some driftwood.
+
+KEITH: Yes.
+
+AUSTIN: Okay. This is official- this is-
+
+KEITH: Everyone was walking around looking for good driftwood-
+
+AUSTIN [overlapping]: erlinshop.com official driftwood.
+
+KEITH: Yeah, yeah. Everyone was walking around doing this anyway, and so the church was like, we can do- we could do this for people. 
+
+AUSTIN: Mhm.
+
+KEITH: Get the driftwood they’re looking for for walking sticks.
+
+AUSTIN: Sure, okay. Sure! Yeah and I’ll say this is actually like, there’s almost a- the reason you get this is by bringing- it’s almost like you’ve brought so many people here to kind of pray to Erlin? That there is like an exchange to you.
+
+KEITH: Right. It’s a bringer show.
+
+AUSTIN: It’s a commission, you know what I mean? Yeah, exactly. So yeah, you get this nice piece of driftwood. Anyone else wanna do anything before you head back to Blackwick? Soak up the sun.
+
+SYLVIA: Absolutely not.
+
+AUSTIN: Do any other investigation? Nah, you don’t want to, you sure Virtue? Okay.
+
+SYLVIA: No, absolutely not! [chuckles]
+
+ANDREW (as Chine): You wanna wear my wet poncho?
+
+SYLVIA (as Virtue): Get away from me!
+
+[Friends laugh]
+
+SYLVIA (as Virtue): You smell like wet dog.
+
+AUSTIN: Aww. It’s cause they look like wet dogs.
+
+ANDREW: Yeah, not fair.
+
+AUSTIN: Alright! So then everyone heads back to the portal. I think there is again, there’s like a train whistle that comes through the portal that lets you know this hour of rest, this kind of window for going back is coming up, and so it’s time to go back through. And you do. And by the time you get back the city is in full effect. The town is in full, full action as people are trading with the Caravan of the Coin, to the south people are checking out this train, to the north a few people are going to the Open Hand market you know, to the- near the abbey, the abbey ruins. But you know, it’s a full on weekend today here at this point. What are y’all gonna get up to?
+
+ART: I need- I need a good nap.
+
+AUSTIN: Yeah we all do.
+
+ANDREW: Mhm.
+
+ART: Uh huh. But I need one mechanically. [Andrew chuckles]
+
+AUSTIN: Oh, because you have what?
+
+ART: I have Tired. Minor Blood stress.
+
+AUSTIN: Yeah.
+
+ART: I can’t gain extra dice from skills and I don’t wanna do it in this order.
+
+AUSTIN: Uh huh.
+
+ART: But I have to do it in this order.
+
+KEITH: Mhm.
+
+ART: Cause I need- I need dice. I need skills.
+
+AUSTIN: Yeah. Yeah!
+
+KEITH: Yeah.
+
+AUSTIN: This is Blood- this is the thing about this is it’s more than a nap, right? Because this is ongoing fallout where you rested over the past few weeks, and you can’t, you can’t like kick it. You just have this- every day you wake up tired so. I think you need- you’re gonna need something else, you know what I mean?
+
+ART: Yeah.
+
+AUSTIN: We do have a Blood haunt here. Again, haunts are where you can go to spend resources to get some help. You could also have someone like Lye or Marn try to Mend you? And give you some advice on how to get rid of Tired, and that wouldn’t cost you anything because it’d be a friend doing it instead of the doctor in town. 
+
+ART: Mmm.
+
+AUSTIN: But if you wanna do that, again, I mean, whichever you do there’s gonna be a little bit of a scene here, but.
+
+KEITH: Well I’m-
+
+ART: I’m really interested in hearing what either or both of them have to say to fix Tired. I will say-
+
+AUSTIN: Is this- go ahead.
+
+ART: -it specifies that I’m weary, make bad decisions, and snap at my friends? [Keith laughs] It was great for the last recording session where I was getting a little bit of a fever from my-
+
+AUSTIN: Uh huh.
+
+ART: COVID vaccine, so I was tired and cranky? But at the end there.
+
+ANDREW: Oh, method acting!
+
+AUSTIN: Is this a situation where- yeah [chuckles], you come back from the lake and you’re still fucking tired, and you’re like, I really thought this was gonna do it.
+
+ART: Oh I didn’t go to the lake, but-
+
+AUSTIN: Oh so you were waiting- so they all come back and you’re still sitting in the-
+
+ART: Yeah I was too tired to go to the lake. [Austin and Keith chuckle]
+
+AUSTIN: Lye do you just pick up on this naturally and kind of see that Duvall is maybe out of sorts still and offer your services? How does this-
+
+KEITH: Well, I’m going to run- I’m going to run the offer that we go to the Blood place because look, if I try to heal you and I mess up it’s bad news. I’m out of it.
+
+AUSTIN: [chuckling] Oh yeah, Keith? If you roll bad on a heal roll it feels bad?
+
+KEITH [overlapping]: I have scraped- I have scraped past every single fallout test that I have done by the skin of my teeth? I’m going on like eight successes in a row.
+
+AUSTIN: Uh huh.
+
+JACK: Keith is aiming for a no fallout series? [Friends chuckle] Which is really impressive but he’s doing permadeath.
+
+AUSTIN: Mhm.
+
+KEITH: But I feel like if there’s a place where I can go to immediately wipe out some of this stress, then I should do that before I start rolling more.
+
+AUSTIN: Right. You’re also- I just want everyone else to know that Keith has so many resources. Keith really went hard on getting stuff to sell and trade with in a way that is commendable and really fits the Junk Mage vibe. So yeah-
+
+KEITH: What are you talking about, I just have a vial of cursed ink, the Genburi statue, an Aterika’Kaal dirt- some Aterika’Kaal- oh, it’s self. I have Aterika’Kaal. I have the YVE company scrip, and some driftwood, and then a few things that I spent last time too.
+
+AUSTIN: Yeah, uh huh.
+
+KEITH: Also I have a couple different satchels full of just supplies?
+
+AUSTIN: And a ritual knife, and a blunderbuss. Yeah, uh huh. So yeah! Is anyone else going to the Blood doctor?
+
+KEITH: How much is that driftwood worth by the way?
+
+AUSTIN: That’s a D4, also.
+
+KEITH: That was my guess.
+
+AUSTIN: Anything that you’re going to get from free is gonna be- like from this move, I’m not gonna- I’m not looking to do anything- here’s the thing I wanna add actually because we didn’t- this is a house rule that I heard from other Heart people. Trinkets- you know your starting trinkets, ones that aren’t resources, that don’t have any dice associated?
+
+KEITH: Yeah.
+
+AUSTIN: Mark those as d- either D2s or D4s niche, up to you how you wanna do it? It’s either worth a little bit of something, D2, so it’s not much. But, you can also make it D4 and make it kind of a niche thing where it’s not a thing everyone would want. You might need to convince someone to trade for it. Or find a buyer if you wanted to. But that way those trinkets are still worth a little something because they’re fun. If you don’t remember what those are, then for now just mark that you have a couple of extra things and we can go back to those recordings and find what those are or you can look at your calling or, what’s the other one? Calling or origin things. Ancestry things to find them again. But I wanna make those worth something. Anyway, who else is looking to go to the doctor today?
+
+ANDREW: Me! Chine needs to go. I have two Blood stress.
+
+AUSTIN: Mhm.
+
+ALI: I realise I also have Blood stress.
+
+AUSTIN: You do. You have one Blood stress.
+
+SYLVIA: I also have one, so.
+
+AUSTIN: Listen, it’s up to y’all if you wanna spend the resources to do this, because like, there is- the minimum spend on one of these resources- I guess now would be a D2? Given what I’ve said you can trade trinkets as D2s? But you have to spend that D2, you couldn’t do- it’s not a free heal, you know what I mean?
+
+SYLVIA: Yeah I’m good.
+
+AUSTIN: So you could just sit with that stress, obviously.
+
+SYLVIA: I’ll pass.
+
+AUSTIN: So yeah, if you wanna go to this doctor, you can. I’m- I think that. So this doctor’s name is..? [searching sounds] Am I on the wrong thing? No, here it is. This is Dr. Vellete Vandrake. Vellete is a kind of middle-aged woman, she is a devil who has on you know, kind of um, long dark like jacket with pants and kind of a blue shirt underneath the jacket. It’s not someone who you would look at and be like, “that is a doctor”, right? This is not someone who is wearing whites and has lots of like, the symbols of being a doctor. But does have the tired face of someone who has been healing people her whole life and dealing with people in pain for as long as she’s been an adult. Her hair is you know, back in a bun and she has glasses on, and is surprised to see, how many people come in her door at once?
+
+ALI: I have to go shopping first so I’m not there.
+
+AUSTIN: So you’re not there, okay. Anyone else?
+
+ANDREW: Me? So is that two? Three? 
+
+AUSTIN: Chine. So at least Chine and Lye? Is there anyone else? Is that it?
+
+ART: I’m there. Yeah that was my- this was my trip.
+
+AUSTIN: And Duvall. That’s yours. 
+
+KEITH [overlapping]: Yeah yeah yeah this is for Duvall.
+
+AUSTIN: You’re tired. You’re the one who needs to- right. 
+
+ART: Yeah.
+
+AUSTIN: Yeah. And I think as she comes and she says,
+
+AUSTIN (as Vellete): Ah, the Blackwick Group. Yes?
+
+KEITH (as Lye): Yeah.
+
+AUSTIN: [laughs] Defeated.
+
+AUSTIN (as Vellete): Well, I knew it was only a matter of time. What is it you need from me?
+
+ART (as Duvall): I’m tired.
+
+KEITH (as Lye): I’m scraped up.
+
+ART (as Duvall): I go to bed, I wake up, I’m tired.
+AUSTIN (as Vellete): Yes well you- I understand you live a life of adventure and intrigue.
+
+ART (as Duvall): No it’s more than that- I’ve done that a long time.
+
+AUSTIN (as Vellete): I don’t appreciate the tone.
+
+ANDREW (as Chine): He’s very tired.
+KEITH (as Lye): Yeah the tone’s part of it.
+
+AUSTIN (as Vellete): And you,
+
+AUSTIN: Looks at Chine.
+
+ANDREW (as Chine): Eh, some bumps and bruises.
+
+AUSTIN (as Vellete): All of you take a seat I’ll see you one at a time.
+
+AUSTIN: And like heads to the back- it’s just like a, I think this is just like a, there’s a real sawbones aesthetic here of just, there is the front of this place? And then a screen, and then the back of this place. There is not a lot of privacy, I think there’s already someone in a bed in the back. And then there’s kind of an examination table and some other stuff. I think she says,
+
+AUSTIN (as Vellete): There is a red sheet on the table, or on the counter.
+
+AUSTIN: And basically is like, leave your pay upfront as you come back in, or come into the back. She uh, you know I think to you Duvall, specifically, she’s basically going to tell you to do some stretches. She’s giving you stretches to do. And basically says that like, your alignment got fucked up. And that you have some sort of like, it’s not just that you’re sleeping wrong? It’s that without the right- I don’t know if it’s, I don’t know if she’s talking about muscle and bone alignment, or energy alignment, or what, but it’s about getting these stretches right so that when you go to sleep it’s actually restorative? You’re basically like clenching as you sleep. I think she even says to you that this is, this is as much mental and stress oriented as it is a physical malediction.
+
+ART: Oh my god I went to the doctor to hear that I need to sleep- oh my god.
+
+AUSTIN: Uh huh. Listen.
+
+ANDREW: Shockers.
+
+AUSTIN: You’ve probably been to the doctor? [friends chuckle] So yeah. Uh huh. But yeah, so what are you paying her? How are you paying for this? And she walks you through, and I think immediately there is a degree of like, okay, well yeah I’m tense in a way I didn’t realise I was tense.
+
+ART: Yeah, great. What did the red sheet say this cost?
+
+AUSTIN: D4. That’s not true. D6. Sorry.
+
+ART: Alright. Well, I wanted to pay with scrip but I’m not paying in D8 resource for a D6 service.
+
+AUSTIN: Yeah, and I don’t think that sort of scrip breaks. Uh, I guess it could. You could get change in scrip, right? You can get a smaller scrip.
+
+ART: What- I mean, but what am I doing? What’s the point? I can’t get like, sentimental about resources.
+
+AUSTIN: No but I- did this not come up on your side that you could break down resources?
+
+KEITH: It did. Yeah you can split things into pieces.
+
+AUSTIN: It would make sense. I don’t-
+
+KEITH: D4 is the smallest thing we could split is what you said?
+
+AUSTIN: Yes, that’s correct. And in fact I wouldn’t even- I think, outside of these D2 resources that we just talked about, the trinkets? I don’t think anything else can get down to D2 really. There’s just not, looking through this book there aren’t that many D2 anythings.
+
+ART: Yeah, so here’s a Heartsbloom rose in a glass jar and we’ll call it square.
+
+AUSTIN: [chuckles] I mean what do you- you only need- yeah, so you’re just gonna give me this rose, yeah.
+
+ART: Yeah.
+
+AUSTIN: Yeah, okay.
+
+KEITH: Hey maybe you can get a little scrip as change, that’s fun.
+
+AUSTIN: I mean this one you can’t because that one is exactly D6, so, no change on this. She says like,
+
+AUSTIN (as Vellete): That will do.
+
+AUSTIN: And then she says,
+
+AUSTIN (as Vellete): Put it here near the light,
+
+AUSTIN: And like, you know, shows you like there’s a big window looking in on the clinic and she wants you to place it next to the window on the you know, what do you call it-
+
+ART: Yeah, it’s got great Beauty and the Beast vibes.
+
+AUSTIN: That’s a hundred percent what it is, right? For sure.
+
+ART: Yeah, I think so yeah.
+
+AUSTIN: And kind of turns to the light as you place it there, that’s what roses do.
+
+ART: Uh huh, yeah.
+
+AUSTIN: We learned all about roses last time. This is a starting thing for you, right? This doesn’t even come from Aterika’Kaal, the rose god.
+
+ART: No, no! Yeah, this just- yeah. That’s what you get.
+
+AUSTIN: Weird.
+
+ART: I guess it makes sense. Pollen, flowers, great.
+
+AUSTIN: Flowers, yeah sure.
+
+KEITH: Hey do you think I can split Aterika’Kaal into a D4 and D6 resource?
+
+AUSTIN: No, you absolutely cannot split the god.
+
+KEITH: Okay.
+
+AUSTIN: Sorry. [Sylvia laughs] Or you could, and then what you would have is have killed the god.
+
+KEITH: Okay.
+
+AUSTIN: Which I feel like we would just rewind the clock to when that was on the table.
+
+KEITH: Yeah I know, fair. I thought maybe it would make two weaker gods.
+
+AUSTIN: N-no. Alright, you wanna go down that road, I would say that is what we would call in another game a long term project.
+
+KEITH: Yeah. Just thinking out loud.
+
+AUSTIN: Yeah! I get you. I get you. So yeah.
+
+ART: Do you remember what my fascination is with?
+
+AUSTIN: Yes. Luck.
+
+ART: Oh that’s what those parenthesis are. Great.
+
+AUSTIN: Yeah remember because of how lucky you were and then immediately how unlucky you became?
+
+ART: Yeah, I’m keeping this fallout forever.
+
+AUSTIN: Okay. Means I can upgrade it in fun ways which is good. Great. This is- do you wanna read that for everyone in the class here?ART: Oh yeah. Fascination (luck), “you become obsessed with a strange topic, usually whatever caused the fallout. You must try and learn more about it firsthand if possible. Whenever you attempt to learn more about your weird fascination, roll with mastery. If you have the opportunity to learn about it and you refuse, mark D4 stress to Mind.”
+
+AUSTIN: Great. And in this case the reason that is- not just the reason, but the way it interacts maybe with your other- bless you! Your other larger project, is that you- if luck exists, what’s that mean for will, right?
+
+ART: Yeah. 
+
+AUSTIN: For- for freedom and for free will and determinism, right? If chance exists, how does that map onto the question of whether you’re an agent or not. So.
+
+ART: Well I’m gonna go do these dumb stretches and then sleep again. [someone laughs]
+
+KEITH: Good luck.
+
+ART: Bye losers.
+
+ANDREW: Honestly, goals.
+
+AUSTIN: Chine and Lyke, what are you paying with here as you get your cuts and bruises kinda taken care of? 
+
+ANDREW: Yeah, I only have two Blood- oh go ahead Keith.
+
+KEITH: Is it still D6? I mean I’ve got so much less to heal.
+
+AUSTIN: No, you can pay- you’re gonna basically, whatever you pay with, you’ll roll a d-whatever that is to heal that much.
+
+KEITH: Got it.
+
+AUSTIN: So for instance if you paid like with your Genburi statue, that D4, then that would be roll a D4 and heal that much stress.
+
+KEITH: Yeah.
+
+AUSTIN: What are you paying with? Both Lyke and Chine.
+
+ANDREW: I got this heart that still twitches.
+
+AUSTIN: Great.
+
+ANDREW: That’s probably a medical curiosity.
+
+AUSTIN: Yeah you’ve been holding onto that now for a while?
+
+ANDREW: Yeah you know I’m kinda sick of it, it’s pretty boring.
+
+KEITH: And it still still twitches?
+
+ANDREW: Yeah!
+
+AUSTIN: It still still twitches.
+
+ANDREW: But you know I’m kinda over it. So. 
+
+AUSTIN (as Vellete): Very- put it in-
+
+AUSTIN: And like points to a metal bin basically with some sort of lid on it.
+
+ANDREW (as Chine): You’re not gonna?
+
+AUSTIN (as Vellete): In my time
+
+ANDREW (as Chine): Okay. Alright, fair. [Keith chuckles]
+
+AUSTIN: Roll a D2.
+
+KEITH: And then, have a handful of dirt.
+
+AUSTIN (as Vellete):  Oh my. What is this? What is this you give me?
+
+KEITH (as Lye): It’s god’s dirt. Some would call it.
+
+AUSTIN (as Vellete): Which god?
+
+KEITH (as Lye): Aterika’Kaal. 
+
+AUSTIN (as Vellete): I don’t know this god.
+
+KEITH (as Lye): It’s an- it is a long forgotten god of the woods. 
+
+AUSTIN: I think she produces a small, like a small bowl for you to pour it in- what’s it in now?
+
+KEITH: A little cup.
+
+AUSTIN: A little cup. Well then she puts something that looks like a thermometer in it for a moment. And then removes it and says,
+
+AUSTIN (as Vellete): Okay. Yes. Take a seat.
+
+AUSTIN: And then again, like kind of looks over-
+
+KEITH (as Lye): Is that a magic detector?
+
+AUSTIN (as Vellete): It’s an instrument. Open your mouth.
+
+KEITH (as Lye): aaaAAH.
+
+AUSTIN (as Vellete): Ooh. Close your mouth. Okay.
+
+AUSTIN: And then you know, whatever, we roll the dice. Roll your D4.
+
+KEITH: Three!
+
+AUSTIN: There you go, heal up that three, and that clears your stress all the way, or your Blood stress all the way at least. Not your Mind or your Supplies.
+
+KEITH: I’m at a paltry four stress now.
+
+AUSTIN: Yeah, that will definitely never- it’s definitely not low enough to cause anyone to get a fallout.
+
+KEITH: No, well.
+
+AUSTIN: Like Duvall for instance.
+
+KEITH: Yeah.
+
+AUSTIN: Alright.
+
+KEITH: Hey what’s about- what about Supplies stress, how does that get healed?
+
+AUSTIN: You go trade for stuff, right? That’s- imagine, there’s a couple way to do. One is, you go to a place that sells supply stuff which you have it, this big trade house here that is the Open Hand Trade Hall, is a D10 Supply place, which means you could trade for up to D10 healing in Supplies. Because you could just go get, you know, lanterns, and rope, and all the other adventure-y shit you need from the Trade Halls.
+
+KEITH: Right. Perfect.
+
+AUSTIN: You could also, there is also a way to just heal Supply stress which is you make a Delve + domain check to help out an ally by handing over your supplies or scavenging useful materials from the surrounding area. So someone else could make Delve + Haven? In order to be like yeah, we could scrape some things together. You know I could call in some favours, I could see what’s in the like, take-one-leave-one, you know I could get you some, whatever you need here. Some string or whatever’s missing from your pack. So. That feels like a Marn thing to me. But, yeah.
+
+KEITH: Okay.
+
+AUSTIN: Anyone else wanna do something here?
+
+KEITH: Do we have that map? So that just- we can see what’s-
+
+AUSTIN: It’s the pl- it’s not a map, it’s the places I said. It’s the Caravan of the Coin, it’s the new train that showed up,
+
+KEITH: Yeah.
+
+AUSTIN: It’s the Open Hand Trade Hall. And then I’ll say as you walk around town, I’ll just give you this also, which is not really an event necessarily. I guess part of it is. Marisha, the old nun of the Mother-Beast who used to live in, what was Eastern Folly and is now Blackwick, has come back through along with a number of the nuns of the Mother-Beast. The Sisters of the Mother-Beast. And they’ve changed. You might remember that they had ashen faces or almost dry ceramic faces? If you remember this? Well, the ones who had ceramic faces, one the ceramic is a little less matte and a little more glossy now that they’ve been connected to the White Flower beast, which is a thing Marn, you might remember you did at the end of that adventure? Now that ceramic isn’t as matte, it’s much more glossy, and it has sort of like, single-colour, really beautiful flower-like design on it. I have a particular thing in mind but I don’t know enough about like, vases and ceramic work to know if there’s a word for the sort of light brush strokes of- in my mind it’s often blue flowers on the vases and stuff in my mind? But in this case it’s kind of a light orange colour. So it’s like almost as if their faces have this painting of orange flowers in bloom now. And then the ones who had ashen faces, like literally their faces were made of ash, well that ash has taken on a slightly more dark, like tan-brown colour? And they have like white flowers blooming in their faces.
+
+JACK: Oh!
+
+AUSTIN: And you know, green, it’s almost as if they have like, little trellises of hair or whatever? But it’s like, little vines or you know, bits of plant-life growing from them. It’s not gross- it’s like actually very beautiful to look at, but is also very scary to look at in some ways, because this is a person who doesn’t have facial features. They just have a flower in their forehead, you know? To the side, or whatever. And so they’re just walking around town, people are making distance for them. I think you hear one person say, “Is that one of them skeletons from the water?” And someone else says “No you idiot! Those are flower nuns!” And so yeah they’re around town. So between them, the Trade Hall, the new train that’s arrived, and the caravan, there’s a lot of stuff just going on. On top of, it’s Blackwick, which means there’s whatever other stuff that’s in Blackwick that we know about.
+
+JACK: Is there a—this isn’t something I wanna look into I’m just curious—have they like, put a cordon or something around the entrance to the basement that we went town to or like?
+
+AUSTIN: There- there is. So I mean, the answer was yes, and then these nuns came up from it.
+
+JACK: Oh, presumably past the White Flower beast.
+
+AUSTIN: Correct. Well, again, there is a connection now. That White Flower beast does not seem to be there anymore. 
+
+JACK: Huh.
+
+AUSTIN: Over the last two weeks it moved into the hymn.
+
+JACK: Oh, sure. Okay!
+
+AUSTIN: Or goes between the two perhaps. You’re not one hundred percent sure. I mean, if you wanted to follow-up with it, you would’ve learned that it goes between here and the hymn, it doesn’t seem to mind visitors. There are- it seems like there have- some sisters have come to like, care for it and the tree? Which is being allowed to be grown both here and in the hymn? In a way that is a little spooky but like the town doesn’t know what to do and doesn’t want to fuck with it, because they’re already a little worried that. I’m guessing that- did you report back to Ekashi Wolff about what you did with the magistrate and all that?
+
+JACK [overlapping]: I think so, yeah.
+
+AUSTIN: So there’s already a little fear that like, “oh I hope that magistrate stuff doesn’t break bad on our heads, ever,” and of course it will at some point. And so there’s a degree of like, let’s not get our hands more dirty than it already is, than they already are. Let’s let them raise their weird- they seem fine, you know? They brought us some of this delicious salt to eat. [chuckles] So! Now we’re trading partners, you know?
+
+JACK: I’m interested in this train. But I think Pickman would not go to a train without a functioning weapon?
+
+AUSTIN: Sure.
+
+JACK: So I think my next priority is my broken gun. I am a little concerned that I don’t have any resources any more? 
+
+AUSTIN: Mhm.
+
+JACK: And I didn’t know whether or not-
+
+AUSTIN: Nothing left.
+
+JACK: No, nothing at all. I’m the opposite of Keith.
+
+AUSTIN: Okay, uh huh.
+
+JACK: So I know Ali you mentioned that you wanted to go shopping, was that to acquire more resources that you could trade off somewhere else? Because if so I would be up to coming on a shopping trip with you?
+
+ALI: Yeah! I would love to do that, the thing I have since realised is that I don’t have any money or resources to use as money? [chuckles]
+
+AUSTIN: Oh. Mmm…
+
+JACK: Can we roll Supply in lieu of using money Austin?
+
+AUSTIN: You absolutely can do that. It is- it’s again one of those things that’s like, you’ll basically take stress to Supply as you’re trading off stuff that you have, do you know what I mean? 
+
+JACK: Right right right.
+
+AUSTIN: To- I’ll just- again I’ll read it. “Player characters don’t have a defined amount of money. Instead their Supplies resistance reflects their capacity to buy goods. To buy items the GM decides on the cost involved, a D4 for minor purchases, D8 for moderate, D12 for really expensive or exotic materials. Some items can’t be purchased without expending a lot of effort to find a seller and to do whatever it is they want. Usually something worth more than money to acquire it. The character then marks stress to Supplies to represent their lowered total cashflow. Alternatively, they can trade resources of equivalent value rather than marking stress to Supplies or Fortune, or- rather than marking stress to Supplies or Fortune, or spend them to reduce the amount of stress incurred by the value rolled.” It goes on from there in terms of like, hey, if you’re trying to find something special, you could make a Compel + Haven roll to try to like, find something you know, useful or to reduce how expensive something is, or something like that, so. We can get more into it depending on what you’re looking for. I don’t know what you’re shopping for, but yes you can use Supplies as sort of like cash on hand.
+
+ALI: Yeah. I- I feel like I just want some stuff [chuckles].
+
+AUSTIN: Yeah.
+
+ALI: My pockets feel empty!
+
+AUSTIN: Your pockets feel empty currently. You want-
+
+JACK: There is a frog caravan just for you. [Ali chuckles]
+
+AUSTIN: There sure is. There sure is! So yeah, do you wanna go to that caravan? The stuff that’s available based just on the- in town you can buy Delve resources and Religious resources? But with this caravan here, I’m gonna say you know- actually you know what I’m gonna do? This is fun. Because of the way that caravan works, it being random and all. One two three four five six seven eight. Roll D8 for me.
+
+ALI: All of us?
+
+AUSTIN: No just one of you. Just Ali, go ahead and roll me a D8. 
+
+ALI: Seven.
+
+AUSTIN: Seven! So there are seven resources available across this- seven resource types to buy at this caravan.
+
+JACK: Oh wow.
+
+AUSTIN: It’s been one of those days where like, the things got there and like, well we got a bunch of fucking wild shit don’t we! I’m gonna say everything except- give me another D8 actually. Six, okay. So one two three four five six, the only thing that they don’t have available there today is anything that would have the Technology domain. Machines- 
+
+JACK: Fuck!
+
+AUSTIN: Buildings and devices. [Ali laughs] Uh huh! A gun- a weapon would probably be Haven for what it’s worth, Jack?
+
+JACK: Yeah that’s true. Yeah.
+
+AUSTIN: Or a weapon would be- not- I mean Technology would be something very special, you know? In this case though, yes, so that means Cursed things, Desolate things, Haven-type of things, Occult things, Religion things, Warren things, and Wild things are all available at the caravan. So to paint you this picture like, there are dozens of people from this caravan. Maybe even more than that. Fifty, sixty, seven, eighty, maybe a hundred people. I know all those are dozens, that’s how dozens works but. You know it’s a lot of people from this caravan and as you arrive they’ve just- there’s a lot of people waiting to like get access to the caravan to start shopping. But they’re just finishing up this kind of accounting. It’s called the accounting which you have to do- which they have to do at the very beginning of- I guess the very end of the journey before they can kind of open their doors so to speak. They have to do a complete inventory of everything that is there because the coin might be there. And so they have to account for all the weight. There’s lots of weighing things in the morning when they first get there to make sure that the weight is evened out, and they are looking for a particular amount of weight to be missing. They’re looking for the weight of a single silver coin to be missing, because that means there’s a chance that somewhere they haven’t seen yet in the caravan, under someone’s butt you know [someone chuckles], under a pillow or a, or a- what’s a- cushion, or stuck in a box or under some straw or something, that coin might be there. 
+
+AUSTIN [continued]: So they have to weigh everything, they have to make sure that everything’s right. And they have just finished all that, so not it’s kind of like, not a rush but, you know, the doors have opened. And people are going between these kind of like open carts to look at various things for sale. And because of everything that’s on display here you know, there are wild, I guess not wild, domesticated pigs for sale. There are little lanterns and hammers and like equipment for going into small tunnels and stuff. There are religious texts of like- a bunch of different books on sale, and it’s very fun to see the person who’s working that table be like, “yeah, figuring out what all these are, [Jack chuckles] on the fly, in terms of what’s on offer here!” There are strange like Occult objects like sensors to burn various types of things in and flasks filled with you know, kind of spell components and stuff like that. There are just like some nice dinnerware sets available. There is- it’s everything you could imagine, right? A wagon wheel, etc. So-
+
+JACK: Do they find the coin?
+
+AUSTIN: No they didn’t find the coin. I’m sor- you know what.
+
+JACK: Luck-
+
+AUSTIN: Give me a D1000.
+
+ART: Oh Jack do it!
+
+AUSTIN: If it’s a one. If it’s a one they found the coin.
+
+ALI: If it’s a one.
+
+AUSTIN: Yeah. It’s the one coin they’re missing.
+
+ALL: Aww!!
+
+JACK: Shit.
+
+AUSTIN: Fifty.
+
+JACK: Not today. 
+
+AUSTIN: Which is remarkably close to a one-
+
+ART: Yeah!
+
+AUSTIN: For a D1000.
+
+JACK: It was close!
+
+AUSTIN: For about a minute they’re like, wait a second. Wait a second, this is the coin! And they look it over and they weigh it, and it’s the wrong- it’s not the right coin. It’s a fake, it’s a replica of the coin they’re looking for.
+
+JACK: Oh!
+
+ART: What psychopath is making these replica coins? [chuckles]
+
+AUSTIN: [chuckles] Really mean people!
+
+ART: Yeah!
+
+AUSTIN: Probably some sort of conman, right? Who is trading for like,
+
+AUSTIN (as conman): Let me tell you, you could be a hero. I found the coin. But I’m gonna need a thousand pigs.
+
+JANINE: Or is it someone who thinks it’s like, just a story, and they’re like-
+
+AUSTIN: Right, sure.
+
+JANINE: Replicating it in that sort of like faithful way of like, when you make a replica of an important relic and you’re like, “god, it’s funny! It’s just like the coin! Ha ha!”
+
+AUSTIN: It’s just like the coin! And they’re like-
+
+JANINE: I love that story!
+
+AUSTIN: Uh huh.
+
+JANINE: And they don’t understand how serious it actually is for these people.
+
+ART: Those poor people who had to come with those pigs under their tongues. A thousand pigs under a thousand tongues.
+
+AUSTIN: Yeah! I mean a thing about this that’s interesting is one of the ways that they’ve gotten around this. For instance I’ve talked about the scales, they’d leave scales at the places. Where this is part of what having a place where if being on the caravan you know route, means having a place where they can show up and they have what they need to do what they do including like having tables set up, tables there ready for them. Having the scales they need to do the accounting. And that stuff stays behind because otherwise it would change with them on the road. Or you’d have to keep it under your tongue. And it also means that also, you know, they are literally you know merchants and traders. But they are also tied into a network of information. Because their caravan, they move from place to place, they are also a good way to tell someone in another town that you would like to buy their pigs. Because they are going to get there. They might get there a little slower than you if you rushed there? But they’ll definitely get there and can deliver a message if they can put it under their tongue, so they have little vials where they kind of roll up little handwritten messages and keep them in their mouths. But like they can- or they can just deliver it by- they don’t forget things, right? So they can say yeah, Duvall over in this town wants to buy some pigs from you. You’ll have to deal with the shipping, we can’t just bring pigs. We can’t fit them under our tongues. But that is the sort of thing that they often do is kind of information broker, you know, delivering messages and setting up deals as much as doing them themselves. In any case, they have a lot of shit on offer today. What are you looking for?
+
+ALI: What’s the- in breaking down something it goes to- from a D8 to-?
+
+AUSTIN: Two of the lower die lower than it. So a D8 to two D6s.
+
+ALI: And then if you break that down-
+
+AUSTIN: From a D6 to two D4.
+
+ALI: Okay.
+
+AUSTIN: If it can be broken down realistically in that way, if you have the time to do it, etc.
+
+ALI: So the thing I was thinking is that, Marn had taken this slice of the Mother-Beast leg to-? [chuckles]
+
+AUSTIN: Yeah!
+
+ALI: To like fully dissect it when she got back to the office quote unquote?
+
+AUSTIN: Yeah.
+
+ALI: So I was like wondering if I could like, just go around this caravan with like, I’m gonna trade this piece of fur for some oil, and then I’m gonna trade-
+
+AUSTIN: You can try- you will need to roll to sell this thing.
+
+ALI: Okay.
+
+AUSTIN: Cause it is taboo. This resource isn’t accepted for barter in most haunts. For example, organs from heartsblooded people, gold teeth, or certain narcotics. This is clearly the leg [Ali chuckles] of something cursed and divine? Or the meat of it?
+
+ALI: Sure.
+
+AUSTIN: And they don’t wanna- it’s you know. I would say this is a place where you have a better chance of doing it than anywhere else because they’re kind of buying the weight, you know what I mean?
+
+ALI: Right. Yeah yeah yeah okay.
+
+AUSTIN: As long as it doesn’t curse them. [Ali chuckles] And they’re worried about curses because of having been cursed historically. So I would say- I do think it’s a roll. It’s not a Risky roll or anything like that. But if you want to, you could roll Compel + Haven to try to convince them to take this off of you.
+
+ALI: Okay sure.
+
+AUSTIN: And in a way you’re laundering it, right? You’re looking to trade it for a different D6 resource or whatever, right?
+
+ALI: Yeah. I was wondering if I should break it down to four D4s first and then try to get-
+
+AUSTIN: Sure! If you want to.
+
+ALI: Okay. And then roll- what am I rolling?
+
+AUSTIN: Compel and Haven. Is anyone helping- Pickman, are you helping Marn with the salesmanship of this thing or are you staying the fuck away?
+
+JACK: Ooh! I’m staying the fuck away! [Ali chuckles]
+
+AUSTIN: Fair enough. Ooh, that’s a fail, take stress! [Ali laughs] Roll D6, uh huh! Need you to take three stress.
+
+JACK: Pickman looks at her feet.
+
+AUSTIN: To- I think just to Fortune, here?
+
+ALI: Sure.
+
+AUSTIN: So add that and then hit that fallout test button for-
+
+ALI: Oh sure.
+
+AUSTIN: Four. You rolled four, but your total stress currently is a three. So you should be fine. I think as you try to walk around and sell this thing like, people are kinda giving you the stink-eye. [Ali laughs] And are like, you should know better. In fact I think at a certain point, someone kind of pulls you aside. There is a Drakkan person here? Drakkan are the- that’s like the species name of the seahorse people who we often also call Kay’van because they’re from- or many of them are from the Free Seas of Kay’va, to the southwest. But they’re not all from there. And this person, Babor Mirah is not? They use they/them pronouns, they are a kind of coral-coloured, coral as in white-coloured seahorse person, that has lots of gold jewelry and chains, and they are- I think you would recognise pretty quickly, they are sort of like. There’s a specific role called the Trade Medium, which is someone who sort of like, they recognise the act of trade as being somewhat divine, and so there is a degree to which they are a fortune teller by way of looking at what was traded that day. They can kind of read any sort of transaction as if it were reading tarot or something like that, right? And their job is basically to understand the fortunes of the caravan writ large and help determine where to go next based on what was just traded for and against, I guess today. They’re not like a leader. I mean they are a lowercase ‘l’ leader, they’re not like an elected representative or something like that. But they pull you away and they say,
+
+AUSTIN (as Babor): For a Keen, I’d expect a little more tact. 
+
+ALI (as Marn): Oh! I’m- I’m sorry. You know. I- the pieces of this are good.
+
+AUSTIN (as Babor): I have no doubt that they are as good as anything like that could be. But we’ve become increasingly... cautious of dealing with things like this. It’s no judgment on you for trying to sell it. You understand we’re in the same business. But, apologies, Miss-?
+
+ALI (as Marn): Ancura! Marn. Marn, you can call me Marn.
+
+AUSTIN (as Babor): Marn, a pleasure to meet you. If we can help you with anything else. If you have anything else you’re looking to trade, I’d be happy to connect you to any of our sellers or buyers. But, that I will need you to keep wrapped and away from here.
+
+ALI (as Marn): I understand. Right. I was in the market for just some provisions. I need some more oil for my- for my supplies. 
+
+AUSTIN (as Babor): Of course. Oil we can sort you right out for. Come with me.
+
+ALI (as Marn): Wonderful. Thank you!
+
+AUSTIN: And they start to give you like a tour of the place. They have like, again I noted the gold jewelry, but they have like a gold nose-ring with like a chain running from their long snout-like seahorse nose like, up to a ear, or down to another part of their clothing. It’s just like a sick look? It’s just lots of like, flowing material and then also like, gold kind of accoutrement that makes this person feel like they’re very much at home and in control of this place. Lots of communicating with a look to various other people here, right? Think at one point you can see that they have communicated to one of the other sellers that like, you- you should get more money for the thing that you’re about to sell, basically right? With just like a quick look, you can see this person’s tongue go, “[sucks in air] you know, [Ali chuckles] actually I think we’re going to need a little more than that to make this work”. At this point Pickman, do you join up, do you see Marn and Babor walking through the place and meet up as you’re shopping?
+JACK: Yeah I think so. I think you know, I’ve been just sort of doing that thing where you’re browsing the stalls, picking a thing up, looking at it, putting it down.
+
+AUSTIN: Yeah, uh huh. Great.
+
+JACK: Awkward polite conversation with the person behind the stall like oh yup. Nice, nice wares. It’s with some relief I think that I see that Pickman seems- sorry, that Marn seems to be engaged in some conversation with Babor.
+
+AUSTIN: Even though it’s a scolding sort of conversation at first [Ali chuckles]. Yeah, so if you wanna make a Supplies roll here, you could go for it.
+
+ALI: Sure, how do I do that?
+
+AUSTIN: You are just going to take- you are going to roll equal to what you’re trying to buy, right? So do you want D6 wisteria oil? Is that what is was, was it wisteria oil?
+
+ALI: Yeah.
+
+AUSTIN: I can say- is it, do they have wisteria oil, or do they have a different type of oil that will make do?ALI: I feel like that it’s probably a common enough tree that you can-
+
+AUSTIN: They got lucky with this run and it showed up?
+
+ALI: Yeah!
+
+AUSTIN: I’m fine with it being there, so yeah. Go ahead and give me- how much of it do you want? Cause that’s how much you’re roll to Supplies, basically, 
+
+ALI: Oh!
+
+AUSTIN: You just take that Supply stress.
+
+ALI: Yeah, sorry I’m just checking my sheet what it was before.
+
+AUSTIN: Oh I see- your starting one. I think it was a D6, everyone starts with a D6-
+
+ALI: Yeah it was a D6. 
+
+AUSTIN: But you could get a D4 or a D8, you know what I mean? You could get what you want for it? You just have to roll that much stress to Supplies.
+
+ALI: Oh sure.
+
+AUSTIN: So it’s kind of up to you how much Supply stress are you looking to take on right now.
+
+ALI: Yeah, it just feels like I- if I’m getting use of it again I’m going to need a D6 or more?
+
+AUSTIN: Or more, yeah, that makes sense. So yeah. Go ahead and give me a D6 and take that much stress to Supplies.
+
+ALI: Six!
+
+AUSTIN: Go ahead- [chuckles] and take six-! Remember that you have the ability to move that into Fortune if you’d like to. 
+
+ALI: [chuckles] So it’d have eight-
+
+AUSTIN: You just wanna be unlucky.
+
+ALI: Eight.
+
+AUSTIN: Eight Fortune, it’s up to you!
+
+ALI: I need to take that fallout, so! Eventually-
+
+KEITH: I feel so bad. Can I just give Ali a resource please. [Ali laughs]
+
+AUSTIN: Yeah you absolutely could! [Ali still wheezing, Keith laughs]
+
+KEITH: Marn please stop! Please can we just- I’ll-
+
+AUSTIN: Click- click fallout test for me, Marn!
+
+ALI: Oh.
+
+JACK: No good, very bad day at the market.
+
+SYLVIA [overlapping, soft]: Oh my god.
+
+AUSTIN: Take minor fallout.
+
+ALI: Great.
+
+AUSTIN: Rolled a one! It’s gonna be a Fortune fallout right? It has to be. This is how it is. This is what happens when you go shopping.
+
+ALI: [chuckles] I desperately want this though cause now and the next session-
+
+AUSTIN: No I get it. Totally, I feel like this is yeah. [Ali laughs] So I think you- oh my god. What happens here?
+
+ALI: Oops!
+
+AUSTIN: There’s a lot of these and some of them are very funny. I’m not gonna say you upset anybody, or that you led anybody into danger.
+
+JACK: Upset anybody further. [Andrew chuckles]
+
+AUSTIN: The next- write down “Collateral” for me? This is- I think that the- you’re going back and forth on this oil purchase and at a certain point it pulls Pickman into it in a way that’s like, there’s just bad vibes. You know when you’re with someone and you have this impulse to be like, I’m not with this person, [Ali giggles] but you are with that person and their bad vibes spread to you? And you’re like “I don’t want- please we’re not- can we not have this fight- can you not- why are you being like this right now?” So you take the fallout, the Fortune fallout collateral, the next time you mark stress, a nearby ally marks the same amount. You then remove this fallout. So, you know, that one at least will heal eventually. I’ll paste this in here, so that-
+
+ALI: Thank you.
+
+AUSTIN: -you can drop it into your thing here. Yeah that’s Fortune fallout. So try not to gain stress in the near future, otherwise it’ll spread to someone else. Hey Pickman, what are you looking for?
+
+JACK: This is just very awkward.
+
+ALI: Oh, do I do get the stuff?
+
+AUSTIN: Yeah, yeah! Yeah yeah yeah, totally, yes! There is not a roll to fail that, I mean, you kinda got the worst possible outcome here in some ways, right?
+
+ALI: Uh huh.
+
+AUSTIN: So. And clear your Fortune stress. So that’s the thing, that Fortune stress is gone now because you took fallout.
+
+ALI: Oh cool.
+
+AUSTIN: Yeah. Also I guess you take Mastery for the remainder of the situation, beacuse you’ve marked Fortune fallout.
+
+ALI: Uh huh.
+
+AUSTIN: And that’s one of your moves, right?
+
+ALI: Is it only this situation?
+
+AUSTIN: It is the remainder of this situation.
+
+JACK: What’s the process of fixing my gun look like mechanically, Austin?
+
+AUSTIN: That’s a good question.
+
+KEITH: I have a- I can fix your gun.
+
+AUSTIN: That’s probably true. Yeah, you absolutely can!
+
+KEITH: I can fix your gun in one second.
+
+AUSTIN [overlapping]: One hundred percent you can.
+
+KEITH: And it looks like me saying “I can fix your gun”, and I fix it in one second.
+
+ART: Oh, can’t make someone not tired, I see how it is.
+
+KEITH: I actually could- I forgot, I’m sorry Art,
+
+AUSTIN: Oh my god.
+
+KEITH: Sorry, I could have, today, I couldn’t have when we were playing before, cause I had already used it to heal someone.
+
+JACK: Okay, yeah-
+
+ART: You owe me one weird rose in a jar. [Austin laughs]
+
+JACK: I would love to do that, but I would also love to pick up something at the market before I go see- before I go see Lyke? I also like this because it’s just-
+
+KEITH: Oh I- I was actually going to hop in on this Supplies thing, cause I was-
+
+AUSTIN: Okay.
+
+KEITH: -trying to go to the market anyway.
+
+AUSTIN: You got stuff to spend, cause your pockets are full.
+
+KEITH: My pockets are full.
+
+AUSTIN: We didn’t even need to get one of the fucking money mages from this book. You just are one.
+
+KEITH: Yeah. It’s sort of by mistake, yeah.
+
+AUSTIN: Yeah.
+
+JACK: Okay. Alright.
+
+AUSTIN: So Pickman what do you still wanna pick up here in the shopping spree?
+
+JACK: What do I wanna pick up? I would like to pick up, let me double check. So my Vermissian- sorry, my Shape Knight armour uses, it usually uses Technology items to power itself? But I made it so that it also uses Cursed or Occult items.
+
+AUSTIN: Ah. Yes.
+
+JACK: In addition. So I think Pickman just, you know, like collars one of the people and says,
+
+JACK (as Pickman): Any- you got any cursed items?
+
+AUSTIN: So here’s the fun thing. They have cursed items, they’re trying to get rid of those as quickly as possible. Their export cursed item business, it’s going big time. They just don’t wanna import any. Cause they’re afraid of them. So yeah, what sort of cursed things are on sale, Jack? Do you have something in mind you could power your train stuff with? 
+
+JACK: Yeah, totally. It’s a doll’s head that speaks.
+
+AUSTIN: Ohh… that’s no good.
+
+JACK: It doesn’t speak much.
+
+AUSTIN: That feels like a D6 to me. A D6 Cursed doll’s head.
+
+JACK: That sounds like a cursed item you’d find at a market, right?
+
+AUSTIN: Yeah, it’s the whole doll but only the head is cursed.
+
+JACK: Oh yeah the rest of the doll’s fine.
+
+AUSTIN: And they show this by being like- okay give me one second, let me remove the head, and the doll’s body just flopped down on the table. But the head looks up at them frustrated and annoyed that they would do this.
+
+JACK: Just like opens and closes its mouth in silent anger.
+
+AUSTIN: Yeah, exactly. And then places it back on- the body doesn’t move, it’s only the head. Even when it’s connected, it’s not a possessed doll where the whole doll body can move.
+
+JACK: No, no.
+
+AUSTIN: I think that the seller does say, actually maybe this is-
+
+KEITH: So it can’t like kill you in your sleep or nothin’?
+
+AUSTIN: Only through words, you know what I mean? Only by like insulting you so bad that you feel bad.
+
+JACK: Yeah. A lot of what it says is,
+
+AUSTIN: Like, it sinks into a-
+
+JACK: My head is cursed. It often just communicates that fact. Ad you can’t tell-
+
+AUSTIN: My head is cursed.
+
+JACK: If it’s proud of it, or if it’s something it’s afraid of,
+
+AUSTIN: This is not my body, it says sometimes.
+
+JACK: Yeah this is. This- [chuckles] to the joke-
+
+AUSTIN: Do you have my body? it says, over and over, repeatedly?
+
+JACK: But Pickman is completely unfazed by this kind of a cursed thing.
+
+AUSTIN: Well because you’re buying so that you can put it in your engine.
+
+JACK: Yeah, exactly!
+
+KEITH: Right.
+
+AUSTIN: Pour one out for- yeah!
+
+KEITH: This is like the Back to the Future machine where he throws in like banana peel and soda but instead it’s cursed dolls.
+
+AUSTIN: Yeah, exactly. Uh huh.
+
+JACK: Pretty much. Pretty much.
+
+AUSTIN: Well this sounds like D6 Supply stress to me, Jack.
+
+JACK: Okay, so the way I do that is I roll a D6, and I take that much for stress.
+
+AUSTIN: You take that much stress to Supplies. Ali in the chat says, “Pickman, I have so much Cursed stuff now, god damn it”. It’s true.
+
+ALI: You could’ve just put the- the Mother-Beast leg into your armour.
+
+JACK: No!
+
+AUSTIN: That’s your Mother-Beast leg.
+
+JACK: The Mother-Beast leg is a) yours, and b) is a taboo. Unlike this cursed doll who is looking up at me with empty eyes saying, I know not my own flesh. [Austin laughs]
+
+AUSTIN: Perhaps I could have some of yours, it adds. 
+
+JACK: Pickman’s just like yeah, yeah, doll in backpack, yeah. Roll a one D6. That’s a three.
+
+AUSTIN: That’s a three, take three Supply stress.
+
+JACK [overlappig]: So I’m gonna take three Supply stress.
+
+AUSTIN: And then roll that fallout test.
+
+JACK: And roll a fallout test. No fallout!
+
+AUSTIN: No fallout! Mhm.
+
+JACK: And I’m gonna add to my resources, Cursed-
+
+AUSTIN: Yup.
+
+JACK: Doll- well I’ll just say doll’s head that speaks. I know it’s-
+
+AUSTIN: Yeah, yeah. 
+
+JACK: I’ll note that in the tags.
+
+AUSTIN: Noted that it’s Cursed in the domain, yeah.
+
+JACK: Yeah I’ll put Cursed, and that’s a d-?
+
+AUSTIN: D6, that’s what you rolled for, so. That’s what it is.
+
+JACK: Great.
+
+KEITH: In the fallout rolls, I haven’t internalised which side is the side you want to be higher, so, everytime anyone rolls fallout my brain goes, “ah! I don’t know-! Which one-!” [Friends chuckle]
+
+JACK: I don’t know what that means!
+
+KEITH: So I’ve gotta look over to the part that says no fallout or changes the question-
+
+AUSTIN: You wanna roll above-
+
+KEITH: Yeah.
+
+AUSTIN: Whatever the number is, so the more you get the less likely it is that you’ll roll above it. That’s how it works.
+
+JACK: I think maybe while I’m here, I’m just like grumbling about how there’s no Technology stuff to repair my gun, or attempt to repair my gun, and that’s potentially an in for Lye to help me out, right?
+
+AUSTIN: Yes, true. True.
+
+KEITH (as Lye): Yeah. I could fix your gun.
+
+JACK (as Pickman): How?
+
+KEITH (as Lye): Here.
+
+KEITH: And I hold up my hands and show that they are covered in spider-web ink. 
+
+JACK: Hold on hold o-
+
+KEITH: And explain that I have the capacity to stitch, fix, and bind with a thought, once per session I can fix someone or something in a matter of seconds, even if it would usually take hours of careful work.
+
+JACK (as Pickman): You’re gonna spider-up my gun?KEITH (as Lye): Yeah, but it’ll be fine. It’ll be normal gun. It will be like a normal gun, after.
+
+JACK: Pickman like extremely warily takes her gun off her back. Keith, I don’t know if you’ve- have you seen a picture of this gun? It’s like an enormous shotgun that doesn’t require armour- sorry, doesn’t require ammunition and also isn’t ranged for some reason? Pickman sort of basically has to be in melee range to use it-
+
+KEITH: So this is a sword.
+
+JACK: Well! I suppose. It’s a bit like the gun in Bloodborne, I think. I didn’t intend it to be like that but that sort of shotgun weapon in Bloodborne that really only works if you’re standing directly in front of your target. But it’s a very big, heavy gun, I think Pickman kind of hands it over gingerly and says, 
+
+JACK (as Pickman): Don’t spider-up my gun, like irreparably.
+
+KEITH (as Lye): Okay, doing my best to not spider-up the gun.
+
+AUSTIN [overlapping]: Do it irreparably, yeah, uh huh.
+
+KEITH: I don’t have to roll for this, right?
+
+AUSTIN: No you just fix it.
+
+KEITH: I just fix it, it’s already done.
+
+AUSTIN [overlapping]: The move says that, you just fix it, yeah uh huh. What does it look like though?
+
+KEITH: You’ve like turned maybe to say something else about it, and it’s already finished.
+
+AUSTIN: Yeah!
+
+JACK: Yeah, how-
+
+AUSTIN: In a matter seconds, it says it, so.
+
+JACK: Does it look different, Keith? Is it-
+
+KEITH: No, it doesn’t look any different. It’s not spidered-up at all.
+
+JACK: I think Pickman says-
+
+AUSTIN: Is it spidered-up internally?
+
+KEITH: Um. Yeah- there is like, I am using,
+
+AUSTIN [overlapping]: Is there a way that you wouldn’t be able to see-?
+
+KEITH: Like, spider magic to do this.
+
+AUSTIN: Mm, okay.
+
+KEITH: I definitely think there’s situations where it would look like I did something to it? And I don’t think like a metal gun-
+
+AUSTIN: Is that situation.
+
+KEITH: Is that situation.
+
+AUSTIN: Okay, sure.
+
+JACK: I think that Pickman just says,
+
+JACK (as Pickman): Holy lord. No spiders. [Keith and Austin chuckle].
+
+AUSTIN: Great.
+
+JACK (as Pickman): Well. Thank you very much Lye.
+
+KEITH (as Lye): You’re welcome.
+
+JACK: Like a sort of a curt nod, puts it in her back and turns back to a tray of a- what’s a quick cursed thing on a tray?
+
+AUSTIN: Slugs.
+
+JACK: Slugs, and then in the tray next to it is a load of tiny wheels that are just rolling about. On their own.
+
+AUSTIN: Okay. Yeah. Good. Marn, before we leave this place, is there anything else you want to try to do here? I know one of your things is to gain favour with a faction that can help you learn more about your goal, and I would say that the Caravan of the Coin has the sort of connections that could allow for something like that long-term. But I don’t know to try to get their favour.
+
+ALI: Oh, for sure!
+
+AUSTIN: Especially after pissing them off a little bit- you didn’t piss them off, you broke a taboo, you know what I mean?
+
+ALI [overlapping]: Yeah yeah yeah. I-
+
+AUSTIN: But you then didn’t push the issue, so.
+
+ALI: Mhm. The- I guess the more useful thing would be sort of like continue to be chummy with Babor before like,
+
+AUSTIN: It’s Babor.
+
+ALI: Babor.
+
+AUSTIN: Like Babe is their, their nickname for people who know them, is Babe. So it’s Babor.
+
+ALI: Sure.
+
+AUSTIN: Just get it right.
+
+ALI: My bad.
+
+AUSTIN: No, it’s fine! [Keith laughs]
+
+ALI: But then it’s sort of like, you know, you mingle, you sort of stick to one person and then, slide somebody else-
+
+AUSTIN: And like somebody goes from being like a tour to being like hanging out, and suddenly you’re like hanging out with this seahorse person.
+
+ALI: Right.
+
+AUSTIN: And that’s a different situation. What is- how are you trying to like, are you trying to offer your services, are you trying to like, find a way to talk about curses? Are you trying to like, what’s the play? I know Marn is not this cynical [Ali chuckles], but I’m curious. Like I read Marn as being very genuine as a person?
+
+ALI: Sure.
+
+AUSTIN: I know it can be weird to talk about like, what’s the play? 
+
+ALI: I think it could be the thing of like, noticing that, like an item someone’s trying to sell for parts could be repaired and then like, if I could do that for you, you could sell this for more.
+
+AUSTIN: I like that as a way in. Maybe there’s a particularly- maybe there’s a particular deal, right, where it is something that’s like, they would like- there is someone who- they are someone is trying to buy something, but it is not a- it is something that is not- it’s not a machine, we know that because they don’t have Technology. But it’s a Haven thing, right? It’s some sort of useful device for the home, you know, or for a kitchen or something like that, that is not working correctly. And it would be a big sale. It’s some sort of very important piece of equipment.
+
+ALI: Mm.
+
+AUSTIN: You know? And it’s, you know, like a deli-slicer, [Ali chuckles] or something, you know?
+
+ALI: Yeah!
+
+AUSTIN: Truly the most important of shit.
+
+ALI: Yeah, maybe it’s like a kitchenaid mixer, but it’s the way that like, there’s a hand crank and then you crank that a little bit, 
+
+AUSTIN: Yeah! Uh huh.
+
+ALI: And then it creates like a tension that makes the mixer actually go like full speed.
+
+AUSTIN: Yeah. Maybe it’s a bunch of these things. Maybe what’s happening here is you’re helping to facilitate a set of like- someone is showing up and being like, I’m gonna buy all seven of these. None of them work right, and they all work right for different reasons- they all don’t work right for different reasons. And Babor is like, this is the way these things go. You know, and basically explains like, as a medium, their job is to read situations like this and try to divine meaning from them, right? Where like, what does it mean that we almost had this great sale? We had exactly what this person had hoped to find, they’d been checking the Trade Hall every day for months to see if they could find one of these things, and here are seven of them, and yet because they’re not in the right condition, or the crank is broken on one of them, and the something else is busted on the other one, that there’s like, how do we read that result? And then is that when you’re able to jump in and be like, I can make these work!
+
+ALI: [chuckles] Sure!
+
+AUSTIN: Then yeah. I think that that’s. That to me sounds like some sort of roll, some sort of Haven-
+
+ALI: Sure.
+
+AUSTIN: Mend roll to me.
+
+ALI: Yeah. Mend + Haven.
+
+AUSTIN: That’s a nine, that’s a full success! That’s two nines, in fact. So yeah, you’re- Pickman and Lyke, I guess Marn you explain that you’re gonna be working on this stuff for a little bit.
+
+ALI: Yeah, I bet it sort of happens organically like, you know, Pickman’s walking around and then like, gets stuck at the like kitchenware table for a couple hours I guess.
+
+AUSTIN: Yeah.
+
+ALI: It’s like, I’ll see you later! 
+
+AUSTIN: Uh huh. I’m gonna note that there is someone here who catches your eye briefly as you’re doing this. Someone who’s now shopping here is someone in a long black cape with a bright green, golden red dragon mask on? With long hair, and you can’t find- you can’t quite see a face underneath that mask, there is something- there is something not quite natural happening that prevents you from seeing what’s behind this mask at this point. For the people who went the other game, this is of course Dyre Ode, who has decided to come out in the day today to do a little shopping like you do. So Dyre is around the town today, will bounce between the various places like everyone else. So if anyone wants a Dyre Ode scene, Dyre is on the table.
+
+JACK: He said at the end of the last arc, he was like, I’m gonna head my separate- I’m gonna go off into the county, right?AUSTIN: Yep. Mhm!
+
+JACK: Has he kind of been doing that, and he’s come back to buy supplies or has he not really set off yet?
+
+AUSTIN: You’d have to talk to him about what he’s doing.
+
+JACK: Okay, sure!
+
+AUSTIN: So yeah! I guess before you know in response to that, Marn, do you while this is going, do you try to talk to Babor about something that you’re working towards about trying to see if maybe they can be a connect for you with your cursory search?
+
+ALI: Sure! I bet that’s like an easy thing to come up in conversation in terms of just being like yeah, you know, I just graduated, I’m trying to cure these curses, I’m really good with kitchenware [laughs].
+
+AUSTIN: Speaking of this cursed shit I was selling. Yeah, uh huh.
+
+ALI: Oh! I create a cure for curses and they cure all the- oh but then they’ll be taboo, and then that’ll be- [giggles] It’s the taboo that’s the problem!
+
+KEITH: Maybe it’s easier to get rid of an uncursed taboo item.
+
+ALI: Sure.
+
+AUSTIN: It definitely is. Cursed also has weight in that way, right?
+
+ALI: I just need to find a taboo person and unload all this shit.
+
+AUSTIN: Yeah.
+
+ALI: That’s the plan that I have right now.
+
+AUSTIN: Mhm. Anything else we wanna do here in the market before we wrap up market stuff?
+
+KEITH: Yeah, I would like to buy a new gun.
+
+AUSTIN: Sure, what’s wrong with your old gun?
+
+KEITH: It’s weak. It’s extremely weak.
+
+AUSTIN: I see.
+
+KEITH: Does 1D4 point blank damage.
+
+AUSTIN: Damn, okay. 
+
+KEITH: And it only has one shot in it.
+
+AUSTIN: Is that true?
+
+KEITH: Yeah. Its tags are Kill, point-blank, spread, and one-shot.
+
+AUSTIN: Mmm, okay. For what it’s worth, I think point-blank is good in this system?
+
+KEITH: What it says is that it-
+
+AUSTIN: Am I wrong about that?
+
+KEITH: It increases stress dice as you move away.
+
+AUSTIN: I see. Yes, okay, that makes sense. So then not as good.
+
+KEITH: Yeah.
+
+AUSTIN: Yeah, so got that one backwards. Alright. So yeah, what do you- what are you looking for? We know there is-
+
+KEITH: I’m looking for a good quality-
+
+AUSTIN: Oooh.
+
+KEITH: D10 gun.
+
+AUSTIN: I think this is gonna have to be a roll to find something like a good quality- good quality stuff is not, is not just gonna be around.
+
+KEITH: Okay, we are at a well-stocked place.
+
+AUSTIN: You are at a well-stocked place. That’s what I’m saying, you can roll for it.
+
+KEITH: Okay.
+
+AUSTIN: Give me a Discern + Haven.
+
+KEITH: Can I get help from Pickman?
+
+AUSTIN [overlapping]: Yeah, you wanna talk to Pickman about what you’re looking for?
+
+KEITH: Pickman knows guns.
+
+AUSTIN: Yeah is this like in exchange for-
+
+KEITH: Yeah, yeah.
+
+AUSTIN: Fixing the gun?
+
+KEITH: I have a gun, but I don’t know guns. I know spider-web hand magic.
+
+JACK: Yeah, fair enough.
+
+KEITH: Okay.
+
+JACK (as Pickman): We’re calling this thing a gun pretty loosely.
+
+JACK: Pickman gestures to her shotgun.
+
+KEITH (as Lye): Sure. Is yours also point-blank or is it a different tag?
+
+AUSTIN: It’s not even point blank.
+
+JACK (as Pickman): I do not know.
+
+JACK: Says Pickman.
+
+KEITH (as Lye): Wow. So it’s really just a sword.
+
+JACK (as Pickman): Well I don’t know if I’d go that far.
+
+AUSTIN: It’s very funny.
+
+KEITH (as Lye): But I mean, you seem like you know guns anyway. If you didn’t know guns, you wouldn’t have picked that. Cause you would’ve just tried it and been like, “this is a terrible gun”.
+
+JACK (as Pickman): Fair enough, how can I help?
+
+KEITH (as Lye): I’m just looking for something- I’m looking for a hidden gem. I want something that’s more- just as a little extra something in it, to it. Cause I feel like this thing almost got me killed.
+
+AUSTIN: Then yeah, let’s make this roll and see what you end up finding here. This is Discern + Haven. Actually wait, does- can you- can you do that, can you help with either of those, Pickman? Got that Discern going on?
+
+KEITH: I have Discern.
+
+JACK: No.
+
+AUSTIN: You got Compel. So you- I think with Compel you could talk your way through some of this, you know?
+
+JACK: Yeah, I’m happy to offer my Compel assistance here by just being like a big entity standing behind Lyke.
+
+AUSTIN: Mhm. Alright so give me your roll.
+
+KEITH: Okay so I’m doing Discern, but I get one extra die from-
+
+AUSTIN: From the help.
+
+KEITH: From the help.
+
+AUSTIN: But again, any stress is also gonna happen to Pickman.
+
+KEITH: Okay.
+
+AUSTIN: So.
+
+KEITH: Is that okay, Pickman?
+
+JACK: Yeah, fair enough.
+
+AUSTIN: Yikes!
+
+KEITH: Yikes.
+
+AUSTIN: Failure, take stress. I’m gonna roll that stress. Take two stress.
+
+KEITH: And this is to Supplies?
+
+AUSTIN: This is not to Supplies. This is to- because I don’t think- I think this is less about you like spending anything, I think this is to Fortune. It’s just bad luck. It’s just you’re not finding what you’re looking for here. You know, what’s here isn’t here, and you find like, it’s one of those things where you budgeted an amount of time in your head for how long you’re gonna look for this.
+
+KEITH: Yeah.
+
+AUSTIN: You were doing this, you go to a store and you’re like, I have 45 minutes to look for this thing.
+
+KEITH: Right.
+
+AUSTIN: And then you spend two hours, and you’re like, I’ve put in- I’ve already put in two hours, if I don’t find this thing then I’ve wasted my whole day. So then also two stress, two Fortune stress, Pickman.
+
+JACK: I have Fortune protection. It’s the first time I’ve kind of rolled with protection, how does that work? Will it-
+
+AUSTIN: You just take one stress instead.
+
+JACK: Oh! Okay, and do I clear that protection?
+
+AUSTIN [overlapping]: Because you have one Fortune protection-
+
+JACK: Or does that?
+
+AUSTIN: Nope. Where does that protection come from?
+
+JACK: That Fortune protection has come from a new item that I took from a move. I suppose it would be honest to the fiction- I don’t think I have this item yet, I think I’m going to get it probably from the train?
+
+AUSTIN: You’re really asking- you’re really- mm okay. You think that train’s gonna have something for you, okay.
+
+JACK: I think that some Shape Knights have maybe loaded something onto the train for me.
+
+AUSTIN: I know more about this train than you do.
+
+JACK: Aw fuck me! Alright. I found this-
+
+AUSTIN: It could’ve just come in this- in the way, you know, or in the past week or two, right?
+
+JACK: Yeah absolutely, okay yeah. That’s true. So I think this is something that came on a train in the past week. It was kind of couriered by the train? Which is quite- that’s a tense situation, because what this is is a heavy gauntlet in the same colour as Pickman’s armour, that has had painted on it roughly like in white paint with a fingertip, a symbol of a candle. And this is sort of like you know, Shape Knights don’t really have organisation- big organisations? But this is as close as the Shape Knights getting to saying like, oh, Pickman is the Shape Knight in Blackwick county.
+
+AUSTIN: Right, so that’s what the candle is for. It’s almost like you’re official- not official, but like-
+
+JACK: It’s like a gift!
+
+AUSTIN: Yeah.
+
+JACK: It’s less like, oh this has come from the organisation, and more like oh, we’ve given someone a plate when they retire except the other way around you know.
+
+AUSTIN: It’s your twenty-year golden watch.
+
+JACK: Yeah.
+
+AUSTIN: Except now it’s- keep using this thing, yeah.
+
+JACK: Yeah, I get one Blood protection and one Fortune protection from it.
+
+AUSTIN: Alright so yeah, you keep that. Protection is very good. So it means you just take one Fortune instead of taking two here. And then give me your fallout test. Both of you rolled eight.
+
+JACK: We rolled exactly the same!
+
+KEITH: Nice.
+
+AUSTIN: You rolled the same, so yeah. So just- you know you two just spend a nice afternoon, you know, shopping for guns.
+
+KEITH: For guns that aren’t good enough.
+
+AUSTIN: You just can’t find a good one. You can get a non-good one. You can get a regular-ass you know, pistol of some sort.
+
+KEITH: Right.
+
+AUSTIN: But you’re not gonna get a good one. It’s just not available here.
+
+KEITH: Okay. Alright.
+
+AUSTIN: As far as you can find it. In fact you get the classic thing of like, yeah, I sold one two hours ago.
+
+KEITH: Yeah. Well you know what I’m gonna do. Just so that I’m not wasting anything, instead of a D10 weapon, I’m gonna take- I’m gonna get a D8 instead. And I’ll trade that up at another day.
+
+AUSTIN: This is still a buy. Yeah, this is still an expensive- that’s still expensive.
+
+KEITH: Yeah, so I’m gonna trade my blunderbuss which is a D4,
+
+AUSTIN: Uh huh.
+
+KEITH: And I’m gonna trade in my driftwood, which is a D4.
+
+AUSTIN: That does not equal D8, that equals D6.
+
+KEITH: Well then okay, well then my scrip, which is a D8.
+
+AUSTIN [overlapping]: Okay. Well there you go, you’ve traded that then.
+
+KEITH: My scrip is a D8, so I can just do that by itself, right?
+
+AUSTIN: You can just do the D8. Yeah- I would say, you know, I would say a gun is like- equipment is not the same as just as resource, cause it has such a clear use.
+
+KEITH: Yeah.
+
+AUSTIN: That I’m gonna say, and maybe I’m wrong about this, but shopping for equipment is like a little more expensive, there is more than just the Supplies thing. So I’m gonna say it’s like a D10 cost to get that. Or not a D10- it’s a D8 + a D4 is what I would say. So, this is-
+
+KEITH: But if I’m trading in equipment-
+
+AUSTIN: Yeah so take that trade plus the scrip and then you’re good.
+
+KEITH: Okay.
+
+AUSTIN: I think that’s a good trade. So yeah. Go ahead and then, you and I can work out tags and stuff but like, it’s just a gun, right?
+
+KEITH: Yeah.
+
+AUSTIN: It’s just gonna be the equivalent of, presumably a pistol of some sort right? You know what-
+
+KEITH: Yeah, I will at least keep the Kill- [chuckles]
+
+AUSTIN: Kill D8, ranged, at least.
+
+KEITH: Kill, ranged,
+
+AUSTIN: That’s basically what it is.
+
+KEITH: Yeah.
+
+AUSTIN: I might just give you the Filigreed Revolver which is the Incarnadine’s starting pistol. Which also has the Expensive tag, which is fun. It’s just a really nice looking pistol, right? It’s just a really- you don’t find a good pistol, but you do find a pistol that’s like, nicer to look at than to shoot.
+
+KEITH: Right. Okay. And that’s D8, and let’s see. Filigreed Revolver, and it is Expensive, so that’ll help when I-
+
+AUSTIN: This is bad, the Expensive is actually bad for you, so maybe you don’t want Expensive.
+
+KEITH: Oh what does Expensive do?
+
+AUSTIN: Expensive is when you inflict stress with this item and roll the maximum amount, mark D6 stress to Supplies.
+
+KEITH: Yeah I don’t want that.
+
+AUSTIN: It’s like the bullets are expensive. Yeah you can just make D8 and-
+
+KEITH: I thought this was gonna help me get a better item later.
+
+AUSTIN: That’s what I thought Expensive would be too, but I checked so, no. Whatever we said it was before. D8, ranged.
+
+KEITH: Okay.
+
+AUSTIN: Alright. Any other shopping things? I know before we had said Art that maybe Duvall was looking for something at a market today?
+
+ART: Um, I don’t think I do need anything.
+
+AUSTIN: Oh, okay.
+
+ART: I had to find something, but not something that’s here.
+
+AUSTIN: Could you find something that you could help you find something?
+
+ART: Well I’m trying to edge myself towards a renowned piece of equipment, you know?
+
+AUSTIN: Ah. Well maybe you could get something here that could help you get towards that, like a map? Or a book, you know what I mean?
+
+ART: A book.
+
+AUSTIN: Like a- yeah, a book. A book of legends about renowned pieces of equipment?
+
+ART: Mmm.
+
+AUSTIN: Some sort of like,
+
+ART: Like a D&D treasure manual? 
+
+AUSTIN: [laughs] Yeah! Like, legend- like you know, some sort of book of legendary stuff.
+
+JACK: Yeah!
+
+AUSTIN: Or like a chapter- like, one of the things that could’ve shown up- I mean we should do a roll. We should do a Discern roll to see if you find anything here, a Discern or Compel roll, as you’re looking for this stuff.
+
+JACK: It’s like you play Skyrim and you find a book the title of which is just like, Cool Swords, and you’re like-
+
+AUSTIN: Yeah!
+
+JACK: This book’s gonna teach me how to find a sword, isn’t it!
+
+AUSTIN: [chuckles] This is how you get that cool sword that does extra damage to zombies!
+
+ART: Yeah.
+
+JACK: Yeah, holy shit! Yep, quest- quest added! Yep.
+
+AUSTIN: Quest added, yeah, totally! So yeah, what do you- what are you looking to roll here Duvall, I don’t know what your skills are on the top of my head right now.
+
+ART: I have Discern, I have-
+
+AUSTIN: You don’t have Haven, so that’s not gonna help, so.
+
+ALI: Could I help?
+
+AUSTIN: Totally!
+
+ART: Sure!
+
+ALI: I’m chummy with these people now I could help [chuckles].
+
+AUSTIN: Yeah, now you’re chummy, exactly! Yeah. [chuckles] 
+
+ART: You could be like, [chuckling] this- this person needs a book on a sword.
+
+AUSTIN: You could use Unorthodox Methods if you think this is important enough for you.
+
+ART: Um, well-
+
+AUSTIN: And just take the six.
+
+ART: On one hand, great idea.
+
+AUSTIN: Yeah.
+
+ART: Because, how many times are we really gonna roll in this-
+
+AUSTIN: Today. I don’t know?
+
+ART: On the other hand, if I have to roll dice again it’s probably an emergency.
+
+AUSTIN: Oh hey, you need to add a knack for Discern, because you have two different Discern moves.
+
+ART: Is that right?
+
+AUSTIN: If you have two Discern moves- if you have two moves of any skill or domain, you get a knack.
+
+KEITH: Oh.
+
+AUSTIN: And a knack is something special.
+
+ART: Alright.
+
+AUSTIN: A knack, if you possess a skill or domain and gain it a second time, you gain a knack, this is a proficiency with a particularly facet of the broad spectrum covered by the skill or domain. Using a knack allows you to roll with Mastery, but you cannot gain more than one dice from Mastery per roll. So an example of a knack is something like, you’re good at Discerning lies. Or Delve, get out of trouble. Or Kill, infamous beasts.
+
+ART: Mmm. 
+
+AUSTIN: Mhm.
+
+ART: Discern. Infamous beasts. [Ali chuckles]
+
+AUSTIN: But a Discern knack could be, when you- like occult books or something like that, right? Occult texts, so that way when you’re rolling to specifically Discern stuff from occult texts, you get a bonus on that. But you wouldn’t get a bonus from like, there’s some noise in the bushes, you know?
+
+ART: Yeah.
+
+AUSTIN: That would not get you a Discern bonus there.
+
+ART: Yeah occult text makes a lot of sense.
+
+AUSTIN: Write occult texts next to Discern and roll with Mastery.
+
+ART: Uh, is occult text too specific? Occult text seems- mm, I don’t know.
+
+AUSTIN: No- I think cause like-
+
+ART [overlapping]: Discern, Occult-
+
+AUSTIN: I don’t want to give you bonuses-
+
+ART: No, I guess that’s not, yeah.
+
+AUSTIN: Occult texts. Or I guess just- yeah. I guess Occult text-
+
+ART [overlapping]: -spooky books.
+
+AUSTIN: Spooky books is what we mean. Cause you could roll for- you could get this bonus on religious texts,
+
+ART: Sure.
+
+AUSTIN: If they’re spooky religious texts.
+
+ART: Spooky religious texts. I’m gonna write-
+
+AUSTIN: Strange texts. Write spooky books, you know? Previous season- we always get a fun phrase, cultivate saplings you know. Starting fires. This year, spooky books.
+
+ART: Yep.
+
+AUSTIN: Anyway. Duvall, give me your roll here. Discern + Mastery + Ali is helping.
+
+ART: So that’s plus one?
+
+AUSTIN: Standard, plus one from the help, yes correct.
+
+ART: Roll.
+
+AUSTIN: Ey! That’s a critical success! Increasing the outgoing stress dice- so you super get what this is. You find this and it’s gonna be cheaper for you on a critical success. This is gonna be a D8 resource available to you, but you’re gonna be able to buy it for D6 instead. And- so actually with a crit maybe it goes the ot- maybe it’s actually like, nah I’m gonna say it’s a D8 resource that you can use, right? God is it actually- maybe it’s not a resource. Maybe this equipment, maybe this is some sort of- oh cause you already have Delve equipment. So yeah, it’s a resource. Is it a book about a specific renowned thing? Or is it a book about a collection of renowned things? What do you- what’s more exciting for you Art?
+
+ART: I think like a book about one thing has like a certain-
+
+AUSTIN: Yeah.
+
+ART: Like,
+
+AUSTIN: It fits the character mould a lot, right?
+
+ART: But I don’t have like the, what I think the thing should be.
+
+AUSTIN: Listen, turning to lots of generators today. So. Let’s hit this button and see what we got. Isn’t this. This generator’s annoying. These are all just gems, that doesn’t- it doesn’t help me at all! It’s just finding gems!
+
+ART: [chuckles] A really big gem.
+
+AUSTIN: Is it a- I’m trying to think of a fun thing that’s connected to what your vibe is already. It’s some sort of- I don’t wanna just do Dorian- the Portrait of Dorian Gray. Does anyone have a good other type of portrait? Like some sort of mystical or cursed or otherwise enchanted portrait that doesn’t just fall into Dorian Gray shit?
+
+ART: There’s like-
+
+JANINE: Epic Mickey?
+
+AUSTIN: Thanks Janine.
+
+ANDREW: Mario 64.
+
+AUSTIN: [sighs] Okay.
+
+ART: L5R had that thing where like if you were a really good painter you could like paint a painting you could then like walk into?KEITH: Stephen King wrote that book where you paint something and it becomes a horror nightmare in your Florida Keys home.
+
+AUSTIN: Does anyone else have anything deeply revealing about themselves to share with their references all come from? [chuckles]
+
+JACK: What about if it’s a portrait of someone facing away from the painter, so they’re not painting their face at all, but what the portrait- the painter has picked up on is a figure in the background who has been painted with the level of intensity and detail suited for the portrait sitter themselves?
+
+AUSTIN: The subject. Yeah, the portrait-sitter, yeah. What is there- oh! I’m reminded of the Zahir.
+
+JACK: That’s the name of the painting, uh huh. I’m reminded of the Zahir.
+
+AUSTIN: Do y’all know the Za-?
+
+JACK: I have no idea what you’re-
+
+AUSTIN: Me, dragging everyone else for referencing niche things that they love- not that Stephen King stories are niche but you know. In the Borges story- [Art and friends start laughing] the Zahir-
+
+JACK: Yes Austin?
+
+ART: I think the most mainstream reference we’ve ever made.
+
+AUSTIN: We’ve ever made here. The Zahir is- you- the book explains that there is- I’m gonna modify the Zahir a little bit. It’s exactly what Jack just said, that’s what the portrait- or what the painting is. But the, the thing that happens is, anyone who finds- anyone who looks upon the painting is shaped forever to become one of two different people? It’s either their apprehension of who the portrait-sitter is whose face they cannot see, or it is the background subject, the person who is passing by, who is captured in the rear of the background of the portrait. And it is about like, this portrait, just seeing this portrait, maybe it’s owning and hanging it in your home for some amount of time, and sitting and reflecting on it, will shape you to become your understanding of who that person is. This is not what the Zahir is. The Zahir is similar and I’ll talk about it off mic at some point. But it is this thing that is tied very much to the thing that you’re interested in Art, is like, how does a person become a person they are, or what shapes them.
+
+ART: Turns out a painting just makes you do it.
+
+AUSTIN: Uh huh, yeah. So yeah, that is what it is. And it’s- there is a, a sort of- part of this book is a line of providence that kind of tracks who has owned this painting over time? And it includes the current owner of it. Or maybe the last- maybe the last known owner of it. 
+
+ART: Sure, well probably before copyright dates, it’s hard to even tell when those were written.
+
+AUSTIN: Totally, definitely. But it’s been lost since then, but the last time it was held was by a collector- I’m gonna give you three places that you can choose from. Because I want you to help direct- if you want to follow this thing, where it’s gonna take you.
+
+ART: Right.
+
+AUSTIN: Either the Ringed City of Concentus. Probably the northern end in the Unschola Republica part of it where the mages are.
+
+ART: Mmm.
+
+AUSTIN: So up there, across the mountains and into the west in Concentus. In Sapodilla, which is the seaside town to the- or city, to the south, which is this kind of tiered, beautiful seaside- it’s not a metropolis, but it’s one of the largest cities inside of the Ringed City of- in the main Sangfielle like territory? We said in a previous episode that some of y’all, I think specifically Lyke and Es had been there before and had done some work for Dayward YVE there. And it’s just a big city that has like, you know, also might’ve been where the ball was that Es and Virtue got run out off because of being too spooky? You know, it’s a big cultural center and lots of money is there. Or Vish, the town where the fish jerky is from. It could’ve been owned by a private collector who lived in Vish. Up to you to decide where, which of those three places are.
+
+ART: Do you want me to pick right now?
+
+AUSTIN: I mean if you have a strong inkling.
+
+ART: Alright. My early inkling is Sapodilla.
+
+AUSTIN: Okay. Yeah, Sapodilla’s a cool place as far as I know.
+
+ART: And the rest of the book is like critique, it’s like,
+
+AUSTIN: It’s critique, I think it’s theory and argument, like if we could lean into the Borges-ness of it right? There’s an entire section of it that’s epistolary back and forth like a collection of epistolary debates between two art critics/magicians who are debating whether there’s any magic in this thing at all or if the story has convinced people there is magic, and that’s why they end up shaping themselves. And it’s examples of it happening right, it’s someone who’s studied the painting because they believe that the person who is sitting in it was a successful business person and so they became a successful business person. And then there’s counterexamples where people say that like, I read this diary entry from someone who is studying the painting and they insisted that the person in the back was a great beauty, but as they continue to study it over time, their own you know, face and body and presentation became increasingly repulsive to those around them. And so how could that have worked? And there’s debate about you know, you know what I mean. This is the type of story it is. You’ve read Borges.
+
+ART: Yeah, this is also a lot like, one of the bits in the King in Yellow which I read specifically to prepare for this season. So that’s helpful.
+
+AUSTIN: There we go. Love it.
+
+ART: Great. What did this cost me?
+
+AUSTIN: This cost you a D8. Or a D6, because you crit it. So a D6.
+
+ART: Alright so I’ll give them half of my scrip. Making it go from a D8 to a D6.
+
+AUSTIN: You get some change. You’re gonna get change not in scrip here. I think you get back a D6 like bag of coins or something.
+
+ART: Oh does that have a different domain?
+
+AUSTIN: Ooh! Hm, that’s interesting. They’re gonna spend- no, still Haven. Haven domain.
+
+ART: Okay. Great, and this is equipment, the book is? Or it’s a resource.
+
+AUSTIN: No it’s a resource, it’s a D8 resource. What did we say the name of the painting was? We had something and then we lost it.
+
+ART: No I don’t think we had a name of the painting.
+
+AUSTIN: It’s fine. It was a joke, it was something like, the name of it is the Zahir or something like that? Which I don’t mind being directly referential.
+
+JACK: It was like Remembering the Zahir,
+
+AUSTIN: Yeah.
+
+JACK: Or Remembrance of the Zahir or something.
+
+AUSTIN: Yeah, write one of those down Art.
+
+ART: Z-A-H-I-R.
+
+AUSTIN: Z-A-H-I-R, correct. Correct.
+
+ART: And that’s an Occult tag?
+
+AUSTIN: I’d say that’s an Occult- it’s an Occult tag, yeah, sounds good. Love to learn about cursed paintings.
+
+ART: Cursed paintings are great.
+
+AUSTIN: What’s up, we haven’t heard from you yet, Es. What are you up to today?
+
+JANINE: Yeah, I’ve been like weighing what I wanted to do cause I had like an idea in mind and then I realised it didn’t really like, game economy-wise didn’t make sense.
+
+AUSTIN: Uh huh.
+
+JANINE: Which was that, you know, everyone- what other people came back with like, buboes and like weird [people chuckle], and like fantasy transdimensional fantasies or something?
+
+AUSTIN: Yeah, uh huh.
+
+JANINE: The thing that happened to me was I fucked up my shoes a bit? Kind of like the heel’s loose, we described it as? The heel on one of them came loose because I was wearing my fancy shoes while climbing up a bad hill, was a little rough.
+
+AUSTIN: Yeah.
+
+JANINE: And then the heel’s also wobbly to walk on? I really wanted a scene of like, getting them fixed up? But-
+
+AUSTIN: Yeah.
+
+JANINE: Because, because I have three Supply stress and minor Supply fallout minus two that’s attached to these boots, it feels- and the boots are a D4 resource in a domain that I don’t even specialise in. 
+
+AUSTIN: Yeah.
+
+JANINE: So it kinda feels stupid- it feels like a mistake to repair the boots? It feels like the smarter move is to take the minus two, roll it like spend them as a D2 to sort of lessen my Supply stress?
+
+AUSTIN: Yeah. Right.
+
+JANINE: Right?
+
+AUSTIN: Yes, but would you- yeah.
+
+JANINE: It’s tough because like I feel like that’s a much less interesting thing, that’s like deeply uninteresting?
+
+AUSTIN [overlapping]: This is extremely math-y. Yeah, uh huh.
+
+JANINE: But also it doesn’t make sense to do anything else. It just fully does, it feels like a waste of time.
+
+AUSTIN: Yeah, just flip em real quick, right? We don’t need to zoom in on this. We can roll the D2 to- are you trying to heal? Are you just trying to heal your Supply stress with them basically?
+
+JANINE: Yes. Yeah.
+
+AUSTIN: That’s basically- so roll, roll I guess the thing is they are busted up right?
+
+JANINE: Yeah.
+
+AUSTIN: So that’s why they’re only worth d-
+
+JANINE: I think by the time- like what we saw on camera was that the heel came loose when Es like slipped and I think probably like by the time they get back to town, that heel is like hanging on by a thread, she probably had to take her boots off to walk the rest of the way. 
+
+AUSTIN: Right.
+
+JANINE: And has been kind of making do without, or like you know, no one else has shoes in their resources so I’m assuming I can still have shoes, just not these shoes? 
+
+AUSTIN: Yeah, you could definitely have shoes. You just have- you decided to have really nice shoes.
+
+JANINE: Yeah, and I think we get that, we probably get that moment of like you know, when you wear inappropriate shoes somewhere, and something bad happens and you’re like well, this is my fault, really.
+
+AUSTIN: Aww. So yeah, just go ahead and give me a straight D2 roll that I guess reduce whatever that roll is from your Supply stress if that’s what you’re- quick and easy version of this is you know?
+
+JANINE: I think so. One, great.
+
+AUSTIN: Alright, reduce one. So that’s fine. It is what it is.
+
+JANINE: Yeah.
+
+AUSTIN: So drop that Supplies down to two stress. It’s better, it’s certainly better. Alright. Any- do you wanna do anything else, do you wanna get anything else done here?
+
+JANINE: Yeah, I hadn’t done anything at all yet, so I think-
+
+AUSTIN: Yeah.
+
+JANINE: That’s my one action. My other action is I wanna find like, like, I’m trying to think because it’s like a very active day and there’s a lot going on, and I want something that’s. I wanna do something meaningful to sort of highlight this major beat that I have. And meaningful I don’t think is like, and then Es spends the rest of the day inside writing in her sexy rat god notebook. And so I think the like more interesting thing is for her to use the opportunity of like you know, there’s like a market opening and there’s this other thing in town and this train showed up, to be like, I want to talk to a journalist. 
+
+AUSTIN: Oooh.
+
+JANINE: I want to find a journalist, I want to find someone who’s writing for the local tribune or whatever.
+
+AUSTIN: The- the paper of record in Sangfielle is the Rider’s Almanac, which is- or the Almanac of the Heartland Rider. It’s called an almanac but it’s really a journal? It started as a yearly almanac and because things in Sangfielle are so hectic and change so much, they started needing to publish multiple editions a year [Art chuckles] until eventually it just became a newspaper. In fact if you go back to the Blackwick Group’s intro to episode four, it opened with an editor of- the editor of the Blackwick- of the Heartland Rider introducing the Blackwick Group because your story is being told in it this volume of the Heartland Rider. So yeah, you can find someone who writes for that. Let me see if I have a name on hand. That sounds like a fun thing. I think someone who like, got off the train, maybe, you know? 
+
+AUSTIN [continued]: The train as you approach it, I’ll give you a little bit of detail on that just so you can get the vibe. It is called The Grand Cormorant Limited. It is, as I described to Chine as Chine was waking up, kind of brown and gold, it’s very like luxury, it’s very luxe in a time you know, time-appropriate way here. There is a large cormorant like on the front of it? Almost like a- what do you call on the front of a ship? Like a mast- not a masthead, is that right?
+
+ART: Isn’t it?
+
+AUSTIN: Not a masthead, a-
+
+JANINE: Isn’t it called like a mast figure- like a- not mast figure,
+
+JACK: Oh, figurehead.
+
+JANINE: Figurehead.
+
+AUSTIN: Figurehead. Figurehead. In any case, there is a cormorant there like, it’s not on the front in the same way, it’s more on the front the way like, it’s like- it’s not prodding forward in that way, it’s just more like there is a design built into the curved front of the engine, right? Of the front engine. And standing at the station is a woman, a human woman who is dressed like a ringmaster. Like with a black top hat and a red you know, coat with long tails, and big black boots. And you know, sharp white blouse that like is a little fancy. And has a cane. And she’s holding court with people. And among the people at a distance, taking notes, is a journalist of some sort. They are- I think that they are an Ojantani, big buffalo person, right? And they have like a big notepad in their hands and a giant pencil or pen scribbling notes here. White shirt with suspenders, if you can imagine a buffalo wearing like a newscap, that’s happening here [chuckles]. Big pants, big shoes, I think like kind of like reddish brown fur, and they kind of- they’re very obviously, I think maybe they even have a press badge. And they have some luggage you know, seated in front of them. And you hear them under their breath saying like,
+
+AUSTIN (as Ojantani journalist): They’re just saying the same thing now. I guess that’s that.
+
+JANINE: For a second I forgot that this wasn’t the ringleader person.
+
+AUSTIN: No, this is not the ringleader-
+
+JANINE [overlapping]: Yeah, I was getting confused in my head.
+
+AUSTIN: The ringleader person- yeah, this person just looks like a news- kind of like a news boy but like they are clearly a journalist. The spiel that is being repeated now is about this train. Which again is called, and she reminds everyone repeatedly, actually the way she says it is,
+
+AUSTIN (as Chantilly): I am Miss Chantilly Scathe, and this is my shackled train, The Grand Cormorant Limited! 
+
+AUSTIN: And the spiel she has is that she has done what no one adventurer and what no Shape Knight and no occultist and no mayor could ever do. And that’s put a leash on one of these goddamn trains that spoils things for all of us. And to prove it, she like talks about all the places she’s been to, and does a whole spiel about you know, from-
+
+AUSTIN (as Chantilly): I’ve been to all five corners of Concentus on this thing. I’ve moved on tracks people don’t even know exist.
+
+AUSTIN: And it is like very much running game, you know what I mean? But also a bunch of people got off the train. A bunch of people who seemed to safely travel on this thing from far and wide. And you know, there is also a shop element of this, where one of the train cars is effectively a traveling gift shop that has stuff from all over- all over the Heartland? Different postcards from different places, and different memorabilia from various temples. All sorts of shit is going on here. So, and she’s kind of selling it as the most deluxe way to travel, the safest and most enjoyable way to travel across the Heartland. And at this point, this journalist has written all this down like twice and is like, alright, there’s nothing new here. So. What do you, how are you rolling in on this?JANINE: So can I double check what their pronouns are?
+
+AUSTIN: The journalist is they/them.
+
+JANINE: That’s what I thought, okay. I think then Es kind of like sidles up. She’s- I wanna say wearing like one of those- I don’t remember the name of this kind of skirt. But it’s like, the very tight fitted- it’s not a mermaid skirt because that’s anachronistic, but for the time is kind of fitted on top, a bit of flare on the bottom, room for the bust, a little bit of bum roll in the back. And then a nice white blouse that’s tucked into the skirt. Very classic silhouette, very big hat also. And I think she like sidles up beside them and sort of has to reach up tilt her hat so that it doesn’t like smack them a little bit because the brim is so wide?
+
+AUSTIN: Uh huh.
+
+JANINE: You have to kind of peel the brim back so you can lean and peek at their notes. And she’s like being I think very obvious about it? In a way where she’s like trying to be cute. She’s trying to be like, whatcha writing there? Like that kind of-
+
+AUSTIN: They like pull the notepad a little away, like.
+
+AUSTIN (as Myron): Excuse me, can I help you? Myron. Myron Andrashi. Almanac of the Heartland Rider. You from here?
+
+JANINE (as Es): As much as most people are, I guess? Sure.
+
+AUSTIN (as Myron): You get a good look at this train?
+
+JANINE (as Es): It’s a little spooky, isn’t it?
+
+AUSTIN (as Myron): It is a little spooky- I’ve ridde on it, and completely ride. Couldn’t quite knock the feeling that there was something a little off.
+
+JANINE (as Es): Mmm. Are you writing about that?
+
+AUSTIN (as Myron): I’m writing about- I write about a lot of things. What-
+
+AUSTIN: A little bit like, put off by how forward you’re being at this point. And they kind of take a step back
+
+JANINE (as Es): I’m not with a rival paper-
+
+AUSTIN (as Myron) [overlapping]: You’re not with a rival paper-
+
+JANINE (as Es): -I don’t think there is one.
+
+AUSTIN (as Myron): I was about to ask if you happened to be from some sort of rival upstart.
+
+JANINE (as Es): No.
+
+AUSTIN (as Myron): Good to know.
+
+JANINE (as Es): I don’t have the tenacity to start my own paper here.
+
+AUSTIN (as Myron): So what do you know about this place? Are there any stories I should be chasing down in Blackwick?JANINE (as Es): Oh I don’t know. I’m actually writing a story myself, and I saw you scribbling away, and I thought you know, I’ve never written before? And kind of want to see how a pro did it.
+
+AUSTIN (as Myron): Well I am a writer really, not really an editor at this point in my career.
+
+JANINE (as Es): No! I don’t- I don’t mean that you should- I don’t have enough to edit, even really at this stage, I haven’t been at it too long.
+
+AUSTIN (as Myron): Sure.
+
+JANINE (as Es): I do just wonder how one develops their lens for- even events like this that when written poorly could be quite mundane.
+AUSTIN (as Myron): My lens.
+
+JANINE (as Es): Your lens, of course.
+
+AUSTIN (as Myron): Geez.
+
+AUSTIN: Can’t say geez, geez doesn’t exist, we’ve been over this.
+
+KEITH: Except for my character Jesus Christ.
+
+AUSTIN: Right.
+
+KEITH: You’re talking about me, the famous Jesus Christ, Junk Mage. [friends chuckle]
+
+AUSTIN: Junk- the Junk Mage, Jesus Christ. Yeah.
+
+AUSTIN (as Myron): Lens, that’s. Kind of more you know. Work a day sorta journalist here myself but. I’m sorry what was your name again?
+
+JANINE (as Es): Es.
+
+AUSTIN (as Myron): Es. Just Es?
+
+JANINE (as Es): Just Es. Two letters. E-S.
+
+AUSTIN: Looks down at their notebook or notepad and writes down E-S, and says.
+
+AUSTIN (as Myron): Alright look. You find me a good meal in this town, I can give you some basics about how what my lens is.
+
+JANINE: What does that look like?
+
+AUSTIN: I mean, they’re saying like take me to dinner and I’ll talk about how I write.
+
+JANINE: No, I know that, but does that mean I have to find a restaurant that accepts larkspur engraved blackened bone whistles?
+
+AUSTIN: I didn’t say that they were gonna like- that you have to pay for it-
+
+JANINE: Oh okay, I thought I had to buy food.
+
+AUSTIN: No, no!
+
+JANINE: Okay. Okay.
+
+AUSTIN: They’re saying, take me out to dinner- or you know, they’re saying, bring me to a place and we’ll talk.
+
+JANINE: Okay.
+
+AUSTIN: But also this is a- this is a weird town that lives on- that does live on barter right? So. And you do have that scrip, so it’s not like you couldn’t.
+
+JANINE: Yeah.
+
+AUSTIN: You know, buy some stuff.
+
+JANINE: I almost wanted to offer to cook for them.
+
+AUSTIN: That- I think they are not as interested-
+
+JANINE: No. Okay, okay. We can-
+
+AUSTIN: I think. That’s a little again so, I’m not-
+
+JANINE: So, I didn’t mention before when we were talking about where everyone lives. But I imagine that. I picture Es like living in the top floor of a saloon, like renting out a room, specifically somewhere like I think the hotel is probably where you go if you want to rent a room where it’s quiet?
+
+AUSTIN: Yeah.
+
+JANINE: I don’t think Es is as concerned with the quiet? I think she probably likes being around people more and kind of likes the sounds of life and activity around?
+
+AUSTIN: Is this the saloon that everyone messed up at the end of the worldbuilding game?
+
+JANINE: Uh, oh right, that did-
+
+AUSTIN: And has since been- [Keith chuckes] remember everyone just had a huge party?
+KEITH: Forgot about that.
+
+JANINE: It’s been some time.
+
+AUSTIN: Yeah, I’m just saying. I’m just asking if it’s the same saloon.
+
+JANINE: Sure, why not?
+
+AUSTIN: Yeah. Alright. Yeah, you can take this person to whatever that saloon is- we’re gonna need a name for that saloon. I don’t have a good, fun saloon name, please let us know.
+
+JANINE [overlapping]: The Painting of the- whatever the fuck, what was that?
+
+AUSTIN: Uh huh, yeah, great.
+
+JANINE: Epic Mickey. [someone snorts]
+
+AUSTIN: The Epic Mickey saloon, got it. [Janine chuckes] Alright. Yeah, so you go there and then yeah, I think that they give you the basics, right? And this is a major thing, so this is not gonna happen today obviously. But you’ve met a bard in some instance here and have made this connection. They’re very reserved, but also very tuned in. You get the sense that they are, that they are reading people in this room and trying to put together facts about Blackwick even as they talk to you about you know, writing a good lead, you know? And telling you what works in various part- you know, what works in Sapodilla isn’t what works in Vish. Unfortunately you got to appeal to Sapodilla because that’s where the most people are-
+
+KEITH: They’re always saying that. Classic phrase.
+
+AUSTIN: Always saying that.
+
+KEITH: What works in Sapodilla isn’t what works in Vish.
+
+AUSTIN: In Vish, you know? So yeah. I know we’ve been going on for a bit here, but I know a couple people have some other things. Chine. I know you got a big thing that you wanted to do.
+
+ANDREW: Yeah!
+
+AUSTIN: How do we lead into it?
+
+ANDREW: Do you think- has this happened like when Chine first woke up, or this like an end of the day thing?
+
+AUSTIN: Maybe it’s an end of the day thing. So maybe we should wrap- maybe we should end on this thing for you.
+
+ANDREW: Yeah.
+
+AUSTIN: At least, or at least- or you could go back to sleep in the middle of the day. [Andrew laughs] But that’s up to you. We- I guess I should ask, does anyone else have any other things they want to do today during all of this?
+
+SYLVIA: I kinda do but I- it’s more like I have a result I’m trying to get to as opposed to like, knowing the steps to get there?
+
+AUSTIN: What’s the result that you’re looking for?SYLVIA: I’m trying to- I don’t think that I can resolve this fallout,
+
+AUSTIN: Mhm.
+
+SYLVIA: According to the rules, but I think I can make it less severe.
+
+AUSTIN: Yeah.
+
+SYLVIA: But I need like a Religion place to do that, right?
+
+AUSTIN: This has a Religion- we’re in a Religion place.
+
+SYLVIA: Okay, cool!
+
+AUSTIN: Blackwick has Religion and Haven, yeah.
+
+SYLVIA: Can I use this Hymnal of the Mother-Beast then to recover?
+
+AUSTIN: Oh, sorry! You’re looking- I’m sorry, I didn’t understand what you were trying- you’re trying to recover the-
+
+SYLVIA: Fallout.
+
+AUSTIN: The despair fallout, which is a Mind fallout.
+
+SYLVIA: Yeah.
+
+AUSTIN: You can recover Mind fallout at the automat.
+
+SYLVIA: Oh, shit!
+
+AUSTIN: That’s one of the places you can go to recover fallout. So yeah, you could just spend a D6 resource and have a nice day at the automat?
+
+SYLVIA: Oh I can spend a- okay, cool.
+
+AUSTIN: Just hanging out.
+
+SYLVIA: Here’s my bag of interesting teeth? [Austin sighs, Keith and Sylvia laugh]
+
+AUSTIN: I think that there’s like, I think that there is a scrip automated like, a slot to feed scrip into? For the automat. And then also just a drawer that you load something into and then there’s a person on the other side of the automat who’s like. Yeah I guess this is about D6, I guess this is about a D6 bag of interesting teeth. Take your cherry pie and your-
+
+SYLVIA [overlapping]: There’s some very interesting teeth in there!
+
+AUSTIN: -eggs or whatever.
+
+KEITH: I guess they are interesting.
+
+AUSTIN: Pretty interesting teeth.
+
+KEITH: I was grossed out but I guess this is pretty cool.
+
+AUSTIN: So yeah, you could just straight up, that’s a D6 resource, you can clear that minor fallout right away.
+
+SYLVIA: It’s a major fallout.
+
+AUSTIN: Oh that’s a major fallout!
+
+SYLVIA: Yes, this is the thing.
+
+AUSTIN: I see, I didn’t realise that was a major fallout.
+
+SYLVIA: Yeah.
+
+KEITH: Yeah, you’re extremely despaired.
+
+AUSTIN: Geez, when did you get a-
+
+SYLVIA: I am extremely despaired and it’s great because Religion is one of my main things.
+
+AUSTIN: Yeah, read me that for people to remind them what the situation is?
+
+SYLVIA: “Your mind races with the implications of what you’ve seen. Your life before seems unreal and distant. The GM picks a domain that you have access to and you no longer have access to that domain.”
+
+AUSTIN: That’s brutal. That’s pretty rough.
+
+SYLVIA: I believe I got some sort of- yeah it was cause the magistrate like-
+
+AUSTIN: Yeah.
+
+SYLVIA: Fucked my shit up and I remembered that there’s like vampire hunters and shit that could get me.
+
+AUSTIN: I remember this now. So here’s the thing, I’m wrong. You cannot cure that here.
+
+SYLVIA: Cool!
+
+AUSTIN: You need to find a place in the world that has Mind D8 healing. Which- you should basically, we should talk about what the next Delve will be off-mic.
+
+SYLVIA: Cool.
+
+AUSTIN: And you should be aiming to go somewhere that will have something like that available to you, because that’s just not available here.
+
+SYLVIA: Yeah, that’s why I asked, cause I was like, major seemed way more comp- like involved than minor ones.
+
+AUSTIN: Oh yeah, definitely. This is a place where you could heal major Supply damage, Supply fallout. But you can’t do it with Mind and Blood, the other ones that are here, unfortunately. 
+
+SYLVIA: So I still have my interesting teeth.
+
+AUSTIN: You still have your teeth, keep your teeth. Those teeth are for the future.
+
+SYLVIA: Thank goodness.
+
+AUSTIN: Again, off-mic let’s figure out what the next Delve is, and you know, the thing that’s gonna happen here is I know you’re interested in this, I’ll introduce an opportunity when we’re back to Delving for you to go to a place that could heal that. But I guess a place you could go is back to the priory. I think the priory maybe had that sort of healing available to you. I don’t know that maybe you want to go back there with the stolen holy book you took from them. 
+
+SYLVIA: Hey guys, just coming to return this but I need a favour first.
+
+KEITH: I walked out with this totem stick.
+
+SYLVIA: Yeah, it was in my bag and I totally spaced. I forgot to pay for it.
+
+KEITH: It totally spaced itself into my bag, and then I totally spaced it out of here [Keith and Sylvia laugh].
+
+SYLVIA: Alright, well I guess-
+
+AUSTIN: Also they did not- that place was not cool enough to have Mind healing unfortunately. So yeah, even that won’t- you have to find a new place.
+
+SYLVIA: I don’t think I really have anything for Virtue then. Like,
+
+AUSTIN: Yeah, no one at this point is stopping you from claiming knowledge at this place-
+
+SYLVIA: Yeah.
+
+AUSTIN:  -at this moment anyway. If were going to try to break in somewhere and try to steal some shit maybe, but. That’s a whole thing.
+
+SYLVIA: For flavour purposes I can give what she’s been doing which is mostly trying to take notes on this hymnal thing and-
+
+AUSTIN: Totally.
+
+SYLVIA: Smashing her head against the wall.
+
+AUSTIN: Totally. Here’s what I’ll say is, if you want to, I think you could- because you have this book, what I’m going to say- and you’ve been doing this? I’m going to say you can, and write this down somewhere. You can basically not spend, but- maybe I’ll do it this way. You’ll get mastery on your next Religion roll because of this book? But that’s one time, you know what I mean?
+
+SYLVIA: Okay.
+
+AUSTIN: You’ve been studying it, if you- by kind of using that downtime action for that reason, you’ll get that +1 mastery on your next Religion roll, but you still don’t have Religion, unfortunately.
+
+SYLVIA: Okay. I will add that to my notes.
+
+AUSTIN: Yeah just so you know, try to remember.
+
+SYLVIA: Also sleeping situation, there is a coffin in the back- [someone chuckles]
+
+AUSTIN: Great.
+
+SYLVIA: Of the headquarters everyone has. And she just sort of comes out of that looking as she does everyday. Doesn’t ever explain. Just perfect out of- straight out of the coffin.
+
+AUSTIN: Mhm.
+
+ART: How much explanation does that really need?
+
+SYLVIA: I don’t know! Also it’s got a lot of dirt.
+
+KEITH: I’m curious- you know you wake up, your hair's a mess, it should be a mess. That’s creepy.
+
+SYLVIA: But it’s not!
+
+ANDREW: It’s not.
+
+SYLVIA: She’s a vampire. They work in mysterious ways.
+
+JANINE [overlapping]: Can I request a- I want a flavour moment where like just one, just one day, you know there’s like maybe there’s two parasols leaned up by the door and there’s, Virtue’s practical parasol, and there’s Es’ like lace, completely useless parasol. And one day Es goes out and takes the practical parasol and leaves the impractical lace parasol [Sylvia laughs].
+
+AUSTIN: Oh no!
+
+JANINE: But then realises the mistake and rushes back like an hour- she got pretty far out before she realised the mistake then she rushes back. Like oh my god I’m so sorry! THat’s it. I just thought that would be fun.
+
+AUSTIN: Please!
+
+SYLVIA: I love that! Virtue’s just like waiting back at the place with her arms crossed the entire time.
+
+AUSTIN: What’s the thing you wanted to do.
+
+KEITH: I have got- I have Aterika’Kaal the harmful god sapling?
+
+AUSTIN: Yeah, uh huh.
+
+KEITH: And I wanna-
+
+AUSTIN: That no one knows you have.
+
+KEITH: No one knows that I have this. I would like- I wanna do something with it. There’s all these different things that I could read a book, I could look at it real close, I could try to find someone who knows something about things like this. The nuns maybe know something, about you know, weird old gods? So, I’m not exactly sure like where-
+
+AUSTIN: Yeah, where Lyke is at in terms of what is interesting here. 
+
+KEITH: Like I have all of these different things that I could do with Aterika’Kaal and I- I don’t, I think maybe talking to someone about Aterika’Kaal would produce the most interest? I don’t know about the most effect is definitely going to introduce some sort of risk to it.
+
+AUSTIN: Yeah.
+
+KEITH: I mean we know it won’t.
+
+AUSTIN: I mean. What do you mean it won’t, it will, unfortunately. Anytime you tell- you know, you tell anyone a secret, what’s the saying? Don’t tell secrets.
+
+KEITH: Don’t tell secrets.
+
+ART: That’s the saying.
+
+ANDREW: Secret secrets, don’t tell ‘em.
+
+KEITH: Secret secrets, don’t tell ‘em.
+
+ART: Don’t tell secrets.
+
+KEITH: All of that is, secrets, don’t tell ‘em. Secret secrets don’t tell ‘em.
+
+AUSTIN [overlapping]: Secrets don’t tell secrets.
+
+KEITH: Secret secrets don’t tell secrets don’t tell ‘em.
+
+AUSTIN: Don’t tell- that’s like a- definitely a new wave song’s hook, right?
+
+KEITH: I have a wall scroll that says that in-universe.
+
+AUSTIN: You know who could help you is- I mean, in terms of religious people in town, there’s Stanislaka the nun of Slumbous.
+
+ART [overlapping]: WOOOH! Yeah!
+
+AUSTIN: Is probably the most knowledgeable- [Keith laughs, Austin chuckles] Probably the most knowledgeable religious figure in town.
+
+KEITH: Nunbous. [Andrew and Ali laugh]
+
+AUSTIN: The Nunbous. Do you go see Stanislaka?
+
+KEITH: Yeah, that’s a good- that’s a good first step. You go who knows the most about religion, it’s the nun of Slumbous.
+
+AUSTIN: Ali can you remind me what Stanislaka the nun of Slumbous is like?
+
+ALI: Like what her vibe was?
+
+AUSTIN: Yeah, I remember like, pleasant and-
+
+ALI: Yeah!
+
+KEITH: Giving- interested in this? [Ali chuckles]
+
+AUSTIN: Interested in helping people named Lyke-
+
+ALI: Yeah yeah yeah. The whole thing is that like, she had come up through the conclave right, so she sort of understands the sharing aspect of these things that’s like.
+
+AUSTIN: Of the- yeah.
+
+ALI: Tries to be compassionate to other people’s beliefs while being like, here’s your candle.
+
+KEITH: Correct me if I am wrong though, there was some sort of an air of like, there was sort of like a startling ambition though as well. [Ali laughs] Right? Like, all of a sudden, Slum- like, basically overnight Slumbous turns into the hottest shit under the candle. [Ali laughs more with Austin] It’s like hot under the sun but under the candle-
+
+ALI: Yeah.
+
+AUSTIN: I got it. Yeah. We’re all-
+
+ART: Wait I don’t get it.
+
+SYLVIA: Is the sun big candle?
+
+ALI: I bet she’s-
+
+JANINE: Which is why Slumbous became popular because they got rid of the “put your shit under the candle” part of the whole doctrine.
+
+AUSTIN: Right, right.
+
+JANINE: That was kind of holding the faith back.
+
+KEITH: So that’s. That’s just my secondary read is that like, all of the sudden under the new nun, Slumbous becomes a sensation overnight.
+
+AUSTIN: That’s kind of- also there was the curing of the curse-
+
+ALI: Yeah, immediately after-
+
+AUSTIN: That- that kind of connected and made a good case for Slumbous.
+
+KEITH: Yeah.
+
+ANDREW: Do you remember if Slumbous-
+
+KEITH: Someone’s gotta be there to make the case.
+
+AUSTIN: Right, and it’s Stanislaka. Do you remember if Stanislaka was human, or Ojantani, do you remember what? Did we even say?
+
+ALI [overlapping]: Oh, she was- she was a- yeah you put it in the description. She was a buffalo person.
+
+AUSTIN: Mmm. She’s a big buffalo person? Love it. Well then yeah, that’s what she is. She’s an Ojantani. And yeah I think she’s in the now larger than it was during the Ground Itself game, the Boundless Conclave like church or whatever, right? Like I think that the Boundless Conclave congregations-
+
+KEITH: The money came in additions?
+
+AUSTIN: Money came in for additions, you know? People out here worshipping Slumbous. More guests coming to town means more people who wanna come to town and you know, do their own prayers and stuff, and so there needed to be more stuff.
+
+ALI: That basket that you hand around for like donations and stuff was full, the curse- the day after the curse broke.
+
+AUSTIN: Are you kidding me? The whole year it was just like hooo! It’s coming in. And so yeah, that did well. It did well and they picked up some extra you know, lots of land they bought out, the hardware store next door, expanded out that way, you know?
+
+ART: Well where-
+
+SYLVIA: -hardware store.
+
+AUSTIN: They just moved the hardware store. The hardware store is also doing well, and so they moved to another bigger place, up closer to the mine. They’re in the Open Hand trade market now, you know?ART: Good for them.
+
+AUSTIN: Yeah! Yeah, every- you know. Everything- rising tide.
+
+ART: Yeah.
+
+AUSTIN: Hides the skeletons.
+
+ART: Rising tide-
+
+AUSTIN: Is what they say here in Blackwick.
+
+ART: Lights all candles, is what they say here.
+
+AUSTIN: [chuckles] That’s what they say! So yeah Stanislaka is here, and it’s the weekend but I don’t think- I think we’re post-services for the day. And so she is just kinda you know, handling nun business, attending to the various parts of the shrines and all that.
+
+KEITH: Can I sort of knock on the wall or the open door? To be polite?
+
+AUSTIN: Oh! Have you met this person before? Have you met Stanislaka before? Or no.
+
+KEITH: I- yes. I think I would have had to.
+
+AUSTIN: Yes, okay then. Then she says,
+
+AUSTIN (as Stanislaka): Oh! Mr. Lychen, how can I help you today?
+
+KEITH (as Lye): Hi.
+
+AUSTIN (as Stanislaka): Services are unfortunately over, but we would love to have-
+
+KEITH (as Lye): That’s actually good. I have something. I have some private questions to ask.
+
+AUSTIN (as Stanislaka): I see. Well I am happy to offer my advice and confidence to any member of the conclave and any visitor as well, so. Please, come take a seat.
+
+KEITH: I go over, I sit down, and I-
+
+AUSTIN: She does the same.
+
+KEITH (as Lye): What if you found something extremely powerful. And extremely old. And you wanted to know more about it without dying or killing anyone else.
+
+AUSTIN (as Stanislaka): Well, you really are from Unschola. You really are one of those mages, huh. I would really focus on that latter part, Mr. Lychen.
+
+KEITH (as Lye): Mhm.
+
+AUSTIN (as Stanislaka): The- moving with care. Because all those former things you said, needing to learn more, having something that’s very powerful. All of those things are things that are aided by the people around you. And if the people around you get hurt, then they may not be there for you to reign in that power. Use it for good ends. So I would start by making sure that the people around you understand it and lean on them for support.
+
+KEITH (as Lye): Hmm.
+
+AUSTIN (as Stanislaka): And guidance.
+
+KEITH (as Lye): I have been lying to them about it. They don’t know about it.
+
+AUSTIN (as Stanislaka): Why?
+
+KEITH (as Lye): I explicitly promised that I wouldn’t take it.
+
+ART: That’ll do. [Austin chuckles]
+
+AUSTIN (as Stanislaka): Mr. Lychen.
+
+KEITH (as Lye): I did mean it when I promised when I wouldn’t. It just presented a perfect- it was just- it was right there. And I saw it and I said this, wow. I can fix it.
+
+[Sylvia laughs]
+
+AUSTIN (as Stanislaka): A promise is not a promise if it relies on the impossibility of a good thing crossing your path. A vow is something you must take seriously. And friendship is in a sense a series of vows.
+
+KEITH (as Lye): Mmm.
+
+AUSTIN (as Stanislaka): In your position I would find someone whom you trusted. And whom you could share this information with. And who could ensure that future vows are kept. If you really feel that it’s too late what you’ve learned and taken with those who you promised otherwise, then, what you need most of all is someone else who can serve that role and who can ensure that you do not continue to fall down this route of broken promises. If you’re asking for more practical advice then, there are lots of places to go for information.
+
+KEITH (as Lye): I would love some practical advice, yeah.
+
+AUSTIN (as Stanislaka): There is the great library of Sapodilla.
+
+KEITH: Is that the one I burned, is that the one I got ran out of?
+
+AUSTIN: No, you burned the one, you burned the one up in- you burned one of the ones not even on the map we’re looking at.
+
+KEITH: Oh, Sapodilla is down there, alright, I see.
+
+AUSTIN: Sapodilla is here inside of Sangfielle. 
+
+KEITH: Yeah.
+
+AUSTIN: You burned something up in the Unschola Republica probably way beyond the map that we’re looking at.
+
+KEITH: Right.
+
+AUSTIN (as Stanislaka): You could go to Concentus. You could go to Vish- 
+
+AUSTIN: No you can’t go to Vish for this. Vish does not have any sort of old god shit! 
+
+AUSTIN (as Stanislaka): But there would likely be a specialist in Sapodilla.
+
+KEITH (as Lye): Mmkay. [loud noise] Sorry, I dropped something.
+
+AUSTIN (as Stanislaka): It’s fine. [Ali stifling laughter] Please pick it up. Thank you.
+
+KEITH (as Lye): You want it, or should I just put it back on the table?
+
+AUSTIN (as Stanislaka): You- please just put it back in your- it’s fine. [more noises] 
+
+KEITH (as Lye): Okay.
+
+AUSTIN (as Stanislaka): You’re being very loud, 
+
+KEITH (as Lye): Sorry.
+
+AUSTIN (as Stanislaka): Mr. Lychen. [Sylvia laughs] I’m sorry, was that a piece of driftwood?
+
+KEITH (as Lye): Yeah it was a hunk of driftwood. Do you wanna see it? It’s from the smartly dressed lake god?
+AUSTIN (as Stanislaka): Erlin.
+
+KEITH (as Lye): Erlin, right.
+
+AUSTIN (as Stanislaka): You visited the temple of Erlin?
+
+KEITH (as Lye): Yeah, I visit temples all the time.
+
+AUSTIN (as Stanislaka): Well, I hope that you gave your regards to such a tactful god, I find.
+
+KEITH (as Lye): Yeah. Extremely tactful. Well, okay.
+
+AUSTIN (as Stanislaka): I’m sorry I couldn’t offer any more dramatic counsel.
+
+KEITH (as Lye): That’s fine. I would- I mean I wasn’t loo- yeah I guess I was looking for dramatic counsel but, don’t lie to your friends is I guess good advice.
+
+AUSTIN (as Stanislaka): And find someone who can keep you in check.
+
+KEITH (as Lye): Okay. I could just tell them. They can’t make me kill it.
+
+AUSTIN (as Stanislaka): It’s alive.
+
+KEITH (as Lye): Yeah.
+
+AUSTIN (as Stanislaka): Certainly not, that complicates things even further. I see. Have you-
+
+KEITH (as Lye): Do you wanna see it?
+
+AUSTIN (as Stanislaka): No!
+
+KEITH (as Lye): [coyly] Are you sure?
+
+AUSTIN (as Stanislaka): Certain. Could I offer you a set of candles to pray by this?
+
+KEITH (as Lye): Sure.
+
+AUSTIN: And like, you know, stands up. And you know heads over to like a side cabinet and produces like a special set of candles.
+
+KEITH (as Lye): And which time should these go out by?
+
+ALI: [softly, indignantly] It’s your choice!
+
+AUSTIN (as Stanislaka): It’s your choice.
+
+ALI: [wheezing]
+
+KEITH (as Lye): Well they were special-
+
+AUSTIN (as Stanislaka): You clearly have not been to services lately.
+
+KEITH (as Lye): You said they were special candles! So I thought maybe this one was- you know, they’re not all 9pm candles.
+
+AUSTIN (as Stanislaka): Yes. They, for the time- I would set, in the final moments of the night, when you’re quieting down your mind and your body. Light one of these in place of the candle that is already lit. 
+
+AUSTIN: And turn it off-
+
+AUSTIN (as Stanislaka): Blow that one out, light this one for your final moments of the night. That could be an hour, that could be fifteen minutes. It could only be a matter of moments to sit and think on your condition. If you do this, I think you will find your situation clearer. 
+
+KEITH (as Lye): Okay.
+
+AUSTIN: Hands this over. And then,
+
+AUSTIN (as Stanislaka): Is there anything else? I hope that this can be a guide for you.
+
+KEITH (as Lye): No, I appreciated it! I didn’t know- I didn’t-
+
+AUSTIN (as Stanislaka): Not to lie.
+
+KEITH (as Lye): Well, I didn’t know not to- I did know not to lie, it’s just that I did it anyway. Which is why you know, I wasn’t expecting a sort of prayer gift which I, you know, I- is it rude to say that I’m sort of a collector?
+
+[Andrew laughs]
+
+AUSTIN: I don’t know. A collector is not-
+
+ANDREW: It has a certain connotation.
+
+KEITH (as Lye): I’m fond of the paraphernalia of-
+
+AUSTIN: Oh my god. [someone wheezes]
+
+KEITH (as Lye): I love this stuff.
+
+AUSTIN: Jonah Hill saying stop it.
+
+ART: Can I just say I love this kinda stuff?
+
+AUSTIN: I like your toys and your souvenirs and what not here.
+
+KEITH: I don’t know-!
+
+AUSTIN: Your flair?
+
+KEITH (as Lye): You know, I genuinely use it for magic stuff and to- I pray-
+
+JANINE: You could say I’m a bit of a materialist.
+
+SYLVIA [overlapping]: I love all these trinkets.
+
+ART: I love stealing shit from these kind of places.
+
+KEITH (as Lye): I like fully believe in all this stuff. [Friends laugh]
+
+ANDREW: All the stuff that I firmly believe in.
+
+JANINE: Uh huh.
+
+KEITH: I can do-
+
+AUSTIN (as Stanislaka): I sense the warmth in your words. And I hope that the warmth of Slumbous goes with you as you leave today.
+
+KEITH (as Lye): Until bedtime and then I blow out the warmth of Slumbous for the night.
+
+JANINE: At 5pm sharp whether I’m tired or not.
+
+AUSTIN (as Stanislaka): Except the warmth stays with you. Oh!
+
+KEITH (as Lye): I was just sort of being overly literal.
+
+AUSTIN: Janine in the chat says fast forward two weeks to Lye trading the sacred candles for a better magic gun. [Friends all burst out laughing]
+
+KEITH: Hey, I haven’t gotten rid of any of the religious stuff that I’ve collected! I still have my Genburi statue and my driftwood.
+
+AUSTIN: This is true.
+
+KEITH: And now I have my candles.
+
+ART: You’ve had the driftwood for like one second though I don’t think [Janine chuckles].
+
+AUSTIN: Okay.
+
+KEITH: Okay, but I could’ve given it away for the gun instead of something else.
+
+JANINE: You did drop it.
+
+AUSTIN: You did drop it loudly [friends laugh].
+
+KEITH: There. How do we spell Slumbous?ALI: S-L-U-M-
+
+AUSTIN: Unbelievable disrespect!
+
+ALI: B-O-S.
+
+AUSTIN: Just.
+
+KEITH: U-S, right?
+
+AUSTIN: U-S.
+
+ALI: Oh, is it?
+
+KEITH: I couldn’t remember if it was S-L-O-U-M, or just S-L-O-M.
+
+JANINE [overlapping]: It’s U-S if you’re in the UK or Canada, its O-S if you’re in the U.S.
+
+AUSTIN: I think it’s this.
+
+KEITH: Yeah that’s how I have it. Slumbous. [Sylvia and Andrew chuckle] Slumbous’ special candles.
+
+AUSTIN: Great. I think it’s a D2 Religion.
+
+JANINE: Wow, yikes.
+
+KEITH [overlapping]: Not even a D4, a D2?
+
+AUSTIN: What?
+
+KEITH: Which is my other Religion stuff which is D4?
+
+AUSTIN: Yeah, but this was, you know.
+
+JANINE: Slumbous is an inferior faith, that’s fine.
+
+KEITH: Yeah.
+
+AUSTIN: This is not what I’m saying! I think maybe-
+
+KEITH: But I have two of them.
+
+AUSTIN: Stanislaka- the candles, yeah. Each one’s one. Stanislaka is maybe not looking to give up the good candles to someone who just came in and was like, I lied about having a very powerful relic.
+
+JANINE: Is it like birthday candles with the stripes cut off?
+
+KEITH: I mean, who more-
+
+AUSTIN: No, they’re nice candles!
+
+KEITH: Who more needs the powerful candles?
+
+AUSTIN: Than the liar, you’re right. Lie’s right in the name, huh.
+
+KEITH: It is.
+
+AUSTIN: Twice, in fact.
+
+KEITH: Twice, it’s in there twice.
+
+AUSTIN: Alright. It’s getting late. We should probably do this Chine scene.
+
+ANDREW: Sure.
+
+AUSTIN: I’ll talk about some stuff that happens.
+
+JACK: Oh real quick, before we do-
+
+AUSTIN: Yes.
+
+JACK: I think I wanna swing by the station.
+
+AUSTIN: Yeah you should!
+
+JACK: Briefly.
+
+AUSTIN: Sounds good.
+
+JACK: Do you we wanna do that before Chine and then we can kind of end on Chine’s-
+
+AUSTIN: Yeah, Chine’s a bedtime thing.
+
+JACK: It’s a Slumbous time discovery.
+
+AUSTIN: Slumbous- yeah. Exactly. What’s up at the station, Pickman?
+
+JACK: I think Pickman is drawn to the station not out of any particular- Pickman is always drawn to the Shape by the power of the Shape, by the sort of bizarre magical power of the shape?
+
+AUSTIN: Yeah.
+
+JACK: But I think in this-
+
+AUSTIN: Also you do literally hear people here talking about the woman and her train-
+
+JACK: Yeah I was gonna say like, I think in this instance Pickman’s like, uh, what the fuck is going on at the station, you know? And so I think Pickman goes down to see what’s happening with The Grand Cormorant.
+
+AUSTIN: Yeah. I think at this point you’ve showed up just in time for Ms. Chantilly Scathe to finish her latest round of talking and escorting in like another set of ten people at a time to like do the tour of the train? And then yeah, you’re there and I think she sees an opportunity as you show up.
+
+AUSTIN (as Chantilly): And look at this! Fellas. Ladies, gentlemen and everyone here in Blackwick. We have among us, one of the-
+
+AUSTIN: She can’t use ‘grand’, cause the name of her train has ‘grand’ in it.
+
+AUSTIN (as Chantilly): One of the marvelous Shape Knights of Sangfielle. You’ve heard of them, haven’t you? They killed a train many years ago and now they wear it as clothing.
+
+AUSTIN: And everyone laughs and turns to look at you.
+
+JACK: I think Pickman just sort of like nods her head and like raises a hand in a like, thinks that like, hello. And walks towards the engine of the train and like goes to hoist herself up onto the footplate.
+
+AUSTIN (as Chantilly): Uh uh uh! Mmm. Ms. Shape Knight, there is a line, and if you would like to do a tour, I’d ask you to wait your turn. You of all people should know there is an order to these things.
+
+JACK (as Pickman): Not like this. 
+
+JACK: Says Pickman. And kind of continues up towards the engine.
+
+AUSTIN (as Chantilly): People I’ll be right back with you.
+
+AUSTIN: Lamar and someone comes out of the train to pick up where she’s left off and continue to do the spiel as she walks over towards you.
+
+AUSTIN (as Chantilly): Excuse me!
+
+JACK (as Pickman): Yeah?
+
+AUSTIN (as Chantilly): You’re not allowed aboard. This is my train.
+
+JACK (as Pickman): You can’t own a train.
+
+AUSTIN (as Chantilly): Unfortunately I can and I do. Actually fortunately I can and I do in fact it’s made me quite a fortune. I’d ask you to leave, Ms-?
+
+JACK (as Pickman): How did you get this train.
+
+AUSTIN (as Chantilly): Well that is about as secret as anything you Shape Knights try to keep.
+
+JACK (as Pickman): We don’t keep any secrets. I’m happy to tell you anything you want.
+
+AUSTIN (as Chantilly): Draw me the Shape then.
+
+JACK (as Pickman): Here?
+
+AUSTIN (as Chantilly): Invoke it. Here.
+
+AUSTIN: The engine growls at you.
+
+JACK (as Pickman): What’s going on here?
+
+AUSTIN (as Chantilly): What’s going on is I’m asking you to leave my train.
+
+JACK (as Pickman): It’s not your train, you can’t own a train.
+
+AUSTIN: She puts her hand on it and then engine which was growling seems to settle into a purr.
+
+JACK: I think Pickman addresses the train, speaking quietly you know, being inside or at least on the very edge of the engine. And in a tone of more confusion than anything else says,
+
+JACK (as Pickman): What has this lady got you doing?
+
+AUSTIN: It does not seem to respond. She like sighs and says,
+AUSTIN (as Chantilly): It strikes me that the history of Sangfielle can be split in two. A time of danger and violence. And a time of civilisation, commerce, exchange. You are a last gasp of the former. In the future, people will learn that things like the Shape are to be treated with respect. Not conquered, but brought aboard.
+
+JACK: This is- I don’t think I’ve ever see anybody try this before.
+
+AUSTIN: Nope!
+
+JACK: I’ve probably heard stories of people who think they can- when Pickman says you can’t own a train, I think it probably comes from hearing stories of people who have claimed to? Pickman’s never met somebody and has never seen a train respond this way to somebody before either.
+
+AUSTIN: Mhm.
+
+JACK: I think I’d like to make a roll here?
+
+AUSTIN: Sure. 
+
+JACK: I would like to. I would like to identify whether there has been some sort of modification to the train’s- to the makeup of the train as far as I can tell.
+
+AUSTIN: Sure. That feels like Discern + Technology to me.
+
+JACK: I don’t have Discern.
+
+AUSTIN: Uh huh.
+
+JACK: I forgot I needed a verb as well as a domain. I was like, I have Technology, that’s great!
+
+AUSTIN [overlapping]: I mean you could do that. You just don’t get that die, you know? So you can still roll, it would be two dice, you know.
+
+JACK: Yeah, and I don’t think, I mean I could try Compel-
+
+AUSTIN: I don’t think Compel- I mean you could Compel. You could.
+
+JACK: To tell me what’s happening?
+
+AUSTIN: You totally could.
+
+JACK: Or at least get closer. Yeah, I think I-
+
+AUSTIN: You’re already- you’ve already kind of started down that road, so if you wanna roll it, we can roll it and that gives you an extra die I think that would get you a similar result.
+
+JACK: One Compel, one Technology, one base, that’s 3D6.
+
+AUSTIN: That’s 3D6. No pushing in this system. I keep wanting to ask you all to like, do you wanna push?
+
+JACK [overlapping]: Do you wanna push this?
+
+AUSTIN: And it’s just not how this system works, yeah.
+
+JACK: I think Pickman’s confusion has now turned to some sort of anger, and she turns around and says,
+
+What you are doing here is very dangerous and you’re going to get people killed, not least of all yourself. What have you done to this train.
+
+JACK: And let’s see how I roll. Okay!
+AUSTIN: Terrible. Those are all failures, Jack.
+
+JACK: Yeah, I meant, okay in the sense of like, well!
+
+AUSTIN: Alright! You are not dealing with just the dice of an individual Haven. Normally when you’re in a place, a landmark, you roll the dice from the landmark as stress gets done to you. But you’re engaging with a particular person here, so you’re gonna take D8 stress and I rolled a three. So take three stress here to Echo.
+
+JACK: Okay, that’s two stress because of my Echo resistance?
+
+AUSTIN: Protection, yup, totally, but it brings you up to six total, give me a fallout check.
+
+JACK: Ooh, that’s minor fallout!
+
+AUSTIN: Minor fallout! Okay, so. Let’s see here. And that’s gonna be an Echo, like the stress you just took.
+
+JACK: I’m getting Echo fallout again! I just fucking got rid-!
+
+AUSTIN: You are! You’re gonna take the Conduit fallout, which is your best efforts to keep the unreal energies of the Heart at bay are futile. Your body is a crucible for strangeness. You cannot use Echo protection.
+
+JACK: Oh. Okay.
+
+ANDREW: That’s not so bad.
+
+AUSTIN: As you get angry, I think that the way in which she is standing her ground draws your attention to her eyes. As she is like not- you’re raising your voice and you’re a big Shape Knight, and she seems to be some sort of ringmaster and is glaring back at you? And as you hear the train’s engine begin to rumble in response to your anger, you see her eyes dilate as if the kind of- as the engine opens up, something inside of her does too and connects to you. You’re dealing with an Emissary of the Heart, Pickman.
+
+JACK: Oh, shit! Well that does solve- that answers my question.
+
+AUSTIN: You’ve met, you’re not learning shit at this point.
+
+JACK: Yeah.
+
+AUSTIN: And I think she just says to you, she leans forward and whispers into your ears,
+
+AUSTIN (as Chantilly): The Shape takes many forms, Knight. You ought learn some new ones.
+
+AUSTIN: And places hand on your shoulder and steps- left hand on your right shoulder, steps back, and produces as if from nowhere a card and hands it to you. With her name and the logo of the Cormorant, The Grand Cormorant Limited on it. And says,
+
+AUSTIN (as Chantilly): You will know where to find me.
+
+JACK: Just like shakes my- shakes her hand off my shoulder with my shoulder. But like petulantly plucks the card from her fingers.
+
+AUSTIN: Mhm.
+
+JACK: And yeah, kind of goes off with my tail between my legs. Does this clear-?
+
+AUSTIN: The card on the back has a number of- has like the next destinations of The Grand Cormorant Limited written on it.
+
+JACK: Ooh!
+
+AUSTIN: Or printed on it. And you don’t know this yet, but you will in a week, it will update with wherever the next week of [Jack chuckles] the destination is.
+
+JACK: Is this a thing that- have I seen this before?
+
+AUSTIN: No! This is all very strange Jack.
+
+JACK: Yeah I suppose humans don’t usually hand out self-updating-
+
+AUSTIN: No.
+
+JACK: Schedules for trains.
+
+AUSTIN: Mhm.
+
+JACK: This clears all my stress, or just my Echo stress.
+
+AUSTIN: Just your Echo stress.
+
+JACK: It would be a major fallout would clear all my stress.
+
+AUSTIN: Would clear everything, correct, correct.
+
+JACK: Okay. Great.
+
+AUSTIN: Love it.
+
+JACK: Worst train yet.
+
+AUSTIN: Uh huh! [Sylvia laughs]
+
+JACK: Gonna say this with each new train.
+
+AUSTIN: Uh huh. As you’re leaving, you do pass the large- the large figure of Dyre Ode, which is Lamar, who is the man who took the ringmaster- what did I say her name was? I keep blanking on her name- Chantilly Scathe.
+
+JACK: Chantilly Scathe.
+
+AUSTIN: Yeah. Who’s taken her place at the front, and Dyre Ode actually produces a ticket. Actually a token. It’s the token you saw in the menu from before, remember? And it’s the same one. And hands it to Lamar. And Lamar says,
+
+AUSTIN (as Lamar): Ah Mr. Ode, come right this way.
+
+AUSTIN: And takes some luggage. And leads the imposing figure of Dyre Ode onto this train. Before he leaves he turns and like looks out on the whole of Blackwick as if to say goodbye to it. And steps aboard. Also his mask has changed, now his mask is of a- what do I want it to be? I think it’s a moon. I think it’s just a big- it’s like a moon with a halo, and the halo extends beyonds his own head and it’s almost as if there is a free standing halo hovering around his. Again, not a literal halo, but like a-
+
+JACK: Ice halo or something.
+
+AUSTIN: Silver or something, hovering around his head, and he steps inside. Real weird people here today in Blackwick. 
+
+JACK: He’ll- he seems like the sort of person who won’t get eaten by a train, right? 
+
+AUSTIN: Mm, yeah.
+
+JACK: He seems like he’s sort of-
+
+AUSTIN: He’ll be alright! That motherfucker.
+
+JACK: Good luck! Can’t kill you if you don’t have a- most of your skeleton. That’s what they say!
+
+AUSTIN: [laughs] Uh huh! That’s what they say!
+
+KEITH: I gotta figure out how to get rid of my skeleton. 
+
+JACK: You gotta give it- you gotta give your skull to-
+
+AUSTIN: Talk to Dyre Ode.
+
+JACK: Yeah, to a-
+
+AUSTIN: To an ancient tree god, yeah, uh huh.
+
+KEITH: Hey, I’m halfway there.
+
+AUSTIN: And the rest of your bones to other places, yeah. [chuckles] You got the tree god down, you got a skull, you just gotta get rid of it. Any other final things before Chine takes a nap? I think we should do a Chine nap, and anything else we can do in pickups or whatever, it’s getting late. Chine, did you have an okay day today? What did you get up to while everyone else was shopping?
+
+ANDREW: I mean I took a bath and washed my clothes, and went to the doctor and got a checkup. It’s-
+
+JACK: Holy shit, that’s a great day!
+
+ANDREW: It’s been a productive day and a great day for me.
+
+AUSTIN: Yeah! And you have tomorrow off, so it’s like, you know. Damn. Y’all got your chores in one day so then the next day really is a rest day, so. Tell me about what’s going on with you. Why’s it important that we talk about you going to bed. You do- do you do some Slumbous rituals, are you in on all that, or do you just kinda like do your own thing.
+
+ANDREW: Eh. Yeah, I just do my own thing.
+
+AUSTIN: Yeah, it’s kind of what I figured. 
+
+ART: Booooo! [Andrew chuckles] Boooooo! [More laughter]
+
+ALI: [softly] Booo.
+
+AUSTIN: Ali did not insert those, those were organic boos. [Jack chuckles] 
+
+ANDREW: Live boos.
+
+AUSTIN: Live boos.
+
+SYLVIA: Did you say boo, or Slumbous [t/s note: but French, so Slum-boo]. [more laughter]
+
+ALI: [chanting] Slum-boo! Slum-boo! Slum-boo!
+
+AUSTIN: You’re saying- [laughs] So yeah. What’s up, Chine? Get ready for bed, going to sleep outside. The night at this point is probably still a little loud, it’s a weekend, 
+
+ANDREW: Mhm.
+
+AUSTIN: There are people here from out of town, etc.
+
+ANDREW: Yeah.
+
+AUSTIN: I’m passing it to you here in terms of setting the situation.
+
+ANDREW: Yeah I mean I don’t think I set- I don’t have much stuff up there on the roof to sleep with. I think it’s. I bet the- the thing that I have that like goes up to my nose when I sleep I can pull it up over my eyes.
+
+AUSTIN: Yeah, okay. You don’t have a blanket? You don’t have like a pillow?
+
+ANDREW: I have like a big quilted poncho thing.
+
+AUSTIN: Yeah okay I guess that’s the same- I guess, uh huh. So yeah, Chine’s heading off to bed, again you can hear the people like you know, not revelers, but it’s a busy weekend night you know. People are at the saloon, people are at the automat, people are getting into fights and making out. Sometimes back to back.
+
+SYLVIA: Hell yeah.
+
+AUSTIN: You know, making noise. And then in the kind of- one of the last things you hear as you begin to drift off is the sound of a train, you know, whistle, as the train pulls out to leave in the middle of the night. And as that happens you begin to drift off. I think you should make a roll for this thing, huh?
+
+ANDREW: Sure.
+
+AUSTIN: I think this is some sort of Discern roll. Perhaps.
+
+ANDREW: Oh right, time to remember how to roll in these games.
+
+AUSTIN [overlapping]: Because you’ve been having these dreams. Yeah. I think this is Cursed and I would say it’s either Discern or Hunt, because what’s going to happen is, you’re being pulled into a- you saw those, those teeth, is that what it was that you’d seen originally, right? 
+
+ANDREW: Mhm.
+
+AUSTIN: In the dreams overnight. You’re seeing these teeth again in your dreams, and this time they are- what’s it called, scrimshaw, is when teeth are like etched, right?
+
+ANDREW: Oooh.
+
+AUSTIN: Or bone, it’s like bone-
+
+JACK: Like whale bone-
+
+SYLVIA: Yeah-
+
+ANDREW: But I mean, tooth is a kind of bone, so you could etch a tooth.
+
+AUSTIN: Right. Yeah, it’s like an engraving, it’s like a carving. And as you see these teeth, you start to see that they have been kind of sketched and engraved into a sort of- and correct me if I’m wrong, one of the things that’s important for the Cleavers is, there are fables, right? And so I think it’s almost like you’re looking at a living fable or like- to some degrees it almost looks like a puppet show in terms of the way it’s animating, do you know what I mean? The kind of long swings of legs and stuff? Those like very traditional you know, folk-art. But it’s all like animated scrimshaw. I guess it would be like, if you did scrimshaw and then animated it like claymation by changing out the thing the scrimshaw was done into, taking a photo and switching it. And so that’s happening, and it is- I mean you tell me, what’s the opening situation? In my mind it’s something like someone running through the woods, but you tell me.
+
+ANDREW: I think it probably depends on what we’re rolling. But I think if it is Hunt, then yeah it’s probably, when you say someone, do you mean Chine, or that Chine is like chasing someone through the woods?
+
+AUSTIN: I think you’re seeing a figure running through the woods, and you’re coming to the comprehension that it’s you running through the woods, and you’re seeing it- but you’re seeing yourself move as if like looking at a side-scroller,
+
+ANDREW: Sure.
+
+AUSTIN: Or again, a puppet show from the side, right. This kind of 2D perspective, and its being rendered in scrimshaw. So, yeah. I think it’s you and you’re trying to even figure out what you’re looking for here.
+
+ANDREW: Okay.
+
+AUSTIN: So yeah I’d say it’s Hunt + Cursed. Alright, yeah! It was an eight, you succeed. So as you’re- it’s like you’re looking at this scrimshaw fairytale happen in front of you, as this version of Chine begins to run through the woods.
+
+[MUSIC - ‌‌“Dreaming the Course” starts]‌ 
+
+AUSTIN [continued]: And I think what begins to happen first is that the things depicted in the scrimshaw begin to change. The trees turn into an iron gate, and then they turn into a stone wall, and then they turn into objects, loose objects like, at one point they turn into fish, just kind of like floating around and you’re running through a school of fish. They turn into corn stalks, they turn into- and maybe they start there for a moment since we- I know we talked about your garden being important to you as like, that being kind of key to your origin as a Cleaver is kind of like planting something you shouldn’t have planted. It’s like the teeth that you planted, it’s like the stalks of whatever teeth plants were that grew? 
+
+AUSTIN [continued]: And then other things start to change like you, and some other background details. Like there’s clouds in the scrimshaw, and those switch from being clouds to being waves, and they switch from being waves to being you know, bread. And then you, the scrimshaw sketch of you changes to be more animalistic in the way that we know you can change.
+
+ANDREW: Mhm.
+
+AUSTIN: But that change continues. Until you go from being the version of you that you are, into being you know, a full on shrew, right? Like you’re literally, you shrink in size until you’re a little shrew. And then that figure grows until it’s a kind of like huge gorilla, you know moving on all four limbs. And then turns into something else, something chimeric in nature, it’s hard to even make out where various limbs end and begin. And this continues to happen till colour begins to fade in, it’s as if these teeth have been dyed and suddenly everything has this very bright, vibrant look. And it’s as if you’re holding in your hand these teeth that are glowing bright colours and you’re looking at the story that’s happening there. 
+
+AUSTIN [continued]: And then finally the teeth themselves, the bone tooth structure that the scrimshaw is built into change. First they become something familiar to you, orange. Like the peel of an orange, like the oranges from the basement of the abbey, the underground chapel. And then they change again and now the material’s wood, it isn’t scrimshaw at all, it’s wood and then it’s paper and ink, and suddenly it’s like if this is a story about change realised, even the medium that stories are told in changes. There is no singular thing that you can’t even count on the grammar of, or the medium to remain the same, until finally the object itself loses the story and all it is is this thing that’s changing rapidly and again and again and again. In fact even your hand that you’re looking at these teeth in begins to change shape. And you have- you have found it. 
+
+AUSTIN [continued]: You have found this thing and finally I think maybe this is influenced psychologically by the fact that you’re coming back from going through a portal to a lake. But your hand, the teeth, the story, they all turn into water, and various forms of water. It melts away like a river flowing from a faucet. From a small stream growing in strength and size, you see the roof flooded, the roof that you’re sleeping on begins to flood in your mind. You can’t tell if you’re dreaming or not in this moment. Blackwick sinks under the waters, the water rises. 
+
+AUSTIN [continued]: And you have found it. You have found the Heart, the truth of the Heartland. This is the Course. And it is sharp, and clear in your mind, that this is the thing that calls to you. 
+
+[music ends]
+
+AUSTIN [continued]: You wake to a start. Nothing’s flooded, thankfully. But there is sound and you can see torches as you stand up. And you look up to the mine entrance.
+
+[MUSIC - ‌‌“Sangfielle‌‌” starts]‌ 
+
+AUSTIN [continued]: And you hear someone say across the kind of quiet of the night now.
+
+AUSTIN (as Blackwick resident): It’s missing! Someone took the damn egg sac!
+
+[music ends]

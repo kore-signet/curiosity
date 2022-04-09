@@ -1,0 +1,1938 @@
+Live at the Table: Fall of Magic Pt. 1
+transcribed by Rain [2:40-6:30]
+and thedreadbiter [0:00-2:39 and 6:31+]
+Austin: Hey everybody, it’s Austin here. I just wanted to give you a quick hello. Hi. Hey. Uh, that’s not really what I wanted to do. What I wanna do is give you a quick [slight laugh] heads up into what is gonna be in this feed in the next three weeks, as we, on this side of things, continue to prep and record for Spring in Hieron, which is gonna kick off in early October. For the next three weeks, we’re gonna be doing—we’re gonna be running the game of Fall of Magic that we played over in the Live at the Table feed. And if you don’t know what that is, that is a patreon series that we do, one game a month, for our $5 and up patrons. That is—we’ve done a bunch of games in the Patreon feed, ranging from Misspent Youth to Downfall to…a bunch of different stuff, all of which has been super good. Alien—or—I almost said Aliens in the Outfield. It’s true, there’s this game that we called Aliens in the Outfield, which is part of—we’re running with Primetime Adventure—Primetime Adventures—that is really great. So there’s a ton of stuff there, and what we decided to do was pull three of our favorite episodes—it’s a full arc—it’s a full game of a game called Fall of Magic by Ross Cowman.
+It’s a fantastic game, it’s a game that is—has a lot of just sweetness and melancholy in it, so it’s extremely my shit, obviously? It will be in this feed, again, for the next three weeks, it’s three episodes, and I guess the one note I’ll say is we recorded them over the course of probably [car honks outside] seven or—sorry, someone outside is honking at me. We recorded those episodes over the course of like seven months or so, six or seven months, which means that we were not always—it was not a week-to-week thing where like we remembered exactly where we left off each time, and I like to think that that gives everything a sort of vague sense of mystery and [slight laugh] and kind of a…Studio Ghibli-esque like quality of…ephemerality, or something. Uh. But maybe you’ll think, hey, why didn’t they remember very basic plot details from the previous episode? In any case, I really love this stuff, it’s some of my favorite stuff that we’ve done over the last year, and I’m happy to be able to share it with everybody here. 
+As always, if you wanna support the show, and you wanna hear more stuff like this as it comes out, you can just go over to friendsatthetable.cash or search for us on Patreon, and you can see all the different supporting tier options there. All right, I’m gonna get outta your ears, except I’m gonna be right back in your ears, but not just me, it’ll be me and Jack and Janine and Dre, as we play through Fall of Magic, so, enjoy.
+[02:40 - Intro Ends]
+Austin: Welcome to Live at the Table, an actual play livestream focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I’m your host, Austin Walker. Joining me today: Janine Hawkins.
+Janine: Hi, I’m Janine Hawkins, I’m at bleatingheart on Twitter.
+Austin: Also Jack de Quidt.
+Jack: Hi, I’m Jack de Quidt, you can find me on twitter at notquitereal, or download and buy any of the music featured on the show at notquitereal.bandcamp.com, including the new Bluff City music!
+Austin: That’s true, that’s up there now, along with the new art…made by Craig Sheldon. The art is fantastic—
+Jack: Looks good as hell.
+Austin: If you haven’t seen it, [Dre: Yep.] I’ll pull it over real quick. Also, Andrew Lee Swan is here, before we—before we…
+Dre: Hey, I’m here! 
+Austin: [laughing] Where can people find you, Dre?
+Dre: Ah, I guess on Twitter, if you want. [Austin: Okay.] That’s Swandre3000, that’s me.
+Austin: And you can find me at austin_walker, the show at Friends_Table, and, as always, you can support the show at friendsatthetable.cash. Here’s the art for Bluff City, it’s super good, and [Janine: So good.] Craig even had like, a little—you see this? This little ‘cash for coats’—
+Jack: It’s a little secret!
+Austin: A little secret! That’s just a little secret. I didn’t even see it. We told him, yes, we were like, oh yeah, that’s good, and then like days later I was like, wait a second—what is—wait a second. [crosstalk] Wait a second!
+Jack: [crosstalk] Wait a second!
+Austin: Yeah, and then there was a person. Or, not a person, there was a store that I recognized. There was a person in there, that I recognized, they’re a friend. Anyway, today, we are going to be playing a game called Fall of Magic. I don’t know if you missed this or not, but in the initial post that Ali made, she explained that given the holidays, and some scheduling difficulty we just decided to pick a game for this month and for next month, so this month we’re doing Fall of Magic, next month we’re gonna do Primetime Adventures. So look forward to that, and look forward to this, ‘cause we’re about to do it! It’s gonna be good.
+Fall of Magic is a game designed by—it’s one person, I remember, if I remember right. Ross, uh, [as in cow] Cowman? [cow] Cowman, [as in cove] Cowman? It’s spelled Cow-man, all right? Like, it’s Ross Cow-man. But I’m not gonna say Ross Cow-man, because that feels like an insult, and I don’t want to insult Ross, ‘cause this game seems cool. It is illustrated by Doug Keith and Taylor Dow, and the reason that it’s important to say that it’s illustrated is because it’s kinda built around this notion of this huge map. Which you don’t see yet, ‘cause I’ve covered it up most of it. [laughing] Because that’s the rule, it actually—the physical copy of it ships with a—like a big unrolling scroll, and the scroll is something you unroll as you explore the world. And so, we’re going to start with just this huge black bar over the entire length of the world that we will slowly unfurl as we continue to explore. I’m going to read from the book:
+[reading] Magic is dying, and—all right, wait, we have to have a very important conversation: [first syllable same as mage] Magus or [first syllable same as magazine] Magus?
+Jack: [first syllable rhymes with vague] Magus.
+Austin: [as in vague] Magus?
+Janine: [agreeing] Magus.
+Dre: Magus.
+Jack: Magus. Hi, I’m John Fowles, and I’m here to say: [crosstalk] Magus.
+Austin: [crosstalk] Magus.
+Janine: Cowman.
+Austin: Magus Cowman. Got it. Magic—but not [as in vague] magic. [normally] Magic.
+Jack: No, yeah, not [as in vague] magic. 
+Austin: Okay.
+[Dre laughs]
+Are we sure?
+Jack: [laughing] Yes, Austin.
+Dre: Yes.
+Jack: I mean, look, I know it’s a [Austin: It’s not a J.] soft time[???] [5:51] for all of us, but I don’t think this is the time [crosstalk] to have an existential crisis—
+Austin: [crosstalk] Gif or Jif?
+Dre: God, fuck no. Stop.
+Janine: Is the name Gus or Jus?
+Austin: [crosstalk] Depends. Ask Jus. Yeah, ask Jus wh—
+Jack: [crosstalk] It’s Jus. Obviously it’s Jus. Or is it—yeah, ask my friend Jus, he’s hidden in the Bluff City art.
+[everyone laughing]
+Austin: Um. [reading] [as in mage] Magic is dying, and the Magus [laughs] is dying with it. We travel together to the realm of Umbra—Umbra? Oombra? Umbra. I’m going to say Umbra, like an umbra—where magic was born. I’m going to scroll down here. 
+[reading] Fall of Magic is a collaborative roleplaying—nope, it’s a collaborative storytelling game, where we play a group of travellers in the company of the Magus. On the way, we’ll encounter strange hosts, fantastic places, and perilous choices as we play to discover who our characters are, how they relate, and how our journey changes, and I’m—in order to play, you’ll need two to four players with two or more hours of time. In addition, each player will need one notecard and something to write with. A single session will feel like several chapters of a book, or the first episode of a fantasy series. In several sessions, you can create your own epic tale.
+Does everyone have the book in front of them? [Dre: I do!] By the way? Okay. [reading] Before we begin, there are some things we should all understand. Pass around the book and read each of these out loud. Afterwards, make a space to see if there’s anything the group would like to clarify or discuss. For instance, how do you pronounce Magus? [Dre laughs slightly] 
+I added that bit, that was editorialization.
+Jack: Who damn knows?
+Austin: [laughs] So I’ll start. [reading] It’s like a conversation. A good game session should give you the feeling—that feeling of excitement and connection like a good conversation, and all those same rules about being a good conversationalist apply. Listen, ask questions, bear witness to things that inspire your fellow players, and let us know what inspires you.
+Jack! I’m gonna go by the order that’s on the bottom of my screen, and that is on the bottom of the listeners’ screen, so. Jack.
+Jack: Uh, [reading] Think small. When it is time to make something up, think small and don’t plan too far ahead. Let the story be a wondrous beast we chase but never capture. Ask questions with no clear answer, raise conflicts with no ready solution. By letting go, the story we find together will be more profound than anything you might have planned alone.
+Austin: Uh… Dre.
+Dre: [reading] Social fantasy. Fall of Magic is social because play centers around characters, relationships, and exploration of culture. It is fantasy because things are possible that are not possible in our daily lives. This world will come to life if we treat the characters like they were alive, make them diverse, nuanced, and sometimes contradictory. Use this space to reimagine and explore without the restrictions and stereotypes around race, class, and gender that we experience outside of the game.
+Austin: Janine.
+Janine: [reading] Safety first. Lastly, your emotional safety is more important than any game, so if something comes up in the story or at the table that makes you feel uncomfortable or is ruining your fun, let us know. We can change that detail, fade to black, or take a break if needed. Likewise, check in with your fellow players before introducing an element to the story that you know might be difficult or triggering.
+Austin: Cool. Good job, game. Um. So, [reading] Setup. Sit down around a table and pass each player a notecard and something to write with. 
+Uh, I should get a notecard. I should get us all notecards, huh? [crosstalk] Do I have notecards in here?
+Janine: [crosstalk] [expectant] Get on a plane…
+Austin: Get on—yeah! Uh-huh.
+Janine: And—oh. You mean in Roll 20.
+Austin: And start sending those around. I gotta find—there’s all sorts of—there’s all sorts of things here. I mean, I’m gonna scroll up and search for index, ‘cause I think I have them in here as index cards. I do. Thank god. Boy, people are gonna see all sorts of shit. There’s a Steve Harvey picture in there for some fuckin reason.
+[Dre laughs]
+[Janine laughs]
+Dre: [crosstalk] What?!
+Austin: [crosstalk] Anybody who—yeah. Mm-hm.
+Dre: What? Why was there a Steve Harvey [crosstalk] picture in there?
+Austin: [crosstalk] I—someone’s gotta ha—someone’s gonna have to—
+Jack: [crosstalk] Ah, from…Noirlandia?
+Austin: —listen to things that aren’t out yet, yeah, uh-huh, Jack—it’s not out yet. No one’s heard that yet.
+Jack: I didn’t say anything!
+Austin: Uh-huh! [hearty laugh] Okay! So we all have these cards. These cards are good. Uh… do do do… Something to write with, that’s just gonna be Roll 20. Roll 20 is your thing to write with. [reading] Make sure everyone can read the scroll from where they are sitting.
+Can everyone see the scroll?
+Jack: Mm-hm!
+Janine: Yeah.
+Austin: Okay. Cool. Um… Don’t—don’t dig through the VODs to see all the images. Otherwise I’ll just [Jack: Yeah.] go in and spend time blurring them out, that’s a thing I’ll do. So. Please don’t. Um. [snorts] There’s nothing that interesting there. Uh… [reading] Introduction! Have someone read the introduction out loud. Who wants to read the intro—oh, sorry. Unroll the scroll un—so the title and introduction are visible. It’s right there. As the game progresses, keep the unused parts of the map rolled up. Peeking ahead is fine, but in general, only our current area should be visible. Introduction: have someone read the introduction out loud. 
+Who wants to read this? I think I just read this, actually, now that I look at it.
+[Jack and Dre laugh]
+It’s the one about magic dying, it’s this. It’s this thing on the screen right now.
+Dre: Yep.
+Austin: [quickly] [reading] Magic’s dying and the Magus is dying with it. We travel together in the realm of the Umbra. Uh, to the realm of the Umbra, where magic was born.
+[reading] Choose your name. Each player chooses a name from the options listed on the map and writes it down on their notecard. Each character should have a different name.
+Uh, does anyone have any strong feelings about these names?
+Dre: I wanna be Piccolo.
+Austin: [tiredly] Yeah, me too, bud. We all wanna be Piccolo. 
+[Janine and Jack laugh]
+All right, we… What do you want from me, y’know?
+Dre: [laughs loudly] [crosstalk] Hey, you asked.
+Austin: [crosstalk] All right, I’m gonna add—I’m gonna add Piccolo here. Uh. Anybody else have strong names? …Piccolo has two Cs? How many Cs is Picc?
+Jack: Ah, I’ll be Harp.
+Austin: Harp’s good. Janine, do you have a strong association with a name?
+Janine: Um…
+Austin: I think it’s two Cs, duh.
+Janine: I think I would like to be Fawn?
+Austin: Okay. Uh, Fawn. And I will be…Caspian. I wrote Austin, which…is my name, but. All right. Names! That’s easy. [reading] Step two: choose your title. Each player chooses a title from the options listed on the map and adds it to their notecard. If the—it is fine if the player chooses the same title. If players choose the same title. Your title is a combination of a location plus one of the three options listed before the location. So, those options are…Apprentice, Golem or Raven of Ravenhall; Hero, Midwife, or Swineherd of Barley Town; Heir, Knight, or Fugitive of Stormguard; Giant, Ranger or Fox of Mistwood; Merchant, Scholar, or Crab Singer of Istallia.
+Dre: Hey Austin, what’s a Crab Singer?
+Austin: [reading] Well, someone may ask, is a Raven like the bird? or, what is a Crab Singer? To this we reply, it means what you want it to mean.
+[Janine laughs]
+[crosstalk] What’s a crab singer?
+Dre: [crosstalk] Hey guys, what’s a crab singer? [laughs]
+Austin: I don’t know, I think it’s—well, let’s look at this picture.
+Jack: It’s like a…
+Austin: This picture is like…
+Jack: Yeah, let’s see what we got here.
+Austin: Istallia seems like a cool place.
+Jack: Let’s take a quick… Let’s take a quick look. [Austin: Woah—] Looks a bit sort of like a… [Austin: Like a—] like Anor Londo.
+Austin: Yeah, uh-huh! [quiet laughing]
+Jack: Sort of, uh…
+Austin: So it’s like a mini-boss. Uh, no… 
+Jack: So it’s a…
+Austin: Do you think it’s someone who… Okay, here’s—let’s be honest. Let’s be real honest real quick. What are the options here? Crab singers could be someone who could sing to a crab. It could be some—it could be a crab what sings. It could be something that has nothing to do with singing at all—could be like a…a local like phrase? Like, [contemptuously] that person’s a real fucking crab singer. You know what I mean?
+[Dre laughs]
+Jack: Yeah.
+Janine: Who—it could be like a person at like…a fish cannery or something like that, who like entertains the people who are like [Austin: Totally!] breaking up the crabs.
+Jack: Oh, yeah yeah yeah!
+Austin: That’s pretty good. That’s like a bard, [Jack: I think that—] but like it’s a crabbing town, and so you need to keep people entertained, I like that a lot.
+Jack: Yeah. And then there’s like the next step of kind of adjacency of which is like, what is a crab?
+Austin: Fair. Good.
+Jack: Is it like a..
+Austin: I’m psyched for step three here, buddy, because… [laughs]
+[Dre laughs]
+Jack: [laughs] Where you put the pieces together.
+Austin: Uh-huh.
+Jack: It’s a—is a crab sort of like a…a crab singer could—a crab could be a unit, in the same way that the Romans had tortoises.
+Austin: Right. That’s true.
+Jack: And they also had tortoises, but, y’know, they had…
+Austin: They also had…
+Jack: Other—the other ones.
+Austin: Right, so like in other words like a unit of people who do a thing, and then among that group of people called crabs or called a crab, one of them is a singer?
+Jack: Mm. Yeah.
+Austin: I see. Yeah.
+Jack: Um, what else? I mean.
+Austin: You could d—well, this is—but I’m saying that that’s that third step. What’s a singer? [slight laugh]
+[Dre giggles]
+Jack: Right. Great—great—great, great question.
+Austin: Also. Also! Hey, hey hey. Check this shit out. Or, crab singe-er.
+[Jack laughs quietly]
+Dre: Oh, yeah.
+Janine: Or it’s a sewing machine made of crab.
+Austin: There you go. Totally.
+Jack: Oh, yeah, true, true!
+Austin: Of course. Of course.
+Jack: They chopped down all the crab forests [crosstalk] to make a sewing machine.
+Austin: [crosstalk] Yeah. Mm-hm. Mm-hm.
+Jack: Um. Okay! All right!
+Austin: Uh, here’s one. In an aircraft, when you crab, you head partly into the wind to compensate for drift. [Jack: Ooh!] Same thing—it’s like when you move like a crab does.
+Jack: So now I’m sort of feeling this is a bit sort of like Studio Ghibli [Austin: Yeah.] sort of… Yeah.
+Dre: [crosstalk] Isn’t that like a..
+Jack: [crosstalk] Crabs?
+Austin: [crosstalk] To move diagonally, sideways, obliquely, especially with short, abrupt movements.
+Dre: Isn’t it like a thing where like it was like… I forget what genre music this is, but like… 
+[15:00]
+late like two thousand—mid two thousand teens, like Hot Topic bands where they did something called like the crab walk or somethin?
+Austin: [laughing] Oh my god, I forgot about them. Now I can’t stop thinking about them.
+Dre: Isn’t that it? So maybe the crab singer’s [Austin: Oh no…] just the lead singer of a band that does the crab walk.
+Austin: Oh my god, what was the name of that fucking band?
+Dre: I also can’t remember, but I like distinctly remember that like music video.
+Austin: Crabcore. Is the name of the genre.
+Dre: There we go! Yep. All right.
+Janine: [crosstalk] [shocked] What?!
+Jack: [crosstalk] The genre is called crabcore?
+Austin: [tired] Yeah, Attack Attack!. Attack Attack! is the band.
+Dre: Uh, Stick Stickly I’m pretty sure is the music video that you and I are thinking of.
+Jack: [crosstalk] All right, I’m—
+Janine: [crosstalk] All of this sounds—
+Austin: It is.
+Janine: —fake.
+Jack: I’m watching this now.
+Austin: [crosstalk] Everyone watch it.
+Dre: [crosstalk] Yep. Have fun.
+Austin: I’m gonna mute it, so we don’t get sued by the crab… [brief cut-off electric guitar] core people. But.
+Jack: Why are they called crabcore?
+Austin: [crosstalk] You’ll see, are you watching the video?
+Dre: [crosstalk] Just—you’ll see.
+Jack: Yeah, I am, but they haven’t really done anything particularly crablike yet. [Austin: Mm-hm!] I’ll update you, though.
+Austin: You update me, buddy. You just go ahead—I’m tryin to open this link in a new—open this image in a new tab, is what I’m tryin to do. Here we go. There you go, right there. That’s a little crab action for ya.
+Dre: [quiet laugh] I’m so excited to see what this is gonna be on the YouTube channel—there it is! Yup! Uh-huh!
+Austin: it’s just a gif. It’s just a gif, it’s just a gif. [sighs] [crosstalk] All right. I’m gonna move on.
+Dre: [crosstalk] So yeah, okay. So crab singer is the lead singer of Attack Attack! from [Austin: Mm-hm.] Istallia. Got it. Okay.
+Austin: [sighs] I think it’s someone who sings on some sort of vehicle that crabs. I think it’s heavy winds, and it’s someone—or it’s someone in like a hang glider that crabs through the sky in Istallia, and like [Jack: Yeah.] and sings the news. It’s like a herald or a… What are the people who come into town and they’re like hear ye, hear ye? [Jack: Uh…] I’ve some news for you, I’ve got a bell?
+Janine: Crier?
+Austin: [crosstalk] Crier, they’re like—
+Jack: [crosstalk] A crier!
+Austin: Yeah, they’re like town criers that do that on like wind like…paragliders, basically.
+Jack: Yeah. Yeah, I’m up for that!
+Austin: [crosstalk] But it’s also—it’s also musical—
+Jack: [crosstalk] It’s sort of like a—
+Austin: It is also musical in a sense.
+Jack: It’s sort of like a pastoral—it’s sort of like a pastoral version of that guy from Mad Max.
+Austin: Right. A hundred percent. Yes. Yes. Except also not chained to it? Maybe they are.
+Jack: No. No.
+Austin: I don’t know, but I don’t think so.
+Jack: That guy looks like he’s having a pretty good time in Mad Max.
+Austin: Yeah, that’s fair. That’s fair.
+Jack: It doesn’t end well for him, but, y’know.
+Austin: All right, well, we’ve answered what a crab singer is, I think we’ve done our jobs. Um. Does anyone want a ti—have a title in mind?
+Janine: I wanna be a fox.
+Austin: Okay.
+Janine: Um.
+Austin: So you’re a Fox of Mistwood. Is a fox a fox, or is a fox a different thing?
+Janine: Um. I want—[laughs] I wanna be a bush dog.
+Austin: Excuse me?
+Dre: [crosstalk] Mm-hm.
+Jack: [crosstalk] Sorry?
+Janine: [crosstalk] Bush dog?
+Austin: One more—one more time?
+Janine: Bush dogs are also called vinegar foxes.
+Jack: Let me google this real quick! 
+Austin: [crosstalk] Oh, I can’t believe we’re only twelve minutes in!
+Dre: [crosstalk] Yep!
+Jack: [crosstalk] We’re up to our usual Googling animal…
+Janine: [crosstalk] I have a good picture.
+Austin: Vinegar fox.
+Janine: I have a good picture.
+Jack: [crosstalk] Fox. Let’s see, what are you gonna…
+Austin: [crosstalk] Can drinking apple cider vinegar lead to weight loss? Fox News. No, this is wrong! A what?
+Dre: Aw, these are cute!
+Jack: [gasps] Oh, these are great!
+Dre: [crosstalk] Look at this…
+Austin: [crosstalk] I don’t have…
+Janine: [crosstalk] They look like potatoes.
+Austin: Wait, where is this link at? [crosstalk] I don’t see a link.
+Dre: [crosstalk] They do look like potatoes—google a bush dog.
+Austin: [amused] I googled a vinegar fox.
+Dre: Well don’t do that.
+Austin: [crosstalk] Bush fox. Bush dog.
+Janine: [crosstalk] They’re like chunky little potatoes. 
+I also put a link in the Roll 20.
+Austin: [crosstalk] Oh, look at these!
+Janine: [crosstalk] With like a funny face. With the bush dog with a funny face.
+Dre: These are good boys. And girls. Where do these live?
+Austin: Oh my—ooh, that’s not a funny face, [Janine: Uh, South America.] that’s a mean face! Are you kiddin me? Look at that motherfucker!
+Janine: Well look, we might face—we might face challenges!
+Austin: We might face challenges, that’s true.
+Dre: That’s true.
+Austin: So you wanna be a bush dog. Or a vinegar dog [Janine: Yeah.]. Or a vinegar fox.
+Janine: I’m Fawn the—Vvinegar Ffox from Mmistwood.
+Jack: Do you have the capacity for speech?
+Janine: [confidently] Yes.
+Austin: [crosstalk] Okay.
+Jack: [crosstalk] Great.
+Austin: Good to know. Good, that’s useful.
+Janine: Also, I have clothes. Like not a lot of clothes, but like…
+Austin: Like a cape?
+Janine: Probably like a jaunty s—oh yeah, a cape!
+Austin: Okay.
+Janine: Yes.
+Jack: [excited] You’re like a Redwall animal!
+Dre: Yup. 
+Austin: Wait.Austin: Yup. Wait.
+Janine: No, I walk on all fours still.
+Austin: [crosstalk] Can you use tools.
+Jack: [crosstalk] Okay, right, you’re like a…
+Janine: What?
+Austin: Could you use tools?
+Janine: Um, some tools.
+Dre: Can you—like if you hold em in your mouth?
+Janine: We can figure this out as we go [laughs]
+Dre: Okay.
+[Janine laughs]
+Jack: Okay. Uh.
+Austin: Fair. Good—you know what, [crosstalk] draw maps, leave blank spaces. I’m with you. Yeah.
+Janine: [crosstalk] I imagine I can’t use like pliers, but like… Yeah. Yeah.
+Jack: Yeah, I’d like to be…a…golem!
+Austin: A golem of Ravenhall?
+Jack: Mm-hm!
+Austin: Can y’all start filling this stuff up? Fillin this stuff into your cards, please?
+Jack: Yeah yeah, yeah.
+Janine: Yes. Yeah.
+Austin: All right, cool.
+Jack: Uh… 
+Austin: So we’ve got a Fox of Mistwood, a Golem of Ravenhall. Dre, tell me about Piccolo.
+Dre: Uh… I’m kinda choosing between Raven or Swineherd.
+Austin: Good choices.
+Jack: Aw, good choices!
+Dre: Yeah! [laughs] I think I’m gonna be a Swineherd of Barley Town.
+Jack: Great choice! [Austin: Good choice.] That’s the one I was hoping you’d go for.
+Austin: And I’m gonna be a crab singer, Caspian the Crab Singer, like what’re you—
+Janine: Some—yeah, I was gonna say, you picked the name Caspian, you kinda gotta be the thing with crab in it.
+Austin: Yeah, exactly… Crab singer…
+Jack: Because of the alliteration?
+Austin: Of…
+Janine: No, ‘cause like it’s water.
+Austin: Like Caspian Sea.
+Jack: Oh! Yes. [Janine laughs]
+Austin: Of Istallia. Make sure you write down—yeah yeah yeah. Y’all are on it, I don’t even need to do this. I’m the one who doesn’t know shit. Of Istallia, okay. All right, so that’s step two. We have names, we have titles. Step three. Or step—four, apparently, is actually what that—choose tokens. Everyone choose a character token. Then we choose one more to represent the Magus, whom we all share. Um. Does anyone have any feelings about these images? [amused] Some of them seem pretty obvious, but.
+[Janine laughs]
+Dre: I think I’m gonna take this tree. [Austin: Okay.] It’s the tree I like to lean up against when I’m takin a break from herdin these swine.
+Jack: [sincerely] You gotta have a swine-leaning tree.
+Dre: [crosstalk] Yeah. You have to! UnionYou get rules, man.
+Austin: [crosstalk] You gotta! You gotta. That’s a law. Yeah.
+So I think there’s a front and a back to these trees—to these tokens, and I’m guessing there’s [Janine: Oh.] a reason for that, but I don’t know why, [Jack: Oh shit.] and it’s not in the rules, so!
+Jack: Oh, shit, this is good as hell! [Austin: Yeah.] This was a g—[slight laugh]
+Austin: Uh-huh! So who has feelings about the rest of these?
+Janine: What’s behind the sword? Oh.
+Austin: Another sword but with like—
+Dre: A broken sword?
+Janine: What’s behind the candle?It’s by the candle.
+Austin: It’s a broken sword. it’s a broken sword.
+Jack: Ah, Hadrian is here.
+Janine: [???] [21:16] candle.
+Austin: Aw.
+Dre: Aw.
+Austin: Buddy.
+Jack: Hm.
+Janine: Um, I think I’m gonna take these like the like plains and rivers one.
+Austin: Okay.
+Janine: Uh. ‘Cause I’m a roamer.
+Austin: Gotcha. I didn’t know that about you.
+Janine: Vinegar fox.
+Jack: Ah—yeah. I’m gonna take the sword and the broken sword.
+Austin: I’m gonna take the candle and the burnt-out candle. And that leaves the [as in mage] Magus. [as in vague] Magus? Magus. With the bird and the—other side. I’m gonna leave the other side up here, just in case we need it later, yknow. I don’t wanna—
+Jack: Do you think our Magus is more bird or egg?
+Austin: Uh, front side is bird.
+Jack: Oh, okay.
+Austin: So. So I’m leaving it bird for now. Uh. I think! Anyway, place the Magus on Ravenhall, where our journey begins. That’s the last step here. Okay! Well that’s it, that’s the game, everybody. No. Uh. [laughs] [Jack laughs] So that’s setup. Playing the game. in Fall of Magic, we take turns, one at a time, telling a small part of the story. During your turn, other players may contribute ideas, make suggestions, and act out other characters, but you get final say over what happens during your turn. We each also get final say over what is true…about our own character. 
+Parts of the scroll. Oh, actually, here’s the thing we need to do. It’s time to start revealing the scroll. [whip-crack foley] Wchhwww. Ravenhall. Okay. So I’m gonna maybe give us a little bit more so we can kinda see—there we go. And do these, maybe. Okay? All right, so we’re starting actually in Ravenhall, which is up here. Um. Here are some of the terms used to describe different parts of the map. So. There is a title of a location, so then, Ravenhall. Right here. Right? Then inside of a general location, there are different scenes like the Bridge, the Menagerie, Rose Gardens, and the Scrying Pool. And then each turn—or underneath those, there are prompts, like “your face in the river” or “the last time you saw real magic,” or “why you serve the Magus.” There are also scenes that have, instead of having just…prompts, there are traits, like Beautiful, Legendary, and Fierce. There are other things that we’ll find underneath scenes, and we'll talking about those as we come to them! [slight laugh] Um. So. Each turn. [reading] On your turn—actually, this—so this is at Ravenhall, now, but that’s it. Uh, on your turn, move your character token and describe the scene from their perspective. Before your scene ends, use the story prompt to add an additional element to your scene. 
+So first you move your character—does anybody have a strong feeling about going first? Okay, I’ll go first. Um. Move your token. Place your token on any of the scenes at the Magus’s current location. Uh. So I’m going to move Caspian the Crab Singer of Istallia to…um… Hm. Let’s see. I think I’m going to… I’m gonna move him to the bridge. Um. So… [sighs] 
+What we—we open on a shot of Caspian like actually in the—a reflection of Caspian up in the sky, with this kite—this kind of kite with a footing board that he’s standing on. He has long like shoulder-length hair, dark hair. Tan skin. Like—tan, brownish skin. And is like doing tricks in the sky. Um. But it’s clear that the wind is dying down. Not just—not just the wind in this place, like. There is something in the moves that Caspian makes that are like…seeing someone who is going out surfing at the end of the summer. Or seeing someone who is doing an encore at the end of a set, and…there is something joyous in it, it’s just like [heartfelt] ah, I love this so much. But also you can see that he’s like reaching for updrafts that aren’t there. And like having to pivot and find new ones. And he eventually like comes to a sliding halt just below the bridge, and like comes to a quiet like landing, and some people nearby…shout up at him as he’s like, 
+[as People]: What’s the news? 
+And he’s like, 
+[as Caspian]: Ah, no news today, just out for a fly for myself! 
+And then comes to a halt, and runs over into the—over the bridge. It’s a stone bridge, it’s an ancient bridge, it’s a bridge that was here—this is the first thing that was built at Ravenhall. Ravenhall began as Ravenbridge, and it was this bridge that connected two distant villages that since became kind of the east and the west sides of this town, and from the bridge, there was trade and commerce and exchange, and so, a community built up around that. And so, he runs across the middle of this huge stone bridge, and then looks down at his reflection in it, and is kind of thinking, if I can’t be a crab singer, what can I be? What would ever bring me as much joy as this? And that is what I’ve done here. 
+So underneath each scene is a story prompt. [reading] Before your turn ends, you must use the story prompt to add an additional element to your description of the scene. When you’re done, pass the turn. 
+I’ll just read these good ideas for us, because they’re good ideas. [reading] Start with a physical description of the place. Use touch, smell or taste in your description. Ask lots of questions, like ‘what does the Rose Garden look like’ or ‘what is going on at the Bridge right now’. 
+Actually, that’s a question I actually do have. What is going on at the bridge right now? And we’ll wrap back around to that once I finish these other good ideas. [reading] Leave plenty of space for quieter players to speak. Speak in character. Ask someone to play a part of your scene, like a fisherman, the wind, or a flock of birds. Describe a brief moment in detail. When you revisit a scene and show—when you revisit a scene, and show what has changed. That’s…not a full sentence, but that’s okay, I get it. Skip ahead to the part that interests you. Go back to something interesting we skipped. And ask for ideas! 
+Um, so actually, I do have a question. What is happening as Caspian lands on the bridge?
+Jack: I think that there is a parade taking place [Austin: Mm.] or there’s not a parade yet, there’s gonna be a parade. It’s hard to tell whether or not the parade has happened, or there’s going to be a parade. [Austin: Mm.] There are sort of wooden and stone temporary barriers that have been set up. there are some sort of like very sort of bored-looking guardsmen [Austin: Mm.] walking up and down and making sure that everything is okay. And distantly you can hear the sound of drums and long kind of like long horns being blown, [Austin: Uh-huh.] but you can’t tell whether or not the parade is coming towards you, or has passed by.
+Austin: Gotcha.
+Jack: But over the rooftops, elsewhere in the, you know—Ravenhall is like a big palace with an ornamental garden. It’s sort of like one part Versailles and one part sort of Tudor palaces. [Austin: Mm.] Or I guess, Renaissance Italian palaces. And over the roofs of the sort of the town that has grown up around it, you can see fireworks and streamers—and paper streamers and things. [Austin: Mm-hm.] I think when Caspian was up there, he could probably get a really good sense of the parade.
+Austin: Yeah. Okay! I still think that’s my scene. So quick note before we continue, which is, there is this one place, the Rose Gardens, that have these traits underneath. Story prompts with a plus symbol are traits. After describing a scene, select one of the traits listed and describe how that is true about one of the characters, yours or that of another player. And then write that trait down on the character’s notecard. So that is what those are, those are still prompts, it’s just that those are prompts that you can choose to assign to one of the characters. Um. So who’s next?
+Dre: I can go.
+Austin: Okay!
+Dre: Uh, I’m gonna be at the Scrying Pool.
+Austin: Oh, I should give you—oh, you have control. Good.
+Dre: Yeah.
+Austin: Nice.
+Dre: Um. So I guess, does this scene need to take place like where the scrying pool physically is?
+Austin: I don’t know, what do you mean? Give me—talk me through your thoughts.
+Dre: ‘Cause I think like, I have an idea for like why Piccolo—or why I serve the Magus. [Austin: Mm-hm.] And maybe that’s what it is, maybe that’s what the scrying pool is. It’s like, Piccolo has gone there, and it’s like a way to like look into his past.
+Austin: Okay.
+Dre: And… 
+[30:00]
+as a moment of like reflection before he goes on this journey. And the reason that he serves the Magus is he’s looking into the scrying pool, and I almost imagine it kind of like. Is it called the eluvian, is that the thing from Harry Potter that you see like memories in?
+Janine: The eluvian is from Dragon Age.
+Austin: Thank you.
+Dre: Okay. Thanks, I don’t know.
+Austin: Is it also from—I mean, is it—
+Janine: The Mirror of Erised I think is the one from Harry Potter, ‘cause backwards it’s Desire.
+Austin: [crosstalk] Ohh. Ohh.
+Jack: [crosstalk] It’s Desire backwards. [amused] She hides secrets all over those stories.
+[Austin laughs deeply in delight]
+Dre: Wow. Okay.
+Janine: And politics.
+Austin: Jesus Christ.
+Dre: That’s—there it is. Thanks, Michael Wolf, pensieve is what I’m thinking of.
+Austin: Oh my god. Okay!
+Janine: Oh, that’s the thing you take memories out of and put in, right?
+Dre: Yeah, it’s something like that.
+Janine: Yeah.
+Dre: Yeah. Um. But so I think Piccolo’s watching a scene from his life, like several years ago where he was a [Austin: Mm.] small child, and it’s just him and Ma and Pa on the farm, and it’s a real bad winter, and all of the pigs are dying, and they—Pa leaves one day to go get help from the Magus, and before he even gets back, Piccolo and his Mom wake up the next and like all the pigs are suddenly healthy again. [Austin: Mmm.] And they’re like bigger and fatter than they’ve ever been. And the dad comes back and everything is great, and—but one night Piccolo overhears the mom and dad talking, and the mom is like “Well, what did he want?” and the dad says, “I don’t know, he said he’d ask for a favor.” And that favor was that Piccolo would have to accompany him on this journey.
+Austin: Mmkay. What’s—how old is Piccolo.
+Dre: Um. 16.
+Austin: Okay. Cool. Um. Where is the scrying pool at, that you’re looking in? Like is it in a room, is it like in a—[amused] is it in a room. [Dre laughs] I mean, is it indoors or is it outdoors? [crosstalk] Is it in like a room dedicated to…
+Dre: [crosstalk] I like the idea of it being like outdoors and kind of [Austin: Okay.] like a columned—I don’t know why my words aren't working today. Like a columned patio.
+Austin: Yeah.
+Dre: So like the sunlight can reflect on it and—yeah.
+Austin: Is this something that anyone can do, or is this part of being a servant of the Magus that you can use the pool?
+Dre: I definitely think it’s a part of being a servant of the Magus, and it’s [Austin: Okay.] like, you’re about to go on this very long trip and you may not make it back, or even if you live like we may have to stay there, so. It’s almost like a gift, I think? To like [Austin: Mm-hm.] go back and relive some of the best parts of your life. You know. Take joy in the things that you might have to leave behind while you can and… Yeah.
+Austin: Cool. All right. Who has the next scene?
+Janine: Um, I could go.
+Austin: Mm-hm.
+Janine: Uh… I think Fawn is in the Rose Gardens, yeah, I think I’ll go with that.
+Austin: Okay.
+Janine: Um. And I think okay so Fawn is in amid this sort of garden, and it’s a very dense garden. It’s one of those gardens that on a surface level might look very poorly maintained, because it’s so dense, and because there is kind of a randomness to where the plants are, but all the plants are flourishing, like everything is in bloom. Very very large like—like this is a rose garden but these are roses that are like the size of an oversized teacup, like they’re very big…sort of flowers you could sort of cradle in two hands, that kind of thing. So someone does take care of this place, it’s just that you maybe wouldn’t recognize it if you were expecting it to be a certain kind of garden.
+Austin: Mm.
+Janine: And Fawn is sort of amid these blooms, and is probably very hard to see because it’s so dense, and she is like a little ground potato. Not like tiny. Like, she’s still like a dog. Size. Um. But she’s sort of in this dense vegetation, like… This is—you know, she’s going for a stroll, basically, but it is a dog rooting around rose bushes.
+Austin: Mm-hm.
+Janine: She has a lil cape. And a very fancy hat. Like, lots of feathers. [Dre laughs] Probably like a stuffed bird, actually, on the hat?
+AustinDre: [whispering] Jesus.
+Janine: Gold-capped teef. Little toeless shoes, so she can still use her claws, but she’s still very proper. I think she has like a heavy brass pendant that looks a bit like a door knocker on a chain? And she has patterns razored into the fur on her haunches.
+Austin: Perfect.
+Janine: [laughs] And she’s going for a stroll in the rose gardens, kind of… You know, to her this is the closest place to home. [Austin: Mm-hm.] And it’s a very artificial kind of thing, but she still appreciates it.
+Austin: Are there other people in the garden right now?
+Janine: Mm… I imagine there is like a little collection of maybe students. [Austin: Okay.] Who are discussing something, sort of in a closed circle that she’s not really a part of.
+Austin: Cool. Anyone else have questions before we end the scene?
+Dre: Can Fawn like talk?
+Janine: Yes.
+Dre: Okay!
+[Janine laughs slightly]
+Austin: Do people ask—
+Janine: She could talk to them if she wanted to.
+Austin: Okay, but she doesn’t, so. Gotcha.
+Janine: She’s not a student, she doesn’t think she could contribute anything to that conversation.
+Austin: Gotcha.
+Dre: Can all foxes from Mistwood talk, or is Fawn special?
+Janine: Mm, I don’t know all foxes from Mistwood and I don’t think Fawn does either, so. [laughs]
+[Dre laughs]
+[Jack laughs]
+Austin: True. [crosstalk] Good. I’m gonna—
+Dre: [crosstalk] Fair enough. I think I was asking a loaded question!
+[everyone laughs]
+Janine: Should I assign this trait? [crosstalk] Is that how it goes?
+Dre: [crosstalk] Yeah.
+Jack: [crosstalk] Yeah, yeah yeah.
+Janine: Hm.
+Dre: Make me beautiful, Janine.
+Janine: I was gonna make Jack beautiful.
+Dre: That works too.
+Jack: Oh, thank you!
+Janine: I think a beautiful golem—there’s a lotta ways you can go with that.
+Austin: [crosstalk] I can hear it—
+Janine: [crosstalk] To clarify for chat, Fwn does walk on all fours, yes. She has four boots. None of them have toes. [Austin: Does she have like a—] They’re just—they just mostly cover like the heel and the ankle.
+Austin: Does she have like someone who makes her boots?
+Janine: Maybe she makes them. [Austin: Ooh!] I think she makes them. She makes her boots and her hats.
+Austin: Okay. Okay. I can get with that.
+Janine: She’s a haberdasher. [laughs]
+[Dre laughs]
+[crosstalk] Milliner, actually, I think—
+Austin: [crosstalk] And a bootmaker. A milliner and a bootmaker.
+Janine: [crosstalk] Yeah, a milliner and… 
+Austin: It’s a classic song in this world. The Milliner and the Bootmaker.
+[Janine laughs]
+The twist ending is, the twist ending is—it’s like—so it’s a whole story, it’s like the milliner does this, the bootmaker does this, and at the end, the reveal is they’re the same person and they’re not even—they’re actually a vinegar fox. That’s the big twist, is like. Oh, you thought—
+Janine: Or it’s Puss in Boots, except it’s Bush Dog in Boots, and it’s all about like [Jack laughs] the merits of learning some trades [Austin: Uh-huh. Right.] and crafting and…
+Jack: [crosstalk] Ah…and like every—
+Austin: [crosstalk] And that’s why magic is dying.
+Jack: Yeah, like every folk tune, it’s 46 verses long.
+Austin: [laughs] Perfect. Um.
+Jack: So Janine, do you—I think you get to pick what the trait means. Right?
+Austin: Wh—and you have to introduce it, is the other thing. You can’t just say, oh, and also, boom. It’s—and also, boom, you’re beautiful now. So their example, for instance—[Janine laughs] their example, for instance, is this, ah—where’d it go? I’ve lost it. Here it is, traits. Their example is that someone give this character, Kabu, apprentice of Ravenhall, legendary. And the way that they say it is, 
+[reading] A small crowd of townsfolk has gathered in the Rose Gardens. I ask one of them, a young boy, “Why is that so many are gathered here?”
+[reading] The boy says, “Haven’t you heard? The Magus has chosen an apprentice.” The boy gets this excited look on his face. “Look, they’ve arrived!” And then I see Kabu step out of this balcony. They have olive skin, shockingly red hair, and a face that is neither masculine nor feminine. They overlook the rose gardens, waving as the crowd cheers. Kabu, I’m giving you Legendary.
+So. How do you show Harp’s beauty?
+Janine: Uh, I just wanna say that “boom, you’re beautiful now” is what someone told Fawn when she got her teeth capped.
+Austin: [over Jack and Dre laughing] [laughing] Gotcha. Boom, you’re beautiful now! It’s me, your dentist. Chip Directly.
+Janine: [laughs] Um. Okay, so I think, uh. Okay, so actually—okay, so Harp is actually from Ravenhall, so I know what this is, is… In the rose gardens, there is a statue, and it, like everything else, seems poorly kept but also well-kept in a different way. It’s made of a very very beautiful rock variety. It is, I imagine, like—you know when you get a piece of, I think it’s—is it quartz that sometimes is like pink, and then can have stripes of black and that weird kind of crystalline shimmer? I think it’s quartz, [Jack: Maybe.] like rose quartz.
+Jack: [crosstalk] We need Ali.
+Austin: [crosstalk] Yeah, we don’t have our…
+Janine: [crosstalk] And then sometimes you get like, I think it’s black… Is it mica? I used to know all this shit. I used to really like rocks.
+Austin: Rocks are cool.
+Janine: But I think it’s rock like that, that I don’t think is normally suitable for a statue of that size. Like, you would expect it to be marble or something, which is maybe why to some it looks like poorly done. It’s probably very brittle in some parts. But it is very beautiful and I think it’s the same kind of material that Harp was made of. [Austin: Mm.] Albeit to a different end.
+Austin: The end of being a person. [laughs] Instead of looking pretty. [Janine: Yes.] Yeah. Gotcha.
+Janine: Yeah.
+Jack: Yeah. I’m up for that.
+Austin: All right, so do you wanna add Beautiful to Jack’s sheet?
+Janine: Yes.
+Austin: I’m gonna move all the flip side tokens [Janine: Woah.] over to the right. Or over to the left, rather, so that they are just out of the way.
+Janine: Yeah.
+Austin: Um. We know where they are. But we need to see our sheets, so. [pause] Sorry, I got confused and grabbed—did I grab the—okay. Yeah yeah yeah. We’re good. Boom, you’re beautiful. Good. Great.
+[Jack laughs]
+Good and great. Um. All right. Jack.
+Jack: Ah, I am going to go to the Menagerie.
+Austin: Okay.
+Jack: I think that…Harp is a statue of…a soldier from a long time ago.
+Austin: Mm.
+Jack: From maybe a thousand years ago. But is actually comparatively recent. I think they were made, y’know, maybe two hundred or three hundred years ago.
+Austin: Mm-hm.
+Jack: Instead of a thousand, in the same way that we might look at a statue of a Roman centurion or something, and—
+Austin: Right. Right.
+Jack: And I think that they are carrying—in one hand, they’re carrying a sword that we can see, y’know, on their token. [Austin: Mm-hm.] And in the other hand they are carrying…a pair of…like gardening shears? No, they’re carrying like a rake. Because they are visiting the menagerie, which is—it’s a cross between a zoo and an aviary, and an apiary, and also there’s just like lizards here that are made of stone, there’s birds here that are made of…brambles, and…you know, daffodils, and sunflowers that have been woven together.
+Austin: Mm-hm.
+Jack: There is a snake, that is made of water that holds itself together just spectacularly. And they’re in cages, but the doors to the cages are all, yknow, open. They’re not really going anywhere, they're just hanging out. And I’m remembering the last time I saw real magic, which was when somebody brought this thing to life. When the current owner of Ravenhall inherited the palace from their grandmother, a whole wing of it was—a whole wing of the gardens were, y’know, in complete ruin and in complete disrepair. So the first thing this person did was awaken a statue carrying a sword and a rake to bring it—you know, to bring it into line. And then the second thing that they did was transform the material of this kind of lost quarter of the garden into this remarkable menagerie, kind of from scratch. And the really remarkable thing, especially in our context, was that the person who was doing this was only a agent of the Magus. Their power [Austin: Mm.] was, y’know, not even close to the power that the Magus has.
+Austin: What—so you weren’t—so then—what’s your relationship with the Magus? Or actually, I guess, here’s my question: the Magus shows up.
+Jack: Mm.
+Austin: It is my turn, I am—when we wrap around, the next person’s turn, after we’ve all made our moves, the—if your character is already on the map, you may opt to move the Magus instead, advancing us along the dashed path to a new—oh, I guess that’s to new location. Um, so that would be actually like to the next place. So instead—I’m not gonna move it here, but I am gonna ask at this point [Jack: Yeah.], what is your relationship—I think the Magus does come in. So one, what is your relationship with the Magus, and two, what’s the Magus—who is the Magus in our story?
+Jack: Um, so my relationship with the Magus is that I was built on her instruction.
+Austin: Mm-hm.
+Jack: The Magus kind of wrote down, y’know—the person who inherited Ravenhall, who is called…Princess Angelique, she inherited Ravenhall, and she said, you should do something about that. [Austin laughs] [laughs] That bit of the garden that sucks. And the Magus went like [clicks tongue] yeah, I should do something about that bit of the garden that sucks. [Austin laughs] and she wrote a list, and one of the things on the list was, make me some statues come to life, please? 
+Austin: And you are one of those.
+Jack: And I’m one of those statues. The Magus is… She is… I don’t know, I think she’s…an elderly woman, she is in her mid-60s. She walks with a cane. She has grey hair kind of pulled up tight onto a bun on the top of her head.
+[45:00]
+She cares about Ravenhall, but she has a lot of responsibilities.
+Austin: Mm. Can you smell?
+Jack: No.
+Austin: Okay. Um. If anyone else was there, what they would smell is the smell of caramel as she walks through the menagerie with some sort of caramel salt treat, basically like caramel popcorn of some kind, something like that, that’s like been freshly made. It is warm to the touch. And—I mean, you just said this is the last time you saw real magic, which tells me something about where the Magus is. And we know that we’re going to Umbra, which is where magic was born, and she needs to know how to get there. So. She walks to you, and asks for your rake.
+Jack: I wordlessly hand it over.
+Austin: She nods to you, and she says… [pauses] Your name’s Harp, right? Um.
+[as The Magus]: Harp. 
+Austin: Can you talk?
+Jack: I can. I’m just - I’m listening.
+Austin: Okay.
+[as The Magus]: You’ll accompany me. 
+Austin: And then she lifts the rake to the top of the…glass enclosure where the birds of bramble are. And she pushes it up and through the glass, shattering it. And there’s like a loud crash, and the bramble birds all fly up into the sky, like a flock, that then entangle with each other, and become a huge, sweeping roc. This massive eagle of loose tree limbs and branches. That like everyone in the entire town of Ravenhall can hear the flaps of the wings. 
+And I think we get a shot of Caspian, like noticing that the wind is picking back up, and like catching on to the wind with his kind of kite, y’know, thing, and then I think we just get the shot of everyone leaving. The city. Because we’re moving. I have to figure out where we’re moving, so I have to [slight laugh] move this black thing really quick.
+[Dre laughs]
+Looks like we’re goin to the Oak Hills, friends! [pauses] Um. So. On your turn, if the character’s already on the map, you may opt to move the Magus instead, advancing us along the dashed path to a new location. Remember to roll up the canvas to hide the places on the map we just left. I’m not gonna do that yet, because we still need to come back this way, it looks like, so I’m not gonna rehide this part. Um. After moving the Magus, remove the other character tokens from the map, then describe that location and its story prompt from the perspective of the Magus. Uh. When you play the Magus, show us who they are, what they are thinking, and how we travel together just as you would on your own character. So I’m gonna move everybody’s things back up. Actually, everyone else can do it, ‘cause I don’t remember whose is what’s.
+[Jack laughs quietly]
+Um. Uh, and so this is “the ending of summer,” is the prompt here. Um. I guess first of all, like, do we all just kind of organically come together on the way out of the town?
+Dre: Um.
+Austin: Or was this agreed upon—I mean, with…Piccolo, it’s clear that you were—it was agreed upon with you, right?
+Dre: Yeah. I mean, for Harp, too, right? If the Magus [Austin: Yes.] just came to Harp and said, you’re coming with me.
+Austin: Yeah.
+Jack: Yeah.
+Janine: Um, I think that Fawn senses the Magus leaving and just kind of…inserts herself into that group. [Austin: Mm-hm.] Is just like, you’re leaving. I’m going to go with you, I’m going to…make sure that…everything goes okay, or y’know.
+Austin: Mm-hm. And I think Caspian like figures out where the wind came from, and like takes to the sky and is just like hovering behind everybody, and is singing out the story below. And there's a point at which the Magus turns and thinks about like, dismissing him in a pretty blunt way? But lets him continue behind her. Um. By the time we get to the Oak Hills following the trail of the bramble roc, we… You can tell that it is the end of summer because the honeydew—not honeydew. The, uh, what’s the flower I’m thinking of called?
+Jack: Honeysuckle?
+Austin: The honeysuckle, it is blossoming for the second time? And it’s like the thing—the way that it works in the Oak Hills is that the honeysuckle blossoms once at the beginning of summer and once at the end. And there’s this two week period in the middle where all of that smell vanishes, and everyone likes it a lot because they are just sick of it. [laughs] By the time the center of the summer comes. But now it’s coming back for the final bit, and it’s almost sickly sweet in the air. Just row after row after row of this honeysuckle, and it has, in a sense, infected all of the various vegetation across these hills. These like little white flowers, coming out of like their natural honeysuckle bushes, but also vines and trees, and I don’t mean that there are—I don’t mean that they have parasitically worked their way around the roots of trees or the trunks of trees. I mean that in addition to whatever a thing traditionally blossoms, it now also blossoms this honeysuckle. Um. And there’s a kind of a double bind here, which is, no one likes the smell. But. What they export is the dew of a honeysuckle here. They collect it. And it is what has brought the Oak Hills any of the wealth that it has. And so we see an image of the Magus with her followers, walking past the laborers who are collecting the dew of the honeysuckle, into little—into glass jars. And… I think she probably strikes up a conversation with Harp, Fawn and Piccolo. She says,
+[as The Magus]: Little boy. How far have you travelled from Barley Town? Have you made it to the Oak Hills before?
+Dre [as Piccolo]: Yeah, I gotta go through Oak Hills to get to Ravenhall.
+The Magus: You don’t have to. We’re going this way because the bramble roc leads us, but you could pass through the woods. You could travel the cliffs. Fawn, you know these ways, yes?
+Janine [as Fawn]: Pretty well.
+Austin: [laughs] Piccolo, have you heard Fawn speak? Do people—have people [Jack and Janine laugh] met Fawn the vinegar—the talking vinegar fox, what is wearing fuckin—
+Janine: I bet those are at least the first words she said since they left Ravenhall.
+Austin: [amused] Okay.
+Janine: Any familiarity beyond that, who knows, but.
+Dre: Uh, yeah, no, that’s probably the first time that Piccolo’s ever heard an animal talk before. So yeah, he probably does a double take.
+[as Piccolo]: Y…you make that fox talk?
+Fawn: No one makes me talk.
+Piccolo: Well, I—oh—…I’m sorry, I didn’t mean to assume, I—but… I mean, did the—Magus, did you enchant the fox?
+The Magus: Not all magic is enchantment.
+Austin: And she grins, and then just like walks ahead.
+[as The Magus]: Some of it is, though.
+Austin: And she asks for—she says, 
+[as The Magus]: Harp. Can you go to the hill and see what’s ahead?
+Jack [as Harp]: It will be done.
+The Magus: Some of it is, though.
+Austin: I think that’s…
+Piccolo: [whispering] Fawn, what’s the fanciest word you know?
+[Austin laughs loudly]
+Fawn: [sighs] Gregarious.
+[Austin laughs again]
+Piccolo: Ah, that’s a fancy word!
+[amused noises]
+Austin: Lord. I don’t think I have more to that scene. I think it’s a good ending to that scene. Uh, all right. So Jack.
+Jack: Um. The morning comes slowly. It is… We know that summer is ending, and—
+Austin: Oh no, you’re going somewhere. You put your—it’s now your turn, Harp goes somewhere.
+Jack: Yeah yeah yeah, I’m moving [Austin: Oh. Okay. Sorry.] myself to At Dawn.
+Austin: Ooh, okay. Oh, I see. I didn’t see that there.
+Jack: [laughs] It’s hiding there.
+Austin: Yeah.
+Jack: Um. Uh… At first the sky is kind of dark blue, and then it’s dark grey, and it’s grey, and then in that way that late summer early autumn mornings are, for a moment the sky is grey, is very bright and grey. And it’s cold, there is damp on the ground, dew on the ground. And Harp gets up, and…strikes one of their hands against their other hand to light a little fire. Puts some sticks together. Um. And…in the… By the fire, as it’s warming up, they put a kettle over it to get some tea going for when other people wake up. I don’t think I slept. I think I probably kind of stopped, but I don’t think I need to sleep. And then as the light begins to enter the sky properly, they hold their arm out in front of them, and their thumb forms the gnomon of a sundial? And as the sun rises, the shadow moves [tinny music plays in background] across the ground around the golem to mark [crosstalk] the time that it is, just as—oh!
+Austin: [crosstalk] My phone has just started playing music. Sorry.
+Jack: [over Dre laughing] Good morning! Good morning.
+Austin: Oh my fucking god.
+[Janine laughs]
+Jack: Good morning, everybody!
+[Janine and Austin laugh]
+Austin: Perfect! Good. 
+Dre: Harp has a jukebox [Austin: Uh-huh!] that just pops out!
+Jack: [laughs] Ah, yeah, no. So I’m marking the time as the kettle sort of begins to whistle beside us.
+Austin: Um. How cl—how—what is the—from here, are there other communities here, or is it really just—is it just farms for as far as the eyes can see, like [Jack: Ah, it’s not—] are there other… Are other people waking up now? So, is kind of what my real question is.
+Jack: Yeah. Uh, but it’s not farms, it’s a farm. It’s one farm. The image that we can see is of these kind of like four rolling hills and the landscape is scattered with these kind of low hills, but it’s a gigantic…cooperative farm, with hundreds of workers. Who are sleeping, who have made camp—and in fact, I think that’s what we see is the embers of the fires of the various other farming and honeysuckle collecting camps as they begin to wake up, or change watches.
+Austin: Mm. I like that a lot. Okay. Dre…
+Dre: Hm. I think I’m gonna do the Making Camp scene.
+Austin: Okay.
+Dre: Um. And I think…the scene is that Piccolo’s out in the woods, and he’s looking for a specific kind of plant that when you burn it like over the fire, it actually releases kind of a smell that counteracts the sickly-sweet smell of the honeysuckle. Um. ‘Cause some people were complaining about the smell just being like—not letting people sleep at night and stuff, and so he’s trying to help out. But he can't find anything, and I think at that point that’s when Caspian comes swooping overhead.
+Austin: Mm-hm.
+Dre: And Piccolo looks up and shields his eyes and goes,
+[as Piccolo]: Heyyy!
+Austin: Uh, and Caspian like does a little loop, and then flies back down towards…towards Piccolo.
+[as Caspian]: Hey there, boy!
+Piccolo: Hey, can I… Can I get some help?
+Caspian: [stammers]
+Austin: And then comes down to a soft landing, and like does like a little hop-run off the thing, and is like,
+[as Caspian]: What do you need?
+Piccolo: All right, I’m lookin for this plant, um. It’s kinda more like—it’s kinda more like a weed. I just thought maybe—I haven’t been able to find any, and I see you flyin around up there, I thought maybe you’d seen it. It’s got like this blue flower, uh… 
+Austin: Caspian has pulled a long toothpick from somewhere, and is picking at his teeth. Um. [slight laugh] 
+Piccolo: [crosstalk] [stammering] It’s got a blue flower…
+Austin: [crosstalk] Janine in the chat says, “Piccolo lookin for the weed hookup. True 16-year-old.”
+Dre: [exaggerated Piccolo voice] Hey man, I saw you were high up there.
+Austin: [laughs loudly] Tryin to look for a plug real quick.
+Dre: Yeah [laughs]
+Austin: Uh… Caspian is like.
+[as Caspian]: Yeah—yeah, I don’t know that I have, but how ‘bout you come up and we’ll look around for it?
+Piccolo: Wait, hold on. You can take me with you?
+Caspian: I can take about a person and a half, and I’m about three fourths of a person, and I’d say you’re about half! So we got a little wiggle room.
+Piccolo: This is the most exciting day of my life, mister. What’s your name?
+Austin: [laughing] I can’t believe that Bobby Hill is finally in Friends at the Table. [Dre and Jack laugh] I’m so happy.
+[as Caspian]: My name’s Caspian. The crab singer!
+Austin: And like does like a little like flourish, like. Stops picking his teeth, slides the toothpick—it’s like a long metal toothpick—behind his ear like a pencil. And then does like a little flourish, and sings a little bit of a tune, about the weather, and it’s just like—it’s just like, um. 
+[as Caspian]: [sing-song] Sunny days, Monday through Wednesday, but watch out for Thursday! It’s bad! [laughs]
+[Dre laughs]
+Austin: And it’s like.
+[Jack chuckles]
+[crosstalk] It’s not great.
+Piccolo: [crosstalk] Well, what’s Thursday!? What’s Thursday?
+Caspian: We’ll find out! Ah, I can’t read the winds, but I can sense them, and it seems to me that… [more seriously] It’s rain. It’s gotta be rain.
+Piccolo: [stammering] Okay, that’s not that bad… [crosstalk] Rain makes things grow.
+Caspian: [crosstalk] Anyway, hop on board, and we’ll look for this blue flower of yours!
+Piccolo: Ohh. You know, if I hadn’t just seen a talkin dog, this would have been the most exciting thing I’ve seen all week.
+Caspian: Wait a second, that dog talks, the one with the little cape?
+[1:00:00]
+Piccolo: Oh yeah.
+Caspian: Ohh, this is amazing!
+Piccolo: You know what it said?
+Caspian: What did it say?
+Piccolo: Gregarious.
+Caspian: That’s its—its name is Gregarious!
+Piccolo: [crosstalk] No, no, it’s—
+Caspian: [crosstalk] Gregarious the talking fox!
+Piccolo: No, its name is Fawn, I just asked what the fanciest word it knew was, and it said gregarious.
+Caspian: [crosstalk] Its name is Fawn? It’s a fox!
+Piccolo: [crosstalk] Which is—which is pretty… Well, yeah—listen, I don’t ask questions! I asked one question, and it got real mad!
+Caspian: I’ll keep this in mind. Hop on board, let’s find this flower.
+[pause]
+Austin: And, uh—
+Dre: I’m gonna say Caspian is Kind.
+Austin: Aw! I’ll take it. Um. You wanna add it to my thing here? My… [Dre: Oh, yeah.] sheet? It does—it explicitly says to write it down on—then you write that trait down on the character’s notecard. So. So you should do it. Awesome. And then we take off, and I think we—do we find the flower, or do we not find it?
+Dre: I think we find it! You can fly!
+Austin: Yeah, okay, cool. We find it. Um. And we just get that little scene. I like it. All right! [sighs] Janine!
+Janine: Um…I think… Okay. I’m gonna go down and do…By Firelight: “a comfort from home”.
+Austin: Okay.
+Janine: So I think this is—I don’t know wherey this takes place in like the timeline of stuff. I mean, it’s gonna be in the evening.
+Austin: Yeah. I think the whole thing here is like, the roc—
+Janine: You’re spending some time.
+Austin: Yeah, the bramble roc—we can only move when the bramble roc moves. So if it [Janine: Yeah.] decides it wants to take a rest, it takes a rest.
+Janine: Yeah. So I think da—er, Fawn. [laughs] I was gonna call her Dawn. [Austin and Dre giggle] I was reading the word Dawn. Fawn…has… Probably the first day, she just dug a little trench to sleep in. She dug out a little hole, and just like curled up in there, and had a nice time. By the second night, she probably comes—she sort of comes up with like—no one is probably sure how she did this, but. She had some rope, and she sort of tied the rope in a very smart and secure formation around this small hollowed out log. [Austin: Mm.] A sort of sling that’s so she could drag it back to the camp, and then she does that and then she doesn’t untie the rope when anyone’s looking, but the next time they look back it’s untied, and just like there’s just this hollow log for her to hang out in.
+Austin: Mm-hm.
+Janine: And that’s where she probably eats, and things like that, just so it’s a little—it’s cozier, it’s out of sight, it smells very musty, it’s…it’s cool when it needs to be, but holds the warmth in at night. And is sort of…mossy, the wood is very soft, so her claws kind of tear it up when she walks in and out of it. And she…she has some meat in there that she’s eating. And it’s just, y’know, it’s just raw meat. She’s a dog, like. [laughs] She’s a wild dog in nice clothes. [Austin laughs a bit] So she’s just at camp in this hollow log, and there’s probably some weird sort of wet gnawing sounds as she’s sinking her gold-capped teeth into this… I mean, it’s probably not a super small animal. It’s probably like a reasonably-sized ground bird or something.
+Austin: Right… Cool.
+Janine: And she’s sort of tearing the feathers out, so there’s probably a lot of feathers around the log, also.
+Austin: How does—
+Janine: A comfort from home.
+Austin: Is this something that… How did this become a comfort from home, is kind of my question. Like—
+Janine: This is just like her—this is a natural kind of… [crosstalk] thing for her.
+Austin: [crosstalk] Okay. I didn’t know if it was natural or taught. [Janine: Yes.] Do you know what I mean?
+Janine: Yeah, no, she very much like grew up in—she considers herself fortunate to some degree, I suppose, because she was raised out of a hollow log, and there are a lot of hollow logs all over the place, so [Austin: Tell me about it.] there’s a little taste of home available for her.
+Austin: Yeah…
+Janine: Pretty much anywhere she goes, she can find somewhere to get nice and cozy and feel safe. [Austin: Cool.] She considers herself very fortunate for that.
+Austin: Nice. Trying to think if I have any other questions, I don’t think I do. Um. All right. So i think—so obviously Caspian—well, not obviously. You could totally double dip. I don’t think the ru—book doesn’t say anything about not double-dipping, like I could go to Making Camp here, but I really wanna see Harper’s Road: “who Caspian left behind”, and… I think Harper’s Road is called such because there is a travelling—like, in the Oak Hills, there is not much wind, traditionally, and so instead of having crab singers, like you do in Ravenshall and in Istallia, you have harpers, who travel the roads, telling stories and singing ballads, more than telling news? And the Harper is—and I kinda want Harp to be in this scene with me, because [Jack makes an amused noise] of the double thing here. I think we get Caspian leaning on the back of a—and like sits like—lands, sits down, it’s sunset, you can hear the harps in the distance. The harpers work in a trio. They have three different sizes of harp that produce different sounds, like different…I guess octaves, or not octaves, but like [sighs] Jack, you’re a musician. Like deeper sounds, lower sounds, lower—
+Jack: Lower octaves?
+Austin: Octaves, yeah. Lower, middle, and higher octaves. And I think that what happens is Caspian like heads down to the ground, and like pulls out a little notebook, a little like handmade notebook with some leather and some parchment paper that has been stitched together, and goes to lean against a rock, and it is not a rock, it is… It is Harp, who is also seated on the ground. And just like, does not realize that this is not a weird rock, that this is a person. And leans back against them. Uh, sorry, what was Harp’s pronouns?
+Jack: They/them.
+Austin: They/them? Okay. Leans against them, and just literally doesn’t notice. And starts to like—you can hear Caspian like trying to work out a melody. 
+[as Caspian]: [singing softly] Huh do do, do-dodo-do-do, bup—[negative] mm-mm, no. [singing] Do do do, bu-bu-bu-bup—mm—no. No.
+Jack [as Harp]: The song is improving.
+Caspian: Wh…uh, wh—woah!
+Austin: And like jumps up and spins around, and like the jacket that Caspian is wearing like swings open, in this very like dramatic motion.
+[as Caspian]: [struggling to recover] Ahhh. The golem! I apo—
+Harp: I am a beautiful stone.
+[Dre and Janine giggle]
+Caspian: And so humble, too! Uh—I didn’t see you, apologies.
+Harp: These things happen. I have been leant against. Repeatedly.
+Caspian: At least I didn’t land on you, right, like a bird. [pause] [crosstalk] Does that happen?
+Harp: [crosstalk] That is pleasurable. Frequently when I am a statue, a bird will land upon the tip of my head, or the tip of my rake, or the handle of my sword. And in these moments, I can admire the fine plumage of the brambles, and of the flowers.
+Austin: About halfway through that sentence, Caspian points at you, and just holds it there, as if to like, wait, I’m gonna put a pin in the thing you just said, ‘cause I’m gonna have to come back around to it in a second. And he does, and he says,
+[as Caspian]: The tip of your rake? The handle of your sword? You feel those things? Those are—
+Harp: It is true.
+Caspian: Those are you, as much as the bald—cap of your head, as much as the small nail of your toe.
+Harp: I am many beautiful rocks.
+Caspian: But also one? Beautiful rock?
+Harp: But also one beautiful rock. When the Magus used my rake to break the ceiling of the aviary and release the bramble roc into the sky—
+Caspian: Wait wait wait, go back, go back, go back, go back. One more time, from the top. [rhythmically] When the Magus. Used my rake. To break the aviary… We have to find something else there, it doesn’t work.
+Harp: I’m not helping you write lyrics, crab singer.
+Caspian: Why not? It’s good to write lyrics, it’s…it’s a beautiful thing, and collaboration is…part of it. I’m always collaborating. Whatever I write would be about you, and the Magus, and the little swineherd, and that fox, that gregarious fox!
+Harp: Did you know the fox can speak?
+Caspian: This is what I hear!
+Harp: It is remarkable.
+Caspian: It’s already collaboration, so why not help me with the words, and then it’s not my song, it’s our song, and we get—I get to say it. That it’s our song.
+Harp: I cannot sing, but I accept.
+Caspian: [slight laugh] I’ll do the singing.
+Austin: And just then, there is music in the background, and what you hear is the harpers, who walk past…not past, like down another pathway through the woods, across the hills, and you kind of see them—in my mind, they almost look—in my mind, this is like a shot from O Brother Where Art Thou, or something, right, where like the woods are at once dense, but also very clearly a set, because there are different layers of the woods, where it’s like, not that far away, there’s clearly another pathway where there would not [laughs] traditionally be another pathway where people would cleanly walk. And so you just kind of get like us in the foreground, then a row of plants and trees, and then off in the distance the harpers, who like kind of pass across the back of the set. And they are singing a song about—they are singing a song that it’s clear Caspian knows and is trying to ignore. And it is about an orphanage. And it is an orphanage where each verse is about a person. And the first one is about Kabu, and then there’s one about Ellamura, and then there’s one about Justice, and Vago. And River… And Caspian, the one who left them. And it’s just like—it’s basically a song about…up to no good sixteen-year-olds, right? And Caspian isn’t sixteen anymore, Caspian’s like twenty-six. And it’s just like—it’s like a famous…folk ballad at this point. And here’s a question. Here’s a question I don't know the answer to is, I don’t know how long Caspian’s been like twenty-six. Um. Because this song is very old.
+Jack: Hm.
+Austin: And I think that is the—we don’t—Caspian doesn’t talk about that song. Caspian doesn’t bring it up. Caspian and Harp work on the song that they’re writing now. Uh. And that is my scene. Jack, you have the Magus.
+Jack: Okay! So, the Magus… The Magus takes one coin from her pocket and passes it into her other hand, and it becomes five. And she uses this money to pay for…a rack of little glass jars containing the honeysuckle that she puts in her pack, and she thanks the farmers for, you know. As we leave, the farmers are working all across the hills we can see the silhouettes of these people, and as they pass down the road, we can hear the harpers singing. Singing in really close three-part harmony.
+Austin: Mm!
+Jack: And we move on down the road towards Barley Town. Many, many years ago, Barley Town was a thriving farm where a little girl made a wish, and the wish that she made was that fire would never trouble her family or her people. It’s very hard to light fires there; instead they heat fires in great pits far outside the town and bring them, bring these warm stones that they kept in the fires in, and put the stones in water to boil the water, or lay meat on to cure them. But they eat a lot of fresh fruit, and of course they eat a lot of bread. Because their entire town is… You ever see wheat sheaves, up in the fields?
+Austin: Mm-hm.
+Jack: Their entire town is built out of great golden spans of wheat and barley. Some are brown, the newer ones are gold—the newer ones still are green, and are turning. There are windmills with sails made from silken barley turning. There are people in the streets. There is this great smell in the air of breweries and of mills, the sound of millstones turning. And the Magus, followed by the bush dog, and the swineherd, and the person circling in the sky above them, and the golem carrying a rake and a sword, make their way into this little town. And as they arrive, the Magus…stops, and she…gets down on one knee, and calls out to Fawn.
+[as The Magus]: Ah, little dog!
+Janine [as Fawn]: [put-upon] Yes? [sighs]
+The Magus: I have need for you in this town.
+[pause]
+Fawn: [dryly] What need would you have of me?
+[Austin laughs]
+The Magus: I have heard. You see, I have heard that you are gregarious.
+[Austin laughs loudly]
+[Janine struggles not to laugh]
+And I was never—you know, I was never one for book learning. Heh! At least not at first. 
+[Dre laughs] 
+But I understand that to mean that you are—you’re good at talking.
+Fawn: Yyyes.
+Janine: That hesitation is in character, by the way.
+The Magus: Great. There is…a man in this village that I—it is important for me to see, especially on this journey and especially…at this time. But…he will not listen to me, and I do not know where he is, so I was wondering whether or not you would be able to find him for me?
+[pause]
+Fawn: You don’t know where he is.
+The Magus: He is in Barley Town. That is what I’ve heard.
+Fawn: Do you have a shoe, or a hat that he used to have?
+The Magus: I’m sorry?
+[1:15:00]
+[Dre and Austin laugh quietly]
+Fawn: A sh—a handkerchief would work, or…a scarf. The cuff of a pant. Pant leg.
+The Magus: Are we trying to sort of…build this man from clothes?
+Janine: [laughs helplessly] 
+[as Fawn]: That’s not particularly what dogs are known to do, but I suppose that would also work.
+The Magus: I heard you were a haberdasher.
+Fawn: I do a lot of crafts. Um. [sighs] Do you have like a name?
+The Magus: [sighs] I will help you.
+Jack: And she produces from her bag one of the honeysuckle bottles that she made. And she stoppers it, pours outf the honeysuckle, and then she snaps her fingers over the bottle, and says,
+[as The Magus]: You should be able to track him with this.
+And hands the bottle to you, and on the inside, you can smell like a distinctive perfume.
+Janine: She, uh, hands the bottle to me, huh?
+Jack: Mm-hm!
+Janine: [amused] So she puts it in my mouth?
+[Dre laughs]
+Jack: [laughs] I think… [laughs]
+Janine: I guess that’s a thing I should—I should offer that. I would say that Fawn delicately takes the neck of the bottle in her mouth, I hope the top of it is secure.
+Austin: [muffled] Oh my god…
+Jack: The top of it is secure, yeah.
+[as The Magus]: You will be doing me a great favor. You will be doing us all a great favor.
+Fawn: I did come on this trip with the expectation that would be the case, yes.
+Jack: You say around the bottle. [laughs]
+[Austin laughs]
+Janine: [laughs] [crosstalk] It’s mysterious!
+Dre: [crosstalk] [mimics agreeing noises made through a bottle]
+Janine: [laughing] We’re all mysterious!
+[Jack laughs]
+No, I like—Fawn—okay, so I turn my head sideways, and then set the bottle down like bottom- [Jack: Uh-huh.] on the ground so it won’t tip over, and then I say that, and then I pick it back up. And straighten my head.
+The Magus: Thank you.
+Fawn: [through bottle] [agreeably] Mh-hrr.
+[Austin and Dre laugh]
+Austin: God. Do you… Does she find the Barley Lord? Do we get the hospitality? Or are we saving this?
+Jack: Um… I don’t know, I think it’s up to you, Janine.
+Janine: Um. I think that… I mean, I think she’s got this tool to find the Barley Lord, so I imagine she does pull it off—also, they are… [sighs] they’re referred to as the Barley Lord, so even if they’re not like… a big king man, like, you could probably…
+Austin: [laughs] But maybe that’s…
+Janine: People probably… there’s—right? Like [laughs]
+Austin: Maybe! I don’t know! Who’s the Barley Lord?
+Janine: He’s probably some local notoriety, unless that’s just a…
+Austin: Like a shitty name, like a…
+Janine: Unless that’s just like a thing he like embroiders on the inside of his shirt so he knows which one’s his. Like.
+Austin: Like the mayor, or the king, or whatever? The king of America?
+Jack: Oh, what if…? What if…he’s actually made of barley? What if this like a…
+Austin: Thank you. There it is.
+Janine: Ah.
+Jack: Like a figure that has been woven out of barley, and is…
+Janine: A wicker man?
+Jack: [unsure] Well!
+Austin: A barley man.
+Janine: A wicker golem?
+Jack: [crosstalk] I guess, yeah—
+Janine: [crosstalk] That people die inside of?
+Jack: Yeah, the people don’t [stammers] the people aren’t burnt inside of by Christopher…by Christopher…by Christopher. Um!
+Janine: By Chirstopher, Christopher, Christopher. [crosstalk] That’s copyright, unfortunately, we can’t do that.
+Austin: [crosstalk] That’s a Bluff City character for sure.
+[Dre laughs]
+Jack: Um, I think that, yeah, it’s this kind of swaying, tall barley figure.
+Austin: Can I propose something here?
+Jack: Yeah!
+Austin: He looks tall, but he isn’t. He’s just built into the field, and you can only see him from a hill. He’s long. He’s not tall. He is the field [Jack: Mm.], and if you look at the field just so, with the sun hitting it just right, you can see the figure of a man.
+Janine: Is this a thing someone would have to be of a person height to notice?
+Austin: No, it’s magic, so.
+Janine: Okay. [crosstalk] Okay. I just wanted to check.
+Jack: [crosstalk] Oh! Shit… Thomas Herbertson in the chat says “John Barleycorn?” And I think is kind of John Barleycorn, right? Like the…
+Austin: Jack, you’ve lost me.
+Janine: [crosstalk] Yeah, what the hell is John Barleycorn?
+Dre: [crosstalk] Yeah.
+Jack: [crosstalk] It’s like a… It’s like an old English and I guess probably early American folk tale about a group…a group of men who are brewing something, and—but the barley or the wheat is personified, in the folktale, as this figure called John Barleycorn, who is, you know, first buried and then has a bunch of [slight laugh] awful things happen to him? But there’s like a folk tradition of a figure made of barley or wheat. I reckon that’s what this is.
+Austin: There’s a version of this song that begins, “There was three kings unto the east, three kings both great and high, and they have sworn a solemn oath: John Barleycorn…”
+Jack: [delighted] John Barleycorn must die!
+Austin: “should die,” yeah.
+Janine: Wow.
+Jack: Yeah, they mean business.
+Janine: [crosstalk] That’s a good intro.
+Austin: [crosstalk] “They plowed, they sowed, they harrowed him in, throwed clods upon his head, ‘til these three men were satisfied that John Barleycorn was dead.”
+Janine: Jeez.
+Austin: Brutal!
+[Jack sighs]
+So that’s—okay! Good. So do you [crosstalk] find him, and then…
+Janine: [crosstalk] Yep! That’s—yep!
+Austin: What’s the hospitality? That’s my big question here, is like, all right, so you find him, you’re able to lead the Magus to him.
+Jack: Um, I think that the…the Magus…the Magus goes and sits in the corn field, and sends us off to, you know, a hostel or an inn or a tavern where we’re welcomed. I guess those of us that eat bread are given bread, and those of us who eat meat are given meat, and those of us who don’t eat stand outside with a rake. Um. And…
+Austin: Is the roc fed, is the bramble roc fed?
+Jack: Uh, the roc swoops down through one of the fields and picks up little insects and things that are feasting on the fields in the morning. But I think that over the course of the night we can see the Magus sitting in the field and… It’s strange. It’s very safe, and she’s being very careful, but for the first time in years, there's a little campfire, burning beside the Magus’s side.
+Austin: Hm. Okay. Dre, you’re up.
+Dre: Uh. I’m gonna go see my aunt Mathilda, at Aunt Mathilda’s Farm.
+Austin: Wait, you’re from Barley Town, right?
+Dre: Yeah! Who wants to be my aunt Mathilda?
+Austin: [with a bit of a drawl] I’ll be Aunt Mathilda!
+Dre: Hell yeah.
+Austin: [in the same voice] It’s me.
+Dre: [laughs] It me, Aunt Mathilda.
+Austin: Your dang aunt![???] [1:21:48]
+Dre: Um. So yeah, I think the scene is Piccolo comes over a rolling hill, and as he comes down the hill, he sees his aunt Mathilda’s little quaint farm, where she just grows—
+[as Piccolo]: Aunt Mathilda, what do you grow?
+Austin [as Aunt Mathilda]: Oh, a buncha stuff. You know, we got corn, we got barley, we got wheat. You know we got tomatoes, we got corn, also, on top of the tomatoes, we got potatoes, we got—out back we have the river, the little creek, and then in the crick we grow out some frogs, we grow out some lizards, we got that snake meat. You know we got some mushrooms. What else we got? We got firewood. We got timber. We grow everything.
+Piccolo: I have to go giggin before I leave Aunt Mathilda’s.
+Aunt Mathilda: Mm-hm.
+Austin: Uh, when you show up, she’s just like, she’s just like immediately, you know galoshes are [stammers] she says, 
+[as Aunt Mathilda]: Galoshes are on the third shelf. You get out there, you get me some frogs.
+Piccolo: All right, Aunt Mathilda!
+Aunt Mathilda: Now how you doin with that Magus? That Magus treatin you all right?
+Piccolo: [sighs] Aunt Mathilda. I don’t even know where to start! The Magus ain’t even the thing! There’s talkin—
+Aunt Mathilda: The Magus ain’t even a thing?
+Piccolo: There’s a talkin fox.
+Aunt Mathilda: Of course there’s a talkin fox, wherever the Magus goes, there’s a talkin fox!
+Piccolo: There’s a flyin man.
+Aunt Mathilda: Course there’s a flyin man. Wherever the Magus go, there’s a flyin man.
+Piccolo: There’s a—there’s a—
+Aunt Mathilda: [interrupting noise] Ah! Man made o’ rock! [Piccolo: Yeah!] And it has a, what has a shovel, and a gun.
+Piccolo: It’s…
+[Jack laughs slightly]
+Aunt Mathilda: Mm? Mm?
+Piccolo: He’s very…
+Aunt Mathilda: Don’t—ah! Mm!
+Piccolo: I don’t know if he’s got a gun.
+Aunt Mathilda: [stammers] [crosstalk] Your old Aunt Mathilda, she knows.
+Jack: [crosstalk] They. They don’t.
+Austin: Say that again, Jack?
+Jack: [crosstalk] Sorry—they use they/them pronouns?
+Dre: [crosstalk] Oh, you’re right, they. Yeah yeah yeah. Thank you.
+Austin: Right. Yeah yeah yeah.
+Piccolo: Uh… They sure are pretty, though.
+Aunt Mathilda: They sure are. [sighs] How you doin? You doin all right? You doin, uh… You talk to your ma and your pa? You send them letters wherever you go?
+Piccolo: I’ll make—yeah, and I’ll see em before I leave. Don’t worry.
+Aunt Mathilda: Hm? Hm? You practicin your writin? Gimme the letters, what are the letters, tell me the letters.
+Piccolo: [crosstalk] Uh, A, B…
+Aunt Mathilda: [crosstalk] Starts with A. Mm-hm.
+Piccolo: Yeah. Mm-hm. C, D, E.
+Aunt Mathilda: Mm?
+Piccolo: F?
+Aunt Mathilda: All right, no, you skip—that letter’s for—that letter’s—you’re not allowed to say the F one.
+Piccolo: Oh. 
+Aunt Mathilda: [crosstalk] Remember, that one’s…
+Piccolo: [crosstalk] Wait, not even the letter? But…
+Aunt Mathilda: Never the letter.
+Piccolo: That’s how you spell farm.
+Aunt Mathilda: You can say words that have the letter in it, but you can’t say the letter. You a little boy, not allowed to say the letter.
+Piccolo: Okay. So E… G?
+Aunt Mathilda: You gotta stretch. See, that’s stretching your mind and your mouth. [Piccolo: Okay.] You stretch your mind, you stretch your mouth. That’s how you know you have the limberity to avoid the demons out there. The demons want you to say that letter, the foul letter. The ferocious letter.
+Piccolo: That’s the—that’s the one between the E and the…and the G.
+Aunt Mathilda: And the G, see, that’s a big leap! The distance between R and S, that’s a small distance. Distance between M and N, that’s the same letter, basically! But the distance between E and G? You got a whole different alphabet. I’m just giving you that knowledge, you understand. A lot of people don’t have the knowledge to get through the world. [Piccolo stammers] Lot of people have to—they don’t have a mentor, a tutor! I’m trying to give you something that Magus can’t ever—why you think it’s Magus and not [as in mage] Magus? See?
+Piccolo: Aw, Aunt Mathilda, it’s gettin dark, so I’m gonna go ahead and start gettin on them frogs for ya.
+Aunt Mathilda: Ah, you better, but I need seven dozen frogs by…by star-up.
+Piccolo: [weakly] That’s—okay.
+Aunt Mathilda: I’m tryin to make you a mean gumbo!
+Piccolo: [weakly] Okay. [pause] …I need that flyin man to come get me outta this one.
+Austin: [laughs loudly] She gave you what she thought you needed!
+Dre: [amused] Yeah, which is not saying the letter F!
+Austin: Don’t say the letter F!
+[Dre laughs]
+Janine: Also, have some gumbo!
+Austin: Also, some gumbo! Also, like a big—
+Jack: With seven dozen frogs.
+Austin: Well—
+[Dre laughs]
+Jack: [crosstalk] Let me just check that really—
+Janine: [crosstalk] It’s a dense, dense gumbo.
+Jack: —quick! That’s 84 frogs.
+[Austin laughs]
+Dre: Yeah.
+[Janine laughs]
+That’s not a gumbo, that’s like a… 
+[Jack laughs]
+Janine: That’s a cake.
+Austin: [laughs] Yeah—
+Janine: That’s a hot cake. Of frog meat. [laughs]
+[Dre groans]
+Austin: But if you go into the cake, it’s hot and warm and delicious. But the cake keeps it good, the cake keeps it good.
+Jack: …Wait.
+Austin: Are you doing more math? [slight laugh]
+Jack: Seeing how much 84 frogs would weigh!
+[Dre laughs]
+Austin: Don’t forget about addin the cake! Also.
+Janine: Depends on the breed of frog, I mean, what kind of cake…
+Dre: Yeah, what kind of frog are we talking about?
+Austin: They’re tiny frog. [crosstalk] Tiny frog. A little tiny frog.
+Dre: [crosstalk] Okay. Talking about—so we’re not looking at bullfrogs.
+Janine: [crosstalk] How she prepares them, like is she soaking them in a kind of syrup first, or is she just kinda…
+Austin: They’re like fingernail-sized frogs. They’re tiny.
+Dre: You can’t go giggin for fingernail-sized frogs!
+Austin: You can if you use the right galoshes!
+[pause]
+Dre: That’s… Mm.
+Janine: You catch em in the galoshes.
+Austin: You catch em in the galoshes, [crosstalk] you just stomp around.
+Jack: [crosstalk] Nearly two kilograms.
+[quiet laughter]
+Janine: That’s less than I thought.
+Jack: Yeah, me too! They’re [laughs] pretty light. Apparently.
+Austin: [laughs] Um. Janine.
+Janine: Um, okay. I think that Fawn is on Swine Hill, which is close to where she found the Barley Lord.
+Austin: Mm-hm.
+Janine: And I think she returns there after the Barley Lord business is settled. She returns there because it is a site of some importance to her. Is a site of a battle fought long ago. And…I think she sort of in this moment is alone, and the wind is blowing through the sort of dry grasses, and she stands up in that like unsteady way that animals kind of stand up where like their front legs are kind of like not quite curled up, but they’re like kinda hanging, but a little bit curled, and they’re like a little floppy. And her back muscles aren’t super built to stand up for a long time, so there’s a bit of unsteadiness there, but she is trying to stand thoughtfully [Austin: Mm.] and kind of look out across the…the distance. And sort of breathing in the fresh air, and she remembers that during that battle, the air was not fresh, it was thick with smoke, very acrid smoke. The kind that makes your eyes water and makes your nose burn. And she was fighting…Pompona Legatus. The…the hog general.
+Austin: [laughs] Of course.
+Janine: And it was not a noble fight. I mean, Fawn was very much there to eat and kill Pompona’s people. And Pompona had a home field advantage. This was her territory, and she had made better use of it, the hill in particular. you know, there is a strategic advantage to being at the top of a hill when your opponent is coming up the side of it. And…Fawn did not win that particular fight, but…she lived. She lived, and she respected her opponent.
+Austin: Um. What is Pompona—what are Pompona’s people like at this point? Are they… 
+Janine: They’re pigs.
+Austin: Okay, but do they talk? Do they…do they have a culture, at this point? Or did you [Janine: I don’t think—] come out of it as the one with a cape?
+Janine: I think that is the thing, is Fawn is the bush dog with a cape, and Pompona Legatus was the pig with the helmet.
+Austin: Right.
+Janine: And, you know, that was part of why she was the leader. And why she was such a ferocious figure, even against Fawn.
+Austin: Hm.
+Janine: But this was very long ago and Pompona is long dead. 
+[1:30:00]
+Almost certainly.
+Jack: Did they have like a successor?
+Janine: Uh. If they do, Fawn doesn’t know about it, I don’t think, I mean, I don’t—I’m not from Barley Town, I don’t really know the structure of the hogs anymore. [Austin: [laughs] Of course.] At the time, there may have been, but. At the time—I’m gonna say, at the time, she had like a squire. Not necessarily a squire, but an understudy-type squire figure, a lesser who was…able in similar ways to her, and it’s possible that they are still around, but it’s also possible that they are long gone.
+Austin: Mm. Cool. I don’t think I have any other questions. Um. It goes back around to me. Caspian…is going to the market. And he has his kite strapped to his back, like a backpack, and he’s going from stall to stall, and is buying up what he thinks he needs for the journey. The markets—the farmer’s market at Barley Town organizes once every two weeks, and everyone from not just Barley Town but all of the surrounding like farming villages all come in. It’s not—and I mean everyone the way everyone goes to church in Puritan New England. Like, this is the thing you do. You go to farmer’s market. It is a responsibility, not an opportunity. And that means [slight laugh] that there are lots of people there who like, I have to sell something this week. Shit. Like, I don’t have… Okay. Like, I guess we’re gonna sell this at a ridiculously high price so nobody buys it. Or someone who is like hell yeah, I’m gonna get rid of all this bullshit that I have, that I’ve been trying to clean out my garage for a long time. [laughs] And it’s yard sale time, basically. And so we just get shots of Caspian—and I think I want… Piccolo with me. ‘Cause this is your hometown. And so you—Caspian like—
+[as Caspian]: All right, Piccolo, you gotta tell me where the deals are. I’m trying to make deals here. 
+And… is like, at this point, the kite has been—there’s netting attached to it, and it’s already beginning to be filled up—there is like a small keg of some sort of liquor, there are—what else is in there? There’s a lot of… Hm, what else is in there? I keep thinking of liquor, and that’s not the only thing. There’s some smoked meats that have been wrapped in parchment that are in there. Rope. There’s just like a lot—there’s like huge ream—not ream, a huge… what’s the thing I’m thinking of?
+Jack: Coil?
+Austin: Coil of rope that is like attached to the kind of surfboard part of this air kite, or this—whatever I’m calling this thing. I’m just gonna call it a kite. The bottom of it where the footboard is. There’s like a little miniature ladder that you have to build, but the parts for it are all over the kite, at this point? Like attached at various places. And he pulls out a long list, and leans down so that Piccolo can see it. And he’s like,
+[as Caspian]: All right. We still need ink, we still need…snowshoes. We still need seven candles, and an oil lantern. God, what else do we need for a trip to Umbra?
+Dre [as Piccolo]: You need any frogs?
+Caspian: [thoughtfully] I think we can find frogs wherever we go.
+Piccolo: Oh, I—but I got some.
+Caspian: With you? [pause] Maybe we could sell the frogs and then use the money to get more rope. Thin rope, we need thin rope. We already have thick rope, I’m gonna need to get some thin rope. I’m…
+Austin: And he like spends a little bit of time looking for someone who can tell him what he needs to get to Umbra. Does anyone wanna play…a con artist?
+[Dre laughs]
+[Jack chuckles]
+Janine: Yes!
+Austin: Um. [amused] Oh yeah? Yeah, Janine, you do? What’s this con artist like, who is selling—who is going to convince Caspian to buy a bunch of shit that they do not need to get to get to Umbra.
+Janine: Um, I think they are…very tall, like unsettlingly tall, but also inconveniently tall. Like, they lead a slightly inconvenient life.
+Austin: Mm.
+Janine: And also have that sort of hunch that many tall people…have when they’re sort of used to sort of trying to physically minimize themselves.
+Austin: Yeah.
+Janine: This is not a person with a confident bearing.
+Austin: Right.
+Janine: I think he also has… very long hair, and it’s braided and the braid is sort of folded up end-over-end, so it’s this [Austin: Mm.] kind of like oblong braided bun on the back of his head? And he’s wearing very subdued colors, like there is nothing outwardly that distinguishes him other than his height, from those around him.
+Austin: What is it that—does Caspian go to him, or does he go to Caspian? Does he like overhear Caspian say Umbra?
+Janine: Uh… 
+Austin: Or is this Caspian looking over stuff and like talking, like, how does he know he has a mark?
+Janine: Uh, I imagine that Caspian is browsing and there are probably a lot of people who are very straightforward in trying to sell their goods, just like, do you like that thing? And then Caspian’s like, no, I’m just looking, and they’re like [loudly] Okay.
+Austin: [amused] Yeah.
+Janine: And then that’s kind of that. Um. But this person is immediately more engaged. Like, just browsing means, to him… talk to someone until they buy the thing, and tell them whatever they want to hear [Austin: Right, right.] until they buy the thing, like high-pressure, but careful about it in a way that is… deceptive and troublesome.
+Austin: Right. So you get Caspian being like, picking up bar after bar of chalk.
+[as Caspian]: [confused] How much chalk do you need to get to Umbra? I just… phew.
+Janine [as Con Artist]: That depends—are you gonna cross the chalk bridge?
+Caspian: The chalk bridge? I didn’t—
+Con Artist: Well, it’s called the chalk bridge kind of colloquially. Um, it’s… a little more complicated than that—you’ve never made the trip before, have you?
+Caspian: No, this is my first time, I’m going with the—
+Con Artist: Okay. Yeah.
+Caspian: The Magus. We’re taking the—
+Con Artist: Yeah, the first trip is quite difficult without a guide. Um. I’ll—
+Caspian: Do you have any guidebooks?
+Con Artist: You know, I don’t, but… [crosstalk] I can give you some advice, like.
+Piccolo: [crosstalk] Y’all talkin bout the chalk bridge? I heard about the chalk bridge.
+Con Artist: It’s—you have, it’s dangerous.
+Piccolo: Yeah, my aunt told me about the chalk bridge.
+Con Artist: It’s, uh—I’ve made the trip several times myself. Unfortunately, I can’t avail myself for any price to go with you and help you, but I can definitely give you some advice for the trip. The chalk bridge is of course, the—
+Caspian: The advice is free, of course.
+Con Artist: Oh, the advice is free, yes.
+Caspian: [relieved] Okay. [crosstalk] I’ve just already bought so much.
+Con Artist: [crosstalk] The chalk bridge is, of course, it’s an invisible bridge, you see, and generally it’s seen the only way to cross it is to use chalk to mark the footing ahead of you, so that you know where it is safe to cross, so that you don’t plunge into the fathomless abyss below.
+Caspian: Of course.
+Con Artist: There are actually multiple of these chalk bridges, they are sort of broken up along the way. [Piccolo: Mm.] So generally it is encouraged to bring at least ten sticks of chalk.
+Caspian: All right, ten—at least?
+Piccolo: [crosstalk] Yeah, should we bring like eleven? Just to make sure?
+Con Artist: [crosstalk] At least. That’s honestly—
+Caspian: Yeah, eleven, eleven sounds—
+Con Artist: Yeah, ten is cutting it a little short, you might have to go back and rub some of the chalk from the other places on your fingers and then transfer it over, and that’s a very difficult, [crosstalk] time-intensive process.
+Caspian: [crosstalk] Let’s make it an even dozen, let’s just get all the chalk. [Con Artist: Yes.] You have a dozen sticks of chalk, I’ll get the dozen sticks.
+Piccolo: Mm-hm. Mm-hm. Mm-hm.
+Caspian: [crosstalk] I always—we always need chalk.
+Con Artist: [crosstalk] They also sometimes add new bridges. Sometimes they’re just building new ones, so there might be new ones since I last travelled, I don’t know.
+Caspian: Okay, okay, we’ll get the chalk, [Piccolo: Yeah. Okay.] we’ll get the chalk. Okay, what else—how bout oranges? I know that scurvy is a problem, and I don’t wanna get—there’s a child, we’re travelling with a child, like I can’t have this little kid get scurvy.
+Con Artist: Children will get scurvy if they don’t eat oranges for like at least three days.
+Piccolo: I don’t want scurvy.
+Con Artist: Mm-hm, you’re gonna wanna make sure that you have oranges, to make sure that that child eats an orange at least every other day.
+Piccolo: Hey, can, uh—can talking dogs get scurvy?
+Con Artist: Talking dogs can get—double scurvy—
+Janine: [laughing] Sorry—
+[Dre laughs]
+Caspian: Double scurvy… 
+[Janine laughs]
+Jack: [crosstalk] What is—
+Dre: [crosstalk] Oh, that’s—
+Austin: I think we just get a cut from that, to then us returning back to the camp, and it is—the entire—the kite just has this huge netting to the left and the right of it, almost like two huge, like—almost like brown bags, like from a grocery store, just like, chalk, oranges, various lengths of rope—various sizes of rope. Mugs. There’s definitely a folding chair in there [laughs].
+Janine: Air fresheners.
+Austin: Definitely air fresheners. Uh. What else? What other stuff is just in there, that makes no sense?
+Jack: Uh, sort of—inflatable floats?
+Austin: Yes. But they float in the air, they don’t float in the water [Jack: Yeah.], they sink in the water. If they touch water—
+Jack: Oh, no, Austin, they float in the air when they’ve been inflated, [Austin: Right.] and they have not.
+Austin: And they have not been inflated, no, no. There’s a model of the kite that Caspian has, like inside of one of these pockets. It’s just like a one-third to the kite. It doesn’t work. It’s made of wood. Um. But I was convinced that I needed it to get past the little doppelganger who needs to copy something and you have to make sure it’s not your vehicle, so I had to have a little one for the little doppelganger.
+[Quiet laughter]
+Um. Yeah. I think that that’s—I don’t know, I’m gonna pull from this bag of tricks throughout the rest of this journey, so that’s good.
+[Dre laughs]
+Janine: That’s good! [crosstalk] Fertile ground.
+Austin: [crosstalk] But also, broke. 
+No money anymore. Um. Harp.
+Jack: Um. I’m going to go to the Inn of the Axe and Fiddle.
+Austin: Ooh.
+Jack: Um. The Inn of the Axe and Fiddle is owned by a man called Axe. He’s a large guy with a big lumberjack’s axe on his back. And by his husband, a guy called Fiddle, who is a… He is a musician. They are both… Uh, what’s the word I’m looking for? They’re barley golems. [Austin: Oh, okay.] And [stammers] they run this local that everybody is at. Axe and Fiddle don’t seem to work at the bar. There are bartenders working at the bar. But they’re talking to various people, and they’re hanging out. Does anybody want to play either of these…folks?
+Austin: I can be Fiddle. [Jack: All right.] No, I wanna be Axe, cause I think Fiddle might be a little too much like Caspian.
+Jack: [laughing] Oh, okay!
+Austin: My Fiddle would have been.
+Jack: Yeah, diversifying the characters.
+Austin: Yeah. Yep.
+Jack: And I think that there are musicians playing, there is a band. The musicians have a cello, they have a concertina, and they have a clarinet. And there is someone singing. And they’re a human, but they are singing a song from the perspective of a stone golem.
+Austin: Mm.
+Jack: And they’re singing a song about a kingdom, long ago, deep beneath the earth, where the golems built golems, and sent them up to the surface above. And they’re singing about how—they’re singing a story about a war, and they’re singing a story about a long period of dormancy. And the chorus is about how the golems can’t sing anymore, so they have instructed the singer to convey this song. [Austin: This…] And Harp is sitting there listening, as Fiddle comes up to him. Them, sorry.
+Austin: Who’s playing Fiddle?
+Jack: Oh, sorry, Axe! Sorry, I’m sorry.
+Austin: Oh. No, it’s fine. I didn’t know if—I thought Fiddle was there now too.
+Jack: No, just Axe.
+Austin: … I have a question, out of character, briefly. [Jack: Mm.] Is the song only about stone golems, that they can’t sing? Or all golems can’t sing?
+Jack: I think all golems can’t sing, but—
+Austin [as Axe]: This is a goddamn lie.
+Austin: Says Axe.
+[as Axe]: I have an incredible singing voice.
+Jack [as Harp]: The song is a lie?
+Axe: The song’s a lie. How do you think Fiddle and I wound up together? That man loves my singing voice. Heard me out—
+Harp: Why aren’t you joining them?
+Axe: It’s a song about us. Let other people sing it. Not as interesting if we sing it. 
+Used to not be able to sing, but I found something I loved. Choppin wood. And I found the song. That’s the difference. That’s the thing the song gets wrong. See—people, they’ll sing about anything. They’ll sing about a beautiful morning, or an ugly morning, it doesn’t make a difference. Either way, you’ll make a song. Things like us, we gotta find the thing that’s in us. For me, I held the axe in my hand and I swung it, and it hit the tree and I found the rhythm. And I said, [singing] Oh! Choppin the wood! [speaking] Chop! And I went back and pulled it back—[singing] Oh!
+Austin: And like people are lookin—
+[as Axe]: And I kept singin.
+Austin: Just like does a little nod at the people on the stage, to be like, I’m not going to ruin the fact that you just sung a song about how I can’t sing. And—
+Harp: You have a beautiful voice.
+Axe: That’s what Fiddle always says.
+Harp: I love my vocation, it is true. And yet I cannot sing.
+Axe: It is not about a vocation, it’s about a thing that has a song in it. We’re thing-things, we’re thing-people. They’re people-people, they’re…
+[1:45:00]
+They find it somewhere else, they find it in ideas or in memories. I find it in—[sighs]. We’re stuff, man. 
+Austin: There’s no gender-neutral version of man and there needs to be. P—like. Uh. I guess probably knows your name, right? Maybe knows your name? So—
+Jack: Yeah, I think so.
+Axe: We’re stuff, Harp.
+[pause]
+Harp: [slowly] I am made of…denser stuff than you. Barley is light. What I am made of—it is beautiful, but it is heavy. And I fear that to find the thing…will take time, and time is not something that I or my party have. But… I will walk, continuing to carry my rake in my right and my sword in my left, and I will hope, Axe, that my song is about one rather than the other.
+Axe: I was lucky, I got an axe. I didn’t have to make a choice. Can only do a couple things with an axe, and the stuff you do good with it is, you chop down wood.
+Jack: Um, and I think that over at the bar, Fiddle has got some ale or something and brings it over, and then realizes that Axe’s guest is also a golem [Austin laughs slightly], and golems can’t drink beer, so just sort of puts it down. And I think these three golems hang out, [Austin: Yeah.] talking about what golems talk about. Which I think is, honestly, y’know, what we’ve talked about—they talk about things. Golems talk about stuff.
+Austin: Mm-hm. Yeah.
+Jack: And getting stuff, and what stuff is, and what it means, and how to interact with it.
+Austin: Cool. All right, I think we’re done with Barley Town. Dre, you have to move, and I think you’re gonna have a choice!
+Dre: Ooh!
+Austin: [crosstalk] Let’s peel this map back.[???] map [1:47:33]
+Jack: [crosstalk] Ooh, look, a fork in the road!
+Austin: Yeah!
+Janine: [amused] Hm.
+[laughter]
+Austin: Listen, if there’s a fuckin chalk bridge heere, or if there’s like a situation, I’m gonna lose my shit.
+Janine: It’ll be hilarious.
+Austin: All right. So we can either go through the Stormguard mountains, or we can go through Mistwood. [Dre: Uh…] What does the Magus choose to do?
+Dre: We are gonna go through the Stormguard mountains.
+Austin: Hell yeah. Tell us about The Coming Storm. I told you Thursday was gonna be bad.
+Dre: Yeah, I was gonna say, you know what happened?
+[Jack and Janine laugh]
+We messed this all up, and we started going through the Stormguard mountains Thursday morning. And it’s raining, and it’s bad rain. I mean, it’s coming down in sheets. And the Stormguard mountains… Like it could be quick if you walk through here, but people decided a long time ago that it wasn't worth the trouble, [Austin: Mm.] so the paths are not good. I mean, they’re very small, they’re very narrow, they’re very windy. And it’s very easy to lose your footing. I mean, there’s definitely like that classic shot of like somebody steps somewhere and like a buncha rocks tumble like two inches from where their foot was.
+Austin: Mm-hm.
+Dre: And everybody kinda like looks at each other like, uh, I don’t know about this!
+[Austin laughs]
+Um. But the Magus makes it a little tolerable. She…
+Austin: How does she do that?
+Dre: She summons like a shimmering shield above everyone, and so she can’t make the paths any better or any less tight, but at least people aren’t getting soaking wet anymore.
+Austin: Got it. Um. How’s the roc doing? Can the roc fly through this, or is this as far as the roc takes us?
+[pause]
+Dre: I’m sorry, when you said the “rock,” I thought you meant Harp.
+Austin: Oh. Sorry. [Jack laughs] R-O-C, the bramble roc.
+Dre: Yeah, yeah, yeah. Um. No, the air’s too thin.
+Austin: Oh, interesting. So does the Magus tell us that? Does the Magus say like, of course, the, y’know, we can’t go much further? Or is this a silent thing that we just all have to fuckin figure out for ourselves?
+Dre: Uh, silent.
+Austin: Mm-kay. Um. At this point… um, I think we just get like a good—I would just really want a good…like wide shot of the group in the mountains, and I just really just want Caspian to be wearing this fucking kite like a backpack that is the least…aerodynamic, least comfortable, least like managable thing. ‘Cause it’s way too big, and the storm doesn’t—it’s too stormy to have that up in the air. Um. All right! Janine, tell us where Fawn goes here. I think some of these things double-exist, maybe? It’s hard for me to tell.
+Janine: Yeah, it feels like we’re missing a thing with… Well, I guess the other ones don’t have the thing with the categories or whatever either.
+Austin: What do you mean?
+Janine: None of these have like adjectives. [crosstalk] Even… yeah.
+Austin: [crosstalk] Oh, no. Yeah yeah yeah. That’s not—instead, in fact, we have our first Peril. So… Yeah, I think Camping and By Moonlight are both shared here, is what I’m gonna say. Those both seem like things that could happen in Stormguard Mountains [Dre: Yeah.], right?
+Janine: I don’t know if that’s true, though…
+Austin: I—maybe! I don’t know.
+Janine: I don’t know, it’s weird, ‘cause…
+Austin: Like look at Wild Altar, up here, the Hall of Woods.
+Janine: [glitching] Maybe they are, because, yeah, Hall of the Woods has five things.
+Austin: Yep.
+Janine: But then Mistwood has four…
+Austin: Mm-hm. And Stormguard has three. If that’s how it cuts. If it is only under.
+Janine: Hm.
+Austin: I think it’s totally… like, I don’t think Trail of the Rangers belongs to Stormguard Mountains, or Foraging.
+Janine: Yeah.
+Austin: Let’s maybe just say Camping, Stormqueen, Scouting Ahead and Taking Shelter.
+Janine: Yeah, I don’t think there are trees on this mountain. [Austin: Yeah. Yeah. That’s fair.] There don’t look like there are any trees on this mountain thing, so. But Camping makes sense. Um. [pauses] Uh… [pauses] Okay, I think… “the worsening weather”. Um. So…
+Austin: Is that—wait, Stormqueen’s Pass, right?
+Janine: Yeah, Stormqueen Pass. Um. There’s like no good place to put this little token. [laughs]
+Austin: No, there isn’t. Just put it to the left a bit, it’s fine.
+Janine: Uh. Mm. Put it here.
+Austin: Yeah.
+Janine: Um. So I think… you know, the storm is coming, and also because we’re in the mountains, there’s probably snow, and it’s probably quite cold, and Fawn is very low to the ground.
+Austin: Mm.
+Janine: Again, not like—she’s not tiny. She’s a wild dog. But…it is probably slightly harder going for her than for others, especially ‘cause she’s from the Mistwood, like she’s from slightly more temperate—it’s still probably not warm there, but slightly more temperate than mountains, surely. And so I think that even with her little boots and her little cloak and stuff, she is having a hard time and has to kind of go at the end of the group so that the snow is already kind of tamped down for her.
+Austin: Mm-hm.
+Janine: And she’s also… She’s very quiet through this. Like she in general does not speak unless spoken to, does not speak in her…speak-voice. [laughs]
+Austin: [crosstalk] [agreeing] Her speak-voice.
+Janine: [crosstalk] Her like human [laughs] human language voice, [Austin: Mm-hm.] unless she’s addressed. But she is also vocal in like a dog voice. So there’s probably a lot of like little like really tiny like annoyed barks, like grumbly little barks, and whines and stuff like that, but she doesn’t actually put voice to her discomfort [Austin: Mm.] unless someone like talks to her about things. She probably… Mm. I just glanced at the chat and someone mentioned like does she make herself snowshoes. I don’t know that we had a chance yet. So I don’t think she has. [crosstalk] If there was an opportunity.
+Austin [as Caspian]: [crosstalk] I got good news for you. I went shopping.
+Janine [as Fawn]: Oh boy. [crosstalk] Tie chalk to my feet.
+Caspian: [crosstalk] I got us snowshoes. I got snowshoes for everybody, I made mention of this. Let me just—
+Austin: And Caspian like—we’re like underneath an overhang, and like pulls out from the back of the glider, the kite glider backpack, little tiny snowshoes?
+Janine: Oh my god.
+Austin: They’re the wrong size, but they’re as close as he could get, and he didn’t know your size.
+	[as Caspian]: I just—I—
+Janine: How tiny are they?
+Austin: They’re like doll shoes. They’re doll snowshoes. But they’re real snowshoes, but they’re for dolls.
+[as Caspian]: I know you’re a dog [Fawn: Oh.], not a doll. But they’ll fit! I… we can open up the top a little bit, and… You really talk! You just said “Oh.”
+Austin: [crosstalk] A big grin.
+Fawn: [crosstalk] Well, yeah.
+Caspian: [sighs in wonder] I’m sorry, this is rude. Here are the snowshoes. If you can get them to work, they’re yours.
+Fawn: I mean, you know, if you—I’ve got an awl, so I can open up the leather a little bit, and probably get some new lace holes in there, and it shouldn’t—I just need like maybe ten minutes? And then I can probably make these work?
+Caspian: You have an awl? Why—
+Fawn: An awl—awls are pretty useful, all around tools. Pretty much—I am surprised that you don’t have an awl, frankly.
+Caspian: Um, well, y’know. Some of us have awls and some of us have toothpicks!
+Austin: And pulls the toothpick out from behind his ear, which is basically like an awl minus the handle.
+[as Caspian]: I was just gonna use this, but the thing that’s surprising me is, you know how to work on shoes?
+Fawn: I mean, [sighs] it depends on the kind of shoe. If you want like a cork shoe, I can’t really do much about that, but basic footwear, basic leatherwork. [Caspian: Uh, loafers.] You know, it requires more patience than anything else.
+Caspian: Loafers? Can you make loafers?
+Fawn: Not stylish ones.
+Caspian: Okay, what about like riding boots?
+Fawn: Again, that’s—a lot of what you’re asking here [Caspian: Clogs?] is like a double-faceted like, people usually wear it for style as much as function, so [Caspian: Okay.] it’s difficult.
+Caspian: You have a really nice hat…
+Fawn: Thank you, I made it.
+Caspian: All right, before I go, just two more things, one… Um. [sighs]
+Austin: And just like takes a deep breath.
+[as Caspian]: I don’t know you real well, but I need you to have this—
+Austin: And hands you an orange.
+[as Caspian]: I heard about the double scurvy, and…
+[Janine and Jack laugh]
+I just need you to know, if you ever need another orange, you let me know. Also. And this has to stay between you and me, and…also Piccolo, but we got some of this blue herb. And it just helps a lot with the anxiety.
+Austin: And gives you a little [Janine laughs] [stammers] a little parchment—or not parchment, a little [Dre cackles] like pouch. And just like puts it in front—like, goes to put it in your hand—like lifts your hand up, and then, oh, you don’t have human hands, puts it down in front of you, and is just like, opens the pouch a little bit.
+[Dre laughs quietly]
+Fawn: I’m a dog?
+Caspian: Yeah. Same.
+Fawn: [laughing] What does that mean?
+Caspian: Like, yeah, dog. Like.
+[Dre laughs]
+Fawn: No, I mean like I eat animals. And I don’t like, smoke or whatever you’re offering.
+Caspian: Partake, please.
+Fawn: [amused] I don’t partake.
+Caspian: Okay, well, that…
+Fawn: I can’t hold—[crosstalk] I don’t have, like I don’t have a…
+Caspian: [crosstalk] I—it’s fine. it’s fine, it’s fine, it’s fine.
+Austin: And like closes the pouch, the pouch has little straps, closes the pouch, connects it to the side of his belt. He’s like…
+Fawn: If you had like a hookah.
+Caspian: If I had a hookah! If I had a—
+Fawn: That would be easier, ‘cause I can’t like hold—you know.
+Caspian: Of course I have a hookah! How are we gonna get through the hookah mines without a hookah? 
+[Janine laughs] 
+Austin: [laughing] And pulls the hookah off the backpack, and sets it up!
+[as Caspian]: And, listen, I know you eat meat or whatever. But double scurvy is really serious.
+Fawn: I…
+Caspian: Just—I’ll cut it up. I don’t want you gettin sick. I’m not gonna leave anybody behind, I don’t wanna tell a sad song. No more sad songs, that’s my rule.
+[Jack laughs very quietly]
+Fawn: I mean, I’ll try the orange.
+Caspian: We could put it in some rice and meat dish, and a nice, like a citrus-y. [mumbling] I don’t eat rice, I didn’t get any rice. Shit!
+Janine: I’m trying to think if citrus is poisonous to dogs.
+Austin: [surprised laugh] That would be the worst outcome!
+Dre: [crosstalk] I don’t think oranges are…
+Janine: [crosstalk] I can’t remember. Tomatoes I know are bad.
+Dre: Yeah, they can’t have grapes either.
+Austin: Well, I’m gonna make a ruling. They can have oranges.
+[Janine laughs]
+And you spend the night doing hookah and getting oranges. And eating oranges.
+[Dre laughs]
+Jack: [reading] Not toxic to dogs!
+Austin: Thank you.
+Dre: Yep.
+Janine: Uh, I, there you goyeah.
+Austin: Um. Is that the end of your scene?
+Janine: [amused] I think so!
+Austin: Um. The next morning, Caspian’s gone. It is the Eye of the Storm, and he has gone east. He’s taking advantage of the fact that…the snow—or that the storm has cleared for a moment, because you’re in the middle, and wants to see what’s ahead, and whether or not the—I mean, he doesn’t know it’s the eye of the storm. That’s the thing,
+[2:00:00]
+right, he’s like, oh, the storm seems to have cleared. I can get up in the sky for a little bit. So when you wake up, you find these like huge netted bags, filled with all of the shit that he has that’s normally attached to the kite. [Janine laughs] And he’s up in his glider. [Janine: [laughing] Sorry!] Going east! Uh-huh? What’s up?
+Janine: [laughs] I just looked at the chat again!
+Austin: Oh. Uh-huh!
+Janine: Um, Emily says, are oranges toxic to dogs—toxic—[???] [2:00:25]
+[laughter]
+a nasty hit off of[???]…
+[Dre laughs]
+[Jack laughs]
+Dre: Ah…
+Austin: I also very much like Dre’s thing in the chat, which is “One: make sure to give her her daily orange.” Yes, thank you, Dre. “Two: has enough manual dexterity for making shoes but can’t roll a joint.” [Janine laughs] Good.
+Janine: If she had a tool for it, I’m sure that would help.
+[Dre cackles]
+Austin: Yeah.
+Dre: Oh, that’s the part! Okay!
+[Janine laughs]
+Austin: God. All right. A numbered [Janine sighs] story prompt—so where I’m going is, I’m going to Scouting Ahead. When—a numbered story prompt is a Peril. Describe the first line as you would a regular story prompt. When you are finished, roll a die and describe the result. So, um. So “the danger that I fear” is that I’ll get up in the air and that when I look down across the other side of these mountains, um… I’m afraid that—I mean, I have a lot of fears. Small fears are things like, I won’t have enough chalk, oh my god, we’re gonna need fifteen things of chalk. The thing that I’m actually afraid of, the danger that I actually fear, is that I’m not gonna come back with any meaningful news. And that means that the Magus will not find me useful, and that I will be finally—whatever small amount of utility I’ve offered thus far, even if that utility is just amusement, it will dry up, and I will lose this little group that I’ve been travelling for a couple of weeks now, and have to find more winds to… live on. And I like these ones. So that is what I’m afraid of. I’m gonna roll my dice. Roll 1d6! That’s a 3, so News from the East. Huh! I’m gonna look ahead.
+Jack: Hey, good news!
+Austin: Yeah, I guess! I guess it’s good news, right? I mean, it’s good news in that I have news.
+Jack: Yeah.
+Austin: I’m gonna peek.
+Jack: I’m not looking.
+Austin: Y’all don’t have to.
+Jack: I’m in another tab. [slight laugh]
+Austin: Okay… [Janine laughs]
+Jack: I don’t wanna see what’s coming next.
+Austin: Uh-huh. [pause] Um. Okay. Uh, it is, the storm has started back up. it is nighttime and you’ve travelled on. And it takes you a moment to make sense of what you see…because there is a bright, shining light in the sky. And coming down in the storm at night is a torch attached to a kite, and the torch is… it is made of a stern metal, and the fire is determined not to go out. And Caspian nearly crashes into the snow and into a bank on the side of one of these mountainous hills and catches up with everyone, and says,
+[as Caspian]: Whew! [pants] News to the east. There’s a… There’s a place. It’s safe, and it’s warm, and it’s a castle, and a queen, and I told her the Magus was coming, and she can’t wait to see us. She gave me this torch. [stammers] It doesn't go out, it doesn’t  go out! The light stays. It’s magic, it’s real magic, the magic is still here out east! It hasn’t stopped yet. And the wind, it—stepped from the storm, just today, the wind, I could float! And there are drums. Drums even further east than that. 
+[as in mage] Magus, [as in vague] Magus. However I pronounce your name. What would a queen want with you?
+[pause]
+Jack [as The Magus]: I don’t know. That is why we’re going on this journey, is it not? And…
+Caspian: I’m following you. [slight laugh]
+The Magus: I’m glad to know that there is a place ahead of us for us, and I am [breathes in] even more more glad to know that the magic is still… [sighs] that the magic is still alive, but Caspian, I do not know what is ahead of us. The roc did, but… The roc can’t come with us. At this point.
+Caspian: I have a torch now. The torch will show us. She said as much.
+Austin: And the wind catches the light of the torch, the fire, the flame of the torch—you can feel the wind on your face cutting across it, from east to west. But the torch’s flame blows from west to east.
+Jack: [quietly] Hm… [sighs]
+	Caspian: It’s no bird of wood. But it will point us in a direction.
+Austin: And like, Caspian walks back over and reattaches it to the very top of the glider, and puts it back on his back. And like steps back in line. And he doesn’t say anything else, that’s it. He’s just—he’s back, and is happy to [slight laugh] have this very clear reason for why he gets to be here.
+Jack: Hm. [sighs]
+Austin: That’s my scene. Harp. Harp? Harp.
+Jack: Um.
+Austin: Yeah.
+Jack: Uh, I’m gonna pick By Moonlight: “these trees remind you of”?
+Austin: I think we said we weren’t gonna do that, but—
+Jack: Oh, did we decide that [crosstalk] that one is out of bounds? [laughs] Okay!
+Austin: [crosstalk] Yeah, we decided that was a little too… Yeah.
+Jack: So is it—it’s Camping and [crosstalk] Taking Shelter.
+Austin: [crosstalk] It’s Camping, Taking Shelter. Yeah.
+Jack: Okay, [crosstalk] let me think. Um…
+Austin: [crosstalk] Though again, like I think if you have a really good By Moonlight, we could be coming down the other side of the hills back into the woods, do you know what I mean? I mo—
+Janine: Hm.
+Austin: But like… 
+Jack: Yeah, I [sighs] I mean… [pauses] [crosstalk] I think that like…
+Austin: [crosstalk] I’m up for whatever.
+Jack: I think that like narrating what—where the next place is… should be up to Janine. And like. [Austin: Mm-hm.] I don’t know.
+Austin: That’s fair.
+Jack: I’m happy to go with one of these, too. Um. Hm! [long pause] Hm! …Okay, I’m gonna pick Taking Shelter. Um. And we take shelter in the…arm of—in the palm of a gigantic stone hand.
+Austin: Mm.
+Jack: That is attached to a stone arm, that is attached to a stone shoulder, and the head is long gone. And Harp is able to tell that this wasn’t a giant golem—giant golems existed a long time ago—this is a statue of one, way up here in the mountains. And the kind of the crook of the fingers provides some shelter from the winds as they go around the mountain. And as everybody is sheltering in this, Harp tells a story. And the story is of a great golem, long ago. This story’s probably apocryphal, even the golems know this story is probably apocryphal. It’s of a great golem long ago that…saw the shape of the world, the curve of the planet, and realized that the…the proto-mountains and the rivers and shapes of the hills and the like, early structures and things, reflected a shoulder or an arm or a leg.
+Austin: [softly] Mm.
+Jack: And so dug up clay from great mines and began to pile clay and stone and wood and metal onto the land, to try and build these golems. But the land is vast, and old, and as soon as the golem paid particular attention to fingernails, the shoulders were eroding in rainfall or [Austin: Hm.] avalanches. When the golem paid too much attention to trying to make the hair of a particularly good figure on a mountaintop somewhere, three hundred miles away, you know, a mudslide took out the work that was there, and over centuries, millennia, the landscape of the bodies of the golems softened, and those are the hills and rivers and mountains that we see today.
+Austin: Hm. [pause] Does the Magus believe this story, or add to it, or just remain quiet?
+Jack: Um, I think the Magus… 
+Austin: Or I guess you said it was known to be apocryphal, right?
+Jack: Well, so I think the golems know it’s apocryphal—or the golems believe it to be apocryphal, and the…the other members of the party believe it to be apocryphal. And Harp finishes the story. Which is told very flatly. It’s—Harp is not a great storyteller.
+[Austin laughs]
+There’s a long pause. And then [stammers] not so much as it’s a revelation, just as though it’s, you know, a thing that the old woman knows is going to put the cat among the pigeons, the Magus sort of leans forward and says,
+[as The Magus]: Yes, I knew him.
+[Austin laughs] And then sort of conversation dries up for the rest of the night?
+Austin: Oh! Okay! Yeah, good! Perfect. [sighs] I think that’s Dre’s turn.
+Dre: Yeah! So I guess I’ll do Camping.
+Austin: Uh-huh? “What runs out”? That’s a good one, that’s a good prompt.
+Dre: So, as we’re getting close to the end of the mountains and the eye of the storm is passing and we’re entering into the other end of the storm… The Magus goes to summon her like umbrella spell for us again, and it happens, and then they start to spring some holes and leaks, [Austin: [laughs] Oh no.] and then they’re just gone.
+Jack: Oh no.
+Austin: Oh…
+Dre: So maybe there is magic in the east, but it’s not…it’s not that kind that keeps us dry.
+Austin: Huh. I actually like that a lot. What’s—can you tell me more about how Piccolo camps? Like does Piccolo know how to camp? Did Piccolo grow up in a culture of camping and outdoor—
+Dre: Oh hell yeah. Listen.
+Austin: So what’s—yeah, talk to me about campin.
+Dre: [laughs] Um.
+Austin: Please give us a camping lesson.
+Dre: So. Piccolo doesn’t have like a tent or anything?
+Austin: Yeah.
+Dre: But I think he does have like a nice sleeping bag with him.
+Austin: Okay.
+Dre: And I think he’s very glad that Caspian is back, because when Caspian was gone, he was carrying his sleeping bag, [Austin laughs] and all his stuff, and all of Caspian’s stuff.
+Austin: [amused] Good.
+Dre: But no, I think he just has like a really nice waterproof sleeping bag that Aunt Mathilda made for him. And he’s just—he’s comfortable. He is used to working to the point to where it’s not hard for him falling asleep.
+Austin: Mm.
+Dre: And that’s kinda what this trip is! And so, it’s very easy—I mean, he still like—he views the stuff at the end of the night as like, these are the house chores that you do after a day of farm chores. So like [Austin: Right.], making a fire, cooking dinner, like it’s just what you do. So he’s pretty happy to do that stuff, and when it’s time to go to sleep, he’s out! He’s done.
+Austin: [laughs slightly] Um. I just want a picture of like the end of the gumbo. Like the pot is empty, we’re out of gumbo finally. It’s carried us this far. No more gumbo. No more gumbo cake.
+[very quiet laughter]
+All right—
+Dre: [struggling with laughter] Gumbo cake is not a good combination of words!
+Janine: No.
+Austin: You say that, but I guarantee you New Orleans could make that work.
+Dre: Well, okay. Yes.
+Austin: You know. Um.
+Dre: Googling gumbo cake, hold on.
+[Austin laughs]
+Janine: That’s the problem is New Orleans wouldn’t make that work, it would be some weird super white Twitter video cooking thing.
+Austin: Oh, but that would just be so… [mumbling]
+Janine: And it’s like, oh, you put peas in it, and just…
+[Austin sighs]
+Dre: Oh, do you mean this video—or this picture of shrimp gumbo cake that is the first thing that popped up that’s on Pinterest?
+Austin: [mumbling] I hate everything. I’m so mad. Why did I say anything.
+[Janine laughs quietly]
+I just wanted some [crosstalk] gumbo cake.
+Dre: [crosstalk] There you go. There you go.
+Austin: I just wanted gumbo cake, this is not what I mean.
+Dre: But, in reality, I could see you doing like kind of like a grits-in-gumbo [Austin: [defeated] Okay.] cakelike combination that probably wouldn’t be too bad.
+Austin: Yeah! That’s what I’m trying to say. Exactly. Um. Okay. Janine. It’s your turn to be the Magus. Uh.
+Janine: Ooh, boy! There’s the thing.
+Austin: [knowingly] Uh-huh.
+[Dre giggles]
+Jack: Oh, boy!
+Austin; Mm-hm!
+Janine: Uh-huh! All right.
+Austin: [quietly] …Let’s go through there.
+Janine: Uh. Oh man, this is—Alana Stormqueen, like the Stormqueen of Stormqueen Pass!
+Austin: Uh-huh!
+Janine: Dang!
+Austin: Mm-hm!
+Janine: Okay. Uh, Castle Stormguard, “the hospitality of Alana Stormqueen”—um. Okay. So we make it through the mountains. Or actually, I guess, this castle seems to still be [Austin: Yeah!] kind of in the mountains, huh?
+Austin: I think it is! But it’s like—
+Janine: We could say it’s like on that downward-facing slope. [crosstalk] But, um.
+Austin: [crosstalk] Yeah, yeah. Totally. Exactly.
+[2:15:00]
+Janine: Uh. I think that—okay. Um. What have we already established about this queen, just that she wants to see…
+Austin: The Magus.
+Janine: …The Magus?
+Austin: Yeah.
+Janine: Okay! Um. I think that Alana Stormqueen has an obligation where anyone who makes it through that pass, she is obliged to…have them at the castle.
+Austin: Mm.
+Janine: This is… I would say a contract that is poorly understood by those who benefit from it.
+Austin: [amused] Uh-huh!
+Janine: Um. But it is still one that is beneficial! [laughs]
+Austin: Mm-hm.
+Janine: Even if the source of it is…could be either wonderful or sinister. It could be some sort of horrible thing she did in the past. It could be because she’s so nice! No one really enters into it knowing. Um. I don’t know that the Magus is an exception to that. But…knows enough to know that this is sort of a…trustworthy port in a storm. Kind of thing.
+Austin: Right.
+Janine: I think that—so the… There is some pomp surrounding the arrival of the guests, of the group, but it is the kind of pomp that feels routine, like, these streamers don’t come down.
+[Dre chuckles]
+Austin: [amused] Right.
+[Jack laughs]
+Janine: They are maybe even looking a little bit—not… They’re looking a little faded. There’s a open air courtyard that is quite brisk, but the sun comes in and has sort of sapped the color from these streamers and they are probably a little bit overdue to be replaced, if they really want to keep the festive spirit strong. Um. Which she is obliged to do. [laughs]
+[Austin laughs]
+And I think there is… Y’know, as part of this sort of celebratory welcoming, um, y’know, there’s food, there’s entertainment, but these are all people who are part of the regular…hustle and bustle of the castle. These are people who, y‘know, the entertainers probably also work in the stables, or [Austin: Mm-hm.] yknow, they just happen to—everyone who is employed here has a sort of secondary party career. That they employ when needed. [Austin: Right.] Which is why Alana keeps them there.
+Austin: Are they also like, obliged to do this? Like this isn’t just like, ‘oh, by the way, on the side I do whatever with parties’ it’s like, this is part of what living at Castle Stormguard is like?
+Janine: I think s—I don’t think they have to be here. [Austin: Okay.] I think this is very much a kind of thing—this is probably a very good place for, yknow, for like farmhands who have these grand dreams about going somewhere and being a singer or whatever, and maybe they [Austin: Sure.] can’t quite do that, but they can still hold court with Alana Stormqueen and still sort of do this thing that they have experience with and also this thing that they enjoy. She probably recruits people like that very specifically. I don’t know that it’s like a wonderful place to be, but there are certainly worse places.
+Austin: Mm. Cool. Does the Magus know Alana Stormqueen?
+Janine: Um.
+Austin: Or like—
+Janine: I think the…
+Austin: Go ahead.
+Janine: Uh. I think the Magus knows of her, [Austin: Mm.] because her contract is a subject of great speculation and curiosity.
+Austin: Gotcha. But this is the first time they’re meeting.
+Janine: I think so, yes.
+Austin: Okay. Um, cool. Any other details from anybody here? Or questions, or anything else?
+[pause]
+Jack: I don’t think so.
+Austin: [crosstalk] Okay.
+Dre: [crosstalk] [negative] Mm-mm.
+Austin: Uh, also, how are we feeling? How is attention and tiredness, and hunger?
+[Dre chuckles]
+Jack: I could do with [stammers] taking like a break, maybe?
+Janine: [crosstalk] [amused] Yeah, I could use a bathroom break.
+Austin: [crosstalk] Yeah. Yeah, let’s take a quick break. And then we’ll wrap back around, we will be back in a moment, once I put up this thing. I’m gonna mute us, and then we’re gonna—okay, what do—all right. We’ll be right back! [slight laugh]
+Jack: Okay!
+[Dre and Janine laugh]
+Sounds good!
+[2:19:40 - Break]
+Austin: We’re back. We’re all back now. [crosstalk] We’re back.
+Jack: [crosstalk] Hello!
+Austin: Hi.
+Dre: Hello!
+Austin: We are in the Castle Stormguard, and I have had a lot of time to think about my scene. [slight laugh] [Jack chuckles] Um. And I think that my scene is going to be in the Court of Swords. But first I need to know what a Court of Swords is, besides a different Actual Play thing. [laughs]
+Jack: [appreciatively] Oh, Court of Swords!
+Austin: Yeah. Here’s what I know about it. I know that there’s a disagreement, and I need someone to play the Magus for me.
+Janine: Is it like a tennis court but for fencing?
+Austin: Yeah, I think so. So I think I’m [Dre laughs] fencing the Magus.
+Jack: Oh my god! That’s amazing!
+Austin: Yeah.
+Dre: [crosstalk] Is it like a…
+Jack: [crosstalk] That’s the most obvious thing! 
+Austin: Yeah.
+Jack: That’s great!
+Dre: Non fatal trial by combat kinda thing?
+Austin:  Yeah, no. I think it’s just straight up fencing. I think that there’s gear, and you put on [Dre: Okay.]—or like it’s a similar—maybe it’s a unique sort of fencing. Like maybe it’s like—you know, there’s lots of types of…you know, sword combat, martial combat or martial kind of sword sport? Um. And so maybe it’s a very unique one. What sort of sword sports would Castle Stormguard use? Um. Like do you strap certain types of armor on you, or is it—are the swords made of heavy stone? Are they…
+Jack: Uh.
+Austin: There’s magic here, so here’s what I think it is. I think it is—do you know the torch that I have? It’s like that, in that like it is a handle that then spits a whip of flame that’s sturdy, that is like solid, and when it str—like when it moves it actually does blow in the wind a little bit, but then when it strikes you, it leaves a light burn mark. But you don’t—it won’t burn you, it won’t stab you, you won’t bleed. You will be marked by it. 
+And so the court of swords is filled with these professionals who have all of these scars all over their body, but those are signs of experience, and so like those people are treated with incredible respect. The bulk of those scars are also like on their arms, because it’s like one point for an arm hit, two points for a body hit, three points for a face hit. Right, or a head hit, or something. And so that is how it is. It’s like fire sword fencing. It’s very—it’s all slashes, there’s no stabs, there’s no like—I think it’s a rule, because it’s too dangerous, because if you push in with the fire, it would be too hot, and it wouldn’t break. It only breaks on a snap, on a whip, and so it has to be these like long, very beautiful, slashes. 
+And so like we just get this outside shot of these people [laughs], in this court, in between—you know, it’s kind of like a—it is like a courtyard, basically. Where in individual little arenas, basically—I’m imagining very much like fenced in tennis courts, almost. [laughs slightly] There are people doing these sport duels, with fire whipping all around them. Um. It’s very cool, and I, Caspian, am fencing the Magus, and having a conversation about magic. Uh, who wants to be the Magus?
+[pause]
+Dre: Janine, have you played the Magus yet?
+Janine: Uh, I don’t think so.
+Austin: [encouraging] You should play the Magus.
+Janine: Okay!
+Austin: Um. And so it’s like this, yknow. I’m three points down already or something. I’m like two games down, two matches down in the set, or whatever. And I’m like,
+[as Caspian]: [sighs] I didn’t expect you to be good with a fire sword, Magus.
+Janine [as The Magus]: Well, understanding how things work is a very important part of using them well.
+Caspian: I get that, I get that.
+Austin: And then it’s like, “Round three” or something, there’s like a caller who’s watching. And comes in with like a series of swift attacks and parries, and all that, and then just like [whipping noise] Wshhht! slaps and catches me on my arm again. And like goes back to stance and takes position, and then says,
+[as Caspian]: [sighs] All right, so tell me, Magus. You got me, you got the swineherd, you got the golem, and you have that brilliant little dog thing. [sighs] I need to know, what is all this about? Are you bringing magic back? Everywhere?
+The Magus: [sighs] Well, that’s [sighs] that’s an ambitious option. Um. May even not be an option. …There’s a degree of gambling to this journey.
+Austin: Caspian like narrows his eyes.
+[as Caspian]: I get that the journey is a gamble, there’s the hills and the mountains and the chalk bridge, and I just—I get that we might not make it to Umbra. But I thought you’d have an idea of what would happen when we got there.
+Austin: And then comes in for another—
+The Magus: When you—
+Austin: Go ahead.
+Janine: [sighs and laughs] Sorry!
+[as The Magus]: When you go to a bakery, you would go with an expectation of what you would like. You can say, I would like to go there and get some bread. But they may have different kinds of bread, and you decide upon seeing a very nice braided loaf, that you would prefer that to the rustic loaf that you got last week.
+[pause]
+Caspian: Is that—
+Austin: And then like—sword sword sword—and then I think Caspian gets a hit in. Just an arm hit, but a hit.
+[as Caspian]: This isn’t a bakery, this is Umbra, Magus! [stammers] We’re not going for braided loaf, we’re—this is where magic was born. And I like a braided loaf, don’t get me wrong. But magic is magic.
+The Magus: It is where magic was born, and where magic continues to live, and magic changes over time, and what you go there expecting may not be what you leave with.
+Austin [as Announcer]: Point, Magus.
+Austin: I think the Stormqueen is calling this match, actually. ‘Cause of the options that are on the table for this dice roll that’s about to happen.
+[as Caspian]: Okay, I get it. I just think that it’s a good idea to have some plans—some of us aren’t ancient—magi, [as in magazine] magi—I don’t even know how to say your name.
+Janine: Maggie.
+Austin: [deep amused sigh]
+[as Caspian]: Some of us—listen, Maggie. 
+[Janine and Dre laugh quietly] 
+All of us have long histories here. Even the—little swineherd, Piccolo, has family. It’s one thing to be a wandering source of power who breaks glass ceilings—literally—and frees giant birds and wanders into the wilderness. When you are a being as powerful as you are. It’s another thing when you’re a living rock that has a sword and a rake. When you’re a little boy who doesn’t even understand why you’re not allowed to say F.
+I just wanna know what we’re doin this all for. I don’t think that’s too much to ask.
+The Magus: We’re doing it to…to sustain. The same reason you get bread because you need to eat—we’re going to get magic because we need magic.
+Caspian: We as in our group, or we as in the world? We’re not gonna get there and then not come back, right? This isn’t like a push us into the volcano thing, is it?
+The Magus: Well, there wasn’t a volcano the last time I was there, so I’m assuming it’s not.
+[Caspian sighs]
+Magic is fickle. [slight laugh] It wouldn’t be my first choice.
+Caspian: All right.
+Austin: I’m gonna roll this die. So that was “where we disagree”, and now there’s more here. On a 1-2, it’s—someone gets the Dishonored trait. On a 3-5, we get who is right, and then on 6 we get “Justice of the Stormqueen.”
+That’s a 6. [slight laugh]
+[Janine laughs slightly]
+[sigh] God, what happens? Are there any ideas here?
+Dre: Mm.
+Austin: Justice can be good! [laughs]
+Jack: It can be! Um. Oh, there’s something almost about like—the Stormqueen has this elaborate ritual of welcoming people to this place, and also she is in a place that is still capable of magic, or is surrounded by magic?
+Austin: Mm-hm.
+Jack: So I wonder whether or not…taking that, and taking the scene into account, this is almost like she’s a sort of umpire?
+Austin: Mm-hm!
+Jack: [away from mic] In this weird… [closer] But arbitration is kind of boring, narratively.
+Austin: Yeah. I just don’t think arbitration is justice. Or it’s a very [breathes in and sighs]
+Jack: It’s a very sort of umpire-y sort of justice, right?
+Austin: Oh, it’s a very sort of—
+[2:30:00]
+—it’s actually like a very sort of depressing, dour sort of justice. Like you want to justice be…a little firey, and a little more dedicated to…to an equality or a fairness that is not yet real? Or else maintaining one that was hard-fought? [Jack: Yeah.] And who wins and who loses is so amoral, and so…like, disconnected from the physical that doesn’t feel right to me. But it could be something that leads from that. That leads from arbitration, or that is a twist on it, y’know?
+Janine: I wonder if it’s something like… [sighs] Um. I wonder if it’s something like, because she has this function of having parties at her castle for people who pass through, the idea of if they go on and someone gets lost before they come back for their return party, that becomes a different kind of party, like that becomes like a wake—like I wonder [Austin: Mm.] if there’s something—if there’s something there that…if there’s something in that, too. She doesn’t care to host a wake, and… I don’t know.
+Austin: Like she explains that to them after this match, or—or that we actually see one of these wakes? Like do we get just… [sighs] I  guess like for me, the dourest or the actually just the most—I don’t like—I don't like grimdark fantasy very much.
+Janine: Mm-hm.
+Austin: It’s not my genre. But a thing I like about something that has inspired a lot of grimdark fantasy are the sagas, the Icelandic sagas, that—if you read a lot of grimdark fantasy, or if you talk to people who work in that space, and make games in that space, the sort of like blood feuds of grimdark fantasy can be traced to the Icelandic sagas and other sorts of familial histories of—kind of deep, ritualistic—not even ritualistic but like a deep sociology of revenge. [Jack: Mm.] 
+And I like the notion of—and like a desire that things be made right, period. Not—maybe not no matter the cost, but often at high cost. And so I like the notion of… If news returns that a party that was given a welcome here was not—did not return safely. They don’t necessarily have to pass back through here for a return party, but if news comes through that they passed through, and then met their end further east, then there’s a wake, and she sends someone. She commits to send someone to get revenge. And it doesn’t matter against what. It can be against a pit, it can be against the weather.
+[Jack laughs]
+And so what they do is they send someone—she sends someone out, and if that person—she decides who to send out. And if that person had been—and if that group had been killed by bandits, she sends out people to go kill those bandits, and if it’s someone who fell into a chasm, she sends people out to build a bridge. And if someone was killed by the storms, or by a flood, she sends someone out to build a lighthouse, or to build a cabin in the hills, where someone could stay warm one night. 
+And so I’ve kind of reached back around to amorality, in that [Jack, Janine and Dre laugh] it isn’t—I think it’s grounded by a morality, a notion of like, I’ve offered them my hospitality and my hospitality is forever? [laughs] [Jack: Yeah!] And then what you get is just like, oh yeah, they—this person died of sickness, and then a doctor showed up to town to research sickness, sent from Stormguard Castle. And like this is what happens to the people who don’t stick around to be—vaudevillians, y’know? Like [Dre and Janine laugh] the swineherd shows up because he wants to become a comedian here, and then thirteen years later, goes off [Jack laughs] to be a revenge farmer. [Jack sighs in delight] Because someone died of starvation. Or to be a killer. Right? Like I don’t wanna—[crosstalk] or to be a killer.
+Jack: [crosstalk] Yeah, there is also…
+Janine: Yeah.
+Austin: There is also—
+Jack: The very active kind of revenge.
+Austin: Right, exactly. there is the like—the head of a village somewhere who is seventy years old like hears a knock on the door and in come three burly figures, and it’s like what are you doing? And it’s like, oh, well, word got back to us that 27 years ago you killed someone who passed through our castle. [laughs] Like! [Jack, Janine and Dre laugh] And we’re here to collect! 
+Um. Yeah, this is really good, I like that a lot. And so I think she vows this for us, right? I think what happens is she stands up at the end of this, and we fought to—Caspian loses. I’m not, like, c’mon, please. Caspian loses. [Dre laughs] Noble effort. But the Stormqueen says.
+[as The Stormqueen]: If you go to Umbra and don’t come back, we have people and we have ways. Justice will be done.
+Austin: I think she just threatened Umbra. [laughs]
+[Jack laughs]
+And that is Caspian’s scene. Um. Harp!
+Jack: Uh, I am going to go to the Hall of Knights, [Austin: Ooh, okay! [slight laugh]] with…with Fawn. Who I keep wanting to call Fern?
+[Everyone laughs]
+Austin: Uh-huh.
+Jack: But that’s not her name. Um. In the Hall of Kn—the Hall of Knights is a hall. you know, sometimes you hear people describing a hall and what they actually [audio cuts]—sort of a square room. None of that bullshit. [laughs] This is a real hall here. It’s about…90 feet long. [Austin: Mm.] And it’s tall, and it’s dark, and it is lit by lamps and candles in sconces, so there are these pools of light. And standing in—the hall has nooks all the way down it, and standing in each of the nooks are…the Stormqueen’s knights. These knights are not golems, they are… Golems are people. [Austin laughs] These are flesh and blood, these are creatures of flesh and blood rather than creatures of things. [Austin: Mm.] They wear dark armor, and they stand in these alcoves. They are essentially kind of—they’re not explicitly mimicking golems, but the way they exist is very…very golem-like. 
+There is a door at one end of the hall, and no door on the other end, and whenever a knight is called for, the knight in the nook nearest the door marches out through the door and all the others move down one nook, continue to stand there in the dark. People say that there little seats that they can lean against in the nook, [Janine laughs quietly] but the knights would swear that that’s not the case. Food is passed between them. And in this hall, in this [audio cuts]—we meet the knight who is like fourth or fifth in—[Austin laughs] fourth or fifth in line? Um. And this knight is called… Uh, this knight is called… [sighs] Iron Alexander? And he is a big knight—we can’t see his face. We have no idea who he is, but he’s there. Who wants to play this knight?
+Dre: I’ll be this large knight.
+Austin: Hell yeah!
+Jack: [laughing] This is the large knight.
+[Dre laughs quietly]
+Okay, so, uh. Fawn and I have come to the—I put it over the title, what’s it called? it’s called the—Hall of Knights [Austin: Hall of—] [laughs]. Okay.
+[Janine laughs]
+Dre: “The best: !
+Austin: [laughs] Yeah, I fuckin love that the prompt here is just “the best”.
+Jack: It’s so good. [crosstalk] Ah.
+Austin: [crosstalk] It’s really good.
+Jack: Yeah. And I think I wanna clear here—Iron Alexander is not the best. He is fourth [Dre: Aw.] in the line right now. But the best is probably somewhere in this room and I imagine that Iron Alexander has an opinion. And I think that… I think that I approach him, and I say.
+[as Harp]: I am carrying a sword too.
+Dre [as Iron Alexander]: You are.
+Harp: I have brought this sword with me into existence. 
+Jack: I—sorry. [laughs] I didn’t bring it into existence. 
+[as Harp]: I was brought into existence carrying this sword. I have come to you to ask what it means to be one who wields it rather than carries it. I did not intend to bring this dog with me, but the dog was curious about the Hall of Knights, and joined me. It speaks.
+Iron Alexander: Wait, you got a—… [Janine laughs quietly] You got a talkin dog?
+Harp: It is gregarious.
+Iron Alexander: Hi, dog!
+Janine [as Fawn]: Hey.
+Iron Alexander: Oh!
+Austin: [laughs] “You got a talking dog? Hey, dog.” “Hey.” “Whoa!” is extremely good!
+[Jack laughs]
+Iron Alexander: So… We got a talkin dog and a…and a metaphysical rock man. A very, very, very attractive rock man. Where did—what kind of rock is this?
+Harp: I am no man, but I am beautiful.
+[Austin laughs]
+I have been created from…a magnificent stone.
+Iron Alexander: Mm.
+Harp: In my right hand I carry a rake—it was used to create a bird made of brambles—and in my left I carry a sword, and I am curious: which is my lot, Alexander?
+Iron Alexander: The sword or the rake, huh?
+Harp: Yes.
+Iron Alexander: What is your name, rock friend?
+Harp: My name is Harp.
+Iron Alexander: What about you, talkin dog?
+Fawn: I’m Fawn.
+[Austin struggles not to laugh]
+Iron Alexander: Harp, are you left handed or right handed?
+Harp: I was crafted from magnificent stone.
+Iron Alexander: Uh—so ambidextrous?
+Harp: Yes.
+Iron Alexander: You got the sword in the left or the rake in the right, or is it the other way around?
+Harp: Rake—right.
+Iron Alexander: Okay.
+Harp: Sword—left.
+Iron Alexander: Hmm. Let me ask you this, are you a back sleep or a stomach sleeper or a side sleeper?
+Harp: No sleep.
+Iron Alexander: Oh, right, yeah, rock. Okay.
+[Austin laughs]
+[pause]
+Do you…do you ever put them down?
+Harp: No.
+Dre: Out of character, are you carrying both of them right now?
+Jack: Uh, yeah, uh, yeah!
+Dre: …Okay. Alexander draws his sword and swings at you to your right.
+Jack: It hits me. There is the sound of a sword [Austin and Dre laugh] against [laughs] rock.
+Iron Alexander: Ah—d—ah… I thought you were gonna block that, with one or the other, it was gonna be like a…you know, like a physical reaction thing? Show you what your lot in life is? You know, [Harp sighs] when you have to react on instinct, do you go with the rake or the sword—I guess you just… Okay…
+Fawn: [snidely] They’re made of rock. [Iron Alexander: Well, yeah—] Why would they do anything?
+Iron Alexander: Well…
+Harp: [insulted] Hey.
+Iron Alexander: No, no, no. Dog has a point.
+Harp: Your test would be sufficient for a human. I do not think that I can find an answer from you. Recommend the best, please.
+Iron Alexander: [annoyed] Oh, that’s… Okay! Oh, it’s like this now, huh? 
+[Austin laughs]
+Oh, yeah, just come in. Come in to my hall, with your talkin dog, with—are you wearin boots?
+[Jack and Austin laugh]
+Fawn: They’re toeless boots, yes.
+Iron Alexander: How did—okay. And you’re gonna come in here to me, you’re gonna ask me these metaphysical questions—you know what it means? To hold the sword? You don’t—to wield the sword instead of holdin the sword? You don’t think about it. That’s what it means.
+Fawn: That’s why you swing it at rocks.
+Iron Alexander: Yeah! I don’t know if you’re agreeing or insulting me, but yeah!
+Fawn: [amused] You can guess.
+[Austin snorts]
+Iron Alexander: You’re not very gregarious at all!
+[Jack, Austin and Janine laugh]
+Austin: Oh…
+Jack: Ah…
+Iron Alexander: Listen.
+Jack: And then it just cuts to—oh, sorry, go on.
+Dre: [laughing] No, it’s fine—I think “Listen—” and then it cutting away [All laugh] is a pretty good way to end—
+Austin: Uh-huh. It’s extremely good. Ah… All right. Well. Dre, what is Piccolo up to? Oh fuck. I gotta move our cards over. [laughs] Our cards are all so far away!
+Dre: [laughs] I was kinda wondering where they went. Um. So here’s the thing, we have the justice of the Stormqueen protecting us.
+Austin: Uh-huh. 
+Dre: That same—
+Austin: Well, protecting—okay, whoa-whoa-whoa. [crosstalk] Protecting is not the same.
+Dre: [crosstalk] Hold on. [Jack laughs] [Janine: Mm—] I’m goin somewhere with this.
+Austin: Okay. Okay.
+Dre: I’m goin somewhere with this.
+Austin: Mm-hm.
+Dre: During that night, Piccolo is having a great time, but is very confused—there’s no oranges.
+Austin: [weakly] Uh-huh?
+Dre: How are all these people not getting scurvy?
+[Austin, Jack, and Janine all laugh]
+And so he asked someone. And they’re like what are you—what is—what is double scurvy, [Austin laughs] what is this chalk bridge?
+Austin: Oh no…
+Dre: And so he tells them the whole story. And the next day, a messenger comes to him and Caspian and says, we have a man at the Stockades who owes you an apology.
+Austin: [laughs in delight] Okay, good!
+Jack: [laughs] Ohhh…
+[laughter trails off]
+Austin: He’s so tall, how is he bent over in the Stockades?
+Dre: Very uncomfortably!
+[Janine laughs quietly]
+[2:45:00]
+Austin: [sighs] Um, what are the Stockades like, are they outside? I mean, they’re outside. They’re stockades, they’re outside. That’s the whole point of stockades.
+Dre: Yeah. Yeah, no, they’re outside. But you know what, I bet they’re—like, for this, it’s not even like real stockades, it’s like joke Disney world stockades.
+Austin: Oh, buddy. [slight laugh]
+[Dre laughs]
+We, uh. So yeah, what’s… I really, really want Piccolo to take the lead here.
+Dre: [amused] Okay! Um. So yeah—
+Austin: And Janine, can you continue being this—?
+Janine: Mm-hm.
+Austin: Okay.
+Dre: So, [laughing] Piccolo comes outside and sees his very helpful shopkeeper friend. Inside the stockade, and is just…aghast, and he’s like—
+[as Piccolo]: What? What are you doin here?
+Janine [as Con Artist]: That’s a good question. A buncha…a buncha dancers and farmers came at me and…dragged me across some dang mountains.
+Piccolo: Aw, did you bring your chalk?
+Con Artist: [sardonic] Y’know, I didn’t have a chance to grab it.
+Piccolo: Ugh… [crosstalk] How are you…
+Austin [as Caspian]: [crosstalk] How are you gonna get across the… That’s what I’m sayin!
+Piccolo: How are you gonna get back?! Did you, uh. Did you bring your oranges?
+Con Artist: Y’know, I. It’s the funniest thing, they didn’t let me grab my bag, either.
+Piccolo: Aw.
+Caspian: We have some, [crosstalk] would you want—
+Con Artist: [crosstalk] My orange bag.
+Caspian: [crosstalk] Do you—we’ll share an orange—
+Piccolo: [crosstalk] Oh, we’ll share, friend. We’ll share.
+Caspian: —yeah, of course. What did you do? Why are you all locked up in a stockade?
+Con Artist: Y’know. Um. I don’t—did—uh. Hm.
+[Austin laughs]
+[stammers] Did you like advertise my services anywhere?
+Caspian: Of course!
+Piccolo: I mean… [crosstalk] Yeah! You did great.
+Caspian: [crosstalk] Tellin everybody what a good deal you gave us!
+Piccolo: Yeah!
+Caspian: Twelve pieces of chalk! Twelve pieces of chalk for just 72 gold coins.
+Piccolo: Oh, them oranges? And you took my frogs in trade. I mean, you were hospitable!
+Con Artist: Yeah… Uh, listen. Um. 
+Janine: [laughs] I think…uh, at this point like—so he’s bent over in these stockades—he probably has to kneel, I think.
+[Austin laughs quietly]
+Actually, no, he’s just like crouched really uncomfortably.
+Austin: Yeah.
+Janine: Um. But when he’s like, well, listen, he like instinctively stands up, and the stockades kind of lift outta their base.
+[Austin and Dre laugh]
+So he’s just standing there with like the stocks and then the post. Um. So he’s like, well, listen, and he like looks—he realizes what he’s doing, is like, 
+[as Con Artist]: Oh, shoot, sorry. 
+Janine: And he like crouches back down, like puts the thing back in the—seats it back in the base.
+Piccolo: Dang, you’re strong.
+Con Artist: I just—back strength. Um.
+Caspian: Lotta muscle. Yeah.
+Piccolo: Mm.
+Con Artist: Yeah, I—listen, I mighta like oversold you some stuff. You probably didn’t—honestly, you could have gotten by with like six sticks of chalk.
+Piccolo: Well, I mean, you told us that.
+Caspian: You did say…
+Piccolo: We bought the extra.
+Caspian: Yeah, we did say we needed extra chalk just in case—I don’t use chalk that often, I felt like—y’know…
+Con Artist: Well, I told you ten, which was a little dishonest, it should’ve… [crosstalk] could’ve been a…
+Caspian: [crosstalk] But maybe you were just reading us and saying like, oh, you look like a bad chalk user, I need six, but you would need ten! I don’t think that’s dishonest, that seems…
+Con Artist: I’m not that good a chalk user, [Piccolo: Hey…] don’t be so hard on yourself. That’s really…
+Piccolo: [seriously] I know what happened. Here. Y’all. I…
+[Austin snorts]
+[Janine laughs quietly]
+No, listen. Before I came out here, and I got you, Caspian, somebody came to me and said, someone owes somebody a sincere apology. And you’ll find em at the stockades, and.
+Caspian: Oh no.
+Piccolo: I think it’s me. ‘Cause I…I took the chalk, when we were in the mountains, and it was rainin, I didn’t think anybody would see, and…I wrote an F on the mountain.
+[quiet laughter continues]
+Caspian: [stressed] I was just talkin to the Magus about this. I knew…
+Piccolo: And the rain washed it away, but…
+Caspian: And that’s the worst…
+Con Artist: It washed it into the water supply, now. That’s…
+Caspian: [crosstalk] Now the F…
+Piccolo: [crosstalk] I—[groans]
+Caspian: It’s in the snow!
+Piccolo: I’m so sorry that your chalk is now associated with this terrible thing that I’ve done.
+Caspian: Is this why you’ve been arrested, ‘cause they knew your chalk got in the snow and the river!
+Piccolo: Oh… I’m gonna go tell em. Hold on, I’m gonna…
+Caspian: No no no no no no no no no. Listen, listen, listen, listen, listen. You’re just a little—you’re just—[deep breath] Piccolo, we’ve all been 16 once. Take it from me. You don’t ever—you don’t ever get to not be the person who put the F in the water, once you admit it.
+Piccolo: I don’t wanna live with that.
+Caspian: I mean the—mmph! I said it! You put the one that comes between the E and the G in the water. Now you let…
+Piccolo: [voice breaking] Oh, oh, no!
+Caspian: Here’s what we’re gonna do, here’s what we’re gonna do.
+Piccolo: Why didn’t I listen to Aunt Mathilda?! [crosstalk] Oh, hell.
+Caspian: [crosstalk] We’re gonna go tell the queen that this man didn’t do anything wrong. That he told us that we needed six pieces of chalk to get across the chalk bridge. She’ll understand, she knows about the chalk bridge, she’s a queen. And that he should be let go. And that we…
+Con Artist: I. I should just point out, actually, that queens don’t generally use chalk. They do have a lot of people that work beneath them, so she may not know about the chalk.
+Piccolo: Ah, that’s true. [crosstalk] That’s true. 
+Caspian: [crosstalk] Oh man. That’s true…
+Con Artist: [crosstalk] She may have an entourage that handles…
+Caspian: Okay, then we’ll talk about—
+Con Artist: So that may just complicate things further.
+Caspian: That’s fine.
+Piccolo: [stammers] What if we just tell her that everything is settled.
+Caspian: Mm-hm.
+Piccolo: We’re all good.
+Caspian: And you gave us extra oranges, that way—y’know—we’ll say, that way we definitely don’t get double scurvy.
+Piccolo: Yeah!
+Con Artist: Queens are genetically immune to scurvy, it’s in the royal bloodline, so again, she may not [Piccolo: Oh…]—she just may not follow that. You might just wanna say that they’re very delicious and that the dog likes them.
+Piccolo: Where’d you learn all this? You’re smarter than that dog.
+Con Artist: Um. I’m a very educated merchant. Um. 
+[Austin laughs] 
+I come from a long line of very educated merchants.
+Piccolo: All right. Well here, let me just get you out of this so you can be on your way, and…
+Con Artist: I actually got it.
+Janine: And then he like stands up again.
+Piccolo: Oh! Yeah, back strength, right.
+Caspian: Right.
+Con Artist: If I like smack it on a tree, most of it will break off. It’s a—I’ve done this—I haven’t done this before, I just know that.
+Piccolo: I am so sorry. [crosstalk] That they took you all the way out here.
+Caspian: [crosstalk] Ah—wait—I have to say something. I have to say something, that’s the thing is, I have to apologize now, too. [sighs] Do you remember when you told me that we needed the oranges for the scurvy, and I said—I look at you in your eyes and I said “An orange? What’s that?”
+[Silent laughter] 
+“Can I have a taste? ‘Cause I’ve never had an orange b—”… I like oranges a lot. And it’s not that often that I get to have them, but I’d had one before, I knew what an orange tasted like. [struggles] So I actually owe you an orange. Here. For the trip back.
+Austin: Pulls it from the kite. [sighs] Hands it over to you.
+Piccolo: Do you need any chalk? We got chalk.
+Caspian: No—let’s hold onto the chalk, just in case. I’m now [breathes in loudly] way less confident about my chalk skills than I was [mic interference] when I came [crosstalk] into this place.
+Piccolo: [crosstalk] [stammers] Just keep it away from me. Save me from myself.
+Austin: [laughs]
+[as Caspian]: I’ll take care of it. 
+Austin: And just takes all of the chalk, and puts it into the blue herb pouch, and closes it tight? [Dre squawks with laughter, Janine laughs softly] And moves it from the left side of the belt to the right side? [laughs] As if that’s safer?
+[pause]
+[Dre laughs quietly]
+[as Caspian]: I hope you can get back in time for the next farmer’s market. Be careful of the storm.
+Con Artist: I’ll do my best.
+Austin: And like, shakes your hand, like reaches up to—I don’t even know where your hands are at this point?
+Janine: I think beside his head.
+Austin: Reaches all the way up [laughing] to shake—[Dre and Janine laugh] the hand… 
+Janine: He actually—I think what he does, he’s like—spins the stock around so that one of his hands is like over his head really uncomfortably but the other one is lower for you.
+Austin: Right, good.
+[as Caspian]: Thank you. [sighs]
+Austin: [amused] All right, I don’t know, I don’t know that we have more in that scene, Dre!
+Dre: Nope! Uh-uh! [laughs in distance]
+Austin: [sighs] And we are back around to Fawn.
+Janine: [big sigh] Um. Okay. I think I want somethin nice and simple here. I think…I think after the trip to the Hall of Knights, Fawn wants some chill-out time, just wants to relax and enjoy this nice party—Fawn doesn’t get to go to a lot of parties.
+Austin: [intrigued] Oh!
+Janine: ‘Cause Fawn is a bush dog, or a vinegar fox.
+[Jack laughs]
+[laughs] And, um. Generally people don’t think to invite those, even when they talk and have beautiful hats, [Austin laughs quietly] to their parties. So she’s just having a nice time, and there’s “a beautiful dancer” in the Commoners Hall.
+Austin: Ooh.
+Janine: And Fawn is just enchanted—this beautiful dancer is wearing… I imagine they’re like those very baggy sort of “harem pants”? I don’t know if there’s a better name for those, ‘cause I don’t like that name for them.
+Austin: No!
+Janine: But ones that are very loose but cinched at the ankles. You know, Princess Jasmine pants. But they’re made of fur? So they’re very like, soft and voluminous, and like all the volume is mostly in the fur and not the actual fabric.
+Austin: Mm.
+Janine: But they have a very similar shape. And they have a matching vest of a much shorter fur. And they also have a sort of chain around their waist with various sort of colorful sashes tied around it. And it’s like—it’s a sort of functional belt. But it’s not that attractive, and doesn’t necessarily do the complexity of the rest of their outfit justice. And Fawn is just very enchanted by their movement—they’re a very graceful dancer, they are probably both a dancer and like the person who like digs the crud out of a horse’s foot.
+[Austin laughs]
+Um. but they’re a very—they’re not a very good dancer, ‘cause they’d probably be elsewhere if they were very good. But they’re quite good. And… I think Fawn watches them for a bit, and then Fawn sort of slips away. And then when Fawn returns, she has a much better crafted sort of—it’s an all-fabric belt, there’s no chain or leather component to it, but there is sort of a buckle on the front where you loop one end of the fabric through so it sort of secures at the waist. And then there’s a lot of sort of dangling beadwork along the hem of the scarf. And it sort of—it moves much more fluidly, it’s very light fabric. But also she has it kind of like knotted up in her mouth when she [laughs] approaches the dancer with it.
+Austin: Aw.
+Janine: [laughing] Does someone wanna play this dancer?
+[pause]
+Jack: Oh, yeah, I’ll be the dancer.
+Austin: Thank you, Jack.
+Janine: Okay… They/them pronouns.
+Jack: Okay.
+Janine: I think.
+Jack [as Dancer]: Uh, hi!
+Janine [as Fawn]: [mouth full] Mrrph.
+Janine: ‘Cause like, in the mouth.
+Dancer: A little dog! What have you got, what have you got for me?
+Janine: I think like Fawn like puts it down on the ground and looks up and is like,
+[as Fawn]: It’s a nice belt.
+Dancer: [startled] Oh my god.
+[Everyone laughs]
+Fawn: Your belt’s—I thought you would like a nicer belt. Your belt is nice, but this one will move better.
+Dancer: [still very startled] Uh. …Where did you get this?
+Fawn: I made it.
+Janine: And Fawn’s tail wags a little. Just like a little bit. Just like three strokes, and then stops.
+Dancer: [quietly] Okay. Right. We’re going to go and find a witch, and we can break this spell, [stammers] just right off the bat. Just as quickly as possible. You’ll be fine. Don’t worry about it, you’ll be okay.
+Fawn: Oh, it doesn’t need a spell, I backstitched, so it won’t come loose.
+Dancer: No no no, the—d—no, I’m not—the belt is… You made it? The belt is great. Um. The spell that… Okay. I don’t know how to say this. Um. I think you’ve been turned into a dog!
+[Dre laughs]
+Fawn: No, I’m just—this is—um, some people call me a vinegar fox.
+[Austin laughs in delight]
+Dancer: [stammers] This is you?
+Fawn: This is me! My name’s Fawn, and this is me.
+Dancer: And you made me this?
+Fawn: I did! I really liked your dancing.
+Dancer: [crosstalk] Oh!
+Austin [as Dance Caller]: [crosstalk] Ace of diamonds, jack of spades, meet your partner and all promenade!
+Austin: There’s a caller, there’s a dance caller in here.
+[Janine laughs quietly]
+Dancer: Do you want to dance?
+Fawn: Um. I don’t dance super w—I like, I can waddle.
+[Austin makes a sympathetic noise]
+Fawn: And like hop—
+Dancer: Okay!
+Fawn: I hop a bit. I like hopping in grass. I don’t tell anyone that, and I would appreciate it if you didn’t tell anyone that? But I do like to hop in grass.
+Dancer: No, no! No, no! I—well, I really… Thanks for the belt, and once I got over the fact that you’re not, you know, a twice-cursed being. Um. 
+[Austin laughs quietly]
+Yeah! It means a lot! Fawn. Thank you.
+Fawn: I’m glad you like it.
+Jack: Uh, and then I think [stammers] I think I probably dance with the dog!
+Janine: Yeah!
+Jack: A sort of [laughs] sort of hopping.
+[Janine laughs]
+Austin: I’ve pulled up a square dancing PDF, if anyone needs any more calls.
+[Jack and Janine laugh]
+Dre: Oh yeah, hit me with it!
+Austin: Well the problem is actually, this is a billion pages long. And this is—I’m on a page that has probably 30 different PDFs about square dancing?
+Dre: Mm-hm!
+Jack: [with doubt] Mm!
+Austin: So you could do like this—the—[sighs]
+Janine: It’s interesting they chose to disperse those via PDF.
+Austin: Listen. Listen. Lissing. [laughs] Square dancing is a modern, uh,
+[3:00:00]
+dance program, and—modernity is all about PDFs.
+Dre: Mm-hm!
+Austin: “From various formations, do a Vertical 04, i.e. get into the Double Pass Thru / Single Pass Thru formation as appropriate. Then do the (Anything) call.” Anything is in parentheses here. “In counting fractions, the vertical is counted as a single part.” Vertical Dixie Style to Wave, and it’s like 3-4-1-2: start, 1-3-2-4: after Vertical, 2-1-4-3: finish. This is wild. This seems—… Any tagging call, Your Neighbor. So that would be like promenade your neighbor. Swap The Wave!
+Dre: Mm-hm. [crosstalk] Did you—
+Austin: [crosstalk] This is.
+Dre: Did you do any square dancing in like your PE classes in school, Austin?
+Austin: I extremely did not, but I did it [Dre: Okay.] once in Australia, so.
+[stifled laughter from Jack and Janine]
+Dre: It was part of the PE curriculum here in Louisville, Kentucky.
+Austin: [whispering] Oh, man.
+Janine: Actually, now that I—it was part of our PE curriculum in high school too. [Dre: Heck yeah.] We had to do a Shania Twain dance.
+[Dre laughs in surprise]
+Austin: Oh my god.
+Janine: ‘Cause Canada.
+Austin: [crosstalk] Here’s what I love, I—
+Jack: [crosstalk] Where’d you put this PDF, Austin?
+Austin: There’s another PDF here that’s all about the history. It’s Dance Program History, a document reporting the history of the CallerLab Dance Program’s Basic Mainstream. And this is—it starts with the 1975 CallerLab Tentative Mainstream list, in suggested teaching progression. Ranging from one, the first call, Circle Left and Right, to sixty-eight—sadly they didn’t get to sixty nine [laughs]—which is Hinge Family. There’s some good ones in the middle here, like Eight Chain Thru, Star Promenade, Wheel and Deal. Centers In and Out. Run Family, Trade Family, Circulate Family. Couples Wheel Around. Shoot the Star. That’s a damn good one! Shoot the Star is a damn good one. 
+But then here’s where this documents gets incredible. ‘Cause that’s 1975, and there are 68. 1976, the list was divided into three parts, Basic Program, Extended Basic Program and Mainstream Program. “1977, Add: Split Circulate to the Circulate family; quote-unquote “Thru” to the Cross Trail, (Cross Trail Through). 1978: Add Recycle; Substitute (listed as Zoom/Substitute). 1979: Add Backtrack, (listed as U-Turn Back/Backtrack); Ferris Wheel; Pass the Ocean (added to the Ocean Wave family). Drop Cast 1/4, 1/2, In, Right, Left; Couples Backtrack; Couples Lead Left; Shoot the Star 3/4; and Swat the Flea.” We dropped Swat the Flea in 1979. 
+And this is just a history of things being added and removed to official—to this one specific official dance calling thing! And it goes on for years! It’s really good, I’m really into this thing.
+Jack: When was this last updated?
+Austin: 2006.
+Jack: Ah, so maybe… [crosstalk] Maybe there’s another document.
+Dre: [crosstalk] There’s so much more.
+Janine: [crosstalk] That was like 11 years ago, though.
+Austin: All right, do you wanna know the best thing about it, is [laughs].
+Dre: [laughing] You haven’t already told us the best thing?
+Austin: For me, the best thing about it is… “2000: Changed the Basic/Mainstream Program to Mainstream Program. From the Program Policy document: dance programs are updated every two years. Changes shall be slow and deliberate,” which I love, because it’s like, listen. We’re gonna be very careful about what we move [Jack laughs]—what we change going forward. That’s 2000. 2001. [laughing] One year after saying changes shall be slow and deliberate. “Drop: Eight Chain Thru; Fan the Top; and Spin Chain Thru.” Uh, 2003, two years later: “Add Eight Chain Thru. [laughing] 2006: Add Spin Chain Thru.” So.
+Jack: [claps] More! Changes! Austin!
+Austin: And also it’s literally the ones they got rid of. They get rid of Eight Chain Thru and Spin Chain Thru and then immediately re-add them. They went—
+Jack: You know there was a meeting at some point. 
+Austin: [crosstalk] [laughs] Probably a lot!
+Jack: [crosstalk] Like a really tense meeting.
+[Austin sighs]
+Dre: These are the best patch notes.
+Austin: “Be it resolved that the CallerLab Mainstream Boldfaced/Italicized List be dropped from further consideration.” Ah. So good. I love culture. So much. All right. 
+[Janine and Jack laugh] 
+[stammers] We should—it’s—it was the end of that turn. That was a really good scene. I’m glad you danced.
+[Janine laughs]
+I’m gonna move this thing and we’re gonna see where we’re going. I think it’s another choice. It is. Um.
+Janine: Oh wow.
+Austin: Oh wow. Oh wow!
+Janine: [laughing] Yeah!
+Austin: There’s a lot here, huh?
+Jack: Huh.
+Janine: That’s some cool shit!
+Austin: There’s more cool shit than you know, too, because…
+Dre: Aw.
+Austin: All right, so our options are the Ice Rail, “a debt you owe”. Which is interesting. it’s like a railroad. It looks like to me. Um. There’s like trains, there’s an engine. That’s great, that’s fantastic. 
+There’s also the Mouth of the Deep, which has a little torch next to it? Um, and the torch is the Deepway. [reading] The torch icon marks the Deepway, a road that leads to an additional section of the map located on the back of the scroll. When moving the Magus, you may use the Deepway to travel to the map on the back of the scroll. Find the matching torch icon on the other side and continue from that point along the dashed road. 
+So, I wanna at least look at that real quick, what do you think? [Janine: Yeah…] I don’t know if I’m committing to the Mouth of the Deep yet, but, on the back of the scroll is this other, different map.
+Dre: Oh…
+Janine: Oh.
+Dre: Yes, please. Yes, please.
+Austin: We could—
+Janine: Oh man, and it goes the other way. That’s interesting.
+Austin: Wait, does it?
+Janine: ‘Cause it’s [crosstalk] the back of the map, so.
+Austin: [crosstalk] Oh, right! All right, so we would go from the Mouth of the Deep to the Hanging City, the hopsitality of the Rag-Draggers, are you fucking kidding me! What’s a Rag-Dragger! [all laugh] And those options are all very good. But wait, how do you get out of here? I don’t know how you get out—okay, wait, what’s it say?
+Janine: Gate—well, there’s a…
+Dre: [crosstalk] There’s a Nameless City torch.
+Jack: [crosstalk] [3:05:43] [???] right? Yeah.
+Dre: That might be the end.
+Austin: [crosstalk] So wait, you’re just on the back?
+Janine: [crosstalk] There’s also just like a gate.
+Austin: Oh!
+Janine: Just like a place.
+Austin: Wait.
+Janine: And then…
+Austin: Kay, wait, I’m gonna read—when do-do-do—continue from that point along the dashed road. So that’s it, then like you’re just on the back of this map then.
+Janine: Yeah, I think the Nameless City would be that’s another way to access. You could go [Dre: Oh…] from the Nameless City down here to the gate, I think the gate is still your destination.
+Austin: Wait, where’s the—wait, I don’t see the Nameless—or the…
+Dre: Oh, the Gate of Umbra?
+Austin: Oh! Wow, the Gate of Umbra is down here! [Janine: Yeah.] I see. Holy shit.
+Janine: I think that’s the thing.
+Austin: Yeah, okay. I’m gonna turn this back around before we look at this thing too much. ‘Cause the alternative, though, is that we stay up here, and…we g—so I’m just gonna pull this back just a little bit more, because the next thing are these islands? [Janine: Oh.] And that’s why there’s this deck of cards, to the bottom right of the screen?
+Dre: Oh man.
+Austin: And there’s [Janine: Oh!] all sorts of shit in the cards. Yeah. I mean—
+Janine: Huh. 
+Dre: Why is there so much good stuff in this game?
+Austin: This game is really good, [Janine: Yeah, this is good.] and also I’m exhausted. I don’t know that I have much more in me? I wanna frame this next sequence, and then probably call it?
+Jack: Yeah.
+Austin: [sighs] But I don’t know what to do, I don’t know if I wanna go to the Ice Rail, “a debt you owe”—I wanna know what debt the Magus owes—or. Oh wait, sorry, I didn’t bring y’all back, I only—oh yeah, I did. I brought you back, right?
+Jack: No no, we’re back.
+Austin: [crosstalk] Okay.
+Dre: [crosstalk] We’re here.
+Austin: So I don’t know if I wanna do that…or if I wanna do… Someone said “boat party” in the chat, that’s a lot.
+[Dre laughs]
+Um. [sighs] I’m very torn. See, I thought the back of this map would be like a thing you pop into and out of, I didn’t realize that it would be a thing that you’re like all right, I’m committing, I’m down here now. I’m super torn, what do people think? Like honestly.
+Jack: [crosstalk] I am—
+Janine: [crosstalk] I’m curious about the cards.
+Jack: Yeah, I was gonna say the same. I’m excited [Austin: Me too.] about going on a—I’m excited about going on a boat.
+Janine: The underground thing seems a lot like a thing where like you’ve maybe played this game a couple times, and you’re like, let’s try something different. You know?
+Austin: Yeah…
+Jack: I’m curious about—
+Janine: It seems weird that it skips a whole mechanic.
+Jack: Yeah.
+Austin: Okay, people can—you can leave, though. ‘Cause we are at the Mouth of the Deep and it’s my turn. I decide to move the Magus along the path through the Deepway. I remove the tokens from the map and flip the scroll over, continuing from the torch icon on the back to the Hanging City. So I think the Hanging—or maybe I’m just—oh, oh, no, I’m wrong. That’s like going in. Okay. Yeah, no. [Janine: Mm-hm.] Yeah, I think once you’re down there, you might be down there. [pauses] Weird. Cool, though.
+Janine: I mean, that makes a lot of sense ‘cause you’re under a sea.
+Austin: Yeah, I guess so!
+Janine: [amused] So it does kind of make sense that you wouldn’t be able to just pop up wherever.
+Austin: Yeah. All right, so. Let’s go to the Ice Rail, then. I mean, the other thing is that we could go to the Mouth of the Deep, and then go from there up to Istallia, or we could take the Ice Rail to Istallia. Um. I think I wanna—
+Jack: I’m just in love with the phrase “take the ice rail to Istallia”, honestly.
+Austin: [crosstalk] Yeah, me too.
+Janine: [crosstalk] Yeah, me too.
+Dre: Yeah.
+Janine: It’s good.
+Austin: Also, I just—we can’t dig deep here, but having looked at the little picture of Istallia at the start of this game, right, that little tiny one in the bottom left, and now looking at it here on the map? You were exactly right that it’s Anor Londo [laughs], it’s unbelievable!
+[Janine laughs quietly]
+Jack: [laughs] [Dre laughs] It is just—it’s Anor Londo has showed up in the game!
+Austin: Uh-huh! Mm-hm. Um. Okay. So…we say our goodbyes. So I’m the Magus now, so I’m gonna back over here and take the Magus token and move us to a debt I owe. Um. The Magus leads us down the rest of the mountain, across a long, icy plateau. You can see the ocean off to the east, and the ocean to the east from here is…like, across the entire shoreline, is frozen. You can see the ocean thrashing beyond that, but there’s like, it’s something in the ground is cold in a way it shouldn’t be. Whether that is from magic or from the absence of magic, I’m don’t know. I’m not the Magus, the Magus knows, but I don’t know. The Magus isn’t very talkative. So. She does not tell us. But there is ice like waves frozen in place, which is not what should happen, all around the rocks and crags on the eastern seaboard here. And the Magus leads everyone to this little frozen train—it’s not a station, even, like it’s a stop, like a bus stop, do you know what I mean? Like there is like [Jack: Mm.] one little place with one bench that doesn’t even sit the whole group of us. [laughs] So I think the Magus stands, and Caspian and Harp and Piccolo can sit, and I mean I guess if Fawn wants to hop up on a bench, too. She can also sit. Actually, I don’t know if Harp sits. Does Harp sit, does Harp stand?
+Jack: Uh, stands. [Austin: Okay.] Just sort of like locks their knees.
+Austin: Yeah. Um. And…you eventually hear the train coming. There’s like a [train foley] ch-ch-ch-ch ch-ch-ch-ch ch-ch-ch-ch ch-ch-ch-ch. It’s like very fast, it’s a very fast rhythm. [foley] Juh-juh-juh-juh juh-juh-juh-juh juh-juh-juh-juh juh-juh-juh-juh! It’s like, um. It’s like Thumper, the game Thumper, like, where—a thing I love about the music in Thumper is it feels like every measure cannot wait to be here, and so it’s almost cutting the previous measure off, all the time. You’re just like, by the second like—I don’t think that’s how music works, I don’t know what the fuck I’m talking about—but that’s how it feels in that game, in that game’s whole soundtrack, is that it feels like every measure is being devoured by the one that comes next, and that’s what this train sounds like as it gets closer and closer and closer. Piccolo, have you been near a train before?
+Dre: No. No.
+Austin [as Train]: Juh-juh-juh-juh juh-juh-juh-juh juh-juh-juh-juh!
+Dre [as Piccolo]: Okay. Still not as good as the talkin dog. But maybe better than the flyin man.
+Austin [as Caspian]: Hey, I do all right!
+Piccolo: No, you do, but. That thing’s big!
+Austin [as Train]: Juh-juh-juh-juh juh-juh-juh-juh!
+Austin: You see it lick its lips.
+[as Train]: Juh-juh-juh-juh juh-juh-juh-juh!
+Piccolo: And it’s got lips.
+[amused noises from all]
+Austin: Uh, its tongue is like striped. It has this like long pink striped tongue, and gleaming teeth.
+Piccolo: You still got oranges?
+Austin: [laughs] Bites into one, through the skin. Caspian does.
+[as Caspian]: [muffled] Still have oranges.
+Piccolo: Might wanna save em. Train looks…looks a little hungry. I don’t got any gumbo.
+Caspian: i wonder if i could just tie my kite to the back of that thing and just…float by it.
+Austin [as Train]: Juh-juh-juh-juh juh-juh-juh-juh!
+Piccolo: I mean, you could try. I don’t know if it’s gonna stop and let you.
+Austin [as The Magus]: Everyone be calm. It’s a train and it has a job. It’s going to take us somewhere.
+Austin [as Train]: Juh-juh-juh-juh juh-juh-juh-juh!
+Austin: Harp and Fawn, what are you thinkin about this train?
+Jack: Um. I think that…Harp steps off the platform—or rather steps off the, y’know, out from under the ice covered porch and brushes some snow off their shoulders. And steps to where, you know, like—on like subways it’s like, don’t cross the yellow line!
+Austin: Yeah.
+Jack: I think there’s one of these, and it’s metal in the floor of the stop, and it’s warm, it’s being heated, so you can see it through the snow and  there’s [Austin: Hm.] melted snow around it. And Harp places their foot across the line and holds an arm out to signal—holds a stone arm out [Austin laughs slightly] to signal the… I guess holding the rake. 
+Austin: Mm-hm.
+Jack: To signal the train.
+	Train: Juh-juh-juh-juh juh-juh-juh-juh!
+Austin: Fawn.
+Janine: Fawn’s under the bench.
+Austin: Aw. Fawn.
+Janine: It’s just better under the bench! It’s not—
+Austin: Oh. Okay, [crosstalk] I thought it was like a scare. I thought it was like a scare.
+Janine: [crosstalk] If you make it a thing, it’s—a little bit, but it’s better under the bench.
+[Jack laughs]
+Austin: Caspian like kneels down really quick and says like,
+[as Caspian]: When we get on that train, I’ll find an open air—I’ll find a window so we can do the hookah thing again, it’ll be fine, it’ll be fine.
+[as Train]: Juh-juh-juh-juh juh-juh-juh-juh!
+Janine [as Fawn]: No, I’m not—I’m not smoking hookah with you on the train. It’s not… [sigh] I’d rather it be nice and warm inside, I don’t wanna sit by an open window. It’s drafty.
+Austin [as Caspian]: All right, fine. 
+Austin: And the train comes into full view, and the front of it is like this—in my mind it’s like the front of a buffalo, if the buffalo had like metal spines. 
+[3:15:00]
+Like big nose, big like wet nose. This like slavering tongue, like falling out behind it as it moves. And instead of being fluffy, it has these hard metal edges pointed backwards with the speed that it’s gaining still as it gets closer and closer. Like, it’s far away at first. And then as it gets closer, it gets faster and faster and faster. And your hand is out, still. And the Magus comes over to you, Harp. And she leans close to you, and she says,
+[as The Magus]: The rake, or the sword?
+[as Train]: Juh-juh-juh-juh juh-juh-juh-juh!
+Jack [as Harp]: I will choose the rake.
+The Magus: To keep, or to give?
+Jack: And Harp pulls the rake back from over the thing [Austin: [slight laugh] Yeah.], draws the sword with their left hand and holds it out over the tracks.
+Austin: She nods and turns, and holds up like a—she makes like a hand signal with both of her hands, like using fingers. It’s almost like she is doing like a shadow puppet, like a strange configuration of her hands. And—you’ve seen her do this once or twice before, in your long life, Harp. And the train, you can hear… It sounds like whinnying, but it’s brakes being hit on this train. And it starts to slow, and you can see the entire front of it begin to open up its like huge jointed mouth, and you can feel the sword gets heavier and heavier in your hand, and it begins to take on almost—it begins to like [sighs]. 
+Parts of your rose quartz, like, body—or crystals like that form around the sword, like it’s a big piece of sugar candy, like rock candy on a stick. And it ends up being this huge baton of crystalline candy. And this huge creature—that does just have a train behind it, train cars behind it—slides into the station and just rips it away from you. And she says,
+[as The Magus]: A debt is paid.
+Austin: And the doors open. [Jack sighs] And you don’t have a sword anymore.
+[Both sigh]
+Jack: Okay. Okay.
+The Magus: We’re about a third of the way there.
+Austin: —she says.
+	[as The Magus]: Get on board.
+Jack: Yeah. I’m gonna board the—I’m going to like look down at the crystals that have [slight laugh] fallen, [Austin: Yeah.] and board the train.
+Austin: There’s like lunch service. There are other people—people get off of the train here. That’s a thing. Is like it comes, and then like three people get off, including someone with a…what do you call it, a…accordion, an accordion, who comes off and immediately starts to like play some sort of holiday tune. I don’t know what holiday it is here, what holiday is it here, in this world?
+	[pauses] Don’t say train day.
+[Dre laughs]
+Janine: It’s possible they’re just returning to the castle, right?
+Austin: No, but I think they’re playing a holiday, so I wanna know what that holiday [Janine: Mm.] tune is. This is the… This is the ‘I spent six hours in a Starbucks today’ sneaking into my fucking brain.
+[Dre laughs quietly]
+Jack: It’s a tune about, um. These people have come from a place where there isn’t any frost.
+Austin: Mm!
+Jack: There’s no snow, and there’s no frost, but there’s part of a sort of yearly… It’s a cross betw—it’s one part ritual and one part pilgrimage and two parts holiday, that probably like a travel agent or something sets up.
+Austin: Mm-hm.
+Jack: And culturally associated with that is one of these songs that’s kind of like along the lines of like, “Snow is here and it’s great, uh… It’s frosty at last. We’ve all packed our warm weather clothes…”
+Austin: [amused] Janine writes, “All I Want For Frostwalk Is You.”
+[Dre laughs]
+Jack: Yeah, exactly, [Austin: yeah.] All I Want For Frostwalk Is You! There’s a verse about punch…
+Austin: Mm. Does Harp—does any of it resonate with Harp at all?
+Jack: I don’t think it does, no! [Austin: It’s not their song.] [stammers] I think that Harp… I think that Harp… As the person with the accordion comes off the train, [Austin: Mm-hm.] Harp turns, and is sort of like, all right, cool! 
+[Austin laughs quietly] 
+Cool, here we—cool, here we go. This is it! And there’s just, there’s nothing. And they board the train, and they look out of the window at this guy with an accordion, and then a lady with a big drum strapped to her chest gets off the train [Austin laughs]—gets off the train behind him, and there’s a guy playing the flute, and Harp kind of watches them—and there’s n—I don’t think—other than the sort of very deep…what’s the word for like, um, geologic sorrow that golems feel constantly, I don’t think that Harp feels any particular sorrow that this isn’t their song. They’re just sort of like, well! I gave it an opportunity, and this wasn’t the one.
+Austin: I think Caspian, [exasperated] who has this giant fucking kite filled with stuff.
+Jack: Just like bumping it [crosstalk] against the door, and [laughs]
+Austin: [crosstalk] Bumping—yeah, like trying to get it up into one of the little overhangs that like—the shelf, the shelving things above it, the little compartment—it doesn’t fit up there at all, and like puts it down for a second and leans it against an empty chair, and then just like turns to you and says, um.
+[as Caspian]: I spent a long time in the sky, before I sung my first verse. I’m not even that good at singing. I just do it because… [amused] They pay me to, and I get to go in the sky. I haven’t been back to Istallia in a long time, and I’m not gonna tell you that where we’re headed is like, a source of inspiration, for me or for anyone else. But… [sighs] I just think maybe you should focus on figuring out…flying, before you figure out singing? You know? 
+[quickly] One of those is a metaphor, the other one I mean singing, like literally singing. But the flying bit, that’s not—I don’t—I don’t… [sighs] You seem—this isn’t a judgement. You seem pretty heavy. You’re made of rock. It’s beautiful rock! Also. Just to be clear.
+	Harp: My magnificence is earthbound.
+[Austin sighs]
+[Dre laughs quietly]
+Thank you for your kind words. Caspian… Before I began this journey, not only did I…not know that singing was something that was available to me at some point, I had no desire to sing at all. It was only during our first steps that I realized first that this was something that I wanted and then that this was something that I might one day be able to do. I have been alive for three thousand years. And I am prepared to exercise a little patience.
+Austin: Hm. I think Caspian like looks over the scars from the fire duel, and is like, 
+[as Caspian] [heavily] Yeah, patience. [pause] Anyway, I gotta get this kite somewhere. Uh. If you—I’ll see you around. It’s gonna be a long train trip. Try to enjoy it! 
+Austin: And then like—
+Harp: I will try my best.
+Austin: Walks away, with this big kite, looking for a place to fucking put it. [Jack laughs quietly] Is there any other shots, as this ends? I wanna know what everybody else is up to. Fawn.
+Janine: Uh.
+Austin: How you doin on this train?
+Janine: …Probably fine. Like once you’re inside the train, it’s just like being in a loud room, that kind of moves. It’s probably like unnerving, but. Fawn’s seen some unnerving things, so it’s probably fine. She probably finds a nice bench seat somewhere to just like chill.
+Austin: That’s good. Piccolo?
+Dre: Aw… [sighs] I think Piccolo is just like running through every train car on this train, and just [Austin laughs quietly] poking—
+[Music - “Bright Morning, Cool Evening” begins, guitar plays]
+Dre: —his face into everything.
+Austin: [snorts] Oh god. Good. Then I guess we get—I really want that like crane shot that like starts from the inside of a train, and like slowly pans outwards, and kind of zooms away so that we get the shot of the train going along the coastline, basically. Um, and we just see from kind of a distance, we see Piccolo running, arms outstretched, like, from place to place and like pokin his head into things and we get a nice shot of Fawn sitting at a [laughs] sitting at a booth. All dressed up. 
+[Music - guitar slows, whistling starts]
+Um. And…Caspian trying to put the fucking kite away. What does—what are our last shots of Harp?
+Jack: Uh, I think that we get a…like a reverse point of view shot of Harp’s face seen through the glass of the [Austin: Mm.] of the train. And then we get the point of view shot of like, what they see as we go down the coast. [Austin: Yeah.] 
+[Music - vocals begin to harmonize with whistling]
+And I don’t think this is framed as like a revelation or anything, I think this is just scenery. But I think like standing with their backs to the railroad, facing out to sea, are, you know, during one section, like a line of three hundred golems standing on the cliffside, facing out to sea, holding weapons, [stammers] guarding the coast up towards Istallia.
+[Music - whistling and singing fade; piano, gentle drums come in]
+Austin: What’s the last shot of the Magus? 
+[Music - wind instrument comes in]
+[first syllable same as magazine] Magus, [first syllable rhymes with vague] Magus? Maggie? Maybe we just don’t actually see her. The last time we see her is—we see her go into the train, and then that is the last time—I almost said in the movie. That’s the last shot of her in the movie. [Jack: [laughs] Yeah.] In the—we don’t see her inside. [Jack: Yeah.] 
+[Music - singing and whistling resume]
+It’s as if she isn’t there, like we see Piccolo run through the whole thing, and she’s just not. In fact, like, when the DVD comes out, you can see her go in, and then there’s like a shot change where like instead of looking head on to the train you’re looking into it, and by the time the shot shifts, she’s already gone, and there’s no way she should be gone already.
+[“Bright Morning, Cool Evening” continues, fading away with light percussion]
+[3:27:51]

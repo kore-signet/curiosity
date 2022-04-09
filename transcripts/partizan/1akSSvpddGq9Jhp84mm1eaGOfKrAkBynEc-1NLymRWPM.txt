@@ -1,0 +1,2221 @@
+PARTIZAN 46: Operation Shackled Sun: Act 2: The GateTranscribed by: Ray [00:00 - 51:00], Iris (iris#9022) [51:00 - 2:25:04]
+[RECAP]
+
+[MUSIC INTRO - “PRIORITY. FLASHOVER. PRIORITY” by Jack de Quidt]
+
+AUSTIN: The War in the Year 1424 of the Perfect Millennium is a game about how a climactic battle in an ongoing war will be understood and interpreted by the people of the galaxy. More specifically, 1424 P.M. is centered around Millennium Break's efforts to disrupt the Pact of Necessary Venture's operation “Shackled Sun”, a project meant to enslave a cosmic god with a process that would destroy the nearby highly populated moon of Partizan.
+
+JACK: My goal is to reunite with my husband and children on a safe Partizan.
+
+ALI: Broun's goal is to repay their debt to Valence/leave Partizan guilt-free.
+
+AUSTIN: What is your goal?
+
+KEITH: To deal a blow in the war against the Divine Principality.
+
+ANDREW: My goal is to determine my loyalty to the Witch in Glass.
+
+JANINE: Her goal is to resume the search.
+
+SYLVI: My goal is to escape Motion/Partizan.
+
+ART: Goal: crush the Stels.
+
+AUSTIN: In Act One, the Pact of Necessary Venture's experimental energy fleet comes under attack by the combined forces of the Witch in Glass and the Curtain, both of which are attempting to capture it for their own uses. One of the vessels in the fleet, a large troop transport called The Bitten Bullet, houses two Millennium Break agents who have stolen important data on how to disrupt operation Shackled Sun. If they broadcast this information, it will reveal their location onboard and lead to their deaths. Using the ongoing battle as cover, one or two Millennium Break members must break through the fighting, rescue Kalar and The Figure, and escape the fray so they can transmit the data to the rest of Millennium Break. In Act Two, a group of Millennium Break's best will breach the stormy atmosphere of the gas giant Girandole, infiltrate the Portcullis Gate hidden within, and attempt to stop operation Shackled Sun directly.
+
+[1:42 - RECAP ENDS]
+
+[2:17 - MUSIC INTRO - “PRIORITY. FLASHOVER. PRIORITY” by Jack DeQuidt ENDS]
+
+AUSTIN: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am your host Austin Walker, and today we are continuing our game of War in the Year 1424 of the Perfect Millennium or 1424 P.M., a hack of War in the Year 3000 by Ben Auden Roswell, which itself is a hack of Lasers and Feelings by John Harper, additional inspiration from Follow by Ben Robbins, Fiasco by Jason Morningstar. Hi, everyone, we're all back, joining me—I guess we'll go through the list—Ali Acampora:
+
+ALI: Hi! You can find me over at @ali_west on Twitter, and you can find the show over at @Friends_Table.
+
+AUSTIN: Also on Twitter. Andrew Lee Swan:
+
+ANDREW: Hey! You can find me on Twitter, @swandre3000.
+
+AUSTIN: Art Martinez-Tebbel:
+
+ART: Hey, you can find me on Twitter @atebbel, and go buy our stuff over at Fangamer.
+
+AUSTIN: Sylvi Clare:
+
+SYLVI: Hey, I'm Sylvi, you can find me on Twitter @sylvisurfer [NOTE: Sylvi's twitter is now @sylvibullet], and listen to my other podcast, Emojidrome, wherever you get your podcasts.
+
+AUSTIN: Jack de Quidt:
+
+JACK: Hi, you can find me on Twitter @notquitereal, or buy any of the music featured on the show at notquitereal.bandcamp.com.
+
+AUSTIN: Keith Carberry:
+
+KEITH: Hi, my name's Keith J. Carberry, you can find me on Twitter @KeithJCarberry, and you can find the Let’s Plays that I do at youtube.com/runbutton. I want to second-shoutout the Fangamer. If you haven't seen it, it's all really cool.
+
+AUSTIN: It's really cool, I hope that by the time this is out we have ours.
+
+[GROUP CHUCKLES]
+
+KEITH: Oh, yeah, yeah.
+
+AUSTIN: That’d be sick, it would be sick to have some of it. Also Janine Hawkins, hi.
+
+JANINE: Hi, you can find me @bleatingheart on Twitter.
+
+AUSTIN: As always, you can support the show by going to friendsatthetable.cash. So, we finished Act One last time, we're picking up now with Act Two of 1424 P.M. The last thing that we closed off on there was that the first team managed to rescue Kalar and The Figure in Bismuth from the energy fleet's Lattice System, this kind of big station, or set of stations that are ready to suck up all the energy from operation Shackled Sun, this thing that is being led by the Pact of Necessary Venture. Y'all escaped, there was a big Divine fight, you managed to push your way out of it, you got back to the Reflecting Pool and you gave half of the kind of big find that you retrieved from inside to the Witch in Glass and the other half to Kal'mera Broun, and both halves are a list of 50 words—is it 100 words total, or is it 50 words total in 25 and 25?
+
+JACK: It's 25 and 25.
+
+AUSTIN: Right, which, you know, is some sort of code phrase, and... I'm trying to think if there's any other key things here that we needed to establish—I guess our current score, the Act One score, we should say is—what did we end up with? Nine Cool? Nine Cool, total. As a reminder, to kind of reset some stakes, at the end of the game the totals will be calculated, and the Act One and Act Two totals will be modified based on the outcome of Act Three. If Act Three... So for instance, let's say you've got 10 Doubt right now. Actually, let's say you've got 20 Doubt right now, right? And then your final act was a success and was 9 Cool, the fact that you ended on Cool would double previous Cool scores—final Cool scores, not all the way through, not individual ones, 'cause that would totally fuck with the math, [LAUGHING] this is why we total it out after each act—but that 9 would become 18 and suddenly, even if you'd only scored a couple of Cool points in Act Three, the overall thing shifts towards Cool. Right?
+
+So that's kind of what's really at stake next time, with Act Three, but here in Act Two the direction you go in continues to matter because you're building the foundation for that stuff. So we'll see how it goes, you know? Act Two is about getting into the Portcullis Gate and stopping it, as best as you can at least. As always, in Act One and Act Two, the outcome is something we kind of determine through play, there is not a mechanical check to see if your overall mission is a success or not, and Act Three is not predetermined in terms of what its content is. Maybe it's dealing with the fallout of Act Two, maybe it's a big final confrontation with a rival, maybe it's something else that kind of sparks towards the end of Act Two, we could see it come into... into clarity. Ali, I see you've already written down what you think Act Three should be.
+
+ALI: [GIGGLES] Someone else wrote it and then I just offered some suggestions.
+
+AUSTIN: Oh, okay. Who wrote this? [LAUGHING] Whose pitch is this?
+
+JANINE: Me, I wrote it, I wrote it when you were—you were literally writing stuff in chunk two on Saturday night or something, and I wrote it in there assuming you would see it like, in a minute and then delete it and be like 'ha ha, funny.'
+
+AUSTIN: I never saw it. I never saw it!
+
+JANINE: [LAUGHING] And yeah, it just stuck around, I was like ‘okay...’
+
+AUSTIN: Janine wrote “dinner party.”
+
+JANINE: There was a moment yesterday—
+
+AUSTIN: "Smiley face."
+
+JANINE: There was a moment yesterday where I saw it was still there and I was like 'oh god, he's going to use this against us.'
+
+[ALI CHUCKLES]
+
+AUSTIN: No, I would never. I mean, maybe. Feast of Patina part three, let's go.
+
+KEITH: Wow, you changed your mind on 'I would never' very fast.
+
+[GROUP LAUGHTER]
+
+AUSTIN: Well, I had an idea, that's how minds change. Let's... So, what we know about today's game is that it's focused on the Blue Channel trying to get to this Portcullis, which, for people who don't remember, are these kind of big gates—these big, kind of floating hexagonal gates, that transport people from one star system to another. They only open up once a week; we're coming up very close, a matter of minutes away from when that is, and you know that they are going to—or I guess you believe based on the intelligence you have—somehow use Logos Kantel, the prophet, to bring Autonomy itself, the True Divine, through that gate, whereupon they will be captured or somehow turned into a great deal of controlled energy.
+
+The moment that I think we come in on here, before we even get to rolls or scenes—though we can do that if someone has one that they want to roll—is just, I need to know what the vibe is on the Blue Channel. Right? The Blue Channel is one of the ships doing this mission. I don't think anyone's been like ‘you're the only ship that can do this’ because that seems silly, but you are the lead ship on this operation, and it's you and a bunch of ships from the Company of the Spade, that I think appropriately have both Company of the Spade people and also Oxblood people on them, because the Company of the Spade is very good at getting through, you know, a gas giant, and once you're onboard a thing that is like a big internal structure filled with machines and engineering, that's Oxblood Clan territory in a big way. Any sort of energy, maintenance, power facility type shit, they're good at that stuff.
+
+So the idea is for you and, I would say, probably not that many other ships, but let's say five other ships, there are six in total, to breach Girandole—the kind of surface, the atmosphere of Girandole—find this Portcullis System inside of it, board it, and deal with it? Question mark, question mark, question mark? But before all that happens just like, who's on the ship right now? It's Broun, obviously, it's Millie, and then S.I. I'm guessing Jesset's still here, unless Jesset's left. How's the—how are the vibes?
+[10:28]
+
+AUSTIN: S.I., is this the first time you've been on Broun's ship?
+
+ART: It's certainly the first time I've been on it on camera so yes, it's more—it's more interesting this way.
+
+AUSTIN: What do you think?
+
+ART: It's... yeah, it's nice. It's like being on someone's boat, it's like... even if you don't like it, it's still a boat. I don't have a boat.
+
+[AUSTIN AND ALI LAUGH]
+
+ALI: Yeah, I feel like it's amicable. The thing that I was thinking of today when I was preparing for this mission is that it's really funny if like—'cause S.I.’s has probably done space travel before—
+
+AUSTIN: Definitely.
+
+ALI: —like, so much more than Jesset and Broun have, but especially with Broun coming off of their first big mission in this ship, and then also owning it, being a lot of like, 'oh, well, this is what you do for this thing,' and S.I. being like 'yeah, I'm so much older than you, I get it. I definitely get it.'
+
+AUSTIN: [LAUGHS] Right.
+
+ALI: Which is—
+
+ART: I also think it's like the vibes of not taking the film off your television.
+
+AUSTIN: Right. It protects it! It's there to protect it!
+
+ART: Yeah, it protects it.
+
+[ALI LAUGHS]
+
+AUSTIN: If you're out there, you're supposed to take that film off. It's okay, you don't have to tell anybody.
+
+ANDREW: Please!
+
+AUSTIN: Alright. Any other things here before we get into the action, so to speak, I definitely don't want to rush us there if people want to have those sorts of scenes because this is a much tenser group, I would say, in terms of interpersonal shit, given the history.
+
+SYLVI: [SMILING] Yeah, I don't know, I feel like it's a quiet tension from Millie, is the thing, so.
+
+ALI: Yeah.
+
+AUSTIN: Fair.
+
+ART: I don't think anyone wants to fight. We’ve got a lot of fighting to come.
+
+SYLVI: Yeah.
+
+AUSTIN: Just to put people on the map in my mind and in the listener's mind and in everyone else at the table's mind, I think A.O. Rook is probably with the mission fighting the fleet in the middle, the Pact fleet, for control of the Lattice. I think Gucci is onboard the Reflecting Pool sniping back and forth with the Witch in Glass, being very prickly and petty in a way that both of them are very good at. I think that Kal'mera—-not Kal'mera, jesus christ, Queen Overture Rook [LAUGHS]—is also probably in—probably a different ship as part of the fleet, not an attack vessel, but some sort of command ship, some sort of tactics thing. I think—we didn't see them, but I think Cas'alear has suited back up and is back in the Ataraxia, which I think is—looks sick as shit in space because it can like, I don't know, that one's almost like a white mantis mech that had its claws, or like, its long arms had beams on them, and so it's just like tumbling through space in very cool ways.
+
+And then I think the other—like, there's a lot of people just still on Partizan, looking up at all of this, right? Like, not everybody got off-world that you knew, necessarily. I think as many people inside of Millennium Break as possible could, but you know, if you're trying to be like 'hey, where is Midnight Matinee', or where are—I bet there are lots of people inside of the Sable Court who are like 'we're not leaving here, this is our home, and this is—we believe you're going to be able to go win this fight', but more importantly just like, 'I'm not going to leave my place.' Lots of people don't evacuate when push comes to shove—and also, there's limited time and space to get people together, so I think some folks definitely got left behind there.
+
+I think those are the big NPCs that come to mind, anyway. But yeah, they're all out there, doing shit. Agon is probably commanding this operation, for the Company of the Spade pilots and stuff, from another command ship above the atmosphere of Girandole. So, where do you want to come in? Who wants to try to tackle this first? I mean—I think maybe the obvious thing is like, 'hey Broun you need to pilot this thing through the clouds’, but you tell me how you want to do this.
+
+ALI: Yeah, I mean, that certainly seems like a hurdle worth [LAUGHING] zooming in on.
+
+AUSTIN: Uh-huh?
+
+ALI: I—never in my modern American life have thought about penetrating a planet, [LAUGHING] even if it is made out of gas, that sounds difficult to me. Um...
+
+AUSTIN: Yeah, I mean, my understanding is trying to fly through a gas giant would be very difficult.
+
+ALI: Right. Is there like surface tension? How does that work?
+
+AUSTIN: There is—so there's not—my understanding is that there would still be atmospheric pressure, because there is—there is a layer of like ice and shit somewhere in there and stuff, and also there's lots of winds, and also I believe it could be very hot in gas giants? It's not cool.
+
+ART: It's—it's tricky though, right, because all of the examples we have from Earth are just like 'oh yeah, if you go to Jupiter the gravity just crushes you immediately.'
+
+AUSTIN: Yes, totally, right, yes. And so I imagine that you—to that end, what we do in the sci-fi version of this is, you've gotten some sort of system here to regulate the pressure, or maybe that's something that could break if things go bad here, and you probably are wearing some sort of very specialized suites for this sort of drop. This is the sort of stuff that the Company of the Spade is very good at dealing with, and has probably outfitted everyone for this purpose. And then presumably, when you reach the Portcullis, stuff there we can kind of handwave a little bit, because we know the Divine Space is onboard of it, because it's onboard every Portcullis system, and Divines do Divine shit, right? And so at that point it's a little bit easier, but this plunge through the clouds is scary, for more than one reason that we'll get to. But, yeah, I guess—talk to me just about being at the helm of this thing, looking at all these swirling clouds and going down through them. I don't—how do you control your ship?
+
+ALI: Yeah, that's tough, I mean we—we talked a little bit about there being a lot of like... there's like a very thin window, and a lot of the navigation stuff is built off of like, computer readouts or like, very basic maps and stuff, so I think it's that. I just think that like... the planet isn't like a lightsource on its own, right? But I think that the change of like... atmosphere colour and brightness ends up being really disorienting? It's like, you know, you're in the pilot room—or, the cockpit is what you call that. [LAUGHS]
+
+AUSTIN: Uh-huh.
+
+ALI: And it's like, 'oh, it's so much brighter in here than it was like a minute ago, and that's weird.' Maybe like, some of the—just, the sensors can't handle this because they can't deal with the...
+
+AUSTIN: Totally.
+
+ALI: ...the like, density of whatever the fuck a planet is made out of. [LAUGHS]
+
+AUSTIN: Yeah, totally. Yeah, I think—and I think navigating this, I think you get a message from Agon here, which is just like sent to all the pilots of these six ships that is like, 'stay on course, keep balanced, if you feel like you're being pulled, go with the pull, don't try to overturn, 'cause we'll lose you', you know, 'straighten yourself out slowly', basically just repeating a couple of steps that are like the obvious—not the obvious things, [LAUGHING] because this is a fake thing that we're inventing right now, but she's delivering these things in a way that is like, 'hey, here is what is up, here is the way to—you know these techniques’, you know? The way that someone who would be like a driving instructor would instruct people, you know? Or whatever.
+
+But yeah, I think that that, to me, seems like the opening—a roll here is just breaching this, and setting kind of how you come towards the Portcullis, whether you're under control or slipping all over the place. So, what is the framing of this as the camera sees it? As the story spreads and people talk about Broun at the helm of this thing, how do they talk, how do they talk about them and how is it framed? Is this Cool or is this Doubt?
+
+ALI: I feel like it might be Cool. [QUIETLY] Let me just read this again to make sure that my impulse is correct here... Actually, I think that it might be Doubt, just because I think that it's like, an amount of focus that is not… like, it's not Broun trying to be impressive, it's Broun trying to survive.
+[20:09]
+
+AUSTIN: Sure. This is scary in a way, this does not look like—this does not look sick, this looks like someone trying to control a ship as it—or like, a car as it skids across ice, and that person is not James Bond [LAUGHS], that person is your aunt who is doing her best not to crash on her way to the mall to buy Christmas presents. Like, it's not a big heroic moment, it's just scary.
+
+ALI: Yeah, yeah, yeah. This isn't Broun being like 'oh, it's fine, I've got this', it's Broun being like 'don't talk to me right now!'
+
+[GROUP LAUGHTER]
+
+ALI: 'Be quiet!' So yeah. [LAUGHS]
+
+AUSTIN: [LAUGHING] Yeah, okay, that's Doubt, for sure! Alright, so that's, you start with one dice—one die.
+
+ALI: Sure.
+
+AUSTIN: Do your roles add to this in any way? Draw on your roles here.
+
+ALI: [CONTEMPLATIVE NOISE] I think that it might not?
+
+AUSTIN: Yeah, it's tough because like, Mechanic—I feel like if we let Mechanic work here, we're really stretching it, you know what I mean?
+
+ALI: Yeah, yeah. I wrote Mechanic and not Pilot, and I guess that was purposeful...
+
+AUSTIN: That's—I think that's, yeah, I think that's honest. I think that's a good, true thing still.
+
+ALI: I mean, there's a little bit in the characterization there that was rude, but... [LAUGHS]
+
+AUSTIN: Yeah, I don't think you went all the way to problematic fave there [LAUGHS]. Is anyone helping? How about that?
+
+ART: It's hard to help someone who just said that their attitude is 'I don't want to talk to you.'
+
+[GROUP LAUGHTER]
+
+ART: But I could also see like Sovereign Immunity doing the like—
+
+AUSTIN: [CROSSTALK] The Kal'mera Broun Story!
+
+ART: —doing the like, calm—the someone's freaking out driving and you're just calmly like 'no, no, turn left, look up’, I don't know, I've never driven a spaceship.
+
+SYLVI: I think like, also, if we want, Millie's been on this ship for weeks now, I'm assuming, probably knows at least the basics of like, ‘okay this stuff needs to be locked down or else it's going to tumble all over the place and make this just even worse’, you know?
+
+AUSTIN: Yeah, alright. So let's go 2d6 then, 2d6. We are looking for a low roll. This is our first two, I think, isn't it? Our first 2d6. [PAUSE]
+
+That is a Hedge, you got a 4, your score is a 4, I guess I should've said that outright to begin with. So, this could become Cool. and you could get an automatic success here, if you reframe this as a Cool thing. Otherwise, you would have to reroll. I think this is just one of those things, right? Where it's like the people are—Millie is trying to lock everything down, S.I. is giving you kind of mediocre advice—no offense, S.I., but 'go left, look up' is not really it.
+
+[ALI CHUCKLES]
+
+ART: [MOCK INDIGNANCE] I don't know how spaceships work, this is my limitation!
+
+SYLVI: [MOCKING S.I.] ‘I'm helping by backseat driving.’
+
+AUSTIN: [LAUGHING] Yeah, exactly. So yeah, I think maybe there's a moment here where like, if we can see a Cool Broun then maybe you just get that success automatically. Also, I think on 2d6, Hedging is suddenly a little bit more attractive, right? Because it's like 'shit, am I going to get that success?'
+
+ALI: Sure.
+
+AUSTIN: But you could reroll on Doubt and commit to this characterization, which I'm fine with.
+
+ALI: Yeah, um...
+
+ART: Mathematically, rerolling is a fine proposition.
+
+AUSTIN: We got Art the average king here.
+
+ALI: [SIGHING] Yeah.
+
+AUSTIN: [LAUGHING] Which, to be clear, I don't mean that Art as a person is only average.
+
+SYLVI: [CROSSTALK] Damn! Get his ass...
+
+ALI: The king of averages!
+
+ART: King Average!
+
+AUSTIN: Sorry, king of averages, yeah, exactly.
+
+ALI: [DELIBERATING] Yeah, it's tough because I can definitely like—I feel like I can easier see the slip into Cool here, of like, Broun initially seeming really stressed but as they're following through with the action, because they're gaining confidence as they're doing it, it becomes Cool?
+
+AUSTIN: Yeah, I think that totally would work if you wanted to go that way.
+
+ALI: The success seems worth it. [LAUGHS]
+
+AUSTIN: Yeah.
+
+ALI: Yeah, let me just do that. Yeah.
+
+AUSTIN: Alright. Just take it. Okay. So that means you got a... this is Broun and that was 2d6, seven Cool... that is Spinnable. That would really be Spinning it to try and get a higher score, on that 1 with a 4 and a 3. Or, I guess that's not true, with a 7—yeah, that's about right, right? 7 on 2d6, that’s like down the middle, isn't it?
+
+ART: It's exactly down the middle, yeah.
+
+AUSTIN: [CROSSTALK] It's exactly the middle. Anyway, so that's some Cool points here. The... What was I going to say? I was going to say a thing and I lost it. Fuck. Am I skipping a step? Am I skipping a step in this game—I don't think so. I am gonna note that this was was Hedged—there we go.
+
+So yeah, I think we get that shot of you that is almost more of the shounen anime thing, right? Of gritting your teeth and being like 'no, I got this’, and the confidence spreads. Your ship is fine, the rest of the ships are fine, and then... And then, you see, like—you're going through all these clouds, and I think part of the way that the clouds work is that there are so many of them that it's hard to even break out one from another or like—you know, when you're inside of a cloud, you don't get to see the structure of the other clouds, right? But then you break through a bunch of them, and you can see that there's another layer of them below, but for this brief moment you're in the sunlight, right? You're in this kind of pink-hued sun, sunlight, you can see the sky, you can see the clouds above you. And then the next layer of clouds below you begins to swirl, almost like a whirlpool. But then you realize it's like almost being brought down, and here, inside of this atmosphere, you hear the sound of a very loud beam rifle charging and then firing. And from that whirlpool a huge blast of energy rips upwards, separating the clouds, revealing that very, very, very, very far away, on the Portcullis—which you can now see very far below—a mech with a giant sniper canon that tears through one of the other ships that's on the descent.
+
+You are now being sniped at by Vervain from GLORY very far away, and it's just like—it's that sound of [MIMICS LASER GUN CHARGING AND FIRING], and it’s like it's echoing out throughout all of the sky around you. There are like these—now literally shooting through the clouds, leaving huge holes in the clouds, as they continue to ping each of these other ships, and one after another they are taking them down. What are y'all doing, in relation to this? How do you want to handle this? Five rolls left.
+
+SYLVI: [SIGHS] I could hop in my mech here and go on top—
+
+ART: [CROSSTALK] That's a great idea, you are the person who should do that!
+
+SYLVI: I am. This does sort of seem like my thematic boss fight here.
+
+AUSTIN: A little bit.
+
+[ALI CHUCKLES]
+
+SYLVI: A little bit. But yeah, I'm thinking like—we just put the Stray Dog up on top of the ship while it's flying. ‘Cause I can’t—
+
+AUSTIN: Is the Stray Dog built for this? Is the Stray Dog ready to be in this atmosphere, in this heat and all of that, or will there be an effect?
+
+SYLVI: I...
+
+AUSTIN: Like, does it look—we're not playing Beam Saber so I'm not saying 'take level 2 damage’, you know, but—
+
+SYLVI: Yeah, for sure. I think that it shows—it kind of shows on the armor, because it's still in its cannon mode, so it's still armored, right?
+
+AUSTIN: Right, right.
+
+SYLVI: So like, that's heating up and maybe that's sort of like...
+
+AUSTIN: Totally.
+
+SYLVI: ...getting marked up and shit, but I think, because it's still armored, it's doing better than it would if it was in like, the...
+
+AUSTIN: The Lacrimosa, yeah.
+
+SYLVI: Yeah.
+
+AUSTIN: Okay. So you—how does Millie go about this? Like, what is the—do you just tell S.I. and Broun that you're gonna handle this, or what?
+
+SYLVI: ‘Goin' up!’ Yeah, I mean... I don't know what else there is to do. I feel like the second it starts happening I'm like 'okay, well I gotta take care of this, we don't have any guns on this ship!'
+
+ALI: Yeah.
+
+SYLVI: I am the gun on this ship!
+
+ALI: Yeah, this is par the course as far as... [LAUGHS]
+
+SYLVI: [SMILING] Yeah.
+
+AUSTIN: Fuckin’ Ver'million Blue, "I am the gun," fuckin’ put it on a t-shirt. Alright, so you get into the mech, you go on top, you're surfing on this ship, you lock away your cannon—
+
+SYLVI: [INTERJECTING] Yeah, I don't want to—I was gonna ask if I could use my firing brace, but I don't know if I want to like, fuck up the hull that much?
+
+AUSTIN: Oh, true, 'cause it would put a dent—it would like, literally drive into the—
+
+SYLVI: [CROSSTALK] It would dent it, yeah.
+
+AUSTIN: —into the top of the—I guess it depends on how much armor is on this thing. Right?
+
+SYLVI: Yeah. So I'm asking Broun ahead of time, before I go up there, 'hey, can I use the brace or am I’... you know.
+
+ALI as BROUN: [laughing] I mean if it's like, is the armor plating on my ship gonna get temporarily fucked up, or am I gonna die? I think go ahead, have a good time.
+
+SYLVIA as MILLIE: Okay, cool!
+
+ALI as BROUN: I'll take care of it.
+
+SYLVIA as MILLIE: [CROSSTALK] Thanks so much.
+
+ALI as BROUN: There's a reason why I’ve kept onto scrap metal for years and it's for this moment.
+
+AUSTIN: To me that sounds like help from Broun, right? Being like 'I will be your stable platform, you will be the gun.’ That is the play and I think that gives you one extra die from helping, and then you're using your mech, so that's three.
+
+JANINE: So romantic!
+
+AUSTIN: I know, I know. I thought so too, but I didn't want to put it out there, so...
+
+[GROUP LAUGHTER]
+
+JANINE: [SARCASTIC] 'I will be your stable platform, you will be the gun.’ Goals.
+
+SYLVI: Um, can I get a—
+
+ART: [CROSSTALK] The breakaway pop hit of the season.
+[30:01]
+
+AUSTIN: [LAUGHING] God.
+
+SYLVI: Are we including my military role for this sniper?
+
+AUSTIN: [CROSSTALK] So it's three total, three is the highest you can get, so yeah.
+
+SYLVI: Okay, yeah.
+
+AUSTIN: Yeah, yeah.
+
+SYLVI: Alright, I wasn't sure if we were up to three or not.
+
+AUSTIN: Yeah, you got it, you got it. 'Cause also you're using the mech, obviously, and mechs just give you the bonus, also.
+
+SYLVI: So, I don’t think that—
+
+AUSTIN: [CROSSTALK] Cool or Doubt?
+
+SYLVI: How am I gonna make this not Cool, is my problem here.
+
+AUSTIN: [CROSSTALK] It's a real rough one. 
+
+SYLVI: I'm thinking really hard. But I think I'm gonna just have to roll Cool on it and then maybe we'll see how it goes.
+
+AUSTIN: Yeah, maybe you’ll Hedge—
+
+KEITH: [CROSSTALK] You could just fail your Cool roll and take the Hedge.
+
+AUSTIN: And take the Hedge.
+
+SYLVI: [CROSSTALK] Yeah, exactly!
+
+AUSTIN: You gotta get a Hedge to actually get that, but yeah.
+
+KEITH: Oh, yeah, you gotta get the—yeah.
+
+AUSTIN: Alright, 3d6. [PAUSE] Hey, you Hedged!
+
+SYLVI: A 5, a 3, and a 4.
+
+AUSTIN: So you got two successes—you got two successes and a three, which means you could Hedge and get that being a full success. I guess—I hadn't thought about this, I don't know if Hedging... if Hedge—what did we just do? You didn't Hedge in the last roll, right Ali?
+
+ALI: I did.
+
+AUSTIN: You did Hedge, and that was going from Cool to Doubt, right?
+
+ALI: That was going from Doubt to Cool.
+
+ART: Other way.
+
+AUSTIN: Oh, it was going from Doubt to Cool. And so, that was going from... You have a four—we counted that other one as a success, right? We did—oh, it doesn't matter.
+
+KEITH: If I remember, Ali's was the first Hedge that we've done at all.
+
+AUSTIN: [CROSSTALK] Oh! Pause, pause, we did skip something, we one hundred percent skipped something. We skipped the questions, which is why—remember during the last roll I was like 'hey, it feels like I'm missing something’ after the roll. The answer was: you got one success last time, there's a fail question and a success question. I'm gonna say the fail question was “What did the camera see coming that you didn't?" and it was that shot coming up from Vervain. But you still get to claim a success there. Because, when you Hedge, the die that you're changing is the one that becomes—it changes the roll, right? And so that means that, in this case, where, Sylvi, you've rolled 5-3-4—on a Cool, that would have been two successes and a Hedge, but if you Hedge and turn it into a Doubt, it just becomes one success, 'cause 5 and 4 are not Doubt successes for you. Right? Those would—
+
+ART: No, no, that's not—doesn't Hedge say every die is counted as a success?
+
+AUSTIN: Oh, does it? Okay, I don't know, I didn't write this game.
+
+KEITH: We didn't have any practice doing Hedging yesterday.
+
+AUSTIN: Whatever the book says... [QUICKLY MUTTERING WHILE READING TEXT] That would count every die you rolled as a success! Boom. Rules lawyered me in my own fucking game.
+
+[ALI AND SYLVI GIGGLE]
+
+AUSTIN: Good. No, I mean, I wrote that for a reason, good call. I wrote that for a reason, which is, it encourages Hedging, right? That makes sense. So really quick, though, before we get this shot, let's go back to Broun. “When you succeed, ask one of these.” Does anyone at the table or Broun have a success question they want to ask alongside this Vervain shootout?
+
+ALI: I have an idea, but I can give space to other people?
+
+SYLVI: Well, this was your success, so...
+
+ALI: Oh, sure.
+
+AUSTIN: Yeah, go for it!
+
+ALI: [QUIETLY] I literally already forgot what I...
+
+[SYLVI AND ALI CHUCKLE]
+
+ALI: ...was gonna say. Wait, wait, wait. Um... Oh, I think it was “how do you take control of the narrative?”
+
+AUSTIN: Oh, sure.
+
+ALI: Which is like, we start that scene with Broun seeming really unconfident and really incapable of something that they just started doing, and wanted to do their whole lives, so the idea of Broun being able to like, really take a deep breath and gain their confidence in that scene I think is like, them being like 'no, no I'm capable of this.’
+
+AUSTIN: Yeah, totally.
+
+ALI: In a way that is interesting for a viewer.
+
+AUSTIN: Mhm. Alright. So, back to this roll... Millie, how do you—you can Hedge this and turn this into a three-success Doubt, if you would like to.
+
+SYLVI: [CONTEMPLATIVE] I might.
+
+AUSTIN: How do you do it?
+
+SYLVI: 'Cause-
+
+AUSTIN: How do you reach out and—or, how do you do this thing that is not the definitive cool sniper duel and instead undermine it; undermine the visual logic and the storytelling logic of the Principality?
+
+SYLVI: I'm trying to think. I think that what happens here is that it's like—it starts off as a very, like, 'oh, wow, cool, that robot's surfing', and then it turns into 'oh my god, that giant cannon obliterated that thing’, to, like, overkill style.
+
+ART: Yep. Blasphemous violence.
+
+SYLVI: Yeah, just like, too much, and the fact that it is such a like... It's not a thing that a typical soldier would do, is climb out on top of a ship and then fire from their mech, and I think, like-
+
+AUSTIN: [CROSSTALK] Can I paint—can I give you a palette?
+
+SYLVI: Please do.
+
+AUSTIN: Just to paint with this a little bit, because I think we have—inside of mecha fiction, we do have a touchstone for 'when does the cool thing start getting scary' and you have the mech built for it, which is like—what if you get shot, and the armor peels away, and you're left with the body of the Lacrimosa Drive.
+
+SYLVI: Oh, yeah.
+
+AUSTIN: Like drooling, you know, all of the musculature there and like, you know, with all—
+
+SYLVI: Reacting to the heat.
+
+AUSTIN: Reacting to the heat, bubbling, growling, but still now holding the sniper rifle?
+
+SYLVI: Yeah, okay, that's—that's exactly it.
+
+AUSTIN: Which is like, terrifying. This is like your berserk mode, except it's the berserk mode plus all the terrifying power of your sniper rifle. You're like inside of a living body, literally, and also still raining death down on this thing from a distance like this. And, you know, it's just like shots of the mouth of your mech, shots of the claws, shots of all of the like—the gross shit that would scare the average member of the Divine Principality.
+
+SYLVI: [CROSSTALK] Yeah. Okay, sick, I love that.
+ 
+AUSTIN: But I like that. I like that as a... to build on that concept of like, how do we really sell the idea that this is not just—this is not a poster that the 12 year old hangs on their wall because—
+
+SYLVI: [CROSSTALK] No...
+
+AUSTIN: —you look like all the other great Apostolisian heroes. This definitely leans into that thing of like, Doubt often means looking like the other to an established, normative aesthetic sense. This is three successes, which is huge. You get to ask any three questions—ask and answer any three questions here, obviously the table can suggest things also, but across both things, so like, if you did want to say how your past actions held you back now, you could do that, but you don't necessarily need to. You know?
+
+SYLVI: Yeah..
+
+AUSTIN: Or if you had an idea for how it escalated the situation—
+
+SYLVI: That was the one I was thinking about asking. Like out of all the fail questions, if I was to ask one, it would probably be that one. I think the... One I want to ask here first, just to see the immediate aftereffects is what... [QUIETLY] where is it? "What effect did your action have on those who watched it?"
+
+AUSTIN: Oh, sure.
+
+SYLVI: Especially since we've gotten into the gory details of it.
+
+AUSTIN: Yeah, I mean, I think there's two groups of people watching it, right? There's the literal people watching it who are in the other Company of the Spade ships, and I think that they say “We're letting the Blue Channel take the lead!” And that’s because you’re doing a good job of shooting your way through, but it's also because they kind of don't want to look out their windows and see you. They'd rather be behind the Blue Channel and let you shoot your way through, and there is something kind of scary even to them about what they're seeing in you.
+
+The second audience is the public, right? Is the public of the Divine Principality, who I think, in this moment, it is what we kind of set up before, which is like—there is something terrifying and monstrous about what they're seeing. And I think because we don't know how this all wraps up quite yet, the question that, in this part of the story, when this part of the story gets told, or framed, or shot, fictionalized, whatever it ends up looking like—the question for the audience is whether or not seeing this thing like this is scary because you're an outsider and a villain, or scary because you are a thing created by this system that you’re fighting against, right? That like—
+
+SYLVI: Yeah.
+
+AUSTIN: I think there are some people who see this and go like 'holy shit, she is this thing that she was turned into by this state and it kind of rules that she's turning it back on them.' Those are the people who end up liking Millennium Break, whoever those people end up being, you know what I mean?
+
+SYLVI: Yeah, yeah.
+
+AUSTIN: Whether those people end up being bootleggers and bombers or end up being the people who will vote in the next official Millennium Break Country election, we'll see. You know? Anyway.
+
+SYLVI: I think the next one, just to sort of keep the momentum going, is "What new information or tool was revealed to you?"
+
+AUSTIN: Good call. My gut here is just a path, right? Is that while you're shooting through I think that you're able to give Broun, like, an entrance vector, like 'oh, here is—’ Maybe one of your shots even clears out a hangar bay down on the Portcullis, right? So that you can land right after this.
+
+SYLVI: Okay. God, I have one more. Three is a big number sometimes!
+
+AUSTIN: [CROSSTALK] Three is a big number. If anyone else at the table has one, that's also—
+
+SYLVI: Yeah, please.
+
+AUSTIN: You're free to suggest it, at least. And both sides of it, answers also, right? 
+
+[PAUSE]
+
+SYLVI: I could do "How did your actions escalate the situation?"
+
+AUSTIN: Totally.
+
+SYLVI: 'Cause we're kind of starting to get in the thick of things.
+
+AUSTIN: Yeah. Well then, I do have an answer—
+
+SYLVI: [CROSSTALK] And we know where we're going.
+
+AUSTIN: Yeah, exactly, and I do have an answer for that.
+
+ART: Right, but that's a fail question and we—
+
+AUSTIN: [CROSSTALK] You're allowed to. On three successes you can ask from either side.
+[40:05]
+
+ART: Oh.
+
+AUSTIN: Uh-huh. And I can tell you. When that shot goes in that clears the hangar, it's as if something or someone inside says ‘it is time to start this’. And the pink and blue clouds all around you shift in colour.
+
+ALI: Eek!
+
+SYLVI: Oh, damn!
+
+AUSTIN: As the Portcullis Gate begins to open. And the clouds become dark maroons and reds; bright, magma coloured orange. The planet begins to heat up, as energy begins to pour in. Operation Shackled Sun is beginning, and you are the people closest to stopping it. The planet of Partizan, or the moon of Partiza, is suddenly like looking up and, you know, tiny in the—under the shadow and under the gaze of this giant, giant planet that now does just look like you're looking into lava or something. For people at home, I just switched the map, I had a secret map hidden under the regular map. This is an infrared view of Jupiter; if you do a search for 'infrared Jupiter' you'll find this on the internet, it's a NASA shot. So, hi everybody.
+
+ART: It's also a fun band name if you're out there looking for it.
+
+AUSTIN: [CROSSTALK] Infrared Jupiter, yeah, absolutely!
+
+ART: [CROSSTALK] Infrared Jupiter. Band or album, really, take your pick.
+
+AUSTIN: Uh-huh. Ultraviolet Jupiter and Infrared Jupiter are like—it's like a dual-disc release, right?
+
+JANINE: That's like a Tommy February Six/Tommy Heavenly Six thing, right?
+
+AUSTIN: There you go, yes.
+
+SYLVI: It's a Duel Disc release 'cause it's a Yu-Gi-Oh card.
+
+AUSTIN: [LAUGHS] Great, good. So—
+
+ART: I think the real answer is no one releases CDs anymore, Austin.
+
+AUSTIN: Fuck. They should. Anyway, Broun, you now have your pathway in, you're able to land the Blue Channel inside of this Portcullis system—or, you know, the Portcullis Station or whatever, and get out. I'm not gonna make you roll for that because Sylvi successfully got that extra information or tool, that just counts. Also I mean, I should, I should say, do you—I guess I'll ask you this. Millie, did you win that fight, or did you just secure your way through the clouds?
+
+SYLVI: I… Hmm.
+
+AUSTIN: We can go either way, 'cause I have a way for you to have not won, but it's up to you.
+
+SYLVI: I think I kinda am down for Millie having just obliterated her—this person who's like... the clone of the same person as her?
+
+AUSTIN: Yeah, yeah.
+
+SYLVI: Without even realizing it.
+
+AUSTIN: Right, the—you know, you are shot, the armor comes off, you start shooting from within the incoming sniper beam, and drill a hole back through the beam and—
+
+SYLVI: [QUIETLY] Fuck yeah.
+
+AUSTIN: —when everything clears it's just—they're just gone, right? They're just completely like, scorch marks on the side of this gate.
+
+[SYLVI EXHALES]
+
+AUSTIN: Anyway. You park here [LAUGHS] and it is like a busted up hangar from being shot at from during your descent. Two other vessels land here—there's a third one that lands in a different hangar somewhere along with you, and out come Company of the Spade and Oxblood Clan people. You know, I think Jesset immediately runs over to try to start commanding some Oxblood folks. Everyone has on, like, space suits with kind of helmets—I think it's those sorts of helmets that—they're not big, round, they're almost like more oval and tall, and then they have those things that you see in like the Alien movies that have—or like, the Expanse I want to say does this too, where they have interior lights lighting up the face, you know what I mean?
+
+ALI: Ooh, yeah.
+
+AUSTIN: That sort of vibe here. Because like, this hangar, it's now darker than it was as this new colour takes over the planet, but it's also just dark in here because Millie blasted it to shit.
+
+[GROUP LAUGHTER]
+
+AUSTIN: So it's just like, the lighting is ruined in here.
+
+SYLVI: My bad.
+
+AUSTIN: Nah, it's fine. But soon enough, you know, you are in a sort of like ground operations team, or the ground operations team starts moving through to try to secure the station. No one really knows where whatever's happening is happening, but everyone's fanning out to try to look around. Who's taking the lead here? S.I., you haven't done anything yet so maybe this is a Sovereign Immunity moment, but Broun's also—Broun and Millie have both been inside of one of these before, so I wouldn't, you know. If you wanted to defer, that's also acceptable.
+
+ART: Yeah, it's a tricky little narrative puzzle here, right?
+
+AUSTIN: Mhm. Though, also, S.I.'s old. S.I.'s probably been in a Portcullis once before, right? Maybe twice. It seems possible that you would've docked at one of these early and gone inside to meet people and, you know, lead a group of people through some—you know what I mean?
+
+ART: Yeah, who doesn't love an old person being like, 'I did this fifty years ago, it's like this!'
+
+[GROUP LAUGHTER]
+
+AUSTIN: 'It's definitely to the right!'
+
+ART: 'Yeah, it's definitely to the right.' On the other hand, I did write scout on my sheet...
+
+AUSTIN: [LAUGHING] Yeah, true enough.
+
+ART: And I think I at some point have to honor the things I wrote down on my character sheet.
+
+AUSTIN: Yeah, at some point, for sure.
+
+ART: And no time like the present, so.
+
+AUSTIN: Uh-huh. One second, I’m-
+
+ART: [CROSSTALK] Back in the—
+
+AUSTIN: You keep going, you keep going, I just need to fix a thing really quick. Oh wait, no, I can't fix this thing, this is very funny. The part of Partizan that was part of that previous map is just gone, but I need to emphasize that Partizan itself was not [LAUGHING] swallowed by this lava planet. Anyway, continue.
+
+ART: [JOKINGLY] ‘Back in the late 1300s they laid them out like this, let's go!’
+
+AUSTIN: You have your scythe out, I'm guessing. You're like—you’re in war mode.
+
+ART: [CROSSTALK] Yeah, yeah. Uh-huh. I've dimmed my headlights [LAUGHS].
+
+AUSTIN: Yeah! Hell yeah! Dim your headlights so they won't see you coming!
+
+ART: Headlights at 40%.
+
+AUSTIN: Mhm. I love it.
+
+ART: Even if they do see me, it's like I'm further away. This is how you do stealth in space!
+
+AUSTIN: I love it. So what are you doing? How are you, um… how are you going about this? Is this going to be a Cool roll or a Doubt roll as you look for whatever is popping off here?
+
+ART: Um... It's hard to do stealth with Doubt, you know?
+
+AUSTIN: I guess, I don't know. Doubt has—Doubt includes the line, and I want to be careful about this, "fighting against the narrative imposed by the cameras or ducking them entirely", which is to say doing stuff that is so quiet that it doesn't show up in the story, right?
+
+ART: Oh, just like being really boring?
+
+[ALI GIGGLES]
+
+AUSTIN: Yeah. Yeah, right.
+
+ART: Yeah, the like—getting to a fork in the path, right, like an intersection in the—what do you call inside intersections? Like when a hallway hits another hallway—
+
+AUSTIN: [CROSSTALK] Like a T-junction, like a—
+
+ART: [CROSSTALK] Is that still an intersection?
+
+AUSTIN: Yeah, that’s an intersection. Or a turn.
+
+ART: Sure.
+
+AUSTIN: A turn in the hallway.
+
+ART: And just like sitting there for a long time.
+
+AUSTIN: Right.
+
+ART: Just like...
+
+AUSTIN: It's the most boring Hitman Let's Play we've ever seen, right? It's like ‘no, I don't have—I'm not throwing the briefcase at someone's head, I'm not—’ in fact, this is not you deploying the scythe and cutting your way through fools or being very clean.
+
+ART: No it's folding the scythe and putting it carefully in a compartment on the back of the space suit.
+
+AUSTIN: Right, exactly, yeah.
+
+ART: And moving really quietly and slowly and doing a lot of like 'hold up’, and then like 'keep going.' It's like that.
+
+AUSTIN: Yeah. But not like a cool military commander does it, where you have cool hand signals, but more like a person does this when they're walking quietly through a place scared, yeah.
+
+ART: Yeah.
+
+AUSTIN: Or maybe not even scared, but not in that like—
+
+ART: Cautiously.
+
+AUSTIN: Yes, yes, exactly.
+
+ART: Caution isn't cool. Smoking is cool.
+
+AUSTIN: [LAUGHS] And that's not cautious. It's the opposite of cautious.
+
+ART: No, it's not. No one would say that.
+
+AUSTIN: Alright so 1d6, 2d6—
+
+ART: Smoking isn't cool, if you're listening to this and you’re thinking of smoking don't do it.
+
+AUSTIN: [CROSSTALK] Don't smoke, yeah. God, watching my mom try to quit smoking was the hardest thing I'd ever seen a person do when I was a child, and that was my mother who had gone through and lived through brain surgery that made her partially blind and that still, to this day, can occasionally give her seizures. Compared to that, her trying to quit smoking was like seeing someone I loved dearly suffer constantly for a long time, and so I—please, please be careful out there. I'm not judging you, I just care for you, you know? Anyway. What the fuck were we ta—you're being sneaky, Doubt. 2d6 'cause you're a scout. Is anyone helping? And how? Broun? Millie?
+
+[PAUSE]
+
+ALI: I feel like we could help... just from our experience last time with the turrets.
+
+AUSTIN: Right, yeah.
+
+ALI: Where it's like...
+
+ART: Everyone backseat drives on this mission!
+
+[GROUP LAUGHTER]
+[50:00]
+
+ALI: Well I think that it's either like 'oh, you know, we shouldn't go that way’, or it should be like, you know, if we see a big door, it's Broun fucking with the interface before we move past it in anticipation of getting shot once the door opens.
+
+AUSTIN: Right. Right, totally. Yeah, I like that a lot. Alright, 3d6 Doubt. So, S.I. you're looking for a 2, 3, or... a 1, 2, or 3. [PAUSE] Hey! That's a 1 and a 2, but it's also a 4, which means you are again in Hedging position. This is so easy to imagine a situation—
+
+ART: It's so easy to turn this into Cool though, right?
+
+AUSTIN: It's so easy. And it's kind of a little cool.
+
+ART: 'Cause sneaking is cool!
+
+AUSTIN: Sneaking is cool. And also all it is is like, you know, you hit—your foot slips on something and there's noise for a second and someone goes "huh, what was that?" And starts walking towards you. Right? And suddenly there's a moment to act instead of just be quiet.
+
+ART: Yeah.
+
+AUSTIN: Even if that act is not cutting that person in half with your giant scythe, even if that person—even if that act is suddenly going into, you know, military ops hand signal mode. But also it probably is your giant scythe, I don’t know.
+
+ART: Yeah, I’m gonna cut him in half with a giant—I’m gonna take it, I’m gonna—
+
+AUSTIN: You’re taking the Hedge?
+
+ART [LAUGHING]: I’m gonna take the Hedge.
+
+AUSTIN: Okay.
+
+ART [LAUGHING]: And I’m gonna cut them in half with a giant scythe.
+
+AUSTIN: Jesus christ. Falls to the ground, you get three questions then because that’s a three success. I’ll write this down.
+
+ART: I don’t even need to ask in what way did I look awesome, competent, or flashy, that’s just like—
+
+AUSTIN: That’s the thing you did.
+
+ART: Yeah, what—in what way, um… [PAUSE] ‘What new information or tool was revealed to me?’
+
+AUSTIN: Huh. I think that you… I think that before the slash happens, what you hear is like ‘I guess they started the operation in Sector A.’ And then someone says  ‘we better hurry over there.’ And then someone hears you and goes ‘you guys go ahead, I’m gonna go check—I think I just heard something, I’m gonna go check it out.’ Right? And then they do, and it doesn’t go well.
+
+[SYLVI LAUGHS]
+
+AUSTIN: But you now know that the operation, that—the thing that’s happening, is happening in Sector A. In a room in Sector A. So you know where to go next.
+
+ART: We also know that there’s not more than 26 sectors, probably.
+
+AUSTIN: [LAUGHING] Yes. Two more questions here.
+
+ART: “What did it cost that we didn’t expect it to?”
+
+AUSTIN: Huh. That’s a good question. Ah—so. Here is the image that you get. Not you S.I., but you know, we the story, the storytellers and the people at home, there is a group of people standing in front of cameras. Or not cameras—TVs and monitors, security monitors. Seeing you come through the halls and seeing you cut through this person. And the thing that it cost is not like ‘oh, there’s guards coming your way’ or anything like that. What’s revealed is that the people here who are watching this include a number of high-level Pact members along with Logos Kantel. Dre, are you there?
+
+ANDREW: Yeah, I’m here.
+
+AUSTIN: Can you describe what Logos Kantel looks like, since you were the person who originally played them in—
+
+ANDREW: Oh, god.
+
+AUSTIN: The thing I remember is robot body.
+
+ANDREW: Robot body, yeah.
+
+AUSTIN: The two things I remember is, a dumpster was sent from across space—
+
+ANDREW: Yes.
+
+AUSTIN: At some point that dumpster becomes a robot—a humanoid robot body with some moss entangled therein?
+
+ANDREW: Yes.
+
+AUSTIN: Is there anything I’m missing?
+
+ANDREW: I mean, they’re probably like, real old and junky-lookin’.
+
+AUSTIN: Yeah. Are they like, wiry mechanical body, are they heftier than that? What sort of shapes make up their body?
+
+ANDREW: I do like the idea of like, Phantom Menace C-3PO wiryness.
+
+AUSTIN: Oh, that’s fun. Yeah. Okay. Totally. With some moss covering up bits of that, or coming over through the cracks and stuff—
+
+ANDREW: And like, interspersed throughout.
+
+AUSTIN: Yeah. And so, what happens is, Logos Kantel sees this and someone leans over and whispers and says “Do you see, my prophet? These people who want to kill you are coming; we need to hurry quickly.” And we kind of get a better idea of what’s happening here. Which is, to zoom out a little bit and explain the mechanism by which this is happening… In some ways they’ve never—in some ways, this might be the first lie—outright lie—they’ve told Logos Kantel. They rescued Logos Kantel from the curtain and said ‘You’ve been held here by a secretive group inside of The Principality for the last thousand years. We are freeing you and we are going to bring you to the True Divine. We have a way of getting you to talk to the True Divine. We know that from reading the material from the descendants of your disciples that the True Divine wants to bring justice to the Principality, that the oath that the Principality took was broken.’ And is basically doing the thing the Curtain was trying to do, except much, much more effectively, because instead of building soundstages, instead of trying to misdirect and build kind of a false narrative out of nothing, they’re just leaning on the truth the right way.
+
+Yes, Logos Kantel was held by their rivals for a thousand years. Yes, they are bringing Logos Kantel to the door that connects them to Logos Kantel’s god. Yes, the True Divine does want to come administer justice. And in hearing the voice of Logos Kantel, will rush to their aid. And so the thing that you lose—the thing that it cost you, is now if you arrive in this room, Logos Kantel will doubt you. Having seen you administer violence with such severity. [PAUSE]
+
+[ALI AND AUSTIN SNICKER]
+
+ART: And I think my third question, and I think it’s kind of an easy one, is “how did they underestimate you”—they don’t know we’re here now.
+
+AUSTIN: Sure. Right. They don’t—
+
+ART: We have an element of surprise.
+
+AUSTIN: Right. Sure. Yes, yes. They certainly don’t know that you know the quickest way there, they certainly don’t know et cetera. Yeah. I love it. And you’re still in the dark, right? Like, the lights didn’t turn on, or whatever. Everything in this whole station is shuddering and the lights are flickering on and off, et cetera. 
+
+Okay. Who picks it up from there? Who has the next beat here? We’re back around in some ways to Broun, but all three of you have one more action to do, so yeah. [PAUSE] Any thoughts here? I’m guessing you’re heading right to Sector A at this point?
+
+ART: Yep.
+
+SYLVI: Yeah, that’s all we really have to go on right now.
+
+ALI: Yeah.
+
+AUSTIN: Fair. Yeah.
+
+ALI: Um… Yeah, from the characters’ conception of what this mission is, what is the next…
+
+AUSTIN: It’s very much like—so I think the way Gucci framed it to you, who I think first conceptualized this—Gucci’s idea was like, you get in, you go to the power substations on this thing, you plant some bombs, you blow it up. Right? This is the easiest way to stop this from happening. It would be great if you could rescue this person you believe is there but we haven’t seen that person. Right? We have no reason to believe that that person exists. That Logos Kantel exists today, and is someone you could go rescue. So, what we need to do first and foremost is save the millions of people on Partizan.
+
+So I think that for Gucci, this is a ‘go blow up the station’ mission. Right? And that is probably what the Company of the Spade is setting out to go do. Right? And the Oxblood Clan. Llike, they’re going to the various power substations around the station, putting down their explosives, you know, doing an armageddon. Right? Like setting the bombs and getting the fuck out. And y’all could just go do that. That is the other thing. I’ve presented you, fictionally, the possibility of going to go intercept Logos Kantel, but I don’t—you don’t even need to believe that, necessarily. Right?
+
+ALI: Sure.
+
+AUSTIN: That last scene that I just showed was not a thing that your characters saw, that was a thing we at the table—and people listening—saw. You know?
+
+ALI: Yeah. But if this is the version of this mission where Broun, S.I., and Millie sort of think that they’re doing the sidequest?
+
+AUSTIN: Yes, yes. I think given that you have Valence’s research especially, right?
+
+ALI: Yeah.
+
+AUSTIN: I think it’s feasible that you would have—on the two weeks back, or the week back or whatever it was, you probably had enough time to dig through that research and be like, ‘is there anything in here about this?’
+
+ALI: Right.
+
+AUSTIN: Right? And definitely what you saw was like—there was the idea that the true Divine would return when reached out to by the Exemplar or by someone blessed as their prophet, right? And so this lines up. If it’s true that this is Logos Kantel, hearing Logos Kantel’s voice would—and seeing Logos Kantel at the gate. Right? It’s not just doing a miracle the way that Logos Kantel did one from the prison months and months ago when the jungle appeared. It’s literally this sort of like ‘oh my god, it’s you.’ You know? Seeing you from across time and space and reaching through the Portcullis at that point.
+[1:00:11]
+
+ALI: Sure. Yeah.
+
+AUSTIN: So yeah, you would know.
+
+ALI: Yeah, that’s—
+
+AUSTIN: Or you would know that—you would know that that is a thing that is conceivable, at the very least.
+
+ALI: Sure, sure, sure. Yeah. So that’s really interesting because I think my first impulse there would be to have Broun do the practical thing which is like, ‘oh I should do what I did last time, and look at like door logs or access codes’ or whatever, just see who’s been moving through this station where and when.
+
+AUSTIN: Yeah.
+
+ALI: But I feel like—[LAUGHS] and this is maybe more of a reach, but I feel like if Broun has sort of been reading a lot of religious texts for a really long time, and also was able—[LAUGHS] This is such a stretch. But if Broun was able to talk to Valence, and I don’t think that like—that’s such a weird thing because, you know, it’s not like Broun… [LAUGHS] What is praying to Logos Kantel in terms of how Gur and Valence would have spoken about it, that feels like it would be like an activation phrase or something, right? Or is that just too much of a—
+
+AUSTIN: Like, what would get Logos Kantel’s attention, you mean?
+
+ALI: Yeah.
+
+AUSTIN: Or like, communicate that you were on their side or something?
+
+ALI: Yeah.
+
+AUSTIN: It’s probably Progression, right? It’s this idea of—and again, Dre, you can back me up here or tell me I’m wrong about this—but Progression was the mantra, was Logos Kantel’s mantra. Logos Kantel onscreen during Microscope did not ever explain what that meant because they were talking to Caust Nideo, this complete asshole played by Keith exceptionally well, but—
+
+[GROUP LAUGHTER]
+
+KEITH: [AWAY FROM MIC] Thank you!
+
+AUSTIN: But the version of it that Gur gave, was that Progression was about moving beyond the imperial form. Like, moving past the desire to do conquest, and that if the Principality had progressed, then when the True Divine came, it would not be with violence and enforced justice, but having seen that justice had been arrived at organically, then it would be with blessings and love. Right? And so Progression is the kind of de facto go-to word that would at least open the conversation, if that makes sense.
+
+ALI: Sure.
+
+AUSTIN: But I don’t know how you want to deliver that, I don’t know if this is like a ‘kick down the door and just say this word and see what happens’, or speak to this in some way—
+
+ALI: Yeah...
+
+AUSTIN: And speak to whether or not that’s true—like, you know. That’s—
+
+ALI: Yeah, it’s such a tough thing because it’s not like—it’s not like Broun thinking really hard about it, right?
+
+AUSTIN: Right.
+
+ALI: I feel like there’s a practical way to do it. It’s like, maybe taking advantage of some sort of on-board P.A. system?
+
+AUSTIN: Right.
+
+ANDREW: Can I throw an idea your way, Ali?
+
+ALI: Please.
+
+ANDREW: Does it look like showing Logos Kantel the recording Valence left behind?
+
+ALI: The one specifically to Broun, or just like other… ‘cause like—
+
+ANDREW: I think the one to Broun about giving them the coordinates for the Nobel homeworld—in that way, also, I guess the coordinates for the True Divine.
+
+ALI: Oh, sure, sure, sure. Yeah, because Broun also has access to like actual Gur and Valence sermons and stuff.
+
+AUSTIN: Totally.
+
+ALI: So I don’t know if that would be more moving?
+
+AUSTIN: I feel like that might be more moving because Logos Kantel would not necessarily know how to interpret the Nobel, right?
+
+ANDREW: Sure. Yeah, that’s fair.
+
+AUSTIN: It doesn’t predate the Nobel, the Nobel existed a thousand years ago. But I don’t know if Logos Kantel knew about the Nobel. Maybe they did. Did the True Divine in their relation with Logos Kantel talk about other peoples, you know? That’s a Dre question, you know?
+
+[ANDREW HUMS]
+
+AUSTIN: But I think that would almost be—unless there’s something in the paperwork, in the Gur and Valence discussion, in those papers, that is like ‘oh, shit, this old sermon that Logos Kantel gave us about the Nobel, we didn’t know that at the time, because I didn’t know the—none of us knew the Nobel existed’, but it’s clear that this is the sermon of the wolf that you wrote that time, Dre—what if that sermon was also delivered—something like it, some variation about a different people, was delivered in a way that connects the two. You know? Something like that would be an interesting overlap between those ideas, right?
+
+ANDREW: Okay, yeah.
+
+AUSTIN: That makes that connection. The other note here that I just haven’t underscored yet is like, the destruction of this gate will mean that getting to the Nobel homeworld is much, much harder based on the ships and stuff that you have available right now. Right? The Portcullis Gates are the one way that you’re able to travel intense, long distances through space. And this is the one that goes to where the Nobel are. Which, just to colour what would happen if this gets destroyed, a little bit, it does mean that going to see Valence’s people is a much different prospect for the foreseeable future at least. You know?
+
+ALI: Mhm.
+
+AUSTIN: Anyway. I like that idea, so do you like, load in your recording to a P.A. system, or just like hold it up and hit play?
+
+[ALI LAUGHS]
+
+AUSTIN: What’s the more Partizan tech thing? Because it’s not like a USB drive, right? It’s not a thumb drive, it’s something else. It’s a jack—it’s like an audio jack, right? It’s an aux cable.
+
+ALI: Yeah, yeah, right. For sure, yeah. Absolutely.
+
+AUSTIN: It’s pulling down a panel, like, hotwiring something and plugging in an aux cable.
+
+ALI: Yeah.
+
+ART: It’s not just Say Anything? It’s not—AUSTIN: [LAUGHING] Holding the boombox?
+
+ART: [CROSSTALK] Holding the boombox next to a microphone?
+
+AUSTIN: Holding the boombox and it’s just two people talking about theology. God.
+
+[GROUP LAUGHTER]
+
+ALI: Well, it’s definitely like—I definitely feel like it’s the thing of Broun holding up a microphone to their ship’s speaker and then having it on this, like, third party device or whatever that they are then hacking into—yeah, yeah, yeah.
+
+AUSTIN: Yes. Yes. That’s how you initially—you did the thing of like, ‘this is a cool song on the radio, I’m gonna hold up my tape recorder to it’. A hundred percent. Yeah, I love that. My voice is my passport. 
+
+[ALI GIGGLING]
+
+AUSTIN: Let’s—that sounds like Doubt to me, but you tell me. If we—
+
+ALI: This is big-time Doubt. This is big-time Doubt.
+
+AUSTIN: Yeah.
+
+ALI: ‘Cause I just feel like it’s so, like, outside of the impulse of what anybody who’s viewing this would be?
+
+AUSTIN: Mhm.
+
+ALI: And it’s also just like an incredibly vulnerable and bizarre thing to do, to like, [LAUGHING] play a voicemail from your dead best friend on a strange space station.
+
+[SYLVI LAUGHS]
+
+ALI: To reach out to a prophet. So, yeah.
+
+AUSTIN: Yeah. Do you stop S.I. as you pass a comm system and go ‘wait, wait, wait, I have to do something’?
+
+ALI: Um…
+
+AUSTIN: How do you communicate to Millie and S.I. that you’re about to do this, basically?
+
+ALI: Well, I feel like—it’s a weird part of the plan, but I feel like it’s part of it, where it’s like—again, I’m doing this on the assumption that like, Broun, S.I., and Millie would have—
+
+AUSTIN: Gotcha.
+
+ALI: —you know, started this mission. On being like—
+
+AUSTIN: [CROSSTALK] You’re doing the Beam Saber thing. The plan was offscreen.
+
+ALI: Right, yeah, yeah, yeah. Of being like, ‘okay, we’re gonna do this, but we have to try to S-tier this, or can we—we have to one hundred percent this mission, I’m gonna do all of the checkmarks to be able to—to get all of the achievements.’
+
+AUSTIN: Get the real dub. Get the whole—yeah. Uh-huh.
+
+ALI: Yeah, yeah, yeah.
+
+ART: We can’t desync.
+
+AUSTIN: Right. Uh-huh. A hundred percent synchronization rate, yeah. Got it. Alright, well, that sounds like a 2d6 because you’re using your—this sounds like a Wild Card thing to me in a big way, this is a pretty big Wild Card maneuver.
+
+ALI: Yeah.
+
+AUSTIN: So that’s two. Is anyone helping and how?
+
+ART: I don’t know how to help someone do this.
+
+[ALI LAUGHS]
+
+ANDREW: Also hold up a boombox.
+
+ART: Do some like, free-jazz scatting behind it.
+
+AUSTIN: [LAUGHING] I don’t think that adds to it. I don’t think—
+
+SYLVI: You said there was like—you were connecting your, like—I almost said laptop instead of ship. Your ship to the system—is there gonna need to be like, one person at a thing in the facility and then one person on the Blue Channel doing it? Like, someone has to run back and make sure something’s going on, or…?
+
+ALI: Oh, no—
+
+SYLVI: ‘Cause I can help doing that, I don’t know.
+
+ALI: I was figuring Broun had like, a shitty space cassette player that they had recorded the message off of the Blue Channel’s speakers—
+
+SYLVI: Oh, okay. Okay.
+
+ALI: —and then were now, um—yeah.
+
+AUSTIN: Right.
+
+SYLVI: Right.
+
+AUSTIN: The three of you are together, as far as I can tell, yeah. If someone maybe wants to—yeah, I don’t know. I don’t know what the—if someone comes up with a good idea, I’m happy to have that third die. You know? Sounds like 2d6 to me. Doubt.
+
+ANDREW: Is there any way that like—I don’t know if this is the very last conversation that Broun and S.I. had, but it was—the last thing I remember is S.I. telling Broun that Valence was an idiot for dying.
+[1:10:12]
+
+[ALI AND ANDREW LAUGH]
+
+AUSTIN: Uh-huh. That’s true.
+
+ART: [LAUGHING] No, we had another conversation, thank you.
+
+AUSTIN: That’s true. There was one more—there was one more, and it was very polite.
+
+ANDREW: Okay. Fair.
+
+AUSTIN: And it was giving—did you give—what did you give? Did you give S.I. some of the research also, or is there—am I misremembering this? What was the—
+
+ART: No, wasn’t it me giving more research—
+
+AUSTIN: Oh, it was you.
+
+ALI: That’s how Broun initially got the research, yeah.
+
+AUSTIN: [CROSSTALK] Yes, it was you giving more research, and the planets. Right. Right. You’re right, that is where the research came from. You’re right.
+
+ANDREW: Yeah. I mean, I don’t know if this counts as helping, but I wasn’t sure if like—maybe hearing this does anything for Broun and S.I.’s, like, tension or relationship or anything.
+
+AUSTIN: That’s a good question.
+
+ART: It can’t hurt.
+
+AUSTIN: Is there a thing that S.I. says that’s like ‘Broun is trying to plug all this shit in’, and, you know—better than backseat driving, better than ‘no, no, no, idiot—plug it into the aux IN. The aux IN is what you need.’
+
+[ALI GIGGLES]
+
+ART: ‘Not the headphones!’
+
+AUSTIN: [LAUGHING] Yeah.
+
+ART: ‘It’s not the headphones!’
+
+AUSTIN: But, no, is there a moment here? Is there some sort of—I don’t know, connection?
+
+[PAUSE]
+
+ART: That would be great. I can’t think of what it is.
+
+[ALI GIGGLES]
+
+AUSTIN: Oh my god.
+
+ALI: I—you know—
+
+ART: Well, I don’t want it to come off as, like, schmaltzy.
+
+ALI: No, but—
+
+AUSTIN: It’s the finale. This is the moment for schmaltziness.
+
+[ALI GIGGLES]
+
+ART: Well, it’s the most—it’s—
+
+AUSTIN: [LAUGHING] Sylvi in the chat says ‘you have to press a book down on the knob to get it to work.’
+
+[GROUP LAUGHTER]
+
+ALI: I do think in the context of this both being a very vulnerable action, and also one that’s like, faith-based? It makes sense for S.I. to be, like, somehow emotionally supportive in some way. But I also don’t know the answer to that.
+
+ANDREW: Maybe it can look like, just—
+
+AUSTIN: [CROSSTALK] Is S.I. saying something nice about Valence? Go ahead, Dre.
+
+ANDREW: Does it even just look like letting S.I. put a hand on your shoulder? Or giving Broun a hug, or something?
+
+[ALI CHUCKLES]
+
+AUSTIN: Well yeah, what does a moment of actual vulnerability and connection look like between these two fucking monster people?
+
+ALI: Hey!
+
+[ANDREW LAUGHS]
+
+JANINE: When was the last time Broun was hugged?
+
+ALI: Aww.
+
+JANINE: Have we ever seen…?
+
+AUSTIN: No.
+
+JANINE: What—I’m now just thinking, like, what physical contact have we seen between anyone and Broun onscreen other than like maybe a… handshake?
+
+AUSTIN: Uh, Jesset, I want to say, put a hand on Broun’s shoulder and Broun was like ‘absolutely not’.
+
+SYLVI: This is the twist where you find out Broun was a ghost.
+
+ART: [CROSSTALK] I mean, that’s—we could do that way, it could be—this could be the hand on the shoulder sticks.
+
+AUSTIN: As Valence’s voice starts to play.
+
+ART: Yeah.
+
+AUSTIN: Is this just like the ‘we gotta go’. But like, a very pregnant ‘we gotta go’. You know what I mean? Like, ‘I know’, comma, ‘but, we’re here, we’re in this together’, that style of like—not like ‘come on, we gotta go, stop listening to Valence’s voice’, but like a—yeah.
+
+ALI: The sort of like, ‘you’re doing a good job’.
+
+ART: Yeah. Yeah, the like—AUSTIN: Clock’s tickin’.
+
+ART: Yeah, the—I don’t want to really fuckin’ dwell on this too long, but the like—the ‘we gotta go’ that someone tells you at the end of your parent’s funeral.
+
+AUSTIN: Sure.
+
+SYLVI: Oof.
+
+AUSTIN: Yeah.
+
+ALI: 3d6!
+
+AUSTIN: Give me 3d6. Doubt. Lookin’ for a one, two, three.
+
+[PAUSE]
+
+ALI: Three ones!
+
+[GROUP EXCLAIMS]
+
+AUSTIN: Oh, baby! Woah!
+
+ANDREW: The ghost of Valence gently awoos and saves your dice.
+
+AUSTIN: It’s of course miserable in some ways because it means you only get three Doubt points from it. But also, it is the perfect Spinnable roll.
+
+[GROUP LAUGHTER]
+
+AUSTIN: Anything else is a benefit on this, right? Which is also the funniest shit in the world! Because it means in reality, there was no grand gesture, no big emotional connection here, but when people tell this fuckin’ story, if you Spin this moment, it means that people will blow up—’yeah, Sovereign Immunity gave this [LAUGHING] great speech, these two people connected on this deeper level’—like, no matter what you roll it will be better than three ones.
+
+JANINE: Is it like the—this is not a—I’m just gonna say the thing, is it like the apple tree yard of this story—
+
+AUSTIN: Uh-huh.
+
+JANINE: —where like, people—you know, this moment gets told and everyone’s like ‘oh, yeah, ‘cause it’s like that thing and they did that before once—
+
+AUSTIN: Uh-huh.
+
+JANINE: —and it was like a thing they had, you know?’ And it was like a whole fan theory thing, and if you say anything against it you’re immediately cast out of the storytelling session.
+
+AUSTIN: Yes. A hundred percent. Alright, well we’ll find out if that gets spun in a couple more rolls, but that’s three successes so you—
+
+KEITH: The—
+
+AUSTIN: Go ahead.
+
+KEITH: The Spin it, when you Spin, you have to change it from Doubt to Cool, though, right?
+
+AUSTIN: No, no, no, it stays Doubt. When you Spin, it stays the thing it is.
+
+ALI AND KEITH: Oh.
+
+AUSTIN: Hedging changes. Spinning stays.
+
+KEITH: Oh, I thought Spinning—I thought Spinning did both.
+
+AUSTIN: No.
+
+KEITH: I thought I gave you an opportunity to get a higher roll on the other—
+
+AUSTIN: It does not. It only lets you change—you cannot change what actually happened, which is how you change from Cool to Doubt, because your action would have to change.
+
+KEITH: Got it.
+
+AUSTIN: You can just downplay certain elements or try to overplay them—
+
+KEITH: Right.
+
+AUSTIN: —all represented through the abstract retelling of just rolling the dice again.
+
+KEITH: Right. I thought it was like, you do something that’s Doubt—
+
+AUSTIN: No.
+
+KEITH: —and then you tell all your friends that it was Cool.
+
+AUSTIN: Yes.
+
+KEITH: Like ‘ah, no, it was actually cool and it wasn’t weird’.
+
+AUSTIN: It’s the thing where you like—if, for instance, S.I. wants to downplay the Coolness of cutting someone in half, the way that he would do that could not be ‘I didn’t cut someone in half’, that part of the story is going to stick. But he could say ‘ah, you know, it was a really messy scenario and at the last second I pulled out the scythe, and dadadada’.
+
+KEITH: Ohh.
+
+AUSTIN: Or you could try—
+
+KEITH: [CROSSTALK] That’s how it can help your total is if you got a really high Cool roll, you can try to reroll to get—got it.
+
+AUSTIN: [CROSSTALK] Exactly. You could try to reroll it to get lower. Exactly. Or you could do the opposite, right, which is like ’yeah, it was incredible. We locked eyes from down the hallway, and he pulled out a lightsaber—I know, no one else in the world had one, but he did. And we charged at each other and I won that fight’. And that’s what a higher Cool roll would be if you tried to Spin it. Right? But that core thing of ‘you cut someone in half with a scythe’ does not change. So yeah, this is a great one to try to Spin.
+
+KEITH: [FACETIOUSLY] Hold on, I’m just writing this down, ‘light saber’...
+
+AUSTIN: [LAUGHS] Yeah. Uh-huh. You got it. Unbelievable. Alright. Dre in the chat says ‘dice are fucking cool, good job dice’, agreed. Two more left here. So this message starts playing through the systems. I do think—
+
+ALI: [CROSSTALK] Did we do the success questions?
+
+AUSTIN: Oh yes, success questions, yes. What do you got?
+
+ALI: Yeah, hi.
+
+AUSTIN: Or three questions from any of these—either of these charts.
+
+ALI: Oh, sure, sure, sure. Okay, yeah, um… I feel like the first one I want to answer is “Who did you get the upper hand with?” Or, ask at least, and get answered.
+
+AUSTIN: I think you can answer it too on a three, like this is—if you have a cool answer for that, you can suggest it.
+
+ALI: Oh, sure, sure. Well, I’m asking you. [LAUGHS]
+
+AUSTIN: Oh, okay.
+
+ALI: ‘Cause you have more of a sense of the scene here.
+
+AUSTIN: Yeah. I think that you get the upper hand on Apothesa, who is the other last remaining Glory—oh no, there’s also Laurel, is also remaining. But Laurel’s not here, Apothesa is. Apothesa is down—or is in Sector A. And leaves, looking for you. But in a way that is going to make them vulnerable as you make your way there. Or also just pull someone away from Logos Kantel, one of the stronger people is being pulled away, basically.
+
+ALI: Sure. Okay, yeah. I think the one that I can answer is “How did they underestimate you?” Which is I think that like—
+
+AUSTIN: Yeah.
+
+ALI: The Pact or the Curtain or whoever’s here certainly did not think that there would be able to be such an emotional—
+
+AUSTIN: Mhm.
+
+ALI: —like, statement made, especially one that would pull through their obvious lie that they’re telling. ‘Cause the lie isn’t that obvious—
+
+AUSTIN: Right.
+
+ALI: —it’s like there’s these weirdos who are like, a weird faction, trying to destroy society who showed up and, yeah, they definitely want to help you.
+
+AUSTIN: Yeah.
+
+ALI: So yeah, score one on Broun for that one. [CHUCKLES] If no one else has a suggestion here, I think that… [GIGGLES] I’m torn between “In what ways did you leave yourself vulnerable?” and “What effect did your action have on those who watched it?” And I feel like—
+
+AUSTIN: I like that a lot. Go ahead.
+
+ALI: I feel like they’re almost like overlapping answers because I think that there’s like—I don’t know that Broun’s gonna, like, complete this mission with a -1. Like, effect on rolls or whatever. But it’s like, it is a very tough thing to do and have that being playing while they’re, you know, doing the rest of this mission—but I think in turn, it ends up making people way more sympathetic to Millenium Break in like, a way that isn’t the cool way, you know? Where it’s like—
+
+AUSTIN: Yeah.
+
+ALI: —’Oh, this is typical, I love war and I think that this is great.’ You know? [LAUGHS]
+[1:20:00]
+
+AUSTIN: Right. This is like literally playing a lecture on why the Principality fucking sucks over the rest of these sequences in a sense, right? Where this is how, like, that—you kind of snuck that sermon into the story. Where people who are interested about this, or like what was the—what was the thing that they played in that moment? And like, ‘oh, well, here it is, here’s the text of what that was’, and just by drawing attention to it, just by kind of platforming Valence and Gur here, you suddenly have information—you suddenly have a reason for everyone who’s interested in what happened here to read those words and hear those words, and that is a sort of stealth mechanism for delivering their messages. Right? You’ve made them historically important in a way that they hadn’t been in the kind of official canon up until now. Which is interesting.
+
+Alright, so, two more rolls in this challenge. I feel like the groundwork has been laid here. We’ve got two more rolls left: one for Millie, one for S.I. The voices of Valence and Gur are playing throughout the station as throughout other places the Company of the Spade is setting up bombs, there is fighting throughout the hallways, there is gunfire, there is all sorts of cool tactics action happening throughout the ship, or throughout the Portcullis—and y’all are headed towards the A Sector, which is I’m gonna say is like the top of the station. Right? It’s like, dead center north, or like, top of it. And then each letter goes around all the way, you know? And I don’t know if anyone’s here has ever been in—I guess we’ll get to this room and I’ll describe it when you get there. But what is the plan? Are you going in guns blazing, are you—what are you doing?
+
+ART: I suppose that really depends on who wants to make this next roll.
+
+SYLVI: Well I was gonna ask, because I think as a group, quiet has been going pretty well, and it turns out when the game doesn’t require you to have a sneak score, we’re pretty good at that.
+
+[GROUP CHUCKLES]
+
+SYLVI: So I was thinking that, because you mentioned that Apothesa was coming for us—
+
+AUSTIN: Yeah, they’re kind of out and about, prowling the hallways, for sure.
+
+SYLVI: I was thinking maybe like, Millie could take point to help, like—not that she knows that’s there, but like—recognizing control patterns and shit?
+
+AUSTIN: [CROSSTALK] She would know—maybe this is—yes, yes. And it could also be one of those things that’s like, you were in the—Apothesa was your commanding officer, right?
+
+SYLVI: Yeah.
+
+AUSTIN: And so, you would know that they would—this is what their action would be because of what their role would be in the squad at this point.
+
+SYLVI: Mhm. And if I’m doing this, I wanna—like, I’m specifically not trying to sneak up on them, I’m trying to avoid that.
+
+AUSTIN: Good. Okay. That to me feels Doubt-y then, right?
+
+SYLVI: Like, we’re just—yeah.
+
+AUSTIN: Are you trying to do something where you’re like, not just avoiding them but maybe—so this maybe moves it to—let me save what I’m gonna say until we roll and maybe need to Hedge.
+
+SYLVI: Okay.
+
+AUSTIN: Because I almost had a cool idea and I should wait and just let you roll out this Doubt. You know? So avoiding the confrontation with your old mentor and commander, and instead trying to just get past them is definitely more Doubt than Cool. Right?
+
+SYLVI: Okay. Yeah. I’m looking at what I can get dice from now.
+
+AUSTIN: Yeah. So you’re at 1. I don’t think Sniper helps, unfortunately.
+
+SYLVI: No. I was like ‘maybe’, but no, probably not. I’m like—
+
+AUSTIN: [CROSSTALK] I think shooting—Sniper would help with fighting, unfortunately.
+
+SYLVI: Yeah.
+
+AUSTIN: What are you thinking? Dark Horse?
+
+SYLVI: I’m like—while I’m looking at this, I’m mad at myself for picking the role Dark Horse, ‘cause I’m like, what does that mean?
+
+AUSTIN: What does it mean?
+
+SYLVI: I googled it and it was—
+
+ART: Like a sneaky favourite.
+
+SYLVI: Yeah, someone who comes out of nowhere.
+
+AUSTIN: I think for me the thing that would make—the way that we could call on Dark Horse is for Millie to do things that are not necessarily Millie-like. 
+
+SYLVI: Okay.
+
+AUSTIN: But in heroic ways—in dramatic ways.
+
+SYLVI: Yeah.
+
+AUSTIN: Right? Not necessarily cool ways, but in dramatic ways. Because the dark horse is someone who—it’s not that you’re an underdog necessarily, but it’s like, ‘hey, on paper, you shouldn’t be doing the things that you’re doing’, right?
+
+SYLVI: Okay. Yeah.
+
+AUSTIN: You shouldn’t be the—and maybe this is dark horse-y enough. But what I would like to see is some sort of stamp about you leading that, or explicitly ways in which that gets dramatized a little bit. You could also roll Doubt here, but I think for Dark Horse to get pulled in it has to be—I’m trying to think of a good dark horse analogy. It’s a very sports-y metaphor in my mind.
+
+SYLVI: Right.
+
+AUSTIN: Distinct from a Cinderella story, but not entirely distinct from a Cinderella story, do you know what I mean?
+
+SYLVI: Yeah.
+
+AUSTIN: Which in sports means—a Cinderella story is basically an underdog story. Right?
+
+KEITH: A Cinderella story is a dark horse but like two years later when you’re remembering how it went.
+
+AUSTIN: Here’s a good—’Quora: What is the difference between a sleeper team, a dark horse team, a surprise team, and a Cinderella team?’
+
+[PAUSE]
+
+SYLVI: I don’t know! [LAUGHS]
+
+AUSTIN: Yeah, ‘don’t know’ is my answer. Yeah.
+
+JANINE: I feel like for me, ‘Cinderella team’ implies a degree of, like, razzle-dazzle, whereas ‘dark horse’ is like—it’s a little grittier, it’s a little bit more like—
+
+AUSTIN: Yeah, that’s exactly right.
+
+JANINE: [CROSSTALK] ‘Cinderella’ also feels like there’s an actual change, and ‘dark horse’ is like ‘no, they were always like this, but you didn’t see’.
+
+AUSTIN: Yeah, the—
+
+ART: I—
+
+AUSTIN: Go ahead, Art.
+
+ART: I think a Cinderella is like 100:1, and a dark horse is like 15:1.
+
+AUSTIN: Huh.
+
+ANDREW: Wait, are we—is this like sports teams we’re talking about?
+
+AUSTIN: That’s what Art is—yeah.
+
+ART: Yeah.
+
+ANDREW: Yeah, no, the context I always hear Cinderella in is like—the NCAA tournament where it’s like a small college who’s like a 12 out of 16 seed.
+
+AUSTIN: Yes.
+
+ANDREW: And makes it to like, the Sweet Sixteen or the Final Four or something.
+
+AUSTIN: But also, I think the thing that the Quora answers give that I think is right is that Cinderella team has a sort of like, ‘everybody loves them’.
+
+ANDREW: Oh yeah, absolutely.
+
+AUSTIN: They’re like, the average casual fan hears their story, is compelled by it—there’s a great story package that plays before the game starts, where you tear up a little bit, because these kids, just, they weren’t supposed to be here. But they made it. Right?
+
+SYLVI: [CROSSTALK] I remember when the Rafters won the championship.
+
+AUSTIN: [LAUGHS] Right, yes, the Rafters were a Cinderella team. The dark horse team, the example that this person on Quora gives, is that it’s not because of sheer talent that they’re making—or that they’re a long shot, but distinct matchups, coaches, playstyles, you know, injuries, if you have injuries that you fought through across the entire season—there’s all these reasons why you shouldn’t be there. It’s not the like, ‘this team is so far of an underdog they could never be here’, it’s more like, ‘look at all these obstacles that have been in front of them the whole fucking time’. And they’re overcoming them in a way that is dramatic. More than a sheer talent difference, you know? Millie is not—
+
+SYLVI: See, now that sounds like Millie.
+
+ART: [CROSSTALK] I think the Rafters were both a dark horse and a Cinderella.
+
+AUSTIN: I think that’s true, yes.
+
+SYLVI: And that’s why they were the best.
+
+ART: In the way that like, NBA teams are all very good.
+
+AUSTIN: Yes. Mhm.
+
+SYLVI: Yeah, I—just to get back to our game—
+
+AUSTIN: [LAUGHING] Yes. Let’s all stop thinking about the Rafters for just a moment.
+
+SYLVI: [JOKINGLY] It’s real hard, ugh. But I was thinking like, maybe the—yeah, I keep going back to like, what’s the unexpected thing here with this? And it’s like, oh, Millie not taking a chance to, like—like maybe, we’ll see how the roll goes, but she’s given a chance to just like, get Apothesa, no questions asked, like...
+
+AUSTIN: Yeah.
+
+SYLVI: But doesn’t, like—she aims her pistol or whatever—
+
+AUSTIN: Has them in the sight, yeah, exactly.
+
+SYLVI: But, like, no, it’s—’we don’t have time to waste on this’, like. ‘There’s no point’, that sort of thing.
+
+AUSTIN: Yeah, I’ll give that to you.
+
+SYLVI: Okay, cool.
+
+AUSTIN: Do you also get help in this—this is like, I guess the thing that is risky here, then, is like, the final getting into the room, right?
+
+SYLVI: Yeah.
+
+AUSTIN: Alright. Is someone helping? Somehow?
+
+[PAUSE]
+
+AUSTIN: Sovereign Immunity puts a hand on her shoulder.
+
+SYLVI: ‘Hey pals’.
+
+AUSTIN: Same thing.
+
+SYLVI: Sovereign Immunity was sneaking earlier.
+
+AUSTIN: Yeah, that’s true.
+
+ART: It’s hard to help someone sneak, though.
+
+AUSTIN: It is.
+
+ALI: You can also be quiet.
+
+[PAUSE] [GROUP LAUGHTER]
+
+AUSTIN: It’s true—
+
+SYLVI: You could have someone watch the—
+
+ART: That seems like the absence of helping is hindering. [SHOUTING] ‘Ey, Millie, what are you doing over there?’
+
+SYLVI: God.
+
+AUSTIN: Running distraction is definitely a thing which would work, except that, of course, S.I. has to make the next roll, right?
+
+SYLVI: Yeah, I was thinking like, someone could just be watching our back or checking blind spots and shit like that.
+
+AUSTIN: Yeah. I think that that works. Let’s go ahead and do that, then.
+
+SYLVI: Okay. So this—how many—
+
+AUSTIN: 3d6.
+
+SYLVI: 3d6? Alright.
+
+AUSTIN: Dark Horse and help. You are looking for—
+
+[SYLVI GROANS]
+
+AUSTIN: —wait, no, that’s not—is that terrible? No, you still Hedged. You have 3-4-5.
+
+SYLVI: I Hedged. Okay?
+
+AUSTIN: You did. You Hedged. So—I mean, you Hedged, which is now the question, right?
+
+SYLVI: Yeah?
+
+AUSTIN: Which is, Apothesa, you know—I think what happens is the doors into the place where Logos Kantel is open up, and they make a sliding noise, and S.I. and Broun go in, and the Apothesa hears the sliding noise and, you know, draws down on you. And so, you know, knows that you’re here, gets ready to pull the trigger, and now you have this ‘am I having a cool gun fight? Or like a cool wild west quickdraw thing?’
+
+SYLVI: Yeah.
+[1:30:23]
+
+AUSTIN: Which would be cool, and this automatically becomes a full success for twelve points of Cool. Or, do you reroll, and try to keep Doubt, and somehow resist that, sliding and locking the door behind you or something?
+
+SYLVI: Yeah, I think I’m gonna try that. I’m gonna try and get through the door and close it behind me.
+
+AUSTIN: Alright. Give me another 3d6.
+
+[PAUSE]
+
+SYLVI: Look! That—you know!
+
+AUSTIN: That’s—that’s a success, barely.
+
+SYLVI: Okay!
+
+AUSTIN: You rolled a 6-1-6. Which—
+
+SYLVI: God damn.
+
+AUSTIN: Where is that an area code of? I know that area code. That’s Michigan. That’s Michigan. You get one success which means it’s a mixed success here, there’s a failure and a success question coming.
+
+SYLVI: Okay.
+
+AUSTIN: What do you do? Or what are your questions here?
+
+SYLVI: Okay.
+
+AUSTIN: I guess we at the table can also—on a one success, I think we can also jump in here.
+
+SYLVI: Yeah. Like, please. If you guys have ideas. I was thinking like, maybe for the fail it’s “In what ways did you leave yourself vulnerable?” or, um… Like, “What complication or collateral did your actions cause?”
+
+AUSTIN: Yeah.
+
+SYLVI: One of those two? Just because now someone knows where we are and like…
+
+AUSTIN: Yeah. I mean I think that this is—I think it really heightens the question of this next final roll. In which I think, you know, the gunfire goes off, Apothesa’s gun goes off—
+
+SYLVI: Yeah.
+
+AUSTIN: —which draws the attention of all the guards inside this room that you’ve now locked yourself in. In that room is a huge pull of the kind of—I’ve talked about this before that when the Portcullis System opens, it’s as if there’s a huge pool of red with kind of big white waves, almost like a dark wine color, with these kind of white cresting waves—and that happens in the middle of Portcullis, where it’s red on the map, right? But that also happens in this room; there is literally a pool on top, like a—this room is like a big room with a bunch of computers and screens and maps and shit, but in the middle of it is just this pool that looks down into the open Gate. The kind of watery, weird, um… stuff that is the Portcullis opening up. And it’s churning around in there, and it’s glowing because the True Divine is coming through it. Or the energy of the True Divine is coming through it. And is filtering upwards into a bunch of devices that it’s kind of—the light of it is glowing up into them and they’re almost like mirroring it up into space, to the Lattice System. Right? Like it’s happening, right now.
+
+And between you and all of that—and Logos Kantel is like standing at the edge, repeating the mantra of Progression, under their—quietly, not under their breath, they’re not just like [MUMBLING] ‘Progression’, they’re just saying “Progression” but quietly. Leaning down into the—looking down into the pool of this Portcullis liquid, seeing their—or feeling their god beyond the gate, and between you and them is a bunch of people in Pact uniforms holding guns at you and, you know, kind of like, pinning you down. Right? Or not pinning you down, but like—you know, you’re in a rough spot in this moment. And then you also get a good question.
+
+SYLVI: Yeah, um… I—
+
+AUSTIN: Also really quickly, damn good roll for getting Doubt points.
+
+[ALI SNICKERS]
+
+AUSTIN: Because that is 13 Doubt points, which is a lot.
+
+SYLVI: I guess the ideal roll for getting Doubt points, when you think about it.
+
+AUSTIN: Very near it, right? Yeah.
+
+SYLVI: Like, yeah. Um… I’m trying to—I’m thinking maybe “Who did you get the upper hand with here?” Just because I feel like coming into this room—
+
+AUSTIN: Mhm.
+
+SYLVI: —we did make some noise right before we got in there, but I feel like we have a bit of an element of surprise still.
+
+AUSTIN: Totally. So then, maybe it isn’t that these people have turned around and put—yeah, maybe the thing—what was the previous question? It was ‘in what ways did you make yourself vulnerable’?
+
+SYLVI: [CROSSTALK] It was ‘what complications or collateral’.
+
+AUSTIN: The complication. Let’s say the complication here is just that the process has started. Who you’ve gotten the drop on here is the soldiers who are, you know—it’s not that no one is looking at this door necessarily, but they’re not all guns up ready to go. They are not ready to pull the trigger on you, then, in this moment. You do get to act without it being, like, an act where they pull the triggers and then immediately start gunning you down.
+
+SYLVI: Okay.
+
+AUSTIN: Right? I think that that’s a fair breakdown. But yeah, so for the people in space—for the people who are back on the ship, right? Back on the Reflecting Pool for instance, you see light siphoning up through the clouds, the now red and black and orange clouds of Girandole going into the Lattice System. The energy being pulled in. And you get the sense that like, it’s almost as if the—when you look at a planet, even a gas giant, it’s easy to see a thing with boundaries. It’s easy to draw an outline around it and say ‘there it is, that is the planet’. But in this moment there are ways in which at the edges of the planet stars begin to disappear behind it, because it is growing. Because as the True Divine filters in, it grows in size. And it begins to block out more and more of the sky, getting closer and closer to Partizan. So that is what’s happening out here. That’s cool.
+
+Sovereign Immunity. It all comes down to this.
+
+[ART HUMS UNCERTAINLY]
+
+AUSTIN: You have a lot of things you could do here that are, you know, various degrees of pulling triggers and stuff. I don’t know if this is the moment that you want to invoke the words that Kalar sent over? Kalar, I don’t know if you’re there, but I don’t know if this is—which is a Broun thing in some ways, but I can imagine a way in which that’s a Sovereign Immunity-framed sequence. Jack, I believe, is across the room, but...
+
+[ALI GIGGLES]
+
+ART: Yeah, I understand that Jack is slowly ambling their way toward us.
+
+ALI: Or has fallen asleep. [LAUGHS] Hi.
+
+JACK: Hello.
+
+[CHORUS OF ‘HELLO’S]
+
+JACK: [SHEEPISH LAUGHTER] No, I’m fine. I haven’t fallen asleep but all of my headphones got tangled around like, everything.
+
+ALI: Aw.
+
+[ANDREW LAUGHS]
+
+KEITH: You gotta be careful with a long cable.
+
+JANINE: [CROSSTALK] The bean bag and the record player?
+
+JACK: The bean bag, the record player—I should have gotten a more straightforwardly-shaped record player.
+
+[GROUP LAUGHTER]
+
+JACK: I’m here now, I’m at my desk. [LAUGHING] I’ve arrived.
+
+AUSTIN: So yeah, I don’t know with everyone here—does—okay, first of all, does S.I. even know about the passphrase that you sent Broun half of? Really what I’m saying is, is this—could a sequence here be S.I. telling the Witch in Glass—
+
+JACK: Evoking.
+
+AUSTIN: —’you need to tell us the thing you’re—’ or like, ‘you need to send your 25 words. Now.’ You know what I mean? Is that something that’s interesting here? Or—
+
+ART: 25 words is so many words to give someone quickly, you know?
+
+AUSTIN: Well, yeah. Yeah. Uh-huh.
+
+ART: What a situation we’ve developed.
+
+AUSTIN: Mhm. But even there I think that what’s interesting is—
+
+JACK: [CROSSTALK] The ideograms—
+
+AUSTIN: Go ahead.
+
+JACK: Well, the ideograms have only ever really been three words each. And in the last arc, right, Chrysanth did like, a nine-word-long ideogram. So I think 50 is a plausible escalation.
+
+AUSTIN: It’s a pretty big one, yeah. And for what it is, I think it’s right. We don’t necessarily know what happens when you pull the trigger on this thing, or if you can.
+
+KEITH: [AWAY FROM MIC] I don’t even know what it is.
+
+AUSTIN: You don’t.
+
+ALI: For what it’s worth, with the initial question that you asked, which is like ‘would S.I. be involved in this’, I think that Broun would definitely—this is a shared thing amongst the Blue Channel even if Kalar was trying to be protective of that information, because there’s no reason why Broun would keep it from the people that they are with. And I think especially leaning on S.I. in that way… [LAUGHS] Seemingly plays to S.I.’s strength in that way.
+
+AUSTIN: Yeah. Even if that’s just like, ‘hey, cover me while I fuck with this computer and say these words into a microphone’—
+
+ALI: Right.
+
+AUSTIN: —or, again, ‘yell at Clem until she fucking does her half of this’. Or whatever that looks like.
+
+ART: Yeah, I mean, as a climactic finale roll, I feel like it has to involve Clem.
+
+AUSTIN: Uh-huh.
+
+ART: Just—I also know what dramatic arcs look like.
+
+AUSTIN: Uh-huh. Kalar, do you want to say what this is? Or—I guess the thing here is, Kalar, did you say when you’re there, when you’re in the room, that is when we need to use this thing?
+
+[JACK SIGHS]
+
+AUSTIN: Or is that just a thing you hope that would be clear?
+
+JACK: [CROSSTALK] It’s so tough, right, where it’s like… I want to make sure that we—if we want to, can draw a line between us not revealing what this thing is on the call for narrative fun, and Kalar not revealing it to the characters. Where it’s like—
+[1:40:15]
+
+AUSTIN: Right. Yeah. So actually, without saying—
+
+JACK: Like there’s a point here where it’s like, reverse dramatic irony. Where the characters know what is going on here.
+
+AUSTIN: Oh, you do think the characters know.
+
+JACK: I mean, I want to make sure that we don’t—
+
+AUSTIN: I feel like that’s walking back of the initial thing because I feel like actions could have gone much differently if we’d already known.
+
+JACK: Yeah.
+
+AUSTIN: If those characters already knew that, maybe they would have gone to a different upload place.
+
+JACK: Even this arc—yeah, totally.
+
+AUSTIN: That’s literally just within this arc. Just within this act, even. You know? And I also think part of the thing that Kalar did there was especially fun because he didn’t let anyone know what it was. You know? Though, of course—
+
+JACK: Right, which—
+
+AUSTIN: —in some ways, the Witch in Glass is probably one of the people who’s closest to knowing what it is. Right? Just by default, because she’s the one who knows the story the most.
+
+JACK: In keeping with the core mechanic of this game, Kalar not revealing what it is could be read as Cool or Doubt very easily.
+
+AUSTIN: [LAUGHING] Yes, it could.
+
+JACK: Where it’s like the Doubt is like ‘I don’t trust anybody, this is bullshit’, and the Cool is, ‘I have the—I’ve got the words!’
+
+AUSTIN: Yeah. Uh-huh. ‘Checkmate’, right? Like—
+
+JACK: Check— [EXHALES LAUGHTER]
+
+AUSTIN: Moves the chess piece.
+
+JACK: ‘I, unlike Clementine, know how to play chess!’
+
+AUSTIN: The thing that I was going to say in terms of dramatic irony being interesting here, and it’s not even—it’s not dramatic irony, it’s just following us through all the way, is that like—if there is a ‘pull the trigger on this moment’-type thing, then what you’re asking is for people to pull the trigger on a thing that they don’t know what it is, except that you’re insisting it will stop what’s happening. Right? And that is fun because then you’re saying like ‘no, no, no, no, no, I know you barely know me, trust me, this will work.’
+
+[JACK LAUGHS]
+
+AUSTIN: ‘Say these 50 words.’ You know? ‘Broadcast these 50 words into the heart of this machine.’
+
+JACK: What’s the—why would Kalar have done that? Is it security? Is it just trying to have a lock on—because Kalar isn’t trying to tell an entertaining podcast.
+
+AUSTIN: No, but I don’t know—I guess the thing there is just like, did Kalar—Kalar also didn’t say on the call with Broun what it was last act, right?
+
+JACK: No.
+
+AUSTIN: So I don’t know if that was just being incredibly protective of what it was. And now, is that a matter of ‘if I say what this thing is, will that only increase the possibility that someone doesn’t want to use it because they think they want to save it for something else’? Right? That’s kind of my thinking—
+
+JACK: [CROSSTALK] Right, holding onto—
+
+AUSTIN: Yeah. Because what you have is a trump card, what you have is a—
+
+JACK: [CROSSTALK] Holding onto the ammunition.
+
+AUSTIN: Yeah, exactly.
+
+JACK: Fallout games.
+
+AUSTIN: Right, yeah. Uh-huh.
+
+JACK: Yeah, no, that’s a good point. So I think it is—I think that attached to the earlier call is… ‘the other half of this code phrase is going to arrive and you need to trust me.’
+
+AUSTIN: And y’all can be on a long distance call at this point because of the comms tech you’ve built from orbit above, right?
+
+JACK: This fuckin’ comms tech rules.
+
+AUSTIN: It’s good. It’s very good.
+
+JACK: We’ve gotten so much use out of this.
+
+AUSTIN: Yeah. What a great invention. Listen, one of the last things that Si’dra said was like ‘we’re going to be able to make calls across the galaxy. We’re gonna get there, god damn it.’ Right? Like, this is in—this has been a thing that people in this universe have been interested in from the jump. I think to some degree it’s naive—like, I’ve—I saw someone call Gur Sevraq a Marxist the other day, which I thought was very funny because I don’t think Gur Sevraq has ever talked about labor outside of being anti-slave.
+
+JACK: Sure.
+
+AUSTIN: Which is a really broad position. Not only Marxists are anti-slave.
+
+JACK: Massive category.
+
+AUSTIN: Yeah. I think that maybe, you know, anarchists and communists are the best at being anti-slave because they’re very good at making sure that like, ‘Hey, don’t—fucking stop it. Don’t—you can’t just put it in a different part of the—the supply chain’—
+
+JACK: [CHUCKLING] The factory.
+
+AUSTIN: —’and say that that’s okay.’ Right, right. But we’re not the only people who are anti-slave. But what Gur Sevraq has been from the jump is like very pro-communications technology, very—Gur Sevraq is very naive about technology, and is very pro-, like, ‘the web will save us’-type shit? And so, like, that had been onscreen for like a while, Si’dra position has been the same thing. Like, there’s a lot of, like—and this is grounded, again, in a very particular history, which is—and this part is the part of it that’s not naive, right? Which is like—speaking of slaves, slaves were not allowed to learn how to read and write, because it would keep them from organizing. Right? It would keep them from communicating with each other over distances, and secretly. It would keep them from having modes of thought that were benefited by having a writing system. Right? Planting things is benefited from being able to write things down. Calculcating things is benefited by being able to take notes. And so by denying that people, you limit them.
+
+And so Gur Sevraq is very much in that headspace of—or was very much was in that headspace of that’s what communications tech is, and so that’s why I think that like, you kind of have the double-edged sword here of like—these are motherfuckers who think the internet is gonna save us the way that people in the 1980s thought the same thing, that, you know, mediated internet tech, or, you know, computerized communications technology was gonna change the world and we’re gonna connect everybody and everybody’s gonna be happy and excited, and did not anticipate the ways in which that does not necessarily fix everything.
+
+But yeah, so I know where you’re—[LAUGHING] you’re stepping closer and closer to that with this comms tech you’ve built. So yeah, a call could come in, you know? I don’t know that—there’s no video feed that you’re watching, right? But I think that basically Agon is in a command ship getting updates from the various teams and has people reporting them back into the Reflecting Pool, you know? ‘Team six, in place. Team three, in place.’ Stuff like that, you know? ‘Charges planted.’
+
+JACK: Is it… I mean, she’s your character, Austin, so I don’t want to, like, step on it, but do they just get a call from Clementine? Which is 25 words?
+
+AUSTIN: Well, this is my thing is—well, I mean, the answer for me there is like, does that just happen? Or is this—I’m asking Art, ‘cause Art is framing this scene, what about this whole scenario we’ve now laid out is the interesting spot at which Sovereign Immunity becomes the axel on which it turns? Is it protecting Broun while this stuff goes in and just physically putting yourself in harm’s way? Is it being the person who pulls this out of Clementine? Is it being the person who has to deliver the words in the end becaused Broun shared them among the Blue Channel? Is it doing something else that we haven’t even talked about while this is happening in the background as a separate thing? Is it giving up on this plan altogether and just opening your scythe up and going to town, you know?
+
+JACK: Cutting another person in half.
+
+AUSTIN: Right, exactly. So that’s an Art decision. I just wanted to put all the cards out there so we could kind of see what we could play with in terms of putting together the sort of… the diorama of this scene.
+
+ART: I don’t know the answer. Especially like, I mean, I know we have a third act, but this is—we’re getting to the end of the trail for… for this character.
+
+AUSTIN: Oh yeah. Yeah.
+
+ART: And what do I want these last bits of it to look like? I think that, is it—I think that protecting—being protective of Broun is the like, the closure I want to put on that. You know? I think Broun on the phone with Clem, or Clem’s—
+
+[ALI CHUCKLES]
+
+ART: —I guess left hand, because Clem’s right hand is—
+
+AUSTIN: Yeah. Uh-huh. Emiline Eckels is Clem’s left hand, we know this. Is a bell but in space.
+
+ART: Yeah, reads off the—you know, ‘cause Clem’s too busy. And it’s—yeah, it’s like… I’m trying to think of a touchstone for this, but I’m trying to do better than—than Rogue One.
+
+AUSTIN: In my mind, harder to do better than Rogue One. I’m a Rogue One defender right here.
+
+ART: I think Rogue One’s a good movie, I don’t know that all of its action choreography is exactly on point.
+
+JACK: They go through a big gate in that movie in a really fun way, right?
+
+AUSTIN: They do.
+
+JACK: There’s a really fun space gate sequence.
+
+AUSTIN: Yeah, yeah, yeah, totally. It’s closing, they gotta get in there quick, it’s good.
+
+ART: Yeah, and it’s not quite right, but I think that’s sort of what I’m..
+
+AUSTIN: Uh-huh.
+
+ART: The like—there’s gunfire everywhere, and Sovereign Immunity is doing his best to stop Broun from getting hurt. You know, the like—
+
+AUSTIN: How do you do that? Have you produced a shield from something? Have you—are you taking those shots? Are you just being a distraction moving between people? Are you—
+
+ART: Well here’s the—here’s some thoughts about how you would construct armor to absorb laser fire.
+
+AUSTIN: Uh-huh.
+
+ART: Which is, it’s not about deflecting the blow or absorbing the blow, it’s about dispersing the heat.
+
+[AUSTIN AND KEITH HUM]
+
+AUSTIN: I hadn’t said that these were laser guns, but I do think—I do like the idea of the Pact has laser guns now, because these are the people who have been pushing technology as hard as they fucking can, and guess what? They have—why not have the guns that are ready to pull on the power of a god with you when you’re getting the power of a god, right? So yeah. So how—what’s dispersing it look like?
+[1:50:16]
+
+ART: I mean, I think because this is a new technology, it looks bad, right?
+
+AUSTIN: Yeah.
+
+ART: It’s like, it disperses the heat but not super well.
+
+AUSTIN: Right.
+
+ART: You know, in fifty years it’ll disperse—you’ll have Stormtrooper armor or whatever, but right now it’s just like ‘oh yeah, you put a hot plate on your chest and it hits it and it heats up and it disperses it so you just get like a first-degree burn all over instead of a third degree burn in one spot’, you know?
+
+AUSTIN: Oh my god. Miserable. Yeah. So this is like, you get shot—the Cool version of this in my mind is you get shot three times in the back, and then you turn around and face them and they shoot you again, and they’re like ‘it’s not working’ and then your cloak falls away to reveal the heating coils, the hot plate that you’ve strapped to your body.
+
+ART: Yeah. Uh-huh.
+
+ANDREW: Damn, I loved that scene in Mandalorian.
+
+ART: [CROSSTALK] And it’s like a little bit of—it’s a little bit of ducking and it’s a little bit of dodging, but it’s a lot of just like ‘this is bad, this sucks’, you know? And you know, one or two blasts off the scythe, that’s how it’s trying to be done, but—
+
+AUSTIN: But you’re not a Jedi.
+
+ART: —you know, laser bullets theoretically go at the speed of light, right? That’s…
+
+AUSTIN: Yeah. Uh-huh. In Star Wars they’re charged bolts and not light, which is why they’re slow enough to be blocked, which is a thing I read yesterday.
+
+ART: Well, you must have access to all the secrets now.
+
+AUSTIN: Yeah, they let me into the Holocron Chamber. So I got to touch the ball.
+
+KEITH: Oh, are you dark-side now? Anyone who listens to Holocron is a Sith.
+
+JANINE: [CROSSTALK] How many jumps did you have to do to get to that thing?
+
+AUSTIN: I had to do—Yes, I’m dark-side now, and Janine I had to do a really annoying platforming puzzle, that I fell off of like 30 times and then the next day I went back and I just got it the first time. It was no big deal. So, you know.
+
+ART: Shoutout to these people.
+
+KEITH: It’s not a great defense to you know, people who are willing to deliver a Plagueis The Wise speech. It’s not a good defense that in Star Wars, any time anyone reads a Holocron they turn to Sith.
+
+AUSTIN: [LAUGHING] They read the truth and it makes them bad. Yeah. Uh-huh.
+
+[KEITH LAUGHS]
+
+AUSTIN: This sounds Cool to me, but I don’t know. You tell me.
+
+ART: Yeah, unfortunately, I think this is Cool.
+
+AUSTIN: You’re at four, so you need a five or a six here. Or a Hedge, which I have an idea for. You’re at 1d6, where do you get these other dice from if you do?
+
+ART: Great question.
+
+SYLVI: I can help.
+
+AUSTIN: Okay.
+
+SYLVI: I feel like covering fire is well within my wheelhouse here.
+
+AUSTIN: Yeah. Definitely. A hundred percent.
+
+ART: And you know what Michael Jordan on the Wizards would have been good at? Getting shot.
+
+AUSTIN: [CROSSTALK] Getting shot.
+
+[ALI CHUCKLES]
+
+AUSTIN: Yeah. This is a Michael Jordan on the Wizards move, I agree with this. For people who remember, or to remind people, Sovereign Immunity’s role is Michael Jordan on the Wizards, which is to say Michael Jordan after coming back from retirement, joining a team—
+
+ART: [CROSSTALK] The second time.
+
+AUSTIN: —a second time, right. Not the first time. Second time. Joining a team that he owned? Partially owned?
+
+ART: Partially owned at the time.
+
+AUSTIN: And being a good player, but not being a super star in the way that he’d been during his career. And also just a much worse team. Sorry to the Wizards, I guess.
+
+[ART CHUCKLES]
+
+ART: [SARCASTICALLY] Sorry to big fans of the 2002 Wizards.
+
+AUSTIN: 3d6.
+
+ALI: Are—
+
+AUSTIN: Ali?
+
+ALI: —two assists possible? Or is it one or the other?
+
+AUSTIN: No. Three is the max.
+
+ALI: Okay, yeah.
+
+ART: Come on.
+
+[PAUSE]
+
+AUSTIN: That is—
+
+ART: I’ll take it!
+
+AUSTIN: That is two successes! That is a full success, a 5-1-2, so eight points here of Cool, it is not a—you cannot Hedge, because you did not get a four. So what are your two questions here? You get two success questions.
+
+ART: Um… Tell me about how—the questions “How did this reinforce your narrative of the viewers?” and “What effect did your action have on those who watched it?” Are you—is the difference there that viewers are home viewers and those who watched it are those in person?
+
+AUSTIN: Nah, I think it’s both. I think it’s both both. I think the difference is that you—reinforcing your narrative is maybe, you would tell me ideologically or whatever what your narrative is, whereas effect to me feels emotional—”what effect did your action have” feels like an emotional connection. Do you know what I mean? A narrative is a collection of ideas when used politically. And so that would be like ‘I think it helped sell the idea that Millenium Break believes XYZ, fights for XYZ’, whereas the effect could be like, ‘the viewer at home choked up seeing Sovereign Immunity put himself on the line like this’. That’s my interpretation of these questions. These questions come from War in the Year 3000, so. I can only interpret.
+
+ART: I think I’m gonna take that. I think I’m gonna take “what effect”— and I do want it to be like a sentimental—a sentimentality.
+
+AUSTIN: Yeah. This is seeing Sovereign—this is Sovereign Immunity, right? This was always the Sovereign Immunity that theoretically existed twenty years ago during the farmers’ rebellion. Taking hits for other people, right? Standing in the way of people who physically could not take those hits. And allowing them to do the work that they believed in. And so this is that Sovereign Immunity again, right? Mask off,  here he is.
+
+ART: It’s a lot less metaphorical this time.
+
+AUSTIN: Yeah, totally. So that’s one. You get one more.
+
+ART: “What did it cost that you didn’t expect it to?”
+
+AUSTIN: Um… You don’t need to do—wait, sorry, you don’t need to do a fail question here. You only got two successes. So you can—I’ll let you do it. 
+
+[ART HUMS]
+
+AUSTIN: ‘Cause I think it’s interesting.
+
+ART: No, one success is one fail, one success, right?
+
+AUSTIN: Didn’t you get two successes? You got two successes.
+
+ART: No.
+
+AUSTIN: Yeah. Oh, this was Cool, this was Cool, this was not Doubt. This was Cool. You need to go up.
+
+ART: Oh. Right, it was Cool, I had to go up. Oh.
+
+AUSTIN: Yeah, you’re right. One fail, one success. My bad, my bad. Uh… ooh. Art, what did it cost? Are you signing a death warrant here?
+
+ART: I mean, I think I’m signing a critically hurt warrant here.
+
+AUSTIN: Yeah.
+
+ART: I think we can see if it’s a death warrant in Act Three.
+
+AUSTIN: Yeah.
+
+ART: But I think it’s like—the immediate hit for me is the zombie movie of seeing the bite, but it’s not—
+
+AUSTIN: Yeah.
+
+ART: —you don’t turn—getting burned doesn’t make you turn into a fire.
+
+AUSTIN: No. But like, what if it is seeing—what if it’s like, between you and Millie you clear the room, and then, you know, the coils are cooling down, and then you—it becomes clear one of them burst. Right?
+
+ART: Mhm.
+
+AUSTIN: As they cool back down to black, one of them has a huge hole in it. Right?
+
+ART: Yeah.
+
+AUSTIN: And you’re like, ‘oh’. And maybe it cauterized immediately—maybe you got shot through and it cauterized, but you got shot through by one of these blasts. Right? Maybe it’s even like we get the shot of someone keeping their beam on you, switching from blasts to a single solitary held beam, and it looks like you took the beam no problem, right? It kept heating up, it kept heating up, the power from the big pool of energy in the middle of the room is pulling up into you, and, you know, fires out, and it looks like you took the hit no problem, and Millie knocks them down or knocks them out or shoots them or whatever, but then afterwards—after it cools down it’s clear that they burned right through the armor. And yeah, you’re critically hurt. I don’t know if it’s like ‘dropped to a knee’ hurt, I don’t know if it’s like, you know, variant tense full body muscle pain, I don’t know how you want to sell it, but...
+
+ART: I think it’s being helped out, like, we have enough red-shirts here to—if you’ll forgive the term—
+
+AUSTIN: Uh-huh. Yeah. So yeah, down on the ground. As Broun says the 25 words, and Emiline Eckels says her 25 words through a connection, a kind of like—so Emiline Eckels connection is direct. It’s not just through—I imagine there’s a screen as you’re saying them, and they’re being recognized, and it’s almost as if there’s like, um… what do you call that—like voice recognition? And there’s two columns, and each one is filling up with the words you’re saying, and then the ones that Emiline is saying. And we’re seeing shots of Emiline sending them, but we’re not—Broun is not hearing her voice.
+
+There’s a point at which in the background, the Witch in Glass, who is busy, sees what’s happening and comes over like ‘wait, wait, wait, what are those words?’ And it’s too late, because they’re being sent, but we do get the impression that Clem is upset to have lost this weapon which I think she recognizes. Because she is the one who first heard about it when Cas’alear told her about it in a little restaurant in a little town off the eastern cost of Apostolisian territory. I forget the name of that place—Rezevi. It was a town called Rezevi. And what Cas’alear told Clem was that Chrysanth Kesh sent a message to Past, and that when Past received it, Past immediately started descending toward Partizan, shutting down its systems, so that it would crash into the sand outside of the town of Obelle. And that is what it is. It’s a kill code. It’s a secret weapon that the Curtain has had for quite some time, designed to destroy or deactivate a Divine.
+[2:00:20]
+
+Obviously Divines are immortal in this setting, and so it will be rebuilt—in fact, space is so decentralized that it’s hard to know, because space is installed in all of the Portcullis systems, but here at least, as that last word is said, everything begins to shudder. And the Portcullis System loses whatever its weird Divine anti-gravity shit, and it begins to fall towards the core of the planet. And so it is ‘get the fuck out of here’ time at this point.
+
+We should talk about what this all looks like, but we should also start—I think we should almost talk about what our Doubt and Cool stores are as a way to frame the exit of this building, right? Or of this structure as this is happening. So. Where we’re at now is 22 Cool and 28 Doubt. That would be a total of 6 Doubt going into the final act. The question ends up being, how much of this do you want to Spin? Because I think all of it is Spinnable according to my notes. I think you’ve succeeded at everything. Which means you can try to Spin down high Doubts like Millie’s 12, or Spin up low Doubts like Broun’s 3, et cetera.
+
+I don’t know what you’re aiming for at this point necessarily, as individuals, but this is an individual character choice in a sense—it’s about how they would tell that story. But it is also a player decision about the future of how you think Millenium Break should go in some ways. So. Thoughts? And I think it will help shape how we see the escape from this facility as it falls closer and closer to the core of the planet.
+
+[PAUSE]
+
+ALI: At this point is stuff like, getting destroyed?
+
+AUSTIN: It’s getting shut down. I guess if you were like—I think we can talk about whether it’s Cool or Doubt-y to keep it from falling, right?
+
+ALI: Sure.
+
+AUSTIN: It’s at least falling, you know? Maybe it doesn’t blow up when it hits the core, but like—
+
+ALI: Right, right, right.
+
+AUSTIN: —this is a Divine killswitch that shuts down the thing that’s keeping it cool and temperate and all of that stuff, for now at least. It’s probably—it’s not as bad as the bombs going off, right?
+
+ALI: Sure, sure, sure. So, destructive in the same way.
+
+AUSTIN: Yes, exactly.
+
+ALI: I’m just curious because there was, you know, some investment there. [GIGGLES]
+
+AUSTIN: Oh yeah, totally. This is the sort of thing that—could the Company of the Spade come in and repair this thing down the road? Much easier now than if those bombs had gone off which would have just utterly destroyed it. Right? But also, is there a world in which we end up with a result here that is Broun somehow bringing thrusters online and keeping it from falling, or something like that? You know what I mean? And what’s that look like in terms of Cool and Doubt score? So, you know. That’s why I’m saying we should think about figuring out what that Act total looks like. Does anyone know right now whether they want to re-Spin, whether they want to Spin some of these things?
+
+ART: Do you have a—do you have an easily—do you have a chart of this?
+
+AUSTIN: Of what?
+
+ART: What the dice were? I guess I sort of do.
+
+AUSTIN: They’re all there. They’re all in the—oh, do you mean—
+
+ART: Alright.
+
+AUSTIN: —well, the totals are there, and the totals are what you need in terms of knowing averages, right? I’ll link you to an averages chart here.
+
+ART: Right.
+
+AUSTIN: If that helps you.
+
+ART: But you Spin—you Spin all the dice again, right?
+
+AUSTIN: You don’t—yes. You Spin them all again, yeah.
+
+ART: I’m happy with my… my results of essentially a net 1 is something I’m—I think is acceptable.
+
+AUSTIN: Okay. I’m gonna post here what 3d6—the average looks like.
+
+ART: It’s ten and a half.
+
+AUSTIN: It’s ten and a half, so 10 and 11 are both the highest chance things that you can get, anything above that or below that is increasingly rare. So that means that, for instance, the 3, obviously, Broun, if you wanted to really jack up doubt here, you would reroll that 3 Doubt. Because that would increase that sequence almost certainly—unless you rolled three 1s again, which would actually be so funny that it would be the best.
+
+[ALI CHUCKLES]
+
+AUSTIN: That would boost Doubt here. Whereas that 12 Doubt, Millie, there’s a good chance you would get something lower than the 12, right? There’s more percentages under 12 than there are above 12. Anything that is not—anything that is above or below 10 you can kind of just play it off of that, if that makes sense. 10 or 11.
+
+ALI: Um, yeah, it’s a tough thing here because I feel like right now we’re in a good—the leap ending, so to speak, is so much a middle-ground that it feels preferable just because it’s like, tepid, right, you know? That staying within that round or somewhere close to it feels preferable than pushing it one way or the other.
+
+AUSTIN: Going all in.
+
+ALI: But I don’t know how the rest of the table feels with regards to that.
+
+[PAUSE]
+
+AUSTIN: And that’s probably what Broun—in Broun’s mind, the goal is to go set up Millenium Break outside of the Principality. Right?
+
+ALI: Yeah.
+
+AUSTIN: Outside of the sphere of influence of the Principality is best as possible. Not to be—’cause again, for people who don’t have the list in front of them, the kind of three outcomes are: high Cool score, in which Millenium Break ascends to being a popular faction, like the Curtain, like the Pact, like a Stel in some ways, strong enough to compete across the galaxy, but inside of the Principality, for the future of the Principality, the way a sort of successionist sect might break away in a country, but still attempting to lead the country in the long run. Which is to say, sort of reformist. Still revolutionary. But revolutionary not in the sense of establishing a new nation so much as changing the one you’re in.
+
+The high Doubt score would be becoming an insurgency, a well-spread and supported insurgency force inside of the nation that does not have public approval. Except for the public that is itself an outsider, right? These are people who have been the people most oppressed by the Principality, the people who are outsiders, whether by being aliens like the Nobel or the Branched, or by being othered in other ways throughout the society, including people who have been othered by being like, criminals outright, you know? People who have perfectly selfish reasons for wanting to throw the law in disarray—and that includes people like Exeter Leap but also includes people who are just like, drug-runners. Who are people who have—don’t necessarily have altruistic motives at all outside of personal profit. Right?
+
+And then the—there is the final one, which is, if you’re within that kind of 40 point range between 20 Doubt and 20 Cool, you’d end up with the thing where you—you build a new nation, you create a new nation, with all of the ups and downs that entails. All of the complexities of suddenly being a nation-state. Suddenly having people to take care of. Suddenly having to have a government just like you did in the Kingdom game with all the questions about Sovereignty and who decides things and how long term limits are and if term limits even make sense, all of that stuff stops being kind of strategically—you know, ‘it’s fine, it’s fine, it’s fine, we’re just—we’re a faction inside of a country’ and suddenly becomes like, ‘no, we’re a fucking country now. Who is our leader?’ et cetera. And that introduces a bunch of new stuff, but also it means you’re not paying taxes to the Principality anymore. You’re not using Principality services, you’re not being tracked by the Principality, you’re building something out of their grid. So those are the three outcomes and those are the things you’re working towards or around at this point, you know?
+
+KEITH: And that last one is like the neither high Cool nor Doubt?
+
+AUSTIN: [CROSSTALK] Neither high Cool nor Doubt. Correct. And again it’s written as 20 I’m not sure if that’s too high, I ran a bunch of tests and it seemed about right, but that seemed right with—you know. You’ve seen this game now. How many things can change in a single roll, how many things can change with depending on how many players there are. I definitely anticipated less 3d6s, I think we’ve only had two non-3d6s so far—
+
+KEITH: Yeah.
+
+AUSTIN: —and so that is—or maybe only one—and so that is, that changed that number a little bit for sure. You know? In my head. And I’ll sleep on it before the final act, but—
+
+KEITH: But then if all the numbers are high, then it cancels out—like, if all the numbers had been medium, because then you still having a weird load of numbers.
+
+AUSTIN: [CROSSTALK] Yeah, but the question for me is—I might say, the thing that might change between now and next session—is really, ‘is 20 Cool or Doubt where I want to switch over to that, or is that 15? What makes more sense?’
+
+KEITH: Right.
+
+AUSTIN: I think it’s still 20. Because the next step includes doubling—potentially doubling these scores which gets us into that 20-range. That seems like the sweet-spot for drama, but once we see that score is, I might sleep on it and adjust it, because we’re playtesting and I don’t care. And it’d be more—it’s fun if the next roll can affect things. And I think it will be able to. But we’ll see.
+[2:10:09]
+
+AUSTIN: Anyway. Art, you’re locking S.I.’s 8 Cool and 7 Cool.
+
+ART: 7 Doubt, yeah. I think that that’s a—
+
+AUSTIN: 7 Doubt—no, they’re both Cools.
+
+[PAUSE]
+
+ART: No, isn’t it—
+
+AUSTIN: Is this one Doubt?
+
+[PAUSE]
+
+AUSTIN: No, no—
+
+ART: I thought it was—
+
+AUSTIN: You cut that man, you—
+
+ART: It was Doubt and I Hedged.
+
+AUSTIN: Yeah. Uh-huh.
+
+ART: So it’s 7 Cool and it’s—it’s 15 Cool?
+
+AUSTIN: 15 Cool from you, yeah.
+
+[ART GROANS]
+
+KEITH: [FACETIOUSLY] Ooh, that’s really cool.
+
+ART: But I can’t—I can’t really get it down.
+
+AUSTIN: It’d be a rough one, yeah. Trying to Hedge the—or trying to Spin those would probably increase them.
+
+ART: Yeah, so I’m—I still have to keep—
+
+AUSTIN: Okay. You could give it a shot, but, yeah.
+
+ART: I mean I don’t think I can—
+
+KEITH: [CROSSTALK] Is it one was 7 and one was 8, or are they both 7
+
+AUSTIN: One was 7 and one was 8, yeah.
+
+ART: [CROSSTALK] 7 and an 8, yeah. On three dice.
+
+AUSTIN: Yeah. That’s a rough one.
+
+ART: I rolled a 1 and a 2 both times. [CHUCKLES]
+
+AUSTIN: Uh-huh.
+
+SYLVI: Um, I think I’m gonna lock mine in, probably.
+
+AUSTIN: Okay. 13 Doubt. Yep.
+
+SYLVI: ‘Cause I feel like 25 Doubt total is pretty… solid.
+
+AUSTIN: That’s damn good, Millie. Yeah. 12 and a 13 are very similarly that 7 and 8 spot of like—if you want to try to even bring Doubt down, if you want to bring Doubt down you could, but bringing it up seems very hard to do.
+
+KEITH: Especially ‘cause you were the cool character in this group.
+
+AUSTIN: Yeah.
+
+SYLVI: I know!
+
+AUSTIN: But Hedging, and your rolls—
+
+SYLVI: [CROSSTALK] But I’m also the Dark Horse, Keith.
+
+AUSTIN: That’s true. That’s big Dark Horse numbers right there.
+
+SYLVI: Yeah.
+
+ALI: Yeah, like—it’s tough because I feel like both like mathematically and like, character-wise, I feel like maybe the best thing here is to try to swing it harder towards Doubt now, so we have more wiggle room to even it out in the third act when all of that math gets weird?
+
+AUSTIN: In the final act, yeah.
+
+ALI: ‘Cause I do think like—especially for Broun, like, the thing that they desire and have this entire season is wanting to leave, is like, to see something outside the life that they know? And they also were a character that was like, invested enough in the infrastructure of Millenium Break especially, to like want it—to create it in that vision, right? In that hope. So I feel like I might reroll my 1-1-1-?
+
+AUSTIN: Yeah. Let’s do it. 3d6.
+
+ALI: Let’s do it! [CHUCKLES]
+
+AUSTIN: Again, narratively, this means that Broun is—when the moment comes to say what happened when you uploaded this, it’s the Sovereign Immunity hand on your shoulder moment. And that’s so funny to me.
+
+KEITH: ‘It was so sad, you’re not even gonna believe it!’
+
+AUSTIN: It’s also the Valence moment, right? It’s also the you’re playing Valence’s words moment so like, that can also be part of how this gets sold, right? And it’s not just—I don’t want to say that it’s you lying, necessarily, but it can be you successfully emphasizing that one as parts of the story goes. You know?
+
+ALI: Right, I even think that it’s—it would be a really low Doubt, because it would be something that Broun would not be willing to address.
+
+AUSTIN: Right.
+
+ALI: But like, Broun willing to be emotionally honest about what that moment was, and like, what their motivation was in that moment, ends up being this other thing.
+
+AUSTIN: Yeah, I like this. Emotional vulnerability is Doubt, for sure. Give me 3d6.
+
+[PAUSE]
+
+AUSTIN: Dice, baby!
+
+[ALI GIGGLES]
+
+AUSTIN: One of those 1s turns into a 6, the other ones stay a 1.
+
+SYLVI: [CROSSTALK] Oh my god.
+
+AUSTIN: That’s a big jump though. That’s a big jump. ‘Cause—
+
+KEITH: You told this story to three people and two of them were not listening.
+
+[GROUP CHUCKLES]
+
+AUSTIN: Alright, so that raises your Doubt up. Let me do the math really quick. So 7 Cool plus 7 Cool plus 8 Cool is 22 Cool, and then 12 Doubt plus 8 Doubt plus 13 Doubt is 33 Doubt, 33 Doubt minus 22 Cool is 11 Doubt total.
+
+ALI: Cool.
+
+AUSTIN: No, Doubt.
+
+[ALI AND ART CHUCKLE]
+
+AUSTIN: 11 Doubt. So going into the final act, we’re at 11 Doubt and 9 Cool. Which does not just mean 2 Doubt because of the ways in which the final challenge can multiply this stuff. Again, just to summarize this, there’s a world in which that 9 Cool becomes 18 Cool, there’s a world in which that 11 Doubt becomes 22 Doubt, on top of whatever other stats get rolled in this final thing. Right?
+
+KEITH: So does that mean it’s close to impossible to not hit 20 on either side?
+
+AUSTIN: But—except that you then will subtract the lowest from the highest. Right?
+
+KEITH: Sure.
+
+AUSTIN: So yes, we’re going to hit 20 on one side or the other, but then we’re going to do subtraction on top of that. Right? I think both of these mathematically are still very much in play. Especially when you hear what’s about to happen. So, I guess—
+
+KEITH: We’re in the Cool zone, but also the Doubt zone.
+
+AUSTIN: [CROSSTALK] The Doubt zone, also. 2020 Cool zone, 2021 Doubt zone. Is—Broun, do you stop this thing from falling and shattering? Not shattering, but you know, falling to the core of this planet where it’ll be harder. Do you activate some sort of auxiliary stabilization system? Do you—what do you do here? Because you had that impulse that was like, ‘I don’t want this thing to fall and us to lose this gateway to the Nobel world forever’. Or not forever, but you know.
+
+ALI: Yeah, yeah, yeah. I guess my two big questions, or question marks with this scene were just like, do they do that, or do they possibly get away with Logos Kantel? I don’t know.
+
+AUSTIN: I truly believe that we are going to see the end of Logos Kantel here.
+
+ALI: Okay.
+
+AUSTIN: This is—in my mind, Logos Kantel gets overtaken by light in this moment. They’ve lived a long and really bad life, and if I can like—sometimes it’s okay—I mean, this is Twilight Mirage in some ways, right? Logos Kantel had a very important relationship, and a very important—and a very deep relationship to both their god and also their people. But I think narratively for me, I would like to let them close the door on life in this moment. And in a way that is not, you know, being asked a bunch of questions by people. Being, you know, what’s the word I’m looking for—when people are just like looking at you—
+
+KEITH: Interrogated?
+
+AUSTIN: [CROSSTALK] Not just interrogated, but just being watched. Just being like, gawked at.
+
+JANINE: Scrutinized?
+
+AUSTIN: [CROSSTALK] Scrutinized as you bring them out. You know what I mean?
+
+ALI: For sure, yeah.
+
+AUSTIN: And that’s like a personal choice thing for me, that I would be open to hearing other versions of this, if people are interested in that. But I much prefer the version of the story where that doesn’t—the next step of this is not ‘and then Gucci Garantine sits down in a room with Logos Kantel’.
+
+ALI: Yeah, yeah, yeah, I guess, like, the characters wouldn’t have perceived this as like, a rescue mission.
+
+AUSTIN: Right.
+
+ALI: And I do think that like, the crux of the intention here was to keep Logos Kantel from being used.
+
+AUSTIN: Right.
+
+ALI: And like, taking them home is just another version of that happening.
+
+AUSTIN: Right.
+
+ALI: So yeah, for sure. Then I guess, yeah, the main—the focus of the scene here is like, you know, probably going back into the hallway or whatever, but Broun activating some sort of system, or putting the station on standby instead of being shut down fully.
+
+AUSTIN: Instead of like, full self-destruct, right? It’s like the Divine space gets deleted from everything, but then you’re able to activate backup systems to keep the system online effectively. Right? And then here’s how we get to the third act, I think. Because the third act is open a little bit, but, you know. The thing that the Pact wanted didn’t work. Or, it didn’t fully—the energy has started to come through, right? You shut down the system, that energy stops for a moment. In my mind, it almost grew to consume the room you were in in terms of light, if not in terms of like—raw fire and, you know. Ignition. But when that light dims, Logos Kantel is just gone.
+
+There is no—nothing is left behind, there’s no—maybe there’s a robe left, you know? I don’t think there’s anything. I think it’s just like boom, body gone. No ashes, no sign of destruction necessarily. But then that pool settles, it’s still there, and then it starts to rumble again as above the planet of Girandole a single figure begins to glow, caught in the beam between the Lattice and Girandole and the Portcullis down below in it. And that figure is the body of Motion inside of the Demiurgos, the mech that can control the Perennial Wave which you fought in Auspice to a damn near standstill. And it has now been completely charged with that energy, and more importantly as that water begins to rumble, Motion speaks, I think probably through the systems in this room, to you three, Sovereign Immunity and Millie and Broun, and says “It would have been nice to use the prophet. But we can use me instead.” And it lights up again. And that beam continues.
+[2:20:32]
+
+The word Demiurgos is like, demiurge, right? Is not too dissimilar, I think, from what you think of as the word god. It is someone who is subordinate to a god, but at the same time a controller of the material realm. And we’ve seen Demiurgos be this be this before. I also originally designed Demiurgos to be a sort of alternate Exemplar. And that is what we’re seeing here. Infused with the parts of the Exemplar that the Millenium Break failed to retrieve, that the Pact did, pumping with the blood of the True Divine, Motion, who has always been about keeping things alive, who has always been about the control of energies, yanks at the power of Autonomy Itself through this portal, that light—it’s literally as if something has—it’s almost as if that light is a rope, a tether, and the Demiurgos reaches out and pulls it up back through the portal again, reconnecting it with the Lattice and charging herself with all this light. Speaking with a combined voice of herself and Laurel, the clone of Cassander, speaking in a definitive way.
+
+And I think there’s a—there’s almost... In this moment, I think some of the Pact ships are making space, and I think we see on a ship somewhere in the distance, Gallica and Rye, the other two leaders of the Pact, basically being like ‘oh, she’s lost it. We’ve gotta get our ships out of there.’ Right? This is the like, ‘we gotta play the long game, Motion has had her fun here, this—we tried this thing, it didn’t work, let’s get the fuck out of here.’ And so the Pact ships start to leave, but Motion and the Demiurgos remains, and is crackling with this energy. And in Act Three, we will see how y’all face down a Divine with the power of a god.
+
+[2:22:23 - MUSIC OUTRO - “PRIORITY. FLASHOVER. PRIORITY” by Jack de Quidt]
+

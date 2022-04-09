@@ -1,0 +1,2327 @@
+COUNTER/Weight 22: The Broken Branch (transcribed by Kay @sokratesnikon)
+
+AUSTIN: [narration, over music - ‘The Long Way Around’] They found each other in the wreckage of optimism, and it took them a decade to decide that hope was not enough to save the Golden Branch from itself. It was in a library, not an armoury, where the Apostolosian became the sword and shield of Integrity, a Divine who’d lost its Candidate. 
+
+Some climb into their Divines, others deploy them across the battlefield, or fight under the blanket of their shadows. But Integrity demands intimacy. It digs into the flesh of the willing, all metal and promises and penetralia, desperate to create an unbreakable unity. It is afraid, and wounded, and it cannot know the power it gives without seeing it first in the reflection of a Candidate's eyes: the loft, the velocity, the violence. And for the first time in centuries, Integrity doesn’t fear its Candidate. It moves with confidence, in muscle and ambition. It believes in Sokrates Nikon Artemisios.
+
+[music ends]
+
+AUSTIN: Hey everyone, welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization and fun interaction between good friends. We are as always presented by Streamfriends.tv and Runbutton.net. I am Austin Walker, your host and GM, joining me today for a faction game are: Andrew Lee Swan —
+
+DRE: Hey, how’s it going?
+
+AUSTIN: And Sylvia Clare.
+
+SYLVIA: Hi!
+
+AUSTIN: Where can people find you on the internet?
+
+DRE: You can find me on twitter @Swandre3000 and at twitch.tv/streamfriends
+
+SYLVIA: You can find me on the internet at twitter.com/captaintrash, that’s where all my stuff is.
+
+AUSTIN: And you can find me @austin_walker on twitter. So last game was the end of a holiday special, and, as is quickly becoming tradition here at Friends at the Table, holiday specials are fun and happy and everyone leaves like, content and warm, and with a nice fuzzy feeling. Right? That’s how it goes?
+
+DRE: Yeah, absolutely!
+
+SYLVIA: I mean, no one got their necks snapped this year?
+
+AUSTIN: That’s true. Well—
+
+SYLVIA: Though they did get put in a coma, I guess?
+
+AUSTIN: Yeah, yeah. Yeah, Jace doesn’t move anymore, so. Yeah. Poor Jace.
+
+SYLVIA: [overlapping AUSTIN] You take the victories where you can. [inaudible]
+
+AUSTIN: Yeah, exactly. [overlapping a bit] So! We are now jumping back forward into time, into where we were at previously, and… This episode, you know, traditionally in the faction game we use a combination of Stars Without Number and Microscope to, to kind of figure out what the major players in the world are up to. We traditionally use Stars Without Number to kind of, figure out if if what they’re trying to achieve succeeds or fails, and then we— we use Microscope to— to kind of play out a scene and sometimes determine the kind of tone of the direction of the group. 
+
+Today we’re gonna lean a little bit more heavily on Microscope than Stars Without Number because, after that holiday special, things have changed. The holiday special kind of brought some— some faction relationships into focus, and it also— it also made me rethink a couple of other faction things, and I— and I kind of decided that we should cut down from where we had been at previously in terms of total faction number to something a little bit more manageable. That doesn’t mean that those other factions are going to be gone, it means that they’re going to be swallowed up and part of today is, what does that swallowing up look like in certain cases, and what are those interesting relationships that I’ve kind of realised are always there. So I wanna go over who we— the previous factions, what the groups were and how many there were, and then also just talk about who’s left, and then we’ll play out different scenes and talk a little bit just generally and abstractly about what the future is for these different factions. 
+
+We have - this is this is what the old list was - the Hands of Grace, alright, which were kind of the, de facto or at least, actually the de jure leader of the diaspora; the OriCon Expeditionary Group, again, the de jure and in that case actually de facto leader of the kind of dispersed corporations that make up the Orion Belt Conglomerate; Consolidated Counterweight Technocracy who is the group Orth Godlove belonged to, the bureaucrats on Counterweight who were trying to keep things afloat between OriCon and the Diaspora and remaining Apostolos interests; the Ethnological Committee for a More Prosperous Golden Branch Sector, which we’d saw very little of —
+
+SYLVIA: We didn’t do anything with them, here yet.
+
+AUSTIN: We— Have we done nothing with them?
+
+SYLVIA: We’ve done literally nothing, we’ve just, they’ve just been collecting resources— 
+
+DRE: Yeah.
+
+SYLVIA: — if my memory’s right.
+
+AUSTIN: Okay, I thought we touched them briefly, but, maybe, you’re totally right
+
+SYLVIA: [overlapping AUSTIN] We might have done a like, small scene —
+
+AUSTIN: Oh, oh, oh..
+
+SYLVIA: I don’t think we put any character into them though.
+
+AUSTIN: Right, we did —
+
+SYLVIA: [overlapping] Like I think we’ve had them make moves.
+
+AUSTIN: No… you’re wrong, for one big reason.
+
+SYLVIA: Okay.
+
+AUSTIN: I think. Maybe you’re— or maybe you’re right. Waitwaitwait let me just look at what their things are.
+
+SYLVIA: Is Ibex one of them?
+
+AUSTIN: No, ‘cause he’s Liberty and Discovery.
+
+SYLVIA: Yeah…
+
+AUSTIN: Who did they have…
+
+DRE: [overlapping AUSTIN] Ethnological Committee bought Stealth for Demagogue on — [inaudible overlap]
+
+AUSTIN: Oh right right right, they have… yes they have a… a Divine called Integrity, that is currently stealthed.
+
+SYLVIA: Yeah.
+
+AUSTIN: But they will be… Did I assign them somewhere here? One second. [pause] Yes, okay! I— yes, we will be developing them greatly today. Yes, okay, okay I see who they are. My bad, my bad audience. Like I said, we’re shaking things up, so I have a lot of notes open right now. The next up on that list is the September Institute which is the group that had developed technologies to hack into Divines and other technological devices and beings, that is an OriCon group or, or … And it’s the group that trained characters like Mako, Keith’s character in the ground game, the game of the Sprawl, to be able to take down Divines and it kinda based some of that research off of naturally occurring phenomena called stratus… strati… stratuses, which is what Jace was, and it was kind of like, Jace and a few other strati had like, kind of light precognition and like an affinity for mechanal [sic]...mechanical things and they kind of tried to turn that into something a little bit more predictable and controllable, and so like, the second wave of strati can like, learn how to actually hack into things and not just have an— a... Kind of affinity for them. It’s also kind of about language, right? We’ve talked about that before like, the— the kind of programming language of the Divines and of Apostolosian tech and of Rapid Evening tech are all different in a real way, in a fundamental way, and the September Institute is very interested in that.
+
+There’s the Diasporatic Department of Material Resources: Slate Division, which is a big industrial powerhouse, they took over— we’ve now learned from the game last week, they took over Slate, or what they call Slate from what had previously been the Apostolosian Empire, and at the time it was called Apothesa, which— which was kind of in a bloody war with— with the Diaspora in Vox. We’ve the Lux Vox Data Research Center which is on Vox, that is where Ibex was dropped off during the big special game, and we know that the Divine there, Loyalty— and we’ve seen a scene with Loyalty and Kobus talking with the head of the September Institute, who kind of has complete control over them and has slowly been putting new— new like, bases on Vox. There’s Liberty and Discovery Automatic Corps which is run by— by Ibex and Righteousness - again, we kind of don’t need to talk more about them at this point.
+
+[SYLVIA laughs]
+
+AUSTIN: There’s Minerva Mining and Mechanics who— which we haven’t seen much of, other than that, ‘Oh yeah, they’re a big— they’re a big company, they make— they’re a big industrial company in Oricon, super rich’. Earthhome Entertainment who is like space Disney, they’re who Aria Joie once worked for as a pop idol, and they run the Joypark, the People’s Joypark of OriCon on what is now called the planet Joypark but was once called Apote, or is— or Apotine, which was at the time, a religious destination for Apostolosian pilgrims.
+
+DRE: Oh…
+
+AUSTIN: Good job guys… The Rapid Evening, which we’ve kind of described as this like Illuminati or Men in Black-style super advanced group that— that kind of tries to police things but has spent the last couple of— you know, has spent a long time doing it from the shadows and is kind of stepping forward a bit more now. Snowtrak Synergies, which has quickly become a group completely consumed by Rigor, the thing that was dug out of the— the ice and maybe we’ll talk a little more about that today. Fairchild Research and development which is a, kind of a super advanced tech company that operates towards the southern end of the— the galactic south...
+
+SYLVIA: They made Jace’s rig, right?
+
+AUSTIN: They did make Jace’s rig and they made— they also designed the Kingdom Come and… We learned in the previous episode in the special, in the special holiday special that they were— at the very least had some— had been infiltrated by Rapid Evening forces? Maybe it’s more than that, we’ll get to that in a bit, soon. Also, there’s the Apostolosian Empire, or there— there was the Apostolosian Empire. We know a lot about them. There’s the Odamas Fleet which is Sylvia’s space pirate faction—
+
+SYLVIA: Yeah.
+
+AUSTIN: —And there’s the Horizon Tactical Solutions, which is a mercenary group that has been a thorn in the side of the ground game on and off for the last… Since the game started, basically. Now… there are less factions. So that was what, fourteen factions? Fifteen? One, two, three, four…
+
+SYLVIA: I didn’t count.
+
+AUSTIN: Yeah, sixteen factions—
+
+SYLVIA: Oh, okay.
+
+AUSTIN: —which is a lot. After some reflection, we’re going to count that down, or bring that down quite a bit. And I’ll paste this in… there are now— And I’ve made the map, I’ve updated the map to reflect this. Let me just erase some other things here, then…
+
+SYLVIA: i think you might have given us the list already.
+
+AUSTIN: I did but I’ve, I’ve since added some— some stuff.
+
+SYLVIA: You’ve added to it? Okay.
+
+AUSTIN: Not— not added to it, but added some.
+
+SYLVIA: Okay.
+
+AUSTIN: Things that are still a little bit of a secret for the rest of this episode, anyway. You can scroll down and see. There are now: The Hands of Grace, which is composed of the Hands of Grace and the Diasporatic Department of Material Resources: Slate Division; the OriCon Expeditionary Group which is the OriCon Expeditionary Group and Minerva Mining and Mechanics; Righteousness which is Liberty and Discovery Automatic Corps, Lux Vox Data Research Center and the September Institute. That’s a big one.
+
+DRE: Great. Great, perfect.
+
+AUSTIN: Uh-huh! Ibex has fingers everywhere. You know, casts his nets far and wide. Rigour, who is, which is control of Snowtrak Synergies and Earthhome Entertainment. The Rapid Evening which is in charge of the Rapid Evening and the Fairchild Research and Development— and Fairchild Research and Development. Apostolos - or actually, this is now, what we’re calling, what did I call it before, the Golden...? Yeah, the Golden Branch Demarchy. Which is now in control of what was the former Apostolosian Empire and the Ethnologistical Committee for a More Prosperous Golden Branch Sector. And the Odamas Fleet which is now the Odamas Fleet and Horizon Tactical Solutions. 
+
+So! What I wanted to do today was what the hell happened here… why did I— where did I— am I looking at the wrong— no, I’m looking at the right one. There we go. [pause] I fucked something up here and I don’t know what happened. [pause] Yeah, okay. [pause] I think I double pasted— that’s what happened! I pasted twice. Okay, phew! I was very confused about why there was so many things here. Just cut those down… Okay. So! We’ll be doing— there were sixteen factions, now there are six. And one of them is gone, completely, which is the Counterweight— the Consolidated Counterweight Technocracy has been so kind of.... pushed aside by the Diaspora and OriCon that it has lost all… real weight there, which is sad for Orth! Who now has very little power about what happens on Counterweight.
+
+SYLVIA: God!
+
+AUSTIN: Yeah. Well you know, it frees him up to do some other things, we’ll see. [pause] He technically still has a job. But. It’s not—
+
+SYLVIA: Okay… As long as he’s still got a job.
+
+AUSTIN: It’s just not—
+
+SYLVIA: ‘Cause we keep kicking that dude.
+
+AUSTIN: [overlapping SYLVIA] — It’s just not super… profitable… And he probably only comes in once a week, and they’ve just like, taken away a lot of… a lot of what CCT’s power is. Y’know, like remember there was that scene that we did earlier where Earthhome people came in to be like, ‘Hey we’re upset about this thing!’ and Orth was like ‘No… Go away…’ He doesn’t have the ability to do that anymore. Right? He’s not gonna be able to protect… the people of Counterweight from those sorts of charges anymore, which is a shame. So, where do people want to start here? Is there any faction that you’re most curious about?
+
+SYLVIA: Um… I’m gonna look at the list again real quick.
+
+AUSTIN: Sure. So, what we’re gonna do, basically, is once you choose— once we choose one, I have questions prepared for them?
+
+SYLVIA: Okay.
+
+AUSTIN: And I’m like ‘huh’— not like, not Kingdom-style yes/no questions, ‘will they do this thing or will they not,’ a little bit more blurry, like ‘how did this thing go?’, and we’ll try to answer that question with a scene. And we can decide whether or not that scene is a light scene or a dark scene à la Microscope, either before or during. And— or after— and kinda like, give it a tone, y’know. 
+
+SYLVIA: I think the one that immediately jumped out because— wasn’t the Ethnologistical Committee originally a Diasporan group?
+
+AUSTIN: It was, it was a Diasporan group.
+
+SYLVIA: [overlapping AUSTIN] So that kinda jumps out, like how did the Apostolosians—
+
+AUSTIN: Okay, so this is a thing I figured out after we finished the last, the last episode, which was— I didn’t really know what we were doing with that group, y’know, that group had seemed— y’know, like their name says, the Ethnologistical Committee for a More Prosperous Golden Branch, they were reading to me like— like my initial idea for them when I came up with them months and months and months ago was a, kind of super…STEM-influenced social science group?
+
+DRE and SYLVIA: [simultaneously] Mhmm.
+
+AUSTIN: Right like, like, basically, sociologists and anthropologists who had been beaten into statisticians but who still kept this notion that there was something that could be done through the control and study of information, right. And they represented that with their ability in… in Stars Without Number, which was a thing called Preceptor Archive which let them teach a planetary population how to do new stuff, how to like, increase the tech level on that world. So like, not necessarily bad at all but— but kind of, you know. And Integrity was the name of their Divine. So the long and short is, we had a character in our Kingdom game... [pause] named Sokrates. I forget what his* full name was…
+
+SYLVIA: Oh god.
+
+AUSTIN: What their full name…
+
+SYLVIA: It was long…
+
+AUSTIN: It was long, it was a three person— a three word thing. I don’t have it written down in front of me. I thought I did but I don’t… Oh, you know what, it’s over here. I’m gonna— I’m gonna find it just because it’s important.
+
+SYLVIA: [overlapping] Sokrates… Nikon… Artemisios.
+
+[17:00]
+
+AUSTIN: Yes, Artemisios. After the Golden War a decade ago, Sokrates couldn’t go back to Apostolos, right? Like, he* was a complete traitor and— and a traitor whose side won but who didn’t get the outcome they wanted, right? So, y’know, didn’t get the peace, didn’t get the unity, you know. Sokrates left thinking, ‘Okay, I’m going to show them that we can all build a more prosperous Golden Branch sector,’ right? And so I think after that war, Sokrates fled back down towards where everything kicked off, ‘cause remember, we started in between Gemm and Kaffe, and— and went kind of westward instead of east, up the side of the— of the map. Reminder, that most of these maps can be seen on the friendsatthetable.net website if you’re curious, I’ll try to get this one up as soon as possible too. 
+
+So, the— the Ethnologistical Committee was a group that was already on Slighter, which is marked 209 on the map, and Sokrates spent the next decade, not infiltrating it, but like getting into it and slowly taking command of it. Integrity, like some of the other Divines is a fairly hands-off Divine by default, and Integrity and its- its Candidate, whose name I thought I’d written down somewhere, or maybe I hadn’t… I hadn’t. Y’know, maybe it’s, maybe it’s Sokrates. That would be pretty interesting.
+
+SYLVIA: That would be really cool.
+
+AUSTIN: Yeah… I kinda like that a lot actually.
+
+SYLVIA: [overlapping slightly] Yeah.
+
+AUSTIN: That like, maybe Integrity’s previous candidate had died during that war, and it saw something in Sokrates that it spoke to, and— and chose it. 
+
+SYLVIA: I mean if there is one characteristic I think that like, you could really apply to him* just from —
+
+AUSTIN: [overlapping SYLVIA] Yes. Yes.
+
+SYLVIA: — that game, is integrity.
+
+AUSTIN: Totally. So I think Sokrates has control of that Divine and the thing that happens is, you’re looking at the map you can see that the Apostolosian Empire is now the Golden Branch Demarchy. A demarchy is a form of government— it has another name that I always forget, [typing sounds] something with an s I think… Sortition. Which is, sort of, democracy by lottery? Where the representatives are pulled randomly, or semi-randomly, or procedurally from a population. And what happens is Sokrates manages to throw a coup and end the Apostolosian Empire and start the Golden Branch Demarchy. The— the system of representation that they put in place is that there is one representative for each of the former Apostolosian like, eidolons, the— the kind of paragons of different sorts of— of belief, or— or different sorts of like, priorities and characteristics right, like… we’ve gone over these a couple times now. Like Apole, the eidolon of personal sacrifice, family and the collection of resources and blahblahblah. So There’s one for each of those plus a kind of chancellor, and— or like the— the kind of sixth one which used to be the title held by the current ruler, like that has just been imported. and so the first council, the first like, new Demarchy, is— is with Sokrates at— in that position. And then like, every year, one of those positions will switch out for a new person, pulled randomly from a group of people who follow in those footsteps.
+
+So the question I kind of have here is like, did this coup— was this a bloody coup? Was this a peaceful thing? Like what did that scene look like, like when— when it was the end of this coup, that’s happening literally while the player characters in the ground game are like, locked into this, this simulation of the old war —
+
+SYLVIA: Cass is gonna wake up, look at the news and just be like ‘whhhh?’
+
+[DRE laughs]
+
+AUSTIN: Yes, yes, that is exactly going to happen. So, what’s this coup look like? I can also talk a little bit more about what I— what I think the end result is, but I’m still curious about what the actual coup itself is. Like, I think the— there’s a reason this isn’t called the Apostolosian Demarchy, Sokrates wants this to be a place that refugees from all around the sector can flee to. Like, they’re very committed to this being that perfect vision… That, that they have in mind of what the sector could look like, even though it still has some of the Apostolosian… heritage to it? And like the kind of tinge with their old Eidolons. I even think maybe there’s like a weird compromise in place of like— there are— you know, there are all those very complicated Eidolons who all had multiple things again, you know, Apotine, Eidolon of Security, Patience and Monuments? That might just become the role of secu- like Security Minister.
+
+SYLVIA: Mhm.
+
+AUSTIN: Right? Like it— some of the nuance of these different— of these different roles get— get kind of carved away so that it’s more easy to explain to a wide audience. But yeah, so— so I guess my question is do you think this is a military coup? What does this look like?
+
+SYLVIA: I think… Like, because it’s Sokrates leading this right?
+
+AUSTIN: Yes. Sokrates, and I guess Integrity now.
+
+DRE: Yeah.
+
+SYLVIA: Yeah and I guess we kinda… One, we have to— what is Integrity, itself —
+
+AUSTIN: Mhmm.
+
+SYLVIA: — ‘Cause the Divines vary so widely —
+
+AUSTIN: Yeah.
+
+SYLVIA: And we also have to like, kind of figure out who Sokrates is at this point in time after everything that happened during the war.
+
+AUSTIN: Yeah.
+
+SYLVIA: Because my gut reaction is he* tried— or they tried to avoid, as much bloodshed as possible, but maybe that’s changed over the years, so, that’s a— I think that’s a question we need to kinda address.
+
+AUSTIN: Right.
+
+DRE: And the last time we— the last kind of scene we had with Apostolos was them y’know fighting that really like, awful like, losing battle—
+
+AUSTIN: Yes.
+
+DRE: I forget what planet it was on, but basically—
+
+AUSTIN: I think it was on Torru, which they now have control of.
+
+SYLVIA: Yeah.
+
+DRE: Yeah, where they were basically just like, throwing themselves… So I almost wonder if like, maybe they won Torru but it was at such a cost—
+
+AUSTIN: [overlapping Dre] Yeah.
+
+DRE: — that there wasn’t even enough of their military might to have— to have it be a military coup.
+SYLVIA: Oh...
+
+AUSTIN: Do you think that then— then Sokrates kind of leveraged that? By getting some of the high level military commanders like, who was the one that we had before, Elias [pronounced like Ell-ee-us]? Elias [pronounced like Ell-eye-us]?
+
+SYLVIA: Elias [pronounced like El-eye-us] was the sort of… 
+
+AUSTIN: [overlapping SYLVIA] Or was it—
+
+SYLVIA: He was the like, really c- like, gungho— patriot...
+
+AUSTIN: Cocky? Okay so, like, Argus Korba—
+
+SYLVIA: Yeah
+
+AUSTIN: —was the one who is… 
+
+DRE: The high level commander, yeah… 
+
+AUSTIN: Right but like— like, is— is Argus Korba and that tier, did those— did that tier of military commander side with Sokrates?
+
+SYLVIA: I feel like Argus would’ve, just from his*—
+
+DRE: [overlapping SYLVIA] He* probably would’ve.
+
+AUSTIN: [overlapping SYLVIA] Yeah.
+
+SYLVIA: I was gonna say what if the reason they won Torru was because of Sokrates.
+
+AUSTIN: Sure. Totally.
+
+SYLVIA: And then that gives them, the… like, political pull to sort of take over because they’re from the royal family—
+
+AUSTIN: Right.
+
+SYLVIA: They did this thing that the past regime couldn’t do.
+
+AUSTIN: Right.
+
+SYLVIA: And… They have this cool robot thing.
+
+AUSTIN: Right, yeah, so what is Integrity do you think?
+
+DRE: I mean, technically like, in terms of like, game mechanics we have it listed as a Demagogue which is—
+
+AUSTIN: We do.
+
+DRE: Which is a cunning power. which I think also reinforces the non blood part of the coup.
+
+AUSTIN: Mhmm. A Demagogue in this game se- in this like, the rules of Stars Without Number: ‘Demagogues are popular leaders of a particular faith or ideology. They can be relied upon to point their followers in the ma— in the direction of maximum utility for the faction.’ It it— just does really good cunning damage basically. It’s really tough. So yeah, I— maybe it’s just a… [thoughtful sigh] You know maybe— maybe we can play into the notion of the kinda social sciences aspect here? Of like— it’s— it’s just a robot like a Rigger is except it’s been pre-programmed with like, a ton of knowledge profiles?
+
+DRE: Mhmm.
+
+AUSTIN: Of like, all of the other possible maneuvers and— and possible enemy types and… It also has a sort of like— like a tactical brain, that’s all about keeping the morale of units around it up—
+
+SYLVIA: Yeah.
+
+AUSTIN: Where like it’s doing… You know we’ve talked about the presence of someone like Grace before. This is a similar presence except instead of being in awe at Grace you’re kind of like, unified as a fighting force behind this thing. I’m- I’m tempted to go the Righteousness route and say like, it’s a Divine that’s- that is just that program, even? 
+
+DRE: Yeah…
+
+AUSTIN: But I— I kinda wanna keep that as Righteousness’ special thing, y’know?
+
+SYLVIA: Yeah, I like the idea that there’s like a— it’s like a physical thing. I think it would be like maybe even smaller than an average Rigger, like it’s made for—
+
+AUSTIN: Oh, like just a bodysuit basically?
+
+SYLVIA: Not even a… maybe a little bigger than that, but it’s —
+
+AUSTIN: [overlapping SYLVIA] Like— 
+
+SYLVIA: — like made for speed —
+
+AUSTIN: Mhmm...
+
+SYLVIA: So it can… Because it’s tactical, can go around…
+
+AUSTIN: Right. That’s like, that’s also cool ‘cause then it’s about the size of the ones that the Rapid Evening have?
+
+SYLVIA: Yeah.
+
+AUSTIN: It’s actually— it— right around— y’know, both of the Rapid Evening’s and the ones that Apostolos has, the— the Colossi that Rap— that the— that we would see in— the— I think they’re called Hoplites, is what we called them—
+
+SYLVIA: Yeah.
+
+DRE: Mhm.
+
+AUSTIN: — are also like, not that much bigger than a person, they’re a little bit bigger but they’re not like— they’re not Riggers. So I like that. I also just like the notion of, it being the sort of a thing where… the face plating can like fold inwards, revealing—
+
+SYLVIA: Yep!
+
+AUSTIN: In fact maybe I think that’s like, the scene on Torru—
+
+DRE: Yeah…
+
+AUSTIN: It’s just getting like, bombarded, and then Sokrates arrives in this suit and blows up some of the Rapid Evening defenses or like, hacks through them or like, shuts them down.
+
+SYLVIA: I think hacking makes more sense —
+
+AUSTIN: [overlapping SYLVIA] Yeah.
+
+DRE: Yeah.
+
+SYLVIA: — for this because it’s an int… Like...
+
+AUSTIN: Yeah, it’s about cunning right, or… 
+
+SYLVIA: [overlapping AUSTIN] It’s about cunning, [inaudible]
+
+AUSTIN: It might not even be hacking right, it might just be like ‘Oh, I know how to get into this place,’ like, ‘I’ve done the research, I’ve— I know what the Rapid Evening is enough to— to get into this place.’
+
+SYLVIA: And that’s a huge deal —
+
+AUST: Yes, yeah.
+
+SYLVIA: With what we’ve established with the Rapid Evening.
+
+AUSTIN: Exactly.
+
+DRE: Mhmm.
+
+AUSTIN: And like, lets them in and provides, y’know, some MacGuffin inside of there, whether that’s— whether that’s about wealth or about knowledge or about— about power, like literally energy… To kind of, get Apostolos— what was the Apostolosian Empire back on its feet. But I still— The one scene I do wanna have is like, what’s the confrontation between Sokrates and their father* look like. The then Emperor.
+
+SYLVIA: Oh… 
+
+AUSTIN: Does that Emperor live or is that Emperor dead? Are they deposed and alive somewhere, are they… What’s that look like. [pause]
+
+[28.21]
+
+AUSTIN: And what’s the throne room even look like, or is this not in the throne room, is this in… like private quarters
+SYLVIA: [overlapping AUSTIN] I th— I feel like— I want it to be in the throne room.
+
+AUSTIN: Yeah. Yeah.
+
+SYLVIA: I think that’s such a cool feel.
+
+AUSTIN: I —
+
+SYLVIA: I think the throne room would be a lot like what we described with the… Apostolosian temple where there’s statutes of all the—
+
+AUSTIN: Nice.
+
+SYLVIA: —Eidolons—
+
+AUSTIN: Yeah.
+
+SYLVIA: But the way we’ve described— ‘cause this— this— the Emperor is also— is the same Emperor from the war, right?
+AUSTIN: Yes, one hundred percent.
+
+SYLVIA: [overlapping AUSTIN slightly] I want to say the statue of them is bigger than the statues of all the Eidolons—
+
+AUSTIN: Oh yeah, totally.
+
+SYLVIA: And it’s way nicer.
+
+AUSTIN: Nice. 
+
+[SYLVIA makes a thoughtful noise] 
+
+AUSTIN: Outside while— like, I think we get a shot of the Emperor in their— you know, in the throne room, maybe one or two other people, but it’s mostly empty, because out in the streets you can hear the parade for Sokrates, and for—
+
+SYLVIA: Do we have a name for the Emperor yet?
+
+AUSTIN: … No, I think they don’t— I don’t know that they keep their name, right?
+
+SYLVIA: Okay.
+
+AUSTIN: I think they become Apokine, who is the—
+
+SYLVIA: Oh yeah, that’s true.
+
+AUSTIN: The Eidolon of… of… whatever, you know, I— we have a royal family name via Cass which I think is… is… Pelagios?
+
+SYLVIA: Yes. That sounds right.
+
+AUSTIN: I think… that’s one of Cass’ many names…
+
+SYLVIA: Yeah. ‘Cause it’s not Berenice, which I thought… 
+
+AUSTIN: It’s not Berenice. Right.
+
+SYLVIA: No, yeah, I believe it’s Pelagios.
+
+AUSTIN: Yeah.
+
+DRE: That sounds right to me too.
+
+AUSTIN: Yeah, exactly.
+
+SYLVIA: Art can yell at us later.
+
+AUSTIN: Yes, exactly.
+
+SYLVIA: So yeah, okay, I just wanna know what to call them other than the Emperor… So, Apokine.
+
+AUSTIN: Emperor, Apokine, yeah. And I think it’s Apokine alone… Or nearly alone in the throne room. I like the— the image of like, light coming through some windows into a room that is like marble and— and sandstone. You know, banners hanging, there are the— you know, it’s basically a fantasy kin- castle throne room almost. Long, lush carpet rolled out in front of the throne.
+
+SYLVIA: I wanna say like, while it— it— like— at first glance it looks just, very magnificent, it’s really dusty.
+
+AUSTIN: Mhmm.
+
+[DRE laughs]
+
+SYLVIA: And like, kind of worn down.
+
+AUSTIN: Totally. Yeah.
+
+SYLVIA: Because of this fall from grace— from— 
+
+AUSTIN: Does— 
+
+SYLVIA: I gotta not use fall from grace because there’s an actual thing called Grace, but—
+
+[AUSTIN laughs]
+
+SYLVIA: But you know, the fall from power of the Apostolosian Empire.
+
+AUSTIN: [overlapping SYLVIA] Yeah. Yes. Totally. Is— [pause] Does someone wanna play S— Do we wanna play this out or do we just wanna narrate what’s going on or what happens?
+
+SYLVIA: Um...
+
+AUSTIN: It’s extra tough here now because like, I know Keith is Sokrates.
+
+SYLVIA: [simultaneously] Yeah!
+
+DRE: Yeah.
+
+AUSTIN: In my head.
+
+[SYLVIA laughs]
+
+AUSTIN: It’s really weird!
+
+DRE: I think it’s just better to narrate. ‘Cause I don’t think—
+
+AUSTIN: Okay.
+
+DRE: I think it’s kinda the bigger questions are more important, not necessarily what exactly is said.
+
+AUSTIN: Yeah. Yeah.
+
+SYLVIA: I am really loving the… thing of like these giant like, double doors opening and then… this like, armoured Sokrates walking in with like—
+
+AUSTIN: Oh is it like fuckin— the Stargate armour where it like, really can fold all the way in, to like—
+
+SYLVIA: Oh, see that’s sick—
+
+AUSTIN: — A collar and a belt?
+
+SYLVIA: I was thinking like, a Warframe-looking type thing.
+
+AUSTIN: Oh that’s cool too. It can be— I kind of like both of those though, of like— I just like the image of it folding backwards into Sokrates—
+
+SYLVIA: Oh totally.
+
+AUSTIN: In a way that’s like, oh it’s gone now and he’s* just a— you know they’re just a person in— in clothes, y’know? Or some variation thereof.
+SYLVIA: Yeah… I’m just mainly thinking of this sort of like, Cronenberg-y style like, exoskeleton.
+
+AUSTIN: Yeah that’s— that’s— that’s really good though, I like those a lot. And yeah so you think they just come in—
+
+SYLVIA: Yeah, and he’s* got like a few of the commander— like, some—
+
+AUSTIN: You think Argus is there?
+
+SYLVIA: I think Argus is definitely with him*.
+
+AUSTIN: Okay.
+
+SYLVIA: Just ‘cause he’s* concerned about what’s gonna happen.
+
+AUSTIN: Right and that— you know what, let’s actually make Argus the— the— um, this is— this is the thing right, it’s supposed to be a lottery but—
+
+SYLVIA: Yeah.
+
+AUSTIN: Let’s put Argus in the role of Apotine, the Eidolon of Security. Security, Patience and Monuments.
+
+SYLVIA: I think—
+
+AUSTIN: Or I guess— hmm. 
+
+SYLVIA: Like what— what— well, I think this is what—
+
+DRE: [overlapping SYLVIA, quietly] Sometimes lotteries work out.
+
+SYLVIA: I think what would happen is that… Initially Sokrates would appoint people and then— to get— and then— [inaudible]
+
+AUSTIN: [overlapping SYLVIA] The goal is—
+
+SYLVIA: — place his lottery. [inaudible]
+
+AUSTIN: The lottery, right, right. So these are the six, there are six— so I’m actually gonna post these right over here into… and we’ll go over them again really quick. [typing noises] Uh, there had been: Apole, the Eidolon of Personal Sacrifice, Family and the Collection of Resources; Apotine, the Eidolon of Security, Patience and Monuments; Apoanta, the Eidolon of Journeys Commerce and Challenging Oneself; Apote, the Eidolon of Instructions, Celebration and Wolves (understood to be animals more broadly but for whatever reason it’s wolves); Apothesa, the Eidolon of Construction, Military Action and History; and Apokine, the title held by the current ruler of Apostolos. I really like the notion of these being carved down, to like— like, ‘Okay, Apole is not Sacrifice and Family, it’s— it’s just the Collection of Resources. How do you strikethrough in Google… where is strikethrough… Format…
+
+DRE: Format I think?
+
+AUSTIN: I got it, I got it… Alt Shift 5. Boom
+
+DRE: Yeah, you know, the common keyboard shortcut.
+AUSTIN: Right, right. And the question here is I guess, is Apothesa or Apotine the military one? Because Apo— And this is the thing that was cool about the old system is there was weird overlap, where if you wanted to devote yourself to military— to the military, you could be a devotee of Apothesa because one of their realms, one of their… what’s the— what’s the DND term I’m looking for?
+
+SYLVIA: Uh...
+
+AUSTIN: Where gods have different… different… 
+
+DRE: Ohhhhh… 
+
+SYLVIA: I don’t— I don’t play DnD.
+
+AUSTIN: You’re not a nerd.
+
+SYLVIA: I’m not a— I’m not a geek.
+
+[DRE laughing]
+
+AUSTIN: DnD players are screaming at us… Domains, is that right?
+
+SYLVIA: Yeah, domains.
+
+DRE: Yeah, domains, you’re right.
+
+AUSTIN: Domains. You know like, Apothesa’s— one of— one of Apothesa’s domains was military action, but security is one of Apotine’s, so it would be very easy to be in the military with any of those things, you know.
+
+SYLVIA: Yeah… 
+
+AUSTIN: But I like the notion of having to carve this down to explain it to people from OriCon who are like, ‘I like that you have food and we don’t, but like, I don’t understand your weird gods.’
+
+DRE: Yeah.
+
+SYLVIA: I feel like we could… 
+
+AUSTIN: Here’s my thought—
+
+SYLVIA: Secu— We could change the definition of security though, right?
+
+AUSTIN: Sure.
+
+DRE: I— I would say we keep security and cross out military action.
+
+AUSTIN: Me too.
+
+SYLVIA: Okay, true.
+
+DRE: ‘Cause I think those are very different things.
+
+AUSTIN: What I think— that’s the one that Sokrates would do.
+
+SYLVIA: [simultaneously] Yeah.
+
+DRE: [simultaneously] Yes.
+
+AUSTIN: Sokrates is like, ‘Yes, we need a military, but it’s about security, not about performing military action.’ 
+
+SYLVIA: And I think that makes perfect sense for Argus to be put in command of that too, ‘cause—
+
+AUSTIN: Right.
+
+SYLVIA: With this Divine that has all this knowledge, there’s no doubt that Sokrates would have learned about what Argus did on Torru.
+
+AUSTIN: Right, totally. I also really like the notion that— Again, there’s this nice overlap between Apotine and Apothesa. Apothesa, again, was construction and Apotine was monuments. Do you think Apothesa becomes construction—
+
+DRE: Or history.
+
+AUSTIN: — or do you th— or history.
+
+SYLVIA: Ooh.
+
+DRE: With Sokrates, I think construction.
+
+AUSTIN: Yeah, do you think it’s like about practicality, not about—
+
+SYLVIA: Not about rebuilding.
+
+AUSTIN: — the past. Not about rebuilding.
+
+SYLVIA: Yeah.
+
+AUSTIN: Or it’s about— it’s about building not rebuilding.
+
+DRE: [overlapping AUSTIN] Rebuilding.
+
+SYLVIA and DRE: [simultaneously] Yeah.
+
+AUSTIN: I like that a lot. [pause] Let’s just— let’s just knock these out. Like, commerce is like, the m— the practical one here, right?
+
+SYLVIA: Yeah.
+
+AUSTIN: For— for Apoanta?
+
+DRE: Mhmm.
+
+AUSTIN: And this journeys or challenging oneself…  Again it’s all about, ‘how do you sell this to people?’
+
+SYLVIA: Yeah, I think Apote would be instruction—
+
+AUSTIN: [overlapping SYLVIA] ‘What are the roles?’
+
+SYLVIA: —and they’d basically be like, the Education… 
+
+DRE: Yeah.
+
+AUSTIN: [overlapping DRE] Right, yep, right.
+
+DRE: —[inaudible under AUSTIN] public school system — [laughs]
+AUSTIN: Exactly. Totally. Alright so, we have one person, we— you know, down the road maybe we can fill out the rest of these— or we have two, because this is obviously Sokrates.
+
+DRE: Yes.
+
+SYLVIA: We don’t have these characters like, fleshed out yet.
+
+AUSTIN: No, not at all. But I like that these are there.
+
+SYLVIA: Yeah.
+
+AUSTIN: I like that these are—
+
+SYLVIA: I really like those.
+
+AUSTIN: —that these are there. Me too. [pause] Is— I’m gonna keep coming back to this. Is the previous Apokine— is Sokrates’ father* alive at the end of this?
+
+DRE: [unsure] …Yes?
+
+SYLVIA: I— mmm… 
+
+AUSTIN: Okay. Seems like we’re split.
+
+DRE: Well, Sokrates doesn’t kill him*, but that doesn’t mean he’s* alive.
+
+SYLVIA: [overlapping] I— I— I like this— you know what I really like? I like th— The idea that like, the past Apokine is like enraged by like— Sokrates just tells him that he’s* not in command anymore?
+
+AUSTIN: Right, right.
+
+SYLVIA: And like—
+
+AUSTIN: That’s kind of what he* did— or what they did with Ibex, right? It’s that scene again, but with—
+
+SYLVIA: Yeah. It’s totally that scene again! But instead of the reaction that Ibex had, instead the Apokine like—
+
+AUSTIN: Refuses?
+
+SYLVIA: — Charges at—
+
+AUSTIN: Mm.
+
+SYLVIA: —At Sokrates because he* doesn’t think Sokrates is gonna be able to hurt his* own parent. And Sokrates doesn’t hurt his* own parent but Argus pulls the trigger.
+
+DRE: [instantly] Yep.
+
+AUSTIN: Oh, I like that a lot.
+
+DRE: [overlapping] I love that.
+
+SYLVIA: And there’s just this wide—
+
+AUSTIN: Like, collapses forward onto the armoured body of Sokrates?
+
+SYLVIA: Yeah... and lands on his*— and like— right when he* like, dies, he* lands on his* back and then like, the light is perfectly shining in through the—
+
+AUSTIN: Yeah. Love it.
+
+SYLVIA: Like, stained glass windows down onto… Sokrates’ parent lying dead at their feet.
+
+AUSTIN: Yeah. I like— the armour closes up around Sokrates’ face again.
+
+SYLVIA: Yeah. 
+
+AUSTIN: Looks away. Y’know, walks out. Love it. Alright, well, we know what happened there and I’m very curious to see what the Golden Branch Demarchy will do to this— to this sector.
+
+SYLVIA: I’m really into this faction now.
+
+[DRE laughs]
+
+AUSTIN: Me too. And that’s the thing that for me was like, alright, we— now that we’ve seen Apostolos a little bit more, and— and remember, it is still Apostolos in the sense that— we’re looking at the map here, the Golden Branch Demarchy is at the very northwest—
+
+SYLVIA: Yeah
+
+AUSTIN: —And the very south, and technically there are other factions that control a lot of this, like, empty space but they are the ones who have the tech to get in and out of it. That’s the thing that they can do is travel where there is not— they don’t need to refuel the way the other factions do, they can make deep strikes through empty space.
+
+SYLVIA: Yeah, they travel through dark space right.
+
+AUSTIN: Right, exactly.
+
+SYLVIA: Or like— yeah, I— yeah— the way I’m seeing this is they’re 80% Apostolosian and then 20%...
+
+AUSTIN: Mmhmm.
+
+SYLVIA: Like, immigrants and… 
+
+AUSTIN: Mhmm. Right, like, this has just happened.
+
+SYLVIA: Yeah, like they’re just starting to welcome in… new people.
+
+AUSTIN: Exactly.
+
+SYLVIA: Maybe 20% is even a lot.
+
+AUSTIN: But that’s like a major— right, yeah, exactly.
+
+SYLVIA: Maybe it’s less than that.
+
+AUSTIN: You know, maybe, it’s—
+
+SYLVIA: it depends, it’s—
+
+AUSTIN: We know that it’s more—
+
+SYLVIA: —Apostolos has a small population now right
+
+AUSTIN: Right, one of the populations is Gemm, which was— remember, the first planet that you went to before, in the— in the holiday special, was like, ‘Do we take the refugees from Gemm?’
+
+SYLVIA: Yeah.
+
+AUSTIN: And so, some of them were obviously taken away, but Gemm is still a huge planet filled with people? So I need to— we’re gonna have to go— one thing is I have to go through and just re-organize this stuff. But Gemm is technically still in the Diaspora. Right?
+
+SYLVIA: That also plays really well with Sokrates, because Sokrates pushed so hard to save those refugees.
+
+AUSTIN: Totally. And now they’re back to— to keep things going.
+
+SYLVIA: Yeah, I kinda like this weird like, parallel between him*— them and Ibex.
+
+AUSTIN: Mhmm.
+
+SYLVIA: Where like—
+
+AUSTIN: Oh, do you think— where do you think Sokrates is based?
+
+SYLVIA: I think Sokrates has to be based— well like— like, we just had that scene on the Apostolosian homeworld right.
+
+AUSTIN: Mhmm.
+
+SYLVIA: So I think Sokrates right now has to be based on Apostolos.
+
+AUSTIN: Okay. Okay. Good call. Alright. I— yeah.
+
+SYLVIA: Just to get like, all that in order, but I feel like—
+
+AUSTIN: In order.
+
+SYLVIA: —Sokrates wouldn’t stay in one place.
+
+AUSTIN: I k— I kinda like the n— I like the notion of continuing, in a way, what they did during the war, of just being on a ship that is constantly in motion. 
+
+SYLVIA: Mhmm.
+
+AUSTIN: Right, like—
+DRE: Yeah.
+
+AUSTIN: And like, being in dark space, and like, ‘Oh, didn’t you hear, like— Sokrates and— and— the— the— whatever their strike force’s name is, can appear anywhere at any time,’ like that’s what’s so terrifying about them.
+
+SYLVIA: Oh, was the Callisto destroyed in the war?
+
+AUSTIN: Is that the name of the ship ‘cause that would suck. 
+
+SYLVIA: [overlapping AUSTIN] I think it was the name of the ship… I think like—
+
+DRE: I think, yeah.
+
+SYLVIA: I think Jack came up with that.
+
+AUSTIN: Yeah… was it destroyed in the end?
+
+SYLVIA: If it was, we should have like, he— the name of the ship now is like, the Callisto Two or something.
+
+AUSTIN: I like the Callisto Two a lot, I love it so much. Yeah like. Maybe it’s just like, the observation deck survived of the past one.
+
+SYLVIA: Yeah.
+
+AUSTIN: And they literally rebuilt the ship around it.
+
+SYLVIA: Totally.
+
+DRE: Mm.
+
+AUSTIN: I love that so much.
+
+SYLVIA: ‘Cause like, I really like the idea Sokrates is not over this at all, despite trying to seem like they are.
+
+AUSTIN: [overlapping SYLVIA] No, totally. Totally, exactly, like, that’s the thing as always with with— trying to come up with good characters is like— it’s not enough that Sokrates wants what’s right, they also want what they want.
+
+SYLVIA: Yeah.
+
+AUSTIN: Like that’s the thing. Like, they are— they did want something good before, but they were as upset about Ibex for what Ibex was as the fact that they couldn’t stand that Ibex had power. You know.
+
+SYLVIA: Yeah.
+
+AUSTIN: And that’s— that’s really important to hold on to here, so yeah, I like that a lot. Alright, let’s move on because time is an issue as always. …Let’s talk about… [pause] Let’s talk really quickly about the Hands of Grace. Who at this point are just down to themselves and the— the Diasporatic Department of Material Resources.
+
+SYLVIA: Yeah, they’re hurting right now.
+
+AUSTIN: They are, they still have a lot of stuff, they still have Garden, Sigillia, Sage, Slate, Counterweight and Weight, obviously Counterweight and Weight are co-owned. But— but they have Gar— they have Garden, which is their kind of home base, that again in the— in the past that had previously been the place that the Apostolosian kind of— lived, right? They have Sigillia which our notes st— Sigillia is a real mystery still. It says ‘a true alien’ and we know that the orb that destroyed— that hurt Counterweight and created Weight started there. They have Slate which is the kind of, volcanic police state industrial zone—
+
+SYLVIA: Yeah
+
+AUSTIN: — And they’ve Sage, which is where they’ve been beating their heads against the Rapid Evening, and so that’s my question for— for this is— does the Rapid Evening— do the Hands of Grace maintain Sage?
+
+DRE: Um… [pause] I—
+
+AUSTIN: Do they keep control of it?
+
+SYLVIA: I mean… 
+
+DRE: I— I’ve been thinking about what we do with Grace as a Divine.
+
+AUSTIN: Yeah.
+
+DRE: ‘Cause I mean, last we left them like, her arm got cut off.
+
+AUSTIN: Yes.
+
+DRE: So are they still the Hands of Grace, or are they—
+
+[AUSTIN laughs]
+
+DRE: — Now a singular— like, I’m thinking like, fist of something instead of Hands of Grace.
+
+AUSTIN: I like that. Do you think that that means there’s been a change not only in name but also in tone and in like— 
+DRE: Yeah and I—
+
+AUSTIN: [thoughtfully] Hmm.
+
+DRE: And I think maybe like they become much more like, severe or austere or something.
+
+AUSTIN: Yeah.
+
+DRE: I can’t think of the word ‘cause I mean, righteousness springs to mind and obviously we can’t do that.
+
+AUSTIN: I think we keep it Grace because I don’t think Grace is— I don’t think that Grace— I mean we know that— that divines can change, right.
+
+DRE and SYLVIA: [simultaneously] Yeah
+
+AUSTIN: But I like the notion of it still being Grace. It’s almost scarier in a way because then— so the thing when Peace becomes Order, is that like ‘Oh, this is about a loss, this is about like, oh, this person shifted into this other mode,’ and— and almost it’s a— it’s a way to— to dodge blame, right, like, ‘Oh, when— when Peace became Order and killed all those people that’s just ‘cause it was Order.’
+
+SYLVIA: There—
+
+AUSTIN: When Grace does it, it’s not because it’s a different thing, it’s ‘cause she decided it’s time to kill all these people.
+
+DRE: Yeah.
+
+AUSTIN: Right.
+
+SYLVIA: There is something I like about Grace changing to like, the— the Hands of Grace changing to the Fist of Respect.
+
+AUSTIN: That’s pretty good
+
+SYLVIA: But like—
+
+DRE: Then we’re getting into more John Cena words. [starts laughing]
+SYLVIA: Oh, true… 
+
+AUSTIN: We are. Yes.
+
+SYLVIA: I mean, we did make jokes about Hustle and Loyalty so never mind.
+
+[DRE still laughing]
+
+AUS: We did, we did, we can’t— it’s— it’s— it would be too close, there’s already— Loyalty already exists, we can’t have Loyalty and Respect without Hustle, and then it’s just— that’s too much, it’s too much.
+
+SYLVIA: Someone mentions to Sokrates that ‘man, you’ve got a lot of hustle,’ and he’s* like ‘Huh!’
+
+[DRE starts laughing again]
+
+AUSTIN: [amused] Hmm. Yeah. [sighs] God. Let’s— I’ll— I’ll think about names.
+
+SYLVIA: Yeah, no, let’s stick with Grace for now, Grace works, I was just like— 
+
+AUSTIN: Well, but I—
+
+SYLVIA: What is an— what is an angrier form of Grace?
+
+AUSTIN: Right but— but I think Andrew’s right, that it should be— it shouldn’t be the hands of grace anymore, it should be something ...more violent or more— obviously yes, literally there’s only one hand of Grace— at this point…
+
+SYLVIA: Do you think they’re trying to rebuild— the like, what happened to Grace?
+
+AUSTIN: No. I don’t think so, I think that stays gone.
+
+[44.17]
+
+SYLVIA: Okay.
+
+AUSTIN: It’s like… 
+
+SYLVIA: They’re not replacing it with anything either?
+
+AUSTIN: No… I— I think that—
+
+SYLVIA: It’s just a big gun now? [laughs slightly]
+
+AUSTIN: Yeah… Oh, that’s kinda cool though actually.
+
+SYLVIA: Yeah.
+
+AUSTIN: It’s just like, fuckin’ weld a giant laser arm on there.
+
+SYLVIA: [inaudible] A rail gun attached to it?
+
+AUSTIN: Yeah.
+
+SYLVIA: Yeah.
+
+AUSTIN: I kind of—
+
+DRE: Or just a giant missile pod or something?
+
+AUSTIN: Yeah… It’s a combination of all these things.
+
+DRE: Yeah.
+
+SYLVIA: It’s just a missile pod that shoots giant sword lasers.
+
+AUSTIN: [laughing slightly] Right.
+
+SYLVIA: Yeah.
+
+AUSTIN: God, someone is— again, is shouting something great.
+
+[SYLVIA and DRE laughing]
+
+AUSTIN: Fist isn’t bad—
+
+SYLVIA: Yeah.
+
+AUSTIN: But like… fists are used so often. You know?
+
+SYLVIA: Totally.
+
+AUSTIN: Like, ‘the fist’ is such like a … traditional… thing. I’ll think about it, we’ll come up with a name.
+
+SYLVIA: Yeah we’ll— we’ll come up with something off the air. Or something will jump out at us in the middle of this.
+
+AUSTIN: But do you think— right, totally. Do you think they hold onto Sage? Because of this change.
+
+DRE: I think so.
+
+SYLVIA: I think they try even harder now to show they’re not weakened by this.
+
+AUSTIN: Okay.
+
+SYLVIA: And because of that I think like, we sort of talked about there— them having more of a police state on Sage. With like—
+
+AUSTIN: Yeah
+
+SYLVIA: — more security there —
+
+AUSTIN: Mhmm.
+
+SYLVIA: — because of the assassination attempt and I think that’s tightened even more. 
+
+AUSTIN: Okay.
+
+DRE: I also think, just for in terms of like, dramatic interest, I think it’d be more interesting for the Rapid Evening to— to take a loss.
+
+AUSTIN: Yeah, totally. Totally. Like— like this has activated Grace in a way, where…
+
+SYLVIA: Yeah.
+
+AUSTIN: — we can joke all we want— or, not joke, but we can talk all we want about the Rapid Evening being… more technologically advanced? But— but like, there’s a point at which sheer power can even overwhelm them, right?
+
+SYLVIA: Yeah. Like they— they probably weren’t prepared for this like, awakening.
+
+AUSTIN: Right. Right. Totally. [pause] Is the Rapid Evening wiped off of Grace [sic]? Or do they maintain some bases?
+
+SYLVIA: There’s probably like a small base there.
+
+AUSTIN: Okay. Alright. 
+
+SYLVIA: But like it’s— it’s severely like, cracked down upon.
+
+AUSTIN: Yeah. Yeah. I can get with that. Do we wanna do an actual scene there or is that— that answer enough for us?
+
+SYLVIA: [overlapping, completely inaudible]
+
+AUSTIN: Yeah. Okay. That works for me. And then let’s talk about— let’s talk about the Rapid Evening a little bit more here. They are now the Rapid Evening, which we already knew, and also I’ve just straight up said that Fairchild Research and Development is a front. And part of the reason I wanted to do that was, it— it also continues to complicate the Rapid Evening a little bit. One of the things that we know Fairchild did was to do experiments of the people of Kalliope. The sort of experiments that are not... nice. They— they did the kind of genetic splicing that ended up creating some of the people in the Odamas Fleet, they were directly— they were directly responsible for the creation of Jacq and Jill, which— which is you know, maybe on— on the front of it, we talked about this during the holiday special a little bit, talking about Jacq and Jill as being like, immortal mercenaries is— is kind of like ‘Oh wow, that’s really cool, like, you can just live forever,’ but like, that wasn’t a thing that Jacq and Jill wanted.
+
+SYLVIA: Mhmm.
+
+AUSTIN: You know, they were like street rats on Kalliope who were— who were picked up and turned into these kind of post-human, you know, assassins. And that’s not— that’s not necessarily chill. So they are very much like, pushing at the borders of technology, with the goal in mind of— not of erasing technology, but figuring out the best way to push us past our current state of humanity. You know in the— in the past we’ve kind of talked about them in terms of the Men in Black, of being like ‘Oh, we wanna make sure that this weird alien tech doesn’t get out there,’ but the other side of that is like ‘But we do want that weird alien tech because we’re clearly being held back by our human forms and we need to figure out what the safest and smartest way forward is.’ 
+
+So for me and my question for them, is… is— there’s one more Rapid Evening person here on the map, they’re just not marked which is Natalya Greaves who is Ionias, who had previously been on— in the Kingdom right, had tried her best to make that go right. That didn’t really work out.
+
+DRE: Well—
+
+AUSTIN: And is now stuck on Ionias. And so my question is, what happens with— with Natalya Greaves? And, maybe— maybe it’s time to try to talk about what Rigour is? 
+
+DRE: Yeah… 
+
+AUSTIN: Full disclosure, we talked about Rigour in an episode a while ago where we finally talked out what Rigour was, but it ended up being a bit more— a bit too lore dumpy for me, too much of just ‘here’s the answer’. And I— I ended up having Ali, who’s producing the show right now, cut it because it was just like, too like, ‘Oh, here’s a ten minute text scrawl about what Rigour is—’
+
+[DRE laughing]
+
+AUSTIN: Which is also— I’d kind of decided I didn’t want Natalya to just have it as clear as day like that. But… I wouldn’t mind giving another go at that, and— and also answering… this other question which is: does Natalya stay on Ionias and continue to get — information on Rigour, or does she escape and continue to protect her life?
+
+SYLVIA: There’s a complication from the holiday game.
+
+DRE: Yeah… 
+
+AUSTIN: Sure.
+
+SYLVIA: Rigour knows she’s Rapid Evening.
+
+AUSTIN: Mhmm!
+
+DRE: I was gonna bring that up too.
+
+AUSTIN: I’d forgotten about that! ‘Cause Rigour was connected to that.
+
+SYLVIA: Yeah.
+
+AUSTIN: That’s a good point.
+
+SYLVIA: Rigour was her in that.
+
+AUSTIN: Right!
+
+DRE: Yeah.
+
+SYLVIA: Rigour was playing through her consciousness.
+
+AUSTIN: Yes. So do you think that this is like— I’d completely— I’d literally— there was so much to juggle in that holiday—
+
+SYLVIA: Yeah, no I know.
+
+AUSTIN: —game that I’d completely forgotten that. [sigh]
+
+DRE: [simultaneously with AUSTIN] I— She doesn’t make it off Ionias. I don’t—
+
+AUSTIN: [simultaneously with DRE] What’s Rigour do with that? You don’t think she does?
+
+DRE: I don’t— Is she alive?
+
+AUSTIN: Do you think she sends a message?
+
+SYLVIA: I think she sends—
+
+AUSTIN: [overlapping SYLVIA] One last—
+
+SYLVIA: —a message, and…
+
+AUSTIN: What’s it look like for her to be tracked down? Like—
+
+SYLVIA: I really liked Natalya…
+
+AUSTIN: Me too.
+
+DRE: I do too but I— I don’t think it can end well for her.
+
+SYLVIA: No, it doesn’t.
+
+AUSTIN: That’s what I’m asking like, I guess I’m giving you the option here. You can let her live but it means not getting info on Rigour.
+
+DRE: [strained, with an air of realisation] Oh, no no no!
+
+SYLVIA: I think—
+
+DRE: I think Rigour brainwashes her—
+
+SYLVIA: Yeah, I was gonna say.
+
+DRE: —and she becomes the new Candidate.
+
+AUSTIN: [whispering] Oh, no. Oh, that’s so good!
+
+SYLVIA: Yeah.
+
+[DRE laughing slightly]
+
+AUSTIN: The like— like, Rigour really— like, Rigour literally works Omen, who’d been the previous Candidate, until death.
+
+SYLVIA: Mhmm.
+
+DRE: Yep.
+
+AUSTIN: Like, just, was not— remember, it was just some rando who’d fallen in there, was a kid, and now seeing what— Rigour seeing what Natalya is and what what her connections are, is like ‘no,’ like, ‘you are valuable to me’.
+
+DRE: Mhmm.
+
+AUSTIN: And like— I just— like, shots of her being tracked by Rigour’s group, by like, Rigour’s like, most brainwashed people who are like— who are like, following her through the hallways of Snowtrak. Like, really stark white and chrome hallways, like she’s ducking and hiding and like, trying to get messages off to the Rapid Evening, like one last shot. Or maybe to another character, do you think she sends a letter—
+
+SYLVIA: I think it would go to— I think Kira?
+
+AUSTIN: Yeah.
+
+SYLVIA: Maybe.
+
+AUSTIN: Do you— Okay. Let me propose—
+
+SYLVIA: I don’t know why like— Kira was just the one that jumped to mind immediately, or maybe—
+
+AUSTIN: Let me propose something.
+
+SYLVIA: Okay, go ahead.
+
+AUSTIN: What if she sends a c— what if she sends a letter to Ibex. What if this is like… ‘this is—
+
+DRE: ‘This is so bad that I would reach out to you.’
+
+AUSTIN: Yes.
+
+SYLVIA: Yeah.
+
+AUSTIN: Like— and the Rapid Evening’s fucked, right?
+
+SYLVIA: Yeah.
+
+AUSTIN: Like, she’s— I think she might be worried that at this point, the Rapid Evening — now that’s she’s compromised, the Rapid Evening is not going to do this ‘cause she knows about the Rapid Evening. Right? But Rigour doesn’t have a fucking clue about— I guess Rigour saw Ibex in that thing, but like— but Ibex— or— they don’t know.
+
+SYLVIA: Yeah.
+
+AUSTIN: Like, they weren’t in the presence— And so maybe it’s like a— like, last ditch— like, sends out a note to— to Rapid Evening, sends out— maybe it’s to everybody who was in that game
+
+DRE: Yeah.
+
+SYLVIA: [overlapping] And like—
+
+AUSTIN: [overlapping] Like, maybe it’s literally…
+
+ANSDI: I really think it’s just like— just the word Rigour. Is all-
+
+AUSTIN: [overlapping] That’s pretty good.
+
+SYLVIA: — she could like, get out.
+
+AUSTIN: Yes.
+
+DRE: Yeah. Um… 
+
+AUSTIN: Yes.
+
+DRE: I mean—
+
+AUSTIN: I actually like that a lot.
+
+SYLVIA: [overlapping slightly] Yeah.
+
+DRE: I think so. And I think— I’m— I’m thinking it’s her acting as a Candidate. I almost have this idea of, like… there’s like— she’s like a split consciousness, almost Manchurian Candidate-esque thing —
+
+AUSTIN: Mm..
+
+DRE: — where maybe she doesn’t even know —
+
+AUSTIN: Okay.
+
+DRE: — that she’s been compromised, so that Rigour knows— he’s* controlled her in such a way that she almost has like a split consciousness within her?
+
+AUSTIN: [overlapping] So that she continues to operate as a Rapid Evening operative.
+
+DRE: Yeah.
+
+AUSTIN: In a way that puts her work like— that’s— that way it knows exactly what she sends back about what it is.
+
+SYLVIA: [overlapping AUSTIN] Yeah.
+
+DRE: [overlapping AUSTIN] And there’s like a control word —
+
+[AUSTIN laughing slightly]
+
+DRE: — or like phrase, or like —
+
+SYLVIA: [overlapping] I think it’s just— [inaudible overlap] long distance —
+
+DRE: — musical note or something, or like, or it’s just, you know something that— I mean we’ve said Rigour calls out through the ice before he* was found —
+
+AUSTIN: Yeah.
+
+DRE: — So it’s some sort of, frequency that he* can communicate with her on, where he* sends it out and like, it’s just like a switch.
+
+AUSTIN: Mhmm.
+
+DRE: And she becomes the Candidate. Whenever he’s* ready for her to.
+
+AUSTIN: Right, I like that a lot.
+
+DRE: Because if he* lets her continue to operate, he’s now gathering Rapid Evening information.
+
+AUSTIN: This is now the worst scenario, which is, yeah she lives, she can escape, she can leave Ionias whenever she wants and then like— but— it turns out—
+
+DRE: And he* can pull her back whenever he* wants.
+
+AUSTIN: Yes, and be in her mind whenever he* wants. 
+
+DRE: Mhm.
+
+AUSTIN: Or it— I— I like Rigour as an it.
+
+SYLVIA: Yeah.
+
+AUSTIN: I really like Rigour as like—
+
+SYLVIA: [overlapping] It’s not— it’s not got any… personality or—
+
+AUSTIN: Yeah.
+
+DRE: Yeah it’s a— it’s a—
+
+SYLVIA: Really,
+
+SYLVIA: It’s just like a singular purpose.
+
+AUSTIN: Yeah, yes. And I— I—, again, if it sounds like we know what this thing is, it’s ‘cause we do—
+
+SYLVIA: Yeah.
+
+AUSTIN: — and haven’t talked about it but— maybe we should give… A little something here? What do you guys think?
+
+[SYLVIA makes a non-committal noise]
+
+DRE: Yeah.
+
+AUSTIN: Do you wanna keep it— keep it— okay.
+
+DRE: I think we— a little something.
+
+SYLVIA: A little.
+
+AUSTIN: We— let— maybe this is part of what—
+
+SYLVIA: [quietly] Give ‘em a taste….
+
+AUSTIN: — what Natalya sends back, which is… is, she sends the word ‘Rigour’ to everybody but to the Rapid Evening, ‘Oh and then this part of it is—’ This is actually really great. She doesn’t just send the word ‘Rigour’, she sends an entire file to each of these people —
+
+SYLVIA: Okay.
+
+AUSTIN: Right? And the camera shot of it is just like, all of the other words being deleted from this thing. Like, being redacted by Rigour as it’s going through the server bank and it’s just the word Rigour over and over again, it’s like ‘Yeah. Let them know. Let them know I’m coming.’ But we u— like, you know, the super fans who pause the show and go online later and like, do like, the frame analysis —
+
+SYLVIA: Yeah.
+
+AUSTIN: — are able to see that part of the message is about, uh, about Rigour being… Being one— being a thing that was designed in OriCon to ou— like, hundreds of thousands of years ago, that was meant to encourage workers to perform at the highest degree of efficiency. And it was like, it was like the prototype for a new type of equipment that would help one corporation outperform other corporations. And like, that’s one thing you’re able to pull from one of the— a single frame before it gets redacted. [pause] Oh Natalya… Oh, everybody in this fucking game.
+
+DRE: [overlap] Yeah. [starts laughing]
+
+AUSTIN: [pained noise] Let’s talk about… OriCon, the OriCon Expeditionary Group is really interesting because we have had— I don’t think we’ve had a single scene with OriCon, have we?
+
+SYLVIA: [overlap] Yeah… No, we haven’t.
+
+DRE: No, not really.
+
+AUSTIN: And part of that is, I think, part of the way we’ve characterised their group. Which is, you know, the Diaspora is ostensibly a democracy organised around a number of— of almost like, these giant robot senators right? Each of which direct things. And OriCon is not organised in that way, it’s a loose conglomerate of megacorporations that are ostensibly in this one sector organized around the Ori— the— the OriCon Expeditionary Group, but because they are fractured, we— we’ve always talked about them as being fractured, right. Like we’ve talked about what Snowtrak is up to, we’ve talked about what the September Institute is up to, we’ve talked about what the Horizon— what Horizon Tactical is up to. We’ve never talked about what the— the theoretical hands on the reins are up to. And I— I kind of want to develop a character too, for them, and get a feel of whether or not they have their hands on the reins? Are they— are they— my kinda, my question here is, are they aware that things are slipping out of control for them? Or are they unaware and like, and that’s that for them.
+
+DRE: I think part of how or where they are is, how we desc— how we figure out that the kind of Rigour takeover of Joypark worked, like—
+
+AUSTIN: Okay, do you wanna jump over there then? Let’s jump over there and do that first, that’s a good point.
+
+DRE: Yeah.
+
+AUSTIN: I like that a lot. And that is part of my question with Rigour is— is definitely— I have two questions for them. One is, how did that takeover— what’s that takeover look like, and two is, Earthhome releases a new blockbuster film, just in time for the ten year anniversary of the war and it’s about the war. That’s like about the— it’s literally about like, the contents of the game that we just played, what’s that film look like?
+
+SYLVIA: I mean if—
+
+AUSTIN: Like, who’s the hero in Rigour’s version of that film?
+
+SYLVIA: Oh man… 
+
+AUSTIN: Or is there even a hero.
+
+SYLVIA: [slight overlap] I was gonna say like, what if it just accentuated how disorganized and poorly optimized the way that everything worked on…
+
+AUSTIN: Right. Like, this is Oscar bait.
+
+SYLVIA: Yeah.
+
+AUSTIN: This isn’t a Hollywood block— This isn’t a— this isn’t a Michael Bay film.
+
+DRE: Yeah.
+
+AUSTIN: This isn’t like a ‘and then the hero saved the day,’ this is like— or it’s like Tinker Tailor Soldier Spy.
+
+SYLVIA: Yeah.
+
+AUSTIN: It’s like— it’s just the bureaucracy and backstabbing and like the slow mundanity of— of what state— statesmanship —
+
+[SYLVIA makes a pained noise]
+
+AUSTIN: — is like in— in war? So yeah, so do you think it just undercuts and sells the inst— or undercuts the stability, and really sells the world as being this kind of— it’s a very cynical film?
+
+SYLVIA: Yeah.
+
+AUSTIN: That comes out of— that comes out of Earthhome? Like, does Earthhome have like a special like, Fox Searchlight-style sub…
+
+[DRE laughing]
+
+SYLVIA: I think this is like… 
+
+AUSTIN: [completely overlapping SYLVIA] They launch a new subdivision?
+
+SYLVIA: [overlap] I think like they do, but this is still very surprising for Earthhome.
+
+AUSTIN: [overlap] Okay.
+
+SYLVIA: Because they’ve never put out anything that could be considered unpatriotic.
+
+AUSTIN: Right, this bleak?
+
+SYLVIA: Yeah.
+
+AUSTIN: Mmm. And people love it right, like, just ‘cause it’s Earthhome.
+
+SYLVIA: Yeah.
+
+AUSTIN: They know what they’re doing, they— they have the craft and with Rigour there too like, just working animators until they fuckin’ die, you know.
+
+SYLVIA: [fake cheerfully] Oh, the anime industry! Yeah!
+
+AUSTIN: Yeah, it’s the anime industry, right. Anime’s huge in OriCon, shoul— sorry I should’ve been clear, it’s all anime.
+
+SYLVIA: Yeah.
+
+[DRE laughing]
+
+SYLVIA: I mean, I was listening to the— the episode, there was a part where Orth just started watching anime.
+
+AUSTIN: Right. [whispering] Who do you think made that anime? It’s true, it’s Earthhome, ugh, god...
+
+DRE: ‘Just like one of my OriCon animes!’
+
+AUSTIN: [laughing slightly] Exactly! [groan] Poor Orth… Poor everything.
+
+[DRE laughing]
+
+AUSTIN: God, I— [resigned sigh] Is Orth— is Orth Otacon?
+
+DRE: …Yes.
+
+SYLVIA: [overlapping slightly] Orth might be Otacon— no because— 
+
+DRE: I think Orth is Otacon. [breaks into hysterical laughter]
+
+AUSTIN: Oh no...
+
+SYLVIA: When Orth started, he was fuckin’ Jack Crawford. 
+
+[slight pause while DRE continues to die of laughter in the background]
+
+AUSTIN: Yeah.
+
+SYLVIA: And now he’s Otacon, we need to find a—
+
+AUSTIN: Well, now he’s Jack Crawford again.
+
+SYLVIA: Yeah.
+
+AUSTIN: That’s the thing right, like, that was ‘From Otacon to Jack Crawford: the Orth Godlove Story’ like that’s—
+
+SYLVIA: Yeah.
+
+[DRE starts laughing hysterically again, only to go quiet very suddenly, followed by the sound of something (possibly metallic) hitting something else a little bit away from the mic]
+
+AUSTIN: Oh boy.
+
+SYLVIA: Orth is my favourite. [laughing a little]
+
+DRE: Fuck! [starts laughing again]
+
+AUSTIN: Me too, I’m really excited to get back to Orth in the ground game because like, times done change, it might be time for Orth to suit up again.
+
+SYLVIA: [quietly] Oh, fuck yeah.
+
+AUSTIN: I’m really excited. And so yeah, what does the over— is this like, an overnight thing, is this like— does anyone even notice that this happened?
+
+DRE: [slight overlap] I don’t think so.
+
+AUSTIN: ‘Cause like, they’d had that relationship with— with— between… Snowtrak and Earthhome, already because of the connections with the—
+
+SYLVIA: [quietly, inaudible overlap] — and Oren.
+
+AUSTIN: You know the— their amusement park stuff, and then their— Yeah.
+
+DRE: I— I think the only way that— that they’d notice something is up with Snowtrak if— is if something goes wrong like, at the Snowtrak office on Counterweight, like if they stop getting the orders they’re supposed to get, or they’re not getting like the suits they’re supposed to get or whatever —
+
+AUSTIN: Mm.
+
+DRE: Because Rigour is— either building something else, or hoarding resources where he* is, but I al— I feel like that is too sloppy for Rigour.
+
+AUSTIN: Yeah Rigour would never… Yeah.
+
+DRE: Yeah so I think the only thing people notice is like, ‘Woah Earthhome and— and Snowtrak are— are suddenly like, they’re making more money than they used to?’
+
+SYLVIA: I was gonna say...
+
+AUSTIN: Oh, okay sure.
+
+DRE: And then either they merge, or they’re making more money, and there’s like an economic uptake but it’s just like,... 
+
+AUSTIN: No one notices they’re the same thing.
+
+DRE: Yeah.
+
+SYLVIA: [slight overlap] With the suits they’re outputting to people—
+
+AUSTIN: Yeah.
+
+SYLVIA: There is a security exploit in the AI that Rigour could take control of. …Yeah
+
+DRE: Oh, absolutely.
+
+AUSTIN: Oh, yeah, sure, of course, of course, yeah, definitely.
+
+DRE: Or I mean, we talked about, you know, Rigour in Joypark when we talked about… the kind of— the way that we justified them building that base of influence on Joypark was that —
+
+AUSTIN: Mhmm.
+
+DRE: Rigour was getting some of his* like, influence through like, the ads that you would watch—
+
+AUSTIN: Right.
+
+DRE: — like, while you were in line for a ride.
+
+AUSTIN: Right.
+
+DRE: So maybe those suits have like, some sort of bootup sequence that has Rigour’s… you know…
+
+AUSTIN: Like the— whatever the— the— it’s like a —
+
+DRE: The thing that Rigour does.
+
+AUSTIN: Yeah, it’s like a minor version of the thing that Natalya hears?
+
+DRE: Yes.
+
+AUSTIN: That switches her on, it’s the same like— whatever that tone is or whatever that sequence of —
+
+DRE: Yeah.
+
+AUSTIN: — Whatever it was, yeah totally.
+
+DRE: The more that you— you know, you work in your Snowtrak rig to— to—
+
+AUSTIN: Right.
+
+DRE: — build that new length of the Starlight Straight, the more, just like, ‘Oh, maybe I can work an extra thirty minutes a day —
+
+AUSTIN: Right.
+
+DRE: — or maybe I’ll work an extra hour next week.’
+
+AUSTIN: And that same sort of messaging is in all of Earthhome’s stuff from now on.
+
+DRE: Yeah.
+
+AUSTIN: Like that’s the thing right, like it’s not only about working over people who literally work with and for Snowtrak— with Snowtrak stuff, and with Snowtrak and for the company. But yeah, like you go home and watch your favourite Earthhome show, you listen to the— to the new Aria Joie single and there’s something in there like, you know, the thing that comes to mind is the— the thing from the second or third season of the newest Doctor Who.
+
+SYLVIA: [quickly] Yeah yeah yeah.
+
+AUSTIN: Not the newest but, you know, the one that’s been running for the last decade—
+
+SYLVIA: Yeah.
+
+AUSTIN: — of the Master’s ‘tap-tap-tap-tap’, that thing of just like—
+
+SYLVIA: Mmm.
+
+AUSTIN: ‘Oh, this is slowly—’ Also this is— this is— I’m also just talking about Adorno and Horkheimer’s culture industries and Althusser’s ideological state apparati, of just like, it’s producing— what Rigour wants to do is produce people in such a way that when it’s time for Rigour’s takeover they— they do not even resist. They’re like, ‘Oh yeah, it’s just— we’ll just make this work better and we’ve already been convinced that we need to work better and harder,’ and so like, it’s not even a problem. I like that a lot. We’ll figure out what that specific thing is, we’ll think about it over the next couple of weeks, like is it— is it a little melody that plays, is it a collection of tropes that are suddenly in everything, is it is it a phrase —
+
+SYLVIA: [overlapping slightly] God… What if it’s the new Ar— it, like— it’s the new Aria Joie song.
+
+AUSTIN: Oh, it definitely is the new— that’s part of it for sure —
+
+DRE: [overlap] Oh yeah.
+
+SYLVIA [overlap] Yeah… yeah.
+
+AUSTIN: It’s in that song for sure, one hundred percent.
+
+SYLVIA: What if it’s just that song though.
+
+AUSTIN: Oh, like— like, Aria Joie has a new…
+
+SYLVIA: Has a new hit.
+
+AUSTIN: Not just a new hit but like a deal with Snowtrak? 
+
+SYLVIA: Yeah.
+
+AUSTIN: Where it’s literally like, the new Windows bootup sound is a little Aria Joie vocaloid-style, like—
+
+SYLVIA: Yeah.
+
+AUSTIN: Like a five second hit— hit of the hook of the new song.
+
+SYLVIA: Yeah, exactly, and that’s the— 
+
+AUSTIN: That’s so good. That’s so good.
+
+SYLVIA: Yeah.
+
+AUSTIN: I love it so much. And like, her voice is now the operating system voice of all Snowtrak’s stuff.
+
+SYLVIA: Oh, that’s perfect.
+
+AUSTIN: Oh, it’s so good!
+
+[DRE laughing]
+
+AUSTIN: Sorry Ali! Shouldn’t have signed those documents.
+
+SYLVIA: Yeah.
+
+AUSTIN: Alright. I love that.
+
+SYLVIA: Always read the fine print!
+
+AUSTIN: [amused, with emphasis] Always read the fine print!!
+
+DRE: Keith, don’t do the OS update on those robots you own.
+
+[AUSTIN laughing]
+
+DRE: Don’t do it.
+
+SYLVIA: Oh my god!
+
+AUSTIN: I’d forgotten he owns all those robots!
+
+[DRE laughing]
+
+AUSTIN: Okay.
+
+SYLVIA: Those are Snowtrak robots too, aren’t they?
+
+AUSTIN: Yeah.
+
+DRE: Yeah. Uh-huh!
+
+AUSTIN: They’re literally Snowtrak robots. [slight pause] Oh, Jorn… Jorn, I really— Jorn, I hope your— your keno Sn— your keno Starlight Straight casinos are really doing well because you don’t wanna work for Snowtrak anymore, Jorn. Alright... 
+
+[1.04.41]
+
+DRE: [simultaneously] I think Jorn got out.
+
+AUSTIN: [simultaneously] So now let’s talk—
+
+DRE: I think Jorn got out.
+
+AUSTIN: [doubtfully] You think Jorn got out, okay.
+
+DRE: We’ll save that one darling.
+
+AUSTIN: [amused] Okay, he’s our one darling— our one sweet boy. We won’t let them hurt him.
+
+[DRE and SYLVIA laughing]
+
+AUSTIN: Alright, next… Let’s now— let’s talk about— about what’s up with— with the OriCon Expeditionary Group, again, a group we have no characters for, literally at all. So I’ve always imagined that group as being like a sort of… It’s like an oversight committee for the rest of the companies, you know, there are hundreds and hundreds of companies that we don’t— that we never talk about.
+
+SYLVIA: Yeah.
+
+AUSTIN: There are these megacorporations that are— some of which are subsidiaries of other megacorporations, and the OriCon Expeditionary Group is… sort of a self-policing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 regulatory body for those groups, right? That like, makes sure that… Y’know… In an oligarchy— you know, there is a lot of lax regulation, let’s say? But it— it does its best to keep things on the up and up that has been decided is the up and up? You know, make sure that things don’t shake too much and that the— the kind of favoured sons of OriCon continue to be supported and to protect their interests. 
+
+But we’ve never really talked about them as having— and it was part of that they’re rewarded by having lots and lots of their own, y’know, resources, right? Like they’re— they have a tax rate, so to speak, like you have to pay to be part of that group and to get their protection. So they do have resources but I— until now it’s like, it seemed like they’ve been in a really firm position? And that now seems less and less the case. Y’know? Because they have a lot of space where I’m looking at this map? Like they control more space than anyone else. But like, they don’t have much in the world— in the m— in the manner of worlds, right, like they have Minerva, they have Archonic, which is their home base, they— September is inside of their space. They have Kalliope and they think they have Joypark and Ionias. And they think they have Kaffe. And they think they have Tetrakal and Vyshe but they don’t. So, do you think they know or not and— and who do we want to give to this— to this group, like, what characters do we have in mind for— for this scene?
+
+SYLVIA: Is there— would there be like a head of a committee —
+
+AUSTIN: Sure.
+
+SYLVIA: Like a [inaudible overlap] like, the face of like— the president, basically, of OriCon, or —
+
+AUSTIN: Ooh, wait, one sec. I like this, we’re doing name generation off to the side, I like that I got in a single generation, I got Crystal and— and— oops, sorry. I got Crystal and Colleen Steiger.
+
+DRE: Ooh.
+
+AUSTIN: In the same one. I like them as like, sisters —
+
+DRE: Mhmm.
+
+SYLVIA: [overlapping, completely inaudible]
+
+AUSTIN: — who’re— who’re like, twin sisters —
+
+SYLVIA: Yeah.
+
+AUSTIN: —are definitely in this. [pause] It’s really weird using the same name generator— using the same name generator for all these characters, ‘cause sometimes a last name shows up again? Like I just got— a Greaves just showed up? Like, oh, no, we can’t have another Greaves we can’t have… Ooh, I like this though, I like—
+
+DRE: I would really like the Steiger twin sisters as the head of Minerva and Mining…
+
+
+
+
+
+
+
+
+
+
+
+AUSTIN: Oh, that’s really cool, I like that a lot. Okay so, Minerva Mining is like, I’ve always— they’re literally called Minerving— Minerva Mining and Mechanics, I think, and they’re very much like a 3M analogue of just like, oh yeah, they have their hands in everything. And are a huge, huge, huge company, they make all of the stuff that people just buy, right, like lots of consumer goods are from Minerva, or from some Minerva subsidiary right? There’s a reason why— the reason the name of that planet is Minerva XII, because elsewhere in the galaxy there are eleven other planets just named Minerva. Minerva don’t give a fuck. So, they are not precious. But I like the— maybe like they’re the twin sisters who are running Minerva XII and like, they report back to like, the Steiger dynasty that is elsewhere in the giant galaxy.
+
+SYLVIA: Yeah.
+
+DRE: Mm.
+
+AUSTIN: You know, the rest of OriCon. But they’re in complete control here. Who is— Who is— so then who is representing, the OriCon Expeditionary Group itself, who is like their— who’s either in charge of it, or is gonna be in this scene?
+
+[pause]
+
+AUSTIN: Let me read these other names that are all really good. Quinton Rackham, Phoebe Volante, Trenton Blackford—
+
+SYLVIA: I like Trenton Blackford a lot actually.
+
+AUSTIN: Me too.
+
+SYLVIA: It’s real bougie.
+
+[DRE laughs]
+
+AUSTIN: It’s real bougie. Yeah, let’s do Trenton Blackford.
+
+SYLVIA: Yeah.
+
+DRE: Yeah, I like that.
+
+AUSTIN: Plus the twins. Does one person wanna play the twins, or do two people wanna play the twins?
+
+SYLVIA: I feel like the twins should be autonomous and different enough.
+
+AUSTIN: Okay, okay. I wasn’t sure.
+
+SYLVIA: [overlapping a little] Like it’s Minerva Mining and Mechanics, one of them’s mining and one of them’s mechanics.
+
+AUSTIN: [amused] And one of them’s mechanics? Okay. Love it, good.
+
+SYLVIA: Yeah.
+
+[DRE laughs]
+
+AUSTIN: So let’s- let’s- let’s have this scene basically being… Trenton Blackford who is the- maybe he’s like- he’s like... [pause] There’s a better word than VP, or like... I want like a —
+
+SYLVIA: CTO?
+
+AUSTIN: Like something… No…
+
+DRE: CFO?
+
+AUSTIN: N- [sighs] No, I want it to be smaller than VP.
+
+SYLVIA: Yeah.
+
+AUSTIN: But also still way bigger than it should be, do you know what I mean? Like, the way OriCon is set up, there are a thousand VPs of any given company, and there’s like a step just below VP —
+
+DRE: Mhm.
+
+SYLVIA: Oh...
+
+AUSTIN: But like, if you’re not in the- in the group it’s still, that person is basically a billionaire and you’re not, y’know?
+
+DRE: Hold on, let me… uh, Chief Strategy Officer.
+
+AUSTIN: Ooh, I like that, yeah okay. So- so like, Chief Strategy Officer of —
+
+DRE: Shout out to the Cleveland Browns for that info.
+
+AUSTIN: [overlapping] Nice, good.
+
+SYLVIA: Jesus.
+
+[DRE laughs]
+
+AUSTIN: It’s the first time anyone has shouted them out in a long time.
+
+DRE: Yeah!
+
+AUSTIN: My dad’s a big Cleveland Browns fan, it’s very strange.
+
+DRE: Aw.
+
+AUSTIN: He’s from Jersey, he’s never been to Cleveland, it’s very strange. Uh… yeah. Chief Strategy Officer for like, corporate relations. Right? And then- and I think because Minerva is the biggest corporation that’s still cl— Oh, you know what this is? I love this, this is like, stock- like a a stockholders meeting, right. Like okay, Trenton Blackford has spent a lot of time getting- getting like this conference room ready, has a big presentation about like, how things are going with OriCon Expeditionary Group, how like- ‘here’s what our military assets look like, here’s what all, you know, what our overall income looks like,’ and calls the meeting for all of the heads of the six or seven biggest corps to show up? And it’s supposed to be like okay, phew, okay, like I’m expecting the- the- the Steiger twins to show up, I’m expecting the head of Horizon Tactical Solutions to show up, I’m expecting, you know—
+
+[DRE laughs]
+
+SYLVIA: Heh.
+
+AUSTIN: Oren Mirova.. Actually probably Lena Shostkova from- from Snowtrak to show up, and like, no one shows up. It’s just a conference room where it’s Trenton Blackford and the Steigers. And like, Trenton is like, very pulling at the- at the collar of his shirt and is just like:
+
+AUSTIN (as Trenton): Everyone’s been very delayed, I’m so sorry, Colleen, I’m so sorry, Crystal, I- Misses Steiger… Miss Steiger? [Hesitates] Everything’s—
+
+SYLVIA: One of them’s a Miss, one of them’s a Mrs.
+
+AUSTIN: Okay. [laughs a little] They both kept their name though, right, like they’re still both Steiger.
+
+SYLVIA: [overlap] Yeah, no, they both kept their name but one of them’s married, one of them isn’t.
+
+AUSTIN: Yeah, good. 
+AUSTIN (as Trenton): It is, it is so good that you were able to make it to Archonic, I know things are very busy in Minerva. I’m not- I’m not sure Miss Shostkova is uh— the— we- we did receive word from- from- from, uh, a representative of Earthhome, they’re not able to make it with, you know, the- the— things are very busy for them this time of- this tense time of the year, it’s very busy, I hope you understand.
+
+SYLVIA: Okay, so Dre, which one do you wanna be?
+
+[AUSTIN laughs]
+
+SYLVIA: We never sorted that out.
+gs are very busy for them this time of- this tense time of the year, it’s very busy, I hope you understand.
+
+SYLVIA: Okay, so Dre, which one do you wanna be?
+
+[AUSTIN laughs]
+DRE: Yeah… 
+
+AUSTIN: No, we didn’t.
+
+DRE: So we have Crystal and Colleen.
+
+SYLVIA: Yeah… 
+
+DRE: Um...
+
+SYLVIA: I won’t— [inaudible]
+
+AUSTIN: [overlapping] Crystal has to be mining.
+
+DRE: Mining, yeah. [laughs]
+
+AUSTIN: Yes!
+
+SYLVIA: I was gonna say Crystal can’t be mining ‘cause that’s too much.
+
+AUSTIN: [faux outraged] No, no! Anime! It’s anime, goddamn it!
+
+SYLVIA: [overlapping a little] Anime, yeah.
+
+DRE: Crystal has to be mining, sorry. [laughs] And Colleen is—
+
+SYLVIA: Mechanics.
+
+AUSTIN: Uh, mechanics.
+
+DRE: Mechanics
+
+SYLVIA: Yeah.
+
+AUSTIN: Yeah. I think that’s what we decided, I think that’s what the m’s are.
+
+SYLVIA: It’s Minerva Mining and Mechanics, yeah.
+
+DRE: Yeah.
+
+AUSTIN: Yeah, yeah. [pause] Oh, reminder, Minerva’s also the biggest Rigger manufacturer. 
+
+SYLVIA: Yeah.
+
+DRE: Yeah.
+
+AUSTIN: Like, they make the Rook, which is the Zaku of this setting. So.
+
+DRE: I’m gonna say I’ll be Ccolleen, I feel like she’s probably the more… nice one.
+
+SYLVIA: Yeah.
+
+AUSTIN: Okay.
+
+DRE: I reckon she’s... she’s probably like— she even knows —
+
+SYLVIA: [overlapping a little] You guys are typecasting me!
+
+DRE: Well-
+
+AUSTIN: [deliberate laughter] Hahaha.
+
+DRE: You’re good at being mean and I’m not.
+
+SYLVIA: Yeah…
+
+DRE: I’ve imagined she’s like, she’s probably somewhat similar to Natalya in that she has like, a really fancy title but her favourite part is just like, going down and like working on —
+
+AUSTIN: Mm!
+
+DRE: — Rooks. That’s- that’s her thing
+
+AUSTIN: Right.
+
+SYLVIA: [overlapping] Man, what if she designed the Rook?
+
+DRE: Oh, yeah.
+
+AUSTIN: Totally.
+
+DRE: I like that.
+
+AUSTIN: Love it.
+
+DRE: Maybe she did it at a young age. She was like a- like a mechanical progidy. Progidy?
+
+SYLVIA: Prodigy.
+
+AUSTIN: Progidy!
+
+DRE: Prodigy. There we go.
+
+AUSTIN: Prodigy. Yeah!
+
+[SYLVIA laughing]
+
+AUSTIN: Words!
+
+DRE: She’s a mechanical bad internet company. [laughs]
+
+AUSTIN: [laughs] Aww.
+
+SYLVIA: Minerva’s probably got some real shitty internet servers that they’ve provided.
+
+AUSTIN: Oh, definitely. They’ve probably really good internet, but not for people, not for regular people.
+
+SYLVIA: Oh no.
+
+DRE: Yeah.
+
+AUSTIN: But they definitely like, brag about it.
+
+SYLVIA: Yeah.
+
+AUSTIN: Like, you know, ‘with our new universal- with our universal mesh, everyone around the entire Golden Branch can always connect,’ and like, yeah, but it’s garbage and it’s filled with spyware and it’s just like ‘ugh’. So yeah, I think- I think Trenton is just very like- in a very... like trying to calm everyone down mode? I don’t think Trenton understands what’s happened yet, so maybe- but maybe the Steiger siblings have.
+
+SYLVIA: I mean… Yeah, they’ve kind of, I think… They’ve kind of figured out that like, they’re not coming. Crystal is enjoying the complimentary snacks that —
+
+AUSTIN: Good.
+
+SYLVIA: — Trenton brought, she’s just popping like, gummi bears in her mouth and like, looking at her phone and making sure that like ever- like, she’s just doing business while this —
+
+AUSTIN: Right.
+
+SYLVIA: — idiot is wasting her time.
+
+AUSTIN (as Trenton): You haven’t- you haven’t heard… have you heard from- from, uh, any of the other ...electees, is anyone else supposed to— do you know?
+
+SYLVIA (as Crystal): Lena never shows up to these things, so we can just scratch her off the list.
+
+SYLVIA: She doesn’t look up when she says that.
+
+AUSTIN: Yeah.
+
+AUSTIN (as Trenton): Right, but normally she sends- she sends, uh, someone, she sends- she sends a note, she sends something. I haven’t heard from her at all, and- and I’m getting reports that Horizon is not- um, that after kind of a major loss Horizon might not be able to send anyone either, I… things are looking grim?
+
+SYLVIA (as Crystal): Colleen? You wanna comfort the man?
+
+DRE: I was trying to think of like— [starts laughing]
+
+[AUSTIN laughs a little]
+
+SYLVIA (as Crystal): ‘Cause I sure don’t.
+
+DRE: Uh… uhh…!
+
+DRE (as Colleen): It’ll- it’ll be fine. These things work themselves out.
+
+AUSTIN (as Trenton): I’m just concerned because… you know. If- if they come out as independents, then who’s going to protect them? You only get- you only get the- the defense that we can offer if- if you at least make a gesture towards being part of the group. And- and- and you know, with the things that we’re hearing are happening in Apostolos right now, with what’s happening on Sage, I… it’s my job to make sure that this group stays a group. That things don’t happen like they did in sector 22. Ever again. And I just need— [pause] You’re not gonna leave right?
+
+DRE (as Colleen): I don’t know, we’ve got the Rooks, I mean we don’t… We’d be- we’d be fine.
+
+SYLVIA: I think, Colleen kinda mentions like —
+
+SYLVIA (as Crystal): Yeah, but the business we do with —
+
+SYLVIA: This is the Ex- the Expeditionary Group?
+
+AUSTIN: Yeah.
+
+SYLVIA: Is like —
+
+SYLVIA (as Crystal): Yeah, but the Expeditionary Group is also one of our top buyers of our mechs, sister. You kinda… You can’t forget that.
+
+AUSTIN (as Trenton): Alright, what about this. If you two and Minerva take a more leadership role in the Expeditionary Group, once things get back in line, once we get Horizon and Snowtrak and the rest back in order… What if we negotiate a situation where you have stronger votes or- or- or less- less restrictive tariffs trading with those groups, then they do something. Something where if you can get them, if you can corral them for us then maybe you can… we can all advantage [sic]. Or all prosper. You know, I’m not technically allowed to to offer you a role in the strategic arm of the Expeditionary Group but we could bring you on as consultants, maybe?
+
+SYLVIA: Crystal has like, completely perked up and she’s got like, this cheshire grin on her face and she’s walked over to Trenton and she’s just shaking his hand, she’s like 
+
+SYLVIA (as Crystal): Sounds like a great idea to me! 
+
+AUSTIN (as Trenton): Good. 
+
+AUSTIN: I think we’re just gonna change the name of the group.
+
+SYLVIA: Yeah.
+
+AUSTIN: I think this is actually just like Minerva- like the Minerva Strategic, or something like that.
+
+DRE: Minerva Strategic Alliance?
+
+AUSTIN: Yeah. Gonna change it right on the map.
+
+DRE: Here’s an idea.
+
+AUSTIN: Mhm?
+
+DRE: Maybe as new consultants, Colleen and Crystal then go make trips to go check on Horizon Tactical and —
+
+AUSTIN: I love it.
+
+DRE: — Snowtrak!
+
+AUSTIN: Right. Yep.
+
+DRE: Just to say, ‘hey, why didn’t you make this meeting?’
+
+AUSTIN: Yep.
+
+SYLVIA: They s— they don’t go themselves, they send envoys, come on.
+
+AUSTIN: Yeah, I think that they’re too… or, maybe they- they go to Horizon?
+
+DRE: Yeah.
+
+AUSTIN: But don’t go to s— they send people to Snowtrak.
+
+SYLVIA: Oh man, Horizon’s gonna be a scene.
+
+AUSTIN: Well, let’s talk about Horizon.
+
+DRE: [laughing slightly] Yeah.
+
+SYLVIA: I have an idea for Horizon.
+
+AUSTIN: Right so- so on paper, Horizon has been folded into the Odamas Fleet.
+
+SYLVIA: Yeah. So the way we’ve been leaving Horizon— I- I- I was on like a hour long bus ride with a dead phone last night —
+
+AUSTIN: Uh-huh.
+
+SYLVIA: — so I thought about this a lot.
+
+[AUSTIN laughs a little]
+
+SYLVIA: The way we’ve been leaving Horizon, has been basically every time they encounter the Odamas Fleet —
+
+AUSTIN: Mhmm.
+
+SYLVIA: — And I feel like up until we started the campaign, this has… it was sort of like, an always 50/50 thing with them.
+
+AUSTIN: Yeah.
+
+SYLVIA: But now, they’re just consistently getting beaten —
+
+AUSTIN: Yeah.
+
+SYLVIA: — and I have this idea where um, they’ve been contacted by the Odamas Fleet to negotiate a ceasefire. 
+
+AUSTIN: Mhm.
+
+SYLVIA: And the like, term of the ceasefire is that the Odamas Fleet comes to them, they don’t go to Horizon, like they- Odamas sends a person.
+
+AUSTIN: Okay. Who do they send?
+
+SYLVIA: They send Diego.
+
+AUSTIN: Okay.
+
+SYLVIA: I’ve— my whole— I wanna try and fix what I’ve been doing with Diego.
+
+AUSTIN: [laughs a little] Okay.
+
+SYLVIA: ‘Cause I- I kinda let that character get away from me really bad.
+
+AUSTIN: Mhm.
+
+SYLVIA: My whole original concept for Diego was the face of the Odamas Fleet.
+
+AUSTIN: Right, right.
+
+SYLVIA: And he- he’s the businessman.
+
+AUSTIN: Mhm.
+
+SYLVIA: So, he’s on this military base, meeting with like, the leader of Horizon and like, second-in-command and he’s just got- like, he’s got a briefcase.
+
+[AUSTIN laughs]
+
+SYLVIA: And… Yeah, he’s just got a briefcase with him and like, there’s a robot that’s coming with him, but it’s like, it’s kinda beaten down but it’s just like- it’s just got like another- like it’s got another couple briefcases with it —
+
+AUSTIN: Mhm. Can I make a- make a proposition —
+
+SYLVIA: — Of stuff. Yeah.
+
+AUSTIN: — For what the offer is?
+
+SYLVIA: Sure.
+
+AUSTIN: So, one of the things we talked about during the… So just, this is what’s in the briefcase, it’s like an explanation of this new thing that the Odamas Fleet has. Reminder that the— in the holiday special we talked about how how Jillian Red...? [quietly] Jacqui Green...
+
+SYLVIA: Jacqui Green, Jillian Red [trails off, inaudible]
+
+AUSTIN: Right, okay. Jillian Red, the woman that AuDy threw out of the Kingdom Come, was regenerated inside of the Yersinia —
+
+SYLVIA: Mhm.
+
+AUSTIN: — With her memories lost. The memories of like, the last… couple of years of her life since the last time she was killed, right? 
+
+SYLVIA: Yeah.
+
+AUSTIN: Which is like really sad for Jacqui Green who had a bunch of really good memories with her that now, when they meet back up one day, they will not have those memories shared anymore. What if- what if to get Horizon Tactical Solutions to sign up, they have to like, agree to let them use that tech also. They’re like, ‘we’re gonna share this tech with you. You’re a mercenary unit —
+
+SYLVIA: Oh, yeah. That’s not bad.
+
+AUSTIN: [overlapping slightly] — and you’re gonna be our mercenary unit from now on.’
+
+SYLVIA: Oh, I— yeah, that’s one of the things they’re offering.
+
+AUSTIN: Yeah.
+
+SYLVIA: I just have this idea of Diego sitting down with these two guys and like, that’s in one of the briefcases, is like this tech —
+
+AUSTIN: Mhm.
+
+SYLVIA: — and he’s talking about like
+
+SYLVIA (as Diego): Yeah, so you’ll be able to still operate as an independent mercenary group, but we get forty percent of your profits, and if we call on you, you come. And in return— 
+
+SYLVIA: And then he opens the briefcase he has and there’s a screen on the top of it —
+
+AUSTIN: Mhm.
+
+SYLVIA: — and it’s- it’s just like a feed from like- just like, one of the ships and it’s like the entire fleet pointed at their- pointed right at their— the- the Horizon base —
+
+AUSTIN: Mhmm!
+
+SYLVIA: — And like, they’re starting to come into view when they look out the window, and then on the bottom is this like, digital like, contract thing that’s really just for show —
+
+AUSTIN: [whispering] Nice!
+
+SYLVIA: — Where it’s like, ‘do you agree to these terms?’ ‘Yes’ is one option and the other one is ‘no, please nuke our dumb asses’.
+
+[AUSTIN laughs]
+
+SYLVIA: Diego wrote it himself.
+
+AUSTIN: Okay, he’s very- very uh… 
+
+SYLVIA: And then in the other two briefcases are documents that have a bunch of these.. that have like partial- partial documents.
+
+AUSTIN: Mhm.
+
+SYLVIA: It’s not the full thing, they wouldn’t bring the full thing. Partial documents that have the tech about… like —
+
+AUSTIN: Like the —
+
+[1:23:33]
+
+SYLVIA: — like the regenerating (??) or some such.
+
+AUSTIN: [overlapping] Right. Right.
+
+SYLVIA: Yeah.
+
+AUSTIN: Yeah. I- I think that they definitely agree to that and like —
+
+SYLVIA: Yeah.
+
+AUSTIN: — That’s the thing with Horizon now, is like, they’re still not great at this actually. But when you have, y’know, the technology to continue— to recreate and imthen prove your soldiers you suddenly have a pretty big- a much bigger army than you thought you did.
+
+SYLVIA: Yeah like, it’s- it’s a solid deal for everyone.
+
+AUSTIN: Really, everyone involved. I will also note —
+
+SYLVIA: Most— Odamas come out better, but you know.
+
+AUSTIN: A thing that I will note is that there are still Horizon people on Ionias. So we’ll have to figure that out in the future but they’re not those— like, split off from this part of Horizon Tactical? And that’s kind of why Odamas is able to do this too, y’know.
+
+SYLVIA: We’ve said the Odamas Fleet is… They have to travel through Ionias. So… 
+
+AUSTIN: They sure do, and right now they’re at Vyshe, so.
+
+SYLVIA: That can come into play.
+
+AUSTIN: Yep. Alright. I like that a lot.
+
+SYLVIA: What’s left… 
+
+AUSTIN: What’s left?
+
+DRE: Righteousness?
+
+AUSTIN: Oh, Righteousness.
+
+SYLVIA: Righteousness— did we do the Rapid Evening, did we really touch on them?
+
+AUSTIN: No because I thought I had a different question— Yeah, we did, that was our Natalya scene.
+
+SYLVIA: Okay.
+
+AUSTIN: Was that. 
+
+SYLVIA: Okay.
+
+AUSTIN: I think the only thing left at this point is Righteousness.
+
+SYLVIA: Alright.
+
+AUSTIN: Which is, again, in command of, on the map: Vox, Wreathe, which is the planet where— what happened at Wreathe… 
+
+SYLVIA: Wreathe was the food planet, I believe.
+
+AUSTIN: Yes, Wreathe was the food planet.
+
+DRE and SYLVIA: [simultaneously] Yeah.
+
+AUSTIN: Coral, which is where they dropped off- where you dropped off refugees, right, or did you drop them off on Glimmer? You dropped them off on Glimmer.
+
+SYLVIA: I believe, yeah.
+
+AUSTIN: Yeah, you dropped them off where- that’s where you picked up Ibex. But Ibex also controls Coral and Glimmer. And also controls September. And I don’t know that we need much here, I don’t know that we need- I don’t know that we need too much here other than, you know, I think maybe it’s another call between Loyalty, Kobus and— What was the guy from September called… 
+
+SYLVIA: Twelfth?
+
+AUSTIN: Twelfth.
+
+SYLVIA: Twelfth.
+
+AUSTIN: Twelfth, yeah. Twelfth, who is the- the head of the September Institute or on- at least on paper.
+
+SYLVIA: He runs the day-to-day at the very least.
+
+AUSTIN: Yeah, he’s like the dean of the school.
+
+SYLVIA: Yeah.
+
+AUSTIN: Is what we kind of talked about him as. But I think —
+
+SYLVIA: [laughs a bit] He’s the Gendo.
+
+AUSTIN: Right. He is d- well. He- he thinks he’s the Gendo. This is the —
+
+SYLVIA: Well, no ‘cause doesn’t Gendo report to that group?
+
+AUSTIN: Oh, that’s true.
+
+SYLVIA: (??) Yeah.
+
+AUSTIN: That’s true. He’s the Gendo then.
+
+SYLVIA: Yeah.
+
+AUSTIN: The thing- the thing that we kind- the thing I kinda realised during our special holiday episode is that the September Institute has always been a ploy of Ibex. That, you know, Ibex’s whole plan had been at that point— or at least from what we could see in the special holiday episode, was about like, unifying the group and I think he sets up the September Institute as a way to develop technologies that can take out Divines. So that he— if- if worst comes to worst, and he has to turn against Grace, he can do that. And he can also outfit all of the like— that was kind of his plan, was to make sure that- that when OriCon developed that technology, it would be a version of technology that wouldn’t work on Righteousness, and we’ve talked a lot about— I think what we just get is, we see on Twelfth’s side we see the VOS open up, Voice, the- the Divine, the kind of synthetic Divine Voice boot up, and we realise now in the post-holiday episode, that it boots up with the same kind of start-up sound that anything with Righteousness boots up with. Installed in it? And it’s just like, oh! Like, Voice, the thing that the September Institute and all of its strati use to, you know, fog things and interact with the mesh, it’s all just fucking Righteousness. It’s all just them using Righteousness to translate into the different code bases. And that’s a pretty- it’s a pretty rough thing for everyone involved.
+
+SYLVIA: Yep! I love it!
+
+AUSTIN: Yeah, me too. It was the one thing that when I realised during the holiday special, I was like, ‘Oh... Oh, fuck. Oh, Mako.’ So that’s all stuff to look forward to. And again, I think that we just see that as they— the kind of— the audience sees that through a scene of- another scene with- with korbus… korbus..? Kobus? Kobus.
+
+SYLVIA: Kobus. There is Argus Korba and Kobus, it’s confusing.
+
+AUSTIN: I think there’s a third k somewhere too in… Somewhere else in my notes I think there’s another ‘korb’ or an ‘orbus’ or a— maybe not a —
+
+SYLVIA: There’s Omen Kane.
+
+AUSTIN: There’s Omen Kane who’s dead, we’ve decided Omen Kane is dead.
+
+SYLVIA: Yeah.
+
+AUSTIN: But there’s another similar name in my NPC group. In my- in like the original Mechnoir thing
+
+DRE and SYLVIA: [simultaneously] Hm.
+
+AUSTIN: I’m pretty sure. One of the- one of the NPCs. But anyway, yeah, I think we just get that again and- and… Korbus continues to be… Kobus continues to be… skeptical of the connection with Voice.
+
+SYLVIA: Yeah, this fuckin’ like, nervous ten year old kid.
+
+AUSTIN: Yeah… Oh boy… I’m really excited for what comes next.
+
+SYLVIA: I also think we get a scene of like, right before the episode ends, like goes off the air —
+
+AUSTIN: Mhm, yeah.
+
+SYLVIA: — Twelfth at like, a communication thing and it boots up and then Ibex is there.
+
+AUSTIN: Do you think— yeah, this is my question with this, is like, do you think Twelfth knows that he’s being manipulated?
+
+SYLVIA: I think Twelfth knows.
+
+AUSTIN: Okay.
+
+SYLVIA: I don’t think Twelfth thinks he’s being manipulated though, I think Twelfth thinks he’s a partner.
+
+AUSTIN: Okay. Yeah, I like that a lot.
+
+DRE: Yeah.
+
+AUSTIN: That’s good.
+
+DRE: He’s eating chips with- with Ibex.
+
+AUSTIN: [laughs a little] That always ends really well.
+
+[SYLVIA laughs a little]
+
+AUSTIN: Yeah, yeah, I like that a lot actually. The scene is, it- it is just another conversation scene between Kobus and Twelfth, and it’d be like the- the scene comes in midway through of like, it’s another shot of what’s happening on— between Vox and Slate. And it’s like, again, Twelfth easing— you know, or- or kind of calming down Kobus and Loyalty and like, making sure that they’re in- in line with the voice of- of Voice. And it’s that scene, like they hang up and then yeah, like the screen lights back up and it’s- it’s Ibex telling— y’know, checking in with Twelfth and just saying like, y’know —
+
+AUSTIN (as Ibex): Everything continues… according to plan 
+
+AUSTIN: — and Twelfth just like Gendo fingers and is like— yeah. You know.
+
+[DRE laughs]
+
+AUSTIN: Like, leans forward on the table. And the thing here that’s also great is, of course, we know that Ibex is also a hero on Vox. That was like, part of the agreement, was Ibex gets left behind on Vox and is a hero there. He had already set up the September Institute previ— Like in the middle of that previous war, like before it even kicked off and then just like, is the person who opened the door for them to be on Vox also. Maybe it’s not even that, like maybe it’s- it’s- it’s— We get shots literally of the screens on both Vox and on the September Insitute like, it’s like a shot of- of Twelfth opening up the new message, and the shot of Kobus and Loyalty opening up a new message, and they’re both from Ibex and it’s just like —
+
+AUSTIN (as Ibex): Just wanted to check in, if you get a chance, you know, send me an update. I’m gonna be a little bit busy over the next couple of weeks, but I’ll be sure to attend to whatever you need. 
+
+AUSTIN: And then it’s just like. Little grin and like, Gendo fingers steeple from Twelfth. And I think the voice of Ibex calms Kobus more than —
+
+[Music starts - “The Long Way Around”]
+
+SYLVIA: [faux cheerful] Oh, yeah!
+
+AUSTIN: You know, more than it should, right.
+
+SYLVIA: Yeah.
+
+AUSTIN: Like, ‘cause we’ve talked about Kobus as being a ten year old kid, like, ten years ago is when Ibex landed on Vox and was left behind. Like, literally spent years raising Kobus.
+
+SYLVIA: Yeah.
+
+AUSTIN: Ohh, it’s so good!
+
+SYLVIA: Yeah.
+
+AUSTIN: Oh, it’s gonna be the worst, everything’s the worst.
+
+SYLVIA: It’s gonna be the worst, we’re awful.
+
+AUSTIN: [sighs] I figured out a lot about what’s up with Ibex and it’s… I’m very excited.
+
+[Music continues and finishes out]
+
+AUSTIN: Alright, I think that’s gonna do it for this week. 
+
+SYLVIA: Yeah, it was good work.
+
+AUSTIN: I’m Austin Walker, you can find me @austin_walker on Twitter, I’m also obviously at giantbomb.com but when you hear this, it will have been… Eh, so it’ll be pretty recently, last week I wrote a piece on Star Wars I’m pretty happy with, you can go there and check that out, it’s called… Something about millennials, right? [typing noises, talking to himself] giantbomb.com, what’s the… 
+
+SYLVIA: One of your Off the Clock pieces, isn’t it?
+
+AUSTIN: It is one of my Off the Clock pieces, it’s called Off the Clock: Space Opera Millennials and Their Grand Narratives. So take a look at that, I’d be happy about that. Where can people find you, Sylvia?
+
+SYLVIA: You can find me on twitter at twitter.com/captaintrash
+
+AUSTIN: And what about you, Andrew?
+
+DRE: Hey! You can find me on twitter @swandre3000, I’m also trying to stream more into the new year at twitch.tv/streamfriends. If you look at my most recently pinned tweet there’s a highlight from the last stream we did, which is the best and worst thing I’ve probably ever done on Streamfriends.
+
+AUSTIN: Ooh! Fancy. Alright!
+
+DRE: Yeah I took you— I gave the first ever Streamfriends ASMR experience.
+
+AUSTIN: …Okay! …Cool.
+
+DRE: Yeah.
+
+AUSTIN: Okay…
+
+DRE: Mhmm.
+
+[SYLVIA starts laughing]
+
+AUSTIN: Cool…
+
+DRE: We were playing a game about a barbershop and, you know. That’s the logical way to talk about a barbershop.
+
+[pause]
+
+AUSTIN: …Yeah… Wow…
+
+SYLVIA: Yeah…
+
+AUSTIN: Yeah…
+
+DRE: Mhm!
+
+AUSTIN: … Check that out, everyone!
+
+[SYLVIA and DRE laugh]
+
+AUSTIN: We’ll see you here next week, sadly not performing any ASMR duties.
+
+DRE: I mean, hey. Don’t rule it out.
+
+AUSTIN: That’s true. That’s true!
+
+SYLVIA: [laughs] What if Rigour just —
+
+DRE: [overlapping a little] That’s how Rigour controls people.
+
+AUSTIN: It’s ASMR!
+
+[DRE laughs]
+
+AUSTIN: Great. Good.
+
+SYLVIA: Yep.
+
+AUSTIN: Great and good.
+
+SYLVIA: Thanks for listening!
+
+AUSTIN: Alright everyone! Yep! Bye!
+
+DRE: [still laughing a bit] Sorry for listening!
+
+AUSTIN: God.

@@ -1,0 +1,3278 @@
+Sangfielle 28: Hark! The Citadel Beneath Pt. 1
+Transcriber: robotchangeling
+
+[Music begins: “Sangfielle” by Jack de Quidt]
+
+Austin (as Narrator): With the curse of time’s remove, it is easy to stumble in the telling of the story of those few but ever so significant days, spending time only with the Virtuous Coup of Sapodilla and leaving the rest unsaid. It’s an understandable mistake. The mechanical horror, the shocking turn, the tumorous fissure between friends—these are dramatic things. But as the editor of the Almanac is always quick to remind its Riders, one must always provide context. Resist the urge to present events as a perfectly plated meal and instead show them as they are: still in the soil, roots tangled and thirsty. And listen, this is not just a matter of principle or conscientiousness. No, this is about getting the whole picture. See, you might think you understand who was unseated that day. Yes, you might know the Macula—grim more than Glim, in my estimation—and they way they stick their pristine boots on whichever necks best fit under their heel on a given day. But do you know who they'd been working for? What they’d been building to? The depths of their crimes, the names of those they hurt? The answer to these and more might make you think different of the fallen city’s new haunted queen. You may still have your reservations, but context—it doesn’t just unanchor the boat, it lifts the wreck from the bottom of the sea. And hell, that’s not all. A little more perspective might even give you a glimpse into the real story of why so much of Sapodilla sunk into the dark that day. What, you thought it was all the vampire, the glowing rock, uh, a drummed up music box too big for the case it was built in? Please. I told you weeks ago: castles ain’t built on confidence. It was bones and blood down there long before any vengeful aristocrat started digging. And if Sapodilla was gonna change, become a golden city for those who refuse death—well, for better or worse, it would first require determined exhumation.
+
+[music ends]
+
+Austin: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am your host, Austin Walker, and joining me today, Janine Hawkins.
+
+Janine: Hi. You can find me at @bleatingheart on Twitter.
+
+Austin: Jack de Quidt.
+
+Jack: Hi. You can find me on Twitter at @notquitereal and buy any of the music featured on the show at notquitereal.bandcamp.com.
+
+Austin: Andrew Lee Swan.
+
+Dre: Hi. You can find me on Twitter at @swandre3000.
+
+Austin: And Ali Acampora.
+
+Ali: Hi. You can find me over at @ali_west, and you can find the show over at @friends_table.
+
+Austin: Today, we are continuing our game of Heart: The City Beneath by Grant Howitt and Christopher Taylor, and as always, our goals are: to ask questions instead of planning; to evoke an atmosphere of wonder, horror, and humanity; to build and break tension; to pay attention to what everyone at the table wants, both long and short term; and to play to find out what happens. I should note, as always, you can support the show by going to friendsatthetable.cash. Some really fun things have gone up there. Ali and Janine, you did a live game of—or kind of a video, I guess—of Thousand Year Old Vampire.
+
+Janine: Mm-hmm.
+
+Austin: Which I've had up on my screen now for a week, getting ready to watch it, and then have just been busy. We have a bunch of other stuff. We're gonna do a bunch of live games coming soon, as we prepare to figure out how to get from where we left off PARTIZAN to where we're kicking up the next sci-fi season, so if that sounds interesting to you, a place you can go to watch and listen to those would be friendsatthetable.cash. I guess, before we jump in here, let's go around the table, and can I get character names, Beats, and current Fallout if you have any. Let's start with Chine. [amused]
+
+Dre: Yeah, uh huh. Okay. Chine, he/they.
+
+Austin: Mm-hmm.
+
+Dre: Active Beats right now are “Damage or sabotage a Haven, letting the Course in,” and— 
+
+Austin: [feigning innocence] Why would you want to do that? That seems… [laughs softly] 
+
+Dre: I don't know. I don't particularly enjoy this city right now. [Austin laughs] “Gain information on why you have been chosen by the Course,” and both of those are Minor.
+
+Austin: Okay. 
+
+Dre: Fallout. I have a Minor Fallout of Conduit, I cannot use Echo Protection.
+
+Austin: Mmm.
+
+Dre: And then I have the Major Echo Fallout of Reconfigured Physiology.
+
+Austin: Mmm.
+
+Jack: Yikes.
+
+Dre: Hey, my organs and bones don't make sense anymore. 
+
+Austin: Uh oh.
+
+Dre: You can no longer remove Stress from Blood or remove Blood Fallout at haunts or through the use of medical kits.
+
+Austin: Sure. Sure. Great.
+
+Dre: Mm-hmm!
+
+Austin: Love it. Es, let's talk about you.
+
+Janine: Yeah. My name is Es. My active Beats are “Have a cocktail, fighting move, or legendary beast named after you.”
+
+Austin: Mmm.
+
+Janine: And “Catalogue your exploits for an extended period. Either do it yourself or hire a bard.”
+
+Austin: [interested sound]
+
+Janine: My current Fallout is Siren Song: “GM picks a person/place. All actions other than trying to go there are Risky. Clear when you arrive.” The call of nearby heritrixes that can't be heard is what that is. That's the description I've attached to that.
+
+Austin: Right.
+
+Janine: Or you did, I don't remember. [Janine and Dre laugh softly] 
+
+Austin: Yeah. I mean, that's what you've been hearing.
+
+Janine: Yeah. 
+
+Austin: At the very least, right? So. 
+
+Janine: That’s the person slash place.
+
+Austin: Yeah, that is the person slash place. Alright. Marn, or Ali.
+
+Ali: Hi, yeah. I'm playing Marn. My current active Beats are “Find a source of knowledge on a tier three of the Heart,” so go to a tier three location then find knowledge there.
+
+Austin: Yes, and get some knowledge there. Yeah.
+
+Ali: Uh huh. And the second one is “Take a Minor Supplies Fallout.” 
+
+Austin: Should be easy.
+
+Ali: And my current Fallout is In Trouble: “You upset an important figure in this or a nearby Haven.” I have a vampire who's mad at me.
+
+Austin: Which— wait—
+
+Ali: I feel like like the vampire should be mad at other people too, but that’s fine.
+
+Austin: Oh, oh, oh. Right, yeah, yeah, yeah, yeah, yeah, yeah. The— 
+
+Jack: Which vampire is this? 
+
+Ali: Calaway.
+
+Austin: Alaway, Alaway. The…
+
+Ali: Yeah. Alaway, sorry.
+
+Jack: Oh shit.
+
+Austin: Regan Alaway, or I guess now potentially, um...Galena or Gala, I forget which Alaway was the last current Alaway. I'd have to check my notes but…
+
+Ali: Ah.
+
+Austin: Remember, ‘cause Regan got killed, and then...then the new Alaway became...who talked to you as like the younger girl one who had previously asked you to go save her mom. 
+
+Ali: Oh, true, true, true.
+
+Austin: So. But, you know.
+
+Janine: Have you thought about renaming Alaway something with Max in it, so we could call them Waxy Maxy?
+
+Ali: [intrigued] Mmm.
+
+Austin: I have not thought about that. I'll take it under consideration. 
+
+Janine: Okay. [Ali laughs softly] 
+
+Austin: Uh, Gala. It was Gala. Anyway, good to know. 
+
+Ali: Mm-hmm.
+
+Austin: Who's next? I guess Pickman.
+
+Jack: I am playing Pickman. My active Beats are: “Find a Heart-touched sapling on a Delve and bring it back to a Haven for planting.” A plant is growing out of the front of my gun. 
+
+Austin: Uh huh.
+
+Jack: I guess I just need to take it back to Blackwick. I suppose I could— 
+
+Austin: I mean, this is a Haven here.
+
+Jack: This is a Haven here. 
+
+Austin: Mm-hmm. Mm-hmm.
+
+Jack: I suppose this is a Haven here, yeah. Or, this fits with my second Beat, [Austin laughs softly] which is, “Damage or sabotage a Haven letting the Course in.” Chine and I have similar motives. [laughs softly] 
+
+Austin: So, a thing worth saying is you have “letting the Heart in.” I don't know if you're letting the  Course in or something else. The Heart is—
+
+Jack: Or letting in the Structure, or yeah.
+
+Austin: The Structure, the Shape, the...there's lots of things that are Heart-like for us that...the Heart is not simply the Course. It is a more contested thing—
+
+Jack: Yeah.
+
+Austin: —and a more multifarious thing in Sangfielle.
+
+Jack: Something that Art asked in I think the last session—which I think is an extremely good Art question—is do characters know they have Beats?
+
+Austin: [amused] Uh huh. Yes. 
+
+Jack: And I think Pickman definitely knows that she has this Beat, but I think the way she is thinking of it in her head is this place has forgotten that it is in Sangfielle.
+
+Austin: Ah.
+
+Jack: And it could stand to be reminded.
+
+Austin: Love it. Fantastic. This is true in so many ways, many of which you don't know yet.
+
+Jack: Ah, sick! [laughs] I only have one Fallout. It is a Major Fortune Fallout, and it is Exiled: “You are banned from entering the Haven you are currently in or one that's nearby.” This is the Bell Metal Station. 
+
+Austin: Mm-hmm.
+
+Jack: “Tell us what happened.” I threw one of their guys down some stairs. [Austin laughs] “Your allies aren't subject to the same restrictions, but they will be treated with suspicion,” and they were.
+
+Austin: And they were.
+
+Jack: “This is immediate and ongoing,” but I'm not there, and fuck those guys, so, you know.
+
+Austin: Yeah, mm-hmm. Fallout. Fallout is interesting, because like this one has just lingered. Marn, you have the the Alaway one that’s just kind of lingering, that's like, well— 
+
+Jack: But they’ll know. It's like, Clementine has remembered.
+
+Austin: Right, yes, yes. Not Clementine Kesh, a different Clementine.
+
+Jack: No.
+
+Austin: Yeah.
+
+Jack: Clementine doesn't remember anything.
+
+Austin: [laughs] No, unfortunately. If only she could, she could have learned some things. Um. Alright. So, um, the last time that we played with y'all was downtime, and there was a sort of...the heat is on, I would say. Now, no one in this party successfully killed a member of the Glim Macula [Ali and Jack laugh] when trying to break into the city or enter the city. Obviously, Chine, you had been...you thought you were about to and got arrested and locked up, and we'll come to where you are now. I mean, I'll just tell you where you are now. You are not in that big throne room anymore. You have been moved into...into a...what has the size of a bedroom inside of a...inside of some sort of stone structure. It feels like it's a guest room in a castle or something, but it has been stripped of all of the things that would make that warm and nice, and instead it smells moldy. It is humid and gross, and there is like a raw mattress on the ground for you. There is not like nice bedding or anything. We'll get into the ways in which you were, quote unquote, being “kept” in there when the camera slides over. 
+
+[0:11:00]
+
+For the rest of you, after the Macula came and knocked on the door and tried to put pressure on y'all, I feel like it's probably been a day or a night since then. I would say, for people listening, that we are a couple of...we are...we are a couple of days away from where the last arc ended, let's say. I can get more specific as we get more deeper in and some things kind of begin to line up. But my guess is that you have found ways to kind of duck the attention of the Macula and...and in general, the Macula has—as I indicated at the end of that downtime—kind of been out in full force over these next few days. Very present, very much throwing their weight around, finding new excuses to put pressure on people, widening their— the remit that they have to who they can interact with. Finding, you know, new excuses to kind of confiscate things from people. You know, hey, that ring might be magical. We're taking it from you until we can prove it isn't. Things like that. It's not a magical ring. It's just a nice ring. But they're claiming that it is. This is the sort of thing that is going on. But I’m gonna hand wave the idea that you like...y'all are pros, and between Es, you have that connection with the other heritrix in town, and Bucho knows people. Like, you've been able to keep your heads down, I would say, for the for the last day. My question for y'all is kind of like where do you want to come in here? I know, Pickman, you had started something potentially with Blick who is the head of the Macula’s...they're called the Honorguard, because they used to just kind of be an honor guard. They used to just be kind of, you know, more kind of about flair and doing events. What's the word I'm looking for? You know, not an actual armed force that, you know, uses that force. Just a sort of...uh, not decorative. There's a particular word I'm looking for here that if I didn't—
+
+Jack: Ceremonial?
+
+Austin: Ceremonial. Yeah, they're like...they were a ceremonial group inside of the Glim Macula for decades and decades and decades. But in the last few years, they've become the sort of de facto, you know, strong arm on the street type of people. And so Blick is the person who you’d set up a meeting with for, um...under under false pretenses, right? Claiming that you were gonna be Calen fel Dynestia, the kind of shithead [chuckles] that you threw down some stairs up at the Bell Metal Station. But I'm not sure what your plan is to— how you're gonna capitalize on that invite. And I would say that that invite is going to cash in today, like this afternoon, let's say. And it's the morning of the day. Or if you need more time, it can be the night before, but you just tell me how you want to play that.
+
+Jack: Yeah, um. Pickman went and got her, the cards read, right? And if I remember right, the fortune teller said something like, you know, like uh, you're going to trap yourself in your own mousetrap or something.
+
+Austin: That sounds right. That sounds like a true thing that would have been told to you.
+
+Ali: [laughs] I think it was you're a mouse who's building your own trap.
+
+Austin: There you go.
+
+Jack: God. 
+
+Austin: Yeah. Great. [Dre laughs] 
+
+Jack: What a great spooky thing for a fortune teller to say.
+
+Ali: Uh huh.
+
+Jack: Pickman is very superstitious.
+
+Austin: Mmm.
+
+Jack: And I think that she has sort of spent the time since that tarot reading...well, I think the first thing she did was probably went and got her cards read again by someone else.
+
+Austin: [laughs] Uh huh.
+
+Jack: And because we're in Sangfielle, they probably said something similar, right? 
+
+Austin: Mm-hmm. Mm-hmm.
+
+Jack: And she's sort of been like suspended between her single mindedness in terms of...she feels like she has an opportunity here, and she is also like, I am going to get...this is not gonna be good for me if I go.
+
+Austin: Right.
+
+Jack: So I think...I think like the first thing I would like to do is try and expend some effort determining what that means. You know, like, in what manner is the Macula planning on making this bad for me?
+
+Austin: Mmm.
+
+Jack:  Whether that's that there's word on the street or whether they're, um...you know, I might go and scout the place—
+
+Austin: Yeah.
+
+Jack: —and see if I can see any signs of...‘cause I'm planning on meeting Blick at the station.
+
+Austin: At the station, correct. 
+
+Jack: Of the Macula setting things up. 
+
+Austin: Yeah. Mm-hmm.
+
+Jack: Or whether that's just talking to someone who has had close encounters with the Macula before and trying to figure out what the MO there is.
+
+Austin: Yeah, I think we can kind of abstract this a bit, right? Like, I think this can be a montage of Pickman talking to people and scouting the place out. What would you— what do you think you would roll for this?
+
+Jack: Well, I don't have Discern.
+
+Austin: No. So you're not like...so, you're not casing the joint, probably. Well, you can, but you’ll roll without the dice Discern.
+
+Jack: Yeah. Alternatively, I could...I could angle this with Compel.
+
+Austin: Yeah. Yeah.
+
+Jack: And the way to do this would probably be to… [thoughtful breath] It's like a combination of persuasion and intimidation.
+
+Austin: Mm-hmm.
+
+Jack: Of like, you know, angling it so that the janitor lets me onto the roof overlooking somewhere or another—
+
+Austin: [laughs] Uh huh.
+
+Jack: —and I can go, oh, wait a second, hold on. 
+
+Austin: Yeah. yeah.
+
+Jack: Barefaced lying, you know, like oh I'm a Shape Knight working with the Macula, I've heard there’s gonna be some stuff going on, et cetera.
+
+Austin: Right. Alright, give me, uh...give me your compelled Haven. Compel Haven, rather. This is Standard.
+
+Jack: Um, Compel. I'm not gonna put Haven in the second box, ‘cause I don't have it. Right?
+
+Austin: Uh, I think you can put it there. It'll know that you haven't checked the box, so, that you don’t have it.
+
+Jack: Oh, it will know? 
+
+Austin: It should know, yeah. 
+
+Jack: Okay, so I'm rolling two die.
+
+Austin: Two die. Yeah, uh huh.
+
+Jack: Does anybody want to help Pickman on...?
+
+Austin: Is anyone helping Pickman? Yeah, with this.
+
+Ali: Um, I could help. I could be out and about.
+
+Austin: How have you...how have you pitched this to people, Pickman?
+
+Jack (as Pickman): Marn, I'm not gonna ask you to curse anybody.
+
+Ali (as Marn): Thank you.
+
+Jack (as Pickman): I'm not ruling cursing off the table, and I want you to know that. But if cursing happens, you're not going to be involved.
+
+Ali (as Marn): I should— okay. What's plan B? [Ali laughs softly] 
+
+Jack (as Pickman): Mmm?
+
+Ali (as Marn): I mean, what are you doing besides the curse thing? [Jack sighs thoughtfully] Also, if you do a curse, you should definitely tell me about it.
+
+Jack (as Pickman): Oh, I'll tell you. I just don't want you to feel like you have to involve yourself in something you find distasteful.
+
+Ali (as Marn): You shouldn't involve yourself in something you can't control.
+
+Jack (as Pickman): No, I'm fine with that.
+
+Ali (as Marn): Ugh.
+
+Jack (as Pickman): I do that all the time. There's something going on with Sapodilla and trains. I intend to get to the bottom of it. Trains don't seem to be interacting with this place in the way that they do outside. And I suppose Plan B is that, uh, I see if I can invite them in.
+
+Ali (as Marn): And that helps Chine how?
+
+Jack (as Pickman): Well, it gets Blick out of the picture.
+
+Ali (as Marn): [uncertain] Sure. And Chine…? [Austin laughs] 
+
+Jack (as Pickman): I sort of considered that we were gonna be able to find Chine without the help of Blick. I really wasn't expecting to be given a meeting with the guy.
+
+Ali (as Marn): Sure.
+
+Jack (as Pickman): You know, maybe we can combine our plans here. We try and get some information out of Blick, and then we have him killed by a train.
+
+Ali (as Marn): Sure. And then we find Chine?
+
+Jack (as Pickman): The information that we get out of Blick is about finding Chine, but I...I could use someone at the meeting who knows how to talk for that, you know? 
+
+Ali (as Marn): Yeah. I...sure.
+
+Jack: That could be where you can help me, actually. [Ali laughs softly] 
+
+Ali (as Marn): Yeah, I can back you up.
+
+Austin: Alright, so the two of you begin to kind of talk your way around this place to kind of get the...the leg up on the Macula, figure out how they're gonna try to close the loop on you. Give me your roll, Pickman. So now three, three dice.
+
+Jack: Compel, Haven, plus one.
+
+Austin: Mm-hmm. 
+
+Jack: Roll.
+
+Austin: Make sure you click away so you get that plus one. You did not do that.
+
+Jack: Did I— ah, fuck. Should I roll again?
+
+Austin: Just roll one more. Just roll more one more D10. 
+
+Jack: Okay. 
+
+Austin: Just roll a loose D10, and hope that it's better than the seven. I mean, seven’s fine.
+
+Jack: Yeah.
+
+Austin: Seven’s a success. You have a success right now.
+
+Jack: It’s not.
+
+Austin: Okay.
+
+Jack: It’s not. It’s a four. [Ali and Jack laugh] 
+
+[0:20:00]
+
+Austin: It’s not. Alright. Yeah. Mm-hmm. Pickman, take four, uh...take four Fortune Stress.
+
+Jack: That's 3 Fortune Stress, ‘cause of my thing.
+
+Austin: Oh, ‘cause your Protection. Yeah, totally. And likewise— or not likewise, but Marn take two Fortune Stress.
+
+Jack: I'm sorry, Marn!
+
+Ali: It’s all good.
+
+Austin: And then both of you give me your Fallout tests. 
+
+Ali: Oh.
+
+Austin: But it’s a success, so. [dismayed] Oh my god.
+
+Jack: Oh, shit! 
+
+Austin: Oh my god.
+
+Jack: Oh, shit. [Ali and Jack laugh] 
+
+Austin: Unbelievable. Both of you just talking your way into Fallout, literally immediately.
+
+Jack: Me: “I'm gonna figure out what kind of mousetrap I’m building,” building the mousetrap. [Ali and Jack laugh softly]
+
+Austin: God. Jesus. Um. [chuckles] Sorry, Dre, I just saw your message. You wanna say that out loud?
+
+Dre: Uh, yeah, just welcome to the Fallout party. It’s good. [Jack laughs] 
+
+Austin: Uh huh. Perfect. Perfect, perfect.
+
+Jack: That's a success though, right?
+
+Austin: It is a success, yes. [Dre laughs] Let's start with the success. You said you wanted to kind of like, basically get access to like the roof and like get the...be able to kind of get the drop on however the Macula was going to do this. 
+
+Jack: Yeah, you know. Like, I get the impression they're gonna try and get one over on us.
+
+Austin: Uh huh.
+
+Jack: And I want to know how.
+
+Austin: So, the thing that becomes clear as you talk to, you know, people who work in maintenance and probably some low level guards who— or like, not even guards but like people who work for the Macula at a kind of remove, who aren’t members of. But you get...you basically get word that Blick is sort of a loose cannon, in the sense that...I guess there's two steps here. One is Blick has a— has an honor guard that follows him closely and keeps him safe. The thing that you learn and the way that you're able to manipulate this is that he's also an egotistical bastard who will not give them the time they need to adjust if, for instance, something changes. And so you're able to send word—using your previous contact the constable—to, at the last second, that instead of doing it at train platform, you know, whatever the northern end of the station, you're gonna do it in the southern end at this kind of little, you know, garden alcove or something. And before all of the security—which you're able to track that whole morning from the rooftop—can get redeployed, he just gets up and goes by himself.
+
+Jack: Mmm.
+
+Austin: So he's— you're able to like basically manipulate him because of his narcissism and pride into being alone with you, instead of—
+
+Jack: Classic Hitman move.
+
+Austin: Exactly. A hundred percent. Yes. However, you're both gonna take a little bit of Fallout here, huh? Um...god. Let's see. This is...I'm just gonna give you...okay, Pickman. [chuckles] Pickman, I just need you to take Unlucky: “Things are going to get worse before they get better.”
+
+Jack: Ah, come on! [Ali laughs] 
+
+Austin: “You cannot use Protection.” So, get rid of that Fortune Protection. Uh huh.
+
+Jack: Uh huh.
+
+Austin: And then...and then...I think— 
+
+Jack: But I clear my Fortune Fallout, right? Because I…
+
+Austin: Corr— er…
+
+Jack: Took a Minor...yeah. I took a Minor. 
+
+Austin: You mean you clear your Fortune Stress.
+
+Jack: Yeah, yeah, yeah.
+
+Austin:Yeah, yeah, yeah, yeah, yeah. Yes, yes. I mean, this is also when immediate things— or, I guess it's not. This is ongoing. So this is, in fact, does keep you...does stay on the sheet. Ah, Marn. One of the people that you have to talk to you for this asks you for a bribe, effectively. So you're gonna take the...um, you're going to take the Supplies Stress...let's see. Or, Supplies Fallout rather. 
+
+Ali: Shoutouts to me.
+
+Austin: Shoutouts to you. Here you go. You don't have Supplies Protection, do you? 
+
+Ali: Um…
+
+Austin: Like, actual Protection. I know you have like some supplies stuff, but not…
+
+Ali: No.
+
+Austin: Yeah. Okay. Then, take the, um...oh, here you go. Uh...cut that D6 wisteria oil down to a D4. You like have to give someone a vial of it to like sweeten the pot and let you in, you know?
+
+Ali: [laughs softly] Okay.
+
+Austin: There's like a janitor or something who's like:
+
+Austin (as janitor): [sniffs] Is that wisteria oil I smell?
+
+Austin: And you're like “...yeah?” [laughs softly] and takes half of it from you, effectively.
+
+Ali: Okay.
+
+Austin: So, leave yourself with a D4 instead of a D6. Which is a big drop because now you don't have enough from that one thing to heal a Minor Fallout, it's worth saying.
+
+Ali: Mm-hmm.
+
+Austin: But also, go ahead and mark that Beat. Um, okay. So, you've got Blick by himself in this kind of little...you know how train stations or airports will sometimes have little rest areas, little lounges or gardens or plazas? You've got him alone in one of these things. I mean, there's other people around, like, doing their own thing, but there are no guards here. And when I say other people, I mean we're under half dozen. You know, it's like a mother and her child are waiting on a bench in the corner, and there's, you know, an old guy who's reading the newspaper here. You get the impression that like, what he does is he comes out here and sits down and reads the newspaper, maybe between shifts or something, you know? And then there's Blick, who has a very stern boxy face with a kind of scar running from under his chin up his cheek and little beady eyes and a kind of very prim haircut, in his Macula, you know, finest. Checking a pocket watch to see if he— you know, where the hell Calen is.
+
+Ali (as Marn): [hushed] So, what was the plan?
+
+Jack: Well, now, look. I come from the Memoriam College. [Ali laughs] 
+
+Austin: Oh my god.
+
+Jack: I graduated from the Memoriam College School of planning. [laughs softly] 
+
+Ali: [intrigued] Oh.
+
+Dre: [intrigued] Mmm.
+
+Ali: You don’t say.
+
+Jack: Are there any trains in the station, Austin? 
+
+Austin: Yeah, sure. 
+
+[brief pause]
+
+Jack: [surprised] Oh, okay. 
+
+Austin: I mean, sorry I don't have more for you. [Jack and Austin laugh softly] I’ve realized exactly who this...who I'm imagining is playing Blick, by the way. Burn Gorman, who I guess I first met as, um...uh...
+
+Janine: Mr. Guppy!
+
+Austin: Mr. Guppy in Bleak House—
+
+Jack: Oh!
+
+Austin: —but has also played an absolute asshole in The Expanse.
+
+Janine: He was on Torchwood too.
+
+Austin: Oh, I believe that.
+
+Jack: Great name.
+
+Austin: Yeah, he's fantastic. Just an abs— can play an absolute prick, and here he is doing that.
+
+Jack: Okay, so. We're like in the station concourse, like in the little...
+
+Austin: You have...you have authorial...I’m handing over the pen to you, Jack. [Ali snorts]
+
+Jack: This sounds like a real poison chalice here, Austin. Okay, so what— 
+
+Austin: A poison pen. It’s a pen. Stay on the thing. I said I handed you a pen. Stay on a pen. 
+
+Jack: [laughs] This is Sangfielle. It transmutated.
+
+Austin: Ah, I see, into a chalice. You're drinking the ink from the pen, yeah.
+
+Jack: Yeah. I think, you know...I think I'm gonna go down to the station, and I'm going to, you know, I'm gonna fold my, the sort of the cowl that Pickman wears, and I'm going to, you know...so I'm going down in full armor. And I'm going to go into like a little...like a luggage storage room, like empty side room.
+
+Austin: Uh huh.
+
+Jack: And I'm going to...I'm gonna try and speak with the Shape or commune with the Shape in some way. 
+
+Austin: Have you done this before? 
+
+Jack: I've lived for a long time, which makes me think I must have in one way or another.
+
+Austin: Mm-hmm.
+
+Jack: But I think this is a real concerted effort that Pickman is making. 
+
+Austin: Okay.
+
+Jack: You know, I think a lot of communing with the Shape that Pickman does is saying things like “Fuck you, train.”
+
+Austin: Yeah, I recall that. 
+
+Jack: Like, “Get over here.”
+
+Austin: Yeah, uh huh. [laughs softly] 
+
+Jack: Or, you know, like [urging] “Turn west, turn west,” watching through a spyglass, and going “Oh fuck, it's turning east,” or whatever. 
+
+Austin: [laughs] Right. Sure. 
+
+Jack: And I think, you know, she's offered up prayers in the past, but I think that this is her, you know, I think she...I think she scratches the Shape into the floor of this luggage room. You know—
+
+Austin: Mm-hmm.
+
+Jack: Luggage piled up on the shelves all around, and sits down—
+
+Austin: Mm-hmm.
+
+Jack: —in the middle of the Shape with it around her. 
+
+Austin: Mm-hmm.
+
+Jack: And I think, yeah, I think she just closes her eyes and says…
+
+Jack (as Pickman): I have not asked much of you, and I do not plan to in future. But I am prepared to offer you a great prize. This place and those that command it seek to take everything from you and remake you in their image. If you let me, I will do what I can to open a door to this place through which you may run. Tell me what I can do.
+
+Austin: Give me a Compel, Technology. This is Risky.
+
+Jack: Talking to the Shape? [Ali laughs softly] That sounds pretty Risky to me.
+
+Austin: Yeah, mm-hmm. You have Compel and Technology, but yeah, this is still gonna be Risky. Again, I don't know that you have...I don't remember if you have any other moves that would help you with this, but, uh...
+
+Jack: Most of Pickman’s moves are for like talking to people— uh, not talking to people, like tanking for people around her?
+
+Austin: Yeah, yeah, uh huh.
+
+Jack: Will you offer me something if I sacrifice my D6 wyrd gandy dancer tools?
+
+Austin: I'm gonna say you can use those as a tool instead of destroy them, ‘cause they’re equipment specifically. They're not just a resource. Thank you to robotchangeling for this transcript. I just went back and checked. The gandy tools are a D6 tiring tool that are, uh...oh, they're not tiring. I say “Oh, these are not tiring, they're wyrd, W-Y-R-D,” which has an effect that I forget what it does. Let's see. When you inflict Stress with— so yeah, you can use these on like Delves also. So I'm going to say that using these to...maybe you've used these to scratch the Shape into something.
+
+[0:30:30]
+
+Jack: Oh, yeah. 
+
+Austin: Uh, they give you...they give you mastery on this roll. So, put this down on the— under your domain slash tags as mastery when used with the Shape.
+
+Jack: Uh...oh, I see, and I'm not going to expand these.
+
+Austin: You're not expending these. You're keeping these, ‘cause they're equipment. 
+
+Jack: Okay, yeah.
+
+Austin: You use them to do things, and you don’t...yeah, so. So. So, that gives you mastery.
+
+Jack: The gandy dancer tools I think have the Shape stamped on them.
+
+Austin: Mmm. Mm-hmm.
+
+Jack: Like, you know, like regular tools have, you know, the manufacturer or whatever. It's like very neatly done. So this is Compel, Technology, with mastery, and it's Risky.
+
+Austin: That is right. [sympathetic breath]
+
+Jack: [dismayed] Oh…
+
+Austin: Oh, Risky. Oh, Risky. Oh, Risky. 
+
+Jack: Oohoohoo!
+
+Austin: Risky took a nine from you, leaving you with a five.
+
+Jack: A nine! 
+
+Austin: A nine would have been a complete success, and instead you got a hard fail. Um...I need you to take six...I need you to take six Echo Stress.
+
+Jack: Oh, that's awful.
+
+Austin: Uh huh. [Ali laughs softly] And then I need you to roll that, uh...
+
+Jack: This a Fallout test?
+
+Austin: Yeah. Uh huh. Always. Almost always. No Fallout. That's good. You rolled an eleven.
+
+Jack: Oh, thank god. 
+
+Austin: Um, you got...you totaled five Stress, 'cause you have one Echo Protection. You— okay, so the thing that happens here is you feel that there is some sort of...as you're writing, you feel as if— or as you’re...you've done, you've drawn the Shape, you've scraped the Shape into something here. And then, as you say your words, you heal— you feel them— you hear them muffled around you. It's like you're speaking into a pillow or with cotton in your mouth. And, in fact, part of the Echo Stress here is you actually feel that. There's a tightening in your chest. You can't quite get the words out. You can move your lips, you can make the right shapes with your tongue, but you cannot evoke what you want here. Something is stopping you. You know, I'm trying to think of the equivalent. Like the first few seconds of holding your breath for too long. You're not— it's not painful. And you know if you were deeper down or if you were closer to the source of whatever is stopping you, this would be even more troublesome. But here, you just can't do it. There's no question. This is not you can't bring yourself to do it or anything like...you know, you understand and feel that something exterior to you is stopping you from doing this, which lines up with what you said before, about this place having forgotten that it's in Sangfielle or somehow it having some sort of...something that is protecting it from the truth of the Heartland. In any case, no train responds, which is itself scary. You know?
+
+Jack: Yeah, because you know, you'd expect...the Shape is not necessarily subtle. It might respond angrily or it might respond counterintuitively—
+
+Austin: Mm-hmm.
+
+Jack: —but you'd expect to feel something in response, right? 
+
+Austin: Yep, absolutely. 
+
+Jack: There's a reason people are afraid of the mark. 
+
+Jack (as Pickman): Fuck. Marn. It's...I...it's not working. 
+
+Ali (as Marn): Uh… [Austin laughs] 
+
+Jack (as Pickman): I tried to call a train. They've got something here. It's like I said, it's stopping the energy of the Shape .
+
+Ali (as Marn): Ooh, I'm not...mm. [laughs nervously] I'm not really a magic guy. I don't know that I could help you with that.
+
+Jack (as Pickman): No, that's fine. I'm just, I'm communicating to you that you asked me what the plan was. 
+
+Ali (as Marn): Mmm.
+
+Jack (as Pickman): And I went into the luggage room and tried to execute it.
+
+Ali (as Marn): Um, old fashioned way, then? Are we just gonna go talk to this guy? [Austin takes amused breath] 
+
+Jack (as Pickman): Yep. [Dre laughs] 
+
+Austin: Alright. Well, let's come back to that in a second. Uh, Chine. 
+
+Dre: Hey, hi, hello. 
+
+Austin: Hi. As I said before, you are in sort of guest room in a castle. 
+
+Dre: [intrigued] Mmm.
+
+Austin: The windows, that would normally look out to a beautiful kingdom or something, instead have been bricked up. Though, even the bricks seem sort of decrepit, and you see like soil is kind of falling into this room through some of the bricked-up windows. It is, like I said before, damp and musty in here. You have a mattress and a plate with some bread on it and a little wooden cup of water in front of the door. You can see in the dark, but if you couldn't, this place would be absolutely too dark to see in. 
+
+Dre: Hmm. Okay. Um...you said there's a door?
+
+Austin: There is.
+
+Dre: Is it locked?
+
+Austin: Are you touching it? 
+
+Dre: Yeah, sure.
+
+Austin: Take D8. Uh, you know what, I'll let you roll here. Roll Discern. 
+
+Dre: Okay, fair.
+
+Austin: Give me a Discern. I’m gonna be fair about this.
+
+Dre: Uh…
+
+Austin: Uh, Discern Desolate. 
+
+Dre: Okay. 
+
+Austin: What do you have?
+
+Dre: Don't have either of those. Let's go.
+
+Ali: Mmm. [laughs softly] 
+
+Austin: Ah, okay. Uh, you know, you could use...you could use Occult here. 
+
+Dre: Okay.
+
+Austin: For this particular roll. You're in a Desolate domain, but this particular thing I'll let you roll Occult. So, that gives you two dice total. Default one plus one, right?
+
+Dre: Risky, right? 
+
+Austin: Oh yeah. Hey, an eight. Take no Stress. 
+
+Dre: Alright.
+
+Austin: You go to touch it, and you realize that it is charged with some sort of powerful energy. To touch it will be to hurt yourself.
+
+Dre: Okay. Hmm. 
+
+Austin: From where you are, you don't...you don't see a way around that necessarily. 
+
+Dre: Sure.
+
+Austin: Not through the door, anyway. There's something else here, ‘cause let me just also give you this, which is that like something feels off and not just your reconfigured physiology. 
+
+Dre: Yeah. 
+
+Austin: Which, you're caught in this kind of in between, right, of your forms?
+
+Dre: Mm-hmm. Yes. 
+
+Austin: Right? You cannot shapeshift here. 
+
+Dre: Yeah.
+
+Austin: Something is wrong with...you feel cut off from the Course here, and you feel cut off from the self and your kind of, the control over the body that you normally have. Or not just the control over, but your like...you feel off. Your arms feel the wrong lengths. Your eyes feel like they're not in the proper place. And this is not about the reconfigured physiology.
+
+Dre: Yeah. Yeah.
+
+Austin: This is like, on top of that, there is something else happening here.
+
+Dre: Hmm. Okay, what else is in this room? Besides I remember my cup of water.
+
+Austin: Cup of water, some bread on a plate, on like a wooden plate, and a mattress.
+
+Dre: Okay. Um...well, I'm definitely gonna chew on this bread and drink this water while I'm thinking about my next move here.
+
+Austin: Uh huh.
+
+Dre: I want to try tearing out the bricked-over window.
+
+Austin: Sounds good. That sounds like a Delve to me, maybe?
+
+Dre: Sure.
+
+Austin: Right? Delve or a Mend or a…to pull it up.
+
+Dre: Kind of doing the opposite of a Mend. [laughs] 
+
+Austin: You are, but Mend is weird.
+
+Jack: Kill the window. 
+
+Austin: Yeah, it's not Kill, 'cause it’s not alive. But yeah, I'd say Delve and Desolate here.
+
+Dre: Okay.
+
+Austin: Again, Risky. 
+
+Dre: Sure. 
+
+Austin: Alright, success at a cost. You rolled a six. You rolled two sixes. Lose one, you keep the other one.
+
+Dre: Mm-hmm. 
+
+Austin: D6. Take— phew, that’s a six. Jesus Christ. Take six Blood Stress.
+
+Dre: What level of the Heart are we at? Is it still tier one?
+
+Austin: In this room, that Protection is also not working.
+
+Dre: Okay.
+
+Austin: Something is up with this.
+
+Dre: Gotcha.
+
+Austin: And, in fact, this is part of what is gonna...part of what you're learning is happening here with this roll. 
+
+Dre: Yeah.
+
+Austin: So, give me your Fallout test. 
+
+Dre: Mm-hmm.
+
+Austin: Take Minor Fallout. That’s not so bad.
+
+Dre: Hell yeah, let's go. 
+
+Austin: That's not so bad. That's not a thing you need, right? You just— this is just happening to you? 
+
+Dre: Yeah, uh huh.
+
+Austin: Okay, I was like...you got excited in a way that made me think…
+
+Dre: Just stacks on stacks. Let's go. No, 'cause I was talking about, man, I just haven't got a lot of Fallout in this game, and so now we’re...
+
+Austin: Oh, sure.
+
+Dre: We’re just making up for lost time.
+
+Austin: Now it's happening. 
+
+Dre: Yeah.
+
+Austin: And now it's happening. Good point. Take the, um...take the Minor Blood Fallout...uh, where is it? It’s one I know I want. Oh, here it is. It's Ringing Head: Your head swim swims, and you taste blood in your mouth. The next action you take is Dangerous. The one after that is Risky. And then you clear it. And that is— it's called Ringing Head. And, in fact, maybe your head is ringing. But the expe— the thing that's happening here is as you claw away at these stones and bricks in the window, something gets in under your fingernails, a sort of black ooze, a sort of like...it's almost like a film. And it grows deeper into you. 
+
+[0:40:16]
+
+Dre: Ugh.
+
+Austin: And it feels like it is like negating something about you. And it just, it's made your head wobbly as hell. And you realize that this room seems to be coated with something, as if it has been applied like a paint. And it has kind of destabilized you a little bit here. But yeah, you're able to...you're able to, you know, pull away at this brick. And you're able to get kind of your hand or your arm into the soil here a little bit. It's packed. You’re underground.
+
+Dre: Okay. Yeah, yeah, yeah.
+
+Austin: You are certain that you are underground here. But you're...that's...hey, it ain't...you've made progress. [laughs] You know what I mean? [Dre laughs] They did not expect you to get the brick out of the— or one of the bricks out of the window. And hey, that's a start, let's say. Are you gonna like keep at that basically, as we maybe pan the camera around somewhere else?
+
+Dre: Um...yeah, I think I take—
+
+Austin: Or do you have another plan?
+
+Dre: I take one of the bricks, and I throw it at the door and see what happens.
+
+Austin: Um, a bolt— it very clearly— um, actually, a brick...would a brick do it? Yeah. There's like a bolt of electricity that like siphons through it and blasts it back in your general direction and slams against another window— or, against the, a wall. 
+
+Dre: Okay. 
+
+Austin: So you can now, you know, guesstimate that, hey, that door seems to be electrically charged.
+
+Dre: Yeah. [laughs] That would be bad to touch for real real.
+
+Austin: It would be bad to touch, yeah.
+
+Dre: Yes.
+
+Austin: Alright.
+
+Dre: Yeah. I guess I'm just gonna keep digging. I'll try digging up.
+
+Austin: Alright. Sounds good. I mean, first, you have to dig enough to get to where up is, effectively.
+
+Dre: Sure.
+
+Austin: You know what I mean?
+
+Dre: Yeah, yeah, yeah.
+
+Austin: Like, this is...this is enough for your hand and arm to fit through, but not even enough for, you know, all of you quite yet. 
+
+Dre: Yeah.
+
+Austin: So, we'll pan away with you digging at this point. Es. Have you just been kind of...what have you been doing in this last, I don't know, 12 hours since we last saw you? Or what are you doing now?
+
+Janine: Um...so, part of me is torn between like, did Es try and follow that like feeling she has the other heritrixes?
+
+Austin: Mm-hmm.
+
+Janine: Or did she do the smart thing which is follow… [laughs softly] You know, follow the other people and try to not get isolated.
+
+Austin: Sure.
+
+Janine: You know, follow Marn and Pickman and make sure they stay out of trouble but also knowing that that's kind of leading to the same thing, right? Like...
+
+Austin: Long term, right.
+
+Janine: Yeah.
+
+Austin: Yeah.
+
+Janine: But also, like, you know, I think Es does not want to just walk into that meeting. Or doesn't want to just like walk up to anyone necessarily.
+
+Austin: Fair enough. Yeah. 
+
+Janine: Uh.
+
+Austin: So then, do we...do we get Es...has talked to anybody about this sensation of the underground or the kind of distant—they’re underground—heritrix vibes?
+
+Janine: No, I think she's—
+
+Austin: Or have you kept that private?
+
+Janine: I think she's waiting until it's...until the feeling is a little more specific, right? Like…
+
+Austin: Gotcha. Yeah. Yeah.
+
+Janine: Right now it is just this distant feeling of like, yes, there is...there are beings I'm aware of, but like—
+
+Austin: Mm-hmm.
+
+Janine: That's not helpful, ‘cause we know that. [amused sound]
+
+Austin: Right. Right, right, right. 
+
+Janine: Like, yeah, Chine also is, you know.
+
+Austin: Yeah. Totally. Do we get just like an image of Es kind of conflicted and agitated [amused breath] in this moment? Which is kind of off for Es. Normally Es seems so composed.
+
+Janine: Yeah, I imagine...I imagine she mostly looks composed, but it’s a thing of like, she has her fan folded in her hand and is kind of like twisting it.
+
+Austin: Uh huh.
+
+Janine: Like, wringing it a little bit or like rolling it sort of in her hands. 
+
+Austin: Yeah. 
+
+Janine: Kind of, yeah, nervous but also like waiting for the moment in which she can act on that nervousness.
+
+Austin: Right. Do you know...do you have a feeling about where Es is staying right now? 
+
+Janine: Uh…
+
+Austin: Or like, where Es is spending this time?
+
+Janine: No, I hadn't really considered that. [laughs softly] Um...yeah, I truly...I have no idea.
+
+Austin: No worries. I’m mostly trying to see if I can get you some information. And like it, maybe you're at that cafe that you were at with Sym, the other heritrix. Maybe you're...if you're...I'm not looking to pull a rug out from under you is what I'm saying. I'm mostly trying to see if like there's a vector by which I can introduce something, you know?
+
+Janine: Mm-hmm.
+
+Austin: I don't know if Es goes out on a walk or if that...if, you know, they would feel like that's maybe too dangerous. Like, I don't...you know, you tell me.
+
+Janine: I mean, I don't think she's doing anything that doesn't lead in a straight line to...
+
+Austin: Right. To this thing.
+
+Janine: You know?
+
+Austin: Yeah. Alright, so here's what I'm gonna say. Wherever you are, there is a window, and through the window, you hear something that at first feels very...like, not scary, but you're like, oh no, what's about to fucking happen? And then there is something about it that feels so rehearsed that you have to...you have to, like...it's the difference between being like, “Oh my god, people are yelling in the streets,” and then like, “Oh, this is part of some sort of weird precessional.” A group of people from the Sunflower District walk past whatever window you're sitting near, and call out a demand into the air. They say:
+
+Austin (as crowd): A message for the Marquis! You must open these gates in three days hence, or suffer the consequences! 
+
+Austin: And across the city, you hear you hear this message like repeated and yelled again, in a way that feels like there's some sort of theater going on. And there is a...then like a clapping and cheering, and then things go quiet again. And, uh...you've been around long enough. You remember, and did not realize it was coming up, but it must be it must be Open Gates soon, I guess three days hence. And Open Gates is a yearly kind of celebration that's held in Sapodilla, representing the moment when, during the Panic, the people forced the leadership of Sapodilla to open its gates and take in people from across Sangfielle. And every year, there is kind of a large party. It's a combination of like a cookout and a block party and a, you know, a ball. And there's like stage shows, and there's live music, and there's lots of food, and there's a sl— there's a little bit of a religious aspect in the kind of civil religion way, right, that this is a key myth of what it means to be Sapodillan. And here, even under the Glim Macula, the Macula has kept it going. Um, you know, you'll have to...we'll see where it takes place in the future. But at the very least, you know that in a few nights, there is going to be a big loud party throughout the city. And a little...any amount of peeking or looking into it will give you an indication of where that is and more, so. I guess, Blick group, do y'all have an idea of what you want to do?
+
+Jack: I mean, his guard isn't here, right? 
+
+Austin: Right. 
+
+Jack: And he's with...he's with people.
+
+Austin: Mm-hmm. There are other people in the little area. Yeah.
+
+Jack: But like, there are other people around, but they're not really associated with...
+
+Austin: Not at all. I think what, again, I described a mother and child, an older guy reading a newspaper, in a little courtyard, you know?
+
+Jack: I mean, we could just...we don't do this very often on the show. We could just jump him. 
+
+Ali: [surprised laugh] We definitely could.
+
+Jack: I've been thinking about it, and like...like, the most honest thing in terms of like, how would Pickman approach this, having tried to reach out to the Shape and failed, and given what we know, is be like...I'm bigger than him, and I have a gun. So we could just Compel him to, you know, to tell us where Chine is or to take us to Chine. I don't...I don't want to like...I don't want to involve you in something that you don't necessarily want to be involved with in that way, Ali.
+
+Ali: [laughs softly] I...
+
+Jack: What is your position here? 
+
+Ali: I'm fine with that. The only alternative idea I had was like Marn talks to him, like under some deceit, being like, “Oh, you know, I'm here for this meeting, yada yada yada.” And then we do some sort of like poison dart situation. So I think that like the kidnapping slash like compelling with violence is probably better than that. 
+
+Jack: Do you have Discern? 
+
+Ali: Do I have Discern? I should...uh...yes.
+
+Jack: ‘Cause if you could, like, identify some sort of like getaway route, where we could spirit him away to a temporary safe location?
+
+[0:50:05]
+
+Ali: Oh, yeah, for sure. I could also like especially do that. I think that I...
+
+Jack: See, this is why you work with a Keen. [Ali laughs] 
+
+Austin: Mm-hmm.
+
+Ali: I don't think that this is technically a Delve. But I do fictionally have the power to find an out of the way location where you can catch your breath and recuperate. 
+
+Austin: Sure.
+
+Jack: Oh shit.
+
+Ali: Without fear of being discovered by your enemies. 
+
+Jack: Oh shit!
+
+Ali: So, this is like...this is, you know.
+
+Austin: We could treat the getaway as a sort of Delve, right? 
+
+Ali: Yeah. 
+
+Austin: That could be fun.
+
+Ali: [laughs] This is in my skill set.
+
+Austin: It is. It is. Do you want to try to Discern and find that escape route before you commit to doing violence? 
+
+Ali: Sure. [Ali, Dre, and Jack laugh] 
+
+Austin: Or do you want to play it by ear?
+
+Ali: Let's do the roll. Let’s see what this roll looks like.
+
+Jack: Yeah, I'm prepared to…
+
+Austin: Okay.
+
+Ali: And then… [laughs] 
+
+Austin: This— yeah.
+
+Jack: Is there any way I can help Marn here? I don't have...
+
+Austin: Do you have Haven? Do you have Discern?
+
+Jack: No?
+
+Austin: Then—
+
+Ali: You don’t have Haven?
+
+Austin: No. Pickman's, uh, situation… [Ali laughs] 
+
+Jack: Creature of the wilds. 
+
+Austin: Pickman’s, like...I realized this while I was prepping for this I was like looking over— obviously, every time I do this, I look over everybody's domains and skills. [Ali laughs softly] Pickman has like nothing. Pickman's living in a different game than any of y'all. [Ali laughs] And like, I know that some of y'all probably feel like you have nothing, but Pickman has three skills and three domains total. 
+
+Dre: Dang.
+
+Austin: And they're all very much a specific set of things. Like. I think they're good. It's a good set. Pickman has what, Compel, Delve, Kill? Is that right?
+
+Jack: Yeah. Mm-hmm. 
+
+Austin: That’s a pretty— 
+
+Jack: And then Cursed, Desolate, Technology.
+
+Austin: That's bad. I was gonna say— [Austin and Ali laugh] I think Cursed, Desolate, Technology— 
+
+Jack: I wasn’t expecting to be in a city.
+
+Austin: No, no, no. I'm not saying it's bad like you made bad choices. I'm saying that it's like, um...it's funny bad, because it's like specializing. It's...your skill set is extremely general, in the sense that like, okay, what are three things I need to do? Talk to people, go places, kill things. I'm an RPG character, baby. [Jack laughs] But then you picked Cursed, Desolate, and Technology, which in this setting are like three very niche things in comparison to like Occult or Religion or Haven, et cetera. Not— you didn't pick, because that's just how the class— that’s just how the class kind of came pre-built plus stuff you picked up along the way. It's just very funny to me, in contrast to a lot of people who've been like, scooping up as many...at this point, there are characters for whom, when I'm prepping, I write down what they don't have, ‘cause they have—
+
+Jack: Huh.
+
+Austin: —so many various skills and things like this, you know?
+
+Jack: Pickman is a...is a creature out of time. 
+
+Austin: Yes. [Ali laughs softly] 
+
+Jack: You know, you live on a train for long enough, and…
+
+Austin: Mm-hmm.
+
+Jack: We are in a station. So, you know, I could make a weak argument for the value of a Technology domain here. 
+
+Austin: For Technology. Eh, I’ll allow it. 
+
+Ali: Okay.
+
+Austin: I'll allow it with the sense that if it's your die, the answer here is going to tie to train shit in a way that's like creepy and dangerous. So, if it's the helper die that gets you the success, it's gonna be a Technology escape route, not a Haven escape route.
+
+Dre: Mmm.
+
+Jack: How do you feel about this, Ali?
+
+Ali: I'm fine. I also have Technology, so. 
+
+Austin: Yeah, there you go.
+
+Jack: Alright. Let's take a...yeah, let's take a...let's take that extra die for a Blick spiriting away.
+
+Ali: Okay. Yeah, this is just seeing if there's an exit.
+
+Austin: Mm-hmm.
+
+Ali:  And then if there isn't, we'll just go with Plan...D, at this point? [Dre laughs] 
+
+Austin: Uh huh. Hey, look at that. 
+
+Ali: And that’s a nine.
+
+Austin: Success, no Stress.
+
+Jack: Oh, beautiful! Beautiful! 
+
+Austin: And it's not one of the...it's not the final die. 
+
+Jack: Beautiful.
+
+Austin: So, you're good. You found a little escape route here. Something you thought was like a janitorial closet is actually a janitorial hallway, and it connects to like another little back room, and then that loops back down and around, and you can go either direction, into the city or out of the city from it. It's an easy access, easy place. No Stress. You got this figured out.
+
+Ali: Wahoo. 
+
+Austin: Now all that you have to do is kidnap the head of the guard. [laughs] 
+
+Ali: [laughs] That’s the easy part.
+
+Jack: We've done— look, we've done prep for this, which is more than we could say for some of our previous plans. 
+
+Austin: This is true. 
+
+Ali: Uh huh.
+
+Jack: Do you want to stay here and secure the route, Marn, or do you want to come with?
+
+Ali: Oh, like keep an eye out while you...while you rough him up, so to speak? 
+
+Jack: Mmm.
+
+Ali: That could work.
+
+Jack: Alternatively, maybe I could use the help.
+
+Austin: Uh huh. [Ali laughs] Realizing that she does not have any Haven.
+
+Ali: Oh sure. Yeah, I'd love to help you. I have knives on hand.
+
+Austin: There you go.
+
+Ali: I can be intimidating, I bet.
+
+Austin: I think Compel. This is again Compel and then Haven.
+
+Ali: Ooh. I can be very compelling.
+
+Austin: Only because like, it's not Kill, ‘cause Killing is trying to kill someone.
+
+Jack: Is trying to kill him. Yeah.
+
+Austin: Yeah. 
+
+Ali: Mm-hmm.
+
+Austin: Mm-hmm. And I think you're trying to Compel him by force. [Ali laughs] So. Go ahead, Pickman. Make that roll, and tell me what it looks like as you as you stomp into this place in your armor.
+
+Jack: Compel, Haven…
+
+Austin: Risky.
+
+Jack: Plus one.
+
+Austin: Mm-hmm.
+
+Ali: No whammies.
+
+Jack: [less confident] No whammies. [Ali laughs] Ah, you want me to roll before narrating what I'm try— nah, I should say what I'm trying to do, right?
+
+Austin: Yeah, tell me— well, you know narrate up into the point at which...you know what? No. Just give me the roll and then narrate, because we'll see how bad it is. [Ali laughs] 
+
+Jack: Yeah. Great point.
+
+Ali: [softly] No whammies.
+
+Austin: Oh, absolutely not. In fact, he goes...
+
+Ali: Wow!
+
+Austin: [chuckles] You march into the room. Jack rolled a two. [Dre laughs] 
+
+Jack: I’m just, I'm screwing my whole face up in front of my microphone.
+
+Ali: [sadly] There was a seven in there, but it was Risky.
+
+Austin: [overlapping] There was a seven in there, but it was Risky. It was Risky. It took that seven away. 
+
+Austin (as Blick): Oh, absolutely not.
+
+Austin: Says Blick, standing up from the...the bench and unholstering his hand cannon.
+
+Austin (as Blick): You stay right where you are, Shape Knight. 
+
+Austin: And, uh...god. You rolled a two, huh?
+
+Jack: Wait, we need to do fucking Stress. Ugh.
+
+Austin: Yeah, uh huh. Yeah. [Ali laughs sadly]
+
+Austin: This is— 
+
+Jack: When the dice do this, what’s the— 
+
+Austin: Hey, look at that! 
+
+Jack: Oh, okay.
+
+Austin: You each only got one, so that's not too bad.
+
+Ali: Mm-hmm.
+
+Austin: That's gonna go Fortune. Fortune Stress for both of you. As you were seen absolutely [Ali makes amused/frustrated sound] and are now held in place— not literally held in place but there is a giant hand cannon pointed at you—kind of gilded and filigreed and fancy—by the head of the Honorguard. 
+
+Ali: Fallout test?
+
+Austin: Always, yeah. No Fallout for Marn.
+
+Ali: No Fallout. 
+
+Austin: Nice twelve, twelve beating a nine. And a twelve from Pickman beating a six. Seems to have seen through you entirely here, Pickman. I think even says, like:
+
+Austin (as Blick): You're that Shape Knight. You'll be having a seat.
+
+Austin: And points at one of the other benches and like, you know, with the gun and like kind of gestures as if this is where you're supposed to go sit down. I think the other people in here are like a little nervous and have given the attention to the three of you. Blick and the two of you, to be clear.
+
+Jack: Do you want to...do you want to do what this guy says, Ali? Or do you want to press on?
+
+Ali: [sighs] Is there a way that we can like, listen to him, wait for an opening for round two, and then… [laughs] 
+
+Jack: My worry is that as soon as we sit down he's gonna call his guys.
+
+Ali: Sure.
+
+Jack: But maybe him calling his guys could be the opening, you know?
+
+Ali: Yeah. In my head, it was like, we sit down, he tries to intimidate us or do his next step or whatever, and then we do another like...
+
+Jack: And then we— when we get an opening, ideally before four burly men show up… 
+
+Ali: [laughs] Throw a swing or whatever. 
+
+Austin: Uh huh. 
+
+Ali: And then, yeah.
+
+Austin: Yeah. So, you do the sit down? 
+
+Jack: Yeah, just, you know. 
+
+Austin: As requested.
+
+Jack: Mm-hmm.
+
+Austin: Then yeah, I think he says like:
+
+Austin (as Blick): Frankly, I should deal with you myself. 
+
+Austin: And then:
+
+Austin (as Blick): [menacing] But that would create a lot of paperwork. So you sit right there.
+
+Austin: And like kicks the door open a little bit and gets ready to yell out to get people to come arrest you. Here is your moment to try something. Still Risky.
+
+Ali: I don't know how to do this not loud, but… [laughs] 
+
+Austin: Uh huh?
+
+Ali: I feel like we could just...Marn could just use the extra height from being on a bench instead of standing on the ground and being a little guy, could just literally jump this guy.
+
+Austin: Just literally jump on and just try to...
+
+Ali: Yeah.
+
+Jack: To try and incapacitate him or…?
+
+Ali: Yeah.
+
+Jack: Yeah, I mean, I'm prepared to back you up there.
+
+Ali: Yeah.
+
+Jack: He doesn't seem to have disarmed us, which is great. [Ali laughs] 
+
+Austin: Well yeah, because of the pointing a gun at you. I guess, yeah, he did not...he did not say “put your weapons on the ground,” you're right. Yes.
+
+Ali: Right. But like, I jump on him, you take his gun, and then we drag him away like Plan B. Or Plan...
+
+Austin: What, Plan E? [laughs] 
+
+Ali: It’s Plan C.
+
+Jack: Plan F or… [Jack and Ali laugh]
+
+Austin: Mmm, uh...you were on Plan D a second ago, so… [Ali laughs] I feel like this is like...god, what even is this? I think we're past Compel at this point, ‘cause you're not threatening.
+
+Ali: Mm-hmm.
+
+Austin: It's not— I guess it's...I would say Endure or...you know? [Dre chuckles] 
+
+Ali: Well, here's a wonderful thing that I just remembered. [laughs softly] Which is that once per session before you roll dice to resolve an action, you can state that your result is a six. 
+
+[1:00:07]
+
+Austin: There you go. 
+
+Jack: Oh, shit!
+
+Austin: Love it.
+
+Ali: Sorry about that, Pickman. I really should have done that last roll. [Ali and Jack laugh] But here we are.
+
+Jack: No, no, no. It’s okay.
+
+Austin: Well, it’s once per session. So yeah, give me a, um...give me a, uh...I guess you just get a six. I guess I get to do...I get to do damage to you, because it’s six, right? 
+
+Ali: Yeah. It’s Stress time, yeah.
+
+Austin: And just you. It's not hitting Pickman in this situation, so.
+
+Ali: Uh huh.
+
+Austin: Take— oh my god. [Ali laughs] So, you're gonna get Fallout here. Whoops, I clicked away.
+
+Jack: Wait, wait, hang on. No. Well, what Stress would it be?
+
+Austin: I think it's five Blood, as…
+
+Jack: I can take that. 
+
+Austin: What's that? 
+
+Ali: Oh.
+
+Austin: How do you do that?
+
+Jack: Um, with...you mean mechanically or narratively? 
+
+Austin: Mechanically, mechanically.
+
+Jack: I have a move called Knight Protector.
+
+Austin: Uh huh.
+
+Jack:  Once per situation, when an ally within arm's reach would— when an Ali within arm's reach—
+
+Austin: Ah. [Ali laughs, muffled]
+
+Jack: —would mark Stress to Blood, [Jack and Dre laugh softly] you mark an equivalent amount to Blood instead.
+
+Austin: So then mark five to Blood.
+
+Jack: Nope.
+
+Austin: Ooh.
+
+Jack: I mark two to Blood, because I have three Blood Protection.
+
+Austin: Look at you. Look at that. 
+
+Ali: [impressed] Oh.
+
+Austin: That's the class workin’ as intended right there. [Ali laughs] Give me your Fallout test.
+
+Jack: Um…yep.
+
+Austin: I’ll determine the Fallout based on if you— or, I'll determine the narration based on if you get Fallout or not.
+
+Jack: No Fallout.
+
+Austin: No Fallout. Incredible
+
+Ali: Wow.
+
+Jack: Like, what does...what is the attack that Blick is going to make against Marn? 'Cause I know what— 
+
+Austin: Blick is going to shoot Marn. Blick is going to like throw Marn on the ground and try to shoot her, and in the tussle, presumably, you get involved and prevent the gunshot.
+
+Jack: Well, I think what happens is that like Pickman just says:
+
+Jack (as Pickman): Absolutely not. [Austin chuckles] 
+
+Jack: And stands up from her chair and just pushes Blick’s hand up so that it discharges into the ceiling.
+
+Austin: Yeah. Yeah. And, at this point, you have...I mean, I guess you're doing...are you trying to knock Blick out here? What are you trying to— 
+
+Jack: Yeah, why not, right? 
+
+Austin: Is that what it is?
+
+Jack: Was that your plan, Ali?
+
+Austin: Yeah, it was Marn's attack, right? So.
+
+Ali: Yeah, I think knocking him out to like bring him somewhere else is probably the safest play at the moment.
+
+Austin: Um. What are you hitting him with? Just your hands?
+
+Ali: Um...
+
+Jack: I can hand you a gun that I just took off him.
+
+Ali: [laughs] Yeah, the like, the jumping action I thought was like a claws situation. But now a knockout is a whole different thing.
+
+Jack: Oh shit. Marn has claws?
+
+Ali: I'm a capybara, right?
+
+Dre: Yeah. 
+
+Austin: Yeah.
+
+Jack: Do capybaras have…? [typing] Capybaras... 
+
+Ali: There’s something. [laughs] 
+
+Jack: Whoa!
+
+Austin: There’s really something down there. Yeah, right? There's probably something. Sure. Big old...big old...
+
+Janine: They got like duck feet but with claws.
+
+Austin: But with claws.
+
+Dre: Yeah. 
+
+Ali: [interested] Mmm.
+
+Austin: Yeah. They’re neat. I mean, that's a...you're gonna do D4 damage to this...this motherfucker, basically. 
+
+Ali: Want me to roll that? 
+
+Austin: Sorry that you don’t get a single roll. Yeah, you go ahead and do that, Marn. 
+
+Ali: [softly] I got three.
+
+Austin: Hey, that's not bad. 
+
+Jack: Oh, hey. 
+
+Austin: Uh, at this point, I think you've like, you've hit him across— you've hit him wherever you've hit him. In the head, the face, whatever. He is not knocked out, unfortunately, but he's spitting blood and is like:
+
+Austin (as Blick): [outraged] I can't believe this. 
+
+Austin: And I think between the two of you, you're able to hold him in place at least. Pickman's very big and has huge armor, and I think that it's fair to say that you're able to like just kind of hold him down. And he has not started screaming yet because of his being an egotistical asshole. [someone chuckles] And like not wanting— and being very prideful. But he is still awake, you know?
+
+Jack: Can we blindfold him? 
+
+Austin: Yeah, sure. Get some… [deep breath] You know, uh, you just have some loose cloth. Some rags.
+
+Jack: Go for the Ezek Semm approach. 
+
+Austin: Yeah, uh huh. Mm-hmm. Tie a rag around his eyes.
+
+Jack: Actually, what was the way that Ezek got out of his...he just wriggled off and then cuts the blindfold on...
+
+Austin: He had horns because of being a caprak, right?
+
+Jack: Yeah, like I wonder if there's something here where— 
+
+Austin: This guy’s a human, yeah. 
+
+Jack: —Pickman and Marn are able to be like, we've done this before—
+
+Austin: Uh huh. [Ali laughs] 
+
+Jack: —and it went badly last time—
+
+Dre: Mm-hmm.
+
+Jack: —and here's how we're gonna make sure we, you know, do it right this time.
+
+Austin: Let’s move...I would say, at this point—
+
+Jack: Yeah.
+
+Austin: You've blindfolded him. He's still aware, but— and you've kind of tied his hands behind him maybe, and you just gotta get out of here. This is gonna be a short escape Delve, as we talked about. Give me— someone give me Delve Haven.
+
+Ali: Sure.
+
+Austin: To kind of navigate through this escape route safely.
+
+Ali: I can do that. Is there an assist that you're able to do there, Pickman?
+
+Jack: Um...I could assist with Delve.
+
+Austin: Yep.
+
+Ali: Oh, sure. Yay.
+
+Austin: Do it. 
+
+Ali: And this is... 
+
+Austin: And this is...this remains Risky, yeah. 
+
+Ali: Yeah. That’s what— yep.
+
+Austin: Uh, partly Risky, bec— oh my god.
+
+Ali: Yowza!
+
+Jack: Oh no! 
+
+Ali: Rolled a three.
+
+Austin: Four, one, three, one. [Ali laughs] And so the four gets taken away, leaving you with a three.
+
+Dre: [sympathetic] Woof.
+
+Austin: Oh my god.
+
+Ali: Not our day.
+
+Austin: Both, uh...Marn, take three...take three Fortune here.
+
+Ali: Sure.
+
+Austin: And then similarly, Pickman take one Fortune, which you cannot protect against, ‘cause you're unlucky right now.
+
+Jack: No. We are fucking unlucky. Building our own mousetrap.
+
+Austin: Yeah, uh huh. You literally just did the thing that you were warned against! [Austin and Ali laugh softly] Incredible. Um.
+
+Jack: Oh!
+
+Ali: Yowza.
+
+Austin: Well, there's a Major from Pickman. Incredible. [Ali laughs] Uh...huh. I see. I see, I see, I see. Um.
+
+Jack: Can we take a mulligan on the Fallout this time, Austin?
+
+Ali: The worst kidnapping.
+
+Austin: You want me to just hold it and I'll just cash it in later is what you're saying. [Ali laughs] 
+
+Jack: The thing is, all the constituent parts of this kidnapping are in place.
+
+Ali: Mm-hmm.
+
+Dre: Mm-hmm.
+
+Austin: Uh huh.
+
+Jack: [as if starting a list] We got the guy. [pauses] [Ali and Jack laugh] We got...
+
+Austin: This one's very funny. Here's a Minor one. Who got Minor? Someone got Minor. 
+
+Ali: I got Minor.
+
+Jack: Marn.
+
+Austin: Okay, Marn. The Hard Way: “You lead the party into danger.”
+
+Jack: Oh!
+
+Austin: “The next obstacle the group attempts to overcome is Dangerous. They can reduce it to Risky or even Standard with a decent plan.” [Jack laughs softly] Simply have a plan next time, and... 
+
+Jack: We had a plan!
+
+Austin: [doubtful] Mmm.
+
+Jack: We did the prep. 
+
+Austin: Mm.
+
+Jack: We had a plan.
+
+Austin: Mm-hmm. And then you got a Major one.
+
+Jack: [dreading] Yeah. 
+
+Austin: Remember that this clears all of your Stress, ‘cause it's Major for you, Pickman.
+
+Jack: Yeah, and that's good. 
+
+Austin: That’s great.
+
+Jack: I could use that. 
+
+Austin: Yeah.
+
+Jack: I'm actually not owned. [Dre laughs] 
+
+Ali: Do I clear my Fortune Stress?
+
+Austin: You clear your Fortune Stress, Marn.
+
+Ali: Okay.
+
+Austin: Correct correct.
+
+Ali: And also, since I marked Fortune Fallout, do I roll with mastery for the remainder of the situation?
+
+Austin: You do. Look at that. 
+
+Jack: Yeah, see, we planned this. [Ali laughs] 
+
+Austin: So, this part, this is gonna hit you...this is...I need you to...hmm. Interesting. I'm gonna make a...I'm gonna give you a choice here. Do you want a variation on the Fortune Stress Reputation— or, the Fortune Fallout Reputation or Unwilling Leader, Pickman?
+
+Jack: What is Unwilling Leader?
+
+Austin: I'll tell you what they both are as written. I'm gonna tell you, you're not gonna get either of these as written. You're gonna get a var— again, a modification of either of them. Reputation as written is: “Another delver has gotten wind of your successes or weaknesses, and they are coming for you. You are ambushed by a hunter seeking to claim your head and relieve you of your hard-earned supplies. Remove this Fallout once the fight is over.” Unwilling Leader is: “You end up responsible for an unwanted group. They have problems, and they look to you to solve them. Maybe you killed their boss, and now you're the new boss. Maybe they appeal to your sense of kindness, and you foolishly give in. Maybe the ‘group’ is an orphan you have to look after. You can use the group to achieve things, but honestly they cause more problems than they can solve. Immediate, ongoing.” 
+
+Jack: I'll take the hunter. Er, the Reputation.
+
+Austin: Okay. So then, the way this is...you should write down Hunted with, I guess, the following, ongoing.
+
+Jack: This is a Fortune Fallout? What is this?
+
+Austin: This is a Major Fortune Fallout. Hunted. The Shape Knights have found your heresy. A hunter has been dispatched.
+
+Jack: They’re the fuckin’ heretics! 
+
+Austin: Hours later, you have...we get...well, I mean, not the ones in this city, you know? Hours later, you know, we get the...the...you know, the mother speaking to members of the local law enforcement, the Macula, saying, “Oh, a Shape Knight came in, blah blah blah blah blah.” And then we see the Macula talking to a local Shape Knight, who then, who like, something's off here, and finds the Shape that you sketched in the nearby closet, and is like, “Oh my god. She tried to...she tried to evoke a train to do her bidding here.” And so you are being hunted now by the Shape Knights. Yeah, that'll cash in when it cashes in. First, you were simply exiled from Bell Metal Station. Now, all sorts of stuff happening. Um. You still have to finish this escape. I mean, like, the other thing here is there are footsteps behind you, right? And in real time, people are chasing after you as we speak. [Ali laughs softly] 
+
+Jack: The four burly men.
+
+Austin: The four burly men, as previously mentioned.
+
+Ali: Wow. And no information. [laughs] 
+
+Austin: What information do you— I mean you still have...you didn't lose…
+
+Ali: True. [laughs] 
+
+Austin: Blick quite yet, right?
+
+Ali: We didn't do the like talk to him at any point. [laughs] 
+
+Austin: No. You could do that now. 
+
+Jack: Well, we— 
+
+Austin: You could use your little, uh, your dip into a safe place, if you want to, to do your interrogation now in the middle of this Delve, I guess.
+
+Ali: Oh, is that still on the table?
+
+Austin: I guess, right?
+
+Ali: I figured with that fail, it was going...
+
+Austin: No, 'cause you're still in the middle of the escape Delve, you know?
+
+Ali: Sure. Sure, sure, sure. 
+
+Austin: Unfortunately. I did not...I did not close the guards around you immediately here.
+
+[1:10:01]
+
+Ali: Okay.
+
+Jack: Okay. [Jack and Ali laugh softly]
+
+Austin: So yeah, do you find like a little...some sort of small unused room, or did you leave the station behind and find an alleyway or a little outdoor crevice somewhere?
+
+Ali: I feel like that's worth doing, because it's also one part getting him alone, two parts maybe losing the trail?
+
+Austin: Yeah, at the very least it gives you a little bit of wiggle room.
+
+Jack: Mmm. Mm-hmm.
+
+Austin: And how we characterize what goes forward, you know?
+
+Ali: Uh huh. 
+
+Austin: The difference between active pursuers and like, there’s a bunch of— there's a patrol on, is difference between Risky and Standard, frankly. 
+
+Ali: Mm-hmm.
+
+Austin: You know? So. Though, actually, in this next case, The Hard Way, you lead the party into danger, blah blah, the next obstacle of the group attempts is Dangerous. So, actually, if you come with a good plan, you can reduce that, but, [Ali laughs] I just remembered that that previous thing happened. So yeah, so you get him somewhere where you can interrogate him, at this point.
+
+Ali: Cool. Okay. [laughs softly] I don’t even know how to open this conversation after trying to kidnap him and not being able to do that. Or, I guess we've sort of half kidnapped him.
+
+Austin: Mm-hmm.
+
+Ali: Um.
+
+Austin: He is kidnapped currently. You’ve just not brought him back to like headquarters. [Jack laughs]
+
+Ali: Sure.
+
+Austin: Which, you don't have a headquarters, so maybe it's fine.
+
+Ali: True. [laughs] True. Yeah, are we just gonna short cut to like, “Where are you keeping Chine?” Is there anything else on the table here that we will want from him besides that? Tell us where our friend is.
+
+Jack: If...if I was gonna get anything useful about all the bullshit that went down at Bell Metal…
+
+Austin: Mm-hmm.
+
+Jack: That would have been before everything went wrong consecutively.
+
+Ali: [laughs softly] Mm-hmm.
+
+Austin: If Blick even knows that shit, right?
+
+Jack: Yeah, yeah, but Blick is much more likely to know where Chine is.
+
+Austin: Mm-hmm. So you put a...you put some fear in this guy?
+
+Jack: Yeah. Uh, do you want to put the fear in, Marn? Or...
+
+Ali: Yeah. I could...I can Compel with your help.
+
+Austin: Yeah.
+
+Jack: Yeah.
+
+Austin: We are now...I guess, actually, this is the obstacle, which— 
+
+Jack: Oh! 
+
+Austin: Give me your good plan to drop this from Dangerous to just Risky.
+
+Ali: [laughing] Oh, sure. [Dre laughs] Oh, this is the obstacle.
+
+Austin: I guess so. It's the next obstacle the group is trying to overcome, right? 
+
+Ali: Yeah.
+
+Austin: As written. I guess we could defer it to being the full escape, but...
+
+Jack: Okay, options: we could lie to him about our position.
+
+Austin: Mmm.
+
+Jack: We could bluff in some way. We could say, uh...I'm spitballing here. I don't know what part two of this plan is. [Austin laughs] But we could say something like— [laughs] Sorry, I don't know what part twelve of this plan is. We could say something like, you know, “We know where Chine is,” or we could say we have got access to something that we don't actually have, or we could...I mean, just saying that we’ll kill him if he doesn't tell us feels like a pretty standard Pickman Compel—
+
+Ali: Sure.
+
+Jack: —so I don't think that's a “good plan.”
+
+Ali: We can—
+
+Jack: What leverage do we have?
+
+Ali: We can lie about Chine and be like— [laughs] This is such a bad idea.
+
+Dre: Uh huh?
+
+Ali: And be like, oh, you know having Chine in custody is dangerous.
+
+Dre: Oh yeah. Listen, we gotta go get him out of there before he kills all of your people.
+
+Ali: Yeah.
+
+Jack: Oh my god. We could say he has a...he has something, something that the Macula is really afraid of. Although, kidnapping Blick— why did we kidnap him? We could have just gone to the Macula headquarters and said… [Jack and Ali laugh] 
+
+Dre: Well, he started it. 
+
+Austin: Real dog who caught the car, who caught the wheel here situation. 
+
+Ali: [laughs] Someone hired us to go break Chine out.
+
+Austin: Mmm.
+
+Ali: And now...
+
+Jack: Keep going. Yes.
+
+Ali: You better tell us where Chine is, [faux threatening] buddy. 
+
+Jack: [uncertain] Mmm.
+
+Dre: Or...else. 
+
+Jack: Or… [Ali and Dre crack up] 
+
+Austin: I don't know this is a great...
+
+Jack: No, no, no. I think we should go back. [laughter continues] 
+
+Jack: I think we were onto something with Chine is...there is something about Chine that you don't know. 
+
+Ali: Uh huh.
+
+Austin: I like this. I like this. This is fun. 
+
+Ali: Okay.
+
+Austin: Let's just...let's roll with this. Let’s roll with this.
+
+Ali: [laughing] Okay.
+
+Austin: What— 
+
+Austin (as Blick): What don't we know about him?
+
+Ali (as Marn): He has a power—
+
+Jack (as Pickman): Mm-hmm.
+
+Ali (as Marn): —that you don't know about. He'll kill everyone in there.
+
+Austin (as Blick): Hollowfield will figure out his power soon enough and we’ll have it working for us before the day’s out. 
+
+Jack (as Pickman): Hollowfield’s dead. 
+
+Austin: That's not true.
+
+Jack: Uh, Pickman is just saying that. [Ali laughs] 
+
+Austin: Okay.
+
+Austin (as Blick): I saw Felix this morning. He's just fine. 
+
+Dre: It's afternoon now. 
+
+Jack: Yeah. 
+
+Ali: Yeah, Marn sort of pointing up at the suns. [Dre laughs] 
+
+Ali (as Marn): You sure about that?
+
+Austin (as Blick): You're bluffing. Or are you telling me you killed a friend of mine? Is this the game you're playing?
+
+Jack: Okay, so it's still Dangerous. [Ali and Austin crack up] Let's go in for a second swing. 
+
+Dre: You're really selling yourself short here.
+
+Austin: I'll give you Risky. I'll give you Risky. It's something. It's not nothing. I— let's keep it— let's see if we can find a wiggle in.
+
+Ali: Uh huh.
+
+Austin: I'm trying to open doors for you.
+
+Ali: Uh huh.
+
+Austin (as Blick): What makes you think you can handle the prisoner better than we can?
+
+Jack (as Pickman): Because you're tied up in a room at a train station, and we're standing over you with weapons.
+
+Austin: Now see, that's a plan. Give me a roll.
+
+Ali: So, I'm rolling Compel Haven with mastery with an assist from...
+
+Austin: Uh huh. With...right. Wait, what— oh, the mastery is from—
+
+Ali: Yeah.
+
+Austin: —the Fortune thing, right? Yeah, so then a plus one from Pickman.
+
+Ali: And this is Risky.
+
+Austin: Yes.
+
+Jack: Yes.
+
+Austin: This is Risky.
+
+Ali: That’s a six!
+
+Austin: Hey, success at a cost.
+
+Jack: Oh, okay. Okay. Okay! [Ali laughs] 
+
+Austin: Two, six, six, three, four. Lose a six, keep a six. Uh, you're each gonna take some Stress here again. Oh my god. Both of you take— I've been rolling doubles basically all day, [Ali laughs] which is very weird. Both of you take four...uh, take four Mind Stress each, as this just starts to get...like, the thing you're doing, lying to the head of the witch cops, is like a stressful thing to be doing. Knowing that there is someone in pursuit, you know? So, go ahead and give me...give me Fallout tests.
+
+Ali: No Fallout.
+
+Austin: Hey, no Fallout from either of you! Eleven beating a nine for Marn. [Ali laughs] 
+
+Jack: Pickman and Marn just look at each other.
+
+Austin: Uh huh.
+
+Jack: Just like, yep.
+
+Austin (as Blick): You expect me to hand him over to you? No. Absolutely not. They’re in the, uh...
+
+Austin: I think...I think...I think uh...I think what, at this point, he makes an offer to you. He says:
+
+Austin (as Blick): You let me go, I'll tell you where he is.
+
+Ali (as Marn): How do we know you won't just try to arrest us on the way there?
+
+Austin (as Blick): You have my word. 
+
+Austin: Actually, you know what? I think there's...he's a little more...you know what? Let me rewind this and go a different direction. Because you got a success here, which means you get the thing you want. You...I will again give you a choice. Either he slips up and says where Chine is or he makes an offer to let you in, in exchange for his freedom and safety here. Like a trade, basically. 
+
+Dre: But like he would take them there.
+
+Austin: You can tell me which one is more interesting. He would let you into the…
+
+Dre: Okay.
+
+Austin: I think— let's— let me color this a little bit. I think what he says is like, he says:
+
+Austin (as Blick): [resentful] Can’t believe this. Going about my business keeping the city safe, and isn't even my prisoner.
+
+Jack: Huh? Whose... 
+
+Austin (as Blick): Mabriella. Mab is always getting into this or that. Frankly, what her department gets into is a little beyond me. I just like to keep Sapodilla Sapodilla. What she and Felix get into down there is something else. Frankly, wouldn't mind if someone bloodied their noses a little.
+
+Jack (as Pickman): What assurances of safety can you give us? 
+
+Austin (as Blick): Well, you've got me tied up, and you're pointing a gun at me. So. 
+
+Jack (as Pickman): A passphrase?
+
+Austin (as Blick): [amused snort] No such thing. 
+
+Jack (as Pickman): A signet ring.
+
+Austin: Mmm. Gestures, like moves his hand a little bit as if to gesture like, yeah, sure, go ahead and take my ring.
+
+Jack: Is he implying that, you know, we...he physically needs to be with us in order to get us in, then?
+
+Austin: [hesitant] No. You should ask in character.
+
+Jack (as Pickman): You need to come with us to get us into the prison?
+
+Austin (as Blick): Mm-mmm. Night after tomorrow, big party, Open Gates. Half the Macula leadership will be across town at a concert. Rest’ll be busy, uh, keeping the party safe. Yeah? You slip under headquarters. Go right to the cells. Free your friend. See if I care.
+
+Jack: I mean he's just tweeting this out at this point. [Ali laughs] Like, what's to stop us saying like, “Yeah, okay, and we're not gonna let you go.” I mean, like...
+
+Austin: What are you gonna do instead? ‘Cause then you have a guar— then you have a burden which is what you do with this person. Maybe you kill him, and that's just like a thing you do, and that's, you’re killers, you know? You're making a decision about who you are. Alternatively, you keep him prisoner, and then like every...and then what I have is a thing that can go bad when you fail rolls, you know?
+
+Jack: What's Marn's position here?
+
+Ali: [deep breath] Um. Yeah, I don't know. It feels like a success, in that like we got what we need to get in and he gave us a window of when we would be able to do that. It seems like a jump to—
+
+Jack: Mm-hmm.
+
+[1:20:03]
+
+Ali: —to trust that he wouldn't try to retaliate in some way after we've embarrassed him.
+
+Jack: Yeah.
+
+Ali: I could do a Supplies Stress for some sort of knockout [laughs] thing.
+
+Austin: I mean, yeah, you could.
+
+Ali: And we could keep him somewhere, but that, again, that seems like a liability. Versus just like seeing how far this ring will get us.
+
+Jack: Hmm. Maybe I could try and curse him. [Dre laughs] 
+
+Ali (as Marn): [shocked] Pickman! [Ali laughs] 
+
+Austin: That worked last time.
+
+Ali (as Marn): You don't even...the last time you asked that, you just addressed the table, “Who knows how to do a curse?” You don't know what you're doing.
+
+Jack: I— [laughs] Out of character, I thought about it, and I think I'm in a pretty good shape to try and curse someone. [Ali laughs] 
+
+Austin: Unbelievable.
+
+Ali: Pickman slept on it and was like, you know what? Actually, I think I could curse someone. [laughs] 
+
+Jack: I think Pickman woke up and was like, “Oh, yeah, the dreaded symbol. The dreaded symbol of my order that, you know, marks itself onto the land.” You know, I think...
+
+Ali: Oh, like carve it into his palm or something, and then be like, well, your problem now. [laughs] 
+
+Jack: Well, so— alright. Okay. Here's...here's what I'm thinking, right? is on some level this is just a Compel bluff. And in theory, I might be able to get around whatever it—
+
+Ali: Mmm.
+
+Jack: Okay, so here's what I'm thinking. We mark him with the Shape in some way, and we say, “You might be safe from the Shape’s power now, but in three days time, it's Opening Gates day,” ‘cause presumably we've heard the same cry that Es heard.
+
+Austin: Mm-hmm. I mean, that's what he was also just telling you about.
+
+Jack: Oh, right, yeah. I mean, he said the—
+
+Austin: That's the party.
+
+Jack: He said the big party. Yeah.
+
+Austin: Yeah, he means Open Gates. Yeah. 
+
+Jack: And when the gates open, you know, the thing that is keeping you sa— how sure can you be that the thing that is keeping you safe is keeping you safe? And on some level, this is like a classic curse, because who knows if it works, but he...he might not know if it works.
+
+Ali: How often do you want to fuck around with this thing that you like… [laughs] 
+
+Jack: My whole job is fucking around with this thing! [Dre laughs] 
+
+Ali: Sure. But I thought like in a way that's...you're really being cozy with the Shape situation in a way that like, I thought it was more of a...you know, a [laughs] antagonistic relationship.
+
+Jack: I think Pickman thought it was more antagonistic, and then she had a weird encounter at a circular train station.
+
+Ali: Sure. I'm… [laughs] 
+
+Jack: This is Compel. Oh, sorry, go on. 
+
+Ali: I was just gonna say I'm good with the Shape symbol plan.
+
+Austin: Uh huh.
+
+Ali: It's ridiculous, but if we want another leg up, what's another...
+
+Austin: And in this— again. Is it a real curse or are you intimidating via Shape?
+
+Jack: Who knows what happens when you draw the Shape, right? Like...
+
+Austin: Well, are you rolling...are you rolling Haven or are you rolling Technology?
+
+Jack: Pickman is really trying to make it work.
+
+Austin: Then it’s, yeah, then it's Compel, Technology. Let's do it. It’s fun.
+
+Jack: Um...
+
+Ali: I guess the last time I drew the Shape symbol it like saved our lives, so… [laughs] 
+
+Austin: Yeah, you've done well with the Shape in a way that we've not yet seen— 
+
+Jack: When did you draw the Shape last?
+
+Ali: Um, when we were escaping Alaway. 
+
+Austin: Yeah.
+
+Dre: Mmm.
+
+Jack: Oh, sick. What happened? Oh, did the train show up to take—
+
+Austin: A train showed up.
+
+Ali: Uh huh. 
+
+Dre: Yeah.
+
+Austin: Yeah. Totally worked.
+
+Jack: Hmm.
+
+Ali: Shout out to our guardian the Shape train. [Ali and Dre laugh softly] 
+
+Austin: Mm-hmm. 
+
+Jack: [laughs] Um, yeah. I think, you know, I think Pickman takes Alaway’s— oh my god. He's here. 
+
+Austin: Oh, no! 
+
+Jack: I think Pickman, uh, takes Blick's hand, and yeah.
+
+Austin: Uh huh.
+
+Jack: Puts a mark of the Shape on his...on the back of his hand.
+
+Austin: On his hand. Okay. Give me a roll. Give me Compel, Technology.
+
+Jack: I take it Marn is not helping? 
+
+Ali: I could.
+
+Jack: I mean, this is a curse, so… [Austin takes amused breath] 
+
+Ali: I...is it? [Ali and Dre laugh] 
+
+Austin: Mmm. Mmm.
+
+Dre: Mmm. 
+
+Austin: Wow. Talking yourself— 
+
+Ali: This is great research. 
+
+Dre: The great rebuttal of all philosophical debates. [Ali laughs] 
+
+Austin: Yeah.
+
+Dre: “Is it evil?” “I don't know, is it?” [Ali, Dre, and Austin laugh] 
+
+Ali: This is great research.
+
+Austin: Yeah.
+
+Ali: I already have a whole journal chapter on evoking the Shape train that I started [laughs] in between the last adventures.
+
+Austin: Sure.
+
+Ali: And now this is just gonna be, you know, an appendix to it.
+
+Austin: Take the Stress— or, take the added die. Still Risky 'cause of the Shape. [Ali chuckles] 
+
+Jack: I don't want to get too explicit about how this is happening.
+
+Austin: Yeah. 
+
+Jack: But if I were to use gandy dancer tools, could I...
+
+Austin: Take the mastery.
+
+Jack: Take the mastery.
+
+Austin: Yeah. Uh huh. You sure could.
+
+Jack: And this is Risky?
+
+Austin: Yeah. I think also now looking up at you like, “You've gotta be kidding me.” Blick is.
+
+Jack: Compel, Technology.
+
+Austin: Uh huh.
+
+Jack: Rolls with mastery, plus one, Risky.
+
+Austin: Mm-hmm. 
+
+Jack: Ooh. 
+
+Austin: Ayy! Success at a cost.
+
+Ali: Woohoo.
+
+Austin: Now we're talking. You feel that you are just far away enough from whatever it was before that was preventing you from doing this. Nevertheless, Marn. [Austin, Ali, and Jack laugh] This has to bite you in the ass. Pickman, take one Stress to Echo.
+
+Jack: [laughs] Oh, we're doing it this way around this time? 
+
+Austin: Well, who’s helping?
+
+Ali: It was me, yeah.
+
+Jack: Oh, yeah, true. You rolled a...
+
+Austin: Exactly, so Marn is second.
+
+Jack: Yeah.
+
+Austin: So, Marn is second. Marn takes six Stress to Echo.
+
+Ali: Um, can I move that to Fortune? 
+
+Austin: Is that a thing you can do? You can just— 
+
+Ali: Once per situation? 
+
+Austin: There you go. Yes, you can. Uh huh.
+
+Jack: And I have one Echo Protection, so I don't actually take any.
+
+Ali: That’s hilarious.
+
+Austin: Unbelievable.
+
+Jack: Echo.
+
+Austin: Marn, go ahead and give me your Fallout. Okay. Only— only Minor Stress.
+
+Ali: Mm-hmm. 
+
+Austin: Or, Minor Fallout here. Very lucky here. Um...hah. Uh...
+
+Ali: Does that also clear that Fortune Fallout like immediately?
+
+Austin: Yes, it does.
+
+Ali: Wahoo. 
+
+Austin: The fortunate Stress. Yeah, yeah, yeah. Totally. This is...you know. Oh, this isn’t a curse, da da da da da da da. [Ali snorts, laughs] Right? Do you ever have a thing happen where you're like, oh, this is...I'm paying for this? 
+
+Ali: Sure. Sure. [Jack laughs] 
+
+Austin: The bottle of wisteria oil just cracks in half and leaks throughout all your stuff.
+
+Jack: Oh, god, that's gonna smell terrible. 
+
+Ali: It's probably nice.
+
+Jack: Perfume breaking in a bag. [Ali laughs] 
+
+Austin: Yeah, but it's every— everything in the bag just gets the oil all over it. 
+
+Ali: And this is just gone now. 
+
+Austin: So. It's just gone now. Yeah.
+
+Ali: Now my meat of the Mother-Beast smells weird. [laughs softly] 
+
+Austin: Smells like wisteria oil. Yeah, uh huh. Um.
+
+Jack: I think— 
+
+Dre: Marinade. 
+
+Ali: [laughing softly] The fact that I’ve been carrying around meat for two weeks isn’t the problem. It's the fact that perfume got all over it. [Jack laughs] 
+
+Austin: It’s been— it’s also definitely longer than two weeks at this point. [Ali laughs] Very gross.
+
+Jack: Did you cure it? Is it like salted?
+
+Dre: Boy, I hope.
+
+Austin: I don’t think so.
+
+Ali: Maybe they did that before they made it into a big sacrificial leg. 
+
+Austin: Yeah, uh huh. 
+
+Jack: Oh, yeah, maybe. Yeah. 
+
+Dre: Mm-hmm.
+
+Austin: It’s god meat. Who could say? [Ali laughs] 
+
+Dre: You gotta brine it. 
+
+Austin: You gotta brine it. Ugh.
+
+Jack: Yeah, I think—
+
+Austin: Anyway. 
+
+Jack: I think Pickman explicitly say— Pickman, you know, just like puts her hand over the mark on Blick's hand and says:
+
+Austin: Mm-hmm.
+
+Jack (as Pickman): William Blick, I curse you with the power of the Shape. If you make a move against us, Black Hook will come down on you from the north and consume you. Do you understand?
+
+Austin: I'm gonna describe a blood thing in the next sentence, so if you want to jump ahead 15 seconds to not hear a blood thing, you can do that. His eyes go look at you, and then they look down at the wound you've left on his hand, and on the Shape mark, little droplets of blood are riding the Shape.
+
+Jack: Ooh!
+
+Austin: Moving up and down it in beads. 
+
+Ali: Yowza. 
+
+Jack: Oh, it's working. [Ali laughs] 
+
+Austin: It's working. And so he— 
+
+Jack: Glancing at Marn. [chuckles] 
+
+Austin: And he looks back up at you and goes:
+
+Austin (as Blick): [grumbles]
+
+Austin: And spits on the ground, and says:
+
+Austin (as Blick): Yeah, yeah, yeah. Shape Knights.
+
+Jack: Uh, yeah, and I guess we just sort of like roughly stand him up.
+
+Austin: Mm-hmm.
+
+Jack: And, uh, say, you know, like, thanks for the tip. [Dre laughs] 
+
+Ali: Mm-hmm. 
+
+Dre: Catch ya next time.
+
+Jack: ‘Cause we've gotten the in now, right, as well, from him.
+
+Austin: Yeah. You got the signet ring, yeah, which will let you pass certain guards, effectively. Alright. Back to little hidey hole.
+
+Jack: [pleasantly surprised] I think we wrapped that up pretty well there towards the end. 
+
+Austin: All said? Yeah, uh huh.
+
+Dre: Mm-hmm.
+
+Austin: I'm not gonna make you finish your escape here. I think he calls off the search, given the circumstances. You know? People still do the come and investigate thing later because of it being violence in a Shape station. In fact, maybe this explains why it is the Shape Knights and not the Macula who are hunting you, is because word gets to the Shape Knights that there was this, and they’re the ones who come and investigate it, not the Macula, and find the mark and all of that. Get the description from the people who were in the room and blah blah blah, or in the courtyard. In any case, you're able to go back and meet up with Es. Let's...Es, do you have anything here in terms of getting this information and making moves or are you just waiting for whatever the next step is?
+
+Janine: For some reason, I feel like I should try and acquire a bomb. And I don't know why I feel that way.
+
+Ali: Mmm.
+
+Austin: Uh huh.
+
+Jack: Oh. Moved by a spirit. [Dre and Austin laugh] 
+
+Janine: But I do just kind of feel like this is one of those situations where it's like, it might be nice to have a bomb.
+
+Dre: Sure.
+
+Austin: I know where there's some TNT buried outside of town. [Ali laughs] 
+
+Jack: Oh! [laughs] 
+
+Austin: Who would you— how would you go about trying to get a bomb? 
+
+Janine: Um...I feel like— 
+
+Austin: I mean, I actually genuinely do know that, like...we don't even have to leave the party. Lyke does have a box of TNT, a box of dynamite, that could be broken down into a bomb, into a smaller bomb. 
+
+[1:30:02]
+
+Ali: And he was desperate to sell it to one of the party members for some reason.
+
+Jack: Desperate!
+
+Austin: He was. He was. I'm gonna message Keith really quick. 
+
+Jack: Also real quick, uh, is there any chance I could like try and like grab a resource off Blick?
+
+Austin: You got the signet ring, so you should take that down. 
+
+Jack: Oh, did I actually...did we take the signet ring?
+
+Austin: Yeah, yeah, yeah. I think so. That's your in. That's the way you're actually getting in. 
+
+Jack: Oh, okay. Cool. Yeah.
+
+Austin: That's a...that is a D8 Haven. You know, Blick's ring, Blick’s signet ring. And then, yeah, if you... [chuckles] Blick does have some other shit on him. I mean, like...you should also just take like a D6 of Sapodillan coins, let's say, right? You've just kind of fleeced him for money.
+
+Jack: What's the...yeah, that's very “Give me your sword,” to the skeletons from Pickman. 
+
+Austin: Yeah. Yeah, exactly.
+
+Jack: What’s the symbol on Sapodillan coins?
+
+Austin: They are the little, um...the Macula…
+
+Jack: Oh, candle. 
+
+Austin: Candle and punched out kind of candle flame.
+
+Jack: Also Haven.
+
+Austin: Right, also Haven. Correct, correct, correct. 
+
+Jack: Great. Just making sure I'm, you know, playing my very best Lye Lychen impression here. [Ali laughs] 
+
+Austin: Please, everyone do this.
+
+Jack: I bet his signet ring is really tasteless, too.
+
+Austin: It's absolutely tasteless. Uh, Keith messaged back and said, “Yeah, I would love to.” [Ali and Austin laugh] So some— at some— 
+
+Jack: Did you say, “Do you want to sell your dynamite to Es?”
+
+Austin: Yes. I said, “or loan it to her,” and Keith said, “Yeah, I would love to.” So, I feel like this is a...an IOU situation, maybe? Or a...
+
+Janine: Can I— yeah, I was gonna say, can I get the dynamite and promise to pick something cool up?
+
+Austin: Yeah. 
+
+Janine: Just like… [laughs softly] 
+
+Austin: Well, you have this—
+
+Janine: Get you a souvenir.
+
+Austin: What's amazing is you and Lyke actually have this going now, remember? From your pre-game relationship— 
+
+Janine: Yeah, yeah.
+
+Austin: —was that exact thing. [Ali laughs]  
+
+Janine: Yeah. Well, kind of. Yeah, it was— 
+
+Austin: Not exactly. It was...yeah.
+
+Janine: It was delving and instead of handing this shit that we were hired to get in…
+
+Austin: Uh huh.
+
+Janine: He took something, and then we went to do a do-over to make it up to the person, and I took something. [laughs softly] 
+
+Austin: Uh huh. Yeah. 
+
+Janine: Yeah. 
+
+Austin: Alright. I'm adding equipment to your thing. Now, this is Dangerous. It's limited one, Dangerous, Kill. It's Kill D12. It's very expens— it's very explosive. It is also, I believe, heavy. I think Keith— Keith’s written down here “mobile,” which is wrong. It is not dynamite that moves around on its own. [Dre laughs]
+
+Ali: Oh, I think it was that because it can get stolen.
+
+Austin: Oh! That's what it is. [Ali laughs] You know what, that's what it is. That is why it is that. 
+
+Dre: Mm-hmm.
+
+Ali: Oh, yeah, I remember this.
+
+Austin: Uh huh, so. Yes, you're right. So, I'm gonna put—
+
+Janine: I don’t need all of it. 
+
+Austin: Well, it's one big unit.
+
+Janine: I don’t need a case of dyna— how?
+
+Austin: As it's wired, it is a...it is like an exploding charge. It is meant to do mining.
+
+Janine: Oh my god.
+
+Austin: Do you know what I mean? So, you can...you could spend some...maybe… Has Es been slowly breaking this down into something a little more actually portable?
+
+Janine: I mean, a big crate of dynamite would be great if we didn't have the walk-in-the-front-door ring? [Ali laughs] 
+
+Austin: Yes.
+
+Janine: But since we have the walk-in-the-front-door ring, I'd kind of like something pocket sized. [laughs softly]
+
+Austin: So yeah, let's maybe break this down into, uh...I'm still giving you the whole crate, because I am going to channel Lye Lychen here. It's your thing to deal with now, you know? [Jack laughs] You are now in charge of this crate. You have to...it's your responsibility. So yeah, but you could break it down into a smaller thing. You could have been spending this time doing that, you know? So maybe it's like a D...I guess it would be two D8s is what it could be. Which makes it a little bit more...ba ba ba, there we go. It's still, you know, a lot of dynamite, but, boom. Es just going out into the fucking wilderness to get this crate of dynamite and break it down is very funny to me. Um, Chine, you said in chat you have something you want to try.
+
+Dre: Yeah, um…
+
+Austin: As you're digging. 
+
+Dre: So, as I'm digging, am I getting more of this, like...this goop stuff? Is that where that's coming from or was it coming from the bricks?
+
+Austin: The goop stuff is on...no, the goop stuff is like, has basically been spread across the entirety of this room.
+
+Dre: Mmm.
+
+Austin: Like a film on stuff. So, the deeper into the soil you get, the further from the goop you get.
+
+Dre: Gotcha.
+
+Austin: In a real way, right? 
+
+Dre: Okay. 
+
+Austin: But this takes you a— this is like taking you hours to dig, you know? But you, I think at this point, maybe you've managed to...when I say at this point, I don't mean after that William Blick scene. I actually think this is probably hours and hours later, you know, of constant digging to get deeper and deeper into this. Past the windows, you know, past the window and into the dirt. The bricks are now removed, and you could like, you could cover them up really quick if a guard came by, you know, or whatever. But what did you...what did you want to do or try? 
+
+Dre: Well… [sighs] So, my original idea was to…‘cause I guess I misunderstood the film thing. I thought it was coming, like, as I was digging into the dirt. 
+
+Austin: Mmm, I see. 
+
+Dre: But basically, I wanted to try seeing—and maybe I can try this with the dirt instead—but like, basically using either that film or the dirt as almost like an insulator—
+
+Austin: Right.
+
+Dre: —against the electric shock on the door. 
+
+Austin: I'm just gonna tell you, you tr— what are you— how are you trying it? What's the safest way you try it? 
+
+Dre: I probably cover one of the bricks in it— 
+
+Austin: Yeah.
+
+Dre: And like, throw it at the door and see if it acts— 
+
+Austin: It still zaps. 
+
+Dre: Okay, gotcha.
+
+Austin: This is clearly something...this is not a physics situation. This is not they've put wires on the door and are like attaching it to a battery. 
+
+Dre: Yeah, yeah, yeah. 
+
+Austin: This is...there is something magical happening here. For sure, for sure. 
+
+Dre: Okay.
+
+Austin: In a way that's a little sca— eh, for you, it's probably not that scary. But, you know.
+
+Dre: It's not great. 
+
+Austin: It's not great. 
+
+Dre: Um, I guess then, um...I mean, I'm a shrew person. Shrew people— shrews dig holes.
+
+Austin: They do. 
+
+Dre: I guess I'm just trying to make myself a tunnel. 
+
+Austin: Yeah. Um, I guess give me a, uh...it’s literally delving, right? 
+
+Dre: Mm-hmm. 
+
+Austin: Give me a Delve, Desolate. Or Warren, I guess. You're trying to make— mmm.
+
+Dre: I was gonna see if I could pitch you on Warren. [Austin sighs, conflicted] Because I'm basically trying to create a warren of my own. [laughs] 
+
+Austin: Yeah. I think...it's interesting, because there's part of the building you're in where Warren would totally work. This is not it. 
+
+Dre: Hmm.
+
+Austin: This is tightly packed dirt from—
+
+Dre: Yeah.
+
+Austin: —centuries of sediment falling and, you know what I mean, soil being packed in. There's a point at which you could get to a place that is a Warren, but Warren is already shot through with holes, you know what I mean?
+
+Dre: Sure.
+
+Austin: It's already been dug out to some degree. 
+
+Dre: Yeah, yeah, yeah. 
+
+Austin: And this place just hasn't. So, Delve, Desolate, and Dangerous, right? because of the Ringing Head. 
+
+Dre: Oh, right. Yep, mm-hmm. 
+
+Austin: Which, be careful.
+
+Dre: Eh, it's fine. 
+
+Austin: Look at that. Oh. Wow! You just did this without realizing what your situation was, huh? 
+
+Dre: Oh, right, 'cause mmm. Hmm. 
+
+Austin: Unbelievable that you just— you just were like, “Yeah, fuck it. I'll roll it.” 
+
+Dre: Yeah.
+
+Austin: Chine...because it was Dangerous, Chine was rolling two dice: one for the base plus one for Delve. That's two. On Dangerous rolls, you drop the highest— you, uh. You roll your dice, you drop the two highest results and use the third highest result. [Dre laughs] But I actually don't— wait, wait, wait. This might be...it’s saying success at a cost, take Stress, ‘cause you rolled a ten. But I'm actually not sure how you rolled a ten. 
+
+Dre: Right. 
+
+Austin: Because…
+
+Dre: Ope, nope, it says, “If that means your dice pool would be reduced to a zero, roll a single D10 instead.”
+
+Austin: There it is.
+
+Dre: “And use the difficult actions table instead of the core action table.” 
+
+Austin: Okay. Well, that’s—
+
+Dre: Effectively, this means the only way to succeed is if you roll a ten on a single dice.
+
+Austin: And you did do that.
+
+Dre: Which is what I did.
+
+Austin: Which is incredible. Okay. [Dre laughs] Jesus christ, Alright, well, but you do take Stress.
+
+Dre: Mm-hmm.
+
+Austin: It's just that you, uh...you also succeed.
+
+Dre: Yeah.
+
+Austin: Alright. One second. Let me double check what the Stress is in this place. Uh...why did I scroll? Or why did I...I closed this window by mistake is what I did. Alright. 
+
+Dre: Very Chine thing for me to not even realize this was the situation [Ali laughs] I was putting myself in. 
+
+Austin: It's so fucking funny to me. 
+
+Dre: But it worked. [laughs]  
+
+Austin: And it works. Take four Blood Stress and give me a Fallout test. 
+
+Dre: Good, ten, awesome. 
+
+Austin: Uh...that's what you're at, right? That's what your total... 
+
+Dre: Yeah, that’s what I'm at. Mm-hmm.
+
+Austin: Yeah. Um. Yeah, take Minor Fallout. 
+
+Dre: Minor.
+
+Austin: That's not too bad.
+
+Dre: Yeah.
+
+Austin: Also, as a note, your next roll will be Risky from— because of the Ringing Head.
+
+Dre: Yep.
+
+Austin: Instead of being Dangerous, which is good. Take the, uh...oh my god. This is a rough one. But like, you’ve— okay. You've dug yourself a hole here.
+
+Dre: Mm-hmm.
+
+Austin: You've dug yourself into...what I will say at this point is you could be in your little shrew hole instead of being in the room the next time someone comes in, right? For instance.
+
+Dre: Mmm.
+
+Austin: You could be...you could keep on digging to get away. However, you've been digging yourself a hole nonstop. You are Tired: you cannot gain skills— uh, dice from skills. 
+
+Dre: Okay.
+
+Austin: I'll give you the full text in a second, once I get it.
+
+Dre: Sure. 
+
+Austin: Yeah, “You are weary. You are going to make—” or, sorry, that's...I said Tired, right? Is that...yeah, that's correct. Tired: “You're weary. You're going to make bad decisions and snap at your friends. You cannot gain extra dice from skills.” So. You may recall Duvall had this many sessions ago. [laughs softly] But hey, you're making this happen. You're...you've made real progress on escaping this place by yourself, effectively. But I think at some point it does just get to be too exhausting. 
+
+[1:40:23]
+
+Dre: Yeah. 
+
+Austin: Um.
+
+Dre: Did you say I can cover this hole up? 
+
+Austin: Yeah, with the stone, with like the bricks that you pulled out of it?
+
+Dre: Yeah.
+
+Austin: Yes.
+
+Dre: So, I probably cover it up and just like fall asleep. 
+
+Austin: Yeah, that makes sense. Yeah, totally. Back to the Sapodilla crew. You all kind of rejoin each other. You all have some new stuff, some new toys. [Ali and Austin laugh softly] What do y'all do?
+
+Ali: We're going tomorrow night?
+
+Austin: It's actually the night after that.
+
+Ali: Oh, wow.
+
+Austin: You have a whole other day, if you wanted to do more preparations or stuff. Or we could just make this be in line with the...we could move the calendar so that the thing—
+
+Ali: Yeah, yeah, yeah.
+
+Austin: You know what I mean? I'm not, uh...like I said earlier, I know...the thing that's important is that the party that's happening is happening the same night as Davia Pledge’s oratorio. 
+
+Jack: Right.
+
+Austin: So, maybe all this happened a day— started a day later.
+
+Ali: Mm-hmm.
+
+Austin: Do you know what I mean? 
+
+Jack: We could also—
+
+Austin: I don’t have the Sapodillan social calendar in front of me.
+
+Jack: We could stand to do some prep.
+
+Austin: Mm-hmm. 
+
+Jack: Like, have a plan.
+
+Ali: We could have a plan. Um, we could also have an hour or two to spare at a landmark to make preparations for the coming challenges, and I could give everybody some—
+
+Austin: Totally.
+
+Ali: —probably Mind Protection?
+
+Jack: Oh, you're gonna give us a pep talk?
+
+Ali: Um, Mind Protection is One for the Road, so I think that I might be brewing you all like some tea.
+
+Jack: Oh, sick. Yeah.
+
+Austin: [laughs softly] This is “Never get into a fight you can't win. Once per session, when you have an hour or two to spare in a landmark, you can make preparations for the coming challenges.” 
+
+Ali: Mm-hmm.
+
+Austin: That one, right? Yeah.
+
+Ali: I feel like since we're going into the like psychic zone in the Glim Macula thing [laughs softly] we might want…
+
+Austin: Mmm. Fair enough. 
+
+Jack: Oh, yeah.
+
+Ali: Another Protection.
+
+Austin: Yeah.
+
+Janine: Yeah, that sounds nice.
+
+Austin: [laughs softly] That sounds good. So, you make everybody some tea. It is good enough to overpower the smell of wisteria that is just all over Marn now. [Ali, Jack, and Dre laugh softly] 
+
+Ali: Oh, also a point of order, just in terms of housekeeping.
+
+Austin: Please.
+
+Ali: Um, once per session I can clear D4 Blood Stress. I have eight Blood— oh wait, I have eight Mind Stress. Nevermind. [Ali and Jack laugh] 
+
+Austin: Mmm.
+
+Ali: Nevermind.
+
+Austin: RIP.
+
+Ali: Oh, could I find somewhere to… 
+
+Jack: How much…
+
+Ali: ...heal that, though?
+
+Austin: To get healed up? Uh, yeah. You can totally do that.
+
+Ali: Sorry, Jack. You go ahead before I… [laughs] 
+
+Austin: There is, in fact...yeah, Jack, go ahead while I look up the name of the clinic.
+
+Jack: How much Mind Protection does your cool wisteria flavored tea give us?
+
+Ali: Plus one. [Austin laughs softly] 
+
+Jack: Oh, just plus one?
+
+Ali: Mm-hmm.
+
+Jack: Okay, cool. Um...
+
+Austin: Um, there is a, uh...there is a...I don't remember, Marn, you got full access to the whole city, right? 
+
+Ali: I did, yeah. 
+
+Austin: There is a hospital, San Meseret(???) Hospital which is like a D12 like good hospital, so you could go there and and to try to heal some of— oh wait, sorry, you're going for Mind. You need Mind Stress.
+
+Ali: Mmm. 
+
+Austin: Yeah, there's a beer garden and food park. “Beer garden and food park,” I have written down here.
+
+Ali: Hell yeah. [laughs] 
+
+Austin: As a D8 Mind haunt. Chine, we'll be right with you. [Austin and Ali laughing] We just gotta hit up the beer garden and food park. 
+
+Jack: Can I also go to the beer garden?
+
+Austin: No. 
+
+Ali: Oh.
+
+Jack: Oh.
+
+Ali: Oh, 'cause you're being hunted. [laughs softly] 
+
+Dre: Damn.
+
+Jack: Oh, f—  
+
+Austin: Well, no, like there's actually a real answer to this. [Jack laughs] The answer is because it's in the district you don't have access to.
+
+Ali: Oh, right.
+
+Jack: Oh, great. Okay. I didn’t know if this was a... 
+
+Austin: You genuinely cannot. Um...you could probably find like a, you know, a smaller, less...you get yourself a D4 Mind haunt. You just can't get the nicer D8 one.
+
+Jack: Nah, I'll take her. Have a good time, Marn.
+
+Ali: [laughs] Es, you want to go to a beer garden with me?
+
+Janine: Uh, I don't have any Mind stuff to clear. 
+
+Ali: Oh.
+
+Janine: I'm like...all I got...I got Supply Stress, but that’s... 
+
+Ali: Might be a good time.
+
+Janine: That’s not really… [Ali laughs softly] 
+
+Austin: Damn.
+
+Janine: Could I go and then like...could I go and then like candy conventions some beer garden stuff in my coat and bring it back for...
+
+Ali: Ooh. 
+
+Austin: [laughs softly] You— 
+
+Janine: [laughs softly] Bring it back for Pickman?
+
+Austin: I actually think there's a special way you can heal Supplies Stress that we've never used, I want to say, which is you can share consumables by doing a Delve plus domain check to either help out an ally by handing over your supplies or scavenging useful materials from the surrounding area. So literally, yes, you could do a Delve Haven check, Es, to try to...or someone could do this for you to try to get you the supplies you need to heal. 
+
+Janine: Yeah, I don't have Delve or Haven, so. [laughs]  
+
+Austin: Marn has both. Marn could literally be like, “I'll bring you something back.” [Austin and Ali laugh] 
+
+Dre: You want some takeout? 
+
+Austin: Yeah.
+
+Dre: Here’s the menu. [laughs] 
+
+Ali: Hell yeah.
+
+Austin: Uh huh. You can also...you can also heal each other's Mind via Mend and the domain you're in, just as a reference.
+
+Ali: Oh. 
+
+Austin: So, that is a thing by— 
+
+Janine: I also don't...I don't have either of those, so.
+
+Austin: Yeah, I'm just saying, for the record, in terms of—
+
+Janine: Okay.
+
+Austin: —people who need to heal Mind, that's a thing that's available. It's Dangerous to do it— or, sorry, it's Risky to do it to yourself.
+
+Janine: Mm-hmm.
+
+Austin: But it's not Risky to do it to somebody else. I guess, Marn, what are you paying for your healing with?
+
+Ali: That is a great...here's— okay. Can we— [laughs] 
+
+Austin: Uh. Yeah.
+
+Ali: Literally from the last downtime I was like, the thing that I have to do is find somebody who wants to buy some taboo shit.
+
+Austin: Yeah. Mm-hmm. [Ali laughs] I think that's a— give me a Compel Haven to flip that stuff.
+
+Ali: Okay.
+
+Austin: If you want to flip that stuff.
+
+Jack: At the at the beer garden. [Ali laughs] 
+
+Austin: Right. At the beer garden.
+
+Ali: The situation has changed, so I've lost my mastery, unfortunately.
+
+Austin: Yeah, this is definitely a new situation. 
+
+Janine: Is this the oily meat you're trying to flip? 
+
+Ali: This is oily meat and bones.
+
+Austin: [laughs] Yes. 
+
+Dre: Ugh. That is cursed. [laughs] 
+
+Austin: And oily bone, right?
+
+Jack: Anyone here want some, uh, oily Mother-Beast? [Ali snorts] 
+
+Austin: Ugh.
+
+Ali: This is the city for it, though.
+
+Janine: I once had a…
+
+Austin: It is. Well…
+
+Janine: I once had a can of Pepsi in my school bag, and it—
+
+Ali: Ohh.
+
+Dre: Ohh.
+
+Janine: —and my keys poked through it. And it was like, first thing in the morning at school. [laughs] 
+
+Austin: Ah.
+
+Janine: And I was wearing my bag when it happened, so my back was covered in Pepsi, and all of the stuff in my bag was covered in Pepsi.
+
+Ali: [sympathetic/disgusted] Mmm.
+
+Dre: Mmm.
+
+Janine: You can't...you can't come back from that.
+
+Austin: No, that's done. You're done. 
+
+Janine: Yeah. 
+
+Austin: Alright, give me Compel, Haven. 
+
+Ali: Standard?
+
+Austin: Standard.
+
+Ali: That's a ten.
+
+Austin: Ayy!
+
+Ali: That’s a critical success.
+
+Jack: Oh my god.
+
+Austin: Increase outgoing success of the Stress, which means I'm gonna say you get to...you get to basically get more for it than…so, what are you trying to get here?
+
+Jack: You just meet a fucking weirdo. 
+
+Ali: Oh my god. 
+
+Austin: Yeah. I mean, I know who's buying it. Solitaire(???) the High Sage, who you may remember I mentioned offhand as being a complete fucking fraud in the Sunflower District who can only heal D4 Echo Stress [Jack laughs] instead of the D8 that the real...um, the real kind of sage, the fortune teller that y'all visited last time.
+
+Ali: Mm-hmm.
+
+Austin: Who's out in the Scorpion District. Anyway, Solitaire would love to buy the Cursed wisteria meat. And I'm gonna say with that ten you actually flip it for more than what you needed here.
+
+Ali: Hell yeah.
+
+Janine: You should tell him it's pre-anointed, that’s what the oil is.
+
+Austin: Exactly.
+
+Jack: Ohh.
+
+Austin: [laughs] That's— exa— 
+
+Austin (as Solitaire): I see you’ve brought me annointed meat! [Ali and Jack laugh] 
+
+Austin: Says Solitaire.
+
+Austin (as Solitaire): And a bone to boot.
+
+Ali (as Marn): Yeah.
+
+Austin (as Solitaire): Ahh.
+
+Ali (as Marn): These are ritual items.
+
+Janine: Gross. [Ali and Austin chuckle]
+
+Austin: God.
+
+Austin (as Solitaire): The waves have blessed me today. There are waves all around us. Do you know this, Marn? 
+
+Ali (as Marn): [feigning interest] Waves? 
+
+Austin (as Solitaire): Waves in the air, waves in the clouds. Waves in the sea. Most people know about those, but I know them differently. 
+
+Ali (as Marn): Oh, true. The wind is sort of wave.
+
+Austin (as Solitaire): [sternly] No. This is false propaganda from the wind worshipers! The wind is an anti-wave, which is itself sort of a wave.
+
+Ali: [laughs] Marn, in attempting to fleece this person, which I'm about to do in a second, is like nodding very like sagely, like: [Austin laughs] 
+
+Ali (as Marn): Yeah. Mmm. The wind. Yeah, yeah, yeah.
+
+Austin: Yeah, absolutely true. For real. [Ali laughs] Marn with a real Kal’Mera Broun moment right now. [Ali and Jack laugh] Uh. [laughs] I found a rich eccentric. How do I get their money?
+
+Ali: You don’t be an academic without like knowing how to deal with these people. [laughs] 
+
+Austin: Oh, you're not wrong. You're not wrong. You're not wrong. Alright, Compel Haven. Da da da da da. And you crushed it. Let's see here. Yeah, you got a complete success. [Ali laughs softly] It's so rare that we sell stuff outright here, that I need to learn these rules for a second.
+
+Ali: Oh, sure. 
+
+Austin: Uh, find a seller. You've done that. You've...or rather, find a buyer. Yeah, so these are both D6 to sell now, which means you can kind of exchange them if you want to for other D6 things or you can mark that as like Supply Stress healing, if that makes sense.
+
+Ali: Oh, sure, sure, sure.
+
+Austin: Or you could do a mix, 'cause you're selling two things, right? So, either...I mean, if you wanted to be very kind here, you could give Es D6 Supplies healing with one of them and then take a D6 resource instead with the other. Or you could take two D6 resources of your kind of will here, or two Haven resources, basically.
+
+Ali: Um...I do think, unfortunately, I'm gonna take two resources.
+
+Austin: Two different D6 Haven.
+
+Ali: Because I'm down to two resources. This is just trading for something actually useful.
+
+[1:50:02]
+
+Austin: Yes, this is fair. This is fair. So then, let's say...let's see some fun D6 things you could flip with this person. Uh, I think that you get a bottle of...like a little, like a glass bottle of blessed tree bark. Which is Wild, actually, instead of being Haven.
+
+Ali: Okay.
+
+Austin: I'm thinking about what Solitaire the sage would have, you know?
+
+Ali: Sure. Yeah, thank you. 
+
+Austin: And then...let's see, what else is fun? Maybe some sort of Occult ink, a vial of Occult ink. What’s a fun type of magic ink that exists?
+
+Ali: Is it like...is it like an invisible ink situation, but like...
+
+Austin: Yeah, it is. And you look at it, you're like, “There's nothing in here.” [Ali laughs] And he's like:
+
+Austin (as Solitaire): I assure you Solitaire does not lie! It's there. Now watch!
+
+Austin: And takes out a similar vial and dips a quill into it and writes something on a nearby piece of paper. 
+
+Austin (as Solitaire): You see, it's invisible.
+
+Ali (as Marn): Mmm.
+
+Austin (as Solitaire): Only a trained eye can see the words I've placed down on this paper.
+
+Austin: You're not sure, but it is worth D6. [Ali and Jack laugh] 
+
+Ali: Marn squinting, and it says like, “Come to my show,” or whatever the fuck he does. Does he do performances? I think he does.
+
+Austin: [laughs] Exactly, yeah. He almost certainly does, yeah, uh huh. [Ali laughs] For sure. Alright. Nice job upgrading those…
+
+Ali: Great.
+
+Austin: Those, uh, hard to flip...
+
+Ali: But now I have to spend one of them to heal.
+
+Austin: Oh, right, yes. you will now have to spend either of them to heal your Mind Stress, correct. Yeah.
+
+Ali: Um...this guy doesn't heal Mind Stress? I can’t just… [laughs] 
+
+Austin: [as if obvious] No, he doesn't heal Mind Stress. He probably gives you Mind Stress.
+
+Ali: Can I, instead of—
+
+Austin: Careful. 
+
+Ali: —spending one of these, do a Supply Stress roll to heal it? Or does it have to be...
+
+Austin: I actually don't know that you can...rules as written, I don't see anything here that just says outright, like, oh yeah, just use your supplies as a...like, you can use your supplies to buy stuff, I guess is where I should be looking. Right? One second.
+
+Ali: Oh, sure, but it's not like using...
+
+Austin: In the healing section, it doesn't just say you can always roll Supplies to blah blah blah.
+
+Ali: Okay. Right, right, right. Yeah, yeah, yeah. 
+
+Austin: Do you know what I mean? That's why I'm struggling to find the exact writeup. So wait, da da da da da. What you could do is make a roll with Compel Haven to try to reduce the amount that you're spending. Do you know what I mean? So, let's say you do Compel Haven. You could, instead of taking D8 Stress, you could take D6 Stress to Supplies and still clear D8 from Mind. Each degree of success reduces how much Stress to Supplies it will...like, by default you can be like, yeah, I'm gonna spend D8 Supplies to get D8 Mind back, right?
+
+Ali: Mm-hmm.
+
+Austin: But if you succeed on a Compel Haven, you'll basically be haggling, effectively, to reduce that Supplies loss in exchange for the D8 heal.
+
+Ali: Okay. I'll take the risk on that. We'll see what happens. [laughs] 
+
+Austin: Alright, so then give me...give me a Compel...a Compel Haven as before. 
+
+Ali: That's another ten. 
+
+Austin: I can't fucking believe that it's another ten. [Ali laughs softly] Alright, so then, because that is not just a success, but it increases it by...da da da da da...yeah, part...yeah, okay. Success increases value by one. So, increase it by two. Actually, wait. This means you have way more...I just realized in retrospect, 'cause you got a crit last time, not just a regular success.
+
+Ali: Mm-hmm.
+
+Austin: Which means it's not just that you flipped them. Oh, you know what, no. Last time it's fine, 'cause it was taboo. Part of that success was you needed just a raw success to sell it at all.
+
+Ali: Yeah.
+
+Austin: But in this case, in this case, you are now only gonna take D4 Stress Supplies— or Stress— Supplies Stress, but still get your normal D8 Mind Stress reduced. So, go ahead and...what do you want to roll first?
+
+Ali: So, I’m—
+
+Austin: Do you want to roll—
+
+Ali: I’m rolling one D4 to see how much Supplies Stress I'm taking.
+
+Austin: Right, Supplies you take.
+
+Ali: Okay.
+
+Austin: Yeah.
+
+Ali: Which is a three. [laughs] 
+
+Austin: Only take three and then lose eight. Or, then lose D8.
+
+Ali: One D8.
+
+Austin: From Mind. Yeah. 
+
+Ali: [soft exclamation of frustration]
+
+Austin: ‘Cause that’s what the beer garden is. Unbelievable. You only rolled a two on the one D8. [Ali laughs] So you still, despite critting before, you still come in short. [Dre laughs] 
+
+Ali: Oh, that’s so funny. Okay.
+
+Austin: Uh huh.
+
+Ali: So, I now have six Mind Stress and then three Supplies. [laughs] 
+
+Austin: Uh huh, and three Supplies.
+
+Ali: I reduced my total Stress to a nine from...
+
+Austin: Uh huh. Worth it. You gained one Stress in this exchange.
+
+Ali: Mm-hmm.
+
+Austin: Unfortunately. You did everything right, and then it turns out D8s'll just betray you sometimes.
+
+Ali: That’s true. That was fun. It was worth the risk. 
+
+Austin: Well, I'm not gonna make you roll Fallout on this. I feel like the exchange of things doesn't...you know? I feel like this is not the moment.
+
+Ali: Sure. I appreciate that. 
+
+Austin: Okay. What's next? Pickman, you said you might want to make a plan?
+
+Jack: Yeah, it's like us around the table. Where are— are we like...
+
+Austin: I have no idea where you are. I've been very generous in allowing you to hide from the Macula without necessarily having a clear and definite— 
+
+Jack: Mmm. Like, bolt hole or something?
+
+Austin: Uh huh.
+
+Ali: Um...yeah, but in a populated location, I can always find someone willing to take me in, give me somewhere to sleep, and maybe even some warm food. So, I think we’re— 
+
+Austin: There we go.
+
+Jack: Sweet.
+
+Austin: There you go. Yes, that solves that, for sure. [Ali laughs] Yeah, you're...you find someone maybe that you worked with as a Keen, you know, years ago. 
+
+Ali: Yeah.
+
+Austin: Maybe. They're like, 
+
+Austin (as Marn's contact): [faint, friendly voice that trails off at the end] Oh, Marn.
+
+Ali: Uh huh.
+
+Austin (as Marn's contact): You guys can stay here. Careful out there. Et cetera. You need some...do you need a warm up on the coffee? [Ali laughs] I don't know who this character is, but they’re just doing their best. [Jack laughs] 
+
+Ali (as Marn): Thank you. 
+
+Austin (as Marn's contact): Trying to help everybody out. Make sure everybody has a nice day.
+
+Ali (as Marn): Yeah, great to see you again. [Ali laughs] 
+
+Austin (as Marn's contact): Of course. I don't know if I have a name. But this is my voice.
+
+Jack (as Pickman): Okay. Es, we...
+
+Austin (as Marn's contact): Should I leave? Is this a group— should I not be in the room for this one?
+
+Ali (as Marn): If you could give us some privacy, thank you.
+
+Janine: It's like a capybara in like a diner waitress outfit. [Ali laughs] 
+
+Austin: Yeah, that's exactly it, right? [Jack laughs] Yeah, a hundred percent. Yeah. 
+
+Austin (as Marn's contact): Alright. Well, bye!
+
+Ali: Yeah, we’re staying in the storeroom underneath a diner.
+
+Austin (as Marn's contact): I put some tea in the icebox.
+
+Jack (as Pickman): Thank you. 
+
+Janine (as Es): Why? 
+
+Austin (as Marn's contact): For iced tea.
+
+Janine: Okay. [laughs] 
+
+Austin: Very sad face on this capybara now. This carpana just kind of like:
+
+Austin (as Marn's contact): [halfhearted] Okay, bye. 
+
+Ali (as Marn): [scolding] Es!
+
+Austin: [laughing] And just like leaves, head down. [Ali and Jack laugh] 
+
+Janine: [sadly] Mmm. Aww. That’s not what I wanted. [Austin laughs] 
+
+Dre: Well, it’s what you did, so. 
+
+Ali (as Marn): It’s fine. We can smooth it out tomorrow.
+
+Janine: Just seemed weird.
+
+Ali (as Marn): They’re just sensitive. [Austin laughs] 
+
+Jack (as Pickman): Marn and I kidnapped William Blick. He let us know that there is going to be a large party held the night...uh, the night after tomorrow. And during that time, the place where Chine is being held will be left unguarded. 
+
+Jack: I believe Austin has put the cells beneath the Macula HQ?
+
+Austin: That is correct. Yeah. 
+
+Jack (as Pickman): We got a signet ring, which will get us in quickly. And I, uh...I marked him with a curse such that if he tries to retaliate, I assume a train will get him. Thought it might be a good idea to take this—
+
+Janine (as Es): That’s a hell of a thing to assume.
+
+Jack (as Pickman): You know. Might be a good idea to take this time and figure out what...what our order of operations is.
+
+Janine: Es puts two bundles of dynamite on the table. [Ali laughs softly] 
+
+Jack (as Pickman): Holy shit. [Austin laughs softly] Where did you get that?
+
+Janine (as Es): The stash. Where else would I get it? I left a little note in there for Lye. 
+
+Jack (as Pickman): Okay.
+
+Janine (as Es): We’ll pick something up for him.
+
+Ali (as Marn): So this is the exit covered, I assume?
+
+Janine (as Es): Well, it's whatever it needs to be. 
+
+Ali (as Marn): Yeah.
+
+Janine (as Es): That’s the beauty of dynamite, isn’t it?
+
+Ali (as Marn): Well, good job.
+
+Jack (as Pickman): Our goal is to go in there, identify where Chine is, get them out. If they're still alive, which I'm sure they are.
+
+Janine (as Es): I have an additional goal. They're doing something here to...mmm. You both know that I'm a heritrix, right? We don't need to make a big thing of it. I just want to make sure we're all on the same page. 
+
+Ali (as Marn): Mmm. 
+
+Jack (as Pickman): Mm-hmm.
+
+Janine (as Es): They're doing something here that's separating my kind from their hosts. 
+
+Jack (as Pickman): Hmm.
+
+Janine (as Es): And then...I don't really know. I know they're still around. I can tell they aren't gone. And they're concentrated. So, I imagine they're being kept much like Chine is being kept. So, in addition to freeing Chine, there are quite a few other people I am also interested in freeing.
+
+Jack (as Pickman): You want to, uh, extend the remit to a full scale prison break?
+
+Janine (as Es): Well… [hesitates] Not quite. I don't even know how tangible it will be when we help them escape. It might be like helping one person escape and then opening a window through which a breeze passes. It's a little hard to tell. Depends on the storage method.
+
+Ali (as Marn): Seems doable while we’re in there.
+
+Jack (as Pickman): Do you know where the heritrixes are being stored within the prison?
+
+Janine (as Es): Not as such, but I can probably find them or get us close enough. 
+
+Austin: Mm.
+
+Janine: And Es like pats the dynam— or not pats the dynamite, but waves her folded fan in the direction of the dynamite. [Ali laughs] 
+
+[2:00:06]
+
+Jack (as Pickman): Once we're in the building, are we planning on moving quietly or loudly?
+
+Janine (as Es): Well, the party should give us some cover, whatever our choice.
+
+Ali (as Marn): Quietly until we find Chine, right?
+
+Jack: Pickman sort of shifts uncomfortably in her chair. [Ali laughs softly] 
+
+Jack (as Pickman): Uh huh. I mean, is there anything here...you know, we go in. We locate Chine. Our exit route. What's our exit route?
+
+Austin: I'm gonna— I'm just gonna interject for a second, not because I'm...two things. One is, don't get...there's a limit to what you can plan for here, ‘cause you just don't know what you're walking into, and I don't want you to burn an hour—
+
+Janine: Mm-hmm.
+
+Austin: —or 20 minutes planning without infor— without— 
+
+Jack: Yeah.
+
+Austin: And there's information you cannot get except by going to this place, at this point. 
+
+Janine: Mm-hmm.
+
+Austin: Or kidnapping someone again.
+
+Jack: It's kinda like a damned if we do, damned if we don't. 
+
+Austin: It’s not damned if we do, I just don't want to...think about it like Beam Saber. You have your method of ingre— 
+
+Jack: Yeah.
+
+Austin: I mean, again, one of the rules here is also— one of our goals here is also to ask questions instead of over planning, right?
+
+Ali: Mm-hmm.
+
+Jack: Yeah, that's true. 
+
+Austin: And so I'm only interjecting, not to...I love it when characters talk and figure out plans. But at this point, I worry that you're like playing a game of Pictionary without a prompt.
+
+Ali: Sure. [laughs softly] 
+
+Austin: You know?
+
+Janine: Mm-hmm.
+
+Austin:  Like, your method of egress. Egress from what? You don't even know where, what it is that you're…
+
+Jack: I mean, like...we're not going— 
+
+Austin: Truly don't know what you're walking into.
+
+Jack: Unless we’re planning on coming out the same way as we're going in, which...
+
+Austin: Right. Exactly. 
+
+Jack: Oh! 
+
+Austin: But where are you going? What do you expect to find? Et cetera. Because— 
+
+Jack: Tunnels.
+
+Austin: Sure. Right.
+
+Jack: Okay. Alright. So maybe it— yeah. I think...
+
+Austin: And also, I know that there is a...there is a hypocrisy here in the sense of like, wasn't I just giving you shit for not planning? But in that last situation I felt like you actually did a good job of getting information around which you could plan, and the plan just kind of went off the hinges.
+
+Ali: Uh huh.
+
+Austin: Or, off the rails. That just happens sometimes. You know?
+
+Jack: Okay. Is it worth maybe looking for some sort of equipment that might help us? The thing that I keep getting stuck in— other than dynamite. [laughs] The thing that I keep getting stuck in my head is like [Dre laughs] the fucking escape rope from Pokemon games.
+
+Ali: Mmm.
+
+Austin: You have it. That's what your Supply Stress score is. 
+
+Jack: Oh, okay. Yeah, sure. 
+
+Austin: Right? Like, things like that, you can say, “Oh, can I do this?” and I can say like, yeah, go ahead and— if it's something that makes sense that would be in your supplies, then yes. Special stuff is what you need to go get equipment or resources for, you know? Now, if there's something special you want, then totally. Why not?
+
+Jack: Is there something...like, is it within the realms of possibility to go and try and get something that would give us a...like, a single use Sanctum of Stone Chorus?
+
+Austin: That's a big ask to look for at this point. I get what you...I'm not gonna say no, you can't find it. But you know that this city, where— 
+
+Jack: Magic is… [laughs] 
+
+Austin: —inside of its walls, the best magician you can find is someone who talks a bunch of bullshit about waves, it's gonna get tricky to find. [Dre laughs] It's gonna cost rolls.
+
+Jack: So, with that being said, is there any value in some sort of forward prep? To, ah, clear Stress or clear Fallout or try and pick up an item? Or do you think we should just go for it?
+
+Austin: I think you guys had downtime, and like, and then just add some more healing, and Marn has done the thing of prepping with the Mind Stress. Like, I think you need to get off the boat is my—
+
+Jack: Let's go.
+
+Austin: Again, I'm not— you don't have to do this. 
+
+Ali: Yeah.
+
+Austin: But like, every opportunity...it's tough, because if I have to play honestly, then every move you make in this city where people are looking for an excuse to rough people up and arrest weirdos...like, you're weirdos. And so I have to play that honest anywhere you go. If...you know, beyond now you've all heal— you know, you had the opportunity to do some healing. You've had da da da da da. So I'm like, I'm eager to get you into the mix, because the mix is the mix.
+
+Ali: Right.
+
+Austin: You know? Also ‘cause I'm eager to get the party back together so we can just have one big…
+
+Ali: Right. 
+
+Austin: Alright, then, are you doing this during Open Gates? Is that the plan? Is that the [laughs] the play?
+
+Jack: Yeah. I think so. You know, like…
+
+Austin: Okay.
+
+Jack: You know, like the, uh, going out for the heist, except instead we’re trying to get our friend back.
+
+[Music plays: “Sangfielle”]

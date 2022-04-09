@@ -1,0 +1,3072 @@
+Twilight Mirage 53: Our Flaws In A Vacuum, or the Promise We Made To Each Other
+
+Transcribed by Meko 
+
+
+[The Notion begins playing]
+
+AUSTIN (as Narrator): There is a trope in Keshan fiction that Keen Forester Gloaming has always hated. Periodically, all through the Principality, books, movies, games, and other stories about the Rapid Evening, would begin to find a sort of cyclical popularity. And in just about all of these tales, there was a commonly-used line that never failed to get a response from the audience and a groan from Gloaming. Some high-ranking agent, denoted as such by the honorary surname awarded to them—Vesper or Aubade or Dawn, perhaps—would be pushed to their very limit by circumstances outlandish, yet perfectly predicted by Crystal Palace. And the agent in question would shake their head and say something like, “You know, just because we knew this was going to happen doesn’t make it any easier.”
+
+Which is wrong. Utterly. For Keen, the foreknowledge that Crystal Palace offered was the most calming thing there could be. It was why even now, even as his flagship the Welkin Absolute came under fire, he operated with total serenity. It’s true that weeks ago, in a vulnerable moment brought on by the march toward Dark Day, he found himself confronted by doubt and considered abandoning his post. But here, now, in the action, there was only the choreography. He might be dancing towards darkness, but he knew he would execute each step perfectly. 
+
+His vessel was being harried by a pilot of great skill, Massalia d’Argent, whose entire life lay before Gloaming in data points and quotations and interactive diagrams, even as the two clashed in the sky above Skein’s central Church of the Self. A life of ambition and regret had honed Massalia and now, under the tutelage and command of the so-called Waking Cadent, they had reached their apex as a pilot, and Melodica, their makeshift machine-god had been sharpened too into something fearsome—to anyone at least, who could not see the future. But the tallest hill was not a mountain. Massalia’s lightning strikes could be anticipated, and while his own missile volleys would not find their target, they didn’t need to. They only needed to keep Massalia curious and engaged, so that they would not foil the Rapid Evening’s latest plan to destabilize the region: The Compel Project. Dark Day yet approached, but so long as he could keep the foe Excerpt busy, he would dance his way there, knowing that they would not be the one to bring it. 
+
+[Music ends]
+
+
+AUSTIN: Welcome to Friends at the Table, an actual-play podcast focused on critical world-building, smart characterization, and fun interaction between good friends, I am your host, Austin Walker. You can follow me on Twitter @austin_walker, and today we are playing Scum and Villainy, by Stras Acimovic and John LeBoeuf-Little, a hack of Blades in the Dark by John Harper. My goals are: to convey the fictional world honestly, to bring the Twilight Mirage to life, to play to find out what happens, and to make everything cool, weird, and touchable. Joining me, Ali Acampora.
+
+ALI: Hey, that’s me! You can find me @ali_west on Twitter and the show over @Friends_Table.
+
+AUSTIN: Jack de Quidt.
+
+JACK: Hi, I’m Jack. My mic was muted because I was clicking my mouse to look for a bird video.
+
+AUSTIN: Fair, fair, fair.
+
+JACK: You can find me on Twitter @notquitereal and buy any of the music featured on the show at notquitereal.bandcamp.com. 
+
+AUSTIN: By the time they hear this, there’s a new Bluff City track up, right?
+
+JACK: There sure is, yeah!
+
+AUSTIN: Awesome. It’s a good one. 
+
+JACK: It’s got a lot of trumpets in it.
+
+AUSTIN: It’s got some horns, it’s got some wrestling, there’s a superhero involved, it’s a whole thing. I guess that’s a little deep for introduction, but, you know. It’s in there also, I think. It’s in the track. A little Bruce Springsteen. 
+
+[Ali laughs]
+
+AUSTIN: Alright, also joining us, Art Martinez-Tebbel.
+
+ART: [Randy Savage impression] Heyyy Austin. Oh sorry, that’s not this recording.
+
+AUSTIN: Different game. Mm-hm. Good try though. 
+
+ART: I’m Art, you can find me on Twitter @atebbel. You can listen to some of us here talk about Kanye West @onesongpod.
+
+AUSTIN: [Laughing] That sounded so judge-y!
+
+ALI: [Laughing] You’re positive you want to hear us talk about Kanye West, you can go do that.
+AUSTIN: People—yeah, you can—
+
+ART: Old Kanye West, not current Kanye West—
+
+[Ali laughs]
+
+AUSTIN: [Skeptically] Mmmmmmm—
+
+ART: Well, a little bit about last week’s Kanye West which is not two weeks’ ago Kanye West—
+
+AUSTIN: By the time they hear this, it’ll be three weeks ago.
+
+ALI: Who knows what in three weeks will happen.
+
+AUSTIN: He’ll have revealed it to be a performance act and no one should ever accept that apology. So—
+
+ART: Kanye West, who conquered Puerto Rico this weekend in a fleet of b—
+
+[Austin and Ali laugh]
+
+AUSTIN: Next week on Bluff City. God, alright, sooo. Again, that’s @onesongpod, and as always, you can support us by going to friendsatthetable.cash and supporting us on Patreon. We really, really appreciate it; it lets us do really cool things, and that’s really all I gotta say about that, this time, for now. Instead, what we should talk about is, what happened last time? Let’s get everybody caught up, including ourselves. What was the, what was the—[laughing]. What happened? What—hey Ali, real quick, what happened?
+
+ALI: Uhhhhhm, so—
+
+ART: So mean—
+
+[Ali laughs]
+
+ALI: Okay, so we went to a company called Truance to get information about guns that were being produced, because we knew that they were being developed there, and because we knew that one of the people who worked there was gonna maybe get murdered because someone said that—[breaks off into laughter]. Because—
+
+AUSTIN: Uh-huh.
+
+ALI: It’s a whole society of people who can predict stuff—[laughs].
+
+AUSTIN: Uh-huh.
+
+ALI: —And they predicted the two murders, and the murders were the last thing that they predicted. 
+
+AUSTIN: Right.
+
+ALI: I’m right so far?
+
+AUSTIN: You’re right so far.
+
+[Ali laughs]
+
+ALI: So—
+
+AUSTIN: So you got there.
+
+ALI: Mm-hm. We went there with a fake milk scheme with Morning’s Observation, and we did a great job with that, you know—
+
+AUSTIN: Honestly, a very good job with the fake milk scheme.
+
+ALI: Such a good job! And then, you know, Grand Magnificent was able to use the time wisely [laughs] by going up and down into a laboratory twice—[breaks off into laughter]
+
+AUSTIN: Mm-hm.
+
+[Jack laughs]
+
+ART: I would like to clarify, for the listeners, that what—what happened was, I got down there—
+
+AUSTIN: What had happened was uhh—
+
+ART: This is not me as Grand Magnificent, this is me as Art, came up with the plan and forgot that this didn’t include the objective that I went down there for [laughs].
+
+AUSTIN: Uh-huh.
+
+[Ali and Jack laugh]
+
+ART: Luckily, Ali was gonna give me cover on doing stupid things—
+
+[Austin laughs]
+
+ALI: Yes.
+
+ART: —in the mission.
+
+AUSTIN: Right.
+
+ALI: So we, we all decided that we needed to buy more time [laughs]. Is I think what happened, how I remember it at least—
+
+AUSTIN: Uh-huh.
+
+ALI: That we all mutually decided that that’s what I had to do, and to buy more time I was talking to Wind’s Poem, who not only—
+
+JACK: Mm-hmmm
+
+ALI: —is a woman who is about to get murdered [laughs], but is the developer of the system that’s inside of Tender’s mech that makes it make weird environments, like digital environments like she used to make, but like real, but like digital?
+
+AUSTIN: Mm-hm. The one that’s in her mech. The one that’s in Clearcut.
+
+ALI: Yeah! Yeah, yeah. So she was like, “That’s great, I can talk to you about this program that you’re, that we’re both passionate about,”—[laughs] I think is what I said, and maybe broke my cover a little bit?
+
+AUSTIN: Mm-hm.
+
+JACK: Mmmm
+
+ALI: [Laughs] And thennn. And I think after that, [laughs] everything went really smoothly, I don’t know. 
+
+[Jack laughs, Ali laughs]
+
+AUSTIN: Uh-huh.
+
+ALI: She left. It was—
+
+[Jack, Art, and Austin all burst into laughter; Ali keeps laughing]
+
+AUSTIN: God.
+
+ALI: She left, we had to chase after her. Morning and Grand went somewhere else, ‘cause Morning’s was really mad at me, and there, they got shot by a missile or something?
+
+AUSTIN: Good, I’m glad we remember exactly everything that’s happened to other people—
+
+[Ali laughs]
+
+AUSTIN: Grand can probably fill us in here—
+
+ALI: Yes, yes.
+
+AUSTIN: What happened there? 
+
+ART: Uhhhm.
+
+AUSTIN: Doesn’t remember; that’s it.
+
+ALI: Surely you remember the missile?
+
+ART: Yeah, right? We—
+
+JACK: I remember. I think?
+
+ART: We got there. And then there was a missile [laughs].
+
+AUSTIN: Uh-huh.
+
+ART: It destroyed the thing we were in, right?
+
+AUSTIN: Yeah, y’all were in like a shuttle.
+
+ART: And it got hit with a missile.
+
+AUSTIN: Mm-hm, there was a fight happening outside your shuttle. 
+
+ART: Yeah.
+
+AUSTIN: Betweeeeeeen—
+
+JACK: Between Massalia.
+
+AUSTIN: Massalia. Massalia D’Argent, who is now a member of the Beloved Nights of the Waking Cadent, formerly a member of the Beloved Ivy when they reported to Cascara and the Cadent-Under-Mirage, and they, Massalia, was fighting—
+
+JACK: [Uncertainly] The Welkin Absolute?
+
+AUSTIN: The Welkin Absolute! The flagship of the Resonant—or not the Resonant Orbit, see, I fucked up—the Rapid Evening, which is under command of Keen Forester Gloaming.
+
+JACK: This is even worse than I thought, because—
+
+AUSTIN: Oh yeah.
+
+JACK: I, I somehow hadn’t realized that the Welkin Absolute was the other party in that fight—
+
+AUSTIN: Oh yeah.
+
+JACK: I thought they just showed up, but no they’re—
+
+AUSTIN: Oh no, they’re fighting each other.
+
+JACK: Keen has showed up and is just like, “War. Now it is time for a fight.”
+
+AUSTIN: Keen, so, I mean we can kind of zoom in a little bit here. One or two other things, and then we’ll zoom in to the fight, or the thing that is happening. The—Open Metal is there—
+
+ALI: Mm-hm.
+
+AUSTIN: Remember, was there, on the Duality Allocology, she was kind of also going after the Compel Project and was kind of on track to kill both Wind’s Poem and Ocean’s Roar. 
+
+ALI: Yeahh [laughs].
+
+AUSTIN: And Tender kind of was like, “Hey, hi. Call meee?”
+
+[Ali laughs]
+
+AUSTIN: And that seemed to, at the very least, slow things down.
+
+ALI: It was like a, “Hey, we’re kind of on the same page here, you don’t have to kill people,” sort of thing, yeah, I think were my intentions.
+
+AUSTIN: Uh-huh. It’s good to have intentions. 
+JACK: You kind of made the “Call me” gesture.
+
+AUSTIN: You did literally make the “Call me” gesture.
+
+ALI: And then she called me! It worked!
+
+JACK: She did actually call you, yeah. That did work.
+
+AUSTIN: Mm-hm.
+
+ALI: So, you know.
+
+AUSTIN: So then, yeah. So I think that that’s everything. Any other big picture things, or can we zoom-in to, the shuttle gets shot by a missile and crash-lands on the landing pad of the Church of—the Temple of the Self, basically, which is this Allocology that’s connected to the Church of the Self, which is this quickly-emerging faith of the New Earth Hegemony. I mean, it predates the New Earth Hegemony, it existed in the Crown of Glass; we’ve seen on the other side of the game that it existed in Quire’s ancient history, it was the faith—kind of the predominant faith on Quire before Quire as a planet kind of gained memory and became part of the culture, after which people began worshipping Quire as a planet—but before that, it was the Church of the Self. It has this kind of diamond-shaped temple; I’m very much imagining it as that one angel from EVA, do you know what I’m talking about, Ali? The one that’s like a big black diamond.
+
+ALI: Ohh.
+
+AUSTIN: Ramiel?
+
+ALI: Mm, yes.
+
+AUSTIN: Except bigger, and it’s also a temple, right? So, it’s like a—I guess that would be like an eight-sided diamond that’s floating above a set of waterfalls on Skein. It’s like gigantic—it’s a place where a bunch of waterfalls kind of come together, and so it floats at the mouth of like seven or eight different waterfalls. I think I had a name for it somewhere [typing]—I thought I did, I thought I did, but I can’t find it right this second, and that is Okay [laughs]. 
+
+ART: Okay, so here’s my current plan—
+
+AUSTIN: And so you crash-landed, and also Gnarls Barkley, no, what the fuck is his name, CeeLo Green, was there. 
+
+ART: Right.
+
+AUSTIN: CeeLo Green was there, dressed up as a—with like long robes, in my mind they’re black, purple, and yellow, that’s in my mind, and he is there, and he is Profit’s Cadence. 
+
+ART: Sure. So my plan is that Grand Magnificent obviously died in the crash, and my new character is someone from the Church of the Self who wants to help us.
+
+AUSTIN: Oh, okay, I see.
+
+[Jack laughs]
+
+ALI: Oh that’s, you know, that’s fantastic. 
+
+ART: Yeah, that’d be great, right?
+
+[Ali laughs]
+
+AUSTIN: Wow, love it.
+
+ART: This is, I guess, my way of saying I don’t have a good plan right now.
+
+AUSTIN: That’s fine, we’re just gonna have to play it by ear, I think, you know?
+
+ART: Sure.
+
+AUSTIN: Because, I think, you’ve crash-landed. Morning’s Observation crawls out, along with you—again, he is back to his pink-and-black hair, the blond hair has worn off, he had like this twenty-four hour blond-hair thing. Y’all are both pretty tired, I would imagine, maybe you slept a little bit on the shuttle, but it’s like sleeping on a bus, so, you know, not a full night of sleep and the sun is starting to shine here. 
+
+And above you, there is Massalia, in their mech the Melodica, which is a—I’ve described it multiple times as being visually referent to Detachment from Counter/Weight, kind of a humanoid body but with these gigantic, you’d almost think of them, they almost look like speakers or something, on the shoulders, with these big, heavy squared-off kind of—not just cubes, they’re longer than they are wide, longer front-to-back than wide left-to-right; and those work, those seem to be everything from jets that allow them to fly more quickly to weapons; there’s like all sorts of stuff in those shoulder-mounted units basically. And they make really cool, like, in atmosphere—I don’t think we’ve seen Melodica in atmosphere yet—they make a sort of, I imagine almost like xylophone sounds, when they make—take like a xylophone note and stretch it in a sound-editing program until it’s almost like a little bit more metallic, and you’ll hear when Melodica makes sharp turns and stuff like that. 
+
+And they are fighting against the Welkin Absolute, which is like—on the other side of the game they’ve been fighting this thing called Ache, which I’ve described as being ribbon-like—and this is similar in some ways; it’s long and thin and kind of moves in strange ways, except Ache folds over itself—as if you took a piece of ribbon and folded it at ninety degree angle and then another ninety degree angle—whereas this just moves like a spaceship, but it is also like a worm or a snake or an eel or something, where it makes these sharp left-to-right turns in the air, and kind of like—not wiggles, wiggles is not a strong enough word here—[laughs] but you get what I’m saying—
+
+JACK: It like undulates?
+
+AUSTIN: Nmm, undulates—
+
+ART: Waggles?
+
+AUSTIN: [Mock seriously] Waggles, a stronger word like “waggles.” No, it like zigs and zags, you know what I mean? [Typing] Synonyms, “zigs.”  “Swerves”, it skews, breaks, breaks is what I mean. It is making sharp—very sharp turns, it doesn't make big round turns. It does just kind of—it’s like the game Snake. You know, the game Snake, where it’s like, “Oh, I made a left turn,” it looks like that a lot. So, those two things—and it’s big. The Welkin Absolute is a capital ship, so it is like as big, if not bigger than this temple—obviously there’s like different-shaped things so it’s kind of a hard comparison, but. And it kind of fires off these electric—these streaks of electricity fire from its sides aimed down at Melodica and Massalia as they do strafing runs on it, but it’s clear to y’all, to you and Morning’s Observation, that it is trying to protect the temple and that Melodica and Massalia are trying to get to the temple. Like, you know, the Welkin Absolute and Keen are positioning themselves between Melodica and the temple. 
+
+So, that is kind of what your very quick picture of the space is when you stand up next to this crashed ship. Um, you know [laughs]. There are other people who are crawling away from the ship; I think some people definitely got hurt really bad. And I think, maybe, almost automatically, Observation just starts trying to pull people out and make sure they’re okay. What are you doing, Grand?
+
+ART: That’s a great question. I want to be useful in this moment—
+
+AUSTIN: Mm-hm.
+
+ART: But I feel a little under-scaled, you know?
+
+AUSTIN: What’s that mean? What do you, what do you mean?
+
+ART: I’m very wee, compared to—
+
+AUSTIN: Morning’s Observation is also a little skinny boy.
+
+ART: Alright.
+
+AUSTIN: I mean, you don’t have to help [laughs]. But you cannot, with Morning’s Observation, point to “I’m skinny”, unfortunately [laughs again]. He’s the one character in this show.
+
+ART: I’m just so much smaller than a robot, you know?
+
+AUSTIN: If you want to have a robot, you can have—we can talk through having a robot. Do you want a flashback, to make your robot be available somehow?
+
+ART: Sure. I’m trying to think of what that even looks like. Um—
+
+AUSTIN: And also, what’s your stress at?
+
+ART: Oh, too high for this!
+
+[Ali laughs]
+
+AUSTIN: Ah, you know. Is it? 
+
+ART: Isn’t it?
+
+AUSTIN: I don’t know. How high will your stress get without having a robot? 
+
+ART: It’s hard to say. 
+
+AUSTIN: Mm-hm.
+
+ART: Any number really.
+
+AUSTIN: [Laughs] Art, what is your stress at, for people listening?
+
+ART: It’s hard to count these little things, you know? I’m at six.
+
+AUSTIN: Yes, you’re at six of nine. Once you hit nine, you’ll get a new status and that is not a great, not a great place to be. I mean, actually, it’s okay to get status, it’s okay to have one of these hit, and in fact, in general, people who play lots of Blades recommend getting one as quickly as possible, because it’s another vector for experience gain [laughs]. So, you know. 
+
+ART: Oh, well then!
+
+[Ali laughs]
+
+ART: If there’s more experience to be gotten, why don’t I just inflict trauma on myself?
+
+[Jack and Ali laugh]
+
+AUSTIN: Uh-huh, like you do.
+
+ART: Maybe I’ll be able to build things better by—
+
+AUSTIN: By being Haunted, or Vicious, you know?
+
+ART: Most people who are paranoid or unstable are probably like, “Well at least I’m getting skills faster!”
+
+[Austin and Ali laugh]
+
+AUSTIN: Listen, this game is doing its best, you know? The thing that’s being rewarded is that you’re playing into your character’s history and to their experiences, to their flaws. You’re playing up their flaws.
+
+ART: Yeah.
+
+AUSTIN: You don’t have to do this; like, I’m not gonna push you down that road. 
+
+ART: Umm, I dunno—let’s try and figure out what this flashback looks like. What, why, how would we get this here?
+
+AUSTIN: Gooood question. 
+
+ART: ‘Cause there’s no way he’d be like, “Well, it’s here right now,” and it just fell from the sky, that’s a—
+
+AUSTIN: Nn-nn.
+
+ART: —That’s a level of ridiculous that I don’t even think I could support as Grand Magnificent. Ummm—
+
+AUSTIN: So is it—yeah, go ahead.
+
+ART: But like, there’s also, there’s just as little, “Well, it’s just over here.” [laughs]
+
+AUSTIN: I mean like, here’s one. Does it have the Iron Man suit thing—I mean, here’s one thing: Your Angler is higher crew tier than everyone else’s; is part of that just like it has a “It can fly to me” mode? You have the Mercedes Benz clicker-style thing—not that Mercedes Benz do this, but, you know, you can imagine the luxury clicker that’s like “Oh, come pick me up.”
+
+ART: Sure, uh, yeah, like when you click the Mercedes thing and the car forms around you [laughs], that’s what they have in 2019 level.
+
+AUSTIN: Yeah, from Black Panther, exactly.
+
+ART: Mm-hm. Yeah, that’s cool enough. 
+
+AUSTIN: Umm—
+
+ART: I prefer the clicker than the Iron Man, because—
+
+AUSTIN: Wait, what’s the difference? What are we saying the difference is?
+
+ART: I mean, the Iron Man, he’s got the thing built into his chest and all that.
+
+AUSTIN: Oh yeah, that’s not—it’s not that, yeah.
+
+ART: Yeah.
+
+AUSTIN: I gotcha. Um, cool. So what’s that look like?
+
+ART: I think I really like it as like the exact size and shape of a current car key, and the pushing the button, even really like it making that like “Brrp brrp”—that’s not a good version of that—
+
+AUSTIN: That’s not a good one, but I know what you mean.
+
+ART: Keith will come in and do a pick up ‘cause he can do all these—
+
+AUSTIN: Keith can do any sound, yeah, it’s true.
+
+ART: Any sound. “Brrp brrp, brrp”?
+
+AUSTIN: I don’t think it’s a “brrp”, I think it’s like a—I don’t think it’s a “brrp”.
+
+ART: “Wrrp, wrrp”
+
+AUSTIN: [Typing] Car door opener sound…
+
+ART: “Grrp grrp”
+
+[Ali laughs]
+
+AUSTIN: It’s not a “Grrp grrp”.
+
+ALI: But like a “Beep boop”?
+
+AUSTIN: Is it—Are you talking about the cool mechanical sound or are you talking about the beep of the button?
+
+ART: I’m talking about the sound the car makes.
+
+AUSTIN: Yes, yeah.
+ 
+ALI: Oh, it’s like a little chirp, right? It’s like—
+
+ART: A chirp. 
+
+AUSTIN: Yeah, it is like a chirp. 
+
+ART: “Bmmp, Bmmp”
+
+AUSTIN: I don’t think it’s a “buh” sound at all! I think it’s like a, “Hhh hhh”.
+
+ALI: Wow. 
+
+[Jack laughs]
+
+AUSTIN: I can’t do it. I need to hear Keith do it, and then I can do it.
+
+[Ali laughs]
+
+AUSTIN: I can only make any sound Keith can make, basically, but he hasn’t made the sound yet, which means I can’t do it yet. 
+
+ALI: [Sighs] Yeah.
+
+AUSTIN: He doesn’t need to make it to me, he just needs to make it in the world, you know?
+
+ALI: Mm-hm.
+
+ART: Sure. 
+AUSTIN: Unfortunately, he’s at work right now, otherwise we could just be like, “Hey, can you make that noise really quick.” 
+
+ART: Yeah.
+
+JACK: Welcome to the call, Keith.
+
+AUSTIN: Uh-huh [laughs]
+
+JACK: The Welkin Absolute has arrived.
+
+AUSTIN: [Laughs] Exactly. Alright, so, let’s go. Give me a—spend me one stress for that—
+
+ART: Yeah.
+
+AUSTIN: —Is what I would say that is. Unless, actually, here’s what—I don’t think it costs any stress if it doesn’t arrive quickly, is the deal I’ll make you. If you want it now, then it costs you stress, because then you would’ve had to have called it earlier; you would been like, “Ooh, things feel bad, I’m gonna hit this button.”
+
+ART: No, that doesn’t feel right, I don’t think—I think I’m hitting the button right now, and I’m gonna—
+
+AUSTIN: Alright, and you’re just gonna wait for the next little bit.
+
+ART: I’mma try not to die for a minute.
+
+AUSTIN: Mm-hm. Okay. So I think one of the other things that is happening is, again, I mentioned there is—Profit’s Cadence is here. He is flanked—besides wearing these cool robes, he is flanked on his left and his right by two New Earth Hegemony mechs—or robots, actually, not mechs, robots, synthetics, who kind of look like big apes. They’re yellow in color; if they were Torch units, they’d be yellow Torch units, but they’re not because they don’t have the Torch face, they don’t have the big flashlight face, they are other types of mechs. And they begin to, all three of them begin to head your way. And one of them—they move very quickly, but they don’t seem like they mean harm to you—moves right past you and begins to lift up the crashed shuttle to try and get people out. And Profit’s Cadence says, like:
+
+	AUSTIN (as Profit’s Cadence): Everybody come inside, hurry, hurry!
+
+AUSTIN: —And begins to wave people inside the temple. But there are still people trapped out here.
+
+JACK: Did they emerge from inside the temple? They—
+AUSTIN: They were like—no, they were like out on one of the other landing pads. I’m kind of imagining it again as like a diamond floating in the sky that then has these circular round landing pads at the equator almost of this floating diamond, giant diamond temple. And they were on another one of these circular landing pads that kind of comes out from the center and then looped back down and around. I almost imagine that it’s like there are parts of the side of this building that the entire, or like the middle of this building, the middle of this floating structure, that could open up entirely like a landing bay, and there are other parts where it’s just a wall and there’s a door that leads in, right, and so they kind of like cut through one of the areas that’s a landing bay and then popped out and now are leading people back towards this door, but there are probably still five or six people trapped inside of the shuttle right now. And the big robot is too big to get its hands in there and help people, do you know what I mean? Like—
+
+ART: Sure.
+
+AUSTIN: —it’s not the right size for this, necessarily.
+
+ART: Can I help the robot, or should I be helping personally?
+
+AUSTIN: What do you mean?
+
+ART: Can I—Is there a way that I can make the robot work better?
+
+AUSTIN: Maybe! What would you do? Tell me what that looks like.
+
+ART: Is it like—I mean, obviously I can’t modify the robots at this kind of speed, nor do I want to do that. But is it like—could I, as someone with smaller eyes and a better sense of scale be like, “No, no, no. Do that.” Is it like an issue of I—
+
+AUSTIN: No, they know what they’re doing, I think you have to modify—I don’t think that you—they can see where the people are in there. It is not about observation, it is about—
+
+ART: So the problem is that they’re too big and I’m too weak?
+
+AUSTIN: Yes. 
+
+ART: [Disgruntled] Alright. I don’t want to do this though, is the problem.
+
+AUSTIN: What is this?
+
+ART: I don’t want to modify the robots to do better.
+
+AUSTIN: Then don’t, that is totally fine, you don’t need to. I mean that’s—
+
+ART: But then people are gonna get hurt. 
+
+AUSTIN: So that’s my question, is like, that’s it. You don’t want to modify the robots, people are gonna get hurt, that’s fine. Tell me what your priorities are, you know?
+
+ART: [Dismayed groan] 
+
+AUSTIN: I mean, you do have a belief, which is that everybody deserves a second chance, no one deserves a third. Which vaguely applies here, you know?
+
+ART: Yeah, I mean, the, I don’t, I don’t know that, it’s—we’re really kind of halfway there, you know?
+
+AUSTIN: Yeah. I mean, I think it’s one of those things of like, you think you’re living out your second chance now by not modifying robots.
+
+ART: Right. But like, if nothing goes wrong, is it really that bad? Like, if none of these turn into sentient Divines—
+
+AUSTIN: Right. If all you do is make—
+
+ART: —Does that make it okay?
+
+AUSTIN: It’s up to you! How would you modify this thing?
+
+ART: Is it just—Is it kind of like making their fingers more precise, or whatever?
+
+AUSTIN: Yeah, maybe. What’s that look like? Is that like, you just like pull out a screwdriver? Is it like, is it something like, in the—I imagine you’ve actually worked with units like this before, on like, loading or unloading things
+
+ART: Yeah.
+
+AUSTIN: They are like—Bodyguards like this, they’re very expensive, they’re very, they’re not as—so you remember the Torch units, even the red Torch units, were built to kind of just run patrol protocols basically, without very much in terms of problem-solving. They had very simple routines that went into effect. These are—
+
+ART: Do they—
+
+AUSTIN: These are just a little broader than that, these can do more than that, and they make more decisions on their own; they are not sapient, they are not conscious, they don’t have an “I” outside of an—they don’t have self awareness; they have awareness, they know who an “I” is inside of a statement like, “I need to get the people out of this shuttle” but they don’t have an “I” in the sense of like, “I felt good when I got the people out of this shuttle.”
+
+ART: Do they feel pain?
+
+AUSTIN: No. They know when they’re being damaged.
+
+ART: Okay, but I could get around my own problem here, by just hacking them into just squishing their own fingers flatter.
+
+AUSTIN: Oh, like ignoring that their fingers—ignoring the damage that would be done to them.
+
+ART: Right, just like tell them to—I’m not gonna modify them, they’re gonna modify themselves.
+
+AUSTIN: Why would they listen to you? I mean, you can try this.
+
+ART: Because I’m gonna hack them.
+
+AUSTIN: Okay.
+
+ART: So I’m gonna take hacking tools in my load.
+
+AUSTIN: Okay.
+
+ART: And I don’t have any dots in Hack.
+
+AUSTIN: You do not.
+
+ART: Do we have any gambits available?
+
+AUSTIN: You have one gambit available.
+
+ART: I’m gonna use a gambit.
+
+AUSTIN: Okay. 
+
+ART: And I’ll take a stress.
+
+AUSTIN: Alright.
+
+ART: So I get to roll two.
+
+AUSTIN: 2d6, yep.
+ART: So it’s, what is, tell me my—
+
+AUSTIN: Risky Standard.
+
+ART: Two bonus dice, oh I’m not on the right thing...
+
+AUSTIN: That’s a six! Which means you earn back a gambit.
+
+ART: Alright.
+
+AUSTIN: Because you have the ability to earn back gambits even when you spend them.
+
+ART: And the other one was a one.
+
+AUSTIN: That would have been bad. That would have been really bad! If you had rolled without spending those things, you would have rolled a six and a one, and that one would have counted ‘cause you have zero points in Hack. 
+
+[Jack laughs]
+
+AUSTIN: So that would have been bad. Alright! So, with a six, I think the thing happens exactly the way you want. What’s this look like? Tell me how this unfolds. 
+
+ART: I think it’s like, I sort of like tell their brains that that’s how they can do it, and they sort of take a moment, look at their own hands, and kind of like press their own fingers flatter—they like break their own hands, kind of.
+
+AUSTIN: Jeez. Yeah, okay.
+
+ART: They’re gonna need to be fixed. 
+
+AUSTIN: Yeah.
+
+ART: And I’m pretty—I hope that’s not my job.
+
+AUSTIN: I think it’s just one of them does this, basically, I don’t think you have to do this with two. 
+
+ART: Oh sure, ‘cause they, ‘cause yeah.
+
+AUSTIN: But yeah. So I think that is totally what happens. And they are able to reach through the whole shuttle and basically push a hole through the other side, like push through a weak spot. And you see four more people kind of stumble, or like struggle through and stumble out onto the deck. And you’re all able to rush inside of the temple, which we’ll get to in a second. So let’s go back over to Tender and to Fourteen and Wind’s Poem, who are waiting in your hotel suite.
+
+ALI: Mm-hm.
+
+AUSTIN: What are you doing, like, overnight? Like I’m—We’re actually going to go back in time a little bit here, because it’s morning time with, where Grand and Morning’s Observation are, but they’ve traveled, I’m gonna just say that they’ve traveled, to where it’s morning time. Where you are, the Twilight Mirage still has this darker hue, as it simulates nighttime. What is your—what are you doing overnight? Are y’all just taking rounds guarding Wind’s Poem? Are you all staying up? Are you just sleeping? What’s the play?
+
+JACK: I feel like Fourteen is sitting on the foot of their single bed in the hotel room, and just like—with their stun baton across their knees—
+
+AUSTIN: Mm-hm.
+
+JACK: —Watching the hotel room door. Like that scene in No Country For Old Men—
+
+AUSTIN: Mmhm.
+
+JACK: When he sits behind the hotel room door and watches for footsteps underneath the little crack in the door.
+
+AUSTIN: Right.
+
+JACK: Just fixated on this hotel room door, with the keycard lock and the hooks to put your coat on next to it.
+
+AUSTIN: So are you not—in my mind, this is a suite that has two—that has three—it has four bedrooms. It has four bedrooms.
+
+JACK: Oh damn, we got a suite?!
+
+AUSTIN: Yeah, you’re here as part of the Morning’s Observation Milk Company.
+
+ALI: Oh, we’re guests.
+
+AUSTIN: Remember?
+
+JACK: I guess.
+
+[Ali giggles]
+
+AUSTIN: They hook you up with a suite with four bedrooms—or maybe it’s like two attached suites, you know? No, I think it’s a big one. It’s four bedrooms; one of them is kind of a tiny bedroom, with a twin bed like you said, one of them is obviously like the master, and the two are just like whatever, they’re bedrooms, nice bedrooms, with full-size beds or queen beds. And there’s a little kitchen, a little kitchenette, and a living room area, and that is the room that has the door that goes out into the hallway of this kind of underground hotel, and then there’s also in that big room in the living room, there is also the sliding glass window that goes out onto the balcony that overlooks the ocean, because it’s on the outside wall of this big floating half-sphere, if that makes sense.
+
+JACK: Yeah. So I think that it’s, I think I’m trying to—I think this has probably happened once we’ve arrived, but we can see that the suite has been transformed by Fourteen into this very sort of uncanny space, of a place that is designed to be very luxury but is also desperately being retrofitted to try and be more safe than it is.
+
+[Ali laughs]
+
+AUSTIN: Mm-hm.
+
+JACK: So I guess like objects have been put out across the floor, so people are having to like step carefully around them—
+
+[Austin laughs]
+
+JACK: I don’t know whether or not the door has been barricaded there’s definitely that sense, right, of a hotel room that isn’t just being occupied by people who are scared, but people who are in it have tried to transform it in some way.
+
+AUSTIN: Mm-hm.
+
+JACK: Like the curtains have been drawn—
+
+AUSTIN: Right.
+
+JACK: —keeping people away from the windows. 
+
+AUSTIN: I like the idea that there’s just random shit on the floor. There’s just kind of like cushions and chairs that have been tilted over, it’s just messy-looking—
+
+JACK: Yeah.
+
+AUSTIN: But that means that people can’t rush in with a sword very easily—
+
+[Ali laughs]
+
+JACK: Yeah.
+
+AUSTIN: Or like, they could but they might trip on something, who knows?
+
+ALI: Mm-hm. 
+
+AUSTIN: What about you, Tender? What have you been up to?
+
+ALI: Um, I don’t know, probably like helping Fourteen? 
+
+AUSTIN: You get that set up, that doesn’t take that long—
+
+ALI: Yeah.
+
+AUSTIN: Right? I’m curious, that gets set up, the night is long.
+
+ALI: Right.
+
+AUSTIN: I don’t know if y’all have ever had to—has anyone here ever worked a security job?
+
+ALI: I’ve done overnights at Best Buy.
+
+AUSTIN: Okay. 
+
+ALI: Where I’ve had to stay up while people were cleaning up.
+
+AUSTIN: Yeah, that sucks. It extra sucks when the thing you have to do is just sit and watch and wait. 
+
+ALI: Mm-hm.
+
+AUSTIN: When I was at college I used to do overnight security, and there were times when you were at a place that had like a TV or like, you know, the internet, and there were times where you were just in a little booth, and that was—you were not allowed to play music, you were not allowed to do anything, I got in trouble when I tried, you were not allowed to do homework, it sucked. And so, I’m curious, like how does Tender—obviously, you don’t have to do that, you’re not gonna get fired if you do homework—
+
+ALI: Right.
+AUSTIN: —But I am curious what Tender is like on this kind of overnight guard duty.
+
+ALI: I do think it’s like the opposite thing, maybe—
+
+AUSTIN: Mm-hm.
+
+ALI: that like she’s putting on music, like, you know, we can’t go into the rooms where there’s a window there—
+
+AUSTIN: Right.
+
+ALI: But it’s still like trying to be like, “Oh hey, you know, [laughs] I know we’re moving all of these chairs, so nobody runs in here—
+
+AUSTIN: Right [laughs]
+
+ALI: —But you’re safe and it’s fine and you should feel comfortable here. 
+
+AUSTIN: It is pretty clear she does not feel particularly comfortable here.
+
+ALI: Mm-hm, that is fair. No, no, no, it’s just like the desire to feel like I’m being helpful, but also like—
+
+AUSTIN: Gotcha.
+
+ALI: —Trying to be very explicit. It’s one night, it’s fine—
+
+AUSTIN: Uh-huh.
+
+ALI: —We’re all just gonna, do you need something, you know, I could put on the TV, you know [laughs].
+
+AUSTIN: Right, right, right. The TV is on, I’m sure. There’s lots of questions, like whenever you do a thing, she’s like, you know, “Are you sure we should put on the TV? Like, won’t that mean we can’t hear if someone’s coming?”
+
+ALI: Oh.
+
+AUSTIN: “Are you sure we should draw the windows? Shouldn’t we be looking out the windows to make sure no one’s coming?” You know, it’s just like—
+
+ALI: Yeah.
+
+AUSTIN: And then like, then you open the windows, like, “Oh, that seems dangerous too, actually.”
+
+[Ali laughs]
+
+AUSTIN: And it’s like, you know, she’s very nervous.
+
+ALI: Yeah.
+
+AUSTIN: Do you take turns sleeping or are you both just up? I really just want to know how bleary-eyed you will be for the rest of the session, you know?
+
+[Jack exhales]
+
+ALI: Probably take turns?
+
+JACK: Yeah, I think probably do shifts.
+
+AUSTIN: Okay.
+
+JACK: But like very—not comfortable shifts, I don’t think.
+
+AUSTIN: No.
+
+JACK: Or least, when Fourteen’s asleep, they are not enjoying the sleeping. 
+
+[Ali laughs]
+
+AUSTIN: Right, sure. I’m gonna roll a die to see who’s awake. One through three is Tender [typing]; four, five, six is Fourteen. 
+
+[Ali chuckles]
+
+AUSTIN: Alright, Tender, you’re awake.
+
+ALI: Hi.
+
+AUSTIN: Fourteen is in their room, sleeping. I think Wind’s Poem is, like, on a couch—you’ve kind of done a thing where there is a couch not near any windows, and then on the other side of that couch is another couch, it’s like a little couch-fort, basically.
+
+[Ali laughs]
+
+AUSTIN: And like, just to make sure, hey, just in case someone tries to shoot you through the wall or whatever, there’s extra protection. And there is a very light rapping on the door. What do you do?
+
+ALI: [Dismayed noise] Does it have one of those door-holes?
+
+AUSTIN: Yeah.
+
+ALI: Like hotel rooms have?
+
+AUSTIN: Mm-hm. Do you look?
+
+ALI: Yeah.
+
+AUSTIN: It is Open Metal.
+
+ALI: Oh, yes [laughs]
+
+AUSTIN: And it takes you a second but you pick up that off to the left, or the right, or maybe both, there are other people there who are—you can tell that she is making very subtle eye contact with other people.
+
+ALI: This sucks, okay [laughs]. It’s fine. I—is there a way, of course there is—can I like leave the hotel room and close the door behind me?
+
+AUSTIN: Yeeah, I mean, you’ll open the door—
+
+ALI: Right.
+
+AUSTIN: —For that moment, do you know what I mean?
+
+ALI: But like quick enough where’s it’s like, I’m not trying to get bamboozled here, and like I think that if I move quick enough—
+
+AUSTIN: Yeah.
+
+ALI: —that I’m like, “Hey, I can see you here with other people, and like—”
+
+AUSTIN: Totally.
+
+ALI: [Laughs] “You can’t just sneak into my hotel room!”
+
+AUSTIN: Do you have, before—I’m not going to screw you on this, but I want to know honestly—does Tender have the key to this place with her when she does this maneuver?
+
+ALI: Oh, I mean, like, yeah. 
+
+AUSTIN: Okay.
+
+ALI: Fourteen and Tender probably have the keys like in their pockets, right? 
+
+AUSTIN: In their pockets, okay. Sure.
+
+ALI: Each of us probably had one on us all day.
+
+AUSTIN: You slide out really quickly, and like the second you do you can hear the charging of a stun, like a stun baton or taser basically, and one of them is pointed at your head, and you look at it and it is a duck-man holding a stun baton to your head. And then, on the other side is Chiron. So, and again, Chiron is thicker than you remember him—
+
+ALI: Mm.
+
+AUSTIN: Again, I’ve described this, so like, he’s wearing a heavy leather jacket, it’s like a black jacket with red and white stripes on the arms, basically—not all the way down the arms, it’s like a little patch that’s red and white across one of the arms—and then underneath that he’s wearing, he’s New Earth Hegemony, right, he’s wearing a FUBU baseball shirt, basically, that’s what he’s wearing, and then baggy jeans under that, ‘cause it’s the ‘90s in the New Earth Hegemony still. And Open Metal kind of backs up, very quickly, and says:
+
+	AUSTIN (as Open Metal): You should let us in. This isn’t a good place to talk.
+
+[Ali laughs]
+
+	ALI (as Tender): I didn’t think that you would be bringing other people, so I came outside.
+
+	AUSTIN (as Open): I don’t travel alone, and neither do you.
+
+ALI: Nmm [laughs]
+
+ALI (as Tender): There’s a bar downstairs, I think that would be a better place for us to talk. 
+
+AUSTIN: She just points up, and then she says like:
+
+	AUSTIN (as Open): Upstairs. It’s an upside-down hotel.
+AUSTIN: [Snaps] And she snaps her fingers, and Chiron and the duck-person turn and leave and she locks eyes with you for a second and says:
+
+	AUSTIN (as Open): Hurry up.
+
+AUSTIN: And then turns and walks with them.
+
+ALI: Fourteen, is your ringtone on?
+
+[Austin chuckles]
+
+JACK: Yep.
+
+ALI: Can I just text you? [Laughs] Can I just follow them and be like, “Hey, wake up.” 
+
+JACK: I mean, if it—I—I guess if it wakes me up. Which I assume it would, right, I’m very anxious right now. 
+
+ALI: Fair, yeah. I, you know what, it’s foolish, I’m actually gonna go back inside. 
+
+AUSTIN: Mm-hm.
+
+ALI: I’m gonna tell Wind’s where I’m going—
+
+AUSTIN: Okay.
+
+ALI: —Because it’s rude to just leave, and wake Fourteen up.
+
+AUSTIN: Okay.
+
+ALI: And give them a glass of water, and then head upstairs.
+
+	AUSTIN (as Wind’s Poem): [Sleepily] You’re going—Wait, where are you going?
+
+ALI (as Tender): I just, I just have to talk to someone who might be able to help us, or who knows. 
+
+AUSTIN (as Wind’s Poem): Hmm.
+
+ALI (as Tender): Fourteen is here.
+
+JACK (as Fourteen): Tender, wait. Hang on, T— 
+
+ALI (as Tender): Yeah?
+
+JACK (as Fourteen): Sorry, Wind’s, can you just give us a moment?
+
+AUSTIN (as Wind’s Poem): Nmm. Umm—
+
+JACK (as Fourteen): Stay there, we’ll go into the—Tender, come into the—
+
+JACK: And we go into the little ensuite bathroom [laughs]
+
+AUSTIN: And we just get a shot, in this purple light, of Wind’s Poem just alone in the main room.
+
+[Ali laughs]
+
+	JACK (as Fourteen): Is this Open Metal?
+
+	ALI (as Tender): Yeah, but she’s with—
+
+	JACK (as Fourteen): You just said that she might help?
+
+	ALI (as Tender): [Sighs] I—
+
+	JACK (as Fourteen): She wants to kill Wind’s Poem!
+
+	ALI (as Tender) I don’t know that, she wants to—
+
+	JACK (as Fourteen): She’s the assassin! 
+
+ALI (as Tender): No! She wants to kill the other guy! And I can just talk to her and say that she didn’t make the gun! Or not, I don’t know. I could just go upstairs with her—
+
+JACK (as Fourteen): Alright.
+
+ALI (as Tender): —And keep her from coming in here.
+
+JACK (as Fourteen): How long do you want me to give you before I come upstairs?
+
+[Ali exhales and laughs]
+
+ALI (as Tender): Like an hour? I’ll text you. I’ll text you every thirty minutes.
+
+JACK (as Fourteen): Be careful, Tender. Be careful. I know you and her have like a connection—
+ALI (as Tender): I know. But—
+
+JACK (as Fourteen): But she’s dangerous.
+
+ALI (as Tender): I know [sighs]. I know. We have a connection too—I’m not—it’s fine. It’s, you know. I’m gonna, it’s—[laughs]. This might help or it won’t. Or—it’s either gonna help, or it’s gonna be a sum-zero. It’s not gonna be worse. I’m either gonna make this better or the same. Okay?
+
+JACK (as Fourteen): Okay. Text me.
+
+ALI (as Tender): Okay. I promise. Okay.
+
+JACK (as Fourteen): Wind’s? Tender’s just gonna go upstairs for a little. I’m going to, to continue to make sure everything goes okay, alright? 
+
+AUSTIN (as Wind’s Poem): This doesn’t feel good. This feels nnn—
+
+JACK (as Fourteen): Nope! Yep, everyone’s in danger and we’re all just doing our best! 
+
+ALI (as Tender): It’s just—I’m just gonna be talking to some people who are here for... external reasons.
+
+JACK (as Fourteen): See you, Tender! See you! Keep in touch!
+
+ALI (as Tender): Bye. Yep, I’ll be back soon.
+
+AUSTIN: Just, yeah, a drowsy-looking Wind’s Poem stands up at that point and goes to make coffee in the kitchenette. And looks over at you, Fourteen, and is just like:
+
+	AUSTIN (as Wind’s Poem): [Sighs] Why’d you get me into this? This is all so much.
+
+JACK (as Fourteen): We didn’t—I know it feels like it, but we didn’t get you into this; you’ve been in this ever since the computer spat your name out. And I know that’s not much of a comfort, but if it’s any consolation [sighs], I guess I’ve been in it. 
+
+AUSTIN (as Wind’s Poem): I don’t get it; why would me dying have anything to do with this, what did you call it, Crystal Palace?
+
+JACK (as Fourteen): Crystal Palace. I wish I—
+
+AUSTIN (as Wind’s Poem): I don’t know any Crystal Palace. I don’t know anyone who thinks they know the future, except for, you know, the board at Duality. But that’s—
+JACK (as Fourteen): The board? Do you mean that in the sense that every board thinks they know the future or do you mean that in a more—
+
+AUSTIN (as Wind’s Poem): Yeah. Yeah.
+
+JACK (as Fourteen): Okay. So, I tried—I asked our contact about how Crystal Palace kind of worked, how Crystal Palace sort of knew about stuff and they gave me an answer that I don’t think they believed would satisfy me, and it didn’t. I—we’re just at the whims of this computer here, Wind’s, I don’t know—what time is it?
+
+AUSTIN (as Wind’s Poem): Um, 3.
+
+JACK (as Fourteen): Oh God. Um. The computer doesn’t know why you dying stops it making predictions, no one knows why—who knows if they’re even connected, but they seem to be the closest possible events, or at least that’s what we were told. You and the other one. The priest.
+
+AUSTIN (as Wind’s Poem): The priest? Oh, right. Profit’s Cadence.
+
+AUSTIN: And I think we cut to Profit’s Cadence. So you are led into this giant hall of worship. Like the Allocology that Tender Sky and Fourteen Fifteen are on, there are structures that go down into the body of this big floating diamond and also ones that go up; up, up its kind of angled sides, there’s kind of exterior elevators that go up and down its sides, and also probably a big internal one right at the center. But on that main floor, kind of past the landing bay area, in the middle, you know, organized around a kind of miniature version of this temple, the same sort of floating diamond shape which hovers in an aura of light that comes in from the very top of the diamond, is a kind of worship hall. There’s kind of seating and pews that are curved, that all align along where that floating diamond is, and it takes you a few seconds to put it together, the very middle of it, where that floating diamond is, inside of the big floating diamond is kind of a pulpit. You could like walk—you could have someone who is hovering there, like, behind it and kind of rotating to face everybody in the church, and communicating with them, but you notice a couple of things. 
+
+The first is, like, no one is here, right, like, there are other people—I mean some people are here, this place has people who work for it, and it has other synthetics that are cleaning and maintaining and blah blah blah. And there are other, you know, members of the church here, but there aren’t worshippers here, and there isn’t a clear pathway to or from this place, and so, Grand, I think you probably immediately get the—you get the feeling as someone who has been in and out of places all across Quire, that this is a place for which its purpose has not come to fashion, come to serve, right? Like, you’ve delivered plenty of packages to places like this, in your year, where it’s like, “Oh, this place hasn’t been broken in by all the people who will be here in a week,” you know?
+
+ART: Sure.
+
+AUSTIN: So that’s kind of the vibe you get. People kind of get seated around the first few pews—this is like megachurch sized, if not bigger, right, I want to be clear.
+
+ART: Sure.
+
+AUSTIN: It’s like megachurch that then has a city built on top and below it. 
+
+ART: I’m sure we’re just getting there—
+
+AUSTIN: It’s massive. 
+
+ART: —I’m sure that’s coming.
+
+AUSTIN: Right, yeah, a hundred percent, right? [Laughs] If it’s not here already, I’m sure there are places. So um—
+
+ART: It’s called Atlanta. 
+
+AUSTIN: Right, great, that’s probably true, yeah. Uh-huh. You—Profit’s Cadence has you seated and then says, um, you know, calls over somebody else and asks them to bring you food and drinks and to make sure everyone is okay. What do you do? Do you just kind of sit back, and just—are you part of the crowd?
+
+ART: That sure seems safest, but no. Do I see anyone I recognize?
+
+AUSTIN: Having—I guess—like unless you were saying like, someone who’s a worshipper—or like, not a worshipper, someone who is—has someone worked a job with you?
+
+ART: I guess I was just like—I meant people from the Church of Self, of the Self— 
+
+AUSTIN: Mm-hm.
+
+ART: —And this is that place and, you know, maybe I know one of these people.
+
+AUSTIN: Yeah, yeah, maybe you met someone while you were at Crown who’s been assigned here, and I think that probably—someone who was a worshipper of this church back before—or not even a worshipper, someone who was like a bishop or something, right—before it became part of the New Earth Hegemony, right?
+
+ART: Sure. 
+
+AUSTIN: Someone who could have seen its entire arc. Do you remember Saint Symmetry? Foreeever ago?
+
+ART: No. 
+
+AUSTIN. Okay, so. There was a—there were a group of Saints in the—in Sculpture City, in the sculpture—
+
+ART: I do remember that.
+
+AUSTIN: The Saints again were the mechs. There were Saint Auger, who was the, the kind of older one who was loyal to the old king, that’s the one who used ve/vem, ve/vim pronouns.
+
+ART: Yes.
+
+AUSTIN: Or ve/vir, actually, in my notes, ve/vir. Saint Caliper, who was the one who helped Dre, who helped Even, and who tried to kill Independence, and failed—
+
+ART: Well we all did bad work at that.
+
+AUSTIN: Yeah, well, everybody tried lot of things there, right? Saint Glass is the one who died in that first initial attack, do you remember that?
+
+ART: Yes.
+
+AUSTIN: And then Saint Symmetry was the one who was kind of the leader of that group, I’m trying to find—I just have written down “the young hero and veteran”—kind of like the central figure there, I don’t have written down on these notes who he would be acted by, but I remember him in my mind as being acted by, as like as being facecast as a Native American actor, with wavy hair and kind of a very—what’s the word I’m looking for— like an affable mood, a very like warm person who was always pulling Caliper and Auger apart—because Caliper was very much like “burn the past” and Auger was very much “revere the past”—and I think he’s here. He was, you know, as a Saint he was part of the Church in a sense—or not even in a sense, he was. He was Saint—he was given the Saint by the Church and kind of worked in the Court of the Crown, of the Doyenne, and in the reorganization, when Absolute Territory, who was this kind of exiled prince, retook the throne, I think that Symmetry left, and so Symmetry is here, and you maybe even notice because you see his Saint as you come in, and it has this big sword and it’s kneeling and it’s, you know, in the loading bay where you see it, originally, or the landing bay, is where you see it, and you come inside and he is there praying, when you come into the big room.
+
+ART: I kinda like, I wait, you know, I’m not gonna interrupt. 
+
+AUSTIN: Sure.
+
+ART: That’s rude as hell.
+
+AUSTIN: But then after some time do you approach?
+
+ART: Yes, uh, you know. 
+
+	ART (as Grand): Saint Symmetry, it’s so good to see you again.
+
+AUSTIN: I’m trying to—
+
+ART: I’m trying to put some respect in my voice.
+
+AUSTIN: Right, you put some respect on his name, yeah. He appreciates—it’s clear he appreciates that, but there’s also a vibe of being guarded. You can see when he recognizes you, his eyes go from that recognition to a sense of careful distance—
+
+ART: That’s fair.
+
+AUSTIN: After all, he lived his life and then you entered it [laughs]. And then the last year has just been not great.
+
+ART: Correlation does not equal causation, I think it’s just important that everyone knows that.
+
+AUSTIN: Right. Yeah, uh-huh. Totally [laughs]. Uh, he says—
+
+ART: Um. Oh.
+
+AUSTIN (as Saint Symmetry): Grand Magnificent, right? 
+
+ART (as Grand): That’s right, yeah We met before.
+
+AUSTIN (as Morning’s Observation): And I’m Morning’s Observation.
+
+AUSTIN: And Morning’s Observation puts out his hand. And Saint Symmetry eyes you and then eyes Observation and then eyes you, and then reaches out his hand and shakes it. 
+
+ART (as Grand): Morning’s Observation is a colleague of mine, and one of my favorite...coworkers.
+
+AUSTIN: Morning’s Observation eyes you and then Symmetry and then you [laughs] and is like:
+
+	AUSTIN (as Morning’s Observation): Yeah, that’s right, I’m one of his favorites.
+
+ART (as Grand): But I’m not h—this isn’t a social call, unfortunately—it’s lovely to see you again. Um—
+
+AUSTIN (as Saint Symmetry): I saw what happened outside. I told our dear Cadence that I should go help but it seems as if everything is under control now.
+
+ART (as Grand): It does, it really—it ended up going well.
+
+AUSTIN: You notice actually, you don’t hear explosions outside, and you don’t, you don’t hear—First you notice you don’t hear explosions outside, then you notice you don’t hear these giant waterfalls outside either.
+
+ART: That’s probably fine.
+
+AUSTIN: Yeah.
+
+ART (as Grand): Is it possible to talk to Profit’s Cadence? We have a dire warning to deliver.
+
+AUSTIN (as Saint Symmetry): [Sighs] I suppose I could...what is the warning?
+
+ART (as Grand): We have reason to believe that Profit’s Cadence is in grave danger.
+
+AUSTIN (as Saint Symmetry): Is it the explosions outside? Is it the attackers that makes you believe that?
+
+ART (as Grand): No. This is a more specific danger tomorrow.
+
+AUSTIN: No it’s today, Art. The sun has come—or not the sun, there is no sun here—but you’ve—the night has ended.
+
+ART: Oh, I’m in the day, they’re in the night.
+
+AUSTIN: You’re in the day, they’re in the night. And their night is ending rapidly too.
+
+ART: The rapid morning?
+
+AUSTIN: Uh-huh.
+
+[Ali laughs]
+
+ART (as Grand): Yeah. But that’s not what’s g—it’s not the explosions, there’s a very specific way—there’s a specific danger we’re here to warn about; a danger that I’m not sure has arrived yet. And it’s very important that he not die. It’s important that everyone not die, but especially, it’s important that Profit’s Cadence not die.
+
+AUSTIN: This sounds like a roll to me, because this is a scary thing to be telling a person who doesn’t trust you.
+
+ART: Uh-huh. Unjustly doesn’t trust me if we’re gonna—
+
+AUSTIN: Nmm. Okay.
+
+ART: I’m very trustworthy.
+
+[Austin laughs]
+
+ART: Is this Sway? Is this Consort?
+
+AUSTIN: It’s up to you. I think, it sounds like Consort for me—
+
+ART: Alright.
+
+AUSTIN: Sway is a little more deceptive, a little more manipulating. Consort is what you said, you said the truth, right?
+
+ART: Sure.
+
+AUSTIN: I think Risky Standard.
+
+ART: Okay.
+
+AUSTIN: You’re rolling just regular, as is?
+
+ART: Uhh, yeah, I’m gonna roll just as is, because I think we should save a gambit for the other team.
+
+[Ali makes dismayed sound]
+
+AUSTIN: Uh-huh. Fair. 
+
+ALI: [In background] You can have it.
+
+ART: Oh. I need to click one more time.
+
+AUSTIN: That’s 1d6...that is a four. Alright. So, he says like:
+
+	AUSTIN (as Saint Symmetry): I can set up a meeting, yes.
+
+	ART (as Grand): Great.
+
+	AUSTIN (as Saint Symmetry): Come with me.
+
+	ART (as Grand): Thank you. 
+
+AUSTIN: And he—then he turns to Morning’s Observation and says:
+
+	AUSTIN (as Saint Symmetry): You too.
+
+AUSTIN: And he leads you into a room.
+
+ART: Oh, “you, also,” okay, got it.
+
+AUSTIN: Uh-huh, yeah. U2, the band, you’re from U2, the band, that’s right. He leads you to a room, and you are—it’s kind of like a, you know, I go to waiting rooms a lot in style, but I just want the feeling of bad leather furniture in here, with a single fern, or a couple of ferns maybe, and gray carpet, and a painting of—it’s a painting of the structure you’re in, but in the painting there are a bunch of smaller diamonds floating all around it too, like orbiting around it, so you can feel it’s almost aspirational. And as Morning’s Observation goes to get in he says:
+
+	AUSTIN (as Saint Symmetry): No, you’re in a different room.
+
+AUSTIN: And so this is the complication, that you and Morning’s Observation have been split up.
+
+ART: That’s fine! We’re all—we’re here to tell the truth! I don’t mind!
+
+AUSTIN: Uh-huh. And he comes back to you—
+
+ART: And I—I hope—
+
+AUSTIN: Uh-huh?
+
+ART: —Morning’s Observation isn’t also telling the truth [laughs].
+
+AUSTIN: He like, as he’s being guided away, he kind of does the thing where his head pops around the corner and looks at you and he’s like: 
+
+AUSTIN (as Morning’s Observation): [Frantic whispering] What am I doing? What am I supposed to—
+
+AUSTIN: And then gets pulled away.
+
+ART: I just—I try to give him like a thumbs-up.
+
+AUSTIN: [Laughs] Great. And then, you know, time passes, and then you can hear some shouting in a different room, and then Profit’s Cadence comes in. 
+
+ART: Did it sound like Morning’s Observation shouting?
+
+AUSTIN: Oh yeah. A hundred percent.
+
+ART: Mm. Like a distressed shouting or an angry shouting?
+
+AUSTIN: You know how he yells. It’s always both.
+
+[Ali makes dismayed noise]
+
+ART: Okay. But not like “Help me, I’m dying”?
+
+AUSTIN: Noo. Like upset and angry, but not necessarily—but who knows over what. Maybe they just didn’t have the flavor of Coke he wanted. 
+
+ART: Gotta get that Cherry Vanilla.
+
+AUSTIN: That’s definitely the Morning’s Observation flavor. Alright, so Profit’s Cadence comes in, flanked by a couple of regular Torch units, and they take up post at the door, and he sits down at this big hearty chair that’s like a single chair facing the couch that you’re on.
+
+ART: Mm-hm.
+
+AUSTIN: And he says:
+
+AUSTIN (as Profit’s Cadence): I understand your name is Mr. Magnificent, what a beautiful name.
+
+ART (as Grand): Thank you. [Quietly] That’s not right but it’s fine.
+
+AUSTIN: Uh-huh.
+
+	ART (as Grand): Yes, I’m Grand Magnificent, I am here representing certain, certain interests. 
+
+[Austin laughs]
+
+ART (as Grand): But really, I am here for your interests. I am here to save you from certain death. From prophesied death. Oh, hah, I shouldn’t have said ‘prophesied’ to you, huh. Well, I did it, it’s over.
+
+AUSTIN: He laughs and he says, he’s like:
+
+AUSTIN (as Profit’s Cadence): Haha. Oh, Mr. Magnificent, I promise you, I am under no threat at all, other than those I already know about. Those duelers in the sky out there, they’re not much to worry about. We are safe and secure here in Our Lady’s light. 
+
+ART (as Grand): I just need you to know that that might not be true. An assassin with a terrible weapon might be on their way here. It might be someone you know. 
+
+AUSTIN: I just wanna, real quick, ‘cause like, the thing we did not mention in all this, in the beginning of this—
+
+JACK: Oh.
+
+AUSTIN: —Was that this is the guy who gave them Compel. 
+
+ART: Mm-hm.
+
+AUSTIN: Okay. I just wanna make sure that the audience and everyone at the table remembered, this is the guy who gave Ocean’s Roar the sliver of Compel, and also has guns here, has—
+
+JACK: Receiving shipments of the guns.
+
+AUSTIN: Yes. Has one shipment of them here already.
+
+ART: Right? That’s why I said the part about someone he knows.
+
+AUSTIN: Yes, totally, okay.
+
+ART: ‘Cause that’s real likely.
+
+AUSTIN: Uh-huh. So he says, um:
+
+	AUSTIN (as Profit’s Cadence): I trust you—
+
+AUSTIN: Or uh, he says:
+
+AUSTIN (as Profit’s Cadence): Trust me, twin. Anyone who can get close to me, anyone who I would offer my friendship to, they could not harm me, in any meaningful way.
+
+ART (as Grand): That’s ridiculous. I just—I’m worried that you’re, you’re a little overconfident here. This has been, this has been predicted, and the people who predicted it are calling it “Dark Day.” There’s no predictions after this.
+
+AUSTIN (as Profit’s Cadence): Who has predicted this?
+
+ART (as Grand): It’s really not important.
+
+AUSTIN (as Profit’s Cadence): Oh, it is. 
+
+ART (as Grand): [Noncommittal noises]
+
+[Austin laughs]
+
+ART (as Grand): Um, you know—
+
+ART: Is it worth lying about this?
+
+AUSTIN: I dunno.
+
+ART: On the one hand, some people have just been telling our whole plan to anyone who would listen. 
+
+[Austin laughs]
+
+ART: Who we are, where we’re from—
+
+AUSTIN: Mm-hm.
+
+ART: Who we’re working for. And it’s been going okay so far. I don’t want to tell—Do I even know other—do I even have a good lie? Who else predicts things?
+
+AUSTIN: Yeah, there are other people who predict things; you have a good lie. You could say that it is the—you could say that it comes from— what is the other algorithm—Weyerbach Zwei—could’ve said it; you could have hear it from the—there’s another algorithm that predicts things sometimes. There are other things. I have not looked at this big faction sheet yet today, so. It’s weird I need crime, give me that good crime. That machine Arbitrage could have; you could have seen it on the marketplace, you know? There’re a couple people. 
+
+ART: Alright, I’m just gonna put one of them under.
+
+AUSTIN: Your basic thing here is either the algorithm  Weyerback Zwei, which is a kind of, the third in the line of kind of oracle algorithms, or the other one that I just said, the machine Arbitrage, which is a kind of shadow broker-type figure who studies the markets and who studies the currents of the news, who is kind of a Adrian Veidt-style person, except is also a machine, and is not a person. “An ancient algorithm and trading system that works as a gray market for both goods and stocks; it is distributed; it is wealthy; it is insatiable; it knows you; it has exactly what you want, and will take its cut,” is our description from the Faction Sheet. 
+
+ART: Alright, I’m gonna pick that one, because that’s what someone who put “Profit” in their name would probably believe.
+
+AUSTIN: Uh-huh.
+
+ART: That’s my current operating theory.
+
+AUSTIN: Alright, so that’s a Sway. I’m going to say that this is Risky Limited.
+
+ART: Alright, I’m just gonna roll as is.
+
+AUSTIN: Which is 2d6...That is two failures. And so what do you say?
+
+ART (as Grand): Arbitrage, I heard it from Arbitrage, um—
+
+AUSTIN (as Profit’s Cadence): Oh, I see. Well then, you better come with me, because if Arbitrage is involved, then I’m going to need more information and we should move to much more secure location. Arbitrage is not someone to be dealt with lightly. 
+
+ART (as Grand): O...kay.
+
+AUSTIN: And he stands up and opens the door, and the doors open as he stands up, and begins to lead you to one of these side elevators, that kind of goes along the side of the entire pyramid structure, the diamond structure, rather, and it starts taking you lower and lower down the side of it; and it’s, you know, made of glass and has kind of an energy shield, and you can see outside, Melodica continues to battle against the Welkin Absolute. 
+
+ART (as Grand): Hey, where’s Morning’s Observation? 
+
+AUSTIN (as Profit’s Cadence): That’s your companion, yes?
+	ART (as Grand): Yeah, uh-huh. Did you, did you talk to, did you talk to him?
+
+AUSTIN (as Profit’s Cadence): I did not, Symmetry, Saint Symmetry, I believe, was speaking with your companion. 
+
+ART (as Grand): You know, Symmetry and I go way back.
+
+AUSTIN (as Profit’s Cadence): I’ve heard, I’ve heard. He’s said that you were one—he’s said wherever you go, great activity comes in your wake. 
+
+ART (as Grand): You know that coincidence is a strong force of the universe.
+
+AUSTIN (as Profit’s Cadence): Oh, child. Oh, twin. You know we believe in the market, yeah?
+
+ART (as Grand): Mm-hm.
+
+AUSTIN (as Profit’s Cadence): No coincidences. 
+
+AUSTIN: And the doors open, and it is a big warehouse, filled with Torch units, and Symmetry is there, his arms crossed. His arms, like, his, in this scene—I don’t know that he was wearing sleeves before but he definitely doesn’t have sleeves on now—and he is like, crossed arms and his muscles are real big and he has on a tank top, a tight-fitting tank top, and he just looks like real strong, and he says:
+
+	AUSTIN (as Saint Symmetry): Come with us.
+
+AUSTIN: And they lead you past rows and rows of these Torch unit, that look almost like, they look almost like the battle droids in Phantom Menace that are being rolled out, you know?
+
+ART: Sure. I—
+
+AUSTIN: There’s some things in that movie that are okay. Go ahead.
+
+ART: I hate Torch units, you know?
+
+AUSTIN: Mm-hm.
+
+ART (as Grand): It’s such a, such a lifeless design. It’s, it’s just—
+
+AUSTIN (as Profit’s Cadence): Lifeless is the way we like them. 
+
+ART (as Grand): [Exasperated] Noo.
+AUSTIN (as Profit’s Cadence): We’ve seen what putting life in machines can do firsthand. And I know you have too.
+
+ART (as Grand): [Disgusted] Nhhh. But things can—you wouldn’t sit in a chair that looked as bad as a Torch unit. 
+
+AUSTIN (as Profit’s Cadence): [Chuckles] No, but that’s why I have my own bodyguards, yeah? These aren’t for me. These are for the world. Speaking of chairs—
+
+AUSTIN: And they arrive at like, there’s just an open space in this warehouse, with just a single folding chair and like a spotlight on it from above. The whole area isn’t like pitch black, but you can tell that this spot has this bright shining light straight down, and there’s just a folding chair there in the middle. And Symmetry says:
+
+	AUSTIN (as Saint Symmetry): Take a seat.
+
+ART (as Grand): After all that, this is the chair you’re gonna give me?
+
+AUSTIN (as Profit’s Cadence): That’s the chair. It’s not for me.
+
+ART: Hey, what’s the status on my uh—
+
+AUSTIN: Oh, it can be here. This is the moment, if you wanna—do you love it when a plan comes together?
+
+[Ali laughs]
+
+ART: I sure do. 
+
+ART (as Grand): I’m just more fond of leather interior, you know?
+
+[Austin laughs]
+
+AUSTIN: And does it like smash through the wall, what’s it do?
+
+ART: Uh, yeah, I assume, right? It sure doesn’t take the elevator [laughs]
+
+AUSTIN: Yeah, no, totally. I think we actually get just like, again, the wide shot of this thing floating in the air, and it’s like, it’s like a wide shot where it is on the left of the screen and way up above, you can see, off in the distance, you can see the Welkin Absolute and Melodica fighting, and there is just this single little dot that’s like slowly moving across this great distance towards this floating diamond, and then it just like then hits the side, and it’s just quiet, right? We’re just getting the wide shot with the sound of the waterfalls out here. And it’s like “Ptttt” and it goes in, and we cut to inside, and there’s like smoke, and the Torch units have begun to activate. And you see Saint Symmetry reach his hand out, and one of these Compel project guns appears around his hand. And you hop into the Angler. 
+
+ART: Yeah.
+
+AUSTIN: Your Angler still doesn’t have a name, right? 
+
+ART: No, I don’t think it has a name. I think it’s just—
+
+AUSTIN: Okay.
+
+ART: I think I refer to it by its serial number. 
+
+AUSTIN: Right.
+
+ART: And if you want me come up with a serial number—
+
+AUSTIN: Oh I definitely want one of those, a hundred percent. But you could come up with that in the next few seconds, because—or the next few minutes—because I think that’s a great cutpoint—
+
+ART: Sure.
+
+AUSTIN: —Back to Tender Sky. So you go to the lobby bar.
+
+ALI: [Nervously] Yeah.
+
+AUSTIN: And the three of them are seated at a booth. Both Chiron and the duck-person have drinks, have like drink-drinks.
+
+ALI: Mm-hm.
+
+AUSTIN: Open Metal has water. And has a water for you already ordered, in front of you.
+
+ALI: Cool, that’s nice.
+
+AUSTIN: And she says:
+
+	AUSTIN (as Open): Take a seat.
+
+ALI: Sure, I do, sorry, I am afr—I am terrified of this scene, and I also don’t know what my [laughs] goals are—
+AUSTIN: Me either.
+
+ALI: Besides having them not kill someone, which I don’t think that I’m gonna convince them not to do, but let’s—
+
+AUSTIN: Let’s see.
+
+ALI: Play to find out what happens.
+
+AUSTIN: Mm-hm.
+
+[Ali sighs]
+
+AUSTIN (as Open): It’s been too long, Tender. 
+
+ALI (as Tender): Um, yeah, there keeps being...breaks.
+
+[Austin laughs]
+
+ALI (as Tender): It’s a shame. 
+
+AUSTIN (as Open): Yeah.
+
+AUSTIN: Chiron is like:
+
+AUSTIN (as Chiron): You look good, you look like—it was great to see you and Fourteen, you know, from the rooftop earlier, I guess, you know. You look healthy, both of you, you both look like—I’m glad you made it through the year, you know?
+
+ALI (as Tender): Yeah, you look amazing, by the way, I like this look for you.
+
+AUSTIN (as Chiron): Thank you. Yeah, it’s a new look for me. I thought like, you know, all these people, I’m not trying to be so hard, you know, like I’m trying to keep it real, so.
+
+ALI (as Tender): Right, you have to refresh the aesthetic every so often.
+
+AUSTIN (as Chiron): That’s right, yeah, exactly. That’s what Armstrong did. 
+
+AUSTIN: And Chiron like gestures to Armstrong, who is a duck now. Who is a duck-person now. And Armstrong is like—
+
+ALI: Wait.
+
+AUSTIN: Uh-huh, what’s up?
+
+ALI: Do I know Armstrong?
+
+AUSTIN: You do not know Armstrong.
+
+ALI: Okay.
+
+AUSTIN: If Grand was here—alright, [Ali laughing] I think Art just put the serial number in chat, but it looks like he just mashed the keys at the mention of Armstrong being a duck-man now. 
+
+ART: No, I went to randomcodegenerator.com.
+
+AUSTIN: Okay, and you came up with nMEbuUnx. You came up with Enemy Bunks?
+
+ART: Yep, Enemy Bunks!
+
+ALI: Nmmmm.
+
+AUSTIN: [Laughing] Okay, that’s a good name, I’m into it. 
+
+ART: Thanks, randomcodegenerator.com!
+
+AUSTIN: It’s capital M-E, and then the first—the second U is capitalized. Everything else is lowercase. n-M-E-b-u-U-n-x. Enemy Bunks. That’s a really game name, that’s extremely good, I’m so jealous of that.
+
+JACK: [Crosstalking] That’s extremely good. Is this the new mech?
+
+AUSTIN: Uh-huh. 
+
+[Art laughs]
+
+JACK: Oh, Enemy Bunks is great.
+
+AUSTIN: Enemy Bunks, fuck. 
+
+[Ali laughs]
+
+AUSTIN: Okay, back to this scene. And Armstrong says like:
+
+AUSTIN (as Armstrong): [High-pitched] Pleased to meet—
+
+AUSTIN: I can’t do a Daffy Duck voice—
+
+AUSTIN (as Armstrong): [Lower-pitched] Pleased to meet—
+
+AUSTIN: What was his voice before? I guess I’m just doing my voice.
+
+	AUSTIN (as Armstrong): Pleased to meet you. 
+
+	ALI (as Tender): Um, yeah, yeah, same. Tender Sky, I’m sure they, I’m sure you—
+
+AUSTIN (as Armstrong): Yeah, I’ve heard, I’ve heard. I’ve met some of your compatriots. Gig and I go way back.
+
+ALI (as Tender): Oh! Oh. I’ll—do you want me to tell him you said hi? 
+
+AUSTIN (as Armstrong): Yeah.
+
+ALI (as Tender): Okay.
+
+AUSTIN (as Armstrong): Yeah, you let him know.
+
+ALI (as Tender): Sure.
+
+AUSTIN (as Armstrong) Depending on how this shakes out, you let him know.
+
+ALI (as Tender): Fair.
+
+AUSTIN: And Open, like, leans forward, and like sips—
+
+[Ali laughs]
+
+AUSTIN: —Like looking down, sips the drink, and then makes eyes at you from sipping the drink, and then leans back, crosses her leg, and says:
+
+	AUSTIN (as Open): So [sighs] this is a tough one, right, Tender? 
+
+	ALI (as Tender): You know, yeah, I, not the mission you get every day. 
+
+AUSTIN (as Open): Do you get why we’re doing what we’re doing? I just want there to be no—[sighs]. We’ve spent a lot of time not talking, like, even when we’re talking, right?
+
+ALI (as Tender): Right. That’s why I’m here [laughs].
+
+AUSTIN (as Open): So I just want there to be no pretense; I want everything on the table, all of our cards.
+
+ALI (as Tender): Exactly, yeah. See, we’re on the same page already, this is great.
+
+AUSTIN (as Open): So we’re here to stop the Compel project.
+
+ALI (as Tender): Same.
+
+AUSTIN (as Open): Great. Ocean’s Roar has already been dealt with.
+
+ALI (as Tender): O-Oh. 
+
+AUSTIN (as Open): So now we just need to make sure that no one can use his work.
+
+ALI (as Tender): [Sighing] Oh man, you. Okay, he was kind of a dick, so, it happens, but—
+
+AUSTIN (as Open): I’ve seen the research she’s done, she’s more talented than he could ever be, and she sounds like a great gal, Tender.
+
+ALI (as Tender): Don’t—she’s just—she’s not interested in working with Compel, if that is your concern.
+
+AUSTIN (as Open): She doesn’t need to be. Places like the New Earth Hegemony don’t need you to be interested in something to make you work on them. They don’t even really need to force you to; they can trick you into doing it. 
+
+ALI (as Tender): Sure.
+
+AUSTIN (as Open): You and I both know exactly how tight the reins can be put on you when it comes to experimental technology. 
+
+ALI (as Tender): Yeah.
+
+AUSTIN: Chiron kind of looks away [Ali laughs], like awkwardly, like, “I’m intruding.” In fact he’s like:
+
+	AUSTIN (as Chiron): Um, you know, Armstrong, you want to go get another drink?
+
+[Ali keeps laughing] 
+
+AUSTIN: And Armstrong’s like:
+
+	AUSTIN (as Armstrong): No, I’m good, nghhh—
+
+AUSTIN: And Armstrong’s like:
+
+AUSTIN (as Armstrong) Yeah, okay.
+
+AUSTIN: And they get up and they go over to the bar and sit down at the bar.
+
+ALI (as Tender): I mean, that’s—if we had more time and if we were better at this, we could just try to get rid of Compel, ‘cause I don’t think [sighs]—she’s allowed to just be a talented person who works for a shitty company, right? Like [sighs].
+
+AUSTIN (as Open): Do you know where Compel is?
+
+ALI (as Tender): They were producing the weapon in the office building that we were in, so I know where they got it from, I assume it’s there, if it was being manufactured there.
+
+AUSTIN: So this is a lie.
+
+ALI: Is it a lie?
+
+AUSTIN: Yeah, Compel isn’t there; there was like a sliver of Compel in the blueprint.
+
+ALI: Ohhhh.
+
+AUSTIN: Compel is with Profit’s Cadence in the Church of the Self. 
+
+ALI: Oh. Well then I say that, okay, sorry, I was like, yeah, yeah. Then I say that, which is like, part of it is there, the rest is with the person they got it from, so. 
+
+ALI (as Tender) And she doesn’t even want to work with it; who would want to?
+
+AUSTIN (as Open): Again, it doesn’t matter that she does or doesn’t want to.
+
+ALI (as Tender): It matters [laughs] if you’re gonna pull a trigger on her!
+
+AUSTIN (as Open): We’ve had to pull triggers on lots of people. It has been that sort of year. We’ve saved lots of lives doing it. And we aren’t sorry. In fact, Armstrong used to [laughs]—let’s just say that for some of us, we’ve gone from killing for the worst possible reasons to actually making a difference. You know where I was at, a year ago.
+
+ALI (as Tender): Yeah.
+AUSTIN (as Open): And you know I’m talented too.
+
+ALI (as Tender): Who’s “we” in this situation?
+
+AUSTIN (as Open): Sui Juris.
+
+ALI: Right, sorry, that was—okay, I don’t ask that ‘cause that’s [laughs]—
+
+AUSTIN: Ah, no, I think that’s a fair question to ask. I think it’s like, I mean, does Tender—
+
+ALI: Are they on a list?
+
+AUSTIN: Yeah, they’re on the list. 
+
+ALI: Okay, then—
+
+AUSTIN: They are a faction. They’re on the Faction List. 
+
+ALI: Okay.
+
+AUSTIN: Yeah I think you would know, at this point, they’re kind of, they are fixers; they’re freelance problem-solvers.
+
+ALI: Okay. They’re not officially—
+
+AUSTIN: They’re the Chime, right?
+
+ALI: Yeah.
+
+AUSTIN: They’re criminals [laughs].
+
+ALI: They’re not officially connected to the Waking Cadent?
+
+AUSTIN: They are not officially connected to anything; they take missions for the highest bidder, and then check that against their morals. You know?
+
+ALI: Okay.
+
+AUSTIN: And then occasionally do their own thing.
+
+ALI: Okay. I guess I do ask then. Because it’s different from saying “Here’s the person that I’m working for.”
+
+AUSTIN: Yeah, yeah. Right. I think she says like:
+
+AUSTIN (as Open): Sui Juris. We’ve done some things I’m not super proud of, but by-and-large, we’ve been helping people, and this job, this one’s for us, this isn’t part of some bigger play, this isn’t part of anything except what we think is necessary for this place. There shouldn’t be weapons like these. We shouldn’t even have them.
+
+	ALI (as Tender): I agree with you [laughs].
+
+AUSTIN (as Open): Then why aren’t we paying the cost? That’s what it is, and I don’t take joy in it [sighs]. Think about everything that could be undone, everything that could have been saved if whoever first had the idea for Volition could be stopped. Or Independence. Or the weird shit they put in your head. And I’m not saying pull the trigger on each of them. But if you have an alternative option, I’d love to hear it.
+
+ALI (as Tender): You already took out the person who developed this.
+
+AUSTIN (as Open): But that research is still out there, and yeah I know that the blueprint is destroyed. But Compel exists, and Wind’s Poem has the capability to follow in her cousin’s footsteps.
+
+ALI (as Tender): I—I mean, the only reason—I mean, if you really want to know the reason I want to protect her, it’s because I know that she wouldn’t do that. Because she doesn’t want to make—I mean, I don’t know, [quietly] I’m trying to think of that conversation I had with her. I know for a fact she both super doesn’t want to work with Axioms and she’s making this other thing that could be—it could be dangerous, but, if it’s not in the hands of dangerous people, could be something really special. 
+
+AUSTIN: Give me a roll.
+
+ALI: [Laughs in dismay]. Okay. That’s—do I have a Consort? Jesus, please, okay I do.
+
+AUSTIN: You do have a Consort.
+
+ALI: Thank you, God.
+
+AUSTIN: You have a one in Consort.
+
+ALI: That’s better than nothing.
+
+JACK: Use that gambit.
+
+[Ali laughs]
+AUSTIN: Uh-huh.
+
+ALI: You’re sure you don’t want to use that gambit when you’re like, in a fight or something? [Laughs]
+
+JACK: I would—I feel like I’d rather use the gambit to prevent the fight, probably.
+
+AUSTIN: Mm-hm.
+
+ALI: Fair. Okay. What is this?
+
+AUSTIN: Risky Standard. 
+
+ALI: Really?
+
+AUSTIN: Oh yeah.
+
+ALI: This isn’t a Controlled whatever?
+
+AUSTIN: You’re trying to convince—ah, I guess it’s Controlled, it’s Controlled Standard—
+
+ALI: I’m gonna be very honest, we’re just like talking [laughs].
+
+AUSTIN: The risk is broad, right?
+
+ALI: Yeah.
+
+AUSTIN: Risk is not like, “then she shoots you.”
+
+ALI: No, no, no. I know. 
+
+AUSTIN: I think you’re right; I think it could be Controlled. 
+
+ALI: You’re—Okay [laughs].
+
+AUSTIN: You have a long history with her. Controlled Standard. So you’re spending a gambit?
+
+ALI: [Exhales] Am I? I should. If you want me to, I should.
+
+AUSTIN: I don’t want you to or not.
+
+ALI: I could use that gambit to not take any stress when I only have two more [laughs].
+
+AUSTIN: Mm-hm.
+
+JACK: [Laughs] Okay.
+
+ALI: —to go, so I’m not. 
+
+AUSTIN: Okay.
+
+ALI: This isn’t the one, probably.
+
+AUSTIN: 1d6. 
+
+ALI: Fucking.
+
+AUSTIN: That is a one. 
+
+ALI: Oh my God.
+
+JACK: Wow.
+
+AUSTIN: Uh-huh. She says, like:
+
+ART: Amazing, honestly.
+
+[Ali laughs]
+
+AUSTIN: Uh-huh. That’s what she says, “Amazing, honestly.”
+
+ALI: Woooow.
+
+AUSTIN (as Open): Tender, you told me a year ago to stop being naive and over-idealistic and thinking that, like, everything would be so easy. I could just walk into a room and say “I’m in charge now,” and I know I’m not in charge now, and I’m not trying to be in charge now, I’m trying to push things a little bit, here or there, in a way that keeps the picture together. I thought that’s what the Notion was all about, was like making sure that this whole place doesn’t crumble, because, listen to me, there are people here right now, who are plotting to make this whole place fall apart. Do you think that priest just happened to have an Axiom on ice?
+
+ALI (as Tender): No, I—
+
+AUSTIN (as Open): There’s no way!
+
+ALI (as Tender): I really, truly, don’t care about the priest, to be honest. And I spent the past year not being as much of an asshole, like—
+
+AUSTIN (as Open): Me too! [Laughs]
+
+AUSTIN: You can, to remind you, on a failure, on a Controlled, press on by seizing a risky opportunity, or withdraw and try a different approach. Which means you can try something that’s not Consort, still at Controlled, or you can go to Risky and try Consort again.
+
+ALI: Fucking hell.
+
+AUSTIN: And this line of argument in general. You can find a new line of argument that’s still Controlled, do you know what I mean? Whether that is Sway or Command or Attune or Fight; like, whatever it is, you’re in a Controlled position.
+
+ALI: Mm-hm. Okay. I—okay, okay, yeah. I don’t know where this conversation is gonna go if I’ve already failed it—man, how do you tell someone not to kill someone? Isn’t it just [laughs]—it should be really easy!
+
+AUSTIN: Not when they’re killers, you know?
+
+ALI: No, yeah, it be like that, huh?
+
+AUSTIN: Mm-hm.
+
+ALI (as Tender): I don’t want you to kill her. The Notion isn’t asking you not to kill her. The Notion is trying to fix things, the thing we’re here for is—do you guys know about Dark Day? Is that a word that rings a bell?
+
+
+AUSTIN: You can hear that she’s like, subvocally talking to the other two.
+
+	AUSTIN (as Open): No.
+
+AUSTIN: She leans forward.
+
+	AUSTIN (as Open): Dark Day? Tell me more.
+
+AUSTIN: Do you just catch her up?
+
+ALI: I’m wondering if I should like, be like, I’ll tell— [laughs] if this should be an exchange—
+
+AUSTIN: Mm. 
+ALI: [Laughing] Like, I’ll tell you if you agree not to fucking [Jack laughs] shoot this girl in the face, please. I mean, what’s the worst that could happen if I try that?
+
+AUSTIN: Sure.
+
+ALI: Right?
+
+AUSTIN: Mm-hm.
+
+[Ali laughs]
+
+ALI (as Tender): Open. Open, I am so willing to tell you everything about what Dark Day is, but [laughs]. You’re used to being a secret agent; I can’t. I want to, I do, and I will, but I just—this is—I need to know that we’re on the same page, like for real.
+
+AUSTIN: She’s like tapping her finger on the table and being fidgety. Give me a roll.
+
+ALI: I don’t even know what that is, is that also a Consort?
+
+AUSTIN: It’s like a Consort—it’s a Consort, I think it’s a—if this was a lie, if you were gonna lie to her about information it would be a Sway. 
+
+ALI: Okay.
+
+AUSTIN: But it could be either, it could be either. I think—Here’s what I think; it could be a Consort, it could be Sway—regardless, I think it’s Controlled Limited, or Controlled Standard.
+
+ALI: Okay.
+
+AUSTIN: So you’re doing Consort?
+
+ALI: Yeah.
+
+AUSTIN: And not spending any gambit or stress?
+
+ALI: Umm, [laughs] is there a Devil’s Bargain here?
+
+AUSTIN: Yeah, let me think, um—
+
+ALI: Besides, “Please stop being a fool.” [Laughs]
+
+AUSTIN: Yeah, let me see.
+
+ALI: [Laughing] Okay. We don’t have to; I know there are more—
+
+AUSTIN: Oh, I know what happens. If you fail this roll, someone’s gonna be at the door, that you—at Fourteen and Wind’s Poem’s door.
+
+ALI: [Dismayed noise]
+
+AUSTIN: On top of whatever the regular consequence will be.
+
+ALI: [Laughs] Just someone? Obviously, okay.
+
+AUSTIN: I’m not gonna tell you who.
+
+ALI: Yeah. Okay, maybe I’ll take the Devil’s Bargain and then save the gambit for Fourteen [laughs].
+
+JACK: [Laughs] Oh, in the case that the Devil’s Bargain triggers and I—
+
+AUSTIN: Right.
+
+ALI: I could get a six! It’s a one out of six chance—no it isn’t. [Laughs]
+
+JACK: [Chuckles] How bad can rolls be? How bad can rolls be?
+
+AUSTIN: I mean, it’s a one out of two chance that you succeed or fail on any given roll; you know, on a one die.
+
+ALI: Uh-huh.
+
+AUSTIN: It’s a coin flip.
+
+ALI: This would be two though.
+
+AUSTIN: Right, so that’d be less than that. You’re right; that’d be a better chance of success.
+
+ALI: I’m gonna do it. I’m just—
+
+AUSTIN: Alright, so you take the Devil’s Bargain?
+
+ALI: Uh-huh, and then save the gambit for Fourteen.
+
+AUSTIN: Alright. Uh-huh, 2d6.
+
+ALI: Oh my God. This is broken.
+
+JACK: Oh my God.
+
+AUSTIN: Oh my God. I didn’t know you had rolled.
+
+ART: Ohh.
+
+ALI: This is broken. This is broken. This is broken. This is broken. 
+
+AUSTIN: It’s not; this is how dice are sometimes.
+
+JACK: Ali rolled two ones. 
+
+ALI: I don’t remember the last time I rolled above a three.
+
+JACK: Just do a test roll, just do a dummy roll now and see how it goes.
+
+ALI: I’m just gonna, just gonna roll Consort, just a fake Consort roll. Risky Standard?
+
+AUSTIN: Uh-huh.
+
+ALI: Five.
+
+AUSTIN: That’s a success, that would have been a success [Jack laughs], yeah, no, the dice work. The dice work, they just—
+
+ALI: The only time that I’ve gotten a— 
+
+ART: It’s what, like one in two-hundred and sixteen, is that right? The—
+
+AUSTIN: Sure.
+
+ALI: I’m so—
+
+ART: —Three ones in a row
+
+AUSTIN: Sure. I mean it was still a Controlled position, so the at-the-table thing here is she says like:
+
+AUSTIN (as Open): [Scoffs] You’re right; I am a secret agent. I’ve been a secret agent. I’m a fixer, I’m someone who moves in the shadows. And that means you can’t just dangle a carrot in front of me and tell me that it’s delicious. You gotta give me something. You give me something and we can talk. 
+
+AUSTIN: And there’s a knock on the door of the hotel room. And it is someone who’s like:
+
+AUSTIN (as knocker): [Knocks] Mr. Obser—Mr. Morning’s? Morning’s? This is corporate security. This is—
+
+AUSTIN: —I have a name for this faction, this faction is called—
+
+AUSTIN (as knocker): —This is the Regulatory Authority. We’d like to ask you a couple questions.
+
+JACK (as Fourteen): One second!
+
+AUSTIN (as Wind’s Poem): [Frantic whispering] Why is the Regulatory Authority here?
+
+JACK (as Fourteen): [Whispering] I have no idea. I have no idea what is going on here. I need you to get into the bathroom, close the—
+
+AUSTIN (as knocker): [Knocking] We have a warrant.
+
+JACK (as Fourteen): Okay. This is—Alright. Get into the bathroom, close the door. Take this.
+
+JACK: And I press my pistol into her hands. 
+
+AUSTIN: Okay. And then you do what?
+
+	JACK (as Fourteen): Have you fired one of these before?
+
+	AUSTIN (as Wind’s Poem): [Incredulous] No!
+
+JACK (as Fourteen): Okay. Here’s the thing. Here’s what’s really important: don’t. Only fire this gun if it really, really, comes down to it, and you’ll know what that means. Okay?
+
+AUSTIN (as Wind’s Poem): Okay. 
+
+JACK (as Fourteen): Stay safe.
+
+JACK: And I wait until she’s gone into the room and closed the door.
+
+AUSTIN: Uh-huh.
+JACK: And then I put the—I don’t—they have a warrant, so they’re not gonna be stopped by a chain on a door.
+
+[Austin laughs]
+
+JACK: So I open the door very slowly and carefully.
+
+AUSTIN: They move in very quickly and like, they move in, they look around and see everything scattered around the floor, and one of them goes to slam you against the side of the wall. Like, with their hand on the back of your neck. There are two police officers—two corporate security officers. 
+
+JACK: [Exhales] Okay, I’m gonna comply at this point. I’m just gonna put my hands up.
+
+AUSTIN: Okay. They zip-tie your hands behind your back. Are you still complying?
+
+JACK: Have they zip-tied my hands behind my back or are they going to?
+
+AUSTIN: They are going to. That is what they’re about to do. One of them is; the other one is moving—like beginning to clear the room, have seen that the place looks like it’s been tossed, [laughs] which is—
+
+JACK: How many are there?
+
+AUSTIN: Two. 
+
+JACK: There’s two? Okay.
+
+AUSTIN: Yeah.
+
+JACK: No, I’m going to teleport my stun baton into my hand and lash out at one of them.
+
+AUSTIN: Okay, give me a roll.
+
+JACK: This is a Scrap.
+
+AUSTIN: It sure is. Risky Standard.
+
+JACK: And I think the camera just cuts to—in this moment, cuts to Wind’s Poem in the bathroom—
+
+AUSTIN: Yeah, totally.
+
+JACK: —Just hearing the sound of violence outside. Scrap. Risky Standard. Please don’t be ones.
+
+AUSTIN: So you have one...that’s a three.
+
+JACK: Oof.
+
+AUSTIN: So you go to teleport the—you teleport it towards you, and it doesn’t reappear.
+
+JACK: It just disappears from my belt and is gone?
+
+AUSTIN: And you—yeah, it disappears from your belt and then it’s gone, and you hear the hum of their countermeasures.
+
+JACK: Oh damn! I didn’t know that existed!
+
+[Ali laughs]
+
+AUSTIN: Uh-huh. Me either. [Jack laughs] But it’s a cool response! And so they see it teleport and then it goes like, “Beep beep beep” and one of them shouts to the other one like, “They’re armed!” and goes from trying to put cuffs around you to grabbing you by the neck and throwing you to the ground. At this point you are in a Desperate position and you have the less effect damage—the Level One damage “Bruised”. As a reminder, you can roll to resist those two things.
+
+JACK: Okay, so I’m in a Desperate position and I have the lesser effect “Bruised.”
+
+AUSTIN: Bruised, yeah.
+
+JACK: I can roll to resist the two things.
+
+AUSTIN: Yes.
+
+JACK: And I would take stress as a result—
+
+AUSTIN: You’d take stress based on—yeah.
+
+JACK: —Of that. Yeah. I’m gonna keep “Bruised”.
+
+AUSTIN: Okay.
+
+JACK: And I’m gonna roll to resist, uh—
+
+AUSTIN: The Desperate position.
+
+JACK: The Desperate position. Yup.
+
+AUSTIN: Okay. So that is—what are you using to resist?
+
+JACK: I am using—[inhales].
+
+AUSTIN: Insight, Prowess, or Resolve.
+
+JACK: I’m using—also I have the most in Resolve, so it makes the most sense to use that.
+
+AUSTIN: Uh-huh. What’s that look like?
+
+JACK: Attune, Command, Consort—
+
+AUSTIN: Oh no, no. So that’s just—Resolve is the skill.
+
+JACK: Oh, it’s just Resolve.
+
+AUSTIN: Yeah, it’s the attribute. It’s Insight, Prowess, or Resolve. 
+
+JACK: Okay. What this is is just grasping at clear-headedness. 
+
+AUSTIN: Mhm.
+
+JACK: It’s recognizing that what they are trying to do is throw me off balance.
+
+AUSTIN: Right.
+
+JACK: And that I can’t afford that, and I think part of the resolve there is letting it in for a moment.
+
+AUSTIN: Right.
+
+JACK: I think for a second Fourteen is just disoriented and panicked. And then is like, ‘Right, you felt that. Now you have to focus.’
+
+AUSTIN: Totally. Alright, give me a Resolve check.
+
+JACK: Do I get to just click “Resolve”? I do!
+
+AUSTIN: You do, yeah.
+JACK: Well that’s cool. No bonus dice.
+
+AUSTIN: Uh-uh. So you suffer six stress minus the higher die result. So you rolled a four, a two, and a two. So that’s a four, so that means you get two stress to resist that Desperate position.
+
+JACK: Okay.
+
+AUSTIN: So you’re still Risky in this fight. And you don’t have your baton, you don’t have your stun baton right now.
+
+JACK: I have an idea.
+
+AUSTIN: Mm-hm?
+
+JACK: Tender, did you text me?
+
+AUSTIN: [Laughs] Good question!
+
+[Ali bursts out laughing]
+
+ALI: I said I would every thirty minutes. It’s probably been like a half-hour.
+
+AUSTIN: Yeah.
+
+ALI: So yes, yeah. 
+
+JACK: What did you text me?
+
+ALI: Ummm.
+
+JACK: Is it just an emoji? [Austin laughs] And if so, what is it?
+
+[Ali laughs]
+
+ALI: It’s LINE, obviously, it’s not just like—
+
+[Jack makes affirmative noise]
+
+AUSTIN: Right. So it’s a sticker.
+
+ALI: It’s not just emojis. Yeah, it’s a sticker that looks exactly like Tender.
+
+JACK: [Laughs] It’s custom-made.
+ALI: Yeah. I guess it’s more like a Bitmoji, whatever. [Laughs] It’s Tender with like, two thumbs up. Just like, a smiley face, and, like, the little cat face, and two thumbs up.
+
+AUSTIN: Great.
+
+[Ali laughs]
+
+JACK: Okay. Can I do a flashback?
+
+AUSTIN: Sure. Tell me what it is, and then we’ll talk.
+
+JACK: I want to call room service.
+
+AUSTIN: Oh, okay. And you just want it to happen to be timed out such that they’re coming in now?
+
+JACK: Yeah.
+
+AUSTIN: [Laughs] Umm—
+
+JACK: I want to have ordered like a large—I want to have ordered like, drinks.
+
+AUSTIN: Okay. Yeah, that’s one stress.
+
+JACK: Like a big tray of drinks and cold cuts [laughs].
+
+[Ali laughs] 
+
+AUSTIN: Okay, perfect, one stress. 
+
+ART: Hey, Jack, you can’t hang out in my hotel room.
+
+[Austin, Jack, and Ali all laugh]
+
+AUSTIN: It’s on Morning’s Observation’s dime, so, you know. Alright, so that arrives, is that what you want to have happened here?
+
+JACK: I want there to be another knock on the door. And I want someone to come in and say, “Mr. Observation, I have your stuff for you.”
+
+AUSTIN: Okay.
+
+JACK: My hope here is that—I don’t anticipate—I’m not hoping that the—
+AUSTIN: Yeah, no. That’s—I think that puts you in like a Controlled position ‘cause it’s like, distraction.
+
+JACK: I want to, yeah, throw them off guard.
+
+AUSTIN: Totally. Done. I think that—I don’t even think there’s a knock, right? I think they came in, you’re on the ground but your head is right, and the door—the tray just gets pushed in and someone says:
+
+	AUSTIN (as room service): Mr. Observation, your—oh, hey!
+
+AUSTIN: And then you have a moment, what do you do?
+
+JACK: I’m going to spring up, kind of cat-like—
+
+AUSTIN: Uh-huh.
+
+JACK: —And just grab one of the bottles on the tray—
+
+AUSTIN: Uh-huh.
+
+JACK: —And swing it at one of the people.
+
+AUSTIN: Sounds like another Scrap.
+
+JACK: Mm-hm.
+
+AUSTIN: Controlled Great.
+
+JACK: I don’t think I have any traditional weapons on me.
+
+AUSTIN: I mean, you could have—I mean, no, you’ve given up your—you gave your gun to Wind’s Poem, right, and then you could have one of these things just in the general thing—
+
+JACK: Like a disposable blaster.
+
+AUSTIN: Blaster, or like a stun gun or like, something else that’s not just like that. I think though, I think the bottle thing is a really fun thing, we should stay on that.
+
+JACK: Oh yeah.
+
+AUSTIN: So Controlled Great.
+
+JACK: Also, just to be clear, the thing that their teleporters blocked—that blocked my baton—it didn’t teleport it to them, it just stopped it from arriving—
+
+AUSTIN: No. It’s in, it’s like in the buffer.
+
+JACK: It’s just in space. That’s really good.
+
+AUSTIN: Yeah. Mm-hm.
+
+JACK: Okay, Controlled Great. No bonus dice.
+
+AUSTIN: So that’s one die you’re rolling...that’s a four, okay! That’s pretty good. You slam into one of them, you like break that bottle over their head, and that one crumples to the ground, but the other one comes around the corner and you hear the sound of the gun being drawn on you and the waiter who has pushed your thing in. And the waiter’s like:
+
+AUSTIN (as room service waiter): I have nothing to do with this! I’m just delivering cold cuts, officer!
+
+AUSTIN: And is like, on the ground, you know, hands interlocked behind their head already. And the officer’s pointing a disposable gun at you. So you are now out of that Controlled position and into a Risky one. 
+
+JACK: Hmmm. And the bottle is broken—
+
+AUSTIN: Oh broken, yeah, yeah.
+
+JACK: Yeah, okay. Hmmmmm. Interesting. Do I—
+
+AUSTIN: I’ll note that that only had Standard effect, because you’re Bruised. So that’s why—
+
+JACK: Yeah.
+
+AUSTIN: —You did not get to knock out both of them in a single move. You had Great effect but that gets knocked down from the damage
+
+JACK: Yeahh. Oh that’s fair, that makes sense. [Chuckles] I’m looking at my special abilities and it’s like, “You always know when someone is lying to you.”
+
+AUSTIN: Uh-huh
+
+JACK: Great, great [laughing], super useful. 
+
+AUSTIN: Mm-hm. Mm-hm.
+
+JACK: What is a, what’s a fun follow-up to the—’cause I don’t want to have a nice melee scrap and then just end it by pulling out a blaster or something.
+
+AUSTIN: Right.
+
+JACK: What’s in this, what’s in this hotel room? Oh, alright, fine, I’m just going to double down on accidentally trashing a hotel room, and also deliberately trashing a hotel room. I’m going to turn a table over—
+
+AUSTIN: Okay
+
+JACK: —And take cover behind it. Just like—
+
+AUSTIN: Okay. What about the tray that’s been wheeled in?
+
+JACK: Oh yeah!
+
+AUSTIN: The metal tray, yeah.
+
+JACK: Just like, cold cuts going everywhere [laughing]
+
+AUSTIN: Uh-huh, go flying, yeah. Alright, so you can just do that, but what’s your next action? Like, what’s the next—
+
+JACK: Ooh. Is there anything to hand, behind the tray? 
+
+AUSTIN: What do you mean ‘to hand’? Like anything you could reach to?
+
+JACK: Mhm.
+
+AUSTIN: Tell me, what is it?
+
+JACK: A clock.
+
+AUSTIN: Like a little clock? Like a—
+
+JACK: Like a carriage clock. Like a, you know—
+
+AUSTIN: [Amused] I’m an American, I don’t know what a carriage clock is.
+
+JACK: I don’t even think that’s the right word—what am I looking for, it’s like a mantelpiece clock.
+
+AUSTIN: Yeah, okay, carriage clock works.
+
+JACK: Much smaller than—
+
+AUSTIN: Oh, is it?
+
+JACK: A carriage clock is like the size of my—it’s like a table clock.
+
+AUSTIN: Yeah, okay, sure. There’s totally a table clock. And you know what, it’s a table clock and it’s in the style of the kind of Rococo stuff from Privign. 
+
+JACK: Oh, yeah.
+
+AUSTIN: So it’s like one of those. [Amused] It’s not one of those, it’s an NEH knockoff of one of those [chuckles].
+
+JACK: [Laughs] Is it weighty enough that I can throw it?
+
+AUSTIN: Yeah, that you can like throw it? Totally. Also a Scrap, I think, right?
+
+JACK: Yeah.
+
+AUSTIN: Yeah. Give me that 1d6. You’re not gonna—No gambits, no—
+
+JACK: Nope, I think this is when I’m gonna use the gambit.
+
+AUSTIN: Okay. I’ll give you another die if you want the—if you let me put one point of heat on, which will become two points of heat because of being in the Alcologies. 
+
+JACK: How do we feel about this, Art and Ali?
+
+ART: Ah, go for it, why not?
+
+ALI: [Laughs] Yeah, yeah.
+
+JACK: I mean, does this trip us up another thing? Or—
+
+AUSTIN: No.
+
+JACK: —No, I’ll take it. I feel like we’re late enough in the mission—
+
+AUSTIN: Mm-hm.
+
+JACK: —That this is actually a kind of a cool, interesting thing. 
+
+AUSTIN: Yeah. Alright. 
+
+JACK: So, I mean, Risky position. This is Standard effect—
+
+AUSTIN: Risky Standard, yeah.
+
+JACK: Which means it gets knocked down to a Limited effect. 
+
+AUSTIN: Limited, yeah.
+
+JACK: And I have two bonus die—
+
+AUSTIN: You do.
+
+JACK: —One from the gambit and one from the heat.
+
+AUSTIN: Yep, the Devil’s Bargain, yeah, yep. 3d6...There’s a six in there! Nice work. So, you clock this guy in the head—I didn’t mean to go that way but it did—and he drops, and then with a six, your stun baton just like reappears in your hand. 
+
+[Jack laughs]
+
+AUSTIN: And the waiter looks up at that and looks around the room and is like—and sprints out. He doesn’t say anything to you, he just runs.
+
+JACK: Okay. 
+
+AUSTIN: Then silence.
+
+JACK: I’m going to close the door and push the table against the door, really quickly. 
+
+AUSTIN: Uh-huh.
+
+JACK: I’m going to text Tender a LINE sticker of Fourteen just emoting horror. 
+
+[Ali laughs]
+
+AUSTIN: Seconds later, you can see in the lobby that the waiter runs to the front desk and is saying something, Tender. We get the shot of Tender looking down at her phone, seeing the upset Fourteen, looking up, and then seeing this waiter running to the hotel lobby and being like, “Adjglpp punch punch! Throw!” 
+
+[Ali laughs]
+
+AUSTIN: Like emoting in this big way.
+
+ALI: Okay, I gotta go. Umm, yeah.
+
+AUSTIN: You said that to Open Metal, you’re just like, “I gotta go!”?
+
+[Ali laughs]
+
+JACK: Oh, Jesus. 
+
+ALI: I mean, it’s either leaving immediately, or like, really leaning into breaking down in front of Open Metal.
+
+[Jack laughs]
+
+ALI: And that first—that second idea is really good, but [laughs, Austin laughs as well], but that second idea has now been interrupted by panic from—
+
+AUSTIN: Right.
+
+ALI: —Fourteen; priorities, of course. Hey, I gotta [breaks into laughter]. No, yeah, I just get up, because she wouldn’t think about how it’s weird that she’s just gonna be followed and this girl’s gonna get murdered; it’s literally fine. But yeah, I think she just stands up and is like—
+
+AUSTIN (as Open): Where are you—woah, we were talking.
+
+ALI (as Tender): I know, I have to, just have to see if Fourteen needs something real quick, and I’ll be right back and we can continue—
+
+AUSTIN (as Open): You—Just text them. 
+
+ALI (as Tender) Right.
+
+AUSTIN (as Open): We’re talking.
+
+ALI (as Tender): Right, right. I can do that. 
+ALI: [Laughs] Tender texts back, “What’s up? Do you need me?”
+ 
+AUSTIN: Jesus Christ. “You up?”
+
+[Ali and Jack laugh]
+
+JACK: It just cuts to Fourteen just barricading the door with more stuff, like texting—
+
+AUSTIN (as Wind’s Poem): Are you okay? What is happening out there?
+
+JACK (as Fourteen): Uhh, Uhhhh. Alright, come out real quick, I need to tell you.
+
+AUSTIN: She comes out and is like:
+
+	AUSTIN (as Wind’s Poem): [Shocked] Oh, there are two cops on the ground!
+
+	JACK (as Fourteen): They’re fine.
+
+	AUSTIN (as Wind’s Poem): Don’t kill cops!
+
+JACK (as Fourteen): I don’t think—okay [sighs]. Oh my God. Alright, we have much more—much bigger things to be concerned about right now.
+
+	AUSTIN (as Wind’s Poem): Bigger things than killing cops?!
+
+JACK (as Fourteen): Much, much bigger things than killing cops. I don’t think they’re dead, but they’re—I’m not really—Okay. Could you go back in the bathroom? I’ll—don’t worry, I’m sorting this out, please get back in the bathroom, just real quick. 
+
+AUSTIN (as Wind’s Poem): I’m leaving.
+
+JACK (as Fourteen): No, no, no, no, no you’re not.
+
+AUSTIN: And she heads to the door.
+
+JACK: Alright, I’m gonna—the door that I’ve barricaded from the inside?
+
+AUSTIN: She like, starts to un-barricade it. She’s moving tables and shit. 
+
+AUSTIN (as Wind’s Poem): This is ridiculous. I’m leaving, I’m going back to my home, or I’m going to the police; [increasingly frantic] if someone’s gonna kill me, I should just go to the police, maybe that’s what the police are here for, why did you kill the police?
+
+JACK: [Exhales] Alright, I’m gonna—we say this every time, Consort is about talking to allies, right? Sway is like—
+
+AUSTIN: [Amused] Uh-huh. Or rivals. Consort is about talking to someone you know, and getting something. Convincing them of a thing not through trickery, not through manipulation, not through—not through like a sort of confusing logic, not through, like, “I’m smarter than you.” Through open-hearted communication. 
+
+JACK: Yeah, yeah.
+
+AUSTIN: Sway can be about—Sway can—
+
+JACK: Sway can trick.
+
+AUSTIN: Sway can sound like you’re speaking from your heart
+
+JACK: Mm-hm, yeah.
+
+AUSTIN: —But is actually about manipulating someone. That for me is the big difference.
+
+JACK: Okay [exhales]. Alright. I think she opens the door. And I love the framing of this conversation being in the steps outside of the room.
+
+AUSTIN: Yeah.
+
+JACK: This panicked conversation, perhaps beginning to move down the corridor. 
+
+AUSTIN: Mm-hm. 
+
+JACK: And I think Fourteen says:
+
+JACK (as Fourteen): Here’s what’s gonna happen if you go down there. You’re going to talk to the desk, and they’re going to be very shocked, they’re going to, you know, sit you down and listen to you, and then you’re gonna get killed. You might not get killed by them, but you’re gonna get killed by somebody. If you go down there, you will die. And I’ve been thinking about the whole Crystal Palace thing and, you know, I’m beginning to wonder whether or not [sighs] why we need to keep these predictions going. You know, what good have they done us? They’ve just put us here in this hotel, it’s a complete nightmare.Just a complete nightmare. But I don’t want you to get murdered for something that, you know, you didn’t do, or you might do. I’m not telling you to come back to the room, but I am telling you that if you go down into that lobby, you will die. If you come back into the room, you might die. That’s a—like very slightly better.
+
+AUSTIN: Give me a roll.
+
+ALI: [Laughs quietly] Good luck on this one. 
+
+AUSTIN: Risky Standard. Your harm doesn’t hurt you here, I don’t think, so. Risky Standard
+
+JACK: Oh yeah, I’m bruised, which if anything just, like, makes my case more compelling [laughs].
+
+AUSTIN: [Laughs] Yeah. So 2d6, right? That’s a five.
+
+[Jack exhales in relief]
+
+AUSTIN: She says like—deep breath, and then is like:
+
+AUSTIN (as Wind’s Poem): Alright. But more people are gonna come, and we’re just gonna sit in there.
+
+JACK (as Fourteen): Nmmm. Well, either we can kill them, but you weren’t super happy when we got close to that—
+
+AUSTIN (as Wind’s Poem): No.
+
+JACK (as Fourteen): Alright. Oh my God. Okay. The other thing is we—
+
+AUSTIN (as Wind’s Poem): Why don’t you just take me somewhere else?
+
+JACK (as Fourteen): That’s Plan 2. I’m a bit worried about Tender, because things might not be great for her, but, you know, we can get out of the window, if that’s something you’re up for.
+
+AUSTIN: The window goes to the ocean.
+
+JACK: Yeah.
+
+	AUSTIN (as Wind’s Poem): The window goes to the ocean.
+
+JACK (as Fourteen): This is the first time you’ve been involved in something like this, right?
+
+AUSTIN: She nods.
+
+JACK (as Fourteen): Okay. It’s very scary, and I don’t expect you to trust me, but it would make it a lot easier if you did.
+
+AUSTIN: [Laughs] Alright, I think it’s a cut to Grand. So, Grand, tell me, tell me, there is this—you are in your mech, which now has a name [laughs]. Angler Enemy Bunks.
+
+ART: Uh-huh.
+
+AUSTIN: N-capital—lowercase N, capital M-E, lowercase b-u, capital U, lowercase n-x. 
+
+ART: nMEbuUnx.
+
+AUSTIN: [Laughs] Fuckin’ great name,
+
+JACK: It’s so good.
+
+ART: I know. From a generator, too. 
+
+AUSTIN: Uh-huh.
+
+ART: I actually—I switched two letters, but.
+
+AUSTIN: Well there you go. So you gotta massage it every time. 
+
+ALI: Mm-hm. Mm-hm. 
+
+ART: Yeah.
+
+AUSTIN: Alright, so you’re in there. And you’re surrounded by all these Torch units. What do you do?
+
+ART (as Grand): I was here to save you, you idiot. 
+
+[Jack laughs]
+
+AUSTIN: [Laughs] Is that what you just say, is that what comes over the speakers?
+
+ART: Yeah.
+
+AUSTIN: Like the premium external-speakers.
+
+[Ali laughs]
+
+ART: Yeah, it’s crystal-clear.
+
+AUSTIN: Oh my God.
+
+ART: It’s Bose.
+
+AUSTIN: Great [Jack laughs]. You see that Saint Auger—not Saint Auger, Saint Symmetry—begins to shoot at you with the Compel gun. And it has like—it’s kind of a long reload time in terms of what we think of as guns. Like, it’s a shot, and then a heavy beat, and then a shot, and then another heavy beat. 
+
+ART: Sure.
+
+AUSTIN: And so far he hasn’t managed to draw a bead on you. But the shots are coming and the Torch units are also beginning to kind of wake up. And there’s a lot of them.
+
+ART: I—hmm. I’m not sure that these people are—I’m [exhales]. I think I should just be trying to escape, I don’t want to hurt any of these people and I can’t fight all these Torch units. Like, my first option is “I can just tackle him.”
+
+AUSTIN: Mm-hm.
+
+ART: I’m in a giant robot and he’s gonna get crushed. But like, his only mistake is trusting someone bad, probably.
+
+AUSTIN: Mm-hm.
+
+ART: Far as I know.
+
+AUSTIN: Right. So what do you do?
+
+ART: Umm—Oh fuck, where’s Morning’s Observation?
+
+AUSTIN: Good question.
+
+ART: Hmm.
+
+ALI: Hmm.
+
+JACK: Hmm.
+
+ART: But these things aren’t big enough to kind of like grab a person.
+
+AUSTIN: Sure you could. I mean, “grab”, like—
+
+ART: Like grab and move.
+
+AUSTIN: Yeah. You could.
+
+ART: Alright. I want to grab Symmetry and then bolt.
+
+AUSTIN: Okay. Give me a roll.
+
+ART: I’d be happy to.
+
+AUSTIN: I think that’s Helm.
+
+ART: I don’t have that.
+
+AUSTIN: Ooh. You could try it with Scrap, but it’d be a much lower—it’d be like Limited instead of Standard or Great.
+
+ART: You know what, I think Ali got all the bad numbers out of these dice.
+
+AUSTIN: [Amused] Okay. You could—
+
+ART: ‘Cause we don’t have a thing, we’re out of gambits and we’re—
+
+AUSTIN: Here’s what I’ll say, Devil’s Bargain. I’ll give you a—
+
+JACK: They’ve gone great.
+
+AUSTIN: Yeah. I’ll put a countdown clock up. I’ll give you a die but when this three-clock—when these three ticks are gone, someone is arriving.
+
+ART: Ummm [exhales]. Sure, I guess, why not.
+
+AUSTIN: Alright, so you have one die.
+
+ART: Alright, it’s Risky Standard?
+
+AUSTIN: Risky Standard. Let me add this clock to the thing [typing].
+
+ART: [Dismayed] Oh my God.
+
+[Ali laughs]
+JACK: Oohh no.
+
+AUSTIN: That’s a one. It’s quick, it happens so quick. You’re just charging at Saint Symmetry, right?
+
+ART: Um.
+
+AUSTIN: And you’re like, “I’m just gonna pick this guy up, fuck it,” and he just draws the—he gets the bead on you, and the left side of your Angler unit just shears off, because the Compel gun is like that. It’s just like, where once there was a shoulder unit, there isn’t, and, bad news: you too. So you take the—
+
+ART: What, how—I can resist these consequences?
+
+AUSTIN: Yeah, so there’s two consequences. One is damage to your mech—
+
+ART: Mm-hm.
+
+AUSTIN: —Which is, which will be—let me take a look at your actual mech really quick—it will be a full point of damage to your weapons, which are like your grapplers, basically. So that’s like you won’t be able to use your grapple-y things. And also, a Level Two harm to you that is—I want something very severe but not all the way to, like—you hadn’t lost your arm here but it is not good.
+
+ART: A “Not good” arm, got it.
+
+AUSTIN: Uh-huh.
+
+ART: Two points of “Not good arm.”
+
+AUSTIN: I think it’s like “Shoulder torn,” or like—it’s bad.
+
+ART: Yeah, got it, bad. I would like to resist the—I don’t have stress to even do this, is the thing.
+
+AUSTIN: You could roll well [laughs]. You could get a status.
+
+ART: Shut up; shut up, you with the shut up.
+
+AUSTIN: Uh-huh. Uh-huh. You’re at seven stress?
+
+ART: I believe that’s—out of nine, right?
+
+AUSTIN: Out of nine, yeah. A Level Two harm will drop your dice pool by one.
+ART: Yeah, I’ll roll to resist that.
+
+AUSTIN: Alright, what are you resisting with? Insight, Prowess, or Res—technically, I decide what you resist with.
+
+ART: Alright.
+
+AUSTIN: And I’m gonna say it’s Prowess, because it’s about physical movement.
+
+ART: Alright.
+
+AUSTIN: So it’s a two. You have two dice, you need a five here not to get a status and get knocked out of the scene.
+
+ART: Uh-huh. I’m just trying to be one with Roll20. 
+
+AUSTIN: Uh-huh.
+
+[Ali laughs]
+
+ART: I’m gonna look away.
+
+AUSTIN: Uh-huh.
+
+ART: I’m gonna, I’m gonna go over to this other thing, I’m gonna hit Submit.
+
+AUSTIN: I gotcha...That’s a four, you take two stress.
+
+ART: [Sighs] Alright.
+
+AUSTIN: So. “When a PC marks their last stress box, they suffer a level of status. When you take a status, circle one of the conditions like—they are Cold, Haunted, Obsessed, Paranoid, Reckless, Soft, Unstable, or Vicious. When you suffer a status, you are taken out of action. You are left for dead or otherwise dropped out of the current conflict, only to come back later shaken and drained. When you return, you have zero stress and your vice has been satisfied for the next downtime. Status conditions are permanent; your character acquires a new personality quirk indicated by the condition and you can earn XP by using it to cause trouble. When you mark your fourth condition, your character cannot condition as a starfaring scoundrel; you must retire them to a different life.” 
+
+So, you don’t have to pick out quite yet; let’s play out this scene. And then when it’s over, I’m curious what the entirety of this experience gives you. Because there’s gonna be a little bit of narration here, I think. Really quickly, let’s go back to the other scene, because I want to start wrapping up here and I think we can do that by being kind of broad in what’s happening. So—Also, I’m going to tick this arrival clock because you failed that roll. On the plus side, your arm is not disconnected now, right; you don’t take that because you did resist it, it’s just also you got stress. What do you—How do you get Wind’s Poem out of there, Fourteen?
+
+JACK: [Exhales] I mean the thing is, we have this hotel suite with a big window.
+
+AUSTIN: Mm-hm.
+
+JACK: So it feels like the natural sort of—the Chekov’s gun good ending of this sort of spy thing is to escape through the window.
+
+AUSTIN: Yeah.
+
+JACK: But it is the ocean just down there.
+
+AUSTIN: It is.
+
+JACK: And this is the sort of drop that, you know, one person holding onto another person really just exacerbates the problem for both people.
+
+[Ali laughs]
+
+JACK: So I wonder what the escape—I wonder if an escape out the window is possible, and if so, what it looks like. 
+
+AUSTIN: I mean, for me it’s like, is there another flashback to get the World Without End here, or something?
+
+JACK: Oh, wow! Um—I can summon the Watermark though.
+
+AUSTIN: You can. I think—can you?
+
+JACK: Uhh I assume—
+
+AUSTIN: Because we made it a thing for—I guess we—
+
+JACK: I summoned it in the garage—
+
+AUSTIN: Yes.
+
+JACK: —So presumably at least for consistency—
+
+AUSTIN: Yes, totally.
+
+JACK: —I can.
+
+AUSTIN: So that would be one. Or again, zero if you want it on its way, one for it to be there—or you know what, here’s the difference is that I do want to make it fair for Grand, who has spent this extra money on it being better. I think it’s one stress to get it soon and two to get it now. 
+
+JACK: [Exhales] Oof. I think I’ll spend two to get it now. 
+
+AUSTIN: Okay. So that puts you up to eight stress.
+
+JACK: Yeah, I can take one more—does it tick when you take the one more or does it tick—
+
+AUSTIN: It ticks when you take the one more.
+
+ALI: Yeah.
+
+AUSTIN: If you get one more stress [snaps fingers] that’s a status.
+
+JACK: Yeah. Okay.
+
+AUSTIN: Cool. So is it just like, it’s there, it’s outside the window? 
+
+JACK: I think it comes through the window. I think there’s just this explosion of glass.
+
+AUSTIN: [Laughs] Oh my God, so the whole Allocology starts shaking. 
+
+JACK: And—yeah, it’s just this, like this bizarre figure as well—
+
+AUSTIN: Uh-huh.
+
+JACK: Because the Watermark is like this very strange-looking thing.
+
+AUSTIN: Right.
+
+JACK: Just this figure of a human with a massive tank on its back.
+
+AUSTIN: Right. That’s—
+
+JACK: That just bursts through the window.
+
+AUSTIN: Right. That’s like—it can’t even stand upright inside this of room; it kind of has to be bent over kneeling or on its side or something.
+
+JACK: Yeah.
+
+AUSTIN: Okay.
+
+JACK: And I think Fourteen like Titanfall-style kind of climbs into it—
+
+AUSTIN: Yeah.
+
+JACK: And then is immediately, I guess, like sucked into the tank.
+
+AUSTIN: Right.
+
+JACK: And the mech just opens up again for Wind’s Poem.
+
+AUSTIN: Mm-hm.
+
+JACK: And from inside the tank, Fourteen like—water slowly—submerged in water beckons Wind’s Poem.
+
+AUSTIN: Into the actual, regular part of the cockpit, basically?
+
+JACK: Yeah.
+
+AUSTIN: Yeah, okay. So she gets in and, Tender, as soon as that noise happens, as soon as you can hear the glass shatter and the wall break and all that, you see Armstrong and Chiron start running down to where the elevator is, and one of them just runs past and goes to the stairs, and Open like looks at you, and she say:
+
+AUSTIN (as Open: One more chance. I’m gi—I want to be on the same wavelength as you so badly. I spent too long loving you not to give you another chance. But that is it.
+
+ALI (as Tender): [Sighs] The reason we were sent here is because there is a place called Crystal Palace, which makes predictions. And it’s fucked. And the last two predictions it made was that Wind’s Poem is gonna die, and our other target is gonna die. And I don’t care about Crystal Palace. The thought of something out there being so close to where Anticipation was and not having access to it—I would shoot them myself, to be honest. But she’s just a nice person, and she just came to this world that she doesn’t understand anything about and wants to make concerts. But I, I’ve probably killed nicer people, but fuck, I just—I’m the one protecting her tonight, and I don’t want this to be a problem. 
+
+AUSTIN: Alright. And you’re not using any Attune stuff here, we’re not in New-type space for this, we’re not—
+
+ALI: I was like, considering it, maaybe? I feel like it’s—
+
+AUSTIN: [Crosstalk] Yeah, it’s kind of cool, I could imagine it.
+
+[Ali laughs]
+
+AUSTIN: What’s it look like?
+
+ALI: I feel like it kind of sprouts from her, right—
+
+AUSTIN: Yeah, totally.
+
+ALI: —’Cause she’s just so like, this is—[laughs]
+
+AUSTIN: Yes, she’s just pushed to her limit, it just happens. 
+
+ALI: Right, yeah.
+
+AUSTIN: What’s it look like? 
+
+ALI: ‘Cause it’s like, it’s her creating another digital space again—
+
+AUSTIN: Yeah.
+
+ALI: So I think it’s like, Open is looking at her and can kind of see like, as if there’s a smoke around her and then they both get trapped in it.
+
+AUSTIN: Yeah.
+
+ALI: I think it’s just a normal like—oh where would it be? Oh boy. I think that it’s just like, a different bar that they’ve gone to together.
+
+AUSTIN: Is it the Steady? Is it actually just—is it the bar the Steady was originally based on or something?
+
+ALI: [Laughs] Yeah, I mean, I think it’s a place that they went to a lot. 
+
+AUSTIN: Right.
+
+ALI: Right?
+AUSTIN: Okay.
+
+ALI: Where it’s probably a version of the Steady that like—
+
+AUSTIN: Mm-hm.
+
+ALI: —Just existed on the By-and-By that they would like—
+
+AUSTIN: Yeah.
+
+ALI: —Just go to. Or like—
+
+AUSTIN: Alright.
+
+ALI:—Tender worked there while she was still in the church—
+
+AUSTIN: Right
+
+ALI: And Open would hang out after it was closed. 
+
+AUSTIN: Right, right, right. 2d6, that’s Attune. 
+
+ALI: [Laughing] Okay.
+
+AUSTIN: I’ll give you one more if you let me add another heat, which will push you up to Wanted level Two.
+
+ALI: It—we have two more!
+
+AUSTIN: You are in the Allocologies, and you get an extra point of heat. Or you—all heat costs are doubled, so. 
+
+ALI: Uhhh. I mean—
+
+AUSTIN: Oh, also, sorry. There was another action before, and so that clock ticks one more. So.
+
+ALI: [Snorting] Okay. This was, what was this? This was Risky Standard?
+
+AUSTIN: Risky Standard. So you are not or are taking the gambit—or the, not the gambit, the Devil’s Bargain? For the Wanted level.
+
+ALI: [Laughing] I mean this is the ship game, where stuff should pop off, right?
+
+AUSTIN: Yeah, probably. 
+
+ALI: If we’re gonna get that bad Wanted roll, it’s gonna be this one.
+
+AUSTIN: Yeah. So go for it?
+
+ALI: Sure.
+
+AUSTIN: Alright, 3d6.
+
+JACK: Good luck.
+
+ALI: Uhhhh.
+
+[Jack sighs in relief]
+
+AUSTIN: That’s a crit! That’s a crit. That’s a crit. We’ve not—again, I don’t know that we’ve seen a crit here. Add a gambit when—add a gambit to your crew when you roll a six or a critical on a Risky action and you don’t spend a gambit, so that goes up to one and also on a crit—one second—you, I think it goes up from Standard to Great...yeah, you do it with increased effect and add a gambit if you haven’t spent one on this roll. So that ends up being a Great success. So I think it like [laughs]. Again, two things happen here. One is that you can see her face melt. She sees how—the logical argument is never gonna win her here.
+
+ALI: Right.
+
+AUSTIN: Right. It’s the emotional power of this matters to you and is a risk worth taking. Because it matters to you. That is a greater priority for her right now. And like, an old song you like comes on the radio in the bar, it’s kind of like old-timey, I’m imagining. So that’s Part One. Part Two is, that was the fourth action—or the third action on this clock—which means someone arrives, and you’re both there when it happens.
+
+[Ali laughs]
+
+AUSTIN: So, two things happen in fairly quick succession [laughs]. One is, Grand, your mech has been disabled, or at least knocked to the fucking ground. 
+
+ART: Mm-hm.
+
+AUSTIN: And Saint Symmetry is standing over you, and you are lost in a moment of fear, or whatever it is, we’re gonna find out when you decide what that thing is, and is aiming the gun down at you. And then, all of the Torch units, their lights all turn on at once. And completely like overwhelm Symmetry and Profit’s Cadence. And the elevator door opens, and a bloody Morning’s Observation walks in. And he’s calm, and you can see him from the crashed mech, and the mech like doesn’t know what to do because it isn’t just shot, it’s that part of it isn’t there and so its internals don’t know what to make of anything. And Morning’s Observation walks down the row of these Torch units that he has put under his command, and one of them just goes over and like grabs Saint Symmetry and tosses him to the ground and kicks him in the ribs. And another one goes over and picks him up from the leg and slams him into the ground. And Morning’s Observation walks past you and leans down and picks up the gun and shoots Saint Symmetry, and turns and shoots Profit’s Cadence. And drops the gun, and just starts crying. 
+
+And there is—as soon as Profit’s Cadence hits the ground, like as soon as it happens, as if there was a trigger, as if there was a dead man’s switch in him, the entire world rumbles, and I don’t just mean inside of the Church of the Self. Do you remember when Open Metal delivered that message forever ago? Via the stream device that Gig has? And everyone in the system heard it at once. The same thing happens now. And I think you see it, Tender, from inside of the digital bar that you’ve created. It’s like it comes on TV for you and Open Metal, or something, right? This old wall-mounted TV. And for Fourteen Fifteen, it’s in your head, right? You can just see her there. The—you see Our Profit, who was the woman I described in the last intro. She is in my mind wearing white, drape-y, not just robes but kind of like a white, draped blouse—or not blouse—a white, draped, kind of white linen on her top with a gold sash, and a long white skirt that is beaming with color and brightness. And she has dark skin, I think she’s of Indian descent, and has long, dark hair, is in her—appears to be in her forties—so her hair is starting to gray a little bit, and she addresses everyone in the Quire System all at once.
+
+[Our Flaws In A Vacuum, or the Promise We Made To Each Other begins playing]
+
+And she says:
+
+AUSTIN (as Our Profit): Residents of the Quire System. To those that walk the Path of the Self, I am the one you call your prophet. And I have come to heed your prayers. To those who do not know me, please listen to my voice with ease in your hearts. I am the final Hegemon, and the first to escape death, though I will not be the last. I walk on the light as your collective asset, and I will not hedge for my people or for you. I am the guarantor of faith and I will keep at long last the promise we made to each other, millenia ago, that we would travel the stars not to escape our earthly problems, but to charge into the black as bulls and fix them. 
+
+Poverty, hunger, slavery, suffering, fear. Many of you fled these things to come here, and after you left, I rose and began the work of undoing them. But I found obstacles that no familiar technique or technology could overcome without causing irreparable harm to the very structures that brought us so far. Our markets, our heedless competition, our love of freedom; these things brought us the light but they could not save everyone. I cried for a solution in the last years of my first life, and this place, this Quire, sung one alive for me. 
+It was centuries ago that the first wisps of this miracle technology arrived to Earth and brought with it endless possibility. First, it freed my mind from my body, allowing me precious more time to consider, and to experiment, and to build. Then, as we completed the eternal sphere’s construction, as we unlocked the power of the galactic core, it showed me something else. It showed me that it was not only a medium of storage, but of creation too. And I learned that we could, each of us, build our own perfect worlds. Real utopias, where we are all free to create and compete and love without putting at risk life, limb, happiness, or our deepest, most immortal selves. 
+
+But residents of the extended Earth-sphere, know that we cannot and we will not address our flaws in a vacuum. We cannot simply achieve greatness and freedom for ourselves. We must offer it to all who live, all who suffer, and yes, to all that cause suffering too. Which is why I send this message not just to the known citizens of Quire but to you, Chief Intercessor of the Rapid Evening. Driven by cowardice, you spent the last year of your life attempting to destroy something beautiful and potent. So scared are you for your people that you would rewire worlds into bombs; hiding in shadow and protected by prophecy, you dealt weapons and lit flames and arranged proxy battles, all in the hopes that disaster would follow. But the people of Quire are made of stronger, more stable stuff than that. And I believe you are too. So, Keen Forrester Gloaming, the stabilizer of a dozen regimes, killer of queens and ruiner of republics, loyal citizen of the Principality of Kesh, the unknown region, and faithful to your false god Crystal Palace, well—
+
+AUSTIN: And then there is a warm sound, full and round and deep, a power switch turning on smooth as a stream, and in the sky of the Mirage, caught in the purple and tangerine hues, there is suddenly a new sun. A white, bright light that heaves in your minds, the entire system, onto a new axis. 
+
+AUSTIN (as Our Profit): Crystal Palace cannot see you now. It cannot see any of us. So get up off of your knees, and be free with your kin. For the rest of you, this is an invitation. My envoys will travel to your worlds in the coming weeks. You need only say the word, and you will walk with me, into the light. Of the future. 
+
+[Music fades]
+
+AUSTIN: And this message repeats, first in your own heads, and then on news feeds and on various communication outlets. It is extracted from the minds of people and it is caught up in all sorts of synthetic receptors. And along with it is information. Information that blames many of the last year in Quire on the Rapid Evening. It reveals to everyone all at once that there has been this secret police force that protects their people at the cost of everyone else. In a weird way, Tender, it is doing what you were doing with Open, but for everyone. The Welkin Absolute disengages and shudders away, understanding that it has failed to do what it came to do, and I think the group of you puts it together at some point between now and whatever comes next, through looking at the data recovered—that Morning’s Observation recovers from these Torch units—and from the temple of the Self, Compel was given to Profit’s Cadence by Keen Forrester Gloaming as an attempt to arm the New Earth Hegemony so that they could quickly bring the entire system under their control, but when Profit’s Cadence dies, the A plan here, which was a military plan, falls apart, and what Keen Forrester Gloaming did not expect was that his presence was actually fully known and understood. 
+
+For so long, the Rapid Evening believed that they could not be touched, that they could not be seen, that they couldn’t imagine someone like Earth catching up to them. But with the help of the technology from Quire, and then with the completion of their giant sphere that now surrounds the center of the galaxy and draws power from it, they were able to. And so you put together that this was a weird—not a double-cross necessarily, but Keen thought he was playing Earth but Earth was playing Keen. And the backup plan for not being able to get these weapons that they wanted was arriving at outing the Rapid Evening and pointing to them as the destabilizing factor. Which is not necessarily wrong, all said [laughs], but, you know, that’s one perspective.
+
+So, what do we see from the rest of you as this wraps? Fourteen, do you just take Wind’s Poem back to the World Without End? 
+
+JACK: I guess so. I think just the shot of the bright light that is—it’s not even a bright light, the moving light that is the Watermark—
+
+AUSTIN: Right.
+
+JACK: —Moving just above this complete chaos that is beginning to emerge. And then, you know, very stunned-ly, business-likely introducing Wind’s Poem to the, you know, the rooms of the World Without End. 
+
+AUSTIN: Right.
+
+JACK: [Laughs] We don’t have any bedrooms.
+
+AUSTIN: [Laughs] Right. You catch on the news that like—the A story is obviously the arrival of Our Profit, the final Hegemon, and all of this other shit that her ship, which is the—what did I say the name of her ship was again?—the Restitution of All Things, which is where this light is coming from; it’s like the very front of this ship that she has parked at the very edge of the system, like just outside of the system. It’s big enough that it exists both inside of and outside of the Mirage at the same time. And it is just constantly beaming this bright light, that is now acting almost acting like a distant sun that is not at the center of the system. 
+
+So that’s the A news; the B news is that while y’all were doing all of this, an entire civilization appeared on Skein, elsewhere, near where your friends are [laughs]. An entire system of Qui Err people emerged from an alternate history, basically. So that’s cool. Tender?
+
+ALI: Ummm. I wonder how wide to go here, because I like—my first impulse is just them staying in this bunker, right?
+
+AUSTIN: Yeah, yeah.
+
+ALI: [Laughs] Just being like, “Deal with it tomorrow,” right?
+
+AUSTIN: Yeah. And like, just staying at the bar, basically?
+
+ALI: Yeah, I think so. I mean, it’s a little selfish, but then, this whole mission like—[laughs].
+
+AUSTIN: Yeah. Uh-huh. Lean in. 
+
+ALI: Just being like, “Tomorrow is gonna be when we’re going to deal with this. Tonight, we have this bar that we’re not allowed to go back to, because it was destroyed or whatever.” [Laughs]
+
+AUSTIN: Mm-hm. Right. And you just pass the time drinking and like, talking?
+
+ALI: Yeah, just hanging out [laughs].
+
+AUSTIN: Cool. Like does it—I’m curious if it gets romantic. I’m curious for Open Metal and Tender if this is like, a reconnection, or is this just at arms length. Or somewhere in between.
+
+ALI: Uhhh, I feel like—mmm, right, it’s one of those things, right? 
+
+AUSTIN: Yeah.
+
+ALI: Like, I feel like it could be, I dunno, like eeee, yeah, probably [laughs]. 
+
+AUSTIN: Okay.
+
+ALI: I know where she’s at, and I don’t want it to be, like, weird.
+
+AUSTIN: Like a one-sided thing? No, I think Open is at a place—I mean, that’s the whole thing, right? Is that Open just very clearly wanted you to open up in this emotional way—
+
+ALI: Right.
+
+AUSTIN: And not just in this like, “We’re both secret agents who have missions and here is how we’re arguing,” way.
+
+ALI: Right. And I’ve done that. And it’s just like oh—
+
+AUSTIN: Right, right. So. Yeah.
+
+ALI: I mean, yeah, that’s the thing, right. If she doesn’t move to leave the bar and stays with Tender—
+
+AUSTIN: Right.
+
+ALI: Right, then they’re making this decision together, probably.
+
+AUSTIN: Yes. I think that they made that decision, and we get the sound of like, the bartender, like the imaginary bartender here just leaves and the door does like the little bell sound as he leaves, you know what I mean?
+
+ALI: [Laughs] Yeah.
+
+AUSTIN: Like the chime goes off and the door locks, and it’s like “We’re in here, cool.”
+
+[Ali laughs]
+
+AUSTIN: Grand. You wake up in a stolen shuttle that Morning’s Observation took. I actually think it’s like a wild-ass shuttle; you’ve no idea—like, the last thing you saw was him pulling the trigger a few times and then like, the world shaking and this image being projected into your head and then it knocked you the fuck out.
+
+ART: Yeah, uh-huh.
+
+AUSTIN: Then you wake up and you’re in a Rapid Evening shuttle that he stole—or like ship that he stole.
+
+ART: Uh-huh.
+
+AUSTIN: And your mech is there too, it’s just torn to shit. And he is again, like white-knuckle holding the handle of this—the wheel of this thing. Do you know which status you’re taking?
+
+ART: Mnnn. I’m really leaning towards Haunted.
+
+AUSTIN: Yeah.
+
+ART: Just because it happened at the hands of someone from before.
+
+AUSTIN: Yeah.
+
+ART: It’s just like doubling down on that.
+
+AUSTIN: Yeah.
+
+ART: I would hear pitches for other ones though.
+
+AUSTIN: I’m curious if this is a turning point, because then it can be an active thing more than a passive thing. Like, you’ve kind of been playing him as haunted already, is what I would say.
+
+ART: Sure.
+
+AUSTIN: And I’m curious if this is a kick.
+
+ART: Nnn. But like all the—
+
+AUSTIN: In one direction or the other.
+
+ART: Yeah, the kicks go to bad places though. 
+
+AUSTIN: Right.
+
+ART: Like, I don’t know what to be Obsessed about, I don’t super want to play Vicious.
+
+AUSTIN: No, I also would not be thrilled with Vicious. Vicious is like a rough one, unless you are really leaning into wanting to be a bad person, you know? Um, I would say Obsessed could go—so Obsessed is you’re enthralled by one thing; an activity, person, a goal, an ideology, and if you can figure out what that is, it could be really good.
+
+ART: Sure.
+
+AUSTIN: Whether that is self-improvement, to make sure this doesn’t happen again; whether that is a vendetta against someone, or something; whether that is like, “I need to be the fucking best at—[laughs] this bullshit mech did not protect me,” something else, you know.
+
+ART: Yeah, but the goal that springs to mind is like—feels like a backwards goal.
+
+AUSTIN: Which is?
+
+ART: Like, the goal that immediately springs to mind is “I want to fucking stop doing this.”
+AUSTIN: [Laughs] Right.
+
+ART: Like, how—Obsessed feels like waking up in the morning and being like, “Where’s my life gone?”
+
+AUSTIN: Right.
+
+ART: Like, I had —I was bored at parties [Austin laughs] and now I’m getting shot? Obsessed is like trying to get back the status and prestige of a life—
+
+AUSTIN: Right.
+
+ART: —That I can’t go back to.
+
+AUSTIN: Right. Sure. Then yeah, let’s pencil in Reckless. Sleep on it, but let’s pencil in Reckless.
+
+ART: I mean I could try to come up with a better obsession but like that’s the one—
+
+AUSTIN: Sleep on it. Sleep on it and we can chat. We can chat when we’re not recording. Alright, so I guess y’all return to the World Without End. For now, I think you just keep Wind’s Poem with you. I think that’s it; I’m trying to think if there’s any last shots here. So yeah, you return to the World Without End together, and I’m curious what the tone is like. Is it just shots of everyone in their own rooms?
+
+JACK: Yeah, I think Fourteen’s kind of just stunned. With the amount that they tried to make this—it’s not even that they tried to make it go well, it’s that it went badly so many times and it felt like we managed to pull it back so many times.
+
+AUSTIN: Right.
+
+JACK: And then for—it almost feels like we snatched defeat from the jaws of victory, like at the last moment.
+
+AUSTIN: Yeah. Do you know what comes on TV? Is the news is covering an attack on the Church of the Self by the Rapid Evening. And with footage of the [The Notion begins playing] Welkin Absolute in the sky, and missiles that were, you know, the shuttle that Morning’s Observation were on, and images of the Rapid Evening shuttle leaving, the one that has Morning’s Observation in it, but they don’t know who’s in it, right? And then like, “The leader of the church of the Self, Profit’s Cadence, was found dead,” blah, blah, blah, blah, blah, “—in a vicious Rapid Evening attack.” And so, the war machine spins out. The New Earth Hegemony, you know, they found out that, it turns out the market can’t solve all your problems, but maybe, you know, going somewhere else to get a natural resource could.
+[Music continues to end]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

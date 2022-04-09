@@ -1,0 +1,2589 @@
+Twilight Mirage 50: A Very Old Mistake
+
+Transcriber: Glen Campey #1066, @campey_g
+[00:00:00]
+[MUSIC - The Notion - begins]
+
+AUSTIN: An excerpt from the foreword of ‘Living Memory - An Interobjective History of the Planet Quire’, by Doctor Lily Lysander. 
+
+AUSTIN (as Lily Lysander): As student, scholar, and scientist, I spent years accepting as necessary certain assumptions. I believed that effects came from causes, even those we couldn’t pinpoint, even those so miniscule that they were hard to see, or else so large that they became canvas instead of figure. I believed that those causes were basically consistent, that if I let go of a ball, that it would always fall to the ground, no matter how many times I rewound the scene and hit play - even when I wish it wouldn’t have. Which made me feel like everything I studied mattered, because it meant that we could tentatively link effects to causes. I let go of the ball; it fell. Nature was a laboratory. On regular planets, this was simple, but on worlds like Quire - worlds that seemed to think for themselves - it was difficult, in the best way, and my teachers and mentors, my peers and students, everyday scientists like yourself, we were poised to open it up and understand. Because of this, I believed - like you might - that the world we had was the one we were stuck with. That whatever path we took here was immutable, and whatever other imagined pasts, or presents, or futures we could bring to mind, real change was slow and material and trackable… Cause, effect. 
+
+AUSTIN (as Lily, cont.): With the first miracle, Quire shook my confidence in that; it built complete planets from nothing at all with false histories of erosion, and mineral deposits, and impossible architectures. But even there, I could draw the line, could track the expenditure of energy. The second miracle was different: my assumptions, I realized, were limited. I was myopic. Once I learned what planets like Sigilia, Acre, and Quire were, once I understood what they could do, I realized that nature wasn’t a laboratory at all. It was a scientist too. 
+
+[MUSIC - The Notion - ends].
+
+AUSTIN: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. Today we are continuing our game of Scum and Villainy by Stras Acimovic and John LeBoeuf-Little, a hack of Blades in the Dark by John Harper. My goals, as always, are to convey the fictional world honestly; to bring the Twilight Mirage to life; to play to find out what happens; and to make everything cool, weird, and touchable. Joining me today, Andrew Lee Swan.
+
+ANDREW: Uhh, hey! You can find me on Twitter @swandre3000. 
+
+AUSTIN: Janine Hawkins…
+
+JANINE: You can find me on Twitter @bleatingheart.
+
+AUSTIN: Keith Carberry…
+
+KEITH: Hi! You can find me on Twitter @keithjcarberry, and you can find the Let’s Plays that I do on YouTube dot com slash runbutton… and at this point, I’m really glad that you all showed up to the Run Button Marathon that happened on April 28th… [background laughter from Austin]. Thank you for… having been there.
+
+AUSTIN: Hey, which, umm… when was that again?
+
+KEITH: That was on April 28th… the last Saturday in April.
+
+AUSTIN: There it is…
+
+KEITH: 7pm.
+
+AUSTIN: And Sylvia Clare.
+
+SYLVIA: Hi, I’m Sylvia. You can find me on Twitter @captaintrash, and you can find the other 
+stuff I’m a part of at video game choo choo dot com, or emojidrome on Twitter.
+
+AUSTIN: As always, you can support the show over at Friends at the Table dot cash; you can follow us on Twitter at twitter dot com slash friends underscore table; you can follow me on Twitter at twitter dot com slash Austin underscore Walker. And you can also check out… you should go check out the podcast that the… Friends at the Table producer, Ali Acampora, and our own Art Tebbel do about Kanye West called One Song Only; you can find that on Apple, or on… other music… or other podcast services, and find us on Twitter at twitter dot com slash one song pod. Alright! So…
+
+KEITH: It’s good - I’ve heard two episodes of it.
+
+AUSTIN: Thank you! Thank you… 
+
+ANDREW (overlapping): It’s really very good...
+
+AUSTIN: We have to record another one still. The next round is… is a toughie, so… it’s gonna be fun. Alright! So… 
+
+AUSTIN: Does anyone want to give me a high-level recap of the last episode? We can, kind of… do it collaboratively? But let’s start filling in the gaps. 
+
+ANDREW: Whoo… OK. I’ve got a truck.
+
+AUSTIN (laughing): You do have a truck. 
+
+ANDREW: We do have a truck…
+
+AUSTIN: You used that truck to escape from… well… you were going to use it to escape from Saint Wynter, and instead, Even and Gig kind of… collabo’d to, like… get Saint Wynter all turned around, and crashed a big ol’ truck into her mech. 
+
+ANDREW: Hmm-hmm… But now she’s in the truck, with…
+
+AUSTIN: Yes…
+
+ANDREW: With two Gigs, and everybody else…
+
+AUSTIN (overlapping): No… other Gig has stepped forward. Other Gig is not in the truck any more. 
+
+ANDREW: I thought Squid-Gig was in the truck?
+
+AUSTIN: Oh, no; I meant Keith-Gig.
+
+KEITH: Yeah… Squid-Gig is in the truck… I’m not in the truck. 
+
+AUSTIN (laughing): Yeah! 
+
+KEITH: I… was it cos I got separated? 
+
+AUSTIN: No, you…
+
+ANDREW (overlapping): Or are you just on Duck?
+
+KEITH (overlapping): Or… I almost got separated...
+
+AUSTIN: You walked into the… you walked into the pink fog… through the pink-purple fog. Deeper into The Vale. You were the first person to cross through. And you… were immediately struck by this aching… this wave of regret, and we asked… I asked what your biggest regret was, what Gig’s biggest regret was. 
+
+KEITH: Oh, I remember what that was.
+
+AUSTIN: Which was? 
+
+KEITH: My biggest regret was having… did an alternate, uhh… broadcast than the news of… 
+
+AUSTIN: Independ… or…
+
+KEITH: Independence. Right. 
+
+AUSTIN: Right, right…
+
+KEITH: Yeah.
+
+AUSTIN: And what you saw before you - I’m just gonna try getting everyone back on page, and we can keep moving here - is: uhh… I kind of fucked up in my description of it before as, like… an alternate version of The Crown of Glass, or, like… glass city, or whatever it is? The name of that city is Sculpture City. That’s what it was when Gig, Echo, and Even were there, and before that - that city, Sculpture City - was originally, umm… The Sky Reflected in Mirrors. So. What you’re seeing is an alternate version of those two cities, right? It is… I’m calling it… Parhaylia? Parheelia? It is a, like… you could imagine, on a beautiful sunny day, that it would be… it’s, like… an interesting, kind of... triple of those two cities, or an interesting version of those two other cities. ‘Cause yeah, The Sky Reflected in Mirrors has this big dome over it? And we always kind of position it as being dark, and kind of film-noir-y, and kind of Cold War-y, and this, like… harsh architecture… whether that is, kind of… freshly built, you know… stuff that the New Earth Hegemony has built since arriving, or the stuff that’s kind of, like… been in that dome for, you know… whatever… thousands of years now, and is kind of crumbling, and shitty, and kind of patched-up. Or, or… we’ve seen the… Sculpture City as being this beautiful, bright, but like, [car horn sounds in background] kind of… always… thanks, car! A beautiful, bright, and colorful city? Where there are these big panes of glass above it, so like… you know: The Sky Reflected in Mirrors has domes… has a dome; Sculpture City has these big glass panes that are colorful, that give everything this, kind of… glow depending on which color you’re looking at. 
+
+AUSTIN (cont.): And… Parhelia - the city you’re looking at now - instead of having glass as a dome, or as these panes, it just has it floating in the air all over the place? And it produces these, kind of, like… halo effects, that are all just, kind of, floating around. So it’s, kind of, almost, like… stars… but, like… down close to earth… close to the ground… and, uhh… So that’s, like… and it’s filled with parks, and it’s filled with lots of, like… open space. There aren’t, like… skyscrapers here, you know… there are some buildings that are five, or six, or ten floors high, but not thirty, not fifty, not seventy. And it’s a big city; it’s a wide, long city. 
+
+AUSTIN (cont.): And what you saw when you stepped in was the, kind of… unfolding? Of the Axiom Ache, which was, kind of… a long pinkish-purple ribbon? And it was, like… folding over itself as it cut through the entire city. Like… It had cut deep into the ground itself, and had revealed this, kind of, pinkish-purple wound in the floor? In the ground? Where Acre, and… No, I guess Acre was on top of a building, but where Quire itself is. And… the Axiom is what made you have that deep regret. 
+
+AUSTIN (cont.) You also saw… who else? The two other members of the Advent group that are here: obviously, you have Squid-Gig with you… whose real name was not Squid-Gig! As a reminder… it was Gigas, Gigas Acano… And… you… but you saw the other two members, who were, kind of… fighting; it’s kind of a big, mass-battle happening now? With, kind of, like… this gigantic Axiom? And there were the two members of the Advent group, who I imagine have some sort of weird, cool anti-Axiom tech, and - we can talk about that as it comes up - who are Breaker’s Baritone, who is a, umm… Concrete Town Particular? And Motive Motif, is a Volunteer of Seiche? And then you also saw the three other Saints: Saint Faul, Saint Spryng, and Saint Sommer… And then we saw… and Arin Till, who is… your rival… Even? That’s right… right?
+
+ANDREW: Yes… yeah.
+
+AUSTIN: So, I think that’s what Gig saw through the… through the fog. Any other big events from last time that we need to remember?
+
+ANDREW: Uhh… that weird elephant thing…
+
+AUSTIN: The weird elephant thing is still on the loose, out there… somewhere? Big glass… elephant thing? But that was more on the upper side? That didn’t… that was when Signet first saw it in the, kind of… its silhouette in the fogs; that was on the upper level? We are now definitely down in the lower level of this place? I will reveal it as such on the… map... where I’ll, like… point it out a little bit. So y’all were… where that orange is? Right? 
+
+ANDREW: Hmm…
+
+AUSTIN: You’ve now passed deeper in, into, like… here. And this area, that is green on the map here, is now this purplish-pink. And the whole… all the fog and such is also, so… Alright! Anything else? Any other… things? Any questions?
+
+KEITH: We have a full… we have a full clock here; did you…?
+
+AUSTIN: That was escaping… you successfully escaped Wynter. 
+
+KEITH (overlapping): Oh, right.
+
+ANDREW (overlapping): Oh, OK.
+
+AUSTIN: And, in fact: you not only escaped Wynter, you… Signet, you, like... talked her down a little bit, right? 
+
+JANINE: Yes? I don’t, honestly… 
+
+AUSTIN: With your cards?
+
+JANINE: I’ll be honest: my last page of notes here? I don’t fucking remember any of this! 
+
+AUSTIN: OK…
+
+JANINE (laughing): So I can not make any sense of this to save my life!
+
+AUSTIN: If I recall...
+
+KEITH (overlapping): I remember it being partially successful... 
+
+AUSTIN (overlapping): Yes.
+
+KEITH (continued): In getting her to cooperate with us.
+
+ANDREW (overlapping): Yeah… We were trying to get her to come with us… Yeah...
+
+SYLVIA (overlapping): I don’t think she was talking to us?
+
+AUSTIN (overlapping): Yeah… she was definitely being, like… silent in the back of the truck.
+
+JANINE: She thought… I think she thought that she was a prisoner. 
+
+AUSTIN: I think she does! She still thinks she’s a prisoner!
+
+ANDREW: I think the roll was before we even got her on the truck; it was, like… she wouldn’t come out of her mech.
+
+AUSTIN: Yes.
+
+ANDREW: And I think Signet was the one who, like… convinced her to, like… get in the truck.
+
+JANINE (overlapping): Yes.
+
+AUSTIN (overlapping): You used the cards. You revealed the cards to her?
+
+JANINE: Yeah, I put the card on the… thing.
+
+AUSTIN: Yeah. Totally… Anything else?
+
+JANINE: Oh… umm… I have to take a… bad… a bad… I have to take a bad? The next time I roll to help Gig, cos I don’t trust him? 
+
+AUSTIN: Right. Good…
+
+JANINE: And Gig and Even don’t trust me. 
+
+AUSTIN: OK.
+
+SYLVIA: I think I’m the same situation…
+
+JANINE: I don’t remember if, like… those got spent or not though… 
+
+SYLVIA: I think I’m also…
+
+AUSTIN: One of them did… I feel like Gig got it out of the way. 
+
+KEITH: No, no. I was… I was going to get mine out of the way in order to help... Gigas? Early on? And then decided that I was actually not going to do that, because I didn’t want to bring Gigas with us. 
+
+AUSTIN: Remember it’s… the negative is only for when you… it is a… when it’s the person you don’t trust. 
+
+KEITH: Oh, no! It was to… it was to assist Janine.
+
+AUSTIN: Oh! I see what you’re saying… right, right… yes, yes…
+
+KEITH: So I was, like… “Oh! I’ll get this out of the way by rolling,” and then I was, like… “No, but I actually don’t want the outcome of that? So I’m not gonna help.”
+
+AUSTIN: Right, so you still have that… OK, great. Alright!
+
+AUSTIN: So: at this point, everyone else is in the truck. Gig and… Duck, maybe? Have gone into… have gone into the pink fog, to see the city. 
+
+KEITH: Yeah. Uh-huh.
+
+AUSTIN: What’s everybody else do? Do you follow suit?
+
+SYLVIA: I mean… I want to…
+
+ANDREW (overlapping): I guess? I mean, yeah… I’ll drive this truck into the fog.
+
+AUSTIN: OK. You drive this truck into the fog.
+
+ANDREW (overlapping): Does this truck have fog lights on it?
+
+AUSTIN: Umm? Yeah! Cos it’s a good look, right? Through the pinkish fog? To turn on fog lights, and they, like... refract in cool ways and shit? Yeah: hell yeah. So it does that; so now I need from everybody what I needed from Gig. As you see… you see Ache, which, again… I imagine as just a very pristine magenta ribbon, that is… it moves by… as if there’s a pair of hands folding it, do you know what I mean? At strange angles, like… and then it lands and cuts into the ground, like… knocks over a building. When I say it’s massive, I mean, like… it’s miles long, and… you know… stories tall. And it’s just, kind of… floating in the sky; it’s not… it is not being held up by giant hands, as far as you can tell. So I need to know what your… what the thing is that eats at you… what your greatest regret is. On being near this thing, it digs into you in that way. Who wants to go first? [Sylvia and Andrew both sigh].
+
+KEITH: Uhh… everyone’s biggest regret is when they said that it was me that they didn’t trust [everybody laughs]. 
+
+ANDREW: Fair… God… I’ve got two ideas: cos, I think… for Even, it’s either the first time they fought Independence, and he basically, like… ate all the bullets and then missed the shots that he did have? 
+
+AUSTIN: Yeah…
+
+ANDREW: Or I, like… am imagining going  back the the, kind of… summit where Advent and all those people got together. And, like… while that’s happening, there’s also a, like… ringing echo in Even’s head of our, like… one-on-one session we did? Where Even was, like…
+
+(as Even Gardner): I don’t know… there’s not going to be any, like… dumb bullshit in this, is there? [Austin laughs]
+
+ANDREW: And then Even’s, like…
+
+	(as Even): Ah man… I am the dumb bullshit now…
+
+AUSTIN: Uh-huh… alright… Which one do you think stands out more for Even? 
+
+ANDREW: [exhales] I think the second one? Because he’s...
+
+AUSTIN (overlapping): Because that’s what you are?
+
+ANDREW: Yeah… and I think he’s made peace with Independence?
+
+AUSTIN: Right… 
+
+ANDREW: I mean… it’s been taken care of?
+
+AUSTIN (overlapping): It’s been a year, right?
+
+ANDREW: Yeah…
+
+AUSTIN: Yeah… totally… and also, like… eating the bullets was, like… a step on your journey to becoming who you are, right?
+
+ANDREW: Yeah.
+
+AUSTIN: Alright, cool… good to know… OK…
+
+ANDREW: And now I eat dinner with my… weird assassin friend?
+
+AUSTIN: You do…
+
+ANDREW: Question mark? 
+
+AUSTIN: Question mark… Umm… Echo and Signet.
+
+SYLVIA: I think, probably the, like… the big one for Echo now is introducing… I think it was Advent, right? To the Volunteers of Seiche? 
+
+AUSTIN: Yeah…
+
+SYLVIA: Yeah. It’s probably that.
+AUSTIN (overlapping): So, very similar?
+
+SYLVIA: Yeah.
+
+AUSTIN: OK, good… It’s all lining up. Signet?
+
+JANINE: I think Signet’s is actually the fact that, umm… after Blooming’s Divine… after she found out about Blooming’s Divine… she just, kind of… left Blooming to, like… cope with it?
+
+AUSTIN: Hmmm....
+
+JANINE: Like… after that, sort of… around the miracle time, she just kind of left Blooming to be, like… “Well look, I figured it out, she’ll figure it out… everything’s fine.”
+
+AUSTIN: OK…
+
+JANINE: And like… clearly that wasn’t how things went. And I think that bugs Signet, that she didn’t, like… take a more active role in…
+
+AUSTIN: Gotcha…
+
+JANINE: In helping Blooming cope.
+
+AUSTIN: OK.
+
+JANINE: Even though Blooming probably wouldn’t have let that happen? But you know…
+
+AUSTIN: Yeah…
+[00:16:25]
+AUSTIN: Gig? From your perspective… I kind of imagine you all on kind of, like… a hill… or an outcropping. You’re, kind of, driving down the highway, the main highway into town. And I imagine maybe you’ve pulled off to an overpass, or you’ve crossed in… and kind of… slowed down… looked down on the city from the hills, from the highway. And Gig, I’m guessing, like… I gave you this information before - I was, like… “And you see Acre on this rooftop, and you see the two members of Advent…” So, this is one of those moments of… we see you blinking your eyes, and then you slowly unblink them? And the situation has changed here, somewhat. You… the biggest… I mean, the biggest thing that you see is: you see that Blooming’s old Divine is here; Empyrean is here, and is making, like… passes on the Saints. Is, like… doing strafing runs on the three Saints that are down below. And you can’t make out any of the faces of the people there? But there are additional people among the Advent… the two Advent soldiers that were there before. And you can’t… you probably can’t see it? But somewhere else in this city now, there is another Gig Kephart, yet another Gig Kephart, who is just… just… way into disaster tourism? Just way into, like… 
+
+AUSTIN (as Gig Kephart): Hey guys! Check this out! There appears to be some sort of weird fight behind me, and it’s wild!
+
+KEITH: It’s Tim Pool… you’re saying it’s Tim Pool?
+
+AUSTIN: It’s Tim Pool, yeah. Uh-huh? [Sylvia laughs]. So… Ache… Ache is a powerful Axiom. What do all of you do? I think...
+
+KEITH: I need to make sure: is there a literal second Gig Kephart?
+
+AUSTIN: Yes. There is literally a second Gig Kephart. Who is… who is, like… very much down-playing any sort of… is not interested in this place; is, like… doing the thing of…
+
+	AUSTIN (as Gig): Look at how sick these missiles look!
+
+AUSTIN: And is, like… leaning all the way into the worst sort of disengaged, like… what’s the word I’m looking for? [deep breath] I’m very tired… Spectacle. Like… it’s just about making the shot… like…
+
+	AUSTIN (as Gig): You gotta get the shot, man!
+
+AUSTIN: It’s the worst version of Gig Kephart. It’s the version who is, like… wants to remind the viewer that… who either is, like… 
+
+	AUSTIN (as Gig): Hey! This place is great, and you can come hang out here!
+
+AUSTIN: Or…
+
+	AUSTIN (as Gig): You’re safe at home, and you’re not here, and that’s it. 
+
+AUSTIN: Like… there’s no actual engagement with the material of what’s happening here. And people never get on; that other Gig Kephart is never shooting footage of individuals, you know? It’s always wide shots. It’s, like… it’s an interesting thing, right? Because what it’s like, it’s formally, or structurally like the pro-Brighton stuff, in the sense of, like… it’s lots of wide vistas, lots of focus on scenery, not so much deep-dives into the situation at hand. 
+
+KEITH: Probably more famous too.
+
+AUSTIN: Could be, could be… Yeah: probably, right?
+
+KEITH: Yeah…
+
+AUSTIN: And probably more closed-off emotionally, like… more phony, emotionally. Like… way more, like… 
+
+AUSTIN (as Gig): I just need everyone to know how much you mean to me… you know… I wouldn’t be here without you, obviously. 
+
+KEITH: My god… you’re painting me a nightmare picture!
+
+AUSTIN: Uh-huh?
+
+KEITH (laughing): It’s so bad! It’s like six different bad archetypes rolled into one...
+
+AUSTIN (overlapping): Rolled into one!
+
+KEITH: Shithead with a GoPro…
+
+AUSTIN: Yeah… yeah. Also: he definitely just has… a skateboard. He definitely…
+
+KEITH: Skateboards are… that’s one good archetype…
+
+AUSTIN: Hmm… yeah? He doesn’t ride it; he just carries it around. 
+
+KEITH: Oh, he just… he can’t… he can’t? He can’t actually ride it; he just mall grabs?
+
+AUSTIN: Yeah, exactly… He just has it strapped to his back! [Keith laughs]. It’s actually a… it’s a skateboard turned into, like… a backpack and a rack? For, like… his other equipment, so…
+
+KEITH: Uhh…
+
+AUSTIN: Also, both of his eyes come out as cameras. 
+
+KEITH: Oh, that’s cool though [Austin and Keith laugh].
+
+AUSTIN: Alright, so that it the, kind of… situation here at hand. What are you all doing? And I, like… I don’t want to, like… belabor small steps here, to some degree? Let’s think about action. 
+
+ANDREW: So… the thing you’re saying about the Divine doing strafe runs, like… that… that’s not like a… that’s happening?
+
+AUSTIN: That’s actually happening. 
+
+ANDREW: OK…
+
+AUSTIN: Yes: no one is hallucinating. 
+
+ANDREW: That seems… bad?
+
+AUSTIN: Right, Empyrean is here. Empyrean is here? And, like… the two of you, Signet and Even, you saw Empyrean, like… die. You took the last remaining… I mean, you didn’t see it die, because it died in space originally, right? During the very, very, very first episode of this season, off-screen. It died when Gumption died, basically. I mean, it turned into Chthonic, right? But then you did see the last energy inside the machine die there. 
+
+ANDREW: I mean… do we go help these Saints? I don’t know… 
+
+KEITH: Ahh…? I think we should look for… Who are we looking for? I’m, like… blanking on the name.
+
+ANDREW: Acre.
+
+KEITH: Acre Seven? 
+
+AUSTIN: Hmm-hmm.
+
+KEITH: I keep thinking… I keep wanting to say Eve Six? [Austin and Janine laugh].
+
+AUSTIN: Goddamn…
+
+ANDREW: Damn…
+
+AUSTIN: Owned! Acre Seven is on top of one of those taller buildings? You know, on one of the eight-floor office buildings, basically? Maybe she’s on top of a museum… let’s make it a museum that has, like… a cool, like… hexagonal dome with a bunch of, like… it almost looks like a beehive, but made of glass and stuff? And it’s, like… a cool, kind of… yellow color dome, and the building itself has kind of, like… a star-shape? She’s on top of that, watching all this happen below. 
+
+ANDREW: Oh, we can just, like… see her up there?
+
+AUSTIN: Gig can cos he has the eyes… he has, like… or [correcting] the eye.
+
+ANDREW (overlapping): OK.
+
+AUSTIN: But… y’all can also at this point; that’s fine. 
+
+ANDREW: I mean, listen… I’ll fly up there. Just talk to some Acre Seven.
+
+AUSTIN (overlapping): You know… she’s doing the anime thing, right? Like, I think, probably, you can see her silhouette, you know… off in the distance. It’s a tall building; there’s nothing behind it… so you can, kind of, see her shape in the… in the… with the… kind of silhouetted against the pink and purple fog. 
+
+KEITH: Yeah, I’ll… I’m just gonna go.
+
+AUSTIN: So you just head in this direction towards that museum?
+
+KEITH: I’ll just go in that direction, like… I’ll deal with awful Gig… upside down Gig later. 
+
+AUSTIN (laughing): Great…
+
+ANDREW: There’s a lot of violence going on here, for this supposed place where…
+
+AUSTIN: Yup.
+
+ANDREW: I get bad rolls for doing violence… I just want to say...
+
+AUSTIN (overlapping): No, you get one bad roll for doing violence. And what happens is, it’s bad once, and then you deal with it going forward. 
+
+ANDREW: Oh… OK.
+
+AUSTIN: Right? Like… that’s the… and you saw that happen, remember? You saw that with, umm… Saint Wynter.
+
+ANDREW: That’s true… yeah.
+
+AUSTIN: So… it is… it is… the first time you perform it, you take… you must Resolve, or take three Stress. So… and, I promise you, we’ll see how that has affected these people!  
+
+ANDREW: OK.
+
+AUSTIN: Or you might not, depending on what you do, right? 
+
+ANDREW: Sure…
+
+AUSTIN: So do y’all head for that museum? 
+
+ANDREW: I guess so…
+
+JANINE (overlapping): I guess so…
+
+ANDREW: I’m still kind of worried about these Saints. 
+
+SYLVIA: Yeah…
+
+AUSTIN: So… what I’ll say is, like… I’m… the ranges here are so big, and everyone is so distracted by Ache? And now by Empyrean, and by Advent… Like… y’all are under the radar right now. If you decide to go loud? Like, I’m basically giving you… you’ll have… assuming no failed rolls happen between now and when you decide to go loud? If you decide to go loud? You will have advantage on that roll; you’ll be in a Controlled Position. No one has spotted you yet; no one gives a fuck about you yet? Because they’re very busy with the giant Axiom. 
+
+ANDREW: Yeah… what are… what do Wynter and Gigas think of this? Are they wanting to get out and, like… go help their comrades?
+
+AUSTIN: Yeah… like… Gigas is, like… super-deep in their feelings? And Wynter… I think Wynter is, like… 
+
+	AUSTIN (as Saint Wynter): Let me out! Just let me out… 
+
+ANDREW: Yeah. I mean… we’re not gonna stop her… 
+
+AUSTIN If you… she opens the door, she, like… comes out the back of the truck, and is just, like… very deep in her feelings, wandering away into the fog. 
+
+JANINE: No. I would like to stop her, in fact. 
+
+AUSTIN: What do you do?
+
+JANINE (laughing): I… uhh… I want to, like… catch her arm or something. That’s not, like… we didn’t, like… take her into our charge instead of letting her roam around in the… fucking middle of nowhere so she could roam around in the fucking middle of... purple nowhere.
+
+AUSTIN: Hmm-hmm? 
+
+ANDREW: Yeah, I guess… do we want to put the child locks on… on this truck door?
+
+AUSTIN: You could. I mean… you didn’t have those on before, it sounds like. This sounds like it should be a roll from… from Signet.
+
+JANINE (overlapping): I don’t want to lock her in, cos then, again, [laughing] she’ll still think she’s a prisoner!
+
+AUSTIN (overlapping): Right… right… right… so what do you do or say here? To get her to calm down, or to, like… chill.
+
+JANINE: Umm… I think I say, like… 
+
+JANINE (as Signet): This isn’t… this isn’t real in the way it feels that it is. This can’t be our priority right now; if you want to deal with this, we have to actually deal with it.
+
+AUSTIN: Alright… what do you think that is, roll-wise?
+
+JANINE: Uhh… I wanna say, like… Con… sort? Uhh…
+
+AUSTIN: I could go…
+
+JANINE (overlapping): Sway always feels like lying. That’s the line I would draw, is that…
+
+AUSTIN (overlapping): Yeah, you’re not lying.
+
+JANINE: I’m not ordering her, and I’m not, like… trying to deceive her or trick her in some way? 
+
+AUSTIN: Right… I would say Consort…
+
+JANINE (overlapping): Even though Consort always, like… implies: “Oh, look, we’re friends!” and it’s like… “Hey…”
+
+AUSTIN (overlapping): But it’s friends or rivals. It’s friends or rivals. 
+
+JANINE: Yeah…
+
+AUSTIN: It’s pretty clear. I would say Consort or Doctor, probably? Are both things that would work here, right? Cos Doctor is…
+
+JANINE (overlapping): I got two in both of those…
+
+AUSTIN (overlapping): OK…
+
+JANINE: So it doesn’t really matter to me.
+
+AUSTIN: Alright. 
+
+JANINE: But I think Consort is a little more direct.
+
+AUSTIN: OK, let’s go with Consort. Umm… it is Controlled/Standard. It’s kind of a Fortune roll here? I don’t think this is… I don’t… I’m not going to make a clock for this? But the degree of effect will matter, obviously. 
+
+JANINE: I’m just making sure I don’t have any… bonuses, other than my negative bonuses for Gig.
+
+AUSTIN (laughing): Yeah… uh-huh? It’s a six! Look at you! Look at you, six! Do you grab her arm? Is that part of this? Or is it… like… do you… is this happening inside the truck, or did you, like… follow her out?
+
+JANINE: I think I probably, like… let her go to the point of her, like… stepping outside the truck? But once it becomes clear that she’s, like… trying to - go - go?
+
+AUSTIN: Right, right, right…
+
+JANINE: Then it’s, like… a get up and… we have established that Signet is a bit of an arm-grabber, so…
+
+AUSTIN: Yeah… umm… alright; yeah. You feel the… you feel the stress, like… leave her arm. You feel her, like… unlock her shoulders, you know? And, like… [exhales] and she’s just, like…
+
+	AUSTIN (as Wynter): Alright… 
+
+AUSTIN: And… steps, like… puts her foot back in, and… and… you know, kind of sits back down. And she’s, like… 
+	
+	AUSTIN (as Wynter): Just… just tell me where to go. 
+
+AUSTIN: So… she’s not, like… she is totally, uhh… she’s totally cool now. Not totally cool; she’s still upset, obviously? But is not going to wander away, and is also… isn’t going to stay in the truck if you say don’t stay in the truck, you know? She’ll follow you around at this point. Alright, so what do the rest of you do? It sounds like Gig is heading… that Gig and Duck are heading towards this museum? The rest of you are also doing that? 
+
+SYLVIA: I think so…
+
+AUSTIN: Alright.
+
+ANDREW: Yeah, sure.
+
+JANINE: It seems like the smart thing to do.
+
+AUSTIN: Yeah… you can hear tracer… you can hear tracer fire in the distance; you can hear mortars going off… this Axiom probably makes a very strange sound as it… as it folds itself around?
+
+KEITH (overlapping): Oooh, what kind of sound?
+
+AUSTIN: I mean… I… think… it’s like… I…
+
+KEITH: It looks like a ribbon, so…
+
+AUSTIN (overlapping): Yeah… I think it’s, like…
+
+JANINE: Is it like a fwip, fwip, fwip, fwip?
+
+AUSTIN: Yeah… but, like… incredibly loud, right? So, like… [louder] pwwuggh, pwwuggh.
+
+JANINE (overlapping): Fwup, fwup, fwup, fwup?
+
+AUSTIN: Yeah… or, it’s like… yeah…
+
+KEITH: But it does… it does sound like something a ribbon would make. It’s not making a sound that’s like… “Oh… this doesn’t even look like it could make that sound.”
+
+AUSTIN: I mean… I think what it looks like is if, like… I gave you and Jack a ribbon sound? Like, a ribbon sound in a vacuum? And then said, like… “Alright, do something cool with this.” And then, like… y’all blew it out, and made it a weird thing. Do you know what I mean?
+
+KEITH: Yeah, OK.
+
+AUSTIN: But it still has that ribbony-quality? [chuckles] It still has the sound of fabric rubbing on fabric? But is definitely amplified a great deal, probably? And also, we know it’s sharp, so there’s probably some… sharpness to it? You know… there’s probably, like… what if a ribbon could be a sword you pull out of a sheath? So… that’s what I would say. Umm… so you get to this museum… I would say… I didn’t plan on this museum being here until I realized that that’s a cool thing that Acre could be standing on, but… and it’s also in line with this other thing, which, I think, it’s a… it is just, like… the Quire, like… National History Museum, or whatever… the Parhelia… umm… you know, Museum of History: the Parhelia Museum of History, is what it is. And you’re gonna pull up outside, and… you know… there are, you know… hover cars on the streets that are all… degraded and overgrown, and… busted up, and you’re able to find a spot; you park the truck, and I think we just cut to y’all inside.
+[00:29:21]
+AUSTIN (cont.): And it’s more confirmation of what we’ve already established in the first two episodes here, which is, like… this is a vision of a different Quire. It’s a vision of Quire untouched by Apostolosian technology; untouched by Independence; and it’s a Quire in which Quire itself - Qui Err - the being obtains self-awareness without the help of Gnosis? And was able to live in harmony with the people of Quire, you know… tens of thousands of years ago, and built a utopia with them. And so, and so… it is… dioramas, and kind of… walk through exhibits where you’re able to look at ancient Quire technology, and ancient Quire living spaces and habitats, and… kind of domestic scenes… the closest person who’s seen anything like this before is… is… is Echo; except, again… what you ended up seeing was the Palace… right? You saw the Palace that had the Apostolosian stuff plus the Quire stuff? And so you can just tell that everything here is just a little bit different, right? Like… and you’ve met… you’ve met uhh…
+
+SYLVIA: Pretense? 
+
+AUSTIN: Yeah, Pretense… the Annex Iota Pretense. And so, like… you can see that there are echoes of… of… her fashion here? But without, maybe, some of the more, like… neoclassical stuff from Apostolos? And you know. You’re just seeing different technology than what you saw when you were at The Crown of Glass, or what you’ve seen among the Mandati, or what you’ve seen even among the Qui Err assembly. And we can kind of zoom in on that stuff if it comes up and is interesting? Cos there’s a lot of… there’s a lot to do there? But at this moment, I just want us to, like… kind of move through. And you know what it is? It’s probably a far extension of the stuff from The Crown of Glass, and from Sculpture City? Where… remember there was that thing that was, like… living VR thing that you did… that they all did when you were going through the gallery?
+
+KEITH (overlapping): Yeah, yeah. I went to go see the King…
+
+SYLVIA (overlapping): Oh yeah…
+
+AUSTIN (overlapping): Yes, yes, yes… that stuff. But like… all sorts of weird uses for… for the Q-Glass. For ways in which it’s holding… instead of walking to a room filled with those Q-Glass balls that created this, like… weird VR space? You know: a single one; you can look at a single one, and it refracts light in such a way that it produces an effect in your mind. Or there’s… there’s… you know… you’re seeing - there’s a whole exhibit that you walk past on your way to try and find Acre - that is the history of them learning how to use the glass, and Quire showing them how to use the glass. Going from building, like… fishing hooks and spears to hunt, like… you know, mega… megafauna, basically, with them; to learning how to use it to conserve and hold energy; to where, like… by the end, it’s fusion reactors using just a few bits of this glass, that can power a city for an eternity, you know? It’s like… this version of the world figured it the fuck out! And we, kind of, see everything in between, I’d say. Until maybe it eventually gets to be almost this interesting mirror of The Divine Fleet? Where they also arrive at a semi-virtual, like… the overlap between the virtual and the real? Except that it is not through chips; it is not through anything in your body? It is all about… bending and, like… firming up light through these crystals? Through the glass? In a way that’s, like… “Oh yeah! We’re all connected to the same network; we’re all physically in the same space, and so all of this stuff is happening…” with this near-magic technology, basically. But it’s no, like… “I have a cyberbrain…” you know? So you get through all that; you find a stairwell up, I’m guessing? And you find your way up to the rooftop, with Acre Seven. 
+
+KEITH: Now… I have to ask this, because Holiday Games are weird…
+
+AUSTIN: Yes!
+
+KEITH: But… has Gig met Acre Seven? 
+
+AUSTIN: I don’t think…
+
+KEITH (overlapping): I know that I met Acre Seven in the Holiday Special, but I don’t remember if it was Gig, or if it was...
+
+AUSTIN (overlapping): Did you? Wait… I don’t know that you did…
+
+SYLVIA: I don’t know...
+
+KEITH: Did I not?
+
+AUSTIN: No, cos Acre was in the… Ali-Jack one, the Fourteen-Tender one… Acre was with them, fucking up Torch Units. 
+
+KEITH: Maybe it was just… I heard it… That’s what it is… [Andrew laughs]
+
+AUSTIN: Yeah… I think maybe I bought her up as, like… maybe she was on the ship with The Cadent, or something at some point… And I was kind of, like… “Oh… she’s with The Cadent…” Umm… it’s been…
+
+KEITH (overlapping): Listen: Podcasts are hard to remember!
+
+AUSTIN: Yeah! I mean... here’s a question: do you think Gig would have met Acre over the last year? 
+
+KEITH: Umm…
+
+AUSTIN: That’s a broad question that could go either way? But I’m curious.
+
+KEITH: I… my reciprocal question is: what would Acre Seven be doing with the Brightons?
+
+AUSTIN: Nothing. 
+
+KEITH: There you go then: no.
+
+AUSTIN: But there’s a world in which you could have met her before, kind of… landing with the Brightons? Like… was there a ceremony for everybody who helped… do you know what I mean? Did you all get medals after the miracle? Or were things just back to business. I’m open to thoughts.
+
+KEITH (overlapping): Oh… are you saying was… the end of Phantom Menace, or the end of Return of the Jedi?
+
+AUSTIN: That’s what I’m saying, yeah. Janine says: “Are teens into Acre? Does Acre play Fortnite?” [Keith laughs]. Yes, and no! [Andrew and Janine chuckle]
+
+KEITH: What does Acre play? 
+
+AUSTIN: Like… Deep Space Sadness? [chuckling] Which is why teens are into her?
+
+SYLVIA: Hell yeah. 
+
+JANINE: So… DayZ still, or?
+
+AUSTIN: Yeah, DayZ mostly… mostly DayZ… 
+
+SYLVIA (laughing): I was gonna say… I was gonna say No Man’s Sky?
+
+AUSTIN (overlapping): No Man’s Sky! Yo! No Man’s Sky: Acre is incredibly a No Man’s Sky fan. Yeah…
+
+KEITH: Umm… so, no. I don’t think Gig has met…
+
+AUSTIN: Alright. She is just, kind of like… watching all of this happen? And… I think that, as you approach, you can see that time has, kind of… you can feel… anyone who’s never been in Acre’s presence before? Is immediately, like… feels that they’re repeating themselves a little bit? Or there’s, like… a constant feeling of deja vu around her. There’s no… there’s no roll for anything here.
+
+KEITH (overlapping): Oh, so maybe, like… maybe Gig also can’t remember if Gig has met Acre Seven.
+
+AUSTIN: No, you would know if you’d met her? 
+
+KEITH: OK.
+
+AUSTIN: But there is a sense of, like… it’s not, like… the big picture thing? It’s like… the small… like… “did we already have this part of the conversation already?” You know?
+
+KEITH: Yeah… OK. [pause]
+
+AUSTIN: So who… who says something? What’s going on?
+
+KEITH: I think I was first there, but I don’t think that I am gonna start the conversation…
+
+AUSTIN: Yeah, fair: you don’t know who this person is, really.
+
+SYLVIA: Yes!
+
+KEITH: Yeah…
+
+SYLVIA: I’m also in that situation.
+
+JANINE: OK, umm…
+
+ANDREW: Yeah… I think Signet’s the only person who knows Acre, right?
+
+AUSTIN: I think that’s true.
+
+JANINE: And is, maybe, like… has probably been around Acre enough that the, like… weird deja-vu thing is, like… it’s just what it’s like… this is… fine.
+
+AUSTIN (chuckling): Uh-huh… yeah… 
+
+JANINE: I think Signet just says, like…
+
+	JANINE (as Signet): What do we need to do?
+
+JANINE: I mean… that’s the big thing is, like… Acre is here; Signet would like to…
+
+AUSTIN (overlapping): Yeah, that’s a good question…
+
+JANINE: Very much retrieve Acre, so it’s, like… “what do we need to do to resolve this?” [laughing] And then we can all go home!
+
+AUSTIN: She turns and faces you, and says…
+
+	AUSTIN (as Acre Seven): We need to get closer. We need to protect it.
+
+	KEITH (as Gig): Which… what? Which one? Which…?
+
+	AUSTIN (as Acre): Quire. It… it has one more miracle [Echo sighs].
+
+	KEITH (as Gig): How…? How d’we? [Sylvia, Andrew, and Janine laugh]
+
+	SYLVIA (as Echo Reverie): Great question!
+
+AUSTIN: She, like… step… like… float-steps over to you? Almost, like… skips over to you? Takes three steps, and is then next to you, basically? And… just… kind of, like… leans in close to you… and your weird eye? And then just… kind of, like… just moves her head around your whole… your whole situation? And is, like… “what is… who is this?” [Andrew and Keith laugh]. 
+
+KEITH: The eye pops out…
+
+AUSTIN (overlapping): Right!
+
+KEITH: And sort of moves with the head… 
+
+AUSTIN (overlapping): Yeah, exactly!
+
+KEITH: And sort of... mirrors the movements [Andrew continues to laugh].
+
+AUSTIN: Umm… She, like… pets it. Uhh… on the top…
+
+JANINE (overlapping): Yuck!
+
+KEITH (overlapping): Oh… it does, like… a whirr? You know how I make it pretend it is, like… feels things?
+
+AUSTIN: Yeah…
+
+KEITH: I do, like… a whirr and, like… a spin.
+
+ANDREW: This is the weirdest power play I’ve ever seen.
+
+JANINE (overlapping): Is it, like… purring? Is your eye purring?
+
+AUSTIN: Yeah, but it’s not… cos it’s not, like… a living thing. He’s faking it.
+
+KEITH (overlapping): It’s not a living thing: I just do…
+
+JANINE (overlapping): Ugghh…
+
+KEITH: It’s just like a toy, that I sort of make… look like it’s reacting?
+
+AUSTIN: Uh-huh…
+
+SYLVIA: [Groans]
+
+AUSTIN: She says, umm…
+
+AUSTIN (as Acre): We have to drive Ache away. And… the rest too. It needs time at peace. Time at peace.
+
+SYLVIA (as Echo): OK… So… if I can gather what you’re saying; we want to keep… one. We want to keep… get the Saints and the Divines out of here, but we probably don’t one anyone getting closer to the center of this… right?
+
+AUSTIN: She just nods.
+
+SYLVIA: OK.
+
+AUSTIN: And then she nods again, in the same way.
+
+JANINE (as Signet): Will the Saints and Divines go if Ache is gone? Are they part and parcel? Or once Ache has established something, does it remain?
+
+AUSTIN: She, like… turns her whole body back out, and like… does a sweeping gesture, and the fog, kind of… coalesces around her… almost… it’s fog, almost around y’all? Which is not that thick, cos you’re able to see each other, and see off in the distance, but it’s a foggy day? But it coalesces into, like… tight frames? And she kind of frames different things with these, like… a fog HUD, basically? So… Empyrean gets one of these sets of brackets around it, and a number of the, umm… the Advent soldiers do. And she says, umm… 
+
+AUSTIN (as Acre): These are false reflections. They will go when Ache does. But the rest: the other Saints from the Garden, the other Advent members, they came here. They were not made here. Made here. 
+
+ANDREW: I guess… are Wynter and Gigas walking up here with us? Are they here for this conversation?
+
+AUSTIN: Yeah, totally. Totally. 
+
+ANDREW: Then I think Even looks at them, and kind of, like… raises an eyebrow. 
+
+AUSTIN: Gigas is, like… 
+
+AUSTIN (as Gigas Acano): What do you… what do you want from me? I’m not… I’m not in any condition. 
+
+AUSTIN (as Wynter): And you… you broke my Saint!
+
+ANDREW (as Even): Uhhh… to be fair, you started it. But point taken… 
+
+AUSTIN: Actually, she probably says:
+
+	AUSTIN (as Wynter - correction): And you broke my mom’s Saint. 
+
+ANDREW: Ooh, OK: then I don’t say “You started it.” [laughs]
+
+KEITH: I do… I do then. I say:
+
+	KEITH (as Gig): You started it!
+
+AUSTIN: OK… 
+
+ANDREW: Goddammit…
+
+SYLVIA: And then I high-five Gig! No I don’t… [Austin laughs]
+
+ANDREW (as Even): You know? You don’t need your… you don’t need your Saint to talk to your compatriots. 
+
+AUSTIN (as Wynter): You don’t know my compatriots. They barely think of me as one of them as it is. If I show up without my Saint...? Without my mom’s Saint? They’ll just… call me a little girl again, and laugh me back to base. 
+
+KEITH (as Gig): Yeah… the saints are dicks!
+
+AUSTIN (as Wynter): My mother was a… strong woman. I’ll have you take that back… or you’ll lose your other eye. 
+
+KEITH (as Gig): Strong people can be jerks… 
+
+SYLVIA (as Echo): Gig…
+
+AUSTIN: She like… stomps over to you [Signet and Echo wince]
+
+AUSTIN (as Wynter): I’ll have you take that back!
+
+ANDREW: Even’s gonna step in.
+
+SYLVIA (overlapping): I… yeah… I’m like… about there too. 
+
+SYLVIA (as Echo): OK! Hold on…
+
+Even (overlapping): Don’t… I don’t think Gig is talking about your mother. I think he’s just referring to your three partners. Right Gig? 
+
+KEITH (as Gig): [Slurps drink] Sure. [Austin laughs]
+
+AUSTIN: She, like… stands down. She, like… steps back a step. 
+
+ANDREW (as Even): First of all... Gigas: get your shit together; none of us are in a state, cos we’re in a weird pink fog...
+
+Signet (overlapping): Well… Gigas did get, like… beaten half to death.
+
+ANDREW (as Even) (overlapping): Under the influence of an Axiom!
+
+AUSTIN: Gigas did get beaten half to death. 
+
+ANDREW (as Even): Yeah… but you also tried to tell us you were fine, and to leave you alone, so… Pick one or the other. 
+
+JANINE (as Signet): Because… because they were scared of us? This isn’t, like… a ‘squid-up’ situation. [Sylvia laughs]. This is…
+
+KEITH (as Gig): Hold on… It’s not my fault or Even’s fault that, now we’re hanging out with a bunch of people that are scared of us and angry at us!
+
+SYLVIA (as Echo): [breathes sharply] OK…
+
+ANDREW (as Even): Alright… Second part of this plan: Gig…
+
+KEITH (as Gig): Hey.
+
+ANDREW (as Even): What’s say you and me, we try to fix the Saint?
+
+AUSTIN: Did y’all bring that Saint with you? 
+
+ANDREW: Hmmm.... We should probably have a flash-back to…
+
+AUSTIN (overlapping): Yup.
+
+ANDREW (overlapping): Have taken that Saint with us?
+
+AUSTIN: You can totally do that [Andrew and Keith laugh]. 
+
+JANINE: Good call!
+
+AUSTIN: Who wants to take the Stress there? 
+
+ANDREW: Let me see how many I have…
+
+AUSTIN: You’re at four.
+
+ANDREW: I am at four… I mean, it probably makes the most sense for me to take it? Cos I’m driving the truck? 
+
+AUSTIN: Yeah… You’re driving the truck. But I think that’s a one Stress flashback, probably. 
+
+ANDREW: OK.
+
+AUSTIN: Cos, like… you had it… yeah… that’s fine. You could’ve, like… hooked it up to a trailer or whatever. “A complex action or unlikely opportunity… for instance, the scoundrel sculked his pistols into a hiding spot under the card table to be on hand after the pad-down at the front door.” Yeah. That’s fine. So take the one, and yeah, you have it there, for sure. So yeah, do you want to help fix the Saint? So that’s one part of this plan?
+
+KEITH: Yeah, I can help fix the Saint. 
+
+AUSTIN: OK.
+
+KEITH: Hold on… wait… I do want to know what… so, the plan is: fix the Saint, and then Saint Wynter can go and talk to her friends…
+
+AUSTIN: Right… and get them to do what? 
+
+ANDREW: I mean… we’re trying to get them and… which of the other groups to leave? 
+AUSTIN: Advent.
+
+ANDREW: Right, OK…
+
+AUSTIN (overlapping): Or at least not to press deeper in, right? 
+
+ANDREW: Sure.
+
+AUSTIN: Or to help drive off Ache? The Axiom? Or Empyrean? Like… I mean, they’re already fighting those things generally, but is this a situation where it’s, like… “Hey… get them to stop trying to win, and start trying to, like... drag them away from the center?” 
+
+ANDREW: Right…
+
+JANINE: Normally I would say: “better with us than against us…” but that philosophy has gotten me places? So…
+
+AUSTIN: Uh-huh?
+
+SYLVIA: Yeah…
+
+AUSTIN: I think… Wynter probably says, like...
+	
+AUSTIN (as Wynter): Gig’s wrong about the other Saints. They are mean to me, but they’re noble, and… loyal… and they’re not grave robbers like Advent.
+
+AUSTIN: And Gigas just deflates. Like… maybe literally, a little bit. And does not speak up in defence of Advent. In fact, I think Gigas is, like… 
+
+AUSTIN (as Gigas): I’m just gonna wait in the truck, if that’s alright. I shouldn’t even be here. 
+[00:44:31]
+ANDREW: Uhh… I think if they’re… if they’re walking out? I think Even’s going to… is going to follow them. 
+
+AUSTIN: Are you going to catch them, on the other side of the truck basically? Where there’s a little bit of privacy?
+
+ANDREW: Yeah, I think so. 
+
+AUSTIN: Do you say something, or…?
+
+ANDREW: I mean… what are they doing? Are they, like… sitting on the truck, or...?
+
+AUSTIN: I mean, actually… wait! The truck… [laughing] the truck isn’t on the roof! So they aren’t on the roof at all, that doesn’t make any sense: So they’re heading down, like… through the museum, to the truck. Do you basically just catch them in the hallway? 
+
+ANDREW: Yeah… I think it’s, like… as they’re going down the stairs: Even, like… runs up, or catches up behind them, and, like… puts a hand on their shoulder. 
+
+AUSTIN: So, I think Gigas kind of shrugs it away, not violently? But there’s kind of a resignation there? Kind of, like… 
+
+	AUSTIN (as Gigas): [sighs].
+
+AUSTIN: And they say…
+
+AUSTIN (as Gigas): I appreciate it… I appreciate it, but… I shouldn’t… I shouldn’t even be here. This is… a very old mistake. 
+
+ANDREW (as Even): I mean… how old? 
+
+AUSTIN (as Gigas): Old. All this stuff… I… 
+
+AUSTIN: And then you hear a noise from down below, lower in the museum. Like… the first floor. You hear the sound of glass breaking. 
+
+ANDREW: [sighs] OK… Oh man… alright. I was gonna… 
+
+ANDREW (as Even): I was gonna try and have a moment here with you? But that… that sounds bad. 
+
+AUSTIN: And you peer down from one of the higher levels, like… you’re on one of those nice big walkways? That has, like… a… it has, like… a big dinosaur skeleton, or whatever? Or probably not a dinosaur skeleton, because this is not a natural history museum? [laughs] So, probably a big reproduction… ship, or something… like a boat.
+
+KEITH: Oh… In the… for years, in the science museum in Boston, there was a Naboo Fighter? 
+
+AUSTIN: That… OK…
+
+KEITH: Just hanging from the… so it was just literally…
+
+AUSTIN (overlapping): Weird!
+
+KEITH: So… that? Yeah!
+
+AUSTIN: Yeah… OK, strange! So, you’re looking down, and yeah: there’s a ship. And down below, you see someone in an Advent uniform, but it’s the old Advent uniform? It’s not… it’s… whatever I described… oh man! So, it’s not the all-white, cos the all-white is a new thing, right? I kind of imagine it as being blue and red with big cuffs, and, like… very leaning into the steampunk side of things still… is another one of… one of Gigas. And they just have, like… you know those black plastic production cases? That you put cameras and shit into? With, like… the soft stuff inside? The foam? 
+
+ANDREW: Yeah.
+
+AUSTIN: There’s just, like… a row of those hovering right behind Gigas, and they’re just breaking the glass and, like… stealing things from the museum. 
+
+ANDREW: OK, but it’s like… this twin Gigas? 
+
+KEITH: Wait, hold on: I need to step back. Do I…? Do we know why there’s twins happening?
+
+AUSTIN: Ache. Ache is preying on whatever your greatest regret is.  
+
+KEITH: Right, OK.
+
+AUSTIN: And is, like… bringing that thing into existence.
+
+KEITH: Is making… is making the regrets…
+
+AUSTIN: Real...
+
+JANINE: Tangible?
+
+AUSTIN: Tangible. Right. Got it.
+
+KEITH: OK.
+
+AUSTIN: Which… maybe that’s what’s happening with this city too, right? It’s, like… Quire’s greatest regret is that it took other things, outside influences, for it to learn how to help people. First, for it to interact with people and to remember them, and think of them as people when Gnosis arrived? And then, secondly, to actually, like… do what it did eventually after The Miracle? Because of Independence and Volition, right? So now it is, kind of, imagining that it is stuck in this memory of, like… a better world, and it can’t… quite shake it… you know? Maybe that’s what’s happening. Could also be something else! 
+
+AUSTIN (cont.) But yeah, clearly, Gigas’ greatest regret is, like… “Oh fuck!” Like… “I’m a shitty graverobber!” Like… “I steal stuff from other cultures for money!” And, like… there’s something in seeing… “Oh… these other people are not like this…” weeks ago, a month ago, two months ago... and we showed up, and we bought them into the fold. Yet another culture is joining Advent - fucking… intergalactic, like… tomb raiders - who have no respect for anyone’s sovereignty or culture, who just see other people as the producers of something that will one day be worth money, if you put it behind glass for long enough. They’re, like… they see it, and they don’t know what to do. Just like…
+
+	AUSTIN (as Gigas): [sighs] What… what is this place? Even, what is this place? 
+
+ANDREW (as Even): It’s an Axiom, Gigas. They do… they do weird things, OK? They… listen: I get that you’re saying: “this is a mistake, this is my oldest mistake,” but the thing about mistakes is: you get to fix them. You can fix this. I’m not saying you can fix the whole damn universe, but you can do something about you.
+
+AUSTIN: Sounds like a roll to me!
+
+ANDREW: Yeah…
+
+AUSTIN: What is it? What are you doing here? 
+
+ANDREW: I would say either Sway or Command? 
+
+AUSTIN: Hmm… interesting. Which one… I think… I think it leans… the way you describe it was, I think, more… mm-mm-mm… Let’s read things again.
+
+ANDREW: Yeah.
+
+AUSTIN: Command is, uhh… “Command obedience with your force of personality, intimidate or threaten, lead an action with con-trac-tors or passengers, [correcting] con-tractors or passengers” - leading an action with contractors or passengers is… that’s pretty close, but… I guess Sway is “Sway with charm, logic, deception, disguise, bluffing…” weirdly, I think this could also be Consort? 
+
+ANDREW: Yeah…
+
+AUSTIN: yeah… like… you’re being honest. You’re being honest… or Doctor, I guess? Because you’re… Doctor says: “Comforting, supporting, or eliciting sympathy”? But you were also just, kind of… asking him to do something more…
+
+KEITH: Yeah, I think it’s… I think it’s Consort, unless you think that you’re… unless you don’t believe what you’re saying to him... 
+
+JANINE: I kind of lean Command, cos it feels almost like there’s the…
+
+AUSTIN: Like a… “get your shit together” thing? 
+
+JANINE: There’s a “get your shit together” thing, but it’s… it feels like it’s coming specifically from a place of authority?
+
+AUSTIN: Right. Right. I… the key thing here is, I don’t decide what it is? I just decide how effective it is. 
+
+ANDREW: Right… like, I do think this is, like… old Military Even? Like, it’s not as hard as Military Even was earlier, like… “Get yourself together! Who cares that you got punched in the face!” [Austin laughs]. Cos that didn’t work… 
+
+AUSTIN: Right, right…
+
+ANDREW: But I do just think it’s, like…
+
+	ANDREW (as Even): Gigas, come on!
+
+AUSTIN: Uh, yeah… alright. Give me a Command then. Are you spending Stress on this? Are you spending a Gambit? It’s costs two Stress for one more die [Andrew groans]. Uh-huh? Yeah… you’re getting up there on Stress! And y’all have one Gambit left too, at this point. 
+
+ANDREW: Uhh… Austin, do you have a Devil’s Bargain here? Otherwise, I think I’m probably just gonna roll as I am.
+
+AUSTIN (overlapping/laughing): Sure! Let me, uhh… look at my rad list of Devil’s Bargains… 
+
+ANDREW: Just… don’t hurt the truck, because I’ve [laughing] grown attached to the truck!
+
+AUSTIN: OK! Ok, OK… How about this? The next social roll you make, also needs to be Command: there is something here that’s, like… it’s clicking for you? Like… You click into that mode, that old military mode? So even if what you’re supposed to be doing is, like… taking care of someone, or calming someone down, or being soft: instead, you’re gonna default to, like… Even Gardner, Command Voice. 
+
+ANDREW: Yeah, sure.
+
+AUSTIN: Which is also, like… it’s what you did before when you went to go and see Arin Till, and all those guys surrounded you; remember that? So it’s kind of, like… so, like… a follow-up to that.
+
+ANDREW: Yeah, yeah…
+
+AUSTIN: Alright, so… Go ahead and give me Command with an extra die from the Devil’s Bargain, Risky/Standard, this is… let’s see how it goes [short pause]. That is a five! OK… so, I think… I think what happens is… what was the last thing you said to them?
+
+ANDREW: Uhh… the thing about mistakes is that you can do something about them. 
+
+AUSTIN: OK, right. So… they nod, and then they go, like…
+
+	AUSTIN (as Gigas): You’re right, you’re right…
+
+AUSTIN: And they reach up, and rip off their Advent rank, and throw it to the ground, over the edge. And then they lean over, and they pull out one of those one-shot pistols that they have, from inside of their jacket… they only have one… they pull out the one that they have out! [Andrew, Austin, and Janine laugh]. And they lean over, and they start to take aim. 
+
+ANDREW: Oh jeez…
+
+AUSTIN: And… and they’re, like… lining up the shot with the other version of themself. 
+
+	ANDREW (as Even): Gigas, you know… shit goes weird if you do that here…
+
+AUSTIN: And they say:
+
+	AUSTIN (as Gigas): Shit’s been weird… 
+
+AUSTIN: And then they pull the trigger, and the gun explodes in their hand, and the Gigas on the ground floor falls over, and… I think things, like… shake a bit? We are… we are very close to Quire? And Quire does not like guns. And you can see it immediately has this effect on Gigas, and… you know… they drop the remains of that pistol, and it clatters to the ground, and I think that they kind of look down at themselves on the floor? And then they look at their own body now, and they remove that, like… long white jacket? The current, kind of… uniform of Advent? And they throw that over the edge too. And then they say:
+
+	AUSTIN (as Gigas): Alright… let’s go fix that mech. 
+
+AUSTIN: And… back upstairs, to the roof.
+
+KEITH: Was there any, like… observable…
+
+AUSTIN: Things shook when… I mean… things are already shaking when there’s this Axiom? But…
+
+KEITH (overlapping): No, no… yeah… I mean… but that was Quire, right? Was, like… the Axiom affected at all?
+
+AUSTIN: No… 
+
+KEITH: Or was it, like… “Nah… not gonna… no…”
+
+AUSTIN (overlapping): No… no… not even a bit. No.
+
+KEITH: Yeah, I didn’t think so…
+
+AUSTIN: So this is the weird thing, right? Like… this is happening to you because you’re near it. It doesn’t give a fuck about you! 
+
+KEITH: Yeah, yeah… it’s just a side-effect. 
+
+AUSTIN (overlapping): Like… it doesn’t care about people. Right? Like, it’s a waterfall. It’s a… it’s a desert, it’s… 
+
+KEITH: Yeah… taking a bucket of water out of a waterfall doesn’t change the waterfall!
+
+AUSTIN: Right! The waterfall doesn’t care if there’s a person in it, you know? Like… it can… like… you put enough people in front of a waterfall… you put, you know… a million people in a river, the waterfall will probably stop. Those people will also probably [laughing] it’ll probably go bad for all of those people too! But, like… you could build a dam of people! But that’s what it would take, and that’s not what you want to do.
+
+KEITH (overlapping): Hold on… I do want to say: there’s other things to make dams out of!
+
+AUSTIN: Right! Totally! And so I’m curious, how you’re gonna build a dam for Ache. 
+
+JANINE: I mean… I know…? 
+
+AUSTIN: Yeah?
+
+KEITH (overlaping): Listen, I’m not one of the Axiom killers…
+
+AUSTIN: You are… actually. You’re one of the two.
+
+JANINE (overlapping): Yeah Keith!
+
+KEITH: I have less experience with it though… [Andrew laughs]
+
+AUSTIN: I guess…
+
+JANINE (overlapping): Well you’re here now, so…
+
+AUSTIN: You were the first person to kill one on screen. So…
+
+KEITH (overlapping): That’s true…
+
+AUSTIN: In any case… So, Signet.
+
+JANINE: So… we got things, last time we did this, that we never used…
+
+AUSTIN: Hm-hmm?
+
+JANINE: I have them in my… I have them noted here on my character sheet as “weird tendril concrete hamburger seatbelt...” [laughs].
+
+AUSTIN: That’s it! You got it!
+
+JANINE (continuing to laugh): “for capturing Axioms”!
+
+ANDREW: Uhh… [laughs].
+
+AUSTIN: You got them: You have them too, Even.
+
+JANINE: Yeah! We… the three of us have them…
+
+SYLVIA: Oh yeah!
+
+JANINE: Gig does not have one, but…
+
+AUSTIN: Gig does not have one.
+
+ANDREW: Could you please… make that list of words again?
+
+JANINE (overlapping): We didn’t use them…
+
+KEITH (overlapping): Man, I don’t need one…
+
+AUSTIN: Uh-huh?
+
+JANINE: Weird tendril concrete hamburger seatbelt [laughs]. For catching Axioms. 
+
+ANDREW: This is the worst, like… Madlib I’ve ever heard in my life!
+
+AUSTIN (overlapping): I’m gonna draw it real quick… I’ll just draw it real quick again. So here’s, like… a space for me to draw on? That’s just a canvas? It was like… it’s like… let’s do a… gray inside with a black outside… it was, like… this, and then like… maybe a silver instead? With a buckle in the middle, right? There’s like a buckle in the middle? 
+
+ANDREW: Oh, right…
+
+KEITH: OK, so like, literally… has a buckle.
+
+AUSTIN: Yeah… basically. And then it’s just, like… basically can grow… it has these tendrils on the four sides? That will whip around and, like… tangle up a… a… an Axiom? And like… lock it down.
+
+ANDREW (with recognition): Oh, yeah!
+
+AUSTIN: And spread concrete around it? It’s, like… the special concrete that the Particulars have? That will… lock it down. 
+
+ANDREW: Yes… OK... Cos this is what they gave us when they wanted us to…
+
+AUSTIN: With Barricade, and… Polyphony.
+
+ANDREW: Yeah. 
+
+AUSTIN: So, yeah, you do have those.
+
+KEITH: Can you, like… throw this at one? Or do you gotta go ride an Axiom?
+
+AUSTIN: You never used them? But…
+
+JANINE: Yeah…
+
+KEITH: Sounds like we gotta go ride an Axiom…
+
+AUSTIN: Sounds like you gotta go ride an Axiom… Uhh, the other… you know the other Advent people have them, and they have not used them. So… They don’t… they’re not up there… you know what I mean? 
+
+KEITH: Yeah… they’re not on the Axiom, so they’re not using it.
+
+JANINE (sarcastically): Great!
+
+[00:57:04]
+
+AUSTIN: Let’s handle this repair mech, and then we’ll get into action mode. Cos it sounds like we have a… that’s a plan. Like… put the buckle trap on it. 
+
+JANINE: Please! The concrete handburger seatbelt… [laughs - joined by others]
+
+AUSTIN: Put the concrete hamburger seatbelt on it… Then… also… convince… uh… fix the Saint, so that Wynter can go and tell the rest of the Saints to either back away or help y’all? And then… Advent-question-mark… So, who’s doing what on this repair job?
+
+KEITH: How badly is it damaged? Like… what does the damage look like? 
+
+AUSTIN: Didn’t you all…? What did you all do? I don’t remember… Do you remember?
+
+KEITH (overlapping): We smashed a car into it, right?
+
+ANDREW (overlapping): I think we took its leg off.
+
+AUSTIN: I think you took its leg off… like… out. You took its leg… out.
+
+KEITH (overlapping): Out…
+
+AUSTIN: Yeah…
+
+ANDREW: OK…
+
+KEITH: Do we have the leg with us?
+
+ANDREW (overlapping): Did we bring the leg?
+
+AUSTIN (overlapping): Yeah, I’ll give you the leg… I’ll give you the leg… 
+
+AUSTIN: And also, like… you put a truck into it, right? 
+
+KEITH: Yeah…
+
+AUSTIN: So… I mean these things are not that big? So they’re not… it was probably not that much bigger than the truck, so I bet it also took some damage from being hit…
+
+KEITH: OK…
+
+[Austin laughs]
+
+AUSTIN (laughing): Signet just said… Janine says: “I could eat a concrete hamburger for hours…” [Keith laughs] Picking up on my Face-Off cadence… Oh my god! Gross!
+
+SYLVIA: That’d be pretty impressive that only hours and not days is what it’s going to take you to eat through some concrete… [Austin laughs].
+
+AUSTIN: Alright, umm… So yeah, it sounds like… who’s taking the lead on this… on this repair job? 
+
+KEITH: I mean.. I have an… I have an idea of... for how… of how I would fix it. 
+
+AUSTIN: How would you fix it? 
+
+KEITH: Umm… Cannibalising one of the arms? 
+
+AUSTIN: OK… Uhh… Even, do you have a different idea? 
+
+ANDREW: Uh, man… I guess we’ve gotta take parts off of this truck… 
+
+AUSTIN: You can do that…
+
+ANDREW (as Even): I was getting really attached to this truck…
+
+KEITH (as Gig): We could cannibalise the truck too. The arm thing works cos I know all the parts fit. 
+
+ANDREW (as Even): That’s true…
+
+AUSTIN: Gigas is, like…
+
+ANDREW (overlapping): What looks cooler, a Saint with one arm? Or a Saint with a truck leg?
+
+AUSTIN: Nyehh… true..,
+
+KEITH: A truck Saint…
+
+AUSTIN: A truck Saint sounds kind of cool… Uhh… Gigas is, like… 
+
+AUSTIN (as Gigas): Normally I’d say we could go down to the museum to get stuff? But, like… yeah… Maybe not this time. 
+
+KEITH (as Gig): Here’s my pitch: we… the leg is more… the leg… is probably more important. Uhh… So we could cannibalise the arm and put it on the leg, and then cannibalise the truck, and replace the arm with that. Cos we don’t know if it will work as well… 
+
+AUSTIN (as Wynter): What are wheels gonna do… I can’t have wheel hands…
+
+KEITH (as Gig): No, no… it’s not wheel… we’d just use the other parts [Wynter sighs]. Not the wheels.
+
+ANDREW (as Even): He’s really good at this...
+
+AUSTIN (as Wynter): What if we did wheel legs? None of the other Saints have wheel legs… Or legs that could have wheels on them. I wish I knew someone who knew how to design mechs…
+
+KEITH (as Gig - overlapping): So, a transformer leg? Like… sometimes feet, sometimes wheels? 
+
+AUSTIN (as Wynter): You could move so quickly on straight-aways. I would have caught you all if I’d had wheel legs! 
+
+JANINE (laughing): You’re turning this thing into a fucking robot Heely!
+
+KEITH (as Gig): OK… we can do [interrupted by loud laughter from Andrew]. We can do… I can do wheel legs...
+
+SYLVIA (as Echo): Very quickly: you would not have caught me if you’d had wheel legs. [Austin laughs].
+
+KEITH (as Gig): To be fair, we were… well, I was not there… you guys were gonna get caught if you didn’t smash the car into it…
+
+AUSTIN: She says…
+
+	SYLVIA (as Echo, overlapping): I’m good at smashing too!
+
+	ANDREW (as Even): I was in a truck, I wasn’t, you know… 
+
+AUSTIN: She says: 
+
+AUSTIN (as Wynter): I would have caught you if I had the wheel legs that we’ll have from this truck, because then your truck wouldn’t have had wheels! 
+
+	ANDREW (as Even): OK… that’s not how this works though....
+
+	KEITH (as Gig): But it’s a good point.
+
+	SYLVIA (as Echo): I’ve got these bad boys!
+
+SYLVIA: And then Echo slaps their legs twice [Andrew laughs].
+
+AUSTIN: She laughs? In this, like…
+
+KEITH (as Gig, overlapping): Echo is really fast...
+
+AUSTIN: Very deep way? She’s like… this… she has not laughed since her mother died; she is, like… very… she’s, like…
+
+	AUSTIN (as Wynter): Alright, let’s do this.
+
+AUSTIN: I can’t believe we’re pausing in the middle of a… there’s a war going on in the background! There’s, like… tracer fire in the sky…
+
+KEITH: Ehh… the war will happen whether we’re there or not!
+
+AUSTIN: Greased Lightning time… great! Who’s taking the lead on this roll? Or does this sound like a group action?
+
+KEITH: Umm… I have a two? In Rig?
+
+AUSTIN: Hm-hmm? Alright…
+
+KEITH: I don’t know… I think that this means I’m the best at this.
+
+AUSTIN: Probably… so...
+
+ANDREW: OK.
+
+AUSTIN: A group action - the way it works is - “each character who participates rolls, and” - Gig - “you take one stress for every failure including your own.” 
+
+KEITH: How many people are we rolling here?
+
+AUSTIN: It sounds like just you and Even. Right?
+
+KEITH: OK, then I can do this, cos I have...
+
+ANDREW (overlapping): Yeah, and if that’s the case… maybe I should lead the group action? Cos I do get bonuses for doing group action leads.
+
+AUSTIN: Oh, do you? What do you get?
+
+KEITH: Oh, do you?
+
+ANDREW: Yeah. So yeah, whenever I lead a group action, I gain plus one scale? 
+
+AUSTIN: Right…
+
+ANDREW: I also get… well, this isn’t combat. No. Nevermind.
+
+AUSTIN: Right, right… but that first one is nice. It’s as if… even though there’s only two of you, I’ll increase the effect as if there’s a third one of you. Actually a fourth, cos… I was gonna give you that anyway? For the Gigas stuff - cos Gigas wants to help too - I was going to give you a plus scale. So it’s like… even though you’re not a Small Gang? I’m gonna treat you as a Large Gang for this…
+
+ANDREW: Heck yeah!
+
+KEITH: OK…
+
+AUSTIN: So yeah, you should take the lead, that makes sense.
+
+ANDREW: And, Austin? I know that we had done the stuff with my robot so that he could assist me with Rig rolls?
+
+AUSTIN: Right…
+
+ANDREW: I don’t know what that’s gonna look like? 
+
+AUSTIN: That’s a good question…
+
+ANDREW (overlapping): Like… is it a plus one? Is it increased effect?
+
+AUSTIN: Is that a thing in the book for your class? Or is it just a thing we decided?
+
+ANDREW: It’s… a thing that I used my downtime on to, like… remember I put those arms on it?
+
+AUSTIN: Oh! Yes! Totally… I think it gives you…
+
+ANDREW (overlapping): I don’t think we ever talked about it…
+
+AUSTIN: I think it gives you… I think it gives you… a greater effect. 
+
+ANDREW: OK.
+
+AUSTIN: Yeah, still… so it’s, like… you’re in Controlled… Great effect here.
+
+ANDREW: OK.
+
+AUSTIN: So everybody who’s… so… Even and Gig… Give me a Controlled/Great effect Rig.
+
+KEITH: Controlled… Great effect… You got it!
+
+ANDREW: That’s bad…
+
+AUSTIN: That’s a two…
+
+KEITH: Controlled… Great effect… Zero bonus dice? Right…
+
+AUSTIN: Yeah. Uhh… Phew… I’m so glad you got at least one success here! Jesus Christ!
+
+ANDREW: So do I take stress for my failure?
+
+KEITH: Yeah.
+
+AUSTIN: Yes, one hundred percent. Yeah, yeah, yeah...
+
+ANDREW: OK… So that’s one?
+
+AUSTIN: Yeah, take one stress from that. So… [laughs] I really love that, like… Just… Even bossing people around to do this, and then doesn’t do a great job…
+
+ANDREW: Hm-hmm…
+
+AUSTIN: So: “you hesitate: withdraw or try a different approach, or else do it with a minor consequence; a minor complication occurs; you have reduced effect; you suffer lesser harm; you end up in a risky position.” I think you, like… you suffer lesser harm, maybe. Something goes wrong here? And you, like… I think you get your… I think you get… wings clipped is probably too harsh. Hmm…
+
+KEITH: Especially cos it goes by the success that we…
+
+AUSTIN: Oh! You know what happens? This is it. It’s: you’ve lost your Controlled position.
+
+ANDREW: OK.
+
+AUSTIN: You add the wheels? And then the system boots back up? And it’s, like… 
+
+AUSTIN (as Saint): Saint online.
+
+AUSTIN: And, uhh… 
+
+KEITH: The name of my Saint though, is Saint Online…
+
+AUSTIN (overlapping/laughing): Saint Online! Fuck! [Andrew, Janine, and Keith laugh].
+I’m trying to be Saint Offline, so hard? It’s so tough… The… the other Saints all pop up on the HUD?
+
+ANDREW: Right…
+
+AUSTIN: Right? On the crystalline HUD? Inside of the cockpit? And… you can see them… so: you can see them for the first time. And they’re dope… One. I’ll describe them really quick? I’m imagining you’re all kind of, like… piled into the rear of this thing? And can, kind of… see the cockpit from the back and see them all pop up? So, umm… Saint Spryng? Is, like… so: they all have the same basic model, which is… which kind of looks like a knight. I’ve always been imagining - I guess I never said this anywhere - but, if you do a search for Vanguard Bandits [chuckles], which is a great name… do a Google Image Search for Vanguard Bandits…
+
+ANDREW: Oooh!
+
+AUSTIN: The white one?
+
+KEITH: This game? 
+
+AUSTIN: Yeah, this game… The white one on the front is very much what I’ve always been thinking for the Saints. 
+
+ANDREW: Damn, this is a good mech!
+
+AUSTIN: It is a pretty good mech. That game has a good bunch of fucking… medieval mechs.
+
+KEITH: “I will never tire of sweet victory…”
+
+SYLVIA: How have I never heard of this?
+
+AUSTIN: This game is sick…
+
+ANDREW: Is this a 2D-fighter?
+
+AUSTIN: No, it’s a PS1 tactical RPG, dude… It’s super good…
+
+SYLVIA: My god!
+
+KEITH: This looks really good… 
+
+AUSTIN: It’s really good! I was a really big fan? I had the Strategy Guide, which was hardcover, and had one of those built in red bookmarks? Like… red ribbon bookmarks?
+
+ANDREW: Gamespot only gave it a six-point-two…
+
+AUSTIN: Red Ribbon Bookmarx - M.A.R.X. - is my Dragonball OC [Keith laughs].
+
+SYLVIA: Oh my god… [pause while Keith continues to laugh].
+
+AUSTIN: Umm… So, so… I’m picturing them as those, kind of… so you’re in the back, so you can kind of see the rest of them. They all have that first basic design? And Saint Spryng, is… I have written down here: “Springtime Goth…”? Uhh… “Covered in vines and plantlife that is knotted and tumorous…”? “You can barely see the original mech’s chassis inside; the vines are able to move independently and can do some Poison Ivy shit.” So you can see in the cockpit, like… it’s doing that stuff to fight against Empyrean. So, you know, it’s like... pushing like… roots into the ground, and then you can see the vines that have taken over a nearby building, all swing out and try to wrap around Empyrean’s leg, or whatever? Uhh, Saint Sommer… I’ll come to Saint Sommer last! 
+
+AUSTIN (cont.): Saint Faul is, like… we get Saint Faul, and it kind of zooms in? And there’s nothing in the cockpit? There isn’t a cockpit, even? It’s just, like… It’s all… it’s, like… a glass… like… the cockpit is just filled with glass? And it is synthe… like… it is the Saint? The Saint is the Saint: there is no pilot. They are a synthetic being. And… you can see them, kind of… hacking into stuff wirelessly? You can see them, like... try to turn some of the Advent drones into… you know, like… sweeps its hand into the air, and the Advent drones go from having red lights to… white lights, or whatever? And, like… turn around and begin firing back down, or not firing back down, cos those cool frisbee things… Begin to, like… do the cool frisby razor dash? At the… at the… the Advent crew? 
+
+AUSTIN (cont.): And then… Saint Sommer, umm… So… Saint Sommer is not in his Saint? Saint Sommer is, like… walking around with his Saint behind him? And his Saint is a big knight, but moves around like an animal? And also, Saint Sommer is a big lion man. Saint Sommer is, like… Skein. And is a big… a big… like, a big lion man. Not like Lion-o from Thundercats. Like… what if Scar could… had a big human body? Was, like… What if Scar was cut? 
+
+KEITH: Scar from…?
+
+AUSTIN: Lion King.
+
+KEITH (overlapping): Lion King?
+
+AUSTIN: Yeah… what if Scar was…
+
+JANINE (overlapping): You can just find that: you don’t have to “what-if?” that! That’s out there…
+
+KEITH: Yeah…
+
+AUSTIN (slowly): Scar… Furry...I’ll see what I can find…
+
+JANINE: Human body Scar…
+
+KEITH: Anthro… hot anthro Scar! Buff…
+
+AUSTIN: Anthro Scar… that one’s too skinny. No, these are all too skinny.
+
+JANINE: Scar with abs…?
+
+AUSTIN: Abs Scar… what about this one? 
+
+JANINE: I made the mistake of searching for Scar, Lion King, sexy? And it’s mostly just pictures of Scar, like… as Scar [Austin laughs]. Just, like… [laughs] normal Scar! [Keith joins laughter]. 
+
+SYLVIA: I mean… you know…
+
+KEITH: That’s funny. That’s good. 
+
+JANINE: I found one, also… but you can see his penis…
+
+KEITH: Oh, well this one’s big! That’s a big one.
+
+SYLVIA: Hey, Janine? I think we found the same one!
+
+JANINE: Yeah… yeah… I think we got…
+
+KEITH: Oh, yeah, yeah… that one’s… I… that’s the… fourth one for just ‘anthro Scar’.
+
+AUSTIN (laughing): We’re putting this in our internal Discord? And Ali says: “OK. No.” 
+
+[pause while all laugh].
+
+AUSTIN: Saint Sommer is definitely played by Jason Momoa. This Jason Momoa… Oh… I hate that! [Andrew laughs] I hate… I can’t believe you found a Scar doing the “M’lady”... I cannot believe!
+
+SYLVIA: I can believe that!
+
+JANINE: [groans]
+
+AUSTIN: Anyway, that’s him. And he has, like… his Saint is just, like… in pet mode all the time? Like… Saint Sommer has a huge axe? But in your style, Echo? 
+
+SYLVIA: Hey… it’s a hammer.
+
+AUSTIN: Oh, that’s true: you have a hammer. He has an axe.
+
+SYLVIA: Way cooler…
+
+AUSTIN: And it, like… moves around almost on its, like… on all fours? Like an animal. Despite being… almost like a gorilla, maybe? What else do you see… umm… You see the other Advent crew: we know that this HUD is up, and you get, kind of… zoomed-in views. They are just like… again: everyone is just fighting everybody down there. You can see that Advent is where the gunfire is coming from, and they have a, like… they have one gun set up, that has a disposable… it’s basically, like… a light machine gun? That can run through a bunch of shots at once, but it can’t be moved. It’s a big deployable, like… machine? It’s almost like a box, basically. It’s almost like a gatling gun? Except that, instead of changing… instead of a chain of bullets? It’s a chain of, like… barrels? And it puts one on, locks it in place, fires it, and then discards it. Puts one on, fires, and discards it. And it’s clear they had to, like… put it together there? And… Breaker’s Baritone and, uhh… Motive’s Motif [correcting]: Motive Motif - no apostrophe-S on Motive, cos they’re from the Fleet - uhh… both of them are, like… clearly a little confused about who the other Advent soldiers here are? Because, like… “Hey! Where did they come from?” But they also know that there was already more to their crew than they remember? Cos remember: they didn’t remember Gigas, at all. 
+
+AUSTIN (cont.): But now that you can zoom in, you can see that the other members are the Ache version of Even, Echo, and… and… that is it; it’s just… oh! It is the Ache version of Even and Echo? And then the Ache version of… of… umm… of them. Of the two of them. Of Breaker’s and Motive. But they are not… they don’t have an Even Gardner to turn them away. They’re living with their regrets in the worst way, by just doubling down. And then yeah, Empyrean is also out there, and is fighting them at the same time. 
+
+KEITH: I feel like the… the Ache version of Gig was… so much worse than everyone else’s! [laughs]
+
+AUSTIN: I guess? Well, ahh, so - I’ll give you this if you want to feel better - Blooming is not piloting Empyrean, Signet is. So, like…
+
+JANINE: Ah, shit…
+
+AUSTIN: Yeah… the last little bit there too… there’s one other thing… is that the other Saints are all beat to shit. Like… they are not in a good place? It is clear that they have taken more knocks than they wanted to? Also, I don’t know where Arin Till is. I think Arin Till is probably in a building somewhere, cowering… ahh? That’s probably unfair: Arin seemed better than that. Then yeah… I think that they probably… they’re probably in, like… a support vehicle? They’re probably, like… they got to the same point on the northern part? Where, like… you’re coming down the highway up there? And Arin was, like…
+
+	AUSTIN (as ARIN TILL): I’ll wait here. I’ll do ops.
+
+AUSTIN: You know? Alright… so. The thing that happens is, when you boot up Saint Wynter, like… all of those things ping? And you show up on the radar. So to speak… And you can immediately see members of the Advent group looking over at you; you can see the glint of their… of their, like… ridiculous telescope monocle: someone’s monocle just zooms in on you? And it’s, like… “Ah, fuck!” I think it’s… it has to be Echo? Echo. Instead of having the eye patch, you have a monocle on over there?
+
+SYLVIA: Oh my god!
+
+AUSTIN: Uh-huh? Uh-huh? [Janine groans, Sylvia sighs]
+
+ANDREW: This is truly the darkest timeline. 
+
+SYLVIA: I’m the worst thing you could have made me: unfashionable!
+
+AUSTIN: Uh-huh? [laughs]. And Even, umm… you’re just a person over there, maybe… you, like… your wings are clipped over there. But you… that version of you? In the all-white-everything? And Even - [correcting] sorry - and Echo - begin to move toward y’all. Like… they come down off their rooftop setup, and we, like… as the viewers at home, can see that they’re, like… hopping in a truck, and are going to come over to fuck with y’all. Basically. Or going to engage with you. 
+[01:13:37]
+AUSTIN: So, let’s go big picture here. I don’t want to, like… turn this into a round-by-round fist fight. What are your big picture ideas? 
+
+JANINE: I have a big picture idea for, uhh… Empyrean. 
+
+AUSTIN: OK.
+
+JANINE: That I’d like to float - I don’t know how plausible it is - because it’s super bullshitty. Remember how The Exuvia is, like… has like… it’s like a USB key with a backup of all the…
+
+AUSTIN: Hm-hmm?
+
+JANINE: All the… last, sort of, melded states of each Candidate and Divine? 
+
+AUSTIN: Yeah.
+
+JANINE: And would theoretically, therefore, have some degree of back-up of, like… Empyrean and Blooming?
+
+AUSTIN: Hm-hmm?
+
+JANINE: Would there be a way to, like… not overwrite, but like… infect that Empyrean with, like… a corrected - quote-unquote - or like…
+
+AUSTIN: Yeah…
+
+JANINE: An updated, different version that would lock that Signet out?
+
+AUSTIN: Maybe? Yeah…
+
+JANINE: If not, something else. 
+
+AUSTIN: Yeah, yeah; I like that a lot. So, so… is that a thing you can do at distance?
+
+JANINE: That thing flies around and stuff, right?
+
+AUSTIN: Yeah…
+
+JANINE: Like.... a little robot bug?
+
+AUSTIN: This is… yeah… there is some distance here. I’d like to… I’d like… I think I’d want that to happen as you approach Empyrean and Ache, or something? We can totally do that.
+
+JANINE: Isn’t Empyrean in the sky?
+
+AUSTIN: Yes, totally. So is Ache.
+
+JANINE: Oh, OK.
+
+AUSTIN: Ache, like… sweeps down, in these slices through the city? But is, like… floating in the air as this ribbon… you know? 
+
+JANINE: Can I, like… Shadow of the Colossus it? 
+
+AUSTIN: We can start there if you want, yeah… This is… this is my Dan Ryckert you want to take over the train snakes; you got to figure out how to talk to… how to get to the train snakes.
+
+JANINE: Yeah…
+
+ANDREW: Listen… you need a boost? If only you had a friend who could fly.
+
+AUSTIN: If only…
+
+JANINE: Yeah, if only I could just… fucking… sit on my friend’s back like a backpack, and just use him to… fly up… that’s just… 
+
+ANDREW: I was going to, like… just tell you to hold onto my hands? And I’d, like… carry you that way, but… [Janine laughs].
+
+JANINE: That works too…
+
+ANDREW: I don’t know…
+
+AUSTIN: You could also Stress to bring your mechs, which you’ve left behind.
+
+ANDREW: Oh god!
+
+JANINE: Hmm…
+
+ANDREW: I want to do that, but I only have three Stress…
+
+AUSTIN: Yeah… that’s a bad number of Stress, honestly…
+
+JANINE: I mean… I have… I have enough stress that I think I could… I could… afford that.
+
+AUSTIN (overlapping): You can, like… have them deployed, basically?
+
+JANINE: Yeah… I have four Stress right now, so I can’t get, like… fancy with my stress, you know? But...
+
+AUSTIN (overlapping): Alright… you’re alright… Who wants their mechs with them?
+
+ANDREW: Me!
+
+JANINE: And me.
+
+AUSTIN: Umm… so take the… take the one… the one, Signet. The one stress to get… to get… 
+
+JANINE: Alright…
+
+AUSTIN: Yours… Echo’s and Even’s? Is that what it sounds like, then?
+
+KEITH: Ohh! 
+
+AUSTIN: I’m not gonna charge you any more for this…
+
+SYLVIA (flippantly): I don’t need my mech…
+
+AUSTIN: Damn! It’s like that! [Janine laughs]
+
+SYLVIA: It’s one hundred percent like that!
+
+AUSTIN: Hell yeah! [Andrew laughs] Alright, so: Signet, you call down your mech and Even’s mech? They, like… <poofft> through the top of this pink… You know, I think they might have something… I think we have an opportunity to do something cool here? What if they were, like… covered in shields of the concrete so that they could pierce the Veil? And actually, like… break through, and the concrete breaks open? And… they’re there: you know what I mean?
+
+JANINE: Yeah…
+
+AUSTIN: I just want the shattering… that’s just a visual that I like: concrete shatters, and there are your two anglers, and they land right in front of you? 
+
+AUSTIN (cont.) Alright… So we have Signet and Even on team go deal with Ache and Empyrean; Echo… it sounds like you have a plan…
+
+SYLVIA: Yeah, umm… So… the whole thing here is that, like… if I attack, I’m at a disadvantage, right?
+AUSTIN: You take stress. 
+SYLVIA: And I don’t wanna upset Quire any more… 
+
+AUSTIN: Sure…
+
+SYLVIA: In character, as well?
+
+AUSTIN: Yeah.
+
+SYLVIA: So, my idea for this is, if we get into combat, I want to move in a way that makes it look like I’m gonna be fighting them? But I’m actually trying to get them to hit each other? 
+
+AUSTIN: Ooh! Interesting!
+
+SYLVIA: That make sense?
+
+AUSTIN: Interesting! Yeah! Totally…
+
+SYLVIA: I’m trying to be tricky with it, you know?
+
+AUSTIN: Right… so where are you going in the fray of all of this?
+
+SYLVIA: Umm…
+
+AUSTIN: Are you trying to get close to Quire’s center, so that you can defend it? 
+
+SYLVIA: So… you guys said Signet and Even were dealing with…
+
+AUSTIN: Empyrean… and also kind of flying in the air where Ache is. 
+
+SYLVIA: OK. If… Do the copies of us still kind of pose a threat still? Right?
+
+AUSTIN: Yes. Those are the ones who are, kind of… closing in on you now. or maybe…
+
+SYLVIA (overlapping): I was thinking I could maybe…
+
+AUSTIN (overlapping): Chasing you down...
+
+SYLVIA (overlapping): Take care of those ones. 
+
+AUSTIN: OK.
+
+SYLVIA: Yeah…
+
+AUSTIN: So you’re gonna go, like… intercept them in the city streets, basically. 
+
+SYLVIA: Yes. I’m going to make Even kill me. But not… not really me [Austin laughs]. And also make me kill Even, but not really me, and not really Even. 
+
+AUSTIN (laughing): Exactly.
+
+SYLVIA: That make sense?
+
+AUSTIN: Yeah, totally. Umm… Saint Wynter is going to go and try to unite with the other Saints, and get them to pull back? Or help? We’ll see… Which leaves Gig: what are you up to?
+
+KEITH: Am I still on the roof?
+
+AUSTIN: Yeah. You’re with… yeah. Everyone is still on the roof in this moment where we’re talking about what is next. 
+
+KEITH: OK. I’m struggling to find my role, besides having done the… fix the mech. The Saint…
+
+AUSTIN (overlapping): It’s a good fix… You could go with Saint Wynter to help her convince the other Saints?
+
+KEITH (sarcastically): Oh, that sounds fun! I’m sure that’ll go well!
+
+AUSTIN: Uh-huh? Yeah, let’s do that! Alright… who wants to go first?
+
+KEITH: Can I get a ride on the Saint’s back?
+
+AUSTIN: Do you wanna?
+
+KEITH: I mean… 
+
+AUSTIN: She says:
+
+	AUSTIN (as Wynter): D’you wanna? [Andrew, Janine, and Keith all laugh].
+
+	KEITH (as Gig): It’s the… I mean... it’s the easiest… it seems like the easiest way…
+
+	AUSTIN (as Wynter): I think it’s the coolest way...
+
+	KEITH (as Gig): I think it’s the easiest and…
+
+JANINE (overlapping): She also says that? Or…?
+
+AUSTIN: Yeah, that’s her saying it. Yeah, yeah, yeah…
+
+ANDREW: God!
+
+KEITH (as Gig): It’s, like… the perfect venn diagram of it when the easiest way is also the coolest way. 
+
+ANDREW: Remember when some of you all didn’t want to take Saint Wynter? She’s such a cool kid!
+
+AUSTIN (laughing): She’s, like… she’s, like… she’s older than the Arc kids were? She’s probably, like… in her low twenties? Like… nineteen, twenty, twenty-one, twenty-two… Somewhere in there? So she’s definitely been a fan of Gig Kephart. I don’t think she’ll say that out loud, ‘cos she’s cooler than that. But… [Andrew laughs]. She’s, like…
+
+	AUSTIN (as Wynter): Alright, hop on.
+
+KEITH: Alright, yeah. I’m on, I’m on.
+
+AUSTIN: And then she goes…
+
+	AUSTIN (as Wynter): Vroom! Vroom!
+
+AUSTIN (cont.): And then she vrooms the engine of the new tyre wheels!
+
+KEITH: Is it…? It’s Heelys, right? It’s robot Heelys?
+
+AUSTIN: It’s robot Heelys, yeah…
+
+KEITH: There’s feet, and then there’s wheels, popping out…
+
+AUSTIN (overlapping): Feet and wheels, popping out of the thing… yeah. So she can kind of, like… slide around? Did you ever look up Heavy Gear mechs? They can, kind of… glide like that? But for her it’s wheelies… yeah. It’s Heelys.
+
+JANINE: It would be hilarious if you had still used one of the arms to replace one of the legs, but also…
+
+AUSTIN (overlapping): But also…!
+
+JANINE: Gave her Heelys! [laughs]
+
+AUSTIN (laughing): It would be really funny! That’s true, that’s true… you rolled too well for that. Alright, so… She’s, like…
+
+	AUSTIN (as Wynter): Alright, hold on tight...
+
+AUSTIN (cont.): And just, like… jumps off the roof with this thing? And, like… skates down one of the buildings nearby? And down onto the floor…
+
+KEITH: I’m, like… on-a-rollercoaster-yelling.
+
+AUSTIN: Yeah…
+
+KEITH: Like… doing a rollercoaster yell? [Andrew laughs]
+
+AUSTIN: Yes… Are you filming all of this? She says…
+
+	AUSTIN (as Wynter): Are you filming all of this?!
+
+	KEITH (as Gig): Of course I’m filming! I’m always filming all of it!
+
+	AUSTIN (as Wynter): Check this out!
+
+AUSTIN: And then she, like… she speeds up, and then, like… [Andrew laughs]
+
+KEITH: Yeah… I get a wide shot: the eye moves out to get a wide shot.
+
+AUSTIN: Uh-huh? And, like… catches on the back of a dump truck or something? To, like… do a ramp flip? So she goes up a ramp, does a whole flip with it?
+
+KEITH: Yeah… Oh… the way it gets broadcast, like… the first drop, the way it gets shown? Is: the fall starts, and then it does, like… three or four still shots in a row, the way it would be at, like… a concession stand? 
+
+AUSTIN: Yeah, yeah, yeah… perfect!
+
+KEITH: Uh… photobooth after a rollercoaster? Like [evoking photography] ch-keea! Ch-keea! Ch-keea! [Austin laughs].
+
+AUSTIN: A little more for her is, I... it probably won’t come up specifically? But, like… she didn’t… everyone else has cool mechs! All the other Saints have cool mechs; they have a thing. She’s never had a thing, right? Her mom had a thing, and it was probably ice or some bullshit, cos Saint Wynter. But, like… she didn’t have a thing, and now she has a thing, and it’s doing sick flip-tricks [Keith laughs]. [Austin laughs] You should say that out loud, Janine! [Andrew and Janine laugh].
+
+JANINE: I typed that Signet yells ‘be careful!’.
+
+KEITH: Gig is just going, like…
+
+	KEITH (as Gig): Aaaaaaagggghhhhhh!!!! [Andrew and Austin laugh]
+
+AUSTIN: Perfect! Good… Alright, so you all take off that way. Even and Signet: you all take off in the Anglers? 
+
+ANDREW: Oh yeah: I’m flipping the switch, Austin. 
+
+AUSTIN: Are you? Like… immediately? 
+
+ANDREW: Yeah, it’s go time.
+
+AUSTIN: Alright: what’s that look like? Explain what this is.
+
+ANDREW: So yeah, I’m gonna activate my mech’s special ability, which is the Gorgon System.
+
+AUSTIN: Uh-huh?
+
+ANDREW: So, yeah… all of the, uhh… I described my Angler as having a bunch of, like… modular, big, bulkier armor plating? And all of that stuff start to just, like… popping off… not, like…
+
+KEITH: Like… literally coming off you? 
+
+ANDREW: Yeah, like… it’s just coming off of there… and it’s, kind of, exposing some of, like… the mechanical sinews and wiring and stuff… and then, when the helmet head pops off, Even’s hair-tendrils just, like… come out and spread over the whole mech.
+
+KEITH: Is that what makes it Gorgon?
+
+ANDREW: Yeah…
+
+AUSTIN: Yeah, uh-huh?
+
+ANDREW: I have a bullshit acronym, and I actually can’t find the bullshit acronym…
+
+AUSTIN: Ah, fuck! Where did it go? It’s in our chat, for sure… Right?
+
+ANDREW: It is, yeah…
+
+AUSTIN: We have to find it; it’s too good…
+
+ANDREW: It’s Gamma Override Returning Grip Over Neural-network.
+
+AUSTIN: There it is: Gamma Override Returning Grip… and that’s what it… it makes that… says… 
+	
+AUSTIN (in soothing robot tones): Gamma Override, Returning Grip Over Neural-network.
+
+AUSTIN: Umm… so you get minus one Hull; you’re… this is damaged now, right?
+
+ANDREW: Hmm…
+
+AUSTIN: And, but… what you get from this is you get three special armor that you can consume to push yourself. Additionally, while activated, consider all actions ‘speed-related’ for the purposes of Ace Pilot, which is one of your other abilities. So you’re just, like… off and fucking going! Maybe this has to happen in result… to something, right? Like… this has to be… that the Advent crew turns their weird gatling gun on you, or the… the… Ache folds over and slashes down at you in the museum? Right? And, like… you, at the last second, break out of your armor and, like… zip around it? 
+
+ANDREW: Hm-hmm?
+
+AUSTIN: I think that latter one? That’s the cooler one, right? 
+
+ANDREW: Yeah, yeah… for sure. 
+
+AUSTIN: OK. Umm… who wants to do their thing first? Is Echo… are you just, like… walking downstairs, basically? 
+
+SYLVIA: Pretty much… like… a brisk… not walking…  jogging, maybe.  
+
+AUSTIN: Jogging…
+
+KEITH: Sliding down the handrails…
+
+ANDREW: Yes…
+
+SYLVIA: Oh shit!
+
+ANDREW: Are you doing the parkour shit? Where you, like… wall run off of the stairwells and everything?
+
+SYLVIA: No… cos I don’t think that there’s anyone to show off for, so I probably am just sliding down the… like… sitting on the banister and sliding down…
+
+AUSTIN (overlapping): And sliding down…
+
+SYLVIA: Right? 
+
+AUSTIN: OK, cool…
+
+ANDREW: Are you saying… “Wheeeeeee!”?
+
+SYLVIA: In my head… [Andrew laughs]
+
+AUSTIN: So… I think, like… music kicks in, the ribbon of Ache slams and slices through all of the, umm… the museum. We get that shot of, like… you outside the museum, Echo? And, like... the dust and rocks and debris are all flying up in the air from the impact of Ache cutting through the museum. And we just get you, like… stomping outside or, like… jogging outside as Advent versions of Even and Echo arrive? I think we probably get Acre with you, actually Echo?
+
+SYLVIA: OK…
+
+AUSTIN: Which is kind of, like… it’s you walking through the dust, and smoke as they arrive, and you kind of arrive and face off with them. And we see behind you, the ribbon of Ache kind of, like… re-tendrils up out of the huge, like… gash it made in the ground? And then we get Acre, kind of... jumping from the roof very, like… stylishly? Does, like… a… maybe not even very stylishly? Like… almost like a swimmer doing a… one of those flips where they’re folded in on themselves, but their legs are straight? Does anyone know what that is? Whatever that is…
+
+KEITH (overlapping): Can you describe it again?
+
+AUSTIN: Your… your chest is folded down, but your legs are straight? Out? 
+
+KEITH: Chest is folded down…? 
+
+AUSTIN: Yeah.
+
+KEITH: I don’t know what you mean, physically!
+
+JANINE: I have a list of ten types of dive? But they don’t come with pictures? So I don’t wanna read all of this…
+
+AUSTIN: The pike position!
+
+ANDREW: Oh!
+
+JANINE: There you go. 
+
+ANDREW: OK.
+
+AUSTIN: The diver’s legs are straight; the body is bent at the waist. There you go.
+
+KEITH: Oh! OK, yeah… now I know exactly what you’re talking about. 
+
+AUSTIN: So, she does, like… a full flip like that, and then just, like… lands silently? Like… next to you, Echo. Do you explain your plan of, like… “I’m not gonna fight these people; I’m gonna make them fight themselves”?
+
+SYLVIA: I think so, like… because the idea is that, like… by not committing the violence ourselves, we’re not, like… upsetting Quire? I think that’s what Echo is thinking.
+
+AUSTIN (overlapping): So how do you explain that? To Acre Seven? 
+
+SYLVIA (laughing): Yeah! How do I explain that to Acre Seven?! Good question! 
+
+KEITH: You can just try it that way… See if that flies?
+
+SYLVIA (overlapping): Yeah… I think just, like… probably just that blunt about it, but also, like… Echo’s like… a little unsure about it? Like… pausing every few seconds to be, like…
+
+SYLVIA (as Echo): So… if we… so… I don’t want to hit them… because… that would make the planet… mad… I think… 
+
+SYLVIA: Like… Echo’s not… kind of… clear on the details?! 
+
+AUSTIN: Yeah, yeah, yeah… 
+
+SYLVIA: But is, like… 
+
+SYLVIA (as Echo): I got told not to hit anything? So I’m gonna make them hit each other. Does that make sense? 
+
+AUSTIN: Acre says, umm… [pause] I wonder what her perspective is on this? Uhh...
+
+AUSTIN (as Acre): I suspect… I suspect that Quire cares more about the spirit of its beliefs than the letter… than the letter… but it’s worth a shot. 
+
+AUSTIN: Umm… we’ll see!
+
+SYLVIA (as Echo): I guess it’s one of those things where I’d rather protect it the way that it is asking things to be than to not… than to protect it my way instead… you know?
+
+AUSTIN: She says…
+
+AUSTIN (as Acre): Perhaps that is the spirit. After all, our fists do not break when we throw punches.
+
+SYLVIA (as Echo): I think that’s cos…
+
+KEITH (overlapping): Well… hold on…
+
+SYLVIA (as Echo): proper form [Sylvia and Austin laugh]
+
+SYLVIA (laughing): Echo’s about to go on an explanation, and it, like…
+
+	SYLVIA (as Echo): Metaphors [clicks fingers]. Got it, right!
+[01:28:05]
+AUSTIN: Let’s start with you: let’s start with the Advent clones who roll up on the two of you. So, describe this open action; how do you immediately try to… I think… so: Even-Advent, who does not have wings - who has the wings clipped - who only has, like… the top part, basically? It’s as if the… I don’t know enough about bone structure of wings. I guess where, like… the knuckles are? Are just gone? But Even still has the… the first bits, like… the very beginning part. You can kind of see… it’s like when angel wings get ripped off, and you can still see the nibs… the nubbins… whatever those are called! You know what I’m talking about… And has the white jacket on over them, and takes that commanding voice? It is, like…
+
+AUSTIN (as Advent-Even): Stand down, come back with us, and this won’t be a problem. 
+
+SYLVIA (as Echo): I have an alternate proposition: how about you guys leave without hurting us, and we just pretend this never happened?
+
+KEITH (laughing): Leave without hurting us, please, is a really strong… [laughs]
+
+SYLVIA (overlapping): Maybe? No?
+
+	AUSTIN: No…
+
+AUSTIN: says the Advent-Echo.
+
+AUSTIN (as Advent-Echo): No… I don’t think that’s gonna work for us? I think - how about this - I think you give us the weird creature you’re with, and then you can go home, but we have whatever that is.
+
+SYLVIA (as Echo): Better idea…
+
+SYLVIA: And then I pull out my sword! [Austin laughs]
+
+KEITH: Wait, hold on… try offering to let them hurt you a little, and then leave.
+
+AUSTIN: It’s a negotiation, you know?
+
+KEITH (laughing): Yeah…
+AUSTIN: Alright! So… are you doing this trick? Are you doing this plan? 
+
+SYLVIA: Yeah… So, I’m pulling out the sword, specifically to make them think I am going to attack them. 
+
+AUSTIN: Yeah, totally. Totally. Give me a roll. 
+
+SYLVIA: Uhh… OK… I’m thinking this… because I’m not actually enacting the violence, and it’s more based around agility, I was thinking I’d roll Scramble for this? Does that seem…?
+
+AUSTIN: Yeah, totally; that’s it. One hundred percent, a hundred percent. I think a hundred percent? Wait, wait, wait, wait, wait! Maybe not, though… I mean, again: you can roll what you want to roll here, but… Scramble is scramble to a position away from danger, lift, run, climb, jump, swim, traverse harsh environments… but the thing you’re actually trying to do is actually about deceiving them, right? 
+
+SYLVIA: Yeah…
+
+AUSTIN: So, I think you can do Scramble, but I think it’s going to be lower effect; I think that it’s going to be limited effect, to get what you want? Sway would be normal effect. 
+
+SYLVIA: OK. I’m gonna go with Scramble, cos even if I’m only getting a limited effect on it, like… buying time for the people who are fighting the actual Divine and stuff is a handy thing to do.
+
+AUSTIN: Yeah, yeah… 
+
+SYLVIA: So… Risky/Limited? Or…
+
+AUSTIN: Risky/Limited, yeah. Keith says: “can Ache-Gig broadcast?” Yeah… I think everybody just starts getting the Ache-Gig broadcast? Like… in their heads? Uhh… Ache-Gig does not have a stream suppressor: Ache-Gig is always streaming? There is no such thing as downtime? [Keith sighs]. Ache-Gig is a 24/7, IRL streamer? You know… none of this is a persona, obviously, so… is just, kind of… like… What is Ache-Gig doing? Gig - do you have an idea here?
+
+KEITH: Literally right now what is Ache-Gig doing?
+
+AUSTIN: Uh-huh? 
+
+KEITH: [pauses] I like the idea that, uhh… Ache-Gig is, like… trying to get really artsy shots or, like… buildings coming down?
+
+AUSTIN: Oh my god… yeah. That’s exactly it. Uh-huh… Just, like… half of the museum sinking into the ground?
+
+KEITH: Yeah… and is, like… doesn’t have a stream suppressor, but can still, like… control how the broadcasts are? 
+
+AUSTIN: Oh yeah…
+
+KEITH: So is, like… maybe editing out, like… excitement or laughing? 
+
+AUSTIN: Huh… there’s just this, like… shitty music playing in the background? Or is it even more vérité than that? Is it just, like…
+
+	AUSTIN (as Ache-Gig): Nah… just let it sink into the ground…
+
+KEITH (slowly): I think it’s shitty music… 
+
+AUSTIN: OK.
+
+KEITH: Yeah, it’s shitty music. Cos it’s, like… it’s not like it’s… It’s artsy, but it’s not solemn. 
+
+AUSTIN: Right, right. I got you. I got you.
+
+KEITH: Yeah.
+
+AUSTIN: Echo, you got a four, so that’s a partial success. It’s just a… I think I’m just gonna, you know… it was not as successful as you would have liked this to be? Tell me what happens here, uhh… like… you’re… so you have your sword out; I think they just both, kind of… like… charge at you? And you’re able to, like… get them tangled up? But they’re not… they’re not hurting each other much here, do you know what I mean? But they’re definitely… first steps: you know? 
+
+AUSTIN: Let’s jump to the Empyrean situation. Even and Signet: what’s your play with Empyrean and Ache? 
+
+ANDREW: So, Ache and Empyrean are separate? Or…
+
+AUSTIN: No, they are, like… Empyrean does, like… a strafe of the Advent crew, who, like… throws up  a shield to block it, basically? I think Empyrean is doing this weird wind attack? Where it’s, like… slicing through the air with its wings? And is producing, like… a razor-sharp airblast, basically? And it’s impacting the various buildings that the Advent crew is, like… setting up on, and moving between? And then it swings over and, like… tries to do a charge at Ache. And you can see it’s, like… making dents? But it’s not making dents… do you know what I mean? It’s, like… literally making lowercase-D dents? But… Ache is as big as the city is? So, like… good luck! 
+
+AUSTIN: I know what your plan is Signet - are you just going to jump to that? 
+
+JANINE: I mean… that’s… that’s what I want to do here.
+
+AUSTIN: Alright, let’s do it. What are you rolling for it? 
+
+JANINE: I think I want to roll… I want to take advantage of my ‘I Am A Doctor, not a…’
+
+AUSTIN (overlapping): Oooh, interesting!
+
+JANINE: ‘... blank.’ And I want to, because… I think, in spirit, this is a Scramble or a Scrap or something, maybe an Attune even?
+
+AUSTIN: I think it’s an Attune, but…
+
+JANINE: But… I want to…
+
+AUSTIN (overlapping): You have that ability…
+
+JANINE: Push… Yeah. So: the thing I wanna do is, I want to, sort of… swing around, give it a wide berth? So that it has things slightly closer to think about?
+
+AUSTIN: Hmm-hmm...
+
+JANINE: And then, sort of… come in from behind? I think Signet learned this, specifically, a very long time ago. So, one of the things that Belgard used to do, of course, is sort of heal and repair other Divines and stuff, in combat. And I think there was, at some point, a Divine or a Candidate - or a combination of the two - that, like… for whatever reason, didn’t want them to approach? 
+
+AUSTIN: Hmm-hmm.
+
+JANINE: Because… I don’t know! It’d be one of those things where, like… you can definitely see, like…
+
+AUSTIN (overlapping): Plenty of reasons, yeah.
+
+JANINE: When someone’s in the moment, like… “get the fuck out of my way!”
+
+AUSTIN: Yeah, definitely.
+
+JANINE: Or, you know… like… “I don’t need it: go tend to someone else!” Like… that kind of thing. But they still had to make that approach? 
+
+AUSTIN: Right.
+
+JANINE: And I think that’s what she’s drawing on here, is that experience of, like… “You get in behind, and you still have to, sort of, attach, and still do your healing thing, and like…” etcetera. But this time, instead of the healing thing, it is…
+
+AUSTIN (overlapping): Uploading this…
+
+JANINE: The Exuvia…
+
+AUSTIN: Yeah, alright! 
+
+JANINE: Yeah.
+
+AUSTIN: Let’s do it. Push yourself, so: two Stress…. And roll Doctor. Bad rolls! Threes!
+
+JANINE: Can I, like… Devil’s Bargain or something there?
+
+AUSTIN: No… Devils’ Bargains are ahead of time, unfortunately… Oh: what could have happened here is that we should have… I should have asked if Dre wanted to assist here? 
+
+ANDREW: Uhh? Umm…
+
+AUSTIN: You’re getting there… 
+
+ANDREW: Yeah… and I also think, like… I’m not even thinking, like… in terms of Stress, but I’m thinking in terms of, like… fiction.
+
+AUSTIN: Yeah.
+
+ANDREW: I can see, like… I see Even just streaking off towards... Ache.
+
+AUSTIN (overlapping): Towards Ache. Yep, that makes sense.
+
+ANDREW: Yeah. 
+
+AUSTIN: OK… so what happens, I think, is you try to do the sneak around, Signet? And it catches you doing that? And so you get pushed into a Desperate position. And Empyrean turns and looks at you? And we get the, kind of… cut: we get the anime-style cross-cut of both of your eyes? And…
+
+JANINE (overlapping): Can I…
+
+AUSTIN (overlapping): Your eyes are…
+
+JANINE: Can I please…? Have we said what Signet looks like here?
+
+AUSTIN: No… you tell me. 
+
+JANINE: Cos I totally know what Signet looks like here.
+
+AUSTIN: Please tell me. 
+
+JANINE: Signet looks like the Signet we have totally never had an excuse to bring up, which is, like… Young Signet. Like… pilot… Super Young Signet.
+
+AUSTIN: Hmm…
+
+JANINE: Probably actually thirty… and not just looks kind of thirty? Like… Actual Young Signet. Even though what happened with Blooming did not happen when she was that age, obviously…
+
+AUSTIN: Right, right…
+
+JANINE: The reason she reacted the way she did, I think, is because she was… it was easy to take that younger mindset, like… Young Signet was an asshole? 
+
+AUSTIN: Right…
+
+JANINE: Young Signet was, like… very… not self-absorbed, but like… brash and definitely in a mindset of, like… Candidates - or Excerpts - can take care of themselves, and it’s your job to take care of yourself…
+
+AUSTIN: Hmm-hmm…
+
+JANINE: And your shit, and… so, to get into that headspace, like… that headspace is why she wrote Blooming off, so she’s, like… I think… really high, severe, straight ponytail; really loose-fitting, kind of… flight suit? Like a traditional flight suit kind of thing? Like… cooler fabrics, I bet.
+
+AUSTIN: Hmm-hmm…
+
+JANINE: And, like… unzipped in the front and a kind of a cage style cutout bodysuit underneath.
+
+AUSTIN: Right…
+
+JANINE: Very high-fashion pilot, kind of… rude girl.
+
+AUSTIN (chuckling): Gotcha! Great! Cool… so yeah, we get that shot of her, and we get that shot of you locking eyes. Umm… Even: what are you doing with Ache?
+
+ANDREW: Uhh… well… I guess I’m just throwing this seatbelt/cheeseburger/sidewalk thing…
+
+AUSTIN: Uh-huh?
+
+ANDREW: Yeah…
+
+AUSTIN: How’s…? OK… What…? [Andrew and Janine laugh]. I’m glad you were. Like… “I’m ready to go! I’m in Gorgon Mode! I’m gonna throw this!”
+
+JANINE: I can give you the actual words again if you want?
+
+ANDREW: It was what… uhh… hamburger/concrete...
+
+JANINE (overlapping): Weird tendril hamburger concrete seatbelt for catching axioms.
+
+ANDREW: There we go…
+
+AUSTIN: There you go.
+
+JANINE:T.M.
+
+AUSTIN: Alright…
+
+ANDREW (laughing):T.M!
+
+AUSTIN: Uhh… alright, so… how… what’s that look like? What’s the throw look like? 
+
+ANDREW: I don’t think it’s a throw; I think it’s actually, like… Even just, like… he’s so fast that he’s just going to, like… come up and just plant this thing on it. 
+
+AUSTIN: OK. Umm… is that…? I don’t think that’s violent? What do you think that roll is? That’s a pilot roll; that’s a pilot roll. 
+
+ANDREW: Yeah, yeah, yeah.
+
+AUSTIN: Obviously. Duh… Alright, yeah: go ahead and give me a… a… Helm.
+
+ANDREW: Yeah… yeah…
+
+AUSTIN: So you have potency? 
+
+ANDREW: [pause] Yes.
+
+AUSTIN: So that means that it’s Great Effect, in this case.
+
+ANDREW (quietly to himself): And is it…?
+
+AUSTIN: And you could use one of those three special armor to…
+
+ANDREW (overlapping): To push myself.
+
+AUSTIN: To push yourself, yeah. 
+
+ANDREW: Yeah: I’m gonna do that. 
+
+AUSTIN: Alright, so that means… roll Helm. 
+
+ANDREW: So it’s Risky… Great?
+
+AUSTIN (overlapping): It’s Risky/Great. Yeah.
+
+ANDREW: Oh! Uhh… not great!
+
+AUSTIN: Not great rolls: Five, one, one. But that five is a success, and on Great, that’s a meaningful success. So... umm… “you do it, but there’s a consequence: you suffer harm, a complication occurs, you have reduced effect.” You end up in a… You know: I think this is a ‘you have a reduced effect’ situation? Even though you had great, it reduces down to standard. You slam this thing on it, and you can see that, like… it shoots the tendrils up and down, and they kind of, like… <clink!> into the sides of this ribbon, but… there’s not a… it’s huge! Huge! It can’t wrap all the way around it? And you can see that it begins to kind of, like… spray out the concrete solution that begins to, kind of… bond with parts of it? But it can’t even get all the way around, and your scanners can immediately see that, like… if you could get another couple of these things around it, it would be able to lock it down. If you could make a full loop around it, you could lock it down. But one of these alone is not going to do that. 
+
+ANDREW: Alright. I guess I’m going to go borrow… Echo’s?
+
+AUSTIN: So Signet has one, Echo has one… maybe you even have theirs? But… that might not be enough: we’ll see what the rolls look like!
+
+ANDREW: Yeah, OK.
+
+AUSTIN: So I advanced that clock. It’s an eight-step clock? I advanced it by two. I’m also going to add… so there’s two more clocks here that I have to talk about. One is the Empyrean one, which did not get advanced, because of the previous failure, and then one of them is a countdown clock, which is the Quire countdown. Because Quire is working on something, and successes are going to… or… failures will basically… will put this thing at risk, basically. Will keep it from advancing, basically. But…
+
+ANDREW: So Quire’s making something that is... good?
+
+AUSTIN (overlapping): Is good. Yes. Quire is making…
+
+ANDREW: Oh yeah: the Miracle. 
+
+AUSTIN: The Second Miracle, yeah. So, successes… that was one from… from Even, and then one from Echo. Boop! OK. Uhh… Gig.
+
+KEITH (overlapping): How far back does this… did this clock start? 
+
+AUSTIN: This is… just now. Since we went into action mode. Gig: Saint Wynter arrives to the group of Saints. 
+
+KEITH: Yes.
+
+AUSTIN: Who are… who are, like… spread across, like… a big public park, basically? And are… you know… trying various things on bits of Ache as it slams… almost like a worm? In that one end of it, the other end of it, and the middle don’t always seem to work in tandem? But it doesn’t matter, cos it’s just a big weird ribbon? And they’re, like… you know… trying to slash at it with weapons, and trying to hold it down with vines… none of that seems to be particularly working. 
+
+KEITH: Yeah…
+
+AUSTIN: Uhh… but… as you, like… near the corner, she stops, and she’s, like…
+
+AUSTIN (as Wynter): Alright Gig… you’re good with words in a way I’m not… umm… so what I was thinking was… I would go, and I would say… “Hey! We gotta work together… to stop this thing!” But I don’t know that that’s gonna… I don’t know that’s gonna do it. 
+
+KEITH (as Gig): Do you want to start with that and then throw to me? Have you thrown to someone before? 
+
+AUSTIN (as Wynter): I’ve thrown someone before…
+
+KEITH (as Gig): Have you thrown to someone before?
+
+AUSTIN (as Wynter): I’ve thrown someone to someone before…
+
+KEITH (as Gig): It’s a lot like that, but with… uhh… with words.
+
+AUSTIN (as Wynter): I think it’d be, like… I think I could do that. But, like… no offence? But, like… You’re gonna leave after this, probably. I want this to be, like… “Hey, do you remember when Wynter… remember when Wynter bought us all together to fight the… fucking… weird ribbon in the sky?” That’s what I want it to be like.
+
+KEITH (as Gig): Hmm…
+
+AUSTIN (as Wynter): So could you give me, like… what if we get, like… what if we… figure out a different thing to say? 
+
+KEITH (as Gig): You want me to throw to you.
+
+AUSTIN (as Wynter): [pause] Yeah… Wait. Throwing means what again? 
+
+KEITH (as Gig): Like… I talk, I’ll do the… I’ll say… my bit, and then I’ll be, like… “And to slam-dunk it, here’s Wynter.”
+
+AUSTIN (as Wynter): And then I’ll do, like… a backflip arrive. 
+
+KEITH (as Gig) (overlapping): And then you’ll... hmm… I meant more, like… you tell them how and why they should help. But if you then did a backflip, that might… I mean… I don’t know them, so I, like…
+
+AUSTIN (as Wynter): Alright… alright… alright… let’s do that. 
+
+KEITH (as Gig): I’m just saying: read the room. Like… if it’s a backflip situation…
+
+AUSTIN (as Wynter): You think I should get everyone in a room first? 
+
+KEITH (as Gig): No… I mean, like…
+
+AUSTIN (as Wynter): I’m kidding. I get it. 
+
+KEITH (as Gig): OK. Very good. 
+
+AUSTIN (as Wynter): Alright.
+
+AUSTIN: And then we cut from that [Keith laughs] to Gig in the park… with the other Saints, turning to, like…
+
+	AUSTIN (as a Saint with deep voice): What are you doing here? 
+
+AUSTIN: Says Saint Sommer. 
+[01:44:14]
+KEITH: To me?
+
+AUSTIN: Yeah.
+
+	AUSTIN (as Saint SOMMER): Get out of here!
+
+	KEITH (as Gig): No, I need to talk! We need to… talk.
+
+	AUSTIN (as SOMMER): Sommer! Restrain him!
+
+AUSTIN: And the Saint… the Saint that moves around like a big ape begins to walk towards… begins to, like… <Rhududuh! Rhududuh! Rhududuh!>
+
+KEITH: I start, like… back… like… sort of… talking and walking backwards [Austin laughs] away from Sommer.
+
+AUSTIN: Uh-huh?
+
+KEITH: And… then I say… Hold on… first I need… me, Keith, needs to remember why they need to leave… OK. Got it!
+
+AUSTIN: Uh-huh? Good.
+
+KEITH: So as the giant mech is, kind of… like… clobbering towards me. You… Clobber? Is that…?
+
+AUSTIN: Yeah! That sounds like a word.
+
+KEITH: Clobbering?
+
+AUSTIN: Yeah.
+
+KEITH: Yeah. Is clobbering towards me. I’m backing up and being, like...
+
+KEITH (as Gig): OK, so here’s the thing! You guys need to stop with all the shooting, cos it’s making things worse. The only thing that will help out, is if we work together to get everybody out of here, and to stop the Axoim… umm… and… I know that we can work together, because here is your friend: Saint Wynter!
+
+AUSTIN: And Saint Wynter, like… roll up and does, like… a <irrr!> screech stop? You know? Like… sparks come up?
+
+KEITH: Yeah… yeah… Sort of like a hockey stop? But, like… 
+
+AUSTIN: Right…
+
+KEITH: On wheels? 
+
+AUSTIN: Right. Yeah: exactly. And she’s says, umm…
+
+AUSTIN (as Wynter): This is Gig Kephart. He’s famous [Sylvia laughs]. And he believes that we can stop this weird fucking ribbon thing. And in the old days, we used to do better things than that. We were artists, and we made cool crops, and… my mom told me a story once about how she stopped an entire Rogue Wave ship with just a wave of her hands, and that was really cool… And… we’re gonna tell a story one day about how we killed this weird fucking ribbon thing… or at least how we moved it, or, like… we got over our differences, and we’re just, like… “Hey! We all love science… right?”
+
+KEITH (as Gig): Yeah!
+
+AUSTIN: And then she does a backflip. 
+
+[Keith laughs]
+
+AUSTIN: Give me a Sway.
+
+KEITH (as laughter subsides): OK… so… for this… I believe that I gain potency? Cos I have the move Mechanic’s Heart… “When you speak from your heart...
+
+AUSTIN (overlapping): True!
+
+KEITH: “... your words reach even the most hardened criminal, and you gain potency.”
+
+AUSTIN: Yes!
+
+KEITH: Umm… 
+
+AUSTIN: Absolutely potency. So that means Great Effect. 
+
+KEITH: Great Effect, got it. OK. So… I’m rolling… so Sway? Or Consort? 
+
+AUSTIN: It’s up to you. What do you think? I think…?
+
+KEITH: I…
+
+AUSTIN: Again… are you speaking… if you’re speaking from the heart, I feel that’s Consort.
+
+KEITH (overlapping): I’m speaking from the heart… Yeah… cos Janine really cast doubts on my feelings on Sway, when I was just taking it as convincing?
+
+AUSTIN (overlapping): Yeah… yeah…
+
+KEITH: But now seems worse than… 
+
+AUSTIN: Yeah!
+
+KEITH: It’s convincing with… uhh… ulterior motives… I guess...
+
+AUSTIN: Yeah… I think that’s exactly it. 
+
+KEITH: So… I’m not doing that; I am Consorting, cos the move itself is saying that I’m speaking from my heart.
+
+AUSTIN: Exactly. So that’s… again, that’s potency, so you gain a Great Effect. Are you pushing yourself? Or are you… anything else? 
+
+KEITH: Umm… if I did a Devil’s Bargain, what would my bargain be? 
+
+AUSTIN: Good question! Umm… I think it’s Heat, probably? 
+
+KEITH: Devil’s Bargain does the same thing as taking Stress, right? 
+
+AUSTIN: It’s a plus one…
+
+KEITH (overlapping): A plus one?
+
+AUSTIN: - you get a plus one die. Yeah.
+
+KEITH: Yeah.
+
+AUSTIN: Umm… let me think… I have some good Devil’s Bargains set aside. Uhh… Ah! I’ll give you... here’s what it is… here’s your Devil’s Bargain: this is your one shot to convince them of this. There won’t be a follow-up [someone inhales sharply in the background]. You get a plus one die, but it’s all on this: it’s all on that backflip. 
+
+KEITH: Alright… that brings me from one to two… 
+
+AUSTIN: Uh-huh?
+
+KEITH: I will take it…
+
+AUSTIN: Uh-huh? Do you want to spend a Gambit too? You only have on Gambit left.
+
+KEITH: yeah… yeah. Ye-ye-yeah…
+
+AUSTIN: Alright…
+
+KEITH: So that’s two bonus dice… 
+
+AUSTIN: Uh-huh? So that’s a…
+
+KEITH: On a Consort… and it’s…
+
+AUSTIN: Three…
+
+KEITH: And is the position Risky still?
+
+AUSTIN: Risky/Great. Yeah.
+
+KEITH: Risky… Great… two bonus dice… submit. Uhh… I’m really nervous!
+
+AUSTIN: Hey, it’s a five.
+
+KEITH: Phew!
+
+AUSTIN: That’s… you know. You got through it. So…
+
+KEITH: Is five better than a four? Is that…?
+
+AUSTIN: No, a four and five are the same. Four and five are mixed success. 
+
+KEITH: That’s what I thought.
+
+AUSTIN: On Risky, four or five is “You do it, but there’s a consequence: you suffer harm, a complication occurs, you have reduced effect, you end up in a desperate position.” And so I think what happens here is that you… the’re, like… 
+
+AUSTIN (as unidentified Saint): We’re already fighting the damn thing, I… What do… what do you need us to do?
+
+KEITH (as Gig): We need to stop doing the fighting so much with guns and with violence.
+
+AUSTIN: They’re, like… 
+
+AUSTIN (as unidentified Saint): OK… but that means we’re gonna be in a lot more danger…
+
+AUSTIN: Now you’re also in a Desperate position? Cos, like… hey! Being able to fight this thing physically, and, like… do violence? Is why it hasn’t killed them yet? And they’re already pretty beat up. So they’re agreeing to that, but you are in a Desperate position, and that is the effect of the four/five roll. 
+
+KEITH: OK. 
+
+AUSTIN: Alright: but that advances the Quire countdown again. Uhh… Echo. Tell me what your next cool move is. 
+
+SYLVIA: I’m tryin’a think still…
+
+AUSTIN: OK…
+
+SYLVIA: It’s a little… OK. I’m… they, kind of… like… tripped over each other… not, like… literally…
+
+AUSTIN: Yeah, no! Not exactly, but they did get their arms tangled with each other for a bit. 
+
+SYLVIA: What are they armed with? Did you mention that? 
+
+AUSTIN: Umm… I think Even has… does not have a Cascabel gun… Even has… Even: what would Advent-You be using?
+
+ANDREW: Oh boy…
+
+AUSTIN: Echo has a sword-cane [Sylvia laughs].
+
+ANDREW: Oh! I know what it is…
+
+AUSTIN: Hmm-hmm?
+
+ANDREW: It’s just a big fucking battleaxe.
+
+AUSTIN: OK, cool.
+
+SYLVIA: I like that Echo versus Fake Echo is the battle of swag versus class: thank you… [Austin laughs]. Especially with the whole cane and monocle thing.
+
+AUSTIN: Yeah! Perfect… Alright.
+
+SYLVIA: Ugh… alright. So the surrounding area is… I’m trying to think if I can get, like… Even’s axe stuck in something? But I might just want to try and disarm other me. 
+
+AUSTIN: OK.
+
+SYLVIA: Somehow?
+
+AUSTIN: I mean… you can try to disarm both of them. Again, we should be…
+
+SYLVIA (overlapping): Broad strokes?
+
+AUSTIN: Broad strokes. We should be broad strokes here. 
+
+SYLVIA: I’m gonna disarm them: that’s the goal here. I’m trying to think about the method to do that. Whether it’s actually, like… getting their weapons away from them and grabbing them? Or just disarming them in another way, I’m not entirely sure… Cos I think I could probably use my sword to, like… 
+
+AUSTIN (overlapping): Yeah!
+SYLVIA: Do one of those cool fencing moves and disarm…
+
+AUSTIN (overlapping): Yeah, let’s do it.
+
+SYLVIA: Other me… OK… Would that be Scrap, do you think? That’s what I’m leaning towards.
+
+AUSTIN: Yeah, I think that’s Scrap.
+
+SYLVIA: OK.
+
+AUSTIN: I think that’s Scrap, and your… your  thing is Fine, right? 
+
+SYLVIA: Yes, it is.
+
+AUSTIN: Alright. Their stuff is trash? Because they were just invented. And so… again… I think you have Great Effect. Risky/Great. 
+
+SYLVIA: OK. (quietly) risky… great… 
+
+AUSTIN: Pushing yourself? Gambit? Anything like that? [Sylvia audibly winces] Oohhff… Alright… so… the two of them actually move in concert? So you got a three and a two. Really bad. The two of them… you go to disarm them? And the blade you have, like… breaks through their shit? But then they, like… there’s a moment when you realize that they, in concert, realize what you’re about to do, and they, like… let go of their weapons, letting you disarm them? And instead, each of them, like… one of them goes high on you, and one of them goes low, and just, like… shoulder charges you, and knocks you on the fucking ground. 
+
+SYLVIA: Uuhhh…
+
+AUSTIN: So you get, like… bruised? As a level one harm. But I think, like… Acre is able to sweep you back up onto your feet, so you don’t go into a Desperate yet. But you do take bruised, which means you’ll have less effect going forwards. Uhh… Empyrean: Signet. You’re in a Desperate position, Empyrean is charging you. What do you do?
+
+JANINE: I think what I want to do is, like… sort of… [laughing] scoot backward? But throw up shields as I do? So I’m kind of, like… propelling back, but then throwing up, like… shield-shield-shield, like… a series of them? But what I want to do as I’m doing that is have the The Exuvia attach to one of those shield bits?
+
+AUSTIN: Oohhh… cool.
+
+JANINE: So that if Empyrean smashes into it…
+
+AUSTIN: Yeah. That’s sick.
+
+JANINE: The Exuvia can, like… yeah…
+
+AUSTIN: Yeah. That’s a good idea. Alright! Desperate/Great, I think here. What is the roll… or I guess: what is the thing you’re doing? What’s the actual roll you’re doing here? 
+
+JANINE: Umm… my gut says, like… Helm? 
+
+AUSTIN: yeah… I think so too. 
+
+JANINE: Helm or Attune, like… so much stuff with Signet… so much, like… tech stuff with Signet could also be attune.
+
+AUSTIN: Yeah… totally. 
+
+JANINE: But…
+
+AUSTIN: I will give you a Devil’s Bargain, which is for one… for two points of Heat, I will give you another die. 
+
+JANINE: Hmm… Where does Heat go?
+
+AUSTIN: It goes on Skein? It goes on the Skein page? Right now, y’all are at one, two, three, four… I’ll bring you over to it: that way you can just see it. Ah… you have not yet hit the first wanted level yet, which is amazing, given what the other fucking team has been doing! 
+
+JANINE: Oh...
+
+AUSTIN: Y’all have generated no Heat on your side yet? They’ve generated five. 
+
+JANINE: Wow! OK… Umm? I don’t know… maybe it… I’m really worried? So I’m going to just take… normally I’d be, like… “nah, fuck it!” but I would like to take it…
+
+AUSTIN (overlapping): You’ll take that extra die…
+
+JANINE: Yeah.
+
+AUSTIN: Yeah. Totally. Alright!
+
+JANINE: Yeah.
+
+AUSTIN: There you go… so that’s… two? 
+
+JANINE: Uh? Yeah. Desperate…
+
+AUSTIN: Great.
+
+JANINE: Great… and then bonus dice one? 
+
+AUSTIN: Yup…
+
+[pause]
+
+AUSTIN: Whoa…
+
+JANINE: Hey! Worth it! 
+
+AUSTIN: Six!
+
+JANINE: Totally worth it!
+
+AUSTIN: Also take XP. Take XP cos you rolled Desperate. 
+
+JANINE: Does that go in that category? 
+
+AUSTIN: When you… roll… “Each time you roll Desperate, mark XP in that attribute.” Yes. 
+
+JANINE: OK, so that’s a Prowess one.
+
+AUSTIN: For Helm, yeah. Alright, yeah: so you go up in Prowess, and with a six… it’s Desperate, so it’s not a perfect one? But it’s Desperate/Great, at least? So you do it: you do it, a hundred percent. Tell me what happens? Tell me what this looks like. 
+
+JANINE: So I think the shields… I don’t think the shields break, but they’re, like… temporarily disabled. I think we’ve done that before?
+
+AUSTIN: Yeah…
+
+JANINE: Where they get fucked up for a bit? They’re intact, but the signal that controls them probably gets fucking… bashed, and they fall, or whatever… So the shields sort of get hit and fall away, but in that process the Exuvia, like… clamps on and, like… scurries into a gap in Empyrean’s form? 
+
+AUSTIN: Yeah…
+
+JANINE: Like… you know… [Music - The Notion - begins to play] there’s joints and stuff where you can get in there and the Exuvia’s fucking tiny…
+
+AUSTIN: Yeah…
+
+JANINE: So it just gets in there and finds something it can bolt itself onto?
+
+AUSTIN: Hmm-hmm…
+
+JANINE: And basically injects this, like… this backed-up data of… “here’s what this is supposed to be, Empyrean. Here’s what this arrangement is supposed to be.” And this is not it…
+
+AUSTIN: Yeah… So I think it just, like… stops and hovers in place for a moment… and we’ll come back. Or… you know… I think it hovers in place? And then, like… its eyes change color from, like… golden to blue? And Blooming is piloting it now. Like… Digital Blooming. And isn’t… sure what to do.  
+
+[Music plays out to end].

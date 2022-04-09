@@ -1,0 +1,16 @@
+[package]
+name = "search-at-the-table"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "4"
+config = "0.11.0"
+serde = "1"
+deadpool-postgres = { version = "0.10", features = ["serde"] }
+tokio-postgres = "0.7"
+thiserror = "1.0.30"
+actix-files = "0.6.0"
+lazy_static = "1"
+regex = "1.5"
+punkt = "1.0.5"

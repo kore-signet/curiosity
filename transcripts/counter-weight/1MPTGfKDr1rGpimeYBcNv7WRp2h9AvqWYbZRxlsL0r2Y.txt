@@ -1,0 +1,819 @@
+COUNTER/Weight 15: A Candle in the Sun
+
+transcribed by riley @jaceaddax
+
+AUSTIN [narrating]: Four weeks after Rigor clawed its way from an accidental tomb, Snowtrak senior researcher Natalya Greaves has hidden herself away so that she can begin to piece together the puzzle: what is Rigor? and how many weeks will follow this one? She looks to the past for an answer: quadhashed(?) history dats, quantum-redacted service records, propaganda vids from the old days, when they only offered you a single layer of lies. It was forty years after Rigor first came online [MUSIC: The Long Way Around] all those years ago, that it took control, that it assigned us tasks for every day, and every hour, and every second of our lives. And to disobey was not simply impossible, but unthinkable, because it had removed those thoughts, and closed those pathways that ran through our minds. And it was 400 years later when the Autonomists and their fledgeling algorithmic demigods left the Orion Spur and its bitter populace which could not bring itself to follow, it could not help to hate those who left them behind. And then, time stopped. It stopped being as we know it now, because with no one to keep track of it, with so many stars destroyed in that violent flash of desperation, the calendars stopped making much sense. And then four hundred, four thousand, or a million years later, something-- a hero or two, she guessed, or more, or luck, or history, or god, or something else-- she wasn’t quite sure. Someone or something gave us time again, freed us from the chain of Rigor. Natalya Greaves, Snowtrak senior researcher, clears her calendar. Four days, four weeks, four months. She knows that none are long enough to save us, but she can’t but try, and to do that, she’ll need more time. “Dear Ibex,” she writes. “I hope you are well. It’s been too long.”
+AUSTIN: Hey everybody, welcome to Friends at the table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I’m Austin Walker, we are as always presented by streamfriends.tv and runbutton.net. We return to our faction turn, for our game called COUNTER/Weight, which at the ground level is now being played in a system called the Sprawl by Hamish Cameron, but up here we are still playing in a weird mix of Stars Without Number and Microscope, which I always like forget to review all my rules before we start because like I just wanna start doing cool scenes, like I just wanna-- and we haven’t really had to do the Microscope like, uh, resolution stuff too much, we’ve gotten there a little bit, like we’ve talked a little about like “okay, is this a light scene or a dark scene?” But we haven’t-- we’ve just kinda talked out like “this is what I think would be cool” and I think we can keep doing that. 
+AUSTIN: So last episode was the second turn, and we pretty much focused on-- I’m pretty sure, I went back and listened and we kind of talked about what the Hands of Grace, the OriCon Expeditionary Group, the Consolidated Counterweight Technocracy, the Ethnologistical Committee for a More Prosperous Golden Branch, the September Institute, the Diasporatic Department of Material Resources: Slate Division, Lux Vox Data Research Center, and Liberty & Discovery Automatic Corps did. Um, if you remember like-- oh, and the Odamas Fleet and Snowtrak, who are kind of our centerpieces because Dre and Sylvia are playing them.
+SYLVIA: Because we like them!
+AUSTIN: We do. Hands of Grace, just to go over what happened with the main players, the player we looked at last turn, to remind people. Hands of Grace had that scene on Sage where Grace arrived-- Grace the Divine-- arrived, and there was a big parade.
+SYLVIA: Was the assassination attempt there?
+AUSTIN: Right, with the assassination attempt, of, was it on Grace’s candidate?SYLVIA: Yeah, Grace’s candidate, yeah. The name is slipping, I should probably get the character names up.
+AUSTIN: I have it… Vicuna, Vicuna. There was the scene with the September Institute where Twelfth, who is the the kind of like dean of the September Institute, was trying to convince, uhh, Loyalty, who is the divine of the planet Vox, to just kind of like “just listen, don’t worry about it, like, we’re gonna set up some forces there, you just chill, it’s cool. I’m gonna take more control over what you’re doing.” Um, I don’t super remember what happened with the-- I think a couple of these places just made money for their turn.
+SYLVIA: Yeah, a few of them did.
+DRE: Yeah.
+AUSTIN: We got to see Ibex, who is the candidate of the divine Righteousness.
+SYLVIA: I gotta do something with him today.
+AUSTIN: Yeah, we’ll get with him soon. He’s down in the kind of southwest of the map, working with the Liberty & Discovery Automatic Corps, and was kind of like spreading his kind of fingers out into other planets. Um, any other big scenes that we had from these other, from these basic groups? Uh, and then we had the Odamas Fleet stuff which was kind of a very personal scene of--
+SYLVIA: recruiting a new pilot
+AUSTIN (same time as Sylvia): --one of the survivors from Horizon Tactical, uh “recruiting” slash torturing--
+SYLVIA (same time): recruiting slash, like, you don’t really have a choice--
+DRE (same time): terrifying.
+SYLVIA: --it’s like you’re in or you’re out, and by out you’re dead.
+AUSTIN: And Snowtrak-- yeah. And Snowtrak uncovered Rigor, the uh-- an ancient divine. A very old divine. 
+SYLVIA: I think you might’ve straight-up said “the first divine”.
+DRE (same time as Sylvia): Did we call it the first?
+AUSTIN: Did I say it? I couldn’t remember if I actually said the first.
+SYLVIA (same time as Austin): You did say it was the first divine. 
+DRE: Yeah.
+AUSTIN: Well, the first divine. Rigor is the first divine. 
+SYLVIA: Which is the coolest shit.
+[Dre laughs]
+AUSTIN: Yeah, it’s pretty cool. We’ll figure out more about that stuff going forward, I’m sure. Some other little things, EarthHome helped pay for part of Snowtrak’s terrible truth. And then offscreen, I did some stuff in between sessions that will help figure-- you know, again, we have to kind figure out what the rest of those factions did off-turn [pause] I’m getting some breathy-- I’m getting some breathing?DRE: Yeah, me too.
+AUSTIN: Yeah, that’s okay. 
+DRE: You all this is exciting stuff we’re talking about. 
+AUSTIN: It is.
+SYLVIA: [sarcastically] Yeah, I know, sorry, I’m just getting really excited!
+AUSTIN: Okay, so--
+SYLVIA: [still sarcastic] First divine! Ah!
+[Dre and Austin laugh]
+AUSTIN: It’s definitely worth getting hyped on. Minerva Mining and Mechanics, speaking of getting hyped on things, [Sylvia laughs] Minerva Mining, their goal has been to do commercial expansion, and the way you do that is by taking out enemy wealth assets, but you can’t really say like “oh I want to attack a wealth asset”, you can just say “I want to attack this faction” and the faction has to defend with something. And so I had them attack EarthHome on Counterweight, and they attacked them with their commodity brokers, because this game is the best, and EarthHome defended with the organizational moles. Organizational moles are a thing that’s like, you can-- they’re moles, right, you can kind of like lock down enemy assets with them, which is really cool. And I just like the kind of narrative fiction of that, of just like, EarthHome showed up to kind of be like-- or sorry Minerva showed up to kind of like elbow in on EarthHome’s territory, and did that by just kind of like, presumably by buying and selling lots and lots of EarthHome goods, right, they just kind of flooded the market with like cheap, bootleg space Mickey Mouse shit? And EarthHome tried to defend it with organizational moles. And it was a wealth versus wealth attack, so I kind of imagine that like Minerva just kind of bought out the moles? Like, listen. We know. We know that you secretly report to EarthHome, here’s a bonus. Here’s your yearly bonus, it’s very nice this year. And you can just not worry about reporting back to them, just let us, you know, make these sales. And they defeated them, and so EarthHome lost the organizational mole asset on Counterweight.
+SYLVIA: They’re selling bootleg-- like the equivalent of bootleg Bart Simpson shirts but with Aria Joie.
+AUSTIN: Exactly. But with Aria Joie and Jace Rethal and like other heroes of the rev-- “heroes of the revolution” quote unquote. Uh, they’re basically selling Che shirts, right?[Dre laughs]
+AUSTIN: Except that EarthHome owns Che, so.
+SYLVIA: That actually reminds me of something that was at the beginning of our last episode that we didn’t mention, but we also did because of your little narration at the beginning find out that Addax is still around. 
+AUSTIN: We did, we did do that.
+SYLVIA: And is working for the, I believe the Rapid Evening, if I’m remembering correctly.
+AUSTIN: The Rapid Evening, who I’d like to see tonight. Here are the groups I’d love to see tonight: I’d love to talk about the Rapid Evening, I’d love to talk about the Apostolos Empire, um, and then we’ll see some other-- and, obviously your two factions, but like those are the two we haven’t seen at this stage, really.
+SYLVIA: So those are the two I actually want to get into as well--
+AUSTIN: Awesome. Perfect.
+SYLVIA: --and I, we can talk about this maybe when it comes to it, but I also wanted to bring up Jace because we know Addax is around.
+AUSTIN: We do know Addax is around, I’m gonna sit on Jace for a minute.
+SYLVIA: Okay, because I do have an idea for Jace, but I can talk to you about it off-recording.
+AUSTIN: We can talk-- we’ll talk off-record, or off-recording for it.
+[Dre laughs]
+AUSTIN: I have like a pretty firm idea about what Jace is up to right now.
+SYLVIA: Okay.
+AUSTIN: It is not like a-- of the questions I have about this universe, Jace is like one of the first things I figured out, I think.
+SYLVIA: Okay. Alright then.
+AUSTIN: So anyway, other stuff, other important stuff. Rapid Evening used-- they paid two to use their deep strike landers, which transferred, they transferred space marines from Torru to Sage, so they just have space marines on Sage now, that’s a scene we might wanna talk about, after--
+SYLVIA: Yeah, that’s a scene we probably wanna talk about.
+AUSTIN: So their goal right now is to, uh-- I also, just for the record I did change around some, one or two,  faction goals because I had written these goals before I really understood the system. And I didn’t change any goals that were like-- that people had worked toward, really, I changed goals that was like, one of the goals that the Rapid Evening had just made no sense for where they were on the map, like it was just impossible for them to do it, not only given like their size, but given just like the way the map is laid out. So I was like “I’ll just give them this one instead, this makes more sense.” Um, so, I had them move space marines onto the planet Sage because their goal now is Expand Influence, which they can do by building a base of influence on a new planet. So that’s what they were doing, and we can see the kind of fallout from that in this next turn. By the way the special thing the space marines and the special thing with deep strike landers is you can just do those, they’re not contested, they can move into, like, kind of contested territory without being-- without an oppositional roll, basically. Fairchild Research and Development bought some surveyors, their goal is to move onto a new planet also and spread their influence, presumably onto Gemm, which is one of the southern planets on this map that they don’t have a base of influence on currently. The Apostolos Empire bought post-tech infantry on Torru, where the Rapid Evening just moved theirs off of, so that could be interesting in this next episode. And then Horizon Tactical Solutions moved their strike fleet to Viish, which is where the Odamas Fleet used to call home? Or I guess, maybe they didn’t call it home, Tetrakol is where they called home, right?
+SYLVIA: Yeah, Tetrakol is like the base of operations, basically. 
+AUSTIN: Right they did, but like they did--you do--Viish does have a Tetrakol--or sorry an Odamas fleet--base of operations on it. 
+SYLVIA: Yeah, I believe actually in our last turn we moved to Viish, like--
+AUSTIN: Right. Okay. That’s where you’re at now.
+SYLVIA: Yeah, cause my faction’s just trying to make its way to Kalliope.
+AUSTIN: Okay, so maybe we’ll see another interaction between these two fleets.
+SYLVIA: Maybe.
+AUSTIN: We’ve seen that before once and we can come back around to that. So the other thing is that I planned and rolled out an EarthHome thing because I’d forgotten that we’d already done the EarthHome paying Snowtrak a credit thing from last scene. So I’m just gonna keep this and I think it’s a good one and I think it’s one we can narrate to the degree that we want to or don’t want to, uh but I already rolled it, so let’s just start th-- also I, the first thing we should do actually is I’m gonna set the income to where we’re at for everybody, one second here.
+SYLVIA: Also, did Dre and I introduce ourselves this episode? 
+AUSTIN: Oh you didn’t, I’m sorry, I’m the worst host.
+[Dre laughs]
+SYLVIA: No, it’s fine.
+AUSTIN: You do that while I update this faction credit stuff. 
+SYLVIA: I’m Sylvia, how’s it going? Follow me on twitter at captaintrash. [Austin laughs] That’s pretty much all I have. How are you, Dre?
+DRE: I’m good, I’m good. I’m Andrew, or Dre. Or whatever you wanna call me.
+AUSTIN: Lots of things.
+DRE: You can find me at twitch dot tv slash screen friends. I just played a lot of fallout 4 last night.
+AUSTIN: How far into it are you?
+DRE: Uh, well on stream we only got about two hours in, so we kinda like just got to the part where you start building in sanctuary. Um, off stream I’ve probably played another four, six hours today. 
+AUSTIN: Okay. Do you dig it?DRE: Yeah, I like it a lot. 
+AUSTIN: Nice.
+DRE: I just got to--I just kind of met the brotherhood faction, the brotherhood of steel faction. And I got to big diamond, met Piper.
+AUSTIN: Nice.
+DRE: Gonna get into some newspaper shenanigans, hopefully. 
+AUSTIN: All sorts of shenanigans. She’s good. I like a lot of the characters in that game a whole bunch. 
+DRE: Yeah. There’s really good characters. They’re still really bad at making faces, Bethesda is. But uh--
+SYLVIA: Okay, I’m glad they didn’t get away from their roots. 
+[Dre laughs]
+AUSTIN: No, no they know what they--yeah. I’m 65 hours in, and--
+SYLVIA: God. 
+AUSTIN: There are… lots of bad faces.
+SYLVIA: I’m not gonna be able to play it for like a month, so just tell me, is the voice-acting still at Bethesda levels?
+DRE: It’s real hit or miss.
+AUSTIN: Yeah, when it hits, it hits in a way they’ve never hit before.
+SYLVIA: Okay.
+AUSTIN: Most characters have unique voices, there are not that many major--like, there are more major characters than there used to be, like I--I’m trying to think of how many companions I have now. I must have six or eight companions, and then each of those companions kind of have a cast of characters around them that tend to have unique voices.
+DRE: Yeah.
+SYLVIA: Cuz I just miss the like, eight voice actor days of Oblivion.
+[Dre laughs]
+AUSTIN: Yeah, it’s not that anymore, it’s so different.
+SYLVIA: ??? [timestamp 14:38]AUSTIN: I got to a place called Good Neighbor like 30 hours ago or something, I was gonna say the other day, but no it was a while ago, and there were um-- the guards in that place all say the same thing but have different voice actors. 
+SYLVIA: That’s pretty cool.
+AUSTIN: Which is a smart way to hide that because I probably went through that place for like five or six hours without realizing they had the same dialogue, because, like, oh, I’m not talking to these random guards, so when I do,  I’ll get a different sample. It took a while before it looped. Anyway.
+DRE: Anyway.
+AUSTIN: Fallout 4. This is not a Fallout 4 podcast.
+SYLVIA: Sorry.
+DRE: It could be.
+AUSTIN: By the time this comes out I’ll probably have a piece up on giant bomb dot com about Fallout 4, so, go read that if you’d like to. But first, let’s talk about the Golden Branch Sector.
+SYLVIA: Yeah.
+AUSTIN: And what’s going on.
+SYLVIA: What we’re here to do. The important stuff.
+AUSTIN: We are here--exactly. So one important thing is that in turn 3, EarthHome Entertainment, this is the thing I did before the game started, they used their marketers ability on Minerva’s commodity brokers. So this is kind of like a firing back after Minerva came after them. Marketers says--hold on let me find it here.
+SYLVIA: Isn’t that the one where you take fac cred for them, you can take money--
+AUSTIN: No, it’s like so much worse than that.
+SYLVIA: It’s so much worse than that? Okay, I must be thinking of something else.
+AUSTIN: There is one of those like that. I think that might be monopoly. Marketers says “Marketers can be deployed to confuse enemy factions into untimely investments and paralyze them with incompatible hardware and software. As an action, the marketers may test cunning versus wealth against a rival faction’s asset. If successful, the target’s faction must immediately pay half the asset’s purchase cost rounded down or have it become disabled and useless until they do pay. And so, EarthHome used their marketers ability on Minerva’s commodity brokers successfully, and so Minerva had to pay ten to EarthHome.
+SYLVIA: Jesus.
+AUSTIN: Because commodity brokers cost twenty. Uh, or else the asset is rendered unusable, Minerva pays. So I really like this image, too, of like last turn Minerva floods the market with counterfeit EarthHome goods--or you know, maybe not even counterfeit, right? Like maybe they did a thing where they bought up a ton of EarthHome stuff for distribution widely, but then only distributed it--flooded the market on Counterweight, so everything was just dirt cheap… and then here, the follow-up-- I like the counterfeit thing too, though. I kinda dig--
+SYLVIA: Maybe like a mix of both.
+AUSTIN: Yeah, totally. It’s a multifaceted strategy. EarthHome uses their marketers to talk shit about Minerva’s commodity brokers. So this month EarthHome put out a bunch of movies about shitty commodity brokers. Like,
+[Dre laughs]
+SYLVIA: Oh my god.
+AUSTIN: EarthHome is releasing basically the equivalent of stories about cyberpunk heroes going against megacorporations. But the megacorporation is just a stand-in for Minerva, right? It’s just like Artemis Artifice instead of Minerva Manufacturing, you know? And it’s just brutal. And they win, right? So it’s like, alright fine, we’ll stop putting out this dope TV show or whatever once you pay us off. 
+SYLVIA: Fine, we’ll cancel Mr. Robot.
+[Dre laughs]
+AUSTIN: Right exactly, that’s exactly it. They released Mr. Robot and then Minerva called them up and said “Listen,” and like, alright, fine, cancelled.
+DRE: You gotta fuckin stop this.SYLVIA: We love Rami Malek, he’s great, but you gotta stop this.
+[Dre and Austin laugh]
+AUSTIN: So let’s not do a zoom-in on that because we’ve gotten so much EarthHome and so much--
+SYLVIA: I do really love EarthHome but yeah.
+AUSTIN: Me too. 
+SYLVIA: We’ve gotten a ton out of them.
+AUSTIN: I wanna make sure we spend our time with some places we haven’t seen too much.
+SYLVIA: Yeah.
+AUSTIN: Previously. So let me, um, let me make sure that that’s marked. Here’s what I’m gonna do from now on is on the faction tracker, I’m gonna put an X on any faction that we’ve definitely already done this turn. Here, okay. You wanna go right to the Rapid Evening?DRE: Yeah, let’s do that.
+SYLVIA: Hell yeah.
+AUSTIN: Let’s talk about them a little bit, because we haven’t--they’re probably the biggest--
+SYLVIA: Mystery.
+AUSTIN: --pure mystery I think in the game right now.
+SYLVIA: We absolutely haven’t touched them at all.
+AUSTIN: Totally. They’re not even in--
+SYLVIA: We’ve mentioned them, but we haven’t even touched them in any form.
+AUSTIN: Right. They’re not even listed in the Counterweight-level player known factions list. The only place they’re listed is I kind of described them in one of the different documents that I have on my side. So they’re mostly set up in the northeast of this map, and for the people who listened way back to the very beginning of this game, they’re the faction that lives on this planet called Ziishe, and then like southeast of that is a planet called Kesh, and Kesh has like no technology. Kesh is like tens of thousands of people, who have nineteenth century technology and they’re literally next to this group of super tech aliens. “Aliens”, quote unquote. And as always, we kind of use aliens to mean people who like, originated from non-human ancestry, but who are basically at this point people. Right? 
+SYLVIA: Mmhm.
+AUSTIN: Though I haven’t really figured out what--what’s behind the Rapid Evening yet, I don’t know what the leadership structure here is, but, what it basically is, and this is what I’ve written down in the--there’s a thing that we use in the Counterweight-level of game called the transmission, “The Rapid Evening: no longer content with watching the Golden Branch Sector from their coreward perch, the Rapid Evening seeks to limit civilization’s access to dangerous technologies.” They’re kind of like space Men In Black. They’re kind of like Men In Black except they don’t--it’s not just about like “oh, what’s happening here on our planet?”. It’s very much about what’s happening throughout the local sector. 
+SYLVIA: My mental image of them were basically like the--they’re like the people who work for the Smoking Man in X-Files? 
+AUSTIN: Yeah, there’s definitely a little bit of that there.
+SYLVIA: They’re always one step ahead of the people and they have all this knowledge about stuff that people really shouldn’t.
+AUSTIN: Totally. Uh, Dre were you gonna say something?DRE: It’s just I don’t wanna get too Fallout-y but it sounds like Brotherhood of Steel a little bit.
+AUSTIN: Yeah, definitely a little bit of Brotherhood of Steel here too, very much like we are very concerned with that. Except, it’s like a mix of the two, right like, they definitely have some high-tech stuff, looking at their assets here, they have um--let’s take a peek here, right there at the top, because it’s “The Rapid Evening” in quotes, because I think that they have a--it’s the closest translation we have, right? It’s like something like “the rapid evening”, I think it’s probably one word in their language. But they have some really dope stuff. They have some regular stuff like monopoly which is a kind of wealth asset that lets them do some cool stuff, and planetary defenses, and popular movements, and then they have two units of space marines which are really tough force assets, and I kind of conceive of these not just as like, a battalion of space marines, but kind of like--I imagine there aren’t that many of them, do you know what I mean? Or maybe they’re actually a lot like space marines in the 40K sense, where like, if you think about something like, what’s the second--Dawn of War, the Dawn of War games, where like--especially Dawn of War 2, where it’s like you have four space marines and you just take on as many other people as you want.
+DRE: Yeah, yeah.
+AUSTIN: It’s just like a complete--even though there’s only a few of them, they completely outmatch most other factions in terms of military prowess. In that way they’re kind of like a weird mix of divines and riggers? Where it’s like there’s only a few them, the way riggers move in groups, but it only takes a few of them to take down a divine. 
+SYLVIA: Yeah, I was gonna say, they’re sort of like advanced riggers, basically?AUSTIN: Yeah, they like--[sighs]
+SYLVIA: Do they have any mecha?AUSTIN: I think they have mechs at their--[sighs] I guess if we want them to they can have mechs at their--
+SYLVIA: I’m just wondering the specifics of this, like is it just a dude in power armor?
+AUSTIN: No, I don’t think it is. I don’t want it to be space marines, do you know what I mean? Like the aspect is called space marines--
+SYLVIA: That’s why I’m asking. 
+AUSTIN: I definitely almost have--in my mind, the analogue I was trying to make with them was--for people who listened to the first season, there’s the holiday special where the--Victoria Lake and Solomon--
+DRE: Yes!
+AUSTIN: --whatever her last name is from the Golden Lance show up, 
+DRE: Uh, Solomon Crow.
+AUSTIN: Sol--right. They show up and they’re like “Yo. Get ready, because we have stuff that y’all don’t have.” 
+SYLVIA: Yeah, okay. 
+AUSTIN: And this is where we can get as super-tech as we want, right? There’s a thing that’s going to come into play in the next Counterweight low-level game, and I have some ideas about what it does beyond like “it’s a McGuffin; it’s a McGuffin that people want”, but like, it can do whatever. It can do whatever. This is the super-scienciest super science stuff. So it almost doesn’t even feel right for it to be--
+SYLVIA: So maybe we shouldn’t even define what it is then, just say that they have--
+AUSTIN: Maybe, but I kind of wanna see it in action, here or there.
+SYLVIA: No, I don’t mean the orb, I mean the space marines.
+AUSTIN: No no, that’s what I mean, I mean the space marines. I mean like I kinda want a scene with these space marines in the next, like, maybe now.
+SYLVIA: Oh no, I think we should definitely lay out some like groundwork but we could always have it be sort of nebulous, like, maybe they’re not always in mechs, maybe they’re not always on foot--
+AUSTIN: Yeah, I wanna look at these people and see how they are as people. 
+SYLVIA: Totally.
+AUSTIN: The other thing is that we’ve also seen them as--we’ve also seen them through Addax Dawn at the beginning of the last game. And Addax is a former Diasporan candidate, so we know that the Rapid Evening brings on people from other civilizations into their ranks, so who even knows what the original Rapid Dawn--or sorry, Rapid Evening--group is, “Dawn” is Addax’s new last name. So, yeah, it’s--it can be a big mish mosh of people. There’s definitely a US Marshals, old-timey Western thing I’m trying to go for them a little bit?
+SYLVIA: Okay.
+AUSTIN: So there should be this weird blend of very well-organized--or very well-resourced--but also kind of independent. Like moving in cells.
+SYLVIA: They have something to answer to but they’re also allowed a level of independence as long as they go towards the overall objective of order?AUSTIN: Totally. So some Spectre in there too, obviously. 
+DRE: Yeah.
+AUSTIN: Obviously, like you do. Um, so the thing that they’re looking for right now, their g--sorry, I was going over their assets. They also have on their home planet, a thing called the panopticon matrix. 
+SYLVIA: It’s so cool.
+AUSTIN: Which is really good, it’s really good.
+SYLVIA: It’s so cool.
+AUSTIN: It says: “Panopticon matrix facilities: We’ve braked AI intelligence analysts into a web of observation, capable of detecting the slightest evidence of intruders in our world. Every rival stealthed asset on our planet must succeed in a cunning vs cunning test at the beginning of every turn or lose their stealth, the owner also gains an additional die on all cunning attacks and defenses on that planet.” So it’s just like don’t fuck with Ziishe, like, no. You can’t get people onto that planet without being seen. I think they also--do they also have book of secrets?SYLVIA & DRE: They do.
+AUSTIN: Book of secrets…book of secrets says “Book of Secret assets represent exhaustively catalogued psychometric records on important and influential local figures, allowing uncanny accuracy in predicting their actions. Once per turn, a book of secrets allows the faction to reroll one die for an action taken on that world, or force an enemy faction reroll one die. This reroll can only be forced once per turn, no matter how many book of secrets are owned.” Uh, and is that also on Ziishe?SYLVIA: That’s on Kesh.
+AUSTIN: That’s on... Kesh. Okay. That’s good. Right, that’s the thing that’s kind of like, in my mind that’s part of what’s locking down the people on Kesh. 
+SYLVIA: I was gonna say. That helps them keep control of Kesh. 
+AUSTIN: Exactly. And again, it says book of secrets but really it’s just weird supersoftware, super-scifi supercomputer. So their goal is to expand influence, is that correct? Check faction tracker...yeah. Expand influence. And they recently, in the last turn, they moved people--they moved one of their space marine forces onto Sage, the planet where we had a scene at last time, where Grace is at right now. So I kinda want a scene of--in fact like, maybe now we know. Because the last episode included that assassination attempt.
+SYLVIA: I think now we know who was trying to do it.
+AUSTIN: Yeah, was the Rapid Evening behind that assassination attempt? 
+SYLVIA: I think…
+AUSTIN: Do we like that or dislike it?
+SYLVIA: I’m… I’m just trying to figure out what their motivation behind it would be.
+DRE: Yeah, I like it but I think we need to justify it.
+SYLVIA (at the same time as Dre): I like it but we need a motivation.
+AUSTIN: Do you think it’s about pruning? I kind of see it as like, it’s good that the Hands of Grace had left Sage to be alone. Like, is it as simple as like, there’s a quota: Garden is allowed to have supertechnology on it, Sygillia is allowed to have supertechnology on it, Sage can’t, they already have two in that region. Like we can’t let--
+SYLVIA: I don’t think they--didn’t they not leave Sage, but they had Sage sort of on lockdown, the Hands of Grace now?AUSTIN: No, no.
+SYLVIA: I thought that’s what we were gonna do.
+AUSTIN: So they didn’t--Sage is...right, right right, but I’m saying that was like the attempt. What the Rapid Evening was trying to achieve was like, if we can just cut the head off this thing before they can really stick around it will break the spirit of the people and then the Hands of Grace will just back the fuck off, because Grace will have lost her candidate, and there will need to be a new process--a new election, for a new candidate.
+SYLVIA: Yeah, and I think also we could have an aspect of that also being trying to keep the divines under control.
+AUSTIN: Mmhm. Exactly, like that’s the thing, is like they’re not looking to--that’s what maybe separates the Rapid Evening from the Brotherhood of Steel--it’s not like we need to have and control the technology, it’s like alright, who has it, let’s keep record of it, let’s make sure it doesn’t grow out of control by--again, I like the image of pruning. You know.
+SYLVIA: Yeah. It’s a regulation.
+AUSTIN: Exactly. So maybe--[sighs] the thing that they need to do now is establish a base of operations on the planet, I think--a base of influence, rather. And to do that, there is a move. Not a move, this isn’t--this isn’t an Apocalypse World game, but. Let’s go up to the establishing a base of operation thing. “Expand influence: your action buys a base of operation asset on a planet on which they have at least one other asset. The faction then rolls 1d10+cunning rating against similar rolls by every other faction on the planet. Any of the others that equal or beat the faction roll may make a free immediate attack on the base of influence if they wish.” So it’s like the Hands--or sorry, the Rapid Evening will make a 1d10+cunning, and then--I think the only other people on--is the only other people on Grace--or on uh, Sage, is that the Hands of Grace? Does anybody else have an asset on Sage… [typing sounds] [sigh] I don’t think so.
+DRE: No. Just Hands of Grace.
+AUSTIN: So they’ll make a contested 1d10+cunning rolls, and then if the Hands of Grace equal or beat the Rapid Evening’s roll, they may immediately attack that base of influence if they wish. Other assets present on the planet may defend against the attack as normal, the base of influence cannot be used until the beginning of the faction’s next turn. So yeah, it is just a 1d10. And buying a base of influence, the way that works is you, uh, it is a special-- “Bases of influence are special, and are required for purchasing or upgrading units on a particular world. Any damage done to a base of influence is also done to a faction’s hit points, the cost of a base of influence equals its maximum hit points, which can be any number up to the total maximum hit points of its owning faction, a faction’s base of influence doesn’t count against its maximum assets.” So you buy a base of influence, and I think it’s just however much you spend on it is how much--that’s how many hit points it gets. So let’s do that versus roll. Uh, the cunning of Rapid Evening, I think is 8. 
+DRE: It is. And Hands of Grace is 7.
+AUSTIN: So it’s a 1d10 plus--I’ll make the Rapid Evening roll.
+DRE: I’ll do Hands of Grace. 
+AUSTIN: [typing sounds] Sounds good. 1d10+8. Ooh, bad roll.
+DRE: Ooh, buddy.
+AUSTIN: That’s a bad roll. That’s a 9.
+DRE: And Hands of Grace gets a 13.
+AUSTIN: That’s pretty good. Wait, one second, I wanna make sure--I wanna double check the, uh--there are tags. So Hands of Grace have theocratic, and Rapid Evening has perimeter agency. Theocratic says “Once per turn this faction can roll an extra 1d10 when defending against a cunning attack.” So that doesn’t come up here. And then perimeter agency has “Once per turn this faction may roll an additional d10 when making an attack against an asset that requires a tech level five to produce”. So that doesn’t come up here either. Alright, so that means they can immediately make an attack on this base of influence. Which will be--well, also, they should spend. Uh...I think the Rapid Evening is gonna go broke buying this base of influence. They’re gonna spend 15 points, which gives them--
+DRE: Woo!
+AUSTIN: a 15 base of influence on Sage. And 15, okay. So, what does Sage have there--and then like this is definitely the scene. So is the only thing on Sage Grace itself?
+DRE: Yeah, it’s the capital fleet.
+AUSTIN: Oh boy, okay.
+DRE: Yep! Fuck.
+AUSTIN: So let me make this roll and then we’ll see…so the capital fleet is force--
+SYLVIA: That’s Grace, isn’t it? That isn’t--AUSTIN: Yes. That is the divine herself. And it’s attendant ships, there’s only like a couple, but, but--maybe like three, something like that.
+DRE: Yeah.
+AUSTIN: So it’s a 1d10+force, whatever Grace’s force is-- 8?SYLVIA: Yep.
+AUSTIN: So it’s force vs force?SYLVIA: The Rapid Evening is 7, so it’s the same rolls as last time, just flipped around.
+AUSTIN: So do you want to do the attack roll, Dre, since you’re rolling for the Hands of Grace right now? 
+DRE: Sure.
+SYLVIA: Ooh.
+AUSTIN: That’s a 15.
+[pause]
+EVERYONE: Oh!
+AUSTIN: 17. Rolled a 10 from the Rapid Evening. So that means that they win the fight.
+DRE: Yeah they do!
+AUSTIN: And then they get to do a counterattack, if the space marines have a counterattack. They do. 2d8 counterattack. 
+[Dre laughs kind of in fear]
+AUSTIN: (under breath) Jesus. [typing] Seven. That’s not bad, that’s not bad. So that means that Grace gets hit for seven. 
+SYLVIA: Yeah, like they put a dent in a divine.
+AUSTIN: In a divine, which--
+SYLVIA: Is a big deal. 
+AUSTIN: Which should be pretty--yeah, so let’s zoom in on that and talk about that from someone’s perspective, we’ll figure out whose. Uh, lemme reduce the capital fleet. It goes from 30 down to 23, which is still pretty good, you know. All said.
+DRE: Yeah.
+SYLVIA: Oh it’s still like, fine.
+AUSTIN: Still one of the strongest things in this setting.
+SYLVIA: I mean it’s like, um, anybody there just saw a god get injured, pretty much.
+AUSTIN: Right. So where did this happen? Let’s think about the exact order of operations here. It’s the Rapid Evening setting up a base of operations, Grace figuring that out and making an attack and then being driven off?
+SYLVIA: Yeah, well, last time we played we saw that Grace had some level of telepathic abilities. 
+AUSTIN: Yeah we did.
+SYLVIA: SO Grace could’ve used that, or maybe they--either that, or I could see the Hands of Grace having captured someone who was trying to assassinate Vicuna.
+AUSTIN: Sure, we even have that character, right? We have--SYLVIA: Oh, what’s her name?
+AUSTIN: Kira, Kira Voight. 
+SYLVIA: Yeah, Kira.
+AUSTIN: Is she the one who took the shot?
+SYLVIA: I believe we said she took the shot.
+AUSTIN: So yeah let’s--Kira Voight.
+SYLVIA: And I feel like the Rapid Evening would train their people not to talk, but because Grace has that telepathy. 
+AUSTIN: I kind of like this scene as--unless someone else wants to play as Kira, I’ll continue playing as Kira.
+SYLVIA: Okay.
+DRE: Okay.
+AUSTIN: And we need someone playing as Vicuna, who is Grace’s candidate… or not, or whatever, we could have something else. The thing I’m thinking about is maybe this is a--because it’s the Rapid Evening’s side, it’s a light scene, which means they get the outcome they want, it’s a positive outcome for them. Maybe it’s about--this is like--this is Kira being rescued from a Hands of Grace facility. Or escaping, and like not succumbing to Grace’s power. 
+SYLVIA: So it’s less of an attack on the base of influence of the Hands--of the…
+AUSTIN: Rapid Evening.
+SYLVIA: Rapid Evening! Sorry I’m--
+AUSTIN: I think it’s like, they got her--
+SYLVIA: They got her.
+AUSTIN: They track her down, they get her, and are like in the jungles of Sage trying to track down their base of operations, you know? And they fail to do that. They notice it, right, so again--
+SYLVIA: So they know they’re there.
+AUSTIN: They won the [?? - 37:08], they know they’re there, and capturing Kira is part of that. But then they fail to make that attack, and end--and I think we just jump into there and figure out how Grace gets injured along the way.
+SYLVIA: Yeah, and I think part of them knowing they’re there is the Rapid Evening sort of showing their hand a little bit, by mobilizing to get Kira.
+AUSTIN: Totally. 
+SYLVIA: So like, we see some of their abilities there.
+AUSTIN: Right. Okay so do you think Kira is being held on the planet or do you think she’s been brought to space? Do you think Grace is--where do you think this is happening?
+DRE: Space is cooler.
+SYLVIA: I was gonna say because they don’t really have a base on Sage, they’d probably take her to one of the ships.
+AUSTIN: I kind of like that. I kind of like her in a--again, this is up to a month after the last scene that we saw on Sage--and we’re in, the kind of like, the capital ship of the capital fleet, that the--obviously it pales in comparison to Grace herself, but it’s still like where the majority of Diasporan humans are in this group. I think it’s super--we haven’t seen much of their technology that isn’t the divines yet, I think it’s, uh, I imagine it being a little bit cleaner Star Destroyers are? A little bit more, um, automated? A lot sleeker, a little bit like the Darth Maul ship in episode I.
+SYLVIA: Okay.
+DRE: Okay, yeah.
+AUSTIN: But bigger, yeah? Chromed out, right?SYLVIA: I was picturing like, super chrome but also little streaks of gold through it to echo how Grace looks. 
+AUSTIN: Totally. You know I think they look like? There’s a faction in Eve Online called the Amarr, who are this super religious, super theocratic faction. If you just do a search for Eve Amarr, you can get a bunch of ships from them. Very like, again, it’s like chrome and gold.
+DRE: Oh, yeah.
+AUSTIN: Beautiful, curved, powerful--
+SYLVIA: Oh yeah. This is exactly what I was thinking.
+AUSTIN: --ships. They have really cool stuff. And I imagine this kind of like, there’s an interrogation chamber, that is like--there’s a huge window or display screen that shows Grace in kind of synchronous orbit herself, like, in the distance. It’s not that she’s separate from this conversation, it’s that like, that’s the distance at which she watches and interacts with this sort of thing, right. In fact maybe this is--maybe this isn’t an interrogation chamber, maybe this is the room where people on the ship go when they want to speak with Grace. 
+DRE: Yeah, and like commune with her.
+AUSTIN: And maybe Addax--not Addax, Vicuna, who I think we described as fairly small and dark, is in the room. 
+SYLVIA: Yeah, she was like--we said she was like a 16 year old?AUSTIN: Yeah, a 16 year old, I think I described her as being pretty severe? 
+DRE: Yeah.
+AUSTIN: Very, like judgy?
+SYLVIA: She didn’t even sympathize with--she didn’t even react to a guy dying on top of her. She just shoved him off and got to--
+AUSTIN: --and got to work, basically, right? So yeah, I’m gonna play as Kira, who again is a 70 year old former leader in the bureaucracy of Sage. Someone else wanna be Vicuna?SYLVIA: I could, I have an idea for another--
+AUSTIN: Or does someone wanna be Kira, either. Like I’m not locked into being her.
+DRE: Well, yeah.
+SYLVIA: I could be pretty much anyone, I just have an idea for a character from the Rapid Evening I kinda wanna do.
+AUSTIN: Totally.
+DRE: I’ll do Vicuna, then, so you can do that.
+AUSTIN: Okay, you do Vicuna, I’ll do Kira, and we start on Kira and Vicuna--where is the Rapid Evening force, is it like someone who’s gonna break in through the--?SYLVIA: Yeah, I’m thinking they like--I think they might have like a stealth ship or something?AUSTIN: Totally.
+SYLVIA: --that allows them to board, they’re able to board on there. 
+AUSTIN: Awesome. 
+SYLVIA: And I just have an idea for the captain of this small unit.
+AUSTIN: Awesome. Let’s do that. Let’s do a conversation between Vicuna and Kira with cut-ins from your character. What is--let’s make, let’s add a legacy here. 
+SYLVIA: Yeah, so, the name that I just sorta put together was Tetsuya Mori, M-O-R-I. And he’s sort of like, very military, like the way I’m kind of picturing him is that he’s not super old, he’s like 30, but he looks older because of the amount of shit he’s seen? Like it’s really visible in his eyes and his expression that he knows things that people typically don’t know.
+AUSTIN: Sure.
+SYLVIA: And he’s very like, he’s a bigger guy. He’s got that sort of musculature that’s all functional muscle. 
+AUSTIN: Sure. 
+SYLVIA: Where like typical people would think he’s chubby but it’s all muscle. 
+AUSTIN: Awesome.
+SYLVIA: Also he’s very severe. He’s like a weird parallel to Vicuna in a way.
+AUSTIN: Nice. Let’s kick off with Vicuna, who’s like--I don’t know. You tell me, Dre.
+DRE: [sigh] I feel like I have a good end to this conversation and now I’m trying to work backward to the beginning of the conversation. 
+AUSTIN: Sure. What’s the good end to the conversation? That’s the beauty of this format, is like, we can just jump around.
+DRE: Yeah, I think it’s like, Vicuna, and by extension Grace’s, objective here is that if they can’t directly break into this person’s mind, they’re trying to impact just tons of doubt within themselves to try and kind of get them to confess. So if they can’t do what they normally do, which is just try and get them to come around, through this kind of--I think we saw it last time with Grace, and the way she interacted with some of the folks there, this kind of like, this very like, forgiveness and sympathy? That also comes off as sort of dark and creepy? 
+AUSTIN: Yes, totally. She’s sending out vibes of that sort of like, you’re within--almost like, vaguely parental? Where it’s like “I’m not mad at you, I’m just disappointed.”DRE: Vicuna’s mad at them
+AUSTIN: Right. Right.
+SYLVIA: That’s definitely the vibe I got from Grace the last time we played. I think we talked about how they* almost put on a mothery air.
+AUSTIN: Yeah, to work on people. We can definitely get there. You know, I think that that’s--Again, like, this is kind of the opening scene of our HBO special, or our HBO series, however this episode is probably… the end of this exchange? Right, where Vicuna and Grace are in that lecture mode and Kira is just like “nah”, and then we get a shot of the stealth ship pulling up. ANd then like later in the episode it comes back to the beginning of the conversation. I imagine Kira, like, being tossed down into--or, not tossed--placed by some other officers into a chair looking out onto the planet, you know, with the sun in the distance and with Grace in between the two. And then Vicuna, almost up on like a shelf--not a shelf, but like a higher level of this room, you know?SYLVIA: Like almost literally on a pedestal?AUSTIN: Almost literally. But it’s not a pedestal, there’s a whole other layer to this room. THis room has layers, Jerry. 
+[Dre laughs]
+AUSTIN: Also Kramer is a Diasporan, for sure.
+SYLVIA: Okay. No yeah that makes sense.
+AUSTIN: What’s Vicuna’s stance like, Dre?DRE: She’s probably not even--she probably has her back turned to her. 
+AUSTIN: Nice, nice.
+DRE: Yeah, like she’s not--this person isn’t important enough for her to look at. 
+AUSTIN: Right.
+DRE: If this is someone who misses a wide open shot with a sniper rifle, what does she have to lose by keeping her back to her?
+AUSTIN: Mmhm. I think Kira might even talk first, she says,
+AUSTIN (as Kira): Well what did you drag me here for?”
+DRE (as Vicuna): I hope for your sake that you got the money up front.
+AUSTIN (as Kira): Oh, I did, I did. Never miss a paycheck, never miss a paycheck.
+DRE (as Vicuna): At least there’s one thing you don’t miss. 
+SYLVIA: Ooh!
+AUSTIN: Kira smirks.
+SYLVIA: Sorry. 
+AUSTIN: Yeah, yeah.
+[Dre and Sylvia laugh]
+AUSTIN (as Kira): Don’t worry your pretty little head, there’ll be other guns.
+DRE (as Vicuna): It’s curious, you know. Grace usually has a way with most people. You seem different.
+AUSTIN (as Kira): Gods don’t work so well when you don’t believe in them.
+DRE (as Vicuna): I wonder if you are so dark that not even Grace can see your light. What do you tell yourself?AUSTIN (as Kira): It’s funny from my perspective. I look out there, and I see Grace, and I see that she was intruding on the light of others, actually. You see, if she can’t see my light, it’s not because it doesn’t shine bright enough, it’s because it shines more brightly than hers. She is a candle in the sun. Now are you gonna kill me, or what?
+DRE (as Vicuna): You would think that way. Things are not so simple.
+SYLVIA: I wanna say like when she says “things are not so simple”, I feel like this conversation would be overlayed with shots of Mori’s crew getting ready, and like, there’s like little incidental dialogue being heard underneath, saying that they’re in position and they’re waiting for the go-ahead.
+AUSTIN: Yeah. Does the ship come out of stealth in the way that we think of coming out of stealth in sci-fi movies or is it something different?SYLVIA: Um, I think it just--probably a little bit? I don’t think it’s coming out just yet, I think this is like a shot of a few soldiers--
+AUSTIN: Gearing up?SYLVIA: Arming themselves, gearing up. And like--yeah pretty much like, it’s not there yet. One of the--I said little bits of incidental dialogue, so one of the things would be like, Mori, over a radio, being like “Straylight 1 is almost in position. Give me the go-ahead.”
+AUSTIN: Yeah.
+SYLVIA: And like, I think, I’m not seeing it as a small stealth cruiser. Because we have to actually actually damage--like you said, we have to damage a divine, I think they have some of these mech suits ready to go on this ship. I think this we have people getting those ready, and then people getting ready for a boarding crew.
+AUSTIN: Okay. I’m thinking a lot about what the control mechanism is for these mechs, because right now what we have is like--you know, there are different types of riggers, where Aria’s Brilliance is controlled with just thought via her neural input stuff, we have the Snowtrak mechs, or the riggers, which tend to be suits that you wear, and then it’s just like you move your arm, it moves its arm. And then the divines have a weird thing that’s almost beyond neural connection, where it’s not just like--it’s its own being that is doing its own movement in some ways. So I’m curious what the mechs look like for the Rapid Evening. 
+SYLVIA: I think these like, in a control standpoint, they take a lot of skill to use.
+AUSTIN: Okay. So these are not--
+SYLVIA: So they’re not--like there is a level of neural interface there.
+AUSTIN: Right. But they are control systems. 
+SYLVIA: they’re also just control systems. I’m actually picturing almost like a holographic control system that they use their hands to interact with.
+AUSTIN: --to manipulate.
+SYLVIA: And like, you can slide it around and stuff like that just to do things with it,
+AUSTIN: Yeah, I like that a lot.
+SYLVIA: Because these are really advanced machinery, that they’re using.
+AUSTIN: Do you think there’s even an element of, to lift directly from--I feel like it was Gundam Double Zero, maybe it was Double Zero--oh no I’m sorry it isn’t Double Zero, it’s--
+SYLVIA: I was gonna say, because I watched Double Oh.
+AUSTIN: It’s SEED. In SEED, Kira is constantly, like, literally reprogramming the Gundam. Right, like?SYLVIA: Yeah!AUSTIN: Literally like, it’s all about programming AI routines, and programming algorithms to do stuff.
+SYLVIA: I think there definitely is an aspect of that, yeah.
+AUSTIN: Where like, it’s not--that’s the thing with technology this powerful. It isn’t just like--especially given their ethos, right like, nonono, you can’t just have this thing do the thing you think your brain wants it to do, everything is constantly in this kind of restrained mode, where--
+SYLVIA: You need to be in control of it completely.
+AUSTIN: --you need to be in control, exactly. So it’s all about programming leashes, and then pulling on them and making sure that you’re giving just enough give, you’re letting the algorithms do just enough but also not too much. I kind of like that a lot. It also lines up with them being controllers of knowledge, to see them doing like, weird holographic typing and moving stuff around.
+SYLVIA: Yeah, you can only handle one of these if you were trained by the Rapid Evening.
+AUSTIN: Totally. I wonder if there’s also some collaborative stuff where it’s like, a wing of three or four of these, where it’s like, yeahyeahyeah, I’m controlling mine, but also, you know, Bill is in control of our wing formation, you know. So it’s almost like it’s a ship of its own.
+SYLVIA: There’s a link between them?AUSTIN: Yeah. I kind of like that as a notion too.
+SYLVIA: I really like that too.
+AUSTIN: I’m also now like completely on board with “what if Eve’s Amarr had mechs?” because I just want mechs that look like this so bad.
+SYLVIA: Yeah.
+AUSTIN: Again, you can just look those up, look up the Amarr ships on Google image search. Um, okay, so then back to--
+SYLVIA: Back to you guys.
+AUSTIN: --to the interrogation. 
+AUSTIN (as Kira): So what do you want with me if you’re not gonna kill me, hmm? Because you know I’m not gonna break. And what are you looking for anyway? Are you really surprised that the people of Sage aren’t taking kindly to the arrival of her highness?
+DRE (as Vicuna): You think so small. You say that you are a sun to the Grace’s candle, what you don’t understand is that she is the sun. She is greater than the sun, there aren’t words to describe her light, but sun will do. And you are just a moon, passing in front, temporarily obscuring some her shine, some of her brightness. And you take pride in that, but it is fleeting. So I’m not here to kill you, I’m not even here to torture you. Those things are also fleeting. We have plenty of time.
+AUSTIN: Kira, I think, takes kind of a relaxed stance, and says,
+AUSTIN (as Kira): Every moment you waste interrogating me, is a little victory for us. So take your time. 
+SYLVIA: Okay. I think that’s a good point, where like right before Vicuna’s about to respond--the way I see them unstealthing is there’s just a little blip, and then one of the mechs is there. [Austin laughs] And then another, and another and just four of them surround Grace?
+AUSTIN: Nice.
+SYLVIA: And then there’s an explosion on the ship and the boarding crew is there.
+AUSTIN: Nice. 
+SYLVIA: And like, it’s just complete chaos, and like before anyone can respond, Mori’s got his hand on his, like, little communicator thing, and he’s just like,
+SYLVIA (as Mori): Straylight 1 to Moonrunner, we’ve boarded, please show them that their god is mortal.
+[Austin laughs]
+SYLVIA: And then, there’s just this coordinated strike, you see a small beam come out of each of them, and then there’s just this blast and Grace’s arm is gone.
+AUSTIN: From the--I like this too because Vicuna is already looking out at Grace.
+SYLVIA: Yeah.
+AUSTIN: I think from the interrogation room, the kind of almost throne room, it looks almost as if the sun is firing the beam. Right like, they’re surrounding Grace from different angles, and I almost like--the light starts at each mech, and then there is--the light circles Grace for a second, almost like a glare, and then from the--almost it looks like, from the sun itself, a beam of energy slams against her arm, and the arm goes floating off into the sky--or, into space.
+AUSTIN (as Kira): My ride’s here.
+AUSTIN: Says Kira.
+SYLVIA: Yeah. And after that happens, I think it’s just a fuckin like gunfight between like, everybody, but like the guards on for the Hands of Grace just can’t handle these guys. And Mori hands, like, a pistol to Kira. 
+AUSTIN: Right. I like this too as like a--let’s wait until--because I kind of want them to fight through the ship in a weird way, because I like this from a juxtaposition perspective where the opening shots of this scene are definitely like “look at the beauty and power of the Diaspora”, this is the first time we’re seeing their ships versus the kind of almost jerry rigged stuff from OriCon, where it’s like, OriCon stuff is like this mess of technologies, of like boxy, weird stuff stuck together, barely functioning, even the Odamas Fleet, even the--what’s the flagship of it called again?SYLVIA: The Yersinia.
+AUSTIN: The Yersinia, which is fantastic and almost magical, is still like we’re figuring out this thing step by step, you know. Whereas this functions from the very beginning with perfect synchronization, just like, everything is a perfectly moving--it’s like water, right, like it’s like a river; the ship is like a river. And suddenly there’s this group of like five people tearing through it like it’s no big deal. 
+SYLVIA: Yeah.
+AUSTIN: With a degree of--I think there’s a degree of anticipation, let’s echo their book of secrets and their panopticon here, right, where it’s like they’re firing into empty halls and by the time their bullets reach their places, someone has turned the corner to be shot, you know.
+SYLVIA: It’s just a surgical precision, is what I see them having. 
+AUSTIN: Yeah.
+SYLVIA: I like the idea that the Diaspora is like water and then they are just like the stone that fell in the river. 
+AUSTIN: Totally. Totally.
+SYLVIA: And I think that they do have to fight through the ship, still, because you can’t just leave your boarding ship where it was, they can fire on it then. [Austin and Dre laugh] So their ship is cloaked again but circling around, 
+AUSTIN: Right, right.
+SYLVIA: And they have the exact amount of time--like, I feel like he’s got like a little like--I love just the idea of these guys having like every interface of theirs being holographic, cuz I’m a sucker for that.
+AUSTIN: Yeah, totally.
+SYLVIA: There’s a little holographic interface above the back of his hand just has like a timer, for like two minutes, and he’s like “Come on, we’re already a few seconds behind schedule.” And they immediately start--like move into formation, move down the halls,
+AUSTIN: Totally. Just a little faster. I also don’t want it to be completely one-sided, right?
+SYLVIA: It’s not.
+AUSTIN: I kind of think that part of the reason why the time--they get slowed down a little bit is because they reach more resistance than they anticipated. 
+SYLVIA: Totally. And I think they even lose somebody, like they lose a couple people.
+AUSTIN (same time as Sylvia): I think the ship itself comes alive--totally. I think the ship itself comes alive in defense. What’s Vicuna do once that first explosion hits, Dre?DRE: I think she’s still pretty chill. I--yeah, maybe this is--
+AUSTIN: Is she actually chill or is she presenting as chill?DRE: I think both. But I think this is when she turned around to look at Kira. 
+AUSTIN: Okay, okay.
+DRE: Now she’s got her attention.
+AUSTIN: Yeah. Kira’s like--is she tied or is she seated?DRE: She’s seated, she’s not tied. 
+AUSTIN: Okay. I think she--
+DRE: Do we--AUSTIN: Go ahead. 
+DRE: Do the Hands of Grace know who the Rapid Evening are? 
+AUSTIN: I don’t think so. But if anybody did, they would? Um… [sighing] Oh boy. This is a big question. What are the benefits of them knowing versus the benefits of them not knowing? 
+[Dre sighs]
+SYLVIA: So one of the benef--
+DRE: Maybe they don’t know specifics but they might know who they are. Like they know that there’s this force that exists somewhere. 
+AUSTIN: Do they know the name--oh, do they know the real name? Do they know like the--or do they just know--I’m trying to see, is this is a moment where we get to deploy our La-li-lu-le-lo.
+DRE: Here’s what I’m thinking: we were talking about eclipses, when a solar eclipse happens, it get dark really quick, like a rapid evening. 
+AUSTIN: Yes. Totally. So do you think they know them as like “The Eclipse” or something like that? 
+SYLVIA: I think that’s really good.
+AUSTIN: Because that is what I was emphasizing, like that is what I was trying to--the Rapid Evening is like an eclipse thing. 
+SYLVIA: It also really goes into the sun imagery we’ve been playing up a lot.
+AUSTIN: Totally. I think that’s what Dre was pushing at, definitely.
+SYLVIA: I also really like the idea that they don’t know completely who they arethey, so it causes more tension between them and the OriCon.
+AUSTIN: Totally.
+SYLVIA: They’re like, are these guys with them? Like, how do they have this technology?AUSTIN: Right. Like, is this about--is this an elite OriCon group, versus--or, is this an Apostolosian group? Like--
+SYLVIA: Oh, yeah. That’s actually really good. 
+AUSTIN (same time as Sylvia): There’s definitely mystery around who this group is, right? So then maybe Vicuna--again, if anybody knows, it’s Grace and her candidate. 
+SYLVIA & DRE: Yeah.
+AUSTIN: So even if the rest of the--maybe we also get scenes of that, where the rest of the crew on this ship is losing her shit and Vicuna is just like “The Rapid Evening.” You know, puts it together.
+DRE: Or maybe it’s that they didn’t know, but like, Kira can resist this mind-reading,
+AUSTIN (while Dre’s talking): Go for it.
+DRE: but like Grace cracks somebody. Somebody who’s warped in on this stealth ship.
+AUSTIN: I think it’s Kira, I think that’s fine. I think it’s a prideful moment in Kira, right, where it’s like, all this sun conversation has set this up, where it’s like, you know, candle in the sun stuff, and then “you’ll be eclipsed”. It’s like “Who are you?” you know, 
+AUSTIN (as Kira): We’re the Rapid Evening, and you’re about to be eclipsed.
+SYLVIA: And then the explosion happens.
+AUSTIN: And then [explosion noise], exactly.
+SYLVIA: Perfect, fucking perfect.
+AUSTIN: Does Vicuna just let Kira walk out or is there a struggle there?DRE: Uh… Kira’s 70 right?AUSTIN: She’s like 70, yes.
+DRE: So I feel like, I don’t know if there’s a way that if we say there was a struggle--unless like, unless one of the space marines like breaks in--
+AUSTIN: I mean, Vicuna is a space marine. That’s the thing. She’s 70, and also a member of the Rapid Evening, you know.
+DRE: So maybe then Vicuna tries to do force on her and Kira just--
+AUSTIN: Like bats her away? Or like dodges in a very--like a very Cowboy Bebop fight scene, like side-step, counterattack, and then like lots of like blocks and tosses but everyone keeps landing on their feet, you know. 
+DRE & SYLVIA: Yeah.
+AUSTIN: Kind of like “You’re spry for an old lady.”SYLVIA: Oh, that’s really good.
+DRE: What if Vicuna tries to punch her and Kira breaks her arm.
+AUSTIN: Oh I love it.
+DRE: And it’s the same arm.
+AUSTIN: [excited] Oh it’s the same arm! That’s so good, it’s the same arm!
+SYLVIA (same time as Austin): That’s really good, that’s really good. I also think like--
+AUSTIN: It’s--go ahead.
+SYLVIA: In a moment of desperation, Vicuna could try to like take one of the dead marine’s guns and try and shoot at Kira and she kills one of the other members of the Eclipse.
+AUSTIN: Yes.
+SYLVIA: And so Mori has to like, drag this fucking body out of there so they don’t get their hands on the tech. 
+AUSTIN: Totally, I love that.
+SYLVIA: Because I want that to emphasize that they don’t want this stuff falling into anybody else’s hands. 
+AUSTIN: Exactly--
+SYLVIA: So they like, drag the dead body out of here.
+AUSTIN: --you don’t leave anybody behind, not because you care about the body, but because the technology is too important to lose. 
+SYLVIA: Yeah.
+AUSTIN: I love the image of Grace’s arm being broken in background and then Vicuna going for the punch and then Kira grabbing it and just like, crack! And then pushing her away, and then, yeah, the door gets blasted open, Mori comes in, hands Vicuna a gun, like Fallout--sorry, Far Cry 2, buddies--
+[Dre laughs]
+SYLVIA: Straight up, straight up that’s what I was thinking. 
+AUSTIN: Totally, One hundred percent.
+SYLVIA: Yeah, I’m glad you caught that.
+AUSTIN: Kira takes like a few shots at Vicuna, who’s still nimble enough to dodge, draws her own weapon, drops one of the other Eclipse crew, you know. In fact I think we’re gonna call this group of space marines the Eclipse. 
+SYLVIA: I think that’s the name of their unit, yeah. Their ship is the Straylight just because I like that name, but they’re the Eclipse, yeah.
+AUSTIN: Oh, it’s a good name. And also again, continues to fill into our whole thing. 
+SYLVIA: I also think like, going back to the if this was shot like a TV show thing, after they’ve left the room with Vicuna in it, Vicuna’s like standing there holding her broken arm, and in the background, Grace is there. Like, with the--just kind of floating and trying to recalibrate and get everything back under control. 
+AUSTIN: Totally.
+SYLVIA: So it’s like, they’re both there, while all this chaos is going on.
+AUSTIN: Perfect. I love it. And then I think there’s a point at which probably Grace and Vicuna just go like “let it happen.” You know like, it’s done. Like, we can’t--the second Kira is pulled out of that room--
+SYLVIA: They lost that battle.
+AUSTIN: --there’s almost a Grace for them, where it’s just like, we’re gonna handle this with calm and dignity. Like, there isn’t--we’ve lost this quick round, we’ve lost this fight, this isn’t over, but like we’re not gonna wail. We’re not gonna throw a tantrum. 
+SYLVIA: We’re called the Hands of Grace for a reason. We gotta have some of that. 
+AUSTIN: Exactly. [excited] Oh, I love that it’s called the Hands of Grace and she lost her arm! It’s so good!SYLVIA: It’s really good.
+AUSTIN: Fuck! We do an alright good show here.
+DRE: Sometimes, we’re pretty good at this.
+AUSTIN: Sometimes, we’re pretty good![Sylvia and Dre laugh]
+AUSTIN: Alright. I think that’s the Rapid Evening.
+SYLVIA: That’s--I’m way into that. 
+AUSTIN: Let’s take a quick break, and we’ll be right back. 
+[pause]
+AUSTIN: So we’re back and… I’ve lost everything on my screen, where’s my stuff? [Dre laughs] Who knows where it is, it’s a mystery.
+SYLVIA: Rapid Evening, they’re regulating you.
+AUSTIN: Yeah, clearly. Uhh...this is my work email… here it is. Okay, so. Let me get back over here, faction tracker. So that’s an X for--
+SYLVIA: I already did it.
+AUSTIN: Oh you did? Nice.
+SYLVIA: So Snowtrak is next.
+AUSTIN: We are at Snowtrak, let’s talk about Snowtrak. Does Snowtrak have a new goal? Did we ever set a new goal for Snowtrak?
+DRE: No. And I’ve been trying to figure out what that is. Here’s what I see coming up next for Snowtrak, I really just wanna completely embrace the kind of old-tech like, supervillain kinda thing almost? I think we just wanna blow up space Disney. 
+AUSTIN: Okay. Why?
+DRE: Because that’s the opposite of Rigor. Like, pleasure and kindness and joy is the opposite of Rigor.
+AUSTIN: It probably also saw what EarthHome just did to Minerva, right? And it probably respects Minerva a bunch, in some ways, it’s a manufacturing company. And EarthHome put them in check by controlling culture. So I definitely think there’s a notion of like, nope. They have to go. Uh, so which goal is that? Do you think that’s… Destroy the foe?
+DRE: Yeah, because destroy the foe is like, utter destruction.
+AUSTIN: Yeah, I think that’s how Rigor works. Rigor doesn’t fuck around with--
+SYLVIA: --bloody the enemy. 
+AUSTIN: No, none of that. It’s not like oh I wanna show off.
+SYLVIA: The only time they’re bloodying you is when they’re making you bleed out. 
+AUSTIN: Exactly. 
+DRE: Yeah.
+AUSTIN: Okay, so what do they do this turn? Also I think their income should be going up, now that I think about it. 
+SYLVIA: Oh did we--
+AUSTIN: Let me double check. 
+SYLVIA: Doesn’t everybody get some income at the beginning of their turn?AUSTIN: So I did the--I went through and did the income so everybody went up, but I think your overall income might be higher because you’re a bigger faction. 
+DRE: Oh.
+AUSTIN: Let me just double check. So yeah, you have three faction right now. Three creds, three hot creds. Uh, so what do you want to do?DRE: Um, so can you do multiple actions in a turn? Like I could buy something and then do something? 
+AUSTIN: No. You do one action per turn.
+DRE: Okay. Hmm… cuz I feel like before like--I don’t think I’m in a place where I could launch dudes at EarthHome.
+AUSTIN: No, I don’t think so either.
+DRE: So I either need to make money or I could use the perk I get from my fancy asset tag of being a eugenics cult.AUSTIN: Yeah, like you do. No big deal. You now understand why you have that tag, by the way.
+SYLVIA: Yeah that makes a lot more sense now.
+AUSTIN: Yeah.
+DRE: Uh huh. So with the eugenics cult, I can buy the gengineered slave asset,
+AUSTIN: [under breath] Christ.
+DRE: Which is horrifying. It’s an asset requiring force 1, with the statistics of 6 HP, 2 fact cred cost, tech level 4 required, with an attack of force vs force for 1d6 damage and a counterattack of 1d4. And once per turn, the eugenics cult can roll an extra d10 on an attack or defense by a slave asset. So like, to me these are like the lowest, base level--
+SYLVIA: Mind control people?DRE: It makes me think of like, reaper husk from Mass Effect, basically.
+AUSTIN: Yeah, except I don’t think they’re like that obvious, right?
+SYLVIA: There’s no physiological change, just a mental change? 
+AUSTIN: Mmhm.
+DRE: Yeah. I’m thinking more like a mental level than a physical, distorted level.
+SYLVIA: Yeah.
+AUSTIN: Here’s a thing that I would suggest. 
+DRE: Mmhm.
+AUSTIN: So you have a unit on Joy Park already, because you have that recruitment center, you have a franchise there, which is your recruitment center. So now you could set up a base of influence there, and once you have that, you can start producing units there. And I think narratively,
+SYLVIA: That makes sense.
+AUSTIN: EarthHome has no idea about this shift, right, so you could totally just make that base of influence. 
+DRE: Okay, what is the turn to do that. 
+AUSTIN (same time as Dre): Or maybe we could--okay, it’s gonna be weak, it’ll gonna be a weak base of influence, it’ll only be three because it’s as much money as you have. 
+DRE: Yeah.
+AUSTIN: What is--I’m trying to decide--maybe we should make the roll for it anyway? But I think it’s cooler if EarthHome just doesn’t know this is happening.
+SYLVIA: I feel like because the relationship between EarthHome has been so amicable so far,
+AUSTIN: They’d be totally fine with it.
+SYLVIA: They wouldn’t really care. They’re like “oh yeah, we’re buddies with Snowtrak”. 
+AUSTIN: Yeah, totally.
+SYLVIA: Fuckin what’s his name greasing the wheels.
+AUSTIN: Yeah, exactly.
+DRE: Oh, what is his name?
+SYLVIA: Leonard. Leonard Berchum. 
+DRE: Yeah.
+AUSTIN: It’s a good one. Alright, so let me just add that in, base of influence, okay. So what’s that look like, what does the base of influence look like? Is it an extension of this recruitment center? 
+DRE: Yeah. I’m trying to think of what it looks like. Maybe it’s like, um, how when you to like theme parks, certain rides have like, the pre-roll? To basically make the wait in line feel shorter? 
+AUSTIN: Yeah.
+DRE: And sometimes those pre-rolls will like, have either really obvious product placement or they’ll just straight-up be like “this ride is sponsored by blah blah blah”.
+AUSTIN: Right, Coca-Cola.
+DRE: Oh, you know what? No. Here’s what it is. I was just at Holiday World and in all their like, longer lines, they have TVs that play like, music videos, but then also like tons of ads, everywhere. And somehow Rigor has some sort of like, subconscious way of reaching through these ads to kind of start to change people’s behavior in some way.
+AUSTIN: And you know what, I think the set up for it is definitely--who’s the--you said Leonard? 
+SYLVIA: Leonard is the lawyer for EarthHome, 
+AUSTIN: Totally.
+SYLVIA: and Oren is the contact he has with Snowtrak.
+AUSTIN: With Snowtrak. So I think Oren probably goes to Leonard with the ads, and the ads are--they’re like a reminder of your work at home and the pitch on it is just like, listen if you remind people of what they do in their day to day life, they’ll be happy to be there. That way like, even though they’re stuck in line they’ll love being there because it’s better than work, right? But like, the actual message of those ads is like, always be working. You should be working right now. You’re like, failing your family and OriCon because you’re not working right now. That’s like the feeling people get, which opens them up to the notion that maybe they should just be a little more rigorous in their day to day activities, you know? Maybe they should take things more seriously. And of course I think there’s a material component of just like, Oren literally sets up an ad agency for Snowtrak there, or not an agency but a branch office, you know, where they film all those ads and do all the interviews with people who--interviews with Snowtrak employees who go to the JoyPark on their time off who are--”I’m having the best time here at the JoyPark, I can’t wait to get back to work, I’m so refreshed!” You know, where it’s immediately about reframing joy and pleasure as this thing that you do so you can then go back and get to work. 
+DRE: Yep
+AUSTIN: I love it. I love it a lot. I don’t know that we need a deep scene on this,
+DRE: I don’t think so.
+AUSTIN: But like that’s the gist of that one. Who’s next?SYLVIA: Fairchild. 
+AUSTIN: Fairchild, who we also haven’t seen much of yet.
+SYLVIA: Yeah, I don’t think we’ve done--I think we’ve done broad moves with them, but we haven’t done any scenes with them. 
+AUSTIN: Yeah, totally. So their goal is to expand influence here, right now they are only have--I think they’re on Kaffe and Kalliope [Kah-lee-OH-pee], is that right? Kalliope [Kuh-LIE-uh-pee]?
+SYLVIA: Uh yeah, I believe so. Yes, that’s right.
+AUSTIN: Okay. They don’t have much, they have vanguard cadres--oh right, they bought surveyors last turn, I think they’re gonna have a simple turn too, which is they’re looking to move those people from--uh, their surveyors are gonna move from Kaffe to--um, what’s the other...one sec I gotta pull this up--to Gemm. I’m pretty sure, I’m pretty sure that’s what their goal is. Lemme just double check how surveyors work and make sure I’m not misremembering how they work. [pause] Here we go surveyors. [pause] “As an action a surveyor crew can be moved to any world within two hexes” Yeah, so they’re gonna move those surveyors from Kaffe to Gemm. And I don’t think anybody--let’s see who’s at Gemm. Hands of Grace have someone at Gemm, I don’t have a bunch of people at Gemm. Right, the Ethnologistical Committee has people at Gemm. But I don’t think that the type of asset, I don’t think surveyors--
+SYLVIA: Would anyone wanna stop that?AUSTIN: I don’t think surveyors--so the way it works is that there’s only certain assets--assets that have the “P” special thing, so in the special category there are some assets that have “P” next to them, those require--heh, jokes--those require permission to be landed.
+SYLVIA: Oh, okay.
+AUSTIN: So like, a militia unit, elite skirmishers, those need governmental permission to land, but no, surveyors can just land somewhere, they can just make that move, and I think that’s what they do. Again, Fairchild is this super technology company. They are the ones who built some of the highest end riggers for OriCon in the last war, and they’ve since gone kind of freelance and no one knows what’s up with them. I think I kind of wanna keep it that way for now? We’ll come back around to them at some point in the future. 
+SYLVIA: We should probably do something with them at some point.AUSTIN: Yeah, they’re kind of my Anaheim Electronics stand-in, from Gundam, they’re just like the--there’s definitely a degree of like, also like the Jurassic Park, they were so obsessed with coulda they never thought about shoulda, you know?SYLVIA: Yeah.
+AUSTIN: So they’re just gonna move some surveyors from Kaffe to Gemm, and we can move on to Apostolos, who I kind of really wanted to get into this episode, and we don’t have too much time left so let’s talk about them. Okay so, Apostolos wants to seize the planet Torru, which is currently controlled, I think, by the Rapid Evening. They’re the only ones there with a base of influence. 
+SYLVIA: I believe so, yeah.
+AUSTIN: Yeah…
+DRE: Yep!
+SYLVIA: Oh boy.AUSTIN: Oh! Well and the Rapid Evening has moved the space marine unit from Torru--oh sorry, rightrightright, this is wrong, I just realized this. The group moved from Torru, not from Ziishe. They left their home base guarded with space marines, obviously. So that’s correct. Okay. So the only thing on Torru from the Rapid Evening is their base of operations--or their base of influence, they don’t have anything else there defending it anymore. Which I think Apostolos is gonna--Apostolos has the goal seize the planet, and seize the planet says, “Planetary seizure: take control of a planet, becoming the legitimate planetary government, difficulty equals half the average of the current ruling faction’s force, cunning and wealth ratings”--which we’ll figure out when we need to--”if the planet somehow lacks any opposing factions, it counts as difficulty 1”. Um, there’s an action called planetary seizure, and I will read that, also. “Seize planet: the faction seeks to become the ruling body of a world. The faction must destroy all unstealthed assets on the planet belonging to factions who oppose their attempt before they can successfully take control. If all the assets cannot be destroyed in one turn, the faction must continually attempt next turn, until either successful or all of their assets have been destroyed or left the planet. No other actions can be taken in the meanwhile, once all resistance has been crushed, the attacker must maintain at least one unstealthed asset on the world for three turns. If successful, they gain the planetary government tag for the world.” So, I think they swing. I think they swing at this base of influence for the Rapid Evening. The Apostolos Empire has a unit called post-tech in--sorry, post-tech infantry-- on the planet now, which they can use against the Rapid Evening’s base of influence. So they can just roll 10d--or 1d10, plus whatever force it is.
+SYLVIA: I think it’s just a 1d8, for--
+AUSTIN: That’s the damage, you still have to hit the attack. 
+SYLVIA: Oh, my bad.
+AUSTIN: I think you still have to hit the attack. 
+SYLVIA: Yeah, yeah, you do.
+AUSTIN: Okay, so it’s 1d10 plus whatever Apostolos’s force is, versus whatever the Rapid Evening’s force is. 
+SYLVIA: The Rapid Evening’s force is 7, Apostolos is 4. 
+AUSTIN: Is 4. This is gonna be a tough one for them. So let’s do it. Who wants to be Apostolos?SYLVIA: I’ll do it.
+DRE: Sylvia you wanna roll?SYLVIA: Yeah.
+AUSTIN: So 1d10+4.
+SYLVIA: 11.
+AUSTIN: That’s not bad.
+DRE (same time as Austin): That’s a good roll.
+AUSTIN: That’s an alright roll. And then the Rapid Evening. 1d10+7. It’s gonna go bad, it’s gonna go bad. Boom!
+SYLVIA: Oh, they rolled the same thing.
+AUSTIN: They rolled a 14, so they crushed it. 
+SYLVIA (while Austin’s talking): They both rolled 7.
+AUSTIN: But let’s get a scene of this, like let’s get a scene of what this not-so-great Apostolos attack is against the base of influence left behind by the Rapid Evening. 
+SYLVIA: Do they take damage at all?AUSTIN: Bases of influences do not have counterattacks. 
+SYLVIA: So they just fail to get anywhere.
+AUSTIN: Yeah, I’m double checking though. Uh, base of influence has none, yeah
+SYLVIA: So there’s no heavy losses on either side. 
+AUSTIN: No heavy losses, no. But, you know, completely repelled.
+DRE: What I’m thinking of right now is the scene in Independence Day, when they first try to attack the giant UFO, and they just run into that shield and they’re just like “well, fuck.”
+AUSTIN: Cool. Yeah. I definitely think that’s the sort of thing--or we could go the other way where they can’t even fucking find it, right? 
+DRE: Yeah, that could be it too.
+AUSTIN: Like, we know there’s something here to fight, we know that this place has--but no, then there needs to be a--I think you’re right the first way, I think it has to be an actual encounter that they just do nothing to, you know. It’s a month-long--let’s zoom into day 20 of this seige, where there’s like one giant structure on this planet where the Rapid Evening deploys its stuff from, and it’s protected by some sort of weird shield, or like--I almost like it as, you know there’s a thing that happens in sci-fi, and especially some hard sci-fi anime sometimes, where it’s just like, there’s a weird bubble around this thing, or there’s a weird disturbance, and like we don’t know--we can put things into it and we don’t know what comes out, and it’s just strange. And we keep losing whatever we throw in there, and I kind of just want like day 20 of that siege. We can talk about some Apostolos people, like who’s in charge of this Apostolosian attack and do they know that it’s a fucking waste of time? 
+DRE: Yeah.
+AUSTIN: Yeah, they do? [typing sounds]DRE: Uhhh…. There’s probably--
+SYLVIA: I mean by this point?
+AUSTIN: I mean, so when I say this group, I don’t mean--I mean specifically this one battalion of infantry. 
+SYLVIA: Okay. So we’re not going to the people leading the entire attack, we’re going down to a small squad here.
+AUSTIN: Yeah, we’re going down to this one squad that’s been throwing itself against the automated defenses of the Rapid Evening for weeks, and getting nowhere. 
+SYLVIA: Okay.
+AUSTIN: So we need an infantry commander, and then we need, what else? Could we have someone who’s in charge of the Rapid Evening’s defenses and kind of describing that stuff, and then maybe just another soldier in the Rapid Eve--or in the Apostolos forces.
+DRE: I’ve got a good Greek name here. 
+AUSTIN: Okay?DRE: Argus Corba. AUSTIN: [typing] Corba, that’s a good name. Argus Corba. Uh, and then either a squadmate, or we could go the other way, we could go fromm commander up to ruler of--leader of this bigger attack, and it’s a conversation about the futility of this, you know, whichever sounds more interesting.
+DRE: I feel like we’ve had a lot of scenes with like, younger middle management knows that this thing isn’t going to work or is a bad idea, and then the CEO-leader is like “Oh, it’ll be fine, let’s just go for it!” 
+AUSTIN: Yeah, let’s not do that, you’re right, let’s not do that. Let’s do this commander with one of their squadmates, or a couple of their squadmates, maybe, or their soldiers. Or maybe just two commanders talking about this, you know. 
+DRE: Yeah, either that or maybe it is--it’s a younger person really desperate to prove themselves and the commander is like trying to talk them out of doing something reckless.
+AUSTIN: Foolish? Yeah. And this is a dark scene for sure, using the Microscope terminology, where like, it does not go well.
+DRE: Does anyone in this scene from Apostolos have a tie to Cass?
+AUSTIN: [sighs] We could totally do that. Yeah.
+DRE: Maybe the younger person is trying to--
+AUSTIN: I think if it’s anybody it has to be the older person, because of just the way time works, like Cass has been like, on the wire--or in the air, rather, in the wind? In the wind!SYLVIA: In the wind.
+AUSTIN: That's the phrase I’m looking for. For a decade, basically. But the older commander could definitely be someone who served alongside Cass and Koda, had a great deal of respect for their ability to stem losses when war kicked off. I kind of like--[sighs] actually now I kind of like this notion that this is a conversation happening in like the triage center, where it’s like one young soldier is ready to go back out and throw themselves into the wall that is the Rapid Evening again. 
+DRE: Mmhm.
+AUSTIN: What’s the sort of medical facility do you think looks like for Apostolos? In general we’ve talked about Apostolos being like ancient Greek stylings? But we also know they have giant robots, you know?
+SYLVIA & DRE: Yeah.
+AUSTIN: So what are their actual medical systems, what’s the actual military look like in function when they’re at war?SYLVIA: I think like because they are the attacking force here, I think it’s a little more thrown together than they’d like?AUSTIN: So you think they’re better at defense?SYLVIA: Partially yes, and also just because they’re not as big as they’re used to, right, so they don’t have the resources that they would’ve had back in the war.
+AUSTIN: Sure.
+SYLVIA: So back in the war they would’ve had nicer medical facilities, but here, they’re in the trenches, right.
+AUSTIN: Yeah. 
+SYLVIA: So they kind of had to throw this together, and I don’t think it’s fully thrown together, like I think it’s got aspects of being pretty up to standards of any other military force, but like after the second week, this place is starting to get sort of grim.
+AUSTIN: Yeah.
+SYLVIA: And there’s been some wear and tear.
+AUSTIN: Their equipment is probably pretty old at this point, like they’ve been using the same units for the last decade. And mostly they’re used to put down minor incursions, but they’re not up to snuff for military action like this. I like that a lot. Do you wanna play Argus, Dre?DRE: Yeah. Is he the younger one? 
+AUSTIN: I think he’s--I like Argus as a commander name. 
+DRE: Okay.AUSTIN: Argus Corba is a really good--Sylvia, do you have another name?SYLVIA: Yeah, I was also looking up Greek names, and the name Elias, E-L-I-A-S, I really like. 
+AUSTIN: Yeah, that’s also a good young name, for whatever reason, because our ears are all broken.
+SYLVIA: Yeah.
+AUSTIN: I may just play the environment here, and I think the question we’re looking to answer is--because that’s another Microscope thing we can bring in always, is like what is the question we’re going to answer here, and I think it’s is Elias--you know what, how about this. We said earlier that there’s been a lot of the person at the top is shitty and the person below them is nice and good and like, sees the fault, but like what if it’s a situation where it’s not just a single squad commander, Argus is the commander of this thing, and they can tell that this is--that they’re losing troops, but they also aren’t in a position to call off the invasion, it’s just not what they’re allowed to do. So what if Argus here is meeting with--what if Elias isn’t an up and coming young brat in the military, but is like--
+SYLVIA: He’s got his own unit?AUSTIN: Right. Exactly. Exactly. It’s a unit commander underneath Argus. [typing]
+SYLVIA: I like that.
+AUSTIN: I kind of like that a lot. So the question here is does Elias take their unit back into combat, or does Argus sort of gently push them out of that decision making, or out of that bad decision, and figure out a way for them to not go to war. I kind of think my “character” in this scene will just be the scene, like around the scene, but also specifically a single wounded soldier, one of Elias’s soldiers, who was hurt in the most recent thing. Maybe this is like an impromptu medal-awarding ceremony for someone who’s on their last legs. 
+DRE: Yeah. Like they’ve met bedside while they’re standing over this person, and--
+AUSTIN: Exactly. Exactly. Nicodemus is the young soldier, breathing towards the end of their life. Alright.
+SYLVIA: And I imagine Argus would be the one presenting him with the medal, right? Because he’s the--
+AUSTIN: Yes, totally.
+SYLVIA: So do you wanna start with that?
+AUSTIN: Totally.DRE: What’s the name of this medal? Let’s name this medal.
+AUSTIN: Aw, it’s a good idea, let’s name this medal. What’s a good--because this says a lot about Apostolos as a culture. We’ve talked a lot about them privately, and how they have this almost paragonal hero worship culture?
+DRE: Yeah.
+AUSTIN: Where there are like six kind of key idols that they worship, like historical figures. We talked about this thinking about what their pronouns look like, we haven’t had the time to do the work that we want to do on this, which is why you’ll often hear me slip up and say “he” instead of “they”, because we haven’t had the time to actually figure out what their pronouns are, but their pronouns are not tied to what we think of as gender, they’re tied to a decision--
+SYLVIA: These paragons.AUSTIN: These kind of paragons, it’d be like if you could call someone “joan” because they worship Joan of Arc, right, or you could call them “albert” because they wanted to grow up to be like Albert Einstein, and so there are like six of those--say that again?
+SYLVIA: I think maybe the award could be sort of like--maybe people in the military sector, their paragon is this protector thing? 
+AUSTIN: Totally.
+SYLVIA: And so the medal could be like a shield, or if we wanted to go full Greek so we could call it like the Aegis of Apostolos or something.
+AUSTIN: Yeah. I think it’s the Aegis of whoever that paragon is, right?SYLVIA: Yeah, yeah. It’s hard to figure that out.
+AUSTIN: It’s hard to figure that out really quick, but I’m hitting a button until I’m gonna see a name and then I’m gonna commit to that name and then we can figure out the pronoun shit later, but, I think like the Aegis of--oh these are good names, Greek’s a good language. 
+DRE: Cristabel?AUSTIN: Cristabel’s good. Yeah. The Aegis of Cristabel, which is definitely a shield, with like, whatever the character that represents Cristabel is, there’s definitely a symbol on it. Nicodemus is breathing heavily here, and I think that it’s a very busy--actually maybe it isn’t busy. Like maybe it’s actually kind of calm here now, because it was busy at first, and at this point the attacks aren’t as frequent, which means that the healing isn’t as--the need for medical support has kind of slowed down a little bit. But Nicodemus is breathing deeply--
+DRE: Is he awake?AUSTIN: --and is sort of drifting in and out of consciousness. 
+DRE: Okay. There’s supposed to be a speech that goes with this, but, uh. Okay. Hold on, let me--I’ll get in character. Here we go.
+AUSTIN: Okay. Nice. 
+DRE (as Argus): Nicodemus, there’s supposed to be a speech that goes with me pinning this onto you, but you can’t hear it, there’s no one else here to hear it.
+AUSTIN (as Nicodemus): [wheezes] Sir… 
+DRE (as Argus): Rest. Just rest.
+AUSTIN (as Nicodemus): [wheezes]
+DRE: And I think he just kind of--I don’t know if he pins it, if it’s a weird metal magnet tag or whatever.
+AUSTIN: Yeah.
+DRE: Where do you think it goes, just on like the right breast?AUSTIN: Probably, yeah. I actually like it needing to be a pin. I think there’s something really nice about the physicality of needing to--of Argus needing to reach down and carefully make that pin, that pinning motion, you know.
+SYLVIA: Like, you just get his ha--again, I’m going back to the HBO special thing, 
+AUSTIN: Of course, let’s keep it going.
+SYLVIA: But you get the really nice shot of his hands, just super gently, pinning it to the tattered--he wouldn’t even be in his uniform, he’d be in just like--they, sorry, 
+DRE: Hospital gown or whatever.
+SYLVIA: Like hospital gown or underclothes or something.
+AUSTIN: Yeah I think it’s underclothes, I think it’s like a tank top.
+SYLVIA: That’s what I was thinking too. And I think right as he’s finished pinning it in, before Argus can say anything more to Nicodemus, Elias just like--not quite runs in, but power-walks in, and he’s in full--he’s suited up, ready to go. And he’s just like 
+SYLVIA (as Elias): Commander, you haven’t responded to my request for clearance to go back into the field yet.
+DRE: Oh man, he’s just ready to go!AUSTIN: Yeah, I also think it’s Nicodeme, not Nicodemus. I think it’s just Nicodeme, moves at hearing Elias’s voice like, begins to sit up, just as Argus is doing the pinning, and it’s just like a little prick, the lightest little drip of blood. And like, recoils but then goes back to sitting up and is like,
+AUSTIN (as Nicodeme): Commander! I’ll be ready...
+AUSTIN: And then faints again, passes back out.
+SYLVIA: Elias gives him a little like half-hearted salute and just says,
+SYLVIA (as Elias): You’re in no condition, you’re in no condition, soldier, to be out there. Trust me. We have much more capable men. You rest.
+SYLVIA: And kinda doesn’t give a shit, like clearly doesn’t give a shit about this dying kid. He’s just a body at this point to him. And then he just like looks expectantly at Argus, like he’s like really hopeful that he’s ready to sign off on his unit going back in there. 
+DRE (as Argus): Son, you should always know. People come before protocol. That is our strength.
+SYLVIA (as Elias): Sir, I respect that, but I really believe that if you gave us one last chance--I’ve been looking at the maps we have, there is a sector on this base that we have not tried to attack yet, and if we could, we might be able to break through!
+DRE (as Argus): [sighs] Do you know what our orders here are?
+SYLVIA (as Elias): Take the base so we can claim this planet in the name of the Empire. Am I wrong, Commander?
+DRE (as Argus): No. If you were me, what would you do? We’ve lost countless people, wasted resources, for nothing. Literally, we’ve watched them at times disappear into some shapeless void.
+SYLVIA (as Elias): So we give up? Sir, how are we ever going to bring back the Empire to its former glory?
+SYLVIA: Also I keep saying “sir” when I should be saying “commander”, I get why you slip up now, Austin.
+AUSTIN: Yeah, it’s tough, right?
+SYLVIA (as Elias): Commander, how are we going to be able to bring our empire back to its former glory if we don’t take this base, if we don’t make progress for the greater good? 
+DRE (as Argus): Do you think this is glorious? Throwing pebbles into an ocean? This isn’t war, this isn’t honorable. This is wasting time.
+SYLVIA: I think like Elias is now getting--the more Argus speaks to him, just his face is going from--it’s gona from eager to confused and now he’s got this look of contempt on his face, and he doesn’t say it, but he clearly just thinks that Argus is a complete coward. 
+AUSTIN: [laughs] Oh. Oh boy.
+SYLVIA: And he’s just like,
+SYLVIA (as Elias): Commander, if that is your order, to not go into battle, I understand. I’ll tell my men to stand back, however, I think this will be my last service under your command. I’m going to talk to the generals about transferring to a unit with a more ambitious leader. Thank you for your time.
+SYLVIA: And then he--I just wanna say, he turns around before Argus speaks, like he’s not looking at him for this next bit. 
+DRE: I mean does he even listen to him? He could just walk out.
+SYLVIA: He does respect Argus, like he respects Argus as a soldier, he’s heard about Argus being a good tactical mind before, and this is why it’s such a shock to him. Because he’s fully bought into the fighting for the glory of the empire thing, meanwhile he’s got this supposedly noble and brilliant commander telling him to stop fighting, and that doesn’t click with him. So he’s listening, but he’s not happy that he’s listening.
+DRE (as Argus): Elias, if you wish to die, I won’t stop you. But don’t be cowardly enough to make others die with you. 
+SYLVIA: I don’t think Elias responds. I think he stands there for like a second, and then he just walks out. And he’s put away his--I feel like he was holding his rifle ready to go, if he had been given the okay he would’ve run out of there immediately but he’s holstered it now, he’s just--he walks away angry and confused about everything. And his pride is hurt too by those last few words, he’s just fuming. 
+AUSTIN: Yeah. That sounds right. Alright, I think that’s that scene.
+SYLVIA: Yeah.
+AUSTIN: And I think it means that they’re going to keep throwing themselves against it in the next month, like they’re not backing out of this, they’re not giving up. It’s just gonna be young soldiers--young leaders like Elias who have bought into the rhetoric of the Apostolosian current emperor. 
+SYLVIA: We could even say like, because of Elias mentioning--he probably contacted generals and said he doesn’t believe in Argus’s command.
+AUSTIN: Right, totally.
+SYLVIA: Like they could’ve taken Agus out of there.
+AUSTIN: And moved Argus out.
+SYLVIA: Yeah, and then put him in with someone else who’s a little bit more willing to have losses. 
+AUSTIN: Yeah. Alright, let’s move on to the Odamas Fleet, which I think at this point--
+SYLVIA: It’s pretty simple. 
+AUSTIN: It’s just moving, right?SYLVIA: It’s just moving, they’re just making progress towards Kalliope. 
+AUSTIN: Yeah, cuz right now they’re at--where are they at now?SYLVIA: They were Vyshe, I believe.
+AUSTIN: Okay. And so they’re moving from Vyshe--
+SYLVIA: I’d imagine they’d move along planets?
+AUSTIN: Yes, yeah that makes sense to me. They don’t need to though, right? 
+SYLVIA: They don’t need to.
+AUSTIN: What is the--you know what, let’s do a different scene first, because I think--yeah, Horizon Tactical Solutions is going to throw its--and this can influence the direction that the Yersinia takes, here, but Horizon Tactical Solutions is throwing its strike fleet against Vyshe in an attempt to pursue their solution or their thing, which is blood the enemy. 
+SYLVIA: That enemy being?AUSTIN: You.
+SYLVIA: Oh yeah, that’s anybody, yeah.
+AUSTIN: Well it’s anybody, but they’re at Vyshe now. And so they are attacking. Is there anything else at Vyshe, actually, let’s just make sure. I don’t think so.
+SYLVIA: No, Vyshe is just Horizon, right now. And we have a base of influence there.
+AUSTIN: And the Odamas, specifically Yersinia is there, right?SYLVIA: Well no, we also have another base of influence there.
+AUSTIN: Right, it’s just the base of influence though. It’s like the base of influence and--
+SYLVIA: Yeah, I think that was my reasoning for moving there, actually, was because we had a small base of influence there. 
+AUSTIN: Okay, and you’re moving from base to base, kind of.
+SYLVIA: Yeah, I just figured to be safe at the beginning of this trek I would do that.
+AUSTIN: Totally. Okay so, let’s roll this attack and see how it goes.
+SYLVIA: This is a force v force roll.
+AUSTIN: You get to decide whether or not to defend that base of operations or not.
+SYLVIA: Okay.
+AUSTIN: It is a attack--I think it’s a force vs force attack--it is. Force vs force. What is your force? I think it’s 6.
+SYLVIA: It is, it is. 
+DRE: Horizon is 4. 
+SYLVIA: I just wanted to check to see what else I had with the--because since I have a mobile base of influence now, I also have--so my pre-tech infantry is with my ship, okay.
+AUSTIN: Yeah.
+SYLVIA: Okay let’s roll… it’s 1d10+6, yeah?AUSTIN: For you, yeah. And then Horizon’s is 1d6+4…
+SYLVIA: [excited] Ooh!
+AUSTIN: That’s--you’re gonna win. You’re going to win.
+SYLVIA: They can’t beat that, perfect roll!
+AUSTIN: Yep. Do their best, not good enough. So this is the first time we’re seeing the Yersinia in combat post-explosion into new--
+SYLVIA: Post-evolution?
+AUSTIN: [??? - 1:39:46] star evolution, yeah.
+[Dre laughs] 
+AUSTIN: What are you defending with, specifically?
+SYLVIA: I think I’ll use the pre-tech infantry.
+AUSTIN: Okay, what is their counterattack?SYLVIA: It’s like--I think it’s like 2d something, it’s really strong, hold on.
+DRE: 2d6?SYLVIA: It’s 2d8+2.
+AUSTIN: Christ. Make that roll. Make. That. Roll.
+SYLVIA: Because they don’t like Horizon.
+AUSTIN: They do not.
+SYLVIA: Not at all--god. 
+AUSTIN: Eleven is a lot? Eleven is a lot. Eleven is a lot.
+SYLVIA: Eleven is a lot. 
+AUSTIN: I don’t think that it’s gonna live--yeah, uh huh. And their strike fleet is down. And then  soon after that, I’m guessing, that’s when the Yersinia continues on its path. 
+SYLVIA: Yeah.AUSTIN: Does it go to Archonic? Or does it move--like, what’s the direction it moves?SYLVIA: Let me see what Archonic is--
+AUSTIN: Archonic is the home base of, the kind of de facto capital of OriCon here.
+SYLVIA: I think in fiction they probably wanna stop by Archonic to supply up, 
+AUSTIN: Okay, yeah.
+SYLVIA: And then like, just fuel up, get extra fuel for this trip and--
+AUSTIN: Okay, so then let’s get a quick scene of that combat before they move on. I’m guessing--[sighs] so the characters that are involved here are definitely--
+SYLVIA: I think Augustus would be involved. 
+AUSTIN: Do you think Augustus, that’s my question here. 
+SYLVIA: Oh no wait, this is infantry, not the fleet. 
+AUSTIN: But the fleet at this point, like, this is the thing that’s weird, I think you’re using--
+SYLVIA: Ships.
+AUSTIN: Or I think you’re using--I’m trying to figure it out by looking at your stuff here, but I think the Odamas Fleet is--I’m having trouble trying to figure out what is the actual flagship, and I think it is the pre-tech infantry unit, is the thing that you’re subbing in as your fleet, right?SYLVIA: Okay.
+AUSTIN: That’s what it says here, it says that it’s on planet Yersinia, which is itself, and then it says “additional info: flagship Yersinia” because you’re not--your strike fleet is still back at Tetrakol, is that correct?SYLVIA: Oh! Oh yeah.
+AUSTIN: You see what I’m saying? 
+SYLVIA: Yeah. Okay that does make sense now. 
+AUSTIN: I think that’s--SYLVIA: Oh yeah, alsoslao I think one of the reasons that we put that is that the Yerisinia--one of its things is that it makes gear now, right?AUSTIN: Right.
+SYLVIA: So it’s kind of a mix of the flagship itself and the people outfitted by the ship, I think is the way we put it.
+AUSTIN: Yes, that’s totally the way we thought about it. Yeah so you’ve destroyed that fleet. So yeah, I think it’s fair to say definitely Diego Rose, right, definitely Hudson Thorne. And my question is is this the first time Augustus takes to battle alongside of the Yersinia?SYLVIA: I think so. I think this is like them testing him, to see--because wasn’t he from Horizon? 
+AUSTIN: Yeah, he was originally from Horizon, he was captured in their last battle and was nursed back to health by the ship and--
+SYLVIA: By Hudson and not so much by Diego.
+AUSTIN: And definitely not by Diego. So is this the first time we see Augustus and Diego, like--does Diego have a mech, a rigger that they fly on or a ship?SYLVIA: I think Diego is one of the only few that does. I think he prefers to fly a ship but he does have a mech. 
+AUSTIN: Okay. I mean he doesn’t have to go either way, I mean.
+SYLVIA: No, I think that the Odamas as a whole has like three mechs.
+AUSTIN: Okay. I think we talked about that.
+SYLVIA: Like they don’t have many at all, because they’re pilots, they’re not--
+AUSTIN: Yes, it’s mostly fighter ships. 
+SYLVIA: But they have some just in case, so they tend to use that for infantry. So I think actually Diego’s piloting his ship, not his--
+AUSTIN: Not his rigger.
+SYLVIA: Not his rigger, yeah. And I think Diego, being the gaudy motherfucker that he is, has a big rose painted on the side of his ship.
+AUSTIN: Oh, of course, of course. Diego Rose needs to have a giant rose. It’s also probably called the rose of something, or the something petal, or some rose bullshit.
+SYLVIA: Some bullshit like that. He’s a flashy motherfucker. 
+AUSTIN: Yeah.
+SYLVIA: Like he’s the ace pilot of a fleet, he can be--
+AUSTIN: --of a pirate fleet. 
+SYLVIA: Of a pirate fleet, he’s able to be a flashy motherfucker.
+AUSTIN: A pirate fleet from a fashion planet, like.
+SYLVIA: It also goes back to the thing where they’re all about intimidation, right? So like you have these guys who have their own personalized ships, like I don’t think Diego is the only one, I think like--
+AUSTIN: No yeah definitely.
+SYLVIA: There’s a bunch of other pilots there who have like, insignias painted on their ships. Augustus--his is just slate grey standard ship they gave him. 
+AUSTIN: Okay, so he’s in a ship too, not in a rigger?SYLVIA: No yeah. Oh wait no yeah no, he’s a rigger pilot actually.
+AUSTIN: I think he had previously been a rigger pilot, so maybe he has one of these like--
+SYLVIA: So I think they’re gonna give him--AUSTIN: A basic Minerva Rook, basically the default rigger that everybody else uses.
+SYLVIA: Yeah, they just have a couple Rooks, that’s what they have. So I think they give him a Rook, and Diego basically is just like “don’t screw this up, or I’ll be the one to take you down.”
+AUSTIN: Yeah. Do we even get--I think maybe that’s the only scene we actually get is the like--
+SYLVIA: I think we get that, and we get after the battle and we get--
+AUSTIN: Again, in the HBO show, we get them loading in, in the dock about to launch, or almost the Battlestar Galactica thing of like “oh, we have incoming” and Hudson sends the pilots out like says you know, “pilots to deck 3”
+SYLVIA: To battle stations.
+AUSTIN: To battle stations, and it’s the first time that Augustus goes down, is like suited up, kind of nervous about it, gets into the Rook, sees Diego from across--
+SYLVIA: And Diego just sorta like gives him a look.
+AUSTIN: Yeah. And then somewhere else in the episode, you know, somewhere else in the HBO show, you get like footage of the fight happening from a third person perspective, you know like from another person somewhere else in the galaxy, there is news footage of this happening. 
+SYLVIA: Yeah, yeah. Maybe even like--god I like the idea of just like during the scene we had earlier on, there’s this innocuous shot of two security guards on the Hands of Grace ship watching the news, and then a gunshot--a firefight breaks out on the ship itself.
+AUSTIN: Totally. Yeah. Yeahyeahyeah, I love that, that’s actually really good. Of just like [sigh] They’re kind of shittalking OriCon a little bit,
+SYLVIA: Yeah!
+[Dre laughs]
+AUSTIN: Where they’re like--
+SYLVIA: They can’t handle anything!AUSTIN: They probably say something like,” that sort of civil disobedience shows that the so-called People’s Republic of Orion has nothing to do with the people, not like us.” You know, it’s very self-congratulatory. 
+SYLVIA: And there’s like, some joke about how they need pest control.
+AUSTIN: [laughs] All those rats. 
+SYLVIA: Yeah. And also I think there’s a short scene afterwards, where they’re like--they um--Augustus lands back in the hangar and he’s taking off his helmet and stuff and he’s really shaky, and Diego comes up to him and just pats him on the back and just goes “you’re one of us now, kid!” and just walks to go see Hudson and report in.
+AUSTIN: Totally. Yeah. I like that a lot. Yeah I don’t think we have to go too deep there because I think that was a pretty solid show of force there that I think that combat was like no big deal, and Augustus is probably a little like shook by how not a big deal it was. 
+SYLVIA: Terrified that these people have this power.
+AUSTIN: Totally, like who the fuck are these people?
+SYLVIA: Like, when did this happen?AUSTIN: Yeah, exactly. Alright, I like that a lot.SYLVIA: Because these guys have been, like--excuse the pun, a thorn in the side of Horizon for a while.
+AUSTIN: [sighs] Oh boy. Yes.
+SYLVIA: I couldn’t think of any other phrase, I was trying to. A pain in the ass! They’ve been a pain in the ass for Horizon for a while.
+AUSTIN: There we go, they’ve been a pain in the ass, it’s true.
+SYLVIA: But like never this major, and all of a sudden, they have this. It’s huge.
+AUSTIN: Totally. Alright, I think that’s it for this week and we’re running a little long already, and I’ll figure out what’s going on with the rest of the factions in between this episode and the next Counterweight-level episode. Lots of lore this week, and I’m not a big lore person, so it’s tough. I think it’s good lore, I think we’ve done good stuff here.
+DRE: Yeah. 
+AUSTIN: But yeah. Uh, is there anything else anybody wants to touch on before we leave, or any other ideas people had coming into it for what factions should do.
+SYLVIA: I think we covered kinda everything.
+AUSTIN: Yeah, I think a lot of stuff is going to be downtimey stuff.
+SYLVIA: I am very curious as to what September is up to?AUSTIN: Me too, they’re trying to set up--they’re trying to move more--I think it’s just like a continuation of what was happening last week--or last month, I guess, in the game--which is building stealthed assets inside of Vox. Vox is going to start throwing themselves against the Diasporatic Department of Material Resources, OriCon is going to continue trying to hold its own, remember that their goal is peaceable kingdom, which is “launch no attacks on rival factions for four turns”, which is fascinating now because this is turn three and you’re moving a fleet [MUSIC: The Long Way Around] into their home base, right? And their goal is like, we don’t wanna shake anything up, like it’s okay if the little factions underneath us do that shit, but like we can’t show ourselves as a military force. And so you’re moving a pirate fleet through their home base and they have the right to throw an attack against you. That’s part of the way the game works, is like when you move an infantry unit into that space, they can just attack you instantly, but their goal is to not do that. So we’ll have to resolve that next turn, once you arrive that’ll be interesting. Because that’ll be the fourth turn and that will be the turn where it’s like “what are you doing?”.
+AUSTIN: I think that that’s it. Alright, I’m Austin Walker, you can find me on twitter at austin underscore walker and at giant bomb dot com. Sylvia, where can people find you?SYLVIA: You can just find me on twitter at captaintrash. I’ve got some other stuff in the works but it’s been put on hold so just follow me on twitter if you wanna keep up with whatever I’m doing.
+AUSTIN: Sounds good. And Andrew.
+DRE: You can find me at twich.tv/streamfriends or on twitter at swandre3000.
+AUSTIN: Nice. Thanks for joining us, tune in next week when we return to Counterweight.

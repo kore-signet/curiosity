@@ -1,0 +1,1393 @@
+COUNTER/Weight 13: Our Customer of the Month
+
+Transcriber: Alexis @alexiorsays
+
+AUSTIN (as Narrator): For as long as Jacqui Green and Gillian Red can remember, they were a harmony. Back when they met on distant, cold, Calliope, they pulled the driving synth sound of neurotech dance beats over them like a blanket. On their first contract, they danced a clumsy, violent waltz through Fairchild Headquarters.
+
+[The Long Way Around playing]
+
+AUSTIN (as Narrator): But each misstep only drew them closer together in rhythm. Now, chasing their biggest score yet, they move to a beat only they can hear. One made of gunshots and bionic arms, hard cash, and the very sharpest of smiles. 
+
+
+
+AUSTIN: Welcome to Friends at the Table, an actual-play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. We are, as always, presented by streamfriends.tv and runbutton.net; we are continuing our game of “The Sprawl” by Hamish Cameron. I am Austin Walker, and joining me today are: Ali Acampora. 
+
+ALI: Hi! 
+
+AUSTIN: Art Tebbel.
+
+ART: Hey! 
+
+AUSTIN: Keith Carberry. 
+
+KEITH: Hi!AUSTIN: And Jack de Quidt.
+
+JACK: Hey there!AUSTIN: I dunno why I like, “joining us today,” like, that’s… that’s the crew for this game.
+
+ART: Right. 
+AUSTIN: That’s who it’s gonna be.
+
+KEITH: We’re kind of like, fifty percent on Art.
+
+AUSTIN: Right. We, dunno, we’ll take him or leave him. We’ll see. 
+
+KEITH: Mm-hm.
+
+ART: Yikes. 
+
+AUSTIN: [Laughing] Everyone’s always up for reconsideration! That’s the world we live in.
+
+[Jack laughs]
+
+AUSTIN: This is the world of flexible hypercapitalism. 
+
+JACK: Please don’t [inaudible]
+
+ART: Welcome to Mercenaries at the Table! 
+
+[Keith and Austin laugh]
+
+AUSTIN: Our agenda today is to make the Sprawl dirty, high-tech, and excessive. Make the big things bigger, the small things smaller; fill the characters’ lives with action, intrigue and complication; entangle the characters in the Sprawl; and to play to find out what happens. I also want to start off this game by going over your personal directives. So, let’s start with Aria. What were your personal directives?ALI: My personal directives are… “When you value heroism over the mission, mark experience. When your desire for fame draws unwanted attention to the mission, mark experience.” 
+
+AUSTIN: Jack?JACK: Mine are, “When I discover more information about the cause of my sentience, mark experience,” and, “When I follow Isaac Asimov’s laws of robotics and it hinders the mission, mark experience.” 
+
+AUSTIN: Let’s do Art? Cass.
+
+ART: “When your former membership in the Apostalisian royalty hinders the mission, mark experience.” And, um, “When you put the advice of Koda ahead of the mission, mark experience.” 
+
+AUSTIN: And, Mako.
+
+KEITH: Uh… “When your lies about your identity or past put this mission at risk, mark experience. When adhering to your personal code or persona hinders the mission, mark experience.”AUSTIN: Right. Okay. And then your mission directives for this mission are to one: get the mission, two: locate the virus coordinates and then like, lock it down in its node, three: recovery the virus successfully, and four: return the application and get paid. Returning that virus is, I mentioned earlier to you in Skype that you could return that, to Paisley, who is the person that set you out on this mission, or now that Jamil has called, you could send it to her. You could… or give it to her, remember it’s kind of a weird like, physical thing in a weird way, in that there’s only one copy of it. It doesn’t actually like, proliferate into the web, or the mesh, the way that most things do. Also, shout-out to to Read Only Memories, which I remembered, that is the game that I got “the mesh” from. [Others saying ohhh] I like it a whole bunch. So I’m just… stealing it!JACK: I’m looking forward to playing that. 
+
+ALI: I’ve heard good things.
+
+AUSTIN: Yeah! It’s pretty good. It’s pretty good. So, where were we when we last left off? Um.... I remember! 
+
+KEITH: I remember!
+[Ali laughing]
+
+AUSTIN: Ali was following Beck through a holographic concert. Cass and Mako were infiltrating Horizon Tactical Solutions base. And…
+
+KEITH: Oh, I thought we were at Larry’s house.
+
+AUSTIN: You’re at Larry’s-- you were at Larry’s, that’s correct.
+
+JACK: Oh, yeah, I’d forgotten about that. 
+
+AUSTIN: You’d convinced Larry that you were him. And AuDy is just… you were in a coffee shop? In Centralia somewhere?JACK: Yeah, I think so.
+
+AUSTIN: Waiting for like, the information about where the actual virus was, so that you could go kind of cut it off and pick it up. Hopefully, hopefully not just sitting in a cafe while all of your friends get killed. Hopefully. Is that accurate? Am I missing anything?JACK: Yeah, it’s--
+
+ALI: Um… There was like a lady on top of the stairs, chewing bubblegum?AUSTIN: Right. There is a lady on top of the stairs, popping bubblegum, as Beck was climbing it.
+
+ALI: Yeah.
+
+AUSTIN: And you were like, a few feet, or a few flights below, chasing, or kind of following him? Following him up? Actually, given that, give me a… I think you should, you should roll…. Unless you’re being loud, which I kind of think you probably are not being loud, by default, you’re not trying to… Gimme an Act Under Fire to not be noticed.
+
+ALI: Uh-oh. Okay. 
+
+AUSTIN: This is one of those things, like, oh, in retrospect… Ooh, that’s a six. That’s pretty bad.
+
+[Jack laughs]
+
+AUSTIN: So… as you climb the stairs up, here’s what happens.
+
+KEITH: Do you have any, like, holds from before, that are…?AUSTIN: Ah, you know what! Good call! It-- Mm-- Is this-- This is… 
+
+ALI: Well Art has all the holds.
+
+AUSTIN: Well no, Art has-- what’s the name of that one move you have, Art?KEITH: He has a plus one forward to anyone who’s still following the mission that was laid out.
+
+AUSTIN: That’s completely right.
+
+ALI: Right.
+
+ART: Yeah. 
+AUSTIN: Alright, so…
+
+JACK: Good call.
+
+KEITH: Thank you.
+
+AUSTIN: Here’s the thing that-- here’s the choice… Act Under Pressure, that boosts your six up to a seven. [Reading from the book] On a seven to nine, you stumble, hesitate, or flinch. The emcee will offer you a worse outcome, hard bargain, or ugly choice. Um, you can go unnoticed, you realize that, normally when you move through a space like this, there’s this kind of a natural degree of stealth, because the web is kind of filtered with, um, a billion other people there, right? So, if you’re on the mesh, then, and you’re tuned in to see who’s around you, who else is logged in, it’s like, oh, a billion people, because that’s the world we live in. But in this place, remember, there’s only like eight real people here, out on the dance floor, [Ali laughs] it’s just you and this-- and Beck, who you’re following. Beck, the Horizon Tactical Solutions officer. [Art laughs] You realize, like, oh shit, if I stay online for another second, he’s going to notice that I’m here.
+ So your choice is: you can, you can success-- you can dodge him, he won’t notice you, but it means logging off the mesh completely, and therefore, one, realiz-- seeing the fact that there are no people here, which is great, including no performer on the stage, including no actual sound being produced. And also losing connection with the rest of your team. If you don’t, if you don’t do that, then he’ll see, Beck will see that you’re following him up the stairs. 
+
+ALI: Umm…
+
+KEITH: This loser is following me. 
+
+[Ali and Jack laughing]
+
+ALI: I’m gonna go with being caught, ‘cause I don’t wanna lose connection to the Brilliance.
+
+AUSTIN: Okay. Good call. Uh, so, you get about… you hear like, the pop of the bubblegum, and someone shouts down, I can’t remember exactly what I said last week, but it was basically, like, “come on, let’s hurry up and do this,” something like that, and before Beck can make his call back up, like, maybe you’re stepping more loudly than you should be, or maybe your metal arm hits the railing, or something [Ali giggles], it’s one of those things where if it was just a flesh arm, it wouldn’t be a big deal. But, your metal arm makes noise. It clanks. And he’s like,
+
+	AUSTIN [as Beck]: One second. I gotta go down and check this out.
+
+AUSTIN: And there’s another pop, and like a loud sigh, and he’s coming down towards you. What do you do?
+
+ALI: [whispered] Yikes. [aloud] So, does he see me at this point? Or…
+
+AUSTIN: No, but he will if you don’t do something.
+
+ALI: Okay. Um, I think I let myself be seen? But then I act like really startled that he saw me. Like, “oh, I… is this the way to the bathroom?”AUSTIN: Okay. So you’re trying to-- you’re definitely trying to pull one over on him here.
+
+ALI: Yeah.
+JACK: To pull a Larry. 
+
+AUSTIN: To pull a Larry![All laughing]
+
+AUSTIN: She’s not trying to convince him that she’s Beck! That’s not happened.
+
+[All laughing loudly]
+
+KEITH: Don’t you have to go to the bathroom, Beck? 
+
+AUSTIN: We should both go to the bathroom! Uhh…
+
+ALI [as Aria]: I was following you, ‘cause I thought...
+
+AUSTIN [as Beck]: You’re not supposed to be here.
+
+AUSTIN: Gimme, gimme a Fast Talk.
+
+ALI: Okay. 
+
+AUSTIN: Ooh! That’s a fourteen.
+
+ALI: Nice!AUSTIN: So you’re… this is… [reading from the book] When you try to get someone to do what you want, with promises, lies, or bluster, roll plus Style. On a ten plus, NPCs do what you want. So yeah, he does what you want. What is it that you’re asking him to do, just let you go?
+
+ALI: Yeah, not--
+
+AUSTIN: You know what he does? He says--
+
+ALI: He gives me directions to--
+
+AUSTIN: He says, “alright, come with me.” ALI: [whispered] Nice.
+
+AUSTIN: And he starts leading you to the bathroom that’s down like, a few flights. He calls up, he’s like, 
+
+AUSTIN [as Beck]: I’ll be right there. Just make sure everything goes as planned. Come with me, it’s just down here, and I can’t have you walking around down here by yourself. I hope you understand. Are you enjoying the concert, at least? 
+
+ALI [as Aria]: Yeah! Are you here too? 
+
+AUSTIN [as Beck]: Yeah. Yeah, I’m here too. 
+
+ALI [as Aria]: Aww! I’m such a big fan! What’s your favorite song? 
+
+AUSTIN [as Beck]: I don’t kn-- like all of them, they’re great. Let’s--
+
+ALI [as Aria]: [giggling] They’re so good! What’s goin’ on upstairs? Is there like a VIP lounge or something?AUSTIN [as Beck]: Yeah. Only important people. Can get up there. So--
+
+ALI [as Aria]: Really? Really?AUSTIN [as Beck]: Uh-huh. I hear--
+
+ALI [as Aria]: What’s your name?AUSTIN [as Beck]: I just work in security, ma’am, I appreciate it, we just need to move to--
+
+AUSTIN: He’s very flustered. This is not a good look for him, for Beck.
+
+[Keith and Ali laughing]
+
+	ALI [as Aria]: Could you let me in?	AUSTIN [as Beck]: No, I, that’s-- no.
+
+	ALI [as Aria]: Please?
+
+	AUSTIN [as Beck]: I would get fired.
+
+ALI [as Aria]: I’ll play cool, I’ll play cool, I swear! [Art laughs] No one will know I’m there! It’s fine!
+
+AUSTIN: This is like, a different roll. [Ali laughs] The thing that he promised to do is lead you to the bathroom. I think I have to stick to that roll. 
+
+ALI: Okay.
+
+JACK: Could she not roll again?
+
+AUSTIN: She could, but there’s also, again, just like the… you can’t make someone, you can’t fast-talk someone into committing suicide. Right?ALI: Yeah.
+AUSTIN: This would be that. Like, you can’t-- you can only talk someone up to the water, you can’t make them drink.
+
+ALI: Right, okay. 
+
+AUSTIN: Uh, and so, think about like, in Dungeon World, there was a situation where it was like, I don’t care how high you roll an attack; you can’t kill the dragon with this wooden stick. Unless it’s the one magic wooden stick that can kill dragons. You know? 
+
+JACK: Sure.
+
+AUSTIN: You have to honor, I have to honor the rules, or, the fiction in that way a little bit, which is, you might be able to convince him to go there, but not like this, necessarily. 
+
+ALI: At least if I like, continue following him, he…
+
+AUSTIN: Right. You could push him! That’s the thing that you could probably do, is push him to take bad action, but-- there are ways that I think that you could push him, to let you in with words. But those ways are not by being a fun fan of Aria Joie. [Ali laughs] Who’s currently cosplaying as Aria Joie.
+
+[Ali and Keith laughing]
+
+JACK: Really effectively. 
+
+AUSTIN: Right. Or, yeah. It might be-- yeah. Yeah. 
+
+ALI: Okay. Umm…
+
+AUSTIN: He leads you to the bathroom. And is like, 
+
+AUSTIN [as Beck]: It’s here, I’m gonna go back to work. Enjoy the concert, miss. Just have a good time. 
+
+ALI [as Aria]: Okay. Thank you.
+
+AUSTIN: He heads back. The other direction. Um, let’s cut to Cass and Mako, who are currently fake-repairing the heating system [Keith cackling] in the second floor of the Horizon Tactical Solutions office--
+
+KEITH: I did make it a little cooler. 
+
+AUSTIN: You did actually-- sorry. Actually; in Dome 32.
+
+KEITH: Actually repairing, for no reason. 
+
+AUSTIN: Um, also, I’m calling Dome 32 Westshore, that’s the name of this dome. One… second. Let me… figure out how to--
+
+JACK: This is live cartography right now. 
+
+AUSTIN: Right now. Dome 32 is AKA Westshore…
+
+ART: I mean, is it really fixing it, if it’s not broken? Aren’t we just kind of, messing with it? 
+
+JACK: [Inaudible]
+
+AUSTIN: Right. Adjusting it. 
+
+ART: Sure. So we’re not really fixing it.
+
+AUSTIN: So, when we were last with that, Adler, who is one of the commanding officers of this kind of specific deployment of Horizon Tactical Solutions, had been working on her new mech the Venus, and had gotten into it, I think, or had turned her back to get into it? 
+
+KEITH: Yeah, yeah, she was target practicing. AUSTIN: Right. What are you doing? 
+
+KEITH: Um… well. I think we wanna go into the basement, right? ART: Yeah. But that didn’t work last time.
+
+AUSTIN: Yeah. So you wanna go one more level down, and that seems to be locked down and you weren’t talking them into letting you into that room.
+
+KEITH: No, no, they definitely didn’t want us to do that. And then the girl that had come with us from upstairs also has left? 
+
+AUSTIN: Yeah, she left. So now it’s just you and Adler. 
+
+KEITH: Yeah. I think that what I want to do is… leave, and go downstairs. It’s locked-- how locked is it?
+
+AUSTIN: It’s very locked. It’s a different door than the door you’re-- that you guys came in. So like, so you took down a stairwell, and now there’s an elevator on the far, the far side that will take you down the next level. 
+
+KEITH: Okay.
+
+ART: Can you fog that lock? And can you fog that Venus? 
+
+AUSTIN: You could try to do both of those things. KEITH: I can do both of those things. Um, I would like to get out of here without having to do anything to Adler, including make her notice that we’re leaving. AUSTIN: Okay. 
+
+KEITH: I’d like her to just not even-- I want her to forget that we’re down there. 
+
+AUSTIN: So you’re leaving… first. 
+
+[00:15:00]
+
+AUSTIN: Before you try fogging stuff? Or you’re fogging stuff first. 
+
+KEITH: Um, I think that we’re gonna fog the door, to leave first. 
+
+AUSTIN: Okay. Uh… Alright. So that’s part of the thing that you’re already in, the security node that you’re already in. 
+
+KEITH: Okay. 
+
+AUSTIN: Which is pretty useful. 
+
+KEITH: Yeah.
+
+AUSTIN: Lemme just make sure there’s no additional… thing for you to do here… [sounds of typing] But I think you should just be able to make that happen, because you’ve kind of kept them on lockdown pretty well, so far. 
+
+KEITH: Okay.
+
+AUSTIN: Or kept them-- I guess, the other way around. Kept from being locked down pretty well.
+
+KEITH: Right, yeah. So I can just pop that door open? That elevator?
+
+AUSTIN: Yeah, I’m pretty sure you can just unlock that door. Just gimme like two seconds to double check it. 
+
+KEITH: Also, forgive me for kind of forgetting how some of this, ‘cause we only just--
+
+AUSTIN: We only just started. Two weeks ago. 
+
+KEITH: We only just started, with this…
+
+AUSTIN: Yep.
+
+KEITH: I think the most different thing about switching from Mech Noir to this is the matrix stuff--
+
+AUSTIN: Totally. It totally is. And the thing that I’m happy about it-- the thing that’s going to be cool with it, is that there are going to be fight scenes in the future, where you have things to do besides just roll a single stat, and can actually have some choices to make. 
+
+KEITH: Yeah.
+
+AUSTIN: But it’s gonna take a while ‘til when we can just do that second-hand. Do you know what I mean?KEITH: Yeah.
+
+AUSTIN: Or, second-- second-hand? Is that the word I’m looking for? KEITH: ‘Cause we haven’t actually done-- yeah, second-hand.
+
+ART: Second nature.
+
+AUSTIN: Second nature! 
+
+ART: Second-hand is if you were buying it. 
+
+[Keith laughs]
+
+AUSTIN: Right. 
+
+KEITH: Good point. 
+
+AUSTIN: You could be doing it, you could be buying it second nature, second-hand!KEITH: Second nature hand. It could be hand-me-down… 
+
+AUSTIN: Exactly. 
+
+JACK: Can you, um, can you silently fog a mech? Can you fog a mech in such a way that the pilot doesn’t realize that it’s been compromised?AUSTIN: I think that would… there are ways to do that, but the Venus is not on a node he’s in. Right? Like, he’d have to dive into that thing that has its own different security systems? JACK: But in principle, that’s a doable thing. 
+
+AUSTIN: It is, depending on what you want to do, right? Like, she’s doing firing tests right now. If that gun stops working…
+
+JACK: Ah. 
+
+AUSTIN: She would notice that. 
+
+KEITH: Right. 
+
+AUSTIN: But, you know…
+
+KEITH: It’s possible, the other thing that I was thinking of was maybe fogging it in such a way where it couldn’t, like, turn around properly? AUSTIN: Sure. 
+
+KEITH: So, she wouldn’t notice that something was wrong until she tried to turn around, and then maybe would just assume, oh, there’s something wrong with my mech.
+
+AUSTIN: Totally. So, actually, this is the thing that you need to do: You need to roll Manipulate Systems, which is Synth. 
+
+KEITH: Okay.
+
+AUSTIN: Because that will give you hold over digitally controlled aspects of the system; previously, I think you’d “compromised security.” 
+
+KEITH: Right. 
+
+AUSTIN: Boom! So, seven. That means you get one hold, which you’re gonna then spend to unlock that far elevator?KEITH: Yeah.
+
+AUSTIN: Awesome. 
+
+AUSTIN: So, you’re able to do that, so that door is open. Are you both just trying to head into that elevator?ART: Well don’t we need to mess with her a little first— like, we…
+
+AUSTIN: Up to you guys.
+KEITH: Do we need to mess with her a little first? I— in my head, if she turns around and we’re gone, we’re just, we just went back upstairs.
+
+AUSTIN: Right.  
+
+ART: Yeah, I guess if the firing test is probably pretty loud?AUSTIN: It’s pretty loud.
+
+KEITH: It’s pretty loud.
+
+ART: I guess the question is, does she have like, a—
+
+AUSTIN: And it’s a big, this is like a big underground, like, all-metal warehouse hangar.
+
+KEITH: Hangar. It’s like a hangar. 
+
+AUSTIN: Yes. Exactly like that. 
+KEITH: Yeah.
+
+AUSTIN: It’s very echoey and very loud…
+
+KEITH: It’s a weapons testing lab, but like, by virtue of the size of these things, it is just a… is football fields.
+
+AUSTIN: Yes. Exactly. That’s exactly it.
+
+ART: But I guess like, do we think that there’s a radar in there that’s granular enough to pick up two humans?AUSTIN: That’s a good question.
+
+JACK: Possibly, but maybe not if they looked for it— it’s that thing of like, if the security camera’s not [crosstalk, unintelligible]—
+
+KEITH: I already told Larry that we’re cool?
+
+AUSTIN: You did tell Larry that we’re cool.
+
+KEITH: So—
+
+AUSTIN: But that’s not telling Adler that you’re cool. Remember, that’s— the point that Art is making is that, like—
+
+KEITH: Oh, is that Adler has us on her motion tracker.
+
+JACK: Like inside the Venus?
+
+AUSTIN: Yes. If Adler’s motion-tracking you from inside the Venus. Uh, reminder—
+
+JACK: But she’s focusing on firing tests. 
+
+ALI: Yeah.
+
+AUSTIN: Reminder that Adler is the chief of this subdivision of Horizon Tactical. Which is to say, not necessarily… I would make a… Here’s what I’m saying, it’s, you would have to make a roll, to just sneak away. You would also have to roll to make it so that she couldn’t see you. So, it’s different rolls, but you would have to… it could go either way, there. It’s up to you guys, which way you want to do it.
+
+KEITH: What is the, what is the stat for “sneak?” 
+
+AUSTIN: It’d be “act cool,” it would be “Cool,” which is to…
+
+KEITH: Cool? Can Art—AUSTIN: To act under fire.
+
+KEITH: We would both have to roll Cool, or just I could roll Synth?AUSTIN: No, I would do… “Act under fire” to roll, for one of you, and then, like, “Help,” for the other person, to do it.
+
+KEITH: Okay. ‘Cause we can just sneak away if Art rolls Cool and I rolled… “Help.” What is rolling “Help?” 
+
+AUSTIN: It would be, you’d be rolling your Link score with him. 
+
+KEITH: Okay. 
+
+AUSTIN: And describing like how you’re helping; otherwise, yeah, it would just be two different rolls.
+
+ART: And the way you should be helping is by making it sound like that other elevator’s going up. 
+
+AUSTIN: That’s a good one. You could totally do that.
+
+KEITH: That is a good one. I’m totally gonna do that. That’s a good idea.
+
+AUSTIN: I like it. Like it a lot. Alright, so then gimme a roll… So, first of all: Keith, roll your link score with, with Cass. 
+
+KEITH: Cass, do I have a link with you?ART: Yes…
+ AUSTIN: Yes, you have a one with Cass.
+
+KEITH: And what is that from?AUSTIN: That’s from when Cass helped you go into the September Institute, oh, or maybe you weren’t here for this.
+
+KEITH: Oh, I might not have, no, I actually forgot to ask about if I ended up helping someone else—
+
+AUSTIN: You did. You ended up helping Cass. Uh, Cass ran a mission against the September Institute where… they found… what did Cass find there?
+
+ART: I don’t think we found anything there, I thought I disrupted their supplies. 
+AUSTIN: That’s what it was. Yeah, you did like a disruption of supply line.
+
+JACK: Because they were instrumental in the war, right?AUSTIN: Right. That’s right. You hit them because they had done the thing with, where they turn the Divines on the Apostolisian forces during retreat. So you’re like, yeah, I’ll hit ‘em back a little bit, this one’s for me. So yeah, go ahead and give me a 2d6 plus 1, Keith? KEITH: Okay.
+
+AUSTIN: So the way that this works is that if you succeed…
+
+KEITH: Ten.
+
+AUSTIN: You got a ten, so that’s a good success. Um, you… let me make sure I read it exactly right here… [reading from the book] “When you help or hinder another character, roll Links with them, on a 7+ they take plus one or minus two forward, your choice,” so I’m guessing you’re giving him plus one? 
+
+KEITH: Yeah.
+
+AUSTIN: Okay. So Art, go ahead, and take plus one, and roll.
+
+ART: So it’s one more than that. 
+
+AUSTIN: It’s actually two more than that, right? Since you’re still acting according to plan? Or do you— I’m like really torn on how we should talk about that move.
+
+ART: Yeah. 
+
+AUSTIN: Do you have thoughts about that? 
+ART: Uh… Yes? Like… 
+
+AUSTIN: You know what? Here’s a thing we should have done that’s different. Is, [reading from the book] “When you plan a mission, everyone to whom you assign a task takes plus one ongoing when they act on that task.” So, what we need—
+
+ART: So there’s not a specific task, yeah.
+
+AUSTIN: So from now on what we need to do is say like, alright, you’re working security, you’re working, you’re going, your job is to open doors, or your job is to get us into here. So whatever—
+
+JACK: Like Gravity Bone-style character classes? Is it… Thirty Flights of Loving! 
+
+AUSTIN: Totally. 
+
+JACK: Where they go like, oh, the pilot’s, there’s somebody or another.
+
+AUSTIN: Thirty Flights of Loving does that. Exactly. So like, he could say, Cass could say, AuDy, when you get us to or from the location, take plus one forward. That’s what your task is, you’re the pilot. You know, Aria, your job is to distract. Whenever you’re distracting, take plus one forward. Something like that, right?ART: Sure.
+
+AUSTIN: And in this case, I think, also the thing is: this is not probably part of the plan, right? Like, Cass’s dream of this probably wasn’t, “and then we’ll steak into the place, and then I’ll be the one to lead over there!” Like, if anything, it feels like Cass’s plan was that they would get to be the leader, right, and not just the sneaking into places thing.
+
+ART: Well, the plan was that Mako and I would do this sneaking. But yeah, this isn’t part of the plan. [Unintelligible] right here.
+
+AUSTIN: Also, this is academic, because you rolled a nine plus one from the linked help, so that’s just always a ten. 
+
+KEITH: Right.
+
+AUSTIN: So yeah, you managed to get into the elevator down. It’s a longer elevator, like, it’s the floor down from you, but it’s actually not just one little, like, it’s not just one floor. It goes deep. Meanwhile, tell me about the café you’re at, AuDy. 
+
+JACK: It’s like a space Starbucks. Um, I dunno… 
+
+AUSTIN: Right. It’s Consolation… Constellation Café, we know that.
+
+JACK: A long time ago, you told me about, um… those cards in Starbucks, that said things like, “this is Hella and her favorite animal is an elephant, she’s our customer of the month,” or whatever, and I think that there’s one of those, just on a big wall, emblazoned, they’ve— 
+
+AUSTIN: Who’s the customer of the month? 
+
+JACK: Uh, her name is Carla.
+
+AUSTIN: This month. Uh-huh.
+
+JACK: Her favorite sport is, um, blitzball. 
+
+AUSTIN: [laughing] Okay, of course.
+
+JACK: Which is, it’s unclear what it is, but there’s a really brief montage of loads of people going “yay!” and clapping and cheering in the stands. And there’s no baristas, it’s just machines. With “barista” written above them. But people are doing what they do in coffee shops, so they’re working, and they’re looking for power sockets, and they’re, you know. Drinking coffee.
+
+AUSTIN: Does AuDy have a favorite animal? Or a favorite sport?
+
+JACK: Uh, no. Dogs? No. No. Neither. I don’t think—
+
+[Ali, Austin, Keith laughing]
+
+AUSTIN: Is it not dogs? Is it not AuDy’s amazing dog?JACK: No, I think AuDy probably just picked a dog because it was probably the cheapest? Or the one that was most on offer, or the first one they saw… I don’t really think AuDy’s in the business of picking favorite animals or favorite sports.
+
+AUSTIN: Right. 
+
+JACK: But AuDy’s just sort of sitting there watching people, they’ve got their—
+
+AUSTIN: Is— are you— go ahead.
+
+JACK: They’ve got their… are we using phones? Are we using, like, Bluetooth headsets and phones?
+
+AUSTIN: Uh, I think some people have those things just completely integrated in their being, at this point. 
+
+JACK: I doubt AuDy does. Um…
+
+AUSTIN: Right. One hundred percent does not.
+
+JACK: I think AuDy’s phone is face down on the table in front of them, and every so often they—
+
+AUSTIN: Does AuDy have to head their finger to touch the touchscreen?JACK: Oh, man.
+AUSTIN: Because it has to be— or has to like, run electric current through their finger, so that they can touch the capacitive sensors? 
+
+JACK: Yeah! But I think that they’re sort of occasionally nervously turning the phone over and checking to see if anybody has contacted them, and turning it back down again. 
+
+AUSTIN: Are you… So, we sort of talked about how there is a connection between you and the rest of these groups, you and the rest of the team, rather. What is AuDy doing as… So at this point, I think, as they go deeper into, under the ground, Cass and Mako do like, blip out of… of the feed.
+
+JACK: Yeah. Yeah. And I think that AuDy—
+
+AUSTIN: And, Aria has not, yet. 
+
+JACK: I think AuDy has been anticipating something like this, especially from Cass and Mako, especially because they know that facilities are going to be deep, or be complicated, or have some jamming stuff.
+
+AUSTIN: Right. Yeah, totally. 
+
+JACK: But I think it’s not a cause for concern, but it raises their level of anxiety. And I think the fact that they can still see Aria is still transmitting is… 
+
+AUSTIN: Right.
+
+JACK: Is notable to them. If anything, the fact that Mako and Cass have gone offline is a sign that maybe we’re getting closer to needing to move.
+
+AUSTIN: Totally. Totally. Okay, Aria. You’re still in that bathroom. What do you do?ALI: [laughing] Um…
+
+AUSTIN: Actually, here’s what happens when you’re in the bathroom. Uh, you’ve gotten in there, and you’re in there for like fifteen seconds, when someone comes out of a stall and goes, “oh, my god.”
+
+[Art laughing]
+
+AUSTIN (as fan): Aria Joie! Oh my god. I need to—
+
+AUSTIN: And, like, looking, starts dialing a thing on her hand… 
+
+	ALI (as Aria): Hi! Hi. Hey. Hello!
+
+	AUSTIN (as fan): H- I- Is the— I didn’t miss the encore, did I? 
+
+	ALI (as Aria): N- no. No! No.
+
+AUSTIN: She is like, a super mousy, let’s say, 19-year-old girl, who is wearing, like, a skirt that is anime Aria Joie print on it, it’s Aria Joie like holding a microphone up, and like singing— it’s like prints of that in like, a weird geometrical pattern across her skirt; and then her top is like a really like, half-cut jacket, and then just a tank-top under that. And she has like, big, bouncy hair, and is like uh, a weird color? No, I think she’s like—
+
+JACK: Is it a color from Aria’s most recent video? 
+
+[Ali laughs]
+
+AUSTIN: No, I don’t think she’s even that committed. 
+
+JACK: [laughing] Oh, she isn’t?
+
+AUSTIN: Or like—
+
+ALI: She just has a cool outfit. 
+
+AUSTIN: She just has a cool outfit. It’s as close as she can get— and also like, Aria probably gets the impression immediately, that this is not a thing that she shares with other people in her life. 
+
+[Jack and Ali laughing]
+
+AUSTIN: Like, there’s a moment where she goes to call someone, and just like— “Can I get a selfie?” Like she doesn’t have anyone to call, to tell you… to tell them that she’s meeting you, which is is kind of… embarrassing… 
+
+JACK: It’s space… 
+
+ALI: She can’t call anyone… 
+
+JACK: Everything is heartbreaking in space. 
+
+[Ali laughing]
+
+AUSTIN: It’s so sad. Space is very lonely. So yeah, she’s like:
+
+	AUSTIN (as fan): Let me take a picture with you please!
+
+	ALI (as Aria): S-sure! Y— uh, yep, okay!
+
+AUSTIN: So, she like, poses with you in the bathroom, and she like a little toss, and a little micro-drone flies up, and lines up the photo, and snaps it. And she’s like, “no one on social media is going to believe this.” No one on capital-S capital-M Social Media, ‘cause I don’t know what our fake social media is called.
+
+JACK: It’s called Social Media! 
+
+AUSTIN: Oh, okay, thanks.
+
+JACK: It’s the social media core. 
+
+AUSTIN: And, almost instantly, your phone starts blowing up, Aria. With just like, new messages… there’s a certain sort of like… no one’s seen you in public like this in a long time. And also, aren’t you supposed to be on stage? 
+
+ART: Everyone knows Aria just hangs out in the bathroom after shows!
+
+[All laughing]
+
+AUSTIN: A public bathroom. But there’s like no doubt that it’s you. Right? 
+
+KEITH: But is it not like a known thing, that all of it… holograms? 
+
+AUSTIN: Not like this. 
+
+ALI: No…
+
+KEITH: Like they don’t know about all of the holograms?AUSTIN: Like it’s a known thing that… they know that it’s like… they know that it’s a thing that can happen, right? KEITH: Right. AUSTIN: But like, oh no, you go to a concert to see the person. Or like, at least the person, it’s the person modified with holograms. Or the person is performing somewhere live with holograms.
+
+ALI: Right.
+
+JACK: And sometimes they are just holograms, and that’s okay. 
+
+ALI: Also, I think specifically, this would be unprecedented in Aria’s career.
+
+AUSTIN: Right.ALI: Like, she is known as an artist who performs live.
+AUSTIN: Right. Exactly. 
+
+KEITH: Not an artist who has like a bunch of executives making new songs of her without her even knowing? AUSTIN: Exactly. 
+
+ALI: [laughs] Yeah, this is a new thing. Um… I… Oh. I… can I… How would I like, lose… her?
+
+AUSTIN: You can just lose her. 
+
+[00:30:00]
+
+ALI: Yeah… 
+
+AUSTIN: But the damage has been done. 
+
+ALI: Right. Okay, that’s… 
+
+JACK: Also, it’s gonna be so sad for her. Like, she’s just gonna turn around and Aria will have gone. 
+
+AUSTIN: AuDy, E.T., the equivalent of Entertainment Tonight— do you know what Entertainment Tonight is, Jack?JACK: No. 
+
+AUSTIN: The equivalent of a television version of your British tabloids is on. 
+
+JACK: Oh! No!
+
+ART: Whoa! That was super mean to Entertainment Tonight! I’m not saying it’s unfair, but it’s super mean!
+
+[Austin and Keith laughing]
+
+AUSTIN: And, Aria is just on the TV, smiling next to a super awkward superfan. And it’s like, “Aria Joie, strange controversy, is she really performing?” It’s very… immediately, this—
+
+JACK: Does this mean you’ve gotten rid of Carla? 
+
+AUSTIN: No.
+
+JACK: Carla is on a different screen. 
+
+AUSTIN: Yes. Yes.
+
+JACK: Oh, okay. Okay. 
+
+AUSTIN: Maybe it’s like an inset. Like maybe it’s a, you know maybe the screens are like, I think like part of being “customer of the month” means you just, you show up on the screen like a stamp. So like, it shrinks Carla down.
+
+JACK: Like a watermark.
+
+AUSTIN: Like a watermark. 
+
+JACK: Is Carla real, I guess, is the other thing?AUSTIN: Good question. Ah, play A(s)century. Go to ascentury.net to find out; a-s-c-e-n-t-u-r-y, dot net. And she’s just there… and it’s just Aria Joie, smiling kind of awkwardly there. So people know she’s there now!
+
+ALI: Is it… [laughing] is it like incredibly evil if I like, take her with me upstairs? 
+AUSTIN: You tell me![Ali laughing]
+
+ART: What, as a human shield for the bio-virus? That’s pretty evil, yeah! I don’t wanna be like the group ethicist here, or anything… 
+
+ALI: [laughs] Just… maybe I’ll be slightly less likely to be shot at?JACK: No, now two people will get shot at! And one of them doesn’t have a gun!
+
+ALI: [laughs] I’ll protect her!
+
+KEITH: You’ll be fine, no, it’s cool.
+
+JACK: Yeah, you’re protecting her by taking her up there in the first place. 
+
+ALI: I just feel like it’ll be like, hey, we wanted to come and see… 
+
+AUSTIN: Uh-huh? Who?. It’s you!
+
+[Ali laughing]
+
+AUSTIN: ‘Cause now you have Beck, who’s just like, “oh, she’s just a weird fan—”
+
+ALI: Beck didn’t think that I was Aria! 
+
+AUSTIN: And then you have this super-fan, who’s like— you can do this! This is a good scene. We should just do this scene. 
+
+KEITH: I think, uh, I feel like there’s plausible deniability in that you’re still just a cosplayer. 
+
+AUSTIN: It’s too late, because she said “yes” when, when—
+
+KEITH: I, well, I lied, I’m sorry, it’s not me, I’m just a…
+
+AUSTIN: Right.
+ALI: I’m just—
+
+KEITH: Like, you’d look like a heel, but you’re a heel either way. 
+
+JACK: Do you want to be a murder heel, or a lying heel? 
+
+KEITH: Right. Exactly. 
+
+ALI: I feel like this is gonna be really great for my career as an Aria Joie lookalike. 
+
+AUSTIN: Do you take her? Let’s just jump to it, because we can dance around it all day, but do you?ALI: Okay. Um, is that my best option…?KEITH: You could dress her up as you and send her up there as you alone.
+
+[Ali and Keith laughing]
+
+AUSTIN: That— you can’t— that’s too much. 
+KEITH: And just quit. Just quit the whole thing. I’m going back to Disney. 
+
+AUSTIN: We just pick up this girl later on the Kingdom Come, just living Aria’s life— “This is very strange! This is not the life I thought Aria had!”ALI: Who’s the wrestler who just like switches shirts with people? Have you seen that one wrestler?AUSTIN: I don’t know who that is. 
+
+ALI: Um… I’m not gonna switch outfits with her, that’s a little too ridiculous.
+
+AUSTIN: Yes.
+ALI: But I think…
+
+JACK: And then you just get to play as her!
+
+KEITH: Yeah.
+
+AUSTIN: Yeah. Just go hang out with AuDy! It’s a whole different game, just two people hanging out!KEITH: Four hours into it, she’s just like, “Is… Aria a terrorist?”
+
+[All laughing]
+
+AUSTIN: “Wait a second!” Blood dripping down her chest.
+
+ALI: Oh my god.
+
+ART: Turns out we were the bad guys the whole time!
+
+AUSTIN: Huh! Weird.
+
+ALI: Wait, okay. So that’s probably actually a terrible idea. But I’m gonna sneak back upstairs again. Right? AUSTIN: Okay. Yeah. So you head back the way you had come, and when you climb those stairs up, you, about halfway up, you hear a very brief struggle, and then a loud bang. 
+
+ALI: Ooh! Okay, I’m really glad I didn’t bring her upstairs.
+
+AUSTIN: That’s gunfire. You hear gunfire. And then like, a door gets kicked open, and you hear someone going up further up the stairs. Climbing higher into the arena. What do you do?ALI: Okay. Where was those— those like noises coming from? AUSTIN: Up the stairs, from where you were. So if you go up, it’s like where Beck was heading originally. 
+
+ALI: Okay, so I rush up there to see if there’s… a body there? Or… 
+
+AUSTIN: There are two bodies there. One of them is a kind of pudgy guy with glasses and a yellow dress shirt that’s like a size too small for him, and he is tied up in the corner. And the other person is Beck, on the ground, bleeding out from the chest, face down. Blood kind of pooling around him. 
+ALI: Oh, my god. And then—
+
+AUSTIN: The rest of that room is, it’s like the control room, looking down on the concert. It’s actually really weird, because there are places you can stand that have like, it’s like glass, I think it’s like one-way glass, where you can look down on the concert, and there are places that kind of display what’s actually happening, and places that display the fake concert. And across from that, there’s like a server bank that’s hooked up, that all sorts of lights are off on it, that’s kind of controlling the concert. And there is one of them that has been smashed apart. 
+
+ALI: Oh.
+
+AUSTIN: And the person on the floor, the dude who is still aware, is like, “Aaaah.” Like, he’s tied up and gagged, and he’s like, “Mmmf. Mm, mmm.”
+
+ALI: I guess I approach that guy.
+
+AUSTIN (as captive): “Mm-mmf!”ALI: And I pull his face thing off.
+
+AUSTIN (as captive): [heavy panting] She killed him! I— Wh— She didn’t say she was gonna kill him. 
+
+ALI (as Aria): What’d she take? 
+
+AUSTIN (as captive): She has it. 
+
+ALI (as Aria): Ugh. Okay. 
+
+ALI: I run upstairs. 
+
+AUSTIN: Okay. You just leaving him here? ALI: Yeah!AUSTIN: Okay. Hopefully— ugh. This poor guy. Okay. So you start chasing her upstairs. The top of the staircase opens up into the rafters of the arena, and you like open that door, again, there’s the blaring music of Aria Joie, most of which you have not written or ever performed, but it sounds just like you, it’s very uncanny, actually. And she’s sprinting across a set of robotic rafters that are like the whole top layer of this arena, is, like, mechanical, and it’s moving around so that lights can move around in weird ways. Or like, not just lights, but projectors. Things that are projecting hologramsthings in different places on the floor. And also producing weird, like, you’re safe from them up here, but you can see that they’re almost shooting kinetic force down. They’re part of what convinces the few people who are there that they’re in a room filled with people. They’re these weird kinetic projectors that line the ceiling and the floors that move around, to simulate the feeling of being in a crowd. Anyway, there is a woman, who is like seven feet tall, and has huge fuck-off chrome arms, who is sprinting across this thing, and jumping from rafter to rafter as they spin and sway across the roof of this— or, up at the ceiling of this arena. What do you do? 
+
+ALI: I have a cool arm, fuck her!AUSTIN: Uh-huh. 
+
+ALI: She’s probably too far for my whip to do anything? AUSTIN: Oh yeah, she’s way too far for your whip. You can’t whip her from here.
+
+ALI: How far away from me is she?AUSTIN: She’s probably like, I’d say, thirty yards. 
+
+ALI: Okay, and is she heading like, towards a door, or…
+
+AUSTIN: Yeah. It’s clear that there is another exit, because it says “EXIT” with like, green lettering on the far end of this arena, and she’s on her way there. 
+ALI: Okay. 
+
+AUSTIN: From the back, you can see, like I said, she’s very tall. She’s super tall, and she has these big arms, she’s wearing just like a tight white tank top and black dress pants, or not dress pants, just like black, almost like black combat fatigues, minus the side-pockets, with like tight black boots, tight combat boots around them. And she has like, really bright green hair in, it’s hard to see it from here, but I’ll just describe it. She has an undercut with like short hair on the top that’s kind of pointed out a little bit. 
+
+ALI: Does the exit lead to like, outside?AUSTIN: You can’t tell from here. 
+
+ALI: Okay. So the moves in this game, would I roll to shoot her, or, what would that…
+
+AUSTIN: You would… well, what do you want to do? Is that what you want to do, is shoot at her? 
+ALI: Yeah, to like slow her down at least. 
+AUSTIN: So what is your intention? What would you like her to do? Because, it could be, if your goal is to catch up with her by running after her, it’d be “act under fire.” If your goal is to shoot at her, as a way to cause her to slow down—
+
+ALI: Yeah.
+
+AUSTIN: But not to hurt her, is that what your goal is?ALI: Yeah.
+
+AUSTIN: That would probably be “play hardball.” [reading from the book] “When you get in someone’s face, threatening violence, and you intend to carry through,” which is to say, if you’re shooting at her in a way that’s like, if you don’t stop running, I will shoot you, that would be “play hardball.” [Ali mm-hmms] If you’re just trying to trick her, and are not actually going to shoot her, that would be “fast talk.” ALI: Okay.
+
+AUSTIN: But it’s… there are different kind of, outcomes to those things. Right? 
+ALI: Right.
+AUSTIN: So, so you know, think about that, before you decide one way or another. I feel like this is “play hardball,” though, this is very intimidate-y? You know? ALI: Right, yeah. I feel like that’s a weird line to draw, because—
+
+AUSTIN: It is. 
+
+ALI: I’m shooting at her, so, if I do accidentally hit her…
+
+AUSTIN: Right, so the way to think about this is, you’re shooting at her; if she doesn’t do the thing that you want her to do, will you actually shoot her? Or will you let her run away? ALI: No. 
+
+AUSTIN: No you will not let her run away? 
+
+ALI: No! I will—
+
+AUSTIN: Then that’s “play hardball.” If you’re going to follow through with the violence you’re threatening, that’s play hardball. So you can shoot a few warning shots at her, and depending on your roll, that could lead to her either getting away or getting shot. 
+
+ALI: The goal is to get her flustered, or at least so I can catch up with her, so I’m gonna… 
+AUSTIN: That’s “play hardball.”ALI: Roll that.
+
+AUSTIN: Okay.
+
+ALI: And I have… twelve! 
+
+AUSTIN: You rolled a twelve, that’s a really good roll. A six, a five, a plus one from your one Edge. “Play hardball” says, [reading from the book] “When you get in someone’s face threatening violence, and you intend to carry it through, roll Edge. On a ten plus, the NPCs do what you want,” so there you go. Do you want her to stop, at this point? ALI: Ideally? 
+
+AUSTIN: Okay, so I think she gets across… no, wait, she doesn’t. It’s way cooler if she doesn’t. She goes on a single, like, rack, that’s moving back and forth across the rafters, and she turns, and steps, and looks at you, from across the way, and she stops in her places and holds still as you move across the rafters towards her, I guess? And she’s like, “Don’t do this. You don’t want this.” And she’s like, pretty intimidating looking. And I think at the point at which you get close enough to like make out facial features, she has, her skin color is like tan-ish, if she was from Earth, we would say that she’s like Samoan, is kind of how I’m imagining her? Very broad, full features on her face, and she has like, a very playful smirk, almost like when she says “don’t do this,” what she means is like, “I cannot wait for you to fuckin’ do this.” Like, yeah, alright, let’s go. Anyway, let’s cut back to Cass and Mako, who are in this long elevator. What do you talk about, in this elevator?
+
+KEITH (as Mako): Um… You’re a qui— nice sneakin’.
+
+[pause]
+
+AUSTIN: “Nice sneakin’?” Yeah? 
+
+KEITH: Yeah. 
+
+ART (as Cass): Yeah, good sneakin’? Yeah, thanks. 
+
+JACK: [laughs] Is it awkward? Like, do you guys know how to like, be together?KEITH: I don’t know that we’ve talked before. [laughs] Oh, well we did, we did… remember that time that we hung that guy out of the ship? 
+
+JACK: Oh, that was good!ART: Yeah. Yeah, yeah. I hope we don’t have to do that this time.
+
+KEITH: No.
+
+AUSTIN: [hums “The Girl From Ipanema”]
+
+	KEITH (as Mako): How’s, uh… Oh, I love this one. 
+
+AUSTIN: [still humming, laughs]
+
+	ART (as Cass): I… I dunno, I’m kinda sick of classical music.
+[Keith laughs]
+
+AUSTIN: It’s very old. It’s very old! It’s amazing— this is the only song from this generation that’s lasted, it’s strange.
+
+ART: Yeah. 
+
+AUSTIN: Uh, ding! And you get to the bottom of, or, this bottom floor. It is racks and racks and racks of servers. And you can hear the hum of motorized drones. Both the flying sort and the kind of rolling sort. The rolling sort, you can see immediately. They are like, carrying some server banks back and forth, and like, it’s almost like if you could zoom out and look at this from the top, it would almost look like what old-school telephone operators did, where it’s just like, doot-doot-doo, unplug, unplug, plug, unplug, over and over, except with big, giant server banks. I think server banks in this world are also, like, I can’t decide if they’re the same as ours, and just denser with information, where it’s like, oh yeah, it’s still just a big black box, it’s just that each one of those holds the equivalent of all of the data we currently have on earth? Or, if they’re like, I think this is an OriCon facility, this is Horizon? Yeah, they’re those things. I think the Diaspora’s version of server banks is a lot more elegant. But these ones are just big fuck-off black boxes, being moved to and fro, and sped up, and turned on, and stuff. Uhh… what do you do?
+
+ART: Uhh… good question. I don’t know that I was… Uh. Hold on.
+
+KEITH: You don’t know that you were what? 
+
+ART: I don’t know that I was entirely… uh…
+
+AUSTIN: Like, prepared what to do here.
+
+ART: Prepared for how big this server farm would be. I could use my last Hold to be like, look, I have a map of this server farm.
+
+AUSTIN: Well, we did talk about you having blueprints before. Totally. KEITH: I also still have three Intels. AUSTIN: Totally. Now would be a good time to use them. ART: That’s good, ‘cause I only have one more Hold, and they’re pretty useful. 
+AUSTIN: Uh, yeah.
+
+KEITH: Yeah, Intels, I feel like we’re running out of where I can use those.
+
+AUSTIN: Totally. Burn an Intel up here. What do you have that—
+
+KEITH: Hey! Wh— what was that? 
+
+AUSTIN: I said, what do you have that helps here? As a matter of fact, let me kind of read the Intel move her, because this is the first time that we’re using this, right? I think it is.
+
+KEITH: Okay. Yeah. Yeah.
+
+AUSTIN: So, a reminder to people listening, in the last session we, there were moments when characters got Gear and/or Intel. 
+
+[00:45:00]
+
+AUSTIN: Intel says, [reading from the book] “When you reveal your knowledge of the opposition’s preparations, dispositions, or environment, describe how you discover that information, and spend Intel. You  must spend Intel to reveal knowledge. Take plus one forward to exploit the opportunity offered by that information.” So yeah, you can just totally do this, and then also get a plus one on the the next thing you do. 
+
+KEITH: Okay, um, hey—
+
+AUSTIN: Actually it’s plus one forward… is that? Yeah, forward means you just— I think you just get that. Like, as long as the situation holds. So, continue. 
+
+KEITH (as Mako): Hey, do you remember when, uh, when we were talking to those people, and I convinced them that we were fixing the… heater? 
+
+AUSTIN: Mm-hmm. 
+
+KEITH (as Mako): One of them dropped this. Here. I found it— it tells us exactly where we need to be.
+
+AUSTIN: [laughing slightly] I think you can go deeper than that. Where did you get the Intel from?KEITH: You’re right. Uh, the Intel was… specifically I got an Intel from, uh, charming my way into the building. 
+
+AUSTIN: Oh, okay. So… 
+
+KEITH: I did do that. 
+
+AUSTIN: That is where you got it from. Then yeah, it should come from that. 
+
+KEITH: Yeah, yeah, I found this, I found this cassette, labelled, “the thing that we need to find,” on the—
+
+AUSTIN: Maybe it was a situation where there was a bit where you were like, you know, do you have… the heaters go all weird here. You have access to like, the most in-depth blueprints available, and just had those sent over to you. 
+
+JACK: I wanna know where the secret heaters are. 
+
+KEITH: The secret— 
+
+AUSTIN: Right. Exactly. Or, you could go the opposite way, which is like, “I need to know what the server bank is, so that I know where the heat should not go.” 
+
+ART: Right. You never need to heat your server bank. 
+
+AUSTIN: We want to make sure that that heat doesn’t leak, down to the server bank. You know? KEITH: Don’t want— “Heat don’t leak,” is our motto. 
+AUSTIN: [laughing] Is it? Is that what it is? 
+KEITH: Yeah. 
+AUSTIN: What’s the name of your company, again? 
+
+KEITH: ... Hank’s Heaters. Our heaters don’t leak.
+
+AUSTIN: Hank’s Heaters. Our heat don’t leak. Good. So yeah, you totally know where to go to it, there is like a segment of this huge underground server bank warehouse that is kind of… glassed off from the rest. And it’s a glass and soundproof and is on it’s own internal server connection to the mesh, like, it doesn’t connect to any of the other things there, and that’s where you need to go. 
+
+KEITH: Okay. While I’m in this room, I believe that I was… Sorry, I have to read the actual phrasing on it… I think it was like locked out of something, or something? 
+
+AUSTIN: Uh-huh?KEITH: Do you know what I’m talking about? 
+
+AUSTIN: No, I— what are you talking about? 
+
+KEITH: In, uh, I failed some roll… early on… and chose to… I may have been, oh, I triggered an alert, which may have additional consequences, and I was… 
+
+AUSTIN: Yes.
+
+KEITH: And I get like a minus one to some rolls. 
+AUSTIN: Totally. That’s to the rolls inside of the matrix. Inside of the mesh, here.
+
+KEITH: Yeah.
+AUSTIN: Which has not come up yet. 
+KEITH: Well, you said that this was the room where I could, like check myself out of that box.
+
+AUSTIN: No, that would be— that’s like the weird virtual room that you could do that in. It’s a different room in the house. 
+
+KEITH: Oh, okay. 
+
+AUSTIN: This is a different thing. It’s like, not on that network anymore. This is a new network, that you’d have to—
+
+KEITH: It’s a whole different network? Oh, okay.
+
+AUSTIN: Yeah. ‘Cause it’s safe, so that people like you, from upstairs, can’t get into it. You know what I mean? Like that’s—
+
+KEITH: Right. I thought that what you had said was that the controls for that stuff was also in this room. But I guess that was a different thing.
+
+AUSTIN: No, uhh… That’s the root of the other system that you were in.
+KEITH: Oh, okay.
+
+AUSTIN: But yeah, now you can access this other, better system— this other system that is protecting—
+
+KEITH: Better anyway? AUSTIN: It’s not, it’s not that it’s like, better, but this is the thing it does.
+KEITH: Right. AUSTIN: So you can get there, but it is… it is glassed in, you can kind of see… maybe you can’t even see it at first, it’s like, I’m imagining it as this big tall room, but once you like, ah-ah-ah, and you point in the direction that it is, you can see the glare on the big glass walls that run from the floor to the ceiling separating it. 
+
+KEITH: Okay. And there’s just a man in there holding a leash? AUSTIN: It’s just a man in there holding a leash. Exactly. I’m glad you remember the metaphor. It is like a U-shape of server banks with—
+
+KEITH: Shaped like me? 
+
+AUSTIN: Shaped like you. It’s Larry!KEITH: The Mako-shaped… 
+
+AUSTIN: There is a U-shape of servers, and you can… at this point, I think you’ve basically gotten past their physical security, and can kind of just waltz in, pretty cleanly. 
+
+KEITH: Okay, cool. AUSTIN: And as soon as you log in… actually, give me another “log in” roll? Because it’s a different system? KEITH: Okay, “log in…” is over here… Synth… that… 
+
+JACK: Ooh.
+
+AUSTIN: You rolled… a seven. Okay. Which means…
+
+KEITH: Um.
+
+AUSTIN: Go ahead. 
+
+KEITH: I do have plus one forward. 
+AUSTIN: You do. KEITH: Which brings me up to an eight… I don’t think I have—
+
+AUSTIN: And this is def— 
+
+KEITH: I don’t think I have two more. 
+
+AUSTIN: Yeah, you definitely have another plus one, which is the, the plan; this is “the plan,” pretty literally.
+KEITH: This is The Plan. 
+
+AUSTIN: But I don’t think you’re going up from a seven to a ten. 
+KEITH: I might have a… What is “console cowboy?” Hold on, I have to figure out what that is. ‘Cause that gives me something. 
+
+AUSTIN: It does.KEITH: [reading from the book] “When you connect to a secure system, roll Mind.” Then I can get some Holds, and then also… So if I do that, then I could, and if I roll well enough.
+
+AUSTIN: Totally. Yep. Go ahead and roll that Mind, and that’ll determine what your…
+
+JACK: “Console cowboy” is such a good name— ah! Yes.
+
+AUSTIN: Nice, nine, so that gives you one Hold?KEITH: Yes.
+
+AUSTIN: So in that system, [reading from the book] “you may spend one Hold for any of the following effects: 1. Prevent a construct from triggering an alert; 2. Avoid ICE routines executed against you, your deck or your programs; 3. Increase your hold over a compromised security or manipulated systems by one.” So it doesn’t actually help you here…
+
+KEITH: No, it doesn’t. 
+
+AUSTIN: So, on a seven to nine, which is what you got on the “log in,” [reading from the book] “When you attempt to gain access to a system, roll Synth. On a seven to nine, you’re in, but choose one: Passive trace, plus one Trace. ICE is activated, an alert is triggered, your access is restricted— that’s what you took last time, was your access was restricted. 
+
+KEITH: Okay, so, can I do—
+
+AUSTIN: So that’s clear here, because this is a different system. KEITH: So could I do, “trigger an alert,” and then I can use my hold to prevent an alert from being triggered.
+
+AUSTIN: Totally. You can totally do that.
+
+KEITH: Great. 
+
+AUSTIN: So I think maybe it’s like, it’s one of those things— oh, I have to describe this new building, right? Or, this new scenario.
+
+KEITH: Yeah. This new house. 
+
+AUSTIN: This new house. I don’t think this one’s a house at all, actually.
+
+KEITH: Oh, no?AUSTIN: You walk into this one, and it is a statuary, and all of the statues are made of ice. And you step in, and there is a… the second you step in, you step on one of the tiles, and you think, “oh, it’s just ice,” but it’s not, it’s glass. And it starts to break. And you like, [sharp inhale] you step off of it, just in time for it not to shatter completely, and like, you can see that it would have shattered and set off— it’s like a button underneath that glass or something that would have set off that alarm. You’re like oh! Okay. We’re good.
+
+KEITH: Okay. Great.AUSTIN: And this is a very simple system. Or, a simple computer that you’re in, in that you can immediately see there’s all this weird statuary that’s all made of ice, and it’s all constantly leaking. And then from the top, there’s new water being dripped down, and a weird cooling system to cool it at the top. It’s like constantly re-forming new statues on top of where the old statues were. And there’s one piece of, there’s one pillar that you can see straight in front of you. Just as you hook in, the last of its, the bottom part of its ice chunk melts. 
+KEITH: Okay. 
+
+AUSTIN: And it’s gone. That is the virus you were after. So you just missed it.
+
+	KEITH (as Mako): Aww, you guys, we just missed it! Cass, we just missed it!
+
+	ART (as Cass): Can— how do you tell where it’s going?	KEITH (as Mako): It was right under that statue!
+
+AUSTIN: It’s off the net for this second, at least. 
+
+ART: Well, fuck. 
+
+KEITH: Yeah.
+
+AUSTIN: There’s— yep. Let’s go back to—
+
+KEITH: Is it jumping to other…
+
+AUSTIN: Not yet! Nothing’s happening, yet, it’s just gone, right now. 
+
+KEITH: Okay. 
+AUSTIN: It’s as if someone else… you know, maybe Aria found it by herself! And took it! That would be nice. 
+
+KEITH: That would be nice.
+
+AUSTIN: And like has it, maybe. And is like, running away with it. Maybe. That would be cool.
+
+KEITH: Maybe. That would be pretty cool. 
+
+AUSTIN: Aria! You are face-to-face with a very tough lookin’ lady. Named Jacqui Greene. 
+
+KEITH: Is that her given name? Or—
+
+AUSTIN: Yeah. Listen. You take your own name in this world, man.
+
+[Ali laughs]
+
+AUSTIN: You are across from Jacqui Greene, giant, badass freelancer…
+
+KEITH: JG!
+
+AUSTIN: Who has giant arms… she’s just— she’s built! She’s brolic. Like, she’s ready to go. 
+
+ALI: She’s a problem. 
+
+AUSTIN: Yeah. 
+
+KEITH: She’s the legendary Super Saiyan. 
+
+AUSTIN: That’s right! That’s her.
+
+KEITH: The definition of “brolic.”
+
+AUSTIN: Right. Correct. That’s where that word comes from. 
+
+KEITH: Yup!AUSTIN: What do you do, Aria?ALI: Ugh, um…
+
+KEITH: You make her mad when you’re a baby. 
+
+[Austin and Ali muttering curses, Keith laughing]
+
+ALI: Can I… Can I like, send a text message with my mind to everyone? AUSTIN: Sure. 
+
+ALI: Okay, so let’s just say I’ve done that. 
+
+AUSTIN: So that doesn’t hit— it’s not going to hit Cass and Mako until they get back upstairs. ALI: Okay.
+
+AUSTIN: But AuDy gets it. 
+
+ALI: At least AuDy will know. 
+
+AUSTIN: Yes. 
+
+JACK: You just won’t get the “delivered” receipt on it from Mako and Cass. 
+
+ALI: I’m gonna… I guess I’m gonna… 
+
+AUSTIN: So again, to paint this picture, nowhere that you’re standing is still. Like, everything that you’re on is constantly like, actually, you’re on a rack that’s like rotating around her, and she’s on one in the middle that’s like swaying back and forth. 
+
+JACK: To a background soundtrack of your own music.
+
+[Ali laughs]
+
+AUSTIN: Right! And, as this is happening, that song is coming out of the bridge and going into the final chorus. So you know that this rhythm is all going to change in like, thirty seconds.
+ALI: Right. But I’m still like, there, and pointing a gun at her, and she is still I guess sort of… well, she was, but now she’s not. 
+
+AUSTIN: Right.ALI: But there’s no— well, are they moving in such a way that the gap ever closes? Can I get onto—AUSTIN: Totally. You totally could. Yep. 
+
+ALI: That seems… risky. AUSTIN: Yeah, that would definitely… I think at this point, to get closer to her, would be an “act under fire.” ALI: Okay. AUSTIN: She is not going to let you get closer to her, at this point. She is going to resist that. 
+
+ALI: Right, um… God! Um…
+
+AUSTIN: She shouts out to you, and she says,
+
+	AUSTIN (as Jacqui): What do you want, precious bell? 
+
+[Ali shrieks and laughs]
+
+AUSTIN: Which is not… which is strange, because no one knows what your weird launch title is.
+
+ALI: Yeah! Yeah, that’s weird! That’s weird, huh. Um, I guess… That’s really weird! I guess I like, I don’t lower my gun, but at least I seem a little less threatening when she says that. ‘Cause at least there’s like… I dunno, I squint a little bit, and then I’m like:
+
+	ALI (as Aria): If we’re here for the same thing, who are you working for? 
+
+AUSTIN (as Jacqui): I don’t kiss and tell, babe. [Ali making shocked sounds] If I did that, I wouldn’t get too many more kisses, would I? Now back off, and lemme go. 
+ 
+[Keith and Ali laughing]
+
+	ALI (as Aria): I can’t let you leave with it. 
+
+	AUSTIN: (as Jacqui): Then come get it. 
+
+ALI: Yeah, I guess I jump over the thing! Sure!AUSTIN: Alright!ALI: She does not seem like a person who is going to release it in this room, and that’s sort of my biggest concern, so.
+
+AUSTIN: Right. So, it’s not… You don’t know what it is. Yeah. 
+
+ALI: Right.AUSTIN: That is a fear worth having. Sure. 
+ALI: So that’s an “act under fire?”
+
+AUSTIN: Uh, that’s an “act under fire.” Yeah. 
+
+ALI: Jesus. 
+
+JACK: Oh, god.
+
+AUSTIN: Oh, a six. That’s not good. And you don’t have any Hold? 
+
+ART: Isn’t this part of the plan? Get the virus? 
+ALI: [laughing] I think it’s very much part of the plan. KEITH: Get the virus sounds like part of the plan. 
+AUSTIN: Alright. 
+
+ART: I mean, if it was ever part of it, tackle someone if they have it, I think was part of it. 
+
+AUSTIN: Is it? Is that also part of it? 
+
+KEITH: You’re right, that does sound implicit. 
+
+AUSTIN: It feels like you’re adding to the plan, every second that we speak. ALI: Cass looked me very straight in the eye and said, “someone has it in their hand, you tackle them.”AUSTIN: So right, what did you—
+
+ART: You fall onto a stage, with someone else, while you’re also performing on that stage. 
+
+AUSTIN: Did you… what did you send to AuDy, by the way? Did you say that someone had it? I don’t remember. 
+
+ALI: No, I sent to AuDy, like, it’s here. And then like, a GPS, like, geo-whatever.
+
+AUSTIN: Gotcha. Alright, so… you rolled a seven. Yeah, you can get over there. But when you make the leap, like you can… you get over there and you have one hand on the thing, and the other hand is holding that gun. So, you could either take extra time to pull yourself up, or drop the gun to take the other hand, and pull yourself up. 
+ALI: I’ll drop my gun. 
+
+AUSTIN: Alright. Your gun goes clattering to the floor. Somebody down below dancing looks up and is like, “what is happening? These are weird effects!” And you’re able to pull yourself up, and you’re on the same single beam. It’s about… I think it’s probably like four… three feet in diameter? Or in… is diameter the one I want? Yes, in diameter. And then like, twenty feet long, moving back and forth, pretty rapidly. Maybe longer than twenty feet. Let’s say, it’s definitely longer than twenty feet. Let’s say it’s like forty feet long. So you’re there, you’re in a pretty safe position, and you still kind of have the initiative here. What do you do? 
+
+ALI: Umm… I don’t know, this is really intense! Um, I… I mean my best option is to still sort of reason with her? At least, that’s where I’m leaning.
+
+AUSTIN: Make your move. 
+ALI: Um…
+
+AUSTIN: Tell me what you want to do. 
+
+ALI: Ugh, I’m so bad at this… I guess I say like, I, I have a feeling that she’s just on a job, and doesn’t understand like, that what she’s getting is really dangerous? So I try to communicate that? 
+AUSTIN: Okay. 
+ALI (as Aria): Like, like I’m not just here for the paycheck. I… that could really hurt someone. 
+
+AUSTIN (as Jacqui): A lot of things I do hurt people pretty bad. I’m here for a paycheck. And you’re in between me and it. 
+
+AUSTIN: Actually, she says, “You’re between us and it.”
+
+ALI: Ugh. I don’t have any money. 
+
+AUSTIN: Alright! She… You’re hesitating, at this point.
+ALI: Right. 
+
+AUSTIN: And seeing that, she just charges at you. And just like, low, hard fist comes swinging down at you, and you’re able to dodge it just by like a split second. But when you see it impact another swinging girder, and when she pulls it off, there’s like a weird sticky substance that’s there, on it. It’s almost like a… almost like a gel. There’s like a gelatin that’s where she just punched. And she backs away for a second, and makes distance between you and her. And you’re not sure what that is, that she just put there. And she was definitely aiming for your stomach, for whatever that was. 
+
+ALI: And it’s just like on the thing?[01:00:00]AUSTIN: Yeah.
+
+	AUSTIN (as Jacqui): Back off now, or everyone here is gonna be much sadder. 
+
+JACK: Art? 
+
+ART: How committed are we to physics? And like, basic logic? 
+
+AUSTIN: We are… pretty committed, but we could also, I know the move you’re thinking of. You have a really good move. You have a move that’s—
+
+ART: I have a really good move, but it’s completely impossible. 
+
+AUSTIN: It isn’t because we don’t know what the timing is on this stuff, right?ART: Sure.
+
+JACK: Oh, god, I’ve just realized what you want to do. 
+
+[Ali laughs]
+
+AUSTIN: Your move is… “I love it when a plan comes together.” Right? 
+
+ART: Right.
+AUSTIN: Or, “I love it when a plan…” dot dot dot, in which you have a number of Hold that you can spend, and one of the things you can spend is, “you appear in a scene where you are needed right now.”ART: Right. But I’m like very clearly somewhere else right now. 
+
+AUSTIN: Again, we just don’t know what the time has been. 
+ART: Sure. 
+
+AUSTIN: You know, we could… This could be a thing where it’s like, you guys went under and came back pretty quick. But it would mean not being in that other scene right now. Also. 
+
+ART: Yeah. 
+KEITH: [in a macho voice] Ah, I got things pretty locked in!
+JACK: But also the text message—
+
+ART: I do have Holds that help over there… I have a Hold over there to help escape!AUSTIN: Totally. 
+
+ART: Uh…
+
+ALI: I mean, wouldn’t the use of that imply that Mako gets out too? Or we don’t wanna like stretch it that far. 
+
+AUSTIN: Totally! But that means Mako’s not there anymore. 
+
+ALI: Oh. 
+
+ART: And we still need the leash.
+
+AUSTIN: Do you see what I mean? Right. You don’t have the leash yet. Which is, again, maybe you don’t really need it, it’s not clear, at this point because the conditions of the mission have changed so dramatically. In that, you were trying to hold the leash so it didn’t get stolen, so that it didn’t get moved, right? But now it’s already been moved, so maybe you don’t need to hold the leash anymore? But if it gets uploaded somewhere else, then you’ll need to hold the leash again? So it’s like you have this window of opportunity where you could just get it. You know? 
+
+ART: Sure, I think I’m gonna let this fight play out a little, I think there’s still gonna be moments where I’m needed, coming up here. 
+
+AUSTIN: Okay.
+
+ART: Good luck.
+
+AUSTIN: So what are you doing? ALI: Um… I have a stun whip.
+
+AUSTIN: Okay. 
+
+ALI: Which I pull out, and it’s a laser stun which— stun whip, so it lights up. 
+
+AUSTIN: Okay, what colors does it—
+
+KEITH: A stun-wich is a really good gag, in this universe.
+
+[Ali and Austin laugh]
+
+AUSTIN: Chomp, aaaahh!
+
+KEITH: It’s just like a classic gag.
+
+AUSTIN: I just wanted some turkey! My turkey and swiss stunned me! So, are you attacking her with it? With the intent to harm her? 
+
+ALI: Yeah, to stun her. So I can grab it, or whatever. The intention is to have it, like, wrap around her arm, I guess? AUSTIN: Yeah, so “mix it up” says, “When you use violence against an armed force to seize control of an objective, state that objective and roll Meat.”ALI: Okay. 
+
+AUSTIN: So what’s your objective? Is it to get the thing?ALI: Uh, yeah. Just to snatch it. 
+
+AUSTIN: Okay then, so roll Meat.
+
+[Jack audibly winces]
+
+AUSTIN: Oh, that’s a five. That’s a low… even with the plus one…
+
+ALI: Yeah… that’s still a miss…
+
+AUSTIN: That’s still a six, that’s still a miss. So you, you swing out and you catch her arm in it, and you give like the zap—
+
+ALI: Oh, right, she has metal arms. 
+
+AUSTIN: Yeah, she has metal arms. It’s like the biofeedback doesn’t work, and she goes “pshh!” and like, tosses it off, and you retract the whip, and then she like cocks her right arm, and the weird goo that was on the rafter to your right explodes. And the rafter falls to the ground. And then she pushes her hand into a different rafter, and cocks it again, and is like ready to go. People are screaming below. The next song is playing, and it’s not gonna stop.
+
+[01:03:35] [The Long Way Around starts playing]
+
+AUSTIN: The machines don’t know that there’s explosions happening above them right now. The holographic cloud is like all fucked up because of that explosion now, like it’s not in the right place anymore, it’s like moving all over the place in a weird wave, AuDy, on your screen it cuts from “Aria Joie found with a fan!” to “explosion at Aria Joie concert!” What do you do?
+
+[The Long Way Around continues for remainder of song]
+[No speech for one minute]
+
+AUSTIN: Let’s clap at, uh, eleven, nineteen eleven, or at whatever eleven. 
+
+JACK: Nineteen.
+
+KEITH: No, seven eleven.
+
+AUSTIN: Right. Seven eleven.
+
+[Multiple claps in unison]
+
+KEITH: Do you have military time on your time.is?
+
+JACK: Oh, sorry, I didn’t clap.
+
+AUSTIN: Yeah, what? 
+
+KEITH: You don’t have like a twelve-hour clock? You have a twenty-four hour—
+
+ALI: No.
+
+AUSTIN: No. I have a twenty-four hour clock.
+
+ALI: Also, I didn’t clap. 
+
+AUSTIN: You didn’t clap. 
+
+JACK: Me either. I thought we were looking at it in seconds. 
+
+AUSTIN: Wait, how do you not have a—
+
+ART: Yeah, I also have PM, I have four PM.
+
+ALI: Twenty? 
+
+KEITH: Yeah. I think it’s because Art and I live in the real world—
+
+[One clap]
+
+KEITH: Where a twenty-four hour clock is literally useless. 
+
+AUSTIN: I don’t— I can’t make it not a twenty-four hour clock. 
+
+KEITH: Oh, this is by default? You didn’t like switch it? 
+
+AUSTIN: No!ALI: That’s really weird.
+
+AUSTIN: I wonder if… hmm, I wonder if—
+
+JACK: Oh, wow! If you click the time it goes full screen and gets rid of all the garbo, it looks great. 
+
+AUSTIN: Yeah, it’s kinda nice. It’s clean. Okay, let’s do it at fifty.
+
+ALI: Yeah.JACK: Okay. 
+
+KEITH: I figured out— ooh. Hold on. Before we clap again. I figured out why, remember when we had that problem where I couldn’t see the seconds? 
+
+AUSTIN: Yeah.
+
+[Several claps]
+
+KEITH: You double-click on it, it takes away the seconds. Only Austin clapped. 
+
+AUSTIN: Yeah. Good. If I double-click, it also doesn’t— I double-clicked and now I just have a calendar on my screen. It’s just—
+
+ART: Alright everyone, make sure to clap on the fourth!
+
+[All laughing]
+
+AUSTIN: My birthday’s on a Monday this year! July 2016, my birthday is on a Monday! That’s what I know. 
+
+KEITH: Alright, let’s clap on… twenty?AUSTIN: Twenty. ALI: Yeah. 
+
+JACK: Ah, this is our worst so far. 
+
+[All clap]
+
+AUSTIN: It’s good enough. 
+
+
+

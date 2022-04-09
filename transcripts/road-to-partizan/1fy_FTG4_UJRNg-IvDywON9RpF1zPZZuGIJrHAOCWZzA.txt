@@ -1,0 +1,1491 @@
+Live at the Table - June 2019 Road to Season 6 Microscope (Part 1)
+
+
+AUSTIN [as Gur Sevraq]: A message to Cymbidium from Gur Sevraq, liberator of the Divine Future, Disciple of Logos, rector of the Church of the Resin Heart, and Agitant of all Divinity, in this, the nine hundred and ninety ninth year since the Prophet first walked the path.
+[Jack De Quidt’s ‘HOURGLASS. SUNRISE. CRYSTALLINE.’ plays]
+My friend… Does my voice finally reach you? Or did you hear me then, and dismiss me, call me a zealot or a hypocrite or a dream? Do you listen only now because it is the appointed time for me to speak? Oh Cymbidium, I fear now is too late. I had hoped to spur you on, to bring you towards action, immediate. I fear you only lean towards what is necessary instead of running towards it. But in times like these, what is necessary demands swiftness.
+
+The Future has shown me what is coming: Yes, more violence. Yes, more war. Yes, further oppression. But also: Opportunity. The greatest weapon a tyrant has is their ability to wall in the imagination, to shackle the very idea of what it is possible. Well. A siege has a way of breaking walls, of loosing shackles.
+
+God has shown me the truth: There was a time once when the galaxy was joined, not in pure unity as the Philosopher claims, but in raucous conversation. A time before each world sat in silence, separated by Principality or Perennial it matters not. A discursive galaxy, where words and ideas and feelings crashed into one another, and gave in return to us visions of futures worth dying for.
+
+Please, Cymbidium. Find me on the Isles. Be wary of deceivers. Trust only the novel. For the familiar is tainted with blood.
+[‘HOURGLASS. SUNRISE. CRYSTALLINE.’ finishes playing]
+
+Originally transcribed by Ril (@kaorukeihi) 
+
+[T/N: Quotes are copied from my own copy of Microscope, as well as from the mentioned episode transcripts with minor changes.]
+
+AUSTIN: Welcome to Live at the Table, an actual play livestream, focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am your host today, Austin Walker, and joining me, Keith Carberry…
+
+KEITH: Hi! My name is Keith J. Carberry, you can find me on Twitter @keithjcarberry, and you can find the Let’s Plays that I do at youtube.com/runbutton, including some episodes of Elder Scrolls: Morrowind [AUSTIN: True.] with other Friends at the Table members, Jack and Ali, and also some Pokémon with some other people too, including Sylvia. 
+
+AUSTIN: That’s true! Also joining us— Sylvia, Sylvia Clare.
+
+SYLVIA: Hey! You can find me on Twitter @captaintrash, and you can listen to my other podcast, Emojidrome. 
+
+AUSTIN: And Andrew Lee Swan! 
+
+DRE: Hey! You can find me on Twitter @swandre3000.
+
+AUSTIN: We today are going to play the final game, I think, of the Road to Season 6. If I’m cagey around Season 6 stuff, it’s because I’d rather be cagey than make promises that I don’t keep. So, I think today will be the final Road to Season 6 game. And that game is Microscope a fractal role-playing game of epic histories by Ben Robbins. We’ve played plenty of Ben’s games before on the show, some of our highest moments I think have been Ben’s games. We played Kingdom in the middle of COUNTER/Weight, we played Follow throughout Twilight Mirage, we also did a Follow game, I believe… Or maybe it was a Kingdom game? No, it was Follow, I think, for the… the… Winter in Hieron holiday special. And we played… we sort of played Microscope once before, throughout the faction games of COUNTER/Weight. 
+
+AUSTIN: I say “sort of” because we didn’t engage with what makes it the game it is. We engaged with it in terms of its… It’s like so funny to me to think about the fact that we called that playing Microscope, because the thing that we took from it was really the rules for framing periods, events, and scenes, and then either playing out scenes as dialogue where we assigned people characters or where we dictated scenes instead of having them played out. And five years ago or whatever, four years ago when we were doing that, that felt so novel. Whereas now, between like Fall of Magic, and all of the other Ben Robbins games, and all the other like freeform games where we jump between playing as different characters, and different like, sequences, and we’re not just like playing as a character… That’s just like, a thing we do, that’s just like a mode of play that we enter sometimes… You know, when we play the Quiet Year or something like that, like… we definitely do the thing where sometimes you take on a role of a different character. But at the time, Microscope was the game that helped give me language for that and explaining what we wanted to do. What we didn’t engage with—and I’m about to switch over now to the map of events, that kind of Microscope timeline here—is we didn’t engage with the way that this game is kind of all about building out a history for a location or a culture. 
+
+AUSTIN: And so today we’re going to play Microscope in that more traditional way. And that will still mean doing scenes, that will still mean dictating scenes, or still mean building in periods, events, and scenes, but it also will mean having this kind of broader view on what we’ve already done. Now, before we continue at all, I just want to say a couple of things. One, if you’ve missed other Season 6 games, and you’re like “I don’t know anything”—or rather, Road to Season 6 games—“I don’t wanna know anything else about the Road to Season 6, is it okay for me to watch this?”. No, probably not. [DRE laughs.] Like, on the screen right now there are already like endings to previous Road to Season 6 games, and we’re gonna go through these because, here’s the second thing, not everyone on this call has listened to or been part of all of the Road to Season 6 games. Which actually makes it really interesting. Before we started, Keith pointed at one of these things like “I don’t know what the fuck that means AT ALL!” And so that’s really fine. [AUSTIN laughs a bit] 
+
+KEITH: Yeah, there’s like nine words in there that I can’t identify.
+
+AUSTIN: A 100%! The second thing here is that we… what this is basically doing is, this is drawing in… filling in the gaps between the end of Twilight Mirage and the beginning of Season 6 which means just like, all of the rest of the Road to Season 6 stuff, we have to address a couple of things that are endgame spoilers for Twilight Mirage, those will not be the endings for characters, it will not be the endings for player-based factions and stuff like that, but there is one big, big thing that we have had to talk about every time we do a Road to Season 6 game… Again, it’s on the screen now, it’s the name of the big faction that Season 6 is focused on. Um, and so, that is like the big big big picture pitch for, just like, a heads-up for what we’re about to get into. Are there any questions before we go any further from the crew here at the table? I’m still gonna walk through how Microscope works and all that stuff also. Also there’s a reference sheet, both at the bottom right of the screen and also in the like handouts folder. Alright, so if there’s no further questions I’m gonna read… Whoop! I’m gonna take a picture of this book, apparently… I’m gonna read from this book carefully. 
+
+AUSTIN: “Microscope works differently than some other role-playing games you might have played, so let’s abandon some preconceptions:
+You won’t have your own character.
+You won’t play the game in chronological order. You may know all about the future, but be surprised by the past.
+You’ll build the story from the outside in. You’ll decide the big picture, the grand scheme of
+history, and then burrow down and carve out the details.
+It’s fractal gaming.
+So think big: you have a massive chunk of history to play around in.” 
+
+AUSTIN: So, in Microscope, you build an epic history as you play. If you want to compare this less to the story of the Lord of the Rings and more to the Silmarillion, where it’s like “here is the arc of all history”, Microscope can do that more effectively than it can do the kind of a micro-story of a single character. We don’t play through history from start to finish, we don’t just go linearly through time, we can jump around, but one thing that we do is we zoom in on certain lenses, and certain legacies, and certain ideas that are like “Hey, I wanna know more about this thing or that thing!” We each individually have a lot of authority to create new stuff and when it’s our given turn, we will be expected to be the kind of creative lead, we kind of have final say in a lot of stuff as long as it’s not a scene, er… Right, yeah, as long as it’s not a scene that we’re playing out with characters. But if you’re like “Hey, this is an event or a period in history”, so long as it doesn’t break any of the rules we establish up top, you are free to do that. We are then also free to, other players are free to then respond to that when it’s their turns. 
+
+AUSTIN: The other note I’m gonna say is, unlike most new games of COUNTER/Weight—oh, huh, wow—Microscope, we do not just begin with a blank slate. Because we have played the Road to Season 6, and so I’ve put many of the Road to Season 6 events already on this sheet, as they’ve already happened. Also some stuff from the end of Twilight Mirage. So. How do you wanna do this? Do you want me to walk through like the way you would create a game? Let’s do that maybe. The way that you would create a brand new game and then kind of point at what’s already on the table to kind of fill that in. Does that make sense? 
+
+SYLVIA and DRE, in unison: Yeah. Yeah.
+
+AUSTIN: So. The first thing that we do is figure out the big picture. The book says “brainstorm a simple overview of the history you want to play. If you were looking in a history book, this would be the one line that summarizes what happens, but leaves out all the details. It should be no more than a single sentence.” 
+AUSTIN: So, for instance, “An ancient empire rises and falls.”, “Cavemen at the dawn of time found the first civilization.”, or “Mankind leaves the sick Earth behind and spreads out to the stars.” “Pick something big. You want a lot of time and space to work with.”
+
+AUSTIN: So. What I know is that the start here is the birth of the Divine Principality. I’m less sure about the… or I guess I’m less sure about the big picture. I think that this is “the Ascent and Splintering of the Divine Principality”, but this requires us to figure out like where we’re ending. I’ll note right now the second step here is bookending history, a short description for the first period of time, a short description for the last period of time, and we’re gonna be working inside of that. I’m certain that we don’t wanna go before the birth of the Divine Principality, I don’t wanna into like the eras of Twilight Mirage and COUNTER/Weight, none of that is on the table, that has always been one of our rules. But I don’t know if y’all have strong feelings about where we’re going to put the end here, because this is like a huge decision, and this is kinda what I’ve talked about when people asked me either on Twitter or in person or on Discord, like… I don’t know what Season 6 looks like yet. Like, I know what’s in our palette, so to speak, but I don’t know if we’re beginning at the height of a civil war, I don’t know if we’re beginning after, you know, the leader of the Divine Principality dies… I don’t know if we… There’s a lot there that I’m just not sure about. 
+
+AUSTIN: So I’m curious if y’all have a strong feeling about what does… what is this game we’re playing today, and what is the state of things when we kick things off in Season 6. Are things already where the different Stels are beginning to go to war with each other? Is it open civil war? Is it… Have things settled down already and it’s like the Divine Principality as it once stood is in fact already dead? The reason I brought the three of you here is, one, Dre and Sylvia, you were my Microscope copilots back in COUNTER/Weight, and Keith, I know one big thing that you and I talked about off mic in terms of one of these other big cultures that hasn’t been introduced yet, so. 
+
+KEITH: Uh-huh. Yeah.
+
+AUSTIN: I think all of you have big picture authority stuff, authorship stuff to come through for Season 6 still, so I wanted to get all of your opinions on this. And obviously, just so people listening know, this is also like a question I brought up to the whole crew via our Discord internally. But… but yeah. So. Does anyone here have a strong idea about like what… Where do we leave our story today? What is the end note? 
+
+KEITH: Well, so… Since you brought it up, the thing is the… Have… We’ve talked about the Stels…
+
+AUSTIN: Yes. Yeah. So I guess you don’t know necessarily what hap… what we’ve talked about already in public, right? [KEITH: Right.] If you haven’t listened to the other things, yeah. We’ve talked about…
+
+KEITH: I don’t think anything that I know is gonna be a spoiler. [AUSTIN: Okay.] ‘Cause we don’t know anything, right? There’s no… So we, one of the things on the table is where… how far along in this timeline do we know, do we have the formation of the Fifth Stel and like their position in the rest of the Divine Principality? 
+
+AUSTIN: Right. And, specifically, the thing that is not up for grabs is I think there are going to be five Stels. Right? I think this is 100% from me as a GM, in terms of the world I wanna build, the amount… the number of factions I want in play is five. For reasons that are about balance and like, fun storytelling stuff, the focus of like whatever the major powers are in the Divine Principality, these five Stels are Stels. Um, P.S.: people listening are gonna be like, “wait, there’s only three Stels right now, right?” But that’s because you and I’ve talked another thing. Anyway. [KEITH: Right.] So yeah. So. Continue, sorry. 
+
+KEITH: Oh, I was just saying that I think that like an idea of how close to the end the formation and solidification of the Fifth Stel is… [AUSTIN: Would help you…] would help knowing what the end like…
+
+AUSTIN: I think it has to be… I want it to feel like it’s been [KEITH: It’s been around.] around, yeah. Like, it should be part of… Their inclusion should be part of the ascent, right? [KEITH: Yeah.] I don’t know where it is on this map that we have in front of us right now, this set of cards, but… Darcy says “woah Austin only wants 5 factions. wild.” It’s five big factions, but [KEITH: Super big.] like lots of little subfactions inside, but we don’t need to pay attention to them…
+
+KEITH: Each of these faction is bigger than everything you’ve ever seen together x100! 
+
+AUSTIN: [laughing a bit] Right, like if you see... I’ll pull up, actually I think I’ll just pull it up in the chat right now. [DRE and SYLVIA laugh.] But like even just looking at the map from what we saw last session—this is the For the Queen map—Stel Kesh, Stel Nideo, Stel Orion, Stel Four were already so big, like, these are all just gigantic spaces, and the map that I actually have on deck is maybe even more like… The amount of space that they have is just gigantic.
+
+KEITH: So I’ve been saying the Fifth Stel, but you have them here as Stel Four. 
+
+AUSTIN: I do.
+[00:15:00]
+
+KEITH: Is Stel Orion the Fifth Stel?  
+
+AUSTIN: No, no. I think—and we’ll get into this—is… I think Apostolos—I mean, I said it in the last game, in For the Queen—is… The question on Apostolos was: does it get assimilated or does it get conquered? And that, I have no idea yet, we’ll figure that out today. But that would be the Fifth for sure. 
+
+KEITH: Okay, okay. So, I’m worried about the Fourth Stel then, Stel Four. 
+
+AUSTIN: But I don’t know the order, right? So I’ve written Four on this map, [KEITH: Right.] but it could be the Fifth one instead, I don’t know. One second, I’m gonna grab… I’ll be right back.
+
+AUSTIN: Earth is, for people asking “what’s up with Earth where it is?” That is where our planet Earth is right now, not necessarily where Earth is in the world of this, this fictional world we’ve created. But I want us, the players, be like “Oh yeah, that’s where we are, that’s where Earth is.”
+
+KEITH: This is like a “YOU ARE HERE” map for reality, [AUSTIN: For reality, yes, exactly.] not for fiction. 
+
+SYLVIA: So we’re still trying to figure out what we’re thinking for the end point, right? 
+
+AUSTIN: It’s not… even before that, it’s just… Is sentence “Splintering of the Divine Principality” right? Or is it “the Ascent and…” Something… I guess it’s something else entirely. Is it about the Divine Principality becoming, like, stale? Is it about something else? I don’t know. 
+
+KEITH: If there’s a splintering, do the Stels exist before the splintering and during the splintering they become like more actively competitive? 
+
+AUSTIN: Maybe. Right? Like, so, the word... I was pitching this to Janine last night, and I was like “I need another word for civil war, I need another word for splinter or split”. I wanted to come in with something unbiased, if that makes sense? Or lacking as much bias as I can in terms of narrative flavor, something that was like dry, is what I was looking for. And in that conversation she ended up pitching the Partition that felt very flavorful. I hadn’t yet said that I wanted something very dry when she suggested it. But I was like “wow, the Partition could be cool, because it almost sounds like a thing a leader who is like trying to deny that there’s a real schism happening would use, like “Oh no, this is official, I’m partitioning imperial space such that there’s more autonomy given even to the Stels than before”, you know? And I kind of like this idea. [KEITH: Uh-huh.] The other thing is, based on what we’ve already said about Season 6, the Stels already have a great deal of autonomy, they’re already like… They are technically loyal upward to the head of government, but the entire premise of what I’ve written down on the map here—I’m gonna go over all of this stuff once we get there—of the Nideo’s Many-Stars Argument aka the Nideo Thesis is explicitly about having autonomous subregions of control, of like everyone kind of reports up one step in the hierarchy, but is in control of their own shit. It is very… like, we’ve talked about the Holy Roman Empire as being a big touchstone here, and that is really the case where it’s like tons of minor nobles who are like literally the law of their lands. And that means there can be lots of internal conflict all the way through time and space, but the whole thesis that Nideo has is like “But the whole of the thing will not shake”, right? “The whole of the thing will not fall apart because it will correct itself, because it only believes in itself.” Do you know what I mean?
+
+KEITH: So, Nideo is saying that it’s so big that it doesn’t matter how many are fighting below… [AUSTIN: Right, exactly.] What a very silly idea! 
+
+AUSTIN: Oh, it’s real stupid! I mean, it worked for hundreds of years for the Holy Roman Empire, to be clear [KEITH: Yeah, yeah.] but then it fell apart. I mean...
+
+KEITH: Well, I guess this depends on what “worked” means. 
+
+AUSTIN: Think about… Right, of course! 
+
+KEITH: That like historians say that the Holy Roman Empire existed? 
+
+AUSTIN: You’ll note that I marked a lot of these things “dark” because it’s bad. And we’ll get right to that [KEITH: Right.] soon too. Another thing to think about: Keith, I know that you’re deep into some Three Kingdom shit right now. Like, [KEITH: Yeah.] there are lots of… You should not collapse the history of China to be like “Oh yeah, Chinese history!” because there’ve been lots of different dynasties and lots of different cultures and ethnic groups in the world of China, in the history of China... [KEITH: And constantly shifting borders, and what China even means…] And constantly shifting borders and all that. But also today there is China, and China has all of that as its heritage. [KEITH: Right.] One way to think about it would be to think about moments of time either in, for instance, the earlier Warring States period of China, or in the Three Kingdoms period of China, these moments of crisis where what is the state, what is the central ruling body, like, falls apart. There is a kind of crisis of the confederation, and like, what do you do? Or, you know, how do you reform the constituency, and like, reform the state? I think that is probably where I’d like to begin, or like maybe right before that beginning? 
+
+KEITH: A lot of times it seems like as far as China’s concerned, you run away to a different part of China.
+
+AUSTIN: [laughing] Is that what happens in Three Kingdoms? 
+
+KEITH: Yeah, yeah! Or sometimes run away to Taiwan. 
+
+AUSTIN: Yeah, uh-huh. It turns out. The same thing happens of course… again, it’s like all over the world, and there is not a… It happened in North America, for instance, it happens in Japan during the Sengoku period, like… Who is really in control here, and how do we unify a country? I think that is kind of where I’m at for the big picture question of what this is, but I don’t know if this is like...
+
+KEITH: You are asking for a Discern Realities roll.
+
+AUSTIN: I guess? [DRE laughs.] No, I’m asking for like… What do y’all think is interesting in terms of what the final sentence is here? Or more importantly, in the… The stuff that I know I want to happen in Season 6 is like… I want the different Stels to invite each other to court, you know? I do want there to be tension between them, but I don’t want it to be like shoot on sight, you know? Or maybe that’s just a factor of the planet we end up playing on, where it’s not shoot on sight, but… Maybe there is active war, I guess I don’t actually know. But I do think that what I do want is this idea that like at the level of the nobles in charge, the nobles who have power, they are able to ally with each other against each other, they are able to have ceasefires, they are able to have diplomatic relations… But I guess that’s possible in a Warring States period, right? 
+
+KEITH: Yeah, I mean, you know. We could always do… I mean, this could always be as loose as a game of like Crusader Kings II, [AUSTIN: Right.] where like anybody is able to… All you’ve gotta do is fabricate a claim, and then can declare war on anybody, [AUSTIN: Uh-huh.] it doesn’t matter if they’re part of some fake empire or not. 
+
+AUSTIN: But like how do we talk about…
+
+KEITH: I don’t know. 
+
+AUSTIN: Sylvia or Dre, do y’all have… do either of you have a direction on this? 
+
+SYLVIA: Yeah, I guess I’m just trying to figure out like… maybe I’m focusing too much on the like “where do we want this to end up?” question, but… I keep thinking about how like tension boils over into becoming a full-blown war, right? [AUSTIN: Uh-huh, yeah.] And how do we lead up to that? So I’m just trying to think of like a good way to verbalize that for a podcast…
+
+KEITH: Yeah, and then the tough part is that it also has to be a good beginning to the next season. 
+
+SYLVIA: Exactly. 
+
+AUSTIN: Well, we could begin before the thing happens is something worth saying. [KEITH: Okay.] [DRE: Okay. Okay.] We could kick shit off [KEITH: Wherever.] the day it all falls apart, we could kick shit off... you know what I mean? But what I don’t want is to start that season and then like thirty episodes in, war finally hits. [KEITH: Right.] This is gonna be a game about a world in war. And maybe that’s the actual answer, maybe that’s where we… maybe that answers it for us a little bit. ...I guess… Should we just say what we’re gonna play for Season 6? 
+
+SYLVIA: Sure.
+
+KEITH: Yeah, I’m not—
+
+DRE: Yeah, sure!
+
+KEITH: —I’m not invested in that being a secret. 
+
+AUSTIN: “Beam Saber is a game about the pilots of powerful machines in a war that dominates every facet of life. They are trying to do their time and part, and get out physically and mentally intact. The organizations that perpetuate The War through all of known space are too incomprehensibly huge to take down. There is no “winning” The War, there is only surviving it. Hopefully you can help others get out too.” So like, yeah. Maybe it’s open civil war. 
+
+KEITH: Okay, here’s my thing. Here’s my pitch on that, is like… This is... these territories are e-normous… I mean, these are...
+
+AUSTIN: Yeah. I’m gonna upload the new photo literally as we speak.
+
+KEITH: These are like, what, hundreds of solar systems each? 
+
+AUSTIN: Yeah, so, fun things there actually, right? Which is like—yes, but also they’re probably less dense than they’ve ever been before. [KEITH: Okay.] Because technology is worse because of the Perennial Wave, a thing you might not know about. 
+
+
+KEITH: No, I know about the Perennial Wave.
+
+AUSTIN: Okay, okay, okay, good. But like… So, I imagine like they’re not doing full planetary… um, what’s the word I’m looking for? Uh… Full planetary… [KEITH: Jumps?] No, when you rebuild a world… terraforming! [KEITH: Oh, okay.] Like, I bet that’s not… Or if it is, it’s like on… It used to be, during the age of like Twilight Mirage, you could terraform a planet easily and like in a different way.
+
+KEITH: Yeah. And COUNTER/Weight was about terraforming, kind of. 
+
+AUSTIN: Yeah, uh-huh, absolutely was! [DRE laughs a bit.] Like literally! 
+
+KEITH: Yeah. Um, so this is that… The reminder of the Perennial Wave actually sort of makes it a lateral move still. Because it’s like the territories are huge, technology isn’t as big, the places might be less dense, but there’s still a ton of people in these different places... 
+
+AUSTIN: There’s a ton of them.
+
+KEITH: And so even in constant war, it would manifest as probably like constant but like... [AUSTIN: Right.] constant border skirmishing. [AUSTIN: Yeah. Yeah-yeah-yeah.] But like how do you break into the meat of Stel Four, if you can’t get [AUSTIN: Totally.] from the middle of Stel Nideo to Stel Four? 
+
+AUSTIN: Alright, I’m gonna switch you over to my working map, and get ready to see this like the biggest, weirdest, stupidest bullshit I’ve ever done…
+
+[All laugh.] 
+
+SYLVIA: Hell yeah. 
+
+KEITH: Is that the tagline for this season? 
+
+AUSTIN: Yeah. “The biggest, weirdest, stupidest” — alright, ready?
+
+KEITH: “The biggest, weirdest, stupidest bullshit we’ve ever done.” 
+
+SYLVIA: It’s actually the name of the season. 
+
+AUSTIN: Here it is. 
+
+SYLVIA: WOW! 
+
+AUSTIN: Yeah, dog. 
+
+KEITH: Wow, Stel Orion… big.
+
+AUSTIN: They out there! 
+
+KEITH: Bigger than before. 
+
+DRE: Dang!
+
+[Laughter.]
+
+SYLVIA: Yeah, look at all that blue dye! 
+
+AUSTIN: Look at all the blue dye! They just dyed all those stars that color. 
+
+SYLVIA: Stars are actually just eggs. 
+
+[They all laugh.]
+
+AUSTIN: You dip ‘em. 
+
+KEITH: That Stel Four is actually Stel Egg. 
+
+AUSTIN: Uh-huh. That’s actually what “Orion” means in the future. Um, so yeah, I… Oh, you’re saying Stel Four, I thought it was Stel Orion, I don’t know why, I don’t know why I though that. Because it’s so big. Because it’s just so big. [KEITH: Yeah.] So, yeah. I think maybe that’s a good idea, a good way of thinking about it is just “a state of constant warfare and skirmishing”, like that sort of like... [KEITH: Right.] Is there a good word?.. 
+
+KEITH: And then that, and it’s like… If you get… If you’re in the war, or if you’re living near where the war is, it’s terrifying and brutal and horrible, [AUSTIN: Yes.] but if you’re looking at a  shifting map that shows wins and losses, [AUSTIN: Right.] it’s like a little shaky, like wavering around the edges and that’s it. 
+
+AUSTIN: Right! So like another thing here that I love how it shook out is that Stel Kesh literally doesn’t connect directly to where Season 6 takes place. Everybody else does, but Stel Kesh who, ostensibly… [KEITH: Yeah. Very Kesh of them.] Right, right, exactly, [DRE giggles.] but also they are at the front lines of the Golden Branch stuff, which we’ll get into. Um, I love that we’ve just made a Forever War immediately. I love it, I love us, we’re the best. 
+
+KEITH: I mean, what’s the world we’ve been living in? 
+
+AUSTIN: Yeah, exactly. Exactly. [DRE: Woof.] So, maybe that’s what it is. Is that like… Is the final thing here, like, it’s not just the Splintering, but it’s like “The Ascent of the Divine Principality and the start of the Unbroken War”? 
+
+KEITH: And here’s another pitch to add on to this. We don’t have to abandon the like… I can’t think of the word, like, the… Who is the—of like Nideo or whoever denying that things are wrong? Because like… [AUSTIN: Oh, yeah!] technically nothing is really… [AUSTIN: Right! No, totally!] It’s on such a large scale, the map is such a large, that it’s like “Oh, but these are tiny little things…” [AUSTIN: Right.] And the closer you zoom in the more brutal it gets, but it’s like technically everybody still has the same territory, [AUSTIN: Right.] like, these are peanuts on the scale of whoever, you know, owns everything. 
+
+AUSTIN: Yeah. ...For now I’ve written this other bookend as like the “Acceptance of a State of Constant Conflict”, like the moment... the period by which we just go like “Oh yeah. We’re in One Hundred Years War”, like “we’re in the middle of this, this is what life is now”, you know? I don’t wanna write “Forever War” here, but that is… [DRE laughs a bit.] It is like, oh yeah, that’s the era we’re in. And maybe we’ll change the name for that as we continue, which is not what we’re supposed to do… But we all get what that period means, right? 
+
+KEITH: Yeah. You could write “Forever War”, I don’t mind. 
+
+AUSTIN: Yeah, totally. Well… I just don’t wanna use the same exact words, so… [KEITH: Sure.] I just wanna give us time so we could come up with like a cool different thing, then we’ll have space for it. So. Alright. “Your history will be divided into Periods. Each Period is a very large chunk of time, probably decades or centuries.” I’m gonna say some of these are even longer than that probably. Or… I guess maybe not, maybe some of these are… mostly centuries, maybe one or two of these will end up being longer than that, we’ll see. So those are these top ones up here, the very top cards, things like “The Divine Clash” or “the birth of the Divine Principality”, that’s a Period of time. We don’t need say how many years they are specifically, um, we don’t need to say like “and this is from month __ to __.” We “agree on a short description for each Period, just a few sentences or a paragraph at most, painting a clear picture of what happens during that time.” We again have the benefit of having recorded games about many of these things already…
+[00:30:00]
+
+AUSTIN: ...and then we “decide whether each description is Light or Dark, whether what happens during that Period is generally happy or tragic. This is the Tone of the Period.” I have already put Tones down for the events that are already here, but I’m happy to revisit them, and I’m gonna like… we’re gonna go through all of them that are already here before we start adding new stuff, and we can talk about whether the Tone makes sense. 
+
+KEITH: [laughing a bit] I really like the just, yes, the starting premise is bad. 
+
+AUSTIN: Oh yeah. [KEITH laughs.] And the ending premise is bad! But like, we’ll talk about why this might be the case, even if it’s like a good thing eventually, like, I think tonally, anytime it’s like “Oh yeah, there’s just a Forever War” is not a good place to be. 
+
+AUSTIN: So. So that’s step one. Step one was really just setting up the far left of time, the opening bit, which is “the birth of Divine Principality”, which if you go back and listen to the end of Twilight Mirage, you can learn more about that, and then “the acceptance of a state of constant conflict” is where we’re ending here. 
+
+AUSTIN: So, next. We take a step back and we create our history’s Palette. “The Palette is a list of things the players agree to reserve the right to include or, conversely, outright ban. It gets everyone on the same page about what belongs in the history and what doesn’t. Make two columns, one for Yes and one for No.” 
+
+AUSTIN: I should note two things here. One is, I think this group probably already has a good idea of what those are because we’re not just coming to this game fresh, like, this is a really useful thing for like “let’s tell a story in Microscope! In a new setting.” So if we don’t, if it feels like you don’t have things to add here because they seem like we have a good idea for the setting—totally fine. Another thing here is, you can treat this as a Lines and Veils system, but also if you want to talk about Lines and Veils separately from a Palette, we can do that, and also as always, if you want to pull the X-Card on something, just ping me, say “X” out loud, put an X in the chat, etc. and we can move on from, we drop whatever we’re doing and move on. So. 
+
+AUSTIN: For the Palette we have these two columns, Yes and No. 
+“Each player can add one thing, either a Yes or a No. Add something to the Yes column if you think the other players would not expect it to be in the history, but you want to be able to include it.” So, and example there would be… Let’s say we were doing, uh, let’s say we were doing European Fantasy, and I was like “yeah, but I want katanas in here.” [DRE laughs.] “I want oni to be in here.” I’d be like, “yeah, I’m adding”, you know, “Japanese Fantasy also to the Palette.” Or like, we could go, no, and be like, “Hey, I wanna make sure we do a game, like, I’m in a place right now, and I just don’t wanna deal with like, racism. No racism is allowed in this game today.” Or you could be like “No, I don’t want swords. This has no swords.” We should… 
+
+AUSTIN: A thing I’ll note is that this Palette will be really good for this particular game of Microscope, but I don’t expect anyone here to like… So if we’re like “No magic” but then another player pitches me on like a way to reintroduce magic in this world that is like fantastic and really cool—understanding magic really broadly here—I’m not gonna get into Season 6 and be like, “Well, in our game of Microscope we said no magic, so…”, [SYLVIA and DRE laugh quietly.] you know what I mean? 
+
+SYLVIA: Uh, really quick, I think we’re still on the map page, the players.
+
+AUSTIN: Oh, are you? Sorry. [SYLVIA: Yeah.] Bop! Moved us back over. [SYLVIA: Thank you.] There we go, good catch. Um… So. I’ve added two Yeses already, representing a thing that I wanna talk about which is religion, and then the thing I know Keith wants to talk about which is the Fourth Stel, or I’ve written Fifth here, but now I’ve said the Apostolos thing, so Fourth Stel. Um, so let’s start… Sylvia and Dre, is there anything else you wanna add to a Yes or No column? “No”, again is, “if you think the other players would expect it to be in the history, but you don’t want it included.”
+
+DRE: Hm. 
+
+SYLVIA: Nothing’s jumping to mind right now, but give me a second and I might have something for the Yes column. 
+
+AUSTIN: Okay. 
+
+DRE: Yeah, the only thing that comes to mind is me proposing aliens in the Yes column.
+
+AUSTIN: Oh definitely. 
+
+DRE: And I guess, the capital T “True Alien”.
+
+SYLVIA: Can… can we just write “aliens” twice? 
+
+AUSTIN: Yeah. “Aliens, aliens”.
+
+SYLVIA: No, um… 
+
+AUSTIN: Done—
+
+KEITH: I’m actually gonna put Yes for “aliens”. 
+
+AUSTIN: Yes also from Keith for “aliens”, got it… Let me put here “comma, aliens”, got it. 
+
+SYLVIA: Something that I do think would be kind of interesting to touch on which… this isn’t like a... I guess the Palette is for stuff we really need to hit, but I am very curious to see how technology and science changes over this period of time. [AUSTIN: Sure.] Um, just because I think that gives us a lot of fun stuff to play with.
+
+AUSTIN: Yeah. I’m with you. Um, sorry, the way this works is we all get to add one here, and then we all go around in a circle again. Dre, do you have anything you wanna add here? You did “aliens”. 
+
+DRE: Yeah!
+
+AUSTIN: Okay, good. So, once all of us go, we have the option to go again. “If someone opted not to add something, stop: your Palette is done. In the end, no player will have added two things more than anyone else.” So, the thing that I wanna add here is: No outside focus… Outside of Principality focus. I think it’s cool that there’s stuff going on with the Branched, I think that there is other stuff probably going on with Divines around the galaxy, I think there is stuff happening in other places on this space map, there’s probably stuff still going on in the Twilight Mirage! I don’t wanna go to those places. Those places are cool, maybe they come up in Season 6 in different ways, maybe they come up in… who knows, whatever we do with the rest of our lives with Friends at the Table, [SYLVIA and DRE laugh.] but today’s story, the thing we need to get down on paper is the Ascent of the Divine Principality and the start of the Unbroken War. So that is my No. Any other Yeses or Nos this round? 
+
+SYLVIA: I think I’m good. 
+
+AUSTIN: Okay. 
+
+DRE: Yeah, I [cuts off] think I’m good. 
+
+AUSTIN: And if later you’re like “oh shit, I wanna do a thing about this, but we didn’t say Yes to it”, bring it up and we’ll talk through it. Keith, you good? 
+
+KEITH: I… Yeah, I don’t have anything to add right now. 
+
+AUSTIN: Okay, cool. So. We’re good with the Palette. First Pass. “Group decisions are now over. For the rest of the game, each player makes decisions individually and has vast power to shape history. Each player now gets to add one more detail to the history, creating either a new Period or Event. Players can go in any order they want.” I think we’re gonna skip this because we’ve done this by playing games all year already. [AUSTIN laughs a bit.] And we’ll go right into the process of playing the game, but first I do wanna go over what we have here in terms of the set up, in terms of this First Pass, the stuff that we’ve done by playing the Road to Season 6. Um. So. We start with… Does that sound good? Before I continue.
+
+KEITH: Yeah.
+ 
+AUSTIN: Okay. We start with the Birth of the Divine Principality. We know if you go listen to the end of Twilight Mirage how this happens, that it is the Principality of Kesh and it is the Divine Free States who both kind of hit their dead ends inside of the Twilight Mirage, who both have a streak of kind of autocracy, at the lightest descriptor, and who find surprising allies with each other. Also from the end of Twilight Mirage, we know that at some point Aram Nideo who was once a minor bureaucrat and who slowly via episode descriptions, and brief appearances, and intros becomes a big factor in the Divine Free States over the course of Twilight Mirage, is crowned at some point the Resolute Regent of the new Divine Principality. Um, here’s one that I haven’t actually said this word before, but based on that outro for Twilight Mirage we know that Crystal Palace is renamed the Divine Past. Um. I will read, just so that we’re all on the same page on that… and pull up this classic transcript here…
+
+AUSTIN: So, as you remember at the end of Twilight Mirage there were all sorts of new ideas of what the Divine are? And I write, and say: “Of course, these new visions of the Divine were destined to generate a reactionary response. And where better than in the place so lacking in the very thing it claims to protect? Which is why deep in the tangled administrative organs of the Divine Free States, an orthodoxy begins to play in counterpoint. These other so-called reformist movements are heretical, said High Clef Nideo. They made vulgar the sanctity of the holy relationship between Divines and Excerpt. And so the Free States became more and more obsessed with the creation of new Divines. Unity.” Which we’ve seen, we saw Unity in the Dialect game that you were in, Dre. “Valour. And Strength.” I feel like Strength maybe came up at some point but maybe not. 
+
+AUSTIN: “And while Acre Seven made sure that Potency was allowed to rest, [...] The Free States did find uses for the Divines of the past, too.” So, we know that Empyrean has shown up, which happened in our game of Armour Astir, and we know that each of the Divines now has the ability—again, I don’t wanna give—some specific spoilers here—the ability to recreate themselves indefinitely, using the power of another long gone Divine. 
+
+AUSTIN: “Nideo’s argument was hard to ignore. They had lost so many Divines already. And what made this other Divine special was that he could rebuild himself, always. What if, Nideo asked his people, that power could be distributed throughout each of their all-too-few Divines? What if they simply couldn’t die? What if their service could be secured, forever?” 
+
+AUSTIN: And so the Divine Free States build a world where the Divines would be eternal servants, and not partners. Um. At that point because of the familiar devotion to structure and good intentions, the Divine Free State became closer and closer to the Rapid Evening and the Principality of Kesh. And Nideo recognised a power vacuum and, eventually, joined the two together. Here’s… Here we go. 
+
+AUSTIN: “Which is why, over the century that followed, as both powers fled the Mirage, the two forces grew closer, and closer, until eventually they were as one. From truce to defensive pact, from trading partners to sister nation. From federation to single state, to eventually, empire.
+On the day that the so-called Divine Principality came into being, Aram Nideo, the newly crowned Resolute Regent, officially recognised the divinity of Crystal Palace, granting it a new noble Excerpt, who would use what remained of its power to look backwards, instead of forwards.” We can talk about what that means at some point later. 
+
+AUSTIN: “But of course, it was only the empire that was truly considered holy. In the millennia that followed, the once-protectors of the galaxy turned to tyranny. And across the breadth of their territory, the broad reach of stars they referred to simply as Divinity, countless suffered.” 
+But that was not a place for that story. This is, today is, now we’re at the place for this story. 
+So, okay. Um. We now know that Crystal Palace is renamed Past, is christened, is, um… what’s another word for “christened”? 
+
+SYLVIA: [sighs] Oh…
+
+AUSTIN: Is there a… 
+
+KEITH: I don’t know, I can’t think of one. 
+
+AUSTIN: [typing] “christened”... Not “baptised”... “canonized”?
+
+KEITH: “dedicated”? “Denominated”? 
+
+AUSTIN: “Denominated”? 
+
+KEITH: “Designated”.
+
+DRE: Dub?
+
+AUSTIN: “Dubbed”... 
+
+DRE: No dubs here, subs only podcast. [KEITH laughs.]
+
+AUSTIN: [laughs] “Designated”, for now. I think we’ll probably end up with something like “canonized”, or something else flavorful like that at some point. Um. Alright. Then we know—and this is from the backstory in like Armour Astir—that there were minor conflicts between minor Houses, the skirmishing that still continues today, then we know… And all of those are Dark, by the way, I’ve made all of those Dark, I think that we the players know that like all of this sucks. And I think this next one probably sucks too. Um, Nideo pens the Many-Stars Argument—these are all Events, these are all like, notes in the era of the Birth of Divine Principality. So, again, Nideo become Resolute Regent, Crystal Palace is designated the Divine Past, early conflicts between minor Houses, Nideo pens the Many-Stars Argument aka the Nideo Thesis and creates Asterism, which is a faith about order and purpose that we’ve talked about before. And that is the end of the first Period.
+Then we have a second Period that we’ve talked about. I’ve put it in parenthesis, ‘cause again, I don’t know if this is like, a real name, but we’ve talked about this as being like a Time of Fables, this is the time that we saw in the Armour Astir game, this is the time where technology is still through the fucking roof, people are basically casting spells out here. [KEITH laughs.] We know that there’s the adoption of the Many-Stars Policy that restabilizes—which I spelled wrong here… That’s not what you wanna do, you wanna spell words right…—sta-bi-lizes the Principality…
+
+KEITH: Should the adoption be Light when the penning of it is Dark? 
+AUSTIN: [crosstalking] Oh, probably not. Uh, I don’t know, right? Well, like, here’s… that’s a good question. Like, I think this is Dark because we know what it leads to. [KEITH: Right.] Does the adoption save lives? Like, this is where the question ends up being like... Light or Dark is a subjective question, and do we want to focus on the fact that doing this brings peace to a lot of people, or do we want to focus on the fact that by bringing peace to a growing empire it allows the empire to grow? 
+
+KEITH: Um, second one. 
+
+AUSTIN: Second one. I’m down with that. Unless anyone feels the other way. 
+
+SYLVIA: No.
+
+AUSTIN: Um, this next one [DRE: No.] I think we’re probably good on, which is we know that a group called Horizon was created, and that was a group that sought to unseat Stel Nideo’s control. I put that as Light because like resistance movements are good, but I do wanna underscore that that group Horizon were also probably secretly monarchists to some degree, in the sense that they were like “No, House Kesh should be the one in charge still.” 
+[00:45:00]
+
+AUSTIN: They were the ones... that’s... the original leaders of the Rapid Evening and the Principality like “We were non-interventionists, we should go back to being that,” so they weren’t like, imperialists, but they did still… I think like, in a world where almost all of the past things here have been Dark circles, this one is understandably a Bright one. 
+
+KEITH: They sound sort of like the Star Wars Rebellion.
+
+AUSTIN: Yeah-yeah-yeah, that's exactly right. Yeah, totally. That was the player characters in the Armour Astir game—Armour Astir, a fantastic game by Briar Sovereign. Um. Then we have “the Perennial Wave spreads through the Galaxy”, also from the Armour Astir game, and that has a scene inside of it. That scene has a question, which is “Will the Divine Principality be able to capture the power of the Galaxy itself?” Dre and Sylvia, you were both in that game, right? 
+
+SYLVIA: Uh, yeah, right? 
+
+DRE: Yes. 
+
+AUSTIN: You wanna summarize that briefly? In a broad way, if you remember. 
+
+DRE: God...  
+
+SYLVIA: I remember sort of the broad strokes in that we were sort of a… strike team trying to disrupt an attack, right? Or a system of some sort that had to do with a Divine, and [sigh] ...I just remember that at the end there was something to do with another Divine showing up and like changing into something else? It’s been a while. 
+
+AUSTIN: Yeah, so the big thing was, there was a threat that the Stel Nideo was going to like charge to the center of the Galaxy where there was a Dyson Sphere around the center of the Galaxy which was built by a faction from Twilight Mirage, and they were gonna seize power of it, but before they could, Perennial, which was a Divine that a few of the player characters had a relationship with, asked one of the player characters the Hyphan Witch, Teasel—...which I guess… Does that make? That’s interesting, I guess this was before the assimilation of Hypha, that’s really neat—the Hyphan Witch, Teasel to link Perennial with all of that galactic power, and another Divine showed up to try to stop them, which was Empyrean showed up, do you remember, Dre? You failed that roll. [DRE: Oh yeah.] That went real bad…
+
+DRE: Yeah, I tried to shit-talk a Divine and it didn’t go over well. 
+
+AUSTIN: You tried to convince a Divine to side with you, because you thought that that Divine was like leashed, and was like a pet, [DRE: Yes, yeah.] and instead what we revealed was actually Empyrean is like all the way on board with this bullshit. But in the end Perennial took control of all that power, and spread this thing through the galaxy called the Perennial Wave which knocked… which kind of like unsuperscienced the world for us. It brought things back down to a pre-COUNTER/Weight level of technology. We’ve talked a lot on the Road to Season 6 about what that tech looks like in terms of like aesthetic touchstones, and it’s a lot of like 70s sci-fi, it’s a lot of like the Nostromo from Alien, it’s the space station from 2001: A Space Odyssey, it’s all of great moments of anime where switches get flipped and buttons get pressed, and like very tactile feeling stuff… It’s like the maps from Star Wars, where like, wow, that’s a cool laser map, but it’s all it does, is be a laser map, [AUSTIN laughs a bit] like it doesn’t do any other fucking thing. It’s a lot of like single-use cool technology, not multiuse, no touchscreens… Or if there is a touchscreen, it does one thing, it doesn’t do a bunch of different things. So yeah, that is the end of the Time of Fables, which again, is the era where like Twilight Mirage era technology still exists. 
+The next Period is the Age of Local Expansion, which is what I’ve written, it’s what we know happened via the Dialect game which is like… I think that that is the Period, if you look at the map… the earlier map that we had, is like filling out the gaps of where Stel Nideo and Stel Kesh are, right? It’s Nideo kind of looping around this other half of the map, and Kesh filling out this stuff, right? Uh, it’s pre-Stel Four probably, it’s pre-Stel Orion probably… Or I guess I don’t know, Keith, where are you gonna end up putting Stel Four, but my guess… we’ll find out, I guess. But that is when the Hypha who are the cool deer species who have like an entire culture built around Strati, are… Due to... [KEITH: That’s sick!] You should go listen to the Dialect game, it’s long and it’s kind of like arduous to get through it, ‘cause it’s like 4 and a half hours... 
+
+KEITH: No, I don’t mind, I just have… I just have not had the time to go and listen to it, but I have the time now, so I should go listen to the rest of this. 
+
+AUSTIN: Um… Matthew Guzdial is saying that they rediscovered the Chorus Bond… I can’t remember why that would have been, I’m gonna check the transcript on that real quick. [Pause, typing]
+
+AUSTIN: Someone said “I though the Twilight Mirage was a lot more peripheral.” Well, I did too, at one point, but then I saw that the map of the galaxy changed [laughs] [DRE laughs.], and we have to live with that. Uh, change the map… Live at the Table, let’s see…
+
+KEITH: We have to use the real map of the galaxy but we don’t have to use the real location of the Earth, don’t ask. 
+
+AUSTIN: Don’t ask, yeah, we… [KEITH laughs.] We were allowed to move that. No, ugh, that part of Armour Astir is not transcribed yet. So, if you remember what the deal is there… But I thought that Chorus Bond stuff… Hm… We can move it around, if you can remember, Guz, why that is the case in your mind, we can swap these two things, or put the assimilation of the Hypha into the Time of Fables, which is actually kind of nice in terms of like complicating that… I actually don’t mind that too much. Regardless, we know that the Hypha get assimilated. For Keith, again, the thing that you pointed out before like “The Hypha become the Ashen, and some begin secretly tutoring others in the way of the Chorus Bond”...
+
+KEITH: Yeah, that was the one that I was like [AUSTIN: Like “uh, what the fuck is that?”] “oh wow, that’s a bunch of nonsense”.
+
+AUSTIN: There’s a moment in… in… uh, the game of Dialect that we play where we… I’m looking to figure out like hey, how do we… what’s the name for… How do we figure out the… what their take on Strati are, and I’m actually looking for things, for words that meant, like, stuff that had to do with the dawn, or stuff that had to do with like lightning… I was like looking for all sorts of weird shit around, like magnetic powers and, you know, all that tech science shit. 
+
+KEITH: Yeah, I’ve been there.
+
+AUSTIN: And what I ended up getting, what I ended up looking up was the dawn chorus. Do you know what the dawn chorus is?
+
+KEITH: No.
+
+AUSTIN: It is an electromagnetic phenomenon “that occurs most often at or shortly after dawn local time. With the proper radio equipment, dawn chorus can be converted to sounds that resemble birds' dawn chorus (by coincidence).’ And so I was trying to find a word for what the name for the Hypha’s version of Strati were, and then I got this… Let me see if this is the right one, I’m gonna link you.
+
+KEITH: I can’t find a, I can’t find a dawn chorus thing that doesn’t have to do with Thom Yorke…
+
+AUSTIN: Oh, did he do a thing called that? [SYLVIA laughs.]
+
+KEITH: I guess. [DRE laughs.]
+
+AUSTIN: Oh, wow, yeah, he sure did. 
+
+SYLVIA: This fucking guy...
+
+KEITH: Hot take: not a fan. That’s fine.
+
+AUSTIN: ...It’s not that one… Were is it, NASA? Where did we find it? 
+
+KEITH: Oh, this one’s a Samsung phone alarm.
+
+AUSTIN: That’s not it. ...Does someone have the cool…? 
+
+KEITH: “Beautiful dawn chorus bird songs nature sounds”... I guess that’s the closest thing, is the birds. 
+
+AUSTIN: Wll, no, ‘cause the birds is not it.
+
+KEITH: “Radio,” maybe with “radio”... But then maybe Radiohead will pop back up. 
+
+AUSTIN: It will. How can I not find… 
+
+KEITH: “Natural vlf radio dawn chorus”, that sounds right, right? 
+
+AUSTIN: That sounds right. 
+
+KEITH: I’ll link it, I’ll link it in the thing. 
+
+AUSTIN: No, ‘cause I found like the exact one… I bet someone in chat already has it, I should just check. 
+
+KEITH: Oh, that’s really cool! This is, I think this is what you’re talking about! 
+
+AUSTIN: Did you just find the thing?
+
+KEITH: It sounds like birds, honestly, you know what it sounds like? It sounds like some of the noises I put in that COUNTER/Weight thing. 
+
+AUSTIN: It is! It is literally, that is literally what that sound is, Keith. It is literally the dawn chorus. The thing that you put in the COUNTER/Weight trailer, at the end?
+
+KEITH: Wait. Is it for real? 
+
+AUSTIN: It 100%, literally is. I lost my fucking shit when we stumbled into it. 
+
+KEITH: Wow! That’s awesome! That’s so good! I recognized it as similar immediately.
+
+AUSTIN: Yeah. So. Regardless, the point is that they have a whole culture based around that, they had like cool antlers that had like metal inlay and metal replacement antlers that let them see like, kind of like blossoms of light in the sky, and they followed them around… Dre, you were in that game with me too. [DRE: Uh-huh.] They had a cool relationship with death, and like working through death and grieving, and we built like a whole cool culture, and then they just got assimilated, and like forcibly assimilated by the Divine Principality. [KEITH: Nooo!] Uh-huh.
+
+KEITH: [laughing] Wait, I… but… what about Stel Four? It’s the same thing… 
+
+AUSTIN: [laughing] They were tiny comparatively to Stel Four. [KEITH: Okay.] Like, this is the thing is like: what we saw was, you know, space is big, and it’s filled with people, there’s other cultures out there, [KEITH: Yeah, yeah.] and the Divine Principality just swallowed them all up, right? This was one example
+
+KEITH: Actually, the thing that I care about isn’t even Stel Four, it’s the area within Stel Four, so. 
+
+AUSTIN: Right, which we haven’t even gotten to yet. So. [KEITH: Right.] We also ended with a couple of notes, and one of them was that some of the Hypha at least become the Ashen, who are like deer people who put cool ashes on their body as markings. 
+
+KEITH: Actually it’s this one, that one card here [AUSTIN: Yeah.] is the most Destiny of any of the other cards. [AUSTIN: [laughing] Oh, it’s so.. You’re totally right.] It’s super Destiny. 
+
+AUSTIN: And they secretly like… Janine was not trying to make a Star Wars reference, but the way that she talked about like secret tutors passing on the ways of the Chorus Bond, which is like their specific connection to...
+
+KEITH: By stealing Hypha when they’re young to become Ashen?
+
+AUSTIN: No, no, it wasn’t that, it was like the opposite. It was almost more like the Sith, where it’s like, oh, well, they only train in small numbers and very secretly. 
+
+KEITH: Oh wow! And there could only ever be two or else they are at civil war. [DRE laughs.] 
+
+AUSTIN: [laughing] Yeah-yeah-yeah, they said that too, for sure. They all have names like Darth Icky.
+
+[KEITH and SYLVIA laugh.] 
+
+DRE: Jesus. 
+
+KEITH: Darth Insaneous. 
+
+AUSTIN: But yeah, that’s it. So that’s, that we know happened. I put that as white, as a Light scene, or a Light moment because like, any time a culture secretly continues is good. Um, yeah, it was ashes of the dead that they were wearing, 100%. They were fucking sick, they’re metal as hell. We also know that the Divine Principality was trying to use—and this is part of why I though it was post-Time of Fables in my mind—is they wanted to use the Hypha’s Chorus Bond and all of their cool Strati stuff to explicitly like get back some of that power, even though the game took place beforehand. 
+
+AUSTIN: Then we know—and this was everyone but Dre?—was in the dusk to midnight, and then Beam Saber game, where there was what I called the Divine Clash, we saw the formation of the OriCom and Divine Collaborate Alliance, which actually I think…That was... We framed that as a good thing, right, at the time? We were like, hey, the Orion Combine and the Divine Collaborate, which were descendants of the Orion Conglomerate and the Automated Diaspora, they formed up and they found the alliance, and they were gonna fight back against the invading forces of the Divine Principality. And then it didn’t go great. I’m just gonna write that there so we could remember that part… Um… Do y’all r...
+
+KEITH: I even have to relisten to that one. 
+
+AUSTIN: Do you remember… 
+
+KEITH: Mostly for the Beam Saber game, but partly because I wanna hear us do the kids thing again, that was so good...
+
+AUSTIN: [crosstalking] Oh, that Ech0 game is so sick! I’ve written that over here, I don’t know where that goes. Was that part of this Period of history? Was that part of this war, or was that after this war? 
+
+KEITH: It had to be after because it was like a skeletonized mech, [AUSTIN: Yeah.] and a ghost that was living for ages…
+
+AUSTIN: Yeah. So I’ll leave it over here for now.
+
+KEITH: God, that was so much fun!
+
+AUSTIN: It was so fun. Still in the Divine Clash we have “OriCom develops EDICT, the Electronic Divine Interface and Control Technology, which takes control of hostile Divines” as another moment in time. We have a scene, which was “Will the alliance stop the encroachment of the Divine Principality?”, and that’s a Dark scene, because OriCom betrays their allies, the Collaborate—I’m just gonna write “their allies”—and then we have that Stel Orion is formed. So they betray their allies, and they join the fucking Divine Principality. OriCom, however many thousands of years in the future, y’all still fucking suck. Dusk to midnight, also a dope game, yes, absolutely. 
+
+AUSTIN: Then I have like two empty Periods, but these… this could be one, these Periods could go before the Periods we already have or after ones that we haven’t gotten to yet. I know that somewhere here, somewhere in another Period or maybe somewhere else in a Period we’ve already set up, there’s the Ech0 game, there’s the game of the children, like, exploring the planet, and like looking through, you know, carrying around the memories of the dead pilot, and taking the pilot to a museum and all that shit. Um, so we know that that stuff is somewhere in here, right? Ech0 game, so this is like “War is past and largely forgotten”, you know, “planets are scarred and filled with decontextualized robot carcasses.” Boom. 
+[01:00:00]
+
+AUSTIN: Then we know that there is the War against the Branched. Uh, Dre and Sylvia, you were both in the For the Queen game, right? 
+
+SYLVIA: Yeah.
+
+DRE: Yes. 
+
+AUSTIN: So, we set up the Branched in that game, Keith. The Golden Branch has become a place where people are able to change their bodies in cool weird ways, they’re like robots, they’re like synthetic beings, but they’re like… God, I guess I described them as being like… almost like made up of… Imagine a bunch of little Jacks, like a bouncy ball, you know what I’m talking about? 
+
+KEITH: Oh, okay. Not like de Quidt. 
+
+AUSTIN: Not de Quidt. Draw up a bouncy ball, and you have all those jacks and they’re kind of put together in… that’s almost like a nano level, and they can reform their body into like warlike shapes or peacelike shapes with various… Humanoid and non-humanoid shapes, kind of like really...
+
+KEITH: [crosstalking] They’re shapeshift— synthetic shapeshifters? 
+
+AUSTIN: They’re synthetic shapeshifters, yeah. Who live in a world that is like—I don’t want to put a camera there because I don’t think we could ever do it justice. Like the Twilight Mirage was an extension of our most utopian, like, queer leftist idealist vision of like “Ah, what if we could just snap our fingers…” I want the Branched to be even a step beyond that to where it is truly alien for us to imagine how they live. Um. But a thing that I think the camera would frame as positive. And we know that there is a war against them, we know that they took control of the planet Kesh at some point, so that is on here too, “the planet Kesh is captured by/joins the Branched”. Um, this war I think goes for a long, long, long time… Yeah, we talk about specifically that they looked like some Xenoblade 2 Blades… I was dunking on some Xenoblade 2—to be fair, Xenoblade 2 has some real problems in it. I think they looked mostly like the generic Blades in Xenoblade 2 but I do not know how to get one of those… Oh, there we go! If you do a search for like, “xenoblade 2 generic”, Keith, um… 
+
+KEITH: Yeah, I’ve never played either of the Xenoblades, I always heard great things about the first one. 
+
+AUSTIN: I liked the second one, the second one had cool shit going on in it, but also had some…
+
+KEITH: Oh, so it’s this big guy. 
+
+AUSTIN: Right. Or the little one, or the… that’s not… How do I just get this fucking image open? There we go. Boom. These guys here. Let’s copy image address and drop that in here… There you go. Um, like. No skin, just like bodies that change in different directions, and like, have cool growths… I also compared them to like the robots from The Big O. Also they can just straight up become mechs, like mech-sized machines. [KEITH: Right.] And there was like a weird… There was like a degree like of sadness about them, because they didn’t want to have… they didn’t want to be warlike in shape, right? They wanted to like continue to… 
+
+KEITH: Oh, they’d rather not be at war?
+
+AUSTIN: Yeah, they’d rather not be at war. Um. ...Yes, we’re talking about the non-horny Blades from Xenoblade 2. [DRE laughs.] Then the last thing that we know about them—I don’t know the color of this, I also don’t know the color of “The war was is past, and largely forgotten” thing, I don’t know the shade for that. But we know that the For the Queen game ended with the Apokine of Apostolos travelling to negotiate for peace with the leader of the Divine Principality—who I’ve written as the Princept, I think that is the neutral, the gender-neutral term I wanna use for the leader of the Divine Principality, or at least in this period of time… It’s like a combination of “precept” or “concept” and “prince”, and also recalls “princeps” which is like where the word “prince” comes from which is just like, Latin for like “the first among many”, basically, so. The Princept. And that they were carrying the Divine Integrity with them. Which, Keith, you may remember Sokrates had all the way back in COUNTER/Weight. 
+
+KEITH: Sorry, what did Sokrates have? 
+
+AUSTIN: The Divine Integrity? [KEITH: Right.] The like cool Divine that was like… I guess, Sylvia, that was more of your thing once we got into the faction game, but. But, Keith, you started playing as Sokrates.
+
+KEITH: Oh, you know what I’ve been meaning to relisten to forever? It’s that holiday game. I have… 
+
+AUSTIN: Yes. The Kingdom game that we did?
+
+KEITH: Yeah. Almost no memory of that.
+
+AUSTIN: That game was sick.
+
+KEITH: People like it, people like it a lot, [AUSTIN: They like it a lot! Uh-huh!] people bring it up all the time, and I’m like [laughing] “Oh, I don’t remember anthing about it”... [DRE laughs.]
+
+AUSTIN: Yeah. Someone says “I didn’t know realize that Apostolos still had an Apokine.” Well, one of the thing that we talked about there was very similar to OriCom and the Corporate… sorry, the Divine Collaborate which was: a lot of… What we talked about was over time those groups, those like old cultures did fall apart, or change, or become a bunch of different cultures, but under the threat of the Divine Principality, old alliances returned, old like… There’s a degree of like familiarity, cultural familiarity that was enough of a building block to be like “yo, we should figure out a way to reorient ourselves”. And with Apostolos specifically there was this sort of like nostalgic look back to this era of empire, of their own empire, that led them to reinstate the Apokine, and like rebuild towards that model. And we don’t know what happened at the end of that game, we were gonna play Beam Saber to figure it out, but we decided to just play Beam Saber for Season 6 instead, so we didn’t need another Road to Season 6 game, so that’s one thing that we can answer here, um, at some point. I don’t know. 
+
+AUSTIN: And finally, the final Period that we’ve written here, the bookended Period, the thing that we cannot go past is the kind of acceptance of the state of constant conflict. 
+
+AUSTIN: We can insert Periods anywhere around or between the other ones here, to the left of “the acceptance of the state of constant conflict”, to the right of “the birth of the Divine Principality”. We’ll be adding Scenes, or sorry, Moments… not Moments, Events and Scenes below the different Periods, and again, we’ll be introducing new Periods. And so, that is the… that is like where we’re at right now. Does anyone not remember any of this stuff, or feel like “Okay, I cannot do this… We cannot do this until I know X, Y, Z”? 
+
+KEITH: I think I’m… I feel caught up. 
+
+AUSTIN: Um, cool, okay. 
+
+KEITH: If I’m wrong we can go over it then… 
+
+AUSTIN: Yeah, exactly. That’s how I feel. 
+
+DRE: [crosstalking] Right, yeah. Was kinda worried about that too.
+
+AUSTIN: Fhew. Alright. So. Uh. “You should have already followed the steps in “Starting a New Game” to build the foundation of your history.” We did that and then some. 
+
+AUSTIN: “Decide which player will start: that player becomes the first Lens. If someone is teaching the game, they should be the first Lens.” I’m happy to be the first Lens, if people are good with that. [DRE: Sure.] [SYLVIA: Yeah.] “You can give the Lens a large and visible object to remind everyone at the table who it is.” I’m just gonna say that I’m the Lens… maybe I’ll type it. I’ll type “AUSTIN is the Lens.” “That’s me.” “The Lens.” Alright. 
+
+DRE: It me.
+
+AUSTIN: It me. [laughs a bit.] “The Lens declares the current Focus of the game, which is the part of history you’re going to explore right now.” That Lens is, sorry, the Focus is a kind of thematic throughline. “Play can jump backwards and forwards in time, all across the history. To keep everyone playing the same game, the Lens picks a Focus, a unifying theme that ties it together, at least until the next Lens picks a new one.
+The Focus can be anything: a person, a place, a thing, an institution, an Event, a Period, a concept–anything you want.” 
+
+AUSTIN: So let’s say we’re playing, let’s say we’re playing Microscope for Hieron, you know, we could say “The Last University” is a Lens, right? It’s a place, and we could talk about The Last University all through time from when in was first created through where we’re at now with it. But we could also say “Samothes”, or we could say “books”, or we could say, you know, one Focus could be like “trade”, right? And then we would all create stuff around the idea of trade. Does that make sense for what a Focus is? 
+
+DRE: Uh-huh.
+
+AUSTIN: Alright. So. “Each player is going to take a turn creating either a Period, Event or Scene. The Lens is gonna go first,” so, me, and then we’ll go around the table. We should go… It says to go around the table to the left, so let’s go from me to Dre to Keith to Sylvia. “The Lens” who is me in this round, “can choose to create two things on their turn, so long as they are nested inside of one another,” so, for instance, “a new Event plus a Scene inside that Event, or a new Period plus an Event inside that Period. This gives the Lens more power to keep the Focus going.” 
+
+AUSTIN: Finally, “After each player has taken a turn, the Lens gets to go again and add another Period, Event or Scene (or two nested things). This lets the Lens have the last word about the Focus.” 
+
+AUSTIN: So, let’s go do that, and then we’ll continue from there, because we’ll kind of rotate, and we’ll also choose things called Legacies which are about like cool things we wanna revisit. 
+So. I’m gonna start, and...
+
+KEITH: Quick question, though. [AUSTIN: Yes. Yes.] So, what it’s saying by “two nested things”, is you can either do, like, it says “OriCom develops EDICT” and then “Will alliance..?” [AUSTIN: Right, yeah, you could do—] So that’s one nested thing, or “The Divine Clash” and then “The formation of OriCom/Divine Collaborate alliance”, okay.
+
+AUSTIN: Exactly. What I couldn’t do is I couldn’t make “The Divine Clash” and then also “Hypha become the Ashen”, those aren’t nested, those are two different things at two different Periods… yeah, it’s a different Period, you know what I mean? 
+
+KEITH: Right.
+
+AUSTIN: So yeah. So there we go. Um. So. As the Lens, I’m going to create a new Period. I’m gonna make this one left to War against the Branched, so technically also one right to the Divine Clash,—like this shit just doesn’t exist right now, just pretend it’s not there,—regardless, what I’m gonna do is I’m going to introduce a new Period called—whoop, why did that copy twice? That was weird.—called “The Schism and Reformation of Asterism” which is the church that Divine… oh, sorry, that Aram Nideo unintentionally starts. We talked a little bit about faith before in this game, we talked about how—again, it says... on the card it says that Nideo created Asterism, a faith about order and purpose, and the pitch I’ve given to this faith before is that it is part faith, it is part sociological, like, theory. It’s a little bit of like neoreactionary bullshit mixed in with like astrology. It uses, uh, the… His basic premise—and like I could just pull up the notes I have and start reading, I guess. So maybe I should just do that to kind of set the stage… Uh… Let me pull up this thing that has a bunch of his bullshit words in them, um… Here we go. He writes: 
+
+AUSTIN (as Aram Nideo): Constellations last longer than their form. We would sooner convince ourselves that a bull has three horns than admit that the stars have drifted such that Taurus has left us. Yet… 
+
+AUSTIN: Of course, Taurus is bullshit ‘cause he wouldn’t be in a place where Taurus exists at all. Anyway. 
+
+AUSTIN (as Aram Nideo): Yet, as we left our individual homeworlds and moved through the stars, the constellations shifted even further around us until they were unrecognizable. So now we must build our own, those that might travel with us, those that may guide us through the dark from any world at all. 
+
+AUSTIN: He also notes… uh, ta-dah-dah… Let’s see, is this also one of these? No, I think that’s probably the thing there. So, literally, one of the ways in which Asterism works is through the creation of these constellations that are about organizing yourself around… They are sort of like… they are sort of like… what is the..? Oh my God, why am I blanking on this Medieval concept? [AUSTIN makes thinking noises and typing] 
+
+KEITH: What’s the concept? 
+
+AUSTIN: That there’s like a natural hierarchical order to the world. There was a really like clean metaphor that… The Great Chain of Being! Do you know the Great Chain of Being? 
+
+DRE: Oh…
+
+KEITH: No. 
+
+AUSTIN: “A hierarchical structure of all matter and life, thought in medieval Christianity to have been decreed by God. The chain starts with God and progresses downward to angels, demons, stars, the Moon, kings, princes, nobles,” [KEITH: Oh.] “commoners, wild animals, domesticated animals, trees, other plants, precious stones, precious metals, and other minerals.” [KEITH: Yeah. I do know about that.] You know, just classic shit. So, it’s sort of like that except there’s a bunch of them. So like, for instance—I’ll just drop one in here… let’s copy this, and then I’m just gonna paste this, and then delete it… Let’s see if I can do that… Copy… 
+
+KEITH: Demons are so high up on this list! 
+
+AUSTIN: Demons are really high up on that list, right? ...So like. This is gonna be big, probably. Boom. It’s gigantic. [laughs a bit.] Here’s one constellation that people believe in—wow, it zoomed out way too much!—where it’s like… 
+
+KEITH: Oh, I remember this stuff!
+
+AUSTIN: Yeah, we talked about it a little bit. Where it’s like, oh, there’s the Leader of the Stel, and then there’s like whoever the… we decided the Elect would be like the name of the Divine pilots, then there’s the Divine, and the three of them kind of are in harmony, and then underneath the Excerpt are the Hallowed, those people who kind of pilot in honor of the Elect, and underneath that are the citizens, and then underneath them are the Adrift which are like residents who are not citizens. So it’s like a lot of those types of things. 
+
+KEITH: Where do demons go? 
+
+AUSTIN: [without missing a beat] They are really bad, they’re really at the bottom, you don’t like demons at all, in this new structure. [KEITH: That’s…] And so like those exist, both metaphorically, like you’d grow up learning your constellations, like “studying your constellations” the way you or I might study our times tables—though I guess that’s not how they teach maths anymore. [AUSTIN laughs a bit] No one studies their times tables, but… 
+
+KEITH: [incredulously] They don’t do times tables?
+
+AUSTIN: No, it’s different, man, Common Core. 
+
+KEITH: Thank god, those sucked so bad.
+
+AUSTIN: No, they figured out a whole better way of teaching math, IMO. 
+
+KEITH: Yeah… Oh, not just rote memorization of what numbers make another number?
+
+AUSTIN:No just rote—yes, yes, exactly. So, so, it’s that, where you’re studying, you are doing rote memorization of the constellations, which tell you everything from how does civil structure work, to like how you… what a good relationship looks like, to what it means to be a good family member. 
+[01:15:00]
+
+AUSTIN: Like, it’s just like weird propaganda shit. But also they make these constellations at all of their colonized major worlds in the sky with satellites. So that you can look up and see the same constellation on two different worlds. [KEITH: Right, because you wouldn’t normally be able to do that.] ‘Cause you would not be able to do that. So they just make that happen. Because they are ridiculous. 
+
+AUSTIN: So that’s the Period I’m making. I am gonna nest something in here. Again, the Period is “The Schism and Reformation of Asterism”, and I think that that is… I think that’s Light. I think I wanna say that this is a Light scene. The reason—I wanna justify this which is like part of what we have to do a little bit—is that it begins to show cracks in the empire, and it forces the empire to change some stuff. And the event that I wanna make is, “The Prophet speaks to God.” Not to a Divine. To God. 
+
+KEITH: Who’s God? 
+
+AUSTIN: Y’know… [SYLVIA laughs]
+
+DRE: God! 
+
+AUSTIN: It’s God! Um. I’ll read here really quick about making Periods and making history… or making Events. So. Periods are the largest subdivisions of the history. “It is a very large chunk of time, usually decades or centuries.” You place a Period on the map; you “describe the Period: Give the other players a grand summary of what happens during this time or what things are like. Describe how it is different from other Periods around it, as appropriate.” So I should actually go back and do that a little bit. 
+
+AUSTIN: And then with Events, you “place the Event in an existing Period. You cannot have an Event outside a Period. If there are already other Events in that Period, place it before or after one of them chronologically.” This is a new Period, so it’s at the top. But you could put something above it if you want to here. I “tell the other players what happens. Your description should be specific enough that the other players have a clear picture of what physically takes place. Make sure to include the outcome, not just the start.” So. Maybe I should rephrase this to help describe this. 
+
+AUSTIN: So, one, the Period is “The Schism and Reformation of Asterism”, and, two, uh, to summarize what that actually means, is that there’s a period of time where there’s a schism in a major faith, where people—the Asterism as it’s written is all about the divinity and… the divinity of the state, effectively, and it sees Divines as being kind of representative of the qualities that are true about the Divine Principality, right? In some ways it’s like the reverse of the Automated Diaspora version of Divines where like, the Diaspora was like “We should have something called Righteousness because we should be righteous.” And for the Divine Principality it’s like “We have something called Valor because the state is valorous, because the empire is already valorous. And Valor helps reify that and make that valor apparent wherever it is deployed.” And so that was like the original version of Asterism. 
+
+AUSTIN: But something happens—we’ll continue to define what—and there’s a new challenge. And the new challenge says that the Divines instead represent something true about God. About God. A person, people start to believe in a monotheistic God. Or a sort of like Spinoza-esque like “God is in everything”... You know, monotheism is really broad, it’s way broader than just like the way that we talk about the Christian God, monotheism can also be a sort of like God that is dispersed but still a singular being. But there’s probably lots of little schisms here, but the Reformation, the thing that makes this a long period that involves both Schism and Reformation is that eventually the church says: “Alright, you can be a fucking Orthodox Asterist or a Reformist Asterist. The Orthodox ones believe that Divines are worth worshipping because they extend the great qualities of our country, of the Divine Principality, the Reformists believe that the Divines represent some connection to something beyond humanity, they represent, you know, a connection to Valor in and of itself, or the Valor of God, or whatever.” And so, like. That is the big picture. 
+
+AUSTIN: The little picture is, on a planet… you know what? Not on a planet. On a moon, on a moon in space… I’m gonna move y’all over real quick. Do you see where it says “Season 6”? There’s some solar system there, right at the tip, right at the eastern tip—space East, lots of spaces have an East—right at the tip there, that… There’s a gas giant—I don’t know what it looks like yet, we haven’t decided that bit yet, but it hangs high in the sky. If people have like good gas giant descriptors that aren’t just like “It’s like Jupiter,” I would love to hear them. One of, on one of the moons, a religious leader who I don’t have a name for yet, that’s why I’ve just written “the Prophet”, has a religious experience, and speaks to God a number of times, speaks to a being that they call God a number of times, who makes predictions that become, that are… true, that come true, and begins to perform miracles. [KEITH: Hm.] And, seemingly, like helps to be a big part of this Schism, right? [typing] “Speaks to God and performs miracles”...
+
+KEITH: Are we coming down on whether this God is real or not? 
+
+AUSTIN: I don’t think today. [KEITH: Alright.] I would like to leave that blank. [SYLVIA laughs] Uh. The miracles happen. 
+
+KEITH: Right, sure. Ahead of sched… This person predicts some miracles and then they happen? 
+
+AUSTIN: And then also they do some. [KEITH: Okay.] Yeah. Totally. Um, so. I’m gonna put that as a Light one? I think I’m describing it as a Light one. I think it’s like… people get healed, you know? Um, there’s like an autonomous… Or I guess I can’t… we can’t talk about specific things that happen here, ‘cause that’ll go to y’all. Y’all can fill in more blanks here or somewhere else, because the Lens I’m giving everybody, or the Focus as the Lens that I’m giving is “religion”. So, your scenes for this opening round have to do with religion. They don’t necessarily have to go here, in the “Schism and Reformation of Asterism”. They can go in any previous Period, any future Period, Periods that don’t exist yet. They can be Scenes, so if we wanted to zoom in tighter on one of these things we can do that, they can be Periods, they can be Events. So. That was my turn. Dre, you’re up next. What are you going to make? 
+
+DRE: Okay. Um, so, “The Prophet speaks to God and performs miracles” is an Event card, right? 
+
+AUSTIN: Yes.
+
+DRE: Okay. Would it be more of an Event card or a Scene card to, like, try and figure out what the first miracle performed was? 
+
+AUSTIN: That’s a good question. I think you literally just did the thing you’re supposed to do when you want to do a Scene which is... I’ll just read from this… 
+
+DRE: [laughs] Oh, right, ‘cause Scenes are asking questions. Uh-huh.
+
+AUSTIN: Are asking questions, exactly. “Each player controls a character in the Scene and uses that character to try to answer a Question. There is no GM.” ...I think I actually skipped the Making Scenes bit, where is it? Oh yeah, here we go. 
+
+AUSTIN: “Scenes are the smallest units of history. They show us exactly what happens at a specific place, at a specific time, with specific people. Scenes are also different because, instead of creating them unilaterally, all the players join in and role-play to determine what happens. You give up absolute control, but in return you decide what everyone is going to role-play about, turning everyone’s attention to a part of the history that interests you.” 
+
+AUSTIN: “To create a Scene, you first pose a Question, something you want to find out about history. The goal of the Scene is to decide the answer to that Question. We start off the Scene without an answer and discover it through play. The Question can tell us something crucial to history (“why did the king betray his country?”), it can give us a window into what life was like in that time and place (“are the asteroid miners happy with their rugged frontier lives?”), or just examine something that isn’t important in the grand scheme of things, but is interesting to the players, (like “did the soldier get to marry their hometown sweetheart?”).”
+
+AUSTIN: “If you want to make a Scene, but you want to answer the Question yourself”, you can also do that. To do that, you just dictate a Scene instead of playing a Scene. “When you dictate a Scene, you describe what happens and narrate the answer to your own Question, just like making a Period or Event. Making dictated Scenes is covered later.” But it is just what it just sounds like, it is like, you know. You would just tell me what we see, if that makes sense. 
+
+DRE: Hm. Okay, and you said this was done on a… The Prophet began speaking to God [AUSTIN: At a moon, yeah.] on a moon? Um. Then I think…
+
+AUSTIN: The thing I’m gesturing at, by the way, is I think that moon, barring us destroying that moon in this game, [DRE: Right.] I think that moon is where this game takes place, is where Season 6 starts.
+
+DRE: Well, okay, cool. ‘Cause then I was gonna say the Scene that I want to dictate then is the Prophet creates an ocean on the moon. 
+
+AUSTIN: Yo! Okay, well, dictate what is… so you, so your Question was “What is the first miracle?” 
+
+DRE: Yeah.
+
+AUSTIN: Uh… That’s wild! Alright, let me go to how to dictate these things, I wanna make sure we’re not gonna miss something here. Um… “Doing Thing to Characters”, uh… I don’t know if this is coming up cause you’re just going to dictate this Scene…”Pushing” which is a rule we barely used in COUNTER/Weight but that does totally… Alright, “Dictating Scenes”. 
+
+AUSTIN: “Instead of playing a Scene, the current player can choose to dictate what happens during the Scene. Dictating a Scene is useful when you want total control over what happens or when playing out the Scene would not be interesting. Other players cannot affect dictated Scenes.
+
+Skip all the rules for making and playing Scenes and do the following instead:
+1) State the Question.” 
+Which is what you did, which is “What is the first miracle performed by the Prophet?” [typing] And again, just for the record, things like “The Prophet” can and will change over time, probably. 
+
+AUSTIN: “2) Decide where to put the Scene in history & review what we already know.” 
+It sounds like you’re putting it with “The Prophet speaks to God and performs miracles”, right? [DRE: Uh-huh.] Alright, so I’m gonna put this underneath this other card here. I’m gonna give this card a black outline… Nope, that’s a black inside, that’s not right, I made that worse! [DRE laughs.] No one can see hat now. Let me flop that around. Bop. Bop. That way it’s like you can read that there’s two cards here. “What is the first miracle performed by the Prophet?” Good question. 
+
+AUSTIN: Then, “Narrate what happens to answer that Question.” 
+“You can include any characters you like and narrate whatever you want, but keep it short and to the point. When you’re finished, follow the normal rules for ending Scenes.” 
+
+AUSTIN: “A Scene ends when the players know the answer to the Question. If you think the Question has been answered, just say so. Don’t get distracted by action in the Scene. You may be really curious to find out how something else in the Scene turns out, like whether the hero gets vengeance on the villain who murdered their father, but don’t prolong the Scene to find out; just play another Scene later focused on that.” 
+
+AUSTIN: So. Tell me more than just the thing about it that you just said, which is sick, which is that the Prophet creates a sea. What’s that look like? How many people are in there? 
+
+DRE: I think there’s a handful of people, I don’t think there’s too many. Um, and I think what it like physically looks like [AUSTIN: Yeah.] is, um… Oh god, what was the animated movie that came out when we were kids that was about like Moses? Was it Prince of Egypt? Was that— [AUSTIN: Prince of Egypt, yeah.] Yeah. I’m thinking of like the scene in that movie, and probably like any other, you know, movie that, you know, shows the parting of the Red Sea, [AUSTIN: Yeah.] where except this time it’s like a parting of land, and that parting just gets bigger and deeper until water starts like seeping out from [AUSTIN: Oh wow.] the core of the planet, and then just spreads to fill this enormous space.
+
+AUSTIN: Wild. So, two things here that I wanna zero in on, one: a Divine… there’s no, like… one, Perennial Wave says this shouldn’t happen. That’s first and foremost, right? Perennial Wave is like, this sort of shit that maybe happened in the age of Twilight Mirage should not be happening. So that’s part of why this is so wild. Two, Divines break these rules sometimes when they’re around, right? The Divines can still do things that look incredible, and amazing, and that seem like they have some exception to the law, right? They don’t do… they can’t do everything, you know, if you’re a Divine that has a touchscreen that can do multiple things, maybe that’s the one thing you can do, [AUSTIN laughs a bit. DRE laughs too.] you know? But by and large they can all like, break a rule of… and do one thing that’s kind of incredible. Maybe they can do that one thing really well, we’ll get to talk maybe a little bit about what the Divine Past does at some point. So that’s…
+
+KEITH: No, they all can actually do two things that are sort of incredible, because they can all also rebuild themselves. 
+
+AUSTIN: They can all… Yes, that’s true, 100%, good catch, Keith. Which is incredible, right? That is like… Again, in an age where… we’re talking about like Star Wars, or like not even Star Wars technology, but like I do think Star Wars is a good tech touchstone—imagine if the Millennium Falcon could rebuild itself, you know? [KEITH: Mm-hm.] Um, the Millennium Falcon of course is a Divine because we know that there’s that robot inside of it now, ‘cause of the movie Solo. [DRE laughs.] Fuck off. Um.
+
+DRE: I forgot about that, shit, huh.
+
+AUSTIN: Dre, is this a Light or a Dark Scene? 
+
+DRE: I think this is a Light Scene. 
+
+AUSTIN: Yeah. Um…
+
+DRE: I think if the Prophet speaks to Gods and performs miracles was Dark, then this would also be Dark, [AUSTIN: Sure.] like, [in a terrified voice] “Oh fuck, this person made an ocean!” 
+
+AUSTIN: Yeah. Totally.
+
+AUSTIN: And now it’s like: [excitedly] “Oh fuck, this person made an ocean!” [Laughter]
+
+KEITH: This odious person made an ocean. 
+
+AUSTIN: Right. I love that Halo game. [They all laugh.] Alright, so, Dre, that was you. Good Scene. Uh, Keith. [KEITH: Yeah.] Do you wanna make a Period, an Event, or a Scene? 
+
+KEITH: Oh boy. Well... 
+
+AUSTIN: I know. Uh-huh. Again, the Focus right now is “religion”. 
+
+KEITH: The Focus right now is “religion”... I guess I’ll… Okay, here’s... I would like, um… Do we have a word for the... was there a head to Asterism? Pre this Prophet? Or was it very loosely…?
+
+AUSTIN: No, and I don’t even know that this Prophet is the head of Asterism, so yeah, we just know that there was a religion called Asterism, we didn’t talk about like, is the head of state the head of Asterism? 
+[01:30:00]
+
+AUSTIN: We didn’t talk about anything like that, so if you wanna fill in that blank, I’m down.
+
+KEITH: [crosstalking] Because there’s people making fake skies, it’s probably… That sounds like a bureaucratic thing. 
+
+AUSTIN: Seas, Keith, seas. Oh! [KEITH: No-no-no, the people making] Oh, oh, REAL… [KEITH: Yeah.] Yeah-yeah-yeah, fake constellations. [KEITH: Right, yeah.] Yeah, that does sound bureaucratic, for sure. So yeah, probably like a tight relationship between… Probably House Nideo? That’s actually my real answer, as like a background thing. Is that you think about the multiple Stels, Stel Nideo, the head of Stel Nideo is probably the head of the church. Or the head of Asterism, does that make sense? 
+
+KEITH: Yeah. So, um, I want a, you know… I wanna say confrontation, but it doesn’t, I guess it doesn’t have to be, you know. ...Yeah, let’s say a confr… I want a confrontation between the, like, the brass of Asterism—whether that is like the, you know, some local bureaucrat or whether it’s some high up House Nideo guy—[AUSTIN: Yeah.] coming and, like, talking to the Prophet. [AUSTIN: Okay.] I want that as a Scene. [AUSTIN: So you want that as a Scene, yeah.] I guess like, how, what is the… I guess the Question would be… I don’t know where to put it, do I need another heading? Or can it just be…
+
+AUSTIN: Do you want it to be part of “The Prophet speaks to God and performs miracles”? Or it could be an Event, in which case, like is it a, is it a… there are talks between these two branches of faith? 
+
+KEITH: Yeah. So, I guess the Event would be something like “The Asterism leadership is aware of the Prophet”, and then the Scene would be like “How is the reception of the Prophet by the brass?” 
+
+AUSTIN: So, we can start with the Event, we can’t do both an Event and a Scene because only the Lens can do that, but… 
+
+KEITH: Oh, that’s only a Lens thing, okay.
+
+AUSTIN: The Lens can do a nested thing, everybody else inside of a given round can only do one thing. [KEITH: Okay.] So, either… I think it’s probably fair to, inside of this Event have the Scene, if you want, inside of “The Prophet speaks to God and performs miracles”, um. But I do.... I also think it’s fair to have an entire Event around like talks between Asterism and the Prophet.
+
+KEITH: Yeah. I think we should make it its own Event. 
+
+AUSTIN: Okay. [typing] “Talks between the leadership of Asterism and the new Prophet.” Is that positive or is that negative? Is that Light or Dark? 
+
+KEITH: [sigh]
+
+AUSTIN: ...That’s too big, I’m gonna make it a 20… Bop. 
+
+KEITH: I’m on the fence on that… I guess — I’m gonna have to... 
+
+AUSTIN: I guess one way to think about this is how do those talks go?
+
+KEITH: Well, there’s a Schism, so bad. 
+
+AUSTIN: Okay, okay. [He laughs.]
+
+KEITH: Like the Prophet doing miracles I don’t think causes the Schism, this is where the Schism… [AUSTIN: Okay.] Like… [AUSTIN: Yeah.] If it had been like “Wow, you found out that there is a God, and you’re out here performing miracles, that’s awesome, we’re gonna write that into all our books…” 
+
+AUSTIN: Right. But you don’t think that’s what happens at these set of the talks. [KEITH: No.] So, do you wanna call this like “Initial talks” to like help underscore that that’s the case? [KEITH: Yeah, yeah.] And also it does come after the sea miracle? 
+
+KEITH: It does.
+
+AUSTIN: Okay. This is not like, this is not a situation… Yeah, okay, good. 
+
+KEITH: No, they heard about a guy who made an ocean, [AUSTIN laughs.] and they were like “We’ve gotta see what this is about, we’ve gotta get this Prophet on our side.” 
+
+AUSTIN: Yeah. 
+
+KEITH: And it does not go that way. 
+
+AUSTIN: Yeah, I’m with you. 
+
+KEITH: And it also doesn’t go probably the best way as, like, invite—at least for the Prophet would be to graciously accept the Prophet’s ideas into Asterism.
+
+AUSTIN: Right, sure, sure. Right. Sadly, we did write the word “Schism” down, so. It’s already there. Cool. Sylvia, your turn. 
+
+SYLVIA: Yeah, so. One really quick question. [AUSTIN: Yes.] I can put like an Event in any time Period here, right?
+
+AUSTIN: Anywhere. The only thing is, it has to deal with religion, because that is the Focus of this set of scenes.
+
+SYLVIA: Oh, don’t worry. [AUSTIN and DRE laugh.] So, I was thinking we could either set this in “War against the Branched” or even like later if we want, [AUSTIN: Yeah. Sure.] but I… I love that we’ve already got like, prophesy and stuff in there, but another thing that I always love about old like… about religious stuff in general is relics, [AUSTIN: Yeah.] and I love the idea of somebody finding something [AUSTIN: Oooh.] left by this God, basically. 
+
+AUSTIN: [hyped] Yes! What do they find? What is it? 
+
+SYLVIA: I had a couple ideas! Um, I think it is something that like… I’m trying to think of a specific way to get across the vibe I’m wanting here, I want something that feels like a... We’ve talked a little bit about this like, throughout all of our sci-fi stuff, but something that kind of bridges organic and synthetic. [AUSTIN: Yeah.] My first, like, thing that I jumped to was something that looked like a heart, or another type of organ, but made out of this sort of otherworldly resin, [AUSTIN: Yooo…] where... [AUSTIN: You said a “heart”, right? Not a “harp”.] I said “a heart”, yes. [AUSTIN: Like, a heart in a person.] Like an organ, yeah. 
+
+AUSTIN: Yeah. Is it humanoid-sized, or like person-sized? 
+
+SYLVIA: Bigger. It’s…
+
+AUSTIN: Okay. 
+
+KEITH: Bigger than person-sized? Is it like beating or is it fossilized? 
+
+SYLVIA: [crosstalking] Oh no, like, sorry, do you mean… [AUSTIN: Quick question.] when you say “human-sized”, do you mean of the heart within a person? 
+
+AUSTIN: The heart inside of a person is what I meant. 
+
+SYLVIA: It is bigger — yeah.
+
+KEITH: Oh, I thought you meant human body-sized. 
+
+SYLVIA: It is bigger than a human body’s heart… But I don’t — 
+
+AUSTIN: Is it bigger than a human? 
+
+SYLVIA: I think it is… It is bigger than a child. but not bigger than an adult.
+
+KEITH: This is like a teenager-sized heart. 
+
+AUSTIN: Quick question: is this… [SYLVIA: No. Like 3 feet tall?] Would you say it’s bigger than before? 
+
+[KEITH laughs] 
+
+SYLVIA: [laughs] Uh, yeah. So, the ocean was actually, what was it, vinegar? Was the first step? [AUSTIN: [laughing] Okay, yeah, uh-huh.] And the Schism was caused by people trying to figure out whether or not to put blue food coloring in the ocean. [DRE and AUSTIN laugh.] I know I can’t do nested things, it’s not my turn, but…
+
+AUSTIN: But. Yeah, uh-huh. So yeah. What do you think this is? Is this “War against the Branched”, is this “Acceptance of the state of constant conflict”? 
+
+SYLVIA: Um… I think I can see it being “War against the Branched”, I guess my question is how long is the time period [AUSTIN: If you…] between like Schism and War against the Branched? ‘Cause I’m thinking like a century later from when…
+
+AUSTIN: I would say… Oh, I definitely think that The War against the Branched is both longer than a century later, [SYLVIA: Yeah. Okay, good.] and also lasts for more than a century. 
+
+SYLVIA: Okay. Then I think it fits perfectly in there. I just wanted to make sure we weren’t doing like a 50 year jump from this to that, yeah. Good.
+
+AUSTIN: No-no-no, I think these are big jumps, I think it’s a pretty… The jumps here are not gonna be as long as like the jump between COUNTER/Weight and Twilight Mirage, but I do think we’re talking about hundreds of years or a thousand years, you know? A thing that I really love the idea of is going into this Season being like “It is the 998th year… or 999th year of what the Divine Principality calls like the Millennia of Peace,” which is just a fucking lie. [laughs a bit.] It’s just a lie. There has not been a millennia of peace, [SYLVIA laughs.] but they claim there is. Um. God, it’s gonna be really cool in a second… 
+
+KEITH: I have a couple heart questions. 
+
+AUSTIN and SYLVIA in unison: Yes. 
+
+KEITH: Is..? I guess it’s one question with three parts… Um. [AUSTIN: Uh-huh.] Is the heart… Is it like, fossilized? Or does it seem freshly dead, or is it still beating? 
+
+SYLVIA: Uh… it— 
+
+AUSTIN: Good question! 
+
+[DRE laughs.]
+
+SYLVIA: I think that most of the time it is dormant. [AUSTIN: Fuck off!] And I think… Look! I can… Language is very fun, [AUSTIN: You can do it. This is — ] and sometimes where it’s like most of the time, [AUSTIN: No, you’re right.] it lets you make something very interesting.
+
+AUSTIN: Uh-huh! [typing] “A mostly dormant resin heart is found…” and it’s— 
+
+SYLVIA: Yeah. At the bottom of the ocean.
+
+AUSTIN: “...at the bottom of the Prophet’s Sea.” Does that work?
+
+SYLVIA: Yeah.
+
+AUSTIN: Okay. Love it. And you said that was “War against the Branched”? Or was that..?
+
+SYLVIA: That was “War against the Branched”, yeah. [AUSTIN: Okay.] And I think, on it… So, when it comes to a Light or Dark on this, I think that on its face we could probably… I could make an argument for either. In my head this is going to lead to more conflict, but the discovery itself we could list as a Light thing, depending on how people would see it. But personally speaking… 
+
+AUSTIN: Is it, is it… How does the camera frame it? What is the soundtrack when they pull this up? 
+
+SYLVIA: It is like… Um...
+
+AUSTIN: Like is it Stargate where they pull the Stargate out of the thing, and you’re like “Wow, cool, a Stargate!”? Or is it like Sphere where they’re like “Oh no, a creepy ocean sphere!”? These are two references to things that no one knows, I’m sorry. 
+
+SYLVIA: My touchstones are… [KEITH: I only have Stargate.] Have you guys seen the first Transformers movie? 
+
+AUSTIN: [happily] Oh, absolutely.
+
+[KEITH laughs.]
+
+DRE: Yeah, keep going.
+
+SYLVIA: So at the beginning of the first…
+
+KEITH: Sorry, the first live-action Transformers movie, or…
+
+SYLVIA: The first live-action one.
+
+AUSTIN: Not Transformers: The Movie, yeah.
+
+SYLVIA: No, not the animated one. ...The way they find Megatron, [AUSTIN: Uh-huh.] is that they fall though a, like an ice cap, basically. [AUSTIN: Yeah.] And I think that, similarly, it is like, an accident that they find this thing. I think that… Uh, yeah, moons have winter, right? 
+
+AUSTIN: We will decide what’s up with this moon. 
+
+SYLVIA: We will decide, yeah, true. Um, I guess the way I’m thinking is that it’s like... this is a routine like, military exercise, even… [AUSTIN: Okay.] If the military is here yet, and they like get this reading on this thing, they… I think they try attacking it at first, because they’re not sure what it is, [AUSTIN: Uh-huh.] because the readings are like something they’ve never seen before… [AUSTIN: Right.] And then, when they can’t get rid of it, they send like armored divers down who recover this thing, this big heart.
+
+AUSTIN: Again...
+
+KEITH: Is it beating when they find it? 
+
+SYLVIA: It is… It is beating when they come down, and there is still some reverberation from the charges they dropped, by the time it is on deck, it has stopped. 
+
+AUSTIN: Can you give me the size of this thing one more time? A child? A kid? 
+
+SYLVIA: I think like about 3 feet, like… in circumference, I guess…
+
+AUSTIN: 3 feet, okay. 
+
+KEITH: We’re learning that Sylvia does not know what the size of a child is. 
+
+SYLVIA: Look, we’ve established that I struggle [KEITH laughs.] with both the like imperial system and metric when it comes to heights…
+
+AUSTIN: Have we considered that Drake wasn’t hiding a child, he just couldn’t find it? “Where is that..? Wait, how big is a kid?” 
+
+KEITH: “I don’t know how big a kid is, and I don’t know which ocean to look in.”
+
+AUSTIN: “Is this a kid?”
+
+SYLVIA: This was not part of the Ontario curriculum. 
+
+AUSTIN: No, okay, great. Um, I love it. 
+
+KEITH: You are diving a child! 
+
+AUSTIN: [laughing] Fuck off! ...Alright. So. What you describe sounds Dark to me, but…
+
+SYLVIA: Yeah, I figured. 
+
+AUSTIN: But. I’m rooting for it. So. 
+
+SYLVIA: I don’t think it’s like… The heart’s not evil. Just the way it’s found was. 
+
+AUSTIN: Yeah. God. Also, yeah, I absolutely did not mean to call it the Prophet’s Sea as in the Prophecy, but we’re fucking sticking with it now. [SYLVIA: Ho!] [DRE: Mm-hm.] Um. So, okay, good Scene. It’s my turn now. Again. Uh, ‘cause the Lens gets to wrap things up, again, with either one thing or with two things, a new thing and a nested thing. Um. Let’s do the Scene that Keith suggested, let’s do the talk between the leadership of Asterism and the new Prophet, does that make sense? 
+
+KEITH: Yeah. 
+
+AUSTIN: Alright, uh. Again, let me add a… border, there we go. And the Question that I wanna ask is “Why do talks between the leadership of Asterism and the new Prophet break down?” Because a thing you can do in this game is ask very leading questions. So like, you could ask a question like, I could’ve asked a question like “How does the leadership of Asterism kill the new Prophet?” That’s a thing I could have asked. So, be as, like, leading, and fill in the blanks as you want to with these questions. [typing] “How do these talks break down?” 
+
+AUSTIN: And I can now talk about how to do played Scenes. So. “When you play a Scene…” pa-bah-bah… pa-pa-bah… Why was I doing?.. What was that...? 
+
+DRE: [laughing] The Kirby song? From Smash Brothers? 
+
+AUSTIN: [also laughing] The Kirby song! From Smash Brothers! [singing] 
+
+KEITH: Oh yeah, that is… I was trying to figure out what that was. 
+
+AUSTIN: [sings a bit more.] Okay. Step one. You state the Question. I guess I could zoom in on... 
+
+DRE: Wait, no, that’s Pokémon, nevermind. That’s…
+
+AUSTIN: It is Pokémon, it is Pokémon. It is Pokémon. That’s why we all knew it, too. Um. I don’t know shit about Kirby. 
+
+AUSTIN: When you play a Scene, you state the Question, which in this case is “How do these talks break down?” Then you set the stage. Where do we already know from the history… “What do we already know from the history? Where is the Scene physically taking place? What is going on?” I think that this is, um… These are talks being held in the very humble… home, or maybe like, church, that the Prophet has built. They are like a… It’s by the sea. It’s like on like a precipice overlooking the sea. Like, a cliff face. It is in a sort of… I think it’s a smaller room that what you would… Like, this is not being held in a grand, these talks aren’t being held in like a grand, you know, dining hall, or a reception hall, or a conference room, or something. I think that the talks are being held in this sweaty back room where like the Prophet like puts on their vestments, you know? And I’m going to say that, one, the Prophet is... something we haven’t seen before. The Prophet is a being that is both… Keith, can you actually introduce this? Since this is your idea. 
+
+KEITH: Yeah, sure. What part of it do you want me to introduce? 
+
+AUSTIN: The sort of culture that you suggested to me, the like, the most…
+[01:45:00]
+
+KEITH: Oh, this is the Fourth Stel? Or this is the…
+
+AUSTIN: Yeah! Or this person is from the Fourth Stel, and from the specific subgroup that you talked about to me. 
+
+KEITH: Okay. The… Okay, so. We have the Fourth Stel which is… Robots! [AUSTIN: They’re robots.] They’re robots. That’s all that I think we’ve decided 100% for sure. [AUSTIN: Yeah.] Is that they’re robots. Inside of what is now the Fourth Stel is a culture that has… that predates the Divine… or I don’t know if it predates the Divine Principality, but at least predates that area being a Stel. [AUSTIN: Right. Totally.] It is a culture of cyborgs, of robots who have integrated biomatter into themselves for various reasons, and then also I imagine some… like, some more traditional cyborgs, people who have incorporated [AUSTIN: Right. Like still—] machine parts into their skin and flesh. 
+
+AUSTIN: We don’t know how big this culture was before it became Stel Four, we don’t know how like much of this space was already theirs, or how many different cultures were there, but like the key thing for me that you pitched me was like, one, there is a culture here that is primarily robotic, or synthetic in nature, and then there were subgroups inside that are cyborgs, but not just the way we think of cyborgs as humans or organic beings that blend in machines, but also synthetic machines that blend in biomatter. And so yeah, I think the Prophet is from that culture. And we can talk more about that culture in a bit, I suspect. 
+
+AUSTIN: Um, so yeah, so that is the first thing that I wanted to say was that… Do you have like… Do you know what their names sound like, or look like? Without telling me…
+
+KEITH: [crosstalking] They… [AUSTIN: Yeah, go ahead.] They… I think that largely it’s… It’s, uh, it’s first name, last name, it’s given name, family name, but most… [AUSTIN: Yeah.] But it’s family name comes, like… it’s how people are generally... called by? [AUSTIN: Okay.] Like, my character goes by their last name. Everybody goes— generally people tend to go by their last name. 
+
+AUSTIN:Got you. Okay. So then, I’m gonna say that the name of this Prophet is Kan'tel K-A-N-apostrophe-T-E-L, Logos is their last name, Kan'tel Logos, and so they go by Logos, or [laughing a bit] Logoes, you know, whichever one you want. 
+
+KEITH: At the DMV it’d be Lo-goss or something weirder. 
+
+AUSTIN: Yeah, exactly. Yeah. And…
+
+KEITH: Do prophets go to the DMV? 
+
+AUSTIN: They don’t need to, they just send people, I think. 
+
+KEITH: Okay. 
+
+AUSTIN: And they like do like a Jedi mind trick, it’s a whole thing… So, I’m gonna write down their name and put it here. 
+
+AUSTIN: Um, so they are there, and they are this sort of cyborg that has blended their natural, their original, let’s say, synthetic body with biomatter. So like, with bacteria, and with plantlife, and with flesh. And all sorts of stuff in ways that we don’t necessarily have good words for yet, ‘cause we’re just starting out this new culture, and we’ll fill in more of that in a bit. 
+
+AUSTIN: So, that’s one, set the stage. So we know that they are there, they’re in a kind of a swampy back room, again, where like Logos would put on their vestments or whatever. Also there is this leader of Asterism, who is really used to the opposite situation, right? Uh, really, very much so, used to the… pomp and circumstance of what Stel Nideo has given them their whole lives, or… Let’s say his whole life, and this is the second character who I’m going to need someone to play, is… Let’s see… I have a bunch of names, and there’s a lot I don’t wanna blow, I don’t wanna waste some of these names. Um… God, that’s a good name! [SYLVIA laughs.] That’s a good name too, shit! This season’s gonna have a lot of good ones. [DRE laughs.] Here we go. This person’s name is Pique Nideo. [DRE laughs.] Pique, P-I-Q-U-E.
+
+KEITH: And that’s how they should be played.
+
+AUSTIN: Uh-huh, just like that. You know, pique as in like, irritable, you know, or irritation. So. So there’s two characters here. Are there any other characters here? ‘cause I also have to choose additional characters. Um… I think it’s those two, and then some like… an unnamed retainer for both of their sides, if y’all wanna assign names, that’s totally cool. So, those are the characters who are there. At this point, now that we’ve set the stage for the Scene, we chose characters. “Player making the Scene may specify one or two characters that someone must play in this Scene. That player can also name one or two characters that no one can play in this Scene.” But I don’t think I’m gonna do that. Instead what I’m gonna do is, Dre, can you play as Logos? 
+
+DRE: Okay. 
+
+AUSTIN: And then, Keith, can you play as Pique? Pique Nideo. 
+
+KEITH: Oh, absolutely, I was very much hoping to…
+
+[SYLVIA laughs]
+
+AUSTIN: Yeah, I could feel it, I could feel it. 
+
+DRE: Can you give me like a quick elevator pitch on Logos? 
+
+AUSTIN: You want that from me? [DRE: Yeah.] You made a Prophet who made a sea! 
+
+DRE: Oh, okay. Yeah, yeah, yeah. Okay, fair.
+
+AUSTIN: It’s that character, it’s them. They can do… They do this. So, we all pick a character, we now go around… I guess that’s the way this should have gone is… Or no, I guess… It does say that I can… “making the Scene may specify one or two characters someone must play”… I guess I cannot technically assign roles like that, but if y’all are good with it, I’m happy with it, unless… 
+
+KEITH: I was gonna ask… I was gonna wanna be this role anyway. 
+
+AUSTIN: Okay, I figured. “The person to the right of the player making the Scene”, so in this case Sylvia, would have picked first. Sylvia, do you wanna pick another character in this Scene? Or put another character in this Scene? 
+
+SYLVIA: I can’t really think of anything, if I’m being honest. 
+
+AUSTIN: Okay. A thing that you can then do in the background, is you can play like time, or the room, or like the heat. If you wanna like chime up and be like “Some shit is happening outside”, you can do that. 
+
+SYLVIA: Ooh. Yeah, okay. 
+
+AUSTIN: Um…
+
+SYLVIA: I’ll be the environment. 
+
+AUSTIN: Yeah, you’ll be the environment. I’m going to be the, um, the second in command lackey for Pique Nideo. [DRE laughs.] And the final step before we actually play is we all reveal one thing that our characters are thinking about the upcoming Scene. “Start to the right of the player making the Scene and continue to the right (all the players, the same order as picking characters).”
+So, Keith, as the first person with a character here, what does Pique Nideo think about the Scene that’s about to happen? What is going on in his mind? 
+
+KEITH: Um… Pique is thinking that the Prophet better be cooperative. 
+
+AUSTIN: Okay, great. Logos, what are you thinking? 
+
+DRE: [peacefully] Progression. 
+
+AUSTIN: Just the word “progression”? 
+
+DRE: Uh-huh. 
+
+AUSTIN: Okay. Uh-huh. And then the… my character, the lackey is thinking: 
+
+AUSTIN (as Lackey): I don’t know what the big deal is about this robot. He’s just a robot. Got some moss on him, that’s all. 
+
+AUSTIN: Sylvia in the chat says: “My character is thinking “I am humid.” Great. 
+
+SYLVIA: Yeah. It’s humid out. 
+
+AUSTIN: Good. 
+
+[DRE laughs.] 
+
+SYLVIA: I’m the environment! 
+
+AUSTIN: You are the environment.
+
+DRE: Oh yeah. 
+
+AUSTIN: Uh-huh, you’re right.
+
+DRE: You’re killing it.
+
+AUSTIN: I appreciate it. [AUSTIN laughs.] Uh. 
+
+KEITH: Austin, you’re my lackey? Or you’re the Prophet’s lackey? 
+
+AUSTIN: I’m your lackey. That’s why I think “I don’t get what the big deal is about this Logos guy.” That’s my thoughts. Okay. So, now, you play… We play this out. How does this begin? 
+
+KEITH: Um… 
+
+AUSTIN (as Lackey): Introducing, uh... 
+
+KEITH (as Pique Nideo): [crosstalking] I’d like to be announced… Yeah, exactly, thank you. 
+
+AUSTIN (as Lackey): [crosstalking] Yeah. See? Archon Pique, this is why you and me, we are tight, you know? 
+
+KEITH (as Pique Nideo): Yes.
+
+[DRE laughs.] 
+
+AUSTIN (as Lackey): [clears throat] Introducing His Honor, the High Archon of Asterism, the Heart of the Divine Principality and its spiritual guide and leader.
+
+KEITH (as Pique Nideo): [in a whisper] One more. 
+
+AUSTIN (as Lackey): ...plus, also, it is— What was that? What did you say? 
+
+KEITH (as Pique Nideo): [quietly] You missed one! You missed one! 
+
+AUSTIN (as Lackey): I missed… Okay, sorry. Also the Guiding Constellation, second only to the Princept themself, also, uh, the one we all turn to in our prayers, our Eternal Guide...
+
+KEITH (as Pique Nideo): Mm-hm. Mm-hm. 
+
+AUSTIN (as Lackey): Plus also, on top of that stuff, my good friend, [AUSTIN laughs] Pique Nideo! 
+
+KEITH (as Pique Nideo): [clapping enthusiastically] Okay, thank you, very well done! Thank you! [clears throat] Is this the… Is this the Seer? 
+
+AUSTIN (as Lackey): This, this is them, they say this… I think that they saw a sea. Yeah. 
+
+KEITH (as Pique Nideo): Right. Seer, thank you for receiving me. 
+
+DRE: A very simple nod.
+
+KEITH (as Pique Nideo): Um… I would like to extend to you an invitation to dine with us at… Well, at the Asterist table. We think you have something to offer. 
+
+DRE: A table appears before you. 
+
+AUSTIN: Fuck! [laughing] Wait, is that… You didn’t say that, that’s a thing that happened, right? 
+
+DRE: Yeah. Uh-huh. 
+
+AUSTIN: Okay. 
+
+KEITH: It’d be a very funny thing to say [laughs] and then for nothing else to happen. 
+
+KEITH (as Pique Nideo): Oh… Any chairs? 
+
+DRE: [laughing] Yeah, sure. Two chairs appear. 
+
+KEITH (as Pique Nideo): Please, take a seat. 
+
+[SYLVIA laughs in the distance]
+
+DRE: A third chair does not appear. 
+
+AUSTIN (as Lackey): Uh… 
+
+AUSTIN: Crosses my arms.
+
+KEITH: Wait, hold on, who sits? Who’s sitting? It’s, it’s…
+
+AUSTIN: It’s the two of you, I suspect. 
+
+KEITH: Does the Prophet sit?
+
+DRE: No. 
+
+AUSTIN: Oh.
+
+KEITH: No? Okay. I don’t sit first. 
+
+AUSTIN: I pull the chair out for you. And point. 
+
+KEITH: I repeat,
+
+KEITH (as Pique Nideo): Please, take a seat! 
+
+AUSTIN (as Lackey): Uh, you first, sir. 
+
+KEITH (as Pique Nideo): No, I’m not talking to… I’m talking to the Seer! 
+
+[SYLVIA laughs gleefully]
+
+DRE: Logos takes a seat, but doesn’t sit in it. Because you said to take a seat. 
+
+AUSTIN: Oh my god! 
+
+KEITH: And I take my seat, also. 
+
+KEITH (as Pique Nideo): Ah, much better! This is what I meant. I’ve seen pictures of your ocean. 
+
+DRE: A smile.
+
+KEITH (as Pique Nideo): Does it have a name yet? 
+
+[SYLVIA’s quiet laughter continues] 
+
+DRE: A smile.
+
+AUSTIN (as Lackey): Names are important. 
+
+KEITH (as Pique Nideo): Names are important, thank you. We would like for it to be dedicated to House… to Stel Nideo. A grand gesture for a grand House. 
+
+DRE (as Kan'tel Logos): Why?
+
+AUSTIN (as Lackey): [mockingly] “Why?” 
+
+KEITH (as Pique Nideo): Tell him why!
+
+AUSTIN (as Lackey): A grand gesture for a grand House!
+
+KEITH (as Pique Nideo): A grand gesture for a grand House! To show your dedication to Asterism and all it stands for! 
+
+DRE: I think Logos shakes their head, and says: 
+
+DRE (as Kan'tel Logos): Why “grand”? 
+
+KEITH (as Pique Nideo): Oceans are big definitionally! 
+
+DRE: They point at you and say: 
+
+DRE (as Kan'tel Logos): Why “grand”? 
+
+KEITH: Me? Who’s me? Who’s you? 
+
+AUSTIN: To the... to Pique Nideo? 
+
+DRE: Pique Nideo. Yeah. 
+
+KEITH (as Pique Nideo): I just don’t see any way that an ocean could be anything less than grand. It’s so big! It’s such a big thing. 
+
+DRE: They take a step towards you, still pointing at you, and say: 
+
+DRE (as Kan'tel Logos): Why “grand”? 
+
+AUSTIN (as Lackey): Hey, hey! No pointing fingers, here! 
+
+KEITH (as Pique Nideo): Yeah. 
+
+AUSTIN (as Lackey): You point one finger at Pique Nideo, you get a bunch pointed back at you! 
+
+KEITH: Yeah, I point all my fingers. 
+
+KEITH (as Pique Nideo): Listen here, Seer…
+
+SYLVIA: [cheerfully] It starts getting windy outside. 
+
+[They all laugh.] 
+
+AUSTIN: [laughing] Oh, this game rules…
+
+KEITH (as Pique Nideo): Listen here, Seer. You’re not the only one that can create things! This wind, that’s all me! 
+
+DRE (as Kan'tel Logos): Why grand? 
+
+DRE: And the room starts to shake. 
+
+AUSTIN (as Lackey): Alright, alright, alright! Hey! Hey-hey-hey-hey! Hey, Pique. [snorting] We should all maybe take our chairs to our corners, and talk through this. And figure out a…
+
+KEITH (as Pique Nideo): Separate corners? 
+
+AUSTIN (as Lackey): Yeah, we just… Come on, let’s go to the a corner. 
+
+KEITH (as Pique Nideo): Okay. 
+
+AUSTIN (as Lackey): Bring the chair. 
+
+KEITH (as Pique Nideo): One moment, Seer. 
+
+KEITH: I bring the chair. 
+
+DRE: They offer the chair back to the lackey. [DRE laughs.]
+
+AUSTIN (as Lackey): Thank you. 
+
+AUSTIN: I take it. Bring both… I just drag both the chairs along the ground, and put them in the corner. And I sit down immediately. 
+
+KEITH (as Pique Nideo): Thank you, lackey. 
+
+AUSTIN (as Lackey): Of course. Uh. Alright. [in a low voice] You think maybe we’re asking a little too much? Maybe we go down from the dedication of the whole sea to just like the bay? 
+
+KEITH (as Pique Nideo): The bay of the sea? 
+
+AUSTIN (as Lackey): The Bay of Nideo! So you see — you hear it? The bay… 
+
+KEITH (as Pique Nideo): Ni-bay-o? 
+
+AUSTIN (as Lackey): Ni-bay-o! See, it sounds — there’s like a whole pun… 
+
+KEITH (as Pique Nideo): That’s nothing, you can’t… It’s necessarily an insult to create an ocean in the name of Asterism, and not dedicate it to Asterism! To the House Nideo! 
+
+AUSTIN (as Lackey): I don’t know… I don’t know that… I heard that they maybe didn’t create it in the name of Asterism. I don’t mean to be the bearer of bad news. But I think that they just kinda made… I don’t… [raising voice] Hey! Why…
+
+KEITH (as Pique Nideo): You...
+
+AUSTIN: Again, tiny room. 
+AUSTIN (as Lackey): Why did you… Why did you create that sea?  
+
+DRE (as Kan'tel Logos): [as if explaining something really obvious] Progression. 
+
+KEITH (as Pique Nideo): What does that… What do you mean? 
+
+AUSTIN (as Lackey): [contemptuously] “Progression.” I don’t…
+
+KEITH (as Pique Nideo): What do you mean? 
+
+AUSTIN (as Lackey): Never heard of it, ey. 
+
+KEITH (as Pique Nideo): Shh. Hey. What do you mean? 
+
+KEITH: I point, and I start walking towards...
+
+KEITH (as Pique Nideo): What do you mean, “progression”?
+
+DRE (as Kan'tel Logos): Progression! 
+
+KEITH (as Pique Nideo): [angrier] What do you mean, “progression”?!
+
+KEITH: And I point, and I keep walking. 
+
+SYLVIA: You hear a thunderclap outside. 
+
+DRE: They point at themselves. And like, look at your finger, and to their finger, and your finger, and their finger...
+
+KEITH: When they look at my finger I do the swipe up like a bully in middle school. 
+
+[DRE laughs.] 
+
+AUSTIN: Uh-huh. 
+
+AUSTIN (as Lackey): Hey! 
+
+AUSTIN: And I jump up, and like try to hold you back like the lackey of a bully in middle school. 
+
+[They all laugh.] 
+
+KEITH (as Pique Nideo): Lackey, sit! Sit back! 
+
+AUSTIN (as Lackey): Awr! Arr. Hey! We should — listen. [in a lower voice] They made a table appear! Out of nothing! And now it’s all shaky, maybe we should… There’s other ways! 
+
+[KEITH sighs.]
+
+DRE: I think when they hear the lackey say that, they smile wider and say: 
+
+DRE (as Kan'tel Logos): [cheerfully] Progression! 
+[02:00:00]
+
+AUSTIN (as Lackey): Progression! 
+
+AUSTIN: Point back. 
+
+AUSTIN (as Lackey): Hey, progression! 
+
+KEITH (as Pique Nideo): Don’t. Don’t do that. 
+
+AUSTIN (as Lackey): Okay, sorry. 
+
+KEITH (as Pique Nideo): We never… Seer!..
+
+DRE: [crosstalking] When the lackey points back at them, their eyes get wide, and then they look back at their finger which is still pointing at themselves [AUSTIN: Uh-huh.] and like, kind of like mouth “Progression”. 
+
+[AUSTIN laughs quietly.] 
+
+KEITH (as Pique Nideo): [under his breath] This guy’s weird. [raising his voice] Listen, Seer, we never needed your permission to rename the ocean. We thought we would ask. It seems like there’s nothing of use for us here. It seems like there’s nothing of use to anyone here.
+
+AUSTIN (as Lackey): This robot didn’t study the Constellation of Etiquette. [KEITH (as Pique Nideo): Yes.] You gotta be polite, you know? 
+
+KEITH (as Pique Nideo): No studying the Constellation of Etiquette, apparently. We’ll have to tinker with the satellites. 
+
+KEITH (as Pique Nideo): Come, lackey, we’ll take a look at the… Ocean of Nideo now! 
+
+AUSTIN (as Lackey): The Ocean of Nideo! 
+
+KEITH (as Pique Nideo): The Ocean of Nideo! 
+
+AUSTIN (as Lackey): Uh, bye! 
+
+DRE: They’re still just looking at their finger and mouthing “Progression” to themselves.
+
+AUSTIN (as Lackey): I said, bye! ...Oy. No politeness, this one. 
+
+KEITH (as Pique Nideo): No politeness in this one. 
+
+AUSTIN (as Lackey): High hat. 
+
+KEITH (as Pique Nideo): A shame. 
+
+AUSTIN: And leaves. Alright, that’s probably the Scene.
+
+SYLVIA: A quick weather update for the end. 
+
+AUSTIN: Yeah, please! Real quick, thank you. 
+
+SYLVIA: It’s very overcast, you know that feeling where it’s about to rain, but hasn’t happened yet? 
+
+KEITH: Temperature? 
+
+SYLVIA: Very — warm and humid still. 
+
+AUSTIN: Okay. 
+
+KEITH: Too warm for it to be comfortable? 
+
+SYLVIA: Uh, yeah. [AUSTIN: So…] Like a late July - early August heat. 
+
+AUSTIN: Gotcha. 
+
+KEITH (as Pique Nideo): This is my favorite weather. 
+
+[They all laugh.] 
+
+AUSTIN: [typing] So, “Logos refuses to acknowledge the authority of Stel Nideo”…
+
+KEITH: Refuses to acknowledge much of anything at all! 
+
+AUSTIN: Uh, good. “Or much of anything the Principality has said at all.” Sound accurate? 
+
+KEITH: Yeah. 
+
+AUSTIN: Alright. Love it. Uh… Really, really great. Okay. So. That is the end of the first turn. Um. We have all made Scenes, or Events, or Periods. Now…
+
+KEITH: Don’t you have a thing? Doesn’t the Lens do a thing in the end? 
+
+AUSTIN: This was my, I made the Scene. [KEITH: Oh, okay. Oh! Right.] This was my Scene. So. At the end of a… of a go-around, after the Focus is finished, we examine Legacies.
+
+AUSTIN: “Choose a Legacy: The player to the right of the current Lens picks something that appeared during this last Focus and makes it a Legacy.” 
+
+AUSTIN: So, that means Sylvia. You can go ahead and pick something… What’s something that came up in these set of Scenes that you think could be a cool thing to revisit? And it doesn’t mean we can’t revisit other stuff here, but it’s just like, we write it down. 
+
+SYLVIA: I think the one that sticks out to me is the “Progression” mantra. Because I think stuff like the ocean we’re gonna come back to naturally…
+
+AUSTIN: Sure. 
+
+SYLVIA: I think there’s a lot of stuff there that we’re gonna come back to naturally, [AUSTIN: Uh-huh.] but when it comes to things that… I feel like we can build on…that’s one of them. 
+
+AUSTIN: Totally. I’m gonna just add a few more things to the list of other Legacies because the next step requires us to have a bunch of Legacies available. Um, so… Or a handful of them at least. Um, and so I just added a few more. I added, so, “Progression” mantra, Horizon, which was a group that stood against… it was like the rebellion group, the Hypha, and then Stel Four... 
+
+AUSTIN: Because the next step here is that the player to the left of the current Lens—so, in this case, Dre, you… Or no, sorry, I’m wrong… Still Sylvia. You create an Event or a dictated Scene that related to one of the Legacies. So, an Event or a dictated Scene. Not a new Period, not a played out Scene, either just an Event or a dictated Scene about one of these Legacies. Which are: the “Progression” mantra, Horizon, the Hypha, or Stel Four. And also add another Legacy there if you had something else in mind since we’re kind of jumping in the middle of this game. 
+
+SYLVIA: No, I think… [sighs]
+
+AUSTIN: I should note, the Legacies should be pretty specific, the “Progression” mantra is a great example of that, all of these are very specific things. The book suggests that like “betrayal” is not a good Legacy, even though “betrayal” would be a good Focus; “betrayal of a specific thing” would be a good Legacy, if that makes sense. 
+
+SYLVIA: Right. Um… I think… I feel like we need to get more Hypha stuff [AUSTIN: Sure.] on screen for this. 
+
+AUSTIN: So you wanna do a Scene, uh, a dictated Scene, or an Event? 
+
+SYLVIA: I think an Event. 
+
+AUSTIN: Okay. 
+
+SYLVIA: I’m just trying to, uh, figure out where I wanna put that. ‘Cause I’d love to do something with like later Hypha, [AUSTIN: Yeah.] you know what I mean? 
+
+AUSTIN: Yeah, totally. The thing... One thing to remember is that they are not like a unique… they have assimilated based on the end of the Dialect game, by and large. If we wanna do smaller stuff… If we wanna do like the cool Sith Chorus Bond thing, we can totally fuck with that. 
+
+SYLVIA: Well, I fig… I... Does the Ashen fall under that umbrella, ‘cause I was kind of thinking about that...
+
+AUSTIN: [crosstalking] The thing with the Ashen… I… So, I’ll just again read from this transcript because it’s worth having the exact phrasing on some of this stuff, so that we know what we cannot contradict, if that’s okay.
+
+SYLVIA: Oh, absolutely. 
+
+AUSTIN: Dialect, Part 2. Thanks to Ril for doing this transcript. You can find out more about all of the great transcripting that has been going on by going to twitter.com/transcript_fatt, F-A-T-T, um, or tinyurl.com/fatttranscripts. There’s a bunch of them there, the team that does it, all the volunteers—or I guess they’re not volunteers ‘cause I pay them… but the people who volunteer to do it and then who are also paid—they are incredible, they’ve done so much cool work here. Um, so, Ashen. Um, let’s see here. 
+
+AUSTIN: So, the thing with the Ashen was at the end of Dialect, they were like being swallowed up by the encroaching Principality, and so one of the final things that happened was, Timea Asche (A-S-C-H-E) created a new type of… of kind of route for them to travel on that instead of being this big bright light was this ashen color, and… 
+
+AUSTIN: “Eventually this new group of people, they’re not called the Hypha anymore, they’re called the Ash or the Ashen, they create a new different nomadic culture. I don’t know the specificity of it, right? I don’t think that they’re chasing the culture in the same way… or the spores in the same way,” like they’re not following the same path that they used to do, they’re not looking for, I don’t think that they’re like looking for what we called the Strand, which were these kind of bright colorful strands of light that they could see in the sky that lead them kind of nomadically from planet to planet. They don’t have that language anymore, they’ve lost that language. But maybe they don’t… I’m trying to keep reading here, “I think that they literally wear ash on their skin, I think they have ashen marks, and two, they become a sort of travelling nomadic group that… you know, maybe they do some of the work that the Hypha originally did for others in service, which is like communications, messaging, courier services, some of that stuff…” 
+
+AUSTIN: And the second half of that is what Janine set up which is the process that… “the binding process and the Loesse techniques”—which are the stuff that connects to the Chorus Bond—“relies so much on apprenticeship, and relied on more dense cohabitation in order to make that stuff work”, and so… 
+
+AUSTIN: In terms of instruction she says: “It becomes harder to have apprenticeship”—because everything is scattered, because it was originally so important to keep all that instruction condensed, and so probably what ends up happening is like really basic, beginners guide stuff on the Chorus Bond, so… Here we go. Yes! Okay, here we go. 
+
+AUSTIN: The hard decision made in secret is that… the character that Janine was playing during Dialect, who was like a master at this, develops a system “that people can self-teach”, that is like the very basics of this, of the way the Chorus Bond stuff works.
+So, I think it’s the combination of both of those things, it’s the Ashen, and then also there are people who can kind of self-teach themselves this stuff but there’s no more like big schools of… of Strati, basically. 
+
+AUSTIN: So, what do you wanna do with that stuff that’s on the table? 
+
+SYLVIA: Um, I might have actually changed my mind while we were discussing that? 
+
+AUSTIN: Fair. 
+
+SYLVIA: But that did give me ideas for like stuff for that later… [AUSTIN: Okay.] I actually think we could do something with the “Progression” mantra now…
+
+AUSTIN: Oh, okay! What do you wanna do?
+
+SYLVIA: And have it still relate to the Lens. Like, I know the Lens doesn’t really matter as much with the Legacies thing, [AUSTIN: Yeah-yeah-yeah.] but if it’s connected I might as well keep it going. 
+
+AUSTIN: Totally. So what do you wanna do, a dictated Scene or an Event? And where?
+
+SYLVIA: I think an Event. And… just like a quick one, [AUSTIN: Sure.] where it is basically like, Disciples of Logos—which is not a final name [AUSTIN: Sure.] probably—like, are—become an actual group. Like at first it’s just like a couple random people [AUSTIN: Uh-huh.] showing up to like hear the teachings of this like great Prophet, and eventually there’s just like this commune built up around him… or them. 
+
+AUSTIN: Okay. 
+
+SYLVIA: And it’s like… It is not an official church or anything, but it’s like the formation of people having belief around this.  
+
+AUSTIN: Here’s a question, like. Do you… An Event could be pretty big. [SYLVIA: Okay.] An Event doesn’t just need to be a single day. So like, if you think that eventually they build a church, that could be all in this one Event, do you know what I mean?
+
+SYLVIA: Then… Okay, if we want, then we could move this maybe over a section. [AUSTIN: Oh! Interesting. Okay.] To have it be a church further in the future… [AUSTIN: Got you.] And like we could do something… One, because that lets us... [AUSTIN: Uh-huh.] Things, like… The messages of things change over time, [AUSTIN: Yeah-yeah-yeah, totally.] and I’m sure Logos’ teachings, the “Progression” thing is very different centuries later…
+
+AUSTIN: So is this before or after the Prophet’s Sea? Or the Heart?
+
+SYLVIA: Um… It is after the Heart. [AUSTIN: Okay.] I think the news of the heart is something that is sort of like a spark for this. 
+
+AUSTIN: Cool. [SYLVIA: Yeah.] Uh… [typing] “The Disciples of Logos form a commune and a church…” Is it on that same planet? 
+
+SYLVIA: Yeah, I think so. At least the like… 
+
+AUSTIN: Is it near the sea? 
+
+SYLVIA: Yes. The sea is like a sacred place for them.
+
+AUSTIN: Yeah, totally. [SYLVIA: Yeah.] Okay. White or Dark? Bright or Light? Sorry, Bright or Dark? 
+
+SYLVIA: I’m gonna go with Light on this one. 
+
+AUSTIN: Sounds good. [SYLVIA: Yeah.] Okay. Cool. Love it. Alright, now… There’s a new Lens! The player to the left of the old Lens, in this case, Dre, becomes the new Lens, and picks a new Focus, starting again from step one. 
+
+AUSTIN: “Before you start the next Focus, take a break, talk about how the game is going, but don’t discuss what you want to have happen later. Keep your ideas to yourself.” 
+
+[Jack De Quidt’s ‘HOURGLASS. SUNRISE. CRYSTALLINE.’ plays]
+[‘HOURGLASS. SUNRISE. CRYSTALLINE.’ finishes playing]
+

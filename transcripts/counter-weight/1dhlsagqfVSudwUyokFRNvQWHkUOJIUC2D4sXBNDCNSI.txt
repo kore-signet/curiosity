@@ -1,0 +1,4993 @@
+arCOUNTER/Weight 00: If Han Solo Used To Be Beyoncé, or: Hashtag Otechku
+Transcribers: Riley [0:00:00-1:22:00], Cole [1:22:00-
+
+[INTRO MUSIC BEGINS: “The Long Way Around” by Jack de Quidt]
+
+AUSTIN: [narrating] Counterweight hangs in the center of the Golden Branch star sector; a forked path where the Perseus and Sagittarius arms of the Milky Way come together. Because of its location, life on this planet of billions brims with energy, and an exchange of cultures has led to an exchange of technologies. Automated robots valet vehicles, starships launch in the distance at regular intervals, holographic pop idols perform for holographic crowds. Giant humanoid mechs aid in tasks civil, commercial, and military, and sometimes you look up to them and think: “We could have made them look like anything, but we made them look like us.”
+[INTRO MUSIC ENDS]
+
+AUSTIN: All of this technology exists under a sky dashed with bronze, as flickering energy domes filter the cold, thick air into something more breathable. The sky was scarred at the climax of the Golden War, which brought the Autonomous Diaspora and the People’s Conglomerate of Orion—long rivals—together against the Empire of Apostolos. Now, society on Counterweight largely exists in these domed cities. Life is a struggle, but it is dense and vibrant, too. Personal, family, and industrial sized maglev trainpods connect city to city, flying across the war ruined landscapes at incredibly fast speeds. But the maglevs aren't the only thing out there in the wilderness. There are others. Those who bearbare the cold so they may live in free exile, outside of the domes they hate.
+Things inside the domes are not free of tension either. In the nine years since the war ended, OriCon and The Diaspora have held steady in their ceasefire, but this is a world of subterfuge, politics, and espionage. OriCon was once a worker’s paradise, where walking robots called riggers helped to build a diverse and prosperous civilization. But in the last few centuries, it has become an oligarchy: Massive corporations hold all the power and resources, but they still use the old language of radicalism and revolution and freedom. The Diaspora is, itself, filled with talk of freedom.
+Like OriCon, the founders of the Diaspora once lived on Earth, but left in search of a more perfect democracy: one managed by algorithms and interfaces and nanomachines and the constant, tidal ritual of voting. Defending the Diaspora are the Divines, giant robots with strange sentience, each embodying a different virtue of humankind, and each piloted by a Candidate, separate from society so that they may better serve. Both of these galactic powers has its own set of domed habitats on Counterweight, with a handful of cities existing under a third, local power that struggles to keep the peace. To keep this cold war from turning hot.
+At the end of the last war, the Golden War, it was a rigger pilot—Jace Rethal—and a Candidate—Addax, who controlled the Divine Peace—who (it is said) sacrificed themselves to stop a terrible plot by the Apostolosian Empire that would’ve doomed not only Counterweight, but many other cities, planets, and stars too. But instead of destruction, there was life: When the light from the explosion cleared, a new celestial body hung in the sky: They called it Weight. A perfect planet, now cautiously inhabited by a small group from both the OriCon and the Diaspora. It taunts those left behind on Counterweight: Its green continents. Its unfrozen seas. It is so far away, but there it is, every night, so, so close.
+
+AUSTIN (cont.): Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. We are as always presented by StreamFriends.tv and RunButton.net. My name is Austin Walker, you can find me on the internet at @austin_walker, and by the time you hear this, also at Giant Bomb. Joining me today is Alicia Acampora.
+
+ALI: Hi.
+
+AUSTIN: Where can people find you?
+
+ALI: Uh, you can find me at @ali_west on Twitter.
+
+AUSTIN: Jack de Quidt.
+
+JACK: Hi, you can find me on Twitter at @notquitereal.
+
+AUSTIN: Keith Carberry.
+
+KEITH: Hi, you can find me on Twitter at @keithjcarberry, and you can find the Let’s Plays that I do at youtube.com/runbutton or RunButton.net.
+
+AUSTIN: And Art Tebbel.
+
+ART: Hey, you can find me on Twitter at @atebbel or on ComicMix.com on a regular basis. 
+
+AUSTIN: For those of you who are new, welcome; you picked a really good point to jump onboard. Uh, if you’re wondering what the hell is this, which is fair, this is uh, an actual play podcast, which is sort of like a tabletop Let’s Play? Uh, for those of you who have been here since the jump, you’re probably thinking like “Huh, Art, Ali, Jack, and Keith, that’s a weird group of people,” like together, not like ‘you’re a weirdo,’ not like you’re weird.
+
+JACK: [very quickly] Ah thanks.
+
+KEITH: We’re, uh, We’re just kind of crazy, weirdo, dweeboes, freakazoids.
+
+ALI: (crosstalk with Keith) Aww.
+
+AUSTIN: (crosstalk with Keith) Eh, [laughs] that’s what people say. 
+
+AUSTIN: Welcome to our Freakazoid Let’s Play, uh, we’re just gonna sit down and watch all of— was it Fox’s Freakazoid?
+
+KEITH: Fox’s almost-hit cartoon Freakazoid—
+
+AUSTIN: (crosstalk with Keith) Hmm, was it an almost—
+
+KEITH: —starring not-Jason-Lee but someone that sounds just like him. 
+
+AUSTIN: That wasn’t Jason Lee?
+
+KEITH: That wasn’t Jason Lee!
+
+ART: (crosstalk with Keith and Austin) I thought it was Warner Bros., broadcast by Fox?
+
+AUSTIN: That’s probably true. [laughs] So, [laughs] um so, for people who were expecting Dungeon World and got this instead, uh, sorry. We’ll get back to Dungeon World eventually; it’s always felt more like a Fall-Winter game for me, like the kind of stakes of that game are about Fall and the Winter? So now that it’s like, hot in my apartment, I’ve decided we should move onto something new, and I’ve kind of had ideas for this bouncing around in my head for months and months, so—
+
+KEITH: This—this is a much hotter feeling thing.
+
+AUSTIN: Oh, it—it is a much hotter feeling thing, like it’s so cold because space is cold, but like people are cramped up, I feel like it’s very humid in these domes—
+
+KEITH: It’s super—I was just gonna say humid, super humid, no one’s got A/C—
+
+AUSTIN: (crosstalk with Keith) Yeah, um, right. So—
+
+ART: We’re just very lucky that, that Giant Bomb is in a temperate climate or we’d never go back, right?
+
+ALI: [laughs]
+
+AUSTIN: [laughs] Exact—yeah, that’s true.
+
+ART: (crosstalk with Austin) It’s like, “Well”, they’re in Florida, it’s like “byyyye.”
+
+AUSTIN: Bye Hadrian! 
+
+ART: Bye Velas!
+
+[all laugh]
+
+AUSTIN: It’s gone. [laughs] Um.
+
+KEITH: Austin just misses the seasons, you know? He just misses seasons. 
+
+AUSTIN: (crosstalk with Keith) I—[laughs] listen, I’ve been in Canada, and Canada has like, a long winter, like it, I got a text from a friend yesterday and they showed me the snow that was outside where they’re at in Canada right now and dog, I can’t. 
+
+So anyway, today we’re gonna start playing a new game, this is a game called MechNoir, it’s by a guy named Jeremy Keller, and it’s a hack of another game that Jeremy made, called TechNoir which, uh—the kind of film buffs out there know, is the name of the nightclub in Terminator, um, the first Terminator film. Uh, TechNoir is like a cyberpunk game, MechNoir is like a cyberpunk game with mechs, think about what we’re doing as like, Mobile Suit Gundam meets The Third Man, or like Big O meets Blade Runner. It is cyberpunk, it’s going to be noir, and the way we’re going to play it, it’s going to be kind of anime as fuck, uh—the players, you guys will be playing, uh, a bunch of different things, I know some of you have some ideas on characters? Um, we’ll get to that in a second, but first I just wanted to read really quick, some broad tips. You might remember on the first episode of Dungeon World, I read what my “principles” were, as a GM, uh, ‘filling the characters lives with adventure’ and stuff like that? This game doesn’t have those, but instead I do just wanna read a few tips broadly about, about what style of action you should think about playing in this game. I think that sets the tone for the world really well. So here’s like five tips. 
+
+One: ‘work the contacts’. Um, this is gonna be a game about mysteries, but it isn’t a game about like, forensic evidence. It’s a game about people, so like, make contacts and talk to them and work them. The second thing is ‘shake the tree and see what falls out’, uh, and by that I mean like, be confrontational, get in people’s faces, make sure they remember who you are, that’s how you make progress in stories like this, in film noir. You go places you’re not supposed to go, and make a scene, and get in trouble. And also that leads to the third thing, which is ‘get hurt’. The heroes of noir are constantly getting themselves hurt. Think about like in Chinatown, when Jack gets his nose cut open, uh, or in Blade Runner where Harrison Ford’s character Deckard is just constantly getting beat the fuck up? That is—you put yourself on a limb like that and get yourself hurt, partially ‘cause like, that’s just cool but also because the way the system works, trading harm back and forth is kind of the “engine” that drives this whole game, um, and it encourages it because that’s also how you get better as a character. Uh, four, ‘you should come at them sideways’. You are small, you are not going to be able to take on any of these big, galactic factions, um, but you can hit them, you know, over here or there, you can ruin their day, even if you can’t ruin their year. And finally what you can do is, play them against each other. If you can get two factions fighting each other for you, then you can make big changes in the world. Uh, that last bit is especially potent, uh, at Not Quite Clock. [laughs]
+
+[a clock chimes, coming from Jack’s audio]
+
+JACK: Keith, you have to edit this out. 
+
+KEITH: Yeah, I know, I got it. [Austin laughs]
+
+[the clock noise stops]
+
+JACK: Not Quite Clock has gone to sleep. 
+
+AUSTIN: Aww. Bye Not Quite Clock. 
+
+KEITH: See ya later. 
+
+AUSTIN: So, the last thing I said was that you should play factions against each other because, because that’s the way that things can really change in a big way. And I note that because there is going to be another part of the game, that is not as focused on the ground level conflict but instead on the kind of “big picture.”. And that game is going to be played with other Friends at the Table players, Nick and Andrew. We’re going to do something different, and I don’t want to get into it right now because it will drag out to explain what it is, but—just know that it’s going to be focused not just on Counterweight, um, the planet, but in general on the Golden Branch star sector. Uh, and you know, that’s going to be the focus of that game. That will come out later, um—related to that, we did do world generation together last week and that recording was kind of bad because someone’s file got broken and all we have is the kind of stitched-together mess of it? Um, so, we might release that but not in the main feed, I’ll put a link to that in the info of this page—or of this episode, and you can go listen to that by yourself later. Don’t do that first because it’s not good quality and also it drags really long, um. So, start here, finish this and if you’re really interested in hearing us figure out what this world is, using some neat tools? Go listen to that, we’re not going to edit it in any spectacular way, like, it’s just going to be long and—we’re funny, we’re funny. 
+
+KEITH: Yeah.
+
+ALI: Yeah!
+
+AUSTIN: But also, it’s long, so, start here. Uh, I think that’s it! Let’s talk about characters, um, you have your TechNoir books—
+
+ART: (crosstalk with Austin) Wait, I uh—
+
+AUSTIN: Yes? What’s up?
+
+ART: Uh, this— we’re using the TechNoir character sheet?
+
+AUSTIN: Yes. Uh, sorry, you should all be on Roll20, in the game, also. 
+
+ART: Oh. Do you have, like, a thing for us there, because my follow-up was gonna be, “why is the Windows Reader app the worst thing I’ve ever seen?”
+
+AUSTIN: I mean, that is true, it is. [laughs] That is true about that. I don’t have like, a good character sheet for you guys, because there isn’t one built into Roll20. No one’s made that yet—but if you check your like, folder section of Roll20, you’ll see that I did leave templates in there for each of you.
+
+JACK: Oh good!
+
+AUSTIN: It has your basic Verbs, um, and then also, in the Bio and Info page, has just like, “Oh, this is where you can put what your Adjectives are, this is what your gear is.”
+
+JACK: Oh, this is great.
+
+ART: Oh! This is very nice, and I spent a lot of time getting all of this stuff from other places on the internet while you were talking earlier. 
+
+AUSTIN: It’s okay. No worries.
+
+ART: I should’ve been doing better, then. [laughs]
+
+AUSTIN: [laughs] No worries. You’ll also see, in that same thing, you should all have access to like, a bunch of little files that can be helpful? Um, like, here are some starting Adjectives to pick through, or here are the rules for dying. 
+
+JACK: I have so much paper around me right now that I don’t need. 
+
+AUSTIN: [laughs] Okay. That’s good, that’s fine too. I would like you to use the templates just so I can look at what your stats are?
+
+JACK: (crosstalk with Austin) Yeah.
+
+KEITH: Luckily— luckily last night I was like, “I haven’t done enough work about this game!” And so I went into roll20 to see what you had prepared, and found all this stuff, so I don’t have any— I have the perfect amount of things.
+
+AUSTIN: [crosstalk with Keith] Perfect, yes.
+
+JACK: These templates are unique, right? I’m not gonna edit everybody else’s—
+
+AUSTIN: Yes, yes, I’ve made separate ones for each person, so you can go ahead and start tinkering with that. Um, so let’s all turn to page uh, whatever this is, what page is this—
+
+JACK: In our hymn books?
+
+AUSTIN: Fourteen, uh, [laughs].
+
+KEITH: [laughs] I don’t know why that caught me, but it caught me. 
+
+AUSTIN: ‘Cause like, who brings up hymn books, though?
+
+KEITH: Right, yeah. There we go. 
+
+AUSTIN: Hymn books are great, I love them, but also: who talks about hymn books? [laughs]
+
+JACK: Oh, please—
+
+KEITH: The pages are so thin!
+
+AUSTIN: They’re very thin. They’re very thin. Uh.
+
+KEITH: What page, sorry? Fourteen? Fourteen.
+
+AUSTIN: Yes, fourteen.
+
+JACK: Uh, “all things bright and beautiful”.
+
+AUSTIN: Uh, so you know, we could jump right into it this way, but we could also just have a quick convo about the broader— do you want to start with like, who are your characters, or do you want to start with what you’re doing as a group together? Because that’s, I think we have way less on that second bit than that first bit. 
+[0:15:00]
+KEITH: Oh, I would love to start with that second thing.
+
+JACK: Yeah, I vote that. 
+
+AUSTIN: Any ideas? 
+
+JACK & KEITH: Ummmm. 
+
+AUSTIN: Also, Ali, are you still here? I wanna make sure that you’re—
+
+ALI: Yes! Hi, sorry. 
+
+AUSTIN: Okay, perfect. Um, so there are a bunch of ideas, I think? I think? 
+
+KEITH: I mean, we’re gonna start in a similar way to Dungeon World, we’re going to start assuming that like, we have “done a thing”, like, we’re not just—
+
+AUSTIN: Well, so, part of character creation is going to be setting up your relationships with some people, some NPCs in this world— 
+
+KEITH: Right, yeah. 
+
+AUSTIN: —which could suggest some basic connections, but unlike Dungeon World, I would really like it if your group was more stable from the jump, in the sense that like you all have a ship together—
+
+KEITH: Ok. 
+
+AUSTIN: —and on that ship, you’ve been working for some time. 
+
+JACK: So, just for the sake of the audience, who is not privvy to stuff we’ve been talking about in group chats? I think it’s important. Hesitantly, we’ve been referring to them as The Chime? 
+
+AUSTIN: (crosstalk with Jack) Yeah, the, or— the Chime, or the something Chime, or— because you and Ali stumbled into this bit while streaming, while streaming, uh… 
+
+ALI & JACK: Bloodborne.
+
+AUSTIN: Bloodborne! What was the exact situation there, where this came up?
+
+JACK: Uh, we just spent a lot of time in Bloodborne failing to ring the correct bells? Which just meant we just sat in corridors on a Skype call ringing the wrong bell over and over again. [Ali laughs]
+
+AUSTIN: And they had good names. What are their, the bells, like—?
+
+JACK: One of the bells is called, um, “small beckoning bell,” and the other bell is called, it was definitely “sinister”—
+
+ALI: Resonant? 
+
+JACK: Resonant! Resonant bell, and “sinister resonant bell.” 
+
+AUSTIN: Right, there is a sinister— yeah, yeah. Um, and I like— those to me sound like the coolest, like, call signs ever? You know, “resonant bell” sounds like a dope call sign, and so we were like, “yeah, let’s just run with that.” There’s another thing that long-time fans of StreamFriends will know, that’s in the setting, which is—
+
+JACK: [laughs] This is the most self indulgent.
+
+AUSTIN: It’s super self indulgent, like, so is anime, so whatever. When we streamed, at some point while streaming Titanfall, we decided that one faction in Titanfall called their mechs “Riggers” and the other side called them “Divines.” I don’t remember how we got there—
+
+KEITH: Oh, I remember. It was based on miscommunication between Jack and I, where I misheard Jack saying something, and I was like “did you say Divine, is that what these robots are called,” something like that, and then we— then we came up on top of that with Riggers for the other group. 
+
+AUSTIN: Good, perfect. Um, so, so yeah, we’re on page fourteen—
+
+JACK: Mercenaries? Sort of mercenaries, maybe? 
+
+AUSTIN: Yeah, I feel like mercenaries? Or like—
+
+JACK: Fixers.
+
+AUSTIN: Yeah. There’s a fixer as an NPC right now, which is fine, like it’s fine that you could also be fixers, um, but just like… freelance troubleshooters? 
+
+JACK: Yeah.
+
+AUSTIN: But I don’t know if there’s like, a more— like a better name than that? Like, you’re not like a private military company, right? 
+
+ALI: No.
+
+JACK: No.
+
+AUSTIN: I mean, except that you have giant robots of war, so. Um. 
+
+JACK: Well sure. 
+
+ALI: [sighs, then laughs] Let’s do a lot of things. 
+
+ART: Yeah, if it’s that sort of private “and have big engines of war,” we’re a private military company, but it’s kind of an ugly—
+
+AUSTIN: It’s an ugly word, yeah. The other thing is, do you have any— it feels like you don’t want any actual allegiance to any, like, to either of these big nations that make up the bulk of this. 
+
+KEITH: Not, I mean, at least not collectively. 
+
+AUSTIN: Right, individually you all certainly have some connections, but, um. There’s one other thing you could be connected to, which is a faction that we came up with during World Gen, which let me take you over to the other map on Roll20. 
+
+JACK: We have the most amazing space map. 
+
+AUSTIN: Uh, we do, we have a really good—
+
+JACK: Oh, whoa, it’s improved. 
+
+KEITH: Oh, real quick, Austin, if you send me these pictures, I can make a video of this. if you just send me the pictures. 
+
+AUSTIN: These aren’t really pictures, it’s weird. Roll20 is weird. 
+
+KEITH: Ok.
+
+AUSTIN: It’s not like, it’s not flat, it’s like I can’t export this as a JPEG, sadly, um. I could just take a screenshot. [laughs]
+
+KEITH: Yeah yeah, take a screenshot! And uh, take the cleanest possible screenshot, and I can make it a video. 
+
+AUSTIN: Sounds good. Um, so, there is, on Zeesh, which is 0600, a group that we figured out was um, they had this like, a lot of super technology. and then on Kesh, the planet right to the right of it, they were like, weirdly stuck with technology from the 19th century, and also on that planet was a group that specifically existed to keep big bad technologies locked down. You could totally be connected to that group, and be their eyes on Counterweight or something, do you know what I mean? 
+
+KEITH: Mhm. 
+
+AUSTIN: They’re not, I don’t think that they’re anti-technology, so much as like, don’t— I think that the planet Kesh did some shit— I haven’t figured this out. This isn’t me like, “I’m hiding stuff from you,” but I think maybe some shit happened on the planet Kesh a few centuries ago, and this group of, like, secret agents that counter wild technology, were like “nah, y’all can’t have this any more, for the next 300 years you’re just stuck in the 1800s.”
+
+KEITH: Oh, they’re on time out?
+
+AUSTIN: They’re on time out, they’re on technology time out, yes. [laughs]
+
+JACK: Part of me worries that if we went with that group—
+
+AUSTIN: Mhm.
+
+JACK: It might reduce us feeling like “cool scrappy band of people?”
+
+AUSTIN: That’s true, yeah. 
+
+ALI: Yeah. 
+
+AUSTIN: That’s fair. 
+
+KEITH: Especially with the factions that we’re playing with, I would like to stumble into being a…
+
+AUSTIN: Yeah. Something serious, and not like, being, yeah.
+
+KEITH: Right.
+
+AUSTIN: So that’s like--the thing that’s tough is that noir film and hardboiled detective stories, like novels--not that those things are identical, but there’s lots of overlap, obviously— they tend to be about individuals and not groups. And those individuals are things like private eyes or insurance adjusters, or, you know, insurance investigators, things like that. And it’s kind of hard to justify that as a group, you know, we are one private eye firm, I guess? Uh, but we can be more vague than that, and just say that you’re--
+
+JACK: We mitigate damage.
+
+AUSTIN: Right, right.
+
+ART: I forget what it was, but I saw a bus ad on my way home from the--[like he’s hiding something] on my way home. [Austin laughs] 
+
+KEITH: Hold on.
+
+AUSTIN: Let’s zip it back.
+
+KEITH: Zip it back, what’s that about? Hey coyboy, what’s going on? [Ali laughs]
+
+ART: I just didn’t want to get into it, and of course, in the process of avoiding it, got into it.
+
+AUSTIN: Yep!
+
+ART: Just, from the airport. I flew home this morning from New York, now I’m in LA, the trip back from LAX can be a harrowing one,
+
+KEITH: Mmhm. Okay.
+
+ART: But there’s a bus that had an ad on the back of it that was like--I forget the lady’s name but it was like “Alexandra’s Insurance Agency” and like, that’s not--I wouldn’t--that’s just a lady on the back of a bus, she can’t insure anything of mine. [everyone laughs] It’s like, she’s not like, where’s the money coming from? Her clothes aren’t even that nice. Like, what’s happening here? [everyone laughs again]
+
+AUSTIN: Jeez.
+
+[Everyone talks at once]
+
+ART: But like, and there are like— 
+
+KEITH: You’re saying that we should be a small— 
+
+AUSTIN: Not all at once.
+
+ART: A small little insurance company.
+
+AUSTIN: So like. Yeah, I could actually--wait, what you’re describing just sounds like organized crime to me.
+
+[Everyone laughs]
+
+ART: I must be doing it wrong, what I’m trying to describe is weird fraud. 
+
+AUSTIN: [laughing] Okay, good. [pause] Um, but okay, it sounds like we’re at least we have the neighborhood of a thing.
+
+JACK: I don’t know, maybe we’re--yeah, maybe it’s sort of like Sherlock--bear with me, Sherlock Holmes, but instead of being an asshole that sits around in an office and looks at boot prints, just went and punched some people and then went “oh, we solved it.”
+
+AUSTIN: [laughs] Again, like that to me sounds like--
+
+KEITH: We solved it, and someone’s getting a payout!
+
+AUSTIN: Right, but what you doing--the thing with Sherlock Holmes that’s weird is that like, that dude was motivated by wanting to be the smartest person in every room, ever.
+
+JACK: Yeah. Oh, yeah.
+
+AUSTIN: Whereas for, you need to be making money at that. And in the world we’ve set up, it’s not going to be cheating spouses, or spouses who are afraid of their spouses cheating. It’s going to be like big government and big corporations paying you, or stuff happening. Whereas, I--[sighs] yeah, I don’t know. This is tough because I feel like we could just handwave it and say “whatever, you’re a group PI firm, and that’s cool.” But that feels like cheating to me in some way. It feels like a missed opportunity to define something more interesting than that. 
+
+KEITH: Okay, how known are we on this planet? Are we small?
+AUSTIN: That’s a good question. Well like, there’s billions of people, so you’re not super well-known, right? You’re not Coca-Cola, because that’s the only thing that’s--
+
+KEITH: Okay.
+
+AUSTIN: Because the only things that are super well-known on this planet are the major factions that exist on this planet. You’ll also see I have a thing in your files that says “known factions” and that goes— 
+
+KEITH: Could we be--and this is totally spitballing here, obviously--could we be almost a small, like super small local government-adjacent people whose job currently we just solve shit that’s going down in the place we live?
+
+AUSTIN: Like aldermen, basically?
+KEITH: I had in my— Ok, so here’s the thing that I had in my head, was Chris Rock from Head of State as the alderman. 
+
+AUSTIN: Me too. That is exactly what I had in mind, too. 
+
+KEITH: Yeah, okay.
+
+AUSTIN: Literally the same thing. Here’s the thing: that character is already--Chris Rock’s character is maybe already in this game. I maybe already made him. Not exactly, but--
+
+KEITH: [amused] Okay. [Ali laughs]
+
+AUSTIN: But there is a mid-level bureaucrat in what I’m calling the Consolidated Counterweight Technocracy, who is one of the possible contacts. And the Consolidated Counterweight Technocracy, the CCT, is one of the local governmental groups. I can totally see you working for them directly. Um, you know, obviously we’ve been doing like this is basically space Berlin after World War II, and I don’t think real Berlin had like...
+
+KEITH: Aldermans?
+
+AUSTIN: Had aldermans that went from East to West Germany, you know what I mean? 
+
+KEITH: Right.
+
+AUSTIN: There wasn’t an overarching thing, so it’s gonna be new for sure. 
+
+KEITH: Yeah, yeah. 
+
+AUSTIN: But I do kind of like that idea, because then you have an investment in--
+
+KEITH: Of course you like it, you already did it! [Ali laughs]
+
+AUSTIN: Well no, but I didn’t know--he was gonna be there, but I didn’t--
+
+KEITH: You didn’t— Yeah.
+
+AUSTIN: Again, you could just as easily have to be dealing with him as a group from the Diaspora, or whatever, who hates him. You know what I mean? You might still hate him, I don’t know, listen, I don’t know where this is gonna go. 
+
+KEITH: Right. 
+
+AUSTIN: That’s one of the things about this game that’s interesting. A peek behind the curtain, I have no idea what our first adventure’s going to be, and we might even start playing it in like an hour. That’s seriously the way this game works; it generates mysteries, and it generates plot using the way connections are tied to each other. Kind of algorithmically, or procedurally, which is interesting.
+
+KEITH: So, I like my alderman idea. 
+
+AUSTIN: In fact, in fact, one second, let me--
+
+KEITH: Okay.
+
+AUSTIN: Let me do this in front of everybody while we’re doing this, I have to roll 2d6 three times really quick. [quietly] All right, cool. You guys can keep talking.
+
+[pause as Austin tries to roll stuff]
+
+ALI: Um, so is the Chime just us, or are we part of a—?
+
+AUSTIN: I think so, I don’t want you to be— because the more you— if you have backing… so like, I really also like the idea that Keith just said, that you’re adjacent to that group. 
+
+ALI: Okay, yeah.
+
+AUSTIN: Maybe it’s like you are freelancers, and anybody could contract you, but your major contract right now is the CCT, do you know what I mean?
+
+KEITH: Right.
+
+JACK: Yeah.
+
+AUSTIN: That way, we know that you have investment in the space. Like this is, you want to protect this place, you’re not sellouts for either side or whatever. But also if someone does get the money together to hire you, it’s possible, you know?
+
+JACK: Mhm.
+
+AUSTIN: You’re a government contractor, you’re not part of the government.
+
+JACK: In the same way that I guess, loosely, a baron can hire the Witcher, and a small group of peasants that get the money together could hire the Witcher. 
+
+AUSTIN: Right. Yes. Exactly like that. What if you were just Witchers? Hey everybody the Witcher came out yesterday, and I put like two hours into it.
+
+KEITH: Yeah, same.
+
+AUSTIN: It’s pretty cool.
+
+KEITH: It’s pretty cool.
+
+JACK: I mean, we could be— we could be like, roughly Witchers.
+
+AUSTIN: Mhm.
+
+JACK: That’s basically, you know, we do stuff for money. We do the jobs that it’s somewhat difficult to do. Other people could do it, but hey, we’re here. 
+
+KEITH: I have the equivalent of magic powers. [Jack laughs]
+
+AUSTIN: You have--
+
+ART: Everything Jack just said is everything I know about the Witcher, the game series. [Austin laughs] So if we’re gonna do this I’m gonna need a little more. 
+
+AUSTIN: [laughs] We’re not gonna--yeah, we’re fine. It’s gonna be great.
+
+JACK: Okay, government contractors?
+
+AUSTIN: Yeah. That’s— 
+
+KEITH: Yeah.
+
+ART: I guess the problem with government contractors for me is that it doesn’t feel super noir to me, but I just need to like— I could just adjust my expectations, really.
+
+KEITH: (starting as Art is finishing) Well, I guess, I think that— I think that the level of government that we’re operating on is what makes it noir. Like, it’s so— 
+
+AUSTIN: Right, it’s such a low end. 
+
+KEITH: Yeah.
+
+AUSTIN: It’s like a--yeah, yeah. Again, like I think alderman is what I keep going back to, because that’s what works for me. It’s like, I mean, this actually does happen in film noir and especially in hardboiled detective stories, right? Where, like, the continental operative will be paid by the local government to go in and break up something, you know?
+
+KEITH: Yeah.
+
+ART: Sure.
+
+AUSTIN: Because they can’t— That’s the other thing, right? Like, there's a degree of plausible deniability because you’re not actually the government. 
+
+JACK: Mme, yeah. It was those guys.
+
+AUSTIN: Yeah. Exactly.
+
+KEITH: Like, we’re talking people on the same level, maybe like, a step under “town council” [Ali laughs] on a planet with billions of people.
+
+AUSTIN: I think you probably, you know, I think you probably work at the like— There’s probably a central habitat that you work for, directly. 
+
+KEITH: Mhm. 
+
+AUSTIN: If we could come up with a name for that in the next, like, 20 minutes that would be dope, but if not that’s okay. We’ll live, you know? But I think there’s one segment of one dome that is controlled by one of these groups, that is not one of the local groups and not the big groups. Do you know what I—  either of the big groups. And it’s just like oh yeah, you’re in their central dome. So you don’t have any sort of jurisdiction outside of that, but also sometimes they send you there to do things anyway. Or they want you— or something draws you there, right? They say “hey, I would love it if you could get to the bottom of this thing, but, bluh” you know?
+
+[0:30:00]
+KEITH: Mhm.
+
+AUSTIN: But also it’s not a— you’re not salaried, so there have definitely been some dry times when it’s like— You’re in this weird place where, you know, in the ideal world you wouldn’t need to exist at all?
+KEITH: Right.
+
+AUSTIN: But also in that world you’re broke. And like, so when things explode and when people die, that’s money for you. And that’s a kind of, probably a weird situation to some degree.
+
+KEITH: A piece of a business burned down.,
+
+AUSTIN: Right. Exactly.
+
+[Pause]
+
+KEITH: I’m into it. It’s me, and I’m into it.
+
+ALI: Yeah.
+
+AUSTIN: Yeah. Okay. So let’s talk about actual characters now then. Let’s go— I know some people have actual— I think everyone has an idea at this point. 
+
+KEITH: Right.
+AUSTIN: So let’s start with Ali. What’s your basic idea?
+
+ALI: [laughs] Uh--
+
+KEITH: Ali has the best idea out of all of us. She took the best idea.
+
+ART: Yeah, we shouldn’t be starting with her. This is literally the worst idea you’ve ever had Austin.
+
+AUSTIN: Alright, we don’t have to, I mean.
+
+ALI: [giggling] I can go last.
+AUSTIN: Okay. Let’s start with… Jack.
+
+JACK: Uh, okay. So the character— 
+
+AUSTIN: Jack is the only one who, on his sheet, has already renamed the character to his character’s name.
+
+JACK: Oh, maybe I should go second to last.
+AUSTIN: No, it’s fine.
+JACK: Okay, so. The character I want to play is a robot. I’m going to paste what I think the robot looks like in the chat, just so we have some sense of what this goddamn thing is supposed to be… boop. It’s called AuDy, which is short for Automated Dynamics, and its job is to land cars. If you go to a mall, or parking lot, or a government building, that mall or parking lot or government building has bought a license to a piece of software that they’ve applied to a load of standard labor bots that they bought from another place. And that piece of software is called Automated Dynamics, and it parks cars for you. You draw your car up, you get a ticket, the bot climbs into the car and parks it in parking spaces that contain thousands of people. For reasons that I don’t actually know, it’s now sentient and flies spaceships. And I think that’s it.
+
+AUSTIN: And it flies your spaceship. Or you’re like, this group’s transport, or whatever. 
+
+JACK: Yeah.
+
+AUSTIN: And it probably does other cool robot stuff. I like it. All right.
+
+JACK: It’s Faridah Malik from Deus Ex meets Mike Ehrmantraut from Breaking Bad.
+
+AUSTIN: Yeah. Wow, yeah. That’s a good character, I like it. Uh, Keith.
+
+KEITH: All right, so this is… I’m more of a template than Jack is so far, but which planet did we decide that the psionics--or not the psci--
+
+AUSTIN: It’s September. 
+
+KEITH: September? No, where is it?
+AUSTIN: It’s called September. It’s the one that says— I’m zoomed out right now. It’s— 
+
+KEITH: Oh, 505. 
+
+AUSTIN: Yeah, 505.
+
+KEITH: So I guess in my head, and this is— in my head this is sort of a— I don’t know, maybe the psionics academy is not, like, the best place in the world? Like, they— I don’t think that that’s a place that’s super great in how it picks people that go there.
+AUSTIN: We never came up with a better name than psionics. That was a thing that generated out of the tool we were using to generate systems. 
+
+KEITH: Right. I absolutely think that it’s got a different name, and I think that by the end of this episode, we’ll have a name for that.
+
+AUSTIN: That’s good, I would like to have that.
+KEITH: In my— so in my head, the hospitals are run by the academy, and they just take kids that look promising. 
+
+AUSTIN: Oh, ok. From the Orion Conglomerate.
+
+KEITH: Yeah, and in my head that place is also called The Birth Place. 
+
+AUSTIN: Ok. 
+
+KEITH: And these hospitals run by the academy will just, you know, have your kid if it matches certain criteria. And then uh— my character is a character that was kicked out of the academy, um… not for... I don’t think he did anything wrong, I don’t think that my character is, like, a dude that broke a bunch of rules so they kicked him out. I just think he wasn’t good enough. 
+
+AUSTIN: Oh, ok. 
+
+KEITH: Or his personality type didn’t… match their— 
+
+AUSTIN: Didn’t match their needs, or— 
+
+KEITH: Yeah. It was a combination of this guy’s too much of a problem…
+
+AUSTIN: Right. And specifically to talk about what your character was supposed to be doing, the thing that we kind of thought up was— we kind of figured like, ok, well what’s magic look like in this world? And especially what’s it look like from people from the People’s Conglomerate of Orion? And the answer was like “something that could stop divines.” 
+
+KEITH: Right. 
+
+AUSTIN: Because the Diaspora, the Automated Diaspora, the Autonomous Diaspora, has these like, amazing super-robots that are just like so much better than riggers. And we kind of decided that what you have or what you do is that basically you have something that lets you hack things without— 
+
+KEITH: Right, I can— I can basically biologically hack stuff. 
+
+AUSTIN: Yeah, you’re some sort of weird biohacker.
+
+KEITH: Right.
+
+AUSTIN: Which is not what they’re called either; that’s a bad name.
+
+KEITH: Mhm.
+
+AUSTIN: We’ll get something.
+
+KEITH: That is— it’s not “too on,” it is a nose. 
+
+AUSTIN: It is a nose. It’s a nose.
+
+KEITH: It’s a nose on top of itself.
+
+AUSTIN: Right. So during character creation, you’ll still have to take— you’ll still have to spend some points or whatever to get a thing that lets you do that, but like… yeah. 
+
+KEITH: Right. Yeah. 
+
+AUSTIN: You’re the only character who’s going to be allowed to buy that, is what I’ve decided. 
+
+ART: I don’t wanna— I don’t wanna pull the curtain too far back for our listeners— 
+
+AUSTIN: Uh-huh.
+
+ART: —but I think people should know so that the groundswell of support can kinda grow for it?
+
+AUSTIN: Uh huh?
+ART: But we were talking about how, like, all the bad names that they’ve had for those things over the years, including Otaku and Technomancer. 
+
+AUSTIN: Uh huh.
+
+ART: And I suggested that we should call what Keith does an Otechku, and it really wasn’t seriously discussed. [Austin and Ali laugh] And hashtag— hashtag Otechku. Tweet at Austin about how much you like the name Otechku.
+
+AUSTIN: I hate you. [Ali laughs and Austin makes disgusted sounds]
+
+KEITH: I just wanted to pretend that I didn’t see it, forever.
+
+AUSTIN: Right it was really bad. Those are— for people who are wondering, those are the things that type of character is called in the Shadowrun universe, which [disbelieving sigh]. 
+
+KEITH: Yeah. 
+
+AUSTIN: I can’t believe they were called the Otaku for some time there.
+
+KEITH: How long? 
+AUSTIN: For like a whole edition or two. [Ali makes a disgusted sound]
+
+KEITH: Man. Eugh. How big of a thing do we think the actual graduates of September Academy are for—?
+AUSTIN: I think small. I think this is like… This is like a CIA program— 
+
+KEITH: Yeah. 
+
+AUSTIN: —in the mid-50s and 60s, right? Like— 
+
+KEITH: No, but I mean like, how big of a deal are they once they grad— not in terms of public awareness of them, but in terms of— 
+
+AUSTIN: Oh, like how good are they?
+
+KEITH: —how much of a force are they against whatever they’re against?
+AUSTIN: I don’t think they’ve been tested super much, right? 
+
+KEITH: Ok. 
+
+AUSTIN: Like this is, you know, as far as you know— as far as anyone knows, there’s not been open conflict between these two groups since the war ended. 
+
+KEITH: Right. 
+
+AUSTIN: Like, there--again, there was… what we as the kind of— Ok, so I’m envisioning this game as a weird sequel to a game that never happened, or to an anime that never happened, basically, right? That, like, there was this— we’re already the heroes of the great war, and now we’re in their shadow in a real way. 
+
+KEITH: Mhm. 
+
+AUSTIN: And we as the viewers know that there was this brief moment of conflict between these two allied sides, but something, who knows, and then this miracle happened— this miracle that created another planet in orbit around the same star as Counterweight. So there has been conflict between the Oricon and the Diaspora, and we’ve also talked before, you know, in our worldbuilding episode, we’ve talked about thousands of years of conflict between these two groups. 
+
+KEITH: Mhm. 
+
+AUSTIN: Wherein lots and lots and lots and lots of people died. When like, whole bridges of stars were destroyed literally so that the two empires could not touch each other anymore. 
+
+KEITH: Right.
+
+AUSTIN: But that was all a long time ago, and so like, I think this specific— the September Institute, the September Initiative— I don’t think we ever really settled— that hasn’t been tested yet. 
+
+KEITH: Ok.
+
+AUSTIN: But I think they’re very good. I think that they are like— they’re like you, but plus some advancement, do you know what I mean? 
+
+KEITH: Mhm. Yeah. And so I think that, you know, they’re... one of the things that we talked about briefly is that in the universe gen episode is that they’re piloting riggers. 
+
+AUSTIN: Yeah. Yes. 
+
+KEITH: And I’m not piloting a rigger? 
+
+AUSTIN: You could, we still haven’t decided that’s for sure not happening.
+
+KEITH: Right, yeah. 
+
+AUSTIN: But. 
+
+KEITH: But I am, like, good— I was— So in my head, I just don’t want to be a jedi.
+
+AUSTIN: Yeah, yeah.
+
+KEITH: “Cause I’ll just feel too bad about that— 
+
+AUSTIN: That’s fair.
+
+KEITH: —that’s what I want. I’ll feel too bad that that’s really just all I want. [Ali laughs]
+
+AUSTIN: In life, generally speaking.
+
+KEITH: Right. Yeah, yeah, yeah. So I was thinking of more like a— going in a MacGyver direction. I was looking at the stuff that you can buy in the TechNoir book.
+
+AUSTIN: Wait, a MacGyver, or a Guyver?
+
+KEITH: A Macgyver. 
+
+AUSTIN: Not a Guyver.
+
+KEITH: Not a Guyver. Not a geyser either.
+
+AUSTIN: Do you know Guyver? Do you know Guyver?
+
+KEITH: No, what’s Guyver? Who’s Guyver? It’s a guy who’s really good at taking things apart?
+
+ART (at the same time as Keith): Austin’s making this up. It’s a weird trick.
+
+AUSTIN: No, I’m not. Guyver was an anime and a movie that starred Mark Hamill, I think, as the Guyver. Who was an alien hybrid thing. Vaguely cyber, but also aliens, and they were called Guyvers.
+
+KEITH: Okay. Not those.
+AUSTIN: Are you sure? 
+
+KEITH: Yeah. 
+
+AUSTIN: You’re not a Biobooster Armor Guyver? Which is the name of the manga.
+
+KEITH: [amused] I’m not a bio— I could be a Biobooster Armor Guyver, if you want me to be.
+
+AUSTIN: It’s a pretty good name. No, you’re— 
+
+KEITH: It’s a pretty-- it is a good name.
+
+AUSTIN: I’m actually super terrified that Guyvers just do the thing you do now. I don’t— I’ve never seen Guyver, so I don’t know.
+
+KEITH: I didn’t even know that that was a thing. I thought you were lying to me.
+
+AUSTIN: No, I was not.
+
+KEITH: Anyways, I was looking through this stuff and was like “Oh there’s little robots you can get,” and I was like “maybe I can build these little robots,” and that’s up to you whether that’s a thing you want it to be.
+
+AUSTIN: Maybe— 
+
+KEITH: I’ll still, like, buy stuff. 
+
+AUSTIN: But you realize you’re just still doing Jedi.
+
+KEITH: Am I? Do they buy little robots?
+AUSTIN: (scandalized) What? [Jack laughs]
+
+KEITH: I mean, sorry, do they build little robots?
+AUSTIN: (still scandalized) Yeah--what? [Ali laughs]
+
+KEITH: (defensive) These are like little spy babies.
+
+AUSTIN: Yeah, but you realize that, like, The Jedi is— it’s, like, his thing was building little robots. 
+
+KEITH: The jedi? His thing? Who are you talking about? Who builds little robots?
+
+AUSTIN: (losing his mind) Anakin Skywalker! That was his—!
+
+KEITH: Oh, that one. I don’t even think of that one.
+
+AUSTIN: What?! [Ali laughs]
+
+KEITH: Yeah, I just always forget about him. 
+AUSTIN: Ok. 
+
+ART: You’re infuriating, Keith.
+
+KEITH: He did— you’re— No, I’m not… He did build those robots. You’re right. That’s— He did.
+
+AUSTIN: [shouting, laughing] He did! That’s his whole— Like, that was— 
+
+KEITH: In an effort to get farther away from Jedi, I got even closer.
+
+AUSTIN: (laughing) You got even closer! 
+
+KEITH: I got even closer. 
+
+AUSTIN: You like, looped around the orbit.
+
+KEITH: I did. 
+
+AUSTIN: And instead of flinging yourself away, you crashed right into the planet. 
+
+KEITH: Into the planet. Yep, you’re right. How about then I take apart robots. 
+
+AUSTIN: Ok, good. 
+
+KEITH: I’ll be a Guyver. [Austin sighs]
+
+ART: A mech-guyver?
+
+KEITH: I’m gonna be a mech-guyver.
+
+JACK (at the same time as Keith): Oh no, this is the sequel to otechku.  [Keith and Ali laugh]
+
+ART: [overlapped] Everything’s the sequel to otechku. 
+
+KEITH: They’re very good allies, mech-guyver and otechku.
+
+ART: A lot of books say you can’t win an rpg session, and the point is the collaborative effort— 
+
+AUSTIN: Mhm. Uh-huh.
+
+ART: —and having a good time with your friends, but I think I just won this game. [Jack and Ali laugh]
+
+AUSTIN: Wrap it up. It’s been good, good season out there. We’ll all, you know, take another shot at this in a year. 
+
+ART: I mean everyone can play for second place if they want. Like, we can keep going.
+
+AUSTIN: [sighs] Okay. Ali, what’s your character? 
+
+KEITH (at the same time as Austin): We can just draw straws for second place.
+
+ALI: [laughs] I think my elevator pitch of Aria was that she was Beyonce if she— or Han Solo, if Han Solo used to be Beyonce?
+
+AUSTIN: That was literally what your pitch was. 
+
+KEITH: Yeah, that was. 
+
+AUSTIN: It was the best pitch. And also has a giant robot, right?
+ALI: Yup.
+
+AUSTIN: And also pilots a custom Zaku. Which is, yeah ok. That’s a good character concept. [Ali laughs] We got a little more specific there, though, right?
+ALI: Yeah.
+
+AUSTIN: That, like, you worked at basically space-DisneyLand, and we say that... Literally, it’s on the map. I’m looking at it on the map. 
+
+ALI: Yeah. 
+
+AUSTIN: It’s called--what was the full name of it? It was a really good name. It was— the— [sighs]
+
+ALI: The People’s JoyPark Planet: Presented by Minerva Mining Industries?
+
+AUSTIN: No, it was presented by EarthHome Entertainment. 
+
+ALI: Oh, okay.
+
+AUSTIN: But like, yeah, again, Oricon is really great because they are just like, terrible hypercapitalism that went through a period of like, you know, whole civilization being communist. And so they’ve kept a lot of the old naming conventions because there’s still, like, some rhetorical weight to calling something “the people’s” something, even though— [Ali laughs] Oh yeah, the People’s JoyPark, admission is like a billion dollars. And you basically did a ton of performances literally there, like you were on contract with them. 
+
+ALI: Yeah.
+
+AUSTIN: Why did you leave? Did we ever work that out?
+ALI: Um, I think— I was thinking about that a lot, and then I realized that this game just has the mechanic for complacency, which is cool? So I think at a certain point she just had different career aspirations.
+
+AUSTIN: Sure, sure.
+
+ALI: And started touring planets instead of just performing in the same place.
+
+AUSTIN: Sure. And they probably did not like that super much. 
+
+ALI: Yeah.
+
+AUSTIN: And, so yeah.
+
+ALI: And then, like, probably being on her own had less success than working for a corporation. 
+
+AUSTIN: Do you still perform?
+
+ALI: Uh… probably? 
+
+AUSTIN: Ok. 
+
+ALI: Like, sometimes.
+
+KEITH: Acoustic sets for us. 
+
+ALI: Yes. 
+
+AUSTIN: Right. Okay. So— 
+
+KEITH: Austin. Two things. 
+
+AUSTIN: Yes. 
+
+KEITH: When you said “hypercapitalist,” I thought you were going to say hypercat?
+
+AUSTIN: [laughing] Right. You were— [laughs] This is a hypercat society,
+
+KEITH: And then also, can I have a hypercat?
+
+AUSTIN: [amused] You’ll have to buy it character creation, but yes, you can have a hypercat. 
+
+KEITH: [laughing] Okay.
+
+AUSTIN: Are you just a Zoid pilot?
+KEITH: [laughs] Can I be a Zoid pilot?
+AUSTIN: I mean yeah. There could be Zoids in this game, we just have to call them something else. 
+
+KEITH: “We could make them look like anything, but we made them look like us,” I didn’t. Mine’s a cool cat. 
+
+AUSTIN: [laughing] I didn’t. Mine’s a cool cat! [Austin and Keith laugh] Mine’s a liger. 
+
+KEITH: Mine’s a li— mine’s a liger… 2.
+
+AUSTIN: Okay. All right. Whew. So, character creation. At this point, yeah, we should be looking at page 14 of TechNoir. Ideally you’ll also have MechNoir open, because MechNoir has some extra little bits in it that let you— um, like different training programs. Here’s the way character creation works. Step one, you pick three training programs that give you kind of a background, and we’re there. So, let’s look at those.
+[0:45:00]
+ART: Wait, I have— 
+
+ALI: Wait, did we skip Art?
+ART: I have a couple things. One, you skipped me. 
+
+AUSTIN: Oh, I forgot about Art. [Ali laughs]
+
+ART: [overlapped] Two, I have the wrong PDF open.
+
+KEITH: I thought that Art won already, we don’t even have to do Art. 
+
+AUSTIN: Yeah Art, you won. So I was like “oh, he’s done. We don’t have to deal with him.” 
+
+ART: All right. 
+
+AUSTIN: I did skip you. So now you still— [laughing] No one else had to go after— [laughs] You were the only one concerned about going after Ali, and now you’re the only one going after Ali. [Jack and Ali laugh]
+
+ART: Yeah. It’s great.
+
+KEITH: I really like Art’s idea, I think it’s fun.
+
+AUSTIN: Yeah, me too. Tell us about your idea. 
+ART: I was going... Uh, where’s this— Uh, I picked a planet. I'm gonna be a pseudo-disgraced formal royal—- or I guess current, but not active royal, of— how are we pronouncing this, ApOStolos?
+
+AUSTIN: Either ApOStolos or aposTOLos. It's up to you.
+
+KEITH: I like AposTOLos. 
+
+ART: AposTOLos is— Yeah, it's good. 
+
+AUSTIN: [overlapped] Yeah. It’s like, Greek.
+
+ART: That sounds a little Greek? [crosstalk] But that kinda works for— 
+
+AUSTIN: It is. All of their stuff is super Greek. Yeah, so that— 
+
+ART: Yeah. 
+
+AUSTIN: I didn't get into this in the kinda opening text crawl, but the Apostolos empire, one of the things we figured out— one of the things we figured out about this world— was that like, there might be super aliens on it, but there's also people who are like "yeah, we're aliens," and they just look like people. [overlapped] And it’s really hard to tell— 
+
+KEITH: [laughing] This is, like, my favorite idea ever.
+
+AUSTIN: It's really hard to tell if they're aliens. Well, like, they might have some slight variations, like blue hair— like blue anime hair. 
+
+JACK: Mhm. 
+
+AUSTIN: Or like— yeah, like, I think maybe they have a thing that, like, weird neck flaps. Like, "Are those gills? Did they used to be fish people?" Like— but like, can't tell. And as far as scans are concerned, they’re human. They're just humans. And those are all up in this kind of coreward region, this northern part of the map, which is like— if you look at the big map, it’s the bit that’s a little bit closer to the galactic core.
+
+JACK: You know, north in space.
+
+AUSTIN: Right, galactic north. 
+
+ART: Space north.
+
+AUSTIN: Space north. And we decided that at some point, this group said "Oh, you know Atlantis, on Earth? We did that. We're Atlantis. That was us." [Ali laughs] And I don't know if it's true or not. Here's what I know. I know that it was a few generations ago, and someone— it was like right after contact was made between these two groups, and the Apostolos empire had a person on it who was like "oh by the way, we are— we’re from Atlantis. You know, Atlantis was us. We did that," and that person got a groundswell of support and rose into power. So whether that was like they knew some shit or if it was a big lie so they could rise into power, I'm not sure. But that kind of restructured that society into kind of a militaristic empire. And they used to own everything on the map here from the midpoint up. Everything from 0005 up, I think. and were slowly pushed back over and over that long war. Until now they literally just exist in that corner, in 0000.
+
+KEITH: It's still a big chunk of change.
+
+AUSTIN: Yeah, it's still a big planet. It still has millions of people, it still has, you know, like decent technology or whatever. But they don't own all of this either. They literally have that tiny— 
+
+KEITH: Oh, the one planet. Yeah.
+
+AUSTIN: The one planet, yeah.
+
+JACK: That's all we've got, and we've managed a lot.
+
+AUSTIN: Yeah. Yeah, we do okay.
+
+KEITH: Oh. Oh yeah. When you put it like that...
+
+AUSTIN: Jack, you get second place. It's good. You got it.
+
+[Everyone laughs]
+
+JACK: Thanks, thanks.
+
+AUSTIN: So yeah, I like that idea a whole bunch.
+
+ART: And so, like, my back of the napkin sketch for this character is that like--he has an older sibling, but something happened to that sibling--I don't know if they were hurt in the war. 
+
+AUSTIN: Sure. 
+
+ART: Or if, like, they were in a— they were hurt doing something else, in a coma, otherwise incapacitated. He thought— everyone thought that he was going to inherit, and then that older sibling came back.
+
+AUSTIN: Okay. And you were like "peace"?
+
+ART: Miraculous recovery, whatever. And then yeah, it's like, if you have— it’s bad for your monarchy if you have someone hanging around who thinks they should be king.
+
+AUSTIN: So was he kicked out? Were they kicked out? Were they...
+
+ART: "Kicked out" is really strong, right? That doesn't look good either. Like, he's officially still, you know— 
+
+AUSTIN: Second in line to the throne of Apostolos? Or just a kingdom in Apostolos?
+
+ART: Sure, and I'm sure, you know, they send Christmas cards or whatever. He's probably still on like— 
+
+AUSTIN: Please Art, Fishmas cards. [Ali laughs]
+
+ART: Fishmas cards... and like you know, he’s probably in a—  they probably don't take down any of the propaganda stuff with his face on them, but stop producing it. 
+
+AUSTIN: Sure, ok.
+
+ART: [overlapped] And they were sort of like— 
+
+KEITH: I just— What is the Fishmas cards?
+
+ART: —”get out. Here's a little bit of money, go set yourself up somewhere, don't come back.” 
+
+AUSTIN: RIght. And we can figure out what he wants in play. I like that though.
+
+ART: I also— And there was like—  there was a little bit of confusion about what the group role would be for this guy, so I don't super have that.
+
+AUSTIN: Ok. 
+
+ART: But yeah. 
+
+AUSTIN: He could have a robot, he could not have a robot.
+
+ART: Sure. Up to one.
+
+KEITH: I heard the word "Fishmas card" and now in my head, these guys when they go to formal parties, they draw on their gills. They don't have gills, they just draw them in.
+
+AUSTIN: Like to— like, with makeup?
+
+KEITH: Yeah.
+
+AUSTIN: Okay. Okay.
+
+KEITH (defensively): They're fish. 
+
+AUSTIN: Right. 
+
+KEITH: They're getting dressed up. 
+
+AUSTIN: I got you.
+
+ART: Like a dressy fish. A fish in a top hat.
+
+KEITH: Yeah. Tuxedo fish.
+
+JACK: Some logo designer in the 90s just got really excited.
+
+[Everyone laughs]
+
+JACK: Should we do training programs?
+
+AUSTIN: Yes, let's do training programs. This should be pretty easy.
+
+KEITH: This I already pretty much mostly did. 
+
+AUSTIN: Okay, what are yours? 
+
+JACK: [overlapped] Hang on, Austin?
+
+KEITH: Okay, I've got— 
+
+AUSTIN: So again, there are two sets. So there's— 
+
+KEITH: Right. 
+
+AUSTIN: There’s the set that's in the MechNoir book, and there's a set that's in the TechNoir book. There’s like some overlapping, in terms of what— I should explain what this is.
+
+JACK: Explain what these are. [laughs]
+
+AUSTIN: Yes. So.
+
+KEITH: I can cut in pictures.
+
+AUSTIN: Yeah, we can do that. Let's do that. But I'm gonna explain what this is anyway. "Training programs represent—" This is a quote. "Training programs rep—" from the book.
+
+[Everyone laughs]
+
+AUSTIN: [reading] "Training programs represent education a protagonist has received toward a particular profession. Maybe it's something she learned in school, or on the streets, from on the job training, or maybe her brain was literally programmed via a headjack. That's for the player to decide for their character. The table below lists the nine training programs. Don't worry about the verbs and adjectives quite yet, that’s covered in the next two steps. For now, make sure your players are thinking about the concepts for their characters and which choices make the best fits for those concepts." I think I've done that. I think I'm doing ok for that. So Keith, what are you choosing?
+
+KEITH: So, my first--
+
+AUSTIN: And you've looked at both?
+
+KEITH: Yeah, I've looked at both. I have two from one and one from MechNoir. My first two, I have Engineer, and then I have Engineer. 
+
+AUSTIN: Okay. Which give you--how about I just explain this now.
+
+KEITH: Yeah.
+
+AUSTIN: Training programs in the game, the way it works, is that they each give you three— the way this game works is that instead of "strength" and "dexterity," you have verbs, and there are nine verbs. Those verbs are: Coax, which is like talking to people and convincing them of things; Detect, which is like seeing things or reading information and figuring it out; Fight which is like throwing punches and slashing swords; Hack, which is hacking stuff; Move, which is moving your body places; Operate— [move is] also like dancing or jumping or anything like that. Anything you do with your own physical body. Operate, which is what lets you control mechs or lets you control drones, or drive cars or spaceships; Prowl, which is sneaking around or hiding behind cover; and Shoot, which is shooting stuff, which counts for, again, both inside of a mech and outside; and Treat, which is like, medical helping, but also psychological or emotional helping. Treat is primarily a verb that you'll use in recovery scenes, and it will help, you know— it can be— Treat is how you clear adjectives from people. 
+
+What's an adjective? Well., in this game, you don't have special abilities or HP, instead you have adjectives. During character creation, these training programs will each give you a special— a set of adjectives to pick from, and you pick those and then those become the things that can give you bonuses on rolls. So, Keith just said he’s going to pick Engineer. That means he can then pick Logical, Obsessive, or Technical as his starting adjectives. Those will be permanently locked to him. 
+
+KEITH: Ok. 
+
+AUSTIN: He will always be— which one are you gonna pick? Er, which two?
+
+KEITH: Well, I did read and it said I could—
+
+AUSTIN: You can. 
+
+KEITH: I could either pick from a larger list or make up my own.
+
+AUSTIN: You totally can.
+
+KEITH: So from the larger list, I actually borrowed from Technician in the MechNoir— I borrowed Clever?
+
+AUSTIN: Yeah, that's fine. So Keith's character will be clever, and he’ll be clever forever, like, that's not a thing I can take away from him.
+
+KEITH: (vindicated) No one can take that away from me!
+
+JACK (simultaneously): Like Keith.
+
+AUSTIN: Like Keith.
+
+KEITH: What?
+
+AUSTIN: He* said "like Keith." Like you.
+
+KEITH: Oh yes. [Ali laughs]
+
+AUSTIN: But, in this game, like I said, there's no HP either. So the way this game works is that you apply adjectives to your opposition. 
+
+KEITH: Right. 
+
+AUSTIN: So if Keith gets shot, he might get the adjective Wounded or Scarred. Or, if someone makes fun of him, he might get the adjective Humiliated. 
+
+ALI: Aww.
+
+AUSTIN: Treat is how you would get rid of both Humiliated and Wounded. And it's just like okay, explain how that works. So that's the kind of super basics of the system— 
+
+KEITH: Yeah. 
+
+AUSTIN: —and of training programs. So, Engineer, Engineer, what's your third one?
+
+KEITH: Criminal.
+
+AUSTIN: Criminal. Which gives you… what?
+
+KEITH: That gives me...
+
+AUSTIN: Also these are all just from just the TechNoir book then. 
+
+KEITH: No, that one's— Oh sorry, criminal? Oh okay I guess it is. I thought that I— Do you know what? I had Smuggler for a while.
+
+AUSTIN: Ok, sure. 
+
+KEITH: And I canned Smuggler which is from MechNoir. So yeah, Criminal.
+
+AUSTIN: Right, ok. So Criminal gives you Fight. Engineer gives you Coax, Hack, and Operate, so you'll have those at three; they all start at one, so those will be at three. And then Fight—  er, sorry, Hack, Prowl, and Shoot, is your third one?
+
+KEITH: Yes.
+
+AUSTIN: And then your Hack goes up to four, and then Prowl— 
+
+KEITH: Oh sorry, my Hack goes up to four? 
+
+AUSTIN: Yeah, because it starts at one.
+
+KEITH: Oh it starts at one. Okay. 
+
+AUSTIN: Yeah. So then it goes up to three from your two Engineer, and four to Hack. And then Prowl and Shoot would both be at two.
+
+KEITH: Ok. I didn't realize that we started at one for everything.
+
+AUSTIN: Everyone starts at one. Yeah, that’s why— 
+
+KEITH: So yeah. I actually had all this stuff written out, so let me just change... And then for that I have Charming. For Criminal, Charming.
+
+AUSTIN: Criminal. And what's your third adjective? (to himself) I have Move in here twice, don't I? In these totals.
+
+KEITH: I have Clever and Quick for the Engineer. 
+
+AUSTIN: Okay. Clever, Quick, and...?
+
+KEITH: Charming. 
+
+AUSTIN: Charming. Okay. Just write those— make sure you write those in your sheet. 
+
+KEITH: Yeah, I've got it open to that right now.
+
+AUSTIN: Awesome. Who's next?
+
+[Pause]
+
+AUSTIN: [simultaneously] Ali?
+
+ALI: [simultaneously] I’ll go next? Ok. 
+
+AUSTIN: Tell me about Aria.
+
+ALI: Yeah, so I… Mine are Idol, Idol, Smuggler.
+
+AUSTIN: And Idol we decided was just equal to— this is one of my favorite things, there’s a— in the Mechnoir— er, in the TechNoir book, there's a program called Escort, which is Coax, Move, and Treat, and then in MechNoir, there's one called Priest which is Coax, Move, and Treat. It's the same, but I really love that Escort and Priest are the same. 
+
+JACK (as Austin is talking): That's so good.
+
+AUSTIN: And, like, yeah, that's right, Idol is probably also the same.
+
+ALI: Yeah.
+
+AUSTIN: And then what's your third one?
+
+ALI: Smuggler.
+
+AUSTIN: Smuggler, which is Hack, Operate, and Prowl.
+
+ALI: Yep.
+
+AUSTIN: Ok. Sounds good... Which three adjectives are you taking?
+
+ALI: [laughing] Keith just took all of my adjectives.
+
+AUSTIN: All of them? 
+
+KEITH: Oh no!
+
+ALI: No, I was gonna do— I was gonna do Charming, Energetic, Clever. 
+
+AUSTIN: Okay.
+
+KEITH: So I took two of them. 
+
+ALI: Yeah, which is...a lot.
+
+KEITH: And then Quick vs Energetic… sorry.
+
+AUSTIN: Energetic is different. I'd say Energetic is different.
+
+ALI: Yeah.
+
+KEITH: That is true. Although Energetic was what I had before I put Quick. [Ali laughs, somewhat nervously]
+
+AUSTIN: Jesus Christ.
+
+KEITH: I swear to god.
+
+ALI: So, instead of Charming I think I'm gonna do... Alluring?
+
+AUSTIN: Alluring is good. I like Alluring.
+
+ALI: And then instead of Clever, I think I'm gonna do Savvy? 
+
+AUSTIN: Yeah, that works. Those mean different things in important ways, right?
+
+ALI: Yes. Yeah, yeah, yeah. And then I’m fine with— 
+
+KEITH: I do also wanna note that Savvy was what I had before I put Clever. 
+
+ALI: [laughing] Shut the fuck up.
+
+KEITH: I swear to god. [Jack laughs]
+
+AUSTIN: Yeah. Uh— 
+
+KEITH: This is—  I messaged Ali like a week ago being like, "I'm super nervous that our things are gonna be the exact same thing. We should talk about what we're leaning towards," and then I guess we still did.
+
+AUSTIN: And then you didn’t have that. Yeah. Okay. 
+
+KEITH: Yeah. 
+
+AUSTIN: Art, do you have yours?
+
+ART: Not, not— I might need a minute. I don’t have any— 
+
+AUSTIN: Ok, let's go to Jack. Let’s go to Jack. Let’s come back to you. 
+
+JACK: Sorry, one second, I'm just double checking my thing... [pause] Okay, so I'm gonna go for Bodyguard.
+
+AUSTIN: Ok. Which is Coax, Fight, and Treat.
+
+JACK: Uh, Pilot.
+
+AUSTIN: Which is Detect, Operate, and Shoot.
+
+JACK: And Enforcer.
+
+AUSTIN: Which is… [quietly to himself] on the other page, I think, right? Yes.
+
+JACK: That's Coax, Move, and Fight.
+
+AUSTIN: Okay. So that's— Ok. Which gives you what total? Let's figure that out. Let’s do math.
+
+JACK: All right that gives me three Coax, two Detect, two Fight, one Hack, one Move, two Operate, one Prowl, two Shoot, and two Treat.
+
+AUSTIN: Sounds good. 
+
+JACK: And that should add up to 18.
+
+AUSTIN: Yeah, everyone should end up with a total of 18 here. What are your adjectives?
+
+JACK: I'm going for a write-in adjective for Bodyguard.
+
+AUSTIN: That's fair. 
+
+JACK: I'm gonna go for Blunt. 
+
+AUSTIN: Ooh, I like it.
+
+JACK: For Pilot I'm gonna go Coordinated.
+
+AUSTIN: Like it.
+
+JACK: And for Enforcer I'm gonna go with Tough.
+
+AUSTIN: You are a tough boy, it's true.
+
+JACK: I am a super tough boy. Not like that Lem King. 
+
+AUSTIN: Not like that— like, yeah. [fake huffs] I've also challenged all of my players to really get out of their comfort zones, for people who have listened since the jump. We'll see if that happens. [Ali breathes a laugh] It's okay if it doesn't, we're here to have fun. But I do, you know— one of the things I like about roleplaying games is being pushed out of my comfort zone. I had a really good scene in— So, I'm currently playing in a game of Apocalypse World, which by now I should not be playing in anymore? But I just had a game session and the last thing was substantially— like, maybe the best bit of roleplaying that I've ever been part of, it was really, really intense and good. In terms of as a character, not as a GM., when I say best. But now, I think I'm gonna start playing in a Burning Wheel with some of those folks.
+
+ALI: Ooh.
+
+AUSTIN: I'm really excited. Sorry, Art.
+
+ART: I've never liked you, and the last 10 years have been lies. [Keith and Ali laugh]
+
+KEITH: Art really would like to play Burning Wheel. 
+[1:00:00]
+AUSTIN: He would. One day. [overlapped] One day we’ll— 
+
+KEITH: It's not that he hates Burning Wheel, it's that he really wants to play. 
+
+AUSTIN: Yeah it's that Art and I have been trying to play a Burning Wheel game since literally— 10 years? 11 years now?
+
+ART: I think more. Yeah, I think more than 10 years now.
+
+AUSTIN: Yeah, I think 11 years. 
+
+KEITH: You guys have been trying to play this since Art was my age!
+
+AUSTIN: Right, since Art was 11. That’s— yeah, right, okay.
+
+KEITH: Wait, do you think I'm 11?
+
+AUSTIN: Yeah, you're 11. [joking] Right?
+
+KEITH: I'm 11. I'm very young.
+
+AUSTIN: You're also very mature. 
+
+KEITH: Mhm. 
+
+AUSTIN: You’re a mature 11 year old. 
+
+KEITH: You know, sometimes life hands you a hand, and you have to do with that hand— 
+
+JACK: Uh-huh. 
+
+ALI: Uh.
+
+KEITH: Grow up.
+
+AUSTIN: Like a hand of cards.
+
+KEITH: Yeah.
+
+AUSTIN: Not like a human hand, in this scenario.
+
+KEITH: Right. And it hands you a hand of cards and you have to play that hand to grow up. But too soon.
+
+AUSTIN: This is our new independent RPG, it's a game about growing up. It starts with everybody drawing a deck of— a card of— a hand of cards, a hand of cards—
+
+KEITH: Mhm. 
+
+AUSTIN: —and you just play them. And however many numbers it is at the end, that's how old you are. And you just got like, two, two, two— 
+
+KEITH: Also, hit points. 
+
+AUSTIN: —two, three and now you're 11. That's what happened. [Keith laughs]
+
+AUSTIN: That's what happens sometimes, it's weird.
+
+KEITH: Mhm. Yep.
+
+AUSTIN: Okay, Art. I’ve given you— we've been filling for you. What do you got?
+
+ART: No, no, I think we’re gonna— I think this is gonna need a little bit of talking out.
+
+AUSTIN: Yeah, let's talk it out. Let’s just—  let’s shake it out. Shout it out.
+
+ART: Cause I'm trying to think of like, how would you train someone to rule a space empire?
+
+AUSTIN: Let's just look at names. I think it's Emissary.
+
+ART: I think it's Emissary. I don't know if it's Pilot or Soldier.
+
+AUSTIN: Alright. Keith and Art, one of you needs a robot. Who wants a robot?
+
+KEITH: I really like— I really like my Zoid idea, but if Art has been thinking in his head "robot" this whole time, I'm not gonna take that away because I did say that he could have the robot.
+
+AUSTIN: You did say that.
+
+KEITH: A week ago.
+
+AUSTIN: Which one of you would rather have a giant robot?
+
+KEITH: I'll say this: if I have a robot, it's gonna be called a Hypercat. You’re— Art— 
+
+JACK: [overlapped What a question.
+
+ART: All right, then I'm gonna take it. I don't think I should take it. [everyone laughs] But if I'm saving us from Hypercat, I'll dive on that robot grenade.
+
+AUSTIN: (laughing) Art, I've always been waiting for you to save us from a Hypercat, and here it is.  [Keith laughs] Alright well that helps things, because now we know that you should have a thing with Operate in it. 
+
+ART: I mean, well, I could also take— I'm thinking I have two training programs that are like what I did before I left, and then I have the one I took after I left. 
+
+AUSTIN: Ok. So what are you thinking?
+
+ART: So I could lean into Operate, and I could do Emissary, Pilot, Rigger.
+
+AUSTIN: You could do— Ok, let me pitch you this: you could do Doctor, Emissary. What if you were going to be a doctor before you knew you were going to be the next leader, and now we're kind of— we’re tracking— 
+
+ART: So it was like Doctor, then they, like, shoved me over to Emissary— 
+
+AUSTIN: Yes.
+
+ART: Like "Oh, we gotta get you—”
+
+AUSTIN (simultaneously): “We gotta get you ready.”
+
+ART: —and they were like, "Get the fuck out," and it's like "Well, okay, I'll drive a robot."
+
+AUSTIN: Right, you already— 
+
+KEITH: They did still know that he* was a member of the royal family?
+
+AUSTIN: Yeah, yeah, yeah. But, like, he was a member— I think we have to lean— we have to lean to a member of “a” royal family. 
+
+KEITH: Right. 
+
+AUSTIN: Actually no we don't, this is anime as fuck! Yeah, he was the prince of the royal family of Apostolos! Yeah, no. You’re right. No, this is just— he was the— Yes. Yes. Anime would never be like, "You are some rando prince."
+
+KEITH: Anime might say duke.
+
+AUSTIN: Right. Anime might— Well, we're not gonna call him an actual prince, they have some weird— they definitely have a weird, cool name. 
+
+ART: Yeah. Mhm.
+
+AUSTIN: Duke is pretty good. Baron. Marquis.
+
+KEITH: Ooh, marquis is pretty good.
+
+JACK: Count.
+
+AUSTIN: Count. Aw, you could be Count Someone.
+
+ART: Yeah, I'm trying to think of an aquatic pun, and I'm really failing. And it's making me super angry.
+
+KEITH: [simultaneously] Marquis du Poisson.
+
+JACK: [laughs] I'm the Marquis of Fish! That's me!
+
+AUSTIN: That's it! That’s him! Good.
+
+ART: But then there's like the— So, this is an empire that recently tried to just like, roll down and conquer everyone. 
+
+AUSTIN: Yeah. 
+
+ART: And, like, is there— when a member of their royal family moves to a central planet and buys a mech, no one lets that happen, right?
+
+AUSTIN: Well, so, when it gets to the "how did you get this stuff?" thing, there's a section coming up soon where literally everything you have is based on the handful of money you start with and then favors that you're going to end up calling in from people that you're going to owe them back. 
+
+ART: Sure.
+
+AUSTIN: So, it might be that you were given a favor from someone that got you that mech.
+
+ART: But I'm saying what kind of intelligence agencies on these other two factions that are like, "Oh, no. We gotta shut this down"?
+
+AUSTIN (simultaneously): I mean they're not in charge of you, right? Listen. Maybe they do wanna shut you down. Maybe that’s a way that we can, you know— That's a thing that I promise I will keep in my back pocket. But maybe the group— Okay so here's another thing to think about: there are people on this planet who were Apostolian at one point. And probably some of them were loyalists.
+
+ART: Sure.
+
+AUSTIN: I will tell you for sure that this NPC contact here— you can just read this here, if you click on the contacts page that I gave you. Orth Godlove? 
+
+ART: Yeah, uh-huh.
+
+AUSTIN: He was— or no sorry, not Orth Godlove, sorry, sorry, sorry. Cene Sixheart was— No, not Cene either. Who the fuck is the— Ok, Ko— 
+
+KEITH: Sorry, those are the same name.
+
+AUSTIN: Koda Whitegloves used to be an Apostolian medic in the war. And they were just there from Apostolos. They were part of that empire and— I don't know what their situation is, but like, you know, maybe they were okay with you, or with Apostolos. Maybe they could help you in some ways, you know? There are people in this world who are fine with— who miss Apostolos. In the same way that there were sympathizers for Nazi Germany after the fall of Germany, right? 
+
+ART: Sure.
+
+AUSTIN: I’m not saying you’re playing a space Nazi, I don’t think Apostolos was just the space Nazis. I really am seeing them more as space Rome— or, I’ve said this before, I've seen the north of this map as like the space Holy Roman Empire, right? Kind of Charlamagne style? Like maybe your dad was space-Charlamagne, who had kind of brought together these northern planets, and then— which had kind of previously been petty kings, and now you’re just all broken up again. So more first Reich, less third Reich.
+
+ART: Sure, everyone likes talking about what Reich they’re from. [Austin laughs] But no, I like it. And I like— I think I do like Doctor… I think it’s a little... we’re kind— I think it’s a little bit of like— 
+
+AUSTIN: Eh. 
+
+ART: —like, kind of pushing it in a way it sort of needs to go.
+
+AUSTIN: That’s fair. 
+
+ART: —rather than like— It's not super organic, but I think— I like it as a…
+
+AUSTIN: You’re not wrong? But I do— I do like that— the thought of you, like, having done that, too.
+
+ART: Yeah.
+
+KEITH: You could’ve been like that Christmas elf that wanted to be a dentist, and they were training you for, uh— 
+AUSTIN: Fishmas. Fishmas elf.
+
+KEITH: Fishmas elf. That fishmas elf that wanted to be a dentist. Hermie, the Fishmas elf, who they were training you for emissary, and you were just [whispers] “I just wanna be a doctor,” so you read up on doctors.
+
+AUSTIN: Oh, so like, you—  Yeah, ok. We could flip it the other way, too. Like, maybe— The other thing is like, maybe this was a situation where it’s like, everybody in Apostolos serves in war, and you got positioned as a medic because like mmm, you know, you gotta keep one safe. 
+
+KEITH: Right.
+
+ART:  Yeah. 
+
+AUSTIN: The next king is out on the front lines, but uh, mmm, you know.
+
+ART: The spare is in the med tent.
+
+AUSTIN: Yeah. Yeah. So maybe that’s what you did. And saw some bad things there.
+
+ART: Sure. 
+
+AUSTIN: All right. 
+
+ART: [overlapped] And I think he— 
+
+KEITH: How’s it like being a doughnut for the king?
+
+[Everyone laughs]
+AUSTIN: What are your adjectives?
+
+ART: Uh… I’m having to— Attentive and smart are both calling to me. 
+AUSTIN: Ok. 
+
+KEITH: But other than that I like charming and intuitive— 
+
+AUSTIN: You can’t have charming, Keith already stole charming, right?
+
+ART: Oh, shit. I thought that was only the relationship adjectives that were exclusive. 
+
+AUSTIN: I mean, we could— you could double up. You really could. But Ali just went through all that trouble of coming up with different ones, and I like— I would like us to have different ones.
+
+ART: All right, well Prepared sucks, but I’m taking it.
+
+AUSTIN: You can also just invent things; you don’t have to take these. In fact, if you look in the handout section, there’s a whole section— 
+
+JACK: [overlapped] There’s, like, loads here.
+
+KEITH: Hey, Art. You could be sexy.
+
+ALI: Ooo.
+
+AUSTIN: You could be sexy. You could be sexy. 
+
+ALI: Cute. 
+
+AUSTIN: You could be cute.
+
+ART: What? 
+
+AUSTIN: Under— 
+
+ART: Hold on, I’m looking. I’m looking.
+
+AUSTIN: Ok. I’m glad that you’re looking.
+
+ART: Well it doesn’t make sense for that— Wait where was I getting— where was I getting charming from?
+
+AUSTIN: No, no, whatever. You can— Listen. I don’t know. Listen. There are some sexy med doctors.
+
+KEITH: There’s a lot of sexy princes.
+
+ART: I’m gonna take Authoritative.
+
+ALI: [intrigued] Ohh. 
+
+AUSTIN: That’s good. I like it.
+
+JACK: Makes sense for a prince.
+
+AUSTIN: Yeah, and so author— 
+
+KEITH: Makes sense for Hadrian. [Austin and Art laugh]
+
+JACK: All right, fair.
+
+ALI: Shut up.
+
+AUSTIN: Authoritative? What were the other two?
+
+ART: Yeah. I already forgot. Intuitive was one of them.
+
+AUSTIN: Someone is Authoritative, what was the second one?
+ART: Intuitive. 
+
+AUSTIN: I like Intuitive.
+
+ART: And… did someone have Smart?
+KEITH: No.
+
+ART: I’ll take Smart.
+
+AUSTIN: Okay. Let’s get this all written down.
+
+ART: Eh… ehhh. Can I have— eh... mm.
+AUSTIN: Okay.
+
+ART: I think I’d rather have attentive. I’d rather have attentive.
+
+AUSTIN: I like attentive more. I like attentive more.
+
+JACK: It turns out this— 
+
+ART: I totally can’t edit this section on my sheet. What’s the matter with it?
+
+ALI: You hit edit.
+
+AUSTIN: You have to hit the edit button.
+
+ART: Eh, a likely story.
+
+KEITH: Top right.
+
+AUSTIN: Oh boy. [Ali laughs]
+
+JACK: It’s super interesting that Art just— 
+
+AUSTIN: You should all do this, by the way.
+
+KEITH: Oh yeah, I did that already. 
+
+ALI: [overlapped] I’ve been doing it. 
+
+KEITH: I haven’t saved it because I’m still— 
+
+AUSTIN: I see. 
+
+KEITH: I’m writing words in it still. 
+
+AUSTIN: I see.
+
+KEITH: On what to call the biohacking thing.
+
+AUSTIN: Right. Save it really quick just so I have it, just so I can see them.
+
+KEITH: Ok.
+
+AUSTIN: I appreciate it.
+
+JACK: I was just gonna say that three adjectives is way more evocative for a character than I thought they were gonna be.
+
+AUSTIN: Yeah, isn’t it?
+
+JACK: Three adjectives gives you so much. 
+
+AUSTIN: It gives you so much. So one of the things I had to do was build NPCs, and most of them have three, but there were some that needed four, and that extra one was like, wow. And then there’s just like henchmen that you also have to build in the world-generation of TechNoir, and those only get one. And it’s like aww. 
+
+JACK: Aw, poor guys.
+
+AUSTIN: Your whole thing is this. 
+
+ALI: Aw. 
+
+AUSTIN: But you do have to name them still, and that can communicate a lot.
+
+JACK: This man is just John the Cross. [Keith laughs] Steven the Coordinated. 
+
+AUSTIN: Yes. 
+
+JACK: He never drops anything. [Ali laughs]
+
+KEITH: Marcus, the Attentive henchman. [Jack laughs]
+
+AUSTIN: Right. Um, ok.
+
+JACK: Can we take a quick break before we do this next bit?
+
+AUSTIN: Yes. Agreed.
+
+JACK: Just for, like, one second.
+
+AUSTIN: Let’s come back in— it is 8:09 by my clock, by this clock. Let’s come back by 8:15.
+
+KEITH: Hello? (ghost-like) I’m alooone… No one can hear me… I’m gonna divulge my greatest secrets… One time I— 
+
+ALI: Hello?
+KEITH: Hi. 
+
+ALI: Are you speaking to someone?
+
+AUSTIN: Yeah, I think he’s just speaking to himself.
+
+KEITH: I was speaking to myself. I was gonna divulge my greatest secrets. Um. Oh, so when I went to visit Kylie’s baby in the hospital, the wing of the hospital where the maternity ward was, it was called three words, all capitals “THE BIRTH PLACE.” [Austin makes a disgusted noise] And it struck me as so creepy that I really wanted to include it here. [Ali laughs] Which is why the place on September is called The Birth Place.
+
+AUSTIN: Yeah, agreed. I’m with that.
+
+ALI: That’s terrifying.
+
+AUSTIN: It is.
+
+KEITH: I know. I— Yeah, as soon as Kylie was like, “Yep, and then you’re gonna wanna ask the receptionist where The Birth Place is.” And I’m like, “Ok what’s it called?” And she’s like “No, it’s just called The Birth Place.” And I was like eugh, god. That’s like— I understand why they thought it was a good name, but it’s super creepy. 
+
+AUSTIN: It’s super creepy. Connections, okay. [Austin and Keith make confused noises] Ooooii? Fwuu? 
+
+KEITH: Eh?
+
+AUSTIN: Fwuuii? 
+
+KEITH: Weh?
+
+AUSTIN: We’re back. All right. We’re back. [Art mocks the noises they made] [reading] “Select three connections. When players get to this step, they’re gonna need some of your help. They each get to choose three connections from the transmission you have chosen for your first session.” Oh yeah, PS. The way this game is supposed to work is that you’re supposed to pick a transmission that someone else made instead of me spending the last couple of days, like, slavishly building one for ourselves and then having a whole other [laughing] four hour long session to kind of influence what that’s going to be. 
+
+KEITH: Mhm. 
+
+AUSTIN: But whatever this is so much better, it’s so much better. Uh… so, if you look again in the field—  in the kind of newspaper icon on roll20— I don’t know why that’s a newspaper icon… I really— I guess it’s not, maybe it’s like a post-it, or a sheet of paper. It really looks like a folded newspaper.
+
+KEITH: It does look like a newspaper. Well, it says “journal” when you hover over it. 
+
+AUSTIN: Yeah, it doesn’t look at all like a journal to me. 
+
+KEITH: No, but sometimes they call newspapers journals? I don’t know.
+AUSTIN: Oh, I see. Yeah. Ok. Ok.
+
+KEITH: It’s a stretch still.
+
+AUSTIN: It is. If you open up the “contacts” sheet, you’ll see that you have six contacts here.
+JACK: Great names.
+KEITH: Paisley Moon is a really good name.
+
+AUSTIN: Paisley Moon, Orth Godlove, who’s a real person. Shout outs to Michael Lutz who tweeted a picture of a book he was reading, like a non-fiction book that included some politician named Orth Godlove. Jamil Quartz-Noble, Cene Sixheart, Koda Whitegloves, and Jum? Jim? 
+
+KEITH: JM-27
+
+AUSTIN: JM-27. We don’t— I don’t know what they are. I don’t know if— I think they’re a robot. They’re a robot. They don’t have a gender. Some people call them Jim, some people call them Jem, some people call them Jam. 
+
+JACK: [overlapped] Some people call them 27.
+
+AUSTIN: Jim-Jam.
+
+ART: Some people call them Jom or Jum?
+AUSTIN: [laughing] No one calls them Jum! Someone called them Jum once and that person doesn’t exist anymore.
+
+[Everyone laughs]
+
+JACK: Quote: “A dutiful bot that’s worked to manifest services at every port on Counterweight.” Who just vanished a person.
+
+AUSTIN: Right. Fully sentient, but just kinda likes their job. Like, JM is like pro being— JM is basically what AuDy is, what Jack’s character— but like likes it a whole bunch. 
+
+ART: And it’s weird the adjectives you’ve picked for JM: Endearing Knowledgeable, Mechanical, Completely fucking terrifyingly dangerous!
+
+[Everyone laughs]
+
+AUSTIN: Yeah, that’s them. I’ll just go through these so everyone on the podcast can hear it. Koda Whitegloves is a native to Counterweight. Koda was an Apostolosian medic in the war. Unfortunately, they were left behind, and their medical license is no longer recognized. Their skill, however, is... and they are Tall, Practiced, and Stubborn. I’m using gender neutral pronouns here not because all of these characters are genderqueer, but because at this point, we don’t know what gender these characters are? It’s advised that we start with nothing, and then just like, “Yeah, ok, this is a dude. This character is a dude,” based on some of the relationship adjectives you pick, and how you see your characters, and just how they feel to you. So Koda is Tall, Practiced, and Stubborn. They all can do special favors for you too, which I should— Let’s just go over them right now. JM can Chop, which means JM can sell you stolen vehicles— 
+[1:15:00]
+ART: Wait, why would— Why don’t you start with the one you just read? Oh. 
+
+AUSTIN: Because we did JM already. 
+
+ART: Cause we did JM already. Got it.
+
+AUSTIN: So JM can Chop, which is buying and selling stolen vehicles. They can Fence basically anything. They can sell stolen goods— er, buy stolen goods from you. And they can Stable. Which is , they provide a mech or a transport to you, just for free. But then you’re in debt to them equal to the cost of the mech. Koda has Deal. Koda can deal you drugs. Drugs are really good in this game, but also there’s a cost, obviously. They can also sell you cyberware with the Fix favor, at a discount. And they can also splice in cyberware for you. Otherwise it’s gonna cost money to buy cyberware. 
+
+Cene Sixheart is a brilliant roboticist who left the Diaspora’s top drone development program to go solo, and they are Cute, Brilliant, and Clinical. They can Chop, Fix— so they can buy and sell vehicles. They can sell you cheap cyberware and drones. They can give you a ride off the planet if you ever need to go off the planet. And they can splice in cyberware for you. 
+
+Jamil is a freelance reporter who seems to make way more money than a freelance reporter should. They are Observant, Unpredictable, and Stylish. And their favors are Deal, so deal drugs again, Date, which is they can get you into places that you normally wouldn’t be able to get into. For Jamil, you have to think like that’s— like, oh, they have a press badge. They could just say you're with them, you’re their camera person or whatever. And Shark. Shark is just— 
+
+KEITH: Which means she’s literally a shark. 
+
+AUSTIN: Right. And Shark is, yeah you’re a shark. They’re a shark. A street shark. 
+KEITH: Lemon shark.
+
+AUSTIN: [laughs] Shark is loaning money. They just loan you straight up 10 bucks— 10 credits, which is abstracted to like a lot of money in this system.
+
+ Orth Godlove is a retired soldier who fought in the Golden War for OriCon. Now they’re a mid-tier bureaucrat in the Consili— uh, the bluh-bluh-bluh— in the Consolidated Counterweight Technocracy. They are Large, Intuitive, and Ace. They can give you a ride anywhere on the planet. They can Fence vehicles and mechs. They can Fix weapons. they can sell you weapons on the cheap— stolen weapons on the cheap. And they can Stable So they can provide mechs and transports.
+
+ And Paisley Moon is a Fixer extraordinaire. They handle— that’s too— that’s messed up, gonna edit that. They gather information, they manage crises, and they find solutions for the highest bidder. And they are Sharp, Bossy and Vital. They can Date, Fence information, so they can sell information that you’ve stolen. They can provide you— can fix security or IDs stuff, like if you need a security card or a fake ID or whatever. And they can Shark you money.
+
+ So those are your choices. The way this works is like, I need to know exactly who you’re picking at this point. And when you make a connection, you also have to assign a relationship adj— or do you pick them first… lemme… I think you pick them first. Everybody picks their connections first. So I think you can all pick any three connections. 
+
+ART: Paisley, Koda, and JM, please.
+
+AUSTIN: Write it down. That those— Yeah, that’s fine.
+
+[Pause]
+
+ART: Where?
+AUSTIN: Just in your sheet, on the bio and info stuff. Just toss it— I would toss it… under where it says “Primed Verbs.” Also no one should have anything—  Keith?
+
+KEITH: Yeah?
+
+AUSTIN: I’m removing those from your thing here, that’s not where you— 
+
+KEITH: Oh that’s not where those are? Okay. 
+
+AUSTIN: Yeah. 
+
+KEITH: I can copy and paste them wherever they go.
+
+AUSTIN: Uh, they don’t— they just— in that page click on “attributes and abilities.” [Keith whistles] Like, on the main tab— 
+
+KEITH: Oh, ok. Got it. Yeah. 
+
+AUSTIN: —before you go to edit mode, and just plop them in there. I should’ve been more clear about that, sorry. 
+
+ALI: I think I’m gonna go [coughs] sorry.
+
+KEITH: Bye. [pause] Oh. [Keith and Austin laugh]
+
+ALI: What?
+
+AUSTIN: Ali, you said “I think I’m gonna go”... [Ali laughs]
+
+KEITH: And I very quickly said “Bye.”
+
+AUSTIN: Yeah.
+
+ALI: Okay. Cool. I’m gonna go with--
+
+KEITH: Pretty cool. [Austin and Art laugh]
+
+ALI: [laughing] I fucking hate you. Jamil, Cene, and… Paisley? Yeah. 
+
+AUSTIN: Yeah. Okay. So yeah, just write that in somewhere on the bio and info page and then make sure you save it so that I can see. 
+
+JACK: I’m gonna go with JM, Cene, and Orth. 
+
+AUSTIN: Okay. Are you the only one with Orth?
+
+JACK: At the moment.
+
+ART: [overlapped] I think that— 
+
+KEITH: Sorry, I need to— 
+
+AUSTIN: [overlapped] Ok, you also— 
+
+KEITH: —look back at it. I was gonna get… Wait sorry, did I interrupt somebody?
+
+AUSTIN: No, no, no.
+
+KEITH: Okay. I was thinking… Um…. [clears throat] I was taking Paisley, Cene, and JM? How many people have JM?
+
+AUSTIN: I think everybody has JM right now.
+
+KEITH: I think everybody should have JM, and I’m picking JM. 
+
+ALI: I don’t have JM, but you guys can have JM. 
+AUSTIN: Ok, that’s actually really great. 
+ALI: But we all know these people. 
+
+AUSTIN: Yeah, but there’s— yes, but, but— 
+
+ALI: But some of us have like— 
+
+AUSTIN: If you don’t have him as— er, if you don’t have JM as a connection, then it’s harder for you— you can’t just go to them and be like, “Hey, I want to talk to you right now.”
+
+KEITH: I just fuckin’ love this robot that loves *his, job but will do criminal favors for like, anyone. 
+
+AUSTIN: Yeah. No, they really like you, or whatever. 
+
+KEITH: So funny. 
+
+AUSTIN: You have a connection. 
+
+KEITH: Yeah, yeah, yeah, yeah.
+
+AUSTIN: That more than, you know.
+
+ART: So I pulled up a list of ancient Greek names to try to like, get me into a name for this character. 
+
+AUSTIN: Uh-huh. 
+
+ART: And I’d like everyone to take a moment to thank me for not choosing Cyberniscos as my name. [Everyone laughs] Because I definitely found it on this list. Cyberniscos And then two names down is Cylon.
+
+[Everyone laughs]
+
+KEITH: Okay hold on. Sorry, the… the bio thing that I can do is called Cyberniscos. 
+
+AUSTIN: Nope!
+
+KEITH: No, it’s not, I don’t like that.
+
+AUSTIN: What’s that name mean? Wait. 
+
+JACK: [amused] It was those Greeks who were super into, like, wi-fi and things.
+
+AUSTIN: Oh, ok. Right, yeah. Sure. Sure.
+
+JACK: They had it back then, that was before the Dark Ages, obviously. 
+
+AUSTIN: Right.
+
+JACK: The wi-fi connection just went down, and everybody got really sad. 
+
+AUSTIN: God.
+
+ART: Hypereddor!
+
+AUSTIN: These are the worst names, you have the worst names.
+
+ART: What about just Hypnor? [Austin and Jack laugh]
+
+AUSTIN: No.
+
+JACK: What about fishy names?
+AUSTIN: How about Greek fishy names. What are some Greek fish?
+
+KEITH: Betta fish.
+[1:22:00 Cole begins transcribing] 
+
+AUSTIN: Yeah, your name is Betta Fish. [Keith laughs] I’m looking at fish of Crete and Greece. Anyway, let's not— we can’t— 
+ 
+JACK: Ember [???] Cretian Guppy. It’s not a real fish. 
+
+AUSTIN: Welcome to Fishteen minutes. [Jack laughs] It's not my joke, to be clear. Oh, you could be Chromis Chromis. 
+
+ALI: Oh, boy. 
+
+AUSTIN: No? That’s not the fish you like?
+
+JACK: That’s just— that's the new stormtrooper played by the lady from uh, yeah, Game of ThronesFrance. [Ali laughs]
+ 
+AUSTIN: Yeah. Ok, uh... so wait, who's missing? Has everybody put in their connections somewhere? 
+
+ALI: Uh-huh.
+
+KEITH: Sorry, I have not put them in yet, but— 
+
+AUSTIN: Can you put them in and save them so I can just see them all? 
+
+KEITH: Yeah, yeah, yeah. 
+
+AUSTIN: Oh, you know what? Put them under adjectives, is actually where they should go. That's actually where they should go.
+
+KEITH: Ok. Under... 
+
+AUSTIN: Under like, the creator— 
+
+KEITH: Prone adjectives? Or under all?
+
+AUSTIN: Way— at the bottom of the list of adjectives above where it says gear. 
+
+KEITH: Got it. 
+
+AUSTIN: Because you're going to have adjectives with them in a second and that will be much more clear. In fact, let's, let's— Do we all have— do we all have connections at this point? Or contacts, connections? Ok, it's time to assign relationship adjectives. Everyone roll a d6 for me real quick. 
+
+JACK: Um, how do you do that again? 
+
+AUSTIN: Slash.
+
+KEITH: Slash roll 1d6. 
+
+AUSTIN: You can even just do slash d6. 
+
+KEITH: Yeah.
+
+JACK: Oh cool.
+
+ALI: Everyone has gotten a four. 
+
+KEITH: Yeah, we all got four.
+
+AUSTIN: [amused] Everyone needs to roll again. This is unbelievable. 
+
+KEITH: Do I have to roll again? I got four first. [crosstalk] I’ll do it again. 
+ 
+AUSTIN: [crosstalk] It’s up to you. How about this? It's up to you if you want to roll again. 
+
+JACK: I got a five.
+ 
+AUSTIN: Ugh. 
+
+ALI: I got a three.
+ 
+KEITH: I'm gonna... 
+
+ART: [shouting] Aw, I got a one! I’m gonna get the worst adjective! [Ali laughs]
+
+AUSTIN: Well, no, because— 
+
+ART: Can we at least snake draft these adjectives?
+
+AUSTIN: [laughs] No— uh, mmm, maybe. I kind of like doing it as a snake draft. I kind of like that. All right. So- 
+
+KEITH: I'm staying. I'm sticking with four. 
+
+AUSTIN: Yeah, I bet. [laughs]
+
+KEITH: Wait, no, I haven't looked at the list. I’m not even looking.
+ 
+ALI: Yeah. Wait, what do you do with these numbers? 
+
+AUSTIN: We’re gonna tell you in a second. Four means that Keith goes second instead of going like last or whatever. 
+
+KEITH: Oh, Ok. 
+
+ALI: Ok.
+
+AUSTIN: So we're starting with, at Jack who rolled a five. [reading] “Assign relationship adjectives. Go around the table, starting with whoever is sitting to your left or who rolled a five.” 
+
+JACK: Oh hey. That's me. 
+
+AUSTIN: [reading] “And have each of the players pick one of the adjectives below. They assign that adjective is a description of their protagonist's relationship with one of the characters on their connections list. This is how the protagonist feels about her connection. It does not prescribe how the connection feels about her.” 
+
+JACK: Oh wow. 
+
+AUSTIN: [reading] “These act as positive adjectives on the protagonist as being helpful or defending that character. They act as negative adjectives, if she acts against that character. Once an adjective is picked, another player cannot pick it later.” These are on page 22.
+ 
+JACK: There’s nine of these? 
+
+AUSTIN: There are nine of these. 
+
+JACK: That's quite a small number. 
+
+AUSTIN: It is a quite— It is quite a— 
+
+ART: [crosstalking] So each of us are only gonna get two.
+ 
+AUSTIN: [pauses] Yes, that's correct.
+ 
+ALI: Wait, but we each all have three connections?
+ 
+AUSTIN: Yeah. So you also have a connection with somebody else, and you don't have an adjective to describe what that relationship is because it's not that intense. 
+
+ALI: Oh. 
+
+AUSTIN: It's not intense enough for an adjective; do you know what I mean?
+ 
+KEITH: It’s on page 22?
+ 
+AUSTIN: Yes.
+
+KEITH: I'm on page 22; I don’t see… it. 
+
+ART: 22 of Technoir. 
+
+AUSTIN: Technoir. 
+
+ART: 5 on Mechnoir. 
+
+KEITH: Oh Ok, sorry, I'm looking at the PDF page, not the actual document page. Got it. 
+
+AUSTIN: Ok. 
+
+JACK: Um, Ok— 
+
+ART: Are they the same adjectives? Yes, they are. Got it. 
+
+AUSTIN: I think so, yeah. Ok. Those are, for the people listening: Affectionate, Dependent, Loyal, Lustful, Obsessive, Protective, Respectful, Sympathetic or Trusting.
+ 
+KEITH: And this is them of you? 
+
+AUSTIN: No, this is you of them. 
+
+KEITH: Ok.
+ 
+AUSTIN: It is not in fact— 
+
+JACK: Um, and these are positive adjectives? 
+
+AUSTIN: When you're— when you’re acting on their behalf, yes. They're negative if you're trying to act against them.
+ 
+JACK: Ah, ok, cool. I'm gonna pick dependent. 
+
+AUSTIN: Ok. 
+
+JACK: With Cene Sixheart. 
+
+AUSTIN: Ok, interesting. What's your— tell me why.
+
+JACK: Um, Cene is a brilliant roboticist. 
+
+AUSTIN: Mhm.
+
+JACK: And I think AuDY, post stopping parking cars, definitely hunted down a roboticist and went, “What's happening?” 
+
+AUSTIN: Ok. I like that a lot actually.
+
+JACK: Or even just, “I need better arm muscles” or something than just turning wheels. 
+
+AUSTIN: Um, one second. Let me… So, you are dependent. 
+
+JACK: Mhm. 
+
+AUSTIN: I like that a lot. Who is next? 
+
+KEITH: Me? 
+
+AUSTIN: Keith?
+ 
+KEITH: Yeah. uh, I — 
+
+AUSTIN: So, dependent is off the— is off the list now.
+ 
+KEITH: Yeah. I am protective—
+AUSTIN: Mhm
+
+KEITH: —of JM.
+ 
+AUSTIN: Why is that? 
+
+KEITH: I... In my head, I just like— I feel like JM gets taken advantage of, and I'm not joking. I feel like there's people out there that want to steal JM's parts right from off his back. And fuck that. And he's a nice bot. 
+
+AUSTIN: [crosstalk] Is it— is it— wait. 
+
+KEITH: And he did favors for me. And JM's all right.
+ 
+AUSTIN: Was that— wait. Was that a— was that like a hyper— like stealing his parts, was that a hyperbole or were you literally thinking about someone—?
+ 
+KEITH: No, I'm literally thinking of people trying to strip him of parts.
+
+AUSTIN: Ok, because he is special in some way? Like why that and not just buy those parts for, you know— Like, he’s— 
+
+KEITH: He's got people scavenging— 
+
+AUSTIN: [unsure] Mmm.
+
+KEITH: People taking— 
+
+JACK: Robots are really cheap. At least cheap ones are.
+
+AUSTIN: Robots are really cheap. Like.
+
+KEITH: They're really cheap? 
+
+AUSTIN: Yeah, like— JM isn’t— 
+
+KEITH: Ok. 
+
+AUSTIN: JM is— JM is special, but not because...
+ 
+KEITH: Ok, well then if they're taking— if they're taking his parts then maybe it's because he's got— maybe he's got— maybe they’re taking his memory banks then. Because he’s got— 
+
+AUSTIN: Sure. 
+
+KEITH: He knows shit.
+ 
+AUSTIN: Oh I should tell you one thing that JM has. I’m looking at JM’s— JM’s character sheet currently. This is a little peek behind the curtain. So everybody— every character in this game has objects, right? 
+
+JACK: Mhm. 
+
+AUSTIN: So like, for instance, the other character has a cyber hand, but is dexterous because it helps them do a thing. JM's objects are: one, is a cool robot. [everyone laughs] Two, optics nerve linked display— blah, blah, blah. Robotic limbs, and their last one is verbo-brain, which is a super deep Runbutton cut. A super deep Runbutton— 
+
+KEITH: [surprised] Really? What did— 
+
+AUSTIN: Yeah.
+
+KEITH: When did I say— or Kylie say verbo-brain?
+ 
+AUSTIN: That’s a word that you hate because it was used once in Star Wars: The Old Republic. I was just— I just watched a video in which you could not stop complaining about how much— 
+
+KEITH: God. 
+
+AUSTIN: —how much you hated that it used verbo-brain instead of whatever the other Star Wars fake, like, robot brain word is. You were very upset.
+ 
+KEITH: That sounds like me. Yeah. 
+
+AUSTIN: It's very you. It's true. 
+
+KEITH: It is.
+ 
+AUSTIN: Oh, boy. 
+
+KEITH: Now I'm blanking on the other— the other word even. 
+
+AUSTIN: It was like memory-core or some bullshit. 
+
+KEITH: Verbo-brain.
+ 
+AUSTIN: Yes. 
+
+KEITH: They said a verbo-brain in Kotor ? 
+
+AUSTIN: No, in SWTOR. In the Old Republic.  
+
+KEITH: Oh, in SW— Oh! Ok, that makes more sense. Got it.
+ 
+AUSTIN: Yes. 
+
+JACK: It is a very good word. It does imply, just,— 
+
+AUSTIN: I like it. 
+
+JACK: It only has verbs. 
+
+KEITH: It’s got its own Wookieepe— Wookieepedia page.
+
+AUSTIN: It is. It does. 
+
+ALI: Ooo.
+
+JACK: Oh my God, of course it has its own Wookieepedia page. Saturday has its own Wookieepedia. [Keith and Ali laugh]
+ 
+AUSTIN: [surprised] Does it?! 
+
+JACK: I mean it probably does. 
+
+ALI: [overlapped] Death’s got its own Wookieepedia page. 
+
+AUSTIN: It doesn’t. Are there days of the week in Star Wars?
+ 
+ALI: Yeah. 
+
+AUSTIN: What are they?
+ 
+ALI: Oh, something. 
+
+JACK: Sprundularry, Tswelth—  
+
+AUSTIN: Yeah. Uh huh. 
+
+JACK: Books, and that's all. There’s just three.
+ 
+AUSTIN: Oh, a week is a length of time greater than one day, but less than one month. Typically a week is made up of multiple days and multiple weeks make up one month.
+ 
+JACK: Yep. 
+
+KEITH: Maybe that's just cause different planets have different lengths for weeks.
+ 
+AUSTIN: Sure. A day was a unit of time—  
+ 
+ALI: [crosstalking] But there's a— [pause] there’s a galactic standard calendar.
+
+AUSTIN: Is there? 
+ 
+ALI: So there's Primeday, Centaxday, Taungsday, Zhellday, and Benduday. 
+[1:30:00]
+AUSTIN: Right. 
+
+KEITH: And they all end in day.
+
+ART: That’s the name of my character, Benduday.
+ 
+[everyone laughs, especially Austin]
+
+JACK: Where are we?
+ 
+AUSTIN: Uh, who— someone else has to do a— an adjective. That someone else is Ali.
+
+ALI: That is me. Oh, umm… I think I'm going to be affectionate towards Paisley. [unsure tone]
+ 
+AUSTIN: Ok. Why is that?
+ 
+ALI: Um... I— [making uncertain sound] I think that they probably like, had a thing— 
+
+AUSTIN: Ok. 
+
+ALI: —while she, in between her joining Chime and leaving JoyPark, where he was like, what kind of got her into being a smuggler.
+ 
+AUSTIN: Interesting. So like— 
+
+ALI: Yeah. 
+
+AUSTIN: —Paisley brought Aria into the game, so to speak. 
+
+ALI: Yeah. 
+
+AUSTIN: Ok, so also Paisley is a dude. It sounds like you just— you just decided? 
+
+ALI: Oh I'm sure. Yeah. 
+
+AUSTIN: It’s— Uh, you just use the male pronoun. 
+
+ALI: Ok, yeah. 
+
+AUSTIN: So I was just like, oh is that— is that where we’re— that's totally fine. 
+
+ALI: Yeah. 
+
+AUSTIN: I just wanted to make sure that we are on the same page. All right, so you're affectionate. Keith, what were you again? Oh, protective? 
+
+KEITH: I was protective. People trying to steal his verbo-brain. By the way, which is only mentioned eight times in all of Star Wars history; [mocking] verbo-brain. Fuck off. [Ali laughs]
+ 
+AUSTIN: He couldn't remember what it was two seconds ago. 
+
+KEITH: No, it's the other one that I can’t— Well, you’re right. 
+
+AUSTIN: Well, yeah. Both. 
+
+KEITH: I didn't remember either.
+ 
+AUSTIN: Yeah. [typing] Ok, Protective. Who's next? Art. 
+
+ART: That would be me. [overlapped] Ali just stole— 
+
+AUSTIN: Art. Wait, did we do Jack? We did— we did. 
+
+ALI: Jack was first. 
+
+JACK: Yeah, I was dependent.
+
+AUSTIN: Jack was first, ok. Art.
+ 
+ART: Ali just stole my adjective and person.
+ 
+AUSTIN: Haha. [Jack breathes a laugh]
+
+ALI: Nice. 
+
+AUSTIN: Oh you can redo people. People you can double down on.
+ 
+ART: Sure. [long pause] Are we snaking or are we not? 
+
+AUSTIN: Let's snake, which means that Art’s gonna get to pick two in a row here. 
+
+ART: [crosstalk] All right, so I— 
+
+KEITH: Ok.
+ 
+ART: All right. Which means I don't need to be strategic. 
+
+AUSTIN: I mean, yeah. 
+
+ART: I will be loyal to Koda. 
+
+AUSTIN: Why? 
+
+ART: Because Koda— Koda fought in the war. 
+
+AUSTIN: Ok. That’s good. 
+
+ART: Koda might even have been like my superior officer in the war? 
+
+AUSTIN: Sure. 
+
+ART: In the sense that, like.. they were better at being a medic than I was. 
+
+AUSTIN: Mhm, mhm. 
+
+ART: You know, they were Medic Sergeant, and I was Medic… lower rank than sergeant, 
+
+AUSTIN: Private? 
+
+ART: Corporal?  
+
+AUSTIN: Corporal, sure. Er— 
+
+ART: Well, it's weird. Like— 
+
+ART: It’d be weird.
+
+AUSTIN: Like, the royals get like weird high ranks like— 
+ 
+AUSTIN: Yeah, yeah. 
+
+ART: Like all the— those two princes they got now are like insanely high ranking in the military they don't particularly serve in. [Austin breathes a laugh] I guess the one does. I don’t know.
+
+AUSTIN: I thought of one did, yeah. 
+
+ART: Yeah, I really only occasionally look at Wikipedia entries for— for— 
+
+AUSTIN: For princes. 
+
+ART: For princes.
+ 
+AUSTIN: Right. 
+
+KEITH: Only two princes do you usually look up. 
+
+AUSTIN: [sing-song] Do-do. 
+
+ART: Yeah. Just go ahead now.
+
+KEITH: [sing-song] Boo. Do-do-do. [Keith and Austin laugh]
+ 
+AUSTIN: There it is. All right. Art again. Cause we're snaking.
+ 
+JACK: Wait, Art picked respectful, right?
+
+ART: Uh…
+
+AUSTIN: He picked loyal. 
+
+JACK: Loyal.
+
+[long silence]
+ 
+KEITH: Ali, what did you pick? 
+
+ALI: Affectionate.
+
+AUSTIN: Ali picked affectionate towards Paisley Moon. 
+
+KEITH: Ok.
+ 
+JACK: Do we still have Art?
+
+ART: Yeah.
+
+AUSTIN: He’s thinking, presumably. 
+
+JACK: Ok. 
+
+ART: Yeah, I’m— I’m taking too long. 
+
+KEITH: Deep in thought.
+
+AUSTIN: He's— yeah. He's taking too long. [amused] He insisted on snaking and now he's just, ugh.  
+
+JACK: Like one of those long snakes. [Austin and Keith laugh]
+
+ART: I am— I am respectful. That's open, right? 
+
+KEITH: Yeah.
+
+AUSTIN: Respectful is open. 
+
+ART: I’m respectful of Paisley. 
+
+AUSTIN: Ok. Let me draw that line. Sorry, I'm like— I'm like— there's stuff you can't see in the background right now. 
+
+JACK: He's playing Titanfall. 
+
+AUSTIN: [laughs] Oh yeah, that's the thing. Whoops. [Ali laughs] Loyal there. Let’s draw a nice—
+ 
+ART: And I think it's because— it's because of, you know, Paisley is very good at what he does. 
+
+AUSTIN: Right. 
+
+ART: And so I— so I really… I don’t know how detailed I need respectful? Uh…
+
+AUSTIN: No, that's—  that’s fine. It feels like you got it. 
+
+ART: I think Paisley is someone who helped, you know— uh, you know, he's not— he's not quite on the run— 
+
+AUSTIN: Mhm.
+
+ART: —but he's like on the run adjacent.
+ 
+AUSTIN: Ok. 
+
+ART: And so, you know, maybe Paisley helped get him get a— get him an ID or a— 
+
+AUSTIN: Yeah, sure. Yeah, yeah, definitely.
+
+ART: And he probably has— he probably needs a couple of ID cards.
+ 
+AUSTIN: That's fair. Yeah. Ok, So now back up to Ali.
+ 
+ALI: Oh, that's how this works? Cool.
+
+AUSTIN: That's how snaking works. Yeah, see? 
+
+ALI: Um...
+
+JACK: Have you ever seen a snake?
+ 
+KEITH: Yeah, you know how they go backwards and forwards. [everyone laughs]
+
+AUSTIN: It's like a “U.” It's like a “U.” 
+ 
+ALI: Ok, what's left? 
+
+AUSTIN: [crosstalk] Lustful, obsessive— 
+
+KEITH: [crosstalk] Uh, Lustful, obsessive, sympathetic and trusting. 
+
+ALI: Ok, I am… [pause] I'm going to be trusting of… uh… Cene?
+ 
+AUSTIN: Ok, why?
+ 
+ALI: Um… No, of Jamil. [laughs]
+
+AUSTIN:  Ok. 
+ALI: Well, because they're a reporter. I think that, like, when she was famous, she probably fed him information.
+
+AUSTIN: Yeah, totally. There was definitely some interviews like— yeah. 
+
+ALI: Right. Yeah, yeah, yeah. He got like the hot tips. And I'm like, he helped her out by, like, writing good things about her. 
+
+AUSTIN: Yeah. 
+
+ALI: Also he's stylish so she is probably just like— [indiscernible as she laughs]
+
+AUSTIN: Is stylish. Is Jamil also— so Jamil also a dude, ok. 
+
+ALI: Uh… I keep saying dudes. [laughs] 
+
+AUSTIN: You do. That’s— Again I have no problem with that. 
+
+ALI: Ok. [sighs]
+
+AUSTIN: I just want to make sure that I have it straight in my own head. [long pause] I’m gonna be really disappointed if lustful doesn't get picked.
+ 
+ALI: I was— I was so afraid that I would have to go last with this snaking thing and that I would get affectionate— affectionate and lustful.
+
+AUSTIN: Oh, like, both of them. That would be— 
+ 
+ALI: I would have hated that. 
+
+AUSTIN: Well, there's going to be one left. Like, one of them is going to be left over because— 
+
+ALI: Ok. 
+
+AUSTIN: Because you don't go around… you don't go around if there isn't enough for everybody. So no one's going to get a bonus one.
+ 
+ALI: Ok. 
+
+AUSTIN: All right. Keith. 
+
+KEITH: Uh, lustful. 
+
+AUSTIN: Ok. For? 
+
+KEITH: Paisley. 
+
+AUSTIN: Oh, boy. 
+
+ALI: Oh. [laughs]
+
+AUSTIN: Ugh. [Jack laughs]
+
+AUSTIN: Let's flip this around so I can draw the line. [quietly] I've all sorts of cool—
+
+JACK: The Keith and Ali feud continues.
+
+KEITH: Mhm. 
+
+AUSTIN: All right. [thinking noises] I wish this thing would retain the color of the lines that I'm drawing when I switch off of them. It’s driving me a little— a little mad. Uh, text. Text? Text, ok. And last but not least, what's AuDY’s other connection, Jack?
+ 
+JACK: I think I'm going to go sympathetic for JM. 
+
+AUSTIN: I thought you didn't have JM. You did have JM. Does everybody have JM?
+
+JACK: Yeah, I'm— 
+
+ALI: I don't have JM. 
+
+JACK: Yeah, I think so. 
+
+KEITH: Ali’s the only one without JM.
+ 
+AUSTIN: The only one without JM. Ok.
+
+KEITH: [laughing] Can we do a bit where we always are talking about JM, and Ali’s like, “Who’s JM?!” [Ali laughs] And we never say. 
+
+AUSTIN: Oh, you mean Jum. 
+
+[everyone laughs]
+
+JACK: Distant gunshot. [Keith coughs]
+ 
+JACK: Uh, I— I don't— 
+
+AUSTIN: Or Orth. 
+
+JACK: I’m not sure why this— 
+
+AUSTIN: No, that’s fine.
+
+JACK: I’ve got Orth. 
+
+AUSTIN: No. Yeah. But Orth’s the only person who doesn't have any... any... adjectives.
+ 
+KEITH: Oh I... I have a person that I don't have an adjective for. That's fine, right?
+
+AUSTIN: No, that’s fine. Yeah, that's absolutely fine. It's just interesting to me that— I've drawn— I’ve mapped this out. It actually— it actually looks like a... I’m gonna— I'll send you a picture of this because it looks sort of like a body or a constellation, which is really neat. What uh— what did you pick again? 
+
+JACK: I picked sympathetic.  
+
+AUSTIN: Sympathetic because— because it’s— 
+
+JACK:Towards JM. It's hard to sort of vocalize. I think that to an extent there's an element of... almost condescension about it. 
+
+AUSTIN: Yeah, no, I know what you mean. 
+
+KEITH: Hey, back off, JM! [pauses] I'm very protective of JM. [laughs]
+
+JACK: No, like he's— Sorry, I'm trying to— I think AuDY is genderless. I think they’re just a sort of a “they” robot. 
+
+AUSTIN: Sure. 
+
+JACK: And I think that they definitely feel some sense of, ”Well, I was nothing. I wasn't thinking anything, and now I'm thinking something. And here's something that is also thinking something, but is still just doing their job every day.” 
+
+AUSTIN: Right. 
+
+JACK: “Whereas I am piloting a spaceship.” And I think that there’s a sympathy there. 
+
+AUSTIN: Yeah. 
+
+JACK: It’s not necessarily coming from a good place? I don't know. 
+
+AUSTIN: No, that's fair. That's totally—  
+
+KEITH: To be fair to JM, I don't think JM was programmed to chop or fence or stable.
+ 
+AUSTIN: Right. 
+
+JACK: Well, that's true. 
+
+AUSTIN: That is 100 percent true. 
+
+JACK: I don't know. Oh, a mysterious note has just appeared. 
+
+AUSTIN: [laughs] I’m gonna change the name of that. 
+
+JACK: Oh, I don't. Yeah, like, I don't know if... It's the kind of “likes their job” bit that I think is interesting to AuDy. [Austin and Keith hum agreement] Because AuDY didn't even dislike their job, they just didn't even think of it as a job. 
+
+AUSTIN: Right. 
+
+JACK: In the same way that your water dispenser doesn't think of pouring out water; it just pours out water.
+ 
+KEITH: Yeah. 
+
+AUSTIN: Mhm. 
+
+KEITH: Or the bird that I use as a whistle for work. 
+
+JACK: Mm. Yeah, that bird has no idea what's going on at all. 
+
+AUSTIN: What? 
+
+KEITH: [overlapped] I’m thinking Flint— 
+
+ART: Do water dispensers dream of aquatic sheep? [Austin and Jack laugh]
+
+KEITH: Oh, I was doing Flintstone's, is what I was doing. Flintstone's. 
+
+AUSTIN: Right. Got it. 
+
+JACK: Oh man. Look at this. It's a— it's a Skyrim skill tree.
+ 
+AUSTIN: [amused] Yeah. It does look like a Skyrim skill— 
+
+KEITH: Where is this? 
+
+AUSTIN: It's just in the same place that I've been putting all the other stuff for you to look at. 
+
+KEITH: Oh ok.
+ 
+JACK: Orth, like a distantly orbiting moon. 
+
+AUSTIN: Yeah, yeah. Again, interesting to me that no one picked anything with Orth. Since that's who you are working with, or we've historically set up you to be theoretically working with. 
+
+JACK: Huh. 
+
+AUSTIN: It’s totally fine.
+ 
+JACK: It’s professional. 
+
+AUSTIN: This is not— Yeah, exactly. That's exactly it. Is actually a professional relationship. There is not any— No one has any emotional connection there. Which is good and interesting. All right. 
+
+ART: Which is good. 
+
+AUSTIN: Yeah. You know, being safe. All right. Next, purchase objects using credit. 
+
+JACK: Oh. this is gonna be fun.
+ 
+AUSTIN: Everyone gets 10 creds that they can purchase objects with. You can—  All right, I’m gonna just read it. [reading] “Each player starts with 10 creds that they can use to purchase starting objects for the protagonist. The catalog of objects starts on page 40 of this chapter. There are additional ones in the other book, in Mechnoir. The players simply pay the base cost for each object, plus one cred for every upgrade tag they add to the object. Cybernetic objects or objects with the implant tag cost an additional five creds to install in the protagonist's body. Write the object’s name in the space on the left and list all of its tags separated by commas in the box after the plus symbol.” 
+
+You're not gonna do that because we don't have a sheet that's— We don’t have like a virtual sheet. [reading] “Connections who perform the fix or chop favors can provide a discount on certain categories of objects. Those with the splice favor can install implant objects for free. If the player needs additional money to purchase their desired objects, they can hit up a connection with the shark favor. Connections cannot provide more than two favors for the entire table during generation.” 
+
+ART: [quietly] Yikes. 
+
+AUSTIN: So, yeah. So start thinking about what that stuff is. The good news is I've been very generous with what these contacts can do for you. 
+
+JACK: But only [???]
+
+KEITH: Sorry, I totally missed the thing where you said consider what that thing is.
+ 
+AUSTIN: Consider what things that you want. Consider what the things are that you want.
+ 
+KEITH: Ok, yeah.That's what I thought. Just making sure I didn’t miss a huge thing. 
+
+AUSTIN: Nope. You're good. 
+
+KEITH: Got it. 
+
+ALI: So I have a ton of ideas. [laughs] 
+
+AUSTIN: Sure. Let's start. 
+
+ALI: What’s our— do we have, like, a base amount of dollars that we can use, or are we just going to kind of work that out later?
+ 
+AUSTIN: Well, no, it's— it's— Yeah, you start with 10. 
+
+ALI: Ok. 
+
+AUSTIN: And then if you want more, you have to shark more or you can— you can— like, if you want, again stable— the stable favor can just get you a rigger.
+ 
+ALI: Ok. 
+
+AUSTIN: Straight up. And then you just owe that person however much that rigger is— rigger costs. And the same thing is true for the ship, which I think Jack's character is going to end up buying probably. 
+
+JACK: Yeah. I'm going to buy a ship, I think. 
+
+ALI: Ok. 
+
+AUSTIN: From JM, presumably? Not from— 
+ 
+JACK: Uh…
+
+AUSTIN: And so to be clear here— I just want to make it clear, because of the way that this— the book is written makes it seem like, oh, if you're buying— if you're using stable, they're providing you with the stuff. I like it being a little more abstract than that. Where it could be that they're providing with a thing directly, or it could be like— like, especially I think in Art's character’s case, it's like, hey, this is what it costs me to turn the other way. To like— it's a bribe to let you get in with that stuff or to, you know, make sure that it has the right clearance tags or whatever. But you're in debt to them equal to that thing, you know? It doesn't have to be oh, they provided for you directly.
+ 
+ALI: Um, ok. 
+
+AUSTIN: So, what were your—?
+
+ALI: Yeah, because I didn't know, like, how much of this stuff she would just have had for like years? 
+
+AUSTIN: Even if she's had it for years, we're gonna have to have it here.
+
+ALI: It would be— it would have— Yeah.
+
+AUSTIN: We have to go through this stuff. And again, that's why I'm being abstract with it, right? 
+ALI: Right, right. Fair enough. 
+
+AUSTIN: Like, yeah, she's had that— she's had her rigger since she performed with it in fake space-Disney, but— 
+
+ALI: Someone had to let her leave with it. 
+
+AUSTIN: Someone had to let her leave with it.
+
+ALI: Ok. 
+[1:45:00]
+AUSTIN: —or let her in with it. And when the EarthHome Entertainment Company came and said, “Hey, where is it? Who—” someone said, “Oh. Well not here. I'm sure it's not here. Here's the proof.” And let me— let me put together the proof, and let me pay off the right people so they don't provide the right, you know— et cetera.
+
+ALI: Right, right, right. Yeah, yeah, yeah. Ok.
+ 
+ART: Wait, but then— then we don't have enough favors. We have two favors, but we need three favors to get two rigger's and a ship. 
+
+AUSTIN: Yeah. But you— No, you don't have— There are multiple people with stables. 
+
+ART: Oh, I thought— I thought it was two total favors— 
+
+AUSTIN: No. Two per character. 
+
+ART: —not per person. 
+
+AUSTIN: Two— it's— No, it's— 
+
+ART: Per fake person.
+ 
+AUSTIN: Yes, it is two per fake person. 
+
+ALI: Oooh. 
+
+JACK: Total.
+
+AUSTIN: Two— Sorry, sorry, sorry. Let me actually— No, that's wrong. It's two per fake— it's two per contact. [overlapped] So each contact can provide— 
+ 
+ALI: [overlapping] Ok, that’s all of the contacts, which is folks that we have relationships with.
+
+KEITH: [overlapping] Right. So that’s—  
+
+AUSTIN: Yes. But not— 
+ 
+KEITH: So, each character can have a total of six favors from their three contacts. 
+
+AUSTIN: No.
+
+KEITH: Oh ok.  
+
+JACK: No, each character— 
+
+AUSTIN: Each contact can provide two favors to the whole table. 
+
+KEITH: Oh ok, got it. 
+
+AUSTIN: So make sure that, you know, you will want— three of those favors should be from people with stable. One person is going to stable twice, and one person is going to stable once. There are two people with stable, Orth and JM.
+ 
+ALI: Ok. [overlapping] Ok, ok.
+ 
+AUSTIN: So— so— Ali, Art and Jack should be taking stable from Orth and JM.
+ 
+ALI: Ok.
+ 
+ART: I could make a compelling case that I should not be stabling from Orth.
+ 
+AUSTIN: Which is? 
+
+ART: We fought against each other in a war. 
+
+AUSTIN: That's fair. 
+ 
+JACK: [laughs] I'll get to Orth. 
+
+AUSTIN: Oh, wait, but— also, you need to— you need to have a relationship with one of these people. You can't call in a contact you don't have— you can't call in a favor from a contact you don't have, is the other thing. 
+
+ART: Ok. So the fact that none of us took Orth is— 
+
+JACK: I have Orth.
+
+AUSTIN: No, people have Orth, they just don't have relationships with him, so—  
+
+KEITH: Right. 
+
+ART: Oh, got it. 
+
+AUSTIN: See? They don't have adjectives with him, sorry. Yeah. Yeah.
+ 
+ALI: Well, oh— 
+
+AUSTIN: I've been saying— 
+
+ART: Man, this is confusing.
+
+AUSTIN: Well, we’ll be done in a second.
+
+ALI: Ok, but nobody I have has stable, so I guess I have to shark from— 
+
+AUSTIN: [crosstalk] Yeah. You could then shark from— 
+
+ALI:: [crosstalk] —Jamil or Paisley?
+
+AUSTIN: I’m surpri—Yeah. Yeah. I— For some reason, I thought you took someone with it. Yeah, you would have to shark then.
+
+ALI: Ok. 
+
+AUSTIN: But it's— on the same time, that's good ‘cause it means you don’t owe somebody a ton of money.
+ 
+ALI: Ok. 
+
+AUSTIN: Yeah. 
+
+ALI: Ok. All right. [laughs]
+ 
+AUSTIN: Yeah, so yeah, I would shark from Paisley then maybe. That also, I think, makes a lot of sense with your character. 
+
+ALI: Mhm.
+
+AUSTIN: And it ups your— your money to 20. 
+
+ALI: Ok.
+ 
+AUSTIN: Mechs cost 10 and then plus one for each extra tag. Same thing with vehicles, I think. I'm pretty sure. 
+
+ART: Oh, I thought we had to pick one of these— these existing rigs. 
+
+AUSTIN: No, we just— we just built these. Because those rigs are just a collection of tags, right? That's the thing with the system that's really nice, is that like— um, like, if you look at them, it's just— The first one, the Dancer38, costs 16, so it's 10, and then it's armor, cam, boosters, linked, mic, ostrich legs. So, yeah, six tags, so 16. You're going to want... cam, mic, and linked probably? And probably armor. Armor for robots is really cool in this game because it lets you kind of trade damage without taking personal damage, as readily. It kind of opens up the game in a really interesting way, because when I’ve run this before as just Technoir, the cost of getting hurt was really big. But when it's just like your robot gets hurt, it's one, really cool because the mechanics for it are really cool, and two, it's just— it's a little bit of insulation from— from being hurt, you know?
+ 
+ALI: Austin, have we decided that flexible was an upgrade for the Rook custom or—?
+ 
+AUSTIN: I mean, it cost one, yeah. 
+
+ALI: Ok, ok.
+
+AUSTIN: So any tag costs one, you know? So 10 is just like, oh, it's a robot. 
+
+ALI: Right, ok. 
+
+AUSTIN: And everything else after that is plus one.
+ 
+ALI: Ok. [pauses]
+ 
+AUSTIN: The other thing to note here, and this is what makes this system work in interesting ways, is any time you call in a favor, tell me. Because I have to add that person to the map of… um, of the plot kind of. So earlier I rolled for three things that are like, this is what the seed of this plot is going to be. And I've since been thinking about what the plot will be. But every time you call on a contact, as in good film noir, as in the kind of like, the logic of cinema, introducing a new character is basically putting them above the mantel place, right? 
+
+JACK: Hm. 
+
+AUSTIN: And at some point, they are now more susceptible to being tied into the plot. That doesn't mean that they're like bad guys, but it means they have stakes now.
+ 
+JACK: I've done all my shopping. 
+
+AUSTIN: Ok, what's your— talk to me about your shopping. 
+
+JACK: I love my— I love to do shopping in video games and tabletop games. 
+
+AUSTIN: Mhm. 
+
+JACK: Ok, so do we want to start with the ship? 
+
+AUSTIN: Sure. 
+
+JACK: I'm going to call in a favor here from Orth.
+
+AUSTIN: Ok. 
+
+JACK: And I'm going to mark down— 
+
+AUSTIN: [quietly] Oops.
+
+JACK: —that like, I got my shit from them, I guess. Do I just write ship in the— 
+
+AUSTIN: Yeah. And then— and then how much is the ship? 
+
+JACK: Um… 
+
+AUSTIN: Because that's how much you're in debt, in a sense, to Orth. 
+
+JACK: Let's see. So the transports in Technoir do not have prices next to them. I guess it's price on application. [laughs quietly]
+ 
+AUSTIN: Uh, where— what page are they on in Technoir? 
+
+JACK: Seven.
+
+AUSTIN: I see. 
+
+JACK: And there’s only two of them. 
+
+AUSTIN: Oh, wait, do you mean in Mechnoir? 
+
+JACK: Oh, I'm so sorry. Yes, I do. 
+
+AUSTIN: That’s ok. 
+
+JACK: The names are very similar. 
+
+AUSTIN: [amused] Yeah, that is true and fair. [Jack laughs] Oh yeah, it does.  They have— they have names— they have costs right next to their names. Or am I looking at the wrong page? 
+
+JACK: Oh. 
+
+AUSTIN: You're on a seven? 
+
+JACK: Yes. 
+
+AUSTIN: Keep going. 
+
+JACK: Ah. 
+
+AUSTIN: Go past the rigs, and you'll see their costs and their tags. 
+
+JACK: Right. 
+
+ART: On 11. 
+
+AUSTIN: Yes. 
+
+JACK: I am putting some money down for you guys. [laughs]
+
+AUSTIN: What are you— what are you getting?
+ 
+JACK: Um…
+
+AUSTIN: We can call these whatever we want in our world, too. And you can edit them if you'd like also, is the other thing.
+
+JACK: Ok, so I think I'm getting the Gazer 
+
+AUSTIN: Ok.
+ 
+JACK: And I think— 
+
+AUSTIN: This says [reading] “a fast and agile dropship built to get in or out of dangerous situations.”
+ 
+JACK: Ok, I'm just gonna write this down on the back of this piece of paper and sort it out online in a bit, because my keyboard’s, it’ll make noise.
+
+AUSTIN: [crosstalk] That’s totally fine.
+ 
+JACK: Ok, so it costs 19.
+
+AUSTIN: Yeah, by default, and again, we can just edit this, right? Like, so if you say like, “eh, I don't want it to have rotor— rotor fans,” you can get rid of those and then it costs 18. And it only has thrusters.
+
+JACK: [crosstalk] Oh, it has those tags automatically? 
+
+AUSTIN: Yes, those are the tags it automatically has, but we can just cut those. You see what I mean? 
+
+JACK: Ok, sure. Um…
+
+AUSTIN: But like, you probably don't want to get rid of cam, because otherwise you won’t be able to see out of it. Because it doesn’t have any cameras, you know? 
+
+JACK: Sure. Um...
+
+AUSTIN: Or maybe then it just has windows, you know, so it can't— you're not going to be able to... The tags, work, tags are like adjectives in that they can give you bonuses. So if you're telling me, like, “Oh, I use the rear camera to see where my pursuers are,” then I’m like, “Ok, cool. You get a bonus for using that rear camera.”
+ 
+JACK: Sure. Ok, so… Can I change the hu— I mean hu— is huge relative? Could I change the huge tag to— 
+
+AUSTIN: Huge. Yeah, absolutely. You could— Huge is relative. 
+
+JACK: Ok, could I change the huge tag to small?
+ 
+AUSTIN: Small is probably too small since there are two—  since it can hold two robots inside of it. 
+
+JACK: Oh you're right. It has to hold the mechs as well. 
+
+AUSTIN: It does. And it can do that already. Armor provides one mech. If you have— for every armor tag a transport has it can hold a mech. It also has pod, which can hold another mech. I think. In fact it might be able to hold… A pod can hold up to four armor points of vehicles or rigs, that's how it works. 
+
+JACK: Ah, ok. 
+
+AUSTIN: So— so that's what it is. It has pod, and pod can therefore— up to four other armor points of vehicles. And presumably the two other mechs that Ali and Art are going to make are not going to have more than four armor tags. So pod has you covered. 
+
+ART: Well, not anymore we’re not. [Austin and Jack laugh]
+ 
+JACK: If we— if we look at like the possible upgrades as including like sonar imaging and thermal imaging and burst cannon— 
+
+AUSTIN: Yep. 
+
+JACK: —would it be possible to get an upgrade that sort of deployed like a drone?,
+
+AUSTIN: Sure.
+
+JACK: Like a very, very small quadcopter? 
+
+AUSTIN: Totally. 
+
+JACK: That I can fly remotely from inside the ship.
+ 
+AUSTIN: Yeah, yeah. In fact, let's just pick— let's just— [reconsidering] I mean— fwuu. Yeah, yeah. Let's just say yes, because I have— 
+
+JACK: [crosstalk] I mean this isn’t— 
+
+AUSTIN: I have built other robots that do that. So yes, absolutely. 
+
+JACK: I don't think it's a weapons platform though. 
+
+AUSTIN: Right. It's just— What is it? What’s it do?
+ 
+JACK: It's a quadcopter about the size of quadcopters that humans make now in 2015. 
+
+AUSTIN: That is itself like a camera?
+ 
+JACK: Yeah, it's got a camera on it.
+ 
+AUSTIN: Yes.
+
+JACK: Yeah, I guess. 
+
+AUSTIN: Ok.
+
+JACK: Yeah. It's got a camera on it— 
+
+AUSTIN: [crosstalk] Just take another—  
+
+JACK: —and it can just go through windows and stuff.
+ 
+AUSTIN: Yeah. Just, just add it as like uh... if you want to come with a cool name for it later that's totally fine. 
+
+JACK: Sure. 
+
+AUSTIN: Or we could just pick one of the ones from the book.
+
+JACK: So this case is going to come to 20. 
+
+AUSTIN: Phew, ok. 
+
+JACK: Um… how would people feel about calling it The Kingdom Come? [Austin laughs]
+
+ALI: Aww. 
+
+AUSTIN: Oh, that's pretty good. It's kind of a good in. There's another good in I promise that we're not going to get to in this first, like, session of the game... the first, like, mystery that we solve or whatever, but… Or maybe we will— maybe it'll come up on the table. Who knows? There's another reference I have baked in. So. 
+
+JACK: Are there any objections to Kingdom Come as the name of the Chime’s dropship? 
+
+KEITH: No. 
+
+ALI: No.
+ 
+JACK: Cool. All right.
+ 
+AUSTIN: Art doesn't count apparently. [Ali laughs] 
+
+JACK: Well— 
+
+ALI: He said no, but also he doesn’t count.  
+ 
+ART: Am I too far from the mic? 
+
+AUSTIN: I didn't hear say it. 
+
+ART: I have no specific objection to really anything. I don't get the reference. 
+
+AUSTIN: What?!
+ 
+ALI: What?! 
+
+JACK: Oh. 
+
+ALI: That’s fine. It’s fine.
+
+AUSTIN: Don’t worry about it.
+
+JACK: After spending so long looking for it, we finally got it, and it put me instantly in an enormous amount of debt. 
+
+AUSTIN: [amused] Yep. So that's one thing you bought. What else are you buying?
+ 
+JACK: I am buying… [papers rustle] So basically I want to be a super cool robot. 
+
+AUSTIN: Good, good. Yes, good. 
+
+KEITH: Not a boring regular robot? 
+
+AUSTIN: All right, so Orth— 
+
+KEITH: Not like JM. 
+
+JACK: No. 
+
+AUSTIN: Aw, poor JM. [overlapped] JM has some cool stuff.
+
+JACK: I have ten credits.
+ 
+AUSTIN: Yep. 
+
+JACK: I'm going to buy a duster shotgun.
+ 
+AUSTIN: Good. Yes. 
+
+JACK: Which usually costs two, but I've implanted it in my right arm. 
+
+AUSTIN: Ok. 
+
+JACK: So it now costs three. 
+
+AUSTIN: It actually costs more than that because then you also have to get the— you also have to pay for the splicer. 
+
+JACK: Oh. How much is the splicing? 
+
+KEITH: Three?
+
+AUSTIN: It's five. 
+
+KEITH: Five. 
+
+AUSTIN: Unless you know someone who could splice. In which case, you can call in another favor for splice. 
+
+JACK: Yep, call in a favor with Cene.
+
+AUSTIN: Ok.
+
+JACK: So getting that spliced for free. 
+
+KEITH: Jack, how many favors have you called in? That's the second one?
+
+JACK: Two.
+
+AUSTIN: This is two, yeah. Let's— let's— 
+
+KEITH: Ok. 
+
+AUSTIN: Let's make sure, Jack, you don't— you don't— 
+
+KEITH: Overextend our favors. 
+
+AUSTIN: Yes. 
+
+JACK: Oh, no, that's fine. I won't do that. [crosstalking] I’ll just— 
+
+AUSTIN: Only because I like— [crosstalking] that means no— that means Cene can only call in one more thing, you know? 
+
+JACK: It— Oh my God. Yes. I'm so sorry. 
+
+AUSTIN: That's fine. 
+
+JACK: No, no, no. Let's go forward. 
+
+AUSTIN: You’re a cool robot. 
+
+ALI: For like, the entirety of the game or just for right now?
+
+JACK: [overlapped] Yeah, and for everybody. 
+ 
+AUSTIN: No, no, no. For the character— during the character generation. 
+
+ALI: Ok. 
+
+AUSTIN: During this part of the game.
+ 
+JACK: No, that's fine. So I'll just have a shotgun for a cost of two. 
+AUSTIN: Right, ok.
+ 
+JACK: I will have… Oh, Christ. Let's do someone else. [Austin laughs] Sorry, I didn’t realize I’d have to pay for this, which is very expensive. 
+
+AUSTIN: Mhm. It is very expensive.
+ 
+ART: I would like to announce that I figured out what that reference was to. And I thought it was to the stream from earlier that I hadn’t seen, and that’s why I didn’t have it.  
+
+AUSTIN: Gotcha. 
+
+KEITH: Ok.
+ 
+ART: Ok, sorry, guys. 
+
+KEITH: Austin, we can— we could— did you want to talk about, like, what my weird not-actual-stuff is? 
+
+AUSTIN: Yes. Yeah. 
+
+KEITH: Ok.
+ 
+AUSTIN: I think it's— it’s just cyberware, right? Like, in terms of— 
+
+KEITH: I'm just getting cyberware, but it's not actual cyber— 
+
+AUSTIN: I think it's just a headjack, is what we're— is like the baseline.
+ 
+KEITH: Ok. 
+
+AUSTIN: Which is a crainily-implanted computing interface. Tags cerebral input, experimental, linked, nerve linked.
+ 
+KEITH: Ok.
+
+AUSTIN: And then— and then it's like— All right, then you— then you could spend another— it costs one more because it has a thing called Divine Talk.
+ 
+KEITH: Oh, jeez, that sounds good. What is that? [Ali laughs]
+
+AUSTIN: It lets you talk to— it lets you interface with Divines.
+
+KEITH: Oh, ok. 
+
+AUSTIN: Most technology can't do that.
+
+KEITH: All right.
+ 
+AUSTIN: That's like— 
+
+KEITH: But yeah, not technology.
+ 
+AUSTIN: Right, right, exactly. 
+
+KEITH: Right. 
+
+AUSTIN: Or it is, but not metal technology, right? 
+
+KEITH: Right. Sure. 
+
+AUSTIN: It's some other thing. We don't know, and we haven't figured that out. We’ll get there.
+
+KEITH: All right. And is… I need— 
+ 
+AUSTIN: You also probably need something— you need something to let you see the Internet, or like see this stuff. So either— just, you know, spend another one to get um… you, actually— you're gonna need to spend two more because you need, like, display, which lets you see a thing... well, let’s you kind of like, have input. 
+
+KEITH: Ok. 
+
+AUSTIN: And then you need something to actually use this thing. And it's— it would be… oh, no. You already have it. You already have cerebral input. So just take one more to add display to this item.
+ 
+KEITH: Ok, so this is base cost four, plus five— 
+
+AUSTIN: Uh huh, uh huh. 
+
+KEITH: —unless I call in a favor.
+ 
+AUSTIN: Right. Which you should probably do. 
+
+KEITH: I'm going to do. 
+
+AUSTIN: And again, we can talk about that as being— is like whoever you call it in from, it’s not that they installed this for you; it’s that, like, they did the medical stuff necessary to make sure that it didn't fuck you up now that you have left the September Institute, right? 
+
+KEITH: Right, yeah.
+ 
+AUSTIN: But like, at the time, September Institute was checking in on it to make sure that it didn't kill you or whatever. 
+
+KEITH: Mhm.
+
+AUSTIN: But now this person did, and now, like, you're ok, you know?
+
+KEITH: Ok, and splice— 
+
+AUSTIN: Like, there was, like, literally a killswitch built into you, and they took it  out. 
+
+KEITH: Oh yeah.
+ 
+AUSTIN: You know? 
+
+KEITH: I like that. That sounds good.
+ 
+AUSTIN: Yeah. 
+
+KEITH: Well, no, because they kicked me out. They, like, let me go, I think. 
+
+AUSTIN: [doubtful] Yeah. Did they? 
+
+KEITH: Did they? You're right. [sing-song] They do steal babies. 
+AUSTIN: Why would they— Yeah. [laughs] Right, yeah. You did set them up as baby stealers. 
+
+KEITH: [sing-song again] They do steal babies. 
+
+AUSTIN: You did say that they have a place called “The Birth Place.”
+ 
+KEITH: Yeah. Yeah. I'm thinking— Yeah, in my head— because when— a lot of times in the— there's basically, Jedi do the same thing. They take babies. 
+
+AUSTIN: Yes. 
+
+KEITH: But it's usually painted as not a horrifying thing that everyone hates. 
+
+AUSTIN: Yeah. 
+
+KEITH: People— they do not like that they take babies. 
+
+AUSTIN: Ok, yes. 
+
+KEITH: Whitegloves has fixed cyberware and splice, and both of those could save me money? 
+
+AUSTIN: Yeah.
+
+KEITH: Does anyone need Koda for a thing? No, I'm not going to take both of Koda’s favors— 
+[2:00:00]
+AUSTIN: Wait, what's Koda’s other favor that you’ve already taken? What?
+
+KEITH: Deal. 
+
+AUSTIN: Oh, you’ve taken deal.
+
+KEITH: Well, it's fixed cyberware and then splice. 
+
+AUSTIN: Right.
+
+KEITH: Splice is what discounts the putting it in me, right?
+
+AUSTIN: Uh, you don't have Koda. You can't take— you can't call in favors with Koda. 
+
+KEITH: Oh ok. I thought that just because someone had Koda—
+
+AUSTIN: No. No.
+
+KEITH: Got it. That makes more sense. 
+
+AUSTIN: Yeah. So Cene is who you’re taking splice from? 
+
+KEITH: Cene is who I’m taking— Well, would splice save me money, or would— would cyberware, fixed cyberware save me more money?
+
+AUSTIN: Fixed cyberware would save you more money if you were taking more independent cyberware, but you're only taking one piece, so... take splice. 
+
+KEITH: Ok, so splice reduces the cost of splicing it to what? 
+
+AUSTIN: To zero. 
+
+KEITH: To zero? Oh ok. So this— 
+
+AUSTIN: So you just— 
+
+KEITH: This changes it from 10 to five. 
+
+AUSTIN: It’s also just— Right. It's way more— it's like fictionally more interesting that you've spliced. And, you know, like they didn't— 
+
+KEITH: Right.
+
+AUSTIN: Cene didn't provide you with a thing. Cene spliced  you, did medical stuff. 
+
+KEITH: Right, yeah. And so I'm gonna— so I'm going to take the headjack— 
+
+AUSTIN: Good. 
+
+KEITH: The fake headjack. I'm going to also do— so I have five left. 
+
+AUSTIN: Mhm. 
+
+KEITH: How important is armor for me?
+ 
+AUSTIN: [sighs] It could be— it could be useful, certainly. 
+
+KEITH: If you're saying— if you’re saying “it could be useful,” I'm not taking it. If you're saying “it is the difference between a dead Keith and a not dead Keith,” I'll take it. 
+
+AUSTIN: I mean, this is a weird game, right? So— so yeah. 
+
+KEITH: You’re right. 
+
+AUSTIN: It could mean the difference between a dead Keith and not dead Keith. 
+
+KEITH: Um… ok, then I'm going to take a— 
+
+AUSTIN: That said, again like, it's ok to get hurt. And it's weird. Yeah. 
+
+KEITH: Yeah, I'm gonna take a Barker [pauses] with— 
+
+AUSTIN: Ok. Which is a cool pistol. 
+
+KEITH: Which is a cool pistol. 
+
+AUSTIN: Tags loud and powerful. 
+
+KEITH: Yeah. I'm gonna take a pistol. I mean, I'm going to take a Barker, and I'm going to upgrade it with um… scope. 
+
+AUSTIN: Ok. 
+
+KEITH: And explosive rounds, 
+
+AUSTIN: So that’s another two. So that's four total. Ok 
+
+KEITH: Yeah. And then I'm gonna take a— I'm gonna get a Stinger.
+ 
+AUSTIN: You're also— Don't take two guns. 
+
+KEITH: No? Don't take two guns? 
+
+AUSTIN: Eh. Maybe you have two guns. You can do whatever you want. 
+
+KEITH: My plan was to have the loud Barker and then the Stinger with a silencer. But I'm short one credit. 
+
+AUSTIN: Well, yeah, you're short one credit. 
+
+KEITH: Yeah. 
+
+AUSTIN: Uh, why— 
+
+KEITH: I'm gonna take the— I'm gonna— then I'm gonna take explosive rounds off the Barker— 
+
+AUSTIN: Sure. 
+
+KEITH: —and put a silencer on the Stinger. 
+
+AUSTIN: Ok. See, now you're not a Jedi anymore because you have fuckin’ pistols. [quietly, overlapped] Jedi don’t use pistols.
+
+KEITH: Two pistols. 
+
+AUSTIN: Yeah.
+
+ART: Yeah, he's just the Jedi from every fanfic ever. 
+
+AUSTIN: [laughs] Oh, God, it's just— 
+
+KEITH: Well, like, I could have taken a katana, right?
+
+AUSTIN: Yes.
+
+KEITH: Like that’s the— 
+ 
+AUSTIN: You could’ve— Or again, we can all just invent things. Things just cost equal to their tags unless they’re vehicles, in which case they cost 10 plus their tags. So like— 
+
+KEITH: Right. 
+
+AUSTIN: You could say, “I want a blah,” and then just like, ok it costs however many tags it has. 
+
+KEITH: Oh ok. 
+
+AUSTIN: See what I mean? 
+
+KEITH: Yeah.
+ 
+AUSTIN: I have been using Barker, Duster, Jaguar, and Stinger as the things. I didn't use the ARX-21 as the assault rifle because I don't like that name very much. Instead the assault rifles that characters have in this right now are, is the Lioness. 
+
+KEITH: Mhm. Then… Um... Oh, no, that's too dumb. [pause]
+ 
+AUSTIN: You can't have a lightsaber. 
+
+KEITH: I wasn't gonna have a lightsaber. I was gonna say I wanted— I wanted one pistol with two barrels that I could like... like rotate.
+ 
+AUSTIN: That's not bad. I like ridiculous pistols things. 
+
+ART: Isn’t it— 
+
+AUSTIN: It's from a thing, isn't it? From a thing?
+ 
+KEITH: It's probably from a thing. You know what it's from? It's from a Nerf gun that I've seen. [Austin laughs] Ok, so— 
+
+ART: Better be the same name as that Nerf gun. It better be the—  
+
+KEITH: I don't know. I don't know the name of it. I just know that my friend has it when I— and he keeps it in his— on his couch where I want to sit all the time. Um, all right. So I'm gonna get— I'm gonna get the Barker, and I'm gonna just put a Stinger barrel on the Barker, for the same cost, I guess. Right? ‘Cause it's just like the— the tag is “another barrel.” [silence] Hello?
+ 
+ALI: Hi. 
+
+AUSTIN: Sorry, I was muted, I was muted. 
+
+KEITH: Ok. 
+
+AUSTIN: Yeah, you can totally do that. It's silly. It's great.
+ 
+KEITH: Ok, yeah. And so a Barker with one.. with a scope that switches out between a loud, powerful barrel and a small barrel with a silencer.
+ 
+AUSTIN: Yeah, ok. 
+
+KEITH: Got it.
+ 
+AUSTIN: Great. 
+
+KEITH: It is a very cool gun. 
+
+AUSTIN: Very silly.
+ 
+ART: Ali, should we talk about mechs and what each of our mechs should do? 
+
+ALI: Uh…
+
+ART: ‘Cause we don’t want to get too much mech overlap.
+ 
+KEITH: Yeah, yeah. don't want anything called a “hypercat.” [Ali laughs] You asshole. People better write you angry— 
+ 
+ART: I actually, like, super considered, just like making the mech you would have made. [Austin groans] And then just not calling it anything fun. Like, I could get quod legs and— 
+
+AUSTIN: Right. Yeah, you— 
+
+ART: Beam cannons, and just— and just never mention it. 
+
+KEITH: And to fuck with you, I’d hack it and make it do weird dances. [Austin laughs]
+
+ALI: [laughs] My mech already is a dancer. 
+‘
+AUSTIN: Yeah, that's true. It does dance.
+
+KEITH: Yeah, but that’s— So that means it wouldn't be embarrassing for you.
+ 
+AUSTIN: Right. 
+
+ALI: Um— 
+
+AUSTIN: Just before we move on really quick, so far the only favors we've called in our Orth and Cene, right? 
+
+ALI: Yes? 
+
+KEITH: Yeah.
+
+JACK: Uh, what was the favor for Cene? 
+
+AUSTIN: Cene— 
+
+KEITH: Cene was splice. 
+
+AUSTIN: Spliced for Keith’s character. 
+
+JACK: All right. 
+
+AUSTIN: Ok, next. Ali, Robot, mech.
+
+ALI: Yeah, ok. So… Yeah, I... Could I shark from both Paisley and Jamil? Does anyone mind?
+
+AUSTIN: Oof.
+ 
+KEITH: That's a lot of money that you're gonna owe.
+ 
+AUSTIN: Oh, well, no, no, no. Oh right, it is. Yes, it is a lot of money you're going to owe. That’s true.
+ 
+ALI: Yeah, I— [laughs] I had all these cool ideas for stuff, but they cost dollars.
+
+AUSTIN: They do. Welcome to— [laughs]
+
+KEITH: Yeah, sorry. 
+
+AUSTIN: This is— 
+
+KEITH: I'm just— I'm just a dude with a cool gun. It cost four. 
+
+ALI: My mech alone is 15 creds, which is like a lot. 
+
+ART: That feels really cheap for a mech. 
+
+AUSTIN: It is really cheap.
+
+ART: How did you get it down to 15?
+ 
+ALI: Um… And then I was gonna— 
+
+AUSTIN: Wait, wait, wait. Yeah. What is your— Talk to me about your mech actually, because that is low. 15 feels low to me. 
+
+ALI: Does it? Ok. 
+
+AUSTIN: Yes. 
+
+ALI: Ok. [laughs] 
+
+AUSTIN: So what do you have on it right now?
+ 
+ALI: So what I have on it right now is flexible, cerebral input, beam saber, head vulcans— 
+
+AUSTIN: Actually so wait. Wait one second. I just wanna make sure— 
+
+ART: None of these tags are in the book. Where are we— what are we— 
+
+AUSTIN: Yeah. I've already said we can invent tags.
+
+ART: Ok. 
+
+ALI: Please. 
+
+AUSTIN: So let’s go through these one by one really quick. Say ‘em again?
+ 
+ALI: Flexible. 
+
+AUSTIN: Flexible is cool. We talked about flexible as being like an advanced version of— 
+
+ALI: Articulate.
+
+AUSTIN: —of articulate arms because it's just like, oh yeah, they’ve spent a lot of money so that you can have two things in one— in one— you can just, like, flexible is a little bit better than articulate arms. Like, oh yeah, you're just articulate, like, completely. 
+
+ALI: Right. It just moves better, essentially. 
+
+AUSTIN: [quietly, overlapped] Weird dancer, all right. So, flexible. 
+
+ALI: Cerebral input. 
+
+AUSTIN: I don't think you need... You— Yeah, you need cerebral input on something else. 
+
+ALI: Oh, ok.
+ 
+AUSTIN: You need linked, or you need, like, nerve-linked is what you need on the actual mech. [crosstalk] And then— 
+ 
+ALI: Oh, ‘cause I had a headjack with cerebral input and then nerve-linked. 
+
+AUSTIN: Right. So, yeah that's on— so you just need that headjack and then you need— and then you need— 
+
+ALI: And then— 
+
+AUSTIN: —this to have cerebral, er not cerebral input, it to have derma-linked, or not derma-linked, nerve linked. And then those two things can talk together. Do you know what I mean?
+ 
+ALI: Ok.
+
+AUSTIN: That the way linking works in this. 
+
+ALI: So does the linked tag that it comes with— 
+
+AUSTIN: Just delete that linked tag and just have— 
+
+ALI: Have it be nerve-linked instead?
+
+AUSTIN: Have it be nerve-linked, yeah. Which is really good because that means that Keith actually can't hack it without first hacking into you somehow. Linking is weird and we’ll come to that when it's— we’ll cross that bridge when it comes to it. [Ali laughs] The quick and dirty is that, like, if you have something that's just nerve-linked then no one else can get into it without first getting into your nerves somehow. And if you don't have any, like, bridge between your body and the outside world, if you don't have a weird Wi-Fi link, they can't do that.
+ 
+KEITH: Don't— don't nerve-links also have to be implanted? 
+
+AUSTIN: They do. Yeah. 
+
+KEITH: Ok.
+
+AUSTIN: Yeah. Oh! But the headjack—
+
+ART: [overlapped, quiet] Are we seriously— 
+
+AUSTIN: Headjack would be— is implanted. Has her implant.
+ 
+ALI: So things that are linked already have like a hacking system built into them?
+ 
+AUSTIN: They can be hacked. Yes.
+
+ALI: Ok. 
+
+AUSTIN: Linked means— linked means wi fi. Linked means wi fi. 
+
+ALI: [laughs] Ok. 
+
+AUSTIN: Derma-linked— derma-linked means like your skin, it touches and then— and then it's linked. And then cerebral means like, oh it's— or nerve-linked means it’s like in your— your muscles, you know?
+ 
+ALI: Ok, fair enough. ‘Cause I was gonna have, like a— 
+
+KEITH: Hopefully we don't get into a situation where I need to hack your mech. 
+
+AUSTIN: Right. [Ali laughs] There might be, you know— we’ll figure some stuff out. 
+
+ALI: Because I was gonna have my headjack have the override, like it could hack into things. But is that just like a default?
+ 
+AUSTIN: All things— Yeah. 
+
+ALI: Ok. 
+
+AUSTIN: All things with a link can hack into other things.
+ 
+ALI: Ok, so I don't even have to spend extra dollars on that. 
+
+AUSTIN: Nope. 
+
+ALI: Which is cool. Ok. Anyway, so... 
+
+AUSTIN: All right. 
+
+ALI: Then that’s flexible— 
+
+AUSTIN: So, flexible, nerve-linked. 
+
+ALI: Beam Saber. Yeah.
+
+AUSTIN: Beam saber. That's three. 
+
+ALI: Head vulcans and jetpack.
+ 
+AUSTIN: Ok, you probably— Again, so the things that you need are… you need something to see stuff with.
+ 
+ALI: Well that— [unsure] it comes with that already. Isn’t it that included in the base cost?
+
+AUSTIN: No. No,or like what you— that would just be like, oh there is a window for you to look at. The base cost is 10 and that’s just like a thing you can sit in and move around in. 
+
+ALI: Well, yeah, but you said the base had cam with it and they’re on the kit.
+
+AUSTIN: No. That stuff also costs one. 
+
+ALI: Oh, ok. 
+
+AUSTIN: Do you know what I mean? Like that's the— all tags cost one. The way it works is just like, oh it costs ten for just, like, a big robot you can walk around and that doesn't have— that like presumably has a window you can see out of, and that's it. And then for a camera, it costs one. For a— for an audio kit, it cost one. For— 
+ 
+ALI: Oh Ok. Well, you presented it to me, like, way different yesterday.
+ 
+AUSTIN: Sorry, I apologize if I—
+
+ALI: [laughs] Um— 
+
+AUSTIN: But I meant when I said it already had those things, I meant that like the base— the base thing in the book already had those things, right? Like the base— the base cost has the, whatever like the mid-cost one is had those things in it already you know.
+ 
+ALI: O~k.
+ 
+AUSTIN: Yeah, I said— 
+
+ART: Probably said— 
+
+AUSTIN: Ok. 
+
+ART: Probably some armor, right? Armor?
+ 
+AUSTIN: Yeah. That's the other thing. You should have armor. What I said was, the baseline— 
+
+ALI: [crosstalk] Well, the— Yeah.
+
+AUSTIN: Ok, what I said was, the baseline Rook has armor, articulate arms, cam, linked, and mic. What I meant by that was, all of the Rooks in this world have those things. 
+
+ALI: Ok. 
+
+AUSTIN: All other Rooks have— are fit-cost 15 and are a base thing. And then armor, articulate arms, cam, linked, mic. Do you know what I mean? I didn't mean like, oh for 10 you get that. That's my bad.
+
+ALI: Ok.
+
+AUSTIN: For not being more clear. 
+
+ALI: Ok. Ok. O~k. Um, Art should go in that case. [laughs] 
+
+ART: Ok, but that gives me an idea of what you're— you're going for. 
+AUSTIN: Right.
+ 
+ART: You're— you’re— 
+
+AUSTIN: Mostly close-rangy stuff, it sounds like. 
+
+ART: Sure. 
+
+ART: So, I should— I should go the other way. 
+
+AUSTIN: Yeah, probably.
+ 
+ALI: Yeah, her best move is kicking, and if you get that reference, send me an e-mail. 
+
+KEITH: It's Digimon. [Ali laughs]
+ 
+AUSTIN: [silence] So what's your deal? 
+
+ART: I mean, I’m probably just gonna... 
+
+AUSTIN: [crosstalk] We can totally— yeah.
+ 
+ART: I mean, they don't have one. None of them— none of the ones they— they have— 
+
+AUSTIN: Yeah, that's fine. 
+
+ART: —are what I'm looking for. 
+
+AUSTIN: You can totally just— Again— 
+
+ART: Um…
+
+AUSTIN: Like, if you want to go with the Warsaw D9 and then like, what if instead of a sawblades, it has a burst cannon and a pulse laser, you know what I mean? You can totally just do that if that's a thing— You know? Lke, that's—  
+
+ART: Sure, sure.
+
+AUSTIN: It's a very modular system.
+
+ART: I have to check all this stuff. Like, what are stabilizers, and why do I want them?
+ 
+AUSTIN: You don't have to check those things. The stabilizers would help you— Ok, so here's the way tags work, just in general.
+
+ART: Sure. 
+
+AUSTIN: They work like adjectives, which means any time you narrate something to me that sounds like it would be benefited by one of your tags or adjectives, you just get a bonus to it. So if someone’s shooting at you, and you're like, “oh, I like— I dodge out of the way and like slam my knee into the ground and like, hold still.” Um, I'll go like, “Oh, and you have your stabilizers. That sounds like it could help you. You get a bonus to your defense.” Or if you say like, “Oh, I want to take a long distance shot, but I want to make sure it's, like, really accurate.” That's what stabilisers do. They do what— If there would ever be a close up of them in the show to show that they're helping you— Do you know what I mean? That's how— that's how things work in this game.
+ 
+ART: Sure, sure, sure.
+ 
+KEITH: My gun is a laser gun, right?
+
+AUSTIN: Eh, sure. 
+
+KEITH: Can it have a viridian, uh, laser?
+
+AUSTIN: [amused] God. [Art laughs]
+
+ALI: Yes, please. 
+
+AUSTIN: Keith, yes. 
+
+KEITH: It’ll be very fun to do that. 
+
+AUSTIN: One of them could be viridian, yeah.
+
+ART: Uh, where should we be writing this down? 
+
+KEITH: One of them could be viridian, the other one’s got to be purple then.
+ 
+AUSTIN: Just in your— and other gear, is where I would put it, Art. [amused] Where currently I've written “some gear.”
+ 
+ART: Oh, there it is, yeah So I'm looking at… cam… linked… 
+ 
+AUSTIN: Mhm.
+ 
+ART: I think I’m gonna take armor times three. 
+
+AUSTIN: Ooo, that's a lot of armor.
+ 
+ART: I mean, but a lot of them have three armor. 
+
+AUSTIN: It’s true. 
+
+ART: It’s two or three is what they're doing mostly. 
+
+AUSTIN: Mostly. 
+
+ART: Oh, I guess the little ones don’t. 
+
+AUSTIN: Yeah, only— 
+
+ART: But I’m not a little one.
+
+AUSTIN: Uhhh… Yeah, I would go two. Three is like— 
+
+ART: All right. 
+
+AUSTIN: Three is like the big ones, the ones that have huge— 
+
+JACK: Can we carry three? 
+
+AUSTIN: In fact, we can't. Yeah. Two is, is the cap, if only because... or I guess it’s not ‘cause Ali could only have one. And then he could have three and that would be fine. You can have three. You can have three. I'm not gonna say you can’t have three. 
+
+ALI: [quietly] Wait, what?
+
+ART: Eh, two is probably fine. Who cares.
+ 
+AUSTIN: We’re talking about armor. 
+
+ALI: Oh, ok. 
+
+ART: Do I need to take a large— I can’t— None of these— 
+
+AUSTIN: No, you don't have to.
+
+ART: There’s some who have huge, and the other’s don’t have large.
+ 
+AUSTIN: You don't have to— you don't have to take anything. What that means is— 
+
+ART: All right. 
+
+AUSTIN: —if you— that means, like, if you're attacking something that's large, and its largeness could help it against you, then, like, oh it does. You know? It's all very— 
+
+ART: Sure. 
+
+AUSTIN: You have to think about it, like, very abstractly or analogy, right? Like, oh it's a— it’s a— 
+
+ART: Well they, like, very specifically talk about how huge needs an entire crew to pilot it. 
+
+AUSTIN: Right. Right.
+
+ART: I’m in a Megazord at that point. 
+
+AUSTIN: Yeah. You're not huge. You're definitely not piloting a huge thing, you know?
+ 
+ART: I think, uh— where is it? I want a missile battery. I've always been a fan of missile batteries. 
+
+AUSTIN: These are really cool.
+ 
+KEITH: That's true. Ever since I met Art… [Ali laughs] “Missile battery this, missile battery that.”
+ 
+ALI: [crosstalk] All he talks about. 
+
+AUSTIN: Uh-huh. 
+
+ART: I want a rail cannon. 
+
+AUSTIN: Cool, also cool. 
+
+ART: Yeah. 
+
+AUSTIN: Is this a thing that you had on Apostolos or is this a thing that you got here? Is this one of their mechs… or?
+ [2:15:00]
+ART: I have— I'm struggling with this lore-wise.
+
+AUSTIN: Ok. 
+
+ART: I'm struggling to think of, like, why would they let me leave with it?
+
+AUSTIN: Mhm. 
+
+ART: And who would let me buy this? Both of these are problems. 
+
+AUSTIN: Well, you're not buying it. Again— 
+
+ART: Right. 
+
+AUSTIN: —whoever you pay, you're just— you're paying for their... them letting you leave with it.
+ 
+ART: But yeah, I guess— I guess I left Apostolos with it, and that's why I owe JM. 
+
+AUSTIN: Ok. 
+
+ART: JM got it through the port.
+
+AUSTIN: Through the customs, basically. That's what his job is. 
+
+ART: Yeah. 
+
+AUSTIN: So, that's JM. JM is— 
+
+ART: Like, “Yeah, that big box... that's— that's grain.”
+ 
+AUSTIN: [laughs] Yeah. Very densely packed grain, 
+JACK: What's that thing on the side say, rail gun? Austin?
+
+KEITH: Us aliens have a real good way of packing grain to get a lot in there.
+ 
+AUSTIN: [laughs] Oh, boy. Ok. So how much did that cost you?
+ 
+ART: We're up to 16. 
+
+AUSTIN: OK, so— 
+
+ART: But I feel like it should be more expensive.
+
+AUSTIN: Probably could be. It could be. It could stand to be.
+
+KEITH: God, you guys are spending so much more money than me.
+ 
+AUSTIN: Well, again, it's just— stable is just, like, oh, yeah, you get all that money. Like, whatever. Stable has an upper cap of infinite, is the thing. 
+
+KEITH: Oh. 
+
+AUSTIN: It's just that now you're that in debt because that's how stable works.
+ 
+KEITH: Right. Ok. 
+
+AUSTIN: I should have emphasized earlier that— that people who want mechs should take stable, is what I should have done.
+
+ALI: Yeah.
+ 
+KEITH: If we— No, you said that. I remember that.
+
+AUSTIN: Uh, I— I did say— I did say. I did say that. 
+
+KEITH: I guess it wasn’t emphasized.
+ 
+AUSTIN: I didn't emphasize it enough. 
+
+KEITH: If there's a— if there's a favor left over, maybe I should take a shark for, like, one armor.
+ 
+AUSTIN: [amused] Ok, we'll see. We'll see where we’re at. 
+
+ART: Strong— 
+
+KEITH: You know, this is the last case. 
+
+AUSTIN: Right, I understand. Strong is good. 
+
+ART: Large. 
+
+AUSTIN: Sure. 
+
+ART: And I think that's it. That's 18. That's— that's a—  
+
+AUSTIN: Yeah. 
+
+ART: That feels like a lot. 
+
+AUSTIN: So now you're at 18— you’re 18 debt to JM. 
+
+ART: Yeah. And I do want to— I want to come up with a good name for this. 
+
+AUSTIN: Good. It's not going to happen tonight probably.
+ 
+ART: And won’t get there. 
+
+AUSTIN: Ok. 
+
+ART: Yeah. Do I need— Er, need is a strong word, right?
+
+AUSTIN: Yes. 
+
+ART: But like, I should have a rig control suit, right?
+ 
+AUSTIN: You could have a rig control suit, or let me pitch you something that this other character already has from your— from your, uh, place of the world, which is they have a thing called Regalia... which—  
+
+ART: I like this, I like the sound of it. 
+
+AUSTIN: Yes, it's good. I have to open it up in another file because all of my files are all over the place. Here it is.
+
+KEITH: Been there. 
+
+AUSTIN: The Regalia is... It costs… [thinking noises] Uh… nope, not that character. What is this character's name again? Here we go. Ok. It costs you... one per tag. One, two… One, two, three, four, five, six... Uh, seven. 
+
+ART: Ok. 
+
+AUSTIN: And it is a crown and a gauntlet that are paired together. And it's derma-linked, cerebral input, though that could also be gesture input, I guess, for this character’s cerebral— because, like, crowns, right? 
+
+ART: Yeah. 
+
+AUSTIN: Display, which— so like, it has some sort of way of displaying, like, augmented reality in front of your face. 
+
+ART: Sure. 
+
+AUSTIN: One, two, three, four. Sound, so you can also hear things through it. Firewall and protective shield, which is like part of——
+
+ART: Uh, I’m only in if I could get it in that Caesar-style with, like, the— .
+ 
+AUSTIN: Oh yeah, definitely. [Ali and Jack laugh]
+
+ART: —the leaves.
+
+AUSTIN: Yeah, totally. The olive leaves or whatever that is. 
+
+ART: Yeah. 
+
+AUSTIN: And that protective shield is like the gauntlet that lets you like— it's like the gauntlet from Seventh Sea. [crosstalk] That lets you like, reach out and— 
+ 
+ART: Oh, you just made what I asked for? 
+
+AUSTIN: Yes, I just made—
+
+ART: Thanks. 
+
+AUSTIN: I just made what you asked for. I did it. There's another thing as part of this that you should write down, but that is like— this is a freebie tag, which is… Uh, yeah, you should add this. It's alt— it's alt-language, which just means that like the basic language… people don't know how to hack into your stuff because it's not in space common.
+ 
+ART: And how are we spelling this? Is it— is it— Are you— 
+
+AUSTIN: You can just put A-L-T period hyphen LNG. L-N-G. Like whatever. This is alternate language. I just—
+
+ART: No, no. I mean, is it— is it regalia or is it rig-alia?
+
+AUSTIN: [excited] Oh, it's rig— Aw, man! How did I not think of that? 
+
+JACK: Art’s just the pun boy today. [Ali laughs]
+ 
+AUSTIN: I’m changing it in here to— There we go.
+ 
+ART: I thought it was Austin’s pun. I was making sure— 
+
+AUSTIN: I didn't.
+
+ART: —I wasn't, like, copying it down wrong. 
+
+AUSTIN: I didn't. I did not make that pun. It's a good pun.
+ 
+ART: Uh, you're gonna have to give me those tags again.
+ 
+AUSTIN: Yeah, I guess— I'll just— I'll paste them for you. 
+
+ART: Sure. So that’s seven. I have three left. But that— that did a lot of what— I guess I need a gun. 
+
+AUSTIN: [quietly] Yeah, take your gun. 
+
+ART: What do guns cost?
+
+AUSTIN: I'm just gonna paste it to you right there… and there. I Skype-d you. 
+
+ART: Sure. Uh… [long silence]
+ 
+AUSTIN: Uh huh? Other people can talk, too. 
+
+ART: I don't want to get it— I don't get too much into the— I don't— just don’t want to make Keith’s gun again. 
+
+AUSTIN: [amused] God.
+
+ART: So I think I’m just gonna take the Duster.
+ 
+AUSTIN: Ok, dusters are cool. Everyone loves shotguns. Shotguns are dope. [Ali laughs] Ok.
+ 
+KEITH: It was hard not to pick the duster. 
+
+ART: It’s not super regal to me, but, you know.
+
+AUSTIN: Eh. 
+
+ART: It’s tough times.
+
+AUSTIN: Tough times. 
+
+KEITH: It's— it’s gold, whatever.
+
+JACK: Ok, I've got my shopping list— 
+
+KEITH: Oh, no, it fires a gold laser.
+ 
+AUSTIN: Oh, right. Yes. Ok, what's up? 
+
+JACK: I've got my shopping list again. 
+
+AUSTIN: Ok, let's come back around to you.
+ 
+JACK: So I've decided to downsize. 
+
+AUSTIN: Aw, ok. 
+
+JACK: I'm going to go for a vest.
+
+AUSTIN: [hesitant] Ok. [Keith laughs] Instead of— instead of a spaceship?! 
+
+JACK: I'm keeping the spaceship.
+
+AUSTIN: Ok! I was confused. [Austin and Keith laugh]
+ 
+JACK: I'm gonna go for a standard issue kevlar vest, 
+
+AUSTIN: Ok.
+
+JACK: Because as Chappie has proven, robots wearing kevlar vests— 
+
+AUSTIN: That’s true. 
+
+JACK: —weird look. 
+
+AUSTIN: [amused] Weird look. 
+
+JACK: Super weird look.
+ 
+AUSTIN: I love it, though. I love that look.
+ 
+JACK: Because, I mean, look, just because I don't have blood and a heart— [Austin makes a noise] Oh sorry, go on. 
+
+AUSTIN: No, go ahead. Go ahead. 
+
+JACK: You know, this presumably stuff in there that I don’t want to get shot. 
+
+AUSTIN: [crosstalk] Oh, yeah. That's absolutely true. 
+
+JACK: Then I'm gonna go for a baton. 
+
+AUSTIN: Ok.
+ 
+JACK: Not even— just a— just I guess...carb— What are batons made of in the future? Carbon-fiber?
+ 
+AUSTIN: Carb— yeah, carb— Or fu— I mean, this is so far in the future that we’ve wrapped like— who even knows? Carbon fiber. A thing like carbon fiber, nano-carbon fiber.
+ 
+JACK: And I don't— Obviously this isn’t an implanted baton.
+
+AUSTIN: Right. 
+
+JACK: ‘Cause that's very expensive. 
+
+AUSTIN: Yes. 
+
+JACK: But I think it is just sort of clipped to my chest or my arm. 
+
+AUSTIN: Ok, yeah, I like that. 
+
+JACK: Just through clips that I probably just screwed on? 
+
+AUSTIN: Yeah, yeah. [laughs]
+
+JACK: And then since I definitely will make no concessions, I'm gonna have an implanted shotgun in my arm.
+ 
+AUSTIN: Ok, how are you spending— how are you paying for that? 
+
+JACK: With my money.
+ 
+AUSTIN: Ok. 
+
+JACK: It costs— that costs eight plus one for the baton is nine, plus one for the vest is ten. 
+
+AUSTIN: Ok. 
+
+JACK: So I now have zero money [overlapped] and am in an enormous amount of debt.
+ 
+AUSTIN: You have zero money, and it sounds like— So here's— here's a thing that's interesting. You— based on what you've told me just now, you... one, despite being a weird robot, don't have any way of like seeing the Internet, which is interesting. 
+
+JACK: Yep. 
+
+AUSTIN: And two, that means you have to pilot the ship by hand.
+ 
+JACK: Yeah, so I thought about both of these things—
+
+AUSTIN: Uh-huh.
+
+JACK: —and I agonized over getting a headjack a lot. 
+
+AUSTIN: Uh, yeah sure. Fair. There's a cheap way to do that, by the way. 
+
+JACK: Well I mean I could take out a favor. What was the other way?
+
+AUSTIN: Uh, specs give you everything you need to be on the Internet, which is four. 
+
+JACK: Hm. 
+
+AUSTIN: I guess it's not cheap, but it's cheaper than...
+ 
+JACK: Now you see, here's the thing, right? ‘Cause it’s cool— 
+
+AUSTIN: I love that he doesn't have them.
+ 
+JACK: They. As cool as it is— 
+
+AUSTIN: Sorry, they, yes. 
+
+JACK: —that they... As cool as the idea of like, “Hey, I'm a robot, so now I can commune to the vending machine, and I'm a vending machine now,” as cool as that is— 
+
+AUSTIN: Yes. 
+
+JACK: —the idea of a robot who was like I was 800 robots simultaneously— 
+
+AUSTIN: Yes. 
+
+JACK: —and now I'm one, and I will never be 800 things again— 
+
+AUSTIN: Yes.
+
+JACK: —is amazing to me. 
+
+AUSTIN: Is the best. And like, they're like, “I'm never going— Like, I can never go on the Internet again, because if I do, they'll find me and reinstall me into…” 
+
+JACK: Yeah. 
+
+AUSTIN: Yeah, absolutely. 
+
+JACK: ‘Cause, like, also this is— 
+
+ART: But…
+
+JACK: Go on.
+ 
+ART: But can they just have regular sunglasses? [Austin and Ali laugh] ‘Cause robots wearing sunglasses
+
+JACK: It doesn't have eyes. It doesn’t have a head, a human head. 
+
+AUSTIN: Right. Right! 
+
+ART: I think— 
+
+JACK: It just has a sort of— 
+
+ART: —sunglasses could go anywhere. What are we even talking about? [Ali laughs] 
+
+JACK: [overlapped] Nah, this thing is super alien.
+ 
+AUSTIN: [crosstalk] The sun— Wait, wait, wait, let me pitch it. Let me pitch it. Sunglasses are also just clipped to the— to the chest. [everyone laughs] Like, they’re folded on the vest closed.
+ 
+JACK: Aw, man. [small laugh] I think it's sort of got a, like... I think it could definitely… Nah, then we’re just getting to Lem’s pockets again. 
+
+AUSTIN: Yeah. 
+
+JACK: Um, and in terms of piloting the ship by hand— 
+
+AUSTIN: Mhm.
+
+JACK: —the ship is clearly the first bastion of that. This is something that they love so much that they went into debt for it. 
+
+AUSTIN: Mm. Right. 
+
+JACK: They considered themselves a pilot, and it almost feels like the first test was not going on— 
+
+AUSTIN: Right. 
+
+JACK: —not being connected. 
+
+AUSTIN: [crosstalk] No. I love it. I am— 
+
+JACK: [overlapped] To fly this thing with my hands and feet.
+ 
+AUSTIN: I mean, if that's the case, then it's... oh, you know what? You need linked still to control that drone. You need the ship to have linked so that it can control the drone.
+ 
+JACK: Oh, let's get the ship linked, and I’ll make it 21 debt. 
+
+AUSTIN: Ok 
+
+JACK: But I'm just controlling that drone, I guess, with a slightly smaller joystick? [Ali laughs]
+ 
+AUSTIN: Yeah, yeah, exact— Yeah, absolutely. It’s just, like, to the side. 
+
+KEITH: God, I feel like such a low spender.
+ 
+JACK: I don't think AuDy hates the internet or connectivity. They’re just like, “Well, I did that.”
+ 
+AUSTIN: Mhm. 
+
+JACK: I’ve done that bit. 
+
+AUSTIN: Yep. 
+
+KEITH: “Been there. Oh, Everest? Sorry.” [Austin and Jack laugh]
+ 
+AUSTIN: So again, you've only called in a favor from... 
+
+JACK: Uh, from Orth.
+
+AUSTIN: Orth, ok.
+
+JACK: For my ship. 
+
+AUSTIN: No one's called in two favors yet, correct? 
+
+KEITH: Correct.
+
+ALI: I think I still will. 
+
+AUSTIN: That's fine. That's totally fine. 
+
+ALI: Yeah. 
+
+AUSTIN: Go for it.
+ 
+ALI: Ok. Yeah. I finally— 
+
+AUSTIN: You got it worked out. 
+
+ALI: Yeah.
+
+AUSTIN: We could— Yeah. 
+
+ALI: Yeah. So I'm gonna stark from Jamil and Paisley.
+ 
+AUSTIN: Ok.
+
+ALI: My... my mech costs 18 now. 
+
+AUSTIN: Ok. 
+
+ALI: So it has armor, cam, nerve-linked audio kit, flexible, beam saber, head vulcans, and a jetpack. 
+
+AUSTIN: Awesome. 
+
+ALI: Which is fully rounded. And then she has a… a headjack which has cerebral input and nerve-linked. 
+
+AUSTIN: Perfect.
+ 
+ALI: Ok. 
+
+AUSTIN: Uh… yeah. Ok, you might still need something to— you need display on something. 
+
+ALI: Oh, I— [playful] we are getting to that. 
+
+AUSTIN: Ok, I'm ready. I’m excited.
+ 
+ALI: So that's a cost of three because it has to be installed.
+ 
+AUSTIN: No, it costs... to install is five. 
+
+ALI: [breathes a laugh] Oh. 
+
+AUSTIN: Installs are five, yeah. Again, there's a cheaper way of doing this. 
+
+ALI: Uh, is there?
+ 
+AUSTIN: Yeah. Like, you could just have... so in this— in the objects of Mechnoir, there’s rig control suit which is a total of six, and that's cerebral input, display, exoskeleton, gesture input, linked, and sound. And then you could throw another tag on it, if you wanted something else in there. But that's six total instead of eight total, or whatever it would be. You know?
+ 
+ALI: Yeah, um…
+
+AUSTIN: But it would mean that she could only control… That's the thing. 
+
+ALI: Yeah. No, yeah. 
+
+AUSTIN: No, you're right. She needs a headjack. Yeah. 
+
+ALI: Yeah. 
+
+AUSTIN: ‘Cause she performs. Yeah. 
+
+ALI: Yeah.
+ 
+AUSTIN: You’re right. She definitely needs a headjack. 
+
+ALI: But she's had it for like nine years now. [indiscernible noises under laughter]
+
+AUSTIN: I know, but that’s just how— this is how the— 
+
+ALI: Right, right. No, I know.
+
+AUSTIN: You know. 
+
+ALI: So it's— 
+
+AUSTIN: Again, it’s maintenance cost. 
+
+ALI: Yeah, yeah, yeah. 
+
+AUSTIN: It’s some other abstract— you know.
+ 
+ALI: Aw, I think she has to lose her cyber ear completely. But ok. [laughs]
+
+AUSTIN: Mm, unless you wanted to call in another favor from somebody.
+ 
+ALI: Am I allowed— I thought it was just two... 
+
+AUSTIN: No, the— the characters can be called in twice. 
+
+ALI: Ok.
+
+AUSTIN: But if no one's using the favors, you can totally call in as many as you want.
+ 
+ALI: [sighs] Oh gosh. But um— 
+
+AUSTIN: Let me be clear. Space Beyonce, [Ali and Art laugh] Beyonce Han Solo has definitely called in a number of favors.
+ 
+ALI: Did— Somebody already took splice from Cene though, right? 
+
+AUSTIN: Yeah, but you can do it— 
+
+KEITH: [crosstalk] I did, yeah. 
+
+ALI: [crosstalk] Can we double-down on that?
+
+AUSTIN: [crosstalk] You can totally do that again. You can double-down on that. But then Cene can't give anymore more... things.
+
+ALI: Does anyone mind that?
+ 
+JACK: Um, Cene is— 
+
+ART: I certainly don’t.
+
+ALI: Ok. 
+
+JACK: [overlapped] Cene is AuDy’s robot contact.
+ 
+ALI: And would that only be for one thing?
+ 
+AUSTIN: Slice says... that's a good question. 
+
+JACK: [overlapped] Oh no. 
+
+AUSTIN: Spliced says install a cybernetic object or an object with the implant tag for free. So yeah. It would only be one.
+ 
+ALI: Ok. 
+
+JACK: Sorry I was muted. Um, Cene is AuDY’s robot contact. 
+
+AUSTIN: Yes.
+
+JACK: But I think that that... We could just do stuff narratively there rather mechanically. That should be fine. 
+
+AUSTIN: What do you mean? 
+
+JACK: Well if Cene is the person AuDy goes to for robotic stuff— 
+
+AUSTIN: [crosstalk] Yeah. Yeah.
+
+JACK: —then having Cene’s favors locked out might be a problem in the future.
+ 
+AUSTIN: Oh, once— once you're in the game you can go for them— Literally the first scene of the game, could you be— could be you saying, “Oh, I want to go call in a favor in person.” This is just like— 
+
+JACK: Oh, jeez. Oh ok. I see. 
+
+AUSTIN: Before the game starts, you can call, and they can offer two favors. 
+
+JACK: That's great. Cool.
+
+AUSTIN: Yes. Yes.
+ 
+ALI: Ok, so that means... 
+
+AUSTIN: So yeah, I would splice in the headjack.
+
+ALI: Ok. So that's 18 and then two. Um… 
+ 
+AUSTIN: So now you just have 12 left, right? Because you— you sharked twice. 
+
+ALI: Oh, shark gets you— 
+
+AUSTIN: 10.
+ 
+ALI: —10.  
+
+AUSTIN: Yeah.
+
+ALI: Ok, so I would have 30 altogether? 
+
+AUSTIN: Yep, mhm. 
+
+ALI: So I have 10 left. 
+
+AUSTIN: Ok. 
+
+ALI: Or— yeah. 
+
+ALI: Yeah, 10 left.
+ 
+KEITH: Jeez, giant robots are expensive as shit. [Ali gasps]
+ 
+AUSTIN: Dog, yeah. I also really do like the notion of like... sharking means that you can diversify what your— where your debt is, but it also means that you're kind of weaving a web broader. And that means that like, oh, people— more people can be hurt by the stuff that you get into, you know? 
+
+KEITH: Mhm. 
+
+AUSTIN: It's really interesting to me.
+ 
+ALI: Ok, then she has a holo-bracelet. 
+
+AUSTIN: Ok, sure. 
+
+ALI: Which is pretty much the same as specs, but it has a hologram display instead of being— 
+
+AUSTIN: Yeah. Good.
+
+ALI: —on eyes. 
+
+AUSTIN: Sure. 
+
+ALI: And that's linked, hologram, interface, and it has a speaker.
+ 
+AUSTIN: Ok. 
+
+ALI: And then— 
+
+AUSTIN: Is that— how thick is that bracelet? Like, what's it look like on your wrist? 
+
+ALI: [laughs] When was — 
+
+AUSTIN: Is it like a bangle? Or is it like this is a— 
+[2:30:00]
+ALI: It’s a ba— [overlapped] When was the last— 
+
+AUSTIN: This is what your tweet about bracelets was about last night. 
+
+ALI: When was the last time you watched Honkey Tonk Women? 
+
+AUSTIN: Ok. No, yeah. 
+
+ALI: Yeah. It's just like a bangle. 
+
+AUSTIN: Ok, Cowboy Bebop is another obvious influence here.
+ 
+ALI: Yeah. 
+
+AUSTIN: I didn't namedrop that before, but like Cowboy Bebop, especially... especially like the more film noir-y episodes of that show.
+ 
+ALI: Yeah. So that's 23. 
+
+AUSTIN: Yeah. 
+
+ALI: And then a stinger would be one. 
+
+AUSTIN: One, yeah. 
+
+ALI: So that's 24. Uh, but I have enough to get my cyber ear installed. So that’s fine.
+ 
+AUSTIN: Mako Trig is a great name, Keith. 
+
+KEITH: Thank you. 
+
+AUSTIN: Only one name left, Art. 
+
+ART: I'm working on it.
+ 
+AUSTIN: Uh-huh.
+
+KEITH: Oh, I also have—
+
+ART: Greek aquatic stuff is a weird thing— 
+
+AUSTIN: It is. Do you want me to— 
+
+ART: —that I don't understand linguistically. 
+
+AUSTIN: Do you want me to tell you? So I've named... The other— the other Greek— the other Apostolosian mech that I've designed is called the Hoplite. So it's just straight up named for... for Greek military units.
+
+ART: Mm. 
+
+AUSTIN: I learned. Yeah. Yeah. Because— 
+ 
+KEITH: Dan hoplite. 
+
+AUSTIN: Dan Hoplite. Yes.
+ 
+KEITH: I also think that I have a name for the— for the biotech stuff. 
+
+AUSTIN: What is it? 
+
+KEITH: I'm going to say that I am a Stratus, and the— 
+
+AUSTIN: Oo. 
+
+KEITH: And the thing that happens to robots when Strati take them over is called Fog.
+ 
+AUSTIN: Love it. 
+
+JACK: Cool. Sounds good. 
+
+AUSTIN: Love it.
+ 
+JACK: Sounds like it's from like a 2004 to 2008 first person shooter that is way better than you expected it to be. [Austin and Keith laugh]
+ 
+AUSTIN: Yeah, I got that— 
+
+KEITH: Are you talk— Oh, so you're talking about, uh, Singularity?
+ 
+AUSTIN: Yes. 
+
+KEITH: Wait, yeah. 
+
+AUSTIN: Talking about Singularity. 
+
+JACK: Singularity, yeah. That’s exactly— [breathes a laugh]
+ 
+AUSTIN: That is the one that we’re all—  Yes. Ok. [pause] All right, how's— how’s— where are we at? It sounds like we're almost there.
+
+JACK: Like all shopping trips.
+
+ART: I changed my gun to a barker because I just couldn’t get over it 
+
+AUSTIN: Get over what? 
+
+KEITH: How cool the barker is.
+ 
+ART: [overlapped, quiet] Dunna, just didn’t feel right. 
+
+AUSTIN: Oh, ok. I gotcha. 
+
+KEITH: It's fine. Our things look different. 
+
+AUSTIN: That's fair. 
+
+ART: I almost put a scope on it, a laser sight on just to differentiate it. [overlapped] But that’s just throwing money away.
+
+KEITH: No, mine’s got a scope. 
+
+AUSTIN: It could also be a different gun that's just the same things, you know? It’s fine.
+
+KEITH: Yeah. 
+
+ART: Yeah. I've thought about custom making a custom gun, but— but there's not a lot of gun words. Like, I don't know a lot of, like, words to describe guns. 
+
+JACK: Bang. [Keith laughs]
+
+AUSTIN: [amused] Bang. Yeah, it's called a bang. 
+
+JACK: Well, Ali— Ali and I categorize guns differently in Destiny.
+
+ART: No, I mean, like for tags.
+
+AUSTIN: Oh. There's all sorts of things; burst fire and, you know, messy. There's that whole list of them. 
+
+ART: None of these are things I want. I want— I want a more— more— 
+
+AUSTIN: You like a more elegant weapon.
+
+ART: —dignified experience, yeah.
+
+AUSTIN: Ok. 
+
+JACK: Precise? 
+
+AUSTIN: [overlapped] Yeah, precise is good. 
+
+ART: A more elegant weapon for a more civilized time. 
+
+AUSTIN: Precise— 
+
+KEITH: You can implant a crossbow.
+
+AUSTIN: [laughs] Don’t do that. 
+
+JACK: Gyro-balanced. 
+
+KEITH: A laser crossbow. A bow caster. Get a bow caster. 
+
+JACK: Oh my god. 
+
+AUSTIN: [amused] Don’t get a bow caster.
+ 
+AUSTIN: That's a real thing, Jack, if you— in case you— 
+
+JACK: No, I know. No, that was just we keep finding our way back to Star Wars.
+
+AUSTIN: Ok. Yeah.
+ 
+KEITH: They covered a lot of ground over the years. 
+
+JACK: [overlapped] Oh, no shit.
+
+AUSTIN: It’s almost as if you don’t remember that time during the world generation where we were like— where someone was like— [laughs] was like, “Let's not do Star Wars.” [Ali laughs]
+ 
+KEITH: That was me. I said that. 
+
+AUSTIN: Ok, I wasn't sure who was. 
+
+KEITH: Yeah. Or it's that I'm trying not to do Star Wars, and I don't think I have. 
+
+AUSTIN: Yes, that’s a big difference. That's a substantial difference. You're not wrong.
+ 
+ALI: With my extra money, I'm adding a mic to my bracelet instead of having it in my ear. 
+
+AUSTIN: Oh, good. I like that, yeah.
+ 
+KEITH: Racoons. Sorry, I saw a picture of raccoons. [Ali laughs]
+
+AUSTIN: That's fair. [Keith laughs]
+
+ALI: I should add tags to my gun. 
+
+AUSTIN: Uh huh. 
+
+ALI: Uh, I can't even imagine her fighting. So I think that she only has it for protection. Or at least... any combat she would do— 
+
+KEITH: [crosstalk] You mean fighting outside of a big robot?
+ 
+ALI: Well any combat that she would do still would be like hand to hand. 
+
+AUSTIN: Oh, ok. So she's like a punching— 
+
+ALI: Yeah. I mean, ‘cause, like, going from a fighter— 
+
+KEITH: [amused] One of the punch— 
+
+ALI: —to someone who can punch someone—  or a dancer to someone who punches is pretty easy. 
+
+AUSTIN: Makes more sense. Yeah. 
+
+ALI: But like she's still needs, like, a thing—  
+
+AUSTIN: Yeah, what if she could— 
+
+ALI: —just in case. 
+
+AUSTIN: She could— yeah, yeah. You know guns can be— So like, the loud tag on barker would definitely give you a bonus if you were intimidating someone right? 
+
+ALI: Fair enough.
+ 
+AUSTIN: These are— these are the reasons I like this system a bunch, is ‘cause once we— once we get into play, the things that we thought were really simple and mechanical end up opening up to being— like being interesting things. 
+
+JACK: Yeah.
+ 
+ALI: Yeah, in that case, I'm gonna go for a barker instead of a stinger. 
+
+AUSTIN: Ok. 
+
+ALI: Just ‘cause, yeah, her gun has a different— it's not just offense. It has sort of a different... necessity. 
+
+AUSTIN: Ok. I think we're done?
+ 
+KEITH: Um.
+
+AUSTIN: Unless people have more money to spend or more... 
+
+KEITH: There's— I can call in a shark favor.
+ 
+AUSTIN: Yeah, you could. 
+
+KEITH: From Paisley. 
+
+AUSTIN: You totally could do that. I will remind you Paisley has been called in once. 
+
+KEITH: Right. 
+
+AUSTIN: Which means the second time you call— you call him in, he will then become tied to the plot.
+ 
+KEITH: I'm going to— yeah, I'm gonna call on Paisley for shark. 
+
+AUSTIN: Ok. 
+
+KEITH: And I'm going to use that to get… a knife. 
+
+AUSTIN: Ok. 
+
+KEITH: And… [crosstalk] is there a functional difference?
+
+AUSTIN: [crosstalk] Like, a cooler knife? I just a— Is there a functional difference between?
+
+KEITH: Between jumpsuit and kevlar vest?
+ 
+AUSTIN: Yeah, one has impact armor; one his ballistic armor. Impact armor would prevent you from, like, being punched. Ballistic armor prevents you from being shot.
+ 
+KEITH: Ok, I'm gonna get a kevlar vest. 
+
+AUSTIN: Mhm. 
+
+KEITH: And then on the kni— Let me just scroll through. I don't think I need anything on the knife. I think the knife is just a straight up knife.
+
+AUSTIN: Ok. 
+
+KEITH: But let me see if I can— if there's any interesting tags there.
+ 
+AUSTIN: Again, if there aren't, if you think of one, let’s go for it.
+ 
+KEITH: All right. Um... burst fire. [Jack laughs, Austin sighs] Oh, you know what? I'm gonna do um… armor piercing. 
+
+AUSTIN: Ok. Yeah, that's fair.
+ 
+JACK: A burst fire knife would absolutely be something from Mad Max. [Austin and Ali laugh]
+ 
+AUSTIN: Ok. 
+
+KEITH: Yeah, I'm going to go armor piercing on my knife.
+
+AUSTIN: Ok.
+ 
+KEITH: And I used— that’s— I only used one, two, three, four— I used four of the 10.
+ 
+AUSTIN: Awesome. So you're pocketing the remaining?
+ 
+KEITH: Can I give it back? 
+
+AUSTIN: Sure, I think? I think you can. 
+
+KEITH: Yeah, so I'll just owe— I'm in the hole for four from Paisley. 
+
+AUSTIN: Ok. I think we're done. It sounds like it?
+
+JACK: Yeah, I think we’re done. Yeah.
+
+ALI: Yeah. 
+
+ART: Yeah. 
+
+AUSTIN: Ok, um… 
+
+KEITH: Are we about to play the game? 
+
+AUSTIN: No, I don't think— I think it's super late for Jack, right? 
+
+JACK: It's uh, it's about quarter to three. 
+
+AUSTIN: And you're exhausted, I'm guessing?
+ 
+JACK: I mean, I— [sighs] I could play, but I'm traveling tomorrow. 
+
+AUSTIN: Oo, ok. 
+
+JACK: So I— 
+
+AUSTIN: I don't want to put like— if we wanted to keep playing, I would gladly take another break and be like, let's do a couple intro scenes. I'm gonna give you something before we end anyway.
+ 
+JACK: How long do you think we'd run for, if we played?
+
+AUSTIN: How long do you have? How long could you— could you really go? 
+
+JACK: I could maybe go... 45 minutes. 
+
+AUSTIN: I could do 45 minutes. We could get like a couple— 
+
+ART: I don't think— 
+
+AUSTIN: —rolls in. 
+
+ART: I don't think I could go. 
+
+AUSTIN: Ok, that's fair. You just got off from— 
+
+JACK: That’s cool. 
+
+ART: I had an awful long trip, and I’m exhausted.
+
+AUSTIN: Yeah, true.
+ 
+JACK: No, that’s fair.
+
+AUSTIN: That is totally fair.
+ 
+KEITH: Eh, no it's fine. It's just— Art’s ruining the party, is all.
+ 
+AUSTIN: Jesus Christ. [Keith laughs]
+
+ALI: Oh my God.
+
+AUSTIN: You're the worst person. 
+
+KEITH: Art, no, it’s fine. We’ve been playing for three hours.
+ 
+ALI: Eww. 
+
+JACK: Right, cool. 
+
+AUSTIN: All right. So let me give you… let me give you a little scene. [laughs] I shouldn't have named this character Cene. Goddammit. Uh, also Art— 
+
+JACK: He’s a tiny hologram Cene. 
+
+AUSTIN: Also, Art needs a— needs a character name still.
+ 
+ART: And I'm ankle deep, er knee deep in Atlantisian lore right now. 
+
+AUSTIN: [laughing] Yeah, higher than ankles. Higher than ankles, for sure. 
+
+ART: Well, I’m only on, like, my second Wikipedia page. I mean, how— 
+
+AUSTIN: Right. 
+
+ART: How deep is that really? 
+
+AUSTIN: That’s not that deep. Ok, so who called in Cene?
+
+ART: But I'm already looking into all of Atlas's siblings. 
+
+AUSTIN: Oh boy. 
+
+ART: Atlas was apparently born in Atlantis.
+ 
+AUSTIN: Huh. 
+
+ART: And then the daughter of an Atlantian lord. 
+
+AUSTIN: Right. So Aria, you...
+ 
+ALI: I spliced from Cene.
+
+AUSTIN: You spliced. And… somebody else did something with Cene.
+ 
+JACK: Um...
+
+KEITH: Oh, I— I also spliced. 
+
+AUSTIN: Double spliced. Ok. 
+
+KEITH: Double spliced, yeah.
+
+AUSTIN: So… Ok. Here's what happens. This is— this is where we’ll leave it off. You're in the Kingdom Come— What's the Kingdom Come look like?
+
+JACK: It is— 
+
+AUSTIN: Intern— like, inside.
+
+JACK: Aw man, it's um.. Oh I know what it looks like.
+ 
+AUSTIN: Oh, take another point and give it— like, take another debt, point of debt. 
+
+JACK: Oh, thanks. [Keith laughs]
+
+AUSTIN: Uh, and give it something like— like living quarters or like, living area. 
+
+JACK: Oh sure, yeah. 
+
+AUSTIN: ‘Cause, like, you guys seem to live there and like— 
+
+JACK: Mhm. 
+
+AUSTIN: By default, most— most military transports don't come with like, a kitchen or like, sleeping quarters. But like, I'll just give you... just like, it's a place where you live for one.
+
+JACK: Sure. 
+
+AUSTIN: Because if a missile launcher costs one, so does a kitchen plus a bed, you know? 
+
+KEITH: Mhm. 
+
+JACK: Sure. Besides, they only need three beds?
+
+AUSTIN: Right, right.
+ 
+KEITH: You know what else costs one? My pistol.
+ 
+AUSTIN: [laughs] Yeah, abstract— abstract wealth systems are weird in games.
+ 
+KEITH: Yeah  
+
+AUSTIN: But they're cool. I like them a lot. I like this— Again, this was—  this was kind of a hassle probably. But like, in the future, when it's like, oh you got— you have five extra bucks, you want to spend it on the thing? Like, okay cool. Let’s build a cool thing that's worth five tags. Anyway. 
+
+JACK: Mm. 
+
+AUSTIN: So what's it look like inside?
+ 
+JACK: Ok, so I'm super aware that we are really lucky to have listeners who can draw really cool things. 
+
+AUSTIN: Mm, mhm.
+
+JACK: So from a basic perspective, I don't want to do too much detail, but I'm thinking a little bit like the.... the shuttle in Hell Divers. In that it's quite chunky and gray and probably lands quite heavily.
+ 
+AUSTIN: Yeah, it's bigger than that though, obviously, ‘cause it holds robots, but— 
+
+JACK: Well, yeah totally. It can take off and land vertically, and also on runways, if it needs to. 
+
+AUSTIN: Ok. 
+
+JACK: But I don't know really why if you can take off and land vertically you need runways.
+ 
+AUSTIN: [amused] That's true. 
+
+JACK: [laughs] Um. [crosstalk] Maybe this some— 
+
+AUSTIN: [crosstalk] Maybe like, you don't want to— Yeah. Who knows. 
+
+JACK: Maybe there’s specific launching mechanisms. 
+
+ART: I think it's still more dangerous, right? Like, even when they've perfected it, it's still like... 
+
+AUSTIN: Mhm. 
+
+JACK: Yeah, probably. 
+
+AUSTIN: Yeah. 
+
+ART: I guess perfected is too far. 
+
+AUSTIN: Right.
+ 
+JACK: I think that it's got like a ramp, an underbelly ramp that opens up that people can go in and out. Almost like, um, Serenity's. 
+
+AUSTIN: Yeah. Yeah. 
+
+JACK: I think inside, it's probably quite cramped. I'm thinking almost like a submarine. 
+
+AUSTIN: Ok. 
+
+JACK: Except I assume people have decorated their own quarters, probably? 
+
+AUSTIN: Yeah. 
+
+JACK: And in terms of the cockpits, I think it's super sci-fi and technological and cool screens and readouts and joysticks and buttons and levers and pedals. 
+
+AUSTIN: [breathes a laugh] Ok. 
+
+JACK: Except no... I guess there is like a— like a jack that you could plug yourself into, except it just doesn't work.
+ 
+AUSTIN: Ok.
+ 
+JACK: And it's got the Kingdom Come painted on the side of it in enormous letters. I don't know why. I guess it was an advertising awning or somebody graffitied it.
+ 
+AUSTIN: [laughs] Yeah, did you name it the Kingdom Come?
+ 
+JACK: No, somebody graffitied it. 
+
+AUSTIN: Ok.
+
+JACK: I bought it. I parked it.
+ 
+AUSTIN: Where did— Ok, I see. 
+
+JACK: And somebody graffitied it.
+
+AUSTIN: So Mako, AuDy and Aria are hanging out in, like, one of the kind of like, lounge area, which I guess it has. And you are... I think you're on, like, a Skype call basically with Cene. And Cene is at the grand opening of a new place, a new dome that's called the Blue Sky Dome And it's the first time ever that the Diaspora, the Autonomous Diaspora and the People's... 
+
+JACK: OriCon. 
+
+AUSTIN: OriCon. [mumbles] I wanna know what the full— uh, the People's Conglomerate of Orion have ever like pitched in and worked on something together. It was the first time that scientists from both sides and engineers from both sides worked together to… to build something. And rumor is, even some scientists who— who were inhabitants on Counterweight well before the people of the Diaspora voted for it to be renamed Counterweight because they're weirdos, even some Native engineers have worked on this thing. 
+
+And it is instead of the kind of like, shimmering gold and bronze shield that protects all of the other domes, it is a simulated sky. It is a simulated sky like they used to have back on Earth. Like the one that exists on Weight, the planet that is above. And it is completely climate controlled. And it's, like, being kind of unveiled in the next week. Cene is there because Cene has pulled some strings to kind of get like a preview. It's like a preview event. Like a— like, oh, we're all gonna, like, let the VIPs go in and check it out. And Cene has managed to pull the right strings to get in there. 
+
+For all you know, Cene worked on it actually, right? Like, Cene is smart enough to be the sort of person who— who could be involved in that, even though they’re a roboticist. I've already forgotten Cene’s gender. Did we ever gender Cene?
+ 
+JACK: I don't think so. 
+
+ALI: I don’t believe so.
+
+AUSTIN: Ok. Let's say— let's say Cene is just— is actually genderqueer, just androgynousandrogenous and they. 
+
+JACK: Cool.
+
+AUSTIN: It's the future— the sort of future— it's the future we want it to be, and in the future that we want it— one of the things, despite it being a dystopia, is gender has been completely blown apart. And there are still people who identify as male and female, but also there are people who don't. And like, that's ok. It's totally ok. There are people who identify as genders that we don't have names for yet because it's thousands of years in the future. And we have that power as creators. It's pretty nice. 
+[2:45:00]
+AUSTIN (cont.): So Cene is on this, like, Skype call with you guys and is kind of showing you what the sky looks like and... is kind of bubbling a little bit. Like, for the last 10 minutes, they've been going over all of the features of the dome bit by— like, 
+
+AUSTIN (as Cene Sixheart): Oh, the clouds are simulated in this exact way that's like perfect. And the— there are— there aren't birds, but they're the sound of birds. And the sound of birds— 
+
+AUSTIN (cont.): And it's like it's— their normal, like attention to detail comes alongside this just, like, really endearing and attractive, like, excitement about this place. And putting aside everything else, the one thing that you notice is that when Cene lifts the camera up so that you can see... It’s probably like a little drone, is actually what it is. Cene is a drone master, and so there's like a drone flying around them, and they direct it to face upwards. You see that for the first time ever, or at least since the war, you can't see Weight through the sky. The blue sky blocks out the other planet from the horizon. 
+
+[Jack de Quidt’s “The Long Way Around” begins playing]
+ 
+AUSTIN (cont.): And that's like, the first thing you notice. The second thing you notice is how the dome shatters. And the cold comes rushing. As a group of rigs fly in and begin laying waste to the place. There are like six or seven of them. It's hard to tell. Cene’s drone tries to like— does like a bunch of, like, automatic, like, algorithmic plans to keep things in frame. But like, they can't seem to... it’s just everything’s happening really fast. And Cene screams and runs, and the drone explodes. We’ll find out more the next time we play.
+
+[Music continues to play until the end]
+

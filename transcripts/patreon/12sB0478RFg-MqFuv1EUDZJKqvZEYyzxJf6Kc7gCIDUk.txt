@@ -1,0 +1,1414 @@
+Bluff City 07: The Eighty Six Pt. 1
+Transcriber: Ry (@gotnosenseatall) [start - 35:00], thedreadbiter [35:00 - end]
+PCs each have two names, an Actor Name and a Character Name:
+Sylvia: Eddy Chankul (actor) = Max Lam.
+Dre: Dione Gabreau (actor) = Janis Stone.
+Janine: Mason Lowry (actor) = Sebastian Young.
+— 
+[0:00:00] 
+[Intro: ‘The Eighty Six’ by Jack de Quidt plays]
+Austin (as Jeff Moran): Helloooo Bluff City! It’s your main man with the frying pan, Jeff “The Chef” Moran, and I have cooked up for you another spicy Saturday night shlockfest, right here on Bluff City TV! It’s called The Eighty Six, and I’m telling you right now, do not sleep on this picture! It’s got Blake Blossom, that’s right, Blake Blossom from the TV! From the show with the alien baseball players! It’s got Eddie Chankul, straight from Thailand, the hottest name in martial arts today! It’s got Mason “The Face-in” Lowry! Ooh… I’m gettin’ a little warm just thinking about it! And oh! One more! It’s got Bluff City’s own, arms big as the ocean waves, muscles strong as roller coaster metal, the toughest dame to ever wear the name, Dionne Gabreau! Which reminds me, uh, Dionne, if you ever wanna, uh, take a break from the movies, squared circle would love to have you. Come on in, love to call you a match, help you out with a finishing move or two! Ha ha! I’m kidding, I’m kidding, no self-promotion, the, uh, the producers have told me that a number of times!
+In any case, The Eighty Six! This Saturday, on Bluff City TV! It’s got everything you need: corrupt cops! Crooked cops! Undercover cops! And a whole lot of soul, brother! Hoo! Gunfights and muscle busters, real estate conspiracies, and a smooth-talking white boy to boot. Oh, and did I mention? It’s based on a true story, too. Clarence B. Grimes, you hearda him? Of course you have. It’s a recipe for a blessed-ly good night! And you can trust that, or my name ain’t Jeff “The Chef” Moran! So tune in and turn on and order yourself a pizza pie, cause you are not gonna want to leave your couch! Play me out, boys! I gotta dance!
+[‘The Eighty Six’ ends]
+— 
+Austin: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am your host, Austin Walker, and today we are going to be playing Action Movie World, which is a game by Ian Williams. It’s a hack of, uh, it’s a Powered by the Apocalypse game, I guess calling it a hack is probably a little bit less than what it is. Uh, I guess disclosure, Ian Williams and I are good friends, and he’s written for me over at Waypoint and before that at Giant Bomb. We’ve written together for Paste, um, so this is exciting for me, as like, “Ah, I’m gonna play my friend’s game!” But also as always, wanted to disclose whenever there’s any sort of personal relationship with- with the people who, uh, whose games we play. Joining me today, Janine Hawkins.
+Janine: Hey, I’m Janine Hawkins. You can find me at bleatingheart on Twitter.
+Austin: Andrew Lee Swan.
+Dre: Hey, you can find me on Twitter at swandre3000.
+Austin: And Sylvia Clare.
+Sylvia: Hey, I’m Sylvia, you can find me on Twitter at captaintrash, and I also do stuff over at videogamechoochoo.com.
+Austin: Um, as always you can follow the show on Twitter at friends_table, you can follow us on Patreon on, support us, uh, at friendsatthetable.cash, and if you’re hearing this, you probably already are doing that, and if so, thank you so much! I’m gonna sneeze, one second [laughs a bit]. Wait…
+Janine: It’s a thank you sneeze!
+[Austin sneezes loudly]
+Austin: Thank you!
+Sylvia: Damn, that’s a premium sneeze.
+[Austin sneezes again, Dre laughs]
+Austin: That’s two sneezes!
+Janine: You paid for those sneezes!
+Austin: Thank you, thank you for paying for me to sneeze. 
+Janine: Platinum. [Austin laughs]
+Austin: My, uh- [laughs] platinum sneezes, thank you. [Janine laughs] Uh, I should open the book that we’re, we’re running. Action Movie World, which, I just realized I may not have downloaded onto this computer yet, so give me… three seconds!
+Sylvia [crosstalk]: That’s ok, I’ve got three Google Drive tabs open.
+Dre [crosstalk]: That’s cool, I’m gonna see… how much platinumsneezes.com is on the… domain.
+Austin [crosstalk]: Oh, don’t- [inaudible?]
+Janine [crosstalk]: No that’s gonna be like- that’s gonna be like a thing.
+Sylvia [crosstalk]: Oh jesus. That’s-
+Austin [crosstalk]: That’s a- that’s a thing, we know what that is.
+Sylvia [crosstalk]: Yeah that’s a fuckin’ clipsforsale website, dude.
+[Janine and Austin laugh]
+Dre: Ohhh. Huh.
+Austin: Ok. Action Movie World. Uh, Powered by the Apocalypse, I said that bit. I was looking for my agenda, which I’ve written down my agend- my agenda in another document, but what I didn’t have is the kind of, write, write-up of what those are. So my agenda today is, “Subgenre first.” Which is to say that, inside of the- the broad genre of action movies, we’re zeroing in on one subgenre, the one we’re- we’re zeroing in on is the cop movie. But, uh, and this is my second agenda point, “They are all action movies.” Don’t get away from the action movie feel. We’re not doing a Bergman movie, we’re not doing a, yknow, a, uh, we’re not doing Twilight Mirage. We’re doing an action movie. It should be hammy, it should be cheesy, it should be both hammy and cheesy. [chuckles, Janine chuckles a bit] 
+Um, and “Play to find out what happens, but make it seem like it was a scripted movie afterwards.” By which they mean- or Ian means, don’t, yknow, don’t come in with a set plot, play to find out what happens as always, but it’s important to remember that we are, and we’ll get into this more in a little bit but, the way Action Movie World works is we are technically shooting a movie, and movies do have scripts, and so we should remember to be a little bit plausible. Imagine that like, there is an audience at all times watching this movie. Um, and then they would be like, “That doesn’t make any fucking sense.” And sometimes that’s totally ok. 
+Um, because it’s a new game, I’m also going to go over my principes, and in some ways these are our principles, because you will also be doing a lot of this. “Be over the top in your descriptions. Kill everyone, and don’t hold back, unless it’s the lead actor or the villain.” So like, I- content warning up top, I don’t think we’re gonna get gross or gory, but there’s going to be a lot of character death in this game, in a way that we don’t traditionally do, because it’s a- it’s an action movie, and Action Movie World is kind of all about leaning into the tropes of action movies. Um, so unlike something like Hieron where every character is named and every, yknow like, every random- those three guys in the tower at the beginning of, of Hieron all had names, and like, I was ready to give them backstories. This is not the case. There will be nameless goons who, they get into fights with. “Be aggressive with your scene framing,” which is to say, move fast, don’t linger. Again, action movies cut quickly from scene to scene, and also um, things ratchet up in, in intensity very quickly. Um, “Fill every speech and character with melodrama, AKA be unsubtle.” We are in the middle of maybe the most subtle, uh [laughs] season we’ve ever done in… uh, Twilight Mirage? Lots of quiet moments, and lots of like, what is this character really thinking, and like, what’s being said by being unsaid. That is not this. This is, this is like, say how much you love someone with the word love, and with a kiss. Like, uh… you know, shout from the rooftops how, how much you hate this person and how you’re gonna get, get revenge. This is what action movies do. 
+Um, one- related, “One liners are always better than speeches,” except for the occasional villain who is going to- to reveal their whole plan. Physicality is the ultimate expression of emotion, from hugs, to handshakes, to back pats, to, to love scenes, action movies speak in physicality. “Be an honest fan of the characters. Reinforce the main themes of action movies,” um, which, in- depends on the subgenre a lot. But for us, it is, it is very much about like, taking direct action, and, uh, kind of, being kind of anti-establishment, and like, the power of friendship, and etcetera. “Reinforce the setting of our chosen script.” Thankfully we’re playing in Bluff City, which means we know what the, the setting is pretty, pretty closely. “Things are only important if they involve the PCs.” So this is- there’s no faction turn in this game. Um- [laughs a bit] “Sometime, uh sometime disclaim decision making.” So there’s gonna be a lot of me going like, “Uh, I don’t know what I want to do here, what do you think?” “Tell them the consequences and then ask,” and then finally, “Fast is better than accurate when it comes to assumptions.” Keep the game moving, we don’t need to like, ask how many bullets are in the gun. We don’t need to, uh, what’s it, what’s it feel like for the movie. 
+So, I’ll kind of introduce the game in a broader sense at this point. Um, Action Movie World again is a game by Ian Williams, and it is- it comes from Ian’s love both, both deep and emotional and also kind of, academic, of action movies. The, especially the sorts you would find [clears throat] in like a two-for-one package at the grocery store checkout, yknow, near the grocery store checkout in the mid 90s. The things that went straight to VHS, and star kind of, a lot of modern B-movie actors, and would eventually end up on an MS3TK, or a RiffTrax or something. Um, it is, uh, a game in which we play as, or you all play as, um, [clears throat] also yes yes, Sylvia Clare says, “A lot of Jean Claude van Damme.” Absolutely. A lot of Jean Claude van Damme. [Sylvia whispers faintly, “I love Jean Claude van Damme.”] A lot of- I mean, the, the playbooks all literally shout out specific actors and actresses. Uh, and so it’s, it’s an entire, yknow. [laughs a bit] If you grew up like us with a lot of, a lot of love of ni- 80s and 90s cinema [chuckles], and then also a lot of love for what is the opposite of cinema [chuckles, Sylvia laughs], then you would, you’ll, you’ll find a lot of touchstones here. 
+The- there’s kind of a, a big difference between this and a number of other games, especially other, or even other Powered by the Apocalypse games. Which is that, instead of playing a character, you’re playing, um, an actor. You’re playing the, the person who will go on to play in other movies. Um, and so, we are only gonna play one movie here, we are gonna play a movie that’s in the cop subgenre, but theoretically if we ever wanted to come back to this game, you could pick up this character who’s been levelled up from this first, from this first sequence. Um, and, and carry on their tradition, and so, you’re basically playing an actor who’s then playing a character. That said, um, and this is just from the book, “It’s important to understand that while you are playing an actor playing a character, the events within the movie are real in the sense that the fiction of the movie takes precedence over the real-world concerns of the movie business. If the group is playing a barbarian movie, nobody should break character to represent their actors arguing with the director over lighting or contracts. That session is about being barbarians, every bit as much as a game of Dungeons and Dragons is about pals going dungeon delving. The Hollywood stuff is more subtext than text once a game starts, becoming more apparent as the actors’ careers progress, but never becoming the primary mode of play.” 
+Which is to say that like, for instance, as you level up, you might, um, you- it’s almost like you end up becoming typecast in a really interesting way. Where you can take on, um, aspects of the characters you’d played previously into new roles. So you might start as this mo- as this like, anti-authoritarian character in a cop movie, and next thing you know we’re doing a sci-fi movie, but like, you’re still playing, like, that same type of character. Uh, in the way that like, think about Harrison Ford, who like, oh yeah, Indiana Jones, and Han Solo, there is like an overlap there? And- where does that come from, how does that go into who that- that, how, who he is as an actor. Um-
+[11:05]
+Sylvia: I was gonna- I was gonna say Schwarzenegger is a really good touchstone for that too-
+Austin [crosstalk]: Huuuge.
+Sylvia: -because like, his big first role was like, not big, but the one people think of is Terminator, where he’s like, silent. [Austin affirms] But then after stuff like Predator, he starts doing like, the one liners and shit.
+Austin:Totally. Totally. So bit by bit, he ends up adding to what that core, kind of, what his core personality is, and like, what people know him for, and like, the way that this game plays out is over the course of let’s say five movies, you’d end up playing the career [laughs] of a person. Who has grown a bit as a character, as an actor or an actress, but also still has that kind of core identity, um, that you can kind of trace back. 
+	So, again, just from the book, “The key to making all of this work,” in this sort of like, subtextual “We’re making a movie” thing, is that, “Action Movie World should be played as though there is a movie going on, and as if there is an audience somewhere watching it. This should never be directly acknowledged. It’s not often in the mechanics - there is no actual audience feedback at the end or paychecks to collect-” I mean for us there is, but- [laughing] We’re adding a third layer on top of this, in that we already do this for an audience? “But it should always drive how the game is presented. This audience is watching and judging your action movies,” or “This audience which is watching and judging your action movies is referred to as the imaginary viewing audience. They determine the success of your movies’ and your stars’ careers. In shorthand, it means thinking about what’s awesome about watching an action movie. Know that this is not the same thing as treating a fantasy world as though it is real. Most role playing games want you to treat the- the world as if it’s real. Action Movie World urges you to take the opposite tack: the game world is all artifice, a movie set ready to disappear as soon as the current film ends.” 
+Um, and so before we get into your characters, there is, yknow I’m actually gonna open up - we have a setup document here - we kinda explored the basic stuff. So, the first step is that the players and Director pick one of the scripts that suits the genre of action film we want to portray. We are going to do a cop movie - I set this up in one of the previous, uh, Bluff City intros, because the voice- the voice at the beginning of that- the last two Bluff City intros was an actor named Blake Blossom, who is gonna be playing the villain of this movie. 
+The second step is to determine who is the lead. If this is your very first movie, either select amicably or roll dice to see who gets to be the lead. If it’s not, if it’s not the first movie, we would figure this out using game mechanics, but it’s the first movie, so the- we have to decide which of you is going to be the lead. The lead is a weird thing, because it’s so far out the realm of what we traditionally think of as, uh, being the way tabletop games work. Um, the lead is not going to die. The lead is going to kill or, or disable or arrest or beat the villain at the end of this game. That is what’s going to happen. This is an action movie. Um, so, the way it works is that at the beginning of any movie, an ac- one of the actors is designated as the lead. The lead has plot immunity. They have, uh, yknow, plot armour basically. And if death is going to happen to them in the, in the rules, it just doesn’t happen, or you come back in a dramatic fashion in the next scene. And there are interesting mechanics for actually penalizing you if you do hit the point where you would traditionally die, but, in- if you’re the lead, you don’t die.
+ The other characters play as supporting roles. Not only can they die, but at least one of them probably should. [Sylvia laughs] They still get a certain amount of immunity: a supporting character can usually only die when they reach 5 Harm, and we’ll get into Harm in a second, but even then there’s a lot of choice in the matter, as, as detailed below. If a supporting character dies for whatever reason, you get- you get exp, obviously, but then also you come and join me and become an assistant director, and I’ll give you a new role, or you can decide a new role from a set, that give you the ability to like, add to scenes and sequences, and become like, the lightning director, or the effects coordinator, or the fighting coordinator, or the keygrip. [Sylvia interjects softly] It’s really good, it’s a really cool system for keeping people involved after their characters die. And again, your actor doesn’t die, right? Like, your actor will be back in the next movie, and in fact, you might end up becoming the he- the lead in the next movie, because of your actions in the first one. Um, so, who wants to be the lead?
+Janine: I have an idea who I think should be the lead.
+Sylvia: Yeah?
+Janine: I don’t want to. [Dre laughs] But- That-
+Austin: You don’t want to be the lead, you’re saying? Or you don’t want-
+Janine: No no no, I don’t think I should at- in any- way- I think of all the characters mine should least.
+Austin [crosstalk]: Oh yeah. True. Yes. Absolutely not be the lead.
+[Sylvia, Janine, and Dre all laugh]
+Austin: So we’ve talked a little bit off-mic about characters here, so yes, agreed.
+Janine: He should possibly be the first to die but we’ll see how that goes.
+Austin: We’ll see. Yeah. [Dre chuckles]
+Janine: Um… I kind of think that Dre’s character should be the lead. That’s, I think-
+Austin: I’m pretty good with that.
+Dre: I’m up for that, yeah.
+Austin: Ok. Um, Sylvia, you’re good with that.
+Sylvia: Yeah.
+Austin: Mm. So. At this point, actually there’s a pre-number one step, that’s why I missed it, which is, you should each pick an actor playbook and name your actors, so let’s talk about who those are at this point. Let’s start with Dre since Dre is playing as the lead.
+Dre: Yeah, um, my actor’s name is Dione Gabreau, and she’s also known as the Volcano. I’m playing-
+Austin: [laughing a bit] Ok. Good
+Dre: -out of the Musclehead playbook. Um-
+Austin: Ok, I’m gonna figure out where to write these down, [Dre affirms] I’m gonna put this- Dione is, it’s Dione and not Dion?
+Dre: It’s one ‘n’, so I think that’s Dione.
+Austin: Ok, yeah.
+Dre: So it’s D-I-O-N-E.
+Austin: Yup.
+Dre: For me, she is very heavily inspired by, Nia Jax.
+Austin: The wrestler, [Dre affirms] the WWE wrestler Nia Jax. So like, big, like, tough black lady, who, in the- So I guess we should actually say this: this is a movie in the world of Bluff City. [Dre affirms] It’s being shot in real Bluff City. It’s about events that really- The beginning of this movie says, “The following events are based on a true story.” So it’s not the true story. This didn’t really happen to these ch- to these actors. But, it is an interpretation of a thing that probably really happened in Bluff City.
+Janine: Is it one of those things that says at the beginning, beginning “Based on a true story”, but at the end says, “These events are fictional and do not represent any,” blah blah blahblah.
+Sylvia: Yeah is this- Is this Fargo? [laughs]
+Austin: No it’s not Fargo, it’s, what was that Steve Austin action movie? 
+Dre [crosstalk]: Uhh…
+Sylvia [crosstalk]: Jesus…
+Austin: Where he plays the guy who kills all those people? I think it was Steve Austin. I- it had been shot before that, too. Dan Ryckert really loves the book about it.
+Dre [crosstalk]: Uhh…
+Sylvia [crosstalk]: [quietly] I don’t know…
+Austin: I think that was- Maybe it was the Rock. Was it the Rock?
+Dre: Was it the Rock- Is that the- is that Walk Tll?
+Austin: Movie abo- Y- I think it was. I think that was.
+Dre: Or Walking Tall?
+Austin: Walking Tall.
+Sylvia: The only Steve Austin movie I can think of is The Condemned, which is just The Dangerous Game with Steve Austin.
+Dre: Yeah…It’s...
+Austin: Well, that’s based on a true story…
+Dre: It’s Walking Tall.
+Austin: It’s Walking Tall, which is the Rock and Johnny Knoxville. I can s- If I combine those two, you get Steve Austin, so-
+Sylvia: Yeah, that makes sense. [Dre bursts out laughing] That’s- actually yeah, [Austin affirms] you just did alchemy and made Steve Austin. 
+Austin: Uh huh. Totally. Um, which is based on a book which is based- which is theoretically based on the life of like a Tennessee cop, who like, [puts on a hardcore affect] went on a one-man war…
+Sylvia: Oh, it’s like how Bloodsport is based on a true story.
+Austin: Is Bloodsport based on a true story?
+Sylvia: Du- the dude who Bloodsport is based on claims Bloodsport is based on a true story. [laughing a bit]
+Austin: Yes. So it’s like that. It’s probably a little bit more, it’s probably a little bit more, grounded than that? In that like, a newspaper probably- This- Whatever happens at the end of this day, like, if there’s a dead guy, that guy died in real life. You know what I mean? But we don’t necessarily know- The characters in this movie are by some thought to be heroes. Do you know what I mean? At the very least. So like, there were newspaper articles. This was probably national news. It might have been a blip in national news, but it was national news. What probably isn’t true is huge gunfights on the boardwalk, and like, whatever other bullshit we get up to. Yknow? Um, but there’s gonna be some- The point is, that’s, that’s one layer. Layer one, there’s a movie, it’s based on true events in Bluff City. Layer two, in the real world of Bluff City, these are actors and actresses, and Dione is from Bluff City I’m guessing, Dre?
+Dre: Yeah, we could do that.
+Austin: Because the other fact that we set up is that Dione is, so, so, she’s a Musclehead, which means what exactly?
+Dre: Um, so the touchstones in the book for like Muscleheads, they bring up Brigitte Nielsen and Arnold Schwarzenegger [Austin affirms]. But it’s basically characters who, I think like, value decisive action, and are much more about getting like, up close and personal [Austin affirms], and doing things that are like, that are big sweeping movements rather than being like, precise or [Austin affirms], like, yknow, snipers or something like that.
+Austin: I think that’s exactly like the, underlying thematic thing here. Is like, it’s all about, it is all about, um, you said big movements, it’s all about force, it’s all about like, moving things with your, uh, with your, know, strength, whether that’s strength of personality or strength of big big big muscles. And one of the things we realize is that, this is a great opportunity for a little behind the scenes crossover, which is Dione studies with, um, Janine, your, your first, uh, Bluff City character, Tawny Buck. [Janine affirms] What was Tawny’s gym called?
+Janine: Um, when Tawny got her own gym at the end, she called it, I think it was, I think she called it like, the Firebird or something? [Austin affirms] Because there was that whole, like, mythos about the Firebird Punch. [Sylvia laughs]
+Austin: Right. Right. And so- god, what a fucking ridiculous great thing [Janine and Dre laugh]. And so yeah, like, Dione is, is one of the proteges in the real Bluff world of Bluff City of Tawny Buck. I don’t know, maybe Tawny will show up as like a cameo, in this movie, and it’ll be the situation of like, you, you nudge your, your partner who’s watching the movie with you and go, “That’s Tawny!” [laughs, Dre laughs]
+[21:25]
+Dre: Goddammit Austin.
+Sylvia: Thank you.
+Austin: But really. That’s what you do. You go, “Oh, that’s that fitness instructor, that’s that, like, kickboxing instructor” or whatever. Alright, cool. Um, we can get into, into more detail about that later. I just kinda wanna go over who everybody is. Janine you won’t be playing Tawny Buck. You’ll be playing-
+Janine: No.
+Austin: -a different playbook and different character. Who are you playing?
+Janine: I’m playing as the Thespian. [Austin affirms] My character is, uh, Mason Lowry.
+Austin: That’s your, your charac- 
+Janine: Sorry, that’s his-
+Austin: -that’s, sorry, that’s your actor- actor’s?
+Janine: -that’s my character, but his real name.
+Austin: Ok. Mason-
+Janine: His person name.
+Austin: -Lowry, as in L-O-W
+Janine: R-Y, yes.
+Austin: R-Y. Ok. No E in there. [Janine affirms] Ok. Mason Lowry. Cool. And what is your playbook?
+Janine: The Thespian.
+Austin: Which- what’s that- talk to me about the Thespian.
+Janine: Oh. [laughs] So, the Thespian is, um, the touchstones they give here are Mel Gibson, Linda Hamilton, Sylvester Stallone, I think of it a lot more as like, Nic Cage?
+Austin: Yeah I think Nic Cage is definitely also in this space for sure.
+Janine: The angle that I’m kind of bringing to it though is, is someone who is like, a little bit too eager to prove they’re a real actor? [Austin affirms] In spite of maybe not getting the ideal roles. [Austin laughs] Or the roles that they want. [Janine laughs] In life.
+Austin: Which is to say like, Hollywood, like- 
+Janine: This is-
+Austin: -much talked about-
+Janine: This is totally like the, the prototypical like, actor who’s really antsy because he hasn’t played Hamlet yet.
+Austin: Right. Ok. And instead what you’re doing is being the white guy in an action movie. [Janine affirms] Like the white support staff guy-
+Janine: Set in Bluff City.
+Austin: -set in Bluff City, shot in Bluff City, starring a bunch of like, up-and-comers who probably will end up being bigger stars than you because it’s an action movie [Janine affirms] and you’re Nic Cage?
+Janine: And like, I’m- I wanna be clear, I don’t- I don’t think Mason’s a local boy. I think he’s-
+Austin: No. Yeah.
+Janine: -probably from like, Vancouver. 
+Austin: Ok. Good. Good. Um… Cool. And, and, that, that class is, or that playbook is, all about like, being the person who speaks a lot in the action movie? [Janine laughs, affirms] I mean I guess like, their comparison to people like Sylvester Stallone is you look at someone like Rocky, and like, oh that’s a movie where like, there is sort of like heart, there is like a, there’s a character who is, who is like looking out from the meatpacking district out into the city and thinking like, “Ah, this town has a place for me in it”, like, “How do I fit in with all these people, how can I be a hero for them, how do I understand my relationship with Adrian,” like all that stuff is all like there? And you’re a little talkier than, than the Musclehead. [Janine affirms] Or, this third character, Sylvia. Who are you playing?
+Sylvia: So, um, my actor name is Eddy Chankul. I think I’m pronouncing that right. And I’m gonna be the Gunfighter.
+Austin [crosstalk]: Can you spell that second, the, the surname?
+Sylvia: Chankul is spelled C-H-A-N-K-U-L.
+Austin: C-H-A-N...K-U-L? 
+Sylvia: Yeah.
+Austin: Gotcha. Cool.
+Sylvia: And, um-
+Austin: That’s Thai?
+Sylvia: It’s a Thai surname, yeah. [Austin affirms] So he’s like, this late 20s Thai actor.
+Austin: E-D-D-Y or E-D-D-I-E?
+Sylvia: Yeah, E-D-D-Y.
+Austin: Ok. Cool. Uh, cool. So say again, late 20s Thai actor?
+Sylvia: Yeah, he’s like a late 20s Thai actor, um, I’ll get into more of his appearance when we get to like, what the charac- like, [Austin affirms] actual movie.
+Austin: And your Playbook is-
+Sylvia: The Gunfighter, which is based on like, like John Woo is kind of the main touchstone [Austin affirms] for this sort of thing, that sort of John Woo film, like Chow Yun Fat is also the, one of the actors they name here, they name Michelle Yeoh, as the two, references. So it’s all-
+Austin: Who are both rad as hell.
+Sylvia: Yeah.
+Austin: I’ll note all the moves in this game have sick, sick names. [Janine laughs] And one of my favourite ones is, is, I’m ninety percent sure this is from, um, what’s the big J- what’s the John Woo-
+Sylvia: It’s from A Better Tomorrow.
+Austin: Oh is it from A Better Tomorrow? I didn’t know that. Ok.
+Sylvia: Yeah, I, if you’re thinking of the one in quotes, on page… yeah
+Austin: Yeah, I am, the “Yes I am a god, you’re one, a god can be human” one. 
+Sylvia: Yeah.
+Austin: It’s so good. I was thinking that was from, one of the, the Tequila Sunset ones. But.
+Sylvia: Nah, nah.
+Austin: Alright. So, we all know who are, who are actors are at this point. We all know who the players are. Next up, at this point, we should start picking moves. Tell me about Dione’s, uh, stats, and then what moves she has.
+Dre: Um, so her stats are, um, -1 in Agility, 0 in Drama, [Austin affirms, laughs a bit] 3 in Muscles, 1 in Magnetism, and 1 in Swagger [Austin affirms]. She has the 3 in Muscles because the first move I took is The Greatest Feeling You Can Get In A Gym Is The Pump. [Sylvia, Austin laugh] 
+Austin: Good.
+Dre: Which adds +1 to my Muscles stat. [Janine laughs, Dre laughs] And then the second move I took was A Machine Made of Meat [Austin affirms], “Getting hit only makes you angry. When you are hit in range or close combat, whether harm is inflicted or not, you can make this move. [Austin laughs] Roll Muscles. On a 10+ hold 2, on a 7-9 hold 1.” And I can spend those holds to “immediately inflict 1 Harm as a counterattack, inflict an extra Harm on my next attack, close the gap between myself and the enemy, perform a feat testing the limits of human strength [Austin laughs], or gain +1 Muscles for the rest of the scene.”
+Austin: [laughs harder] Going up to 4 Muscles, which is over the limit. The limit is 3, but I think with that move, that’s you going to 4 Muscles, right? [Dre Affirms] Like I don’t- yeah. Ok. Cool, cool. And again, those stats are Agility, which is like, shooting stuff, running places, dodging, certain types of stunts; Drama, which is for, um, kind of emoting, which is, is, Emote is one of the moves, which is like, conveying an emotion in a sequence, or um- what else does em- does Drama- oh - reading a person, reading a seq- or just reading a person, I think those are the two big ones for most characters. Muscles is, is fighting things with your hands and feet and melee weapons, but also like, certain sorts of stunts, um, Magnetism is for, um, love sequences and again, certain other, other maneuvers, also manipulating somebody is Magnetism. And then Swagger, which is swagger, which is like, the killer one line, or, um, reading a situation, I think those are the, those are the ones that it comes into. And we’ll learn more about what those are sooner than later. So, Thespian. Uh, Mason. Tell me, tell me what your mo- what your statline and what your moves are.
+Janine: So, uh, my statline is -1 Agility, [Austin affirms, laughing] +2 Drama [Austin makes an intrigued noise], 0 Muscles, +2 Magnetism, and -1 Swagger. 
+Austin: Ok. [laughs] Good. [Dre laughs] I’m glad you are like, the least action hero-y person here, which is great.
+Janine: Oh yeah.
+Sylvia: It’s very good.
+Janine: Yeah yeah. I- I- I know what I’m doing here [laughing].
+Austin: You know what you’re here to do.
+Janine: I know what this is gonna get [laughing]. I know what this is gonna look like.
+Austin: Alright. So tell me about your moves.
+Janine: Um, my moves are, “The Delivery”, “When making a Killer One-Liner move, roll +Drama instead of +Swagger.”
+Austin: That’s really good.
+Janine: It’s a good thing for this build, yeah. [laughs]
+Austin: Mhmm. Because you have -1 Swagger, which I just love again, which is like, when you say the One-Liner, you’re drawing deep from your acting well, you, you’re thinking back about that workshop you took over the summer [laughs] one year.
+Janine: Exactly.
+Austin: You’re not just like- you’re not a natural.
+Janine: Mhmm.
+Austin: Perfect.
+Janine: And I also picked Soliloquy, “When you deliver a solo speech about what’s going on in the current movie, trying to piece together the events unfolding around you, roll +Drama.” [Austin laughs] Which, if I succeed, allows me to like, pr- not predict, but like, set a thing in motion basically.
+Austin: Yeah, go ahead and read, you can read the pluses and stuff.
+Janine: Ok. “On a 10+, you gain insight into the emotional or physical nature of the conflict underpinning the plot. Name one thing that will happen related to the plot,” so, or sorry, “to the plot, no matter how big or small. The Director will make it come true at no cost to you, though it may involve cost to others. On a 7-9, as above, but the events come true at great cost to yourself. [Austin laughs] On a miss, your ramblings are the product of self-delusion about your abilities and/or powers of insight. [Austin, Dre, Sylvia all laugh] Take -1 forward and the Director can make a move against you.”
+Austin: Fuck. Love it. So much. [Janine laughs] So good. Um, and Gunfighter. Eddy, Eddy Chankul. Tell me about your stats and your moves.
+Sylvia: So my statline is +2 Agility [Austin affirms], +1 to Drama, -1 to Muscles, 1 Magnetism, and 0 to Swagger. [Austin affirms] And then, the moves I’ve taken are, Gun Ballet, “All ranged weapons you use, no matter the type, count as having the Area special ability.”
+Austin: Good. Perfect.
+Sylvia: And then the other-
+Austin: Which means you can use it to hit multiple people at once.
+Sylvia: Yeah. And then the other skill I’ve taken is Time to Reload, which says, “People usually don’t run out of ammo in action movies, unless it’s dramatic to do so. You’re the master of turning the reload into high drama. Any time during a scene involving ranged combat, you can declare that you’re out of ammo, reload your gun, and roll +Drama. On a 10+ choose 1, on a 7-9 choose 1 but also take a point of Harm,” and then on a miss, “I’m stuck where I am and the Director makes an immediate move against me.” And then I can “Escape danger scot free, leaving my friends behind [Austin: “Oof”]. Rely on your buddies for cover, safely moving towards danger [Austin laughs, affirms]. Advance a romantic interest. Gain an extra tick of Star Power as I deliver a line,” or “An awesome shot after you’ve reloaded, make something explode.” [Dre and Austin laugh]
+[30:45]
+Austin: Sick. So good. [Janine laughs]. Ah. God. Ok. So those are your characters, or your, your actors, those are your stats, those are your moves, perfect. Um, now, we are going to, starting with the Lead, pick exactly one additional move from the moves on the Cop Movie script. So, the way this game works is there are a bunch of subgenre scripts, like Cop Movie, Sci-fi Movie, um, the… Barbarian Movie we talked about, there was an expansion that added like, Family Comedy, like, Family Action Comedy, and Disaster Movie, um, both of which are dope. Um, there’s a bunch, they’re really cool. And on the script, there is sort of a fiasco-style thing for relationships which we’ll get to in a second. Um, there is a gear selection, which we’ll also get to in a second. But there’s also a list of moves for the players. 
+“Each player picks one move from the list from the script, and you, uh, up to two players can pick the same move.” The- the available moves for cop movie are: “Buddy Movie: This movie- this move is only available to one character once it’s picked; that’s it. It cannot be picked by the lead. Picking this makes you in all ways a second lead, including the same plot immunity that the lead enjoys. This move cannot be made permanent with XP.” The last bit isn’t gonna come up here, probably- or, it might. Um, the- and what it, what it’s referring is that like, we talked about this a little bit before, but in this game actors can, kind of permanently add one of these movie-specific moves to their sheets, uh, forever, as a way of showing that they’ve kind of, yknow, leaned in to that one aspect of their performance and carried it forward into different movies. So for instance, this next move, “A Cop Who Doesn’t Play By The Rules: You don’t play by their rules, whoever they are. When you buck authority, roll +Drama. On a 10, choose one: You inspire someone to follow your lead. The authority backs down. An enemy is distracted by you (this may happen off-camera). On a 7-9, choose one of the above, but you are forced to do- to do something dangerous to remain on the force [chuckles]. On a miss [laughs], someone is, uh, someone in a position over you is dedicated to getting back at you.” Um, so you could take that move for instance, make it permanent with XP, and then end up in a sci-fi movie where you still don’t play by their rules, whoever they are. And instead of bucking the authority of like, the police chief, you’re bucking the authority of, yknow, the star command, or who- or whoever. 
+Crime Doesn’t Pay is another move here. “Nobody does- uh, nobody does better than you- sorry, nobody does better than you when the heat is on from the scum of the city. Rolling in opposition to criminals of any sort you add +1 to your roll. Super cop. Whether through training or natural ability, you’re faster, stronger, or just generally more badass than all of your peers in the force. You receive +1 to all Stunt rolls.” Stunt is sort of a move that’s like act under fire, or, or kind of a similar move from Powered by the Apocalypse, except it’s a little more flexible here, because stunts are, the bread and butter of action movies, and traditionally you roll those with either Muscles or Agility. This would give you a +1 to either of those things. “Corrupt Is As Corrupt Does. At the beginning of the movie, state whether you’re fighting or aiding the forces of corruption. You receive two corruption points. Spend these one-for-one throughout the course of the movie as you would a hold. Each time you spend a corruption point, choose one of the following: Gain access to drugs. Gain access to weapons. Gain access to vice. Gain access to mundane- to stolen mundane goods. Gain access to an off-limit location. Access should be read very broadly and change in meeting- meaning depending on whether the character is fighting corruption or is corrupt. For example, an honest cop with this move might gain access to drugs, with the director setting up a scene in which following bribes- following bribes leads to a city councilman’s drug deal, while a corrupt cop would use it to snag drugs from a bust for his or her own use.” And “High Speed Chase. Nobody’s better than you in a chase. When you’re behind the wheel roll Swagger. On 10, choose both, on 7-9 choose one. You get where you want really fast. You’re safe. On a miss, you’re not as good as you thought you were; you crash.” Uh, so, again, starting with the lead, uh, Dione, which of these do you want to take?
+Dre: I think I’m gonna take Crime Doesn’t Pay.
+Austin: Ok. Um, I will say that we should be- I guess it says criminals of any sort. Yeah, ok. [Dre affirms.] I think that’s fair. I think that’s fair.
+Dre [crosstalk]: Yeah, I don’t like the wording of “scum of the city”, but I do like that it says criminals of any sort. So that it includes…
+Austin: Yeah, well- Like, corrupt cops, which is what this movie is going to be about. Absolutely. So sounds good. Go ahead and copy and paste- or I guess I’ll… can you just write that next to one of your extra little slots? Thank you. Umm, so Eddy. How about you?
+[transcriber change]
+Sylvia: Um, I was gonna say, like — so I’m kinda torn between Buddy Movie and Supercop, because they both let me do wilder stunts.
+[Dre laughs]
+Austin: Yeah.
+Sylvia: If I do pick Buddy Movie, I do want it to be like that Dione is still very much the lead.
+Austin: Yeah. Yeah. I get you. But I also like the— 
+Janine: I really like the — 
+Austin: Go ahead.
+Janine: Sorry, I was gonna say, I really like the idea of like, buddy cop movie and then like… hipster fuckin tryhard white guy just is also there?
+[Dre laughs]
+Austin: Is also there? Yeah, exactly, me too. A lot. I really like that.
+Sylvia: Yeah, I think I like that.
+Janine: It’s really good!
+Austin: All right, so you take Buddy Movie.
+Janine: It’s really good… 
+Austin: All right. Awesome. So then Mason, back to you.
+Janine: Um. I think I want… Corrupt Is As Corrupt Does.
+Austin: Okay. 
+Dre: I was hoping you were gonna pick that.
+Austin: Are you corrupt or are you…?
+Janine: But on the — uh, not corrupt. 
+Austin: Okay!
+Janine: I wanna be like a extreme goody-goody, kind of.
+Austin: Okay, so you’re like Internal Affairs, or something.
+Janine: Yeah.
+Austin: Okay. Awesome.
+Janine: He’s like fresh out of the academy, very idealistic, or something like that.
+Austin: Something like that. Okay. Cool! Perfect. So, you’ve made those moves. You’ve taken those moves. [reading] Step four. Each player picks a gearset for their character. At the same time, name your character for the duration of the movie. Obviously, this is different from the actor’s name. “My real name is Ian. My real name — or my character — my actor is Chase Buzzington, and he’s playing Malcolm Powerstein in this movie.” Why pick your names now, after your gear? Because gear has the potential to clarify details about your character. If you decide to pick up the SWAT gear in a cop movie, you might pick a tough-sounding name, while a more standard gear loadout might make you think in more muted terms.
+	I think you all actually have character names, but, um. The options for gear are pretty sttraight up, because this is a cop movie. If you look through war movie, there’s like much more defined — gear sets, but — everyone. One. Everyone has access to a police vehicle. But then what I need from everybody is to decide either: 9mm pistol and nightstick, SWAT vest and assault rifle, 9mm pistol and teargas grenades, or 9mm pistol and drug package [laughs]. The game uses like the very familiar Powered by the Apocalypse harm system, so like, 9mm pistols all do 2 harm. And then they are all close, they can be used at close range, and they’re all loud. Assault rifle is 3 har, it can be used in far or close range, it has autofire, which means it can hit an area of people, but only if you then have to spend a turn reloading it, and is loud. Teargas grenades do stun harm, instead of regular harm, and you only have them until you can get back to a place — you only have one, basically, until you refill — restock them, basically. Drug package just has valuable, which means it’s valuable. [laughs] And someone wants it. So what do you think? Who’s taking what of these sets of gear?
+Dre: I’m gonna take the pistol and the nightstick.
+Austin: Yeah, that’s what I figured, a little bit. [Dre laughs] That’s good. Is it like a baton? Not a baton — but is it like an extending baton or something, or is it just like a — 
+Dre: Aw, yes! Yeah. Yeah.
+Austin: Okay, cool.
+Dre: Yeah.
+Austin: What about Eddy and Mason?
+Sylvia: Uh, I think i wanna take the 9mm pistol and the teargas grenades.
+Austin: Sounds good! And Mason?
+Janine: Uh…
+Austin: I think you can double up here, yeah, there’s no limit to how many people can pick these combos.
+[Janine laughs]
+Sylvia: Yeah.
+Austin: That said, I do like SWAT vest and assault rifle a lot? 
+Sylvia: That’s really funny!
+Janine: I’m having a really hard time picturing this dude with an assault rifle.
+Dre: Oh, I can.
+Austin: Ah — I can —
+Janine: I can totally picture him with a SWAT vest, a hundred percent.
+Austin:  Here’s the thing with the assault rifle, it’s like complete compensation.
+Dre: Yes.
+Janine: That’s true…
+Austin: Do you know what I mean? It’s just like, I’m gonna pick the big gun, so that I can hang out with this musclehead [laughs] and this gunfighter. [Dre laughs] Do you know what I mean?
+Janine: And also, I like the idea of him being the armored one.
+Austin: Yes, totally! One hundred percent! That’s exactly — yeah yeah yeah. Totally. All right, so. The one thing that I’ll say — or the thing that I’ll add about this is the way combat works here is every character has 5 HP, has 5 harm levels. Getting harmed doesn’t reduce your effectiveness, but it does make it visually look like you’re more fucked up . So like the audience at home will see like, broken bones — maybe not see broken bones, but maybe see like, oh no, you’re bleeding, you have a bullet hole, maybe you do have a broken bone, depending on how severe the movie gets. But, you’re never actually — until you hit that fifth level, you are fine [laughs]. And then you die. That is true for all of the heroes, all of the player characters, and also the villain. The capital-V Villain has 5 HP. Every other like rando who you get into a fight with has 2 HP. And so that means that all of these weapons are — will kill any rando in a fight, instantly. Or knock them out, or whatever it ends up being. So even the nightstick does 2 harm. So that’s like, ohp! You did it! They are dealt with. This is very much that style of American action movie — not even American action movie, like, you think about Eddy Chankul as a Thai actor, and there’s been such a boom in South Asian and Southeast Asian action movies in the last like decade, that have crossed over into Western audiences, in which  you see just like, one dude just mows through an entire tower of people, whatever, yknow?
+Sylvia: Yeah.
+Austin: And this game really does that well, and I just like — I like the notion of like, I see this, and the thing that I see immediately is like, all right, you have to shoot the main villain at least three times with a 9mm to win. Or, once with an assault rifle and once with a 9mm, and that’s like, okay, cool. That math is — that math feels right for the way action movies work, y’know. So yeah, if you get a second, if everybody can add — I think everybody has — or Dre, can you add your gear to the…
+Dre: Yeah.
+Austin: Awesome. Totally. Then… next step. I closed the wrong window, here we go. Um, so now we’re gonna choose highlighted stats. Each character has two for the duration of — oh no! Sorry, we need character names. What are your character names for this movie? Again, let’s start with lead, with Dione.
+Dre: She is playing Sergeant Janis Stone.
+Austin: Good name. Good name. Let’s go with the buddy, now. Eddy, what is your character’s name?
+Sylvia: Detective Max Lam, L-A-M.
+Austin: L-A-M, Max Lam, like on the lam?
+Sylvia: Yeah!
+Austin: Good. And Mason.
+Janine: I just realized I don’t know a lot about police ranks.
+Austin: That’s fine, neither do movies.
+Janine: I could just go with Officer Sebastian Young.
+Austin: Let’s go with a detective, also, maybe —
+Janine: Okay!Austin: — because like that gives you a little — ah! It depends! [cross] I guess, officer is fine.
+Janine: [cross] I mean, do detectives like work — it’s a buddy cop thing with a sergeant and a detective, so would there be another — like, that’s my thinking is like would there be another detective, or who would the third person…
+Austin: Well. Let me propose this, is like, the sergeant and the — so Max and Janice are buddy cops ‘cause they used to be like — they used to be on the beat together, but now they’re in different parts of the department.
+Janine: Ohhh, yeah.
+Austin: And you’re technically — you’re Detective Lam’s partner. That doesn’t mean you’re the buddy cop. Do you know what I mean?
+Janine: Yes! I love that! He’s like, Max is like bringing him up.
+Austin: Yes. Exactly. Exactly. Yeah.
+Sylvia: Vrey good.
+Janine: Yeah. It’s good.
+Austin: Yeah.
+Sylvia: Especially for how I have this character thought out! [laughs]
+Austin: Okay, good! I’m excited. I’m excited. All right, so now we choose higlighted stats. So, the way this game works in the kind of long run of things is that we — on top of XP you get a thing called Star Power, which you see there’s a little star on your sheet that has like room to make little ticks next to it. You get Star Power whenever one of your highlighted stats is rolled at 10 or above. Every playbook has a highlighted stat already, so like the Musclehead’s highlighted stat is, unsurprisingly, Muscles. So any time you’re gonna roll a 10 or above, Dione gets a point of Star Power. This kind of suggests, this is about that imaginary viewing audience, that’s like aw man, that scene is so memorable! That scene —- do you remember when [laughs] Arnold Schwarzenegger gave the thumbs up as he sunk into the fuckin lava, that doesn’t make any sense but it was everybody remembers it, or it’s “I’ll be back” or it’s like lifting a truck or something. You know what I mean, it’s like, oh wow, this like feat of incredible strength that people would — actually, in all of those instances, it’s not Muscles, right? So actually, I think maybe like the Schwarzenegger Muscles one would just be — what’s a very Muscle-y Schwarzenegger memorable moment? Does anyone have one?
+Dre: Oh….
+Austin: It’s interesting —
+Sylvia: Oh, there’s that part in — oh, I can’t remember what movie it is, but he like kills a dude with a like steam pipe?
+Austin: Sure. That sounds Muscle-y to me.
+Sylvia: Yeah.
+[Dre laughs]
+Austin: But, here’s the thing is, that’s the one highlighted stat. There’s also a second highlighted stat, which is the one that I pick as highlighted, and that is me saying like “hey, I wanna see you roll this dice, or roll this stat a lot this sequence”. And so I’m gonna pick Swagger for… Dione. I really want — the character of Sergeant Janis Stone to be like, a little bit… you know, like, knows what’s up. Knows what’s goin on, has — is it a little bit like too good for anybody’s bullshit — maybe not too good for anybody’s bullshit, but like, you know what I’m saying, right?
+Dre: Yeah.
+Austin: Like, um. Doesn’t put up with any bullshit, and kind of cuts straight to the point. But — not dramatic speeches, you know, this is the one-liner, this is the like, immediately cuts down the villain by knowing some shit that the — knowing how to get under the villain’s skin, stuff like that. So I’m highlighting Swagger for Musclehead, for Sergeant Janis Stone. For Detective Sebastian Young. [huffs] It’s a good name. I don’t think — did we not say it? We may not have said it.
+Janine: [laughs] We said it.
+Austin: Okay. I somehow missed it. I wanna see… hm. This is a good one, ‘cause like, the gut is like oh, go with one that they have good stats in. [Janine and Dre laugh] But. It can also be fun to be like no, I want you to really — I wanna see you try to do some shit you don’t know how to do. Um. 
+[45:00]
+I’m having fun now thinking about being a fictional director, who is the worst. Uhh… I think I’m actually just gonna go the easy one here, which is, I wanna see some Magnetism from you. We really wanna appeal to a certain audience who probably wouldn’t show up to this movie otherwise, but like, you’re  a hunk — you’re a ya — hm. You’re a yacht. You’re a [laughs]... [Sylvia laughs] You’re a yacht of a guy, Mason! [Janine laughs] And that attracts a certain sort of audience. I wanna see you appeal to a certain young, white audience to really get them — to get them into the movie too. We already know that Dione and Eddy are gonna bring in the real action fans, but like, we want a teen audience, a white teen audience to also show up, and you’re a young, hot white dude, so, gimme that Magnetism. Turn it all the way up! 
+And Eddy. Your currently highlighted one is Agility. I’m gonna ask fo you to give me Drama, also. Which is, you know, I want you to really — you’re the one who can like kind of — I keep making little circles on this map, and I’m getting rid of them. There we go. Um. You know. No one else is gonna hold this movie together but you. [laughs] There’s no other — there’s no other — I know we have the Thespian here, who’s gonna be dramatic, but you’re the buddy cop, and so we have the Swagger buddy cop, and we need the other buddy cop who’s the one who’s like, words of advice, who like gets to the emotional core of that relationship. Because, sorry to Dione Gabreau, but that 0 in Drama is not going to really bring the emotion out of that relationship. So those are my highlighted stats for y’all. 
+Now I’m gonna pick the villain from the script’s list. You can approve or reject this choice, so we could just change this right now, but my gut is, I really wanna do police chief. This gives me a set of additional moves, basically, on top of my normal set of… director moves. And the police chief, they wanna hide, they wanna bully, they wanna have someone arrest — or the moves that they have are like, have someone arrested. beat someone up. Escape via technicality of the law. Disappear in the nick of time. Et cetera. I’m not gonna go over all of them, but there’s a bunch, and they’re good. Are people on board with police chief as the villain of this movie?Dre: Yeah.
+Janine, Sylvia: Yeah.
+Austin: Awesome. Okay! So, now each player makes a relationship with the person to their left. Each script has some sample relationships provided in a 2d6 format, but seriously, don’t automatically roll this. This is for ease of use only. Pick one; even better, make one up when it’s your turn. Mix all three technicques if you want! So there are kind of eleven… different possible relationships listed here, but also, any we want, and this is very Fiasco-like, in that they can be things like “precinct buds” or “partners” or “came up through the academy together”, but they’re also things like “a murder weapon” or “grew up in the same neighborhood” or “drug money” could tie you together. So let’s get… one from —  I mean, I think we know them already a little bit, but let’s make them explicit. One from Detective Max Lam to Sebastian Young, one from Sebastian Young to Janis Stone, and one from Janis Stone to Max Lam. Let’s start with the lead, again, so Janis, what is your relationship with Max?
+Dre: Okay. I have kind of two things that I’m thinking of here.
+Austin: [muttering] I should move these down here…
+Dre: I think the probably obvious one is “precinct buds”. Or [enunciates] “precinct buds”.
+Austin: Mm-hm. Yeah.
+Dre: I also kind of like “rivals for promotion”?
+Austin: Oh, that’s interesting too. Huh!
+Dre: I imagine Janis is like a cop who is very good, that should have been promoted a long time ago, but because she has that swagger and doesn’t stand for people’s shit, and like does what she thinks is right, people are like “ah, you can’t promote her, she’s too reckless!” Y’know, she won’t fall in line when the time comes. But I think either one of those would be interesting.
+Austin: I like that. But. Yeah, I uess that’s the question is like, do you want that relationship to be like — tense, or do you want it to be the rock, the foundation that the movie moves on, do you know what I mean?
+Dre: Um. Yeah, I think — 
+Austin: That’s for both of you, to some degree, yknow?
+Dre: Yeah, what do you think, Sylvia?
+Sylvia: [long breath] Uh, I kinda like — I like them both, is the problem! The reason I’m leaning a little towards “precinct buds” is… It works well with the idea I have for my relationship with — like, the promotion kinda like goes against the idea I have for my relationship with Sebastian, which is that he’s like punishment, basically?
+Austin: Oh, interesting.
+Dre: Ohhh!
+Sylvia: Like, he’s like, we’re giving you this shitty partner because, like, you did something. [Janine laughs]
+Dre: [laughs] Yeah. [cross] Okay, so let’s go with —
+Janine: [cross] Yeah, let’s straighten you out.
+Sylvia: [cross] Like nothing — 
+Dre: Let’s go with “precinct buds” then.
+Austin: Okay, cool.
+Sylvia: Okay, go ahead.
+Austin: So you wanna write that down under special relationship, Janis? And then, it sounds like, Max, you also have — you’re good, it’s… what’s the way you wanna phrase that with Sebastian?
+[Sylvia sighs]
+Punishment is — I get it.
+Sylvia: “Partners” is like the eas — the nicest way to put it. Maybe “begrudging partners”?
+[Janine laughs]
+Austin: “Begrudging partners” is good, I like that a lot. Or “begrudging mentor”, or something like that?
+Sylvia: Yeah.
+Austin: Because it’s — I don’t know, I don’t wanna speak for — unless, Sebastian, if you think it’s begrudging in both directions, it can be begrudging in both directions, but you were kind of painting Sebastian as a little more peppy than that?
+Janine:  Yeah, I think he is probably a bit too green to be begrudging.
+Austin: Okay. That makes sense.
+Janine: At this stage.
+Austin: Cool. Uh. So then what is your relationship, then, with Janis?
+Janine: I feel like it shouldn’t be anything too complicated, given the relationship between, yknow, between Max and Janis.
+Austin: Yeah. Maybe this can be a relationhip that’s about something that isn’t about just the relationship, like maybe this is the “in on a secret” or “drug money” style, or like “murder weapon” or — or “grew up in the the same neighborhood”? No. No, it’s not that. It’s definitely not that.
+Janine: No. [laughs] It’s not.
+Austin: But maybe it’s the thing that gets everybody involved from the jump. Like maybe it’s that the two of you found some piece of informtion, or found something that starts the path towards taking on this police chief. Do you know what I mean?
+Janine: Yeah…
+Austin: I don’t know what that is yet.
+Janine: Yeah, me neither, that’s the thing.
+Sylvia: There’s a few here that could work for that.
+Austin: Yeah? What jumps out?
+Sylvia: “Saw something terrible”, like if you both saw something. A murder — like some sort of murder — like some evidence thing that you two have both like had your hands on, that suddenly went missing, or something?
+Dre: What if like… there was a person that was killed, and Sebastian and I were the last people to see that person alive—
+Austin: Ooh!
+Dre: — and they went with the police chief?
+Austin: That’s a good idea. Who was the person?
+Dre: Oh, boy. I mean, it could be another cop, it could be an informant or something.
+Austin: Oh, I like informant a lot.
+Janine: Yeah.
+Austin: I like — okay, here’s what I like: I like it’s an informant that Sebastian was using for a different case, and then it was someone that Janis knew, growing up. Like, it was someone from Bluff City, it was someone who like was from…I’m trying to think if we’ve — name, I’m pretty sure we named different parts of Bluff City. I think we called it the Cove. Yeah, we did. In the last episode. Someone from the Cove, which is like, kind of a mix of low-income housing and just like kind of residential — like long-history residential, lots of low-income residents, lots of people of color. And it was someone who lived there who like you grew up with… uh… Sorry, Janis. And then Sebastian, it was like someone who was one of your criminal informants. You know?
+Janine: Mm-hm.
+Austin: And the last — where did you see them last? Like you said you saw them with the chief? Which is interessting, and like already starts to paint a certain picture?
+Dre: [sighs] I wonder if it’s like, it’s maybe we didn’t see them, but like, because I’m friends with that person, I knew that they were going to meet with the chief.
+Austin: Mm.
+Dre: And Sebastian knew that because they set up the meeting. And like, there’s probably like an early scene in the movie where that person is found dead, and like I have the like, Dom going to yell at Brian in Fast and the Furious 4 [quiet laughs from everyone] when he finds out that like, Letty was like Brian’s informant in that one drug room.
+Austin: Right, right, right. I mean, I think it’s even — we should be faster than that, we should be more aggressive than that in the framing, which is to say, that should happen over the opening credits. Do you know what I mean?
+Dre; Yeah.
+Janine:  Yeah.
+Austin: That should be the two of you setting that up, as the title cards are coming up, as the produced by, starring, et cetera stuff happens, is like, the rapid-fire flashbulbs of like the body on the ground, and then like at the graveyard and during the funeral, or going back before that, the sort of like paperwork sliding across desks and then like “uh, you’re meeting with the Chief?” you know, that sort of stuff, happening on the phone, very quickly. Just to get us totally up to speed. Let me get a name for this person. Um. 
+Janine: I think it’s worth specifying also that like this — the thing that makes sense here, given the move that I’ve taken for the cop movie, is that like this informant had a — some sort of like lead or info on corruption.
+Austin: Right.
+Janine: And then — and the thing that Sebastian does is say, “Oh, cool. Well, I’ll arrange a meeting with the…” [laughs] you know?
+Austin: Uh-huh. Right right right. So I think it’s Jamian Raine, is the one who died. J-A-M-I-A-N, Raine, R-A-I-N-E.
+Janine: I think you used the name Jamian before.
+Austin: I did! I used Jamian Raine, he works at the zoo.
+Janine: Oh!
+Austin: He worked with the zoo with —
+Dre: [dismayed] Oh no!
+Austin: — with Van McLaren, Van McLaren said that Jamian Raine did some shit with an elephant, he got him into trouble after — he was like, I don’t wanna do anything after Jamian got us in trouble with that elephant shit, recently. So Jamian was the — also worked at the zoo, and there’s some sorta weird zoo crime situation. Maybe they were running drugs through the zoo, maybe they were — who knows what. I think you’ve probably worked with Jamian before as —
+Janine: Elephant tusks.
+Austin: What — who — elephant tusks, could have been, absolutely. And you set up Jamian — Jamian was like “I have real special information. I — has to go to someone who you know you can trust.” And of course, you set him up with the Chief…
+Janine: Who’s more trustworthy than the Chief? He’s the Chief!
+Austin: Exactly. And I think that’s the like — Janis — you set him up with the Chief? Because everybody in the department — here’s what everybody in the department knows about the Chief. The Chief’s name is… He is played by Blake Blossom, who is — I’m imagining as basically just James Gandolfini. But like not in his — I guess, we’re gonna wrap back around to Sopranos — Tony Soprano-James Gandolfini in a bit, but like — or in a way, because he’s a corrupt cop. The name of the cop is Clarence B. Grimes. Um. And Chief Grimes is… He is — I was trying to think of how to compare him to other villains that had popped up in Friends at the Table, and I realized that it doesn’t — no one really lines up, exactly, which is good. He is — more involved in the day-to-day than any Chief should be. He has an oper door policy, his office is filled with people al lthe time. And they hang out in his office and they, you know, drink beers together. He often says — he’ll take a file from someone, go “Don’t worry about it. I’ll take care of it.” And so he’s very well liked among a certain class of cop. But he’s also very involved across the city. He shows up to — you know, make sure that things are goin as they’re supposed to at the local bar, that has like a serious, you know, issue with coke dealers. That situation never goes away. But like, he is often at that bar, just checkin and makin sure everything’s okay! And taking his cut! He’s like, deeply involved across the city in any aspect of crime. He takes his cut, he makes sure that it doesn’t make the news. That like, whatever the problem is, whatever the thing that’s hurting normal people is, does not actually shake out into a big thing, yknow. There’s not a lot of violence, and he’s very proud of that. Or if there is violence, he frames it as being about an external force, where it’s like, you know, those — Atlanta really has to start taking care of their crime problem. This is another one ofthose Atlanta boys who came up from the coast, yknow. And is very much like presents this image of cleanliness, whereas, if you talk to basically anybody who lives in Bluff City proper and who doesn’t commute in for work, they all, a lot of them, know that he’s actually, like, involved — has his hands in everything, yknow? Um. But the cops love him, and the casino owners love him. I also wanna say that this takes place in an era of Bluff City before Milenium Black gets fully set up. So this is pre-...The Black Millenium casino, pre-The Black Colossus, pre-... whatever the third one of those was. I know it was in the Marina. What was it? It was… The Black Star. And so it is — I wanna say almost like late 80s, maybe early 90s, when this is set. I don’t think anyone has cell phones. Definitely there’s no smart phones. Definitely old — you know, the cars are really boxy. Unless people have like, really want this to be super modern day.
+Janine: Wouldn’t Jamian have been like 5?
+Austin: No, because remember, that story also took place in this weird Bluff City timeline where like — remember, your partner had — or, no, your partner — Tawny’s next door neighbor also had a weird, giant cell phone?
+Janine: Did he??
+Austin: Yeah.
+Janine: [cross] I don’t remem — okay.
+Sylvia: [cross] We were like…  weirdly and like pruposely anachronistic with that.
+Austin: Yeah. That —
+Sylvia: Cause like, I had like a Walkman, I think.
+Austin: Yes. Yes.
+Janine: Oh, okay. I didn’t remember that.
+Austin: Yeah, Bluff City’s time is always — it is the most of our — it is the “timey-wimeyest” of our times up until Twilight Mirage. [Janine laughs] But I wanna lean in that direction more than we did, is what I guess I’ll say. So it’s not actually set in 1988 or something, but like, no one has smartphones in this movie. And all of the cars are boxier than contemporary cars. You know, the internet probably — there are big boxy desktop computers throughout the precinct, and a viewer wouldn’t know if that’s because the precinct is [laughs] like, doesn’t have good computers, or because this movie took place in an earlier time.
+[1:00:00]
+But at the same time, there are signals that like oh, this is a pretty contemporary movie, like, oh this is an actor who blew up in Southeast Asian cinema and is now here, which is like okay, that’s at the last 20 years of action movies, for sure. Um. Other stuff, I’m trying to think if there’s anything else before we go to the next step. I think that that’s it. We’ve determined their relationship, we’ve determined the villain. We’ve discussed these relationships in detail. All right, I think we’ve established all that stuff. So now the biggest thing is naming the movie. I know we tossed some names around, but now we have a little bit more of detail on all of this. Anyone have a good movie name suggestion?
+Dre: Oh, boy. [cross] I dont know, go back to our list that we had.
+Austin: [cross] We could go back to our big list. Yeah.
+Sylvia: Yeah. I definitely did like the, we were kinda going down a gambling name route, and I do really like that.
+Janine: Mm-hm.
+Austin: Yeah.
+Sylvia: What’s the one — was The Eighty Six, was that the one we had?
+Austin: Eighty Six is pretty good.
+Janine: That’s — I don’t think I have anything to suggest that would be better than that, especially if this is a corruption story.
+Austin: Yeah. I can go with that, The Eighty Six.
+Dre: Yeah, I’m into it.
+Austin: It sadly cannot be the 86th precinct. Bluff City has like 50 thousand people in it. [laughs] It probably has like three total department buildings, yknow.
+Janine: It’s the eighth in the sixth precinct, they share an office or something.
+Austin: Okay, they share [laughs]...
+Sylvia: The address is like 86 something.
+Austin: 86, yeah yeah yeah, totally.
+Sylvia: So it’s just called the 86 colloquially.
+Austin: Yes. Totally. And I imagine that this chief, this police chief, Grimes, is often —  you know. That’s how he refers to getting rid of people. He’s like, you know, you gotta eighty-six em sometimes. You know, if there’s trouble in the city, you gotta eighty-six it. And — I think even he, when pressed on that, they’re like “do you mean kill people?” he’s like “Ah, no, it’s an old gambling term. You throw em out! You throw em out of the city, you get em out of the city!” [laughs] It definitely doesn’t mean you kill them. Um. So, that is the — and in fact, that’s like the — that could be the thing is like, you’re both look through the criminal informant files and you see that the one for Jamian Raine says 86 on it, as in to like codify, okay, he’s been eighty sixed. Which, if you ever ask a cop, they’re like “oh yeah, we relocated him out of the city.” He’s just gone now. I like that actually better than there a graveyard scene. It’s just like, Jamian’s gone. And you try to catch up with him and he’s gone, like you try to give him a call and he’s gone. No one can get in touch with him. His family doesn’t know where he is. He hasn’t shown up to the zoo in a while. Van McLaren doesn’t know where he is. And i think maybe we should actually just jump right in to — in fact, Van McLaren is not… is not in this movie. But the — oh, yknow, maybe he is! Maybe someone casts a Van McLaren — also, Jamian Raine is the key to this, then yeah, Van could totally be there. So maybe we open in the zoo, maybe that’s what — where we kick things off. With the three of your in a car, driving towards the… zoo, which… in Bluff City, is like — it’s like a weird wetland zoo. You kind of go north in Bluff City and then — to be clear, there is not a zoo in Atlantic City. But there is in Bluff City. And you kind of go north past all the casinos, and then you turn west and start heading towards the mainland, and there’s kind of a long turnpike that goes through a bunch of marshes and wetlands, and it eventually like, there is like a little — it’s not like a petting zoo or anything [laughs]. It’s not tiny. But it’s like a pretty zoo, all said, that has been built onto like a— they’ve drained a little bit of the marsh and like reinforced it with concrete and stuff, and so just out in the middle of nowhere, you know, there’s like marshes for miles, you can start to see the cages of a zoo. You know of take a winding path into the marshlands. And it is like sunset, the day is closing up and you’re going to meet up with Van McLaren, who is not played by the same person he was played by in the first episode of this game. He is being played by an actor playing that character at this point. I wanna say he’s being played by… I think probably by… Damon Wayans?
+Sylvia: [laughs] Okay.
+Dre: Sure [laughs].
+Austin: Is who I’m gonna say? So Damon Wayans is playing him. And he is closing up the zoo as y’all arrive. [pauses] It has been a week since anyone has seen Jamian.
+Dre: And what’s this guy’s name again?
+Austin: This is Van McLaren.
+Janine: Van first name, McLaren last name, or —
+Austin: Correct.
+Janine: — Vanmaclaren all one last name?
+Austin: Van first name.
+Janine: Okay.
+Austin: Are you all like… black and white, or are you in like a… detective like whatever car? Not undercover, but an unmarked…
+Janine: I’m going to say detectives just drive standard Crown Vic kinda… right?Dre: Right. But unmarked Crown Vics, for sure.
+Janine: Yeah.
+Austin: Yeah. What are you all wearing, what do you all look like? As you get out of this car.
+Dre: Janis is very much like, The Wire street detective clothing, so like, jeans. I’m gonna say a hoodie with the sleeves cut off.
+Austin: Mm-hm.
+Dre: Just. Yknow. Showin off those guns.
+Austin: And again, you just sticking with Nia Jax as the actress here basically?
+Dre: Pretty much.
+Austin: That build, and stuff? Okay, cool. Um. Sebastian, what about you?
+Janine: So I’ve got two big touchstones for sebastian Young.
+Austin: [amused] Okay.
+Janine: The big one is Matthew Gray Gubler in his Patrick Jane phase, so like…
+Austin: [more amused] Okay!
+Janine: When Spencer Reid on Criminal Minds has relatively short hair, and it’s very like curly and fluffy, kind of.
+Austin: Okay.
+Janine: And a lot of like button-ups and suit pants and vests, with the tie. Like a very sort, you know, prim thing… Another touchstone would be the shortlived cop show Golden Boy. [laughs]
+Austin: That’s a deep cut.
+Janine: [laughing] Which no one in the world, I’m sure, remembers. Which is just…
+Austin: I searched “golden boy”, and, is this? Hm. [laughs]
+Dre: Yeah, make sure you put “cop show” after “golden boy”.
+Janine: That dude’s way too fit. Yeah. “Golden boy cop show” will get you there.
+Austin: So not Golden Boy, the anime on Crunchyroll?
+Sylvia: [intrigued] Oh.
+Dre: [intrigued] Hm!
+Janine: [laughs] No.
+Austin: No?
+Janine: You’re close with that Gube. It’s not quite the Gube that I have in mind, but it’s…
+Dre: Here’s an important question. Where you  wear — when he wears a tie, is the top button buttoned or unbottoned?
+Austin: Good question!Janine: Oh, it’s buttoned! It’s — well. Yeah, that’s the thing with Reid, like, you get early — you get early, and I think later Reid, and he’s very like top button unbuttoned, and like cardigan. And like gun kind of in the front, and it looks sorta weird. But then you get like I wanna say it was like late- to mid- Spencer Reid, and he’s got like a lot of vests. Shorter hair… I think I linked this picture before, but I’m gonna link it again.
+Austin: We do have a lot of tabs open.
+Janine: That era of Spencer Reid is kind of what I’m going for here.
+Dre: Okay! 
+Austin: Yeah. I can see this. Very floofy. Very floofy hair. Floofy, but thin hair. At the same time.
+Janine: Yeah. A hundred percent.
+Austin: Like, big floofs, but also kind of wispy.
+Janine: This is why I call it his like Simon Baker, Patrick Jane phase—
+Austin: Yeah, I see what you’re saying.
+Janine: — because Patrick Jane, you know… The time when his hair is like close to his scalp is kind of limited. It’s usually kinda out there a little.
+Austin: Yeah. Patrick Jane, of course, played by Simon Baker.
+Janine: In The Mentalist.
+Austin: In The Mentalist, the hit CBS drama The Mentalist.
+Janine: Greatly underrate.
+Austin: Deeply — agreed.
+Janine: Rest in peace.
+Austin: Rest, RIP.
+Dre: Can I take back my fashion choice?
+Austin: Yes.
+Dre: Okay. Still jeans, but.
+Austin: Still jeans.
+Dre: Instead, it’s a crop top and a black leather jacket.
+Austin: Love it. Perfect.
+Janine: Ooh.
+Austin: Good look. Good look. All right, so, Detective Max Lam, what about you?
+Sylvia: So, like I said, he’s a guy of Thai descent. He’s like late 20s, I’d say, like 28-ish.
+Austin: Okay.
+Sylvia: At least that’s the character, the actor’s probably in his 30s.
+Austin: [laughs] Accurate. Good.
+Sylvia: But it’s like, you’re a Hollywood 20-something.
+Austin: Mm-hm.
+Sylvia: The way I — so i kinda put this thought into words like, typically when people see Eddy Chankul he’s like very well put together.
+Austin: Right.
+Sylvia: Like very charismatic looking dude, but Max is kind of departure from that look. He looks overworked, but in that Hollywood disshevelled overworked way. So he’s kinda scruffy, and he’s kinda — like he’s got dark rings under his eyes, but it’s in the kinda way that there’s gonna be GIFs on him on Tumblr.
+Austin: [laughs] Right. Right. Got you, exactly.
+Sylvia: Yeah.
+Austin: Perfect.
+Sylvia: A touchstone for that, I’d say, is obviously not appearance-wise, but just for the vibe, Jake Gyllenhaal in Prisoners.
+Austin: Oh, interesting! Okay. Sure.
+Sylvia: And he’s wearing this like — one of those old Columbia windbreakers, like it’s costuming to make him look a little smaller in comparison.
+Austin: Right. Cause he’s actually probably a big enough dude, right, like?
+Sylvia: Yeah, he’s in really good shape. Like, he’s fuckin ripped, but he’s wearing this like windbreaker, and then like a tight crew neck underneath and jeans.
+Dre: How bright and colorful is this windbreaker?
+Austin: Good question.
+Sylvia: It’s like the purple and green type of windbreaker.
+Austin: Yes! Good.
+Dre: Hell yeah.
+Sylvia: Yeah.
+Austin: God. Okay, cool.
+Sylvia: That like teal-y green.
+Austin: So I think we get out of the car and like the sun is starting to go down a bit. Yknow, maybe it isn’t actually starting to go down yet. It’s like 3 PM, not 6 PM, yknow what I mean? And it’s — or maybe it’s like a 3 PM in the winter, right, so the sun is kind of on its descending arc, but it is not quite like sunset yet. the zoo will be open for another few hours. And so you see like a bunch of people. In fact, there’s like — there’s a couple school buses in the parking lot. And you can hear the sound of children running around, and you can see families going in. It is like a Friday. In fact, I think it’s probably like a — it was like a half-day school day, where they got to go to a — a bunch of differetn schools today arrived to like, ykow, do their winter school trip to the zoo. And everyone’s bundled up, and there’s balloons, and you’re kind of like walking through the zoo, and there’s giraffes and elephant — actually, no, the elephant thing is empty. The elephant [laughs] the elephant cage is totally empty. And there’s, yknow, a bunch of other people there. So what are you all doing? What is your impression — what is our opening shot of them walking through the zoo, what are looking like, what are they looking for, all that stuff?
+Dre: I mean, I imagine we make a beeline for Van?
+Austin: Yeah. Do you like being around kids? Are kids like an annoyance, or are kids cool?
+Dre: Janis Stone loves the kids.
+Austin: She loves the kids? Yeah?
+Dre: She loves the kids.
+Austin: Awesome. We definitely get the shot of like a little girl like pull on her mom’s like coat and points up to you and is like, [excited] “She’s big!”
+[amused noises]
+Dre: Janis Stone definitely like crouches down and is like, 
+[as Janis]: Hey. If you drink your chocolate milk, you’ll get big like me too.
+Austin: Good.
+Dre: Because we got that chocolate milk money on this film.
+Austin: On this film, right, brought to you by the Milk Council.
+Dre: Yeah.
+Austin: [loud laugh] Good!
+Sylvia: God.
+Austin: Do you give her a chocolate milk, also?
+Dre: Yes! Absolutely!
+Austin: You just like happen to have one, somehow? Perfect.
+Dre: Yeah. Of course — yeah, come on.
+Austin: Yeah, I’m fine with that. I’m good with that. I’m good with that.
+Janine: Why isn’t there a product placement move in this game?
+Austin: That’s a good question! I mean, I think it’s kind of in there — oh! You know what, we have to set one stat really quick, which is, I believe we staart with 0 camaraderie. Make sure everyone has 0 camaraderie set.
+Dre: Oh, right.
+Janine: Is there a place for that to go…?
+Austin: I don’t see it, for now, put it under hold. Um. Oh, you know what, yes there is, it’s on the movie script page, so I got it.
+Dre: Oh, okay.
+Janine: Okay.
+Austin: It’s here.
+Janine: Oh, yeah, there it is.
+Dre: Oh yeah.
+Austin: And then it’s also the movie title is here, The Eighty Six. Cool. Camaraderie is like a really weird special move. Everyone can roll camaraderie once, and it is… it is a thing that you gain camaraderie points through some other moves, that raises up from 0 or lowers it. Each time you use camaraderie, it lowers by 1. And it is the like… it’s when you draw on the strength of your friendship, and like, your backstory. It’s the flashback before the big fight scene, it’s the — drawing on the dramatic speech that your friend gave, or like, running into fire to save them. And it does everything from heal you to give a new weapon, to let you hurt the bad guy more. [laughs] Et cetera. Or even like get XP. But that starts at 0, so I wanted to make sure that that was written down. Okay. So you give that little girl some chocolate milk. Shoutouts to the Milk Council. And you continue on your way to find Van McLaren, who is, I think, currently… He’s in the bird exhibit. We know that that is one of the areas he works at. And he is currently feeding a bunch of exotic seagulls. There’s a seagull, like, a special seagull exhibit, they’ve imported  a bunch of seagulls. And as you’re looking, those seagulls just look like seagulls, as far as anyone here can tell. And he is like, he’s very delicately washing one of them currently.
+[Dre laughs]
+Austin: He goes like, 
+	[as Van McLaren]: God damn, more cops. [sighs] Hey, officers.
+Austin: And like none of you are in — none of you are in blues, or anything, right, like none of you are in your uniform, so he’s — but he very clearly just knows a cop when he sees a cop. I guess, he knows — he’s probably seen Sebastian Young around, talking — well, Sebastian and Janis — talking to Jamian in the past, and probably just knows that you’re cops, but. Definitely puts out the vibe of like—
+[1:15:00]
+Austin: “I know a cop when I see one”. And he like slowly puts the gull back in a little cage, and like slides — he like puts it in a cage, and it’s almost like a safety deposit box, he slides it, or — you know, like a bank exchange or like a check cashing place, he like puts it in a little slot and then slides it into a larger thing and opens from the other side, and the bird like flies off into the aviary. Is that right, aviary? Apiary? What’s — apiary’s bees.
+Janine: Apiary is the bees.
+Austin: Yeah. [cross] He doesn’t put it in the apiary…!
+Janine: [cross] [laughing] We’ve also done this bit on Bluff City already!
+Austin: God damn it. I don’t know my avie words, my aviaries. Um. And so yeah, he takes off some gloves and turns to you all. And he’s just surrounded by bird cages.
+[as Van McLaren]: How can I help you, officers?
+Dre [as Janis]: Hey, Van, it’s not that kinda visit, man. We’re lookin — we haven’t heard from Jamian in a while.
+Van McLaren: What do you mean it’s not that kinda visit, like. It’s not that — 
+Janis: You’re not in trouble. Just chill. We’re just lookin for Jamian.
+Van McLaren: Yeah, I’m looking for Jamian too, why do you think I’m in the bird cages, this is his job.
+Janis: When’s the last time you heard from him?
+Van McLaren: Uh, ten days. Ten days. And I knew he had some vacation time saved up, I figured maybe he just went up and, yknow, took a trip outta town. Maybe went out to Camden or whatever. I know he has some family up there, but I called them. They haven’t seen him.
+Janis: It doesn’t make sense. You all have that hippo that’s pregnant, it’s about to give birth. [cross] Jamian wouldn’t leave the hippo.
+Van McLaren: [cross] You don’t have to tell me about the hippo, I know about the hippo. We’re very worried, it might be twins. I don’t know how to deal with twin hippos, man!
+Austin: He’s like rubbing his forehead.
+[as Van McLaren]: He was here about ten days ago. We had a shift together, he was talkin all type of smack, you know how he is. About the elephants. The elephants went missing. I worry that he stole the elephants, but I think that… even that is a little bit too out there for — for my boy.
+Janis: Hm. Ten days. Young, how does that match up with your timeline?
+Janine: Well… God, I’m like trying to think like what the fuck is my timeline now.
+Austin: It lines up. Is what I’ll say.
+Janine: How long has he been gone?
+Austin: Ten days.
+Janine: Oh, it’s the full ten days, and he’s — okay.
+Austin: Yeah yeah yeah. You proabbly saw him twelve days ago, you know, or talked to him, or whatever.
+Janine: Yeah.
+Austin: Or eleven days ago, or whatever, and you were the one who said, oh, you should go to the chief, I’ll connect you.
+Janine: Yeah. 
+[as Sebastian]: Well, it doesn’t seem like it’d be a good time for a vacation, that’s for sure.
+Janis: Is he still livin at the same place?
+Van McLaren: Yeah, down by the cove, or in the cove, on St. Marks. As far as I know, I haven’t gone to check in or whatever, but I’ve called. No one’s picked up.
+Janis: Yeah… He didn’t give you like a spare key or anything, did he?
+Austin: Uh, this sounds like a move to me. This sounds like Getting What You Want. When you manipulate someone in order to get something, roll plus Magnetism.
+Dre: Okay. So it’s just a 2D6 plus the stat? Okay.
+Austin: 2D6, plus the stat. Yep.
+Dre: Boom.
+Austin: You rolled 2D6+1, and you got a 10! So on a 10, you get what you want, and it’s better than you expected. If used against a PC, they can refuse, but take a -1 forward until they give in. But no, yeah. Um. What’s he do — how’s it even better than you expected? He’s like.
+[as Van McLaren]: You know, I’m not supposed to do this, but yeah, he gave me a key, and he also… he’s got a — he always said that if anything ever real bad happened to him, you should, uh — not you. Me. I guess me. To check his diary. He’s always takin notes. He’s always writing stuff down. And he has a key lock on it, and it’s — the password is 451. You just roll that key — it’s one of those wiggle things, you wiggle the numbers. Not wiggle, you turn them. You know what I’m saying.
+Janis: Yeah yeah yeah. Yeah.
+Van McLaren: [tired] You have any other questions, or can I get back to these birds?
+Sylvia: Yeah, and um, while he’s saying that, Max is yawning a little. I also forgot a detail. He always has like a lollypop in his mouth, and he like gestures with it when he talks, he like pulls it out and gestures with it.
+Austin: Good.
+Sylvia: And he’s like.
+[as Max]: Have you seen him around with anybody that he doesn’t usually talk to?
+Van McLaren: Hm… Not really. I mean, he’s always… he’s always at The Bash, that little club… up on the boardwalk, right near where the cove hits the kinda mainline. But there’s new people in there every week, ‘cause tourism and all that.  he hasn’t been talking about anybody specific, you know what I mean? Like, he always has a story. There’s always like, oh, you won’t believe who I saw at The Bash last night! But like, he doesn’t — it’s a different person every time. He doesn’t get into shit like that. He was a good guy, you know, he — always got into some trouble, but. He was a good guy. Can I get back to my birds, or?
+Max: No, yeah.
+Janis: Yeah. I think we’re good here.
+Van McLaren: All right.
+Max: Have fun with the seagulls.
+Van McLaren: Yeah. I’ll have fun.
+Janis: You call me when those hippos are born. I’ve never seen a baby hippo.
+Van McLaren: I will. We need names, do you have any good names for baby hippos?
+Janis: Oh…
+Max: I’ve always been partial to Max.
+Van McLaren: That’s your name.
+Max: Yeah, I know.
+Van McLaren: You want me to name a baby hippo after you.
+Max: Yeah, why not?
+Van McLaren: What if it’s twins?
+Janis: Well, you name one Max and then you still gotta find the other name.
+Max: Yeah.
+Sebastian: Maxine.
+Max: I don’t know how that’s my problem.
+Van McLaren: I — we’ll — 
+Janis: Yeah, Max and Maxine. There we go.
+Van McLaren: I’ll think about it. I’ll — mm.
+Sebastian: It’s funny, cause hippos get big. And Max also can mean like big. You’re not big, Max, I’m saying, um.
+Max: I mean.
+Sebastian: The word can used in that way.
+Van McLaren: You have a good day.
+Janis: Big Max over here, okay!
+Van McLaren: Big Max. You know what? Next time you come, you better bring me a couple Big Macs, you know what I’m sayin! Like to eat.
+Janis: Don’t push it, Van.
+Van McLaren: All right. Good luck. Lemme know what happens.
+Austin: Uh, cut, and we move on, we cut to — where do we cut to? Do you go to his house?
+Dre: Yeah, we gotta get that diary.
+Austin: All right.
+Dre: Unless anybody wants to do something different.
+Sylvia: Nah, I think the order here is the house and then maybe The Bash.
+Austin: Yeah. So I think you go to his address, it is a basement apartment in like a two-floor. So he’s in the lowest floor. You like walk around the side, it’s icy — htere has been some snow recently, and rain, and it’s been like very cold, but the — and no one has like shovelled or salted here, so it’s like a salty — not salty, it’s like an icy walkway to the back of the house, back of the two-floor building, and then down into the basement. And you use the key, and you can open the door to the bedroom, or not the bedroom — it’s like a studio. A basement studio. And it is… totally fine, like you open the door, maybe expecting to see yknow stuff has been flipped or whatever, but nothing in this room seems like it’s been touched. What do you all do?
+Sylvia: I think the first thing that Max says is like,
+[as Max]: I told you, he’s probably just gone to Vegas or somethin, and got caught up in stuff — like, he clearly parties, if he’s goin to this Bash every week.
+Janis: You don’t — he’s not — he doesn’t go to Vegas to party, he’s a Bluff City boy, through and through. He hates Vegas. [Max sighs] And I’m tellin you, he would not leave that hippo. He loved that hippo.
+Max: Listen, I’ll humor you, but… C’mon. This happens all the time.
+Janis: Let’s find that diary.
+Austin: All right, so how do you start like lookin through stuff? Are you flippin the place over, are you being careful, like what’s this look like?
+Dre: No. I think it is, like it’s being thorough, but it’s definitely not flippin the place over, ‘cause like this is Janis’s friend’s house.
+Austin: Mm. Okay.
+Dre: But, I mean, depends on — I could also see where like if it’s hidden really well, where Janis gets frustrated and then starts like… [Austin laughs] flippin stuff.
+Austin: No, so I think, you know, you — one, we should build this place out a little bit. There is like — it’s a studio apartment, which means, you know, theres a little kitchenette and there’s like a hot plate and a fridge, and in the fridge you can see that there’s expired milk, and there’s like eggs and stuff, like — this isn’t — he has not been here, probably, right? But it’s not like rancid or anything, either. There’s other stuff in there that’s totally fine. There’s like some water or some orange juice or whatever, some soda. The soda’s probably flat, but it’s not, yknow. Again. He hasn’t been gone for months. There is a lot of hippo theme. There’s actually hippos, elephants, rhinocerouses, that are like either photos, drawings, or little statues all through the apartment on like shelves and stuff. He’s got books — 
+Dre: Got the complete ZooBooks collection.
+Austin: Yes, exactly, one hundred percent, he’s got ZooBooks. In one corner, he has like a PC, and on… like an old tower PC, on a little — he has basically a card table that he cut in half and added new legs to, so it would fit in this corner, it would be too long otherwise. And then he has the other half of the card table, with the same sort of added legs in front of the couch as like a TV dinner tray. [laughs] Like right in front of on like his couch. And it’s a fold-out bed couch, also. But right now, it’s in couch position. And you’re turning around, you just like cannot find this fuckin diary anywhere. What else do you do? Where are you looking?
+Dre: I think Janis is probably on his computer, but is not good with technology. Just has no idea what she’s doing.
+Austin: Yeah, there’s a — yeah, so I think the thing that we end up getting is just like, you end up looking through this computer. It has a very old fashioned interface. Again, as the viewer, you might not know if it’s because this movie takes place in the 90s or the 80s — it definitely has like Windows 95 style interface. Or if he just has an old computer. But evenutally, you find a Wordpad document that’s password protected, and you’re like, oh! 451! And you put in the 451 there, and it unlocks this old Wordpad document that is his diary. And the diary begins, “Man, I hate Vegas!” [Sylvia laughs loudly] And is about — is his last trip to Vegas, and you have to like scroll through — it’s just one document that he’s been updating for, you know, five years or whatever. Or has been updating every single day for the last year, and so it has…
+Dre: Doesn’t have word wrap turned on.
+Austin: Does not have word wrap turned on, one hundred percent. Has dropped too many images in there, so it takes forever to load. He does book reports in there. There’s like “Tom Clancy’s Rainbow Six” and then there’s just a giant bitmap of the Rainbow Six cover. [laughs]
+Sylvia: Fuck.
+Austin: Just in the middle of the book report.
+Sylvia: Real quick, before we get too far away from it. When the Vegas line gets read, Max just slips Janis like a 20, like they had a bet on it.
+Austin: [laughs loudly] Perfect. Good. Good. And you’re digging through this file, and I think at some point you — I mean I guess the thing is like there’s so much there, right? 
+Janine: Um.
+Austin: And — go ahead.
+Janine: i was gonna say, I think maybe like Sebastian sees Janis like, you know, painstakingly scrolling, and then like maybe kind of reaches around her to hit like Control-F or something. [Austin laughs] To try and bring up like, just, we can just like use this. [cross] He doesn’t say that but like that’s — 
+Austin: [cross] Yeah. What do you search for?
+Janine: Um, I think the first thing he would search for would be the Chief’s name, or even just the word chief, or police.
+Austin: “My chief problem with Vegas is…” and.
+Janine: Okay, next. Find next.
+Dre: “The chief plotline of Rainbow Six is…”
+[Austin laughs]
+Janine: [amused] Find next!
+Austin: “The Kansas City Chiefs are gonna just do this year!”
+[Sylvia laughs]
+Janine: [laughing] Find next.
+Dre: “My chief concern with the pregnant hippo is…”
+Austin: Right! It’s this — because it’s a year’s worth of notes!
+Janine: Yeah…
+Austin: It’s a year’s worth, and it’s just  like, 30 thousand — 70 thousand words! [laughs]
+Janine: Okay, I think the response to that then is, he hits previous a couple times until it’s like go back in document or whatever, and then it loops back around to the bottom.
+Austin: Right. Good call. Awesome. And so the last entry is like… “That cop Sebastian sent me up with the Chief, which is amazing, like I’ll finally be able to get stuff done. Yknow, people say that the Chief is up to no good in this city, but I feel like you don’t get to be the Chief unless you know what you’re doing. And this is something even the Chief could care about.” And you piece together that… This is like… This guy has listened to a lot of Hector Hu, the conspiracy theorist radio host in the neighborhood, or in the city. This guy is like, Jamian is like full on conspiracy thoerist. It’s hard to kind of separate fact from fiction here, but seems to think that there is some sort of weird real estate deal going on where someone is trying to kind of pave over the cove and turn it into more casinos. There’s an entry that just starts, “They wanna turn the school into a casino!” And says that he found — that he’s heard from someone he met at The Bash that there — he’s like “I met a contractor who came in from outta town, and they’re going over to the old Bluff City high school to evaluate whether or not the land is good for development for a new casino. But casinos are only supposed to be on the boardwalk, not supposed to be near residential territory, so I believe that this is the first step in a long plan to turn the entire city into one big casino. They’ll call it ‘Bluff City Casino’ and it’ll be a giant building that” — and like, all right. All right, Jamian. Like it kind of goes off the rails there, but that’s the basic detail that you find.
+[1:30:00]
+Austin: And that he’s gonna go meet up with the Chief. To talk about it.
+Dre [as Janis]: Young? Can we make a copy of this to bring with us?
+Janine: [amused] I’m such an idiot, I was about to say he was gonna pull out his smartphone.
+Austin: Mm. See. There it is.
+Janine: [cross] They don’t have USB keys, they don’t…
+Dre: [cross] Oh no. You know what he has? This fucker has a Jaz drive. He totally has a Jaz drive.
+Janine: I don’t even know what that is, what the fuck’s a Jaz drive?
+Dre: Aw, man. Do you know what a Zip disk is?
+Janine: Yeah, I know what a zip — is it like a pre-Zip?
+Dre: A Jaz drive is like a bigger Zip disk, I think.
+Austin: Yeah.
+Janine: Oh, okay.
+Austin: It was like a — yeah, I think it went up to like, fairly — like a couple hundred megs, right?
+Dre: I think you could get a Jaz drive in like a gig.
+Austin: Damn!
+Janine: But would the police department have a Jaz drive, though?
+Dre: No, but I bet Van does.
+Austin: No, but Detective Sebastian Young might!
+Dre: Oh, yeah.
+Janine: That’s true, okay, yeah, that’s true.
+Austin: [laughing] Do you know what I mean?
+Janine: He probably — okay —
+Dre: Or Raine might have one here, something like that, yeah.
+Austin: Right.
+Janine: I think Sebastian probably like notices the Jaz drive. And then like reaches over and like taps it, like yknow, I’ve got one of these, I can…
+Austin: Right. Do you have like an extra — 
+Janine: And we can transfer this info.
+Austin: Do you have like a disk that you could put it on, with you, like slide out of a jacket pocket or something?
+Janine: No, but I bet this dude has a disk that has something else on it already that we can look at and delete, right?
+Austin: Oh, he has like a pile of them, and they all — one of them just says “Games”. This one says like, “Pictures”. This one says “Movies”, which is — you put that one in, and it’s not movies, it’s just the posters from movies, he has thousands of movie posters that are like high-quality poster prints. And then you also find another Word document inside of that that is like, a How-To for printing them out and then like, where the best spots are to sell posters on the boardwalk on any given weekend.
+Janine [as Sebastian]: Okay, well we can erase this one, because this seems like illegal anyway, so…
+Austin: [laughs] That’s how the law works.
+Sebastian: If it turns out he’s fine and he is in Vegas, even though he hates Vegas, then he’ll be the — well, he can’t get mad at us for this one being gone. I’d be really mad if my games got deleted, but.
+Janis: Damn, he sold me like three of these posters! [Austin laughs] He sold me like three of these poster, he said he got em from a — man! He owes me like ten bucks.
+Sebastian: Why are you buying posters from just a man?
+Janis: Because he’s my friend, and they’re nice posters!
+Sebastian: A real friend will take you to Spencer’s Gifts if you ask.
+Austin: You hear the sound of someone fall outside. And someone goes, 
+[as Voice Outside]: Jackowski, you okay?
+Sylvia: Ah, I’m gonna go check that out.
+Austin: You like look through the basement window, you know what I mean, like out the very top of the room, there’s a little side window, and you see like the — you see like the polished black shoes of some kind of police officers. Some beat cops. One of them’s helping the other one of the ground.
+Janis: We gotta get outta here without them seeing us, we gotta keep this off the books.
+Sylvia [as Max]: All right, well. Are there any other ways out of this basement?
+Austin: No, there’s just the one way out of the — ah! Yes, there’s just the one — mm! There’s a second stairwell, there’s a stairwell up, but that seems to go to the house, and it has a big “Do Not Open” sign on it. Also, it’s locked. Also, that door is like — that door — I gues you wouldn’t know that right now, but that door is locked on the other side. [cross] But yes, there is another way.
+	Janis: [cross] Here’s what we’re gonna do.
+Dre: Janis starts like flipping the place. Like, fucking it up.
+Austin: Mm-hm!
+Janis: Um. You guys find stuff we could put to cover our heads, cover our faces. We’re gonna make this look like a robbery.
+Sebastian: Don’t you think that will make them pay more attention to us than if we just, like, casually…
+Janis: Listen. You don’t — we’re just gonna — no, we’re gonna barge through em — we can’t let them know we’re here. We can’t let them know that we’re onto what’s goin on.
+Austin: The Jaz drive is still running. It’s not done yet.
+Dre: Okay. I’m gonna go — is the door locked? I’m gonna go lock the door back.
+Austin: Good job relocking the door. [slight laugh]
+Sylvia: I’m gonna start like tearing through the closet, looking for masks or something that we can make into mask.
+Austin: You find — you know what, give me a… Ooh, I don’t know if this is — ah, I’m just gonna let this happen, it’s funny. You find like a drawer — you find like a little plastic — you know what you find is actually one of those big plastic bins, do you know what I’m talking about? Like a big plastic storage bin. And inside he has been stockpiling, as Dre says in the chat, hippo masks, for when the baby hippos are born, because he is — first of all, he designed them. And so the first few and just like really bad hippo masks. It’s just like a pig mask, but painted a different color. And then like bit by bit he’s getting just slightly better and better hippo masks, for when the hippos are born. So it’s almost as if your face is inside of the mouth of a hippo, basically, is what it looks like. And on the top it says “Bluff City Zoo”. “I Love Hippos” is written on the tongue of a hippo that’s coming out underneath your chin, basically. It’s like a Halloween mask more than like a ski mask. And also there’s a baseball cap built into it, with a brim. [laughs] It is nonsense.
+Sylvia: God! I’m gonna grab the weird pig one.
+[Austin and Dre laugh]
+Austin: Good!Dre: I mean, yeah, grab all the shitty ones, right?
+Austin: Yeah.
+Sylvia: [cross] I mean, that seems like the one that covers the face the most, too.
+Janine: [cross] Wouldn’t they be able to see our faces in the hippo mask — yeah.
+Austin: No no no, the hippo mouth is just — it’s pink. It’s like a pink, like… 
+Sylvia: NMesh?
+Austin: No, not even a mesh. It’s a plastic — or like a rubbery pink, with eye holes.
+Sylvia : Oh Jesus.
+Janine: Ew.
+Austin: In the back of — it’s gross! It’s not a good look!
+[Janine sighs]
+Austin: Also, they all have price tags on them. He’s pricing these at 29.99. 
+Dre: Oh hell yeah.
+Austin: They’re hand-written. Price tags.
+Sylvia: I’m still taking the pig one.
+Dre: Is there anything else that seems like valuable in here?
+Austin: Valuable to Jamian, or valuable to you?
+Dre: No, like, valuable like this would be a thing that if somebody was actually robbing this place would take.
+Austin: Oh! Um, he has a decent stereo, and he has a bunch of video games, and yknow like a large CRT TV.
+Dre: Okay.
+Austin: So we just get — what we get, then, is — ‘cause it has to be edited very nicely here — what we get is… Janis saying like “I have an idea,” and then we cut from that to the cops outside. One of them helps the other one off — there’s three of them total. Like, three white dudes. One of them’s a little bit heavier, one of them’s like very lanky. One of them is like clearly probably goes to the rival gym from yours, Janis, [laughs] and is like real buff. And we see them walking around the corner, and then just like, the tall lanky one kneels down, and begins to pick the lock. And then they open the door, and then are they seeing you all like mid-fake heist?
+Dre: I actually would like to, when I hear them picking the lock, that I basically just kick the door down on top of them.
+Austin: Awesome. Good. That is a Stunt, is what that is. [reading] When you perform a badass stunt, roll +Agility or +Muscle depending on the type of stunt. On a 10+, you do the cool stunt you were attempting to and you feel like a total badass doing it, take +1 forward. You may pass this +1 forward to another one of the PCs instead if you can work them into the stunt. On a 7-9 the stunt is successful, take +1 forward; however, you have left yourself in a precarious position, choose one below. And then on a miss, you choose one. So, this is Muscle, for sure. What, your Muscle’s 3?
+Dre: Yeah.
+Austin: 2d6 +3. That’s an 8, so. That’s a bad roll on a +3! So, either you choose you fall, you lose something, you leave something behind, you hurt yourself, the director makes a move against you. Choose one.
+Dre: I’m gonna say I fall, ‘cause I have to put so much force behind the door, that I’m like down on top of this door.
+Austin: Okay. So you just like push that person completely over your back, you’re out now in the — the sun is now setting, it’s starting to get a little bit dark, and you just like are collapsed on top of this cop, pinning him down with the door. But on your stomch, ‘cause you’ve pushed this whole thing over. The other two cops like jump back, and are like 
+[as Cops]: Holy shit, it’s a hippo!
+Austin: Um. And one of them like draws their nightstick out. What do the rest of you do?
+Sylvia: I was gonna say, I think as the door is falling I’m drawing my gun?
+Austin: Okay.
+Sylvia: So it’s like, this door’s down, and they’re distacted by Janis, and then they notice the other — the guy in the malformed pig mask with a gun pointed at them.
+Austin: [laughs] They like slide around to get cover, and pull their own guns out, and are like,
+[as Cops]: Drop the weapon, scumbag!
+Sylvia [as Max]: I’m just gonna give you guys a piece of advice: today is not the day for heroics, all right?
+Austin: That sounds like a one-liner to me, actually.
+Sylvia: Oh jesus, really? All right.
+Austin: It does. Yeah. Give me — I don’t think it’s an Emote, really? I guess it could be Getting What You Want, right, you’re trying to threaten them into backing off.
+Sylvia: Yeah.
+Austin: So yeah, let’s say that’s Getting What You Want. So roll +Magnetism to manipulate someone in order to get something. The thing you want is for them to not try to fight you here. What is your Magnetism?
+Sylvia: My Magnetism is 1.
+Austin: Great! Go ahead and give me a roll, 2d6 +1.
+Sylvia: Got an 8.
+Austin: That is an 8, on a 7-9 you get what you want, but it comes with an added cost. A PC can outright refuse. So the thing that you don’t want is for them to…. to fight you, here. But it comes at a cost, let’s think. Oh!
+Dre: I mean, I am stuck outside.
+Austin: Yeah. They… Yeah, but I don’t wanna take you out of the — I guess I could, that’s possible. They holster their — mm. They don’t holster their weapons, that’s not what these fuckers do. They grab Janis from the ground, and they go like
+[as Cops]: All right, fine, but we’re taking your friend!
+Austin: And the three of them like put handcuffs on Janis and start to drag her away. [Sylvia sighs] Back to the police vehicle, back to the cop car.
+Dre: They’re not — no, I’m fighting them. [laughs]
+Austin: All right. What’s that look like?
+Dre: Um. God… How many of them are there?
+Austin: There are three of them.
+Dre: Okay.
+Austin: [amused] They’re a small gang.
+Dre: [snorts and laughs] Um. [Sylvia laughs] I’ll let them put the cuffs on me, but that’s just because, yknow, it makes them get off guard, ‘cause now they think they’ve got me. I think I just fucking like axe-handle one of these fools.
+Austin: With your — the hands in the cuffs?
+Dre: Yeah.
+Austin: All right. Give me a Violence. That’s Violence: plus Muscles, 2d6+3 again.
+Dre: Oh, and do I get the +1 forward from that Stunt?
+Austin: Yes, you totally do. You totally do.
+Sylvia: [huffs] Jesus.
+Austin: Ah, let’s say it’s on the lanky one, who is the one who — that’s what the plus forward is, is that they’re still kinda woozy from — so 2d6+4, here. That’s 16!
+Dre: 16 [laughing]!
+Sylvia: [hands over mouth] Fuck!
+Austin: Please mark Star Power here, by the way.
+Dre: [laughing] Okay!
+Austin: Make a tick of Star Power.
+Janine: That’s very fitting.
+Austin: Yeah, a hundred percent. 16, we’ve never seen a roll this high in Friends at the Table history.
+Sylvia: Why do these rolls only happen on our like one-off stuff? [laughs]
+Janine: It’s not fair!
+Austin: I know, it’s sad, it’s a sad thing. And you just like — who do you hit? you hit the tall one, you hit the lanky one, and he just like crumbles. And the other two like jump back, and they’re like,
+[as Cops]: The hippo doesn’t mind being cuffed!
+Dre: Actually, hold up, Austin. Cause on Violence, I get to choose three of these on a 10+.
+Austin: Oh my god, you fuckin do. [Dre laughs] Go ahead, so tell me what you’re chosen. It’s inflict terrible harm, the target drops something, the target is knocked down, you make a mess (Messy), something explodes (Loud), you hit a whole bunch of people (Area), you can escape or close in.
+Dre: I think I’m gonna hit a whole bunch of people.
+Austin: That’s one.
+Dre: I’m gonna knock down that guy.
+Austin: Yeah.
+Dre: And I’m gonna escape.
+Austin: Okay! Yeah, I think you just like — escape from the — the handcuffs, right?
+Dre: Yeah yeah yeah.
+Austin: Awesome.
+Dre: God, I just break em in half. No. 
+Austin: Yeah, exactly. I want that to be the last thing you do, though, so what we get is like, axe handle, like heavy knee into the stomach, and then almost like a baseball swing, with just another axe handle, basically, but a horizontal one, and then after you knock them all down, you just break the shit out of those cuffs. As if to say like, I didn’t even need — I didn’t even need to do this first, I could have done this first. I didn’t even need both of my hands to deal with you. And they’re all knocked the fuck out. So y’all can get outta here, if you want.
+Sylvia: I think what happens is Max kinda like — comes up behind — like he’s followed after, and he’s just like
+[as Max]: Huh. That took longer than I expected.
+[Austin laughs]
+Dre [as Janis]: You know, I had to give… Give your boy over there time to finish copying the floppy.
+Austin: [laughs] The floppy is copied at this point, by the way, Sebastian.
+Janine: Okay.
+Janis: Hey, grab me a copy of Pacman, too. I love Pacman. 
+[Austin laughs]
+Janine [as Sebastian]: That’s not legal. You’re not supposed — 
+Janis: It’s fine, I’m just borrowing it from a person. I’m just borrowing it.
+Max: Yeah, not much of this is legal. 
+Sylvia: And then I gesture to the unconscious police officers.
+Austin: Yeah, that’s the thing with cops.
+Sebastian: That’s what I was — I was going to say. Couldn’t we have like — I feel like we could have called Dispatch and then they would [cross] maybe put a call out and they would’ve gotten distracted and left, ‘cause that’s their job, to do that.
+Janis: [cross] No. Young. Today you’re gonna learn. Today you’re gonna learn. Sometimes you follow the rules, and sometimes you follow your heart. And this heart? Beats for justice.
+Austin: That’s Drama. You just did a Drama.
+Dre: I was trying to go for One-Liner, actually.
+Austin: No, it was a little bit — I think, sorry, it was an Emote. I think that was, you picked an emotion to convey via speech or physical movement?
+Dre: Yeah, no, fair. [laughs]
+Janine: I really feel like that should fail. [laughs]
+[Sylvia laughs]
+Dre: We’ll see, I’ve got +0!
+Austin: Don’t worry, there’s a way for it — there’s ways for it to fail even if it succeeds, so. go ahead and 2d6+0.
+Dre: A 7.
+Austin: That’s a 7, on a 7-9 choose a PC or NPC to witness your emotional display. They feel the same emotion as you. It’s up to the director to decide how the witnesses react. If a player character acts on the emotion, they will take +1 forward. So, um, I think that that’s like, if you take +1 forward on this like, “it’s time to act” thing, Sebastian — or, sorry, if you go forward with “it’s time to act”, you’ll get a +1 on that next roll. Whatever that is, and the next scene, whenever that is, like, you’ll get that +1, if you are a person of action instead of being like…
+Janine: I think that’s probably fitting, ‘cause like, this whole scene I very much imagine  Sebastian just kind of like standing there being like, okay, floppy disk. [Austin laughs] Finish — I don’t wanna punch another cop or whatever. I don’t know what’s happening outside, I just wanna get this disk and go.
+Austin: Totally. Totally.
+Janine: And deliberatley being hansds-off and unsure, so.
+Austin: Mm-hm. Awesome. So yeah, so then I get — you guys get back — 
+[1:45:00]
+Austin: — to the Crown Vic — your Crown Vic, and drive away. Do you just leave them out here? In the dirt, or in the snow?
+Sylvia: I put the pig mask on one of them.
+Austin: Nice. Good. [Dre laughs] Good. Perfect. All right, uh — 
+Sylvia: And it’s like a shot of the car drives off, and then behind — from the car, like moves and reveals them with the mask on and zooms in and then cuts.
+Austin: Right. Right, perfect. So yeah, this disk that you have — someone take this disk. Add it to your gear. I think probably Sebastian, you have the disk, right?Janine: Yeah.
+Austin: This disk does have evidence on it that there is a conspiracy. It has like — evidence that maybe wouldn’t hold up in court, but that there is a conspiracy to pave over the — to basically eminent domain a bunch of territory in the cove, which again is like the low-income housing area, to then get it purchased by the city, who would then resell it to casino developers. At a low price, but at a high price in the sense that they got very cheap, because of the eminent domain and whatever weird crime — they’re really just gonna seize a bunch of property, so it’s not even eminent domain. They would be seizing property somehow. So yeah! That is what you know. Where to next?
+Sylvia: I mean, there’s that club. But we could also go back to look at the — oh, I mean I guess we looked at everything on the drive, huh.
+Austin: Mm-hm. Yeah. I just wanna zip past that. This isn’t the game of like, hacking, like that is what you see. That is the thing that yo now know exists. And like maybe you even figured out in the car, somehow, like maybe you have like a bag computer? Do you know what I mean, like an old, big laptop that you can pluge that zip drive into?
+Sylvia: It’s like a full suitcase thing.
+Austin: Yeah, like  asuitcsse laptop, yeah, exactly.
+Dre: Is the car wired to have the laptop plug into it?
+Austin: No, probably!
+Janine: It probably has like a 30-minute battery.
+Austin: Yeah, exactly right.
+Sylvia: It’s got like a lighter thing you can plug in, but it does like —
+Austin: I mean, that’s pretty funny.
+Sylvia: — it does jack shit!
+Dre: It’s also huge!
+Austin: Yeah, totally —  you can leave it in there to recharge it, but not to — it won’t ever power it long enough, you know what I mean, like it doesn’t actually power it for use. If you store it there all day, it’ll recharge over a long drive, but that’s it. so yeah, that’s where we’re at. So yeah, do you go to The Bash?
+Dre: Yeah, that sounds all right to me.
+Sylvia: Yeah!
+Janine: Yeah.
+Austin: All right. So yeah, this is like a — it’s kind of like a neighborhood club that wound up being — as the casinos started going further and further north towards the kind of more residential area in Bluff City, it kind of — first became the kind of cool spot you went to if you didn’t wanna just go to the shitty casinos. So yeah, The Bash is this place where, at first it was like out of towners who knew someone locally. They’d be like oh, we’ll go to The Bash, like The Bash is a nice bar and club that is mostly for locals, and so you kinda got like the real Bluff City vibe. But then bit by bit, it became a little bit more like a tourist-y spot, like not a spot, but like, it became a place where like more outsiders knew about, and so at this point it’s a pretty big mix. 
+But the people who end up going aren’t — they’re not tourists in the going to gamble sense — or like, they’re not tourists in the like, I’m gonna take the twelve-dollar bus from Pennsylvania down to the shore for a weekend. They are like — it is where gamblers go to drink and hang out and party, instead of where your weekend gambler, do you know what I mean, like professional gamblers would go to The Bash. Out of town entertainment acts will go to The Bash. Like if you’re in town as a comedian, and you wanna go out for drinks, you go to The Bash. If youre in town as a musician, you go out to The Bash. If you’re in town as a businessperson, you go to The Bash. 
+But it’s also still a bunch of locals, and a mix of people from Bluff City and also a mix of people who like work — work in Bluff City, but commute in from the mainland, from the kind of suburban areas surrounding the city. But it’s also owned and operated by like someone — by a person who is from Bluff City, and like from the cove originally, and this is their like — it’s their pride and joy, that they made a place, and are like geting out of the situation that they were born into and kind of bettering the community and bringing in money to the community, and are preventing — like, they own it. It’s not owned by some out of town contracter or by some franchise. They’ve had opportunities to franchise it out and maybe add one to one of the many casinos, and they’ve refused that offer. 
+So that is The Bash. It is a big single building. It’s a couple blocks off the boardwalk, and it is — I’d say it’s like — quote-unquote, I’d say “two floors”, but only in a sense that there’s not like a ceiling separating those floors. There’s like a lower floor where there’s a dance floor and a stage where there’s like a band that can perform, and there’s a bar down there, and then there’s like wings that go up. You can like walk up some steps and go to a second floor on either side, on the left and the right, that are tables and chairs and booths where people can like sit and hang out. And the dance floor can also be converted to like tables and chairs for when there’s like a performance or a comedy act or whatever, that is just for sitting and drinking and watching, and eating, instead of like dancing. But tonight it’s a dance club night. And I think it’s probably like some dope new jack swing playing when you go in. Like some Bell Biv DeVoe-style shit is on right now. And it is packed. You know, probably five hundred people in here, six hundred people. What’s the play, what’s the plan?
+[Sylvia laughs]
+Dre: Hm. So we knew that his diary said that he was like talking to someone here?
+Austin: Yeah, a contractor. Let me find out what her name is, one second. Does anybody have a good name for like an out-of-town contractor… lady? She’s not a contractor but she’s like the lawyer for a building company, for a contracting complany, a land development firm. I’m running low on Bluff City names, which is weird.
+Janine: Evelyn Cristo?
+Austin: Yeah!
+Sylvia: That’s not bad.
+Austin: That works.
+Dre: That’s good.
+Austin: Spell Cristo?
+Janine: C-R-I-S-T-O?
+Austin: Yep, that works. So that’s who you’re looking for?
+Dre: Seems like our best lead.
+Austin: Okay! How do you go about trying to find her, in this packed club?
+Janine: Do we know that she’s a regular here?
+Austin: No, we know that he met her two weeks ago. And I think maybe in the doc it says, you know, “I’m gonna see her in a couple weeks and try to get some more information from her!”
+Dre: Hm. Did he make any notations about what she looks like, or does she like…
+Austin: Um. [sighs]
+Dre: Does she wear like a — I’m thinking like stereotypical lawyer like pencil skirt, like suit jacket kinda thing.
+Austin: He doesn’t write down anything about what she wears. He probably says she’s fine, but like, he says that about everyone he meets. He is… He doesn’t have very high standards, is what I’m saying?
+Dre: Chiefly, this lawyer is fine.
+Austin: Chief — [laughs] — is fine. Chiefly, above all else. [Dre laughs] I’m dead serious, if you look through his entire doc, he — like that is — mm. “And they are fine as hell!” And it’s like, okay, you’re talking about President Bill Clinton, who you met. [laughing] Like, okay, if you say so, bud! Like! I’m glad that you are an open-minded dude whose taste is very broad. I’m not dragging anybody who thinks Bill Clinton is hot, but I might be dragging someone who thinks Bill Clinton is hot, so. So yeah, you don’t have much else to go on, he doesn’t say like oh, she has blonde hair, or anythign like that.
+Janine: Are we there like… What time are we there?
+Austin: It’s evening, it’s busy. It’s packed.
+Janine: Okay.
+Austin: And like there’s libe music happening on the stage right now.
+Janine: Okay, so I think once — okay, so once we come into The Bash, I wanna say that like Sebastian Young is not — he looks about as uncomfortablle here as he did waitng for the other cops to fight the bad cops while he was getting  a floppy disk copied.
+Austin: [laughs] Uh-huh?
+Janine: But at the same time, I think he like takes a minute to like look around — it’s a moment of like awkwardly bobbing his head to the music, hands in pockets. And then I think he walks up to the bar, and says — or tells the bartender like…
+[as Sebastian]: I’m supposed to meet Ev, could you send her a bottle to let her know that I’m here.
+Austin [as Bartender]: An Ev? Ev who?
+Sebastian: Ah, yknow, she’s… real cute lawyer type.
+Bartender: Like a Ev… Ev… What’s her name, Ev what?
+Sebastian: Eve… yknow, I just call her Ev C, Ev… Cristo, I think it is?
+Austin: Give me a “Getting What You Want” Magnetism roll. 2d6+2, right?
+Janine: How do I — I forget how I roll [laughs] —
+Austin: /roll…
+Janine: Okay, right — 
+Austin: Uh, /roll space 2d6+2.
+Janine: It’s been…a minute.
+Austin: Yeah, that’s fair. Also, the song playing is Keith Sweat’s I Want Her, FYI.
+Dre: Perfect.
+Janine: I got a 10.
+Austin: That is a 10, mark a Star Power, ‘cause Magnetism is one of your highlighted stats. So like, somehow this comes across as like — on paper, this should not work. [laughs] One, because who knows if this bartender knows Ev. But more importantly, like, this is a very cheesy move, but for whatever reason, the audience eats it up. The audience watching this movie is like, wow. Like, I didn’t know Mason Lowry could be so sexy. [laughs] So that just totally works, uh, so yeah, you get what you want! You say, Ev C, and the bartender goes like,
+[as Bartender]: Oh! Cristo! Cristo Cris! Yeah, yeah yeah yeah yeah, she’s right over there, I’ll send her a bottle. What do you want me to send her?
+Janine: Um. Oh boy. I think he just says like.
+[as Sebastian]: Champagne. Like just, just champagne.
+Austin: The bartender is wearing a fake silk shirt, with just various geometrical shapes of different color splattered all over it. And is like,
+[as Bartender]: Champagne. You want a — all right, man. I’ll send over a bottle of champagne, here’s the bill.
+Austin: Or is like, you know,
+	[as Bartender]: 72 dollars.
+Austin: And like sends it down to Evelyn. And the extra that I’ll let you get, because on a 10+ when you  get what you want is that you — it’s better than you expected. She just like comes right over to you with the bottle, once it arrives, and I’m gonna let this have worked with her as well as with the bartender. And she says,
+	[as Evelyn]: I haven’t seen you around here before.
+Austin: She is like a light-skin black lady with a pencil skirt, like a beige pencil skirt, and a beige jacket, with a white and blue blouse that has diagonal stripes on it, and her hair is like kind of up and floofy — I’m imagining like… What is her name from — I’m imagining like any black girl in a sitcom in the 1980s, basically, or the early 90s, but specifically I’m thinking of what’s-her-name from Fresh Prince.
+Sylvia: Yeah, I was thinking of her too, I’m looking at the…
+Austin: What the hell is her name? What is the character’s name?
+Sylvia: Vivian — uh, not Vivian, that’s wrong, um.
+Austin: No, not Vivian, that’s Aunt Viv. This is gonna kill — [cross] Hilary!
+Sylvia: [cross] Hilary?
+Austin: Hilary. Hilary Banks. Yeah yeah yeah yeah yeah. Is who I’m thinking of here. So. She is… She comes over and says like,
+[as Evelyn]: No one’s ever bought me champagne in The Bash before.
+Sebastian: Well, you know, it — 
+Janine: God, it’s really hard to be this character.
+Austin: [amused] Uh-huh!
+Janine: I think, okay. I think he just says like, 
+[as Sebastian]: Well, that’s a shame.
+Austin: And she like blushes a little bit, and she says,
+[as Evelyn]: Bartender, two glasses.
+Austin: [laughs] During this sequence, what are Max and Janis doing?
+Sylvia: Max is like down — he’s also at the bar, he’s got like just some shitty beer, and he’s just like fucking shocked that this is happening. ‘Cause he’s been working with this kid for a few weeks, [cross] and he’s just like what the fuck.
+Dre: [cross] Yeah. Does Max have to slip Janis another 20?
+[Austin laughs loudly]
+Sylvia: I think Janis slips Max a 20 that he was not expecting to win.
+Dre: Oh, okay. Yeah.
+Austin: Gotcha. gotcha. Good. So is that —
+Sylvia: And like he doesn’t even notice that she’s handed it to him, she just like puts it on the counter and he doesn’t even take it, he’s just like, what?
+Austin: Mm-hm. I think at this moment you see coming the door the three cops who you interacted with before. One of them has like their nose taped, and they obviously have been beaten the shit up, like they actually have like black eyes and stuff, but they’re just wearing plainclothes at this point. And they are being very aggressive in talking to people and like walking around the bar, they haven’t seen you at this point, but they have arrived and starting to kind of like poke around. But let’s go back to… Sebastian. So she’s like,
+	[as Evelyn]: Where do you work? What do you do here?
+Janine: Uh. I think the thing he would say is that he does like statistics at one of the casinos, like he does the sort of the… calculating the machine payouts and like doing — he probably — he’s not gonna say the word spreadsheets, but the way he frames that is like — 
+[as Sebastian]: You know, I make the casinos are still making money, I make sure people are leaving happy.
+Evelyn: Oh, you’re a numbers boy.
+Sebastian: Do the numbers side. Yeah.
+Evelyn: Oh, okay. Okay. We could — there’s gonna be even more work for you soon in this city, I think. Way bigger numbers than ever before.
+Sebastian: Oh yeah?
+Austin: She nods. She says — she nods, and like sips her champagne and says,
+[as Evelyn]: Bluff City’s gonna be the next Vegas.
+Janine: Okay, so he like also takes a sip of his champagne…
+[2:00:00]
+Janine: And like leans a little closer like,
+[as Sebastian]: What do you mean?
+Austin: And she says, 
+[as Evelyn]: So I work in land development. You know, building things. Like buildings. And…
+Austin: She like looks around conspiratorially and she says like.
+[as Evelyn]: There’s gonna be all sorts of new casinos soon. Big ones. Destination casinos, not just places you come to gamble, places you come to live a different life.
+Sebastian: It sounds like both of our jobs are gonna get a lot more interesting, then.
+Evelyn: Definitely! You don’t have any plans to leave Bluff City, do you? I’d love to see you again.
+Sebastian: Ah, I’ll be around. Um.
+Janine: I’m trying to think of like — the thing I wanna do is get her out of here.
+Austin: Mm. There’s ways to do that.
+Janine: Yeah. I’m trying to think the least bad way to do that. Uh… Okay. I think the thing he says is… okay. 
+[as Sebastian]: Yknow, it’s a little loud in here, and we’re right by the boardwalk, do you wanna just go for a little walk?
+Austin: Give me a Getting What You Want, with Magnetism, again. 2d6+2. That’s a 9. So you get what you want, but it comes at a cost. A PC can outright refuse. So, she’s like, 
+[as Evelyn]: Absolutely. 
+Austin: And she like stands up, and like takes you by the hand, like very much takes the lead, and like walks you out the door. And in that moment, the cost here is like, you’re passed through the dance floor and somebody — she also takes the bottle of champagne with her, [amused] like the whole bottle, and slips it into her pocketbook. And she has like a tiny pocketbook so it’s just like sticking out [laughs] the side of the pocketbook. But while passing through the dance floor, or like maybe not even the dance floor, but like passing a table or something, she bumps into the table and a bottle breaks, and falls and breaks. And that’s fine, the person’s like 
+[as Person]: Ah, don’t worry about it, don’t worry about it. Everybody has a good night! 
+And everybody — or, you know, I think maybe you bump into a waiter or something and they drop the bottle, and so he’s like.
+[as Waiter]: Ah, don’t even worry about it, you two go have fun. 
+Austin: But the noise draws the attention from those three cops, and they look past you. They don’t notice you and the woman at all, but they do notice Janis and Max, here. And they get like a weird look on their face, and come over, and like start moving through the crowd towards you two. As Sebastian leaves with… Ev. What do you two do? You wore masks before, so they don’t know that you’re those people, necessarily.
+Dre: Yeah.
+Austin: But.
+Dre: Um. Do we recognize these cops? Like besides like just like knowing they were there earlier, like do we like know them from the precinct?
+Austin: You probably do, yeah. You know that they are… You know that they’re beat cops, and that they are the Chief’s — that they are Grimes’s men, right? Like, so it’s Elliot Jackowski, whose name you heard before, it’s Marty McKeen, and it’s Oscar Season.
+Dre: Is Jackowski the one that’s face is taped up?
+Austin: Uh… The one who’s — yes, Jackowski is the one whose face is taped up. Jackowski is the big, lanky one, the tall, lanky one, who was picking the lock. Marty is the big, buff one. And Oscar is the slightly heavier one.
+Dre [as Janis]: Ah, Jesus, Jackowski, rough day on the beat?
+Austin [as Jackowski]: Yeah, ran into a real monster of a — of a person. Uh. Goddamn criminal, in the Cove.
+Janis: [surprised] Were all three of you guys there?
+Jackowski: Uh, yeah, they were like — it was a gang that we were up against. You know. Crime in this goddamn city.
+Janis: Yeah, it’s — I mean — what were they doin?
+Jackowski: Oh, robbin this guy’s apartment, I — I think they kidnapped him, personally.
+Janis: Mm.
+Sylvia [as Max]: Wait, a gang went to this whole partment? I mean, how many of these guys were there?
+Sylvia: And Max is clear —
+Jackowski: Eight. It was eight. Of em. Seven or eight, probably.
+Max: Damn!
+Janis: Yeah, looks like one was real like — maybe they were roided out and they were robbin that place for like, you know, drug money or something.
+Jackowski: That’s probably what it was. You know, that’s probably exactly what it was. Up to good, you know? Um. What are you doin here? This isn’t your type of place, Janis.
+Austin: Actually, he probably wouldnt say Janis, would probably say, um.
+[as Jackowski]: Stone.
+Janis: Yknow, I haven’t been here since, yknow, since it kinda — the clientele changed over and I figured I’d just give it a shot. I don’t know. Max said he’d buy me a beer, so.
+Max: What can I say, I need my wingwoman, right?
+Jackowski: Ha-ha! Yeah, yeah.
+Dre: Finger guns, finger guns to everybody.
+Austin: Uh-huh. Uh-huh.
+[as Jackowski]: So, uh, so what have you two been up to? Hm? You workin any angles lately?
+Max: I mean, nothing as big as takin on eight guys in an apartment, I mean, wow.
+Jackowski: Yeah. Uh-huh.
+Max: Surprised you guys made it out okay, that’s like — outnumbered, that’s rough.
+Jackowski: There’s a reason the Chief keeps us around. You know. We get things done.
+Janis: Come on, Max, you know those Bluff City beat cops, man.
+Jackowski: That’s right. That’s right.
+Max: Yeah, man.
+Jackowski: You know, it’s been a long day. You know, we…
+Austin: And they give you — I think he just looks you right in the eye and he goes…
+[as Jackowski]: We were out by the zoo earlier, too.
+Janis: Yeah?
+Jackowski: Yeah.
+Janis: Going to check out that hippo? I hear hear it’s gonna pop like any day.
+Jackowski: No, we were lookin for an elephant man. You guys know anybody who knows anything about elephants?
+Janis: I mean, I know… I went to a school with a kid, you know, from the Cove. He works over at the zoo now.
+Jackowski: Ah. Uh-huh. Does he? Has he been there lately?
+Janis: Aw, man, is he in some shit?
+Jackowski: ‘Cause we talked to — what was his name? Bus?
+Austin [as Other Cop]: Ha, yeah, Bus! Bus!
+Austin [as Last Cop]: Uh, I think it was Van —
+Austin [as Jackowski]: [aggressively] Yeah, it was a joke! Van. That guy Van, and he said that, uh, he’s been gone for a little while. You wouldn’t know anything about that, would you?
+Janis: All right, guys, here. Let me buy you a drink, and let’s dispense with the talkin in circles stuff, okay? Yeah I know — I know Jamian. We go way back. Okay. And his mom called me, said he was missin, so I went to the zoo to talk to his boss, see what was goin on. The boss said it sounded like he just took off. He had some vacation time saved up. But I don’t know. You’re telling me people are — [sighs]… What are you guys looking into him for, was he in some shit? What’s going on with the elephants?
+Jackowski: Yeah, big elephant shit.
+Austin [as Other Cop]: Ha ha ha! Big elephant shit!
+Janis: Don’t know of any other kind, right?
+Austin [as Jackowski]: That’s it. Which is funny, ‘cause we saw your car there when you pulled in, and you talked to old boy Van too. And then we saw your car our here, and we thought maybe you had… had learned something maybe we didn’t. Thought we could get a little bit of a — ‘cause it’s not your investigation, as far as I’m concerned. I haven’t seen your name on the board next to any missing elephant man.
+Janis: Nah, you’re right. Like I said, I’m just looking into it for his mom. You know, just a favor for her. It’s not like —
+Jackowski: And Max, too? This is a favor that — two cops are on this favor.
+Janis: [sighs] You know I drag Max into bullshit all the time, come on, guys.
+Max: Yeah, so, she’s doin a favor for his mom and I’m doing a favor for her. It’s like a whole — it’s a whole thing.
+Jackowski: Kay.
+Max: You guys know how it goes.
+Jackowski: Yeah. Well, thanks for the beer. You, uh… you be careful.
+Janis: Listen, you guys know anything? Is he — do you think he’s all right? Do you think he just like popped town?
+Jackowski: We’re in charge of this investigation. You don’t even worry about it.
+Janis: Okay. 
+Jackowski: All right? You stay out of it. Chief’s orders.
+Max: All right, well, um. Good luck with you guys’s anti-gang heroics.
+Jackowski: I don’t like your tone, Lam.
+Sylvia: The like — just like purposefully noticing the same word used, is like.
+Max: I mean. [clears throat] I don’t really care if you like my tone or not. I’m trying to have a fun night and I got — I don’t know. The Three Musketeers coming in here trying to get my away from my fun.
+Austin [as Cop]: I’m Porto.
+Austin: Says one of them. And the other’s like.
+Austin [as Other Cop]: Oh, that’s not… 
+[Dre laughs]
+Austin [as Jackowski]: You watch…your tone! Lam!
+Austin: And Jackowski, the tall one, stands up. And McKeen, who is the one who said “I’m Porto” stands next to him, and like, crosses his arms. And Oscar Season just sips from the beer.
+Austin [as Jackowski]: This doesn’t have to be a thing, but I’ll make it a thing. You keep gettin in our way, and I’ll get the Chief to sign off on whatever I want. You could be eighty-sixed too.
+Sylvia: I think at this point Max just like takes a last sip of his beer, is like inches away from this guy’s face.
+Austin: Yeah.
+Sylvia: And is just like.
+[as Max]: You boys have a good night.
+Jackowski: [loud sigh]
+Austin: And walks away?
+Sylvia: Yeah.
+Austin: Okay! let’s go to the Boardwalk. It’s a beautiful, freezing cold night on the Boardwalk. [laughs] You’re drinking champagne. The moon is —
+Janine: [amused] From stolen glasses that no one was concerned about!
+Austin: Yeah, uh-huh! The moon is above the sea. Y’know. Looking out on the Boardwalk. What are you talking about, what’s this look like?
+Janine: Um, I think… I think probably the scene like — I think probably when it comes in, it’s some like small talk that is not necessarily critical to the movie. Like this is, you know, the way this is built is the non-critical stuff is kind of gestured at on the sidelines but is not the focal point. So i think there is some small talk there about oh, I had a dog growing up, and I had a spaniel, what’d you have. 
+Austin: Mm-hm.
+Janine: And then I think what Sebastian Young says is, he’s like.
+[as Sebastian]: So… You know, back to this casino stuff. I… Yknow, my current gig, it pays well, but I don’t know that they’ll let me look around if new opportunities come up. I’m… You know, if you have anyone I could reach out to, when all this stuff, yknow. 
+Evelyn: Mm.
+Sebastian: When foundations are being laid, yknow?
+Evelyn: You mean like one of the other casino people?
+Sebastian: Someone else who might like to have me in their new establishment.
+Austin: Give me another Getting What You Want again, that’s another Magnetism roll. Which is +2.
+Janine: Shit!
+Austin: That is a 4. That is no good.
+Janine: No.
+Austin: So what she says is like… Oh, actually, she’s like.
+[as Evelyn]: Um. I can, um… I could connect you with —
+Austin: But before she can finish her sentence, you see the lights of like a police — it’s like a — it’s almost like a golf cart, but without the top. It’s like a three-wheeled vehicle, like a three-wheeled golf cart. That is coming down the boardwalk, and you hear the siren blare on. And it is — there’s two of them coming at you, and each one has two cops in it. And they like pull up beside the two of you, and they go, ah.
+[as Cops]: You’re drinking in public, you’re not allowed to drink in public! Put the alcohol down. Right away!
+Austin: And one of them hops out of the little golf cart, and walks over to interrupt you two. And says,
+[as Cop]: This is a misdemeanor. We’re gonna have to take you down to precinct.
+Janine: Uh… God.
+Cop: It’s a Friday night, so I hope you’re ready for a good long weekend.
+Janine: I — does this — okay. Uh. I don’t know if this works or not, I’m trying to like figure out if I can use Corrupt Is As Corrupt Does to… I’m a little unclear about how you use Corruption points when you are a corruption fighter.
+Austin: It’s just, you the thing, right, so it’s like — I mean, their example is that if what you want is access to a thing, you spend the point to get access to the thing. It isn’t like you get out of jail free. It isn’t that.
+Janine: No, but I was thinking like “gain access to vice”. Being like…
+Austin: I think that’s about like getting access to people. The vice one I think is like explicitly like, oh, getting access to someone — to a sex worker, getting access to someone who moves in that space. Not getting access to like…
+Janine: Okay.
+Austin: Yeah. That’s how I’m reading that for sure. Because all of these are about like being able to get into a place, or being able to access a thing, yknow?
+Janine: Okay. Uh, then I think the way I’m gonna play this, or the way that Sebastian plays this is… yknow, I think he sets the glass down, and has sort of his hands up in a sort of disarming gesture, like.
+Austin: Mm-hm.
+Sebastian: Come on, I got this nice lady — we just met, and I’m just trying to show her a good time.
+Austin: They say… You have not introduced yourself, and they say, ah.
+[as Cops]: Sebastian. You shouldn’t be talkin to this nice lady. 
+Austin: And like, at that point like, the bass hits. You know what I mean, like, [lowers pitch] bomm-bomm.
+Janine: Yeah.
+Austin: It’s clear that they’ve been sent — that like, they’ve been — in fact, I think if we can go back and edit those scenes, like we definitely saw them following you out of the — or like watching her, as she left the bar. And like walked away with you, from a different — from these golf carts down on the street, which then they drove up onto the boardwalk, once they got the go-ahead.
+[as Cops]: Evelyn, you come with us.
+Austin: And she’s like, she looks at you and is like, 
+[as Evelyn]: Why do they know your name? You’re not a criminal, are you?
+Sebastian: No.
+Austin:  But she says it in the sort of way that’s like, 
+[as Evelyn]: You’re not a [husky, intrigued] criminal, are you?
+Janine: Oh! In that case, i think he’s probably like, 
+[as Sebastian]: Names get around.
+[Austin laughs] 
+Janine: Just kind of… shrugging it off as like generically as he can.
+Austin: Mm-hm. Um. And she’s like. 
+[as Evelyn]: Uh, officers, it’s not a big deal, I just — 
+[2:15:00]
+Austin: And they say, um. 
+[as Cops]: Grimes needs to speak with you. 
+Austin: And she goes like, 
+[as Evelyn]: Oh! Oh. Okay? 
+Austin: And she begins to walk towards them.
+Janine: Can I… [sighs] I think Sebastian like reaches for her hand to kiss it.
+Austin: Okay! That’s — yep! Uh-huh! That just happens, you can just do that.
+Janine: Okay! So like as she’s walking away, she’s got the hand sort of swinging back, and he like lightly catches it, to kiss it. But I want him to slip her a card.
+Austin: Okay. Give me… hm. I think — I don’t think that the — I’m not rolling for slipping the thing, what I’m rolling for is, like, how this plays to the audience, again. I think that it is… hm. I think it might be Killer One Liner? Even though this is obviously not a one-liner or a catchphrase, it sort of is the visual version of that?
+Janine: [cross] I mean — the one liner — oh —
+Austin: [cross] It’s that or Emote.
+Janine: — oh! No, the on-liner is, ah… I need — I quickly need a fuckin Romeo and Juliet line. [laughs] ‘Cause… [sighs] I mean, parting is such sweet sorrow is the easy one, right?Austin: Yeah, totally, totally. That’s it.
+Janine: Just like, he kisses her hand and is immediately like, That’s… you know. And then it becomes “The Delivery”.
+Austin: Uh-huh. Give me the Killer One-Line. One-Liner, which you use with Drama, right, because you have “The Delivery”?
+Janine: Yep. Yep.
+Austin: Cool. So 2d6+2.
+Janine: That’s a 7.
+Austin: That’s a 7, so, on a 7-9, as above — so either take +1 forward to your next roll, or your buddies are impressed, +1 to Camaraderie. So pick one of those.
+Janine: Uh… Okay.
+Austin: Camaraderie is 0 currently, by the way.
+Janine: So wait, it says as above, but also… so…?
+Austin: Yeah, so you’re — yeah, so start by picking the as above. So the as above options are take +1 forward to your next roll —
+Janine: Oh, right. Right, right, sorry, sorry, yeah.
+Austin: —or your buddies are impressed… 
+Janine: Um!
+Austin: And we could have your buddies impressed by just having them down at the ramp up to the boardwalk now, and seeing this happen.
+Janine: I think we could use the Camaraderie, so I think that’s the good call.
+Austin: Yeah, agreed. Okay, but —
+Janine: Especially for a buddy movie.
+Austin: Yeah. But, also pick one of the following: someone is enraged and immediately attacks you, someone you care about is hurt, or the comment slows — an action scene down, and not in a good way. I don’t think it can be that last one, since this hasn’t become an action scene yet?
+Janine: No, it hasn’t… I’m trying to imagine the situation for either of the first two.
+Austin: I think the first one is just like they drive her away and then encircle you. And like, and swing.
+Janine: Yeah.
+Austin: You know what I mean, like she gets on the back of golf cart, is driven away, and we get the shot of her looking back, and then the shot of them, the remaining three of them like moving around you and pulling out nightsticks.
+Janine: Yeah, I think that’s the way to go, then.
+Austin: Yeah, yeah. And then like lifting up and swinging down at you, what do you do? Also I’ll raise your Camaraderie to 1.
+Janine: This is not — yeah, this is not gonna go well, ‘cause he’s a lover, not a fighter, for sure.
+Austin: Mm-hm, mm-hm!
+Dre: [sighs] Janine. Could this be a time for a Soliloquy?
+Austin: [cross] I don’t — no, they’re gonna — no.
+Janine: [cross] While they’re lowering a nightstick on him? No!
+[Dre and Janine laugh]
+Austin: This nightstick is gonna hit, this nightstick is gonna hit, unfortunately.
+Janine: I think he probably tries to catch it with his arm.
+Austin: Remember that you have a +1 forward for like taking action, the next time you take action.
+Janine: Oh, right. I do… Okay. I’m gonna try and maybe get his nightstick.
+Austin: Okay, cool. So give me a Violence then. Violence is what it sounds like, trying to hurt or kill people.
+Janine: Gonna go terribly.
+Austin: The stat you roll depends on what you’re gonna do for it. So you’re gonna roll Muscles, which is 0. 2d6 — but you’ll add a +1 from that forward.
+Janine: Oh boy. Okay. Oh, okay, that’s a 9.
+Austin: That’s a 9! Okay, so choose one: you inflict harm but you take some too, you inflict harm but are driven back, you inflict harm but a friend is hurt badly in the fight.
+Janine: What would driven back be, like a retreat from the situation or like…
+Austin: It would be, in my mind, they like throw you over the boardwalk railing into the sand and like hop down after you, making it further away from your friends. Is how I would play that.
+Janine: No, I’d rather inflict harm and then also take harm.
+Austin: All right, cool. So, you grab the — or how I’m imagining it, you tell me if this works, or if you have another idea, but you grab the baton from one of them and like knock that one out — or knock another one out — but then the other two both swing in on you and get good hits on you. And each one would normally be 2 harm, but because you have on that vest, it’s just 1 harm from each.
+Janine: Okay.
+Austin: So you would take 2 harm total. But that one gets knocked out, the one thta you hit is knocked out.
+Janine: I just made a really bad shape.
+Austin: [amused] I see it, that’s big! That’s not gonna do it. On the harm meter.
+Janine: Drawing with a mouse is hard.
+Austin: Yeah. There you go. Um. And one of the just like catches you across the side of the face with this baton, and just like blood sp— goes out into the air. Max and Janis, what do you do? As you see your friend get —
+Sylvia: I feel like — 
+Austin: Get attacked?
+Sylvia: Yeah, so we’ve caught up by now, right?
+Austin: Yeah yeah yeah, you’re able to run out there — you’re there now. Well, you’’re within like charging distance, basically.
+Dre [as Janis]: I dunno, Max, you think the kid’s got this one?
+[Austin laughs]
+Sylvia [as Max]: No!
+Janis: I mean, yknow, trial by fire?
+Sylvia: Um… I think this is time for me to do a Stunt.
+Austin: Okay, what do you do?
+Sylvia: I’m trying to think. ‘Cause I want it to be a cool gun thing. So the situation is there’s this like cruiser there, right?
+Austin: There are these two — or at this point there’s only one of these golf carts. They’re like three-seat gold cart, it’s two on the front, one on the back, and then there’s three cops surrounding Sebastian. And you know this is the thing is like this is the action movie, which means after he hits — they swing it at him, maybe the first two hit him, he grabs the third one’s baton, knocks one out, and then we can see, the audience can see that one of the cops starts going for their gun, because this is how action movies work.
+Sylvia: Okay.
+Austin: And so that is — it’s about to escalate at this point, because he’s knocked out one of them.
+Sylvia: All right, I think I have an idea, but would it be okay to roll first before describing it, just so I can…
+Austin: Y — um, give me like the very broad idea of it, because that will — yeah.
+Sylvia: Well, what I wanna do is I wanna shoot this — like I wanna use Gun Ballet here, which lets me do area damage to these guys. And what I wanna do is start it by shooting the hand of the cop reaching for his gun.
+Austin: Right, so it’s not even about hurting him so much as it is stopping him from —
+Sylvia: Disarming him. Yeah.
+Austin: Disarming him, so yeah, I think that that is — you know what, actually, that’s still Violence, because the target drops something is still one of those things, so yeah, Violence. Violence, Agility. Which your Agility is 2, right?
+Sylvia: Yes.
+Austin: All right, 2d6+2!
+Sylvia: A 12.
+Austin: That’s a 12! Amazing! Oh, I should note something, there’s a rule in this book that is not on any of these sheets, which is, let me find it. “This is purely for narrative purposes: no rolls required. Whenever a Violence, Stunt or Love scene move succeeds with a 10 or higher, the player can declare that the effects are in slow motion, in addition to the other effects of the roll. This is because slow motion is cool.” This game is very good. Sorry, Dre, I should have you that, also, during your 16.
+Dre: Nah, it’s okay.
+Austin: Um. So what happens? Tell me what happens here. [cross] ‘Cause you get to choose three of those.
+Sylvia: [cross] So — I made that sound way more like — “oh yeah, he’s just trying to hurt”-- like I’m not, no, these guys are gonna die ‘cause they saw our faces here. 
+Austin: Oh, okay! [laughs loudy]
+Sylvia: Like, if I shoot one… Track is on. I just wanted to start it dramatically.
+Austin: I gotcha.
+Sylvia: It’s one of those things where I think we talked about this a little bit — you know the John Woo dove shot?
+Austin: Yeah.
+Sylvia: It’s that but with seagulls.
+[Dre laughs loudly]
+[Janine makes an amused noise]
+Austin: Good. Great.
+Sylvia: Um, so there’s just this like… flood of like seagulls flying away, and then this guy’s like — his hand’s all fucked up, and you see him like bring it up, and he’s looking at it, and then like the seagulls move past, and you just see Max there, and he fires again, and this dude’s just fuckin mush.
+Austin: Right, yeah. [laughs] Janine in the chat says, “the Chankul gull shot, famous, of course”. Yeah, I think when the bullets start flying towards the other cops, who are now at this point like about to fire back at you— in fact, they do fire back at you, and like [excited] your bullet flies between a flock of seagulls that are flying low, and like past all of them, and between the feathers, and then just like catches these guys in the chest, and they go flying backwards. And are — I mean, you can choose three of these things, there are three targets.
+Sylvia: Well, I already have area from my passive, so I don’t even need to pick that.
+Austin: No, you don’t.
+Sylvia: So I think I’m gonna close in.
+Austin: Uh-huh.
+Sylvia: Um.
+Austin: I mean, it is — if these guys get hit by bullets, they’re dead.
+Sylvia: Yeah.
+Austin: They have 2 harm, and that gun does 2 harm, so. They’re at least out of action.
+Sylvia: I mean, I’m gonna go fuckin bull — buck wild with this shit. One of the golf carts explodes.
+Austin: [quietly] Oh my fucking god.
+[Dre laughs loudly]
+Sylvia: And I guess I make a mess, ‘cause of that.
+Austin: Yeah, definitely. You do. You arrive just like — just — [noise of disgust] — I think the Boardwalk is the mess here, right? I’m not gonna go all the way to like blood and gore.
+Sylvia: No, for sure, it’s like the —
+Austin: But I — yeah. But like, the Boardwalk is on fire, the… you know, you can hear the sound of seagyllls, you can immediately hear the sounds of sirens, and the Boardwalk is just shattered into a billion pieces, plus the golf cart is on fire, and has exploded, and I think bodies are probably also just like all over the place, because of that. [laughs] Hey Sebastian, all that just happened right next to you.
+Janine: [laughs] I’m kind of imagining that he was already down when the explosion happened, so he like covered his head.
+Austin: Right. Yeah, totally, totally. And then we also get — I think we have to get Ev looking back from the golf cart from far away, and only seeing the explosion, and then shouting back like 
+[as Evelyn]: [dramatically] Sebastian!
+[Janine and Dre laugh]
+Austin: So what do you all do, at this point?
+Sylvia: The first thing I do is I help Sebastian up. And it’s like, like there’s a close shot of the hands grabbing each other.
+Austin: Uh-huh!
+Sylvia: Like it’s a very much like, 
+[as Max]: Hey, good job, kid.
+Janine: But also, but also. So we had that first scene of Sebastian just being like “no, we should just — if we just do things the right way, it’ll work out” — and then being like “no, I need to act”. And then now it’s like, [incredulous] “you just shot them, and then the thing ex — they’re dead”!
+Austin: [cross] Are either of you using the Camaraderie move?
+Janine: [cross] He’s not that incredulous about it. But he’s upset.
+Austin: No, no. Yeah. Are either of you using the Camaraderie move here as you like grab hands and pull up?
+Sylvia: I don’t think so. I’m not.
+Austin: Okay. You can save it, you can totally save that. Um, okay. Yeah, incredulous to some degree makes perfect sense, though. Sebastian.
+Janine: Like, Sebastian’s hand is probably shaking a little bit in Max’s.
+Austin: Yeah.
+Janine: And he’s like a little bit wild-eyed. His mussy hair is extra mussed.
+Austin: Yeah. Janis, what do —
+Sylvia: Max just still kinda look sleepy.
+[Janine laughs]
+Dre: Well yeah, you just did a lot of work. You’re all tuckered out.
+Janine: [laughs] That’s true.
+Austin: Eh. [pause] Um. What are you doing, Janis? Yeah, do you run up there too?
+Dre: Yeah, I think she like jogs up like after it’s all done and it’s like, the shot is like everything like burning in the background and Janis just like.
+	[as Janis]: Guess we’re in the shit now, fellas.
+[Austin huffs]
+[Sylvia laughs quietly]
+Janine [as Sebastian]: Oh, we’re gonna get fired. [sighs] And ar — we’re gonna go to jail! We’re gonna be fired and then go to jail.
+Janis: [with great sincerity] Mm. Not if we jail the chief first.
+Austin: [snorts] That’s a One-Liner!
+Sylvia: Nailed it.
+Austin: Give me a Swagger!
+Dre: [cross] [amused] Ah, that’s awful!
+Janine: [cross] I like the idea of making him roll as punishment sometimes for that, like that’s good.
+Austin: Yup! Uh-huh! A hundred percent. Uh, 2d6+1.
+Dre: Ah, that’s a 4! [laughs]
+Austin: That’s a 4. [Sylvia laughs loudly] Uh, I am going to invoke one of my favorite rules in this fucking game, which is.
+Dre: Also I take -1 forward. [laughs]
+Austin: One, yeah, take -1 forward, but also, uh, the audience is just like in the movie, goes like, “Ugh…” just groans. [Janine and Dre laugh] One of my favorite rules in this game is like — and it doesnt really matter here — but like, for the characters, that line worked. The characters are like, “Yeah!” Because the script is written as them saying like, “Yeah, you’re right! We just gotta jail the chief!” But like, it didn’t work. For the audience. I’m going to have to find this exact writing, ‘cause it’s so fucking good. Um. “They succeed, but…” is one of my moves that I can make. 
+[reading] “The heroes shouldnt fail often in terms of on-screen action. They’re heroes, after all. But being nigh-infallible doesn’t mean that everything looks right on-screen. This move is a little different from the others in that it can only be used in response to a failed move by the players, not just during the pause in the action. Instead of having the move fail in fictional terms, i.e. the punch misses, the attempted seduction fails, et cetera, it succeeds, but it looks incredibly goofy to the Imaginary Viewing Audience. This is the big theme in low-budget action movies of the direct-to-video variety. The heroes are basically omnipotent, but the acting is so incompetent that the action elicits laughter rather than cheers. When you invoke this move, whatever it is the hero wass trying to do succeeds, but they lose 1 tick of Star Power.” 
+So you should lose that tick of Star Power. If you have 0 Star Power — which you don’t, right?
+Dre: No, I have 1.
+Austin: You had 1 from that before, so yeah, lose that. ‘Cause what that is is like the audience being like, “Oh, she’s so good as like, an action hero, but she can’t speak for shit!” Like, this is not how you end up getting cast in Tomb Raider down the line, or whatever, you know? Like, you gotta have a little bit of chops. You gotta have those acting chops, a little bit. But actually — 
+Dre: Yeah. The very demanding role of Tomb Raider. [laughs]
+Austin: [laughs] Laura Croft — L — mm, I still can’t pronounce her name right.
+Dre: Lara.
+Austin: Lara Croft. Is a very complex character. They’re rebooting that, right? [cross] I just saw this like two days ago.
+Sylvia: [cross] Yeah.
+Janine: [cross] I think so.
+Dre: [cross] Like the movie?
+Sylvia: Uh-huh.
+Dre: Yeah, I think so.
+Austin: Weird. Okay, sure. Sure. Um. All right, well. [huffs] That’s how that goes. Where do we go next? Where’s to next? I guess, you know what, maybe one more thing that we see is we get the — we get a shot of… Ev being sat down in the police chief’s office across from him, and I guess it’s James Gandolfini, who is like, smoking a big cigar and has his like — he has on his like full suit, his full police chief with all the medals —
+[2:30:00]
+Austin: — uniform, but the jacket is unbuttoned and his feet are up on his desk, and the room has some other people in it who are like — I think they’re playing chess. There’s like two people in the room playing chess while other people are like taking bets on who’s gonna win the chess match, in one corner of this big, palatial office that looks out on… It kind of looks out on the casinos, basically. And, you know, maybe he actually — here, we’re gonna just lean into this all the way, it’s an action movie. He has moved his office into one of the casinos. [Dre laughs] The police now work out — there are three police departments in Bluff City. One of them is away from the — the traditional main one is like away from the casinos and kind of central to the residential area. One of them is inside of one of the casinos where they rent — it’s in like The Menagerie, basically, and is just like a small, you know, kind of central place for all casino- related stuff, that has like a little jail cell and has some other stuff. And then theres like a third one that is like closer to where the mainland connects, for things that are like people trying to get out of th etown, or like stuff on the border. And he has moved it from the kind of central residential area one to the casino one, and so he’s in a penthouse, basically, that’s been converted into Police HQ. And is looking out over the beach and the other casinos. And we see… Ev being being placed across from him, and then the arresting officer says
+[as Cop]: She was with Sebastian Young, sir.
+Austin: And he goes,
+[as Grimes]: Young? Young, huh! Huh. Kid’s got spunk.
+Austin: And we cut back to y’all. But the audience knows that they know that at the very least, Sebastian Young… is involved. So where are you going next, what’s the play?
+Janine: My idea is that like this is sort of the regrouping moment of like, we need to find a safe place to just like sit and gather the evidence…
+Austin: You can have that safe place like, immediately. We can just cut right to that safe place, tell me where it is and we’ll be there.
+Janine: Yeah, that’s what I mean is it should — I don’t know where it would be but I definitely imagine the scene starting out with Sebastian — [cross] holding a bag of frozen peas over his eye or something.
+Austin: [cross] Oh, I know where it is! [pause] Yeah, I know exactly where it is. It is the Firebird Gym, that Tawny Buck runs. And… Like, Tawny Buck is the one who hands you the peas to put on your face. And then this is the point where someone who’s a big fan of… I guess, kickboxers and fitness instructors, turns to their partner and goes, [lowers voice] “That’s Tawny Buck!”
+Janine: “She invented the Firebird Punch!”
+Austin: “She’s — you know the Firebird Punch? That’s her!”
+Janine: Killed a man!
+Austin: [laughs] Yeah! ‘s like…
+[as Tawny]: So you three have run into some real trouble, huh?
+Austin: I don’t remember what Tawny Buck sounds like!
+Janine: She just sounded like me, but a little angry.
+Austin: Okay! [laughs] [Dre laughs loudly] But she’s not angry at these people, right?
+Janine: She’s like tired? She’s like — she is kind of like on her way to being a sports mom kind of angry?
+Dre: Very specific kind of angry, Janine. [laughs]
+Janine: She’ll make you mini pizzas, but you better get your practice in.
+Austin: Um. Yeah! That’s… That adds up. So yeah, so I guess she hands him the peas then and is like, um…
+[as Tawny]: You gotta learn to block, kid! [sighs]
+Janine [as Sebastian]: I kind of did!
+Tawny: Show me your block.
+Sebastian: Am I just — 
+Austin: And then she does like a… [Janine laughs] an overhand… Like, she starts an overhand swing at you.
+Janine: Um. I don’t want him to just flinch, [laughing] but that’s also the only thing that comes to mind!
+Austin: Flinch, drop the bag of peas on the ground, they explode, peas go everywhere?
+JAININE: [laughs] I think that might be this character, I don’t know.
+Austin: Yeah, I think that’s pretty good. [sighs] She like shakes her head, and says like.
+[as Tawny]: Ugh… Go get a broom, clean this up.
+Austin: And then she turns to Janis and Max, and says…
+[as Tawny]: You’re running around with guys like that now?
+Sylvia [as Max]: He’s a good kid. [sighs]
+Dre [as Janis]: He’s had a long day.
+Tawny: [huffs a laugh] Sounds like you’ve all had a long day.
+Max and Janis, together: Eh.
+[Austin laughs]
+Sylvia: [laughs] Do they both do that in unison?
+Dre: Yeah! [laughs]
+Sylvia: Eh!
+Austin: Yeah, definitely.
+Janis: It’s time. We gotta take down the chief.
+Tawny: Take him down? Wh—… He’s the chief, it’s Chief Grimes, no one can take down Chief Grimes.
+Janis: Well, we either take him down or he takes us down.
+Austin: [sighs] Um… Evelyn didn’t mention a name, Janine. Janine said what was the name —
+Janine: Didn’t she say like a first name?
+Austin: No she was starting to say a name, and then she got cut off. You failed that roll.
+Janine: Oh.
+Austin: You failed that roll. So she was about — 
+Janine: Okay, I thought she’d like said a first name but not a last name, or something.
+Austin: if I did do that, then I don’t remember it.
+Janine: But it was a mistake, okay?
+Austin: Then it was a mistake, yeah, ‘cause like the thing was you failed, so… But you know that there is — she was gonna say a name, for sure.
+[as Tawny]: [sighs] How are you gonna take down the chief?
+Janis: I don’t know. We need enough dirt that even he can’t hide it out. Yknow? We’ve got some stuff from this diary, but it’s not enough. It won’t stick.
+Tawny: [sighs] I’ve p — … From what you said, that diary seems more fiction that fact.
+Janis: Hey, Max.
+Max: Hm?
+Janis: Remember when those three musketeers ruined your fun night?
+Max: Yeah.
+Janis: Maybe we need to go ruin theirs.
+Max: I mean… I’m always down to fuck with those guys.
+Sylvia: That’s the like one f-bomb in the movie.
+Austin: [amused] Yeah, it’s the one that counts.
+[Dre and Janine laugh]
+Sylvia: Any other ones… I — is just Sylvia being Sylvia.
+Austin: Right, any other ones we fix in post.
+Sylvia: Yeah.
+Austin: Not — Ali, you don’t have to fix them in post. I’m say, fiction of the movie world, we make you come in to do ADR and say frig, or like, fudge, or whatever. [Sylvia laughs quietly]
+Janine: Motherloving.
+Austin: Exactly. Exactly. You’ve cleaned up all the peas. Do you have any thoughts on this, Sebastian?
+Janine: Um. [sighs] I mean I do… I really wanted to do a Soliloquy but it’s hard finding like where that goes.
+Austin: This is where — this is the time to do it, for sure.
+Janine: Um. Okay, so Sebastian’s cleaned up all the peas. He sort of walks up to join the group, he’s got a real wicked black eye. And is, yknow, all scratched up. But, I think… He sort of — okay, so hands in pockets again. Looking at the group, then sort of looks up and says like.
+[as Sebastian]: Yknow… Nothing we do will be able to reach or scare the Chief. He’s not gonna… Yknow, he didnt get where he is ‘cause he gets shaken. But that doesn’t mean that no one else working with him — can’t be shaken. Someone… maybe we’re coming at this from the wrong angle. Maybe approaching the people with guns is the wrong idea. Maybe we need to go after the people with the money.
+Austin: …Give me a Soliloquy. That’s a Drama roll, your Drama’s 2. So.
+Janine: It is.
+[pause]
+Austin and Janine: That’s a 10!
+Austin: So, you gain insight into the emotional or physical nature of the conflict underpinning the plot. Name one thing that will happen related to the plot, no matter how big or small. The director will make it come true at no cost to you. I’ll briefly say, the insight that you get is like, yeah, this probably has to do with the cas — with the Veranda family. This is about money, like you said, like this is about a connection to money. And so if the Chief is working in the Veranda family’s — in The Menagerie, now, then there’s a good chance that that side of things is totally what you’re saying, is like where to go to make them get shaky, which would then move into the Chief’s plans. So, what’s the thing that you want to happen regardless to the plot, no matter how big or small?
+Janine: Uh… This is a juicy opportunity.
+Austin: [laughing] Yeah!
+Janine: Um… I think the… Okay, the thing that’s gonna happen… Okay, the thing that’s gonna happen is that Ev is going to meet with Sebastian, and she’s gonna have — she’s gonna like meet with Sebastian to bring him something.
+Austin: Okay. Okay. Cool. Well, what’s the thing she’s gonna bring him?
+Janine: Uh… Well, I don’t know how much of this I get to lay out.
+Austin: It’s your thing, it is your “something big or small”. 
+Janine: Hm. Um. Fuck, this [laughs] — I was gonna say, printed out emails, that’s not a thing — correspondence, though.
+Austin: Yeah. That’s a thing.
+Janine: I mean, they would have to… to have some kind of either letter correspondence, or like meeting notes or some sort of — something like that.
+Austin: Totally. Like meeting minutes, or something like that.
+Janine: Yeah.
+Austin: Sure. Um, cool! I’m good with that. Um. So… She… Andrew in the chat, Dre in the chat says, “All on another Jaz disk, of course”. Yeah.
+Janine: Oh god, is it Jaz with one Z?
+Austin: It’s Jaz with one Z, yeah, yeah.
+Janine: That’s fuckin...
+Sylvia: I’m glad I’m not the only person who’s completely new to this. Like. I didn’t even know these existed, and I’m like, oh, VHSes for computers, cool! [Dre laughs] What?
+Austin: Uh, yeah, it’s weird, Jaz disk is weird. The… Tawny says like.
+[as Tawny]: Yknow, the kid is probably right. Goin after cops — there’s always gonna be another cop on the take, but… If you can strong-arm the Verandas, make them think like, maybe the Chief doesn’t have such a good hold over the department, maybe he’s not a good partner, maybe that’ll put him on his back foot. I bet they know something, too.
+Janis: All right.
+Tawny: Do you know where to find them?
+Janis: I mean, I’m assuming their casino.
+Austin: She nods.
+[as Tawny]: I mean, they got stuff all around town. The casino, they run the bowling alley, they do a lot.
+Janis: Ah. I hear the dude at the bowling alley is a small fry.
+[Austin laughs quietly]
+Tawny: Yeah. In more than one way. [sighs] Good luck, be careful, and, if you need anything… Stone — Janis, I’ll be — I’ll stitch you up any time. You remember, watch your left side, it’s your weak side. Um.
+Janis: Hey, listen. I’ll be back here on Monday for leg day, don’t you worry about it.
+Tawny: I still haven’t taught you the Firebird Punch. You better be.
+Sebastian: Sorry about the peas.
+Tawny: We have more peas, don’t worry about it. [laughing] We should probably get some ice packs, though.
+Sebastian: Why do you have more peas? Yeah, I was gonna say, you probably get a lot of injuries in here, wouldn’t you — 
+Janis: No, it’s a superfood!
+Sebastian: Could just invest in a —
+Tawny: It’s a super — it’s a green food, you mush them down — 
+Sebastian: Like a Tetra Pak — 
+Tawny: — you put em in a protein shake!
+Janis: Hey, hey, hey!
+Dre: Janis flexes and says,
+[as Janis]: How do you think I got this? Chocolate milk and lots of peas!
+[Austin starts laughing]
+	Sebastian: That’s disgusting…
+Dre: Shoutout to the Pea Council!
+[Austin is still laughing]
+Janine: The Pea Board of Jersey.
+[Dre laughs]
+Sylvia: We can’t talk about the Pea Council.
+[all laugh]
+Austin: I’m dead.
+Janine: Don’t — 
+Sylvia: “Russia, release the pea council.”
+[Dre and Austin laughing loudly]
+Janine: Don’t follow their magazine recipes, they’re not very good.
+Austin: Ohh, god, all right. Uh, let’s take a five minute break, and then we’ll figure out what the — how you’re going after the fucking Veranda family.
+Dre: Eh, it’s fine!
+Austin: It’s great.
+Sylvia: Ah…
+Austin: Um. Before you go, you get a — a beep, your beeper goes off, Sebastian. And it is from a Bluff City — no, it’s not, it’s from an out-of-town area code. And, I’m guessing you call it back from a pay phone or something?
+Janine: Yeah.
+Austin: And it’s Evelyn. And we get a shot of her talking on a big, big phone. A big like cell phone. Like  a giant brick cell phone. And she says.
+[as Evelyn]: [softly] Are you okay, Sebastian?
+Janine [as Sebastian]: Uh. Yknow, I’ve been better, but… Yknow. I’m sure I’ll see worse days, too.
+Evelyn: Thanks for the champagne.
+Sebastian: Thanks for the walk.
+Austin: She — they’re slowly zooming out on her, and she’s still in the Chief’s office, and he’s like watching her intently. And he like nods, is like, cmon, let him know. And she says, um.
+[as Evelyn]: [sighs] I, um. I think you should know that there’s information for you. On the… In The Menagerie. There’s a secret… There’s a secret area on the Africa wing. Look for the tusks. I found out about from… an old, um… old blueprints. ‘Cause we built that building.
+[2:45:00]
+Evelyn: And I think you’re gonna find some answers there. 
+Austin: And we get a shot of Chief Grimes nodding, slowly. And like giving her a thumbs up. He gives her like a real thumb — like a real shit-eating grin and a thumbs up, like yeah, good job! And she says,
+[as Evelyn] Be careful, okay?
+Janine [as Sebastian]: I… will.
+Austin: And then we see her like, hang up, on both sides. Or you hang up, she hangs up. Or she says like,
+	[as Evelyn]: I can’t wait to see you again.
+Austin: And hangs up. And then she says like,
+	[as Evelyn]: You’ll keep your word, right? You won’t hurt him?
+Austin: And Chief Grimes says like,
+[as Grimes]: Him? Nah. No problem, kid like that. Always can use a kid like that.
+[outro music: ‘The Eighty Six’ by Jack de Quidt plays]

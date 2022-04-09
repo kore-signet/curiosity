@@ -1,0 +1,1264 @@
+Bluff City Season 1 Post Mortem
+Transcriber: Lu
+AUSTIN: Hello, and welcome to the Bluff City Season 1 Post-mortem. Um… I'm Austin Walker, I'm joined by a bunch of people who need to clap, [amused] so before we do anything else we should all pick a time to clap at. I like… I don't know about y'all but I like 36 seconds.
+ART: [overlapping] Wow!
+[claps]
+JANINE: Great! I- sorry, I was- [laughs] that was too soon!
+AUSTIN: [overlapping] Fuck.
+JANINE: [laughing] I was retweeting the tweets! [KEITH cackles] Everyone started retweeting tho- [unintelligible] 
+AUSTIN: We were so close. [JANINE overlaps] That was a k-
+JANINE: [laughing] And I was like “36 seconds can't be that close, I have time!”
+AUSTIN: [laughing] That was a killer clap.
+KEITH: [amused] It was killer, it was so good, it was a fucking choice clap.
+AUSTIN: [laughing] Choice clap! Let's do five after. Seconds, not- [JANINE chuckles] okay.
+[Pause, claps]
+AUSTIN: Less good. It's fine- it's fine! We’re live on the internet, it's totally fine. Uh….
+KEITH: We’re live on the internet, it's totally fine! 
+AUSTIN: [laughing] That's our equivalent of- of Live from New York, it's Saturday Night! [laughs] Um- I'm Austin Walker, those were claps you heard from Keith J. Carberry-
+KEITH: Hi, my name is Keith Carberry, you can find me on Twitter @KeithJCarbrry, you can find the Let's Plays that I do at youtube.com/Runbutton
+AUSTIN: Janine Hawkins
+JANINE: Hey, I'm @bleatingheart on Twitter.
+AUSTIN: Uh, Art Martinez-Tebbel
+ART: Hey, I'm on Twitter @atebbel, One Song Only is a podcast that might exist ever again, and I want to assure you, we weren't talking about anything weird while Austin wasn't here. [DRE and KEITH laugh]
+AUSTIN: And- hm. And Andrew Lee Swan
+DRE: Hi, you can find me on Twitter @Swandre3000
+AUSTIN: Ali is on the list here, but will maybe be joining us in a little bit, hope- hopefully will be joining us in a little bit, she’s running a little late, got caught up with some other stuff, um…. Jack and Sylvia unfortunately could ot make it today, but I promise you that they send their love, and also that I send them love for all the hard work they did on Bluff City. If you have questions for them that we don't get to here, feel free to send those into tipsatthetable@gmail.com, where we can work them into future Tips episodes, where they are? That way the two of them can answer those questions- one more important thing to do here, before we start, which-  I have to tell Craig to join this call- Craig joined?
+KEITH: Sorry, who?
+AUSTIN: Thanks.
+JANINE: [amused] Don't make it seem like that was a voice activated command, you faker!
+AUSTIN: Oh, I wasn't trying to do that.
+KEITH: Yeah, this is like those quip toothbrushes that every podcast is trying to convince you doesn't use triple A batteries or whatever.
+AUSTIN: Wait, what??
+DRE: Yeah, they-
+JANINE: [overlapping] Oh yeah, no, I-
+KEITH: [overlapping] Yeah, those are not rechargeable, but-
+DRE: Also they suck.
+JANINE: They- they send you a brush head and a battery every three months, it's not rechargeable.
+AUSTIN: Wait so- when they say you don't need to buy batteries, what they mean is [JANINE overlaps] you're buying batteries from them.
+JANINE: [overlapping] When they say they hold a charge for three months they mean they send you a new battery at the end of the month.
+KEITH: [cackles] It's very funny.
+AUSTIN: I'm shook! I was never gonna buy that quip toothbrush, but like [JANINE overlaps] that's some bullshit!
+JANINE: I- I mean, I like mine, but I also would never recommend it to anyone, so.
+AUSTIN: Uh-huh.
+KEITH: Austin is holding out for that foam toothbrush were you just bite down on it for a few seconds.
+AUSTIN: Wait-
+DRE: What?
+JANINE: Ugh.
+KEITH: I shared it in- in [AUSTIN overlaps] Bluff or something...
+AUSTIN: [overlapping] Was it the Kickstarter one? Or another different one?
+KEITH: It was Indiegogo- Indiegogo is like, a really amazing place to look at the dumbest products of all time? They're dumb in a really specific way, too? Like, not just silly, but like- I don't know, every fucking pair of pants they try to kickstart is like, revolution as pants- it's very funny.
+AUSTIN: Uh- y'know what I love is, I did a search for, um… [laughs] for Indiegogo toothbrush.
+DRE: Yeah, me too. [laughs]
+AUSTIN: - and one, there are five of them, right away. Three of them? Are basically the thing that we’re talking about. The one that you were talking about is this one, the Y-Brush that is like, a piece of foam that you bite down on? [laughs] And that you store in a box with ultraviolet light? It's goofy, I hate it. I want one.
+KEITH: Yeah, yeah, that's it, yeah.
+AUSTIN: The second one- the Amabrush honestly looks exactly the same? [laughing] I think- I think this is the same product!. Oh no, this has like- it's less of like a big piece of foam, and more of like a thing you- like a tooth thing.
+KEITH: This has a lot less on the page, I think this is fake.
+AUSTIN: Yeah, there's two more of those, very similar, each which has raised tens of thousands of dollars- and then- I- Hmm. This one-
+KEITH: This is just a brush that's your full mouth.
+AUSTIN: Yeah, totally, that's just a full mouth brush, you just put your mouth in there. And then there's the First Battery-Free, powered toothbrush, the [laughing] Be. brush. And I- that one raised half a mil.
+KEITH: Powered by bugs!
+AUSTIN: [laughing] Y- put some bugs in there! Um- and I just- ugh, man, okay. I'm gonna close all these…
+KEITH: Has- does it say half a million?? 
+AUSTIN: Half a million dollars. 
+KEITH: Half a million dollars.
+AUSTIN: Half a million dollars for that toothbrush. 
+DRE: What- what powers it, if it's not a battery?
+AUSTIN: Uh- bees.
+KEITH: Yeah, you put bugs in there.
+AUSTIN: You put bees.
+KEITH: [overlapping] It ways bees, but you can use any insect.
+DRE: [mumbles] I can't believe you.
+AUSTIN: It charges it.
+KEITH: It's like a [JANINE overlaps] Mister Fusion from Back to the Future.
+JANINE: [overlapping] Maybe you like, shake it maybe or something…
+AUSTIN: Um… it's battery free, that I can tell you. Be. stands for Beyond Electronic.
+JANINE: Uh-huh…
+AUSTIN: It's more than just a vibrating head? It's a kinetic storage device.
+JANINE: Oh, I know what it is! It's-
+KEITH: [overlapping] It takes a little bit of your life-force away. [AUSTIN laughs] you use it everyday for the rest of your life, you only lose like, a day so.
+DRE: Do you like, twist it before you-
+AUSTIN: [overlapping] You twist it.
+JANINE: [overlapping] No no no, I und- I know what it is, it can be one of those- y'know when you go to like, a souvenir shop, or like a toy store in the 90’s and there was- those little things that were like a nut? And you opened the nut and there was a little bug with wiggly legs inside, they would wiggle a little because you opened the nut and it transported energy into this- into like the animal-
+KEITH: Oh yeah, I know those!
+AUSTIN: Ugh.
+JANINE: It's like that [laughs]
+AUSTIN: Oh. Oh- yeah, okay, those.
+KEITH: It's like one of those wiggly bugs.
+AUSTIN: You twist it.
+ART: [overlapping] A wiggle nut, yeah.
+AUSTIN: [amused] Uh-huh, yeah. [JANINE laughs] It says it's powerful here, and the way it shows that it's powerful is [laughing] that they put it inside some water and show that the water spins when it touches the water and- that's anything. That's- you spin anything inside of water, water is gonna move, it's water.
+KEITH: Wait, wait, they're-
+JANINE: [overlapping] Yeah, I do that with a spoon everyday.
+KEITH: Wait so they… yeah, it doesn't look that powerful! Sorry, I'm now looking at the computer screen.
+AUSTIN: No, it's fine, it's fine. I'm here for weird mechanical toothbrushes that you twist the bottom of, that's a very season 6 thing, I'm here for it. But it's very funny- anyway. We’re gonna do a postmortem about a show we made instead of looking at toothbrushes. But if you like that and somehow listened to this and not listened to the Clapcasts, you should maybe go and listen to all the Clapcasts, 'cause they're just the thing we just did but for thirty minutes!
+KEITH: Yeah- there was a hidden Clapcast when you were gone, Austin, it's-
+AUSTIN: Oh that's good, I'm glad. I'm glad that y'all were cool.
+ART: And now you’ll have a reason to listen.
+AUSTIN: You- Art? [KEITH cackles] [sigh] I know jack was just asking about how your internet service provider was, um- and I'm gonna tell them for you, bad, because you constantly cut out these days!
+ART: I said bad. I didn't- I didnt lie [laughs]
+AUSTIN: It's true, you didn't-
+JANINE: It's probably okay that he cut out though, 'cause he might have been saying cumbies.
+ART: [laughing] I was not! How dare you?
+AUSTIN: [overlapping] We’re gonna move forward. Hey everybody, what's Bluff City?
+KEITH: Cumbies is very Bluff.
+AUSTIN: I- we’re not gonna have whatever conversation you're having. [laughing] We’re gonna have the conversation that I want to have, and it's what is Bluff City! [JANINE chuckles] [pause] No one knows? No one?
+KEITH: Oh you asked? Alright.
+DRE: [overlapping] It was a trick question.
+AUSTIN: That was the- there was a question mark on it, yeah… what was- what did we do? If you had to pitch someone Bluff City at this point, I'm curious, how would we go about pitching it.
+KEITH: Um… [laughs] it's an anthology series about 8 different people’s ideas of what this one weird place is like?
+AUSTIN: That's pretty good. That's pretty good, does anyone else have like an addendum?
+JANINE: Crime Town but Scooby Doo?
+ART: Ohh, that's good.
+AUSTIN: [overlapping] Oohhh. Well, you had me until Scooby Doo [laughs]
+KEITH: Did you watch Scooby Doo?
+JANINE: I don't like Scooby Soo but I needed something that would encompass the realm of supernatural and crime related saturday morning cartoons.
+AUSTIN: Janine? I need you to know that there are no real supernatural elements in Scooby Doo. [laughs]
+JANINE: I mean- exactly.
+KEITH: [overlapping] Sorry, the two live-action Scooby Doo movies are both about actual supernatural things?
+AUSTIN: And also, I'm gonna take it back, because the dog talks. [laughs]
+JANINE: [overlapping] Well- multiple dogs!
+ART: [overlapping] And the- the Thirteen Ghosts of Scooby Doo was- those were real ghosts.
+AUSTIN: [surprised] Those are real ghosts?
+ART: Yeah, those are real ghosts.
+AUSTIN: So they find ghosts.
+ART: Well, only in The Thirteen Ghosts of Scooby-Doo.
+AUSTIN: And the movies, I've heard.
+ART: And the movies.
+KEITH: Yeah, and the movies. 
+AUSTIN: Huh.
+JANINE: Is The Thirteen Ghosts of Scooby-Doo like a trials of Hercules thing?
+ART: Yes.
+AUSTIN: Great- great answer. Uh- [amused] in my opinion this is Bluff City, it's a map of Bluff City that I found in an old hard drive [laughs] today while looking for maps of Bluff City, and- uh, we never really filled this out, except for in our one, uh… Dream Askew game, that we only did like a little tiny bit of? And one day I'd like to come back through- probably not today, because we ended up getting so many questions id like to focus on those- but I did, in this moment, point at this and note that there is a- an episode of Drawing Maps I did where we talked a lot about what my personal vision of Bluff City looked like by driving around in virtual Atlantic City by way of Google Maps? Um… and so if people wanna do that and see like, what that part of Bluff City looks like, that's a thing you should dig up, I think it was the December episode of Drawing Maps. I also wanted to talk just about what the timeline was and where games fit in before we get to questions? And in order to do that I had to list all the games that we’ve played? And it's a lot of them! It's- we did… eleven games, technically, even though the first season of Bluff is like, seven things- if you count the Bluffs that are in the live games, including two which are completely unfinished, we have eleven different games. And I just wanted to briefly do like, one second summaries- not one second summaries, that's an impossible- that's- that was the most ridiculous- like [laughing] “oh we’re almost at the end of the episode” thing I've ever said! Um- but like one minute summaries of these, just to get us all in the same place? 'Cause we started these two years ago and that was a long time ago, so. We kicked it off with A Boxer, a Bird and a Bowling Alley. Who- Janine, you were in that, do you wanna summarize what that was?
+JANINE: Um… so that was a bird-stealing story...
+AUSTIN: [amused] Uh-huh.
+KEITH: [overlapping] Classic archetype.
+JANINE: But also a prize fighting story-
+AUSTIN: Uh-huh
+JANINE: -but also a bowling alley romance.
+AUSTIN: True. True. hm. And that was like, the most- the most in line, I think, with the- maybe not the most in line, but that was one of the things that kicked us off I think with something that was very much… in that dark comedy Coen brothers, Nice Guys, like- things get out of hand, people who don't always have the best of intentions are still very likeable? And… everyone winds up in deeper trouble that they could’ve ever imagined, we did that with Fiasco. Then we did The Cost of Greed, which was our first InSpectres game- Art, are you the only one here who was in that game right now? Yes-
+ART: I think that's right
+AUSTIN: Do you wanna- do you remember The Cost of Greed and what that was about and what happened?
+ART: Uh- yeah, it was our team of ne’er-do-well ghosthunters, who- who went to a casino owned by Blade….
+AUSTIN: [amused] Right, uh-huh.
+ART: And trying to figure out what was up with some- some secret luck, and uh….
+AUSTIN: We did our best.
+ART: Yeah, we did- it worked?
+AUSTIN: Beyonce was there and she was like a- a sea witch of a sort?
+ART: Beyonce was there.
+AUSTIN: He's gone, I can't- anything Art says is just going- the ghosts got him.
+JANINE: Beyonce got him
+AUSTIN: Beyonce got Art.
+ART: [overlapping] If I could do a Beyonce impression it would be perfect right now.
+KEITH: [overlapping, unintelligible]
+AUSTIN:[amused] Hm, if only, if only the internet wasn't interrupting your perfect Beyonce impression.
+ART: I did it, I nailed it, you missed it. 
+AUSTIN: [laughs] It will be in the recording, don't worry about it!
+ART: [amused] It's not, the ghosts did it.
+AUSTIN: Okay [cackles]. That was- I think that was one of my favorite bits because we got to introduce the first kind of taste of supernatural stuff there and how particularly we wanted to deal with that stuff? Um… Millenium Alexander Black was our like- what if Blade bought a casino, we got some- all the PCs were fantastic and they would pop back up at least- god I guess- do they each pop up just once in Grapplers?
+ART: Yes
+AUSTIN: Um… no one else popped back up later, right- we never got more InSpectres in Justice is Done or Messy Business, right? I don't think so. We should note that Boxer, Bird and Bowling Alley is where… who- is it Maggie, Maggie Darcy shows up there and again in Messy Business?
+JANINE: Yeah
+AUSTIN: Along with Finnegan Hands and also the Whitakers, who end up being a Blough City family. So kinda important stuff that if you go back and listen to that there's some important NPCs that show up again and help figure out- or help uh… draw on some of the boundaries of what Blough City is. Um.. after Cost of Greed there is- also Cost of Greed is the first Hector Hu appearance, as Hector was the intro reader- and then he and his death were the topic in There Is No Greater Love, which we played in Noirlandia, and… that game was weird, but I think we had a pretty good time with it? Like, I don't know that it fired the way we wanted it to, I think some of the mechanics didn't quite come together? But Keith, do you wanna- do you remember There Is No Greater Love? 
+KEITH: I remember some of that, um-
+AUSTIN: Sure.
+KEITH: It was a- so, I remember specifically that it kinda was a slow starter, and I remember specifically like- we recorded in two sessions I think?
+AUSTIN: Probably two, maybe three [laughs]
+KEITH: And I- I think that while- our second session I remember a lot better and a lot more smoothly. But that was- we were trying to solve Hector Hu’s murder.
+AUSTIN: Yes.
+KEITH: And it was- I guess it was a… [amused] it was an unlikely group of investigators trying to solve the murder of a radio personality.
+AUSTIN: Yeah, yeah, that was like the introduction- again it had some other characters that would show up in Messy Business, um…
+KEITH: Hector Hu, very important.
+AUSTIN: Very important, obviously, uh… ali’s character, Chris, also important… I guess the double pairing of actual investigators of Art’s character who is a private eye and florence slowly from Jack, and then you were playing Patty Fink, I believe, Keith?
+KEITH: Patty Fink, yeah.
+AUSTIN: Who I'm sure we will see more of in the future. At some point I'm just gonna need to get together a mapmaker update that is just a list of like the dramatis personae of all of Bluff City? I kinda have it already but it's not in showable format. Um- in any case-
+KEITH: I was almost Patty Fink for Messy Business, that's like- it was really close-
+AUSTIN: We should talk about that when a question makes it appropriate, 'cause I think that would be a good one. Um… from there we went into The Eighty Six, which is our first like- Aliens in the Outfield maybe happened first, but we played with this idea of media that exists in Bluff City a bit? And Eighty Six was an action movie. Dre, you were in that
+DRE: Yeah.
+AUSTIN: Do you wanna- do you remember what the Eighty Six was all about?
+DRE: Uh, the Eighty Six was about… I know myself and Sylvia played like, two kinda straight shooting cops. Um- who else was in that? I'm trying to remember…
+AUSTIN: it was Janine, also.
+DRE: Janine. 
+JANINE: Uh-huh.
+AUSTIN: As like your rookie-
+DRE: Oh that's right, you were the rookie, yeah. The fresh faced Hollywood star rookie.
+AUSTIN: Yes right! You were playing not just- not just were you playing investigators and cops inside of Bluff City, you were playing fictional characters acting out a thing- acting out an action movie version of an investigation that really happened in Bluff City, yeah.
+DRE: And I believe it was basically just about exposing the chief of police of Bluff City as being involved in like, organized crime…
+AUSTIN: Yeah, and elephant ivory theft? 
+DRE: Uh-huh. Lots of one liners.
+AUSTIN: God. God, I forgot about those one liners. I should go back and listen to the Eighty Six, it's been a while. Um, from there we did the Grapplers Down at Promenade Arena, whichi- I’ll go back to you Art, as the person who first- is the first time someone revisited one of their characters, was you replaying Jake the Jackal, right?
+ART: Yeah, yeah, we brought back Jake the Jackal for Grapplers… um- and it was a simpler show kind of, it was about this competition to win the contract and so we did- and there's some supernatural stuff on the fringes but we don't get very explicit about it.
+AUSTIN: No, no. Yeah and- it's funny 'cause I think it's- when you think about the… original pitch about what Bluff City is- and we’ll get one of those questions very soon- Grapplers was one of the first- it's us getting to what my initial idea for this season was? So even though it didn't necessarily end up being like, part of what you would think as the A plot of Bluff City season one? It still felt super important to me because of what the tone was, and also it was fun to describe some wrestling stuff. Um… [laughs]. Then we did When Justice Is Done, which to me was like, the surprise stand up, 'cause we had so much fun with it? Who- I mean, I guess Jack is the only one- sorry, Dre is the only one here who was not in When Justice Is Done, right? Everybody else here was?
+JANINE: I don't think I was… was I?
+AUSTIN: You were! You were… yeah, you absolutely were, this is the Masks game.
+JANINE: Oh, right, right, right. [laughs]
+AUSTIN: You were, um… Grouse [laughs]
+JANINE: [amused] Yes, I totally forgot. 
+AUSTIN: Which ended up being one of my favorite ones? It- I think I- so, it's a superhero game in which- the game takes place in the wake of Bluff City’s Superman equivalent, a woman named Goldfinch, having left. The pitch that I made was what if Superman effectively went back to the- to his home? A little more complicated than that, but that's the gist of it. And left behind metropolis- or left behind Earth, more specifically- and so you were playing teenage superheroes who were proteges of Waxwing? Waxwing and Goldfinch were the kind of lesbian superhero duo of Bluff City, and the… in the wake of her leaving there's this kind of gap in space for new heores to arise. So it was just a fun little superhero game, but also was a cool way to look at, I think- one, to tie back into that A plot stuff with who the true villain ended up being? But also it was cool to see Bluff City from the perspective of teenagers, because we’ve basically been adults the rest of the season. And so for me that was really good. And then we kinda jump right from the weird crab faced man of When Justice Is Done, who had been also kind of teased all the way back on There Is No Greater Love, um… to Messy Business, which was Lacuna, and was the finale game. Janine  do you have any thoughts- not thoughts, do you have- can you summarize that one for us a little bit, since we just did that one
+JANINE: So, that is a group of people who have been recruited into this kinda group that moves between the… worlds, I guess is a way to put it?
+AUSTIN: Yeah
+JANINE: And… lots of recurring characters basically invested in the disappearance of a filmmaker, tryna figure out what happened there. And the thing that happened is that he was making a movie about other other place.
+AUSTIN: The other other other place, Bluffington Beach, Atlantic City. Great- loved to make a movie about a different dimension! And we also supplemented with some live games, again, Aliens in the Outfield, a game of Primetime Adventures that was about- that was a show that aired in Bluff City [laughs] which makes it so much- so much more complex the more we think about it, but it was just a fun-
+KEITH: I'm dying to finish it.
+AUSTIN: I know, we need our schedules to line up right for it, and once the do we should. I'm also dying to finish Dream Askew, which is, um… Avery Alder’s post apocalyptic kind of game of community- queer comunity building and kind of trying to figure out how to build somthing in the wake of an asimetrical apocalypse? And then also there was a game where everyone went to the zoo and then a game where everyone was bears [laughs]
+[everyone laughs, KEITH cackles]
+AUSTIN: Um… and both of those were really great, and I had a blast.
+KEITH: [overlapping] I think you're underselling the seriousness of those endeavors.
+AUSTIN: Y'know what, I will never- actually, Fiasco zoo game ended really sad [laughs] for some people.
+KEITH: Yeah… for everyone, I think there was no one that didn't end sad [JANINE overlaps]. It was close.
+JANINE: Sometimes it's better that way? It felt- I feel like i… in the zoo game made the conscious choice to end sadly because after a Boxer, a Bird and a Bowling Alley I was like “This is weird” [laughs]
+AUSTIN: Yeah, yeah
+JANINE: It's weird when I try to- y'know, that happened when I was still playing to win, to a degree, and I was like “This is- I'm just gonna see where this goes on it's own.”
+AUSTIN: Yeah. I really liked that one, it was fun to listen to that. Um… so. Those are the games, and I have some stuff- unless you all watch Drawing Maps, y'all being the players, there's some stuff I'm about to show you that I don't think you've seen yet? Or if you've looked ahead-
+KEITH: [overlapping] No, we don't really have access to that. I mean I guess we could sign up to the Patreon.
+AUSTIN: Yeah, you could, or like ask us for a link or whatever, that'd be fine. In any case, this is something that I showed during the last Drawing- the last Bluff Drawing Maps, coming into Lacuna. And it is like, what I think of as the pod- not the podcast, the timeline [laughs] of… of the Bluff City games. We know that there was some distant past in the 70s question mark? Where Millenium Alexander Black was fighting vampires! I don't know how long ago that was, we know that time is weird in Bluff, and things are blended in a weird way, but we know that that happened in the past, and in my mind that is a pre- an era of Bluff City- and we know based on his- the way he’s explained his interests that he wanted to rise to power and kinda make things better in Bluff City. And so I can imagine it being a place where Bluff City was a little more oppressive, it had vampires both literally and figuratively. 
+Austin: And then we know that- for me the first game that takes place in modern Bluff City is Bowling Alley, Boxer and a Bird or whatever the name order that is- then Cost of Greed, then the Eighty Six- or like, the events of the Eighty Six- or I guess maybe the movie the Eighty Six comes out, the events of the Eighty Six might have already happened by then? [laughing] It's hard to know? Um… and then Grapplers, and that's just kind of like, modern… y'know, just classic Bluff City? And then we know When Justice Is Done, the superhero game, happens right between- or kind of like right at the end of Bluff City, because a lot of the details of that game- people, the kinda masked ball that we see at the end, with the police holding this weird auction, a lot of the new emphasis on propriety, and even some of the description of the way buildings look- I was drawing form the There Is No Greater Love game, and the stuff that the players set up in that game to describe the ways in which the oppressive society took- was inserting itself, or was showing itself? So it was like- Keith, you were describing a lot of the houses- a lot of the buildings in There Is No Greater Love look like they were just converted houses? So there's a lot of that in When Justice Is Done- it's kind of the beginning of that bad, rough era.
+AUSTIN: Then we have a big question mark then for like, what happens between When Justice Is Done and There Is No Greater Love? There's this total era where for me it's all about this like… we only talked about this in Lacuna a little bit- Blough City is trying to exert some control. And then we know omega love happens, we know There Is No Greater Love happens, things get… better, I guess? Things are supposed to get better that that point, we know there's a fight back.
+KEITH: Messy Business is in there somewhere?
+AUSTIN: Messy Business is… yeah, Messy Business would be in- I guess- so this chart came before we recorded Messy Business, right.
+KEITH: Got it.
+AUSTIN: Um.. So I think it probably- Messy Business comes probably right after omega love here? Right?
+KEITH: So right at the very beginning of the future?
+AUSTIN: Yeah- I guess, right? We don't know, and like, play to find out what happens with the note that we know that Dream Askew happens sometime in the future, where things are both post apocalyptic in parts of Bluff City, and also vaguely cyberpunk in parts of Bluff City? so-
+KEITH: When we started the first season of… Friends at the Table, did you think that you would have to put out a clarifying timeline?
+AUSTIN: Yes, 100%. 100%
+KEITH: Yeah? [cackles] 
+AUSTIN: This is like- we’ll get to those questions around like, ‘How much of this was planned?’ and like, I knew that this would be a weird timeline?
+KEITH: No, no, not at the start of this, at the start of Hieron.
+AUSTIN: Oh, sorry, sorry, sorry. No. [amused] No, I had no idea about that, no! Um…- well. I knew we wanted to talk about history and different types of history, and the ambiguity of history as a- as like, a field? And so… I think with Hieron the thing I was able to do is be like. [laughing] We’re never gonna give you a timeline. Like, I'm never gonna sit down and tell you how long ago the past was, y'know? Whereas here I'm a little more interested in it because of this relationship between Bluff and blugh and Bluffington? So yeah. Dream Askew was a live, yeah. Um- we didn't finish it, we basically made characters and then played 20 minutes- Dre, you were in that, right?
+DRE: Yep!
+AUSTIN: I really liked it, and we need to get back to it, also. For the record, id say Aliens in the Outfield is definitely modern Bluff City, Fiasco zoo is modern Bluff City, and Honey Heist is modern Bluff City, for sure. I do love the idea of them- of the animals breaking out during the like, Blough city control era? [laughs]
+KEITH: They're part of omega love
+AUSTIN: [laughing] Yeah, exactly!
+ART: I think it also works in the past?
+AUSTIN: True- if you'd scored Honey Heist as like a 70s… like, um… there's a word I'm looking for, a genre I'm looking for. I think it wouldve worked really well
+JANINE: Exploitation?
+AUSTIN: A bear exploitation film, yeah, exactly.
+ART: Honey Heist but The French Connection
+AUSTIN: [amused] Perfect, love it. God. Um- now here's the one you've really never seen, probably, but I've explained most of this- this is how my brain works. [laughing] the relationship between Bluff city and Blough City, the weird concern shit [JANINE chuckles], I'm not gonna- I'm not gonna talk through this, if you wanna hear me talk through this you should go watch that Drawing Maps episode from before Lacuna- though I will say someone in chat earlier was like “oh yeah, the Masks game, that's the one where London exists” but, as you can see right here, London only ever exists in conception, there is no Trenton, only people from Trenton. Love it. Anyway, go back and watch Drawing Maps from December-
+JANINE: This-
+AUSTIN: Uh-huh
+JANINE: I'm glad we’re streaming this on youtube 'cause this absolutely looks like some shit I’d see on a youtube ad [DRE laughs] that the algorithm is feeding me that is….
+KEITH: Yeah, this is very- weirdly recommended video- [AUSTIN & ART overlap]
+AUSTIN: [overlapping, amused] Yeah, yeah, absolutely.
+ART: [overlapping] It's a slides about how this proves that women shouldn't have jobs.
+AUSTIN: [laughing] Jesus christ! [KEITH cackles] It is NOT that, though that is what it would be in Blough City, 100%. Well- you see, Blough City is restrictive, repressive, sublimated to the way things used to be, blah, blah, blah. The good all days, exactly that. You also see some notes about Blough City being more like LA than Atlantic City, keep that in mind as we go forward in questions. Um… because here is- I guess it is- I'm not gonna jump ahead to the one that that's related to but we will get there. But if people have questions about any of this shit on the call-
+KEITH: I’ll-
+AUSTIN: I'm gonna go forward to fan questions, but you go ahead, Keith-
+KEITH: I do have- I do like how basically the idea of… like, the concept of Bluff City and Blough City is sorta like the feature film Twins featuring Arnold Schwarzenegger and Danny deVito?
+AUSTIN: [overlapping] Wait what's- what is- is that what they're-
+KEITH: There's- they try to create a perfect person but it also created the worst person? And so there's like the perfect human and like, the worst human.
+JANINE: [overlapping] Poor Danny deVito...
+KEITH: I know, yeah, it's really sad.
+AUSTIN: [overlapping] Is Danny deVito the not perfect one?
+KEITH: He's- yeah, he's- well, Arnold Schwarzenegger is like, the perfect guy. 
+AUSTIN: [amused] Disagree.
+KEITH: And then- yeah I also disagree! But it also is- besides the fact that Danny deVito is obviously excellent, Bluff City and clough city do remind me of Arnold Schwarzenegger and Danny deVito as seen in the feature film Twins.
+ART: Danny deVito is still working, Arnold Schwarzenegger isn't, I'm just saying. 
+AUSTIN: True
+KEITH: Yeah, yeah. Listen, they got it wrong- they got a lot of things right in the 80s, then thinking that Danny deVito is the worst twin isn't one of them. 
+AUSTIN: Agreed. Can we just take a moment to look at these twins. [laughs] Boom! Look at them.[KEITH chuckles] Lov’em.
+JANINE: Did you know they- they put- they cast Dolph Lundgren in the Kindergarten Cop 2 movie as if he was going to be a stand in for Arnold because he's also an old man with muscles? [KEITH & DRE laugh] It's very difficult to watch. I didn't watch it, but I watched bits of it.
+AUSTIN: I didn't know there was a Kindergarten Cop 2.
+DRE: I also didn't know [JANINE overlaps]
+JANINE: [overlapping] Yeah, it came out like a few years ago. Also-
+AUSTIN: It came out in 2016!
+JANINE: Yeah, his love interest is like a 20-something year old woman? And he's like 60? And like…
+AUSTIN: [groan] Oh boy... 
+JANINE: Lumpy- it's rough.
+AUSTIN: [overlapping] It's pretty lumpy.
+ART: [overlapping] Dan Brockman in the chat says “Danny deVito never knew he actually had all the dominant genes” and I would 100% watch Metal Gear Solid remake with Arnold Schwarzenegger and Danny deVito.
+AUSTIN: 100%! [KEITH laughs]
+JANINE: That would be pretty good.
+AUSTIN: God, if only! Alright, I'm gonna get to some fan questions at this point. These come in from Thomas, who says “What is your favorite Bluff City moment from real life?” Um… [laughing] we have a chat that's just filled with them?
+KEITH: Yeah, we have hundreds of pages of this.
+JANINE: Maybe these have to be like, personal? Would that help narrow it down with like- from your real life?
+AUSTIN: I guess it would, but-
+KEITH: Oh, that's how I took it anyway, yeah.
+AUSTIN: Okay, it would then still be… i would still have a huge catalogue 'cause like, any of those- oh, I know exactly what it is! I was thinking about the bus trips that I used to take from Canada, but actually, it's that time the DJ was at a bookstore I used to work at- and I used to work at like a Starbucks [JANINE chuckles] that was connected to… [DRE cackles] 
+JANINE: [overlapping] a Chapters Indigo...
+KEITH: [overlapping] Was that actually a Dunkin’ Donuts cafe that sells Starbucks branded Coffee?
+AUSTIN: It was not, it was a Starbucks. [KEITH overlaps] It was a Starbucks connected to a…
+KEITH: [overlapping] Was it really?
+JANINE: A Chapters Indigo.
+AUSTIN: A Chapters Indigo, thank you. Um- and… it was like, Black Friday, or near it? And there was- they brought in some sort of ridiculous DJ to try to pump people up to buy…
+JANINE: It was- it was the rebranding, it was the rebranding party 'cause they were switching from Chapters to Indigo
+AUSTIN: You're right, exactly- [amused] why do you remember this so well?
+JANINE: 'Cause I'm canadian, and that's… all we have.
+AUSTIN: [laughing] And it was a national holiday! 
+JANINE: All we have is this story in that one tweet, we have nothing else [AUSTIN cackles]
+DRE: I feel like this was one of the first grade Austin Walker twitter thread story-
+AUSTIN: I guess- I can't-
+KEITH: I don't know about this, I've never heard this.
+AUSTIN: [amused] Oh, what were the- the- there's a moment when a guy came over and insisted I had to try some pralines I think? [KEITH cackles]
+JANINE: And then they were very very good, and you were very excited for them? [chuckles]
+AUSTIN: They were very good, they were very good.
+KEITH: [overlapping, unintelligible]
+JANINE: [overlapping] You were handing out mocktails?
+AUSTIN: So- that's how I can find this, [laughs] I can search for “Asutin Walker mocktails”
+DRE: Oh, wow
+JANINE: You can- you can search “Austin Walker rainbow loom” probably. [KEITH & AUSTIN cackle]
+KEITH: That- that reminds me- while you're looking for that, another very Bluff thing is that Barnes&Noble is like “We’re gonna sell alcohol and have nice chairs now” that's-
+AUSTIN: [amused] But they weren’t because it was mocktails and not cocktails.
+KEITH: No no, this is a [AUSTIN overlaps] newer thing, now- yeah.
+AUSTIN: [overlapping] Oh this is real?? Oh boy.
+KEITH: In the last few moths I saw a big article about how they're like “We’re gonna sell beer and cocktails! And you can read the books here you don't have to buy them!”
+AUSTIN: Um, I figured out how to find this, because- because the problem is… the- I made a- what where these things called before moments? Storify? I storified it but those are all gone now, so I can't link you to the Storify anymore? But, november 22nd, 2013 is when I made all of these tweets [KEITH whistles] I know [laughs] which is ironically only a month after Friends at the Table started? Soooo we can't even be like “That was so long ago! Before any of us blah blah blah” No, that was just- Hieron had started by now. But I did find these tweets thanks to Janine- uh… quote, this is from the DJ Rainbow Loom “Gift of the year, let me tell you. Honestly? This is hot. And I have one right here”. And then another great quote from this DJ “Shoutout to the toy department. They've got the gifts you need for this holiday season. What's this a uh. [laughing] They've got a rainbow loom I guess” [KEITH laughs] Extremely funny.
+KEITH: [laughing] What is a rainbow loom?
+JANINE: It's like a- it's basically like a bunch of pegs and you attach rubber bands to them and basically weave the rubber bands together into bracelets.
+KEITH: So it is a loom.
+JANINE: Yeah. I mean it's like- like, you can get a sock loom or something? And- I don't know what they're called, but you can- it helps you make socks and hats and shit. But it's like that except you use rubber bands with it.
+KEITH: I'm looking at this and I'm like, I should start looming [AUSTIN sighs] These are sick! I could have a whole blanket of this.
+AUSTIN: A whole blanket?
+KEITH: Yeah, but I’d use [JANINE overlaps] I wouldt use rubber bands.
+JANINE: [overlapping] A whole blanket of rubber bands, that's-
+KEITH: I wouldn't- no, not a rainbow loom, I want like a loom that-
+JANINE: [overlapping] You could just knit!
+AUSTIN: You could.
+KEITH: How do you knit? What do- that sounds impossible to knit. [JANINE & ART overlap] That looks like it's not possible.
+JANINE: iIs-
+ART: [overlapping] Knitting is impossible? [laughs, AUSTIN chuckles]
+KEITH: I think that it might be!
+AUSTIN: Hmmm
+KEITH: It just looks like magic, people twirl those things and then all of a sudden there's a sweater.
+AUSTIN: Um, I have some more quotes from this DJ that is just a Bluff City NPC “I'm putting this one out for Cindy over at checkout. Justin Timberkale is bringing Cindy back”
+JANINE: Ugh [chuckles] [KEITH & DRE laugh]
+AUSTIN: This is very good- I thin- are there any more real life Bluff City experiences?
+KEITH: I had one yesterday- or a couple of days ago. There's a… over the last week- so, I have a neighbor that has an ice cream truck? And they have been driving it all around the neighborhood, and all it plays is Christmas songs? But like, in- in ice cream truck tone. So it's like- there's one- they played Noelle, that was one of them, and then We Wish You a Merry Christmas and a couple other ones. So like, every afternoon unless it's raining there's Christmas music playing on this ice cream truck, that is- it also just looks like a work van? Like what a construction guy would use for something? It does not look like [laughing] It doesn't look like what an ice cream truck normally looks. It looks like a Nissan van.
+AUSTIN: [amused] Perfect. Ideal any other real life Bluff moments?
+DRE: Hmm…
+AUSTIN: I think we all have these all the time and just don't- right? Like-
+JANINE: Don't register it…
+AUSTIN: Yeah! 
+JANINE: Um, I have one that's not… not the aspect of Bluff that I think we would most commonly identify a Bluff moment as? But i- it still feels very relevant in this moment, it's the first that comes to mind. Um… when I was little we used to go camping a lot, and I like, lived for these beaches and stuff that we would go to. We usually camped in freshwater areas so saltwater was always sort of weird, but there was this one beach we went to where I remember sitting in the shallow water and like- I liked to work my fingers through the wet sand? [AUSTIN humms] underwater? And I remember this one time I did that, and I felt a bunch of sharp stuff?
+AUSTIN: Ah- oh?
+JANINE: Underneath the sand? I didn't really understand it, and I realized literally years later those were probably clams or something. 
+AUSTIN: Okay.
+JANINE: Um-
+AUSTIN: Okay, that's not as scary as what I thought this was gonna be.
+JANINE: See, to me it's much scarier thing, because the idea of little animals with their little mouths open, and I'm just like grabbing at their little faces…
+AUSTIN: Yeah
+JANINE: And I have no idea, and that's just- I- that's the other side of growing up where you camp in like, lakes and stuff? You don't actually encounter a lot of wildlife when you're swimming.
+AUSTIN: Fair
+JANINE: So the idea that I was touching a sea thing? Very much upsets me.
+AUSTIN: Fair enough! Um… Dre, Art, do you have any moments that stand out.
+DRE: Hm… uuuh, when I was watching the Superbowl and that ad came on for the local lawyer whose ad was just him- I think it was him fighting the Whitewalkers from Game of Thrones, and then getting into a mech to continue fighting them?
+AUSTIN: Uh-huh! Yep!
+DRE: Yeah
+AUSTIN: That was really on TV, they put that on TV. I was gonna say the Hammer?
+DRE: [overlapping] Yeah, the Hammer! Darryl Isaacs.
+AUSTIN: Darryl Isaacs, that was the name, because- what we found out looking into this was… that there were a lot of, um… of the Hammer? Supposedly named…- yes, it's the Whitewalkers, this is very funny. I'm- I'm showing it to the audience now. Oh- there's Thor’s hammer, also. Or a hammer. There's aliens. There- oh! Is he like a superhero? Oh my god! [cackles] I forgot about- everything!
+DRE: Same
+AUSTIN: This is so good. [pause] The aliens said Darryl Isaac and then Darryl Isaac said “Don't take that small check!” [DRE chuckles] Uh….
+KEITH: Is this on the Super Bowl??
+AUSTIN: Can I say [DRE overlaps] something real quick?
+DRE: [overlapping] Yeah that's on the Super Bowl.
+AUSTIN: When do we get this sort of production budget? 
+KEITH: We just- honestly, I think the ideal production budget.
+AUSTIN: 100%. I don't want more than this. 
+DRE: Yeah.
+AUSTIN: If you're on Hollywood- [laughing] forget I just said that and give us more of this
+DRE: The other very Bluff City Darryl Isaac story is that, um… he's still a big guy, but he used to be like a much bigger person as far as his weight was? And then he kinda… he kinda got well-known because he started cycling a lot-
+AUSTIN: Oh, cool
+DRE: And lost a lot of weight, and- y'know, I think he had- he was covered by local magazines or something where he talked about how he had this really bad health care so he decided to ty and take much better care of himself? And then one day, while he was out cycling, somebody hit him with a car.
+AUSTIN: Yo!
+DRE: He's okay, like- he's okay, but the idea of like- like, hitting somebody on a bicycle with your car is terrifying and awful?
+AUSTIN: Yes
+DRE: But to realize it is the most famous, like, injury-settlement lawyer in the city? [AUSTIN cackles, JANINE laughs]
+AUSTIN: Yeah… yikes. God, alright. Art, do you have one here? Are you sitting on one?
+ART: Um, this is like a different kind of Bluff City moment- this comes to me- I've unfortunately lived mostly in bigger places which I think lend themselves in a different way to this kind of things? 
+AUSTIN: Yeah
+ART: But, um- did you ever walk from Hofstra to Roosevelt Field Mall?
+AUSTIN: Yes, of course.
+ART: Okay. I don't know, you-
+AUSTIN: Just for you and me.
+ART: Yeah. Y'know how like, you did it, you went up and around that little block and yo were kinda there?
+AUSTIN: Yeah yeah yeah
+ART: One- one time when I was a freshman- so this might’ve been even before you were there- I was like, “what if I just went around that block the other way on my way back?”, 'cause I was like “y'know, it's a big distance this way-” and I want the other way and I ended up just walking for ever? 
+AUSTIN: Yeah- where does it- like Garden City? Where did you go?
+ART: The thing is that block never ends the other way [JANINE chuckles]
+AUSTIN: [laughing] This is a Blough City moment, Art! [KEITH cackles]
+ART: [amused] Yeah, it was just me like, lost forever in Long Island? And just like- for a little while it's houses, and then you get this like, weird run of medical supply warehouses? Like, I honestly don't know! And then it started getting darker? [laughs] I don't know, it was- it was an odd one.
+AUSTIN: [amused] I think getting lost in the suburbs is very Bluff City, honestly, so- so that's good.
+ART: [overlapping] Supposedly getting lost in suburbs-
+JANINE: [overlapping] I thought- I thought of a Honey Heist one.
+AUSTIN: [confused] Uh- yeah?
+JANINE: Yeah, it's also a camping memory, but it is the camping memory of a raccoon who stole our hot dogs but then came back and stole the buns. And that just feels like-
+AUSTIN: That's so funny.
+JANINE: That's- that's some shit. That's a-
+AUSTIN: Ohh, that's perfect….
+KEITH: Oh, I've got a zoo Fiasco one!
+AUSTIN: Please
+KEITH: I worked for a summer at the- the science museum in Boston, and they have like, this whole… they have like a lot of animals that live there? For presentations or whatever? And basically my job was to help clean the cages of those animals? And there was a lot of stuff, like badgers and lynx and there was a snapping turtle and an alligator… uh- and there was a guy there that would just tell you- [amused] like, “hey, be careful!” and then say the most dangerous thing that ever happened to a person with the animal [AUSTIN overlaps] that wasn't being careful enough?
+AUSTIN: Oh my god…
+JANINE: Uuhhhh…
+KEITH: [laughs] Including- there was one guy who got his thumb bit- [AUSTIN: yikes!] it was very small, it was a baby alligator. But it was- including tail it was probably like 3ft long?
+AUSTIN: Still
+KEITH: But- if you picture how big an alligator that is, it is small. Um… but there was a guy who got his thumb bit by this alligator and he- “It got three men and a screwdriver to get this thing off!”
+AUSTIN: Oh my god! [KEITH cackles] Mine is a little easier, it's- when I was a kid, we used to go to the Cape May Zoo on field trips once a year, with my class- and occasionally my mom would chaperone- and once she got peed on by a tiger [laughs] [KEITH cackles] A tiger that was in a cage, and was like “Y'know what! You!” 
+KEITH: [laughing] I fucking- I'm- I talked about this on Run Button before but there was this time when Kylie and I- our families went together to Six Flags, New Jersey? [AUSTIN overlaps] And we went on like the safari thing?
+AUSTIN: [overlapping] Uh-huh, Great Adventure, uh-huh.
+KEITH: Yeah, uh- and I was really young, 'cause my parents were still together and my dad kept ignoring all the signs- like, as a joke, to make me and my mother upset, he kept rolling down his window? Despite sign after sign after sign that was like “DO NOT ROLL DOWN YOUR WINDOWS” [AUSTIN groans and laughs] And, uh… [laughing] and he rolled down his window and there was a camel- no, a giraffe, it was a giraffe- stuck its tongue in the car [AUSTIN: yikes!] and was like, licking around [JANINE groans] And he couldn't roll it back up 'cause it wouldn't take its tongue out.
+AUSTIN: Oh my god [laughing]
+KEITH: And so there was this giraffe with just enough tongue- room for its tongue to fit through, flailing a massive tongue right next to my mother's face [AUSTIN cackles, JANINE laughs]
+AUSTIN: [laughing] Oh, that's a nightmare! Oh, fuck that…
+KEITH: Yeah, sign after sign, each sign more serious about how you for sure- for sure keep your windows up! [DRE cackles]
+ART: Um, Jessica loves to tell this story- I forget what park it is, she drove to some national park and there's like- they've got like bison or something? Or buffalo? I don't know the difference, I'm gonna look it up.
+KEITH: [overlapping] It's bison, everything there is bison.
+ART: And it's like- if they're on the road, you just have to wait there until they leave. 
+AUSTIN: Uh-huh.
+ART: And like, it happened to them? You have to sit- if you try to move them they will fuck you up.
+KEITH: Yeah.
+JANINE: Oh, yeah.
+ART: They're as big as your car.
+KEITH: Um- yeah, they're enormous. The thing that you think of as like, an american buffalo is a bison? An actual buffalo would look way different.
+ART: Huh
+JANINE: And there's water buffalo and stuff.
+KEITH: Yeah
+AUSTIN: There are so many of these types of little moments- I mean this is part of why Bluff is Bluff, I think- it is- it supposedly takes place in a fictionalized Atlantic City but where it really takes place in a fictionalized North America, especially the places that are small cities and suburbs? And like, the sort of en- memorable encounters that you have moving through those spaces. And- drawing I think in all of our childhoods and all of the like, vacations we’ve been on, and all of the-
+JANINE: The worst recipe you ever fucked up!
+AUSTIN: Yes, exactly. [DRE chuckles] Or like, the time someone yelled at you at the counter of the retail shop you worked at! Y'know all of those moments collide. I think Thomas’ second question ties to that, which is ‘how has it changed?’ And I don't think it's changed that much. It's changed since we first talked about it as… was this the original season six? [ART overlaps] No this was the original season three- season four.
+ART: [overlapping] Season four.
+KEITH: Season four
+AUSTIN: Season four, season four, yes. Which was Bruce Springteen and then- in my mind I always pictured it as the Bruce Springteen season, and I think that's very clear in games like Promenade- Grapplers down at Promenade, the first Fiasco game- stuff like that, that sort of vibe of- even parts of Primetime Adventures, of Aliens in the Outfield, the stuff with the coach and his son at the ruby tuesdays or whatever? Like, that is extremely extremely original Bluff pitch?
+KEITH: Stepdads is very Bluff
+AUSTIN: Yes, 100%. [laughing] 100%! And so there is- that stuff I think is still there, but the other half of that pitch that I didn't say out-loud into a microphone at the time was- I had always jumped off season for as being two games that did not intersect with each other. Or if they intersected, they did it in weird askew ways, and it was- one game was going to be World Wide Wrestling RPG and the other was going to be- would end up looking like something like Lacuna eventually did? It was going to be our David Lynch investigation game, and it was like this one city from these two perspectives? And so…
+KEITH: We got far enough on that were people had ideas of which one of those they were gonna be in.
+AUSTIN: Yeah, totally, absolutely. You're totally right now that I think about it, I hadn't even thought about that. But yeah. People thought like “yeah, I'm gonna be in the wrestling one, I'm gonna be in the investigation one” Um- and I think this ended up being much better? Like, I think figuring out this idea- what if we just kept telling different stories in this town- and that's not the same- not that well never zoom in more and do more stuff there? That- y'know, that has been true all the way through. I think the Bluff-Blough-Bluffington is newer than Counter/Weight era prep? It definitely is. But I always knew there would be some weirdness going on, y'know. So yeah.
+KEITH: Some of you- of what we were talking about right before this, I have more to say on the next question, unless there's anything more on this one.
+AUSTIN: I'm happy to move on, we have still a lot of questions to go so let's keep moving. Janey says “Hi table friends. My question is for everyone in the cast who has not lived in Atlantic City- sorry Austin- how much of your hometowns did you put into Bluff or Blough City? Did experiences or images of other cities you lived in influence how you pictured or described settings of this season? Thank you for the wonderful show.” Thank you Janey. Keith, go ahead.
+KEITH: Oh, yeah. So- this sort of talking about the- more on the real life stuff and the way that like, Bluff has changed for us? Like… the- literally one of the first things I said when we were recaping like, what Bluff is… you originally pitched this as Atlantic City but I've never been there, so I just had to take what you said and then like- [AUSTIN chuckles] In my head Bluff isn't Atlantic City, it's like a version of Hampton Beach in New Hampshire and Cape Cod. And like- and I've just tried to bring that where it's relevant to- because I don't have Atlantic City as a touchstone?
+AUSTIN: But you know what a broadwalk is from these other places, you understand what a seaside town can feel like.
+KEITH: Sure, yeah. And you- you mentioned earlier the business that are just converted houses? That is a lot on parts of the Cape? But you cannot have a build- like, a business that looks like a business, it has to be like a cape house?
+AUSTIN: So funny
+KEITH: Yeah. Like, you'll walk into a 7-Eleven and the 7-Eleven just looks like a house.
+AUSTIN: Well- and that's one of the things that's so great, because like, it's useful for me as someone who wants to tell this. When you brought that up back in Noirlandia I knew what Buffington and Blough were? And it was like, Wow, that's so good for this idea of this external force that's all about controlling questions of expressivity? And y'know- that law, this is what the buildings have to look like, is literally a thing that we ended up saying was true about Lacuna in a- of the Bluff City in Lacuna- that there was a bureaucratic institution that determined what buildings could look like. You could basically only build certain buildings in that way. That literally doesn't- I don't get there unless you bring in that Cape Cod vibe and that rule- like, that never- that shows up in Lacuna. Or if it does, it's for some other reason, but it's not- it doesn't have that nice throughline from that Noirlandia game.
+KEITH: Yeah, and its - it speaks to like, how- Bluff is everywhere? It's Atlantic City, but it's also all over the place? And that's the thing that is so fun about Bluff, is that- it's your idea of Atlantic City, and then my idea of a place that reminds me of your idea of Atlantic City, [AUSTIN chuckles] and Dre’s idea of a place that reminds him of your idea of Atlantic City-
+AUSTIN: Right
+KEITH: And like- yeah. But it's also- you can't paint your house certain colors? Huntington, Massachusetts is like that too, they can only be red and brown and pink or something, it's crazy. [laughs]
+AUSTIN: It's bad.
+KEITH: It's gotta look like the 1700’s still!
+AUSTIN: Right, right. Anybody else have their like, local version of something that they brought in to- brought to the table?
+DRE: Um- I've only ever been to two cities with casinos? One is Las Vegas and the other is French Lick Indiana? As you can imagine the casinos in French Lick Indiana are uh- [AUSTIN laughs] pretty sad [laughs] compared to Las Vegas. So whenever we were in like, casino areas in my head I was like “is this more of a Las Vegas casino or a French Lick casino?” [laughs]
+AUSTIN: French Lick is a great name for anything [JANINE chuckles]
+KEITH: There might be a casino exactly in between those two and it's Mohegan Sun in Connecticut? 
+AUSTIN: Yeah…
+KEITH: I- I was dating someone and her family had like, a house, a condo there- like, around the area? And the area had nothing in it, it had like, a couple diners, and breakfast places and little stores, and then this enormous casino/mall. [AUSTIN overlaps] It was the only thing, it was like-
+AUSTIN: [overlapping] I got lost in there once, it was so sc- I got lost on a road in the woods there once? And it was very scary.
+KEITH: Yeah, it's a bizarre place, and it's like- yeah. So I guess in that way it's more like- what was it, french licks? [AUSTIN laughs]
+DRE: French Lick.
+JANINE: Singular, one
+AUSTIN: [laughing, overlapping] Please, one lick.
+KEITH: [overlapping] Yeah, I'm- now that I hear it out loud, french licks is insane [cackles]
+AUSTIN: If it had more than one lick the casinos would be better, okay?
+DRE: That's, uh- that's where Larry Bird’s from, please.
+AUSTIN: [curious sounds] 
+KEITH: [AUSTIN overlaps] There's this- my least favorite name- place on Earth? Which is also a very- maybe is Bluff, I don't know. Everything’s Bluff, kind of. But, uh… Bobby Flay’s Bar Americain? Which is a- amercan bar spelled in french, and also the guys name is Bobby Flay. 
+ART: Bobby Flay, very famous celebrity chef.
+KEITH: Very famous celebrity chef, he has a burger place in the same restaurant, the burgers are fine.
+AUSTIN: [laughs] Any other people who bring in their person history, or personal- not just history, but like, their local city, therI local vibes.
+ART: Janine’s is going to be more interesting than mine, so I feel like I should try to just like, sneak in here. I mean I, of course, am from the north east, which is… y'know, Atlantic City adjacent at least. My family vacationed three times at Cape May and then not again, I don't know what happened at Cape May. Just got bored of it I guess, I didn't make the decisions back then, I was like twelve [laughs] Um… no one even asked me, honestly. “Do you wanna go to Cape May?” never asked, “Do you wanna go back to Cape May” not asked “We’re gonna stop at Cape May, is that cool?” no one asked [AUSTIN laughs] But what really informed Bluff City for me is the Italian catholic street festivals?
+AUSTIN: Ohhhh, that's good! Yes.
+ART: They like, used to be a thing in New York and I think they are basically gone?
+AUSTIN: Yeah. Basically- I mean, you still get street festivals of a similar sort out in the other boroughs? Like, we have them in Queens, in Astoria. Like, they’ll shut down Steinway or shut down Broadway and just do that exact style of street festival?
+ART: Hm.
+AUSTIN: Can you describe that a little bit?
+ART: They would shut down like a couple blocks and they would put these big red, white and green… like, decorations above the street? And they would have basically like, Christmas lights on there, white string lights, not anything fancy. And the whole thing is just like carts? Like, little trailers? And some of them sell food, like zeppoli or sausage sandwiches, and some of them are like carnival games?
+AUSTIN: Yep. You'll get a ball pit sometimes, you'll get-
+ART: Uh- I got a tilt-a-whirl? 
+AUSTIN: Yep, sure, just a little bit of carnival stuff, yeah. I think that's exactly- like, part of the reason I like it when those street fairs happen is because it reminds me of being a kid in Atlantic City or Ocean City. So like, that is a great touchstone I think.
+ART: But the Saint Anthony festival on Sullivan street stopped like ten years ago and it's a real shame. Maybe more, maybe like twenty? Oh my god.
+AUSTIN: We’re old. By the way, happy 20th anniversary Home Movies [JANINE groans] maybe the single more influential, uh… [laughs] piece of Bluff City Art. Um… Janine, did you have any- do you have a story for this?
+JANINE: So, I'm realizing pretty much as we’re talking- 'cause I hadn't really put this together before- that a lot of the stuff that I draw on personally for Bluff moods is actually a lot of the stuff where my mom’s side of the family lives? Because it is in- y'know, that side of the family comes from sort of Atlantic Canada, so like, Newfoundland and that area- and then they moved inland, and they moved to a town that like, for a while was a pretty big deal because it has a lot of like, ports and shipping stuff and things like that. And then that industry kind of- it sort of half dried up but it's still kind of the pilar? Um… but that town and that area is a lot of- it's a lot of, y'know, old men who hang out together at the weird corner store that's on the pier for some reason. 
+AUSTIN: Right
+JANINE: Just 'cause that's- y'know, just like, a picnic table surrounded by cigarette butts. And that's just where they all go during the day, and it's stuff like that, that like- y'know, it's my dad [laughs] when where there for Thanksgiving or something and wanna get out of the house, the thing he would do is- we’d get in the car and we’d leave mom behind with our family just to talk or whatever, 'cause we just wanted to fucking go. And he would drive me around the grain silos? Like, the silos where they put the grain before they put it on the boats? And we would just drive up and down that strip, um- just for something to do? [laughs]
+AUSTIN: God. 
+JANINE: And it's shit like that that I realized is like, heavily- y'know, it's going up to the nearby beachtown and being like “Well, here's the section you can pay to get into, or we can just drive five minutes this way, climb over a weird dune, and just sit on basically the same beach and eat some weird french fries from this like, hole in the wall french fry place that only sells french fries.”
+AUSTIN: [overlapping, laughing] That sounds good.
+JANINE: And they only opened up two months of the year, like- [laughs]
+AUSTIN: Yeah. Yeah, no, this is-
+KEITH: [overlapping] Ugh, I know a place like that-
+AUSTIN: I think we all do, anyone who's gone to- been around that kind of beach, those exist, 100%
+KEITH: Every fucking thing that everyone has said about their Bluff thing I'm like “yeah I know a thing just like that”
+AUSTIN: Right, which gets again to the heart of why I think this has worked for us so well. Um- even if you don't know it exactly, you know it close, right? The thing that came up the other- Janine, you and I were talking about this the other day- was like… for me, the free beaches- for Atlantic City and then the surrounding beaches- so like Atlantic City, Ventor, Margate, Ocean City, etcetera- the free beaches are thought of as being touristy and being... overcrowded, and not having enough like, space, and being too loud- and the beaches that you have to pay for- you get beach tags at the beginning of the season, you spend however many dollars to get a tag that you wear on your swimsuit, this tiny- it almost looks like, um… the little plastic thing that keeps the bread, that is at the top of like a…?
+KEITH: Yeah
+AUSTIN: It's like that, but a heavier plastic with a safety pin on it basically? That you then wear, and that's like, “Look, I paid my dues, so I can use-” and those are like, the nicer beaches. And also there's like- that's tied up with a class distinction, a racial divide, a bunch of other shit that is like, gross? But like… that- it's so interesting to me that in contrast, when you describe it, the free beach was the cool one 'cause it was a bit further away, and a bit quieter. 
+JANINE: I mean, that town was also interesting because the main strip of town, which is the strip that 90% of the businesses are on 'cause it's not a big town- taht main road as you're driving through town leads to that beach entrance. That beach entrance has a big gate, it is at the very end of that road, and when you're driving through that town you'll spend at least five minutes staring and pointed directly at that beach gate. Um…
+AUSTIN: Yeah. Interesting.
+JANINE: So that- that's the touristy one, that's the one where like- if you come to this town- if you come to this beach, well, there's the beach, go there, y'know? 
+AUSTIN: Um… next one. We’re gonna keep moving 'cause we still have a lot to get through. Unless- Dre, do you have more here?
+DRE: Uh-uh. No, we can move on
+KEITH: On the other- flipside, I can talk about stuff that reminds me of Bluff all day.
+AUSTIN: [overlapping] Of course, all day [DRE & JANINE laugh] We have like 30- we have a ton of slides, as you can see, so we’re gonna keep moving. Um- there's two here, from Jason and Anton, I think they're pretty similar so I wanted to put them together- you'll see that a few times, during today's presentation- uh… Jason says “I loved Bluff so much, y'all have really done a great job telling a compelling story set in a near modern world. I've always been curious, if you would fictionalize one real world besides Atlantic City, what would it be? Personally i'd love to listen to you mythicise the pacific northwest, or maybe do some small town story.” and Art- sorry, anton says “Art, how do you feel about Austin positioning Blough City, the bad one, as the west coast, while Bluff is east coast?” [laughs] Art, you wanna respond to that one right away?
+ART: I mean, yeah, sure. I know that you don't love Los Angeles, I knew you when you lived in the greater LA area. Um…
+AUSTIN: Yeah
+ART: We’re slowly amassing Friends at the Table people.
+AUSTIN: I know, it's sc- I was literally thinking today about how I need to move out there, probably, which is scary. But the- I think one of the things that I want to emphasize is not that LA is the bad one, is that- when I think about the capacity of- when I think about the kind of stories I wanted to tell, I wanted also to have an LA? Um… I think about- a lot of my favorite hard boiled detective fiction, a lot of my favorite film noir, requires the distance and sprawl of Los Angeles? And also requires the sort of… inner action between those who want to control space, and those who want to- different people who want to control space, basically. That is so key to a lot of hard boiled detective and film noir stories? And… so I wanted to just- why pretend that that is a thing that does not have a great resonance with that Los Angeles vibe? And why not just fuck around with that? Buth the other hand- the other thing is like, we also know that there are parts of time when Bluff City is the fucked up bad one, and so… I think we should always think of those two worlds as being, um… as being historical? As being- in this moment, these are qualities that they have, more than there is an intrinsic soul to the place, this one is the good one and this one is the bad one, right? Those things can influence each other and they can shift and change over time, so we will- we will see if that continues to happen.
+AUSTIN:  As for like, a different near modern city, another like, contemporary place?For me is- I'm gonna keep wanting to draw from my own past, and so the other part- part of this is already in buff in some ways, in the same way that like, the Bruce Springteen urge is there? It's, uh… the town I was born in, Wilkes-Barre Pennsylvania, this kind of small, appalachian former coal mining city? It's not like a tiny tiny tiny city, but it's not a big city by any means? And it's just like- it is the sister city to Scranton, where The Office took place? And in that way it is very Bluff City already. But it is- there is something distinct about… we get a bit of it in Bluff, where- this is a town that was built for one thing, and that thing has left now? That like, casinos are drying up and the market that we thought would be here forever is leaving us? But I think trying to do a story, something like Night In the Woods, that has that sort of like… that takes seriously but without reducing it to a bad New York Times like, Trump country story [laughs] about what those places look like, and looking at rural and kind of rust belt areas that are not just bearded white dudes who are sad 'cause the world is changing, and making sure the camera shows that actually, there have always been other types of people in there? That would be something that I'm interested in doing one day.
+ART: So you're saying you want to adapt Bruce Springteen’s Youngstown into [AUSTIN chuckles] a whole season of-
+AUSTIN: Yeah, perfect. Honestly? Yeah, sure. Let me add it. Does anyone else have a city that they're like, I would love to do this.
+KEITH: It's tough, in my head Bluff- or Bluff City is a season, not the city itself-
+AUSTIN: Right
+KEITH: Like, it encompases so many different kinds of things, it has small town stuff, it has coastal town stuff, small city, it has bigger sprawling city-
+AUSTIN: Yeah.
+KEITH: There's a lot of different place types there. 
+AUSTIN: Totally
+KEITH: So yeah, more- a more rural thing would be kind of the one america type archetypical town that isn't in it.
+AUSTIN: Yeah. I'm a little cold on the pacific northwest actually? Because it's been done so many times by stuff I already love. [sounds of agreement in background]
+ART: Yeah, Twin Peaks is such a giant, Goliath in that area.
+AUSTIN: And a lot of places have the woods! Like, I'm not- like [laughs, KEITH overlaps] lots of places have the woods, and you can do-
+KEITH: [overlapping] I grew up in the woods.
+ART: You grew up in The woods?
+KEITH: Yeah, I grew up in the woods.
+AUSTIN: Like a wolf.
+KEITH: Yeah, no, like my- like real ass woods. My driveway was like half a mile over the woods.
+AUSTIN: Yeah okay, that counts! That's the woods!
+JANINE: For me I think it's- it's not so much one individual place as like, a kind of place that I find endlessly super fascinating. Um… the kind of town that exists purely for the roadside?
+AUSTIN: Yeah
+JANINE: So a good example would be… y'know, in the sixties and stuff as car culture was booming and the whole romanticized roadtrip thing- you'd have all this roadside attractions, and amenities and things, and like weird themed hotels, and all this bizarre shit that then they built new highways or freeways that completely bypass- and you get these weird husks. So I think a lot about- even like, this stuff- there's a fascinating element of this stuff that has died, that has sort of been lost because of progress, but there are also still things that exist like this? Like, there are a lot of places I can think of on the drive up to my university, that I took every year when I was at university, there was a candy shop that- there were technically two candy shops, because there had originally only been one on one side of the road, but then they put a barrier in the middle of the road? So they opened up a second location directly across the street, so that no matter which way you were going you could stop at this big candy store? [laughs] 
+AUSTIN: [overlapping] So good. I mean, that's- that's fantastic. I mean that's- so all the rest stops that I drive past on the way…. Y'know, I used to drive on the way up to school on South Jersey up to Long Island, that's exactly how that’d work, you’d see the exact same building on both sides, that had the same restaurants and everything- like, you couldn't figure out a way to have just one of these and have like a loop-around or something, a little bridge? No? Okay. Um… on that thing that you just suggested, on the highway thing, there's this really great This American Life from eighteen years ago called- [laughs] [JANINE chuckels]
+KEITH: [overlapping] Oh my god
+AUSTIN: - House on Loon Lake? Um… that is literally about one of those towns that got left behind when the highway- that went from “oh, this is a major road that traffic drives past!” to “Oh, a highway bypasses this entirely and the local economy falls apart” and now there's just an abandoned general store in like, an entire abandoned downtown? It's a really great episode. 
+ART: [overlapping] You're describing the movie Cars.
+KEITH:[overlapping] And there's- if you go on-
+AUSTIN: [overlapping] Is that- okay, sure. That came after this This American Life episode. [laughs]
+KEITH: There are websites you can go on that will like, tell you how much it costs to buy whole towns? And that's- those are like those types of towns sometimes, where it's like “yeah, this is a town, no one lives here anymore, you can buy the whole thing for $700.000”
+AUSTIN: Right.
+JANINE: There's also a really good- I forget if it's Defunctland, but it's one of those Youtube series that is- not fully urban exploration but like, a little- they sort of go into detail about stuff that has been- has fallen into depacation or whatever. But they did an episode that's just like a long history of santa themed roadside attractions.
+AUSTIN: [amused] Great, love it.
+JANINE: So like, Santa’s Village! Santa’s Wonderland! Santa’s whatever- and they just go into detail about ‘here's what the first one was, here's the ones that are still around, here's what happened with all of these-’ um- it's very good [laughs]
+AUSTIN: The… the thing I'll say there is that all of that stuff is stuff we can do in Bluff because- like, it is- one of the reasons I like Bluff is that it's a small city surrounded by a county that is entirely suburban and rural? Like, it's a very tightly packed area that can do… all of that kind of stuff without having to like, do that thing I'm less interested in doing, which is like- people in the chat are going “Oh, you should do Detroit, you should do the upper peninsula of Michigan” like, none of us are from there, we wouldn't do it justice without doing a lot of research first, and frankly, without living there first? Um… I think that other players here could do a game in a place they know really well, but I'm a little more interested in leaning into the places that the group of us already knows than picking a place and doing it? Or doing places that are inspired on what we know about a place, but that is not meant to be a stand in they're in.
+ART: Yeah- in that kind of like, vein, I think something I would be interested in is not like, the zoomed out LA of Blough City and more like the zoomed in LA, which is the LA that I really like? The LA that is like, four blocks in Echo Park, or [AUSTIN laughs]- y'know, Eagle Rock- both, honestly, but the specific four blocks I was thinking of is Eagle Rock [laughs] Or like- y'know, Atwater Village or Boyle Heights, those areas that are just like, little and small and contained. And like, the LA that I don't wanna go more than a mile from my house, that LA.
+AUSTIN: Right, right, right. Totally, yeah. I think those are the things that- or like, We’ve Not Done New York, I bet we would do a good New York game, y'know
+ART: [overlapping] Eh, forget about it
+AUSTIN: Enough of- there it is. Alright, I'm gonna keep moving. Unless, again, someone has another answer here. Alright. This is a series of questions that are pretty much something I can answer pretty quick and move on, but that a bunch of people asked? Mark says “How long did Austin have the whole Blough/Bluff/Bluffington Beach thing figured out? I also noticed that Lacuna’s original setting is a place called Blue City, did this inspire the name from the start or was it all just a happy coincidence?”. Uh, Brian wants to know “how far into the creation of the three towns Bluff City exists? we hear about a second city existing pretty early in the season but the third one seems to appear just for the finale, has the existence of the three town’s been around since the beginning or is that a new surprise?” and then “How much of the supernatural conspiracy stuff-” asks Justice “-did we know going in? Did it all come from stuff in play or did we have that in mind as a throughline from the beginning or early on?” 
+AUSTIN: Um, I can literally say when 'cause I checked today, and it is… in fact, let me check the notes thing- October 8th, 2017, is when I wrote down the three names of the three places. So that was while prepping for Noirlandia, and like, figuring out what Hector Hu’s deal is? I… knew from the jump that we wanted to do Lacuna, and that Hector had been an agent who did stuff in whatever the other world was called? And then realized that we could do a really fun, weird bad pronunciation of the word ‘blue’ and spell it weird and keep Blue City from Lacuna. That was a happy coincidence, we didn't name it Bluff City because it rhymed, because I could have done this weird spelling thing with Blue City. but that- I've known that since the second episode in the series I guess. Or the third game in the series, since Noirlandia. Um… but I knew- I knew there was a second place before that, and I knew Bluffington from then? And so that was- people who can go back and watch that Drawing Maps episode will hear like, my voice vibrating- I'm so desperate to shout about this trio of cities being what this is, because I just wanted it on the table, I don't have another big twist coming. What I have now is like, the palette that we can all tell this story in? And I don't think anybody else knew about… Bluffington/Atlantic City- like, no one else knew the real world was gonna come up? Though I think it came up in conversation here and there, like, in terms of a thing someone maybe jokingly suggested in a chat or something like that. But I had known that was what happened to Hector Hu since Hector Hu existed. And so, yeah, that's an easy one for me to answer. Um… so keep on moving
+AUSTIN: Hella, on that same note, wants to know if there are maybe multiple entry points from our world into the adjacent worlds of Blough and Bluff? How many people just wander between those worlds? How many people just take the wrong turn on an interstate and assume they've ended up in Atlantic City? Um, I think this is a ‘play to find out what happens’, right? We had a lot of questions like this that are very specific about the rules of this stuff, or has x or y ever happened, or could z happen- and all of that has to be play to find out what happens, because we’re not done with Bluff City yet? And all- I've said this before, but all it takes for anything to be true or not true is for someone at the table to make a good, interesting case for it in the middle of a session, and so I'm not particularly interested in being like “and here's the way-” and this includes Drawing Maps- to people who've never watched Drawing Maps, a thing I say at the top of every Drawing Maps is like “all of this- none of this is canon until it is on an episode”. Like, I can straight up say this person is the mastermind of the entire thing, and everything has been- y'know, they put everything into place, they're the puppet master- and then in play say somebody else’s name, and it's that second name that is the canon name, right? Like, that is how the show has to get prepped and so questions like these are really interesting, and i'd say hold them in your head, and we’ll see if they come up in the next season.
+KEITH: Is there a big thing on Drawing Maps that you've like, uh- that you've planned out and it went a slightly different way because of play? Like- not like a huge thing where we decided not even to go to the place you were prepping but like- like, “Oh, I thought this was going to be the guy, but it's actually some other person” [AUSTIN overlaps] Because of play.
+AUSTIN: Umm- almost certainly, right? I would almost put it back to the chat, but like, also, let's be careful about spoilers here, because I don't know who- we don't know necessarily who is watching now- who is seeing what? So… um- but I will say, for instance- if you go back and watch the prep for the Isles of Flight stuff, I am not- the way that turned out is not how I prepped it, for instance. It's like- everything, basically? [laughs] Y'all surprise me all the time!
+KEITH: That was such a weird- that was such a weird one though. Like, even playing it, it didn't play out how I was expecting it to.
+AUSTIN: Yes. I am now like, so curious- thinking like, is there anything else that comes to mind. Um… nothing comes to mind but that stuff does happen basically all the time? Um… if anyone in chat can remember anything, give me a little hint so I can think about it. But yeah, what I will say is that that is a common occurrence. Um…. Conor asks- or says- “Bluff City has been an excellent achievement in providing the cast with various great games to play that wouldn't necessarily work for an entire season. That said, if there was a game you would want to get the full Friends at the Table season experience out of from the games you've already played in Bluff, which would that be? I personally love the InSpectres cast and find myself imagining the various supernatural shenanigans they would get up to”. Any thoughts here? What jumps out as “I wanna do a whole season of x”?
+KEITH: Y'know, it was such a slow- it was such a hard one to get the hang of at first, but I would not mind doing a whole Lacuna.
+AUSTIN: That's so funny Keith, 'cause you did not have a good time with that game [laughs, JANINE chuckles]
+KEITH: No, I really didn't at first. But by the end I loved it!
+AUSTIN: [overlapping] The first episode- yeah, the first episode I was like “Ugh, Keith is not having a good time, fuck, I hope this turns” [amused] I was having a good time, casue I was finally being able to tell this story and be in this place that had been in my brain for two years! But- I was like “Oay, how do we make sure-” But yeah, by the end it felt like that was all systems go, know?
+KEITH: Uh-huh, yeah.
+AUSTIN: Um- anybody else have one that jumps out?
+JANINE: Um- [sighs] I don't know how… i- [laughs] I'm like, torn here, because… on the one hand, I wouldn't want a full season of the Action Movie World game thing- like, cast? But that system has such an interesting way [AUSTIN: yeahh] to evolve from game to game that we didn't get to touch on at all? That like-
+AUSTIN: [overlapping] Yeah, you're totally right.
+JANINE: It's just like- I would love to see how that works. Like, I wanna see that-
+KEITH: Sorry Janine- are you also talking about Lacuna?
+AUSTIN: [overlapping] No, Action Movie World.
+JANINE: [overlapping] No no, Action Movie World.
+KEITH: Ohh, Action Movie World
+AUSTIN: Because, for people who don't remember- go ahead Dre.
+DRE: 'Cause I think it had specific mechanics for like- 'cause you had your character classes, but then there's those roles within the movie as well? And I believe there were specific rules about how… different actors and actresses would evolve into these different roles. So- there were specific rules about like, who gets to be the main star in the next movie and stuff like that.
+AUSTIN: There was that stuff and then there was also stuff that was like- that blended the- I mean, World Wide Wrestling RPG had similar things here, right? Where part of what you're moves are are doing stuff in- in doing action movie stuff, but it's doing movie stuff, and over time you would gain abilities that were about who you were as an actor? And so like- y'know, the example that they keep coming back to is someone like Arnold Schwarzenegger, who like- y'know, the character he plays in Predator and the Terminator are different characters? But there's a similarity somehow in his performance, 'cause it's one person doing a performance, he's drawing on certain things, he's able to evoke in the viewer similar responses? And seeing that stuff work would’ve been so cool. So maybe we’ll revisit it, like- I'll say that now, another question that's coming is “Will you play x or y again, or will you- why didn't you play x or y”. The future is long [laughs] time is long, we will revisit some of the stuff we really liked for sure, as much as there's also stuff that we didn't get to that I really wanna play. Um… so yeah. Anyone else have one that's like “this is the one”?
+KEITH: I recently binged all of The Tick? Y'know, the new one? So now I'm like, itching to go watch all 20 Marvel movies [AUSTIN laughs] that I missed and then play Masks.
+AUSTIN: Woow. oh, yeah, I-
+KEITH: I don't think ill like those Marvel movies, but I do want to like, get the thing.
+AUSTIN: Yeah, you wanna- yeah
+KEITH: -that I've been intentionally not watching.
+AUSTIN: Art pitched me- which, we will not talk about what the pitch is, but a veeery good idea for a Masks, like… special? And I wanna- Art, do you remember what that pitch was?
+ART: No, this is news to me.
+AUSTIN: It isn't, 'cause you told me [DRE and KEITH cackle] you were the one who pitched it. You pitched me it. Um- I'm gonna message it to you, and you're not allowed to say this out loud, but I want your re-special, er I want your reaction. 
+ART: Oh, yeah, okay. Uh-huh.
+AUSTIN: Yeah, it's great. I really wanna do that. So maybe we’ll revisit Masks at some point in the future.
+ART: I think I that’d be a great campaign.
+KEITH: [overlapping] In terms of stuff I didn't get to play-
+AUSTIN: Yeah, me too.
+KEITH: In terms of stuff I didn't get to play, InSpectres is the big one that I feel like I really could've had fun with and I didn't get to do.
+AUSTIN: Yeah. And plus, we set up InSpectres to be like “and there are more people who are part of Graysand Paranormal? So like, it would be easy to bring in new characters into- like a mix of old and new, y'know?
+ART: Yeah, InSpectres is my real answer for this question, I think we could really- we could do really good work with a full quote unquote season, 'cause- everyone can have a character, the job nature makes mixing cast very easy?
+AUSTIN: Yeah
+ART: And I'd play Jake the Jackal forever! [JANINE laughs] I would do that every time.
+AUSTIN: Totally.
+ART: If we could I would just-- just sub out Hadrian next week [AUSTIN and KEITH laugh]
+AUSTIN: I mean, you've already given Hadrian a playbook that had wrestling moves in it, sooo.
+JANINE: That'd be very confusing for his wife and child!
+ART: Eeh, I think they're good.
+AUSTIN: [laughing] Specially after- uh-huh, yeah. God. alright! Um- Dre, did you give an answer here? I don't think you did.
+DRE: Um… I think it's actually InSpectres for me too. That was one that- like, listening to that one was so fun? I was like oh man…
+AUSTIN: Yeah. Plus there's more ghost shit, y'know?
+DRE: I just love ghost hunting shows, too?
+AUSTIN: Yeah, me too.
+KEITH: [overlapping] Yeah, I really-I was really looking forward to doing ghost shit and then I was sick for a few weeks I think? 
+AUSTIN: [overlapping] Yeah, you missed that one.
+KEITH: And then it was like “Oh, InSpectres went great!” and I was like god dammit. [laughs]
+AUSTIN: Yeah, so it goes, right? There will be more ghosts in the future, I promise. I'm already- yeah, we’ll talk. We’ll talk! We’ll figure out some stuff. Uh- this one comes in from Lucy, who says “Bluff City no doubt gave everyone the chance to have fun with different characters, but I assume also with more preparation than the live games or the faction games Counter/Weight episodes did.” In other words, hey, it's not like we’ve never switched up characters before, but in this one specificaly we’re switching- a lil bit more prep? But still switching between characters. Lucy continues “Do you think this opportunity to play around preparing one shot characters has changed how you’ll approach character creation in season six, when it rolls around? I guess following on from that, which character was the most adventurous or experimental to create, and would you do it again?” [pause] It's all y'all, I didn't make any characters.
+DRE: I think for me the thing that I want to like- as I was reflecting on how Bluff City for me worked and felt different than playing season long characters is that whenever I layed a Bluff City character I knew I would only play that character for like, one to three episodes? So I felt like I would do- I would swing for the fences earlier and more often than I would with, like, playing Throndir or Even, or a character I knew I'd be playing for a whole season? Uh… but when you swing for the fences early and often, interesting stuff happens, so I want to try and take a more Bluff City approach to like, season long character play.
+AUSTIN: Yeah… I think that will be very good in season six specifically, where… frankly, costs will be higher for those sorts of swings? But also I think to tell that story right it means taking those risks. Um- to people who haven't been listening to Road to Season Six stuff, we’re building towards the third season in the kinda run of Counter/Weight and Twilight Mirage- it will be another mech season, but it’s also definitely going to be a show that's interested in war, and empire, and court, and the costs of being in a society like that? In a society at war, in a society that has a class of people who are being sent to war? And so, I think that will be- and also a class of people who are very much um… an active upper class who are not just that because of wealth, but also because of other types of class markers and class indicators? And so I think that will be one where we need people to take big swings and to be- to be risky? Even though… they- it might come with a high cost. We will see. People should go listen to the Road to Season Six games if they haven't yet. Um… anybody else have a character that's like, this was the one for me, or, hey I would do this different.
+JANINE: Um… for me I really appreciate the one shot nature, both for this and for like, live games and stuff- both for Bluff and live games. Um… because- [sighs] it lets me do things that I feel like, if i- y'know, the way I make characters for a season is like, I try to go as far away from the thing I just did. Sometimes I kinda end up in the same place? There's definitely a lot of overlap between Signet and Adaire, even though they are very different personalities? And I think that's very true of who I want to play on the next season. But there are a lot of choices that like, I could imagine myself making because I wanna play someone different that I would end up feeling miserable about? I don't- I've said this before, I don't like playing male characters, it- it is hard for me to do.
+AUSTIN: Yeah. You did it in… this, you did in Action Movie World, right?
+JANINE: Yes, exactly. And that's- I've done it like… two times…? I think? I could be wrong, I could truly be wrong.
+AUSTIN: [overlapping] I'm trying to think of the second one.
+JANINE: Tisk Silpa from the Marielda one shot.
+AUSTIN: Oh, right! Yeah.
+JANINE: Tisk’s fine but- Tisk is also like, not a white dude who’s in an action movie, and like- y'know, Tisk is like a little cobbin book guy. So that's- it's very different. But… I could- if we weren't doing these little one shots I could totally see myself being like “I need to really challenge myself, I'm gonna play a male character for this entire season” And maybe I would totally- maybe given that time it would come around for me? It would work? But I- I just- it's difficult! [laughs] it's difficult for me because I'm a very- I'm very femme. It's- that's just kinda how I am, and that's kinda how I've always been. And you can be a guy and be very femme, naturally, but it is difficult for me to separate myself from my headspace, from my extremely, extremely gendered headspace. 
+AUSTIN: Uh-huh.
+JANINE: Um… I struggle with that, and it's difficult to have fun with it, and I'm glad we do stuff like this 'cause it let's me kinda push myself? It let's me like, try and figure out where my head is at on that stuff.
+AUSTIN: Yeah, yeah
+JANINE: -but also not commit to it for the direction of a season, because then it would maybe be… miserable and unpleasant. 
+AUSTIN: [laughs] Fair enough. That's one of the reasons why I like this space, for sure. Art, go ahead.
+ART: To piggyback on that a little bit, on less and worse, I never would’ve played Elena in a season, I never wouldve come to a season with “I'm gonna play, uh- a woman of color”. Because I was just like, if I mess this up? It's awful. Everyone’s gonna hear it.
+JANINE: [overlapping] If I mess it up I'm messing it up for months and months and months.
+AUSTIN: Uhhh-huh
+JANINE: [laughing] There is no way out.
+ART: Or I come to Austin and go “we gotta end this” and that's bad too! I have to be like “Well, this didn't work, I've ruined the season for me, and now… no one is gonna like what happens now” Um- but like, getting to poke at that a little bit in that safer space, this smaller space? I mean, if you look at how many people are watching this post mortem compared to how many people are watching our main season post mortems, like- it's a tiny playground that I can just nudge at these things at, and then if I've done a really bad job- and I hope I didn't, I don't think I did- but if id really done bad work I think I could have… escaped it, I could've just never brought that character back.
+AUSTIN: I feel that way with genre a lot here? Um… i- there are a lot of genres that I'm not ready to commit to a whole season, because- I'm not ready to do a horror season. I've always had horror elements throughout the show? There are always moments where people are like ‘yikes!’ [laughs]- but Bluff is the closest I've gotten to like… this is what scares me, personally, really. And… having that space to be like, here can be a six hour game that plays in that space, that is so different from a 60 hour game, or [laughs] a 160 hour game? That has been really useful. Also someone in the chat, Matthew, says that I have lots of PCs, which I don't think that's true? I have like- my PCs are like, when I'm playing a PC, like-  spidertrans22 in the chat mentions Sonny Veranda- yes, Sonny was a PC for me. The crab singer- what was his name, was it Caspian? 
+JANINE: It was Caspian, yeah. 
+AUSTIN: Caspian was a PC for me- but NPCs are not player characters, like- if you're a GM who’s playing your NPCs the way that players play their PCs? I- you should reevaluate that strategy, because they should be more disposable, and they should be… they are tools for you to produce an interesting narrative for the players at the table? That doesn't mean that they're not complex, or that they don't have goals, or that you shouldn't give them- like [sigh], that you shouldn't give them a motivation of their own? But there's such a distinction between- even the NPCs who I am fond of, even the Ibexs of the world, even the like, Samots, who I love to play? - are not player characters, and would- y'know, if it's about like- if you could imagine weighting dice, I would always weight those dice on the players favor over those NPC- NPCs side? And I don't literally mean that in terms of dice outcome, I mean that in terms of what's interesting. If I had to give a character a scene- if I had to pick one character for whom a scene is interesting, it will be the player character and not my NPC. So, definitely definitely just for clarity there. Um… Dre, do you have a character that  you're happy to push yourself with, or that- a way that something changes the way that you create a character going forward?
+DRE: Hm… probably Dion from uh… Action Movie World.
+AUSTIN: Yeah
+DRE: she was very- I mean, I remember thinking when it was like “Oh yeah, well her character is probably the star in this movie!” and me being in my head like “oh, shit [cackles] What have I gotten myself into?”
+AUSTIN: [overlapping] No, dude, I was so proud of you for taking that step forward, because… it's not that your characters aren't important in the seasons we've played by any means? But I know that you as a player often are interested in playing a more supportive role, in terms of making sure that the wheels are greased and tat like, things are moving smoothly... but not necessarily the person who gets to say the right thing at the right time? [amused] And that whole character was one liners, and like [laughs] stealing the show, y'know?
+DRE: Yeah. So no, that was challenging and very very cool. 
+AUSTIN: Do you think that will be something that you take forward into season six at all? [amused] Besides- obviously we’ve been talking about taking big swings, will you also be making big one liners [laughs]
+DRE: Uh- yes. [laughing] Sure, yes. I mean, it worked there, and then Honey Heist, so sure [AUSTIN cackles], let's- 
+AUSTIN: [amused] Yeah, can I- new answer, I want everyone to play their Honey Heist characters going forward, thank you, goodnight.
+DRE: Perfect.
+AUSTIN: Anyone else have a thought here?
+KEITH: Yeah, I've got- I mean-
+AUSTIN: 'Cause you've got- I think the big one for you- I'm curious what you think the big one is, I know what the big one is for me for you, but I'm curious what you think.
+KEITH: Do you think the big one is Heard, that's who the big one is?
+AUSTIN: [overlapping] Yeah, definitely!
+KEITH: Well yeah, I think it's the same idea right? As, um… I was like, “This is the thing I'm not comfortable with doing for an entire season, so I have to try it out in a smaller setting”, and, uh… with a lot of- not every, but with a good chunk of Bluff stuff and live stuff I've like, tried to not be the least serious character? [AUSTIN laughs] Um… or I guess that's not- not like, serious like “Ugh, that's not a serious character” [AUSTIN overlaps], but like- goofy, and-
+AUSTIN: [overlapping] No no no, but I know- I know what you mean, yeah.
+KEITH: Um… and Heard was the biggest one of those, for sure. 
+AUSTIN: I was so nervous? Not about your play, but about what Heard would do? Which is- [KEITH overlaps] not that I'm not nervous from Fero, but-
+KEITH: [overlapping] Yeah, I- I'm still very conflicted about it too, but…
+AUSTIN: [amused] There are times when I'm nervous about what Fero’s gonna do, but it's a different sort of nervous?
+KEITH: [amused] Nervous in a different way.
+AUSTIN: Yeah! It's like- heard- y'know, Art is currently playing Hadrian in this particular way, where it's like… a sort of smoldering, scary calm? And we got a little bit of that in Heard, where Heard would presume to be in control of a scenario- and even if he wasn't, his presumption of control was actually a little frightening? Um… and I like that a lot, for sure.
+KEITH: Uh, yeah.
+AUSTIN: How that arc wrapped up was very nice.
+KEITH: I feel a little bad that the- that- [laughing] the thing that I'm most nervous to do in a full season would be the slightly more serious, but- that's how it shook out, for me.
+AUSTIN: [chuckles] Listen, we- there are other games where we can keep working on that skill and see if that's a thing you enjoy doing, y'know. And we can always talk more about what works and what doesn't, etcetera. Uh- I'm gonna keep moving! Mitch, Brian and some others had similar questions, so I put those together here, again. Mitch says “So here's a quick question: what system would you love to play that you haven't gotten to, and how much fun is imagining Austin having to then make that work for Bluff City? [amused] Despite its complexity, there's part of me that loves the idea of a Burning Wheel session that's just the Bluff City ripoff of Game of Thrones”. And Brian says “Are there any games you wanted to play for Bluff City, but they just didn't work out for one reason or another? Are there any games that you tried for Bluff City and found to be better elsewhere in Friends at the Table content? Are there any games you've totally vetoed ever being played for Bluff City for any reason?”
+AUSTIN: Um… I can't think of anything where we’ve been like “No, never”. Though I think we obviously lean towards- the thing that makes Bluff so cool is that it lets us play a lot of games that are just about like, the world? [laughs] about Earth? And so we generally stay away from like, real, true fantasy style games? Um… is there anything that jumps out for y'all, a thing you wish we’d played, or something that you hope we play?
+ART: Um… I sort of hoped we’d do Monster Hearts?
+AUSTIN: Yeah. It was on our list as a potential, for sure. 
+ART: Um, but like… I'm also pretty fine with us not doing it, especially as I start trying to beat the drums for us playing that Monster Hearts [AUSTIN overlaps] sports one for just like- just forever. After season six, just that forever.
+AUSTIN: [overlapping] Sports? Yeah. What's it called?
+ART: It's called Can't Lose or something, it's like- it's a take off on that, um…
+AUSTIN: It is called Can't Lose.
+ART: Oh, is that right? Okay.
+AUSTIN: Yeah…
+DRE: I think Tales from Loop is one we kinda talked about but never played?
+AUSTIN: Yeah, yeah, definitely- Tales from Loop is definitely in the mix. For me? Let me tell you, that's an easy thing to slide into… this ‘Blough City exerts control’ or ‘the future’? Like, right after, in this little area here, you could do a really good Tales from the Loop game. 
+DRE: I feel like we also talked about Bubblegumshoe at one point, too.
+AUSTIN: We did, we definitely did- I think there was-
+ART: [overlapping] I bought Bubblegumshoe 'cause I thought we might play it .
+DRE: [chuckles] Me too.
+AUSTIN: Yeah, I mean- loot at my DriveThruRPG account, look at my desk, covered in books we haven't played yet? We’ll get there, there's a lot to do, for sure. Um… there's stuff I know we’re gonna play soon, so I don't wanna say it [laughs]. I will say I like the idea of doing stuff- once we finish Primetime Adventures, I'd love to talk more about ways to frame stories inside of stuff- media that exists inside of Bluff City? But I also want to retain the ability to just play those games without it being tied down to Bluff? Like, um… star- not Star Crossed, what's the name of the game Janine that you, Ali and Jack played?
+JANINE: I don't remember- isn't it the sequel to Starcrossed? It's like a three pack. It has like a long name.
+AUSTIN: I forget the name, maybe someone in chat will remember.
+JANINE: Something….
+AUSTIN: I don't remember, but that is- that is one that- Shoot the Moon! Shoot the Moon, thank you Pam. As like, yeah, we could've been “This is a fairytale being told in Bluff City!” but I don't- I was actually happy that y'all were able to play that game and just be like “this is a thing that exists! It's just us playing Shoot the Moon”, it doesn't have to like- it doesn't have to be tied to a franchise in that way. In the same way that Lasers and Feelings didn't have to be tied to Counter/Weight, y'know? we got to just be ridiculous in  that way. So I definitely wanna like, avoid some of that, for sure. Make sure there's that space for stuff that's like- it doesn't have to be part of a franchise. Um… in thinking if there's anything else that like, I wanted to get to- oh. There's one that we just didn't do? That involved us all being in a real place together, and I'm gonna not say the name of it, because-
+ART: Ohhh, that wouldve been so cool.
+AUSTIN: We should still figure that out. Um… [laughs] because… we- we should figure that out, and when we do it, I'll say, in the recording, “Hey, this is that thing that I teased during a Bluff City drawing maps.”
+KEITH: I'm pretty sure I know which one you're talking about.
+AUSTIN: Yeah, you were gonna drive down for it, Keith.
+KEITH: I was gonna- I was, yeah. OH, yeah, yeah yeah yeah, I was. 
+AUSTIN: So, we just didn't-
+JANINE: [overlapping] Vampire the Masquerade.
+AUSTIN: Y'know, that was it! Um… y'know-
+KEITH: I still will do that, so let me know.
+AUSTIN: Yeah. So, look forward to that. Um… this one comes from Anton and is for Keith- but I guess actually we just answered this question, se we’ll just keep moving on. This one is from Morgan- this is about agent Heard, you've already answered this question basically, so. But hey-
+KEITH: Yeah. I'll say one other thing about Heard- the thing that I was worried about was that trying to be more serious and intimidating would come off as funny because it's me [DRE chuckles]
+AUSTIN: That's true. I will note for people in the chat who are sk- who are, uh… wow I'm tired. Um… who are speculating about what it could be, if it could be like, Ten Candles or Advanced Dungeons and Dragons- nope, neither of those! It's nothing I've ever said into a microphone before, it is not- it is none of the things we’ve already talked about, so. Good luck guessing. It would be very wild if someone guessed it. 
+AUSTIN: Um… Morgan comes in and says “Are there going to be any more GMless games like Fiasco on Bluff City or are they simply too unpredictable for an anthology format like Bluff?” Um… I think i- oh, I was gonna make multiple questions here, but I ended up putting all of Morgan’s questions here instead of doing multiple. Umm. So I will say yeah, there will definitely be more GMless games. I have- I think if I looked at the list of games I have planned for the next season, it includes some GMless games. Definitely not too unpredictable, because- even in something like Noirlandia, where I was not playing a GM, it was easy for me to be like “Oh wait, here's one thing that's part of the A plot for this season that I wanna give you”? I’ll step in as a GM briefly, but like, that game is still that game, basically. And also they're just fun, I like those games a lot. 
+AUSTIN: Morgan continues and says “What was the biggest difference in preparing and worldbuilding for Bluff, from both players and Austin, when he's DMing compared to your more linear seasons? [amused] Unrelated, but I live next to a cool weird store named Blue City, which made Messy Business and incredible experience!” That's very scary to me! Um… I will now say, looking at this chat, someone has guessed this game, which is fucking incredible- and I'm gonna move on!
+JANINE: Damn, Bomberman 64
+AUSTIN: Bomberman 64!
+ART: Bomberman 64
+AUSTIN: It totally is. The, uh… the prep process is super weird, because… it's- it's a lot actually? Um, it's more prep than a regular game per session for sure. Which is so… wild, because like-
+KEITH: Well part of it is that we've all gotta learn a game.
+AUSTIN: Everyone has to learn a game. Everyone has to make characters. Unless we're doing like, something really like character creation?
+KEITH: Which we don't do as often as like- with lives we will more often put thought into what's a game that we can get off the g- we can learn and play faster? Which doesn't go into Bluff as much, right? Am I wrong there?
+AUSTIN: Right- most of the time, most of the time it doesn't. I wouldn't close the door on that. The thing that's harder- the thing for me that makes it so much more is that like- you think about- I think about this a lot with just IP and franchises in general? You think about something like, um… Star Wars, right? What is Star Wars? Star Wars is spaceships that have lots of cool little- they're called greebles?- [laughing] on them? Like, little-
+JANINE: [overlapping] I'm sorry-
+AUSTIN: [amused] They're greebles? Greebles?
+JANINE: No, I'm just saying I'm sorry that that's what they're called-
+AUSTIN: Yeahh, they're called greebels- it's like little notches and little added things to give them detail. Um… it's blasters, it's Stormtroopers, it's- y'know, the Force? What else is star wars? It's space- it's like, the cool lights when you go into hyerspeed.
+JANINE: Samurai moves.
+KEITH: [overlapping] Honestly, you could've just stopped at greebles.
+AUSTIN: It's greebles. Yeah. It's space samurai, yeah, exactly- it's space frontier. Um, you do all that-
+KEITH: It's black and white.
+AUSTIN: Is it?
+KEITH; A lot of times!
+AUSTIN: When is it black and white- oh, do you mean like, [KEITH overlaps] morally, yeah, yeah yeah.
+KEITH: [overlapping] Morality wise, yeah.
+AUSTIN: But like, it's Jedi, it's the rebels, it's the Stormtroopers, it's the Empire. And you do all that work, build all that iconography, you put together your story bible, you put together everything that is like “Here's what we’re going for, and here’s the set of- here's the bucket of things that we can pull from forever” When we built Counter/Weight like, the Rook existed. And so 32 episodes in, I could be like, “oh, here's another different Rook costume”. We came up with divines, we came up with- y'know, the difference between the Diaspora and Oricon. All of that prep builds into then- builds into a palette that you can pull from and rearrange in all these different ways. You don't- I don't do as much prep as that for a Bluff City game, but I still have to come up with the basic players? I still have to come up with like, what the vibe is, what the inspiration is, what the tone is, what sort of set pieces are going to happen and how to make interesting things happen with mechanics- it's way more prep per hour. And it's also true for any season, the first five episodes of a season are way more prep than the middle, than some random five middle episodes in a season, because I have the stuff already, I've already invested the time to create- Arrell, and so if Arrell shows up, like “Oh yeah, that guy” [laughs] I don't need to figure out a new character who has a weird backstory and sell him to the audience, it's Arrell, I can just be like “And Arrell is there, that's scary” And so that's a pretty distinct thing that makes- that makes the prep for these, when they are the games that have prep, a lot heavier- and also learning games takes a while. I am curious for y'all though, like- for the most part, do you come to these games with less prep or more than your regular season characters?
+KEITH: Uh- I think it's sort of what you said, I come with less prep than the beginning of a new season, but more prep that any given other episode. 
+AUSTIN: Right.
+KEITH: 'Cause it's like- your bucket analogy is like, Star Wars and Twilight Mirage are one big bucket [AUSTIN laughs] for the whole season, and Bluff is like a lot of smaller buckets?
+AUSTIN: Yes, that's a good-
+KEITH: Some of the buckets- yeah, you can't always draw from every bucket, depending on what we’re doing? So.
+AUSTIN: Yeah. Sometimes you can, though, sometimes I can be like “Oh, and the InSpectres crew shows up!” y'know?
+KEITH: Yeah, yeah, I guess you- you always could, but it's like some of the buckets are further away and it's hard to reach…?
+AUSTIN: Yeah.
+ART: Y'know, you can drop the analogy just whenever.
+AUSTIN: No, nope.
+Keth: Hm… no, I work good with analogy.
+AUSTIN: In honor of Uklan Tel we’re gonna keep this analogy going [laughs]. Any other thoughts on this? I think lives are my space to be a little messier? Generally, Road to Season Six notwithstanding, which is- I've bought- I started spending money on a thing that would help me take notes for Road to Season Six, so, that is still like that? But when we do… when we did Downfall, that was like a zero prep game. When we did Honey Heist that was basically a zero prep game, y'know? And those are fun, I like those a lot. And- and I don't think that those are any… it's tough, because like- I value those games, I value Honey Heist a lot, I had so much fun with Honey Heist, but we don't get Messy Business if I don't pay attention and put in the work for the rest of the prep for the rest of those games? Like- for me Messy Business was this really great test case of like, hey, I'm going to try to set- I think I've set the stage. Now everyone is here. Can we pull off this incredible finale to this story that somehow evokes little bits and pieces of everything that came before? And that includes stuff that was GMless, like the Fiasco characters, like Achiles Apollo and Finnegan Hands, and like, other characters,- the Whithakers that were tied to that- but also stuff like Hector Hu, which is like, intense levels of prep, thinking about him throughout different games, teasing out stuff around the weird- y'know [???]- all of those weird stuff in the sides there, that I spent a lot of time thinking about- and that I think worked out and that it was worth it- and I don't think we get to Messy Business if we don't pay attention and put in that prep previously.
+JANINE: You can't make a whole season out of beach episodes.
+AUSTIN: No. But I'm happy to have beach episodes.
+JANINE: I mean that's- yeah.
+KEITH: [overlapping, unintelligible]
+JANINE: A what?
+KEITH: a Fletch?
+AUSTIN: What's a fletch?
+KEITH: Fletch is that Chevy Chase detective beach movie?
+AUSTIN: Oh my god. No one knows this but you.
+KEITH: [upset] No one- no one-
+ART: [overlapping] I know- I know Fletch, I just…
+JANINE: I don't believe it's real, [AUSTIN overlaps] you could both be lying.
+AUSTIN: [overlapping] Me either.
+KEITH: [overlapping] It's real, it's weird.
+AUSTIN: It's this what agent Heard looks like?
+ART: [overlapping] I'm me and Keith had to make something up it would be Chevy Chase beach movie, but-
+JANINE: Yes, exactly!
+KEITH: Yeah.
+ART: [amused]  -this one happens to be true.
+KEITH: I mean, it's like- it's like the ultimate 80s movie? It's like one of these comedies that's [JANINE overlaps] like driven by-
+JANINE: [overlapping] It's not the ultimate 80s movie!
+AUSTIN: [overlapping] Ultimate 80s movie??
+KEITH: It is! It's the ultimate 80s movie because- 80s comedy revolves around jokeless com- it's not written in the same way as any other era of comedy, it's very personality driven. It's Chevy Chase dressing up and getting caught and having to make a face or whatever. That's the whole movie.
+AUSTIN: Um… this is just your character from Lacuna. He even has fake IDs, he even has fake identities Keith. So, this is agent Heard in my opinion now. Um, I'm gonna keep moving. Matthew writes in and says “First of all, thank for an incredible season, specially that ending, oh boy [KEITH: that's a big gun]. My question-” yeah, that's a big gun Fletch has. Or- Fletch doesn't have that gun, it's pointing at Fletch, yeah. “My question: given that Bluff City is sort of unmoored from time, what do y'all see as the limits? Could we see a story of Indigenous American people’s, pre- europeans? Could we see a far future story? What would those look like? Um- I think for me the boundaries are what are the stories we wanna tell! That's- and it's… when would being in Bluff tie that story down instead of let it spread- or like, spread its wings, y'know?
+JANINE: Yeah
+KEITH: Maybe we’ll finally get our Lancer episode [cackles]
+AUSTIN: [laughs] We can do a Lancer episode, I wanna do a Lancer episode! I just don't think it'll be a Bluff Lancer episode. I think we can still do Lancer for Road to Season Six, I just need to like, sit with that huge book and learn those rules soon. Um… I think- so, one of the questions here, specifically about Indigenous people, is something that I really want to do eventually? That is going to require lots of care, probably some consultant work ahead of time, because I don't wanna fuck it up. Like, I know some of the history of the particular people who lived- the particular indigenous people who lived where Atlantic City is now and the areas they're in? But that is not a thing you can wing, that is not a thing where you can be like “we’re gonna tell this-” 'cause we also know where this ends, right? Bluff City is not- [pause] there are cities in- there are places in Twilight Mirage that are, um… places that are set apart to the rest of Twilight Mirage as culture by being tied to the indigenous people of that season’s central location. We know that Bluff City is a place where people speak english, and wear blue jeans, and go to casinos, and are a mix of races that include western europeans and- it's based on Atlantic City and other towns that we all know that are like, settler colonial towns [laughs] Um- and so any story that is about Indigenous peoples is going to be one that… sucks. It like- unless we are imagining a- unless we’re doing a world, a story in which we are somehow undoing that. Like, the series finale of Bluff City is like, we erase Bluff City, and this becomes a space that has not been colonized. It's going to be one that is about colonization, or else is ignoring colonization, or pretending that that somehow hasn't happened? And that would suck. 
+AUSTIN: And I don't- there’s an ongoing conversation right now I think in a lot of the spaces we are all in? Around… whether or not games and players have a responsibility to dig into things like racism and colonialism, and sexism and transphobia, and like, all of the- homophobia, everything that we all deal with [laughs] in our daily lives. And I think one of the responses to that is like, no, those things don't need to be at the table. You can play a game like Dungeons and Dragons or Dungeon World without needing to engage with the ideas of colonialism or imperialism. And… as someone who is black and who would not- as someone who will never know how I got here, right? As someone who like, if you trace my family tree, half of it disappears at a certain point, because no one was people. Those people weren't. And so… I am totally of the- I totally understand the feeling of like “Sometimes I wanna play a game with my friends at a table and not have to think about that, and not have to dig into that” So I think that kind of trend right now in conversation I fully understand where it comes from. But I do think that when we’re telling stories about things like colonization, or the police, or, um… y'know, sex work, or sex in general? Like, those are games that we shouldn't- we should also be able to, with a table that consents and a table that trusts each other, with clear rules established, dig into questions of things like imperialism, colonization, y'know, transphobia, racism, etcetera. Um… because I think games can do that really well, and when done well they can do it in a way that is collaborative? That others types of ART don't allow for. And so for us, what I wouldn't ever wanna do is tell a story about indigenous people in Bluff City, or in Bluffington Beach, that is like… ignores that that is a history of colonization and violence and oppression. But also that means we’d have to get it right,and so- that's not a thing where I'm like “we’re gonna do it tomorrow!” [[laughs] y'know? 'Cause it's very very difficult work. 
+AUSTIN: Um… Does anybody else have feelings about where the borders of this stuff are? [pause] No?
+ART: I don't know. 
+JANINE: Not really.
+AUSTIN: For me is like, is there another place to tell this story? Fantasy stuff, sci-fI stuff, yeah.
+JANINE: I would love to do a 1920s Bluff.
+AUSTIN: Yes, totally. I think there's that-
+JANINE: That's an easy pull, but like, it's maybe fun.
+AUSTIN: Totally, yeah. Like, that era of what Bluff is would be such a different thing? Um, it’d be really interesting to see
+KEITH: It was during the, um… it was during the episode on- not the episode, the question about games I think? Where you said the question is more about if the thing we wanna do is being held back by being in Bluff City? And I think that's sort of the answer here.
+AUSTIN: Yeah, totally.
+KEITH: If we want to do that sort of story, but Bluff City would do a hinderance, then it's better to not do it here and to do it somewhere where we can do it better.
+AUSTIN: Totally. I will say, one thing that I really wanna do though- we were saying no sci-fI stuff, but that's not exactly true, because… after we gat back to Dream Askew I would love to actually do a game of the Sprawl set in Bluff City, set in future Bluff City where there's like- we know tht the Dream Askew part of the map is this like, climate changed disaster area where there are cool queer enclaves? And we know that there are also floating casino towns still? And I wanna see how those two things interact, and like, I extremely want to run the deeply power fantasy- queer power fantasy of effectively shadowrunners busting into future casinos and stealing shit, so. That would be sick. I'm glad that the chat has just turned into Fletch- just Fletch talk. 
+KEITH: I'm shocked that only Art knows about Fletch.
+AUSTIN: I'm not shocked by that- Erin-
+KEITH: It's- it was like a big movie!
+ART: [overlapping] No, it wasn't a big movie.
+AUSTIN: [overlapping] Nope, no, it absolutely was not a big movie, are you kidding me.
+KEITH: [overlapping] Was it not? Alright, alright-
+ART: Caddyshack was a big Chevy Chase movie.
+JANINE: Are you thinking of Hitch, Keith? [AUSTIN cackles]
+KEITH: No, Fletch! Fletch! Starring Will Smith! [cackles]
+DRE: Yeah, came out around that Sinbad Shazam movie. 
+KEITH: It was an eight million dollar movie that made sixty million dollars, that's a hit!
+AUSTIN: [uncertain] Hmm
+KEITH: It made sixty million!
+AUSTIN: Roger Ebert said “The problem is, Chase's performance tends to reduce all the scenes to the same level, at least as far as he is concerned. He projects such an inflexible mask of cool detachment, of ironic running commentary, that we're prevented from identifying with him. "Fletch" needed an actor more interested in playing the character than in playing himself.”
+KEITH: Yes! Well- that's exactly what I mean, in that way it is the ultimate 80s comedy, that is like- it's not a compliment.
+AUSTIN: Right, I see what you're saying, yeah.
+KEITH: [overlapping] It's just what it is, yeah. Very important film [cackles]
+AUSTIN: Ugh… was it more or less important that the sequel?
+KEITH: Uh- more. More important than the sequel.
+AUSTIN: Okay.
+KEITH: Fletch 2? Fletch Back in Action? What it is?
+AUSTIN: Fletch Lives
+KEITH: [amused] Fletch Lives, yeah.
+ART: For a long time-
+AUSTIN: [overlapping] That's literally what it's called, this isn't a bit.
+KEITH: Yeah, no, it is, it is called Fletch Lives.
+ART: I believed for a long time Kevin Smith was trying to make a third Fletch movie
+[JANINE groans] 
+KEITH: [overlapping] Very funny.
+AUSTIN: [overlapping] Erin says- “how much do the games you play influence the direction of the met story, or is it the other way around? For example-”
+KEITH: I don't think Fletch had much influence on Bluff. For anyone that-
+AUSTIN: Oh my god- the only thing I want to know from this question that Erin write in was that I did in fact- Erin says “I remember Lacuna being a game that was on the voting block during early Live at the Table episodes, when did you realize that game would be one to use for season one finale?” I always knew it would be that and I got rid of it the second we did Noirlandia and was confident that we could do it. Um… but I will say that like, hey, if we want to play a superhero game here, that means we need to have a meta mythology that allows for superpowers to exist. But also we had like, an evil weird bird on the first episode? So I feel like maybe even from the very start things are weird [laughs]
+JANINE: Rupert’s not evil!
+AUSTIN: I guess not anymore, because- because-
+JANINE: I don't think he was evil at the time! I think he was having a just reaction to being imprisoned under the ocean, at a casino.
+AUSTIN: That's fair [laughing] that's where he was! That's the thing! We did have and underwater-
+JANINE: [overlapping] That's not where you keep things that are alive!
+AUSTIN: [laughing] They had an underwater vault where a giant mean bird was locked up.
+JANINE: He was locked up like fucking Magneto! [AUSTIN cackles]
+ART: Oh my god, that changes my whole conception of that scene.
+AUSTIN: Ohh it's so funny. Alright, I'm gonna keep moving-
+ART: He had a plastic chessboard…
+AUSTIN: [laughing] Yeah. Ishmael, Damian and some others wrote in with some similar questions around some stuff, but I've actually already answered a lot of this, which is like- this is the one that is like, story questions like these are playing to find out what happens. To people listening who don't see these questions, this is the like, will we ever go back and show Millenium Black fighting vampires- I hope so, but no promises, play to find out what happens- what's up with Dream Askew, did the apocalypse hit Bluff City only? What ablot Blough and Bluffington?- play to find out what happens- and Messy Business, what's up with the Whitker family? Does this mean that Jodie O’Brien works out of Blough City?- I mean- Dre, that's a you question, but my guess is play to find out what happens?
+DRE: Yep
+AUSTIN: Yep, play to find out what happens. Um…. Anton has a big one, that I think ties into something that we kinda just talked about a little bit? But I think it's worth clarifying. They write “Throughout the series you've talked about Bluff City as both a dark comedy and a place where identity and expression are multifaceted and kaleidoscopic, there being no one black, latino or asian experience, and no one queer experience. This came to a head in Messy Business, when we finally see Blough City: a terrible dystopia of oppression, repression and suppression. How much do you think of Bluff City as a utopia or a utopian space? specially in comparison to Twilight Mirage and how it is/is about a utopia? Because although identity is vast an expressive, we still see an oppressive and severe class hierarchy in Bluff. Millennium Alexander Black owns three giant luxury caninos, but Thresher (I can't remember her non-superhero name) is forced to play the part of supervillain and rob banks, just so she can support herself and her family. Even after the revolution in No Greater Love things, while still better again, still return to practically the same as before. This isn't a criticism of Bluff City, you've been making it for almost two years now and this may just reflect a change in interests, intentions or priorities, but do you see Bluff City as a utopian space where we’re building towards a better future? Or do you see it as a darkly comic space where things always reset to a kind of status quo?”
+AUSTIN: I don't see it as either of those, and I don't think I've ever seen it as either. It certainly has never been-
+ART: [overlapping] Yeah, I don't think it's that binary.
+AUSTIN: Yeah, 100%, right? Um… I don't think it is… it's certainly not resetting to a status quo? I think that it is constantly moving in new directions, and like, that is specifically what defines both Blough and Bluff, which is- they tend to move in different ways, right? One in time, and one in space. And… their capacities could- could develop in different ways that they have? Um… and they are as hopeful a space as our own world is. Because, like our own world, there are restrictions and pressures, and also there is agency, and action and reaction. Um… but Bluff was never meant to be a utopia, right? Like, it is- if you go back to that big chart that I have at that beginning of this thing, it is- I have written down my description of Bluff as “creativity, paradox, expression, growing non delineated, categories of identity exist but are ever expanding, never final, hierarchy is constantly challenged and overturned, disinterested in clarity, vulnerable, driven fundamentally by love of others and the self, unmoored in time, but locked in space, the same boardwalks, casinos, etc.” Like, those are not about utopian visions, those are about creative expression? Those are about my own interest in having a space that- where anything can happen, right? And anything can happen is really great, but people still can get hurt when anything can happen, right? That is one of the problems with anything, is that it can happen, and it can happen to you. Um… if that feels less oppressive than Blough City’s restrictive, oppressive, sublimated, coercive, hierarchical- yeah, there's very clearly conflict between those two places in the times where we see them? But like, I would never wanna live in Bluff City. Um.. and I think that's part of why it was important to show like, what those perspectives were on Bluffington Beach, because- Bluffington Beach is not meant to be a… a downer, necessarily, but it's supposed to be like, hey, here's this space that you and I live in that has- it already has the capacity for both Blough and Bluff in it, it's not that they are seeing something- they're not seeing anything that doesn't already exist in one of those two already existent places. They're seeing… those characters might have been surprised by what they saw, but- if you remember, the Lacuna characters are less surprised having seen both Bluff and Blough, y'know?
+AUSTIN: Um… any other thoughts here on whether or not- on what Bluff is? Art, you said you reject that binary.
+ART: Yeah, um- and I think that- uh, if Anton is watching, then they will have already seen, but if they have to be listening- things didn't go back to normal after No Greater Love, we haven't spent a lot of time in a post No Greater Love… Bluff, that game was out of sequence chronologically and should not be treated as like, and event that happened and was then moved on from.
+AUSTIN: Yeah, totally. Jay Queen in the chat says “honestly big shouts out to Austin for making this entire chart without saying dialectics” Yeah, well. I didn't say it, so. You said it [KEITH laughs]. Any other thoughts here before we move on? I think it's important to keep those… I mean, a lot of what you say at the top here, a lot of what we ID as Bluff City, is also true for our handling of those things in the show more generally? And so because bull city was the default location, that was going to be the place where that was true. Do you know that I mean? Like… multifaceted identity is as true in Twilight Mirage as it will be in season six, even though season six is going to be about a culture where that identity is attempted to be categorized and constrained? But it's still true that identity is multifaceted, even when an outside- like, that was also true about Lacuna, right? When you went to Blough City and- what was the bARTender’s name? He had a great name. [pause] Fuck. [mumbling] what was his name…
+JANINE: I don't think it was fuck.
+KEITH: Oh, it was, um… shit.
+AUSTIN: [laughing] I don't think it was shit!
+JANINE: [laughing] I don't think it was that either!
+KEITH: It was from the list of baseball names.
+AUSTIN: It was from the list of baseball names, “baseball names japanese name”, uh… here it is-
+KEITH: [overlapping] It was the first one in the second column I think.
+JANINE: [overlapping] Famous Bluff City- famous Blough City bartender, Bobson Duggnut. Dougnut?
+AUSTIN: It was not Bobson Duggnut, no. It was…
+KEITH: I think it was the first one in the second column?
+AUSTIN: No, it was the second one, it's Jeromy. Jeromy-
+KEITH: [overlapping] Second one. Yeah, it was- yeah.
+AUSTIN: [overlapping] Romy was someone-
+KEITH: Jeromy Gride.
+AUSTIN: Yeah. Romy was someone who was there explicitly to be like “Look, there are people here who are not faceless NPCs, who have a particular experience of being a particular identity”, and… Blough City is trying to like, tie that down? It's trying to reduce it, it's trying to like, water down that experience into something that fits neatly into a box. But even in Blough City identity is expressive, is multifaceted, is kaleidoscopic. It's that the powers that be in Blough City and the structures that they've created are responding to that truth and are trying to react to it negatively, if that makes sense.
+KEITH: God, these names are so good.
+AUSTIN: They’re so fucking good- did you know there's more?
+KEITH: From fucking start to finish these names are amazing.
+AUSTIN: Did y'know there's more?
+KEITH: There's more??
+AUSTIN: Yeah, that's only- [laughs] uh, that's only one page [cackles]
+KEITH: [laughing] I had no idea there's more! Oh my god… Wob Wonkos [cackles]
+AUSTIN: Wob Wonkos!
+ART: Where’s- where did you- 
+JANINE: He's like the co-founder of Apple right?
+AUSTIN: Yeah, uh-huh.
+KEITH: [laughing, out of breath] Fraven Pooth!
+AUSTIN: Wait, wheres- can you find me the list that you are -
+KEITH: I'm- okay, yeah yeah yeah,copy image address-
+AUSTIN: [overlapping] Link me and i'll bring it up here, let's bring it up on the screen.
+KEITH: Oh my god…
+AUSTIN: It's very important work. Uh… yeah-
+KEITH: [overlapping] Yans Loovensan!
+AUSTIN: Where- where’s Yans- we should go through the list here, from the top, let's go around the-
+ART: [overlapping] You skipped Nert Biesels.
+AUSTIN: [overlapping] We’re gonna start from the top! We’re gonna start from the top, alright.
+KEITH: I was skipping around, I was skipping around.
+AUSTIN: We’ll go from the top, were gonna go down the order that we’re in in the discord chat here- Art, then me [KEITH overlaps, unintelligible] yeah- then Dre then Janine then Keith, and we’ll loop around. Craig, you don't get to say anything.
+KEITH: We’re gonna do one at a time? Are we gonna do sets of five?
+AUSTIN: One at a time, keep looping.
+ART: Alright so I'm just gonna say again, Nert Bisels.
+AUSTIN: Kenn Nitvarn.
+DRE: Fergrit Hote!
+JANINE: Coll Bitzron.
+KEITH: Lood Janglotsi! Janglo- Janglosti! [AUSTIN laughs]
+ART: You think it's Tae-nis? [AUSTIN and KEITH cackle]
+DRE: It’s your name, man.
+JANINE: I do. [laughs] It does say Tae-nis.
+KEITH: [overlapping] I do think it's Tae-nis!
+AUSTIN: I think it's Tae-nis!
+ART: [laughing] Taenis Tellron!
+AUSTIN: Marnel, Haryyy!
+DRE: Dony Olerberz! [AUSTIN chuckles]
+JANINE: [laughing, AUSTIN cackles] Gin Ginlons.
+AUSTIN: [laughing] One more time?
+JANINE: [soft g] Gin Ginlons?
+AUSTIN: You don't think it's [hard g] Gin Ginlons? Yeah, it's definitely [soft g] Gin.
+JANINE: I think it's Gin, for sure!
+KEITH: Could be [soft g] Gin [hard g] Ginlons.
+AUSTIN: [laughing] Could be.
+JANINE: Could be Gin Ginlons.
+KEITH: You heard them already, Wob Wonkoz! [AUSTIN hoots]
+ART: Oh- [laughs, everyone cackles] Tanny… Mlitnirt? [laughs]
+AUSTIN: Love it! Um- [laughing] it's everyone’s favorite, the Hudge himself, Hudgyn Sasdarl! 
+DRE: [laughing] Ohhhh… Fraven Pooth!
+AUSTIN: Hey Janine, have fun with this one!
+DRE: [laughing, AUSTIN cackles] Yeah, go for it Janine! 
+JANINE: I've been looking at it for the past minute. Rarr- [laughs]
+AUSTIN: [laughing] Uh-huh?
+JANINE: You have to really lean into the Rarr though, [AUSTIN: you really do!] like the end of Buffy when Joss Whedon or whoever did the little monster thing, you do that-
+AUSTIN: Uh-huh.
+JANINE: - then dick. 
+AUSTIN: Well you didn't say the whole thing.
+JANINE: Rarr… Dick.
+AUSTIN: [laughs] Great.
+KEITH: [clears throat] Dorse ‘Big Hit’ Hintline!
+AUSTIN: Hintline is a great last name!
+KEITH: Yeah!
+ART: Roy Gamo
+AUSTIN: Tenpe Lo- La- hm. Temp- Tempe Lao- Hmmmmmm! Laob? Laob. Tempe Laob!
+DRE: Varlin Genmist!
+AUSTIN: [laughs] Genmist, great last name again.
+JANINE: Pott Korhil
+KEITH: A.M. O’Erson! [DRE and AUSTIN cackle] AM ‘the Morning’ O’Erson!
+AUSTIN: Hey, Art? 
+ART: [laughing] Um- [clears throat] Sna- [starts laughing, AUSTIN cackles] Snarry Shitwon! [KEITH cackles]
+JANINE: Isn't that Shite-won?
+DRE: [french pronunciation?] Shit-uone?
+AUSTIN: Shit-uone! Snarry Shit-uone!
+DRE: It's gotta read it all like that K&P bit with the Substitute teacher. [laughs]
+AUSTIN: [laughing] Oh, I thought you we’re referring to the K&P bit about the NCAA names!
+Der: Oh yep, that too, yep!
+AUSTIN: Uhhh- this one is easy, Bobs Peare!
+DRE: Yep! [KEITH cackles] Um- Renly Mlynren!
+JANINE: Is that one of those ones that goes both ways? No, I guess not.
+AUSTIN: What?
+JANINE: I thought it was like the ones where it starts the way it ends, it's almost there.
+DRE: [overlapping] yeah, it's close!
+AUSTIN: [overlapping] oh, it's close! It is!
+JANINE: Uh, CeyneI Doober.
+KEITH: [overlapping] Palindrome? A palindrome?
+AUSTIN: Uh-huh
+JANINE: Yes.
+AUSTIN: CeyneI Doober is my favorite Game of Thrones- [JANINE laughs] my favorite thronser. Uh- Keith?
+KEITH: Where- is it me? 
+AUSTIN: Yeah, it's- under CeyneI Doober.
+KEITH: Oh okay. [clears throat] Hom Wapko! [muffled laughter from background, AUSTIN cackles] 
+JANINE: [laughing] This could be the first horror last name, really.
+ART: Odood? [AUSTIN laughs loudly] Jor- Jorgeudey?
+AUSTIN: [laughing] All at once!
+ART: [laughing] Odood- maybe it's a harder j? Maybe it's Jorgeduey?
+AUSTIN: Jorgeduey! Jorgduey! Uh- Odood Jorgduey, got it! [laughs] Oh, this next one is [pleased sounds]!
+KEITH: That's you.
+AUSTIN: Oh, it's me! Oh wow! I was like “Oh wow, I can't wait for someone else to say it!”. Gary, Bamps! [giggles] Gary Bamps! Banps? Banps!
+DRE: You're Bamps, That's cleanup.
+AUSTIN: There's no m, Banps! [DRE giggles]
+DRE: G- ooh- Jaris Forta!
+AUSTIN: Good- yeah, that's nice.
+JANINE: Earl Jivlitz! [AUSTIN snorts] That's very close to Jibbitz.
+KEITH: [overlaps] Lenn Wobses!
+ART: Uh, it's- it's your boy, Dan Boyo!
+AUSTIN: One more time 'cause you cut out, Art! [JANINE chuckles]
+ART: Oh… it's your boy, Dan Boyo.
+AUSTIN: Yans Loovensan! 
+DRE: Mob Welronz!
+JANINE: I- what?
+AUSTIN: Uh-huh?
+JANINE: Bannoe Rodylar.
+KEITH: Al- sorry, this one caught me off guard! 
+AUSTIN: This ones rough!
+KEITH: Al S- Al Swermirtz! [AUSTIN snorts, KEITH cackles]
+ART: Jinneil Robenko!
+AUSTIN: My favorite wrestler! Great names, fantastic names.
+JANINE: I see why the page that circulates is the one that circulates.
+AUSTIN: Oh yeah, definitely. But- I need to download all of these.
+KEITH: I don't know, some of these I think are really great! Fraven Pooth is great, JanglostI is great-
+JANINE: Rarr Dick
+KEITH: -Erl Jivlitz is great- or Jivliz 
+DRE: [overlapping] Yeah, Rarr Dick.
+AUSTIN: They're so good. I love them so much- I need to know what game this is from? And- it just gets to such a good-
+KEITH: There's some more.
+AUSTIN: I bet. Save them, let's-
+KEITH: Save them for a different day.
+AUSTIN: Let's save them for a different day, yeah. You put those in a back pocket.
+KEITH: [overlapping] Can I give you a- I'm gonna give a preview.
+AUSTIN: Gimme a taste, yeah, please.
+KEITH: Ick Ploury!
+AUSTIN: [laughs] My favorite Sith lord.
+KEITH: [amused] Yeah, Ick Ploury.
+AUSTIN: Alright, I'm gonna keep on moving here. Uh- Linda has a question. “I know you all talked about movies that helped influence Bluff in the pusher update-” we did do that, there are some special pusher update episode in which we talked about three movies: The Nice Guys, Sneakers and Streets of Fire? Is the third one? And I think only and of other people on this call were on that one. And all of those were a blast to do, people should listen to those and enjoy those. “- but what might you recommend for books or other types of media for people who want more stuff like Bluff City? I love Messy Business and definitely found myself craving more of that weird reality vibe”.
+KEITH: Uh- the novelization of Fletch
+AUSTIN: [sighs, quietly] Fuck off… I'm so tired [KEITH laughs]
+ART: Home Movies, we said Home Movies earlier. [KEITH overlaps] It's not like, Messy Business, yeah.
+KEITH: [overlapping] That's not books- books, no, it's books.
+AUSTIN: [laughs] I love it when-
+JANINE: [overlapping] It asks for other media, doesn't it? It says other media, other types of media.
+AUSTIN: [overlapping] It says other media, you're right, it does say that. Okay, fair. Well, in that case- in that case, Kentucky Route Zero. Huge influence.
+JANINE: Oh, yeah.
+KEITH: [overlapping] yeah.
+AUSTIN: Um… huge influence. I cannot believe that that fifth episode isn't out yet, I was really hoping it would be. Um…
+KEITH: I've never played- I was waiting for it to be done and I didn't realize how long that would be?
+JANINE: The fifth episode is supposed to come out and then the whole thing will come out on Switch? I like a chunk? So that seems like the way to go, but… yeah.
+AUSTIN: Yeah. What was that- someone said something else? [pause] Oh, I thought someone had another recommendation. Um…
+ART: Hard-Boiled Wonderland and the End of the World?
+AUSTIN: Yeah, Hard-Boiled Wonderland and the End of the World- I think Murakami in general, like- you have to go in knowing what his particular, uh… common tropes are, and you need to be ready to deal with him talking about women’s ears and cats and classical music a lot? Um… but once you get past that stuff, I think something like The Wind-Up Bird Chronicle or Kafka on the Shore- actually maybe even his shorter works? Something like Elephant Vanishes, the short story, or um… Wild Sheep Chase is another one that's very much in the same space? Um… for sure. But Hard-Boiled Wonderland and the End of the World is ex- Hard-Boiled Wonderland and the End of the World is extremely influential for everything we- everything I've done as a GM? If you go back and listen to the Polyphony episodes of… if you go back and listen to thee Polyphony episodes of Twilight Mirage, I am just doing the End of the World. I'm just- like, that is the map. In my mind, that city is the end of the world from Hard-Boiled Wonderland and the End of the World. It obviously goes in much different directions, but that is like, the direct, clear influence on the Polyphony- like, the town. 
+AUSTIN: Um… what else? I think both of John Darnielle’s books? Universal Harvester…? Is that right? And Wolf in White Van are both big influences, for sure. I mean, Wolf in White Van is very specifically about games, and about media, and about media effect and about dealing with trauma and tragedy? And Universal Harvester is also very much about the way in which media can kind of… follow us? I really like Universal Harvester a lot, I hope he puts out a new book soon. Um… but both of those would be good. I feel like there's other stuff that pops to mind here that was like- oh, y'know, all the work of Borges is like- but at this point we’re really just describing stuff that is influential to Friends at that Table? Because a lot of those- a lot of the stuff that's weird reality, or talking about magical realism specifically- that's a vibe that we’ve pulled through a bulk of our work, I would say. Kafka, obviously. Both from Home Movies and the real [laughs] Kafka. I cannot oversell Home Movies as an influence enough, honestly. We’re just doing Home Movies. [laughs]
+JANINE: I wanna do a- [scoffs, mumbling] a Home Movies-
+AUSTIN: I know. [mumbling] Home Movies…?
+JANINE: You know, I don't need to say it, I don't need to get people’s hopes up but it’d be good.
+AUSTIN: It’d be good. Um…
+ART: That's the thing we don't have time for, right? That's the-
+AUSTIN: [sigh] I don't know if we do… and i- yeah, we can talk about it afterwards. Um- we can talk about it right now, like- my concern is that some of that stuff doesn't hold up in… critical reevaluate- that show is from 20 years ago? Which means that sometimes it absolutely veers into territory that is gross.
+JANINE: Well yeah.
+AUSTIN: And we can have those conversations, but I know that- I know that part of out audience doesn't want us to use our platform to talk about shit that has those problems? I think that part of being in 2019 is the like, how do you do that in a way that doesn't feel like betrayal to the people to whom those jokes are at the expense of- and I'm not even thinking of specific jokes here? But like, I know, when that show is from, that we would hit some landmines, and I don't know that for some of our listeners it would be enough to be like “Hey, that was shitty, that joke. Anyway, here's why we love the episode despite that joke” 
+JANINE: Uh-huh…
+AUSTIN: Y'know? Um… and I don't know that that's- again, I'm not thinking of a specific joke here. But that is certainly a thing that like, could happen. Someone notes Thomas Pynchon’s work here, something like The Crying of Lot 49, I think that's probably a good direction. I'll say the work of Paul Auster? [spelling] P-A-U-L  A-U-S-T-E-R, um… was definitely super influential for me? There's the- the trio- what's the name? The New York Trilogy. The New York Trilogy, which is three short novels? City of Glass, Ghosts, and The Locked Room? Are definitely things you can see echoed here. Um… I'm thinking of other stuff here… oh yeah Mulholland Drive- Mulholland Drive, Bluff/Blough… [amused] Mulholland Drive, Bluff/Blough? [scoffs] Mulholland Drive! [KEITH laughs] Like, Bluff/Blough! That is the whole- without talking about Mulholland Drive, that is the damn thing. And also Twin Peaks, which I didn't mention, but like- also, obviously Twin Peaks, huge influence there
+ART: Um… what's the-
+AUSTIN: [overlapping] Wrestling?
+ART: [laughs] Yeah, wrestling? Check out some wrestling.
+AUSTIN: Check out some wrestling.
+ART: What's the- the David Lynch- what's the one that's about OJ?
+AUSTIN: Did David Lynch do an OJ… thing?
+ART: It's like, very loosely OJ? It's the one where someone gets handed a phone where they are on the- the person answering the phone?
+AUSTIN: Oh, oh- oh, that is… that is Lost Highway.
+ART: Yeah.
+AUSTIN: That movie is fucking creepy as shit.
+ART: Um- the first four episodes of the last season of Sopranos?
+AUSTIN: The final episode of Sopranos? All of The Sopranos [laughs]
+ART: Yeah
+AUSTIN: Um… Homicide Life on the Street, which, we haven't done a cop episode necessarily, but like… parts of that show, and the way… the way some of the dialog in that show- like, this is stuff that is just us, also. Like, I think about something like… you know I will drag Aaron Sorkin to death, but like, aaron Sorkin’s Sports Night is such a key part of like… Art and my rapport? That it will work its way into character interactions sometimes. Um… thinking of other big stuff that is like, from media… Dark City is the movie I talk about a lot, we didn't do it as one of the pusher movies but that is a huge one for me, thinking about Blough City specifically. Um… I should go look at my bookshelf but I'm not gonna. There's more, but this is the direction, right? Um… Paprika? The incredible SatoshI Kon anime? In fact, all of SatoshI Kon’s work has exactly the vibe I want for Bluff City, the sort of interaction between very scary psychological material with a deep belief in humanity, and interest in the ways in which we push through trauma? 
+ART: I super thought you were gonna say all anime.
+AUSTIN: All anime, please [laughs] No, I think- I think Bluff City is our least anime season, probably. Though I will say Masks probably has a little bit of My Hero Academia in terms of like, I wanted us to have cool powers [laughs] that were not just very strict. Kinda western superhero powers?
+JANINE: Also Honey Heist has kind of like a Polar Bear Cafe thing happening?
+AUSTIN: True, totally. Totally. Um… well, wrestling in general- that's the other side of this, is like… go listen to Born to Run, by Bruce Springsteen, the Wrestler, uh… anything that is about an economy failing and people suffering because of it, and them needing to like, deal with it? Uh… like, again, I'm very critical of David simon and parts of the work of David Simon at this point? But the Wire is a huge influence, and so was- we haven't gotten deep into the politics of Bluff City yet, but, um… what was the short miniseries that he just did, two or three years ago, Art? About- I guess four years ago, three or four years ago? About… Yonkers?
+ART: Oh, I didn't watch that.
+AUSTIN: Oh, you should watch that. What's-his-face is in it.
+ART: I fell off Treme and thought “Maybe this isn't for me anymore”
+AUSTIN: Um… you should watch Show Me a Hero, which is- which has… what's his name, why am I blanking on his name? Oscar Isaac! Oscar Isaac in it as a rising politician who's fighting for… kind of housing rights? And then- it's like a real story about this mayor of Yonkers, it's- it's super fucking sad. Um… so yeah, I think those- that's a good set of things, from me anyway. Does anyone else have things? Please-
+ART: Ghost of Tom Joad… just the song Atlantic City.
+ AUSTIN: Yeah.
+JANINE: Crimetown season one but Gimlet Media sucks..
+AUSTIN: Yeah. Uh-huh, both of those. [JANINE laughs quietly] I mean, that's also true for like, a million This American Life episodes? But This American Life kinda also sucks? Or at least Ira Glass-
+KEITH: [overlapping] Yeah, it sucks.
+JANINE: It's much harder to recommend this- it's very hard to recommend a thing that's been going on for- I'm sorry, decades?
+AUSTIN: Decades.
+JANINE: Versus like “Here's one season of a thing”
+AUSTIN: Totally- but what I would call out is like, a handful of specific This American Life episodes?
+JANINE: Yeah.
+AUSTIN: God, there's one...what is the one. Hm… it's not the one with the small town. It's the one- oh my god. It just-
+JANINE: [overlapping] It's the one with the small town.
+AUSTIN: The one with the small town! No, I said it wasn't the one with the small town.
+JANINE: Ohh.
+KEITH: [overlapping] I wanna shoutout the one with the small town specifically, as an influence on me.
+AUSTIN: Great, prefect. [DRE chuckles] Um…
+JANINE: The one about the blood- the crab blood?
+AUSTIN: Oh, that one- I think that was a Radiolab, more than a… I think that was a Radiolab.
+JANINE: Oh, I can't.- I don't know them apart [laughs]
+AUSTIN: That's- listen. [KEITH laughs] I moved to a town that I didn't know anyone in? And live there for four and a half years? So what I became very familiar with was... podcasts [laughs] Old podcasts! Um… and that was- that's one of the ones that I listened to a lot of. Um... I can't find the name of the episode I'm thinking of, and it's fine, it's not a big deal. Actually there's one-
+JANINE: Listen to the Radiolab episode about crab blood.
+AUSTIN: That one- yeah, totally. For sure. Um… one of This American Life’s episodes that was a big influence for sure, is about this guy who is like, the head of maintenance in a school district? Who is just this terrible petty tyrant who fucking sucks. And that's definitely one [laughing] that has influenced me in playing specific sorts of shitty people-
+KEITH: What was the job that they were a tyrant of?
+AUSTIN: He was like, the head of maintenance in… in a school district, but he had all this access and power? That is just like- the name of the episode is Petty Tyrant. “In Schenectady, New York, a school maintenance man named Steve RauccI works his way up the ranks for 30 years, until finally he's in charge of the maintenance department. That's when he starts messing with his employees. Teasing them at meetings. Punishing them with crummy work assignments. Or worse things, like secretly slashing their tires in the middle of the night. Ten years after his arrest, Steve RauccI broke his silence and gave an interview to Paul Nelson at the Times Union in Albany.” It's a great story of a super shitty dude. But like, a shitty dude who wasn't- he didn't get anything from it! Do you know what I mean?
+KEITH: He was a jerk.
+AUSTIN: He was just a jerk, and like, those stories are the ones that really really stick out.
+KEITH: The ‘petty’ part of Petty Tyrant.
+AUSTIN: Really the ‘petty’ part of Petty Tyrant. Um ... that is definitely the one. In fact, there is literally a thing in This American Life that you can search for that's just called Hour-long Stories? Where it's like, here's an immersive story that actually goes over the course of an hour instead of, like three little stories in an episode? And most of those are ones that- things that stand out for me? The other one- there's the other one that is also on this list, it's The Incredible Case of the P.I. Moms “What do you get when you take a private investigation firm, toss in a bunch of sexy soccer moms, then add official sponsorship from Glock firearms, a lying boss, and delusions of grandeur? This week's show. That's what you get.” Great episode, fantastic episode. Um… so yeah, look up the Hour-long Stories subsection of this American Life, all very- all deal with this sort of stuff. That's definitely a big influence. [pause] Do you have something else?
+KEITH: Uh, I was thinking but no.
+AUSTIN: Okay. [laughs] Star Wars! Um…
+KEITH: Oh yeah, that's my biggest Bluff influence. [AUSTIN laughs]
+JANINE: Sailor Moon backdrops. Not Sailor Moon, just the backdrops. [laughs]
+AUSTIN: Sailor Moon backdrops, old visual novel city backdrops? Um… here's- another really big important influences? The… twitter account Best of Nextdoor? [laughs]
+JANINE: [laughs] Oh, yeah.
+KEITH: [amused] Yeah, yeah.
+AUSTIN: That email that Keith got trying to- was it you or was it Ali? Who got that email that was like “you should set up a Nextdoor community!”
+KEITH: Me, I got that- it wasn't an email, it was a flyer that someone put under my door.
+AUSTIN: Oh my god…
+KEITH: Yeah.
+AUSTIN: Ridiculous.
+KEITH: And- oh, do you remember that fucking creepy guy?? 
+AUSTIN: No!
+KEITH: The scary face? I went next door and the first thing was like, someone tried to break into my house, here's a picture that my alarm system took of the guy-
+AUSTIN: Oh, right!
+KEITH: And it was a fucking nightmare man!
+AUSTIN: God…
+KEITH: It's still on my phone and I see it by accident sometimes.
+JANINE: [overlapping] Oh, that's another thing- the news? Internet news.
+AUSTIN: The news! The int- the news, yeah. I'm scrolling through our Bluff City chat now- [laughs]
+JANINE: That guy who was licking doorknobs and people were catching him on camera?
+AUSTIN: Um, this thing where there's a guy who wears a mask- who wanted his face to show up instead of a motorcycle helmet? And so he- [laughing] he made a special motorcycle helmet that would have his face??
+JANINE: [overlapping] Oh god- [laughs] you're right.
+KEITH: [cackling] I remember that! Oh…
+AUSTIN: It's so bad!
+KEITH: I mean, that's the best thing about Bluff influences, they're literally everywhere. That's the- like, it's hard to even think of a book or whatever for me because it's like, yeah, just listening to people say anything about their own lives is Bluff.
+AUSTIN: Um… [laughing] this video where Pope Francis doesn't want anyone kissing his ring? And he keeps- [laughs]
+KEITH: [overlapping] Oh my god. That video is losing my mind! [DRE laughs] That video made me lose my mind, and reading the comments of all the people who were mad at the pope?
+AUSTIN: [laughing] Oh, it’s so funny… uh-huh! We fell deep into a hole looking into stuff- looking into this stuff.
+KEITH: [overlapping] Yeah, we read like two different articles talking about this.
+AUSTIN: It's just like- no, stop it! Stop!
+KEITH: These people- these are the rudest people on the planet, this is an old-ass man and they are yanking him! He's the pope! They're supposed to love him!
+AUSTIN: Oh, it's so funny.
+ART: “Don't yank the pope” is like, the first thing. [KEITH cackles]
+AUSTIN: [laughing] The first rule learned in catholic school! Stop it!
+KEITH: Stop yanking the pope.
+JANINE:  Bar rescue. Bar rescue.
+AUSTIN: Bar rescue.
+KEITH: Literally every single person in this line tries to kiss his hand except for like, the younger older boys at the end, they're in their mid twenties or something.
+AUSTIN: This is- this is an important one too, for sure. [laughing] Stephen A. Smith just yelling- [DRE and KEITH cackle] yelling “we have a problem”?
+JANINE: Right…
+AUSTIN: That's a huge influence, etcetera, etcetera. Yeah, so. Uh… Brian wrote in with a question, says “I know you talked on a recent Tips episode about a hypothetical adaptation of your different games and joke often about an equally hypothetical live action Bluff City HBO anthology series. My question is, if you had to adapt an arc of Bluff City individually, which one would you pick and what medium would you adapt it to? My gut response is a feature length live-action adaptation of A Bowling Alley, a Boxer and a Bird, or a hyper stylised 2D animated When Justice Is Done” That's a good one. [pause] Does anything jump out to y'all?
+DRE: InSpectres as a fake documentary.
+AUSTIN: Oh that's really funny! That's really goood I like that a lot.
+KEITH: Like a mockumentary comedy?
+AUSTIN: Yeah, that'd be really good.
+ART: Yeah.
+AUSTIN: Honestly- or as a mockumentary series? Like, I know The Office and Parks & Rec are done now, but InSpecters but in that style, with confessionals and stuff? I realized its really close to another idea we had.
+JANINE: [overlapping] I think zoo game videogame would also work really well as sort of an Office/Parks & Rec/thing-
+AUSTIN: Wait, what would?
+JANINE: Uh- the zoo Fiasco game.
+AUSTIN: Oh, zoo Fiasco would be great, yeah.
+JANINE: Yeah.
+KEITH: Crazy zoo show!
+AUSTIN: That’s what it's called!
+JANINE: We’ve done a lot of- we've woven in a lot of wacky zoo hijinks over the episodes.
+Auss: Uh-huh.
+KEITH: Animals are very good targets for doing wacky stuff.
+JANINE: Yeah.
+AUSTIN: I love animals, they've been good to us, I think.
+KEITH: Yeah. And they're silly…
+AUSTIN: Yes.
+KEITH: Inherently silly- the idea of animals is like, what?
+AUSTIN: I think for me it's probably- hm, I'm so torn. I love your Masks characters so much that I would love to see that adapted? Masks but Into the Spiderverse, please. But Lacuna and the Hector Hu stuff is like, so my vibe that a Twin Peaks style show that is like… all of that stuff, from start to finish? But that's cheating, 'cause that's called Bluff City [laughs] 
+KEITH: I would love to see um… I would love to see Primetime Adventures, you'd get a great show within a show out of that?
+AUSTIN: Yeah, yeah. Totally. Um… an animated Honey Heis would be very fun. Agreed, chat.
+KEITH: Also- Primetime is a show within a show within a show?
+AUSTIN: Yeah, it's three shows, 'cause it's a show that we are also making.
+ART: We also did this.
+KEITH: It's a show that we’re making that is a show in Bluff City that's about a show.
+AUSTIN: OH, but they're also making a show on that show, so it's a show within a show, within a show within a show.
+KEITH: Yeah, uh-huh.
+AUSTIN: Wow, we’re good. We are great- I cannot wait until-
+KEITH: Hamlet- Hamlet, what?? Excuse me? [cackles, AUSTIN laughs]
+AUSTIN: God…
+ART: Yeah, it's important for everyone to know that Hamlet sucks, compared to us. 
+AUSTIN: Uh-huh! Alright-
+KEITH: [amused] wait, you cut out, Art.
+AUSTIN: [amused] Yeah, I didnt wanna say anything.
+KEITH: What is- [laughing] Austin was gonna let is pass, but you said it was important for everyone to know so.
+JANINE: We’re better than him.
+KEITH: Oh- we are better than him, yeah. 
+AUSTIN: [quietly] I need to eat some ham…
+ART: Shakespeare is not as good as us.
+JANINE: No.
+KEITH: No.
+DRE: [overlapping] Ham sounds good.
+JANINE: Ham’s so bad.
+KEITH: HHam’s great- ham is excellent!
+AUSTIN: [overlapping] You just haven't had good ham, I feel like.
+DRE: What??
+JANINE: [overlapping] I- I totally haven't had good hame, ham is just lunch meat that you eat thick and hot. [AUSTIN scoffs]
+KEITH: What- that is- this is-
+DRE: [overlapping] No…?
+AUSTIN: She doesn't know, she’s- she doesn't know.
+KEITH: Alright.
+AUSTIN: We should fix this.
+KEITH: I mean, ham is great in like nine different ways.
+AUSTIN: Oh, I love it. I haven't had it in a while, I should get some ham.
+KEITH: I went- I splurged a couple weeks ago on some good ham?
+AUSTIN: [overlapping] Also, real quick! Ham as a lunch meat, also pretty good.
+DRE: Yeah.
+JANINE: [overlapping] I also don't- I don't like… I can't.
+DRE: [overlapping, unintelligible] 
+KEITH: [overlapping] Yeah! Totally! If you find the right store and you splurge a little bit you can get ham, lunchmeat ham, that isn't even wet. [JANINE, AUSTIN and DRE start laughing] It's so good that it's not even wet.
+AUSTIN: [laughing] Ohhh.
+KEITH: That's true! [DRE overlaps] I'm not- [AUSTIN cackles] 
+DRE: [overlapping] Oh yeah, no.
+KEITH: Only a handful of times you can get ham that's not wet as a lunchmeat and it's great.
+JANINE: [pained noises]
+AUSTIN: Jay Queen says “Put the Cost of Greed visual novel on Switch” that'd be great. Um… god- an InSpectres game that's like- like a sort of strategy game- not like a grand strategy game? But like- not the sims, I'm thinking of something like those old games that were- like the Mafia games? Strategy, like, city level strategy, where you assign people to do things? I'm sure-
+KEITH: Wait, you mean like those phone games that are popping out years ago.
+AUSTIN: [overlapping] No, no no no, like-
+KEITH: [overlapping] Mafia Town or something?
+AUSTIN: Not that- no, not those, explicitly not those. Not Mafia either, what was the name of the series-
+KEITH: Mafia Wars, thats one.
+AUSTIN: [amused] I'm not thinking of Mafia Wars. [KEITH laughs] There was -
+KEITH: I was trying to remember what they were really called.
+AUSTIN: Yes- there used to be a series… Gangsters was the name of the series from the late 90s, early 2000s, where you were like, assigning mafiosas to do shit across the- mafiosos, mafiosas would be the women of the mob, I understand- but like, it was like a strategy game. Like Crusader Kings but one town, and you're assigning mobsters go do things. That but like-
+KEITH: That sounds awesome! And you can read about courtesans and stuff?
+AUSTIN: 100%, they do dances, sometimes you have to throw a festival… [laughs] Um-
+ART: I would 100% play this game where you have to like… secure your mafia dynasty through-
+AUSTIN: Yeah! Yeah, basically, that is what that game was.
+ART: - through marriage and trickery.
+AUSTIN: Yeah. Jesse M. says “Kairosoft Inspectors game” yeah, that'd be great too. Um… alright, I'm gonna advance. Wait, did I already advance?
+JANINE: You already did…?
+AUSTIN: I know- okay, here we go. Aaron says “You guys play a lot of games in Bluff City, and it's definitely part of its charm. Is there a particular process for choosing each game, or is it just a big list of what y'all like? Conversely, are there any games that have been vetoed?” We already said no to that one “I'm sure there are plenty of ancient ones you would never mess with the setting, but are there games you absolutely just cannot bring to the table?” the same as our regular stuff, crunchy stuff… like, I don't wanna play a tactics heavy game in a microphone. But if there's a process- I think it's just like, we’ve listed out a bunch of games, we have a big list of potential live games? And I have taken some games from that list to be like “here's what we wanna do”? Um... I do- I will say that in season one the thing that ended up being wild was just like… hey, we- if we don't release these like, really cut down? This will go forever. Or- sorry, if we don't release these really big, this will go forever. Like, seven- only really seven games are played in the first season, and that was two years. And we don't have more time to like- we couldn't release more, we couldn't release two full length Bluff City episodes a month and have them retain quality- or even really do it at all- without cutting down on the main season, and I'm super not interested in doing that, so. So yeah, the process is just like “that seems cool!” [laughs] “I wanna do that!” There’s a lot of talking through some stuff. Which reminds me, after this we should start a new doc for potential Bluff cities- Bluff City season two games, because I already have a pretty good list of things I definitely want to do, and I wanna make sure we don't like, leave things by the side. 
+AUSTIN: Um… Jackdaw says “With your other campaigns, switching systems often entailed large switches within the plot, such as notable time skips. Bluff City underwent multiple systems as a function of it's format, but was also on a much smaller scale due to being in a single location as compared to the continent+ scale settings of your other campaigns. My question is, how did shifting systems at such a steady rate change your perception of Bluff City as a whole?” Any thoughts here?
+KEITH: I would- I would say that… due to the nature of Bluff City, switching games did also entail a large switch in plot and time skips.
+AUSTIN: Uh-huh.
+KEITH: Um.… but yeah, I also see the point of why that's still a question.
+AUSTIN: Yeah, yeah. I think it's like- I'm so much more interested in the contradictions of Bluff City and like, filling in the gaps of how you- like, Bluff City is basically a really big game of Microscope? Which is why you can draw a timeline, in Microscope you can do that? Where you're not- it's not a linear campaign, and so it's easier to be like “Yeah, I don't know why things are like this in this moment, we’ll figure it out I guess” y'know?
+KEITH: It's sort of like, the idea of- y'know, from the very beginning of Friends at the Table we were saying like “Draw maps and leave blank spaces”? And this is sort of like the same idea but on a timeline instead of a geographical map.
+AUSTIN: Totally. [pause] Any other thoughts here? [pause] Alright-
+ART: No, that's pretty- that's pretty good.
+AUSTIN: Um- I think this might be… the final question- it is, this one comes in from Justus, who says “I've been inspired to try something similar. Do you have any advice for picking games that work with this kind of format or any other general advice for this atypical campaign style?” As players is there anything you think, like, the GM should keep in mind?
+ART: How much more we record than release? That like… it seems very seamless as a show, and you should really appreciate how many seams there are gonna exist in your life. 
+AUSTIN: Oh oh oh, you don't mean- I was like, we don't cut things, we don't cut episodes or anything. You mean… like, how… can you expand on that, so I have a better idea of what you mean?
+ART: Yeah, I think  there's like a- I think this is a thing in actual play in general, or at least actual play in the way we do it, it looks more like a magic trick than a game?
+AUSTIN: Hm…
+ART: That like- we do this big thing and it seems so… like. Y'know, it seems easier than it is, and it seems more like… I was gonna say seamless again- like, because we cut all the “Wait, what are we talking about right now?” like-
+AUSTIN: Eight, right.
+ART: You have to give yourself--
+JANINE: [overlapping]  “How do we play this game, again? It's been two months since we recorded this game and I don't remember how these rules are, I don't- what's my move, what is the thing-” Action Movie World was very hard for that.
+AUSTIN: [overlapping] Right, that stuff gets cut.
+KEITH: And how long we record is often not super clear? Like, you can't really tell sometimes-
+AUSTIN: [overlapping] Or how many sessions? Yeah.
+KEITH: Yeah, like- when the thing is too- and we can't even remember sometimes, like- I'm pretty sure that Lacuna was two sessions, and Austin was like “Maybe it was three actually”
+AUSTIN: Yeah. I would say one of my big tips is very much like… give yourselves- one is, this would be a cool thing to do as your primary campaign? We do it as a secondary campaign on top of live games we also do, which means that it is like, hard to fit into our schedules? Try to play whichever game you're choosing all in a tight grouping, even if that means like- y'know, maybe what that means is you have a main campaign, let's say you're playing Dungeon World as your main game. Then you have- y'know, every three months you go “Hey, let's do a side game that is in this other setting that we do” and for that whole month maybe you meet every week, play that game until you finish it. The worse thing is coming back to the table five weeks later and be like “I don't remember how this game works, [laughs] at all”. So like, try to keep it tight in terms of your campaign and your play sessions inside of any specific games. I think that's what's worked best for us, it's been when we said “We should try to record the second part of this tomorrow” or like, later this week, or within the next two weeks” and then do it. Um… it's really hard to do that because our schedules are so busy, and because this is  the Patreon show and not the main show that has to come out every single week. And so keep that in mind, that's a big one, I’d say.
+JANINE: Um… in terms of picking games, I would also say- if you're going to hop around between different games, the thing to focus on- like, there are a lot of games that have a lot of really cool systems. A lot of games have really cool systems that do not manifest in one or two sessions.
+AUSTIN: Yes.
+JANINE: So like… if you know that you are only going to be picking up a game for a little bit and then maybe coming back to t, but maybe not? Really sit down and figure out like, what are the core interactions- like, turn to turn, what are we going to be seeing most? Um… and what are we gonna be seeing least, and if all the cool shit is the stuff you're gonna be seeing least, that's maybe not the game for that.
+AUSTIN: Yeah, yeah
+KEITH: I would also say that make sure that everyone is on board with the extra work of learning new games constantly?
+JANINE: [laughs] Yes.
+AUSTIN: Yeah.
+KEITH: Which I think is a really fun thing to do, but is definitely an extra thing, and isn't an easy extra thing.
+AUSTIN: No.
+KEITH: Because you wanna get in there and start having fun with it right away, and that's really hard to do with a game you haven't played, so like- making sure people are reading books or watching videos, or listening to actual plays and like, how this game flows? 'Cause getting the flow as fast as you can is key.
+AUSTIN: Yeah…
+KEITH: Like, Lacuna was- is a prime example of a game where I did not get the flow of it right away, and I didn't- I literally was like “That was fun, except for I didn't like this game” And then when it finally clicked I was like “Oh, this is excellent”. And like, that's kind of a, um… not a worst case scenario, it was not that bad, but it's- it's not- it's a thing that you can actively work against happening, or it's not fun.
+AUSTIN: Yeah, totally. Totally. Um, I think it's a huge one. On that note, I really, really- one of the things- so we played Beam Saber for a live recently, and I'm so bummed we didn't get to do a downtime? Because the downtime in that game looks really good. I really wanna underscore what Janine said, which is, give yourselves the space for that or choose a different game, because… it will gnaw at you [laughs], weeks later, months later, like “I really wish I could've seen how this thing- hm, I really wish-” 'cause there are so many cool games out there. And that's the other one, just like… lean into the ability to just play a one sheet oneshot? Find something on itch.io, or on DriveThru, or wherever that is like, an experiment? Find something that- something in playtesting? And go “Yeah, let's try it, let's see how it goes, and if we have a bad night, we had a bad night, it's not the end of the world”. Um… lean into that aspect of it, id say, and really enjoy it. I love it, Bluff City is one of my favorite things that we've done. I think that like, from start to finish, I had a blast. 
+AUSTIN: So thank you all for joining us on this long adventure, this long journey. If you have questions we didn't answer here- I think we answered just about everything that we planned to answer? There's a couple of questions that were spec- there's like, a question about music that was for Jack, and I think that question will just go into the Tips bucket, and we will at some point answer it on a Tips question. So if you have any other questions like that feel free to send those into tipsatthetable@gmail.com, and thank you again for your incredible support- as a reminder for people, it's friendsatthetable.cash if you5 wanna change your- your subscription level or something like that, or if you wanna see what else we have to offer. So enjoy that, and enjoy the rest of your weekend. Thank you all so much for hanging out tonight, I'm gonna go get dinner and-
+ART: Plug the merch and the liveshow.
+AUSTIN: What's that mean.
+ART: What?
+AUSTIN: What- what's merch, what is merch.
+ART: [chuckles] On May… what is it, May…?
+JANINE: 14th?
+ART: -14th, were gonna have some stuff up on Fangamer, The Fangamer.
+AUSTIN: The Fangamer.
+ART: The Fangamer.
+AUSTIN: Look at us, great! Merch! 
+ART: [overlapping] It's gonna have, uh… shirts- a shirt, a pin and a map, an awesome looking map honestly.
+KEITH: I did check thefangamer.com, it doesn't take you to a website, so.
+AUSTIN: [overlapping] Oh my god…
+ART: Alright, so just fangamer.com
+KEITH: Just fangamer [laughs]
+AUSTIN: I have a question Art, can I get this dog? [laughs]
+ART: My dog? No.
+AUSTIN: Hm… if you say so.
+ART: If you wanna see pictures, it's on our Twitter. I know a lot of people listen to our show and don't follow our Twitter: God bless you, if you're not on Twitter. Um.. [laughs] what a wonderful life it sounds like you have. [DRE chuckles] [laughing] We’re also doing a liveshow? On May 19th at GenCon in Indianapolis-
+AUSTIN: Nope! That's not when we’re doing it!
+DRE: [overlapping] Wait, no, nope!
+ART: Oh, it's on August 3rd? [AUSTIN laughs] Event registration May 19th.
+KEITH: [overlapping] 3rd, yeah.
+AUSTIN: So that's when you go register to the event.
+ART: [overlapping] Don't show up- don't go anywhere on May 19th, except to Gencon.com to buy your tickets.
+AUSTIN: Uh-huh, I will
+KEITH: The Gencon?
+AUSTIN: The Gencon [laughs]
+ART: No, I don't think it's that either [KEITH laughs]
+AUSTIN: Okay. For people who wanna know what that game is, I will read the description I sent them- uhh, yeah it sounds like a thing. “Come watch a high stakes heist in an industrial fantasy world like no other. Friends at the Table leads you through a live Blades in the Dark game featuring new and returning players from their Marielda campaign. For new fans, get ready to learn about tea-witches, lovelorn gods, and a very unpredictable train. For those in the know: months before their climactic confrontation, Aubrey and Siege find themselves teamed up with a rival gang on a robbery like no other. their target is a national treasure: the very first words written to page” So…
+ART: And yeah, um- I don't know if this is gonna be a factor, but if you really wanna go to this show, you should probably get your ticket quickly. 
+AUSTIN: Yeah, probably. That makes sense. I will not look at my mentions [laughs]
+ART: [overlapping] It's hard to know. I mean, I know how many seats there are gonna be, you'll know before they go on sale- I don't know how many fans we have really. Um…
+KEITH: Docens.
+ART: And to answer the question in the chat, the merch should not be limited run, except in the sense that like, only so much of it exists in this moment, and.. You might have to wait, if you-
+AUSTIN: Yeah.
+ART: -if it all sells. But they plan to make it for a while.
+AUSTIN: We… would love to record the live show, we think we will be able but we can't be 100% certain! We have to really- There's a limited amount of information about what the setup is [laughs] and so I don't want to make any promises before we really know, y'know?
+ART: Yeah, the GenCon people are great, but also it seems like they're running their convention in 1987. 
+AUSTIN: Don't tell them that, because they'll put us in a smaller room [laughs]
+ART: I'm not sure they have a smaller room.
+JANINE: [overlapping] With a microphone from 1987.
+AUSTIN: [laughs] With one microphone from 1987, and it's not plugged in or anything, it just- it just- that's when it's from.
+KEITH: [overlapping, unintelligible]
+ART: [overlapping] Everyone be cool and don't narc this out to the Gencon people for me talking about-
+AUSTIN: [overlapping] Please, please don't be narcs, or cops, thank you. I think thats gonna do it-
+KEITH: And you can say that across the board.
+AUSTIN: In general. 
+DRE: Uh-huh!
+KEITH: In general
+AUSTIN: Alright, I'm gonna hang up this call- we should time.is actually, let's do a time.is.
+KEITH: Okay
+AUSTIN: Um… let's do-
+JANINE: 28? 
+AUSTIN: I missed it, damn [JANINE laughs] 38!
+KEITH: I'm not there yet- 38.
+[pause, then claps]
+JANINE: Thanks for not picking 36 to make fun of me, 'cause I think that was enough last time.
+KEITH: [overlapping] No no no, let's do it again.
+AUSTIN: [laughing] That was- that was a drum fill. [KEITH laughs] Let's do top of the minute.
+KEITH: 55.
+AUSTIN: No, we’re doing top of the minute, I want a lot of time-
+JANINE: You said 85?
+AUSTIN: Top of the minute!
+JANINE: I thought Keith said 85. [laughs]
+AUSTIN: Not 85! [laughs]
+[claps] 
+AUSTIN: Hm, better.
+KEITH: Jeez, ehh, yeah.
+AUSTIN: It was better, it was better. Thank you-
+KEITH: It was better 'cause it was closer, but worse that it didn't sound like a drum fill.
+JANINE: Everyone go watch Fletch? Is that what-
+AUSTIN: Everyone is-
+KEITH: [overlapping] Everyone go watch Fletch! I'm not saying you'll like it, but I am saying that it's very- it is the ultimate 80s comedy, and that it's a 90 minute weird sitcom.
+AUSTIN: Okay, yeah, I’ll- uh-huh.
+JANINE: Great.
+AUSTIN: Have a great one everybody, thank you so much for hanging out. Have a good weekend and a good night [laughs] Bye.
+KEITH: Bye.
+JANINE & DRE: Bye.
+AUSTIN: Bye!
+KEITH: Bye.

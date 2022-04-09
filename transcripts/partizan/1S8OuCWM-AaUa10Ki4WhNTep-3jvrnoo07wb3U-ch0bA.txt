@@ -1,0 +1,1599 @@
+PARTIZAN 39: Escape Velocity
+Transcriber: Justin (@Price_isWrong)
+
+(??? at 36:02)
+
+[00:00]
+
+[Music begins: TANAGER. PERFECT. TOUCHPAPER.]
+
+Austin (narrating:) Writing in a time of fracture, Aram Nideo yearned to return to an age when we moved between stars unburdened, flittering easily through the warm cosmic glow. To that end, he developed his Many Stars thesis: a plan for an empire so broad, so stable, so universal that total freedom of motion would return. The father of Asterism would not live to see his plan enacted, which means he would not live to see how wrong he was. While war and the Perennial Wave slowed travel between systems in the early days of the Principality, the creation of the Portcullis system utterly redefined its character. Nideo had written of utopian freedom, but his imperial design knew only the grammar of domination, which is why, though faster-than-light travel returned to the Principality after the creation of the Portcullis, it did so only as an extension of imperial power. These monolithic structures -- floating hexagonal stations of stone and circuitry hang at the edge of every Principality system, linked in an expansive networked chain. They track every ship that moves, all of the cargo that is, and refuse anything objectionable. To use it at all is to be a drop in the blood of the body of Empire. But oh, the power that it has -- if you know the right words, have the proper clearance -- if your oath is unquestionable -- if you internalize and perform the stately somatics properly, it will whisk you away. The Principality will bring you to wealth, to family, to your gods, to beauty, to freedom -- and all you have to do is bring it with you.
+
+[Music plays out and ends]
+
+Austin: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends; I am your host Austin Walker, and today we are continuing our game of Beam Saber by Austin Ramsay, a hack of Blades in the Dark by John Harper. I am joined by Janine Hawkins,
+
+Janine: Hey, I'm Janine Hawkins, I'm @bleatingheart on Twitter.
+
+Austin: Sylvia Clare,
+
+Sylvia: Hey, I'm Sylvi, you can find me on Twitter @sylvisurfer, and listen to my show Emojidrome wherever you get your podcasts.
+
+Austin: And Ali Acampora!
+
+Ali: Um, hi! You can find me @ali_west on Twitter.com, and um, if you're listening to this, uh, me and Austin are probably in kind of a weird cool thing this weekend, [Ali laughs]
+
+Austin: [chuckles; cross] Yeah, I don't think- I don't-
+
+Ali: [cross] So look at my Twitter account.
+
+Austin: When is this from, when does this go up? This goes up --
+
+Ali: This is gonna be on the 5th.
+
+Austin: Oh, by then I think we'll have announced it, right?
+
+Ali: Okay.
+
+Austin: Ummm, Bioware reached out to be like, "Yo, we- we internally, some of us internally made a Blades in the Dark hack called Omniblades in the Dark," [Ali chuckles] which was very charming to read. Um, ah, "would you be interested in running an Omniblades in the Dark game as part of N7 day," the big, like, Mass Effect yearly thing. Obviously Mass Effect is something Ali and I hold very dear to our hearts, um, [Ali chuckles again] we're- I'd say one of my favorite series from the last generation of- or not the- now the- two generations ago of games. Umm, ah, I have not revisited it since then, [Austin laughs] so this was a fun way to just like, look at that world and run something, umm, and it was fun, it was like, cool- [cross]
+
+Ali: [cross] Yeah. 
+
+Austin: -to do a Blades one-shot, basically. 
+
+Ali: Austin did such a good job.
+
+Austin: Aww, [Ali breaks into laughter] Ali!
+
+Ali: [still laughing] Such a good job, everybody had like, a really good time, [laughter settles] he was such a good GM, everyone seemed really comfortable. So you should watch it, [Austin awws again, as well as Sylvia] 'cause Austin fucking nailed it.
+
+Austin: It was fun, it was fun to be like, alright, I couldn't have done it without Partizan, because, if you think about Marielda, I don't think I could have run a score in a single recording session for my life, and then Partizan let me get to where I could run a Blades, like a Forged in the Dark game, a complete session in one, y'know, four hours of recording time including breaks, and we managed to do it with like [Austin laughs] ten minutes left? We got a really- there was a good conclusion-
+
+Ali: It was incredible. [Ali laughs]
+
+Austin: - without- without spoiling how I wrapped up, I was like, "Whew, really snuck in under the wire here!" Uhh, it was good, it was fun, so people should check that out. I don't know if it's a thing I'll like, make a habit of, doing sponsored whatever, uh it's not an official Friends at the Table thing, it's just a thing that was like me, and then I was like, "Ali should also be in this; Ali loves Mass Effect, also," and they were like, "Yeah, sure, totally," um so it was fun uh, so that'll be November 7th I think at 2PM Pacific, so people should watch that. While we're plugging things, I believe that it's still possible to order some merch by going to tinyurl.com/fattmerch, which will show you our Fangamer page; you could also just go to Fangamer and search for Friends at the Table. Um, we have three incredible pieces that I've talked about a bunch before, we have a Partizan hoodie that is incredible and has like a sick Millenium Break-
+
+Janine: Custom zipper-pull!
+
+Austin: It does have a custom zipper-pull- [Ali laughs]
+
+Janine: It's sooo good! [cross] I love details.
+
+Austin: [cross] see, Janine- Janine has the important stuff. Yeah, uh-huh, the custom zipper-pull that is like, a spear-head, a partizan-head, is really really good. Uh, that's by- by Annie Johnston-Glick. We have a boat party shirt that's kind of like, a neon-retro thing that's by Tony Kuchar and also comes with a Samo- a Samothes, like uh, sticker that's designed to look like a Supreme sticker, it's very funny -- to me, thank you. Thank you Ali for insisting we figure out how to make that happen.
+
+[Sylvia, Ali both laugh]
+
+Austin: Uh, and we have an Aria Joie tour concert T-shirt by Aya Francisco that also comes with a very cute Aria Joie bonus sticker. Um, all the merch rules, so. That should be shipping towards the end of November? Um, which means plenty of time for holidays and stuff, hopefully, to- to get there, so. So yeah! Umm, today our goals are to make sure everyone at the table is safe, to fill the world with detail, ahh, to convey the world honestly and to play to find out what happens, which, we are getting increasingly- as we get increasingly close to the end of the season I feel like playing to find out what happens takes on all sorts of new meanings, um, because who knows, who knows how close we are to the end? Uh, I guess we'll fuckin' see. Um, I guess this is where I go like, "It has been six months since the red light fell on Oxbridge," or whatever. Um, we know it's been at least five months because of that- that- the last episode ended with Broun talking to S.I., Broun getting a list of locations from S.I. where they could theoretically fuck off to, [Austin chuckles] or establish new Millenium Break bases on or whatever, we'll see. Um, uh, and then we know that, y'know, Broun, you spent the rest of that time over the last few months of play- or not months of play, but months of time-skip, um, you know, getting ready for this journey, learning how your ship works, um, getting resources, recruiting people. Um, do you know like, where you are? Are you just like on some Isle of Logos island, like where are you organizing stuff at at this point?
+
+Ali: Um yeah, I think the uh- I think the Isle of Logos island makes the most sense; the last time we saw these characters I guess they were at the Sable Court-
+
+Austin: [cross with Ali; confirmatory] Yeah, yeah.
+
+Ali: -so I was thinking that they would also be sort of doing stuff there, um. But yeah, I think an island with like- like a little dock-
+
+Austin: [positive, contemplative] Yeahh.
+
+Ali: -and like kind of away from the Millennium Break like, official base over there but like kind of another building where people can go to to sort of focus on this specific task.
+
+Austin: This specific task, yeah-yeah-yeah, which does have official sign-off, obviously. This is not like a secret task or anything, in terms of- I mean I think it's secret in terms of The Principality, but it's not secret among high-ranking Millennium Break people or whatever. Um, you're getting a crew together, you're getting ready to leave, and- and- you know, I think we can come in as close to that or as far away from that as you want to, I guess. Um, are there any questions about kind of the intervening months? Are there any- is there anything like, any loose ends before we talk about what comes next? From anybody, not just from Broun.
+
+[Pause]
+
+Austin: Um... Okay! Then I think the place for me to come in, I think is um, in a hangar somewhere, where the- can you describe the Blue Channel? Have you given thought to what it looks like, your ship?
+
+Ali: [sucks teeth (tsk)] A little bit, yeah, I um [chuckles], it's tough because I've been trying to think of like, Partizan aesthetics?
+
+Austin: Yeah.
+
+Ali: Um, which are kind of gritty and like a lot of plating, and a lot of separate pieces -- Um, I think of it kind of being like... like almost almond-shaped?
+
+Austin: [intrigued] Ooh, okay.
+
+Ali: And when I think about the inside of it- I've been trying to think of it I guess like [chuckles] Thisbe has to be able to like, get around and-
+
+Austin: [amused] Mhmm!
+
+Ali: -and uh, fit through things, um, and I think that like, a lot of the spaces are... like, taller than they are wide? Um,
+
+Austin: Okay.
+
+Ali: In like, sort of the edges of the space, um, but I think it's one of those spaceships that has like, like a big middle-section which is like, here's the hangout area, um, and then there's like, hallways that branch off from that that are like, you go over here and here's some rooms that you can sleep in or here's the engine room or whatever-
+
+Austin: Right, right.
+
+Ali: Um... I... [sighs] This reference is like, too clean, but I was thinking of those moments in NieR: Automatica? Like when you're walking on the spaceship there it's like a full sort of circle? [Laughs]
+
+Austin: Ohh, yeahyeahyeahyeahyeah, you like, go around it, yeah.
+
+Ali: Yeahyeahyeah, but like, not as brightly lit, not as clean, not as smooth- um, I think it's really one of those where like... You know, if you're getting to- if you really wanna go to like, the thrusters' channel or whatever, [Austin mhmms] wherever they are in the ship, it's one of those where like, you can look at the ceiling and like, follow the pipe to where that would go, you know? [Laughs]
+
+Austin: Right, right. Totally.
+
+Ali: Um. I guess it's a spaceship so it has those, like, "here's your handle for going down these hallways when you're in zero-G, um-
+
+Austin: Yeah that's the thing is like, I don't think- I don't think that it has artificial gravity, probably. Right?
+
+Ali: No, no no.
+
+Austin: Um, I suspect maybe very large ships have something like that or magnetic boots or something, but-
+
+Ali: Yeah, I feel like it might have like a very localized one in the... where like, the eating-
+
+Austin: [cross with Ali] Yeah, sure.
+
+Ali: -place would be? Um, where it's like, this is the room that you go into to kind of just sit down and it'll be normal,
+
+Austin: Right.
+
+Ali: But like, getting from place to place or if you're like, doing repairs in the engine room, like, who's paying for gravity in there? Who gives a shit?
+
+[Ali and Austin laugh]
+
+Ali: Um, so. Yeah.
+
+Austin: Um, yeah, well I think it is more than just who's paying for it; I think it is just like- I mean, it is who's paying for it 'cause it's very expensive but it's also just very- to get that you'd need a better, bigger ship that has- there is not a magic switch that you can flip to activate it. You have to build something to produce that effect, and that's tough, right?
+
+Ali: Yeah, I just don't see that as a priority to whoever-
+
+Austin: [Laughs] Yes,
+
+Ali: -Engineered it or whatever.
+
+Austin: This- this little, like, cargo ship or whatever it is. That- okay, so here's the other thing is: we know it has to be big enough to have- I guess we're- I'm guessing it- is it big enough to have three mechs on board?
+
+Ali: [cross] Oh my god I guess it must be...
+
+Austin: [cross] Does it have a cargo section?
+
+Ali: Umm-
+
+Austin: Or are those attached in big cargo containers or something?
+
+Ali: Um yeah, it's tough, I...
+
+Austin: Is it like- the base- if it's an almond shape could it also be- could it be deeper, could it be like a teardrop where the bottom of it is also bigger and it's like a big cargo hold where the mechs are?
+
+Ali: Oh rightrightright, where the top of it is like a teardrop shape that's like, kind of flat, [cross] and then the bottom of it kind of-
+
+Austin: [cross] Right, and then there's like a belly, almost. [laughs]
+
+Ali: Yeah, yeahyeahyeahyeah. Yeah, I like that, because I like the- the idea of- sort of it being something that like hangs down as a sort of big garage, and then like in front of that is where the like, little dock and the-
+
+Austin: Riiight.
+
+Ali: "Here's your little ramp when you're getting onto it later," or whatever.
+
+Austin: So it's in the front- the ramp is on the front of it, not on the back of it. It's like you go- yeah I like that! Okay, I see.
+
+[Janine makes a noise to start a sentence, lets Austin continue]
+
+Austin: I'm imagining this space in my head.
+
+Janine: I was just gonna mention the way that like, space shuttles have hu- like, super super huge, um, storage areas in the middle with the doors that swing open?
+
+Austin: Yeah.
+
+Ali: Mhmm.
+
+Janine: And the actual living- the actual, like... people space is vastly smaller than it looks because most of it is like-
+
+Austin: It's just cargo.
+
+Janine: "Okay, well we have room here for like, a big tank [Austin chuckles] “and we have room here for like a weird arm.”
+
+Austin: Yeah, yeah. Totally.
+
+Janine: Um-
+
+Austin: [cross] Like, "oh do you mean the Canadarm?"
+
+Janine: [cross] But it- but it is still like- [amused] the Canadarm, yes.
+
+[Slyvia gives a few deep laughs]
+
+Janine: Um... I was in grade two when they named that and I was not impressed. Uh, [someone stifles laughter and sort of snorts] you know, but when that closes up it- it like looks really- it looks deceptively sleek and, you know, like a space shuttle looks like a big weird plane, but then you realize like, oh, the scale of the storage area's very... Uh, startling?
+
+Austin: Mhmm. Yeah, yeah, I definitely think- I think that's definitely the vibe in terms of space, because you just need- and I'm sure that space was not designed for mechs in this ship. This is definitely some sort of- you know, cargo corvette or something [Ali chuckles] turned into... Right?
+
+Ali: Um yeah I think so, I think it's- it's- it's... Oh my god, it's totally that because I feel like it's one of those things where it's like, oh here's a warehouse, right?
+
+Austin: Yeah.
+
+Ali: And then you like- can just drill the like, weird mech storage things into the walls? [Laughs]
+
+Austin: Right, yes, that's exactly it. Yeahyeahyeah. "Yeah let's clamp these on; they'll stay in place. That's fine."
+
+Ali: Right. Yeahyeahyeah.
+
+[15:00]
+
+Austin: Totally. Okay, cool. Well, that's there in the background. Um, and I think the- the group here in this room, in this hangar- and I think other people are doing other stuff in this hangar also, um, but in my mind the people here now are the three of you, Jesset City, um, I think Si'dra is here, Si'dra who helped y'all design the um, communications network stuff, Si'dra from Strand Semaphore, um, and then I think maybe... and tell me if- if you've told them no, but Avar and Ryrira and um- they probably have a babysitter right this moment but M'reb, their baby, their child- um, are also gonna come with you on this trip. I think the pitch they made you, Broun, was- I think they said like, "Gur would want us to do this," um, in a way that was a little weird, because like, how the fuck would they know what Gur would want? Uh, but they seem really confident about that. But they want to go, kind of... help make sure that the religious element of Millennium Break, the Church of the Resin Heart stuff and even like a little bit of the Perennial stuff, um, and- and the True Divine stuff, like has a home? I think partly they were a little worried that if the big reps of Millennium Break that telep- I almost said teleport- um, [Chuckles] that- it would be so easy if you could just teleport where you're going! Uh, that bring Millennium Break out into the -- y'know -- the universe are Jesset City and Kal'mera Broun, [Ali laughs] then you're going to get a very particular, probably cynical version of Millennium Break, a little bit, that does not have that- that is not grounded in what the real Millennium Break, or the start of Millennium Break- the ambitions and the kind of aspirational Millennium Break was grounded in. Um, so I think they're there with you also, if that makes sense.
+
+Ali: Yeah, by all means; I feel like that's an offer that Broun would feel unable to like, decline, you know?
+
+Austin: Mmm, sure.
+
+Ali: I think it's a lot of like, [friendly but hesitant] "Well this is gonna be dangerous..."
+
+Austin: Yeah,
+
+Ali: "Well I'm only gonna have one room for the three of you..."
+
+Austin: Yeah. "Well, you're sure about bringing a baby into space..." Right?
+
+Ali: Yeah, [laughs hard]
+
+Austin: And their response is like, "Well we're not gonna- we're not gonna leave our child here, so..." Which, that's a choice. That's a... You know.
+
+Ali: Yeah... Um, yeah, I think it'd be in that they- Broun thinks that there's like, a value in having, um-
+
+Austin: I said baby, but M'reb was a child, not a baby, right?
+
+Ali: Toddler is really enough on the line that you might as well say baby-
+
+Austin: Was it a toddler?
+
+Ali: I think so...
+
+Austin: [to himself] Were they a toddler? I should- I should have better notes.
+
+Janine: I believe they, like moved and talked, right?
+
+Austin: They did talk, right?
+
+Janine: Toddlers do talk. Um-
+
+Austin: [critical, laughingly] Hmm, are we sure? [conceding] They do.
+
+Ali: I was thinking like, four or five at the most, and that's basically a baby.
+
+Austin: I'm gonna check to make sure...
+
+Janine: I feel like there's- there's overlap between baby and toddler... but for me the cutoff with baby is when you stop saying their age in months?
+
+Austin/Ali together: Sure...
+
+Janine: And switch to years, you know?
+
+[Pause]
+
+Janine: Which I think is probably like two. [Ali chuckles] You don't say like, "they're twenty-four months-" well some people probably do, but yeah...
+
+Ali: Right...
+
+Austin: Some people probably do. I think that's the edge though, nobody says- do people say "thirty months?"
+
+[Janine and Ali mumble in agreement]
+
+Janine: I'm sure someone does, but ehh...
+
+Austin: [confident] A little toddler who is like, wandering around and playing. So.
+
+Ali: Yeah.
+
+Austin: So maybe a little older than a toddler now 'cause it has been a long time; I should note, um... it is the year 1424 of the Perfect Millennium now. We've gone through the year. Um, which is wild. Uh, but that happened, so. So yeah, now- now older. Good to know.
+
+[Ali chuckles hard]
+
+Austin: Anyway, that's it. Anyway that's- so yeah, you wouldn't have said no.
+
+Ali: [pauses] Yeah.
+
+Austin: Okay. So then yeah, they're there also. Um, I think Jesset kind of looks to you for clearance to begin talking and to set up what this mission is, so to speak, um, because it's your mission but I don't know that he knows that you wanna like, give the big talk.
+
+Ali: [laughs] Jesset can take this.
+
+Austin: Alright, um so I think- he gets up. He has like a kind of grey-ish- I think it was probably- it used to be blue but now it's been like sun-damaged so much that the color has left it a little bit; he has kind of a grey-ish flight suit on, like zip-up, like y'know, overalls, right? Not like uh, fancy anything, kind of made out of canvas or something. Um, and his hair is a little longer than it used to be and- and very curly and- lots of volume there. Um, he should have shaved; he does not look good with the peach fuzz that's growing on his face. Um, he's a mess. But that doesn't mean he can't deliver this mission briefing, he tells himself quietly as he stands up in front of everyone! Um, we're just kind of in like, folded chairs and then- I guess, Thisbe, you're probably standing because you- I feel like a little folded plastic chair is not your vibe?
+
+[Sylvia laughs]
+
+Janine: Uhh, depends on if we still need the chair. No. I'm gonna say no.
+
+Austin: [laughs] Okay. Um, so Jesset says um,
+
+(As Jesset): [tired] Thank you all for coming today. I know we're still a few days out, but I wanted to get ahead of everything and make sure we're all on the same page so that our final preparations could be as clear as possible. Um, after Motion's attack on Auspice, after Law's takeover of Oxbridge it has become increasingly clear that if Millennium Break is to have a future we are going to need to exist beyond this [laugh-sighs] terrible moon. Uh, Kal'mera Broun has graciously offered to transport a few of us -- those of us who want to pursue that mission -- to a location where we can do that. I believe that they are also transporting uh, Thisbe and Millie. I don't- I should be clear: I don't expect anything at this point. This has been a- a hard year. And, um, I don't want you to think that I am drafting you into another war. Um, we have access to some travel credentials given to us by Exeter Leap that will help us. They will let us escape the Partizan sector, find a new place to set up Millennium Break, hopefully unharassed by any opposition, and hopefully that is the first of many to come.
+
+(As Jesset [continued]:) This task has four major phases. Um, first, we need to leave Partizan. We need to launch offworld using some sort of launch solution. Right now, the Blue Channel cannot simply reach escape velocity on its own; like most ships, it requires interfacing with something else to give it that lift. The credentials that Leap provided for us do open up one possibility: the use of the Barranca Loop, which is -- as you know -- in Apostolosian) territory. In fact, it is still operated by Apostolos. In fact, we also know that it was once operated by Motion, which I raise because I don't think any of us are friends of hers. We would go there under the identity of a Stel Orion registered cargo vessel transporting replacement mechs to the front. Um, it would be dangerous; I'm not saying it wouldn't be. But, if went that way it would seem to me that, um, we would not be under any threat once we've launched because we would have gone through the proper procedures. Alternatively, if one of us could identify an alternative launch platform -- whether that's some sort of gravity drop device or... uh, [laughingly] a huge pair of rocket boosters -- I don't know -- that would let us break orbit, we could do it without, uh, angering or coming into contact with Apostolos. Um, but if we did that then we would potentially run into an issue as we would be an unidentified object lifting off from Partizan picked up by whichever Stel's military happens to be in our airspace. We would be rolling the dice.
+
+(As Jesset [continued]:) Um, however we get to space, stage two is -- I wouldn't say the easy part, but let's say the easiest part. We would adjust our heading, we would burn some fuel, and I believe we would simply kick back for a week as we drift towards the portcullis. Then, we get to the portcullis. Again, we believe we have credentials that will see us through. The identity of the cargo vessel is safe, Leap received these- er, generated these credentials according to a code that he received from top-level Nidean Intelligence that no one else has access to; it should be fine. What we don't know is whether or not the portcullis is currently being operated by Orion loyalists or Orian secessionists, and that could cause some... uh -- surprising results -- so we should be on our toes. I think regardless of who's operating it we can get through; we might just need to say the right words. And then we jump through the gate, and then it's on to somewhere. Um, Broun, I know you've said that you have some coordinates for various places. I trust you have that covered. Um. And then we're good to go, we get to where we want to get to, we drop off any passengers who want to leave, we- we find a location to deploy the Modular Base Kit and... I... didn't mention the Modular Base Kit. So! They're not here now, but we have a few big containers that will attach to the back of the ship, and those will have everything we need to get a base up and running: housing, water, air filters, a generator, communications and some agriculture -- um -- some basic trade goods in case we need to buy a plot of land somewhere or bribe some people. Basic stuff. Uh, and we're going to need to get through this with as much of that as possible if we're going to have a chance of making this work.
+
+(As Jesset [continued]:) So, high-level: we gotta get outta here, figure out a way off this moon, get past any security -- whether through the credentials we have or through other means, get to the portcullis, activate- uh I guess not activate, that's the wrong word, um -- pass through it, and safely extract with the tools we need to build a base somewhere. [dryly] Light work. Are there questions?
+
+[Pause]
+
+Ali (as Broun:) ... You did a great job, Jesset.
+
+Austin (as Jesset:) [quietly to self] Phew, yes.
+
+[Ali laughs]
+
+Austin: Um, Avar is like, um,
+
+(as Avar:) What happens if we get attacked... up there?
+
+Austin: -and like points up into the sky.
+
+(as Avar:) Does this thing have weapons? [pauses] Or are we just gonna cross our fingers and hope?
+
+Ali (as Broun:) I mean, there's um, some basic defenses on this ship. Uhh, if we get attacked it's gonna be more of a retreat sort of situation, but we can certainly watch our backs. Um. I've been taking a look at the mechs that we have on board, and uh... [hesitant] They don't really work in space, unfortunately. Um, I've been doing some research on adapting them, but obviously that's gonna take a little bit, and we might be able to run into a sort of a -- "open the hangar and shoot out of it" situation?
+
+[Austin laughs]
+
+Ali (as Broun:) Very dicey. Uh, but y'know, it's gonna be fine!
+
+Austin: Ryrira, who is -- as a reminder, used to be uh- Ryrira was the quartermaster from the Church of the Resin Heart, and Avar was the head of security. Um, but Avar, maybe because they were the head of security, looks skeptically at this. Ryrira is like,
+
+(as Ryrira:) [excited] Yeah! We could open up the hangar and shoot out of it. That sounds -- okay yeah, that's basically defenses!
+
+Ali (as Broun:) Yeah!
+
+Austin: Um, okay.
+
+(as Jesset:) Any other questions? [pause] Alright, well, make the best of your final days on Partizan. I know I will.
+
+[Pause]
+
+Austin: And um. Jesset heads off.
+
+Ali: Alright.
+
+Austin: So yeah, the two big objectives are to leave and to protect the Millennium Break base kit- or the Modular Base Kit, it's called the MBK, it's the Modular Base Kit, but I keep saying "Millennium Break Kit." [Austin and Ali laugh] My head!
+
+Janine: Millenium Breakout Kit.
+
+Austin: There we go, [Ali mmmms appreciatively] The Millennium Breakout Kit. I love that, that's great! Ship it. [pause] So what do y'all wanna do? How do you wanna tackle this thing? And is there anything you wanna do on Partizan before leaving?
+
+Austin: [cross] Little questions, small ones?
+
+Sylvia: [cross] I got a question about our plan.
+
+Austin: [amused] Sure!
+
+Sylvia: If you wanna talk a little bit about how we wanna do this mission, 'cause I kinda got the impression that there are two options here are either sneaking to an established airbase or like, finding our own launchpad?
+
+Austin: Yeah.
+
+Sylvia: And I was just wondering which way we were leaning? I can kind of do some talking stuff? I'm good at intimidating people, [Ali mmms contemplatively] but stealth is not like, my thing. So like, I'm down to go undercover, I just wouldn't be- I would be there in case things went bad. Y'know?
+
+Austin: [laughingly] Uh-huh.
+
+Ali: Yeah, we're not really undercover... people?
+
+[30:00]
+
+Ali: I mean, Thisbe's Thisbe and is hard to hide, and I'm also not good at it.
+
+Sylvia: Okay.
+
+[Ali breaks into laughter]
+
+Sylvia: So I guess we're finding our own launchpad. Or our own way in.
+
+Austin: I guess you could also, you could theoretically fight your way onto the Barranca loop. The loop, I guess I should say, is a real theoretical thing, um, if you look up like, I guess it’s called a launch loop or a Lofstrom loop, um, it is a proposed system for launching objects into orbit using a moving cable-like system situated inside of a sheath attached to Earth at two ends and suspended above the atmosphere in the middle -- it’s like this huge ramp almost, in which you get on it and then through a maglev system on a track you get like, launched up into space, gaining the velocity you need to then release and then kind of escape Earth’s orbit. Uh, and that runs above all of the canyons of Apostolosian space and is like, the de facto way of getting off planet here. We know there are other options because in one of the first episodes Crysanth is noted as having taken just like, basically attached her ship to a huge ship that’s launching and like, used that to get off planet, which is the other way you could do it as an independent ship is like, “hey, someone has a huge lift-off center” or whatever. [Laughingly] It’s not called a lift-off center, that makes it sound like it’s a gym, um, [Sylvia, Ali laugh] but you know, it has some sort of launch center and is launching like, a huge amount of stuff at once and you can just kind of just like, buy a ride on one those? Of course, those used to happen more because things were relatively peaceful in a way that they aren’t now. Um, and also because Kesh has lots of money, and if you were Crysanth Kesh you could buy your way onto something like that. Um, but with some legwork you could probably find something else doing something similar that is not in Apostolosian territory, but it’s up to y’all to say what sounds most interesting or safe or whatever, y’know?
+
+Sylvia: Yeah, so I’m kind of thinking about what option here keeps us like- gives us the most time before we’re spotted in space-
+
+Austin: Right.
+
+Sylvia: -because that’s clearly a weak point for us.
+
+[Ali mhmms and chuckles]
+
+Sylvia: So if we could, like- if we could find an alternative way that goes under the radar -- we could try that -- we could try to hitch a ride on another ship; steal Crysanth’s idea. [laughingly] Just like, latch on while it’s blasting off and then let go! But I don’t know, I’m sort of just spitballing here while we try and figure out the specifics
+
+Ali: I feel like we have… I guess we could have access to it by rolling for it, but being able to find like, other flight plans to see like, “oh, who are we gonna…”
+
+Austin: You could roll for it, that’s exactly right! [Laughs] 
+
+Ali: Yeahhh-
+
+Austin: You could give me a Gather Information roll.
+
+Ali: Okay.
+
+Austin: Um. Which, as y’all know, does not have any consequences besides not getting the results that you might want. Uh, [stutters], I was just gonna say, I don’t know if anybody’s helping on this but I do- somehow I remember- Thisbe, are you good at gathering information? Is this a thing Thisbe would be put on? Am I misremembering that?
+
+Janine: Um, the thing Thisbe’s okay at is Interface, specifically, so-
+
+Ali: Uh yeah, I have a one in-
+
+Janine: Er, sorry, I’m not even really good at Interface, I just can Interface. Or Survey, like I’m not good at asking people questions.
+
+Austin: Right, right right right. The thing that you- that you have is that when you Gather Information you can ask more questions, but that’s not-
+
+Janine: Ohhh, right right right, sorry yeah.
+
+Austin: -but you gotta get the success to do it, is the thing, right?
+
+Ali: Um, I have a one in Study, which is what feels like this is? Unless it’s… Unless Survey would be going to the airport, right? [Laughs] Like,
+
+Austin: Yeah, but it’s such a bigger thing than that, right? ‘Cause it’s not- only because it’s so rare- if this was just like, “yeah I’m gonna go to LaGuardia, the airport that’s twenty minutes from me and watch the flights to figure out what the schedule is,” that would totally work, but this is more like actual spaceship stuff, which does not happen as regularly, you know what I mean?
+
+Ali: Right, yeah. And it’s also just like looking at flight patterns and reading like, ship, uh, codes and not actual… You know what I mean?
+
+Austin: Right, yes. Yeah totally.
+
+Ali: Like flight numbers- like “oh this is John, he’s leaving tomorrow.” [Laughs]
+
+Austin: Mhmm.
+
+Ali: Uh yeah, I’m good to roll this with my one in Study, um, I’ll take the assistance if anybody would like to help…
+
+Janine: I could help.
+
+Austin: Yeah okay. Give me, then- oh, so take one Stress, Thisbe. Also actually, before we roll any dice, can we talk about where Stress is, where Scars are, and what Beliefs and stuff are, so we can just get ourselves locked on that?
+
+[Long pause]
+
+Janine: … Yes.
+
+[Ali and Janine chuckle]
+
+Janine: Do you want me to start?
+
+Austin: Yeah, sure.
+
+Janine: Uh, I had one Stress and now I have 2… Or 3, 4? How much stress do I take for helping Broun, all of the Stress?
+
+Austin: One. Oh wait, no, how much -- oh right, wait- wait-
+
+[Ali gasp-laughs]
+
+Janine: [cross] Do I take three?
+
+Austin: [cross; impressed] Three. You take three Stress, yeah. [Janine makes a disappointed noise; Austin sounds amused] But you would give Broun a huge benefit for it, yeah see? Uh-huh. Maybe not. Maybe this is a Millie help instead.
+
+[Ali, Austin, and Janine all cross]
+
+Ali: Yeah, maybe this is [enough, possibly...] [???]
+
+Janine: I don’t know if this- I don’t know if this is the one-
+
+Sylvia: Yeahhh, I can help.
+
+[Austin laughs]
+
+Janine: -for me to help on, you know?
+
+Ali, Austin: Uh-huh.
+
+Janine: Especially this early in the game…
+
+Austin: A hundred percent.
+
+Janine: Three Stress, like, yes it has a better effect, but that effect might be helpful later instead. Um, my relevant beliefs for Broun are: “Operant Broun will sell or trade me the moment my usefulness is expended, “Operant Broun will protect me,” and “Operant Broun lies to me because they believe I am a person.”
+
+[Ali laughs]
+
+Janine: That’s a new one, I think, isn’t it?
+
+Austin: That’s- that’s a new one. That’s a new one.
+
+Janine: Um. That’s a complicated one! That’s one to chew on.
+
+Austin: Are you not a person? You’re a person. [conciliatory] You’re not a human.
+
+Janine: Thisbe doesn’t see herself as a person.
+
+Austin: [cross] Hmm.
+
+Ali: [cross; sad] Aw, Broun does!
+
+Janine: I think it’s a- y’know, it’s one of those very complicated questions where Thisbe does not see herself as a person, but to us on screen, even though I’ve described her as being slightly more complicated than a tractor, like, she’s still a person, but it’s- y’know. It’s weird. Um, aaand I have one for Millie which maybe needs to be workshopped but right now it’s uh, “Operant Blue will not ask for help when she most needs it.”
+
+[Austin mmms, someone oofs. Ali giggles]
+
+Austin: Ouch. Ouch. Stings. [laughs] Um, alright.
+
+Janine: I mean, that should be a positive one,
+
+Austin: Yeah, yeah! Absolutely.
+
+Janine: ‘Cause, to me the implication there is like, I should try and anticipate when Operant Blue is going to need my help-
+
+Austin: Right. That makes sense.
+
+Janine: -and not wait for Operant Blue to say, “Hey Thisbe, help.”
+
+Austin: Mhmm.
+
+Janine: As Thisbe probably would for most other people.
+
+Austin: That makes sense to me. [Pause] Broun, do you wanna tell me your Stress and Scar situation? And then also your Beliefs.
+
+Ali: Yeah, so I’m at five of eight Stress at the moment. Or is that eight or nine?
+
+Austin: Nine. Nine this time.
+
+Ali: Nine. Okay, I have a nine, not too bad.
+
+Austin: Ehh,
+
+[Ali laughs]
+
+Austin: That ain’t great.
+
+Ali: [drops faux optimism, sounds a little concerned] It isn’t great. [Normal tone again] Um, I don’t have any scars at the moment… Umm, I, [hums in thought while she looks over her sheet] my mech is still scraped- is my mech still scraped?
+
+Austin: Yeah, a hundred percent.
+
+Ali: Okay.
+
+Austin: I feel like- I mean it’s the same reason that you still have stress, this has not been a str- like, you don’t have a base anymore. Right?
+
+Ali: Yeah.
+
+Austin: You don’t have your base anymore, um, and you’ve definitely not been like, cutting loose with anybody lately.
+
+Ali: [agreeing] Oh no, nooo no no.
+
+Austin: Unfortunately.
+
+Ali: Um, my connections are… [begins humming again] Um, I have two with Thisbe and two with Millie. Thisbe is: “Thisbe is capable of more and if I get her to trust me I can use that,” and “Thisbe wants offworld too, and I want to know what she’d spend to do it.”
+
+Austin: Hmm.
+
+[Ali laughs]
+
+Ali: Umm, I just wrote my second Millie one and I think that I’m probably just gonna replace it ‘cause they’re both kind of the same right now.
+
+Austin: Okay.
+
+Ali: [laughs again] The first one was post-Kingdom, which is: “Millie is chill and dependable. I hope she thinks the same about me,” [Austin and Sylvia laugh, making Ali laugh] and the second one is: “Millie has helped me at my most vulnerable. I’ll help her with whatever she needs.” Um, these still feel like, Dungeon World-y, which is why I need to rewrite them?
+
+Austin: They do, yeah. Yeah.
+
+Ali: It is what it is. Tabletop games.
+
+Austin: Mhmm. Tabletop games. [Ali chuckles] Alright. Millie?
+
+Sylvia: Okay-
+
+Austin: What is your Stress, Scars, damage and stuff, and then connections?
+
+Sylvia: I have three Stress,
+
+Austin: Okay.
+
+Syliva: My mech has two level one damages: singed and pierced.
+
+Austin: Great.
+
+Sylvia: Uh, no scars. Doing great in that respect, and my connections -- so I need a second one for Broun still, I’m still trying to- I had the same problem, where I kept coming up with the same- stuff that sounded like the same thing?
+
+[Ali laughs]
+
+Sylvia: Um, so the first one is, “Broun’s intentions sometimes worry me, but they’re useful to have around,” um, and then my one that I have for Thisbe is, “Thisbe is hard to read and I don’t think I’m the type who’s going to learn how.”
+
+[Ali and Austin both make sad noises. Janine chuckles]
+
+Austin: Okay! Great, well let’s do this Gather Information roll, 2d6, Broun.
+
+Ali: Yeah. Oh wait, is it 1d6 ‘cause- is… [cross] Thisbe still helping?
+
+Sylvia: [cross] I’m helping.
+
+Ali: [cross with Austin] Oh, Millie is, okay.
+
+Austin: [cross with Ali] You’re starting with Study, right?
+
+Austin: Oh, yeah yeah, Millie’s helping, 2d6.
+
+Sylvia: I guess I- if I’m helping I go up to five Stress now.
+
+Austin: Uh, four, four four. It’s only one Stress-
+
+Sylvia: Only one? Okay.
+
+Austin: -You only have one belief with Broun.
+
+Sylvia: I technically should have two, though. [cross] ‘Cause we…
+
+Austin: [cross] Wait why sh-
+
+Sylvia: We- we cut loose at the funeral and I just- I haven’t-
+
+Austin: Ohhh, yes you did cut loose. Whoo, that’s so many. Ugh-
+
+Sylvia: I know.
+
+Austin: That’s so maaany. 
+
+Sylvia: Yeah.
+
+Ali: Damn. Well. [Pause] Um, one thing that I want to suggest instead of spending the Stress for this is that one of the items I have is intel?
+
+Austin: Oh. We can just spend that.
+
+Ali: Um, “Information provided to the squad that you can access. Spend one personnel point to gain +1d on a Gather Information roll.” Um, It says “while on the mission,” but this is pre-mission, can I…
+
+Austin: I’ll- yeah. Uh, so yeah I guess I’ll- Y’all still have so many supply points, so why not.
+
+Ali: Yeah. Uh, okay, rolling 2d6.
+
+Austin: 2d6. Plus one for your intel.
+
+Ali: [makes a frustrated noise] So that’s a two.
+
+Austin: That’s a two.
+
+Ali: That’s a two!
+
+Austin: That’s a two and a one. So with- with a Gather Information roll, when you roll a 1-3 you get “limited information,” which is to say “not- not very much good information.” Uh, what’s the exact question you were trying to get here?
+
+Ali: I think I was looking over-
+
+Austin: Was it just “an opportunity?”
+
+Ali: Yeah, yeah yeah.
+
+Austin: Alright, so I think the- the thing- the hit that you find here is that there is a group of um, down- not in Oxbridge but in the Orion territory, um, all the way to the south -- you see this thing on the map called the Old Old? Which is like, it’s like where the moon becomes craterous and, you know, moon-like again? Um, you find out through a contact or through a form or something, you- you find out that the secessionist movement, the organization for the foundation of the Orion Republic, the group that wants Orion to just become sort of like a league of merchant republics -- that they are doing one of these big ship launches in like, a couple of weeks or a couple of- you know, whatever the appropriate amount of time is- I guess you’re kind of close to there, being at the Isle of Logos, so that’s not too far off. So I’d say like a week from now. And that that would be the next thing, and that they are launching with like, a bunch of military shit to protect their stuff from the Orion loyalists and the rest of the [laughs] the rest of the Stels that want to stop the secessionists from leaving? Um, which I guess is mostly the Curtain at this point, so it’s like- it’s Orion loyalists, plus Stels Kesh and Nideo. They’re ready to basically fight their way out into space. That is, unfortunately with a two, the best alternative to the Barranca loop that you find. It’s loud, but it’s- there’s a degree to which that loudness could be cover, you know? Um, you’d basically be launching into a big fight, but it’s not technically a big fight where you’re the main target.
+
+[Pause]
+
+Ali: Hmmm…
+
+Austin: What I have not given you is like, who is operating it, or like, what you would need to do to get on board, or whatever. You know?
+
+Ali: Well.
+
+Austin: [spoken like a shrug] These are your options.
+
+[Ali laughs hard] 
+
+Austin: Getting off planet was always gonna be tough!
+
+Ali: Yeah yeah yeah, uh-huh. Uh-huh. Um, god. Just Broun being like,
+
+	(As Broun:) I did my research!
+
+[Austin and Ali both laugh]
+
+	Ali (as Broun:) Here’s our answer!
+
+Ali: God. Would we be able to do a separate Gather Information now that we have… 
+
+Austin: Totally. You could totally continue to Gather Information. There’s always a point at which clocks begin ticking and stuff; we’re not there yet, but eventually.
+
+[45:00]
+
+Ali: Um, so there’s… Okay. [thinking noises, then a chuckle] OriCom people launching, have defenses… Yeah, I mean I’m definitely up for like, going toward different avenues if we feel like this isn’t the best way to do it, but I feel like having- having like a deal with somebody where they know we’re gonna be there… Like it’s all agreed on, makes sense and is better than being like, “oh we’re gonna fight our way onto this thing and then just sort of… hope that we can get through the loop before someone shoots at us…”
+
+Austin: I should lay out the two options a little more clearly, because the loop option does not have fighting unless it goes bad.
+
+Ali: Okay yeah.
+
+Austin: Right? That’s like a, “do my papers get me through and can I smile and nod,” which is a hundred percent- there are rolls involved, but those are not combat rolls unless it breaks bad, right? [Ali mhmms] That’s like, you have your papers, do your papers get you past the border? And like, it’s scary because… I mean, these come from Leap, which you know- you know the providence of these things, but it could break really bad because you’re in the heart of Apostolos and Motion is there and like, “Uh-oh.” Or Motion was there, I guess. Um, the other one, like, is guaranteed fighting. There is no- if you go up with this group they are gonna get- try to- someone’s gonna try to stop them from getting up there, you know? Um, because they don’t want them to go help the rest of this secessionist movement. Um. And so, you’re kind of throwing yourself onto like, the Orion civil war side of this? And that is like- that’s one of those- like you know what you’re getting into. You’re gonna get shot at a bunch, maybe you can just avoid it and retreat, maybe you can push through it, maybe you can help fight off the big- the big incoming, you know, enemy attack, but it is gonna be fighting. Uh, so, I just wanted to be as cards-on-the-table as possible to make sure that we don’t convince ourselves that what you’re doing is a safer- or a safe option that won’t have anyone shooting at you.
+
+Ali: Yeah, yeah yeah yeah. Yeah, a safe option plus having the like- the commitment of having to help that fight afterwards.
+
+Austin: Right, and maybe you can talk to these people and say, “listen I’m not gonna help you fight,” and if that’s the deal you arrive at, then cool, but that doesn’t mean people won’t fight at you, right?
+
+Ali: Mhmm. Yeah. Um. Hmmmm… Anyone else have thoughts? [Laughs] Um, I think I’m kind of at the place now where like, if there’s like a pre-mission thing that we can do to sort of bolster the, y’know, papers we got from Leap to have like better passports… The Apostolos thing feels safer now because Broun could just have a disguise and then be like,
+
+	(as Broun:) I’m an Apostolosian, it’s all good!
+
+[Austin and Ali laugh]
+
+Ali: [still laughingly] But that seems like… Uh yeah, I don’t know.
+
+Sylvia: Um, yeah I’m sort of leaning away from the Orion thing just because we spent a whole section of our fun little powerpoint presentation that we got talking about how we should not be fighting in this ship. I do think that we could maybe use this launch to our advantage and like, try and time it so security forces are busy with that while we’re launching
+
+Austin: Oooh. That’s interesting. That’s fun.
+
+Ali: Ohhh, yeah…
+
+Austin: Um, I was just gonna wrap back around and say that the thing this is gonna be is: an engagement roll, is what we’re gonna roll, and that’s gonna be how all this works right, so yeah I think that’s great, right, the idea that like, if you do use the loop, you time it so that you use the loop so that while- even if Apostolos isn’t up there fighting that battle, you know they’re gonna have forces deployed such- just in case there’s spillover, or whatever. Orion and Apostolos, like, basic- like, nearly border each other, so yeah that makes perfect sense to me, That’s be a bonus.
+
+[Pause]
+
+Austin: How’s Thisbe feelin’ about all this? Thisbe’s been quiet.
+
+Janine: I mean I think- I think Thisbe probably leans towards the loop just because… like… already having that paperwork seems like an advantage.
+
+Austin: Mhmm.
+
+Janine: It seems like -- materially -- a leg up. It is, you know, one extra layer of- of, um, whatever. Not protection or anything, but an extra layer between them and everything going super, super bad.
+
+Austin: Mhmm.
+
+Janine: Um. Even if there is still a risk and there are still rolls involved, etcetera etcetera… I think that’s probably just the… Yeah.
+
+Austin: Totally. Um, to Sylvia’s idea, or maybe that was- I think that was actually Ali’s -- is there still stuff you want to do to try to make- to make- to sell it harder? To sell this deception a little harder.
+
+Janine: … That’s tough…
+
+Austin: Yeah that’s not- that’s to the table, not just, you know, anyone who has a good idea for how to lie as a ship better.
+
+Ali: Uh, and just so I’m completely clear, Sylvi, your suggestion was that we launch from the Apostolos side but when the OriCom ship is leaving?
+
+Sylvia: Yeah, like when they’re launching all their stuff, ‘cause it sounded like they were launching multiple ships, right?
+
+Austin: They’re launching a giant, big ship with -- the answer is yes. The answer is yes, basically, yes. [chuckles]
+
+Sylvia: Something substantial that-
+
+Austin: Yes, totally, yes.
+
+Sylvia: -like, security forces would be more focused on than one little ship.
+
+Austin: [cross] Yes.
+
+Ali: [cross] Yeah.
+
+Ali: That makes sense. Okay yeah. Um. Huh, yeah the only thing I was thinking of that would help us on our end is like… I don’t know that it makes sense, um… [Giggles] Like, trying to engineer something with the ship so like- if like- if there was a more intrusive scan or something, or if there was something with the ship’s cache or something to be like, “No, we’re good.” Um, but that’s just, uh, yeah I don’t know. It sounds like we should just… We should just go up there. We should just…
+
+Ausin: Alright.
+
+Ali: We should just try it. We know when to go, we know where to go from, and I guess we just have to do it?
+
+Janine: Yeah like that’s the thing is we have so much stuff that’s like, that feels like stuff where if we didn’t have it going in we’d have to roll really really well now to get it,
+
+[Austin gives a short laugh]
+
+Ali: Yeah.
+
+Janine: So it feels weird to just- to ignore it, you know?
+
+Ali: [cross] Yeah, yeah yeah.
+
+Austin: [cross] Yeah. That’s fair.
+
+Austin: So, it sounds like the plan is to use the Barranca loop, but to time it so that it’s the same time as the Orion launch, but then also, obviously, to use the stuff that Leap provided for you to- the false credentials and stuff. Um, then potentially to the one final thing to try to like, really make it, to really sell it. To prevent deeper scans or something like that.
+
+Ali: Um. Yeah, it’s funny because I’m obviously just making stuff up but that’s what this game is, [breaks into laughter]
+
+Austin: [Ali laughs throughout] That’s- that’s what we do! For a living. We just lie, we’re liars for a living.
+
+Ali: There’s a part of me that’s like, I don’t know, I don’t want to run into this situation where like, anybody can see that this is like- I don’t want people to look into this and be like, “Oh they’re attached to Millennium Break,” or like, “This used to be a Columnar ship,” or like whatever else.
+
+Austin: Mhmm.
+
+Ali: There’s like- how do you do this with cars, like if you do a title run or whatever?
+
+Austin: Yeah, yeah yeah, totally. Like, “oh this is all the people who’ve owned this before,” and in this case it’s like, “Oh, Valence owned this? And now you own it? Okay.”
+
+Ali: [Laughs] “Those are the two. My dear friend Valence from nowhere gave me this; you don’t have to worry about it.” Would that be another roll?
+
+Austin: Uh yeah, how would you do that? I think that would be- that would be another roll or a… some sort of declaring another item? I don’t know that you have the stuff that is like explicitly, like, good intrusion-y, you know what I mean? Like basically it would be uh, like falsify documents or something like that, you know what I mean?
+
+Ali: Um, I have documents, and then I have an intrusions countermeasure program, which is what that feels more like?
+
+Austin: [unsure] Yeah… Yeah…
+
+Ali: [reading] “A program that provides some limited decryption to electric devices against hacking.”
+
+Austin: Yeah I don’t know that it’s- I mean, that’s interesting because that’s a free thing- like you can just declare that because it doesn’t take any load. Um, so that’s like, fine to take. I think that will not protect you from this specific thing that you just said, which is, “hey, run the numbers on this thing.” What you need is different numbers on this thing, or to change what the numbers would pull up if checked against a registration or whatever, you know what I mean? Um, and I think your papers do have different numbers on them, but it’s the thing of, like, on a car the VIN number is somewhere on the car? And your registration might say one thing, but if a deeper inspection happened it would reveal that there’s actually like, acid etched into the windows or the door or whatever that is the real VIN number.
+
+Ali: Right. Yeah.
+
+Austin: So maybe it’s about going through ahead of time now and trying to clear that stuff off, you know what I mean? Or like- or replace it with the fake numbers given to you by Leap, you know?
+
+Ali: Yeah.
+
+Austin: Or, or, hacking some database to plant false information -- that seems riskier to me.
+
+Ali: That’s pretty risky. Um, I do have a coding program but that’s probably not enough to hack Apostolosian…
+
+Austin: Right.
+
+Ali: [sighs] citizen documents, yeah [laughs] or whatever they are.
+
+Austin: Yeah yeah yeah, like into their system and change what their stuff would be.
+
+Ali: Yeah.
+
+Austin: Um. I would say that you-
+
+Janine: It’s a lot more plausible to like, file the serial numbers off or something or like, file and replace.
+
+Austin: Yeah yeah yeah, exactly. Uh, I would say that you could do that as- I think that this might be an action roll, ‘cause like, fucking it up could have consequences? Um, but-
+
+Ali: Yeah, but in terms of it being like we’re placing things on the ship of Broun getting… like, weird holographic contact paper to put in to sand off whatever,
+
+Austin: Sure. Yeah yeah yeah.
+
+Ali: That, like, reads as Engineer to me? If it’s that sort of like-
+
+Austin: Yeah, it’s definitely Engineer. Yeah, I think this is undoubtedly Engineer.
+
+Ali: Okay. Um I’ll just roll, let’s just roll, let’s see how this goes…
+
+Austin: We’re trying to see if there’s- ooh you know what we also could do? Here, here here- oh wait, hmm, ahh, but it’s not Wreck, is it? Fuck, I was gonna say you could do Wreck because the damage is hidden from casual inspection,
+
+Ali: Yeah…
+
+Austin: But if you fail, that’s not gonna do good either.
+
+Janine: No, that’s a rough one.
+
+Austin: That’s a rough one, and you have a zero in Wreck, so don’t do it.
+
+Janine: It’s in the name.
+
+Austin: It’s right there, it really is.
+
+Ali: Um… Yeah, lemme just roll Engineer.
+
+Austin: Let’s say this is- this is controlled-standard.
+
+Ali: Okay.
+
+[Pause]
+
+Austin: Oh my god. Well at least you’re gettin’ them out of the way now?
+
+Ali: [hesitant] Yeah.
+
+Austin: Got a two and a three here. That’s no good.
+
+Ali: I’m glad I made up a thing that we have to do so I could fail at it.
+
+[Austin gives a big laugh]
+
+Janine: Yeah I was gonna ask, like I don’t remember, did Valence even get this in a way where their name would have been on it?
+
+Ali: Uh, we got it from Kenzi, who found it in a warehouse?
+
+Austin: There was a bulk- yeah, and if I remember right,
+
+Janine: Who submits the paperwork on that get?
+
+Austin: Well, the thing is -- let’s say that was part of a lot -- the rest of that lot went to Millennium Break, right? Um, because Valence specifically pulled the keys to this one to Broun before the rest of that lot of stuff got to Millennium Break, so if someone’s like, “oh yeah, that was part of auction lot 3281B,” and the rest of- and we’ve seen that others of those ships wound up in Millennium Break’s hands, or others of that equipment or whatever, then that is a direct line, so not in Valence’s hand, but someone who was checking would notice that. So, with this failure, unfortunately, this is gonna be- this is gonna be something- I mean, do you- maybe you just totally remove the numbers but in a way that leaves a mark or… What do you think happens that makes this worse? Or opens things up in a bad way for you?
+
+Ali: It’s just like a bad counterfeit, right? Like, I’ve seen bad counterfeits.
+
+Austin: Yeah, yeah yeah.
+
+Ali: Broun tries to get some weird special paint to put- to replace the- the whatever’s on the ship and-
+
+Austin: It doesn’t work.
+
+Ali: You know. If you haven’t been doing it for a while you wouldn’t notice it, but if you’re- if you get promoted into the loop security, you’re probably…
+
+Austin: Sure.
+
+Ali: You’ve probably been around the block.
+
+Austin: Yeah.
+
+Ali: So.
+
+Austin: Yeah. Okay, well, let’s- I’m gonna have to count that against y’all, unfortunately.  [laughingly] Are there any other last minute attempts to change this roll?
+
+[Pause]
+
+Austin: If not, we should do an engagement roll.
+
+Janine: Um… You know what I could do to help is not be in the cockpit and business.
+
+Austin: [Laughingly] Uh-huh. Yeah.
+
+Janine: I feel like Thisbe being anywhere but where the mechs are is going to increase suspicion, right? Like, [Ali laughs]
+
+Austin: Probably, er- you know, some sort of-
+
+Janine: My gut says that’s a weird thing- especially ‘cause Thisbe’s like, [laughingly] been in the olympics and stuff.
+
+[1:00:00]
+
+Austin: Thisbe was in the olympics- well, a Thisbe model was in the olympics, right?
+
+Janine: Sure, but…
+
+Austin: But if they run your VIN number they’ll know, go, 
+
+(as hypothetical security officer:) Aren’t you an olympian?
+
+[Sylvia breaks into big laughs]
+
+Austin (as hypothetical security officer:) Didn’t you win that event? Wait a second, didn’t all of you win the olympics?
+
+Ali (as hypothetical Broun:) Hey, well…
+
+Austin (as hypothetical security officer:) Broun, you’re a really good swimmer and a really good salesman, that’s incredible!
+
+Ali: Yeah.
+
+Austin: Um. Yeah I think that that’s- I think that part of the plan is just like- good. It’s solid enough. Everyone is where they’re supposed to be, nobody’s who shouldn’t talk won’t. Um, etcetera. Um, let’s just look at the engagement roll.
+
+Ali: Yeah.
+
+Austin: So after the mission is planned, blah-blah-blah, is the mission bold? Or I guess we should say, what is the plan? This is deception, right? [Pause] I mean, this is deception, that’s just what it is.
+
+[Ali and Sylvia mumble in agreement]
+
+Austin: [reading] “Tricking, luring, manipulating.”
+
+Ali: Yeah.
+
+Austin: The target, the details, the method- we have the method, the method is false credentials, uh… Is the mission bold? Take +1. I think it’s bold to march into the heart of Apostolos and be like, “yeah we’re here. Here we are!” [Ali chuckles] So take +1. I don’t think it’s especially complex, so that’s 2d6. Uh, “does it exploit the target’s vulnerabilities? Is the mission tactic ineffective against the target?” Um, I don’t know if it’s like a unique vulnerability, I think it’s just- you know, having false paperwork isn’t something the guards here are especially weak against or something. Um, if they like, couldn’t touch paper or something [begins laughing as he talks] and couldn’t investigate it, that would, but that’s not- that’s not it. Um, “does the squad receive external support for the mission?” I’m gonna say the Orion thing is that, so that’s where that +1d comes from, because in a sense you have a distraction you’re working with even though you didn’t necessarily set it up yourselves, you’re taking advantage of that so that’s a 3d6. Is anyone interfering with the mission other than the target?” No, so that’s 3d6. “Are there any other factors that affect the mission? Take +1 for each that benefits the squad; take -1 for- if it hinders them.” That’s where that bad roll from before comes up, so a deep inspection will get you in trouble so now you’re back down to 2d6. Any other arguments for why you get a +1?
+
+Sylvia: Would the timing thing affect that at all?
+
+Austin: That’s where I’m giving you the external support- that’s the external support.
+
+Sylvia: Oh, okay. Cool.
+
+Austin: Yeah that’s where I’m getting- it doesn’t matter where it comes from but yeah, that’s why you’re at two, basically. Oh wait wait wait, one from one, two from- yeah that’s right, one from one, two from bold, that’s two, uh, Orion stuff makes three, -1 for, unfortunately, the mistake that- the bad roll’s back to two.
+
+Ali: Yeah… Um. There’s no benefit just for, you know, working on this for the last six months…?
+
+[Pause. Ali breaks into laughter]
+
+Austin: [clicks teeth] You know. Getting to do it in the first place is the bonus there, I think?
+
+Ali: Oh, sure sure sure, yeah yeah yeah, here we are.
+
+Austin: Right?
+
+Ali: Yep.
+
+Austin: Um. Yeah. So right now it’s 2d6… Which is not fantastic… [uncertain] But you know, you could get a crit, theoretically. I’ve seen it happen.
+
+Sylvia: [Laughs, speaks away from the mic] Jesus!
+
+Ali: Could get a six in there, get a five… I’m not rolling this number, ‘cause-
+
+Sylvia: … I’ll do it
+
+Austin: Alright. Millie’s gonna roll a 2d6.
+
+[Pause]
+
+Austin: [cross] Alright!
+
+Sylvia: [cross] That’s a four.
+
+Austin: A four. That’s a mixed success, that’s not too bad. That puts you in a risky position to begin with. Um, so, here’s what this looks like: You arrive to the loop. Your ship is able to do, obviously, flight inside of an orbit- or inside of an atmosphere, so like, you know, you fly from the Isles of Logos over the- the Apostolosian territory past where there has been fighting with other parts of- of- you know, the other Stels, over, you know, probably right over Obelle and some of the other places that you’re familiar with into the Barranca, which is this kind of long, um- these kind of vast canyons that are cut down into the ground here. And above you- I mean in front of you, you can see this loop, this giant structure, this superstructure that stretches across hundreds and hundreds of miles up into space. Um, and then back down. And- you know, you get scanned a couple of times on the way. You know, you get people calling in to you and say, “hey identify yourself,” and you’re able to identify yourself, and you know, those basic guards -- it’s not a thing. And then you get to the loop and you park. You kind of park down onto- there’s like a sort of track that you connect the ship onto- or into, basically, and it’s kind of like a magnetic lock thing, and the ship gets locked in place, which is a little scary but that’s how this works. [laughingly] And you’re in line, basically, behind a bunch of other ships! It’s like being at a tollbooth or a waystation, you know? Um, or like you’re waiting to get on a ferry, basically, right? You’re like in a car waiting to get on a ferry, except the ferry is hundreds and hundreds of miles of cable that go up into space. What is the tone like, just in this moment? On the ship. I guess, Thisbe, you’re in the cargo space chillin’. Millie?
+
+Sylvia: [Pause] Uhh… I think prob- Who’s driving, actually? [cross] I mean, Broun would be, right?
+
+Austin: [cross] Broun, right?
+
+Ali: Yeah.
+
+Sylvia: Yeah. Then yeah I’d probably just be like, riding shotgun, I’m assuming we’re in like, are we disguised at all? Are we trying to pull off like, a uniform thing here?
+
+Austin: Good question.
+
+Ali: Umm, yeah, that sounds fun, why not? I- yeah. [Laughs] I think that would be the reason why Millie and Broun are in front, right? Like,
+
+Sylvia: [cross] Yeah.
+
+Austin: [cross] Mhmm.
+
+Ali: “let’s put on these flight suits, let’s just pretend like this is all good. We’re just gonna act like citizens. Millie and Broun, the two normal ones!”
+
+Austin: [Amused] uh-huh!
+
+Sylvia: “Just two Apostolosian citizens!”
+
+Austin: [laughs, pauses, then laughs harder] God. In this Orion registered vessel, let’s just- it happens, I guess. Um, so, yeah. Your ship moves up, there’s like, clearly the people in front of you are talking to security, getting observed, etcetera, getting scanned, showing them paperwork. You know, there’s an inspection of this. And eventually you’re like, three or four away from the front and you get a call, and the call is someone in the operations tower or the aircraft tower, basically. They’re like,
+
+(as operations tower controller:) Vessel registered CC312, come in? Are you prepared for inspection?
+
+Ali (as Broun:) Yes indeed, hi! Hello.
+
+Austin (as operations tower controller:) Hello. Hi. So that’s a yes, you’re ready for inspection? Do you have anything to declare before we enter?
+
+Ali (as Broun:) Oh, yeah yeah, uh, I’m sending you over our-
+
+Ali: … Uh… What the fuck do you call that…
+
+Austin: Like a manifest? Is that what those are called?
+
+Ali (as Broun:) -our manifest right now, as well as our flight crew and uh, yeah. Yeah yeah yeah, take a look, let’s go!
+
+Austin (as operations tower controller:) Alright alright alright, why- [stammers] don’t have to rush us here, we got a- there’s an order to everything, isn’t there?
+
+Ali (as Broun:) Take your time, you’re doing great.
+
+Austin: (as operations tower controller:) Well, again, now it sounds like-
+
+[Sylvia laughs]
+
+Austin: (as operations tower controller:) -you’re uh, patronizing me, I think I’m doing a pretty good job actually. Taking a look here, um.
+
+Ali (as Broun:) [small] I said you were doing a great job-
+
+Austin: (as operations tower controller:) Yeah but you said it in a way that made me feel like you’re patronizing me and it’s been a long day. And I don’t appreciate it.
+
+Ali (as Broun:) Oh yeah, I’m sorry, I just knew you have a tough job, it’s been a long day, I don’t wanna give you any trouble.
+
+Austin: [laughs under his breath] What’s on this ship? What’s on this manifest? Do you say that you have- so you have three mechs, right? You got the construction kit stuff, presumably- is stuff just straight up on there as stuff you’re transporting?
+
+Ali: Yeah.
+
+Austin: You’re not lying about that. Um, [laughingly] it does not say Millennium Breakout Kit on it, I promise.
+
+Ali: Oh no, no no no.
+
+Austin: And it’s all stuff that’s like, available, you know what I mean? That’s all stuff that you just get at, like, Space Home Depot or whatever. Um, is there- do you say that you have passengers?
+
+Ali: I think we say that we have passengers but it’s all fake names, right?
+
+Austin: Right, yeah yeah, totally. Totally. Um, give me… I guess this is- this is the first roll and from that first conversation this sounds like some sort of Consort to me?
+
+Ali: I’m great at that.
+
+Austin: You’ve got a one; does anyone wanna help? Do you wanna push yourself, do you want a collateral die?
+
+Janine: I was gonna say- on this one I think I’ll help.
+
+Austin: How are you helping?
+
+Janine: Um. So this is for the like, the process- like the inspection process, right?
+
+Austin: This is not- no one’s on board yet, this is just that first call with the thing.
+
+Janine: Okay.
+
+Austin: Also, I’ve started a clock. It’s a four-step clock that says, “Loop security.”
+
+Janine: [uncertain] Hmmm…
+
+Janine: Um. I mean, is this the thing where it becomes relevant that Thisbe’s not in the passenger areas; she’s like, strapped in with the mechs?
+
+Austin: I think that’s probably when there are people on board investigating more than this opening salvo of conversation, you know? With a- with a four-step clock it seems- this person wouldn’t know that you’re in there, you know what I mean?
+
+Janine: Okay, maybe I put a pin in it, then.
+
+Austin: Yeah. Hopefully this doesn’t blow up. We’ll see.
+
+Sylvia: I’m okay to help with this one.
+
+Austin: Yeah?
+
+Sylvia: Yeah, I think I can handle that.
+
+Austin: What do you… What do you- how do you help? What do you do or say?
+
+Sylvia: Uh. [pause] I think, and this- it’s gonna be a struggle for me to actually do- I think Millie just kind of slips back into like, cadet- cadet-speak that she used to do? Military lingo that’s kind of casual but like, still recognizably from someone who’s from within, like, the Apostolos military and is just making smalltalk with this guy after Broun almost pissed him off?
+
+Austin: Sure. Yeah yeah yeah.
+
+Sylvia: By not doing anything wrong, by the way.
+
+Austin: Uh-huh. You know, sometimes you’re just in a mode. In a mode, in a mood.
+
+Ali: Long day, yeah.
+
+Sylvia: Uh-huh.
+
+Austin: Alright, so-
+
+Janine: Also, border inspection people are…
+
+Austin: Yeah. A hundred percent,
+
+Sylvia: Yeah, fair.
+
+Austin: Every time I’ve passed through a border, this has been my experience. Love to get harangued for literally nothing. Um, so.
+
+Syliva: I’ve marked stress on that.
+
+Austin: So two stress for that, and then you’re giving +1 die, presumably?
+
+Sylvia: Do you want an extra die? Yeah.
+
+Austin: Well you get two things. You can give +1 die, improved effect, improved position, and those are the three that matter in this case.
+
+Sylvia: Okay.
+
+Austin: So you could- two of those.
+
+Sylvia: But not two of the same one, right?
+
+Austin: Correct, correct.
+
+Ali: Ohhhh.
+
+Sylvia: Okay. So it’s gonna be-
+
+Austin: You can pick each one once. Unique benefits.
+
+Sylvia: Let’s go. Um, Ali, it’s your roll so like, if you want better positioning and a better dice, take it, but if you have another idea?
+
+Ali: Yeah I definitely want the one more dice so we’ll go up to two. Um, what’s the positioning right now?
+
+Austin: You’re at risky- risky-standard on this one.
+
+Ali: RIsky-standard. Um,
+
+Austin: As a reminder, a standard success is two ticks of a clock, a great success is three ticks, a limited success is one tick.
+
+Ali:  And what’s above risky?
+
+Austin: Controlled.
+
+Ali: Ohhh.
+
+Austin: Which reduces the consequences if things go wrong.
+
+Ali: Huh. Okay, yeah, I think I’m gonna go for controlled-standard right now?
+
+Austin: Cool.
+
+Ali: And then,
+
+Austin: Much better.
+
+Ali: Yeah. Is there a, um- is there a collateral on the table to bring that up to a controlled-great?
+
+Austin: Um… Yes. Um. Millie takes a stress.
+
+[Ali and Sylvia laugh]
+
+Austin: Um, and I’ll explain why momentarily.
+
+Ali: Um. That’s Millie’s decision.
+
+Austin: Mhmm.
+
+Sylvia: … I, hmm... 
+
+Austin: You’re already at five stress, right?
+
+Sylvia: I’m already at fi- but that means I have five more, so-
+
+Austin: Yeah. I’m gonna give you the thing that- that’s true you get a bonu- you have a bonus stress compared to everyone else. Um, I’m gonna tell you the thing that would stress you out in a second anyway, but the difference will be whether or not it stresses you- whether it literally gives you a stress or not, you know?
+
+Sylvia: I… I am okay with taking another one just because then it does- it just feels like I’m assisting more.
+
+Austin: Sure. Okay.
+
+Sylvia: So. Yeah. I guess- I mean I’m not technically the one accepting the collateral dice here, but I am saying I’m fine with it if we need it.
+
+Austin: Alright, so that would be then- uh, oh sorry, collateral die does not give you- will not make it go up to great, it’ll just be a bonus die. Collateral die does not-
+
+Ali: Oh, it’s literally a collateral die.
+
+Austin: It’s literally a die. Correct, correct, correct, so maybe that’s not enough for you to want to take that, you know?
+
+Ali: I mean. A 3d6 is better than a 2d6, so-
+
+Austin: Also wait- also you could just take better position and effect from Millie’s assist and then do the collateral die for the bonus to get up to 2d6, right? So yeah, it could- it totally could work out that way mathwise.
+
+Ali: Okay yeah, let me do that then.
+
+Austin: So then, 2d6, controlled-great.
+
+Ali: Yeah, and let’s just hope this is my first good roll of the night.
+
+Austin: Mhmm.
+
+Ali: Uhhhhh-
+
+Austin: Alright!
+
+Ali: Five?
+
+Austin: Five is a success, five is a mixed success on controlled. Um, listen, that’s not the end of the world.
+
+Ali: Yeah.
+
+Austin: Um, when you get a mixed success on controlled, let’s see… I think that this is, actually, just slipping into risky again, is the consequence here unless you want to resist it. But you get that great success, so I think that the early conversation here with this air traffic control or inspection border control person is fine. You know, I think Millie comes on and starts dropping the military lingo and that immediately calms them down, and then they’re like, you know,
+
+(as operations tower controller:) Alright alright, it’s a little busy so we’re just gonna send one person in, but they’re of our best, so -- eh, no funny business.
+
+Austin: So they’re not gonna do a deep scan on you, but they are gonna send in, like, a veteran Apostolosian border inspection person- fuck off, Sylvi [Austin and Sylvi laugh]
+
+[1:15:00]
+
+Sylvia: [cross with Austin laughing harder] What? Semper Fish!
+
+Austin: In the chat, Sylvi says, “Semper Fish,” god damn it! Um, and uh, so yeah you’re now back in risky, risky position after that roll, and you’re getting someone who’s really intense. And this person, we haven’t seen many like, grizzled, old Apostolosians, but they are- they are like… I don’t know, I kind of think there’s something where like, the scales and gills take on a different color in old age, do you know what I mean? So it’s almost like a deep gold on their neck and facial gills? And they, like, they open the door- where is the door at? Where they would come in? Is it like one of those walkways to the front cockpit area, is it in the middle of the ship, like where the big room is?
+
+Ali: Yeah, I think um, when I was talking about it before I had established that it’s like in front of the belly and it goes-
+
+Austin: Oh so they’re coming in through the cargo space, then.
+
+Ali: Well, I think that it, like, so the stairs come out in front of the cargo space and you go upstairs into like the welcoming area of the ship or whatever and then from there it’s like, there’s the door to the cargo space where you go behind, then you know, walk up towards the front of the ship where the- the- the cockpit is or-
+
+Austin: Right, right, right, where the- right, I got you. Okay, so I’m gonna advance this to three, the loop security goes up to three, which is good, you’re almost through it. Three out of four. Um, but the person who comes in -- one, clear veteran, and immediately, like- are y’all like waiting at the top of the stairs for them? To be like, “come on up?”
+
+Ali: Uh, I think I am, at least.
+
+Austin: Okay.
+
+Syliva: Yeah.
+
+Austin: They just ignore you and immediately go down to the cargo space, which is where they know they’re gonna find the VIN that you tried to edit. Um, the second thing, and this is the thing that causes Millie one stress is: With the door open you can hear the wind outside. And it is -- there’s like two beats: the first beat is that there’s almost a sonorous quality to it- there’s almost something like spoken words you’re hearing in the wind as it cuts through these- these canyons, it’s almost like the wind is speaking to you. And the second thing, the reason that you take a stress is: it sounds like it’s speaking in Motion’s voice.
+
+Sylvia: [recoiling] Waugh.
+
+Austin: And it’s not saying- it’s like auditory illusion, where it’s like- you’re hearing words, and I’m just gonna say out loud that this is the Breath of the Exemplar, which runs through the Barranca- uh, through all those canyons, and which has been used -- we know, as the audience -- to power the Barranca loop, and presumably tied into Motion’s whole thing, also. That part of what Motion’s power is and has always been part of the exemplar that Apostolos has controlled for years and years and years -- this kind of breath of like from the True Divine. But for you, what you hear is Motion just saying words. Uh, and that’s creepy and weird. And then the door closes and that cuts off again, but for a moment you swore Motion was here.
+
+Sylvia: Ugh, I hate that! [laughs]
+
+Austin: Uh-huh. Yeah. Anyway, this investigator goes right downstairs and is looking through all the cargo stuff, investigating the mechs. I think they call up to you, Broun, they’re like,
+
+(as veteran investigator:) This a custom model? What is this,
+
+Austin: Looking at your custom mech.
+
+(as veteran investigator:) Ain’t seen this before.
+
+Ali (as Broun:) Oh, yeah yeah yeah, do you want my card? I do great work.
+
+Ali: No wait. No wait- [laughs]
+
+Austin: [laughs] Incredible! Incredible. Crumpled like a plastic bag.
+
+[Ali still howling with laughter]
+
+Sylvia: Millie just like, elbows Broun right in the ribs.
+
+Ali: No no no, I didn’t say that. No no no. This isn’t-
+
+[Everyone laughs]
+
+Austin: [laughingly] Okay; it’s so funny though!
+
+[Austin, Ali, and Sylvia continue laughing]
+
+Ali: Oh my god, oh my god. Playing Broun is too easy, that’s the thing that’s hard about it.
+
+Austin: Uh-huh.
+
+Ali: No no no, Broun’s very stressed, Broun’s had a really long couple of months, Broun knows what they’re doing. Broun’s trying to get off the planet.
+
+Austin: Uh-huh. They would not just do this.
+
+Ali: My god.
+
+Austin: Uh-huh. Okay.
+
+Ali: My god.
+
+[Everyone cracks up again]
+
+Austin: With speed! With wit!
+
+(as Broun:) Hi, I’m Kal’mera Broun, I’m actually-
+
+[Ali laughs hard, takes a deep breath]
+
+Ali: I think that instead, Broun, playing it surprisingly cool,
+
+[Austin hmms]
+
+Ali: Is like,
+
+(as Broun:) Yeah, I, you know, I spent a few years as a merc and you know. It’s been under a lot of repairs, but you know.
+
+Austin (as veteran investigator:) [skeptical] Mhmm.
+
+Austin: And he’s now like, walking through the cargo space. Taking notes. You know. Um, where is that number that we talked about before? Is that just like, on- like, where is the fun spot for that to have been set up? What’s the equivalent of if you pull back the doorhandle you can see it etched into the window?
+
+Ali: Yeah yeah yeah, I feel like it’s like, there’s the cargo space and then attached to that is like, maybe like a… like a closet sized room that’s like, where a lot of the power stuff is? Like where you would replace the batteries or give the ship a jump if it needed it. And it’s on the inside of one of those doors where it’s like, here’s the model number, here’s the serial code, here’s the yadda yadda.
+
+Austin: Sure. Um, so I think on the way there is when they pass Thisbe and they stop in their tracks and go like,
+
+(as veteran investigator:) Huh. You got a Servide model, huh?
+
+Ali (as Broun:) Got a great deal on it, yeah.
+
+Austin (as veteran investigator:) Yeah. Haven’t seen one of these in a long time.
+
+Ali (as Broun:) Yeah, got it from a guy who was moving and couldn’t take it with them, leaving that afternoon… It really worked out. Right time, right place situation.
+
+Austin (as veteran investigator:) Uh yeah, can you turn it on for me?
+
+Ali (as Broun:) [hesitant] Uh sure, yeah. Um-
+
+Sylvia: [laughs] I am just like staring in horror at all of this.
+
+Austin: Mhmm.
+
+Ali: Would I call Thisbe Thisbe in front of this person? No…
+
+Austin: Prob- I don’t know, you tell me! I- Thisbe… I guess it’s- the thing is- Thisbe calls Mow Mow, everybody calls Mow Mow, I don’t know that it’s too out of character for robots to have names that people refer to them as, right?
+
+Ali: Yeah, and nobody like, blinked at Luke when he was like, “R-2.”
+
+Austin: Exactly, that’s the thing is like, I mean, yeah exactly. But if Luke had been like, “Hey Bob,” then people would have been like, “excuse me?”
+
+Janine: Yeah that’s true, Thi- Mow- I think Mow is short for the full thing, right?
+
+Austin: Yeah.
+
+Janine: Thisbe is- Thisbe is- that’s a specifically…
+
+Austin: That’s a self-given name, right?
+
+Janine: That’s a name- yeah, that’s a name that she chose because she realized people prefer to refer to her with a name.
+
+Austin: Mmmm.
+
+Janine: Instead of “this being,” which- to her, she is “this being.” She’s just Thisbe for the comfort of other people.
+
+Austin: Right.
+
+Ali (as Broun:) Uh yeah, Model A2, activate.
+
+Janine: [pause, then laughs] Uh sorry, just found that personally funny.
+
+[All laugh]
+
+Janine: Thisbe- I was gonna say opens her eyes, but then I realized- I don’t think her eyes- I don’t think I’ve ever described her as blinking? Do her eyes open and close? I think it’s just a light, right?
+
+Austin: Uh, yeah, I guess, yeah.
+
+Janine: Though I think I’ve described her maybe as blinking flatly at someone when they say something silly, but I don’t know, whatever. Eyes light up.
+
+Austin (as veteran investigator:) [sighs] This is-
+
+Austin: I guess they wouldn’t say, “this is,” they would say uh,
+
+(as veteran investigator:) Alright, A2, I am Fenolo Nikol, chief investigator here at the Barranca loop, doing a final inspection of this vessel. Where are you headed? Where is this vessel headed?
+
+[Long pause]
+
+Janine: Sorry, this is me deciding how Thisbe works in this situation.
+
+Austin: Uh-huh!
+
+Janine: Um. Uhhh… I think she- I think she says,
+
+(as Thisbe:) Unclear. I have been offline for more than 238 service hours.
+
+Ali (as Broun:) Yeah, trying to save power, you know.
+
+Austin (as Fenolo:) So you didn’t use this Servide model to help things up, or any of that?
+
+Ali (as Broun:) I mean, we did, you know, days ago, and then I had to get the ship together and I had to pack my personal goods and you know.
+
+Austin (as Fenolo:) Project A2-
+
+Austin: [scoffs] Project A2, Jesus, that’s not- that’s- Project A-ko is an anime.
+
+[Ali, Janine laugh]
+
+Janine: [laughingly] Project A-ko.
+
+Austin: Uh-huh, yeah.
+
+(as Fenolo:) Unit A2-
+
+Janine: They go into space in that.
+
+Austin: Yeah, there you go.
+
+(as Fenolo:) Are there any- is there any cargo or any- are there any passengers on board that go against the regulations put in place by the Apostolosian Transport Act?
+
+Janine: Uhhh… Does Thisbe know the Apostolosian Transport Act?
+
+Austin: Um, it would be- it would be… It’s not- no. Would you? You would have access to it. It’s public information, you know what I mean? It’s in the Palace, for instance.
+
+Janine: Ohhh, I have a… Sorry, what was this person’s name again?
+
+Austin: This person’s name was Fenolo Nikol. So like, investigator Nikol would probably be what you’d say.
+
+Janine: Mhmm.
+
+(as Thisbe:) Unclear. If investigator Nikol could wait approximately 6.3 hours I would be able to download the entirety of the act and confirm.
+
+Austin (as Fenolo:) … Okay. Uh-huh.
+
+Ali (as Broun:) Haven’t been doing a lot of, uh, work with the Apostolosians lately and, uh, you know, hard drive space-
+
+Janine: Keep her in airplane mode.
+[Austin laughs]
+
+Austin (as Fenolo:) Uh-huh. Interesting. A2, where was this vessel before you were put offline?
+
+Janine: Uh, what is the right answer here and does Thisbe know it?
+
+Austin: Uh, you were in the Isles of Logo- I mean, one, it’s a lie because you were never put offline. But,
+
+Janine: I know, I know.
+
+Austin: Sorry, when you say “the right answer” do you mean the best lie possible?
+
+Janine: I mean, what’s the answer that- that- that… Um, that would not be bad to give?
+
+Austin: Uh… A bunch of them. But you know, some sort of- where would any transport- where would any cargo vessel be? A major Orion city -- The Isle of Logos is not wrong but it’s not perfect either-
+
+Janine: It’s not a great answer, yeah.
+
+Austin: But that’s a place where things pass through, certainly. Um, but probably one of some Orion city. Probably not Oxbridge because of the way things are; Marengo would be a potential thing, though you know the flight path there is probably wrong. This person probably knows the flight path that you took. You know.
+
+Janine: Um. Okay. [Laughs] I think Thisbe starts to answer,
+
+(as Thisbe:) Ship was previously docked at [location],
+
+Janine: And then makes that weird static sound that she makes when she tries to say- when she tries to say uh,
+
+Janine and Austin:  “Operant Immunity.”
+
+Janine: The thing that she can’t say.
+
+Austin: Uh-huh.
+
+Janine: And then, in the middle of that static there is like a- there is like a… she says,
+
+(as Thisbe:) GPS node critical failure. Requires reboot.
+
+Janine: And then more static.
+
+Ali (As Broun:) Oh, god damn it, this fucking thing…
+
+Austin: This is a lie, right? [laughs] Yeah, okay-
+
+Janine: Yeah, of course this is a lie!
+
+Austin: Alright, give me- this is a Sway, to me. “When you persuade with guile, wit, or charm,” I’m guessing? That’s sort of what this is.
+
+Janine: Well I’ve got none in that, I got none in Sway.
+
+Austin: You got none in that. Uh-huh. So that’s 2d6 take lowest; you could push yourself.
+
+Janine: [sighs] I’m gonna push myself.
+
+Austin: Mhmm. So that gives you- that’s two stress, that gives you one. Broun, are you helping… yikes, probably not! Not with three-
+
+Ali: Ohhh, I would really love to but I don’t think I should…
+
+Austin: Do you only have two with Thisbe? You only have two with Thisbe, right? Or do you have three?
+
+Ali: I only have two with Thisbe, yeah.
+
+Austin: So it’s not the end of the world, but it ain’t great either.
+
+Ali: Yeah, I only- I have only two pushes that I can do, and ummm… This is important, though, right? This last tick on this little… This little-
+
+Austin: It’s interesting, because it’s one- it’s one tick. Thisbe has one die. Could succeed; any success is a win here, right? Um, it’s risky-standard, so any success gets you through it.
+
+Ali: My assistance would keep us from taking the lowest versus the highest?
+
+Austin: Uh, Thisbe pushed herself so she’s already rolling 1d6.
+
+Janine: I just have one. I just get one even die.
+
+Austin: It’s only one.
+
+Ali: Sure…
+
+Austin: Mhmm. Yeah.
+
+Ali: Um, hmm…
+
+Austin: Mm, mm, I would say- I would say that this is a labor purpose.
+
+[1:30:00]
+
+Austin: Which is your thing, right?
+
+Janine: That is my thing…
+
+Austin: So I’d give you another- hmm, or actually no I wouldn’t, I think this is a guard purpose, honestly because what you’re really doing is guarding the people with you, right? You’re using labor language, but that’s not laboring. You’re not-
+
+Janine: Yeah…
+
+Austin: So. Sorry. I thought- I was looking for a bonus for you here.
+
+Janine: Um, wellll, I do- [laughs]
+
+Austin: Uh-huh. Uh-huh?
+
+Janine: Um, I do have super charge: when I charge myself, in addition to the usual benefits I can also act with extreme strength or extreme speed.
+
+Austin: Yeah. You said that really fast.
+
+Janine: I mean, you know, that’s part of the thing that sells this lie, right? That is if you do it quickly enough it does feel sufficiently like a computer error and not like a robot thinking, “uhhhhh.”
+
+Austin: Yeah. What I’m gonna do with that is like, raise the effect level, but with one tick left there’s a limit to how- but yes, I do love that as color, for sure.
+
+Janine: Okay.
+
+Austin: I think we roll- uh, is there another collateral die here? Um, lemme think of my collateral dice to offer you really quick.
+
+Janine: I’m good at seeing when people lie, maybe I’m [laughingly] a better liar now
+
+[Ali and Austin make skeptical noises]
+
+Austin: I will, uh, huh. Oh. Maybe, hmm… What’s a thing I could take from y’all? The thing that I’m thinking is a collateral die is that they- you know, they’re gonna recognize something on board that is like, “this is against- this is contraband. I have to take this. You’re not allowed to travel into space with [X].” You know? “Throw it out at the border, you can’t bring this water on board,” you know?
+
+Janine: [derisively] Half a sandwich.
+
+Austin: Yeah, “you have an unfinished sandwich here, I gotta take that,” but I’m looking to see what’s a fun thing to take and I don’t know that y’all have anything fun anymore. Like, declared. You know?
+
+Janine: Has anyone lost anything at the border before?
+
+Austin: Yes. I had to get a new bag, which is when I went to Australia as a kid, my bags were too heavy, so I had to dump a bunch of clothes at the border.
+
+Janine: Oh, that sucks.
+
+Austin: I was a kid, it didn’t matter, it was fine. It did suck, because I was going to Australia for three weeks, but-
+
+Janine: I lost a pair of scissors that were shaped like the Eiffel tower. They were little paper-cutting scissors.
+
+Austin: Oh, were they on your- on your carry-on?
+
+Janine: I moved them onto my carry-on because my checked bag was too heavy.
+
+Austin: That’ll do it, won’t it? That’ll do it.
+
+Janine: They were like, “you can’t bring your… cute little Eiffel tower scissors in here, you’ll kill somebody with them.”
+
+Austin: Yeahhh. Um, yeah I don’t see anything that- ‘cause I’m not gonna be like, “uh yeah, I’m gonna need you to drop this mech off here, I’m gonna need Mow, sorry.” Oh, you know what it’ll be, it’ll be- it’ll be that I’m gonna ask you to um, lets see... Uh, I’m gonna have someone spend a quirk as they have to like, tape down something loose or like, lock down or deactivate. Uh, I think they look up your custom mech, Broun, and look at the compactable limbs and they say, uh, if you take this die they’re gonna have you lock down those compactable limbs like for the length of the journey in such a way that whatever the equivalent of putting a magnetic super lock on to prevent them from compacting the right way that then will be taken off -- theoretically -- once you get to where you’re going, you’ll have the time to like, take that off, but it won’t be during this trip ‘cause you don’t have the equipment necessary. It’s like, some giant super cutter, you know? So that’s the collateral die is that Broun has to spend one quirk on- on their mech to get a bonus.
+
+Ali: Um, yeah I would gladly do that. And I would do that over taking the stress. [laughs] So.
+
+Austin: Yeah. Fair. Alright, so then it’s two dice. Go for it, Thisbe. This is risky-standard, is what I said, right?
+
+Janine: Uh, yes.
+
+Austin: Okay.
+
+Austin: Hey!
+
+[Ali gasps]
+
+Janine: Got a six!
+
+Austin: The first success of the day! Um, they go,
+
+(as Fenolo:) Huh. You’re gonna wanna get this model uh, checked whenever you get to your destination, captain.
+
+Austin: And they look closer at Thisbe, but seemingly have forgotten the closet with the bad VIN number in it, turn around, recognize the compactable limbs thing and say like,
+
+(as Fenolo:) Those are too loose, those are gonna cause damage. Get those taped up.
+
+Austin: Or whatever. I keep thinking about going to an anime convention and needing to put like, tape your sword shut is what I’m thinking about,
+
+[Ali and Sylvia laugh]
+
+Austin: Which is like, ridiculous. Wow, I forget what that’s called, what’s that called? There’s-
+
+Janine: Peace bonding?
+
+Austin: Peace bonding, yeah, thank you.
+
+Janine: Or peace binding? One of those.
+
+Austin: Something like that.
+
+Janine: I think it’s peace bonding.
+
+Austin: Um, uh, you’re peace bonding your compactable mech limbs. Um, and then they leave, and you’re kind of, the whole ship does that like, stutter as you get pulled forward, like jostled forward in place, and you’re getting ready to launch. You know, you’ll be launching in a few minutes. I think everyone, like, buckles up, so to speak. I’m guessing the kind of big open area in the middle has a bunch of seats with like, seatbelts and things that lock you in place?
+
+Ali: Uh, yeah.
+
+Austin: Or something like that?
+
+Ali: Yeah, yeah yeah yeah.
+
+Austin: Okay. Um, and the wind takes you, you know? Um, the- the- you get this just incredible charge of energy beneath you as you begin to lift up. Your- the ship is now like above the ground and it’s going faster than you’ve ever felt it go before, because the maglev track is just super powerful -- it’s, again, powered by both Motion and the breath of the Exemplar, and that’s a lot of power. Um, and again, as it does this there is like a reverberation inside of the ship that, Millie, you recognize as Motion’s voice, just saying things to you? And again, I genuinely think it’s not- there’s no- there’s no meaning- there’s no like, cohesive anything, it’s just like,
+
+(as Motion’s voice:) Manufacture. Mathematics. Inhabit.
+
+Austin: Or whatever, you know?
+
+Sylvia: Ugh. It’s like those stupid rings.
+
+Austin: Wait, which rings?
+
+Sylvia: [cross] The rings Leap had.
+
+Austin: [cross] Oh it is like those stupid rings that Leap had, yes exactly.
+
+Austin: Um, and it’s not anything, because what it really is is like, [makes wind-murmuring noises], but your head is like, oh yeah, oh yeah that was definitely Motion just saying “biography” to me. Which is weird. Puts you in a place- I’m not giving you anymore stress because now you know this is gonna happen. And then you’re on this track now for -- it’s like the longest two minutes of your life? Um, as you take off very fast. But also, there’s a point where you’re like, is this working? Is this supposed to- what’s happening? And then things start to lift -- like any loose cloth begins to lift into the air. Hopefully you have everything put away, but like, you know, if you had an ashtray out on a table- I mean, one, don’t smoke in here, that would be very dangerous [chuckles], but, if you did, or a bottle or something, it lifts up off the ground and for the first time you see Partizan. For the first time, I guess Millie is this the first time- no you weren’t raised here either, were you? None of you were raised here. Right? You’ve all been in space before at some point.
+
+Sylvia: Yeah.
+
+Austin: Somewhere.
+
+Sylvia: I don’t think Millie’s been in space outside of like… Like, even more brutalist military ships, you know?
+
+Austin: Right. Right, totally.
+
+Sylvia: Just like, cargo containers full of people, basically.
+
+[Music begins and gradually gets louder as Austin speaks: TANAGER. PERFECT. TOUCHPAPER.]
+
+Austin: Yeah. Um, and one of the things that happens here that’s- one is you just see Partizan from above, and you just see like, the sea, vast below you and you can see where Cruciat is, you can see where Auspice and Obelle are, where the sands are. In fact, I think you can almost think about, “wow is that crater from where Past came down that night? Broun and Thisbe, or even for you, Millie, like, “oh right, we started here. This is- I’m looking down at Obelle where we went to that crash site where Past was destroyed,” and there it is, and it’s all just laid out in front of you.
+
+[END]

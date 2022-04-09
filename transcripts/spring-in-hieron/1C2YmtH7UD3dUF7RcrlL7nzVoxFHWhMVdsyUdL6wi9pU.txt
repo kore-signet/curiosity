@@ -1,0 +1,1537 @@
+Spring in Hieron 39: The Second Spring Pt. 1
+Transcriber: Cole
+Austin: Eleven months before the Frost Shepard would arrive and three months after the second Spring began, Fero Feritas would find himself exploring a world, reshaped by the momentous emergence of new continent sized plant life. [Jack de Quidt’s ‘Under the Boughs’ begins playing] In some ways, Fero knew the process that had brought everyone here had been cataclysmic. Families were separated. Many of the old, reliable ways of life had been made obsolete by a world that simply didn’t work the same way anymore. But Fero knew, too, that it was not all misery. After all, for a long time, we were at war with the Heat and the Dark. Now finally, it had been driven back. The buds and shoots of this new rooted world, expanding out into the black forever. And so the people of Hieron, or whatever this new thing was, were left with this: a year of relative peace. One quiet year with which to build community and learn again how to work together. Which is why, Fero Feritas, when the cartwright wren, Safewater, had tracked down a herd of wild fulltaur, 
+Austin (as FULLTAUR): Hello!
+Keith (as Fero): Oh, hey! I’ve been lookin’ everywhere for you guys. 
+Austin (as FULLTAUR): Nice day… today!
+Keith (as Fero): Yeah, yeah. Today I’ve been lookin’ everywhere. Um… Look, can I hop over there with you all?
+Austin (as FULLTAUR): It sure would be good to have company. 
+Keith (as Fero): Ok, so, you- you see all the branches?
+Austin (as FULLTAUR): There’s a lot of roads out here.
+Keith (as Fero): I saw- So… I made… I made the little- the little mushroom guys, um, that we were hunting for a little while, and I think that they would be great for the trees. I think that that works great. But I- it was really naggin’ on me [sighs] …The horse is not a great… It doesn’t have the legs for… this place. 
+Austin (as FULLTAUR): Watch out for little critters.
+Keith (as Fero): Right. Um, so I was thinking if I, um… What- How ‘bout if I could make you guys like, really stretchy?
+Austin (as FULLTAUR): Nice weather we’re having today, isn’t it?
+Keith (as Fero): And you’d be able- Yeah. And you’d be able to get from branch to branch. You’d still look like a normal horse, and then um, you’d just, I guess, pull yourself forward onto other branches. I think it would really help you all… I noticed you’re all on one branch, and so I kind of feel like I’ve- I’m validated in my worries here. 
+Austin (as FULLTAUR): I do love a stew. 
+Keith (as Fero): Safewater, can you help me with this?
+Austin (as SAFEWATER): Safewater!
+Keith (as Fero): Yeah. 
+Austin (as SAFEWATER): Safewater!
+Keith (as Fero): Yeah!
+Austin (as SAFEWATER): Safewater!
+Keith (as Fero): Mhm. 
+Austin: And that is why when you look up in the sky, you sometimes see a rider stretching on a horse between two distance limbs of this new world. [music finishes playing out] Welcome to Friends at the Table, an actual play podcast focused on critical world-building, smart characterization, and fun interaction between good friends. Today we are playing The Quiet Year by Avery Alder. I am your host, Austin Walker. And joining me today, Andrew Lee Swan.
+Dre: Hey! You can find me on Twitter @swandre3000.
+Austin: Sylvia Clare. 
+Sylvia: Hey, you can find me on Twitter @captaintrash, and you can listen to my other show, Emojidrome on your podcast app of choice.
+Austin: Art Martinez-Tebbel.
+Art: Hey, you can find me on Twitter @atebbel. And um, go buy a shirt or something at fangamer.
+Austin: There you go. 
+Art: One of our shirts. Not just any shirt. [Austin laughs] I mean if you like the shirts, buy… Get whatever you want. But I’m urging you to consider our merchandise. 
+Austin: [amused] Uh huh. Jack de Quidt.
+Jack: Hi. You can find me on Twitter @notquitereal and buy any of the music featured on the show at notquite.bandcamp.com.
+Austin: Keith J. Carberry. 
+Keith: Hello. My name is Keith J. Carberry. You can find me on Twitter @keithjcarberry. And you can listen or watch the Let’s Plays that I do at youtube.com/runbutton.
+Austin: Janine Hawkins. 
+Janine: Uh, hey. You can find me @bleatingheart on Twitter. And also on Youtube where I”ve been playing some Animal Crossing: City Folk. So, if you feel a little stressed, [Austin laughs lightly] uh, a little tense, I would recommend those videos. [light laugh] 
+Austin: And Alicia Acampora. 
+Ali: Um, hi. You can find me over at @ali_west on Twitter. And you can also find the show over @friend_table. 
+Austin: As always, you can support the show by going to friendsatthetable.cash or by searching for us on Patreon. I’ve said it a lot lately, but we have a lot of great bonuses for people who- who subscribe even at the one dollar level. A lot more opens up at the five dollar level. If you’ve enjoyed Spring in Hieron- I have definitely done that- then please come and support us. That would help a lot. It’s what lets us do stuff like this, so go ahead and do that. Um, like I said, we’re gonna be playing uh… I guess I didn’t- I didn’t... I did say it. I said we were playing The Quiet Year, right?
+Ali: Mhm. 
+Austin: Yeah, ok. So, let me just read from the book, The Quiet Year, because it has been uh… a year since we’ve played anything like The Quiet Year. Um… Uh well, I guess I’m speaking for myself. Maybe some of you all have gotten around to playing a Quiet Year game in the last year. But let me just remind everyone. 
+[reading] ‘This is a map drawing game. You collectively explore the struggles of a community trying to rebuild after the collapse of civilization. It’s a game about community, difficult choices, and landscapes. When you play, you make decisions about the community, decisions that get recorded on a map that is constantly evolving. Parts of the map are literal cartography, while other parts are symbolic. Players work together to create and steer this community, but they also play devil’s advocate and introduce problems and tensions into the game.’ 
+Because we are wrapping up a five year long campaign, there are a couple of tiny hacks that we’re making to The Quiet Year. Um, but there is nothing even close to as major what we did last year, during our last big summer game. As written, The Quiet Year puts players in two roles. To quote from the book,  [reading] ‘The first is to represent the community at a bird’s eye level, and to care about its fate. The second is to dispassionately introduce dilemmas, as scientists conducting an experiment. The Quiet Year asks us to move in and out of these two roles.’
+I want us to take those roles super seriously, and those are definitely the roles that I will be playing when my turn comes around in this game. Um, but while the The Quiet Year does say specifically [reading] ‘we don’t embody specific characters nor act out scenes,’ I actually don’t think that that works for the way we want to play this game. I don’t- you know, I want to make sure that everyone, if they want to, can play in that detached way. Acting abstractly or as like, a stand-in for a big part of the community or even the whole community, if you get excited about an idea on a turn and you don’t want to zoom in as just your character. But… this is the end of Hieron. This is the end of Seasons of Hieron, and it’s like, I want us to make sure that at any point, we should feel comfortable taking more direct action as the characters that we’ve played as or to kind of ask across the table, ‘Hey, can I get more detail on that?’ or ‘Can we actually zoom in on this scene?’
+Um, if there is ever a serious doubt as to like, what actually happens, we also still have our Dungeon World stuff setup. We could always hop back over to that- to that play table, if we ever like, ‘We gotta roll some fuckin’ 2d6’s.’ Um, but my guess is we won’t need to do that… I’ll also note really quick that like, if something happens during play that you aren’t comfortable with, please put an ‘X’ into the chat or DM me, and we’ll stop it immediately. Or if you like the content generally of a scene, but don’t want to linger or focus on it, as always everyone should feel comfortable being like, ‘Hey, let’s move on.’ I don’t expect this epilogue to be different in tone or- or content than the rest of Hieron, um, but- but I do want to say all of this, especially because we’re moving into a much more collaborative game. It’s better to like, say it all up front than not. 
+So… The Quiet Year. I’m gonna open up my little Quiet Year book. I have- I have it in front of me. The real one. The tiny one. It’s very cute and good. Have y’all seen The Quiet Year book before? I guess, Ali, you have.
+Keith: No, not in person. 
+Austin: Cause you’ve-
+Ali: Yeah. 
+Austin: There are-
+Jack: It’s like a tiny little- tiny little book, right?
+Austin: Yeah, it’s like the size of- it’s like-
+Jack: Who’s this small book?
+Austin: It’s like… phone sized, I guess? Maybe a little bit wider than a phone and shorter than a phone. But, um, so… to begin-
+Keith: Like an iPhone or like a home phone?
+Austin: Like an iPhone. [amused] Not like a home phone. I think y’all can also find all of the rules in the handout section of the Roll20. I think that they’re all there for everybody. Are they?
+Sylvia: Uh, yeah. 
+Dre: Mhm.
+Ali: Looks like it. 
+Austin: Alright. Cool. Um… so we’ve already done ‘Before Playing.’ We’ve prepared the deck. Um, actually, we should- I’m just gonna go through the system- er this- all of this stuff here. So, [reading] ‘Let’s start by familiarizing ourselves with our tools.’ Here’s the blank page. I’m pointing to the blank page. ‘This is our map. Before playing, we’ll establish some of the landscape. As we play, we’ll update the map to reflect new discoveries, conflicts, and opportunities. Parts of the map will be literal cartography and other parts will be symbolic. We’ll try to avoid writing words on it, though common symbols are fine.’ Also, we are not playing at a real map, which means that it can be hard to draw some things sometimes, but I’d prefer that we try because it’s cool to draw things. 
+[reading] ‘Throughout the game, we’ll all be responsible for drawing on this map. It’s fine to draw poorly or crudely, but all of us are going to draw.’ At this point, I should be pointing to the dice. We don’t have dice, but what we do have are these clocks in the top right. Um, ‘When our community starts a project, we’ll place one of the- uh, one of these on the map to note how many weeks it will take to finish. Each week, they tick down by one. When a die reaches zero, the project is complete.’ Oh! You know what we need? [lightly laughs] Contempt tokens. 
+Ali: Oh. 
+Austin: [amused] Uh, where the fuck are our ghosts?
+Dre: Yeah, get them ghosts!
+Austin: I gotta find these ghosts. I don’t know where the ghosts are. Oh, wait. Here it is. Ghost! [lightly laughs; Keith and Jack laugh] Very important. 
+Jack: He’s a big fuckin’ one this time. 
+Austin: I’m gonna- I’m gonna make him a little smaller. Anyway, there’s some ghosts. Uh, those are contempt tokens. [reading] ‘These are Contempt Tokens. They represent any tension and frustration that might arise in the community. Uh, point to the summary card.’ Which is in our- again, in the handouts. And I think that that’s- Is that the Reference card? Yes, I think so. ‘This is a summary card. It’ll remind us what to do each week of The Quiet Year, and in what order.’ And then we have these four decks. Do you see the decks or do only I see the decks?
+Sylvia: Uh, I see the decks. 
+Jack: I can see them. 
+Austin: Ok. Cool.
+Ali and Dre: Yeah. 
+Austin: These are the four suits. They are from top to bottom: Autumn- Uh, it’s Autumn, Winter, Spring, Summer. So, we have to be careful here because it goes Spring, Summer, Autumn, Winter. So, we should not pull from that top deck until it’s time to get there. We’re starting on the third deck which is Winter- in fact, I can hide- I think I can hide the decks we’re not using. I should just do that, right?
+Sylvia: Mhm.
+Ali: It would help. Thank you. 
+Austin: There we go. There’s only the one there now?
+Jack: Mhm. 
+Austin: Alright, perfect. Um… I’m not gonna pull out the King of Spades, but you know when we hit the King of Spades that is the end of the game. I’m gonna shuffle everything. I’m actually gonna hit the button to shuffle everything. Alright. I’ve shuffled everything. Um… I’ve already talked about what we’re playing. I’ve already talked about… I guess I’ll- I will read this section, too. 
+[reading] ‘We will, throughout the game, be presented with opportunities to introduce new issues for the community to deal with. This will often happen when we draw cards or use the Discover Something New action.’ And I’ll get to those actions in a moment. ‘ By dispassionately introducing dilemmas, and then returning to our other role as representatives of the community, we create tension and make the community’s success feel real. If there’s an issue you struggle with in real life-’ uh like, whether that’s- for instance, ‘whether violence is ever justified, introduce situations that call it into question.’
+[reading] ‘Before the game begins-’ This is ‘Sketching Terrain’- ‘-we must establish some facts about the community and what its surroundings are like. We begin with a brief discussion, taking two minutes at most-’ I bet we take more than that! ‘-of the general terrain and habitat of the area. This can be as simple as something saying- uh, someone saying, “how about a community in a rocky desert?” and everyone else nodding in agreement.’ [lightly laughing] Can you imagine getting world building done that quickly? [Keith laughs] 
+Uh, [reading] ‘At that point, each of us should introduce one detail about the local terrain. When we introduce our detail, we then sketch our contribution onto the map. These sketches should be rough and simple, leaving lots of blank space for additions during play. The community itself should be fairly large on the map, perhaps occupying a third of the sheet. Unless otherwise stated, assume that our community has sixty to eighty  members.’ I suspect we’ll have more than that, but we’ll see. 
+As a note, I’ve also- I have the- This is where the university was when last we played, but I think… My guess is we’ll want a different scale than this… Um, because this is already-
+Jack: [over] Yes, this seems like, a little bit small-scale. 
+Austin: Right. Exactly. This is just like, the center, right? So, like, I mean we should have this conversation a little bit, right? Which is… I mean we shouldn’t have it a little. We should really have it. We should sketch some terrain. Um… [tongue clicks] I guess the first question here is- is the scale that we want to talk about- is the community the Last University still? It could be bigger. It could be what used to be the top strata- er the top lamina of Hieron, but I think that that lamina has been broken up pretty... pretty well, you know? Like, I think that’s part of what was… part of what happened with the second Spring is that. You know, the City of the First Light might be on a branch either- either closer or further away from the Last University or near another version of Marielda, ya know? Who knows?
+Jack: [amused] A- a deeper lamina version of Marielda that is now...
+Austin: Right. Yeah… Or wait! 
+Jack: Is deep-
+Austin: No, that’s not true. There is no deeper lamina version of Marielda. We know this.
+Jack: Oh, sure. Just-
+Austin: Right. 
+Jack: It’s just- it’s- it’s one city with a massive… pin running through it. 
+Austin: Because- Yeah, because there- there was never- This- the top layer is the layer at which all that shit happened. Um, but ya know? Let’s take a different city, like Velas, which we know exists across lamina, and maybe there’s like, a super Velas somewhere down there. Ya know?
+Ali: Oh. 
+Keith: Dynamax Velas. [soft laughter]
+Austin: Exactly. We’ve got the- we’ve got the Pokemon license now. We’re using it to make Dynamax versions of cities from Hieron. [Keith and Sylvia laugh] 
+Jack: I feel like it would be good to use… to use the university in some capacity as an anchor... 
+Austin: Yeah, I agree with that. 
+Jack: -for us. Like-
+Austin: Do you want to draw it on the map somewhere?
+Jack: Sure. Um… I’m gonna-
+Austin: Just as like, a circle? Maybe?
+Jack: Yeah. 
+Austin: Or what do you want to do? 
+Jack: Um…
+Austin: I’ll let you- I will let- You know what?
+Jack: Would anybody object if I didn’t put it in the middle? The thought of saying there’s this beautiful- 
+Austin: Mhm. 
+Jack: -magical, new decentralized world, and we’re right in the middle of it, feels a little weird. 
+[0:15:00]
+Austin: No, I’m one hundred percent with you. 
+Jack: So, in the same way that I really like it in RPGs when you start in one corner of the map, um, I’m gonna put… us down… here. Oh! Oh! Oh my god. It’s green, and I can’t see what it is until I let go. [Austin, Keith, and Jack laugh] 
+Austin: It’s a circle. 
+Jack: I’ve made a small bean. [Sylvia and Jack exhale laughs] 
+Austin: You’ve made a bean. Finally we know the name of the Last University city, Bean Town. 
+Jack: [rising intonation] I’m gonna draw a tower… in this bean...? [Sylvia and Jack laugh]
+Austin: Uh huh. Yep. That’s what that is. 
+Janine: Is this a new folk song that- that we have at the university now? [singing to the tune of ‘The Farmer in the Dell’] [Jack laughs] ‘There’s a tower in the bean, a tower in the bean~’
+Austin: Uh huh. That’s it. 
+Art: Great golf course, here, Jack.
+Keith: What’s the next line, Janine? No, wait. Everybody. [everyone laughs] What’s- Janine, I need you to say [laughs] the next line of the song. 
+Janine: [singing] ‘The bean is in the corner, there’s a tower in the bean.’ [everyone laughs hard] 
+Austin: That’s it!
+Jack: Thank you. Um-
+Austin: Notquitereal.bandcamp.com. [Janine laughs] 
+Jack: Yeah, yeah, yeah. Uh, yeah. There we got a- We got a tower there. This is- this is… Yeah. Everyone knows what the university looks like, and it fuckin’ looks like that. Stop complaining. [Austin and Sylvia laugh] 
+Austin: Can someone describe what Jack has drawn, please? For the audio?
+Janine: They did. 
+Jack: This- this-
+Austin: Ok, that’s a stretch. [Ali laughs]
+Keith: Uh , it looks like a bottle rocket sticking out of a puddle. 
+Austin: Yep. 
+Ali: Yeah. [Jack laughs] 
+Dre: Actually, yeah.
+Austin: Happy Fourth, everybody!
+Janine: They’ve drawn a diagram that describes evaporation as a process. [everyone laughs] 
+Ali: Yeah. 
+Jack: Yeah, it goes in the air, and then it- [laughs] it comes down into the ocean somewhere else. 
+Austin: [groans; amused] Ughhh god. 
+Dre: Oh boy. 
+Jack: What’s next?
+Austin: What is next? Um, it’s on a- Is it on a- Where is it at in this big tangle of… of roots and stuff?
+Art: What are you talking about? It’s over in the corner. 
+Austin: [deflated] Ok. But you know what I’m sayin’. [Ali laughs] 
+Art: Bottom left. 
+Austin: [groans] Oh my god… [Janine laughs] Is it- Like, what’s around it? Is it on like, a huge- like, beanstalk? Is like-
+Jack: [over] Is it like, caught on a huge branch? Or is it like-
+Austin: Right, that’s my question. Yeah. 
+Jack: -in the crook between two branches?
+Austin: Ooo, that’s kinda nice.
+Jack: Like… it’s like, you know when you put a birdhouse in a… in a tree?
+Austin: God. 
+Jack: And you kind of just like, prop it between two branches?
+Austin: Is that what it is?
+Jack: What if it’s that except a-
+Austin: That’s kind of good. 
+Jack: -except a university?
+Austin: I kinda like that. Any objections to that idea?
+Ali: No. 
+Keith: What is- Sorry, it’s- What is it between? Is it between actually two branches?
+Austin: That’s what we’re suggesting, yeah. 
+Keith: Ok. 
+Jack: Like, if you imagine like a… Yeah! Ok. 
+Janine: Woah. [lightly laughs]
+Jack: Someone’s drawn an ‘S.’
+Austin: Yeah. Listen. The tree is big. I wasn’t-
+Jack: Yeah, this is great. 
+Austin: I wasn’t kidding when I said it was like, planet-side… sized.
+Jack: I fuckin’ love The Borrowers. 
+Austin: I don't know where this goes eventually. But, you know? This is a tree. There we go. Um-
+Janine: Just to be clear, trees grow on the tree, right?
+Austin: Trees grow on the tree. [overlapped] Yeah, yeah, yeah. 
+Jack: Oh, yeah. Trees on trees on trees. 
+Austin: Trees on trees. 
+Jack: Plants on trees. Trees on plants…
+Austin: Um, and- and the thing that I keep coming back to on this is like, ginger. It has the- it has the structure of ginger altogether. Which is to say, there is no clear center. You, as a person, could be like, ‘That is the center of it.’ But it doesn’t have a center. Growth can come from anywhere. It can always add another appendage. Appendages can become the full body of the thing. Like, there’s no clear like, um, hierarchical structure. What else do we got goin’ on here? Is there anything else that we want to hit here before we… we move on? What else is nearby? [pauses] Jack and I have a- have done- have already said a few things. I want to make sure everyone gets a chance here to add some color to the starting here. Cause everyone should add one detail about local terrain. 
+Sylvia: Do we want to have like, some water near it or something?
+Austin: Hell yeah. You wanna-?
+Sylvia: Like, you mentioned those like, reverse waterfalls and we had the lake and river-
+Austin: Totally. 
+Sylvia: -near the university, so-
+Austin: Do you- do you want to add a sick, reverse waterfall somewhere here?
+Sylvia: Sure… 
+Austin: [amused] No big deal, right?
+Sylvia: Yeah, yeah, yeah. [overlapped] Let me just find a good blue. 
+Austin: I’m gonna finish out this tree branch. I’m gonna like, turn it a little bit and go like, ‘Boop.’ [whip crack foley] That way it just kind of goes into the distance. 
+Keith: So, the way that the- this is being drawn right now is that… this is… now like, a vertical map?
+Austin: It could be. 
+Sylvia: Oh… yeah. 
+Austin: But it could also be weirdly sideways? It could be… Like, um, what I- The thing that- One of the things that I wanted to hit on before is like, you could be walking on the bottom of this branch we’re looking at and-
+Keith: Mhm. 
+Austin: Uh, it’s Mario Galaxy, Keith. 
+Keith: Right. Ok. 
+Austin: So, like, yes, you start the level somewhere, and you, the player, are like, ‘This is ver- This is top and bottom.’ But when you’re on the side of the thing, it still feels- Your feet are planted under you. You know what I mean? 
+Keith: I could walk… 
+Austin: Around.
+Keith: -the circumference of this branch. 
+Austin: Yes. Yes.
+Keith: That’s nuts. 
+Austin: Uh huh. 
+Keith: Here’s something. You know how- [overlapped]
+Austin: Sylvia, you drew a jellyfish. I’m sorry. 
+Sylvia: I did draw a jellyfish, but it’s also a lake at the top with a waterfall going up.
+Dre: Yeah. 
+Keith: But it’s ok. 
+Sylvia: And then, yeah. 
+Keith: It’s the safest place for a jellyfish to be is right above the- the bottle rocket. [Austin laughs] 
+Sylvia: Well, see, the- the rea- the bottle rocket’s there to point up to show that the waterfalls goes up. 
+Austin: Right. I see. [Keith laughs]
+Ali: Mm. 
+Sylvia: Yeah.
+Keith: Yeah, the tower always points the direction the water is flowing. 
+Austin: Yes.
+Sylvia: It’s a real hazard.
+Austin: Um… so that’s three things. We still need five more. [lightly laughs] 
+Dre: Hmm… 
+Janine: Uh…
+Dre: I’m mean we’re just goin’ anywhere on this map, right?
+Austin: Anywhere on this map. 
+Dre: Ok. 
+Austin: You want to draw a whole new branch? You want to draw like, a- a bunch of flowers? Giant flowers? Tiny flowers? You go for it. You want to draw another city on this map? Rad. Like… 
+Janine: While Dre’s drawing, I have a quick question about the nature of the tree again. 
+Austin: Sure. 
+Janine: Um…
+Austin: Not a tree. But.
+Janine: Oh. 
+Austin: This part looks like a tree. 
+Janine: Ok. Nevermind then. [Ali laughs]
+Austin: Wait, what were you gonna ask?
+Janine: [laughs] I was gonna ask if… if it was like- if there was like, a bark or like, pollen… like, if there were biological tree functions on a large scale. 
+Austin: Yeah. Yeah, yeah, yeah. Totally. At like, a huge scale. 
+Janine: So, it is a tree. 
+Austin: Well… it’s a- it’s a thing that has trees in it, at parts. It’s- and in other parts, it is much more like a bush. And in other parts, it is much more like a… again, like a root system, right? Um-
+Janine: But it is an actual plant and not like a… 
+Austin: Yeah, that’s what I’m saying. It is a-
+Janine: -plant like, metaphor. Ok. 
+Austin: It is a plant. Yes. Absolutely. 
+Janine: Ok. 
+Austin: It is- it is the Spring that has been like, super-charged by…
+Janine: Right. Yeah. 
+Austin: -the unity of the blade and also of the starstuff, you know? That sort of like, all- all-consuming and like, all- kind of- connectedness. 
+Janine: Dre, are you drawing a sassy ent?
+Dre: No, I’m- I’m drawing an enormous Weaver King.
+Janine: Dope.
+Austin: Oh my god! That’s so big, Dre! Ok… We wondered where the Weaver King went, and you’re now telling me it’s bigger than the city… and that-
+Jack: Yeah, this is like-
+Art: It’s like, three times the city. 
+Keith: I mean we’ve got- 
+Janine: I mean everything’s trees. 
+Keith: We’ve got trees the size of the planet. 
+Janine: Everything’s magic trees. 
+Austin: Right. 
+Janine: How do we know the whole exist- 
+Keith: The Weav-
+Janine: -the whole of existence isn’t a Weaver King?
+Ali: Mm. 
+Austin: Exactly. We don’t know anymore. 
+Keith: The time of the weavers has come. [Jack laughs]
+Austin: Honestly? Think about things like-
+Dre: It’s weavers all the way down. 
+Austin: Weaver- My thought is like, weavers? Ready for this. Uh, Wharvers?
+Jack: So ready to go. 
+Austin: Wharvers? Ready for this. Wharvers have already been dealin’ with a bunch of weird bullshit gettin’ from place to place. Um, Callowkeen? That motherfucker can fly. [laughs] Any-
+Jack: The mistral. 
+Austin: The mistral. Perfect! Listen. [lightly laughs] ‘We’ll fly around. Catch you the other way!’ Like. Dre, I especially appreciate that the drawing you’re making now of the Weaver King,  um, goes off screen is how big it is. [Sylvia exhales a laugh]
+Dre: Sure, yeah. [Sylvia squeals a laugh]
+Austin: Ok. Is that a person on the Weaver King?
+[crosstalking]
+Art: Is that a flower the size of a building?
+Dre: I’m tryin’ to draw like, flowers and stuff. 
+Austin: Oh, flowers. Yeah, ok.
+Dre: Yeah. 
+Jack: The size- the size of a city. 
+Austin: The size of a city. 
+Jack: A flower the size of a city. 
+Austin: Yeah. 
+Janine: Flower could be a city.
+Dre: Yeah. Filling in things on this is hard. 
+Austin: It could be a city. 
+Jack: [excited] The flower could be a city!
+Austin: That’s- This is the world we’re moving into. These are the ideas that should be on the plate… On the table… Or the plate. Friends at the Plate. [exhales a light laugh] Um… alright. That’s four. We need four more features for this map. No, that’s five? One, two… three… four. Four. Four. 
+Janine: So… um, can I describe a thing that’s not like, one particular location, but is like, a-
+Austin: Sure. 
+Janine: -like, a feature of the world perhaps? The reason I asked about like, ‘Is there like, pol- pollen and stuff?’ is um, what if now clouds are yellow? Like golden?
+Austin: Oh, they like-
+Janine: Like, what if the sky, instead of being- You know, the sky- I don’t remember if this is a- if this is a myth or if this is a true thing, but the sky is blue because of all the water on earth, and clouds are- are- This part’s true. Clouds are water vapor and stuff. 
+Austin: Uh huh. Yeah.
+Janine: I know that’s true. 
+Austin: That’s part’s right. 
+Janine: Um- [laughs] but in a world where the dominant thing now is plant and not water… which I’m presuming is still true to a degree in terms of what we’re seeing on our maps, um… er map. Singular. 
+Austin: Mhm. 
+Janine: You know, would water vapor be to some degree supplanted, or at least- Not supplanted, but like… Would pollen be [sighs] you know, the number one thing- the number one particulate thing in the atmosphere? 
+Austin: Yeah. 
+Janine: Like, would it make the sky this sort of… gold-green? Would the clouds be kind of like… gold also?
+Austin: Yeah, I love this. Can you add some gold…?
+Keith: My allergies are gonna be so bad.
+Austin: Yeah- Listen. 
+Janine: [overlapped] Yeah, it’s gonna- [laughing] It’s gonna be a problem. 
+Austin: Real Talk. That should be a concern. [Ali laughs] 
+Jack: I bet that it’s- it’s like, season- it’s like seasonal or like, um- it’s like weather, as well, right? Like there’s green clouds and pollen everywhere at all times, but then like, maybe one week this like, pollen storm blows in from what… maybe is north?
+Austin: Listen. Let’s- let’s-
+Jack: I don’t even know. Galactic north?
+Austin: Let’s see what the cards draw, you know? Let’s not- let’s not fill in any blank spaces besides the… features for now. 
+Art: People who thought they didn’t have allergies probably suddenly had alle- Like, this is…
+Austin: Right. Because let me tell you something. There’s no such… Everything is contextual. Everything. [laughs] So… You know how I was like, ‘Everyone is just people. That’s the secret of Hieron’? Everyone has allergies. It’s just you don’t know it yet. [Jack laughs] 
+Art: ‘Everyone has allergies’ has a lot less of a ring to it. [Keith laughs]
+Austin: Yeah, it doesn’t really flow. It’s the- it’s the least- least catchy of our phrases for a season, you know? Um… 
+Art: [in a different voice] ‘Everyone has allergies.’ I mean I guess if you- You gotta sell it. 
+Austin: That’s why they call them allergies. [Keith and Austin laugh] Uh… we need three more things… Any other ideas about things on this map? Any other familiar faces show up? Any other… places from below find their way up? Or just like, cool plant shit.
+Ali: Um, there- all of the like, dirt and rocks and stuff are still there, right?
+Austin: So, I think it’s like, some of them- I mean… Yes and no is the answer? Some of it has shaken loose. Some of it is gone. Like, some of it is just gone. Like I- I don’t want to like, beat around the bush. I think- I think that there has been like, mass destruction because of this process. But some of it has kind of held onto the side here. I do think that like, there are people already trying to farm on the side of this tree. Do you know what I mean? 
+Ali: Mhm. 
+Austin: But uh, I guess, maybe one thing there would be like, how- finding a good amount of soil is probably a nice get. You know what I mean? Like, ‘Oh, wow. Like, a bunch of it fell here from above, literally. Or from below. Or from the side.’ Uh, those things- things definitely moved in that way. But if you wanted to add a bunch of cool dirt somewhere, I think that would be a good feature. 
+Ali: Um, I was gonna add, I think, the opposite of one-
+Austin: Oh. 
+Ali: -which is like, canyon? [laughs] 
+Austin: Oh! Love it. So, just like, rock? Just like.. 
+Ali: Yeah, just like-
+Austin: Yeah, let’s do it. 
+Ali: Yeah, I mean Hieron was like-
+Austin: Yeah!
+Ali: Geographically…
+Austin: Uh huh. 
+Ali: -diverse in a way. 
+Austin: Yeah. 
+Ali: So, like, I don’t know. Which color is a canyon?
+Austin: Good question. Uh, those are fancy fuckin’ clouds. Janine, out here doin’-
+[crosstalking] 
+Janine: I’m using a tablet, and-
+Keith: Yeah.
+Dre: Yeah, no kidding. 
+Austin: Janine’s out here doing shading!
+Keith: Three levels of shading. Three!
+Austin: Get the fuck outta here! [everyone laughs] 
+Janine: It’s-
+Keith: I’m gonna be drawing with a pen and a- like, a touch screen-
+Austin: [sighs] Oh my god.
+Keith: -and it’s gonna look like garbage still. 
+Janine: I got a tablet, but the thing that the tablet does in Roll20 for some reason is it doesn’t make the shape until I stop drawing. [Austin laughs] 
+Dre: Oh, yeah. 
+Janine: So, I’m like, sort of imagining what it’s gonna look like, and then I lift my pen, and then it happens all at once, and that’s a bit of a challenge. [lightly laughs] 
+Keith: So, we’ve- we’ve got the um… tower… the university tower here. 
+Austin: Yeah. 
+Keith: Is this zoomed out far enough that the enormous, um, refugee camps that were surrounding are included in that? Or...
+Austin: I think so. It’s up- that’s up to y’all. Do you think that that- they stayed? What do you think happened here? It’s been three months. I- I do think that that is- I… Jack, drew it, so it’s up to Jack, but I think that that was Jack including the area around the university, right?
+Jack: Yeah. I think- I mean I’m happy to- This is one of these things where like, the answer to this can be whatever we decide is… 
+Austin: Right. 
+Jack: -the most interesting. But I think that there are refugee camps in the- in the puddle? Uh, [lightly laughs] in the bean.
+Austin: Uh huh. 
+Jack: But I think some of them have moved- have moved- I think some of them are gone in the- in the… cataclysmic sort of event. 
+Austin: Yeah. 
+Jack: And I think that some of them have sort of begun to move out onto the branches around. 
+Austin: Gotcha. 
+Jack: Um, uh- unless Keith, you have something cool here that- that’s not that. 
+Keith: Well, I was going to make sure that they were there and put them on the branches around, so if that’s… if- if that’s something that we think happened, then I can draw it. 
+Austin: Yeah, let’s do it.
+Keith: Alright. 
+Jack: Yeah, also, god. These clouds are so good, Janine. 
+Austin: I’m so-
+Jack: I have f.lux on, as well, which I think- [Austin and Janine lightly laugh] has- has rendered them even more impressive. 
+Austin: Um… Hey, who- Is this you, Art? What is this?
+Art: No, that’s not me. 
+Austin: Who is this?
+Ali: That’s my canyon. 
+Austin: Oh, this is a canyon! [Ali laughs] Got you. Gotcha. 
+Ali: I’m tryin’ to show like, rocks going down, but it’s not-
+Austin: Right. Uh huh. [Ali laughs] I was like, ‘This is pretty. I don’t know what it is… but.’
+Jack: Is the canyon like, below this big branch?
+Ali: Yeah. 
+Austin: Like it’s literally… if I was standing on the edge of this big branch, could I look down and see the depths of this canyon?
+Ali: I think so, yeah. 
+Jack: It’s like, ‘what if a branch crossed the Grand Canyon?’
+Austin: This-
+Ali: Yeah. 
+Austin: Right. But- but the thing that’s wild about this is, you would be on that branch… looking like, at the horizon, but instead of seeing the horizon horizontally, what you would see is the Grand Canyon folded, like in Inception.
+[0:30:00]
+Jack: It’s the best at the big hole.
+Ali: But it like, stretches…
+Austin: But I’m saying it’s straight down. It’s like- it’s like-
+Ali: Right. 
+Austin: Yes. Ok. I think that’s a really good way of communicating that we’re like, in the middle of a- of like, a mess of branches and- and roots and stuff, ya know? It’s not just like… We’re not just like, ‘And this is the one layer of reality.’ [lightly laughs] 
+Ali: Mhm. 
+Austin: Ok… um, Art. 
+Art: I’m tryin’ to put Tabard’s community somewhere-
+Austin: Ok. 
+Art: -and I’m just tryin’ to plot it out and then figure out what I would draw for that. I mean I- I have an idea, it’s just not…
+Keith: All my pen would do is make dots. It wouldn’t draw.
+Austin: Oh no!
+Keith: Yeah…
+Austin: I’m sorry. 
+Keith: It’s ok. 
+Austin: Is that what these little green dots are?
+Keith: Yeah. It was me tryin’ to draw. I was like, ‘How come all I can do is dots?’
+Austin: Is each of those little dots a person?
+Keith: [laughs] No- [Dre laughs] No, no.
+Austin: Those would be big people, actually. [lightly laughs]
+Keith: Those would be very big people. And I can’t- See, it looks like I can’t even zoom in close enough on- That’s fine. It’ll be fine. 
+Austin: Mhm. 
+Keith: I’ll get it. I’ll get it… How do I delete again?
+Austin: I can do that. Want me to delete?
+Keith: Ok. 
+Austin: Boop. Op! One’s left. Wha- Hey, get over here. Come here. I gotta zoom in… 
+Dre: Get that dot!
+Austin: [whip crack foley] There it is. Done. 
+Keith: There. Awesome. 
+Austin: Got it. 
+Keith: Alright. 
+Austin: Uh, so your last thing here is Tabard’s community- is Alcyon, Art.
+Art: Yeah, um-
+Austin: Where do you think that is?
+Art: Well, I’m looking at a visual reference right now, so I’m… not on the map. Um-
+Austin: Great…
+Art: Look, you said it- that there was mediterranean-
+Austin: Uh huh. 
+Art: -and I can’t draw, so here we go. I think I’m going just like, immediately west of the canyon. 
+Austin: Ok. So, fairly close. Closer than the Weaver King. 
+Art: Yeah. 
+Austin: Ok. 
+Jack: Although we don’t know what distances are yet really. 
+Austin: We don’t. You’re right. But I- Well, relative, still closer than the Weaver King. 
+Jack: [laughs] Yes. Closer.
+Art: Well, there’s not a lot further than the Weaver King. 
+Austin: Well, there is. We don’t see it because… 
+Art: Well, if it’s- if it’s not on the sheet we have, it- it’s- I’m not doing a very good job of helping build a map. 
+Austin: No, I understand. [amused] I’m just saying… 
+Janine: It’s closer than the length of the reverse waterfall jellyfish. 
+Austin: It is. Well, wait… I think it’s further than the range of the reverse-
+Art: No, it’s further than-
+Janine: Wait... we’re looking at the wrong...
+Art: -the jellyfish waterfall. 
+Austin: Those little squares are Keith’s refugees. 
+Janine: Oh! Ok, ok. Sorry. 
+Austin: Uh, Art, you could extend this- this like, side branch. Oh, I see where you’re putting it. That’s also good.
+Art: I’ve already started. 
+Austin: Yeah, ok. Alright. So, I think that’s eight things. We got some communities. We got some waterfalls going upwards. We’ve got a big tree. We got Alcyon down here on this other- this other tree limb. We got a gigantic Weaver King. We got a canyon. We got pollen. Uh… pollen clouds. And we have the Last University. So… we’ve sketched some terrain. [reading]  ‘Now we each declare one important resource for the community. Something which we might have either an abundance or scarcity.’ Some examples are clean drinking water, a source of energy, protection from predators, adequate shelter, food… Um, ‘choosing a resource makes it important. If you pick gasoline, it becomes something that your community wants and needs. As a group, we now choose-’ 
+After we choose those eight things, we’re gonna choose two of them that we have in abundance. And the others we will not have in abundance. By default, the game says one, but the game is for two to four players, so having seven things in- that we need, that we don’t have would be like, a lot at first. So… let’s come up with seven things that we need and/or want, and I will add them to our list of resources at the top. What’s a resource that we need or want? What’s a resource that’s important to this community?
+Janine: Roads. Paths.
+Austin: Roads slash paths. Ok. What else?
+Dre: Uh, I was gonna say maps. Is that too similar to roads or paths?
+Austin: No, I think that’s an important distinction. 
+Janine: That’s a very different thing, yeah. 
+Austin: Yeah, absolutely different. Um… ok. Road, paths, maps. What else?
+Art: Sunlight?
+Austin: Sunlight. Um, I’m gonna make food and wa- Hm, should food and water be one thing? Yeah. 
+Jack: Hm. Yeah. 
+Austin: I feel like once you have that water supply, you can- y’all know how to do some stuff with that. You’ve- you’ve cut your teeth on limited supplies at the beginning of this last season. I feel like I’m not gonna make food and water be separate things. Four more. 
+Jack: Flight. 
+Austin: Flight. Important… So important it went off the screen. There we go. 
+Ali: Is there some like, aspect of just like, community?
+Austin: Yeah, I think like, that’s a totally- Like, a sense of community?
+Ali: Yeah. 
+Austin: Is totally a thing that I-
+Ali: Or just like, being around people, right? Like-
+Austin: Yeah. 
+Ali: People are more spread out. 
+Austin: Yeah! No, totally. What do you want that one word to be? Is community fine?
+Ali: Yeah, that’s fine. 
+Austin: Cool. But yeah, I know exactly what you mean. Yeah. Um… two more. I think… Who hasn’t said? Sylvia? Did you say one?
+Sylvia: Yeah, I’m still tryin’ to think of one. 
+Austin: Ok, Sylvia and… and-
+Keith: Uh, yeah.
+Austin: Keith. 
+Keith: I’m the other one. I’m the last one. Let’s see… The- the thing that I keep thinking of, but… but not… specifically cause I like it, just cause it keeps popping into my head is um, if there’s all these- if there’s like, all these plants now, I bet there’s a lot more oxygen.
+Austin: Uh huh. 
+Keith: And uh, I- One time, years ago, watched like, a Discovery channel special where they talked about how bugs used to be really big cause there used to be more plants cause there used to be a lot more oxygen in the atmosphere. 
+Austin: Uh huh…
+Keith: And the oxygen in the atmosphere is what- uh, the limited oxygen in the atmosphere is what limits the growth of insects. Um, and given more oxygen in the atmosphere, insects would grow just bigger and bigger and bigger. 
+Austin: Uh huh. 
+Keith: Um… so, maybe it’s that. Maybe it’s- it’s uh-
+Austin: Is that like-
+Janine: We need big insects. [lightly laughs] 
+Austin: [amused] No, no. 
+Keith: Well…
+Jack: [laughing] We need a bug.
+Austin: Is this like, safety? Or is this like-
+Keith: It’s safe- Yeah, this is a safety issue, I think. 
+Jack: Oh, we’re frightened of the bugs.
+Austin: We’re frightened of the bugs. 
+Keith: We’re frightened of the bugs. We’re not- I- I mean I suppose that we’re…
+Austin: Well, we don’t know yet. 
+Keith: -friends with some of the friendly bugs. 
+Austin: Maybe we’ll get a- maybe one of the two that we decide we have in abundance is safety. Uh, but we will see. Alright, one more. 
+Sylvia: So, I hope this isn’t too vague, but I’m trying to think with all of this new- one, all this new plant life, but also with like, everything sort of coming out on the same layer in a lot of ways-
+Austin: Mhm. 
+Sylvia: -would like… I’m tryin’ to think of like, if… like, knowledge about this stuff would count as that? Because it’s like, ‘How do they know what they’re gonna eat? And what-’
+Austin: No, knowledge is totally-
+Sylvia: Yeah. Yeah. 
+Austin: The only thing there is like, do we want to fold that into maps? 
+Sylvia: Yeah… That’s what I was worried- I was wondering if it would like- I feel like a lot of that stuff falls under other categories. But um-
+Janine: What about like.. [sighs] Uh… I was thinking like, adaptability or something- something along the lines of like, being able to… uh… [lightly laughing] really be on your toes, in a general sense? But that- I don’t know. 
+Austin: I feel that’s too abstract. 
+Janine: [quietly] Yeah. 
+Austin: I’m- I like knowledge as a thing here. My only question is is it too close to maps? Which feels… 
+Janine: Maybe it’s the accumulation of knowledge which… kind of rolls in with maps-
+Austin: Yeah. 
+Janine: -but also is in a- you know, in a broader sense could be-
+Austin: Mhm. 
+Janine: -medical knowledge, could be knowledge of other communities that have arisen out of literally nowhere, basically. 
+Austin: Totally. Totally. My- my… The only thing that I’m concerned with is that road, paths, maps, and- and knowledge… I want to make sure that we are hitting- I want to make sure that like, a solution doesn’t- one solution doesn’t fix all of those at once. Which it- which I- it shouldn’t, so we’ll see. But just- let’s be mindful of that possibility, if that makes sense. Um… alright. So, our current resources. The resources that are important to this community right now are roads and paths, maps, sunlight, food and water, flight, community, safety, and knowledge. 
+[reading] ‘As a group, we will now choose two of those to be in abundance. It gets listed as a- as being an abundant resource on the map. The others get listed as Scarcities, and the players who called them draw their absence or scarcity onto the map somehow. Remember that symbols and symbolic representations are fine, but words should be avoided.’ Um, so- And likewise, abundances should get drawn onto the map. Um, what- what do we think here is abundant?
+Keith: I have a- I have a pretty strong reflex of what I think.
+Austin: Oh?
+Keith: Which is that like, we spent the entire season working to have like… like very concrete like, food and water and safety as things that were not huge problems, and I think, at least, one of those I would like to see carried into this epilogue.
+Austin: An abundance. Yeah. 
+Keith: Yeah. 
+Austin: Uh, anyone else have strong feelings on these? 
+Janine: I would totally support food and water as an abundance given the proximity to the waterfall, given the fact that food was such an ongoing like, concern that I-
+Austin: Yeah. 
+Janine: -it feels exhausting to- to put- make it a focal point now, as well. 
+Austin: Yeah. I’m down with that. Food and water. Less- again, unless there’s an objection to it. Um… 
+Janine: I also strongly feel that roads and paths should- should be a scarcity. 
+Austin: I- I feel strongly that flight should be a scarcity. [Austin and Janine lightly laugh] 
+Dre: Aw man!
+Keith: Yeah. 
+Sylvia: Yeah. 
+Jack: Yeah. I agree.
+Janine: Good luck- good luck drawing that one, Jack. 
+Jack: I can draw that one.
+Janine: [laughing] The absence of flight. 
+Jack: You ready? Yeah! [Keith laughs] You know what absence of flight in a place like this look like?
+Keith: [overlapped] A person-
+Jack: It looks like a fuckin’ ladder. [Janine laughs]
+Dre: Just a person shrugging. Being like, ‘Well, can’t-’
+Jack: No, no. I’m gonna draw- 
+Dre: ‘Can’t go there.’ [laughs]
+Jack: [laughing] Yeah. Oops! Um… I’m gonna draw… The problem- Hmm… Ugh, god. Why am I this color?! [laughs] 
+Austin: You can change it. 
+Jack: [laughing] Why is this one my default?
+Austin: You can change it!
+Jack: I- I’ve started drawing now. 
+Keith: Where is it? I don’t see it that color.
+Jack: I’m drawing like, a little… um… staircase. And these staircases are like, extremely treacherous cause they’ve just been like, cut into the… trunk or the branch, I guess. Um-
+Keith: That sounds extremely sturdy to me.
+Jack: It’s treacherous because they’re small, and you go down tight uh-
+Keith: Right. 
+Jack: -turns and there’s like, rope banisters or whatever. And everyone’s like, ‘If we could fly here… um, this would take us like, forty seconds.’ [Austin laughs] 
+Keith: God, what an impossible seeming thing to solve. [laughs] 
+Austin: Listen, we’ll see. 
+Janine: I’ll say you know what’s notoriously good at keeping a consistent, regular shape even under changing environmental conditions? Wood.
+Jack: Mhm. 
+Austin: Love it. 
+Jack: I want to be clear, this staircase goes around the trunk. It like, wraps around it rather than just being [laughing] like, a sort of horrible Jacob’s ladder construction. [Janine laughs] 
+Austin: [laughs, over Jack] Through it. Yes. Um-
+Dre: Is food and water one resource or are those are two?
+Austin: One resource. 
+Dre: Ok. 
+Austin: One resource and is abundant now. So, we need one more thing that is- that is abundant from this set. 
+Janine: Uh, for the sake of transparency, I’m representing the scarcity of roads and paths as roads and paths that are very short and stop abruptly before they’re useful, in terms of getting outside of your community. 
+Austin: Mm, good. Love it. 
+Dre: Mm. 
+Jack: Where it’s like, ‘How far can you go?’ ‘Over there.’ 
+Austin: [laughs] I don’t know. How do you build a fuckin’ road on this thing? 
+Janine: Or the other thing is like, where does this- where do we want this road to go other than out of town somewhere?
+Austin: Yeah. Right. Um… [sighs] 
+Dre: What about… I feel like the two things I’m drawn to as being potentially abundant are either sunlight or safety. 
+Austin: I lean sunlight between those two. 
+Dre: Ok. 
+Austin: Uh, the other one that I would be… I would be fine with- The other one that I think like… could be abundant is community because we’ve wound up with Alcyon nearby, and y’all were on good terms with them. There aren’t roads to connect yet though, and I feel like maybe that’s- or maps, so like, maybe that’s a thing that like, you could- you know? So, maybe I’m wrong there. Maybe it’s sunlight that- we know there’s a bunch of suns… Ya know? I don’t see a lot of- I don’t see a lot of like, tree cover-
+Janine: [quietly over Austin] That’s true. 
+Austin: -right here in this part.
+Keith: Is… [stammering] Well, hold on. We have not mentioned the sun thing. 
+Austin: We did in the- in the thing I read at the beginning of the recording.
+Keith: Oh, we did? Ok. 
+Austin: There are countless suns. Hund- A hundred plus suns. 
+Keith: Yeah. 
+Austin: Different colors. Different sizes. Different shapes. 
+Keith: Now is… is that many suns- is that not dangerous and not count as… Does sunlight mean literal sunlight, or does sunlight mean there’s too much sunlight?
+Austin: I think if it’s abundant, it means you have it in the right amount.
+Keith: But if it’s scarce, does that necessarily mean we don’t have enough?
+Austin: It means there’s a scarcity of the proper amount of sunlight, which means if you want to read that as… I believe- Like, I’m saying that I think, based on someone saying- Who said sunlight originally?
+Keith: Art.
+Art: I did. Yeah. 
+Austin: Ok. Did you mean… did you mean… did you mean it in a relative way or in- as in, ‘this is the right amount of sunlight’ or did you mean it in an absolute way as in, ‘there is not enough versus there is a lot’? 
+Art: Oh, I definitely meant it like um, just like, it’s- it’s… it can go- I think it’s an either way problem. 
+Austin: Right, yeah. 
+Art: Because of the- there is- there’s a ton of suns, and there’s also… a twisty tree. 
+Austin: Right. Right. Um, oh shit. This- this is- Now this. This is what you want to see. 
+Keith: So- so flight- So, for abund- flight’s out. Roads and paths, out. This whole thing’s new, right? So, maps and knowledge are probably out. 
+Austin: Right. 
+Keith: So, it’s down to like, sunlight, community, or safety?
+Austin: Yeah. I think sunlight’s the one there that I’m the most there for.
+Keith: Yeah. 
+Austin: Which is a luck thing in some way, right? Because it’s like, ‘Wow, we wound up at the right part of this tree. Or of this root system.’
+Keith: Yeah. 
+Austin: ‘This tangle.’
+Keith: ‘We’re far enough away from the suns where it’s not burning us.’ 
+Austin: Yeah.
+Keith: ‘But also, we don’t live in a world of darkness.’
+Austin: Right. 
+Janine: [overlapping with Art] I mean we’re not like-
+Art: I really don’t know how to draw the right amount of sun. [Keith laughs] 
+[0:45:00]
+Austin: Just draw… you tell me. Yeah. A couple of people were talking at once. Sorry there. I know Jack and Janine both had a thing to say.
+Janine: Uh, I was gonna say that because we’re in that like, crotch between the- the branch situation that maybe that blocks the suns sometimes. 
+Austin: [amused] Yeah, uh huh. [lightly laughing] Can we not call it the crotch? [Dre laughs hard] 
+Janine: That’s the term. That’s the term for it. 
+Austin: I know…
+Janine: That’s the scientific… That’s the term. 
+Austin: Sometimes science is bad.
+Jack: I-
+Janine: [amused] You’re the one who made this a complex tree world full of crotches, so-
+Austin: I did. You know what? You got me. 
+Dre: [quietly] Oh god. 
+Jack: I didn’t have anything to say. I think someone else was speaking. 
+Austin: Oh, ok. 
+Jack: Um, but I would like to say that I don’t like the word crotch in this world.
+Austin: Thank you. I am gonna draw a little farm to represent food and water. Wait, was that me?
+Keith: Oh, I’ve gotta draw the bugs, right?
+Austin: Who drew- Did I say food and water? I think I did… Yeah, I think I did. Uh, you do have to draw the bugs. That’s not right, uh… Those are different colors… 
+Sylvia: Do I represent a scarcity of knowledge by just putting a bunch of question marks around the university or…?
+Austin: I think it’s pretty funny to do that. [Sylvia and Janine softly laugh] Yeah. 
+Keith: [whispers] God. This thing where the… drawings don’t show up until after you’ve let go is really bad. 
+Austin: Yeah, it’s rough. Mhm. 
+Janine: I feel like it didn’t use to do that. 
+Austin: Me, too. [lightly laughs] 
+Sylvia: There it is. 
+Austin: It’s so funny to me. [Sylvia laughs quietly]
+Keith: Oh. 
+Sylvia: We don’t know shit!
+Austin: So, there’s our food right there. Um, some agriculture happenin’. I’m also gonna draw like, a little… Here’s what I’m gonna draw is I’m gonna draw like, a little dock on that lake. 
+Jack: Oh my god. Who drew- who drew the compass?
+Dre: That was me for uh, scarcity of maps. 
+Jack: Yeah, no. 
+Austin: What did- what’s the- Oh, that compass is wrong!
+Jack: That’s a compass that is just not… [Janine breathes a laugh]
+Austin: That’s an incorrect compass.
+Dre: There’s just some stuff goin’ on, ya know?
+Austin: Um… alright. This looks like a… Wait, oh! Is the sunlight smiling? It’s smiling cause it’s the right amount of sun. Got it.
+Art: Right amount of sun. Smiling sun. 
+Austin: Smiling sun. Uh, alright. Is everything else here? Flight. I see those- I see that ladder. I see the stairs. Community. How do we show a lack of community? Ohhhh, is this your spiderweb?
+Keith: This is- I’m doing a spiderweb, yeah.
+Austin: Ok. Ali, was that? [coughs] Sorry, I thought that- I thought that your lack of community was like… this spiderweb. [Austin and Sylvia breath laughter]
+Ali: No. It’s just these squares that are all spread out. 
+Austin: Ok. Oh, the spiderweb- Wait, wait! Wouldn’t the spiderweb make it safer? From bugs?
+Keith: Um…
+Sylvia: Less safe from spiders though. 
+Austin: M’kay.
+Keith: Yeah, spiders are bugs that are dangerous when they’re huge. 
+Austin: Ok. 
+Janine: Giant spiders gonna think you’re a bug… and eat you.
+Austin: Yeah… I guess that’s true. 
+Keith: Yeah. 
+Dre: Damn.
+Austin: Oh, make sure you don’t draw any bugs in the web. That way we know the bugs are still out there, too. 
+Keith: Yeah. Oh, no. The bugs are still out. 
+Austin: Ok. 
+Keith: This is just one repres- This is just a representation of one of many different kinds of bugs we could be afraid of. 
+Austin: Uh huh. Right. Um, and so, Ali, those squares are like, individuals living out in the world? 
+Ali: Yeah. 
+Austin: Gotcha. Ok. Um… [thinking noises] tchoo-tchoo-tchoo I think that’s everything. Is that everything? Yeah. And all- drew out the question marks. Good. Ok. Wait, maps. Oh, right. The compass. Ok. [laughs] We’re good. Alright. So, chapter three. Rules. [reading] ‘The basic unit of play in The Quiet Year is the week. Each week is a turn taken by one player, with play proceeding clockwise around the table.’ We need a system of figuring out what our order is here. We’ll come up with that in a moment. ‘Weeks should take an average of two to three minutes to complete.’ I bet we go a little longer on some weeks, but we shouldn’t- we shouldn’t feel like, obliged for every week to be a fifteen minute diatribe. Do you know what I mean? Like, if you have a thing that you want to get in and get out, you should feel free to do that. We are not reducing the amount of cards we’re gonna go through here, so that way everyone gets a healthy amount of scenes. 
+Um… the- [reading] ‘During each week, the following things happen: One, the active player draws a card, reads the relevant text aloud, and resolves it. They follow all bold text. Two, project dice are reduced by one, and any finished projects are updated. Three, the active player chooses and takes an action.’  And those actions are Discover Something New, Hold a Discussion,  or Start a Project. So, there are fifty-two cards; there are fifty-two weeks. We don’t need to play them all because- er, the- when you know- you know that when we get to winter there’s a chance we could just draw the King of Winter immediately, and that could end winter. Um, and I think most of this stuff is stuff that we all know, right? 
+Most cards have- have the option to choose from two different things. ‘You pick the option that you find the most interesting and fitting, and read the text aloud. The card might ask you a question, bring bad news, or create new opportunities. Many cards have specific rules attached to them. If you drew the card, it’s up to you to make the decision that the card requires. If a card asks you a question, think about whether your answer could be represented on the map somehow. If it fits, update the map to reflect this new information. For example, if the card asks you about the sleeping quarters for the community, you might end up drawing a row of tents near the edge of a forest.’
+And the, [reading] ‘Unless your card specifically told you otherwise, the next step after drawing a card is to reduce projects.’ And I think like, maybe we should just draw a card and- and get going, and maybe try to get through this first season. And we’ll kind of take it turn by turn, as- and I’ll read the rest of the instructions as that- as that goes? Does that make sense?
+Dre: Yeah.
+Keith: Yeah, works for me. 
+Sylvia: Yeah. 
+Austin: What sort of order do we want to go in here?
+Dre: Uh, do we want to just follow like, the Roll20?
+Austin: What’s it- 
+Dre: Order on the bottom. 
+Austin: What’s your Roll20 look like at the bottom?
+Dre: Uh, it’s Austin, Keith, Janine, Andrew, Sylvia, Art, Jack, Ali. 
+Austin: I’m good with that.. if people are. Unless someone else really wants to draw first. I don’t need to draw first. I don’t- I don’t have like, a compulsion here. I don’t want to like, feel like I have to set the scene, if someone else wants to go first. Um, I’m happy to if no one else wants to. And I’m happy to if people are happy with this set of… this order of operations, also.
+Keith: Yeah, works for me. 
+Ali: [exhaling] Yeah, this seems easiest. 
+Austin: Ok, let’s use that bottom set then. I’m gonna draw a card. This is- Ok, now I’m nervous. [Dre and Sylvia laugh] Hey! Look at that. [laughing] I drew a big purple line across the- the map. Great. Uh… the Jack of Spring. Either- God, how do we- Ok, you know what I’m gonna do really quick, actually? Is I’m going to- Let’s resolve this card. Um, I’m gonna move ev- all of the stuff we’ve drawn to the map layer so that this is not under it all. 
+Jack: [amused] For the viewer, [Ali laughs] what happened was Austin drew a card [Austin laughs] that, based on the scale we have on the map right now, is the biggest thing that has ever existed [laughter] and was underneath the drawing layer of everything we drew. 
+Austin: Uh huh. Then I need to do this. And I need to move this to the back. There we go. Alright. Alright, now I can go back to the objects and tokens, and I can pull this gigantic card back. The Jack of Spring. ‘You see a good omen. What is it?’ or ‘You see a bad omen. What is it?’ [exhales] God. Um… so… I think you see a good omen. That omen is… Ephrim, do you remember when your sword broke?
+Sylvia: Yes. 
+Austin: Do you remember when the sun split in two?
+Sylvia: I do. Yeah. 
+Austin: There’s a day when y’all are out doin’ whatever you’re doing; clean up, exploration, research, knowledge. Where- Actually, where are you on some random Tuesday? Like what is- what’s Ephrim’s life like at this point?
+Sylvia: I think it’s a lot of- Like, early on, it is a lot of staying at the university, no matter how much it’s like, ‘I should go explore that.’ 
+Austin: Mhm. 
+Sylvia: Cause it’s- there is no telling whether or not this- it’ll… Ephrim’s worried that it might suddenly fall down even.
+Austin: Sure. Fair.
+Sylvia: So, I- There’s a lot of just staying at the university, specifically at the tower, making sure everything’s like, still there. 
+Austin: Yeah. Yeah. 
+Sylvia: Yeah. 
+Austin: Um, so, I think in the middle of like, maybe doing your rounds-
+Sylvia: Mhm. 
+Austin: -you catch out of the side of your eye, up in the sky, past- like, beyond the branches, beyond the roots, two objects moving in the sky. And you realize they are the two halves of the sun that was your blade. And I- Maybe this is um… I think it’s a good omen, but maybe- maybe Ephrim specifically won’t, but the two… the two halves are like, darting across the sky. Like, they’ve picked up speed from orbiting around everything. And they’re almost like, dancing with each other. Like, it’s almost like these two crescents of liquid fire- like, spinning around each other like dolphins in the sea, and then they crash into each other and recombine. 
+And two half suns became one new sun that’s very far away. It's not as close as the nearest sun. It’s almost like seeing, you know, a- a pair of stars do this, but bigger than the- It’s almost like looking at something like, the size of the moon kind of come back together. The thing that you know is, your sword hasn’t been rebuilt. So, this is not like… maybe for Ephrim, the question ends up being, ‘Hey, is this just not connected to my sword anymore?’ [lightly laughs] ‘Is- Have things changed that dramatically?’ But I think for the community at large, seeing the old sun reunite is like, ‘Hey! Good… good omen! Um, love to see that happen.’ How does Ephrim feel about that?
+Sylvia: You know… [clears throat] I think- I think he’s kind of also on the same side of… It like… It is a good thing as a whole… It is a good thing on the whole. 
+Austin: Mhm. 
+Sylvia: But the fact that it is a sign of that magic truly being severed-
+Austin: Yeah. 
+Sylvia: -makes him scared. 
+Austin: Sure. Fair. I’m gonna draw a second sun in the sky, but tinier. I’m gonna have it be like, here. Boop. Alright. Then I have a choice. Either I can work on a project, I can discover something new or- Sorry. ‘I can work on a project’ is the next thing that happens, no matter what. You work on projects after you draw your card. [reading] ‘Unless your card specifically told you otherwise, the next step is to reduce each project die,’ but we don’t have any project die out yet. So, we are not gonna need to handle that yet. Instead I have a choice. I can either discover something new, hold a discussion, or start a project. I am going to start a project. 
+[reading] ‘The final action type is Start a Project. You choose a situation and declare what the community will do to resolve it. There is no consultation about this idea- the community simply begins work. Some example projects: We’re converting the mineshaft into a cold- into cold food storage. We’re killing these wolves. We’re going to sacrifice a newborn on the night of the full moon, to appease the Windwalkers. As a group, quickly decide how many weeks the project would reasonably take to complete, minimum one and maximum six.’ I’m actually going to increase that maximum for this thing I’m gonna do… Uh, I don’t know why I started talking like Mar- like, Mario there for a second, but I’m gonna do. 
+Uh, [reading] ‘remember that you are a small community. It isn’t easy or quick to build a house or repair a waterwheel.’ Ok, our scales are off, but- ‘Do you have the necessary tools and expertise to do this? Be generous with your assumptions, but do remember that scarcity and difficulty are the norm. If a project would reasonably take longer than six weeks to complete, it would need to be completed in stages. Place a die on the map wherever the project is taking place, with the die face matching the number of weeks it will take to complete.’
+So, here is the thing that’s happening. In… eight weeks- I’m gonna bring this eight week clock down. I’m gonna make a new one. Uh, I’m just gonna put it up here. Also, this is where I’m doing any of my weird GM shit is gonna be on my turn. I’m not like... all the clocks will start on my turn. I’m- I don’t have any like, secret clocks already ticking in the background. It’s all just gonna be when my turn comes up. So, um.... Severea is going to do the thing that she said she was gonna do. Which is she is leaving, and she’s taking people with her if they wanna go. She is convinced that there is something else out there in the Heat and the Dark, in the black. Um… I don’t think there is. Maybe there will be by the time she gets there. [lightly laughs] 
+But she is relaunching the carcass of the moon into- away from this and into the Heat and the Dark. And she’s gonna do that in eight weeks. And this eight weeks is like, people going on journeys up this tree branch towards the- where the moon is- where that half of the moon is- or where the remains of that moon is, and- and where like, she and the mistral are preparing to do another ritual to launch it and everyone on it into space… question mark? Um, into the Heat and the Dark? Uh… I don’t think this is a good idea, but- but she’s gonna do it. And I suspect that some members of your community who don’t want to live in a big tree forever are actually kind of interested in that- in that idea. So, there it is. There’s the- There’s my new project. I’m gonna draw a little horse to represent the Grand Tour. Fuck, I have to draw a horse now. [sighs a laugh]
+Keith: [laughs] Can’t you get a clipart horse?
+Austin: I could get a clipart horse. But I’m gonna try to draw first.
+Keith: Does that defeat the spirit of uh-?
+Austin: I think it- I think it’s against the spirit for my first drawing to not be a horse. 
+Ali: It’s just like a dog with a… you know- 
+Austin: I can’t… Yeah, uh huh. 
+Ali: -with some hair. 
+Austin: Ok, but remember, we can’t see [laughing] what we’re drawing. [Ali and Jack laugh] 
+Keith: It’s also- it’s also- it’s very Friends at the Table to draw a bad horse. 
+Austin: You’re right. [Ali laughs] Oh boy. Ok. Ok! Ok. 
+Ali: Oh, look. 
+Keith: Where’s this?
+Ali: Yeah, this is fine. 
+Austin: And then like, legs… Oh, that’s a leg. 
+Ali: Yeah. 
+Austin: Uh huh. 
+Janine: Oh, I thought you were- Ok…
+Austin: What’d you think I was gonna do?
+Janine: I thought you drawing a horse head in profile, but then you did a… then the-
+Austin: Now it’s a bug. 
+Janine: -the thing I thought was a face was a [laughs] bug.
+Austin: Uh huh. 
+Ali: Just add a tail, and it’s a horse again. 
+Austin: There it is. Now it’s got a tail. 
+Ali: A tail and a mane.
+Keith: You should- you should move that thing so it’s stuck and in the web. [Austin, Sylvia, Jack, and Keith laugh] 
+[1:00:00]
+Austin: Op! Now it’s like, a knight! [laughing] Now it kind of has like, a helmet on. I don’t- [groans] Ohhh boy. It’s a horse. It’s a-
+Jack: So, this is like, departing up that northern branch. 
+Austin: Yeah. And now it- [laughs] This is its mane. [Ali laughs] 
+Jack: [amused] It’s this wild hair. 
+Austin: Just wild hair!
+Janine: Get some ears at some point or…?
+Austin: Where are those at? No. 
+Janine: Ok. 
+Jack: Where do they go on horse? The ears? Who knows?
+Austin: Yeah, who knows?
+Keith: I like that it’s got like- it’s got like, sort of like, a predator thing goin’ on. [Janine laughs] 
+Austin: It does. [laughs] I seem to have given it-
+Ali: Do horses have ears?
+[overlapping]
+Austin: Yeah. 
+Sylvia: Yes.
+Keith, Austin: Yeah.
+Keith: Yeah. 
+Ali: [laughing] Ok.
+Jack: Do they- [laughing]
+Austin: There. 
+Janine: [laughing] What? What the-
+Austin: I’ve drawn a different color. There we go. [Ali and Jack continue laughing] Uh, and then I’m gonna make a little moon symbol next to it. That’s what I’m gonna get a clipart for. I’m gonna get a moon clipart. 
+Ali: Oh. O-
+Janine: Draw- just draw a seal with legs. 
+Austin: Oh, ok. Gotcha. Um…
+[overlapping]
+Janine: That’s all a horse is. 
+Jack: Why does the horse have a beard?
+Austin: A beard?!
+Janine: What? [Austin and Ali laugh] 
+Jack: This bit is its beard. 
+Austin: Oh, you just did the whole thing. 
+Ali: That’s its face. 
+Keith: That’s its nose-
+Austin: It’s its…
+Ali: Yeah. 
+Austin: You know, we all have different… lives.
+Keith: -or snout. 
+Jack: A horse and a goat are the same animal; it’s fine. 
+Austin: Great. I’m gonna delete big, terrible moon. 
+Jack: Big moon there you got, Austin. 
+Austin: I got rid of it. It’s a bad one.
+Keith: I like how the sun has a smile, but it- Oh, it does have eyes. Ok. It’s not just a smile with… Oh, that’s a huge- 
+Austin: I made this tiny.
+Keith: -very realistic moon. I-
+Austin: I’ve made it small. It’s a small moon now. 
+Keith: Ok. Ok. 
+Austin: Not to scale. 
+Keith: I think it- I think it clashes with the… [laughing] with the rest of the board.
+Austin: [resigned] Alright. Fine. I’ll draw a moon. 
+Keith: The moon was the easy one to do. It’s just a circle. 
+Austin: Oh. 
+Keith: With some stuff. 
+Austin: Yeah, true. 
+Keith: Yeah. It’s just a circle filled with circles. 
+Austin: Oh boy! That’s not even the right shape!
+Keith: And no one knows… which circle is the real circle. 
+Austin: Which cir- Right. Yeah. Mhm. 
+Keith: Which circle begot which circle on the moon. 
+Austin: No one knows. 
+Keith: No one knows. 
+Austin: There we go! That’s a moon. Or a face. [overlapped while laughing] A surprised face!
+Keith: It looks like one of those Princess Monoke guys. 
+Austin: [still laughing] It does! Alright. Well… [Dre and Keith laugh hard] 
+Keith: Its- Then its head starts spinning. [Austin groans] And the moon starts spinning around and like, clicking. 
+Austin: Janine, that- these raccoons- one of them is not a raccoon at all. 
+Janine: Which one? Is it-
+Austin: The pink one… with the nose!
+Dre: Yeah, the pink one. [Keith laughs] 
+Janine: [laughing] Oh, yes. 
+Keith: Just a second, is that a dog that hangs out with them?
+Janine: I don’t know. I never watched it, but there’s a couple-
+Keith: That looks like a really bad dog. 
+Janine: That’s like- He’s the nice one, but there’s also a mean one who is like a mean boss. He’s like, a very capitalist. Whatever that thing is. [Austin exhales a laugh] 
+Keith: Why do they have like, weird droopy noses?
+Austin: I hate this. [Janine laughs] 
+Art: Oh. 
+Keith: Why-?
+Sylvia: It’s apparently an aardvark; the pink thing. 
+Austin: No. 
+Dre: Mm….
+Ali: Oh. 
+Janine: Sure. 
+Sylvia: It’s Cedric Sidney Sneer; the nice one. 
+Keith: These are like if someone- if someone had to draw a bunch of raccoons, but they had never seen a raccoon, and only had ever seen Squidward from Spongebob. [Austin laughs lightly]
+Dre: Jeez. 
+Austin: Jeez, alright. We should uh-
+Art: Wow. 
+Dre: What a very specific burn.
+Austin: We should keep moving. That is my turn. That is the- the whole of my turn. Um… [thinking noises] da-da-da, let’s double check. I’m just gonna double check there’s nothing else here. Start a project. Um… did the- did the thing. Ok. At the start of the game- Yep, ok. Uh, I don’t think any of these projects have changed… the- er that project- starting that project certainly hasn’t changed anything. I don’t think anyone took contempt, so I don’t need to read about contempt. Um… alright. I think that that’s my turn. Keith? Do you-
+Keith: Hello. 
+Austin: -wanna draw a card?
+Keith: Sure. The Eight of Hearts. ‘An old piece of machinery is discovered, broken but perhaps repairable. What is it? What would it be useful for?’ or ‘An old piece of machinery is discovered, cursed and dangerous. How does the community destroy it?’ Jeez.
+Austin: Damn good question. 
+Keith: Are we all luddites now? Um...
+Austin: Machinery can be understood pretty broadly here, you know?
+Keith: Yeah. 
+Austin: I would say like, magic is machinery. I would say… a lot of shit that we’ve used over the years is machinery. 
+Keith: Let’s see. What’s- Let’s- What’s some… What’s some… I’m tryin’ to think of some machinery that we maybe have seen before. 
+Austin: Sure. Does anyone have any off the top of their head?
+Ali: Um… there’s a forge. There’s water clocks. There’s-
+Austin: [amused] Oh, water clocks. [Ali laughs] Um, there’s like, uh-
+Keith: Oh!
+Austin: -pala-din and anchor forges. 
+Dre: Yeah. 
+Ali: Mhm. 
+Austin: There’s…
+Jack: There are mistral balloons. 
+Keith: Maybe they found-
+Austin: There are- there are balloons, yeah. 
+Keith: Maybe it’s um- Maybe it’s like-
+Ali: There were trains. 
+Keith: -the Ordennan steel factories.
+Austin: Oo. You just like, find a bunch of old Ordennan steel… like- like… refineries or whatever?
+Keith: Yeah. 
+Jack: Is it just like, black- are they- They- they’re broken, right? So, it’s just like-
+Austin: So, wait. Which one are you picking? Are we picking…? [Keith exhales] Are you picking ‘discover and repair’? Or are you picking ‘discovered and dangerous’? Er- ‘destroyed.’
+Keith: I think we destroy it. I mean it- Like, the last time Ordennan steel was around it was like, making everybody sick. And I don’t know if that would still be the case. Like I- I like- My immediate impression, like, if I had to pick, is that it’s probably more safe now than it was before this happened. But I think- I think that- I think that if we found a bunch of Ordennan- like- like, an Ordennan refinery or like, forge or whatev- or however they make it, I think that- I think that we’d destroy it. 
+Austin: It’s your choice. It’s your choice not as not just… you, Fero, but as the storyteller, what do you think this community does when it finds this?
+Keith: I think we destroy- I think we destroy or we… the implication is that it’s destroyed. And I bet we go like, whatever branch has the um… has the be- I bet we push it off of the branch it’s on. And it just like, falls. 
+Austin: Tumbles into… 
+Keith: Yeah. Like, it’s so- If it’s not broken, it’s so far away. Like, it might as well be on a different word. 
+Austin: [amused; lightly laughing] Not our problem.
+Keith: Not our problem. Bye. 
+Austin: Just tos- [laughing] Just toss all this shit off the side of the branch. [Keith and Sylvia laugh] How do you-? Ok, actually-
+Keith: I mean like, what else are we gonna do? Take it to the dump?
+Austin: Here’s a real question. How do you push it fast enough for it to break the gravity of the tr- of the branch your on? 
+Keith: It’s heavy. 
+Jack: [amused] Otherwise we’re just pushing it down onto the other side of- [laughing]
+Keith: Maybe it’s just-
+Austin: No, cause it just- cause it just- You walk… It’s- it’s like the earth. 
+Keith: Yeah. Hm. 
+Austin: How do you push something off the earth? And I think that it’s probably easier than launching something off the earth, but the gravity isn’t like that. I- It’s magic. I wanna- Real quick, for people listening at home like, ‘That’s not how grav-’ It’s magic. 
+Keith: Magic. It’s-
+Austin: This is a magic, weird tree root system that everyone lives on. 
+Keith: You referenced Mario Galaxy which is-
+Austin: I did. 
+Keith: -a game about nonsense physics. 
+Austin: Yes, and this is nonsects- nonsense physics world. 
+Keith: So, in the- in the same way- Like, ok, you played- you played uh… Outer Wilds. 
+Austin: I did. I love that game. 
+Keith: You know how- Yeah, it’s so good. 
+Austin: That’s a big influence on this finale, actually, now that I think about it. 
+Keith: Yeah. Yeah, I mean you made Dark Bramble. 
+Austin: [amused] I did make- [laughs] We did make Dark Bramble. [Dre laughs] Fuck. 
+Keith: [laughs lightly] So- so, you know how we’re on-
+Austin: [still laughing] Be careful. 
+Keith: [laughs hard] Um, you know how on Ember Twin, you could just sort of like, get yourself in a super fast orbit around the planet?
+Austin: Yeah. 
+Keith: Cause it’s so small. Like, you could just fall forever? [overlapped] I think that-
+Austin: [excited] Oh, so do you find.. Go ahead.
+Keith: I- Oh… well, I’ll say what I- But I wanna hear what you were gonna say either way, but like, I think that there’s a way to- there’s a way to push it off where it’s so heavy that it- it starts orbiting around, and it just shoots itself off. 
+Austin: Totally. And what I was gonna say is, do you also find part of a branch that’s really thin and really small so that you can just begin to push it around really quickly? Do you know what I mean? [amused; lightly laughs] 
+Keith: Yeah, yeah. 
+Austin: The same that Ember Twin is-
+Keith: Like, we’ve found a spot that’s really good for getting rid of stuff. 
+Austin: You’ve basically found a gar- The thing that you’ve added to this map, and I need you to draw it somewhere, is a garbage catapult, basically. [Keith and Dre laugh] I’m glad we have a new, beautiful world, and the first thing we do is… [laughing] we start throwing trash to other parts of the world. [Sylvia laughs] 
+Keith: Um, yeah. I can do- I can add that. 
+Jack: I mean is that a point of tension?
+Austin: You know what? I’m taking a contempt point. 
+Sylvia: Yeah....
+Jack: Yeah, I’m gonna take contempt.
+Austin: I’ll- You know what? This is a good moment for me to read the rules for contempt. [reading] ‘If ever you feel like you weren’t consulted or honoured in a decision-making process, [laughing] you can take a piece of Contempt and place it in front of you. This is your outlet for expressing disagreement or tension. If someone starts a project that you don’t agree with, you don’t get a- you don’t get to voice your objections or speak out of turn. You are instead invited to take a piece of Contempt.’ 
+[reading]  ‘Contempt will generally remain in front of players until the end of the game. It will act as a reminder of past contentions. Its primary role is as a social signifier. In addition, you can discard it back into the center of the table in two ways: by acting selfishly and by diffusing tensions. If you ever want to act selfishly, to the known detriment of the community, you can discard a Contempt token to justify your behaviour. You decide whether your behaviour requires justification. This will often trigger others taking Contempt tokens in response. If someone else does something that you greatly support, that would mend relationships and rebuild trust, you can discard a Contempt token to demonstrate how they have diffused past tensions.’ And then what I’m gonna do is [amused] take a contempt token. Put one back there. 
+Jack: [quietly] Gonna also take a contempt token real quick. Oh!
+Austin: And make it smaller. That way it’s… That way I can take more. 
+Jack: Can we also drag these?
+Austin: Oh, can you not drag these right now? [exhales a laugh] Sorry. Shit. Uh… yeah. Give me… We should continue this turn as I make- Uh, Jack, I’m gonna give you a contempt token now. Just to represent that.
+Jack: Thank you. 
+Austin: And then I’ll make the rest… ones that you can touch. 
+Keith: Ok, so you- you take it for yourself, right? You’re not giving it. 
+Austin: Yes. You don’t give it. You can give it awa-
+Keith: You take one when you feel it for yourself to use later.
+Austin: For your- when you’re like, ‘Grrr… Contempt.’
+Keith: Yeah, when you want to later-
+Austin: Yes. 
+Keith: -make- do something contemptuous. 
+Austin: Yes. The thing to remember is… that uh… er not the thing to remember. Unlike like last year for Twilight Mirage, there is nothing about this that like- there’s no- there’s no economy around this. We’re not spending contempt tokens on things the way we did last year. [quietly] There we go. Save that one. And then we make that over here. So, Keith, continue. What uh- what’s the rest of your turn? Uh, I guess you now have a choice is actually the answer. And that choice is you can discover something new, [reading]  ‘introducing a new situation and drawing it on the map.’ And I could read more about that. Holding a discussion, ‘choosing a topic. Everyone gets to weigh in once.’ That’s the thing where you go around in a circle and everyone gets to weigh in. We could also play those out as actual discussions. Or start a project that the community, uh- ‘State a project that the community is starting. As a group decide its duration.’ Can someone see if they can move these two tokens, by the way? Woap!
+Janine: Yep. 
+Austin: Ok. 
+Janine: Uh…
+Austin: Uh huh. [amused] Lots of people just drawin’. 
+Dre: Uh oh. 
+Austin: I got it. I’m doing clean up. [Keith laughs] Can you draw the- can you pull the other one around? Yes? Awesome. 
+Keith and Sylvia: Yeah. 
+Austin: Good. 
+Keith: Yeah, these are movable. 
+Austin: Great. 
+Keith: Ok. 
+Austin: Uh, I’m actually gonna make them smaller is actually what I’m gonna do. One second. So, what are you doing, Keith?
+Keith: Hm… I’m- I think that I wanna start a project… 
+Austin: Uh huh? What do you and the community want to do?
+Keith: As one of I assume the very few flyers… it- maybe addressing the flight scarcity is something that I’m uniquely… that uh… uniquely prepared for? But I’m not sure. Cause that’s… Hm. 
+Austin: That’s a good question. Isa this is a thing Fero is doing? Like, are you going to try to seed the world with a new type of creature? That could be like, a flying beast of burden? Or is that outside of- like, yeah. It’s up to you. 
+Keith: That’s sort of where I was leading. I don’t know. I’m not- I… Flight is low on my personal list of things that I think that we need. So, it’s… But also, is one that I think would be particularly suited for me to help with. 
+Austin: Right. 
+Keith: Um, what- So, what are- what’s the sort of things that we do during the discussion?
+Austin: So, if you hold a discussion, [reading] ‘Another… Another of the action types is Hold a Discussion. You can choose to open with a question or a declaration. Starting with you and going clockwise, everyone gets to weigh in once, sharing a single argument comprised of one to two sentences. If you opened with a question, you get to weigh in last. If you opened with a declaration, that’s it for you. [exhales a laugh] A discussion never results in a decision or summation process. Everyone weighs in, and then it’s over.’ 
+[reading] ‘This is how conversations work in communities; they are untidy and inconclusive affairs. Each discussion should be tied to a situation on the map. When a discussion ends, mark the situation it is attached to with a small dot. Some example conversations include: ‘Should we retaliate against the bikers? Or, if leading with a declaration, we should abstain  from retaliation or violence. Or ‘Could we use the school-bus as a sleeping area for village- for the village children?’ It’s important that we stay concise. If any of us feel like we have more to say on a topic, we can always hold another discussion about it at a later point.
+Keith: I- I know what I want to do. I wanna start a project. I want to start a road and path project. 
+Austin: Ok. What’s that look like?
+Keith: Um… I think that… I think it’s… I think it’s um… I think it’s Fero col- like, uh, rounding up a group of people to- who are using like, tools, but also… Fero is like, is doing it as an animal [Austin laughs lightly] and is just like, tearing through- is like, tearing through bark to make like… paths. 
+Austin: So, you’re like- Yeah, you’re like, stripping the bark away from like, a layer basically?
+Keith: Yeah. And I- and I bet- I bet Fero is so fast at doing this that um, most of what the other job is is like, treating the wood so that it doesn’t like… immediately grow over. Like, scor- like, when you go into a forest and you can see like, where forest fires where because that part of the tree doesn’t grow right anymore. So, it- I think they’re just like, scoring the parts of the, with fire, the parts of the um… the tree that I’ve dug away at. 
+Austin: Who is helping Fero with this? Just so we get a good image. Is anyone here? Or is this-
+Sylvia: I… will.
+Austin: Yeah?
+Sylvia: He said fire. That’s kind of my… thing. 
+Austin: Are you still using your fire, Ephrim?
+Sylvia: I’m not using it, but like… 
+Keith: You still have an affinity for it?
+Sylvia: I still have an affinity for it. I still know how to like, contain it, ya know?
+Austin: Sure. 
+Janine: Fire Marshal Ephrim. [Austin and Ali laugh] 
+Sylvia: Pretty much. 
+Austin: Great.
+Keith: Yeah. [laughing] ‘I sense a- I sense a situation where I can be in charge… of fire.’
+Austin: [laughs] Wow.How many-
+Sylvia: You don’t need to drag me, Keith. [Austin and Sylvia breath light laughs]
+Austin: How many turns do we think building- working on this road problem will take?
+Keith: Several?
+Austin: I mean I think it’s several. I think it’s six. To start building a road. 
+Keith: [overlapped] I think it’s-
+[1:15:00]
+Janine: Is it like- is it like, oh, we just have roads that go everywhere important now? Or is it like, we have roads going to this specific important place?
+Austin: Yeah. I think that’s a good question. Where is the road going? I think maybe the idea of like, I’m building roads is maybe too broad. So, let’s pick a place. Like, are you building a road to a certain thing? Are you building them between? You know what I mean? Like, what’s the… 
+Keith: So, we’ve got stairs… 
+Austin: Uh huh. 
+Keith: -already here. So, I- I think that I’m… I bet I try and build- I think I’m building a road to somewhere else. 
+Austin: Like, to a different community? Like, to Alcyon or to…
+Keith: Yeah. 
+Austin: Ok. 
+Keith: Wait, was there another community around? I was implying Alcyon. But was-
+Austin: Well, no. There’s Alcyon. There’s- there’s… uh, we know that there’s like… I guess the question is like, I don’t think that there are roads connecting these distant refugee communities to home either, right? Like, those stairs exist, but that’s not- that’s not good travelin’. I guess that might be a one you need flight for though based on where Jack has drawn these… stairs.
+Keith: Yeah, the stairs do look like they’re going directly from one to the other. 
+Austin: Yeah. Yeah, yeah, yeah. Then yeah, I would say probably Alcyon. That makes sense. Um, I would say that’s a six step… 
+Keith: Ok. 
+Austin: -thing, if people- Do other people agree with that?
+Dre: Mhm. 
+Austin: Ok. I’m just gonna put this here, and I’m gonna write roads on it. Or I guess I’ll just put it near the roads. That’s the easier way to do this. Boop. There we go. 
+Janine: Also, Austin, I think you forgot to advance your moon clock.
+Austin: I did forget to advance my moon clock. Thank you. [noise] Tchooo, there we go. Um… alright. Turn two, done. Janine? Uh, it is time to draw a card. Spring! Still. Right, duh. We’re still there. We’re still in the spring. 
+Janine: Yeah. [light laugh] 
+Austin: [amused] Uh huh. 
+Janine: Four of Spring. ‘What important and basic tools does the community lack?’ or ’Where are you storing your food? Why is this a risky place to store things?’ Um… I think I have a good idea about uh… Mm… So, ok. This- this… I might need help making this fit in the- in the world, but my concept of the world, to me, means that, you know, previously you would get things like, hammers and saws and things. And the way those work best is when they’re made of metal.
+Austin: Yeah. 
+Janine: And metal comes out of rocks. 
+Austin: Mmm. 
+Janine: And we don’t have quite so much of that stuff anymore. 
+Austin: Yeah. 
+Janine: Um… and, you know, there are some things like- You know, running out of bricks sucks. Like, running out of clay and mud for bricks or like, not having as much of that as you want cause you need it for farming is tough, but you can still build with wood. Wooden tools usually suck. 
+Austin: Yeah.
+Janine: Like, a lot. 
+Austin: Uh huh. I’ve played Minecraft.
+Janine: Uh, yeah. [laughs] The durability of it is just terrible. It takes you forever to kill… 
+Austin: Yeah. 
+Janine: -to kill anything. It’s… Um, can’t cut diamond with them. You know, important things. Um… so, I think it is… it is just that like, important and basic tools are what the community lacks. Like, it’s- it sort of doubles back on that question, but like, when… when you have a limited supply of like, iron and things like that-
+Austin: Yeah. 
+Janine: -you kind of need to-
+Austin: Janine?
+Janine: -make do with stuff as it’s falling apart. Yes?
+Austin: I- I fear that you’re introducing a new scarcity. 
+Janine: I mean it literally says ‘What important and basic tools-’
+Austin: I know. 
+Janine: -’does the community lack?’
+Austin: No, no, no. I’m- I’m just saying I’m going to add this to the scarcity map. Because that is a thing that should happen over the course of play. Um… uh, ‘some weekly cards will alter these lists of scarcities and abundances,’ as well. And I think that this a good one. I think it’s just tools, right? Like, good tools. 
+Janine: Yeah. I mean it’s- I imagine it’s like, you really need to use a tool until it is falling apart-
+Austin: Yeah. 
+Janine: -and then you need to remake that tool. And like, that’s a- that’s a process. And that’s a very different process than like, just buying a new hammer. 
+Austin: Yeah, totally. 
+Janine: Or a big spoon, for example. If you want a big spoon now? I mean you can use a wooden spoon-
+Austin: Oh. 
+Janine: Wooden spoons are very good. 
+Austin: Wooden spoons are great. 
+Janine: If you want a big metal spoon, then it’s like, ‘Ok, well, who’s giving up their big metal dagger?’ [Austin laughs] To make your big metal spoon.
+Austin: Adaire. Probably, right?
+Janine: No! [Austin laughs] I don’t need the spoon. 
+Austin: [laughs lightly; Dre laughs] Sylvia in the chat says, ‘Damn. If only we didn’t throw a steel factory into the nothing.’ [everyone laughs quietly] 
+Janine: Look, that was evil steel. 
+Austin: Uh huh. 
+Sylvia: No, like, fair. 
+Austin: Yeah. Fair. Fair. Um, is there a moment here- is there a- is there an illustration of not having good tools? How has this affected Adaire’s daily life?
+Janine: Um… 
+Austin: [quietly] Also, I’m gonna take this card out of the way. Boom.
+Janine: I don’t know that Adaire does shit with tools [laughs] to be honest. 
+Austin: Uh huh. 
+Janine: Uh… I think- I think the way that this affects Adaire’s day-to-day, you know, she kind of tries to keep her finger on the pulse of the markets and things like that.
+Austin: Mhm. 
+Janine: And I think the thing that she starts noticing is there is a lot more straight up bartering going on. 
+Austin: Mm. 
+Janine: There was always probably like, a fair bit of bartering because that’s what happens in an economy of scarcities, but um… in this specific case, when it becomes like- when metal becomes valuable, coins- your relationship with coins is gonna be very different. Your relationship with things like that is gonna be very different. So, I think it becomes a lot of like, ‘Look, I really need a new hammer…’
+Austin: Yeah. 
+Janine: I… you know, so I think it’s- it’s that she starts noticing a lot more bartering and probably as a result, it’s maybe like, a little more awkward for her to get the things that she wants. 
+Austin: Yeah. 
+Janine: Cause she doesn’t want to trade her dagger so someone else can have a big hammer or whatever. 
+Austin: Right. Right, she has money and a lot of it. And what- what like- Is the money still as useful as it once was? Do people even still trade in money? Or is it losing it’s-
+Janine: Almost- I mean… Not everything is… not everything people need is metal-
+Austin: Right. 
+Janine: -but that’s like, an aspect of it. So, it’s probably a thing that comes up more when you are trying to buy from people who are in high-metal demand. 
+Austin: Right. 
+Janine: That like, if you’re going to a blacksmith, the blacksmith is gonna be way more interested in your scrap.
+Austin: Right. 
+Janine: Um, so, it makes- it makes that kind of- it makes those exchanges- it makes those transactions a little bit like, weirder to navigate. 
+Austin: Yeah. 
+Janine: Which is probably strange for her. 
+Austin: Quick question. Also, I advanced the two project clocks. What happened to the tree over here? Did I miss something? It got-
+Keith: What tree?
+Austin: The- the tree. On the-
+Keith: Oh, yeah! Where’d it go?
+Austin: That’s what I want to know. 
+Janine: I think we got a lemmings infestation. 
+Austin: [amused] Did we- did someone eat this tree? [Ali laughs] It looks like something’s chewin’ on that damn tree!
+Keith: Wow, sounds like we need to do an investigation. 
+Austin: Oh my god. [Dre laughs] I advanced the clocks, Janine. It’s your turn to do an action. You can either discover something new, work on a project, or hold a discussion.
+Janine: Um… so, I want to start a project. 
+Austin: Ok. 
+Janine: It’s a project that I think Adaire is in a uniquely good position to start. 
+Austin: Uh huh. 
+Janine: So, you know, the world probably used to have a lot of really good mapmakers. Like, you know, like, we’re talkin’ like, twelve years ago. There’s probably a decent… there were probably some good map- mapmakers out there. 
+Keith: [quietly in the background] Wait, hold-
+Janine: A lot of them are now probably dead or not here. 
+Austin: Uh huh. 
+Janine: Um… but Adaire isn’t dead, and she is here. She’s not a good mapmaker. [Austin laughs] But she is alive and present. 
+Austin: Uh huh. 
+Janine: So, I want to… have Adaire start training people under the auspicious banner of Adaire Ducarte’s Higher Revisional Cartography Cooperative. [Ali laughs] 
+Austin: Uh huh…
+Janine: And she would like to train people in very basic, crude surveying and artistic techniques, in terms of getting people out there and the world map and stuff. 
+Austin: Love it. 
+Jack: Is this like, Rix and Rowe…
+Austin: Yeah, who is it?
+Jack: [overlapped] -pitching their tent...
+Janine: I think Rix and Rowe are probab- [laughs] 
+Austin: God. 
+Janine: I’m trying to envision a good- a good role for Rix and Rowe, and I think it is like-
+Keith: [overlapped] There for support. 
+Janine: -probably a lot of like… um… I mean they’re still young and probably should not be out in this particular world drawing maps. [Austin exhales a laugh] So, I don’t know that they’re like, trainees or anything. 
+Austin: Oh, but I think like, Benjamin and Blue J are like, ‘Hell yes.’ 
+Janine: Yeah. Ok. [lightly laughs] 
+Austin: Like, this is like the Scouts, but cooler. Like, this is like, the Scouts, but adult shit. 
+Janine: Um, I like to think that-
+Jack: Are there badges?
+Janine: Well… prob- Yeah? Um, I like to think- I was gonna say that Rix and Rowe are in like, a supportive, teaching assistant role where it’s- it’s like, they have picked up very specific segments of the lessons that they help people with. Like, here’s how you use, you know, a sextant or whatever. Like, people probably don’t have a lot of sextants, but… [breathes laughter] You know, they probably have various- like, here’s how you use a string and a stick to draw a perfect circle. 
+Austin: Uh huh. 
+Janine: Like, techniques like that that they can kind of disseminate and help with while Adaire is teaching the bigger lessons. 
+Austin: Uh huh. 
+Janine: And I think there’s probably like, a cool um… like a… I want something a little bit lower production than a badge. Um… it’s probably like- like a…
+Art: Like- like a ribbon?
+Janine: Oh! It’s like, an arm pouch. And it’s like- it’s like, a little- So, it’s like, an armband with a little pouch on it. But in the little pouch, there are like, your- your basic things. There is like, a kneaded rubber eraser or whatever. And there is like, a stick of charcoal and a stick of chalk and then like, a bit of string and a stick or something like that. It’s like, your basic- super basic tools. 
+Austin: So, you earn… the basic tool- Like, it’s a symbol, but it is also usable, presumably. 
+Janine: Yeah, yeah. It’s- I mean it’s- it’s a visible symbol, but it is also like, this is your basic shit. 
+Austin: Yeah. 
+Janine: Like, as long as you have this and paper, you can make a map. 
+Austin: Love it. I think this is a six step, for sure. [exhales] 
+Janine: [quietly] Mhm. [lightly laughs]
+Austin: I’m gonna put this next to- Or no. You tell me. I actually- I cannot- I am not the GM. I cannot unilaterally say this is a six step. 
+Janine: I mean this is- I think it is a six step because like, even training people in crude techniques is still-
+Austin: Yes. 
+Janine: -training a bunch of people at once. 
+Austin: Yeah. I also think- And again, like, this is just, you know, as the- as the book says, um… Actually, I guess you just- I should read this now before we get through it- before we get through the first project, but um, [reading] ‘unless your card specifically told you otherwise-’ Actually, wait. I’m wrong. Sorry, this is start a project. Here we go. The thing that I just wanted to emphasize is that um, that like, just completing the one thing may not complete… maps., right? Like, you are putting- you’re putting into play- I- I’m partially saying it for the listener, too. You’re putting into play the… the fictional states in which more maps can start to be made, right? So, alright. I’m gonna-
+Janine: I’m imagining as a multi-project process. 
+Austin: Is this a thing down near the university? Is this- You want me to put this up near the…?
+Janine: Yeah, I think this is- I think the university is the most practical place to do this just in terms of accessibility to materials like paper and-
+Austin: Yeah, do you want to draw a little like, house that is this school or something so I can put this clock near it? [silence] Um… alright. As you’re drawing this map thing, we should advance to Dre. Also, thank you, Keith, for explaining that that is the tiny part of the tree where you can more easily launch shit in- garbage into the- [Dre laughs] 
+Keith: Yeah. 
+Austin: Yeah. 
+Keith: It was not a stolen or eaten tree, it’s just-
+Austin: I thought it- Yeah. You see where I was comin’ from though.
+Keith: Yeah, totally. 
+Austin: Ok. Um, Dre, go ahead and play that card. 
+Dre: Alright, the Nine of Hearts.
+Austin: Uh huh. 
+Dre: [reading] ‘A charismatic young girl convinces many to help her with an elaborate scheme. [Austin laughs] What is it? Who joins her endeavors? Start a project to reflect.’ Or ‘A charismatic young girl tries to tempt many into sinful or dangerous activity. How does she do this? How does the community respond?’
+Keith: Sinful…
+Dre: Hm.
+Austin: I feel like we’re past sinful in this community, but- [Ali laughs] 
+Dre: Yeah, right? [laughs] Um… 
+Keith: Gettin’ everyone to go bungee jumping.
+Dre: Right now I’m tryin’ to think if anyone that comes to mind- 
+Austin: [over Dre] Oh god. That’s terrifying. 
+Dre: -oh god, yeah- right away as a charismatic young girl that’s a pre-established character, but maybe it’s just somebody new. 
+Austin: Um, Rix… could probably do… The word scheme makes me think that it’s Rix. Um… but-
+Dre: Yeah. [laughs] 
+Austin: Who else could it be? Most of our- most of our girls are women. Most of our women are women. [lightly laughs] Are adults, ya know? Um… 
+Dre: Yeah. 
+Austin: Especially after a time jump and all that. 
+Dre: Yeah, how far ahead are we here [quietly] at this point?
+Austin: We’re three- Sorry, I meant the- I meant the Winter to Spring time jump more than the… 
+Dre: Oh, got ya.
+Austin: We’re only three months after. 
+Dre: Ok. Alright. So like, not long enough for anyone to have had a kid and to have said kid grow up into a charismatic young girl.
+Austin: Not unless some wild shit has kicked off that we didn’t know about. 
+Dre: Right. 
+Austin: Or unless a character in the background had had a kid that we just haven’t put a camera on before. 
+Dre: Yeah. 
+Austin: And I definitely thought recently like… I recently thought like, man, Morbash should have had a fuckin’ daughter. Which is still a possibility. Morbash could have had a daughter that we just never met. But I’m not gonna… insist on that. 
+Keith: We mostly hung out with him in a work context. 
+Austin: Exa- [Austin and Ali laugh] Exactly. [Keith and Dre laugh] Also, hung out with is strong. [Keith laughs again]
+Dre: Right. [laughs again] 
+Austin: [laughing] ‘I’ll get you for this, but first I have to take my daughter to the ballet!’
+Jack: [simultaneously with Austin] Slowly pursued by…
+Austin: Yeah. 
+Dre: Let’s um… Let’s just have this be a… I think in this context like, ‘girl’ is also like-
+Austin: Child? Or like, young person? Or…?
+Dre: Well, I- Well, like, I was like… To me a charismatic young girl could just as much be like, a fifteen or sixteen year old-
+Austin: Oh, definitely. 
+Dre:- as it could be like, old or something. 
+Austin: Yeah, totally. 
+Dre: Um, and so I’m also thinking that I want this to be a like, young pala-din from um… Why did the name of that city just escape my brain?
+Austin: Uh, Alcyon?
+Dre: Yeah. 
+Austin: Yeah, sure!
+Dre: And like, you know, with that the idea of what is young is also very different, too.
+Austin: Totally.
+Dre: Cause it just be someone who is young to being… um-
+Austin: Like awake as a-?
+Dre: Sentient is the wrong word. But yeah, awake. 
+Austin: Yeah, yeah, yeah. I know what you- I know what you mean. 
+Dre: Um… so I think  maybe this person sees the like, road being built, and they’re like, ‘Ok, that’s cool, but it’s gonna take too long.’
+Austin: Uh huh.
+[1:30:00]
+Dre: ‘We are going to get some of this giant spiderweb, and we’re actually gonna use that as a way to more quickly like, cross across.’ 
+Austin: So, is now building… What is the propos- what is this pro- I’m gonna take a contempt token. I don’t wanna walk across- [Dre laughs] 
+Keith: Wal- Oh, I was thinking swing like a spiderman. 
+Austin: Oh, you know what?
+Jack: That’s weird. 
+Dre: Oh! Yeah, that’s even better. No, yeah. Totally. 
+Janine: Oh my god. [sighs] 
+Dre: Yeah. 
+Austin: [exhales] ...Uh, give me a second. I’ll have a name for you for this character. Um… this is a pala-din, right?
+Dre: Mhm. 
+Austin: Alright, this is Cressa. C-R-E-S-S-A. 
+Dre: Ok. 
+Austin: Um, boom. What is- what is- [exhales] So, she’s building like a- like, a reverse high- like, a spider- spider highway. A spiderweb highway.
+Dre: Sure. Yeah.
+Austin: Great. Start… How many… How many ticks is this gonna take? 
+Dre: Uh… Oh, my card disappeared. Uh…. 
+Austin: Oh, I took it. Sorry. 
+Dre: That’s ok. 
+Austin: I’ll bring it back. But-
+Dre: Well, cause part of it is like, who joins this project.
+Austin: Yes, you’re right. 
+Dre: And that’s probably gonna also… 
+Austin: You’re right. 
+Dre: -dictate how long this takes. [laughs] 
+Austin: Who does join this project?
+Keith: Oh. I join it. 
+Austin: Do you give- do you leave your road to Alcyon project to work… on this spiderweb project instead? 
+Keith: Oh, I don’t have time to do both?
+Austin: I think that these-
+Keith: I-
+Austin: These are both full time jobs. You’re buildin’ a road, or you’re buildin’ a spider road. 
+Keith: Plenty of people have two full time jobs. 
+Austin: That’s fine. I’m just- And you know what? Fero doesn't sleep, but I think that’s a specific picture of Fero that we’re showing. 
+Keith: I just think that it’s cool. I think Fero thinks that this is cool. 
+Austin: [amused] I bet… [uncomfortably] Oh, there’s gonna be a big spider.
+Keith: Like, Fero’s gotten around in a lot of ways, but Fero has never swung to get around, and-
+Janine: Also, just the optics of this charismatic young girl being like, ‘Hey, that road project sucks. Here’s my project.’ And Fero’s like, ‘Cool!’ [Janine and Austin laugh] 
+Keith: Yeah, I like that, too. 
+Janine: ‘You’re right!’
+Keith: Yeah, that’s sick. 
+Austin: [laughing hard] Fero- Fero finally has a protege! [Dre and Sylvia laugh hard] [groans] Ugh, alright. Um, so it’s Fero. Is anyone else helping with this spiderweb prob- project? No? Throndir, are you helping?
+Dre: God, no. I don’t think so. [Austin, Keith, Janine, and Dre laugh]
+Keith: This was your idea! [Austin groans amused] 
+Dre: Yeah, it’s- it’s-
+Keith: Was Throndir just like, ‘Fero, you know what you would like. I know this girl that’s like, tryin’ to make a- this rope swinging thing.’
+Dre: Oh, yeah. It’s- Nah, it’s my idea. It’s not Throndir’s idea. 
+Austin: Right. Yep. 
+Keith: Yeah, but you- you tell me that you know about this thing, and I’m like, 
+Keith (as Fero): Oh, that sounds awesome. Like, do you want to go?
+Keith: And you’re like, [Dre laughs] ‘No, I didn’t mean it in a good way.’ [laughs] 
+Dre (as Throndir): I can’t fly. There’s some- there’s some R and D with swinging across giant branches that-
+Austin: [groans] God.
+Dre (as Throndir):  someone who can fly has a- a little less risk. 
+Keith: Now the question is how do you get… how do you get… the… How does the spider feel about people taking these…? [Dre makes an ‘I don’t know’ noise]
+Austin: You know, I-
+Keith: Which, by the way, are probably like- like the tensile strength of like, steel cables.
+Austin: Yeah! Huh. 
+Keith: Or- or more. 
+Austin: Or more. 
+Dre: What if uh- what if instead of a bridge, this is just like a… like a- oh, like a gondola?
+Austin: Ooo.
+Art: Is it too late to take a contempt token?
+Austin: No, you can take one whenever you want! I’m gonna just-
+Art: [quietly] Alright. 
+Janine: It’s never too late. 
+[crosstalking]
+Austin: No. What if you...
+Dre: I don’t know-
+Keith: I don't even understand what’s contemptful about this
+Dre: Yeah, no. 
+Austin: I- I misspelled gondola. 
+Dre: She’s gonna try and build like, a gondola system using the… the spiderweb. 
+Janine: Why not just have Fero extrude-
+Dre: Spider silk. There we go. 
+Janine: -like, become a spider and extrude- 
+Art: [quietly] Fuck.
+Janine: -extrude his own web to use- 
+Austin: We’re not- No. No!
+Janine: -instead of [laughing] harvesting-
+Austin: No. [exhales a laugh] 
+Dre: Yeah, edit that out. Cut that out. 
+Jack: Um… 
+Keith: I’ll-
+Jack: I don’t feel like the gondola solves our ‘does the spider mind takin the silk’ issue.
+Austin: [exasperated] No, of course it doesn’t!
+Dre: No. 
+Jack: It sort of- it sort of side steps that problem. 
+Austin: In fact, I’m gonna a draw a spider now. 
+Dre: Sure.
+Keith: Be careful cause that’s- 
+Jack: Do we know where this spider-
+Keith: I did a pretty good job on the web, so-
+Austin: [deflated] Ok. 
+Jack: This spider is just from the Spring, right? This is new Spring entity. 
+Austin: Ye- yes. Right?
+Jack: That has flourished on the amount of oxygen. 
+Keith: Yeah. Yeah. 
+Jack: It’s like the Spring made a spider, and the spider was like, ‘Oh my god! I can breath! This is great!’
+Keith: ‘I can breath! So, my exoskeleton has- has so much potential!’
+Jack: ‘Sure hope no one…’ [laughs] 
+Austin: Right. 
+Jack: ‘Sure hope no one takes my silk.’ 
+Dre: It’s like- it’s more like borrowing. 
+Austin: No! It’s isn’t! It isn’t more like borrowing!
+Janine: It can’t get food off of the gondola track. 
+Dre: It’s a big web. It’s fine.
+Keith: [overlapped] How do you make a gondola out of this?
+Janine: Actually, it can get food off the gondola track. It’s the people in the gondola. 
+Dre: I think it is. 
+Austin: Mhm. 
+Dre: I think it’s the strength. Like, nothing else that we can make has the strength to consistently like, hold up to travel usage. 
+Austin: Right. 
+Dre: The way that the spiderweb does. 
+Keith: We can make tools out of this stuff. What-
+Austin: This is too many eyes. This is bad. 
+Keith: Oh, those are eyes? [laughs] 
+Austin: These are eyes. 
+Dre: Oh boy. 
+Keith: Ok. I see it now. 
+Austin: Mm. 
+Keith: What- So, how does the gondola work?
+Dre: Oh, we don’t know yet. That’s- that’s- We got a- we got a couple of weeks to go on that one.
+Keith: Oh, ok. I- I’ve got to say, Fero might not be interested in a spiderweb gondola. I think it was- [laughs] it’s really the swinging aspect.
+Austin: Oh my god....
+Keith: [laughs] Or like, tightrope maybe. Swinging, definitely. But like, a silk boat, I’m not sure. [Austin laughs]
+Dre: Well, no. The gondola isn’t made out of silk. It’s just the… 
+Austin: Oh my god. 
+Dre: -the rope part.
+Janine: It’s also not a boat, right? Like, it’s like a gondola in the getting up a mountain sense. 
+Austin: Yes.
+Dre: Yeah. It’s like, a steel-
+Janine: Not the like-
+Austin: It’s not a Venice gondola. It’s a…
+Dre: Yeah. 
+Austin: It’s a ski lift. 
+Keith: What is a land gondola? I’ve never even-
+Austin: It’s like a ski lift. 
+Dre: Yeah, ski lift is the right word for this, probably. 
+Keith: Oh. 
+Janine: It’s- it’s like an enclosed ski lift.
+Austin: Yes, it’s like an enclosed ski lift. 
+Janine:  It’s like a pod on wires that is lifted up. 
+Keith: Ok. Alright. Ok. 
+Austin: Do a search for mountain gondola. 
+Keith: Ok. I see. Yeah, I see that. 
+Austin: It is still swinging on a wire. Technically. In a sense. 
+Dre: Yeah. 
+Austin: Anyway. 
+Janine: Especially if there’s a breeze.
+Dre: The gondola lift. 
+Keith: Ugh. I hate- I hate this. 
+Austin: We are moving on… You hate this? Ughhhh.
+Keith: This I hate. 
+Dre: Wait. Wait. What if- what if it’s like a roller coaster? Does that- is that any better? For you, Keith.
+Art: Does it- does it feel better?
+Keith: I think that- Now, see. Now that sounds fun again. 
+Austin: [groans] Ohhhh my god. [Dre laughs hard]
+Keith: I have priorities. I’m acting on those priorities. 
+Austin: Alright. I have advanced the clocks for the other things. Throndir or Dre, what’s the other [coughs] action you’re doing?
+Dre: Oh god.
+Austin: Also, spiderweb gondola doesn’t advance even though it was just added. 
+Dre: Sure, sure, sure. Umm… Need to relook at what I do. Alright, draw a card. Um… alright. Discover something new, hold a discussion, or start a project. Hm… 
+Austin: I can give you more detail on any of those if you need it. 
+Keith: That spider is bigger than the dragon. 
+Austin: What?!
+Dre: Wait, where’s the-?
+Keith: Maybe not. Well… 
+Austin: Oh. 
+Keith: The scale of it anyway. 
+Dre: Oh. 
+Austin: Eh. Yeah… Who knows about scale? It’s a mystery. 
+Keith: Yeah, it’s a mystery. 
+Dre: I’m tryin’ to think of a start a project. Um… I don’t know. What’s Blue J up to?
+Austin: Good question. What’s Blue J up to? Um… they are… still being a ranger. I think that their doin’ a lot of exploration. They’re tryin’ to- they’re tryin’ to get this mapping… uh, pouch. The first mapping pouch so that they can start goin’ out there and doin’ some- some mapping. Um, I mean… I think a big thing for them has been just like, trying to… figure out the balance between how much they want to be in the society versus outside of it.. You know what I mean? And I think actually part of their situation right now has been like, they had that big moment- they had like, a- all- They had that big like, moment with Red Jack and with Fantasmo and Lem helping people and getting people to safety and all that. And that helped make them feel really necessary, but the new world all around them is like… all they want to do is leave, and so they’re really torn between those- those two impulses right now. Between having seen how important they can be in helping people, but also the kind of more personal and like, um, passion- more like, passionate drive to go explore everything. 
+Dre: Um… so, if… like, if Throndir and Blue J went out to basically go see like, ‘Ok, what’s on the other end of this tree branch-’
+Austin: Yeah. 
+Dre: -could that be a project?
+Austin: That could be a project or it could be discover something new. 
+Dre: But if it is like a big journey that feels more like a project. 
+Austin: It does. It does. The note- my note there is we know that Blue J is part of this map thing right now. 
+Dre: Sure. 
+Austin: And so, until they finish that, I would be hesitant to pulling them off the map, so to speak. 
+Dre: Oh, yeah, yeah, yeah. 
+Austin: Do you know what I mean? 
+Dre: Yeah. 
+Austin: But… maybe that’s a thing to return to or revisit?
+Dre: Sure, yeah. 
+Austin: We have a lot of time before we-
+Dre: Yeah, ok. 
+Austin: Do you know what I mean? 
+Dre: Uh, I’m gonna discover something new.
+Austin: Ok. When you discover something new, [reading] ‘you introduce a new situation. It might be a problem, an opportunity, or a bit of both. Draw that situation onto the map. Drawings should be small and simple: smaller than an inch, finished within thirty seconds. Whenever things seem too controlled or easy, we can use this action to introduce new issues and dilemmas. When individual characters get introduced, we’ll give them names, and record those names on our index card. Some example situations: There’s a dried-up well located at the edge of town, mangy wolves have been slinking around the woods, there’s a broken-down waterwheel a mile upstream, a strange- strange wailing noises come from the forest at night, a self-declared prophet arrives.’ So, really broad here. 
+Keith: We could do any of those but the wolf one. 
+Austin: We could do the wolf one. 
+Keith: We couldn’t.
+Austin: Why?
+Dre: Oh, I-
+Keith: There aren’t any. 
+Austin: Oh, right. There’s no- Well… [Dre makes a bummer ‘whom-whom’ noise] maybe there’s weird, new Spring canines. 
+Keith: [quietly] Maybe there’s Spring wolves. 
+Austin: Spring wolves, baby! 
+Dre: Spri- [laughs] Um, ok. The something new is that… one of the giant Weaver King’s arms has… come to rest down closer to our city. 
+Austin: That’s real close!
+Dre: Yeah. It’s fine. 
+Keith: Have- have we communicated with this Weaver King yet?
+Austin: No! 
+Dre: Nope. 
+Keith: Why not? He’s right there. 
+Austin: You had a turn! [lightly laughs] 
+Keith: I- I forgot!
+Austin: [laughing] This is scary to me. [Sylvia laughs lightly]
+Keith: He’s like- he’s- I mean the Weaver King is do big that it’s- seems more geographical than-
+Austin: [astounded] Oh my god! That arm is huge!!
+Dre: Yeah, well, you know…
+Sylvia: Long. 
+Dre: Photosynthesis. There’s a lot of suns now. 
+Austin: There’s a lot of suns now. 
+Keith: Where is the arm coming from?
+Austin: The Weaver King off the map! [silence] 
+Keith: Oh, I thought this- I thought this was the Weaver King.
+Austin: It was! 
+Sylvia: Yeah. 
+Austin: But look at where it goes!! It goes off the map!
+Keith: Oh, and now it’s- [laughing hard] reaching back. Oh my god!
+Austin: For- for people listening, I need you to understand. You could fit… twelve of the Last University on this Weaver King arm. 
+Keith: And it’s not even the whole arm cause it extends off the map.
+Austin: Right! 
+Keith: Which then extends back onto the map from the other end. 
+Dre: Mhm.
+Austin: Maybe. 
+Janine: Were they reaching for something far away in the other direction, and then a really strong breeze blew their [Austin laughs] extremely long arm back? 
+Austin: Ohhh nooo. [Janine laughs] Grab it. Boom. Love it. Great. Great! Good. I love this. This is a thing I love. Uh, that is your turn. Did I remember to advance these clocks? Yes. I did. Um-
+Keith: Drawing should be one inch. [Austin, Keith, and Dre laugh hard]
+Austin: Great. Sylvia, you’re up. 
+Sylvia: Alright. Let me draw this. 
+Austin: Uh huh. You might be able to just drag it out onto the thing also.
+Sylvia: There we go. 
+Austin: Ok. There we go. Ooo. 
+Sylvia: Ohhh. 
+Austin: Interesting. Interesting. 
+Sylvia: Ok, so, I drew the Ace of Spring which is ‘What group has the highest status in the community? What must people do to gain inclusion in this group?’ Or ‘Are there distinct family units in the community? If so, what family structures are common?’
+Austin: Well, when three women love each other very much, they adopt two scamps. [Ali and Dre laugh] And they have a boat That’s what I’ve learned!
+Ali: Oh, and a dog. 
+Austin: And a dog. [Keith laughs] 
+Sylvia: Wow. Um… inspiring. [Austin and Sylvia laugh] Um… I wonder if it’s- I think I’m gonna go with a group having a higher status in the community. And I think it’s sort of become an unintentional thing where the people that are going out and exploring are seen as like… more-so than people who don’t. 
+Austin: Is there a title for that? Or anything?
+Sylvia: I’m trying to think of one. Um, [lightly laughs] but… I mean I guess just like, a scout. But that’s a bit boring. 
+Austin: Yeah. 
+Sylvia: Um, but it’s basically just-
+Janine: [overlapped] Outbound?
+Sylvia: Hm?
+Janine: Outbound? Somethin’ like that?
+Sylvia: Ooo. 
+Austin: Ooo, Outbound. 
+Sylvia: I do like that. 
+Austin: Yeah. 
+Sylvia: Um, and then for the second half of the question, ‘What must people do to gain inclusion in this group,’ I think it’s like, a pretty general like, you go out and discover something. Like, go find anything. 
+Austin: Right. 
+Sylvia: Go out- come out with a scouting party and bring- like, say something useful or have something useful when you come back. 
+Austin: Is it like a come back with a speci- like, not a specific thing, but is it kind of like, um, ‘I’ve gone off. I’ve come back. And look. I have a collection of this like, steel web that we can now use in this community.’ Or ‘I found this new type of plant that you can- that you can cook into-’ or you can like, um, not cook, but like, um… ‘heat up and turn into some sort of medicine.’
+Sylvia: Yeah. I think it’s like that. I think it’s like, by coming back with something that the community needs, you’ve kind of shown one, that you can handle yourself out there. 
+Austin: Yeah. 
+Sylvia: And two, that you’ve got the eye for it. 
+Austin: Right. 
+Sylvia: Um, that’s kind of what I was thinking. 
+Austin: So, Ephrim- how does Ephrim feel about that in terms of like- has Ephrim’s status continued? Or has Ephrim lost status in this whole…?
+Sylvia: I think that in the changing, he’s lost some of that status. 
+Austin: Yeah…
+Sylvia: Because it’s like this- why- like- [Sylvia and Austin breath laughs] Especially after what happened at the university before this!
+Austin: Yeah.
+Sylvia: Um, I think it’s-
+[1:45:00]
+Austin: Can I actually… demand a scene really quick?
+Sylvia: Yeah, sure. 
+Austin: Cause there’s a conversation I really wanted on screen that we just didn’t line up and didn’t have that is between Hadrian and Ephrim. Um… which is y’all have all these titles [laughs] and if we thought they didn’t mean shit before… now I’m really curious. And I would just love, speaking of status in the community, like, for- Did you- did you two ever find time to talk about… what it means to be the things you are? To have the titles you have.
+Art: I mean in several months, I think we could find time for almost anything. [Sylvia laughs hard] 
+Austin: How would a conversation like that even come up?
+Art: I mean I think Hadrian’s naturally curious about it because it was such a part of his identity, so-
+Austin: Yeah. 
+Art: I’m happy to just like, initiate that. 
+Austin: Do you need your list of titles since they’re not in the sidebar here?
+Art: No, I don’t need a list of my titles. [Ausitn laughs hard] It’s been five years. I’ve been thinking about all this for five years. 
+Sylvia: [amused] Yeah, and I don’t need one either… Definitely. [Keith, Austin, and Ali laugh]
+Austin: I’ll send it right over.
+Sylvia: I’ve got it.
+Austin: [laughing hard] Ok. [Sylvia laughs hard] How does Hadrian start that conversation?
+Art: You know, I think the classics are always good. I’m… I don’t know where it- Is there- Do you want to- Do you want to paint a- Like, where is Ephrim hangin’ out?
+Sylvia: Um… let’s set this one by the cool upside down waterfall…. Maybe.
+Austin: Yeah. Hell yeah!
+Sylvia: He’s like, checkin’ that out. 
+Keith: Do you need someone to do like the background waterfall noise?
+Art: [overlapped] I don’t think so, but thank you. 
+Austin: Keith can do any noise. Just so you know. I don’t know if you knew. 
+Keith (as WATERFALL): [foley] kwoaaooaooaoao- [Austin laughs] 
+Sylvia: Any noise.
+Keith: Uh, you can do the scene now. 
+Sylvia: Ok. [Austin laughs]
+Keith (as WATERFALL): [foley] kwoaaooaooaoao- [Austin laughs] 
+Janine: Sounds like a humidifier.
+Keith: That’s what upside down waterfalls sound like. 
+Austin: Wow. Makes you think. 
+Keith: Prove me wrong.
+Dre: I’m taking a contempt for that one.
+Austin: [laughing] Ok. [everyone laughs] 
+Art: So, um… 
+Art (as Hadrian): Hey, um, Ephrim, I’ve been… I’ve been meaning to talk to you about something. I don’t-
+Sylvia (as Ephrim): I- Is this about-
+Art (as Hadrian): Oh.
+Sylvia (as Ephrim): -letting Benjamin see that book of spells? Cause… that wasn’t- that was Throndir’s idea. [Austin laughs] 
+Art (as Hadrian): Oh my god, seriously?
+Sylvia (as Ephrim): No, that was my idea. I shouldn’t do that. 
+Art (as Hadrian): Ok, yeah. Let’s-
+Austin: [laughing] I just want you to know that I saw someone try to take contempt and draw a line instead. [Sylvia laughs hard] [Art laughs] 
+Dre: Yeah, that was- that was- that was me. 
+Art: Um, yeah, you can- but with the colors you can figure out who it was. 
+Austin: [laughing still] Yeah.
+Art: Um, 
+Art (as Hadrian): I just- I’m just not sure we’re teaching- we’re treating this spellbook as if it’s as dangerous as it is. Like, as a community. 
+Sylvia (as Ephrim): [sighs] I have a- I mean the thing is we have a lot of other things to focus on… as a community.
+Sylvia: And this is where Ephrim gestures to the giant treescape around them. [Austin laughs] 
+Sylvia (as Ephrim): Anyway, is that what you wanted to talk to me about?
+Art (as Hadrian): No. No. 
+Sylvia (as Ephrim): Ok. 
+Art (as Hadrian): Um…
+Austin: [laughing] My son? Never.
+Art: [laughs] I mean I- No.
+Art (as Hadrian): Benjamin’s very capable and can handle himself in this. [quietly] And what- what am I even gonna do anymore? Um… what- what indeed. [Austin exhales a laugh] I was- I was wondering, um… Do you think any of our… titles mean anything anymore? Do you plan to keep using them? 
+Sylvia (as Ephrim): Wait… Like, the- the Creed-related ones, you mean, yeah?
+Art (as Hadrian): Yeah, yeah. I mean I’m thinking like, I’m an Officer of the Order of Eternal Princes, and are you and I the only people with any affiliation with that order anymore? And if so… what is- what point is there in me being an officer of it? I mean if you need an officer, I’ll do it. I… I have experience. [Austin and Sylvia laugh] 
+Sylvia (as Ephrim): [exhales] I think… I think you’re fine doing what you’re doing now. I don’t- We don’t need to give you a different job. I… I don’t know. It… You’re still using them, huh?
+Art (as Hadrian): Less and less. Um, I mean part of the whole breakdown, both my personal breakdown and the- the general… lack of society is that there’s really not much of a place for heraldry anymore. 
+Sylvia (as Ephrim): [sighs] Yeah. No, I’m... I know. 
+Sylvia: Ephrim looks really sad after he says that one. [Austin and Art laugh] 
+Art (as Hadrian): [exhales] The Ordennans tried to give me a bunch new titles to like, reflect their worldview, and honestly, I didn’t even care. Like… who cares if someone calls me Defender of Humanity. No one’s gonna call me that. It’s like, a fun thing that would go on my grave stone. [Austin and Sylvia exhale laughs] And honestly, if you’re there when it happens… just Hadrian’s fine. 
+Sylvia (as Ephrim): Ok. So, Just Hadrian. Both words. Ok. I didn’t know that- I thought Hadrian was your first name, but-
+Austin: Oh my god. 
+Sylvia (as Ephrim): Look, Hadrian-
+Art (as Hadrian): Honestly, whatever Rosana wants on the headstone, that’s fine. It should be her choice. I’m not gonna be here to look at it. And if- and if we’re both gone, then it should be… I- Whatever. I mean… it’s non- I- I don’t care. I won’t be there. 
+Austin: [groans amusedly] Ugh, it took you awhile to get there. Oh buddy…
+Sylvia (as Ephrim): Look-
+Art (as Hadrian): And- yeah.
+Sylvia (as Ephrim): I. I understand the… worry, ya know? I’ve defined myself by… what people call me for pretty much… I don’t know, as long as I’ve been around, whether it’s Lord or whether it’s Prince or whatever. But like, if you don’t… really have any personal tie to it, what good is it, right?
+Art (as Hadrian): Yeah, I hear that. 
+Sylvia (as Ephrim): Samothes is gone. I don’t think there’s any Order of Eternal Princes anymore. I mean… I kind of hope not. But… if you wanna keep callin’ yourself that, I’m not gonna stop you. I just think… we got a new situation here. You could probably earn some new ones, if it means that much to ya. 
+Art (as Hadrian): No, I don’t know that it does. I think… I think my days of- of all of this are comin’ to a close. 
+Sylvia (as Ephrim): Yeah, well… I think just Hadrian suits you pretty well. 
+Art (as Hadrian): Sure, and if things get too formal, I always got Dragon Slayer. [Austin exhales a laugh]
+[crosstalking]
+Sylvia: Is that it? Like, do we need a-
+Austin: Alright. Yeah, I think that’s it. 
+Sylvia: Yeah. 
+Austin: I think that that’s it. I think that that’s it. Alright. I’ve advanced all of the clocks. And… um… now it’s your turn, Sylvia, to do a thing. To either discover something, start a project, or hold a discussion. 
+Sylvia: Yeah, I was- I also wanted to do a discover something new. 
+Austin: Ok. 
+Sylvia: Cause I thought of something kinda… small, but could be interesting. 
+Austin: Sure. 
+Sylvia: Um, I had this idea that… y’all know what fairy rings are. Like, rings of mushrooms, basically, in the wild that just kind of grow? 
+Austin: Yeah… 
+Sylvia: I was thinking like, those would start popping in spaces on the tree... as like… 
+Austin: Sure. 
+Sylvia: And like… Yeah, I don’t know. I don’t know whether- I don’t know if we want to get into like, what- like, basica- you know, play to find out what happens. That’s the whole…
+Austin: Yeah, yeah, yeah!
+Sylvia: That’s like, our tagline. 
+Austin: It is. 
+Sylvia: I don’t know why I need to explain so much of this. [Austin laughs] I just think it’s cool. And I think there’s a lot of fun like, folklore-y background to them as a thing. 
+Austin: Are they showing everywhere around here? Or is there a specific place where they start showing up?
+Sylvia: They… I think… they start showing up on… higher altitudes, I think. And then- Or no! Reverse that. Lower altitudes, moving up. [quietly; overlapped] That works out better. 
+Austin: What does lower altitude mean in… 
+Sylvia: I guess it means like, down here. 
+Austin: Yeah. So, like, you mean like, at the bottom of this map?
+Sylvia: At- Yeah. 
+Austin: Yeah, ok. 
+Sylvia: Like-
+Austin: I know it is like, a weird thing cause we’ve drawn like, the sun in the sk- Like, we immediately were like, ‘Yep. That is up!’ even though we told ourselves not to. [Jack laughs quietly] We all did it. 
+Sylvia: Well, I was also thinking like, if we like, looked down- Like, if you stood on like, the edge of the university and looked down…
+Austin: Right. 
+Sylvia: -you could see like- like, if you had like, a telescope or something-
+Austin: Yeah, yeah, yeah. 
+Sylvia: -you could like, see like, ‘Oh, there’s these rings of mushrooms popping up.’
+Austin: I love it. I have no idea what they’re doing there. We should- we should-
+Sylvia: Yeah, me neither. 
+Jack: I have a… a question. 
+Austin: Yes. 
+Sylvia: Yeah. 
+Jack: Which is um, can we tell with our telescope- are some of them bigger than others? 
+Austin: [in background] Mm. 
+Jack: Like, do they correspond to the same size weirdness that everything else around here does?
+Sylvia: Ooo. I think they’re… they’re not uniform in size, but in like, the shape of the cap of the mushroom, they are and stuff like that. So, like-
+Jack: Mm. 
+Sylvia: It- [stammers slightly] They do vary in size more, but it’s um…
+Jack: [quietly] Right. 
+Sylvia: I have this whole like, mushroom cap reference, morphology thing I’m looking at right now to try and think of the perfect mushroom. [laughs] 
+Keith: I have a- I have a mushroom thing… Um, so- so because mushr- mushrooms are a fungus, so they grow from spores. And so, one reason why mushrooms might be showing up is like, it takes fewer spores to make a mushroom because the spores are bigger. 
+Sylvia: Mm. 
+Keith: And so it’s like, where you used to not be able to see that there’s a mushroom there cause it’s just a handful of spores, [Jack de Quidt’s ‘Under the Boughs’ begins playing] now it’s like, ‘Oh, there- that’s- those whole-ass mushrooms. Which means that also, sometimes, you get really, really big ones. 
+Sylvia: I really like that. 
+Austin: Yeah, totally. I- And we’ll see if there’s anything special about those mushrooms or it they- if there’s any other non-natural reason for them to be there. Who knows? Can you just add- let’s add ‘em to the map. I like it. [Music plays out to end.]

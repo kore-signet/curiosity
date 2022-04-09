@@ -1,0 +1,1586 @@
+COUNTER/Weight 23: An Astonishingly Illegal Ship
+
+Transcript: Matt [0:00-54:00]; completed by Kate Nepveu, knepveu@steelypips.org 
+
+AUSTIN: When you leave the memory farm, you emerge into streets brimming with the strange energy of a long weekend and a compulsory celebration. In just a few hours, under pseudo-cerulean skies, the citizens of Counterweight will celebrate the sheer fact of their existence. But now it is dark, and laborers are in the final stages of preparation. Neon cloth banners roll out over freshly cleaned memorial archways. Firework display configurations are programmed into the ballistic systems of decommissioned Riggers. 12-year-olds practice the opening bars of our national anthems, and wonder what it is they’re supposed to be happy for.
+
+AUSTIN (con't): "You have two and a half days," Orth says. "Finish your business, and get ready." His vision drifts past you, up to a blinking satellite in near orbit. It’s time to leave Counterweight.
+
+AUSTIN (con't): Welcome to Friends at the Table, an actual play podcast focused on critical world-building, smart characterization and fun interaction between good friends. We are as always presented by streamfriends.tv and runbutton.net. We are back to The Sprawl by Hamish Cameron, which I think is just about ready to come out. Hamish just sent the cover art around to Kickstarter backers. I haven’t seen it yet, I just saw the notification that that was a thing. 
+
+AUSTIN (con't): Our agenda with The Sprawl is as always to make the Sprawl dirty, hi-tech and excessive; to make the big things bigger and the small things smaller; to fill the characters' lives with action, intrigue and complication; to entangle the characters in the Sprawl; and to play to find out what happens. I’m going to go over our personal directives and introduce our players. Ali is playing Aria Joie.
+
+ALI: Hi!
+
+AUSTIN: Where can people find you?
+
+ALI: I am @ali_west on Twitter.
+
+AUSTIN: Aria's personal directives are when you find value — sorry, when you value heroism over the mission, mark experience; and when your desire for fame draws unwanted attention to the mission, mark experience. AuDy is played by Jack de Quidt.
+
+JACK: Hi there!
+
+AUSTIN: Where can people find you?
+
+JACK: You can find me on the internet at @notquitereal, or at the game studio I write for called Crows Crows Crows.
+
+AUSTIN: You launched a game, didn't you?
+
+JACK: Yeah, I did! You can play it for free on Steam. It's called "Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist." It’s about a robbery.
+
+AUSTIN: Hmm. AuDy’s personal directives are Revealing: when you discover more information about the cause of your sentience, mark experience. And The Laws of Robotics: when you follow them and it hinders the mission, mark experience. Next up is Cass, played by Art Tebbel. Where can people find you, Art?
+
+ART: They can find me on Twitter at @atebbel.
+
+AUSTIN: And you have: when your former membership in the Apostolosian royalty hinders the mission, mark experience. And when you put the advice of Koda ahead of the mission, mark experience. Finally — 
+
+ART: Yeah, is that — oh, is that even like a thing any more? Is my first personal directive even a problem from what the last episode was? I — 
+
+AUSTIN: We'll talk about that almost immediately. Last up is Mako, played by Keith Carberry. Keith, where can people find you?
+
+KEITH: You can find me on Twitter at @KeithJCarberry, and you can find the Let’s Plays that I do at youtube.com/runbutton.
+
+AUSTIN: Great. And your personal directives are: when your lies about your identity or your past put the mission at risk, mark experience. And when adhering to your persona hinders the mission, mark experience. We don’t have any mission directives yet, because it is the beginning of a new mission.
+
+AUSTIN (con't): So I just want to set this up really briefly, and then we actually have love letters. But the love letters happen after this next immediate scene. So I just want to narrate it briefly. You’re coming out of that memory den, Orth tells you we're leaving Counterweight, and basically sets it up like this. Ibex is closing in. Ibex doesn’t have you marked quite yet, but the only way to fix that — in other words the only way to reduce these clocks which I've just switched you back over to see — is to go to Liberty and Discovery HQ and clear your names from their servers. You can attack them here, but there’s always a back-up. And you need to clear your biometric data, you need to clear all the information they have about you. To do that, you have to get to their home servers.
+
+(0:05:00)
+
+AUSTIN (con't): To do that, you have to get off of Counterweight. And then, you have to maybe go get some other stuff. Orth kind of sets it up in a broad way, he kind of has three things for you that you have to think about here going forward. One is, getting off of Counterweight is going to be tough. It's in the middle of this celebration, it's the ten-year anniversary from the Miracle of Weight, from the end of the Golden Branch War, the Golden War. And that means that there's like — on one hand it's good for you. It means Ibex is going to have a hard time finding you over the next couple of days, because there’s lots of things coming to and from Counterweight. And that's why you need to get off now before things calm back down. But on the other hand it also means there’s like, a general blockade of things coming in and out. Everything is being carefully monitored. There’s lots of extra security everywhere. Orth also warns you that you might have other people gunning for you, either people that Orth has put into play or other people you’ve upset might be looking for you at this point.
+
+AUSTIN (con't): There's also the question of — and we touched on this during the Kingdom game — the fact that Counterweight itself has a Divine that is kind of protecting it, and that is the Divine Detachment. And Orth doesn't know much about Detachment at all, really. Then Orth's plan, and I suspect we may have future conversations about this once we get off Counterweight, it's very much a kind of like, "Hey let's get out of here first and then we can decide what the fuck we're doing." But Orth believes that the best thing that we can do to get past the security at Liberty and Discovery is to get a weapon from the September Institute. Again, we can have that conversation in the future. And then there's the question of actually getting all the way across the galaxy, or not the galaxy, the sector. And doing that in a way where you’re safe. And there's a couple of ways you can do that. That's kind of part of the mission today, so I’m going to give you your mission directives. 
+
+AUSTIN (con't): The first thing is to get the job, which — you're doing that now. Someone will have to roll to get the job like normal, because that will determine what sort of supplies Orth can give you. The second one is to successfully launch the Kingdom Come into space. The third one is to get past Detachment. And the final one is to complete the job and escape the orbit of Counterweight.
+
+AUSTIN (con't): So give me, someone give me a Take the Job roll.
+
+ART: I have an Edge of one.
+
+AUSTIN: That's not great.
+
+KEITH: I think I also have an Edge of one, let me double check. 
+
+JACK: I also have an Edge one.
+
+ALI: I think mine is two . . . 
+
+JACK: Oh, Ali!
+
+ART: All right, Ali’s our job-getter.
+
+ALI: No I — I only have one.
+
+KEITH (under breath): Uh oh . . . oh, sorry zero.
+
+AUSTIN: No, Ali only has one. Everyone has one or zero. Good.
+
+KEITH: Well, let's do the one, then.
+
+AUSTIN: Cass, do you want to roll it? Who wants to roll it? It doesn't matter if you're a couple of ones.
+
+ART: I'll roll, I already hit it.
+
+AUSTIN: All right, succeeds partially.
+
+ALI: Yay.
+
+AUSTIN: That's not the worst thing, right?
+
+ART: That's an above-average roll, thank you very much.
+
+AUSTIN: That's an above-average roll. All right, so when you get the job, you negotiate — you can choose three, sorry, you can choose one from the list below: the employer provides useful information, which is intel; the employer provides useful assets, which is gear; the job pays well; the meeting doesn't attract attention; or the employer is identifiable.
+
+ART: The meeting doesn’t attract attention!
+
+KEITH: You know what?
+
+AUSTIN: That's a good plan. 
+
+ART: Thank you.
+
+KEITH: Oh yeah, attracting attention's kind of like our whole thing, and it's the reason we're in this mess.
+
+AUSTIN: Yuuup.
+
+ALI: Didn't we already attract a bunch of attention?
+
+ART: We have not properly — 
+
+AUSTIN: Right, but you might attract more if he hadn't picked that.
+
+KEITH: I would like to go on record as, you know, I'm going to try to be a little better at not attracting attention from now on.
+
+AUSTIN: That sounds good, that sounds like a good plan. I like that plan.
+
+ART: Also only took like, two years.
+
+AUSTIN: Whoa, whoops I didn't mean to do that . . . you might see that the clocks have changed too. People who have not yet listened to the last faction episode will be super confused, because there's like, new companies listed here. And a lot of them are missing. There was a condensing that happened last game, and I'll go over that in a second too.
+
+AUSTIN (con't): So here’s what Orth does give you: doesn’t give you any intel, doesn’t give you any gear. Does give you straight up ten credits.
+
+ALI: [gasps]
+
+KEITH: Can I have those? Each?
+
+AUSTIN: No, not each. 
+
+KEITH: I don’t know, I heard "each."
+
+AUSTIN: Here's the thing, you’re going to need these. This is all he can contribute to getting the Kingdom Come up to snuff so that it can get off the planet. Because it's not right now fit for kind of like getting up into orbit. And then getting some sort of like, either some sort of stealth device, or some way to move through dark space. You don't want to be seen in space going down the normal routes. 
+
+(0:10:00)
+
+AUSTIN (con't): And that's going to be — I don't know what the answer to that is. I have some prices for things that, maybe that can happen. And you have to figure out a way to launch without getting caught — like, there's a lot you have to figure out here. There are people gunning for you, you need to get off this fucking planet. But! You have two and a half days to do that. It's basically a Friday morning, I'm imagining this as like Friday at 5 AM. And you kind of have until Sunday night to take off before things calm down again. So are there any questions before we move on to the next little step?
+
+JACK: I have a question: how many credits do people have right now? Did we make money from the last mission?
+
+ALI: Um, I have — some of us did, we got back what we staked, right?
+
+AUSTIN: Yeah, but you didn't gain anything from that one.
+
+ALI: Right.
+
+ART: I've just got seven.
+
+KEITH: We just got back the stake. 
+
+AUSTIN: Yeah, I think that's true. I checked everyone's credits before this started, and I think it looked right. 
+
+JACK: Ok. 
+
+AUSTIN: So now there's a pool of an additional ten that you can use to do stuff. And that's your pay for this mission, right? Here’s the thing, that Orth — I don’t know, does Orth even tell you this? Does anybody ask where those credits came from?
+
+KEITH (as Mako): Hey Orth, where'd these credits come from?
+
+AUSTIN (as Orth): That's what’s left.
+
+KEITH (as Mako): Left of what?
+
+AUSTIN (as Orth): The Technocracy? While you were out, things changed. The Diaspora — 
+
+KEITH (as Mako): "While you were out, things changed?!" How do you even break news to someone like that? "Hi, we’ve got ten credits left."
+
+AUSTIN (as Orth): It's what I could gather. And there might be another thing or two.
+
+KEITH (as Mako): By "thing or two," do you mean cache of credits? Or, "another credit or two?"
+
+AUSTIN (as Orth): . . . I meant like a desk. There might be a desk you could have. Or a chair.
+
+ALI (as Aria): Wait, what's replacing the Technocracy?
+
+AUSTIN (as Orth): They just — the . . . wise men of OriCon and the Diaspora have decided that they don't need an intermediary anymore; that they are sovereign nations and they can govern their territory on their own. One of them noted that there was a time when planets always were divided into smaller sections of government, and they could do it again, by god. I think they’re crazy.
+
+KEITH: They’re reinventing countries!
+
+AUSTIN: Yeah, they've reinvented countries, is what they've done here. That wasn't a thing for a while, because sci-fi just says — 
+
+KEITH: For a while, it was like "You're either Tatooine or Dantooine."
+
+AUSTIN: Yes, exactly. They’ve figured that shit out, like "Wait, we don’t need this." For the players, I will also point out some other things have changed. And again, this is especially if you hadn't played, if you haven't listened yet to the last episode of the faction game.
+
+KEITH: That’s me, I haven't yet done that.
+
+AUSTIN: Well there are some things here your characters do not know, and I need you to be good players about this. So, Hands of Grace are still the Hands of Grace, except they're also the Diasporatic Department of Material Resources: Slate Division. Petrichor Automedia is Snowtrak Synergies and EarthHome Entertainment. Petrichor is the smell that water makes, that rain makes when it hits — it’s the smell of it raining. It basically means something like — 
+
+KEITH: You're just raining nonstop auto-generated content?
+
+AUSTIN: Right, that’s what it means basically. What's the actual etymology? It's ichor, like you know, blood. And "petra" is just stone. It’s like "stone blood."
+
+JACK: Oh, wow.
+
+ALI: Wait, that's different from rain.
+
+AUSTIN: No, that's the sound rain makes. That's it. Or the smell rain makes. 
+
+AUSTIN (con't): Rigour did some moves in the last faction episode.
+
+KEITH: Sorry, who did some moves?
+
+AUSTIN: Rigour, the kind of divine of Snowtrak, so to speak?
+
+KEITH: Right, yes, yeah.
+
+JACK: The horrifying, autonomous Divine.
+
+AUSTIN: The Righteous Vanguard is the group organized by Ibex, which — I'll swing us back over to the map real quick . . . 
+
+KEITH: God, I hate that guy. 
+
+AUSTIN: . . . has formally separated from the Hands of Grace, and you can see owns a pretty big section of the map.
+
+ALI: Yikes.
+
+ART: A pretty big, mostly empty section of the map.
+
+AUSTIN: Yeah, that's true, but — 
+
+KEITH: Wait, sorry, for the Righteous Vanguard, or the Hands of Grace?
+
+AUSTIN: Both, really. Space is empty a lot.
+
+KEITH: Yeah.
+
+ALI: He has a bunch of planets with, like — moons? Are those moons?
+
+AUSTIN: Those are planets. The red is planets. Everything is a planet. I don't have any moons. It's like a sun — my map is weird. I can get rid of these white dots, probably.
+
+KEITH: I thought that the dots were suns?
+
+AUSTIN: The white dots are suns.
+
+ALI: Ohhh.
+
+AUSTIN: The other dots are planets. It doesn't matter. None of that matters, they're just two marks. 
+
+(0:15:00)
+
+AUSTIN (con't): The only one that has a moon is Minerva in the — not in the top right.
+
+KEITH: These planets are real marks.
+
+AUSTIN: Goddammit. You'll also notice, so the Righteous Vanguard is a combination of Liberty and Discovery Automatic Corp, the Lux Vox Data Research Center, and the September Institute. Hot spoilers again, Keith, for the last episode. Things are rough. Things are going to be rough for everyone involved.
+
+KEITH: Do you want to tell me, or do I just have to not know?
+
+AUSTIN: Your character just shouldn’t know. So for now, let’s just play like you don't.
+
+KEITH: Ok. Oh god, I gotta listen to that real quick.
+
+AUSTIN: You do. The Minerva Strategic Alliance is replacing OriCon, the OriCon Expeditionary Group. It's still part of OriCon in general, but it is basically, the people who used to be in charge of OriCon have given these two rad twins from Minerva, from Minerva Mining, all of their resources to try to get the rest of OriCon in line. Because Petrichor, which was EarthHome and Snowtrak — they didn't leave, but they kind of declared themselves independent corporations, like you can kind of step away from OriCon oversight basically, and they've done that.
+
+AUSTIN (con't): The Odamas Fleet is the fleet that Sylvia controls in the faction game. Space pirates, like gutterpunk gene-spliced space pirates.
+
+KEITH: That sounds like Sylvia.
+
+AUSTIN: Yeah, basically. They beat Horizon Tactical Solutions, the kind of Blackwater, space Blackwater, into submission. And so now they're part of the Odamas Fleet. There's also this weird group called the Golden Branch Demarchy, which is the group that Sokrates, now the candidate of the Divine Integrity,
+
+KEITH: Hello!
+
+AUSTIN: Hi. Took over — 
+
+KEITH: Oh, I love that it's Integrity.
+
+AUSTIN: Yeah, it's pretty good — and has started this new group called the Golden Branch Demarchy. Which is kind of like a . . . so a demarchy is a form of government wherein a lottery picks your representatives. And the way it works for them is that there is a pool of people, each of whom is dedicated to one of the paragons of Apostolosian culture, who are then pulled into that representational position. Except for this first wave of them which are appointments, because, you know, you throw a coup, you've got to have appointments sometimes. 
+
+KEITH: Mm-hm.
+
+AUSTIN: And so that includes some characters we've met in the faction game before. And those are up in the Apostolosian corner, and also down at the bottom, where there’s a planet called Slighter. Which is where Sokrates kind of hung out for the last decade. Finally there’s the Rapid Evening, and I’ve just come out and basically shown that the Rapid Evening controls the planet Kaffe, which is where Fairchild Research and Development is from. Which we kind of hinted at during the Kingdom game.
+
+KEITH: Sorry, which planet does the Rapid Evening control?
+
+AUSTIN: On top of the ones in the top right, Ziishe and Kesh, they also control Kaffe at the bottom. 
+
+KEITH: Ohh, ok. I see, yeah.
+
+AUSTIN: So that’s their new map; it's busy but it’s pretty good.
+
+KEITH: It is busy.
+
+AUSTIN: I need to get like a hot mapmaker, to make me a hot map.
+
+KEITH: Oh, they're called "cartographers."
+
+ART: I don’t think the attractiveness of the mapmaker is really not — 
+
+AUSTIN: I need them to be smoking hot. I need them to be sexy. They gotta look good. And their maps also need to look good, that would be ideal.
+
+KEITH: In the same way? Or in the way that maps normally — 
+
+AUSTIN: Different ways, you know, people, lots of things are attractive.
+
+KEITH: Yeah.
+
+AUSTIN: So any other questions for Orth before I move on to love letters?
+
+KEITH: Is one of the love letters to a hot map?
+
+AUSTIN: Yeah. "Dear hot map, you have some amazing curves. I love your geometries." Ok.
+
+ALI: I have all the questions for Orth, but we should probably just — 
+
+AUSTIN: Let's save those for a different scene. Let's save those, because I want to get these out of the way. And then we can really keep it moving. All right, so: Mako. After you leave the memory farm, you find yourself catching something out of the corner of your eye over and over throughout your day. It is a familiar face, but you can't quite place it. Roll +Edge to identify what it is. 
+
+KEITH: And who is this?
+AUSTIN: It's for you, Mako.
+
+KEITH: Oh, ok. +Edge, great, thanks for that.
+
+AUSTIN: Yep, that's the thing you've gotta roll sometimes. [pause] Oh boy . . . ok!
+
+KEITH: Four!
+
+AUSTIN: That's good, you're going to . . . I've gotta figure out which move this affects, one second. I really expected you to make that. That's ok, that's ok.
+
+KEITH: I mean, you can't really expect someone to make a 50/50 roll.
+
+AUSTIN: Ah, you know . . . 
+
+ART: It's slightly more than — 
+
+KEITH: I made it that time!
+
+AUSTIN: See? Half the time you make it. The next time that you, take a minus one forward to Log In. Or Jack In? Whichever the one is that you use when you — you have Log In and Jack In and they're different moves. Log in, the next time that you Log In.
+
+KEITH: They are different, but they happen at the same time. They happen concurrently.
+
+AUSTIN: They do, yeah. So take a one forward. The next time that you log in, something weird is going to happen. And I'm going to foreshadow this.
+
+(0:20:00)
+
+KEITH: Ok, sorry, a one forward, or a minus one forward?
+
+AUSTIN: Minus one forward, yes.
+
+KEITH: That's what I thought.
+
+AUSTIN: All right, let's do the next one that's sort of short. AuDy.
+
+JACK: Hi.
+
+AUSTIN: Given that you're going to be leaving Counterweight, you take a visit to Cene Sixheart, your friend and personal mechanic. You recall that back when we were playing Mechnoir, you had the relationship "dependent" with Cene. The kind of way we talked about that is, sometimes you just need to get checked up on, you know? Get a diagnostic run on you. You tell Cene that you're leaving Counterweight for some time, and they gain a worried look on their face.
+
+AUSTIN (as Cene): Without your regular checkups . . . 
+
+AUSTIN: Cene trails off, and then goes to dig through a pile of equipment. They give you a choice. You can promise to check in once a week via network connection, where they'll be able to run a remote diagnostic and make sure that you're working correctly. And that will be great, that will keep you safe and secure. That is the promise they make you. Otherwise, they'll give you a device that's sort of like, I'm imagining it like, you know a piping bag, like for icing?
+
+JACK: Yeah.
+
+AUSTIN: It's like that, but like black and gooey. And you have to stick that into one of your ports and give it a squeeze every few days. And that will repair you one harm, but it will not clear you of non-physical maladies. If anything gets into your wiring or into your circuitry or into your programming, that won't clear it for you. Of course, Cene thinks you'll be fine. Cene thinks, listen, you haven't shown any problems for the last few months, everything's been good. But those are the two offers that Cene makes.
+
+JACK: I'm going to go with checking in with Cene rather than — 
+
+AUSTIN: Ok, so to be clear that means you'll have to connect to the Mesh.
+
+JACK: Oh god! 
+
+AUSTIN: Yeah.
+
+JACK: Oh, I thought you meant just like using Skype.
+
+AUSTIN: No, no, like you'll have to plug yourself into the Mesh. So normally I imagine that your Cene checkups are being plugged into a local access network. You're off the Mesh, you're off the grid, that's why you go to Cene. Because Cene has the equipment to do that sort of thing without connecting to the Mesh.
+
+JACK: Ok, then I'm going to go for piping bag.
+
+AUSTIN: All right, yeah. Take this cool healing bag of mystery goo. That's good. That's good.
+
+JACK: I'm picturing the sort of goo from Soma.
+
+AUSTIN: Yes, Soma is one hundred percent what my inspiration here was. Aria.
+
+ALI: Hey.
+
+AUSTIN: One of the things that you do during your day is — you know, you're moving about, you've got a lot of things to do to prep. You need just a nice cup of coffee. Maybe a latte, or a chai, maybe? Let's do a chai. And you spot her hiding in the corner of a Constellation Cafe, trying to escape from the press attention that has now been thrust upon her as the new ready-made vision of OriCon heroism. Tea Kenridge, leader of the Weightless, queen of the Gambit. With a new robotic eye in her head, which is not super attractive, honestly. She doesn't carry it well. Before you can break your gaze, she spots you. And hey, what is a chai between rivals? You have time and space to make an emotional connection with her. Roll Style. On a ten plus, you'll gain two hold — this is Vision Thing — you'll gain two hold and receive a special gift. On a seven to nine, you can gain one hold or receive a special gift.
+
+ALI: Bam!
+
+JACK: Oh, whoah!
+
+AUSTIN: That's a ten, that's a sick ten. All right, let's do Vision Thing first. 
+
+KEITH: Can I have, like, four of those?
+
+AUSTIN: Four is too many. You can have three, that would even you out. Keith, don't worry, I promise your thing will wrap around and be good in the end. Just stick it out. It's going to be bad for a while before it gets good again. 
+
+KEITH: That's kind of our whole thing, though.
+
+AUSTIN: Yeah, basically. All right, so you can spend this hold, Ali, to have this targeted NPC give you something you want, to do something you ask, to fight to protect you and your cause, to disobey an order given by someone with authority or leverage over them. Because we'll hold that hold, that's two hold you can just have on Tea Kenridge. Or you could spend it now. And then, you also have some other new power, right?
+
+ALI: Yeah, I can also ask her questions.
+
+AUSTIN: Ooh. Let's just have a quick — I think she in general has come to this weird — she saw what your crew did with Order. And, like, doesn't really know the specifics, but knows that you stopped Order. And having seen Order before, that is impressive to her. And she's kinda been re-legitimized in OriCon. You know, with the celebration happening, she's scheduled to pilot the Panther in like, parades and shit.
+
+ALI: Urgh . . . 
+
+AUSTIN: And is not happy about it.
+
+KEITH: Aria is? Or the, um — 
+
+AUSTIN: Tea is not happy about it.
+
+KEITH: Yeah, okay right, yes.
+
+AUSTIN: So, that's the kind of gist of her side of the conversation. What's the gist of Aria's side?
+
+(0:25:00)
+
+ALI: Um, I don't know. I think that Aria's, like, opinions on Tea would have changed a lot through the Kingdom game. 
+
+AUSTIN: Mm-hm.
+
+ALI: So I think that she's like, sort of guarded but like . . . I don't know, feels kind of bad for her? Because she can tell that she's uncomfortable with all of this.
+
+AUSTIN: Mm-hm, yeah. Does Aria use the opportunity to kind of like, talk game? Like, talk about her visions for Counterweight and Weight and all of that?
+
+ALI: Uh, yeah! Absolutely.
+
+AUSTIN: What's the case she kind of makes for Tea?
+
+ALI: I think, especially with it being the anniversary and everything and Aria sort of seeing the truth of like, what happened between that. Where it's like, you know, Jace and Addax created this thing and like, Weight is sort of what the people of Counterweight are — like, it was taken from them, so they're like allowed to have it, essentially.
+
+AUSTIN: Right, right. All right.
+
+ALI: They're entitled to it, is the word that I am looking for.
+
+AUSTIN: That is, yeah, that is the right word. 
+
+ALI: Yeah. [laughs]
+
+AUSTIN: Uh, do you want to save this hold? Do you want to save this question? What do you want to do with that stuff?
+
+ALI: Um, I have two hold, so yeah, I think I'm going to use them because I don't think I'm going to see her. Do I — should I add her as like a contact? If she's like, a follower now? 
+
+AUSTIN: Sure! Totally, totally.
+
+ALI: Ok, I'll do that. Ok, so the question I'm going to ask her is, uh . . . "How are you vulnerable?"
+
+AUSTIN: Hmm. She is — she is being positioned the way Orth was being positioned a decade ago. Which is being set up to fail in such a way that she can be a symbolic force for the rest of OriCon. They've kind of legitimized the Weightless. Or, not even legitimized. It's never been like — wasn't like, "Oh, we were the Weightless and now we are back to being the Queen's Gambit." It's just like, "Oh, she's the Queen's Gambit again, like, that's the name of the group! And she's piloting Jace's old mech because that's what heroes do."
+
+ALI: That's so gross . . . 
+
+AUSTIN: And she is terrified that she is going to be sent into war over bullshit. And, like, be expected to die for the cause. So, like, she is vulnerable all over, basically. She's vulnerable in that she has no power. Right? She can't just — there's a little bit of jealousy in her voice when it's clear that you're kind of a freelancer. Right?
+
+ALI: [chuckles]
+
+AUSTIN: Like, she went government again. And now that's not, that's — she kind of misses it.
+
+ALI: Yeah.
+
+AUSTIN: And actually that ties into her gift. She gives you, I think maybe an access card to . . . a hangar. The hangar that you all first encountered her in — or not all of you, Cass and Mako encountered her in. And inside are some of the remnants of what was left of the Weightless after the fight with Order. And we'll get to that when you get there.
+
+ALI: Ok . . . [chuckle]
+
+AUSTIN: Um, and she's like, "Listen, you can use these better than me." All right, Cass.
+
+ART: Hey, hi!
+
+AUSTIN: So.
+
+ART: Yeah.
+
+AUSTIN: I think while you were under, you've got a billion messages. Like, your phone blew up.
+
+ART: Huh, weird.
+
+AUSTIN: And also I think you probably have a burner without Righteousness on it. [Laughs] Because your main phone was like all spyware'd up. Ah, that malware. So many popups. Um, eventually you get one that lays it out. The emperor Apostolos, your parent, has been killed. Sokrates, your sibling, has thrown a coup. There is a royal funeral planned for tomorrow at noon. It will be the final official act of the Apostolosian Empire before that is completely dissolved. Koda requests that you join them at the embassy to pay your respects remotely. Do you attend?
+
+ART: [groans]
+
+AUSTIN: If so, I will advance a clock, but you will receive what is willed to you. If no, Koda will insist, "Please come with me." And if you don't, you'll take a negative one ongoing. Meaning not just for the next roll, but until you make it right with Koda, you'll have negative one with all interactions with Koda.
+
+ART: [deep sigh]
+
+KEITH: Dude . . . 
+
+[everyone laughs]
+
+ART: I don't — I don't know. Um, am I going to have to talk with anyone.
+
+AUSTIN: Koda say, probably not. Not anyone on Apostolos, anyway. The tech has never been that good. But your presence will be appreciated. Koda assures you — Koda tries to assure you that you won't even be noticed.
+
+(0:30:00)
+
+AUSTIN (con't): That, like, everything is in disarray, that Sokrates is setting up this Golden Branch Demarchy, and that whatever ill will was given to you, this is a new world. The old empire and all its weights have been lifted from our shoulders.
+
+ART: Ok, yes.
+
+AUSTIN: Ok. The second you step inside, the automated protocols of the embassy announce your presence because they have not yet been updated. They welcome you vocally, with fanfare. The young prince of Apostolos, Cassander Timaeus Berenice, scion of the House Pelagios, embodiment of Apole. You are led with honors through the hallways of the embassy, and a small door opens into a large field in Apostolos, shimmering with the golden aura of holographic projection. The field there has been made to resemble the long-trampled-over fields of the holy ground of Apotine, now called Joypark. But it is clear that this is a stand-in, a replica. There are the familiar royal lilies that once grew on Apotine. But underneath, the ground is the red clay stuff of Apostolos, not the rich soil of Joypark. And where there normally [is] one glowing sun at Apotine, here there is the three suns of Apostolos. It is a thing you hadn't thought of probably until now, which is that your parent, the former emperor, is the first and last ruler of Apostolos who has been forced to be buried away from Apotine, the holy ground. And so it makes this already grim event even heavier.
+
+AUSTIN (con't): They stand you where you belong, next to the rest of your siblings. Sokrates is dressed in the new uniform of the Demarchy's Chancellorship. And your oldest kin is wearing their objection across their chest, in the form of the heir's sash. Like, a sash that they would normally wear to official functions under the old empire, like, showing they were the heir. They give you looks, but nothing there can be heard. Like, every word that is spoken around you in this weird holographic projection is reduced to a sort of lyrical sway of sounds. Everything is all curves, there's no edges. You can't differentiate the beginning of one word from the end of the previous one. But things still have a sort of force and power. Um, and at the end your older sibling leaves and gives you nothing, like no real recognition. But Sokrates gives you a small, sad smile. Eyes down, and tired, and honest. And a short nod, and then it starts raining, and the connection is broken. And you're left alone inside of a room — er, not alone. You're left inside of this holographic room with . . . a couple of people. With Koda, and then with the members of the Netted Wave. Kimon Tell, and Kimon Tell's officers, who are now being brought into the Demarchy. And again, kind of professionalized — you know, legitimized. The same way that the Weightless have been. As part of this, you are gifted your late parent's personal colossi, the Arete, which will be waiting for you at the Rethal-Addax Spaceport. That is your inheritance as set up by Sokrates. A gift for their* little sibling.* [* Corrected by transcriber.]
+
+ART: Great.
+
+KEITH: You're welcome.
+
+ALI: [laughs]
+
+AUSTIN: Yeah, good job Keith.
+
+ART: Koda was pretty wrong about the amount of, amount of attention and fanfare, huh.
+
+AUSTIN: Yeah, completely wrong. Way wrong, completely. I'm going to advance a clock, one second. Uh . . . that's the wrong page, that's Kingdom. Nothing there is advancing. "Crisis!" Uh . . . 
+
+ART: Yeah, "Crisis" is the right one. That's, that's it.
+
+AUSTIN: Yeah, that's definitely the one.
+ART: Just put "Crisis" on our game.
+
+AUSTIN: Totally.
+
+[nervous laughter]
+ART: Oh boy . . . 
+
+AUSTIN: It's good! Everything's good, what's wrong? All right — 
+
+ALI: Wait, we can't see the clock. What changed?
+
+AUSTIN: I advanced the Minerva Strategic Alliance.
+
+ALI: Ok . . . 
+
+AUSTIN: It's fine, it's early still, sorry. It's only up to eighteen-hundred.
+
+ALI: That's fine. 
+
+AUSTIN: So no big deal. But they notice. They notice that there is one of the remain — they notice that someone Sokrates cares about is still on Counterweight. That's what they notice. All right, so . . . legwork time! Time to get the Kingdom Come ready, I guess. What are you doing?
+
+JACK: Sure . . . I'm looking through my contacts. 
+
+AUSTIN: Good call. 
+
+JACK: And I don't — 
+
+AUSTIN: And — go ahead.
+
+JACK: Well, oh! Hey, maybe . . . nah, do you think Jim would know anything about launching an object into space? Working in a spaceport?
+
+AUSTIN: Jim would probably know something about . . . getting you — could, you know, who knows what Jim knows. But Jim is all about getting things in and out of spaceports, and sometimes unseen.
+
+(0:35:00)
+
+JACK: Yeah!
+
+AUSTIN: Reminder that in the old system, Jim had a couple of, uh, favors that they could provide that were very — 
+
+JACK and AUSTIN: Illegal.
+
+AUSTIN: Yes. [chuckles]
+
+JACK: Yeah! Yeah, should we go and see Jim? We haven't seen Jim for ages.
+
+KEITH: I know, I miss Jim so much.
+
+ALI: Yeah.
+
+ART: Yeah, and a lot of us have reason to go there.
+
+ALI: [laughs]
+
+AUSTIN: [laughs] Because you have toys. Good. Great.
+
+JACK: Wait, what? Why?
+
+ART: Aria and I wanna go visit our new toys.
+
+JACK: Oh! [laughs]
+
+AUSTIN: Good, good motivation. Good.
+
+JACK: That's, that's true actually. All right, ok, so I guess we set off for the Rethal-Addax Spaceport.
+
+AUSTIN: Sounds good. Let me finish making the rest of these BluSky domes, because that's a thing now.
+
+ALI: [annoyed growl]
+
+AUSTIN: Everything is BluSky'd.
+
+JACK: Wait, who owns — who owns the BluSky corporation?
+
+AUSTIN: No one owns the — well, the corporation, they were . . . The actual domes were a, uh, a thing built collaboratively between the Diaspora and OriCon.
+
+JACK: Ok.
+
+KEITH: Friendship domes!
+
+AUSTIN: They were, now that I think about it, a combination — remember, like, Cene worked on it, uh, there were basically people from all over the place working on these domes. Um, so. Anyway.
+
+JACK: But Cene, definitely. Yep, ok.
+
+AUSTIN: So who's going? Who's going to Jim?
+
+JACK: I'll go to Jim.
+
+AUSTIN: Who else? Is everybody going to Jim, as a group?KEITH: I would love to just visit Jim, yeah.
+
+AUSTIN: Ok.
+
+JACK (as AuDy): Hey Mako, want to go visit Jim?
+
+KEITH (as Mako): I would love to go see Jim, yeah! I'm not doing anything else.
+
+AUSTIN: All right. Um, so, I think you find Jim . . . Jim is very busy. Which is what Jim says when you walk up to Jim.
+
+[everyone laughs]
+
+AUSTIN: There's like a million automated drones moving around with packages. There's lots of like, announcements being called out over and over again. And the thing that you notice is like, the announcements are for the drones to listen to. It's like, for whatever reason the actual Mesh net is so busy that they can't send signals over it to drones to tell them where to deliver their packages. So they've resorted in some cases to audio things. And it's a lot like being in a mall and hearing someone say, like, [in an impersonal monotone] "Will Cathy please come to the information booth?" Except it's like, you know, [same voice] "Will the 50-ton pallet of carrots please be shipped to the Krilham C-E-D Dome?" Like, and then it's just automated after that.
+
+JACK: At some point is it just a burst of noise? Like an audio QR code? But somewhere something's ears have perked up and gone "Ugh . . . "
+
+AUSTIN: Yeah, there's like — yes, that's perfect. Yeah, totally.
+
+KEITH (as Mako): Come on Jim, take a load off!
+
+AUSTIN (as Jim): I am very busy. Jim is very busy. Jim cannot take a load off right now.
+
+KEITH (as Mako): You can't, like, take a fiver?
+
+JACK (as AuDy): Jim, I have a proposal for you.
+
+AUSTIN (as Jim): What sort of present?
+
+JACK (as AuDy): Oh, I said proposal.
+
+AUSTIN (as Jim): Oh. What sort of present?
+
+KEITH and ALI: [laughs]
+
+JACK (as AuDy): Do you know my ship?AUSTIN (as Jim): The Kingdom Come.
+
+JACK (as AuDy): I need you to hide it and make it leave the planet.
+
+AUSTIN (as Jim): It's big.
+
+JACK (as AuDy): Yes.
+
+KEITH (as Mako): Jim, we came to you because we know how talented you are.
+
+JACK (as AuDy): Jim, you're incredibly illegal.
+
+AUSTIN: [laughs]
+
+KEITH (as Mako): And you're so good at it — 
+
+AUSTIN (as Jim): Jim is very legal! Jim is very legal. Jim does everything by the books.
+
+ART: [scoffs]
+
+JACK (as AuDy): Jim, you're incredibly, incredibly legal, and we need you to hide a spacecraft.
+
+AUSTIN (as Jim): Is it an illegal spacecraft?
+
+KEITH (as Mako): No, it's very legal.
+
+JACK (as AuDy): Not even a little bit.
+
+AUSTIN (as Jim): Then why does it need to be hidden?
+
+KEITH (as Mako): Because of other illegal ships, [that] don't like us.
+
+AUSTIN (as Jim): If it was an illegal ship, then maybe it would need to be hidden.
+
+[a pause]
+
+JACK (as AuDy): The ship is astonishingly illegal.
+
+AUSTIN (as Jim): Oh, no.
+
+ALI: [giggles]
+
+KEITH (as Mako): Have you seen Breaking Bad?
+
+AUSTIN (as Jim): Yes, big fan.
+
+KEITH (as Mako): It's that illegal.
+
+AUSTIN (as Jim): That's very illegal.
+
+JACK (as AuDy): We're all very large criminals, and the ship must be hidden.
+
+AUSTIN (as Jim): Do you like Mike or Jesse more?
+
+ALI and JACK: [laugh]
+
+AUSTIN: All right, give me a Hit the Street. When you go to a contact for help — 
+
+JACK: Ok, that's Synth?
+
+AUSTIN: Roll plus Style. No.
+
+JACK: Oh, I love Style. I'm so good at Style.
+
+AUSTIN: How Stylish are you, AuDy?
+
+KEITH: Uh, I'm one for Style.
+
+JACK: I'm minus one Style. Can I — Mako, you . . . 
+
+AUSTIN: I think AuDy took the lead here, but Mako you could roll aid, you could definitely roll aid for AuDy.
+
+KEITH: Oh, I would love to do that. 
+
+JACK: Ok, so, do I roll first? Or . . . 
+
+KEITH: I have, I think I have one?
+
+AUSTIN: No . . . Uh, you don't have any. [chuckles]
+
+KEITH: Oh so it's just, it's just a — 
+
+AUSTIN: It's just two d6.
+
+KEITH: A d12?
+
+AUSTIN: A d12, yeah. Or, two d6.
+
+KEITH: Ok, I'm going to roll as Cool, which I also have zero in.
+
+AUSTIN: Oh, succeeds parsley! Partially. Succeeds Parsley! That's the next bad guy you have to fight, is Succeeds Parsley. 
+
+[people chuckling]
+
+AUSTIN: That's, that's their name.
+
+JACK: Do I just, do I get a plus one?
+
+AUSTIN: So yeah, you get a plus one. The thing is that because Mako rolled a, um, a seven, I believe that means that they are open to bad things happening to them now. I'll double-check that, one second.
+
+JACK: Mako is?
+
+AUSTIN: Yeah, Mako is.
+
+KEITH: "Open to," not necessarily it definitely happens. 
+
+AUSTIN: You're impli — yeah, so on a hit you take plus one, and — yeah. You're implicated in the results. So if you fail this, then, then yeah. So don't fail!
+
+KEITH: Oh, ok. Now I understand.
+
+(0:40:00)
+
+AUSTIN: Whoof!
+
+JACK: Five.
+
+[someone whistles]
+
+AUSTIN: That's a big fail. 
+
+ART: Four.
+
+ALI: [quietly] Zzzzoinks. 
+
+KEITH: Oh, you're minus one style! 
+
+AUSTIN: Yeah.
+
+JACK: Yeah, no it's five, right?
+
+ART: Right.
+
+KEITH: I thought you were — I thought you said one. 
+
+AUSTIN: No.
+
+KEITH: Which would have been, that would have been a success. 
+
+AUSTIN: It would have been! That would have been a success. Instead you rolled a five. You rolled a four plus Mako's one.
+
+KEITH: If knew that you were a negative one, I maybe would have argued more for, ah, that we were both the lead on that.
+
+AUSTIN: Mmm, AuDy was definitely the lead on that.
+
+JACK: Wait, so is what happens here that as we say "The ship is incredibly illegal," that someone overhears?
+
+AUSTIN: Uh huh, it sure is! 
+
+ALI: Don't — 
+
+AUSTIN: Let's move us over to the clocks!
+
+KEITH: . . . give him ideas.
+
+ALI: Ugh, why did you . . . 
+
+AUSTIN: Let's advance the old Legwork clock. Shoop, droop.
+
+ART: What's weird is I'm not sure it's true. How illegal is the ship?
+
+AUSTIN: I don't know, but the pilot just said — 
+
+KEITH: He asked us to lie about it.
+
+JACK: He asked us to lie about it.
+
+AUSTIN: The pilot just said it was very illegal, so, it must be.
+
+ALI: He's a robot! He doesn't know what he's talking about.
+
+JACK: Now, hey.
+
+ALI: [laughs]
+
+AUSTIN: Uh, so yeah, legwork clock advanced.
+
+KEITH: To be fair, AuDy never knows what they're talking about.
+
+ALI and JACK: [laugh]
+
+AUSTIN: Jim says,
+
+AUSTIN (as Jim): Well, if it is illegal, then I must hide it. No one can see illegal things.
+
+KEITH: [uproarious laughter, ALI and JACK join in]
+
+AUSTIN (as Jim): I'm going to need a very big tarp.
+
+KEITH: I just got really light-headed.
+
+AUSTIN (as Jim): I'm going to need a very big tarp, and tarps are expensive.
+
+JACK (as AuDy): Of course they are.
+
+KEITH (as Mako): Would half a credit do?
+AUSTIN (as Jim): There is no such thing as half a credit.
+
+JACK (as AuDy): We can pay you . . . one credit.
+
+KEITH (as Mako): Wait, hold on! There has to be such thing as half a credit.
+
+AUSTIN (as Jim): No. They abolished it.
+
+KEITH (as Mako): Goddammit, we've been away for so long.
+
+AUSTIN: [laughs] They also got rid of the penny.
+
+KEITH: "Listen, I'm Orth and things are different now."
+
+ALI and AUSTIN: [laughs]
+
+ART: You guys were under for like, three years.
+
+KEITH: You know how people argue, "Ah, we shouldn't have pennies any more." This is coming back to playing the Sprawl and Austin going like, "Yeah, they got rid of everything under the thousand-dollar bill."
+
+AUSTIN: [laughs] Basically!
+
+JACK (as AuDy): Jim. Do you anticipate requiring . . . an expensive tarp?
+
+AUSTIN (as Jim): Uh . . . a nice tarp.
+
+KEITH (as Mako): Can we fly out of the solar system with a tarp on? With a tarpaulin on?
+
+AUSTIN (as Jim): The tarp will pop off. If, if, if the ship became legal and therefore could be visible again.
+
+JACK (as AuDy): Jim, we can pay you . . . 
+
+KEITH (as Mako): Oh, so this is a — this is a smart tarpaulin. 
+
+AUSTIN (as Jim): Yes. Very smart.
+
+JACK (as AuDy): We can pay you — 
+
+AUSTIN (as Jim): Smart in the attractive sense. Not in the intelligence sense.
+
+KEITH (as Mako): Ok, so this is just like a tarpaulin with a nice pantsuit?
+
+AUSTIN (as Jim): Yes.
+
+ART: I thought "tarp" was just code for bribe.
+[a pause, then AUSTIN and JACK chuckle]
+
+JACK (as AuDy): Mako.
+
+KEITH (as Mako): I thought tarp was just short for tarpaulin.
+
+JACK (as AuDy): Mako.
+
+KEITH (as Mako): Uh huh?
+
+JACK (as AuDy): How much should we pay the robot?
+
+KEITH (as Mako): Um . . . 
+
+AUSTIN (as Jim): You are a robot too.
+
+JACK (as AuDy): Mako, should we pay him two? Or shall we give him the bad deal and pay him one?
+
+AUSTIN (as Jim): [hurt] AuDy, you're a robot too.
+
+KEITH (as Mako): Yeah. AuDy, you're a robot too.
+
+AUSTIN: It catches vision of — it catches sight of the icon around your neck and recoils slightly.
+
+JACK (as AuDy): We will pay you two.
+
+KEITH: [laughs] The good deal!
+
+AUSTIN: That's . . . it chirps quietly.
+
+AUSTIN (as Jim): Affirmative.
+
+AUSTIN: And it turns and walks away.
+
+JACK (as AuDy): Mako — 
+
+KEITH (as Mako): You made Jim sad with your dumb necklace!
+
+JACK: [laughs] And then AuDy just turns around and walks away.
+
+AUSTIN: [laughs] Good. Aria and Cass.
+
+ART: Yeah, hi.
+
+AUSTIN: I think we get — so first of all, I think that the intro to this episode, like if this was an anime episode, would have been all of your — would have been the Orth speech at the beginning plus you all, like, walking around and doing the love letters you did. And I think probably the last shots of this new intro is definitely the hangers opening up to reveal . . . your new stuff. I'm going to paste this . . . 
+
+KEITH: So what's this new stuff? I also am remembering now that I leveled up but never leveled up.
+
+AUSTIN: Yeah, I know. We sent lots of Skype messages about that.
+
+KEITH: I was at work all day!
+
+AUSTIN: I know. We sent them all week. Uh,
+
+KEITH: I was at work all week.
+
+AUSTIN: That's true. [frustrated noises] Level up. Hurry up and level up.
+
+KEITH: All right.
+
+AUSTIN: I'm going to paste these here into the chat. Into the Skype chat. So that's — Art, that's the Arete, which was the former emperor's Colossi. And then here is what is left of the Queen Custom — or, I guess the Queen Rook Custom. Eh, let's call it the Queen Custom. 
+
+(0:45:00)
+
+AUSTIN (con't): And what was left of a couple of the other Riggers from the Weightless. From what survived. The Arete is a military mech. It has two Power, it is Huge and Aggressive. It has Armor two and Looks two, Muscular and Luxurious are its looks. Its weaknesses are Cramped, Picky — I have Cramped twice for some reason — and Owned. It is really only for you. Like, it is — this was a Rigger that was designed for one person. And that person was the emperor, and the emperor wasn't supposed to pick people up in it, there's no room for another person in there. It's picky because there's only one of them. And that means that, like, to be — the Rook you can just find parts on a shelf for right? Like, you can go to your local auto parts, and be cool. 
+
+ART: [chuckles] Sure.
+
+AUSTIN: Uh, and then it has a few weapons. It has a plasma line launcher, which I think is like literally like a . . . like a sniper rifle, maybe like a shoulder-mounted sniper rifle? That fires a physical line that catches a thing, and then a line of plasma runs down the line to hit it.
+
+JACK: Oh wow, so it's a Taser.
+
+AUSTIN: It's like a Taser, but like with very, very, very hot fire. And it lets it fire that in space, where there's no oxygen, because it goes through the line.
+
+JACK: Oh, wow.
+
+AUSTIN: It also has like, little swarm missile pods and a marble — a thing called the marble blade, which is just a big stone blade. Which is just like a giant stone sword. It's mostly for, you know, for looks, because like, you're the emperor. But also it's just a big fuck-off stone greatsword. Uh, the Queen Custom is a military Rigger. It has Power two, Looks one, Weakness one. Uh, Responsive and Fast, it looks Pristine. It is a Guzzler, and it is Hunted. It is Hunted, of course, because it is still part of the terrorist group the Weightless. It is a Guzzler because it has like a super-engine on it and it just burns through fuel.
+
+KEITH: Please don't fall out of the sky.
+
+AUSTIN: Yeah, it'll be fine. Once you're in space, you know, you can't really fall out. It has Jace's Whiteblade, which was the kind of beam sabre that Jace used. I'm actually missing a thing here, which is that it's five harm hand and armor piercing, but it can also do stun damage instead of harm damage if you want.
+
+ALI: Oh, ok!
+
+AUSTIN: And it has the Starling Shotgun, which is just like a big . . . mech shotgun. Three harm, close near loud messy, reload. And then it has a thing called a dash engine, which gives you plus one to act under fire. And you have three charges of that in a given — like, after you take off. You have to land and refuel to use it again. 
+
+ALI: Huh.
+
+AUSTIN: Welcome to the midseason break, where all of our heroes got cool new toys. Mako technically got his cool new toy a bunch of episodes ago, and it just hasn't come up. So . . . 
+
+JACK: What's my cool toy?
+
+AUSTIN: That cool thing you put in your body, and — the soma juice! Your cool soma juice.
+
+JACK: Oh yeah, great, fantastic.
+
+KEITH: Wait no, my cool toy's the — I've used the Ring of Saturn a few times.
+
+AUSTIN: Oh, no there's a different one. Don't worry, you just didn't notice it.
+
+KEITH: Wait, there's . . . 
+
+AUSTIN: Uh huh. So — 
+
+KEITH: I didn't notice it?
+
+AUSTIN: Yep. So what's — you guys see these mechs, are you using these mechs? What are you going to do with these mechs?
+
+ALI and JACK: [laughs]
+
+KEITH: Wait, hold on, what's the thing I didn't — what?
+
+AUSTIN: We'll find out.
+
+JACK: You'll be fine, don't worry.
+
+AUSTIN: Don't worry about it.
+
+KEITH: Does everybody else know?
+AUSTIN: Huh.
+
+JACK: We listened to the episode.
+
+AUSTIN: No, this is a thing that hasn't come up in an episode yet, I promise. Well, part of it has — don't worry about it.
+
+JACK: Oh!
+
+KEITH: Is it my robot army?
+
+AUSTIN: [laughing] It's not your robot army.
+
+ALI: [also laughing] Nooo.
+
+AUSTIN: We'll get there, I promise. It's a thing I have not talked about on any episode yet.
+
+KEITH: Ok, so it's — 
+
+ALI: I think I know what it is, but . . . 
+
+AUSTIN: You might.
+
+KEITH: How would they maybe know what it is?AUSTIN: Because it came up, it just hasn't paid off yet. We'll get there, trust me.
+
+KEITH: Ok, I trust you. [whispering] I don't trust him.
+
+[laughter]
+
+AUSTIN: You should trust me.
+
+ART: So how does one go about moving a mech through an airport.
+
+AUSTIN: I mean, you know . . . the runways?
+
+JACK: Could we just load it onto the Kingdom Come?
+
+AUSTIN: I think you have to swap them, I don't think there's space for more.
+
+ALI: Aw, what?
+
+AUSTIN: I don't think you get both, I think you have to make a choice.
+
+JACK: Are we playing inventory Tetris?
+
+AUSTIN: You gotta play inventory Tetris here. I think you could take — if you had a third one the size of the Queen Custom or the Regent's Brilliance, you could take both; you could take three. But both the Arete and the Megalophile are Huge, and therefore take up a lot of space.
+
+ALI: Oh . . . I really only want to take the weapons off of the Queen Custom. And maybe keep the Brilliance.
+AUSTIN: Ok.
+
+ART: Ugh . . . I'm actually having this same problem in real life that I'm now having in this game.
+
+ALI and JACK: [laughs]
+
+AUSTIN: I — 
+
+ART: About having a vehicle with a sentimental attachment that I should not keep.
+
+AUSTIN: Mmm. The — get rid of it, is my suggestion.
+
+ART: Yeah, I — but I'm can't just, like, leave — I'm not just going to leave it. What do you do with a military . . . ?
+
+AUSTIN: Well, you can get some, y'know, short-term parking.
+
+ART: What if a kid finds it?
+
+ALI: No no, just switch it — put it in this thing, and then like, 
+
+KEITH: Someone's gotta go see Jim. 
+
+ALI: If the Arete breaks, you just come back and pick up, the, uh . . . 
+
+AUSTIN: Pick this up.
+
+(0:50:00)
+
+ALI: Yeah.
+
+AUSTIN: Or maybe at this point you could buy more cargo for the Kingdom Come. And actually take everything. That could be a thing you do with your money.
+
+ART: No, that's a silly thing to do with our money. I should just — 
+
+AUSTIN: I don't know, that's a pretty dope thing to do with your money!
+
+ART: I . . . what are we going to do — I guess, how does . . . Could I control both of them at once?
+
+AUSTIN: Noooo. AuDy would be able to — AuDy could control one of them.
+
+KEITH: Could I control one of them while they're in the other two? 
+
+AUSTIN: Sure!
+
+KEITH: Like, with my head?
+AUSTIN: Totally. 
+
+KEITH: All right.
+
+AUSTIN: I mean, you could control one of them from the cockpit, also. 
+
+KEITH: Yeah, I could do that too, yeah.
+
+AUSTIN: That would maybe be easier.
+
+ART: What's it going to cost to get some more storage here?
+
+AUSTIN: I think they come in, like, symmetrical amounts. So I think, like, you get two more pods for two credits.
+
+ART: Guys, that's twenty percent of our, of our get-out-of-town budget.
+
+ALI: [chuckles]
+
+KEITH: I'll give — Art, I'll give you . . . I'll give you one of my personal credits.
+
+ART: All right, and I'll spend one of my personal credits.
+
+AUSTIN: Ok. AuDy.
+
+JACK: Hi.
+
+AUSTIN: Add two more, um, two more cargo pods or whatever onto the Kingdom Come.
+
+JACK: What does this look like?
+
+AUSTIN: Good question! You tell me.
+
+ALI: [laughs]
+
+JACK: [laughs] Um . . . 
+
+AUSTIN: If you want it to look nice, it costs an extra one. 
+
+JACK: Oh no, it's not — this is the Kingdom Come, dude. 
+
+AUSTIN: Ok, ok.
+
+ALI: [laughs]
+
+JACK: Ok, I'm just adding one more . . . ok, so I think that what it is that, um . . . you know sometimes you see models of cars that look like a smaller car placed on top of a larger car.
+
+KEITH: . . . Yes.
+
+JACK: Um, you see it quite a lot, quite a lot in Europe. It looks like a small car has sunk into the top of a big car.
+AUSTIN: I have no idea what you're talking about. What are you talking about.
+
+ALI: [laughs]
+
+JACK: Oh man, they, um . . . [laughs]
+
+AUSTIN: I'm going to type "European double car" into Google.
+
+KEITH: [laughs]
+
+JACK: Ah, no that's a sort of dog. Um . . . 
+
+AUSTIN and ALI: [laughs]
+
+JACK: They're really ugly cars. Um . . . I think it's, uh — 
+
+AUSTIN: Do you have like, a name for this thing you're talking about? 'Cause I have literally no idea what you're talking about. 
+
+JACK: I'm trying to, I'm trying to find — I think it's probably a Japanese car brand? But if I Google "Japanese car brands" all that does is give me a load of logos.
+
+AUSTIN: Yeah.
+
+ART: Sure.
+
+KEITH: And Toyotas. Just Toyotas.
+
+AUSTIN: Can you just keep describing the thing you're talking about? And maybe I'll get it.
+
+JACK: Ok, I, essentially, I think that what has happened is that the — what we consider to be the Kingdom Come has just been basically expanded from underneath.
+
+AUSTIN: Right.
+
+JACK: Um, so that everything that was previously the Kingdom Come is now sitting on top of an enormous ugly hangar.
+
+AUSTIN: [chuckles] Ok, so it's literally just a big, like, warehouse attached to the bottom of the Kingdom Come. 
+
+JACK: Yeah. And there are two things about this. The first is that the inside has not been retrofitted for this at all.
+
+AUSTIN: Yep.
+
+JACK: So doors and things work, but some doors just open onto sheet metal now.
+
+AUSTIN: [laughs] Ok . . . 
+
+ALI: [laughs]
+
+JACK: Um, and some stairs just stop halfway,
+
+AUSTIN: Good.
+
+JACK: Because they were just cut off for the hangar to go on. And the second thing is that the engines don't like this at all. 
+
+AUSTIN: No, you're going to need new engines for sure.
+
+JACK: Oh my god . . . 
+
+AUSTIN: This is real heavy.
+
+ALI: We're going to go back to Orth, and he's going to be like, "You were supposed to make it easier . . . "
+
+JACK: [laughs]
+
+AUSTIN: Funny, are you there AuDy? Are you there when this upgrade is being completed?
+
+JACK: Yes.
+
+AUSTIN: And like, are you doing, like, a walkthrough of the ship?
+JACK: Yes, I think AuDy is walking through the ship and is sort of finding that they have to, like, jump down the small drop.
+
+AUSTIN: [chuckles] Give me, give me a roll. Give me a, um . . . What's the, what's the thing I want here, I think this might be Edge. Is Assess Edge? Yes.
+
+JACK: Ok, I can roll Edge. That's a nine.
+
+AUSTIN: Uh, ok. You hear a strange sound coming from the cockpit. 
+
+JACK: Uh, I guess I go and investigate.
+
+AUSTIN: You have one hold, by the way, for Assess on this ship. Which is what — you can spend that for one of these things. And you can keep that going forward, that hold, which is you can ask that question at any time with regard to things on this ship, keep that in mind. 
+
+JACK: What's the question?
+
+AUSTIN: It's a bunch of them: "What potential complication do I need to be wary of," "What do I notice despite an effort to conceal it," "How is blank vulnerable to me." I'm not saying you need to ask these now, I'm just saying going forward — 
+
+JACK: Right —
+
+AUSTIN: — as part of your walkthrough, you get to do that. Oh, you are familiar enough with this to where you'll notice that something is off. 
+
+The sound you hear is a man snoring at the control console. It is Orth, asleep in the cockpit.
+
+KEITH and ALI: Awwwww.
+
+JACK: Oh man. So I guess AuDy goes up to Orth and just sort of, kind of gently wakes him up? And then once he's sure that Orth's awake, just very levelly says,
+
+JACK (as AuDy): What are you doing on my ship?
+
+AUSTIN (as Orth): Ah, um, I had to make it — I had to run some tests, to make sure that it was ready to go. It's very tough under this tarp though, to run all the necessary — 
+
+(0:55:00)
+
+JACK (as AuDy): Are you coming with us?
+
+AUSTIN (as Orth): What? Yeah, yes, of course. This is my plan. I'm not going to let you go after Ibex alone.
+
+JACK (as AuDy): Do you know how to fly this ship?
+
+AUSTIN: He grins.
+
+AUSTIN (as Orth): Do I know how to fly this ship? Who do you think got this ship to Counterweight to begin with? 
+
+JACK (as AuDy): I could always use a co-pilot. And everybody that I spend my time with is useless at flying anything — 
+
+[background exclamations, laughter]
+
+JACK (as AuDy): — larger than a very large human.
+
+[laughter]
+
+KEITH: I'm good at piloting. 
+
+AUSTIN: I love that AuDy thinks of the mechs as very large humans! Which is correct.
+
+ART: It really belies a lack of knowledge of scale. 
+
+AUSTIN (as Orth): You know, I know the Kingdom Come better than anybody, so.
+
+JACK (as AuDy): That's not true anymore.
+
+AUSTIN (as Orth): Ah, well. You don't know that. You ever do the thing where it goes upside-down?
+
+JACK (as AuDy): I crashed us into a lake.
+
+AUSTIN (as Orth): Upside-down? 
+
+JACK (as AuDy): No, the normal way.
+
+AUSTIN (as Orth): Ah, I did it upside-down. So, it'll be my honor to pilot the Kingdom Come along with you. 
+
+JACK (as AuDy): Thank you very much.
+
+AUSTIN: I don't think he's going to accept "co-pilot," I don't think that's in him any more. 
+
+JACK: (laughs) Yeah, I haven't torn out the co-pilot seat? 
+
+AUSTIN: Nah, it still has a co-pilot seat. Or, like, yeah, I guess you probably still have it somewhere, maybe you moved it for some reason and it's in the corner just to be re-attached? Like you replaced it with like, a tray to put stuff on, but now it's pretty easy to just pull this off and put the chair back on.
+
+JACK: Yeah.
+
+KEITH: I would like to say that I stopped Order from killing everybody and I'm a good pilot.
+
+AUSTIN: Okay.
+
+KEITH: Thank you very much.
+
+AUSTIN: Great. Ah, let's keep moving. What else are you doing to prep for this?
+
+JACK: We have eight credits to play with.
+
+AUSTIN: Plus your personal credits of course.
+
+JACK: Yeah.
+
+ALI: So we've established that we need new engines. 
+
+AUSTIN: Definitely need new engines now. 
+
+ALI: We need more, like — 
+
+JACK: Okay.
+
+ALI: Oh? 
+
+JACK: No, sorry, I was just beginning, I was facing up to the fact that I need to buy new engines, and that's going to be a nightmare. But no go ahead, I'd rather leave that as long as possible. 
+
+ALI: We need someone to help us get off the planet. 
+
+AUSTIN: Well, Jim is going to hide the ship. 
+
+ALI: Okay.
+
+AUSTIN: It sounds like.
+
+ALI: Hmm. But they — 
+
+ART: I wanna do a Research roll eventually, but — 
+
+AUSTIN: That's a good thing to do.
+
+ART: — maybe later in the process.
+
+ALI: Yeah.
+
+AUSTIN: Yeah, everyone, review your moves and basic moves that you have access to also, those will help you here.
+
+KEITH: Oh, right, we've gotta do Research rolls.
+
+AUSTIN: Yeah. Those would help. And Mako, you're pretty good at those, so.
+
+KEITH: I am, I have that program that is good at this.
+
+ART: That program Google?
+
+AUSTIN: Yep, it's Google — 
+
+KEITH: It's Sift, take plus one ongoing research or search for pay data in secure databases.
+
+AUSTIN: Yep. Do you want to make that roll right now?
+
+KEITH: Sure.
+
+AUSTIN: And then Cass, you can do one right after that, that way — 
+
+ART: Sure, I also just got much better at this, my new move is about Assessing — 
+
+AUSTIN: Oooh.
+
+ART: — but that's not what we're at right now.
+
+AUSTIN: Well, there's still stuff to Assess, there'll definitely be stuff to Assess. 
+
+KEITH: So what secure database am I infiltrating? 
+
+AUSTIN: You tell me.
+
+KEITH: Ummmm.
+
+AUSTIN: What are you looking, what sort of questions are you looking for, and I can give you some, oh yeah, maybe this is the sort of thing you'd be trying to get into.
+
+KEITH: I think I'm really, uh, invested in not getting caught? 
+
+AUSTIN: Okay. Okay, give me, maybe you're going to hit the database at the . . . the Rethal-Addax Spaceport, which will probably have things like the patrol routes for the blockade. So there's two ways to do this, we could just do a straight Research roll.
+
+KEITH: Okay.
+
+AUSTIN: Or — 
+
+KEITH: I will say that doing this secure database thing is going to give me the minus one from earlier.
+
+AUSTIN: It is. Ah, so that's the thing is, wait, what I was going to say: you could just roll Research — 
+
+KEITH: I could.
+
+AUSTIN: — and that will not give you secret information, but, if you do well at that roll, you will be able to ask these good questions. If you break in first, using Log In, I'll let you then just immediately roll Research, if you succeed at your Log In check, I'll let you roll Research and that will give you better information.
+
+KEITH: All right. I'll say this. I've got a plus two Synth, I've a minus one to Log In, so that still puts me over a fifty-fifty chance that I'm going to do it, and I'm going to Log In right now. Boom!AUSTIN: Look at that. That's an eight. So when you partially succeed at Log In, you get, what, one hold or whatever? Oh, choose one: active trace, Ice is activated, an alert is triggered, or your access is restricted. Which one do you want? KEITH: I would like to do . . . 
+
+(1:00:00)
+
+KEITH (con't): hold on, I have a move that can block this move — 
+
+AUSTIN: Okay.
+
+KEITH: — hold on, let's see.
+
+AUSTIN: Is that Jack In?
+
+KEITH: It's Console Cowboy.
+AUSTIN: What's that do? 
+
+KEITH: No, Jack In is like, "Hey, now that you're logged in, you can use matrix moves!" 
+
+AUSTIN: Right. "Now you can do the thing your class is!"
+
+KEITH: Exactly, yes. It is a very redundant — 
+
+AUSTIN: Okay, so roll Mind. 
+
+KEITH: Uh, yeah — 
+
+AUSTIN: For Console Cowboy.
+
+KEITH: — rolling Mind. 
+
+AUSTIN: Also a 1. So, you can . . . ah, spend that hold to prevent a construct from triggering an alert; avoid an Ice routine executed against you, your deck, or your programs — 
+
+KEITH: In Log In, I'm going to activate Ice, and then prevent the Ice from being activated. 
+
+AUSTIN: Okay. Let me tell you what you see for half a second. 
+
+KEITH: Okay.
+
+AUSTIN: For half a second . . . where are you? So you're doing this probably at the same place where you just talked to Jim, right? 
+
+KEITH: Yeah.
+
+AUSTIN: Like maybe you're just in the cafeteria, like — 
+
+KEITH: — okay — 
+
+AUSTIN: Sitting down with like, a nice . . . 
+
+KEITH: I'm hacking one of the, one of the waiter bots.
+
+AUSTIN: Right, totally. Um, the waiter bot is like, is like, the sort of robot that has a face, a TV face — 
+
+KEITH: Yeah yeah yeah.
+
+AUSTIN: — you know what I mean? 
+
+KEITH: Yeah, it's like Bill, and he's delivering this information the same way that maybe he would talk about a tuna sandwich. 
+
+AUSTIN: Totally, totally. "What would you like today, sir?" like that sort of stuff. And then it's, you know, "The flight plans are blah-blah-blah." For a brief second, the TV blinks, and you can't tell if you're seeing your own reflection or it is showing you the video of your, if it is looping its video of your face back to you. It's very quick, but like, the Ice activates and then deactivates, and for whatever reason the Ice is a picture of your own face.
+
+KEITH: Huh. That's weird!AUSTIN: Yeah, it's real weird.
+
+KEITH: That's real weird.
+
+AUSTIN: Give me a Research check. 
+
+KEITH: Um, all right, and what do we roll for Research?
+
+AUSTIN: It is also Mind, I'm pretty sure. 
+
+KEITH: All right, great, that's a plus one on top of this so . . . 
+
+AUSTIN: (exhales)
+
+KEITH: That's a six! 
+
+AUSTIN: Oh-ho.
+
+KEITH: Hold on, let's see if I have something that can help me.
+
+AUSTIN: Oh, buddy.
+
+KEITH: Listen, there's a lot of information in these, in these — 
+
+AUSTIN: Oh, pal.
+
+KEITH: — Matrix moves. Umm . . . let's see.
+
+AUSTIN: No, I — we'll see, let's see if you got something here.
+
+KEITH: Okay. Um. (pause) 
+
+AUSTIN: Whoo. That was a pretty big miss. 
+
+KEITH: The only thing that I can do, is . . . uh . . . I should have rolled Compromise Security already, which is "when you roll Mind, three hold over subsystems, or one hold over — "
+
+AUSTIN: Yeah, that stuff's not, that isn't going to happen here. There aren't the, this is a very basic system which is just like, like, I'm basically just treating this as the most basic system as possible so that you wouldn't run into extra Ice, so it was just like, a log-in gate — 
+
+KEITH: Okay. Uh, how about this. When I successfully compromise security, I have my other program, when I successfully compromise security, hold plus one. 
+
+AUSTIN: Where is that at?
+
+KEITH: That's in my program — 
+
+AUSTIN: No, that's only when you're rolling Compromise Security or the other one is Manipulate Systems, all you did here was Log In.
+
+KEITH: Ohhh, right.
+
+AUSTIN: So you're failing your Research check. You're not going to get, like, Ice hit here.
+
+KEITH: So Compromising Security isn't just like, when I've hacked in.
+
+AUSTIN: Correct. Compromising Security is literally compromising a security routine, like deactivating cameras or deactivating auto-turrets or getting rid of pressure-sensitive things, in the same way that Manipulating Systems is like, for instance, hacking someone's radiator, uh, or something like that, or opening doors, is Manipulate Systems. All right, so!
+
+KEITH: So it looks like that's a six, which is a miss. 
+
+AUSTIN: "The MC will answer your question and make a move." What is your question?
+
+KEITH: My question is . . . "How can I" — oh, do we know the name of our final destination yet?
+
+AUSTIN: Well, the place that Liberty and Discovery Automatic Corp. is, is that Glimmer? That's Glimmer. That's like your final distant destination.
+
+KEITH: I guess what I'm looking for is how to safely get off of Counterweight and to Glimmer.
+
+AUSTIN: Okay. 
+
+ART: That's not a Research?
+
+AUSTIN: That was a Research check.
+
+ART: The Research question any, you know, it's from the list below. 
+
+AUSTIN: Oh, oh, sorry, my bad.
+
+KEITH: Where is the list below? 
+
+AUSTIN: The failed roll only says the MC will answer your question and make a move, I didn't realize — yeah. So, the questions are, "How would I find blank," "How secure is blank," "Who or what is related to blank," "Who owned or employed blank," "Who or what is blank most valuable to," "What is the relationship between blank and blank." 
+
+KEITH: Sorry, what were the first two?
+
+AUSTIN: "Where would I find blank," and "How secure is blank." I think "where would I find a safe route off of Counterweight" is fair?
+
+KEITH: Yeah, that's exactly what I was going to say.
+
+AUSTIN: I think that's a nice way to twist that, I have no problem with that — 
+ 
+KEITH: Okay. 
+
+AUSTIN: — let me be a fan of my players and all of that. Um. There is — heh. So Bill sits down and at this point, this is, for the firing of this, the tube lights back up. Bill is holding a tray with a tuna sandwich and a Coke and just puts it down in front of you and sits down. I think Bill has a very nice sweater-vest on. Again, Bill is a robot man. 
+
+(1:05:00)
+
+KEITH: Right.
+
+AUSTIN: I think a very thin robot. It's a very — 
+
+KEITH: I was thinking of, remember Yes Man from New Vegas? 
+
+AUSTIN: Yeah, totally.
+
+KEITH: I was thinking like that, but real svelte.
+
+AUSTIN: Real svelte. I think sits down across from you, crosses its robotic legs, which it has, and — 
+
+KEITH: Yup.
+
+AUSTIN: — and says, oh! And then its tube face lights back up, and it is again you, talking to you, with your voice. 
+
+AUSTIN (as Mako!Bill): Well, ahh, mm, well, okay. I think there's a brief window, there's a little window that you could climb right through, it's a little window, where you could climb through and no-one would notice you. It'd be pretty good. Ah, about two days from now, two days and three hours, just sneak right through. No-one'll be the wiser.
+
+KEITH (as Mako): Are you saying a window of time, or a window — 
+
+AUSTIN (as Mako!Bill): Ah, lots of windows, there's lots of windows. 
+
+KEITH (as Mako): In, in the span, in two days — 
+
+AUSTIN (as Mako!Bill): In two days — 
+
+KEITH (as Mako):There's gonna be a window — 
+
+AUSTIN (as Mako!Bill): There's gonna be a window — 
+
+KEITH (as Mako): Is the window locked?
+
+AUSTIN (as Mako!Bill): Window's not locked. Window's currently locked but won't be locked.
+
+KEITH (as Mako): Okay . . . 
+
+AUSTIN (as Mako!Bill): Yeah!
+
+KEITH (as Mako): [plaintive] How come you're my face?
+
+["The Long Way Around" starts.] 
+
+AUSTIN (as Bill): I don't know what you're talking about.
+
+KEITH (as Mako): We're doing, you're doing, we're doing, I'm me and then you're being me.
+
+AUSTIN (as Bill): Are you all right, sir? 
+
+KEITH (as Mako):Yeah, I'm — I'm okay.
+
+AUSTIN (as Bill): Do you need . . . any helppp . . . 
+
+AUSTIN: And it shuts down. I'm going to advance a clock.
+
+KEITH: How come?
+
+AUSTIN: Lots of reasons. 
+
+["The Long Way Around" plays.]
+
+AUSTIN: Ah, okay.
+
+ART: So when we all die getting off Counterweight, do we, is the next episode just like a new game, or . . . ?
+
+AUSTIN: Yeah, I think, or maybe we just switch characters, I don't know, I haven't figured it out quite yet.
+
+END

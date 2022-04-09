@@ -1,0 +1,2718 @@
+3072
+COUNTER/Weight 16: The Rear Left Engine
+Transcribed by David @silverbrocks until 19:50
+Transcribed by Sarah @confusedbluesky past that
+
+[MUSIC - ”The Long Way Around” begins]
+
+AUSTIN: An excerpt from the journal of Addax Dawn, former Candidate of Peace, and current agent of the Rapid Evening: “Rust asked me, when it was over, if it was hard for me to keep my distance. It was. But not for the reasons she may have thought. Not because the boy from September moved a familiar power that he couldn’t control, as I once did. Not because the volunteer found faith at a cost, as I found the Evening. Not even because the idol moved like Jace did, the first time I saw him; all fire, no fuel… Desperate to play the part, but knowing none of the lines. No, it was the Prince that made me want to reveal myself. So rarely do we have a chance to apologize to those we hurt most. And I wonder now, in retrospect, how the Golden Branch might be different if I’d shown myself then. If we’d shaken hands, and put the past behind us, before he* learned how I hurt him*.”[”The Long Way Around” continues, ends]
+
+AUSTIN: Welcome to Friends at the Table, an actual play podcast focused on critical world-building, smart characterization, and fun interaction between good friends. We are, as always, presented by streamfriends.tv and runbutton.net. We are continuing our campaign of The Sprawl by Hamish Cameron. I am your host Austin Walker. Joining me today are Ali Acampora…
+
+ALI: Hello!
+
+AUSTIN: Where can people find you, Ali?
+
+ALI: @ali_west on Twitter.
+
+AUSTIN: Art Tebbel. 
+
+ART: ‘Ey.
+AUSTIN: Where c—
+
+ART: I’m on Twitter @atebbel.
+
+AUSTIN: There it is. Jack de Quidt.
+
+JACK: Hi there! I’m on Twitter @notquitereal.
+
+AUSTIN: And Keith Carberry.
+
+KEITH: Hi, I’m on Twitter @keithjcarberry and also on YouTube at youtube.com/runbutton.
+
+AUSTIN: Thanks! We are, like I said, continuing our game of The Sprawl that’s been kind of hacked a little bit extra with some mech stuff. We—our agenda, as always, is to make the Sprawl dirty, high tech and excessive, to make the big things bigger and the small things smaller, to fill the characters’ lives with action, intrigue, and complication, to entangle the characters’ lives in the Sprawl, and to play to find out what happens. 
+
+AUSTIN (cont): So, I want to go over two things before we start. Actually, maybe more than that. A couple of like, corrections for rules stuff that got sent in. There was something we did last time where we used… Where someone took Forward. So there’s Forward and Ongoing in this system. It’s the same thing that’s in Dungeon World, it’s the same thing that’s in all the Powered by the Apocalypse games, where there are certain abilities that can either give you a Forward or an Ongoing bonus or negative. Forward means for the next roll, Ongoing means until the situation changes. So just make sure we do that right. I don’t remember what it was, but someone pointed it out. So thanks to them for pointing it out. And then the second thing is we didn’t do Links at the end of the last game. And Links is one of the ways you can change and increase your relationship stat with people, which is the “Links” stat. And eventually that can also give you experience once you kind of wrap around on it. So, let me go to the Links section and read: “At the end of mission each player chooses another character who, as a result of the mission, has a better idea about how your character operates. Explain what happened and what they now know about your character. That character increases their Links with you by 1. If that new piece of knowledge would increase their Links with your character to +4, explain why that new knowledge changes the relationship. The players of these characters would then frame a short downtime scene between the two characters focused on that new knowledge. After the scene, they mark experience and reset their Links with your character to 0.”
+
+AUSTIN (cont): So… Let’s start with Keith. Who do you think knows Mako better at the end of that last game?
+
+KEITH: Only Art could, only Cass could.
+
+AUSTIN: Yeah, that makes sense. Pretty much.
+
+KEITH: They were with me the whole time.
+
+AUSTIN: Yeah. What do you think they learned about you?
+
+KEITH: (chuckling) Um, I dunno I feel like a lot of the stuff we did was really straight and to the point. [pause] I don’t know, I think this is the first time that they got a real close-up look at me hacking stuff and being good at that sort of thing?
+
+AUSTIN: Okay. But they’ve seen you do your smooth-talk bit before?
+
+KEITH (hesitant): Yyeeah…
+
+AUSTIN: Quote-unquote “Smooth Talk”. I don’t know that they have in game.
+
+KEITH: You’re right. In game, I guess no—
+
+ART: No, I guess I wasn’t there for the Foghorn Leghorn-ing.
+
+KEITH (overlapping with Austin): Yeah you weren’t-
+ 
+AUSTIN: [scoffs] Please, Drillbit Taylor. Thank you.
+
+KEITH: Yeah, you know what? I think that’s a better thing, ‘cause I feel like Art-slash-Cass has really been putting me to task for having all those robots. [laughs]
+
+AUSTIN: Yes. 
+
+KEITH: So maybe seeing the smooth talk stuff is a—maybe will get them off my case about it.
+
+AUSTIN: Okay. So Cass, increase your Links with Mako by 1.
+
+ART: Oh, it goes that way?
+
+AUSTIN: Yes.
+
+ART: Ohhh.
+
+AUSTIN: Yes. You decide who learned more about you, and they increase their Links. So it’s up to you, Cass, who do you think knows more about you after that last mission?
+
+ART: [clicks tongue] I think it’s also Mako?
+
+AUSTIN: Okay.
+
+ART: But only bec—yeah, because, you know Mako got to see… you know, the more strategic side of Cass that’s, coincidentally, popped up as soon as we got a new system
+
+[JACK laughs] 
+
+AUSTIN (overlapping): Right, that—
+
+ART: That gave Cass a more strategic side.
+
+AUSTIN (amused): Yeah, weird. Weird how that worked out.
+
+ART: I—it’s crazy.
+
+AUSTIN: Alright, sounds good. So, same thing, Mako increase your Link with Cass by 1. Remember that this is the roll, that Link score is what you’ll roll when you use moves like Aid or Interfere. So that’s kind of how this reflects mechanically. Uh… Aria, who knows you better now?
+
+ALI: My instinct says AuDy?
+
+AUSTIN: Okay.
+
+ALI: But I could also maybe go with Cass?
+
+AUSTIN: I’d lean Cass? Obviously this is your choice, because you’re kind of… But like, that debate over who gets that book is… [Ali laughs] Or not book. Jesus christ, I can’t believe, I’m thinking of the first season. Who gets the virus at the end.
+
+JACK (overlapping with Austin, chuckling): Oh, my god.
+
+ALI (overlapping with Austin): [sighs] Oh, this show.
+
+AUSTIN: This fucking show. [chuckles] Just wait.
+
+KEITH: I’m sorry, what happened, did I miss something?
+
+AUSTIN: Oh! Did—you left. Did you leave last game?
+
+KEITH: Oh, okay. I—
+
+ALI: No, he was there for that whole conversation. 
+
+AUSTIN: Was he?
+ALI: We’re talking about the Fantasmo book.
+
+AUSTIN: Right, I brought up the book because I thought—
+
+ALI (overlapping with Austin): Yeah.
+
+KEITH: No, I wasn’t there for any Fantasmo book. 
+
+AUSTIN: No, no. That was the beginning of—yes you were. 
+
+ALI (overlapping with Austin): [laughs] Yeah.
+
+ALI: (laughing)
+
+AUSTIN (cont): (amused) You were there for the Fantasmo argument a year ago, like the third episode of this podcast.
+
+KEITH: Oh! Oh, yeah, yeah, yeah, yeah.
+
+AUSTIN: Which we then just replayed last week, when [Jack chuckles] Cass and Aria fought over who should get the virus.
+
+KEITH: Oh, yes. Yeah.
+
+AUSTIN: Which, I remind you: You still don’t really know what that does. That’s just out in the world now.
+
+KEITH (overlapping): What did we end up doing, that-
+
+JACK (overlapping): Great.
+
+ALI (overlapping): Wonderful.
+
+AUSTIN (overlapping): You gave it—
+
+KEITH: Cass gave it to… our original people.
+
+ALI (overlapping): Paisley.
+
+AUSTIN: Yes, you gave it to Paisley. And then, Cass wound up on TV being associated with Apostolos and being called—
+
+JACK: By the British tabloid press, basically, but a broadcast.
+
+AUSTIN: Yes. Exactly. Yes. So—
+
+ART: It was “Fishy Prince Leaves Fingerprints on Vile Plot,” right?
+
+[JACK, AUSTIN, and KEITH chuckling then laughing]
+
+AUSTIN: [laughing] Yeah, I think it was. Fuck. Ah, we do alright.
+
+KEITH: [laughing] I do-I was there for that, because I remember laughing just as hard.
+
+AUSTIN: It was really good. Uh, so which way are you gonna go, Aria?
+
+[pause]
+
+ALI: I think… Cass.
+
+AUSTIN: Okay. So Cass, increase your Links with Aria by 1.
+
+ART: Yeah. Now Cass knows that… Aria is a little bit racist against Apostolisians. 
+
+ALI (bemused): No! [chuckles]
+
+AUSTIN: Oh my god. AuDy, who knows you better?
+
+ALI (overlapping with Austin): You know what? Sure.
+
+JACK: I think, maybe… Cass. Again.
+
+AUSTIN: Okay. 
+
+JACK: Because Cass now knows that AuDy is prepared to cheat. Basically.
+
+AUSTIN: Mmm. Okay.
+
+ART: Ohhh.
+
+JACK: And, as far as the duplicates—the suggestion of the duplicate went.
+
+AUSTIN: Right. That’s interesting. I like that a lot. Okay, so that’s the kind of like pregame stuff that I wanted to make sure we took care of. I do want to just go over again what everybody’s agendas are, so that we can think about those as we play. Or, not agendas, directives. A reminder that when you play to your directives that’s one of the ways you get to mark experience, your personal directives. That’s also—you mark experience when you succeed at mission directives, of which there are none yet. Aria’s are: when she values heroism over the mission, she marks experience, and when her desire for fame draws unwanted attention to the mission, she marks experience. For AuDy, whenever they discover more information about the cause of their sentience they mark experience, and whenever they follow the laws of robotics and it hinders the mission, mark experience. Cass, whenever their former membership in the Apostolos royalty hinders the mission, mark experience, and whenever they put the advice of Koda Whitegloves ahead of the mission, mark experience. Also think about those as, like, in general, you get to invoke those whenever you want, right? So, AuDy and Cass… Like AuDy if you want to say “Oh, the law of robotics makes me do this fucked thing,” or like… Cass, if you’re like, “Hey, I want to call Koda and see what they think about this,” those are good ways to get experience, right? Because that’s basically you like waving a flag for me to complicate things for you. And then Mako, whenever your lies about your identity or your past put the mission at risk, mark the experience. [laughs] Mark experience, not “the” experience, and while adhering to your persona hinders the mission, mark experience. I think that’s all I wanted to remind us of before we kick it off.
+
+AUSTIN (cont): So, I think it’s been about a month. It’s kind of like, in my head, each of these episodes has been—er, each of these missions has been separated by about a month, which is about how long the faction turn stuff takes. And I think things have been kind of slim for y’all over the last month. Getting kind of put on blast in the tabloids was a bad look, and there’s definitely been a degree of like, “Keep your head down,” at least with Cass. I don’t know how the rest of you have been doing, and as always I kind of assume just like oh hey, you have some low-level missions here or there, you’re able to get by, no one is starving to death. You’re all professionals. But you haven’t had a big mission, a big score, in awhile. And you get contacted through… I think an anonymous source gets in contact with you, and requests a meeting, in the… in Monument Park, which is a park in Centralia, the big center dome. You’ll also see—I’ll bounce us back over to the map of Counterweight—more of these domes have become Blue Sky Domes, since the last month. That technology is spreading pretty quickly, though it’s not everywhere quite yet. So yeah, you get a request from an anonymous source to meet you at a park at Monument Square for a potential job. Who is going? Or are you going at all? It’s a prerecorded message also, this isn’t like a live call talk thing.
+
+JACK: I’ll go. And anybody can come with me, and they probably should.
+
+ALI: This seems kinda shady.
+
+KEITH (overlapping with Austin): None of us go! Let’s just stay here.
+
+AUSTIN (overlapping with Keith): Um, I will say that this isn’t actually super shady. It’s not like—
+
+JACK: Oh, thanks Austin.
+
+AUSTIN: It’s not the way—[laughs] No, no, no, no. Aria had said that this was a like a shady way of doing it. I will say like this is the sort of thing… It is shady, but like, a lot of what you do is shady. Do you know what I mean?
+
+ALI: It’s not unprecedented.
+
+AUSTIN: Completely not unprecedented. Exactly. Like, there are many times when you get a call to go do a job from someone who you don’t know, especially since you’ve stopped being like exclusively working with Orth, where it’s like “Uh, we’ll find out details when we get there, I guess. It’s a public place, it should be safe, as long as we keep our heads down.” You know? And more to the point, lots of people take jobs like this in this world, right?
+
+ALI: Right.
+
+AUSTIN: Like this is... Whether you’re doing it newly or not is separate, but like… Yeah like, a lot of the other… Jaq and Jill both took jobs like this a lot.
+
+ALI (very quietly):  Mhmm.
+
+ART: And now they’re dead.
+ 
+AUSTIN: Well, not—well.
+
+ART (overlapping with Austin): They’re fifty percent dead.
+
+ALI (overlapping with Austin and Art): We never really said it, it’s complicated.
+
+AUSTIN (overlapping a bit with Ali): It’s—it’s complicated. Alright, so who’s going?
+
+ALI: Um, I’ll go with AuDy...
+
+KEITH (overlapping with Ali): Hey guys, when’s the last time we just had some fun? Let’s just have some fun today.
+
+[ALI and JACK laugh]
+
+AUSTIN: Yeah, it’s gonna be great. Everything’s gonna be a good time.
+
+JACK (overlapping with Austin a bit): We went to the beach last time.
+
+AUSTIN: Yeah, we did. We started out at the beach.
+
+KEITH (overlapping with Austin): Oh yeah, we did go to the beach last time.
+
+KEITH (overlapping): Yeah, but the churros were [at the same time as Ali] awful.
+
+ALI (overlapping): And that beach was [at the same time as Keith] awful. 
+
+AUSTIN: Uh-huh.
+
+[ALI laughs]
+
+JACK: Mmm. Oh, they were, weren’t they?
+
+AUSTIN: Mmyeah. Bad churros.
+
+JACK: Bad churros robot…. Yeah, okay.
+
+	JACK (as AuDy): Aria?
+
+	ALI (as Aria): Yeah.
+	
+	JACK (as AuDy): Anybody else?
+
+	ART (as Cass): I think I should stay home.
+
+[ALI laughs]
+
+AUSTIN: Okay. That’s fair.
+
+	JACK (as AuDy): Look after Just a Dog.
+
+	KEITH (as Mako, overlapping with Jack): I’m going.
+
+AUSTIN: [laughs] Alright, so... Again, it’s in Centralia, which means that the Kingdom Come is probably parked at the kind of attached spaceport. The Jace… The Rethal-Addax Spaceport. You’re able to just take public transportation there. Monument Square is a weird place. It is... It’s kind of a weird mangled combination of different architectures, and there’s like kind of harsh-edged neon brutalism of OriCon’s giant megaplex cities. And those run directly into and through the bright colors and the curved edges, like the weird hanging cloth of the Diaspora, right? There’s like a very… mishmashed feel of this entire place. And on top of that, like if the intended purpose was like, “Oh look! This is a place where like, it’s a monument to our peace, it’s a monument to the miracle of… you know, that Addax and Jace Rethal did. The peace that we had, we pushed back the Apostolisian Empire, this is a new era for our two cultures.” Like, if that is the intention of this place, some sort of weird sanctity, it’s just completely overrun by commerce at this point. And just like, almost competitive national pageantry. I kind of imagine this place as constantly filled with... like, big parades over nothing, and like, dueling bureaucracies, right? Where it’s like, the Consolidated Counterweight Technocracy’s job is to—one of their jobs is to manage public infrastructure in places like this where multiple different nations have property. I just imagine they’re constantly backed up with requests for like, shutting down different sub-sectors of this little sector and making sure that like, “Oh OriCon has access to this for this amount of time, and then Diaspora gets it for this separate—for this parade for the ‘notion of democracy.’” And like, it’s just lots of backstabbing over nothing. And today, recently, this district has seen a lot of pageantry in the form of those now-familiar kind of media blasts. And I think one of these is playing, while you kind of arrive at the destination, maybe on like a big… So imagine you’re at like a park in the center of this zone. And that around that park is a giant thr—like, circular screen. Sort of like the screens that run alongside the inside of like… like an arena. Like a basketball arena, where ads play, do you know what I mean?
+
+JACK & ALI: Mmhmm.
+
+AUSTIN: Except taller, and bigger, and like round. It’s almost like a halo around this park that’s at the center of this district. And on that screen it switches—it like blinks and the Counterweight’s Angels sign shows up, and then it’s the Angels showing footage of the group that you know as the Weightless, doing some shit. And this has been happening for the last month. And it’s like, those mech designs, those rigger designs that you recognize because you’ve dealt with them before. Like blowing up walls, and fighting random other riggers, and doing all sorts of shit. And then the Counterweight’s Angels sign comes on and says like, “The Weightless will lift us away.” And then like, dings off.
+
+ALI (overlapping with Austin just a bit): Man, they don’t like us anymore?
+
+[JACK laughs]
+
+AUSTIN: I mean, listen. You didn’t give them that virus that they wanted.
+
+ALI (overlapping with Austin): Damn. [frustrated groan]
+
+KEITH: See! If they really—
+
+ART (overlapping with Keith): That’s how you know a good group, when they’re mad at you for not giving them a virus.
+
+ALI: They were gonna destroy—! [groans] We can’t. We can’t.
+
+AUSTIN: (overlapping with Ali a bit): Okay, we can’t. We can’t. We cannot. We cannot.
+
+KEITH (overlapping with Austin and Ali a bit): Yeah Ali, listen, if they are so fickle that they would abandon us like that, they were never really our friends.
+
+AUSTIN: The other thing that you know is that we are rapidly approaching, and I think this is probably on everyone’s mind in general, but especially here in Monument Square it’s really obvious: we’re approaching the ten year anniversary of the miracle on Counterweight, when Jace and Addax saved the day. And there is something kind of weird, for those of you who are old enough to remember it, or you can tell me if your characters know this or not, you can think about whether your characters know this or not. But at the time, right after that happened, there was this image that was very popular that was like sold on t-shirts, and it was a thing that people had little pins of and it was Weight, it was like a stylized image of Weight with this sky-blue and green... coloration, with hands, almost like, what’s the artist’s name? Keith Haring? Is that right? Someone?
+
+ALI: Uh...yes. I think so?
+
+ART (overlapping with Ali): Uh...yeah, I think so.
+
+AUSTIN (overlapping with Art): Haring? Yeah, Haring is right. H-A-R-I-N-G. Style like hands wrapped around the planet like shaking hands. It’s a very weird image but it’s like “Oh look, this is like...” And they were also very clearly the color of Jace’s suit and the color of Addax’s flight suit shaking hands. It was very like, “This is the new era we’re moving into.” That symbol is nowhere anymore, and instead it’s just two hands shaking, over the center where Weight would be. And you can still make out that there is an orb behind those hands, but you can’t quite see Weight behind there. Above you as you walk in through this park is still the Golden Dome of Centralia, one of the last major domes left that haven’t had the BluSky treatment and just outside you can still see Weight hanging above all of this, as they prep for celebrations sometime soon for that ten year—is it a decadal? What do you call a 10 year anniversary for something? Anyone know?
+
+ART: Huh.
+
+ALI (overlapping with Art): Nope. 
+
+KEITH: Umm.
+
+ART: I don’t—I’m not sure there’s a word for it?
+
+JACK: Unocenteniary. No. No. [laughs]
+
+AUSTIN: That’s not it. I don’t think that’s it.
+
+JACK: Nope, that’s not the one.
+
+ALI: Umm…
+
+AUSTIN: Anyway. Whatever that is.
+
+[ALI laughs]
+
+[timestamp - 0:19:34]
+
+AUSTIN: So, you kind of have like just—I think you were just given coordinates to walk to. And so inside this park is… You know, there’s a lot of statuary, and there’s some plants and stuff that are in here. And again like this isn’t a BluSky dome so there isn’t the feeling of… I kind of feel like this is, like, an alright park on a really overcast smoggy day. Everything has kind of a… a sickly coloration to it. But it’s still populated ‘cause it’s still a park and the temperature is still alright and people want to be outside. And, when you head towards where youb are supposed to—
+
+KEITH (overlapping with Austin): DecennialDekennial.
+
+[pause]
+
+AUSTIN: Okay. That sounds alright. DecennialDekennial.
+
+KEITH: Oh, sorry, decennial [with a soft C].
+
+ALI (overlapping with Austin): Decennial, yeah.
+
+AUSTIN: Decennial, yeah. That makes more sense. Thank you. Uh. So yes, the decennial celebration will be happening somewh—sometime soon. You go to the spot where you’re supposed to meet this guy, or this person, and you see… There are two people wearing… the sort of clothing of… kind of like, working-class Apostolosian culture? And they are playing some sort of weird board game on this big marble table. And there’s a third dude who is… Who is dressed… [sighs] He’s dressed like he could be dressed nicer—so like, it’s like he has a… Our equivalent would be if he had a really nice plaid shirt and jeans on. But like, they’re a little too nice to be a person who just always wears plaid shirts and jeans. [Ali laughs] Do you know what I mean? Like… And he’s seated nearby, watching them. He’s an older man, very mild and friendly-looking. Balding, he has kind of wire-frame glass, very like—kind of a… A face that like, has clearly… He’s like been through shit but I don’t mean war, do you know what I mean? Like, [kind of laughs].
+
+ALI (overlapping): Yeah…
+
+AUSTIN: He’s just been through life, he just knows… people. And every once and a while he says something in Apostolosian, to them, about the game that they’re playing. And as you walk up he’s like occasionally popping up a little holopad off of his wristwatch and like, making some notes, and putting it away, and like, checking the weather. He seems antsy. And he’s leaning up against a fence that’s there. [pause] What do you do?
+
+[pause]
+
+ALI: Um, I guess we just… approach that guy?
+
+AUSTIN: Sure.
+
+JACK: We could try and like, attract his attention, see if… We could force him to come to us.
+
+ALI: Could we do it like the… Like, he’s leaning against the fence and like, I lean next to him, and like… Yeah.
+
+AUSTIN (overlapping): Totally. As like—
+
+ALI: And like, check my bracelet and then wait for him to say something to me.
+
+AUSTIN: Yeah. Do you—is there a codeword, do you think this guy set up a codeword for you? Let me think. [Ali laughs] Yeah, I think so. This is the sort of dude who definitely has a codeword. Or a code phrase. Let me check out this dope internet, let’s see, is there a…
+
+[Ali laughs]
+
+JACK: Codephrases.com.
+
+AUSTIN: Code phrase generator, thank you.
+
+ALI (laughing): God.
+
+[Keith laughs]
+
+AUSTIN: The internet is the worst, by the way. [pause] Aw these are shitty code phrases, I’m upset with these code phrases. I just want—you know what I just need is a random phrase generator, that’s what we need. Okay. Uh—
+
+ART: I’m really sad that we were deprived of seeing how AuDy would have tried to casually attract someone’s attention.
+
+[everyone laughs]
+
+AUSTIN: That’s actually—you’re not wrong. It’s kind of sad.
+
+ALI (laughing): I’m sorry.
+
+[pause]
+
+AUSTIN: I just want—oh, this isn’t, this is not as fun as I want it to be, this is not… I want—
+
+KEITH (overlapping): Sorry, this is—I found a codeword generator that’s really a code name generator.
+
+AUSTIN: Ooh. What—what’s that say?
+
+KEITH: Oh, the first one was but then these are—the first one was like… Echo X1X.
+
+AUSTIN: Right, yeah, I saw those too. Yeah.
+
+KEITH: Mutant Embrace Point. Sunis—oh, this is awful.
+
+AUSTIN (overlapping with Art): This is—I found one.
+
+ART (overlapping with Austin): Wait, I have one, I have one, I have one. 
+
+AUSTIN (overlapping with Art): Okay.
+
+ART (overlapping with Austin): Aw.
+
+[Ali laughs]
+
+AUSTIN: Mmm, I’m curious. Because, the first sentence that this one generated for me is, “The other side takes the world for granted.”
+
+ART: Oh, that’s pretty good.
+
+[Jack laughs softly]
+
+KEITH: That’s pretty good.
+
+AUSTIN: And then, Aria, you say, “The clear star that is yesterday reveals its authority.”
+
+[Ali and Jack laugh]
+
+ALI: That’s just a lyric of mine, that’s… [laughs]
+
+ART (overlapping with Ali a bit): I don’t know—okay, I’m just gonna type mine in the chat.
+
+AUSTIN: Okay, I wanna see yours in the chat really bad.
+
+ART: The Skype chat, not the…
+
+AUSTIN: Yeah. [short pause] Woah! Wait did you think that up or did you just generate that?
+
+ART: I thought this up.
+
+AUSTIN (sounding slightly less impressed): Okay. That’s really good too, I like that one a lot.
+
+JACK (overlapping): That’s anime as hell.
+
+AUSTIN: So yeah. He says—I like this one, we’re gonna go with this one. Instead of this one that this random nonsense generator made for us.
+
+KEITH: Wait, are you sure you don’t want to go with “Operation Urban Gardens”?
+
+[Ali and Jack laugh]
+
+AUSTIN: That can be the name of this mission.
+
+JACK: That’s a Kickstarter.
+
+AUSTIN: So he says, to Aria,
+
+AUSTIN (as mysterious man): I hear the divines never rust.
+
+AUSTIN: And she says...
+
+ALI (as Aria): I’ve never seen one in the rain.
+
+AUSTIN (as mysterious man): Oh, very good. You must be Miss Aria Joie. How are you doing today, do you need a drink, do you need a… What do you need?
+
+ALI (as Aria, laughing): I’m fine… 
+
+ALI: What—is he gonna like, offer me… refreshments… in this park? [laughs]
+
+KEITH (overlapping with Ali): Ask for lemonade.
+
+KEITH (as Mako): Can you get me a—can I have—do you have lemonade?
+
+[Ali laughs]
+
+AUSTIN (as mysterious man): Oh [vague affirmative noises], yeah. Jerome, bring the man a lemonade.
+
+AUSTIN: And there’s a guy from like across the park—like, you’re eyes turn and there’s just like a dude who’s clearly Secret Service-style security, just like, black suit, sunglasses, didn’t see him before. And he nods, and like, leaves to go get your lemonade.
+
+KEITH (as Mako): Pink—pink lemonade!
+
+[Austin snorts]
+
+AUSTIN (as mysterious man): [shouting] He says—[normal volume, resigned] Okay. 
+
+ALI (as Aria): Just—[laughs]
+
+AUSTIN (as mysterious man): [sighs] It’s a pleasure to meet you all, I expected a fourth. Where’s the… [splutters a while] Cass?
+
+KEITH (as Mako, overlapping with Jack/AuDy): You okay?
+
+JACK (as AuDy): He* has had a rough month.
+
+AUSTIN (as mysterious man): I’m fine, I’m fine.
+
+ALI (as Aria): He’s* tending to other things.
+
+AUSTIN (as mysterious man): I see, but he* will be involved, I suspectexpect his* expertise will be needed, it will be very useful.
+
+ALI (as Aria, overlapping some): Oh absolutely. Yes, yes, absolutely.
+
+AUSTIN (as mysterious man): Okay, well. Let’s do this quickly, because I don’t have much time.
+
+AUSTIN: He hits a button on his wristwatch and another image shows up, above—it had been a notepad that he’d been taking notes in. Also he has—[laughs] I think you guys can look over his shoulder and see what the notes were. It’s a weird combination of like, him critiquing the like, future chess game that they’re playing—that his friends I guess, or these randos, who knows who they are—are playing near him; and also… like, notes for like, what he wants to pick up from the grocery store later [Ali laughs faintly] and just like, all in one big text file, he’s very… He’s not super organized. So he hits a button and that image gets replaced with a kind of holographic representation of like kind of a golden orb. It has a sort of… [sighs] It’s like what if holograms did gifs, basically? So it’s like six seconds—a six second animation cycle. It’s a golden orb that has kind of a… A kind of smoky aura around it. Kind of a fog that—it’s hard to tell if it’s emerging from it or just like where it’s being stored is foggy or what. But it kind of rolls around, it kind of rotates for a few seconds and then it pops open, like a—with like a… It looks like there would be a click, I guess, like a really sharp opening. And then it starts to get bright, and then the image loops. So you can’t see what happens the second the light starts coming out of it. Um… He says,
+
+AUSTIN (as mysterious man): Well this here is a… It’s a thing I’m interested in, and… I think it would make more sense for it to be in my hands than in the hands of the people who have it currently. It’s a bunch of religious fanatics, you understand me? They hurt people, they have big ideas about the world but very small minds. Call themselves the Iron Choir. And I think it would be a good idea if we recovered this and returned it to me, and you’ll be paid well. Simple job.
+
+ALI (quiet): I don’t know…
+
+JACK (overlapping with Austin): We—
+
+AUSTIN (overlapping with Jack a bit): At this point—yeah, go ahead.
+
+JACK: Uh. [laughs] 
+
+[Ali laughs] 
+
+JACK (as AuDy): What is your relationship with the Iron Choir?
+
+AUSTIN (as mysterious man): I don’t know much about them honestly. A bunch of uncivilized folk as far as I can tell.
+
+KEITH: Hmm.
+
+AUSTIN (as mysterious man): Not much in the way of… talkers, in my experience they kind of just… take what they want. Which is a shame because, clearly very devoted individuals, very hard workers. I think if they came in we could pull some—put some use to them, but… They seem to like it out there.
+
+KEITH (overlapping with Austin some):  I don’t trust this guy’s intonation. [Ali laughs] He has an untrustworthy intonation.
+
+ALI: Yes. Yes.
+
+AUSTIN: Reminder these are the people who like, kidnapped…
+
+JACK (overlapping with Austin and Ali): Yeah, so like, we—
+
+ALI (overlapping with Austin and Jack): Yeah.
+
+AUSTIN: Kidnapped Orth, worshipped the thing that they call the Dead Metal. Like his position is not the rare position in this world.
+
+ALI (overlapping with Keith): Yeah.
+
+KEITH: [fast] No no no no no no no, I’m not saying what he’s saying is crazy.
+
+AUSTIN (overlapping): Sure. Totally.
+
+KEITH: I’m just saying that he has an untrustworthy intonation.  
+
+AUSTIN: I will never give you a job from someone who has a tr—if I ever give you a job from [Jack laughs] someone who has a trustworthy intonation, then don’t trust that motherfucker.
+
+[Ali laughs]
+
+KEITH: I guess—[laughs]
+
+AUSTIN: Alright? Like… [laughs] No one is hiring the Chime to do trustworthy things, like you’re—you know? Like that’s not…
+
+KEITH: No—I—this guy’s intonation is untrustworthy even by the standards of this universe.
+
+AUSTIN: Okay. [Ali laughs] I don’t think you’ve met a trustworthy person. Is all I’m saying.
+
+KEITH (overlapping some): He sounds like the robot who pals around with Pizza the Hut.
+
+[Ali and Jack laugh]
+
+AUSTIN: Yes. Yes. That’s… not wrong.
+
+ART: All I’m getting is he sounds Jewish. That’s the—
+
+AUSTIN: That’s—he’s Jewish. He’s kind of Jewish. He’s kind of like… He’s not even really Jewish, he’s like [laughing] Eddie Murphy playing a Jewish guy.
+
+JACK (as AuDy): Excuse me. We have destroyed around fifteen of them, previously. Is this… of assistance?
+
+AUSTIN (as mysterious man): It means you know what you’re doing. I respect that.
+
+JACK (as AuDy, overlapping with Ali/Aria): We kid—
+
+ALI (as Aria, overlapping with Jack/AuDy): Uh, can—[pause] Sorry.
+
+JACK (as AuDy): We kidnapped one of them. [pause] And then we released them. 
+
+[pause]
+
+AUSTIN (as mysterious man): That could come in handy.
+
+KEITH (skeptical): Did we release them?
+
+AUSTIN (overlapping): Oh yeah. That was part of AuDy’s love letter.
+
+JACK (overlapping): 100%.
+
+ALI (overlapping): AuDy did that, yeah.
+
+AUSTIN: Yeah. In fact, you have Sister Rust as a contact now, I believe?
+
+JACK: I super do, and she owes me a favor, [Ali laughs] and this man is not going to know that.
+
+AUSTIN: [laughs] Good. Aria, were you going to say something too?
+
+ALI (as Aria): Can you tell us any more about this thing that you’re… asking us to get?
+
+AUSTIN (as mysterious man): Unfortunately… I just don’t know too much. It’s from… It’s from one of those—one of the planets used to be under Apostolos control. We don’t have many eyes there. Could be a weapon, could be a tool, I just know I don’t like it when those folks have it. And when reports come in that they do, I think it would be better to intervene now, instead of let it sit and wait until calamity strikes, you understand. So what do you say?
+
+JACK (ambiguously in-character, overlapping with Keith): I mean, do you have a—
+
+KEITH (as Mako, overlapping with and louder than Jack):  We’ll take it!
+
+ALI (as Aria): Yeah. Why not?
+
+AUSTIN: Okay, give me a—Mako, give me a Get the Job roll.
+
+[Ali laughs]
+
+KEITH: [laughs] Oh no, where’d my roll20 go?
+
+AUSTIN: Uh-oh. You closed it, it’s not—you’re not logged in anymore.
+
+KEITH: I thought that I switched to a different window and I instead closed… What’s the internet one called? Chrome.
+
+AUSTIN: Chrome. Chrome is the internet one.
+
+[Ali snorts]
+
+KEITH (amused): Okay.
+
+ALI (overlapping): Do you want me to just do your roll?
+
+KEITH: What is the stat for Get the Job?
+
+AUSTIN: It is Edge. I’ll just hit it—do you want me to just hit it for you?
+
+KEITH: No, I’m in I’m in I’m in.
+
+AUSTIN: Okay. It’s Edge.
+
+KEITH: Edge. 
+
+[pause]
+
+AUSTIN: That’s an eight. That’s a partial success. Uh, “When you negotiate the terms of a job, roll Edge. Choose three from the list below on a 10+, on a 7-9 choose two from the list below. The employer provides useful information, you get a point of intel. The employer provides useful assets, you get a point of gear. The job pays well,” which I think means you get to multiply how much your pay is at the end.
+
+KEITH (overlapping): Mhmm.
+
+AUSTIN: “The meeting doesn’t attract attention. Or the employer is identifiable.”
+
+KEITH: Alright, well, attr—not attracting attention is out the window, that’s like our whole thing.
+
+AUSTIN: Okay.
+
+[Ali laughs]
+
+KEITH: So—[laughs]
+
+AUSTIN: Okay.
+
+KEITH: So I think I’m going to go with… Hmm. [pause] I kind of want the job to pay well but I think that… “The employer provides useful information” might be more useful?
+
+AUSTIN: Okay.
+
+JACK: It might even reveal how much this dude is lying.
+
+AUSTIN: N—it’ll be a point of intel that you can define later, is what that’ll be specifically.
+
+JACK (overlapping with Austin): Oh, okay. Alright.
+
+KEITH: If—he—this guy is the employer, right? There’s no employer above him?
+
+AUSTIN: If you pick identifiable you would find out who he is, and what his deal is.
+
+KEITH: I’m gonna go “The employer is identifiable.”
+
+AUSTIN: Alright. He shakes your—he’s—so when you accept… When you say, “We’ll do it!” he’s like,
+
+AUSTIN (as mysterious man): Ah, very good Mako, you’re a good kid. Let me—
+
+AUSTIN: He shakes your hand.
+
+AUSTIN (as mysterious man): It’s a pleasure to meet you finally. If you need anything, I have a…
+
+AUSTIN: Reaches around his like—he reaches inside of a vest, inside of his vest, looking for… Also it’s [amused] like a fisherman’s vest? Lots of pockets in it, and he’s looking all over for something. 
+
+KEITH: Some loose tackle.
+
+AUSTIN: Yeah, exactly. Uh—[laughs] 
+
+[Ali laughs a bit]
+
+AUSTIN: He’s looking for—he ends up producing his card and hands it to you. And he says,
+
+AUSTIN (as mysterious man): If you need anything you get in touch. 
+
+AUSTIN: And he shakes your hand. You look down and it says “Tendency Porter,” which is his name. [Keith laughs] “V.P. of Rare Materials Acquisitions, Diasporadic Department of Material Resources, Slate Division.” 
+
+ALI: Oh, we were so close to not knowing his name and that’s [laughing] so tragic.
+
+AUSTIN: It’s so tragic. It’s so sad. 
+
+[Ali continues laughing]
+
+JACK (overlapping with Austin): Is this our—
+
+AUSTIN (as Tendency): You can call me Ten.
+
+AUSTIN: He says.
+
+JACK: Is this our first encounter with the Diaspora in like a face-to-face setting?
+
+[pause]
+
+AUSTIN: You’ve… Hmm. Not in your lives.
+
+JACK (overlapping): Oh no I mean, in this game.
+
+AUSTIN: In this game… Have you seen anyone from the Diaspora before? I think maybe so, I think maybe this is the first Dias—no no no no no no, Cene is from the Diaspora.
+
+JACK: Oh, yes.
+
+AUSTIN: Cene Sixheart is from the Diaspora. 
+
+KEITH: And then what about those… Weren’t the Weightless…?
+
+AUSTIN: No Weightless are OriCon.
+
+KEITH (overlapping with Ali): Okay.
+
+ALI (overlapping with Keith): Yeah, like—
+
+KEITH: Oh they hated Diaspora.
+
+ALI: Yeah, they’re…
+
+AUSTIN: They hated the Diaspora, they hated the peace.
+
+KEITH: Okay. I thought it went the other way.
+
+AUSTIN: No, yeah, yeah. They used to be Jace Rethal’s crew.
+
+KEITH: Yeah.
+
+AUSTIN: Or they at least flew with Jace in the final stages of that, of the war.
+
+KEITH: Is—oh no no no, never mind, sorry.
+
+AUSTIN: It’s okay. Uh… Alright. So now we slip into the legwork phase.
+
+JACK: I have an idea here and it’s really cruel.
+
+[timestamp - 0:34:26]
+
+AUSTIN: Oh—I have to give you mission directives before you do anything else. Let’s… So. Step one. When you accept the… Where’d they go, I have them written up, I have them written up. Oh boy. [long pause] Ah, here we go. “When you accept the mission mark experience,” so everyone mark experience. “When you obtain the artifact and decide where to take it, mark experience. [pause] When you complete the delivery mark experience.”
+
+ALI (overlapping): Oh, boy…
+
+[Jack chuckles]
+
+AUSTIN: And then, when the mission ends, mark two experience.
+
+KEITH (overlapping with Jack): Wow that’s a buttload of experience.
+
+JACK (overlapping with Keith, sarcastic but like resigned about it): Oh this is gonna go great.
+
+AUSTIN: As you’re leaving this park. He like leans back on the—as soon as you shake his hand and he gives you the card and stuff, he like, leans back on the fencing, and looks over at the two Apostolosians playing space chess. And like, shakes his head, and is like,
+
+AUSTIN (as Tendency): Oh, such a bad move. What a bad move. Alright.
+
+AUSTIN: And like gives you a little wave as if like [chipper] “Get the fuck out of here!” [Ali and Jack laugh] And as you guys start to leave—
+
+KEITH: Hold on, pink lemonade.
+
+AUSTIN: Pink lemonade shows up. In a—I think it’s like a Capri Sun, is what he brings you back. Like a little… pouch.
+
+KEITH (overlapping): In a pouch…
+
+AUSTIN: It’s also yellow lemonade.
+
+KEITH (ambiguously in-character, bitter): Yeah. Thanks.
+
+ALI: This guy is not… trustworthy. 
+
+KEITH (overlapping with Austin): I—wait, I would like to look at—
+
+AUSTIN: You should’ve gotten +gear and I could’ve given you good lemonade if you wanted.
+
+KEITH: Can I look at Ten and kinda go,
+
+KEITH (as Mako): [scoffs] Good help, am I right?
+
+[Ali laughs]
+
+AUSTIN: He shrugs. [pause, Ali continues laughing] Alright. So, AuDy was saying, they had an idea.
+
+JACK: We could… see… Sister Rust owes us a favor. And I—
+
+KEITH: So you wanna just like ask for it?
+
+JACK (overlapping with Austin): Well...
+
+AUSTIN: Have—does the rest of the crew know that Sister Rust owes you a favor?
+
+JACK: [laughs] I don’t think they do. I don’t… I mean, do they know that…
+
+AUSTIN: You tell me.
+
+JACK: I wonder what I told them.
+
+AUSTIN (laughing): Good question. What did you tell them, AuDy?
+
+JACK: [laughs softly] I think I said,
+
+JACK (as AuDy): I have received a bounty payment for Sister Rust.
+
+JACK: This was several months ago.
+
+AUSTIN: Uh-huh.
+
+JACK: And I think I probably told them that it went into fixing an exhaust or something...
+
+AUSTIN: Okay.
+
+JACK: But—
+
+KEITH (overlapping with Austin): So a lie.
+
+AUSTIN: What a liar. What a liar. Good to know.
+
+JACK: But—
+
+ALI: Geez.
+
+AUSTIN: Oh—
+
+KEITH: AuDy has lied more than anyone else.
+
+AUSTIN: AuDy’s kind of a big liar, it’s true. 
+
+[pause]
+
+AUSTIN & JACK (at the same time): But—
+
+JACK: I could contact her. And I doubt—I—she’s not gonna give it to us, cause that would break the game. Or at least I’m assuming she’s not gonna give it to us. That’s an option. But I could ask her where it is, and then I could offer—I could tell her that some people are coming for it, and offer to protect it. [kind of laughs]
+
+AUSTIN: Mmm.
+
+JACK: We could essentially use this favor to engineer, like—to weaken security, or, you know, where we’re even supposed to be going.
+
+AUSTIN: Right.
+
+JACK: Cause I don’t know whether or not just landing the Kingdom Come outside wherever their stronghold is, which… Ooh, they’re in the abandoned dome, aren’t they?
+
+[pause]
+
+AUSTIN: I don’t think you know.
+
+JACK: Oh, okay.
+
+ALI: Yeah, I don’t…
+
+AUSTIN: I don’t think we’ve talked about that.
+
+ALI: I don’t think that’s where they are, either.
+
+AUSTIN: I know where they are.
+
+ALI: Okay.
+
+AUSTIN: But part of this legwork could be finding out where they are. The… other thing thing though, really quick. Cass. Cass. While… As the rest of the crew shows back up to the ship. You are inside, kind of watching them come up on the camera—like the security cameras. They kind of are walking up through the hold and all of that. And you can see—through the security camera, you can see each ofther them, and then there’s… There's a shadow, there’s like a little like, shadow? Behind them? For a second. And when you switch security cameras you can’t see where that shadow is coming from. It’s weird. It’s gone. It’s gone now, but there was definitely something else with them. It doesn’t come on the ship, like you don’t see it—you see them all come on, but it hovers outside, like the shadow is there outside. They close the door, and you—when you switch security cameras you just can’t seem to identify where that sha—what was casting that shadow.
+
+ART: That’s probably nothing.
+
+AUSTIN: Yeah. No big deal.
+
+[timestamp - 0:38:50]
+
+AUSTIN: So. Do you tell them that Sister Rust owes you a favor, AuDy?
+
+JACK: I think what I say is,
+
+JACK (as AuDy): We have the capacity to contact the Iron Choir.
+
+ALI (as Aria): W—but we’re—like, do we? [laughs]
+
+KEITH (as Mako, overlapping with Jack/AuDy): Yeah, how’s that—
+
+JACK (as AuDy): Yeah, we super do.
+
+ALI (as Aria): Wait, how?
+
+JACK (as AuDy): I—oh.
+
+[Austin laughs]
+
+KEITH (as Mako): Yeah, I don’t know where they live. How do you know where they live?
+
+ALI (as Aria, overlapping with Jack/AuDy): Yeah.
+
+JACK (as AuDy): Oh, well… Okay, so… 
+
+KEITH (as Mako): Who do you know there?
+
+[Ali laughs]
+
+JACK: This is—[laughs] Austin this is like a thing right? Because presu—they’re not networked so I can’t telephone them.
+
+AUSTIN (agreeing): No.
+
+JACK: But, did Sister Rust… Okay—
+
+AUSTIN: I feel like there’s a way…
+
+KEITH (overlapping): Technically a telephone wouldn’t be part of the living metal.
+
+AUSTIN: These days it would be. There’s no outside of the l—there’s no com—telecom communications stuff, that isn’t part of the inter…
+
+KEITH (overlapping): They don’t have like a…
+
+AUSTIN: Like we’re way post—like everything is voiceover IP in this world. Everything is just Skype.
+
+JACK: Oh did you see that thing recently that was like, “Oh your laptop can make ultrasonic things that your phone will recognize to synchronize adverts together”? 
+
+AUSTIN: Yes. Terrifying. 
+
+JACK: We’re at that point right?
+
+AUSTIN: Yes, yes, everything is Mesh.
+
+JACK: And also now, but…
+
+ART: We’re at that point now—yeah. [laughs]
+
+AUSTIN: You know what I think that—I think she probably gave you a very specific, material way to get in contact, right?
+
+JACK (overlapping): That’s what I…
+
+AUSTIN: Like, go here, once a week there’s a person here for—who we send in to get supplies we need.
+
+ART: Ooh, a dead drop.
+
+AUSTIN: I think it’s a dead drop. It’s a Dead Metal drop.
+
+[Ali laughs]
+
+JACK: Or is it just—yeah, is it like there’s a junkyard or something, like a ruins.
+
+AUSTIN (overlapping): Ohh, I like that a lot.
+
+JACK: Or like a ship—oh, I know what it is. A ship… A ship crashed, a long time ago, entering the Rethal-Addax spaceport.
+
+AUSTIN: Okay.
+
+JACK: And there was a dispute over who owned it.
+
+AUSTIN (overlapping): Okay.
+
+JACK: And so nobody paid the fee to clear it up.
+
+AUSTIN: Okay.
+
+JACK: And she just said, “Go to this ship.”
+
+AUSTIN: And there’s—is it a thing where like, they have a couple people there? Or is it a thing where it’s like… Once in a while someone is there, or is there just some way to leave a message for them, or what is it?
+
+JACK: I wonder whether or not it’s the equivalent of that station at the beginning of Battlestar Galactica, where it’s just someone sitting on a chair, you know, like…
+
+AUSTIN (chuckling): Okay.
+
+JACK: Writing in a book, occasionally checking an abacus or something, moving some beads on an abacus.
+
+AUSTIN (overlapping with Jack): Yep. Mhhm.
+
+JACK: Writing something.
+
+ALI: Keeping teens from making out there. [laughs]
+
+AUSTIN (overlapping with Jack): Right. Sh—chasing them away.
+
+JACK (overlapping with Austin): Yeah. “Stop it, teens, stop it, stop! Stop it!”
+
+[Ali laughs]
+
+AUSTIN: Yeah, totally.
+
+JACK: “This place is evil! Go away!”
+
+AUSTIN: [chuckles] Yeah. That’s totally it. What’s the name of the ship?
+
+JACK: I think it’s a Diaspora ship.
+
+AUSTIN: Okay.
+
+JACK: And I think it’s called… Uh… [pause] I think it’s called A Collection of Inconsistencies.
+
+AUSTIN (laughing): Okay.
+
+JACK: Which became a bit of a joke after it crashed and everybody is like “Oh Jesus Christ, what is this ship doing here?”
+
+AUSTIN (overlapping with Jack): Yeah. Good. Yeah, now it’s just a whole…
+
+AUSTIN: [laughs] Okay. So… Who goes there with AuDy?
+
+JACK: I’m not gonna—anybody can come, I just think AuDy just goes like—
+
+AUSTIN: Do you announce that—
+
+JACK (as AuDy): I’m leaving briefly.
+
+AUSTIN: Okay. Okay. [pause] I think this is a Hit the Street, AuDy?
+
+JACK: Yeah.
+
+AUSTIN: Do you tell them where you’re going?
+
+JACK: Uh…
+
+AUSTIN: Or do you leave it at…
+
+JACK (as AuDy): I’m going to the spaceport.
+
+AUSTIN: And they never came back.
+
+[Ali and Keith laugh]
+
+JACK (jokingly as AuDy): I’m going outside and may be some time.
+
+AUSTIN: Give me…
+
+ART: Deadbeat robot dad, no…
+
+[Jack and Austin laugh]
+
+AUSTIN: Give me a Hit the Street.
+
+JACK: Okay, what is—what roll is that?
+
+AUSTIN: Style.
+
+JACK (overlapping): Oh, great.
+
+AUSTIN: “When you go to a contact for help, roll Style.”
+
+JACK: Faaantastic. [laughs]
+
+AUSTIN: Are you sure you don’t want to bring anybody else to help?
+
+[pause]
+
+JACK (as AuDy): I will need a companion.
+
+[Austin and Ali laugh loudly]
+
+ALI: Who are you gonna like—
+
+AUSTIN: Confide in?
+
+ALI: Be honest with?
+
+AUSTIN: Yeah. That’s a good question.
+
+[pause]
+
+JACK (as AuDy): Aria, there is something we have to talk about.
+
+ALI (as Aria): Okay, AuDy, what’s up?
+
+JACK: Wait, hang on, is Aria the most stylish? I assume that she is.
+
+ALI: Yeah.
+
+AUSTIN: Oh, you’re making this contact roll. Whoever is going with you will make an Aid/Interfere check, and give you a bonus.
+
+JACK (overlapping some): Ohhh. So who has the most links with me? 
+
+ALI (overlapping): I have two with you.
+
+AUSTIN (overlapping): I think it’s probably Aria.
+
+JACK (overlapping): Is it—how many do you have, Cass?
+
+ART (overlapping): I have +3.
+
+AUSTIN (overlapping): Oh, Cass has +3.
+
+JACK (overlapping): Oh, Christ.
+
+ALI (overlapping): Oh, boy.
+
+AUSTIN: That’s a pretty good roll.
+
+JACK: Yeah. [laughs] It’s gonna be—
+
+AUSTIN: But make the choice that AuDy would make, is what I think.
+
+JACK: Okay. [pause] Oh, well, actually, the reason I got the link with Cass is because they know that I can cheat.
+
+AUSTIN: Totally. I like it.
+
+JACK (as AuDy): Cass. We need to talk.
+
+ART (as Cass): Okay.
+
+JACK (as AuDy): In the other room. With this blast door closed.
+
+[Austin snorts]
+
+ALI (laughing): Are you saying this in front of everybody?
+
+[everyone laughs]
+
+ART (as Cass): Alright. You’re [laughing] losing some of your subtlety right now.
+
+[everyone laughs]
+
+JACK (as AuDy): In the past, I made a horrible mistake. But it may prove fruitful. [pause] Do you remember when I told you that I had bountied the Iron Choir leader Sister Rust, and used it to fix the rear left engine?
+
+ART (as Cass): Yeah.
+
+JACK (as AuDy): This was far from the truth.
+
+[Keith laughs]
+
+[Austin groans]
+
+[Jack laughs]
+
+JACK (as AuDy): I instead released her back to the choir. And she owes me a favor, which is why when I said earlier that this might be useful, that was what I was talking about.
+
+[pause]
+
+ART (as Cass): That’s… What—how did you fix the left engine?
+
+[everyone laughs]
+
+AUSTIN (laughing, everyone else still laughing in the background): Hard cut—it’s just a different shot of the left engine, like d-d-d-d-d-d-d.
+
+JACK (overlapping): It’s just on fire.
+
+AUSTIN: And then that’s as it falls down in the—in the last episode, [laughing] why you crashed. Into the lake. It’s cause you never fixed that left engine!
+
+JACK (as AuDy): It no longer presents a problem.
+
+[Austin laughs]
+
+ART (ambiguously in-character): I’ll say…
+
+ART (as Cass): Okay. That’s… That’s awful, don’t do that, let’s go.
+
+[Austin and Jack laugh]
+
+[timestamp - 0:44:49]
+
+AUSTIN: Before we move forward everyone should tell me how much they invest in this mission.
+
+KEITH: Three!
+
+AUSTIN: Okay. You shouted it.
+
+JACK: Also thr—well.
+
+ART: Oh no.
+
+AUSTIN: So to remind you—
+
+JACK: I kind of feel like Keith is like a watermark, a water line, as these things go.
+
+AUSTIN (overlapping):  Mhmm.
+
+JACK: Where like, I was thinking that maybe three would be a good thing to do, but then Keith suggested it, and now I’m like “Maybe two [laughing] would be better.”
+
+[Ali laughs]
+
+AUSTIN: Mhmm.
+
+KEITH (loudly): I’ve never been wrong yet!
+
+[Jack laughs]
+
+AUSTIN: Okay.
+
+JACK: Okay.
+
+ART: How’s selling those robots going?
+
+KEITH: I haven’t really gotten around to it, I’ve been busy.
+
+[pause]
+
+[Jack laughs]
+
+AUSTIN: Oh, boy. Okay—
+
+KEITH: I—here’s what I think that we should do. What was the company that we bought them from?
+
+AUSTIN: Snowtrak.
+
+KEITH: I think we should go and fuck up all of Snowtrak’s shit and their production lines.
+
+AUSTIN: Someone hasn’t been listening to the faction games cause it’s a bad idea.
+
+ALI (overlapping with Austin some): Wait, weren’t you going to like make a false deal that Horizon bought them from you?
+
+AUSTIN: That never happened, he forgot to do that while he was in Horizon. [Ali and Jack laugh] Because we took a break and came back and totally forgot.
+
+KEITH: Yeah. 
+
+AUSTIN: Alright. So yeah—
+
+KEITH: I’ll just do that same thing somewhere else.
+
+AUSTIN: Okay.
+
+JACK: Okay. I will bet three. 
+
+AUSTIN (overlapping): Okay.
+
+JACK: So I’m gonna go down to five.
+
+AUSTIN: So that means—again, that means that the clock—the legwork clock—
+
+JACK: Oh no, Christ no, two, two two two.
+
+AUSTIN: Okay. You’re sure?
+
+JACK: Yes, two.
+
+AUSTIN: ‘Kay. I’m gonna just double-check to make sure that’s exactly what it says… But does everyone else know what they’re investing? 
+
+JACK: Mhm.
+
+AUSTIN: You’re investing—everyone’s two except for Keith, which is three? Is that… what I’m hearing?
+
+KEITH (sounding proud of that): Yeahhh. That’s right.
+
+ALI (overlapping with Keith): I might invest three? [laughs]
+
+AUSTIN: Okay.
+
+ART: I’m doing one, [Ali laughs] because I care, about our lives.
+
+[Ali laughs]
+
+KEITH: I don’t think there’s a functional difference between doing two and one, right?
+
+AUSTIN: R—as far as I remember, no. [Ali laughs faintly] Other than you are risking less, right?
+
+KEITH: Right, yeah. You lose—if we all fuck up then you lose one credit instead of two.
+
+AUSTIN: Right.
+
+ART: I don’t—
+
+ALI: I feel like this job is gonna go well for us.
+
+ART: I think we’re fuckups and one of these days it’s gonna come back to haunt us and I don’t want two of my credits on the line when it does.
+
+AUSTIN (overlapping with Art): Ah there we go.
+
+KEITH: I think some of us are fuckups.
+
+AUSTIN: Yeah, so it’s—for every—for each person who invests three or more—who invests three, there is no more than three. For everybody who stakes three… Gets back extra but also the legwork clock goes up, so. So, alright. I’m marking it. Mark it, legwork clock advances.
+
+[Jack takes a deep breath]
+
+ART: Twice.
+
+AUSTIN: Oh wait, who else is doing three? Aria?
+
+ART: Ali.
+
+ALI (overlapping with Keith): Yeah.
+
+KEITH (overlapping with Ali): Yeah, Aria’s doing three.
+
+AUSTIN: Jesus Christ. Okay, well, uh… [Ali laughs] That’s good to know, legwork clock is now at 18:00.
+
+ALI (overlapping, very faint): Yep.
+
+AUSTIN: Um…
+
+ALI: This is an open and shut job!
+
+[Jack laughs]
+
+AUSTIN: The… 
+
+KEITH: They don’t even have computers!
+
+[Ali laughs]
+
+AUSTIN: Oh my god.
+
+ALI: We messed them up so much last time.
+
+KEITH: Yeah we shouldn’t—hold on. We shouldn’t—
+
+ART: One, you have me down as one, right? One.
+
+[Ali laughs]
+
+KEITH: We shouldn’t—
+
+ART: Is zero—can I mark zero?
+
+AUSTIN: You mark these down yourselves, you’re in charge of marking these down. [pause] You can’t bet zero.
+
+KEITH: We shouldn’t be so confident or Austin will punish us for our hubris.
+
+AUSTIN: That is—thank you. Thank you, Keith. [Ali and Jack laugh] You’re a good player and a good friend.
+
+KEITH: You’re welcome.
+
+AUSTIN: But okay, so the legwork clock is at 18:00. On your w—Cass and AuDy?
+
+ART: Yeah.
+
+AUSTIN: On your way from the ship to… the… The kind of downed craft that you’re going to meet your contact at, there’s a moment where you’re pretty sure… you’re being followed by some robots? But each time you look behind you it’s like different robots. [Jack laughs a bit] It’s like, it’s a police bot and a janitorial bot are behind you for a block, and they’re like… They’re not really doing what they—they’re not doing police and janitor things, they’re just walking at you, and then you turn the block, and then it’s like—you look behind you again and there’s like a construction bot behind you, that’s like—or walking towards you, and like passes you and stops and turns and looks at you. It’s almost as if you have something on you, like… It’s almost as if… you have like paint all over you or something, you know what I mean?
+
+JACK (overlapping): Yeah.
+
+AUSTIN: And people are stopping to look at you like, “Are they fuckin… Mmm… Okay.”
+
+ART: “Are they fuckin covered in paint?”
+
+AUSTIN: “Are they covered—who covered these boys* in paint?” [Jack laughs softly] Alright. So. You show up to—what was the name of the ship again? I want to write it down.
+
+JACK: A Collection of Inconsistencies.
+
+AUSTIN: Nice. Good, good good good. So make—so… I guess first, Cass, make your aid roll. That’s a three, it’s a 2d6 + 3. [short pause] Whew! Whew!
+
+ART (excited): Oh!
+
+ALI: Yeahhhh.
+
+JACK: Nice.
+
+ALI (quiet): Yeah…
+
+AUSTIN: Cass just rolled six plus six plus three is fifteen—
+
+ART: That could’ve been a zero.
+
+AUSTIN: That’s—[laughing] yeah you could’ve gotten a zero and you still would’ve gotten the best result. So, when you aid or interfere… “When you help or interfere on a 7+ they take either +1 or -2 forward, your choice.” On a 7-9 you would be implicated if things went bad but I’m guessing—but you’re not because you rolled a 15. So you would not be implicated if this goes bad, you are safe from my moves.
+
+JACK (overlapping): Thanks.
+
+AUSTIN: No no no no, AuDy, you are not safe. Cass is safe.
+
+JACK (overlapping): Yeah, that was sarcastic.
+
+AUSTIN: Oh. Okay. So Cass you’re giving him a +1?
+
+ART (overlapping): I’m still here, like…
+
+AUSTIN: Giving them the +1?
+
+ART: Yeah, yeah, +1.
+
+JACK (very faintly, overlapping with Art): Thanks Cass.
+
+AUSTIN: Okay. Give me the 2d6, AuDy.
+
+JACK: Okie-dokie. Uh… 2d6-1, actually.
+
+AUSTIN: But +1 because of the aid.
+
+JACK (overlapping): Oh.
+
+AUSTIN: That’s what that aid did.
+
+JACK: Yeah, so just 2d6. 
+
+AUSTIN (overlapping): Yep.
+
+JACK: Okay. I’m just gonna roll Mind.
+
+AUSTIN: Okay. That’s a nine, that’s partially successfully. Okay, when you… Hit the Street, “When you go to a contact for help, roll Style. 7+: you get what you want.” So the thing that you wanted was to know where the Iron Choir was, right?
+
+JACK (after a moment’s hesitation): Yes.
+
+AUSTIN: Okay. 7-9, you get—
+
+JACK: Does this count as my favor?
+
+AUSTIN: No no no, because you didn’t invent this—uhh. [sighs]
+
+JACK: I think no cause this is just the manner by which I am going to contact Sister Rust.
+
+AUSTIN: No, I don’t think so because Sister Rust is… I think is about—I think in terms of respecting the fiction, this is you inventing a new contact so that you can better leverage that other contact. Right?
+
+JACK (overlapping): Yes.
+
+AUSTIN: Like, imagine Sister Rust was in prison. Right? And you still had a favor with her. You could’ve invented a contact that would’ve gotten you into prison to cash in that favor, right?
+
+JACK (overlapping): Yes.
+
+AUSTIN: So that’s what I think this is, I think this is… This is your inventing a contact for this—your one time this game.
+
+JACK: Okay. That’s cool.
+
+AUSTIN: Mhmm. Write them—let’s name this person.
+
+JACK: Oh, um…
+
+AUSTIN: Oh oh oh oh, Oh oh oh oh, it’s just, it’s… Tungsten. This is Tungsten.
+
+JACK: I was gonna got for Manganese but I don’t even think that’s a metal.
+
+AUSTIN: Um—but um—they don’t know. They don’t know any better really. On a 7-9, you have to choose between two from the list below. “Your request is going to cost you extra. Your request is going to take some time to put together. Your request is going to attract unwanted attention, complications, or consequences. Or your contact needs you to help them with something. If you turn them down take -1 ongoing to this move until you make it right.” So you choose two from that list.
+
+JACK: Okay. I think it’s going to—oh. Um… I—
+
+AUSTIN: Cost you—
+
+JACK: Yeah.
+
+AUSTIN: Go ahead. I’ll paste them in the…
+
+JACK: Can I consult Cass for this?
+
+AUSTIN: Sure. Let me—let’s set up… Let’s set up the situation first, a little bit. So you walk in and this is—I do like—yeah, I kind of like this as… It’s like the inside of the ruins of this ship has been basically emptied out. I think the Iron Choir has actually run it for materials at this point. So it’s just like a big empty… hole. And… Yeah, there is like a shed set up inside of it. Crafted together by, like… Held together by like big giant staples, almost, like industrial staples. And inside of that there is a fire, and… You can hear a guy inside—or you can hear—from inside you can hear… the softest sound of a flute being played, as you walk up. Inside there is… There is a man who’s probably in his forties, let’s say? Older. And carries with him the fact that he lives in these two different worlds. Right? So like, around his neck he’s wearing the symbol of the Iron Choir, just like they had on them.
+
+JACK: What is their symbol?
+
+AUSTIN: Their symbol was… I think it was just like a piece of metal that was in the shape of… I thought it was in the shape an eye, but I might just be projecting something else onto that.
+
+JACK: No that rings bells.
+
+AUSTIN: It rings a bell, but [mumbling] I’m not 100% sure. I have them open over here, so. Oh, right right right right. Yes. It is, in fact… Actually you know what it is? It is… It is an upside-down peace symbol. [Jack sort of laughs] Almost like a Y with an extra line going through it at the top. So, he puts down his flute. Oh—but the rest of his clothing is like, a mishmash of like, some of the rags that they’ve worn but also some of the… But also just like, the sort of fashion that’s—again the kind of working-class Counterweight fashion, you know? Kind of a mishmash of that, so it’s clear that he could fit in anywhere else in Centralia.
+
+JACK (overlapping): Yeah.
+
+AUSTIN: Or not anywhere else, but anywhere else where… You know, middle- or lower-income people can [overlapping with Jack] move through.
+
+JACK: He’d just need to hide the symbol, or…?
+
+AUSTIN: Yeah, if he hid the symbol, he’d be fine. He’d look kind of grody, because of the rags, but like… They’re not—it’s not that they’re dirty rags, it’s that they’re just rags.
+
+JACK (overlapping): Yeah.
+
+AUSTIN: It’s like an old old old T-shirt that’s kind of cut up a little bit, but who even knows maybe that’s just like some gutter-punk  style, like who… Anyway. He looks at you, and like, gives you both a kind of like… Not an evil eye but he stares through you a little bit.
+
+AUSTIN (as Tungsten): [doubtful] Mmmm. One of you’s on the list. Who’s the… Who’s the flesh?
+
+[timestamp - 0:54:46]
+
+JACK: I think I just turn and point at Cass.
+
+AUSTIN (as Tungsten): But who is he*?
+
+[everyone laughs]
+
+JACK (as AuDy): Oh I thought you meant which one of us.
+
+AUSTIN (as Tungsten): No I—it’s pretty clear. [Keith and Ali laugh] That part I understand.
+
+JACK (as AuDy): Cass?
+
+ART (as Cass, explaining very slowly): No, see, I’m a person, and he’s* a robot.
+
+AUSTIN (as Tungsten): I know what he* is.
+
+ART (as Cass): I’m Cass, I work with him*.
+
+AUSTIN (as Tungsten): Alright. Well what is it? What do you need?
+
+KEITH (overlapping with Austin): They’re coworkers.
+
+JACK (as AuDy): We’d like to contact Sister Rust.
+
+[pause]
+
+AUSTIN (as Tungsten): Contact her? She’s… What sort of message you want me to tell her?
+
+JACK (as AuDy): We would like to have a conversation with her, face-to-face.
+
+AUSTIN (as Tungsten): [scornful] Oh. She ain’t coming here. You’re gonna have to go see her. Out on the seabed.
+
+JACK (as AuDy): Could you give us a more precise location?
+
+AUSTIN (as Tungsten): [deep breath]
+
+AUSTIN: So which of the two things are you going to choose?
+
+JACK: I’m going to choose… Uh… I think I’m going to choose… None of these are nice.
+
+ART (overlapping with Jack): Oh.
+
+AUSTIN: No, these are all bad.
+
+ART: I mean, we got time, right?
+
+JACK: Yeah, I was thinking time, and I was thinking… cost.
+
+AUSTIN: Okay.
+
+JACK: I really do not want to do… [Austin and Ali laugh] unwanted attention since that [laughing] seems to be happening already, and I don’t want to do that we need to help them out with something, cause that… Mmm….
+
+AUSTIN: I will always remind you—and this is not to dissuade you from doing this—time is not free. Saying that you “have time” is true, but that—but other things move, when you don’t. So. I just want to be clear, that is not an empty…
+
+JACK (overlapping): I guess the thing is—
+
+AUSTIN: That is not a gimme.
+
+JACK: I guess the other thing is… Are we going to—if we want to take advantage of Sister Rust’s favor, do we want that to happen as early as possible so we can essentially maneuver around her and the Iron Choir as much as possible?
+
+ART: Oh, probably. So is it cost and help? [pause] 
+
+JACK (overlapping): Help—help is—
+
+ART: But help is also time, that’s just time and we have to do some chore.
+
+JACK: Also the problem is that that’s entirely counterintuitive. Like again the only reason we’re taking this favor is making it easier to rob them. That’s like, we’re gonna make it easier to rob them and also they want us to do something…?
+
+AUSTIN: You are—I will say… I will remind you that… Never mind.
+
+[Jack laughs]
+
+ART: Does help have time built into it, like is help just bad twice?
+
+AUSTIN: No, no, help is—you’re basically deferring. Right? Help is saying, “Yeah I’ll do it for you for a favor. I’ll need help with something.” But you can be like, “Mmmm, no, I’m not gonna… I don’t have time for that right now,” and then later… The next time AuDy tries to Hit the Street, they’ll be at a negative. Because they turned this person down. Because they didn’t do this favor.
+
+ ART (overlapping): Sure.
+
+AUSTIN: So it’s kind of like—say like, until you get around to that favor… your reputation is hurt. You know?
+
+JACK: Yeah.
+
+ART: It does feel weird to give out a favor to cash in a favor.
+
+JACK: It does.
+
+AUSTIN: Yeah but think about it in like, Netrunner terms. This is like, there’s an economy happening here, right? So.
+
+JACK: I’m also concerned about essentially… It’s kind of in-character, but I’m kind of concerned about AuDy essentially mandating that the Chime now work for the Dead Metal.
+
+AUSTIN: You haven’t done that. That hasn’t happened.
+
+JACK: I think running an errand for them is…
+
+AUSTIN: [disagreeing] Mmm. It—this is not a favor of the Chime, this person would not be asking the Chime a favor, they’d be asking you a favor.
+
+JACK (overlapping with Keith): Oh… Well, okay.
+
+KEITH: Also we do a lot of things for a lot of people.
+
+ALI (overlapping): Yeah. 
+
+AUSTIN (overlapping): Yeah.
+
+JACK (overlapping): That—yeah.
+
+AUSTIN: Also that.
+
+JACK: We are mercenaries by this point.
+
+AUSTIN: Yes.
+
+JACK: Also, I think I’m going to go for help and cost, because—especially because help, if I’m acting… 
+
+AUSTIN (overlapping): Okay.
+
+JACK: Might play into my directives really nicely.
+
+AUSTIN: Mhmm. He says,
+
+AUSTIN (as Tungsten): Alright, well. It… I was scheduled to make a food run back, the next couple days. How about this, how about you… You escort me back, and you pick up the cost of supplies for the next month? Three credits.
+
+JACK (as AuDy): Deal.
+
+AUSTIN: Alright. He shakes your hand. [amused] Subtract three credits.
+
+JACK: Okay. [pause] I now have two credits. Hope this pays off!
+
+AUSTIN: Christ. Alright. Do you—what do you do with Tungsten? [pause] I guess this is—he says,
+
+AUSTIN (as Tungsten): Alright, I’ll be ready to go first thing in the morning. Or whenever after that you’d like to go.
+
+JACK (overlapping): Oh, god. I’m going to have to talk to everybody, aren’t I? [pause] Uh, okay—
+
+AUSTIN: Cass, how do you take all this?
+
+ART: Not so bad.
+
+AUSTIN: Okay. [everyone laughs] Good. Good. Great.
+
+JACK (as AuDy): Tungsten.
+
+AUSTIN (as Tungsten): Mhmm?
+
+JACK (as AuDy): Look for the ship with the broken left engine. Beside the spaceport. Tomorrow.
+
+AUSTIN (as Tungsten): Sounds good. I’ll see you then.
+
+JACK (as AuDy): Okay.
+
+AUSTIN: You guys leave, and as you walk away you can hear him put the flute back up, and he starts playing something kind of… Very long, sustained notes.
+
+JACK: I just realized that Tungsten has basically just come and visited from season one of Friends atnd the Table?
+
+AUSTIN: Oh, yeah. Yeah, a little bit.
+
+JACK: Which is cool.
+
+AUSTIN: Yeah. He’s been around. Uh… Alright—
+
+ART: We’re gonna find out at the end that it’s just the same world. We’re just gonna run into our characters from season one.
+
+[Jack laughs]
+
+AUSTIN (overlapping with Art): This is a different planet. …Right.
+
+ALI (overlapping): Yesss.
+
+ART: This is what’s on the other end of the Mark of the Erasure.
+
+AUSTIN: [laughs] Alright. Where to now? What do you do? Do you guys go back, and tell…?
+
+JACK: I think we go back. And I think that I tell Mako and Aria.
+
+AUSTIN: How do they react? And how do you phrase it? Give me a specific…
+
+JACK (as AuDy): Cass and I have made a plan.
+
+KEITH (as Mako): Oh yeah, what did you two decide?
+
+[pause]
+
+JACK (as AuDy): Tomorrow we are going to be joined by a representative from the Iron Choir. We are going to escort them to the base of the Iron Choir, in the…
+
+JACK: Is it in the salt plains? In the…
+
+AUSTIN: The seabed.
+
+JACK (as AuDy): The seabed, the seabed.
+
+AUSTIN: You don’t know where that is.
+
+JACK (as AuDy): And there, we are going to have a conversation with their leader. The exact circumstances of this conversation I have not worked out yet, but it will involve a ruse.
+
+[Ali laughs]
+
+KEITH (as Mako): Right up my alley, alright, I’m in.
+
+[Jack laughs]
+
+ALI (as Aria): Wait, you’re just gonna talk to her?
+
+KEITH (as Mako): That’s how I’ve done everything so far.
+
+JACK (as AuDy): Yes.
+
+ALI (as Aria): Wait, but we kidnapped her.
+
+JACK (as AuDy, overlapping with Keith/Mako): Uh...
+
+KEITH (as Mako): That’s a good point, we did kidnap her, she probably won’t like that we’re talking to her.
+
+ALI (as Aria): Yeah, I don’t think that she’s gonna just wanna talk to us.
+3072
+
+KEITH (vaguely as Mako): Yeah. As far as Ali and I are concerned we don’t think that she’ll like us very much ‘cause of when we kidnapped her and that’s all we did.
+
+[Ali and Austin laugh]
+
+JACK (as AuDy): Nobody here needs to worry about everything. [everyone else laughs] Today is going to go phenomenal [indistinguishable over loud laughter].
+
+[laughter continues]
+
+JACK (still overlapping with laughter): And then I think AuDy just shuts down. Just [indistinguishable over laughter]. Just shuts down.
+
+AUSTIN: Alright. Is anyone else doing anything during this legwork segment?
+
+[timestamp - 1:02:08]
+
+KEITH & ALI: Um…
+
+AUSTIN: Either during while Cass and AuDy are gone, or after this scene.
+
+ALI: We should be doing some stuff, probably.
+
+KEITH: What’s the thing that we’re getting again? From…
+
+AUSTIN: Weird little golden orb, is all you know.
+
+KEITH: All we know is a weird little golden orb?
+
+JACK (overlapping with Keith): Potentially explosive.
+
+AUSTIN: From somewhere to the north of… like the galactic north of where you’re at now. From the old Apostolosian like, area, basically.
+
+KEITH: Okay. What’s the dude that we don’t talk to anymore that was kidnapped by them?
+
+AUSTIN: Orth!
+
+KEITH: Worth? Can I talk to Worth?
+
+AUSTIN: Orth, Orth.
+
+ALI (overlapping): Yeah.
+
+KEITH: Orth? Can I talk to Orth?
+
+AUSTIN: Orth Godlove, yeah. Yeah, you can call up Orth, you can definitely…
+
+JACK: This is the first time we’ve talked to him since that whoooole disaster, right?
+
+AUSTIN: I think so. Basically.
+
+ALI (overlapping): No, we probably… chaaat?
+
+KEITH: Yeah. I’m gonna call him up.
+
+JACK: Good luck. [overlapping with Austin] Be careful.
+
+AUSTIN: Okay, what do you… What do you want from him?
+
+KEITH (overlapping): I want the—
+
+AUSTIN: Are you just calling him? You’re just calling him up?
+
+KEITH: Yeah, I’m just gonna call him, and be just like kinda…
+
+AUSTIN (overlapping): Okay.
+
+KEITH: You know, sort of gently probe for information maybe he heard of or saw or knows anything about a golden orb from his stay with them.
+
+AUSTIN: So you wanna know specifically about the golden orb?
+
+KEITH: I would like to know specifically about the nature of the orb, yeah.
+
+AUSTIN (overlapping): Okay.
+
+ALI: No, I don’t think that he would know that. [pause] Sorry. [laughs]
+
+AUSTIN: No. Totally fine to… interject there.
+
+ALI: [laughs] Cause—
+
+KEITH: How does—does intel carry over from one thing to another thing if it wasn’t mission-specific?
+
+AUSTIN (overlapping with Keith): No. You have no more intel, you are out of intel.
+
+KEITH: I’m out of intel? Alright.
+
+AUSTIN: Yeah yeah yeah, that stuff resets from mission to mission.
+
+KEITH: Well, I got nothing else besides this, so I’m gonna just try it.
+
+ALI: Ca—we could talk to Orth about like, how they work…
+
+AUSTIN: You could talk to him about anything. But I have to know what it is before you roll Hit the Street.
+
+ALI (overlapping): Okay.
+
+AUSTIN: So that I know what I can give you. Do you know what I mean?
+
+ALI (overlapping): Yeah.
+
+AUSTIN: Because the way Hit the Street works is, “When you go to a contact for help, roll Style. 7+: you get what you want. 10+: you get a little something extra.” So I need to know if it’s something that he can actually give you or not. You know?
+
+ALI (overlapping): Okay.
+
+AUSTIN: I also need to know… Man. Okay. 
+
+KEITH (overlapping): What?
+
+AUSTIN: He takes your call.
+
+JACK: He hates us, dude.
+
+AUSTIN (as Orth): Mr. Trig.
+
+KEITH (as Mako): Hey! Hey, buddy.
+
+AUSTIN (as Orth): A little late. How you doing?
+
+KEITH (as Mako): Late in a broader sense or late in the evening?
+
+AUSTIN (as Orth): Little bit of both, honestly.
+
+KEITH (as Mako, overlapping some): Oh—s—well, I apologize on two counts. [pause] Do you remember when you were… taken hostage?
+
+AUSTIN: He just blinks at you. 
+
+[pause]
+
+KEITH (as Mako): So yeah. Um… That—[laughs] How much do you know about those guys?
+
+AUSTIN (as Orth): I know a thing or two.
+
+KEITH (as Mako): Um—
+
+AUSTIN (as Orth): What’s this about? Mako?
+
+KEITH (as Mako, rushed): Ahh they got this orb.
+
+AUSTIN (as Orth): I don’t know anything about an orb.
+
+KEITH (as Mako): You don’t know anything about an orb? [pause] They—w—okay. So they have—
+
+AUSTIN (as Orth): I shouldn’t even be talking to you right now Mako. You almost got me fired.
+
+KEITH (as Mako, overlapping): Ah, listen. That wasn’t all… me…
+
+AUSTIN (as Orth): You broke into my office.
+
+KEITH (as Mako): That’s—we did do that. But that was li—that was for real only to save your life. Which worked!
+
+AUSTIN: He shakes his head.
+
+[pause]
+
+AUSTIN (as Orth): I—hmm. I don’t anything about an orb. Okay?
+
+KEITH (as Mako): Do you—about like, okay but so, they don’t like technology or whatever or you know, jacking in or stuff. [Art laughs] Do they have any sort of like… Weirder sort of thing that they might be into? Like any sort of technology spooky stuff maybe?
+
+AUSTIN (as Orth): I didn’t get a chance to uh, to do much anthropology, while they had a gun to my head. Mako.
+
+KEITH (as Mako): Well you said you knew a thing or two, or I wouldn’t be asking.
+
+AUSTIN (as Orth): Yeah. I—honestly…
+
+AUSTIN: Give me a Hit the Street roll.
+
+KEITH: Alright. Is that Edge? What is that?
+
+AUSTIN: It is Style.
+
+KEITH: Style. Great.
+
+AUSTIN: Yeah you’ll see on your sheets, all of the basic moves have the thing that it is.
+
+KEITH: Ten!
+
+AUSTIN: Ten. Nice. Alright, on a 10+, you get what you want and a little something extra. Do you want intel or gear?
+
+[pause]
+
+KEITH: Intel.
+
+AUSTIN: Okay, that makes more sense here anyway. He says,
+
+AUSTIN (as Orth): Alright I’ll tell—ugh. Wugh.
+
+KEITH (as Mako, imitating): Ugh.
+
+AUSTIN (as Orth): Alright, I’ll tell you what I know about the Dead Metal, and then… We’re done.
+
+AUSTIN: Or sorry not the Dead Metal.
+
+AUSTIN (as Orth): The Iron Choir, and then… We’re done.
+
+KEITH (as Mako): Got it.
+
+AUSTIN (as Orth): You know, they live out in those dry lands west of Dome 32. Out in the seabed. [pause] My understanding… is that… That there’s a bit of a blockade keeping them from the central domes these days. [pause] OriCon has stepped up their military presence in the region. And… things are getting a little—from what I understand—dire, for the Iron Choir. Don’t! It was not an intentional rhyme. 
+
+[pause]
+
+KEITH (as Mako, amused): It’s okay, Orth, I’m not on your case about rhymes anymore. That was the old me.
+
+[Ali and Jack laugh]
+
+AUSTIN (as Orth): I’ll send you everything else I know, just… Just don’t—just don’t call me.
+
+KEITH (as Mako): Ever?
+
+[pause]
+
+JACK (softly): I owe him money, but, do I…
+
+AUSTIN: And he hangs up. He gives you a look, and then he hangs up.
+
+[timestamp - 1:07:24]
+
+ALI: Does Orth really not like us that much?
+
+JACK: That mission did not go well. [laughs]
+
+ALI: I saved his life! [laughs] I feel like it—
+
+AUSTIN: He really liked Laris and she just doesn’t work across the hallway from him anymore. He can’t like hang out with her at lunch, you know?
+
+ALI: She get—you know what. Okay. I’m gonna call Orth later.
+
+ART: I like the idea that each mission one of us will call Orth and find out how he feels about us individually.
+
+[everyone laughs]
+
+AUSTIN (laughing): “Hey! Cass! How you doing?” Yeah. Alright—
+
+ALI: No I’m just gonna call him later and be like, “Mako said that you were like really short with him? I thought we were cool.”
+
+JACK: Oh, before we meet—
+
+ALI: “Orth let’s go to lunch!”
+
+KEITH: Brunch, he—no, brunch. Get him a—he wants waffs and fries, that’s his thing. 
+
+[Ali laughs]
+
+AUSTIN: Mmm. Okay. What were you gonna say, AuDy?
+
+JACK: Oh, before we meet Tungsten tomorrow, might it actually be a good idea to discuss a potential plan with someone like Cass who’s actually really good at planning?
+
+ART (overlapping with Austin): Wait I have—
+
+AUSTIN: Sure. That’d be a great plan. That’d be a good idea.
+
+ART: I also have other legwork things.
+
+ALI (overlapping with Austin): Yeah.
+
+AUSTIN: Okay, let’s go to Aria and then to Cass, because Aria also has this downtime between—before you guys get back.
+
+JACK (overlapping): Oh yeah.
+
+AUSTIN: So what—what’s up Aria?
+
+ALI: Oh would it be in this—cause I feel like…
+
+AUSTIN: It’d be whatever you want.
+
+ALI: Is sea—
+
+KEITH: How much—
+
+ALI: Is “seabed” a word that we would know? Like is than an area that…
+
+AUSTIN: So he gives you… With the information that Orth gives you, you understand that it is to the west of the Westshore Dome. It is in fact, somewhere out near where that abandoned dome is. That is the area called the seabed.
+
+ALI: Okay.
+
+AUSTIN: That used to be—so on the map, for people who aren’t listening, there’s kind of a clear continental divide. On the map. Where there’s like a landmass to the right, and then this big weird crater-y area. That used to be an ocean.
+
+ALI: Ooookay.
+
+AUSTIN: All of that. And that is now just a desert. And the further out you get, the deeper it gets, the more cavernous it gets. And that area is just called the seabed.
+
+KEITH: How much more legwork can we do before we start like getting into trouble?
+
+AUSTIN: I think everybody—you know, you tell me what you want, but again, legworks are, one, invitations to… fuck up, and… you know, increase the legwork and then the mission clock—or the action clock. And then the other thing is just like, eventually we just have to respect the fiction and say “Well okay this is gonna take you some extra time.” So like that quick call to Orth only takes you a little bit, but like if you wanna go investigate something somewhere besides a phone call, that’s gonna take a lot longer. You know?
+
+KEITH: Right.
+
+AUSTIN: And also like, you have to sleep tonight, presumably. You don’t want to go… into this mission without having slept, so.
+
+ALI (overlapping): Right.
+
+AUSTIN: Think about it that way. Just try to respect the fiction. Aria, what do you wanna do?
+
+ALI: I’m trying to remember what all of my… like, things are?
+
+AUSTIN: So you can—so again, you can—on your character page, all of the basic moves are under your stats list. And then there’s a thing in your handout section underneath your—the characters thing called “basic moves”—let me check. Yeah, it’s Asses, which lets you study a person, place, or situation; it’s Research, which lets you investigate a person place or object or service using a library, dossier or database or a combination thereof; and it’s Hit the Street. Those are the big ones. Assess you would have to be at the place that you want to assess.
+
+ALI: Right. Yeah. Um… So I just feel like we should know… Actually, so, with that like video or whatever… that he showed us…
+
+AUSTIN: Yeah.
+
+ALI: Would it be reasonable to say that like—no…
+
+AUSTIN (overlapping): Go ahead.
+
+ALI: I mean, for us to like describe it someone or like that we… He like sent us the gif [Austin overlapping] so if I wanted to go to a guy… Yeah.
+
+AUSTIN (overlapping some): Yeah you could totally… You could totally invent a contact and go to them to ask them about what it is.
+
+ALI: Okay.
+
+AUSTIN: Yeah, totally. Totally. You could totally do that.
+
+ALI: Just to learn more about like what this actual thing is. 
+
+AUSTIN: Yeah.
+
+ALI: So yeah, I… [pause] Who would I know…? I don’t [laughing] know. I feel like—there are those like shows where people like have stuff in their basement and they like go see a guy [laughing] to see how much it would be worth, like [laughs].
+
+AUSTIN: Totally. 
+
+ALI: Just like, one of—
+
+AUSTIN: Just like your Pawn Stars like expert, [Ali laughs] like person who knows about old artifacts?
+
+ALI: Yeah just like a guy who like, he probably runs like an antique shop?
+
+AUSTIN: Sure.
+
+ALI: Like in the middle of Centralia that’s like, “Oh, it’s all these goods from like, all these different…”
+
+AUSTIN: Is this a person who focuses on Apostolosian stuff specifically? 
+
+ALI: No, think that—like the reason he’s successful there is cause he’s like “Oh it’s all of these different cultures, just like this planet.”
+
+AUSTIN (overlapping): Okay.
+
+ALI: And people are like “Whatever I just wanna get this gift for my wife.” [laughs]
+
+AUSTIN: Uh-huh. Good. Perfect.
+
+ALI: So…
+
+AUSTIN: Alright. Let’s get a good name… This is… This is Caleb, Caleb something. Where do—where is Caleb from? Which… kind of, cultural background, is Caleb from?
+
+ALI: Counterweight was…
+
+AUSTIN: Counterweight was Apostolosian, and now it’s a weird mix of… everything.
+
+ALI: Um… Let’s say he’s Apostolosian. I guess that makes sense.
+
+ART: Someone’s trying to prove something.
+
+[Ali laughs]
+
+AUSTIN: So then lets say then actually like, their name is Caleb, but like, there’s probably some more Greek version of Caleb that it actually is. Whatever the old… Greek etymology of Caleb is. But they just go by Caleb. That’s—that works.
+
+ALI (overlapping, sympathetic tone): Yeah.
+
+AUSTIN: It is Chaleb, actually, is what it was. In biblical Greek, anyway. But yeah, Caleb.
+
+ART: Oh it’s not like… It’s not like super Apostolosian so it’s like Caleb-blub-blub-blub-blub?
+
+[Keith and Ali laugh]
+
+AUSTIN: Like a fish, is that what you’re saying? Like “blub” like a fish?
+
+KEITH (overlapping, laughing): Yeah.
+
+ART (overlapping): Yeah, like a fish.
+
+AUSTIN (overlapping some): Like a fish. I got it. Great.
+
+ART: It’s okay if I say it.
+
+AUSTIN: Cause you—[laughs]
+
+[Keith laughs]
+
+AUSTIN (amused): Okay, good. Alright.
+
+KEITH: As long as it’s “okay if you say it,” that’s alright.
+
+AUSTIN: Give me a—just give me a Hit the Streets check. Aria.
+
+ALI: Which is…?
+
+AUSTIN: Which is Style.
+
+ALI (overlapping): Style. Yeah.
+
+AUSTIN (overlapping): Yeah.
+
+ALI: That’s what I’m good at.
+
+[pause]
+
+JACK (overlapping with Austin): Okay.
+
+AUSTIN: Alright, eight. That’s okay. So you want details about that—the thing.
+
+ALI: Yeah.
+
+AUSTIN: About the sphere. Right? Alright, so… 7-9: you have to choose two from the list below. Again, request is gonna cost extra, it’s gonna take some time to put together, you’re going to attract unwanted attention, complications, or consequences, or your contact needs you to help them with something.
+
+[pause]
+
+ALI: Um… [laughs] I… I guess I’ll go… Oof. Attention’s so not even on the table. [Jack laughs] So I guess I’ll go with the same as what AuDy did, so it’ll cost and… they’ll want a favor.
+
+AUSTIN: Okay. Wait, what was the—oh, so cost, okay. Uh… Caleb is like… Caleb is thrilled to see this thing. Is very like, bubbly about it. [pause] I think Caleb is actually kind of young? Is like an antiquer but is like… Inherited this business from their parents. And is like,
+
+AUSTIN (as Caleb): I haven’t seen one of these in… [stammers] I haven’t seen one of these ever. I haven’t seen anything like this ever in person. But I… [sighs] 
+
+AUSTIN: He* like, tap tap tap, like, type type type type type type type type type. [faint typing sounds] Type type type.
+
+AUSTIN (as Caleb): There is a… There’s a database with information of things like this. And the thing is, there is… Things have been rough, and [lowering voice to a whisper] I don’t have access to that database right now, and it’s like, it’s one of those for-cost things? Where like it costs… You know. It costs kind of a lot money, to get access, to get that information, and that would just be—it would be cool to have access to that stuff in general. So, there’s an extra fee for this information. It’s a processing fee, obviously. Uh, two credits. And you know it’s just, it’s one of those things where if I start looking into this stuff, I get, you know, my name gets on some lists, and then there’s—I, you know. So I’m gonna need someone to go into the CCT databases and make sure that it’s—that there is no direct connection between this search and my name. Do you have people—you have pe—Aria. You have people. Who can take care of that.
+
+ALI (as Aria): Isn’t… your business like reliant on this though?
+
+AUSTIN (as Caleb): You know, it’s one of those things when… When my parents died I didn’t re-up on the database. Now it’d just be a lot of money extra… [Ali/Aria sighs] It’s been hard, Aria.
+
+ALI (as Aria): No, I understand. Let’s just… Okay. Fine. I’ll help you out. But. If I come here again I’m not.
+
+AUSTIN (as Caleb): No no no no no no no no no.
+
+ALI (as Aria, overlapping): Yeah.
+
+AUSTIN (as Caleb): No no no no no.
+
+ALI (as Aria): Just a one time…
+
+AUSTIN (as Caleb): Of course, of course, of course.
+
+ALI (as Aria): I want you to do well. You know? And…
+
+AUSTIN (as Caleb): Just make the transfer and we’re good.
+
+ALI (as Aria): Yeah. Okay.
+
+AUSTIN (as Caleb): Okay. [pause] I’ll send it right over. Send it over as soon as it’s ready.
+
+ALI (as Aria): Okay.
+
+AUSTIN (as Caleb): Have a good night! Bye!
+
+AUSTIN: He* leave—he* locks the door. [laughs]
+
+[Ali laughs]
+
+AUSTIN: Um—
+
+ALI: The implication that I was trying to say there is that like, he* owes me one.
+
+AUSTIN: Okay.
+
+ALI: So like—yeah. [laughs]
+
+AUSTIN: He* doesn’t, but like… [Ali laughs] He* doesn’t think he* does, anyway. You get—he* sends you over some information later. It is in fact not from Apostol—an Apostolosian planet. It is from the north, but it is not—it doesn’t bear the marks of Apostolos at all, actually. In fact, you see that it… It’s… Looks like it’s something from the planet Ziishe, which I’ll move you guys back over to the Golden Branch Star Sector.
+
+JACK: Oh, no.
+
+ALI: Oh, boy. 
+
+AUSTIN: Ziishe is the planet to the northeast that—in-character you don’t really know anything about that place I don’t think. Other than like, “Oh it’s another weird… culture.” Like as far as you know like… Wasn’t—Apostolos used to hold Apostolos, Torru, Zaalhaut, and maybe Kesh? Maybe? But they never had Ziishe as far as—as long as OriCon and the Diaspora have been in the region. And Ziishe is… A kind of weird black box as far as you all know. You know that they’re like, pretty technologically advanced. You know that they have like… A pretty… A pretty stable society as far as you understand, and they kind of tend to be isolationists. But you get a better picture of the orb. And you get a version of… the gif that you have that’s complete. It is not an explosion in fact. It—or… It is a sort of explosion, but it doesn’t destroy things. It like… The fog that’s around it clears? And… after it kind of does its explosion, you see that there is like… And it’s hard to put this together, and I’m cautious about giving it to you cleanly. But, the fog disperses. And… what’s revealed is… a kind of… crisp… picture of a little stream. And the ball kind of… collapses, and rolls down a little grassy hill into the stream, and then the loop kicks back up.
+
+ALI: Okay.
+
+AUSTIN: It’s very weird. [Ali laughs] It’s very strange.
+
+JACK: Mmm.
+
+AUSTIN: Alright. What do you do? Someone else felt like—someone else wanted some legwork, maybe Mako?
+
+JACK (overlapping): Ohh, uh—
+
+AUSTIN: AuDy too?
+
+KEITH (overlapping with Art): No I—
+
+ART: I was thinking of doing some.
+
+JACK: Oh yeah.
+
+ART: But I think I what I was looking for.
+
+AUSTIN: Let’s go to Cass if you want anything else, because you helped with AuDy’s but you’re the only one who hasn’t specifically done anything of your own.
+
+ART: I was gonna—I was thinking of doing some research?
+
+AUSTIN: Sure. [pause] What do you want to research?
+
+ART: Uh… Yeah I’m not exactly sure where I think this information would come from although I guess if it’s from… If it’s from our edge of space, maybe it’s on the Apostolosian…
+
+JACK: Mmm.
+
+ART: …net.
+
+JACK: Mmm.
+
+AUSTIN: Do you log in to the Apostolosian net?
+
+ART: Yeah, what’s the worst thing that could happen?
+
+AUSTIN: If you do—
+
+KEITH (overlapping with Austin): No Art don’t say that. [laughs]
+
+AUSTIN: If you do I will advance a clock. 
+
+ART: Sure.
+
+AUSTIN: Okay.
+
+JACK: Oh god.
+
+AUSTIN: Also mark experience. 
+
+KEITH: Wait which clock?
+
+AUSTIN: I didn’t say, and he said “Sure.” So I get to decide.
+
+ART: Mark experience?
+
+AUSTIN: Yeah because this is you… This is…
+
+ART: This is “Rejected”?
+
+AUSTIN: Yes. This is, “When your former membership in the Apostolos royalty hinders the mission, mark experience.” So legwork is going to advance. [pause] To 21:00. 
+
+ART: And then it’s—what is it? It’s… Mind.
+
+[pause]
+
+AUSTIN: What?
+
+ART: The roll. For intel.
+
+AUSTIN: Oh yeah it’s Mind. Yes. Yes yes yes. I just wanna make sure that—I don’t think the action clock moves up yet. [pause] Let’s finish this out and then I’ll tell you what happens when you… make this. Oh so you got a seven.
+
+ART (overlapping some): Oh! We can do it in whatever order yeah.
+
+AUSTIN: We’ll—let’s do this first. Let’s play this out first and see what we’re left with. So when you roll a 7-9 on Mind… take intel. I will answer… your question. If you’d gotten a ten or above I would have answered your question and a follow-up from the list. What is your question?
+
+[pause]
+
+ART: Uh… I was really kinda counting on that follow-up question which considering I have a +0 on Mind was [Austin laughs] silly.
+
+AUSTIN: Yeah that’s—yeah, well. You know. You did alright. [pause] You can base your question off of one of those questions.
+
+[pause]
+
+ART: Oh it doesn’t have to be on that list.
+
+AUSTIN: It does not. Your question can be a question. And then the follow-up has to be from that list. Would have been from that list. 
+
+ART: Oh no the move says it has to be from the list but we can go with…
+
+AUSTIN: Oh, does it? My bad, my bad.
+
+ART: Uh…
+
+AUSTIN: Oh yeah, you’re right. So those questions are, “Where would I find blank?”, “How secure is blank?”, “Who or what is related to blank?”, “Who owned or employed blank?” “Who or what is blank most valuable to?” and “What is the relationship between blank and blank?”
+
+ART: Who owned or employed blank?
+
+AUSTIN: And what is blank?
+
+ART: The orb.
+
+AUSTIN: The Rapid Evening, a group that Apostolos has dealt with… now and then, throughout its long history. For a long time they were trading partners. They were—for a long time they weren’t called the Rapid Evening. For a long time they were just… another… another coreward culture that lived more or less in stalemate with Apostolos. And then… some events that are kind of foggy—you get like second- and third-hand references to them. Sort of how like—you know how we would talk about like, “Oh, D-Day.” Cause these are old papers, right? Cause this is like again like reading a paper from the twentieth century about the bombing of Hiroshima or D-Day. Where you don’t have to say more than that to understand what those things mean. But as if that paper was written—but like now it’s… Imagine it was five hundred years ago. Do you know what I mean? It’d be like me saying like, “Oh you know the Third Crusade,” and you’re like “Uhhhh which one is that again? Is that the one with the kids? I don’t really remember. I know there was one with the kids.” 
+
+AUSTIN (continued): So there’s a reference to that and like after that, culture kind of turned, and a faction called the Rapid Evening took over, and they… You’re able to kind of match up the clearer image that Aria produced with the—with like some… documents about their technology and it’s not—it doesn’t really understand what the functioning is, there’s lots of just like… There’s lots of phrases that could mean anything? Where it’s like, “Most of the technology of—that the Rapid Evening deploys—you know, is… well-advanced of Apostolosian—of current Apostolosian technology, but it is limited in… unpredictable ways.” Or like, “Some of their technology has to do with the creation of new material and other with the destruction of material and others with the transportation of material,” and it’s like, “W—that’s just—yeah, technology does that stuff, like that’s just what technology does. Like w—yeah.” 
+
+AUSTIN (continued): So it’s very… It’s written from a pretty uninformed perspective, that’s trying it’s best to be like a detached academic but doesn’t have enough to go on. There’s also just like a feeling that this is… That there is a degree of this that is just like… There’s almost like a mysterious exoticism happening in some of the stuff that you read, where it’s just like, “If only we could have their technology, we could—the mysterious Rapid Evening, if only we could leverage what they have, if only we could take advantage of that technology.” There’s also a spattering of just like… You know, “Their culture clearly emerged from Ap—from the roots of Apostolos itself, and like, we can sort of claim that this thing is ours, even though it super isn’t,” you know?
+
+ART: Sure.
+
+AUSTIN: So that’s who—
+
+ART: Like empires do.
+
+AUSTIN: Right, like empires do. [pause] You log out, you click to log out, and see that underneath there was a pop-under [laughs] of the database you were logged into. And it says like… What’s Cassander’s full name?
+
+ART: Cassander… Ale—uh, Timaeus…
+
+ALI: Berenice.
+
+JACK: Berenice.
+
+ART & AUSTIN: Berenice.
+
+AUSTIN: It says, “Cassander Timaeus Berenice! You’ve been chosen! Click here to—!” And you like, “I can’t, let me just click o—“ and you click it by mistake. It’s like a fake X, you hit the fake X, in the—fake holographic X. And the action clock advances one.
+
+JACK: Oh god.
+
+AUSTIN: There’s a—you’re a—whatever your device is that you’re using, has a weird thing installed in it now that you can’t quite—it can’t get—you can’t figure out how to get rid of it. You reset your weird future phone a few times, you try to delete it, it keeps reinstalling itself. And you eventually click down into like the… You know, you go into—you search around for other people who have this problem, and you find the name of the—what the executable actually is. And it’s like, “LDA Track V3.2.” And it seems like it’s a Liberty and Discovery Automatic Corp application. And it’s just tracking your device right now.
+
+ART: Great.
+
+AUSTIN: Yeah it’s good. Anybody else have anything before we move into the next morning?
+
+[timestamp - 1:26:33]
+
+JACK: Oh, yes, I need to talk to Cass, or…
+
+AUSTIN (overlapping): Okay.
+
+JACK: Anybody needs to—anybody is more than welcome.
+
+AUSTIN: You need to have like a group talk about what the fuck you’re doing?
+
+JACK: Yeah.
+
+AUSTIN: Okay, sounds good.
+
+JACK: Okay.
+
+KEITH (as Mako): Hey, team.
+
+ALI: Cass should probably make a plan?
+
+AUSTIN: Sure.
+
+JACK (ambiguously in-character as AuDy): Yeah, Cass… So as far as I’m concerned, we are able… Sister Rust owes me a favor. [Keith/Mako gasps dramatically] And how we’re going to—
+
+ALI (as Aria): That’s weird.
+
+KEITH (as Mako): That explains all those questions of ours you’ve been dodging!
+
+JACK: Oh no I didn’t say that, this was me thinking it through.
+
+AUSTIN (laughing): Okay!
+
+[Keith laughs]
+
+JACK: I guess… I guess?
+
+AUSTIN: Yeah, sure, it’s up to you, totally up to you.
+
+JACK: S… [resigned tone] Oh, no I should probably say, shouldn’t I?
+
+AUSTIN: It’s up to you!
+
+JACK: I think it’s gonna make it easier, I think it’s gonna make it easier if the entire team goes  into this knowing.
+
+AUSTIN (overlapping with Jack): Okay.
+
+JACK: Okay, so—
+
+KEITH: I think AuDy would be surprised to find how forgiving we can be.
+
+ALI: Yeah.
+
+AUSTIN (doubtful): Mmmm.
+
+ALI: We’re your friends!
+
+AUSTIN (doubtful): Mmmm.
+
+ALI: And coworkers.
+
+AUSTIN: Okay.
+
+JACK (as AuDy): We can ask Sister Rust to do something for us, and she will do it.
+
+KEITH (as Mako): Why is that?
+
+ALI (as Aria): Yeah doesn’t she really not like us?
+
+KEITH (as Mako): Doesn’t like any of us cause we all—all we did was kidnap her.
+
+ALI (as Aria): Yeah.
+
+JACK (as AuDy): [pause] Yep.
+
+ART (laughing, ambiguously as Cass): That’s a weird way to phrase that.
+
+[Jack and Keith laugh]
+
+JACK (as AuDy): Trust—
+
+ALI (as Aria): Also Mako had that whole long standoff with her, like, if this is your plan it’s not gonna work.
+
+KEITH (as Mako): Yeah, asking her for a favor after we kidnapped her and then nothing else… 
+
+JACK (as AuDy): You need to trust me. We’re going to be fine. We need to… swindle this woman. And steal the object.
+
+KEITH (as Mako): I’m like 100% into swindling.
+
+JACK (as AuDy): I’m curious as to—
+
+KEITH (as Mako): But I don’t think—I think we’re gonna start off on the wrong foot.
+
+ALI (as Aria): Yeah. Mako’s the swindler here, like, you should be going by his advice.
+
+JACK (as AuDy): Okay.
+
+ALI (as Aria): You seem really confident with this.
+
+JACK (as AuDy): I am. You need to trust me.
+
+ALI (as Aria): I do trust you, but… Okay.
+
+KEITH (as Mako): I don’t trust anyone, not even myself. The things I know.
+
+ART (vaguely as Cass): God.
+
+JACK (as AuDy): We could tell Sister Rust… We could ask Sister Rust to tell us the location of the device. Or… we could tell her… We could force her to reallocate assets, making our job easier.
+
+KEITH (as Mako): Now you said “force.” “Force” is a good word ‘cause there’s no way she’ll do what we say.
+
+[Jack laughs]
+
+JACK (as AuDy): I feel like we’re getting hung up on the technicalities here. Technicalities like trusting people and things. We need to… Essentially, Cass, what is going to be most useful to us? As the planner?
+
+ART (as Cass): I think our best shot is to cash in your… your… thing. 
+
+AUSTIN: Favor, it’s fair.
+
+ART (as Cass): Favor. To cash in your favor, to have her offer some—
+
+JACK (as AuDy, overlapping with Art/Cass): Cass!
+
+KEITH (as Mako): Wait what favor?
+
+ALI (as Aria): Yeah, wait. Wait a minute.
+
+KEITH (as Mako): Hold on. Does someone owe someone a favor?
+
+ART (as Cass): Save all questions for the end.
+
+KEITH (as Mako): Oh.
+
+[Austin laughs]
+
+ART (as Cass): We’re working here. You should pr—I don’t know, I’m just gonna throw this out. You should say that you need help with something, you need protection. And what you need protected… is… I don’t—I—maybe our office, maybe the ship, maybe a hangar.
+
+KEITH (as Mako, overlapping): A favor, you need a favor protected.
+
+ART (as Cass): We need protection somewhere. So that we can get her security away from the object.
+
+JACK (as AuDy): That sounds good.
+
+AUSTIN: Okay.
+
+JACK (as AuDy): Do we need to know where the object is?
+
+AUSTIN (laughing): Yes!
+
+KEITH (as Mako): To steal it?
+
+JACK (as AuDy): No, I mean—jeez, is this a thing.
+
+AUSTIN: [laughs] Yes. Your team—at some point…
+
+JACK (as AuDy): No, is it worth gaining the location of the object from Sister Rust?
+
+ART (vaguely as Cass): Yeah maybe that’s better. I like my plan, but it doesn’t work because they don’t have… I was like “Oh no we’ll just have Mako hack in,” and like no, that’s not—we’re not—they don’t.
+
+ALI (vaguely as Aria): Well we can tell her… 
+
+AUSTIN (overlapping): We need—
+
+ALI (vaguely as Aria): I mean we’ve had weird tails all week, we could just tell her that they’re being tailed too?
+
+ART: I thought it was only us that was…
+
+ALI (overlapping with Jack): I assumed that you told us about that.
+
+JACK (overlapping with Ali): Also we don’t want her accidentally boost her security.
+
+[pause]
+
+ART: Yeah.
+
+AUSTIN: We need to get off the boat guys.
+
+ALI: Yeah.
+
+JACK: Yep, okay.
+
+AUSTIN: You don’t have enough—so, Cass. If this is the plan, it’s time to assign tasks. What are those tasks?
+
+ART: Okay, so instead our plan is we’re gonna just get her to… tell us where… what’s—aghh.
+
+AUSTIN: There’s not a plan. I don’t think you have a plan.
+
+ART: Well then I can’t use the plan mission.
+
+[Ali laughs a bit]
+
+AUSTIN: Or if you do then you can but then you have to give tasks—again so the way your Here’s the Plan move works is you assign a task. It sounds like you have a little bit of that.
+
+JACK: Mmm.
+
+AUSTIN: But you have to do that when you plan the mission, which is now. The second the mission starts I think it’s post-planning.
+
+ART: Alright I think—agh, what is Mako do with this plan when he can’t do his thing?
+
+KEITH: I’m a good sneaker, and a good liar and talker. I’m also good at shooting still.
+
+ART (overlapping): Are you a good liar and talker now?
+
+KEITH: Yeah! Not as good.
+
+ALI: He’s the swindler.
+
+KEITH: I went from being like incredible at charisma stuff to now I’m like only okay at it.
+
+AUSTIN: But when he succeeds he can succeed in a real nice way.
+
+KEITH: Yes.
+
+AUSTIN: Cause of his infiltration stuff.
+
+ART: Okay. Uh…
+
+KEITH: When I’m in the Matrix—[amused] which is not helpful here, I get that—
+
+AUSTIN: The Mesh, the Mesh.
+
+KEITH: When I’m in the Mesh… I can succeed… I’m better at succeeding.
+
+AUSTIN: That’s not gonna come up, probably, because of the Dead Metal stuff.
+
+KEITH: Right. Unless they’re liars and they’re secretly even more metal than the normal.
+
+AUSTIN (overlapping with Keith): Right. Who knows.
+
+ART (as Cass): Alright. I need to go with AuDy because we’re the people they saw earlier.
+
+AUSTIN: Sure.
+
+ART (as Cass): Mako. You need to be… Use your… What’s the… What’s the name of the hover—Saturn’s Ring—to…
+
+KEITH (as Mako, overlapping): Ring of Saturn. Flyboard.
+
+ART (as Cass): Rings of Saturn, yeah, I’m so sorry.
+
+KEITH (as Mako, overlapping): My tech deck.
+
+ART (as Cass, overlapping): I know this is an important brand—
+
+KEITH (as Mako): My technology deck.
+
+AUSTIN: To do what?
+
+ART (as Cass): You need to use that mobility to be like on-call and get the orb.
+
+AUSTIN: Like a sh—okay. That is a task. That is a good task you gave. Good.
+
+ART (as Cass): Yeah. And I think Aria’s task is to use the… Aria I think is heavy weapons. 
+
+JACK: Hmm.
+
+ART (as Cass): I think you’re gonna either be diversionary, or… potentially brute force.
+
+ALI (as Aria): Are we taking the ship?
+
+ART (as Cass): We’re taking the ship.
+
+JACK (ambiguously in-character): We need to take the ship, to act as an escort, Tungsten needs an escort.
+
+AUSTIN: And to bring the food—yes.
+
+ALI (as Aria): Are all of us gonna be on the Kingdom Come or should I leave the Kingdom Come with the Brilliance and like follow you?
+
+ART (as Cass): You should take the Brilliance and follow us and be prepared to use the Brilliance to mess things up, that’s your task to do destruction with the Brilliance.
+
+ALI (as Aria): Okay.
+
+AUSTIN: And AuDy’s?
+
+ART (as Cass): Uh… AuDy. You need to trick these people into giving us the location of… the item. And to re—and to allocate security as far away from that as possible. 
+
+ART (cont): Do I get a task?
+
+AUSTIN: No. I don’t think so, I think it’s too much, if you also get a task here. I think we went the other way last time and it fairly clearly was just like, [doubtful] “Mmmm.” [Ali laughs] It’s already a really good fucking move.
+
+[timestamp - 1:34:04]
+
+ART: Sure. So I’m gonna roll for this.
+
+AUSTIN: So here’s the other thing that we didn’t—no. This is not a roll. You roll for the second thing.
+
+ART: Oh. Right.
+
+AUSTIN: The other thing that we didn’t do last time is, if anyone fails a roll, they lose that bonus.
+
+ALI (overlapping with Jack): Whaaaaaat?
+
+JACK (overlapping with Ali, kind of laughing): Oooof.
+
+KEITH: So the first fail we roll, bonus gone?
+
+AUSTIN: You particularly lose that mission—or that bonus rather.
+
+ART: Anyone who rolls a miss or goes off the plan.
+
+ALI: Okay.
+
+AUSTIN: Right, yes, yes. Which means if you go off the plan and get back on it you don’t then get that mission back. The other thing Art, Cass rolls… At the start of a mission roll Edge, and that’s when you get that hold that you can spend to do cool shit.
+
+ART: Yeah.
+
+AUSTIN: So let’s do that.
+
+ALI: Can I suggest something really crazy before we like solidify this plan?
+
+ART: Sure.
+
+ALI: There was like the extra security outside of the…
+
+AUSTIN: Yes. OriCon has like a no-fly zone in effect.
+
+ALI: Should I like… try to like… attr—bring the Brilliance to where they are? Like “Oh we’re attacked…“
+
+ART (overlapping with Ali): Yes. 
+
+ALI (overlapping with Art): Okay.
+
+ART (overlapping with Ali some): The Brilliance should be as close to there as possible.
+
+ALI: No I mean like, get OriCon to like, come, guns a-blazing, to…
+
+JACK (overlapping with Art): Oh, god.
+
+ART (overlapping with Jack): Oh, that’s clever.
+
+ALI: To the Seabed, and then they’re like “Oh we’re being attacked,” and then… that gives us like time to steal it in the shuffle.
+
+ART: Yeah I like that. I think it’s a good slash potentially ruinous idea. That’s how I like our plans.
+
+AUSTIN (overlapping with Art): Okay.
+
+JACK: This is giving me flashbacks to us trying to get the Apostolosians in—when we were fighting the Iron Choir last time. [pause] When we flew off to try and draw their fire?
+
+ALI: Oh, yeah. [laughs] 
+
+AUSTIN:  Okay. Let’s do it.
+
+ALI: We are perhaps the worst… [laughs]
+
+AUSTIN: No this is all good.
+
+ART: We’re not super good at making people work against each other. Everyone just ends up working against us. 
+
+[Jack laughs]
+
+AUSTIN (overlapping with Art): Give me…
+
+ART: It’s like, remember Hadrian had that move where he could tell people what to do or they’d attack him, that ended up just being like a taunt.
+
+AUSTIN: Yes.
+
+ART: That’s all it ever did.
+
+AUSTIN: That was useful. Give me the roll. Give me the I Love When a Plan roll so we know your hold is. 
+
+ART: Boom!
+
+AUSTIN: Nice, ten. So take three hold but you can spend one hold for cool things. "You have a piece of gear that you need right now, you appear in a scene that you need to be in right now.” Does anybody else have any—
+
+ART: I think we might also end up using my Exit Strategy move but we’ll get to that later.
+
+AUSTIN: We’ll see. Does anybody else have a pre-mission move? Before we move on?
+
+KEITH: I don’t think that I do.
+
+AUSTIN: I don’t think so either.
+
+ALI: I don’t think that this mission works with my vision.
+
+AUSTIN: No, probably not. Not yet anyway. Okay. So, it’s the next morning. The sun rises and we advance into the action phase. You… get a knock on the side of the cargo hold. And it’s Tungsten. Behind Tungsten are a row of… J-M units, carrying in big pallets of food, like rations. And they load them into the bay, once you open up.
+
+JACK (as AuDy): Please come aboard, we’re preparing to depart.
+
+AUSTIN (as Tungsten): Sounds good.
+
+JACK (as AuDy): Are we anticipating any difficulty on our route to the Seabed?
+
+AUSTIN (as Tungsten): I think as long as you run down the track you’ll be fine.
+
+JACK (as AuDy): Do you wish to fly with us in the cockpit or are you going to give us directions?
+
+AUSTIN (as Tungsten): No, I’ll fly up front. [MUSIC - “The Long Way Around” starts] I like this thing, it’s not—I don’t—I thought it’d be louder in here.
+
+JACK (as AuDy): I try to keep it as quiet as I can.
+
+AUSTIN (as Tungsten): No, it’s…
+
+JACK: And at that point our engines start up, and the entire ship just shakes spectacularly and all the lights turn off for a few seconds.
+
+AUSTIN: Yeah. Right.
+
+[music continues for a while]
+
+ART: Oh, sorry that was my new graphics card. 
+
+ALI: Oh!
+
+AUSTIN: Oh, nice.
+
+KEITH: Nice.
+
+AUSTIN: That’s a good thing.
+
+KEITH: Yeah. Sounds like it’s working good.
+
+[music ends]
+
+ART: So I just need to the connecting tissue.
+
+AUSTIN: What? Don’t use—no, don’t use “tissue” for that. That’s not a thing you should use.
+
+KEITH (overlapping with Austin): Yeah, no this is not a cyborg.
+
+ART: No they don’t accept human skin to cover the motherboard to the card?
+
+AUSTIN (overlapping with Art): No! Bad!
+
+ALI (overlapping with Art): Mmmmmm.
+
+AUSTIN: Not good, not good, bad. Eject.
+
+ALI: Is your computer just a man and that’s why it doesn’t work?
+
+[Austin laughs]
+
+ART: Yeah, that’s not what—your computer isn’t like a little guy who you plug an HDMI cord into and then you can like play some games?
+
+AUSTIN (overlapping with Art): No, I don’t…
+
+AUSTIN: No, I don’t—
+
+KEITH: Oh, you mean Eric.
+
+[Ali laughs loudly]
+
+AUSTIN: Good.
+
+ART: Oh, I have a Steve, but yeah.
+
+AUSTIN: That’s your problem there. Never get a Steve. The Steve’s are cheaper, but never get a Steve.
+
+ART: Take that, listeners named Steve.
+
+ALI: Do you have one of the newer Steves?
+
+AUSTIN: Steve had a long—
+
+ART: Steve’s a new Steve, he’s—he can barely walk.
+
+ALI: Cause the newer Steves are better than like the old Eric, but like there’s gonna be a new Eric soon, but like…
+
+AUSTIN: Yeah, just hold out for the new Eric.
+
+[Ali laughs]
+
+KEITH: Hold on one sec.
+
+AUSTIN: I just think that the—
+
+ART: Eric’s really shitty about updating though, so like… If Eric wants my business Eric can put out a new unit.
+
+[pause]
+
+AUSTIN: It’s just an Erik with a K instead of a C.
+
+ART: Yeah.
+
+ALI (laughing): God...
+
+AUSTIN: We’re hilarious.
+

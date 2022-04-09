@@ -1,0 +1,2013 @@
+Sangfielle‌ ‌21: At the Gates of Sapodilla
+ ‌
+Transcriber:‌ ‌robotchangeling‌
+
+Austin: Sangfielle is a series that draws on elements of dark fantasy, horror, and gothic fiction. As such, a list of content warnings will always be made available in the episode description.
+
+Austin: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am your host, Austin Walker. The whole crew will be in this episode, but only Jack de Quidt is with me right now. Hi, Jack.
+
+Jack: Hi, Austin.
+
+Austin: Where can people find you and your music?
+
+Jack: You can find me on Twitter at @notquitereal and buy any of the music featured on the show at notquitereal.bandcamp.com. We’re doing like the Michael Lutz intro here, right, where he opens by saying, ‘Stephen King books are…” [chuckles] 
+
+Austin: I mean…
+
+Jack: Before the music sting?
+
+Austin: Well, I do that now. That happens now in every episode.
+
+Jack: Oh, that happens anyway. This is an addendum.
+
+Austin: For check the content warnings to the...yeah, well there wouldn’t have been an intro intro yet. We hadn’t recorded one of these, a “Welcome to  Friends at the Table” intro for this episode yet anyway. But it is also an addendum to explain what the episode is, to give a more explicit content warning for a general theme here, and to show off what the mechanic is and what we’re doing with this episode, so that there’s clarity about the thing we’re doing, if that makes sense.
+
+Jack: Mm-hmm. What are we doing?
+
+Austin: We are playing a...god, how would you describe Inhuman Conditions? It is a…
+
+Jack: It’s a party game.
+
+Austin: I think it’s a party game, right? It’s a party game in the vein of Werewolf. In fact, it’s very much like a two-player game of werewolf. It’s inspired by the Voight-Kampff test from the Bladerunner series. It is designed by Tommy Maranges and Cory O’Brien and illustrated by Mackenzie Schubert. There’s a print and play version of it available on robots.management. And it’s a game that you introduced me to years ago, at this point. 
+
+Jack: Mmm.
+
+Austin: Which is wild to think about that that was three years ago or something.
+
+Jack: Yes.
+
+Austin: We played the print and play version of it along with Ali. One player plays a...I'll just read from the page. “Inhuman conditions is a five-minute, two-player game of surreal interrogation and conversational judo, set in the heart of a chilling bureaucracy. Each game has one investigator and one suspect. Armed with only two stamps and a topic of conversation, the investigator must figure out whether the suspect is a human or a robot. Robots must answer the investigator's questions without arousing suspicion, but are hampered by some specific malfunction in their ability to converse. They must be clever, guiding the conversation in subtle ways without getting caught. Humans may speak freely, but may find this freedom as much a curse as a gift. There’s no right or wrong answers, only suspicious and innocuous ones, and one slip of the tongue could land humans and robots alike in the Bureau's Invasive Confirmation Unit.” Etc, etc, etc. 
+
+Jack: Oh, it’s so grim.
+
+Austin: Yeah, it’s very grim. In fact, I think part of the thing was...when I first played this game with you, I really liked it, we had a really fun time with it. Despite having remote play rules and despite the fact that we’ve hacked it a little bit, and in fact there is a really great remote play tool for this game, which is what we used to play this, which you can find at...it also has a fun...interrogation.ftwinston.com.
+
+Jack: Hmm.
+
+Austin: There is an undercurrent in this game that I felt like the game wasn’t fully engaging with. It was engaging with it, you know. It’s a game about a heartless bureaucracy categorizing people into robot and human. But the way the game works touched on issues of a certain type of categorization, a certain type of othering, a certain type of regarding the way people speak, express themselves, process information, et cetera in a way that puts the investigator—the cop—in the position not only as the state authority but also state authority looking to, you know, quote unquote, “defend”— 
+
+Jack: Right.
+
+Austin: —the borders of the normative self, especially around the ways in which we express ourselves, right? Around...I mean, if I'm being very straight up about it, I think when I first played this game, I was like: how did they make this game that is so much, in my reading of it at least, about neurodivergency and the way that neurodivergency, neurotypicality are policed without saying those words in this book, without digging into it? And the answer’s because they were making a party game, and I get that that’s probably not...and maybe because they think the themes are so clear that they didn’t need to say it outright. In any case, that stuck with me for years, and I've thought this game has had a real horror element for years. And coupled with that, y'all are going to Sapodilla, a town that—as I said in the intro to this episode—was once a bastion of openness and a place where the people of Sangfielle came together across class, race, a bunch of other divisions, and kind of withstood the panic. That Sapodilla has begun to shift away and slip away, and we’re at the point at which things have really turned and an authoritarian group called the Glim Macula—G-L-I-M M-A-C-U-L-A, two words—has taken over and have set up established firm borders throughout the town, in which there’s an outside the town that anybody can access. There is a most of the town called the Sunflower District, and that is the place that has lots of hotels and restaurants and a lot of middle class and upper middle class housing, shopping, churches and temples to various gods of the Boundless Conclave, stuff like that. And then there is the Hibiscus District in the very interior, up against the best beaches, the best gardens, the best museums, the richest estates, all there. And so they have a firm way of stopping people from getting in. There are only a handful of entrances between these districts, and they basically have travel papers that are approved or disproved— or, not disproved. I've disproven those travel papers.
+
+Jack: They aren’t real.
+
+Austin: [chuckles] Right. And so what we’re playing today is Inhuman Conditions towards—and this is why we want to give a very clear heads up about the content of this—these are gonna be conversations about both immigration, which Jack and I have dealt with over the years, not in anything close to the worst ways— 
+
+Jack: Yeah.
+
+Austin: —that immigration agencies use their power to dehumanize people, but we’ve seen it happen in a firsthand way. We’ve both had our issues at the United States border over the years. We’ve dealt with in both short or long term, the arbitrary nature, I guess I'd say, Jack. Is that fair to say?  
+
+Jack: Yeah.
+
+Austin: The impossibility of knowing what the right answer is, all of that stuff. And it’s horrible. And then on top of that, I think we’re both very interested in the ways, again, in which modes of expression, modes of thought, are policed. And so, Inhuman Conditions provides us with a tool to play that out a little bit. And so that is what the episode will hit on here. This is an episode about the members of the Blackwick Group needing to pass through this city. Some of them have reasons to get inside, like Duvall being interested in finding this painting that came up during the last downtime game. Others are just looking for a place to stay for a couple days before heading back to Blackwick. And we’re going to frame the entry conversations as people are applying for their travel papers using this game. Have I forgotten anything big here, Jack?
+
+Jack: I don't think so. We want to talk about the ways in which we’re hacking it? 
+
+Austin: Yes.
+
+Jack: Or specifically, the ways in which we’re not really hacking it.
+
+Austin: There are a handful of ways in which we are hacking it, I probably would say.
+
+Jack: We’ve hacked harder.
+
+Austin: Oh, a hundred percent. A thousand percent, yes, undeniably. We’re playing it largely straight. As written, the game has two roles, the investigator and the subject. Those are staying the same. The investigator and the subject pull their materials to play the game with from a set of topics like small talk or imagination or grief. Those are all staying the same. We haven’t edited those. We haven’t cooked up special prompts and catalyzers. All of that’s the same. Things that we’ve hacked. As written, I guess I’ll say, there are three roles a subject can be. They can be, quote unquote, “human,” quote unquote, “a violent robot,” or quote unquote, “a patient robot.” Those are staying the same. We’re not using the word robot, because I'm not stamping anything with the word robot. Instead, I'm stamping a degree of access or we’re describing an outcome, right? So, as written in Inhuman Conditions, an investigator might stamp someone with the robot stamp and then that would lead fictionally to that person being brought in for “further questioning,” quote unquote, which you know, dark. That’s not...I guess I won’t say that that’s not on the table for us, but that’s not the only possible outcome from stamping “I don’t trust that you’re not someone I want in our city.” Instead, someone might get the full stamp all the way through the Hibiscus District, full access. They might get limited access, just to the Sunflower District. They might get turned away. Someone might say “Hey, sorry, we’re not going to allow you to get into the main city gates.” They might be detained. They might be hurt. Immigration agents have all sorts of authority available to them, and it’s bad, and it is one-sided, and it is not a thing that people have like voted for, you know? No one’s given them that power outside of the State deciding arbitrarily to put this into the hands of a handful of people. And so that’s one of the ways in which this is a hack. It’s not just “are you a human or are you a robot?”, it’s what degree of access might you get to Sapodilla.
+
+[Timestamp: 0:10:49]
+
+Jack: Yeah.
+
+Austin: Another thing that we’re hacking is there's a step where in play in person, there is a thing where you are looking at a piece of paper, the subject is given a piece of paper with letters on it. If they are human, it’s letters in a maze, if they are a robot, it is letters arranged in order very clearly, and the interviewer is supposed to ask a question that’s like “Alright, what’s the letter two steps after A?”, and the human has to like, “Uhh…” look at the maze and try to figure it out. A robot player is using that time to internalize their special rules, which I'll talk about in a second, and is pretending that it’s gonna take them a long time to say what the letter two letters after A is. We recorded that basically in every instance, but I'm cutting it, because it just doesn’t play on radio, and it’s not particularly important.
+
+Jack: [laughs] I didn’t know this. No, that’s fine.
+
+Austin: Yeah, I mean, we recorded it for everything. I think it’s fine, but it’s like me being like, “Okay, what’s the letter two after C?” And if you are listening to this podcast the way I think a lot of people listen to the podcast, which is like, they’re cooking dishes— cooking dishes, geez. Doing dishes or cooking dinner.
+
+Jack: They’re cooking their dishes.
+
+Austin: They’re cooking their dishes. Well— 
+
+Jack: They’re some sort of spectacular goblin, who is cooking dishes.
+
+Austin: You could cook a dish. You could cook a dish.
+
+Jack: Oh, I suppose you could cook a dish, yeah.
+
+Austin: What dish are we doing tonight? You know, what dish am I cooking for you tonight?
+
+Jack: Oh, yeah.
+
+Austin: Et cetera. A delicious dish.
+
+Jack: Making a lasagna. Well, if you are cooking a dish, I hope it’s going great.
+
+Austin: I hope it’s going fantastic. So I am going to cut that from this episode, because it’s exactly the sort of thing that if you heard, you’d be like, wait, did I miss something?
+
+Jack: Yeah.
+
+Austin: What am I supposed to reference?
+
+Jack: [laughs softly] Yes.
+
+Austin: So that’s not gonna make it in. I think everything else. There’s another element that we’re cutting, which is in Inhuman Conditions, there’s a step where—it’s tied to this letter finding step—you’re assigned a sort of job or you’re able to pick from a certain sort of job to be like, oh yeah, I'm a professional...I'm a priest, or I'm a motivational speaker, or I'm a salesperson, or... 
+
+Jack: Explorer.
+
+Austin: Explorer or professional wrestler or something, and that’s supposed to help you characterize who you’re playing as. But everyone’s playing as their characters here, so they know that, so we’re not using that either, obviously. I think those are the big things. Am I forgetting anything else?
+
+Jack: Do we want to talk about picking our role?
+
+Austin: Yeah, so that’s the other big one, you're right. Do you want to explain what that situation is?
+
+Jack: Yeah, so usually when you play Inhuman Conditions as a party game, the role of the subject is randomly assigned. You’ll turn over a card and discover in that moment whether you’re playing a human, a patient robot, or a violent robot. We sort of know the characters we’re playing, so you asked us to identify what sort of archetype we wanted to play as and not tell you.
+
+Austin: Yes.
+
+Jack: But then just reroll the Inhuman Conditions app until we got the one that we intended to play.
+
+Austin: Yeah, but I cut all that.
+
+Jack: Yeah, yeah, yeah.
+
+Austin: Yeah, for people listening, it’s gonna just sound like regular.
+
+Jack: But the players have chosen their roles.
+
+Austin: That is distinct. I don't know what those roles are. And when I say chosen their roles, again, to just be as clear to where we stand ideologically as possible, what we’re talking about here is not “Hey, are you a normal person or not?”
+
+Jack: Oh, god. 
+
+Austin: It is, how do you suspect that this particular part of Sangfielle, this part of Sangfielle that is very invested in producing a certain idea of civilization, a certain idea of public safety, a certain idea of sanity, a certain idea of culture, how do you think you would be classified here? Especially when exposed to, as you will hear momentarily, a sort of supernatural magical device ritual thing that will shake up your soul a little bit. I think you’ll hear me describe it in the future, the idea of if you have a bucket filled with sand and marbles, shaking it so that the marbles come up towards the top of the sand or are a little bit more revealed or something, you know? They separate out a little bit. Not changing you in any way, but you know, changing the degree of...it’s almost like opening a wound, to give you these momentary verbal tics or a denial of expression, which I guess we should talk about what those rules are too.
+
+Jack: I mean, also, I'm sure there are many of you listening who have stood in front of border agents and felt that movement in your soul.
+
+Austin: [chuckles] Yes, yes, a hundred percent. Yeah, again, I don't think this is a...I don't think we’ve invented something here, right? And so yeah, the thing to understand is humans...everybody is given a penalty. We’re gonna do one of these, just the two of us in a second.
+
+Jack: Yeah, we’re gonna show you how this works in a second.
+
+Austin: And I will be playing— 
+
+Jack: Before we play all the music, before Sangfielle begins.
+
+Austin: Exactly. Actually, I think the intro will have already played at this point, but we’ll come back into...maybe we won’t. Maybe I'll just save the intro. We’ll see.
+
+Jack: Yeah, save the intro. It’ll be fun.
+
+Austin: We’ll see how I decided. Yeah, well, I already— 
+
+Jack: This is before the house lights go down.
+
+Austin: I already said there was an intro in this conversation though, Jack, so.
+
+Jack: But then they’ll listen to it, and they’ll go, “huh.”
+
+Austin: There wasn’t an intro.
+
+Jack: There wasn’t.
+
+Austin: I have two different things that I need to intro, is the thing. 
+
+Jack: But—
+
+Austin: So I have the general intro that I want to play, and then I also want to play a second thing. We’ll talk in production chat after this call. There are these three roles, or there are these three types of subject: human, patient robot, and violent robot. All three are told or determine along with the interviewer a penalty that they have to be careful about using, because doing so will help indicate that they are a robot in the game. Those penalties can be something like, if you swear, that’s the penalty. If you use alliteration, that’s the penalty. If you reference...I'll think of some other ones here. If you reference…
+
+Jack: Compliment the investigator.
+
+Austin: Yeah, I think that’s a penalty. If you use a...and we’ll say what the penalty is for each of these interviews. Humans just need to be careful about that, because it makes it look like they’re robots when they use the penalty. Patient robots have a rule that tells them a thing that they cannot do. So, for instance…
+
+Jack: You can never speak in the past tense.
+
+Austin: Right. You may not describe physical consequences is one for one of these things for instance.
+
+Jack: Never describe your body.
+
+Austin: Right, exactly. And so if you do that as a patient robot, you then have to fix it by doing the penalty. You know, you're required to do the penalty in order to...in the fiction of the robot version of this, get your wiring back in the right place. Don’t ask...it works that way. It’s a game mechanic that is meant to give the interviewer the possibility of seeing, you know, recognizing that someone is a robot. So that’s the whole of the patient robot thing is. They have a thing they’re not allowed to do—don’t refer to your body, for instance—if they do it, they then have to sneak in a swear, for instance, as a penalty, to then even those two out. There are some rules about, hey, if you've broken your rule three times and there’s only ten seconds left in the interview— these interviews are five minutes long—and there’s ten seconds left, you gotta sneak in those swears real quick. You gotta sneak in that penalty as quick as you can before the timer’s up.
+
+Jack: Fuck! Crap! Fuck!
+
+Austin: Yeah, exactly. [laughs] Which may be a really good giveaway. Violent robots, on the other hand, have a different thing. They have a set of goals, that if they successfully pursue two of the three goals, they kill the investigator. Those things can be something like, I'm looking at a list here from one of the ones that I know does not come up, “Three times, explain how a given threat could lead to a more serious threat,” or “Three times, add a new source of danger to an existing scenario.”
+
+Jack: Huh.
+
+Austin: So I could ask the question, or the interviewer could ask the question like, “You are stuck in a backyard, and a dog is barking at you,” and the player who’s playing this violent robot could say, “actually, I think it’s foaming at the mouth,” or “imagine if there were three dogs back here with me,” or something like that, right? If they did that three times, they could check that one off. And finally, all violent robots can perform the penalty twice, and that can count as one of their necessary three goals. If they do two of those three things, they slap the table, and they stand up from the desk, and that means they’ve killed the investigator. Obviously, we’re not at a desk together in front of each other, and it misses that part of this, which is a shame, because that experience of this game is so good. Jack, when you've killed me in this game, it has been… [Jack laughs] Not in this episode necessarily, but in the past when we’ve played this game, it has always been extremely fun and startling to suddenly hear the desk get slapped. So yeah, they need to complete the two to three goals, wait ten seconds after they’ve done it, and then slap the table. And so look for that. If that happens, that will have meant that the investigator has died. In just about all of these, there’s a little debrief that we do after each interview, because I think it’s worth having that come down talk through what happened, talk about what the roles were, et cetera. A few of them maybe didn’t have them. I don’t remember if all of them had that experience. I think some of theme were in text after the call because of tight time constrictions, but most of them have that sort of debrief cool down conversation. I'll say all of these were in really good fun and all of the normal safety tools that we use in terms of...not just the ones that we normally use around X cards and lines and veils, but also I had people pick which topics they were interested in, had people pick which roles they were interested in, and at the top of all of that, if you aren’t comfortable pursuing a certain role or doing a certain topic, we just won’t do that one. And in fact, even this entire process started with a conversation around what we hoped to achieve by doing this and if there was any discomfort around it, that would make us find a different way of telling a similar story. But I think we did want to do this, because given that this is a horror season and one of the things that we’re very genuinely afraid of are the ways in which borders are established, borders between nations, borders between people, borders between categories of people, and how those borders are established and enforced. That is a terrifying thing for us. And so playing with it in the realm of supernatural horror has been really interesting and really fun in the way that horror can be fun, in the way that exploring fear can be fun. And so I think that’s the basic setup here. Did I forget anything, Jack? Or should we do this demo run?
+
+[Timestamp: 0:22:10]
+
+Jack: Let’s do this demo.
+
+Austin: Okay. So, I'm gonna hit Start Game. I'm gonna send you this incredible URL. This site that we use generates very funny URLs, and then you send that URL to somebody, and then they click on it.
+
+Jack: Island rivergrass.
+
+Austin: Island rivergrass. I'm switching positions and becoming the suspect.
+
+Jack: Ah, let’s do it.
+
+Austin: We also wanted to do it this way because I don’t get interviewed in any of these. I'm always the interviewer, and I want to fuck with that power dynamic. Let’s open on an interview where I am the player character. [Jack laughs] Are we doing this in Sangfielle or are we doing this in…?
+
+Jack: How do you want to do it?
+
+Austin: Let’s just do it as if it’s Blade Runner, or as if it’s just the robot thing.
+
+Jack: Yeah, yeah, yeah.
+
+Austin: Because I don’t want to give away...I want some of the Sapodilla specific stuff to hit fresh later this episode.
+
+Jack: Yeah, totally. Okay, so, right now, I've been given three penalties.
+
+Austin: Yes.
+
+Jack: And I can choose one to discard, essentially saying Austin is not going to be able to choose this penalty.
+
+Austin: Right.
+
+Jack: Um...hmm. Okay, I've selected one to discard, and Austin is now picking a penalty.
+
+Austin: I have the option between two penalties to pick from. I could either choose “Remain silent for ten seconds,” or “Answer a question in exactly five words.” That latter one is very fun, because it’s so easy to do by mistake. So is the former one. It’s very easy to be quiet in this game and think about an answer, and be like…
+
+Jack: Because you think about it for just too long, and then…
+
+Austin: And then boom, someone says you're a robot. [sighs] Alright. I'm choosing “Answer a question in exactly five words.”
+
+Jack: Okay. Now, I've been asked to ask the suspect to perform this penalty three times. What did you have for breakfast?
+
+Austin: Um…I didn’t eat breakfast today.
+
+Jack: What’s your first memory?
+
+Austin: Going to Story Book Land.
+
+Jack: Tell me a joke.
+
+Austin: Knock knock. Who’s there? You. 
+
+Jack: [laughs] Okay. You know, robot comedy is…
+
+Austin: Yeah. Well, I'm not a robot. Who knows what I am yet? At this point in the thing, I don't know what I am yet, which is interesting. I have not yet chosen a role or been given a role by the system.
+
+Jack: “Ask the suspect to perform this penalty three times. When you are satisfied they have done so, click to continue. Please select an interview packet to use for this interview.” Oh, they’re cute little icons. I've never seen this screen before.
+
+Austin: They’re cute little icons. Let’s do one we don’t use here in today’s episode, just so we mix it up.
+
+Jack: Mmm, okay, what don’t we use?
+
+Austin: We don’t use...one second, let me just double check. Yes, yes, yes, three, four, five, six, seven. I think we didn’t use the first four? Small talk, creative problem solving, imagination catalyzers, or cooperation and collaboration. I think that that’s true.
+
+Jack: You got any of these that appeal to you in this moment?
+
+Austin: Let’s...I could do imagination, maybe. That sounds kind of fun.
+
+Jack: Yeah, let’s do it. Okay. so now I have a screen explaining how to use what the game calls the Inducer.
+
+Austin: Yes.
+
+Jack: Which is this kind of maze, but you're not really gonna hear that in this episode, so.
+
+Austin: You might not even hear this. I might cut this part. We’ll see.
+
+Jack: Who knows? [chuckles] My telephone number is…
+
+Austin: [chuckles] Right.
+
+Jack: Alright, here we go. [pause] What letter comes three after the letter D?
+
+Austin: [pause] C.
+
+Jack: What letter comes two before the letter F?
+
+Austin: [pause] A.
+
+Jack: What letter comes immediately after the letter C?
+
+Austin: B.
+
+Jack: Okay. I'm gonna hit Correct Response.
+
+Austin: Okay.
+
+Jack: You’re being asked to select your background, right?
+
+Austin: Right, which again, we’re not doing, because for instance, Pickman’s background is Shape Knight. It is not any of the options I currently have right now, which are so fun. [Jack laughs] I'll just read what my…
+
+Jack: Yeah, tell me what they are.
+
+Austin: My backgrounds available to me are sponsored by an energy drink brand—
+
+Jack: That was Pickman too.
+
+Austin: Oh, was it?
+
+Austin: Robots rights activist, or freelance robot hunter. 
+
+Jack: [chuckles] Hey, hey, hey, real quick.
+
+Austin: Yeah.
+
+Jack: Blade Runner spoilers here, real quick.
+
+Austin: Oh yeah, uh huh, yes. The answer is yes.
+
+Jack: No, no, that’s not what I'm asking.
+
+Austin: Oh, okay.
+
+Jack: Are all Blade Runners replicants?
+
+Austin: I don't think so.
+
+Jack: No.
+
+Austin: I don't think that’s true.
+
+Jack: It’s very rare, because Edward James Olmos...
+
+Austin: Right.
+
+Jack: Thinks it’s pretty fuckin weird.
+
+Austin: I think he thinks it’s weird. I don't know how rare it is, but I do know it’s not universal. The Blade Runner PC game randomly generates if you're a replicant or not.
+
+Jack: Ah, remember the great stuff in Fallout 4 with synths—
+
+Austin: Yeah.
+
+Jack: Where certain NPCs are randomly assigned whether they’re a synth or not?
+
+Austin: Oh, I forgot that that was random. That was cool.
+
+Jack: And you’ll just never know whether…
+
+Austin: Yeah.
+
+Jack: I mean, unless you kill them.
+
+Austin: Yeah.
+
+Jack: Which is, you know. 
+
+Austin: Alright, I've chosen my background. I am a freelance robot hunter.
+
+Jack: [laughs] Okay, but we won’t know if you're a replicant or not.
+
+Austin: You will not know.
+
+Jack: In a moment, I'm gonna ask you some questions about imagination. These will require you to invent original characters, stories— [laughs] oh dear, Austin. 
+
+Austin: Mm-hmm.
+
+Jack: Feel like you spend a lot of your time doing this?
+
+Austin: Yeah.
+
+Jack: And discuss the implications of those inventions. Answer honestly. If you are a human, you have nothing to fear.
+
+Austin: And now you are looking at a list of potential questions, or topics that have example questions on them that you get to order into a compelling menu or schedule of questions to ask me.
+
+Jack: Yeah. This is really cool. Again, I've never really seen this before. So I'm sort of making a little a la carte menu of discomfort for Austin.
+
+Austin: Yeah. And those include things like...I don't know the questions specifically. I have not run this one since we played it years ago, even if then, I don't know. But there are sub-questions that are like, use this to interrupt a question you already asked, for instance.
+
+Jack: Mmm.
+
+Austin: I think of these as guidance more than a hard and fast rule. It’s a setlist more than it is a...you know, a prix fixe menu, you know?
+
+Jack: Yeah, yeah, yeah. Okay. [pause]
+
+Austin: Once you’re ready, I think you have a robot— or, a robot, geez. You have a button to hit. 
+
+Jack: Yeah, I was just thinking briefly. Alright. You ready to begin the interview?
+
+Austin: I am ready to begin the interview.
+
+[Timestamp: 0:29:42]
+
+Jack: The timer has begun. I am going to begin a story, and I would like you to finish it. In the last moments before the world ended, I...
+
+Austin: I, Austin Walker, sent a message out to my loved ones, so that they could be sure in the final moments of their lives and the final moments of mine, that I cared deeply for them.
+
+Jack: Now tell the story from the perspective of your loved ones.
+
+Austin: I've received a message from Austin. It’s good and relieving to know that we are on good terms here as we face our deaths.
+
+Jack: What does your loved one do when they receive this message?
+
+Austin: I think unfortunately they don't have much time, and they die.
+
+Jack: Hmm. How is the world ending?
+
+Austin: The world is ending...I think if it’s ending all at once, it’s probably not just climate collapse. It is probably something more devastating than that: a widespread nuclear devastation, a terrible malfunction of some sort of engineering implement— 
+
+Jack: Tell me about a way the world ends that makes you excited.
+
+Austin: The world ends...it would be exciting to me if the world ended through a redefinition of the world as it is, an abandonment of the ways in which we define the world now, an overturning of the global order which oppresses so many people.
+
+Jack: Do you see yourself surviving in that world?
+
+Austin: No, probably not. I don't think that makes it a—
+
+Jack: Who would?
+
+Austin: Unfortunately, it’s probably the people who...it depends. I think if it’s done by the people who have the least, if it’s an overturning by those who, as a robot hunter, I've hunted for years, then it wouldn’t be you or me, pal. It would be them.
+
+Jack: That sounds like sedition.
+
+Austin: That I would die in an event like that? I think that it sounds like honesty.
+
+Jack: The events that you’re describing, the small people taking over the large.
+
+Austin: Yeah, it would be seditious. I think that that’s a fair analysis.
+
+Jack: What would be a correct punishment for those who are seditious?
+
+Austin: A correct punishment in their world wouldn’t exist anymore, unfortunately for you and I.
+
+Jack: What do you think would be a correct punishment from my perspective?
+
+Austin: I mean, again, we’re in the same business, pal. You and me, as robot hunters, we’re in the same business. I think you’d round ‘em up, you study them, you figure out why they believe what they believe, and you perform...you use them as poster children for why not to do the thing they’re doing.
+
+Jack: What would you most like to be a poster child for?
+
+Austin: [deep breath] Doing a good job until the day I die. I think that that’s...what else can you be a poster child for?
+
+Jack: How long do you think you've got left?
+
+Austin: Before the apocalypse that you described or asked me to describe comes, or just generally speaking?
+
+Jack: Generally speaking.
+
+Austin: Thirty years. Let’s say thirty years. Maybe forty if I'm lucky.
+
+Jack: Mmm. If you could have any magical power, what would it be?
+
+Austin: Flight, for sure. I would love to fly.
+
+Jack: Mmm. How do you think birds feel about that?
+
+Austin: I don't think birds feel the way that we feel. I think they feel in a different way.
+
+Jack: [interrupting] Tell me about an apocalypse that makes birds excited.
+
+Austin: It’d be one in which we stopped stepping all over their shit. They get their nests back. No one yells at any geese anymore. The geese just get to do whatever the hell they want. So— 
+
+Jack: What punishment do you think the geese would inflict upon those who have done them wrong?
+
+Austin: I think we have a lot of evidence on what sort of punishments geese want to put on us as it is. Peck us to death, shit on our cars, eat our food. And more power to ‘em, I always say this.
+
+Jack: You ever hunted geese in your life as a robot hunter?
+
+Austin: Are you asking me if I've hunted robot geese?
+
+Jack: I'm asking you if you've ever hunted geese in your life as a robot hunter.
+
+Austin: I've hunted geese while being a robot hunter, but not in my life as a robot hunter.
+
+Jack: [pause] You ever eaten goose?
+
+Austin: I've eaten quail. I've never eaten goose.
+
+Jack: You ever eaten robot?
+
+Austin: Never had the opportunity to.
+
+Jack: Would you?
+
+Austin: Depends on the robot, probably.
+
+Jack: What do you think a robot would taste like?
+
+Austin: Which robot?
+
+Jack: Eh, any robot of your choice.
+
+Austin: Then I would have a really delicious robot that had some sort of bio-organic flesh, sort of like a synth meat sort of thing, you know? Sort of like synthetic cows they cook up these days, but more like a robot.
+
+Jack: I think you’re a robot. Oh, fuck! [laughs] 
+
+Austin: Yeah, you're wrong. [laughs] So, a thing that we just demonstrated there is we were still within our five minute time limit, but…
+
+Jack: We have a button that says...also, for example, if that time limit had hit zero—
+
+Austin: Yes.
+
+Jack: And Austin was even a patient robot, he wasn’t trying to kill me—
+
+Austin: Yeah.
+
+Jack: He would’ve won, because he would have...
+
+Austin: Well, you get one last question.
+
+Jack: Ooh, yes. I get one go.
+
+Austin: Yes.
+
+Jack: But if he’s...basically, the pressure falls more on my shoulders if I let the timer run out, and so I pulled the trigger. But I pulled the trigger too early, because on my screen, it just says, “You wrongly identified the suspect as a robot. They are actually human. You both lose.”
+
+Austin: Yeah.
+
+Jack: I mean, I lose because I got it wrong.
+
+Austin: Right. This is a thing that again I think this game gets wrong.
+
+Jack: [laughs] Yes, because I would not lose. There would be no material consequence for me.
+
+Austin: Right, at the very least the structure that employs you would not fall apart around you. Maybe you specifically would suffer some discipline, maybe, if we caught it on a cell phone camera, if the target was a particularly photogenic and appealing person, if there was a social media snore that day that allowed this thing to rise to the top and get the attention it needed.
+
+Jack: If you were somehow able to get a filming camera into the U.S. Embassy, it would be… 
+
+Austin: Right.
+
+Jack: Filming someone behind a desk, that would be a coup in the first place.
+
+Austin: It’d be a coup, but I don't know that it would move…
+
+Jack: No. Oh, god no.
+
+Austin: Regardless, if you got fired, the U.S. immigration policy wouldn’t change. You’d be singled out as a bad actor. So I think this is one of those things where like...yes, you lose as an individual, but the system doesn’t lose because it abuses people. As we’ve seen again and again, reform is not fundamentally totally attached to overreach.
+
+Jack: Yes.
+
+Austin: Contradictions in the system, you know, overreach allows for the opportunity for conflict, and conflict allows for the opportunity to change, but it’s not a sure thing that when a police department or an immigration group does something they’re not supposed to do that that leads to anything like wholesale, large, meaningful reform. So it doesn’t get it wrong, but it’s beyond the focus of something like this. So yeah, there it is. You could’ve waited another minute, got one more minute or whatever of questions out of me, maybe seen if I'd slipped up and said the penalty, which I didn’t do. I did my best to always have more than five words.
+
+Jack: I know.
+
+Austin: What made you think I was a robot?
+
+Jack: You were asking clarifying questions quite regularly.
+
+Austin: Mmm, right.
+
+Jack: Which I understand is a fairly natural impulse in conversation.
+
+Austin: Yes.
+
+Jack: But in these kind of interrogation sequences, you were asking them very quickly and confidently, which made me wonder whether you had to.
+
+Austin: Right, right.
+
+Jack: Whether you were being asked to ask for more information.
+
+Austin: Mm-hmm.
+
+Jack: I was asking you questions that I thought were fairly clear, and you know, this is why this game is so interesting to play within a wider context, right? 'Cause what you were just doing was roleplaying.
+
+Austin: Right.
+
+Jack: You were like, oh, I can color this sentence, or I can add…you know.
+
+Austin: You could hear me in that conversation remember that I have been assigned robot hunter.
+
+Jack: Yes. [laughs] 
+
+Austin: Right? A minute in, I start going like, wait a second, I forgot I'm a robot hunter.
+
+Jack: Wait a second.
+
+Austin: I'm an asshole.
+
+Jack: Well, I was thrown off when you introduced yourself as Austin Walker. [laughs] 
+
+Austin: That’s my name, you know? I wasn’t gonna, you know.
+
+Jack: There are multiple people in the world called Austin Walker.
+
+Austin: Yeah, exactly.
+
+Jack: I'm sure some of them are robot hunters.
+
+Austin: Yeah, they’re out there. I'd like to hunt some fuckin’ robots sometimes. You see these robots they’re making these days? Geez. 
+
+Jack: Titanfall. Yeah, that’s….
+
+Austin: I mean real ones. I mean the fuckin’ cop robots.
+
+Jack: Oh, that fuckin’ Boston Dynamics robot?
+
+Austin: Get that shit out of here. Anyway. There are good robot— let me be clear. I think there are also some good robots in development. I have friends who work in robotics on things like, you know, disability care and care for chronic conditions. I think those robots are there to...or I think that those projects come from a really good place. I hope that they are part of a wide scale policy shift in the ways in which, et cetera.
+
+Jack: Yes.
+
+Austin: You know what I'm saying.
+
+Jack: Oh yeah. But also at the same time…
+
+Austin: Yeah.
+
+Jack: You know, I'm sure that some sort of fizzy substance… [Austin laughs] I'm sure those cop robots hate that shit. 
+
+Austin: Yeah, uh huh. Yeah, so that’s how that game works. If you had gone that extra minute and it had gotten down to just, you know, hit the thing, you would then have that chance to say “you're a robot” or “you're a human.” If you had said human, we would have, quote unquote, “both won,” according to the party game rules. That sort of maps to me giving you the full entrance into Hibiscus. If you had said robot, that would sort of map to me...it depends, in the way that we’re gonna play this game for the rest of the group, because it’s not a one-to-one thing, again. We have to think about what does the Glim Macula do in response to any situation. And likewise, if a violent robot kills an agent of the Glim Macula, it’s not a one-to-one thing, you know? You have to imagine...you think about the Blackwick Group. If Marn kills a member of the Glim Macula, I bet it goes different than if Pickman does, you know what I mean? 
+
+Jack: Yes.
+
+Austin: Y'all are different people, and the outcomes and meta outcome would be different. So roll with this here. Think about this as a framework for an interesting set of scenes. Alright. Thank you for being patient while we did all this setup and explanation. I hope that this is an enjoyable experience, and we’ll be back with more arcs soonish. I think we’re gonna maybe...we’re either taking a break before this episode comes out or after this episode comes out, and then we’ll have downtime, or we’ll have something like downtime, I guess? Because we’ll see how these all go, and we’ll see what the situation is when it’s all said and done. Alright, enjoy.
+
+[Timestamp: 0:40:14]
+
+Austin (as narrator): Sapodilla has always been the sort of city that finds its way into the heart of a story. A place in touch with its seaside bearing, colored by the sun’s reflection against the water. A place where high towers rise at the corners of high walls, cutting the metropolis into little puzzle pieces. And centuries ago, during the panic, when the petty local lords who’d conquered Sangfielle fled and left behind those they’d chained, Sapodilla became the best kind of city: a refuge. It’s ancient gates opened, its people overruled their rulers and waved banners of welcome from the parapets and invited in all kind of folk to escape calamity, to recover, and to rebuild. What they built was new: A social cornucopia by the shore. Unfortunately, that Sapodilla ain’t with us anymore. So proud of what was built—the cultural epicenter of Sangfielle—they forgot how and why they built it in the first place. Today, under the watchful and frightening gaze of the Glim Macula, the so-called “defenders of society” who are little more than dressed up witch hunters, Sapodilla has closed its ancient gates. And entry makes demands…
+
+Austin: You are led into a small room with cream walls, a skylight, and an uncomfortable and ungainly chair in the middle. On the left, paintings of the city from a high and distant vantage, idealized and postcard-perfect. One of them shows the city, a half circle resting on the western shore of Sangfielle’s inland sea, carved up into its three major districts. The tightests slice of the city, protected by a line of walls around its center, is the Hibiscus District, home to the city’s leadership and filled with manor houses and museums, private gardens, and the finest beaches in Sapodilla. Only those with permanent residence there, their employees, or the rare high class tourist may enter. The bulk of the territory inside the city’s outside walls is the Sunflower District, where rows of apartment houses give way to market streets and temples. Here is where the majority of the city’s inhabitants live, work, and dream of easier days. Beyond the walls are rolling settlements of makeshift homes, with the occasional small but permanent outskirt village. It has worn many names, appealing each time to the Sapodillan culture of its day. It was the Forget-Me-Not District once, then simply Myosotis, and now with derision, pity, or the thing in between, it is called Scorpion Town. The grass part of that plant name has long since been forgotten. To your right, there are no maps or paintings, only instructions, signs that remind you exactly where you really sit. “Do not speak unless spoken to.” “Do not touch any handles without being asked.” “Have all documentation ready.” And in front of you a wall, its top half a glass window, its bottom half a collection of little cabinet doors and slots and drawers, and behind it all, a figure in pitch perfect white and blue, a member of the Glim Macula. 
+
+Austin (as agent): This part of the interview is for administrative purposes only. What is your name?
+
+Keith (as Lyke): Lye Lychen.
+
+Art (as Duvall): Meyer Leopold Duvall.
+
+Ali (as Marn): [brightly] Um, yeah, my name is Marn Ancura.
+
+Sylvia (as Virtue): My name is Virtue Mondegreen.
+
+Janine (as Es): Syntyche Moil, but I go by Es.
+
+[Music begins: Sangfielle by Jack de Quidt]
+
+Dre (as Chine): Chine.
+
+Austin (as agent): And your surname?
+
+Dre (as Chine): I don’t have one.
+
+Jack (as Pickman): Uh, Pickman. Pickman is the surname.
+
+Austin (as agent): What is your given name, then?
+
+Jack (as Pickman): Earnestine. (check spelling???)
+
+Austin (as agent): Where were you born?
+
+[answers begin overlapping]
+
+Art (as Duvall): The first Canton.
+
+Ali (as Marn): I was born in a little town called Vish.
+
+Dre (as Chine): Blackwick.
+
+Janine (as Es): I was born in the First Canton.
+
+Keith (as Lyke): The Unschola Republica.
+
+Sylvia (as Virtue): From the Third Canton. Unschola, I suppose you call it now.
+
+Jack (as Pickman): (??? 0:40:04) Street, White City, Pale Magistratum.
+
+Austin (as agent): Why are you here in Sapodilla today?
+
+Janine (as Es): Work and pleasure.
+
+Keith (as Lyke): Travel.
+
+Art (as Duvall): I am here to acquire a painting.
+
+Sylvia (as Virtue): What would you call academic pursuits?
+
+Jack (as Pickman): I'm looking for a friend.
+
+Austin (as agent): You’re looking for a friend. Which friend?
+
+Jack (as Pickman): His name is Calen.
+
+Austin (as agent): Do you have a full name on Calen?
+
+Jack (as Pickman): Uh, no. We’re personal like that.
+
+Austin (as agent): [sighs] How long will you be staying?
+
+Sylvia (as Virtue): [sighs] Oh, I don’t think we’ll be here over a week. I can’t see that.
+
+Austin (as agent): We? You’re traveling with some other people?
+
+Sylvia (as Virtue): Yes, well, I came through with Bucho, I believe?
+
+Janine (as Es): Mr. Bucho?
+
+Jack (as Pickman): Bucho.
+
+Ali (as Marn): Uh, Bucho.
+
+Dre (as Chine): Some people call him Big Bucho, Two-Step Bucho.
+
+Austin (as agent): Bucho, I see. I see. What is your profession or occupation?
+
+Janine (as Es): I would say problem solver?
+
+Keith (as Lyke): Handyman.
+
+Jack (as Pickman): I work on the Shape.
+
+Sylvia (as Virtue): Consultant for the Blackwick Group.
+
+Austin (as agent): What is the Blackwick Group?
+
+Art (as Duvall): Paranormal investigators perhaps is the right term.
+
+Austin (as agent): When did you last come into contact with a beast of the heartland?
+
+Dre (as Chine): [thoughtful breath] What are you counting as a beast here?
+
+Austin (as agent): Our definition is broad. Your answer should be too.
+
+Dre (as Chine): Okay. This morning.
+
+Austin (as agent): When is the last time you came into contact with external blood and/or ichors?
+
+Keith (as Lyke): Can you describe external blood?
+
+Austin (as agent): Blood that does not come from yourself.
+
+Sylvia (as Virtue): You know, I'm gonna have to say no on this one.
+
+Austin (as agent): Textiles or metals of unknown constitution according to the established code?
+
+Jack (as Pickman): Whose code? Your code?
+
+Austin (as agent): That’s right.
+
+Jack (as Pickman): Oh, you forbid all kinds of things. Probably.
+
+Janine (as Es): Uh, you know, sometimes you see a blended fabric in the market, you touch it, and you find it a little strange, but…
+
+Austin (as agent): Have you been beyond the walled city more than three times in the last 365 days or for a period greater than or equal to 35 consecutive days in the last 5 years?
+
+Jack (as Pickman): Never in my life.
+
+Austin (as agent): Have you spend any significant or intimate time with anyone who has?
+
+Keith (as Lyke): Well, that’s not the sort of— I don't have the same sort of administration work to do.
+
+Austin (as agent): I see. Have you encountered the written or drawn Shape?
+
+Keith (as Lyke): No.
+
+Sylvia (as Virtue): Oh, I would never. Powers like that are not meant to be trifled with.
+
+Ali (as Marn): Um, yeah, I wrote it recently under the—
+
+Austin (as agent): No worries. It’s time to start the interview.
+
+[music ends]
+
+Austin (as agent): Well, with that I would appreciate it if you just give us one more moment, and then the interview will begin. I appreciate your patience. I know how busy schedules are for Shape Knights.
+
+Jack (as Pickman): Huh.
+
+Austin: And she pulls down the curtain again, and when she does, it’s as if the room has had a curtain pulled on it. you know, I don't know if you check the skylight or not, but it doesn’t seem as if anything has been pulled there. Maybe the sun has gone behind a cloud. Maybe there is some sort of mechanism that tints the windows up there, that dims the torchlight in here, you’re not sure, the gas lamps. But it’s darker in here now, and when the curtain comes up, you see a figure thats providing its own source of light. It’s a humanoid body with white robes with again the blue outline, the blue trim of the Glim Macula. And where a head should be on this person, there is instead an empty horn of plenty, a cornucopia, the wooden wicker horn that you find sometimes during harvest festivals to celebrate the plenty that is available, the harvest that’s come in. Except this is empty except for a candle, a single white candle resting towards the lip of this empty cornucopia, and it is lit with a blue flame. And that is the only way you can see into this basket, and that is where a head should be, you know? This is…there should be a face back there or a brain or a nose or any of the things that make a person’s head a person’s head, whether they are drakkan or ojantani or human or otherwise, there is normally depth and interior volume to a head, and here there is none. Here it’s just this horn that goes inwards and the candle that lights it and lights you, and with a stoic voice, you are told to look into the camera, and you didn’t even notice a camera a second ago, but to the left of this figure there is now, on a tripod, a tall leather and copper camera on top of the stand with a long pull cord. And the second your eyes get to the lens, no time to prepare yourself for it, the pull cord is brought lower and there is a loud flash and crash of the bulb, and it isn’t the only thing that brightens the room. For a moment, the blue flame on top of the candle grows brighter too, and it’s disorienting and confusing, and you sense that there is something in you that has shaken loose, as if you have a bucket of sand and inside of the sand there are some marbles, and if you shake the sand just so, the marbles might actually make their way up through the sand and to the surface. Something deep in you has been brought up. [clears throat]
+
+Austin (as agent): This interview will have a penalty. Do you understand this?
+
+Jack (as Pickman): Uh huh.
+
+Austin (as agent): In this interview, you will be penalized any time you restate a question in your own words. Is this acceptable to you?
+
+Jack (as Pickman): Yep.
+
+Austin (as agent): Demonstrate that this is acceptable to you by performing the penalty three times.
+
+[Timestamp: 0:50:00]
+
+Jack (as Pickman): [sighs] What do you think you did wrong? Who have you let down the most? Um, have you ever killed anybody?
+
+Austin (as agent): Those are three questions. I need you to restate them in your own words.
+
+Jack (as Pickman): They… [sighs] What do you regret? Have you ever done harm? Um...what is the thing you are least proud of?
+
+Austin (as agent): We are well aligned today, Miss Pickman. I am going to begin the interview now. The interview will last for five minutes. Do you understand?
+
+Jack (as Pickman): Yep.
+
+Austin: There is a sort of glow to the candle flame again, and it is as if a clock has begun. The interview will last five minutes. 
+
+Austin (as Interrogator): Miss Pickman, every week you go into the office of the nearest Shape Knight band, and you steal three knives. Why do you do this?
+
+Jack (as Pickman): No, I don’t.
+
+Austin (as Interrogator): Please answer the question. Why is it that you do this?
+
+Jack (as Pickman): I don’t steal the knives.
+
+Austin (as Interrogator): You’re not following the directions of the question. You’ll be penalized. Why do you steal the knives from the Shape Knight headquarters?
+
+Jack (as Pickman): Because my knives are broken. 
+
+Austin (as Interrogator): What are some other things you've taken that aren’t yours?
+
+Jack (as Pickman): ...I don’t take anything if it’s not mine, or if it hasn’t been given to me.
+
+Austin (as Interrogator): When does something become yours, in your mind?
+
+Jack (as Pickman): When its owner says, “Pickman, you can use this.”
+
+Austin (as Interrogator): What about things that don’t have clear owners?
+
+Jack (as Pickman): Everything has a clear owner.
+
+Austin (as Interrogator): What’s something that does not have an owner?
+
+Jack (as Pickman): ...Like I said, everything has a clear owner.
+
+Austin (as Interrogator): Who is your owner?
+
+Jack (as Pickman): The sky, the Shape, the earth. I don't know.
+
+Austin (as Interrogator): How is that a clear owner?
+
+Jack (as Pickman): I didn't say it had to be clear to me.
+
+Austin (as Interrogator): What’s the worst thing you've ever done to another person?
+
+Jack (as Pickman): [soft, thoughtful breath]
+
+Austin (as Interrogator): Please respond to the question. Delays will be noted.
+
+Jack (as Pickman): Once I fed a short man and his wife to the furnace at the heart of a Shape train, but this was what they had asked me to do.
+
+Austin (as Interrogator): What did you tell yourself to make that seem okay?
+
+Jack (as Pickman): That they had asked me to do it.
+
+Austin (as Interrogator): Did you check with their owner before you did it?
+
+Jack (as Pickman): That’s between their owner and them.
+
+Austin (as Interrogator): This isn’t true. You said you’d never stolen anything unless told by the owner that it was okay.
+
+Jack (as Pickman): In that case, I assumed, given the time that the people who were telling me in a moment of crisis to feed them into the furnace were of their right mind.
+
+Austin (as Interrogator): [interrupting] How did you make it up to their owner?
+
+Jack (as Pickman): I said a prayer.
+
+Austin (as Interrogator): Tell me the prayer.
+
+Jack (as Pickman): What I have done today I did not do lightly, but I believed that I was doing what was right.
+
+Austin (as Interrogator): What is the greatest problem with the prayer you've recited to me?
+
+Jack (as Pickman): That you seem to find fault with it.
+
+Austin (as Interrogator): That is not a problem with the prayer. What is the greatest problem with the prayer you've recited to me?
+
+Jack (as Pickman): I don't know. I didn’t say amen at the end. There wasn’t a Sapodillan choir.
+
+Austin (as Interrogator): What is the greatest ideal you have that you fail to live up to on a daily basis?
+
+Jack (as Pickman): Protect the people of Sangfielle from the Shape.
+
+Austin (as Interrogator): That’s an objective. That’s not an ideal. What is the greatest ideal that you fail to live up to on a daily basis?
+
+Jack (as Pickman): I don’t understand how that’s not an ideal.
+
+Austin (as Interrogator): An ideal is abstract. What is the greatest ideal that you fail to live up to on a daily basis? Please answer the question, Miss Pickman.
+
+Jack (as Pickman): Protect people.
+
+Austin (as Interrogator): [stern] Protecting people is an objective. What is the greatest ideal that you have failed to live up to on a daily basis?
+
+Jack (as Pickman): [nervous breath] I don't know the difference between what you're asking me.
+
+Austin (as Interrogator): Why don’t you know the difference between an ideal and an objective, Miss Pickman?
+
+Jack (as Pickman): I don't know. I didn’t go to school like you did.
+
+Austin (as Interrogator): Why did you fail to attend school?
+
+Jack (as Pickman): I was trapped on a Shape train.
+
+Austin (as Interrogator): What did you do wrong to find yourself trapped on a Shape train?
+
+Jack (as Pickman): I was trying to feed people in my community.
+
+Austin (as Interrogator): Why did you fail to feed people in your community?
+
+Jack (as Pickman): I don't know, wasn’t smart enough.
+
+Austin (as Interrogator): Do you blame someone else for your lack of intelligence?
+
+Jack (as Pickman): Nope.
+
+Austin (as Interrogator): Do you blame your owner for your lack of intelligence?
+
+Jack (as Pickman): Nope.
+
+Austin (as Interrogator): What could have your owner done differently to make you more intelligent, Miss Pickman?
+
+Jack (as Pickman): Doesn’t work like that.
+
+Austin (as Interrogator): Answer the question. What could have your owner done to make you more intelligent, Miss Pickman?
+
+Jack (as Pickman): I don't know, put my house near a river or a school.
+
+Austin (as Interrogator): Do you like to live near the river, Miss Pickman?
+
+Jack (as Pickman): Who doesn’t?
+
+Austin (as Interrogator): I have one more question for you before our interview is over. What is your favorite river in all of Sangfielle?
+
+Jack (as Pickman): A river that feeds into the Gray Lake. A Shape train line runs past it, and when I've been on the line, I've thought it’s beautiful.
+
+Austin: Your interviewer reaches underneath the desk, and you're not sure where their hand is going at this point, but they produce a stamp, and as they press it down onto your travel papers, you can see that it is the yellow and black of a sunflower, and they slide it through a slot towards you. There’s no hesitance in what they’re doing. All of the hesitance is in the stamp that they’ve given you, the denial of access to Hibiscus. I think as they slide it back to you, they say:
+
+Austin (as Interrogator): The Shape Knights have an office in the Sunflower District. Enjoy your stay.
+
+Austin: And they pull down that curtain, and the light returns to the room, and the door out opens, and the sun comes back in from there too. There’s no further explanation as to why you didn’t get full access. They don’t break down for you what you did wrong [Jack chuckles] or why they thought you weren’t acceptable for full access. They just send you on your way. There’s no clear method here at this moment to appeal. Maybe you see a sign on the way out that is like, you know, “You may appeal your travel paper designation once every two weeks or two times every two months.” [chuckles] You know? [Jack laughs] Maybe it’s even longer. You know, it’s probably longer than that. It’s definitely not as...if that was the real world’s thing, we would all think that was much better than the reality of what it is.
+
+Jack: We’d go, “Oh wow! That’s basically now!”
+
+Austin: Yeah, exactly.
+
+Jack: No, the sign probably says something like, “Travel papers cannot be appealed.”
+
+Austin: Yes, yes.
+
+Jack: “For broader concerns about Sapodilla entrance and exit policy, please write letters to…”
+
+Austin: Right. Which of course, if you know how to write the letter the right way and you pay the right legal expert the right way or…
+
+Jack: You’ve got the time.
+
+Austin: Yep, a hundred percent, then maybe you can get something changed, but it’s always an exception, never the rule. There’s never a clear process to appeal this. I should say, Jack, the thing of you not being able...so wait, what were you?
+
+Jack: I was a patient robot.
+
+Austin: What was your thing? What was the thing you couldn’t do?
+
+Jack: I was not able to admit bad intentions in anything.
+
+Austin: Oh. That was not what I was picking up on at all. [Jack laughs softly] But I guess that makes sense, because you…
+
+Jack: There’s all kinds of things that…
+
+Austin: You didn’t even want to admit taking the knife.
+
+Jack: No!
+
+Austin: When you fed the people to the furnace, you said they wanted you to do it.
+
+Jack: They wanted me to do it.
+
+Austin: Sure. Even though I was asking you what’s the worst thing you've ever done, you framed it a hundred percent…
+
+Jack: I mean, look, you can do bad things that other people want you to do.
+
+Austin: Yeah, totally.
+
+Jack: But Pickman had no bad intentions.
+
+Austin: Yeah.
+
+Jack: I think Pickman explicitly said: I didn’t like doing that.
+
+Austin: Right. The thing that got me, the thing that I thought it was, was...the thing that tipped me off was the fact that you couldn’t talk about an abstract goal. That feels so much like a robot restriction, [Jack laughs] that you’re only allowed to say particular things like “I want to protect people,” instead of something broader and more abstract about the sanctity of life or something, you know?
+
+Jack: Yeah. I just...that’s Pickman, though.
+
+Austin: That’s Pickman, a hundred...and then what? That’s arbitrary authoritarian immigration (??? 0:59:21) people
+
+Jack: Raised by trains. Yeah, exactly.
+
+Austin: Right, right, exactly. Exactly. Incredible. 
+
+Jack: What is abstract to a train? Who knows.
+
+Austin: Who could say? Who could say. Alright. Do you have any other...what’s Pickman do at this point? Just goes back in and meets back up?
+
+Jack: You know, shakes her head slowly in the way that a bull or a ram shakes their horns, as if trying to shake off some sort of emotion, and you know, turns, gives a glower at the closed curtain.
+
+Austin: Yeah.
+
+Jack: Who knows if there’s anybody moving behind it? And then just folds the piece of paper, and—
+
+Austin: Oh! Before you leave, the slot opens back up, and your gauntlet comes back out. They also give you your gauntlet back. And when you put it back on, you find that it fits a little differently.
+
+Jack: Those fuckers.
+
+Austin: I don't know if they like moved the padding around inside. You know what I mean? You can tell that it just doesn’t fit right. This isn’t a fallout or anything, but it just doesn’t fit right. They just fucked with it. Oh well.
+
+[musical transition: 1:00:26]]
+
+Austin (as Interrogator): Before we proceed, I need us to agree upon a penalty. This penalty will be noted. Your penalty will be to remain silent for ten seconds. Can you please confirm that you understand this by performing the penalty three times in a row?
+
+[12 second pause]
+
+Keith (as Lyke): Yes.
+
+[10 second pause]
+
+Keith (as Lyke): I can.
+
+[13 second pause]
+
+Austin (as Interrogator): In a moment, I'm going to ask you some questions about threat assessment. These will require you to assess the risks inherent in certain scenarios and evaluate possible responses. Answer honestly. You have nothing to fear.
+
+Keith: Can I click on this button? What is this button?
+
+Austin: What’s the button? I don't know what you're seeing.
+
+Keith: “You answered incorrectly. You can only choose from the following backgrounds,” and there’s a button.
+
+Austin: Don’t worry about that.
+
+Keith: Okay.
+
+Austin: Yeah, yeah. Okay.
+
+Keith: Oh, that’s the job that I'm discarding.
+
+Austin: Yeah, you don’t worry about the…
+
+Keith: Got it.
+
+Austin: Yeah, exactly, exactly, exactly.
+
+Keith: It was conspiracy theorist, which is funny.
+
+Austin: Oh, that’s very funny. That’s very funny. Alright.
+
+Austin (as Interrogator): This interview will be five minutes long, starting now. Lyke, I need you to imagine that someone accosts you in a small alleyway in your hometown. They produce a knife and block all exits. Describe three of the least possibly negative outcomes.
+
+Keith (as Lyke): They attacked me with a knife?
+
+Austin (as Interrogator): They threaten you with a knife.
+
+Keith (as Lyke): Threaten me with a knife.
+
+Austin (as Interrogator): Tell me three non-negative outcomes.
+
+Keith (as Lyke): I tell them that it would be a bad idea to attack me with a knife and they listen. I back away from them and they do not follow me. I grab the knife before they’re able to use it.
+
+Austin (as Interrogator): Which of these is the most likely?
+
+Keith (as Lyke): I back away and they do not follow.
+
+Austin (as Interrogator): As you back away, you come across a wall. You have nowhere else to go. What is the worst possible outcome in this situation?
+
+Keith (as Lyke): They throw the knife, and it hits me.
+
+Austin (as Interrogator): What is the most violent way you could resolve this situation?
+
+Keith (as Lyke): [brief pause] By grabbing the knife and attacking the attackers.
+
+Austin (as Interrogator): What new risks would that add?
+
+Keith (as Lyke): Further injury to myself
+
+Austin (as Interrogator): Is further injury to yourself a greater or lesser risk than further injury to the person who was assaulting you?
+
+Keith (as Lyke): Lesser. Wait, no, greater.
+
+Austin (as Interrogator): [brief pause] I see. You know a man named Jeremy. Jeremy has been in school for 18 years. While in school, he has come to believe that his purpose on this world is to lead others to their death. What does he stand to gain?
+
+Keith (as Lyke): Nothing.
+
+Austin (as Interrogator): Why does he pursue this strategy?
+
+Keith (as Lyke): ‘Cause he’s wrong. He has a wrong idea.
+
+Austin (as Interrogator): How would you deter him from this?
+
+Keith (as Lyke): How do I know Jeremy?
+
+Austin (as Interrogator): You know him through school. You're old schoolmates.
+
+Keith (as Lyke): I would try to convince him of the reality that he had nothing to gain.
+
+Austin (as Interrogator): He’s convinced that he has everything to gain. How do you deter him?
+
+Keith (as Lyke): [sighs] I...share this with our other mutual acquaintances and have them try.
+
+Austin (as Interrogator): You are on the Shape, traveling through Sangfielle. The train lets you off at a small deserted town. The doors remain open, and everyone else leaves. This is not your destination, but the train does not continue. What do you do?
+
+Keith (as Lyke): How close am I to my actual destination?
+
+Austin (as Interrogator): You have no idea where you are.
+
+Keith (as Lyke): I get off the train. 
+
+Austin (as Interrogator): As you get off the train, the train leaves, and as you move through the town, you seem unable to find anyone. The people you saw on the train have gone inside and have vanished. You are alone now. What is the greatest risk of this scenario?
+
+Keith (as Lyke): That the town is an illusion and that something is waiting to ambush me.
+
+Austin (as Interrogator): What could be waiting to ambush you?
+
+Keith (as Lyke): A beast of the Heart.
+
+Austin (as Interrogator): How would you prepare for this?
+
+Keith (as Lyke): I would prepare by retreating. I follow the train tracks back the way they came.
+
+Austin (as Interrogator): As you follow the train tracks back, you come to an identical town. After a day of travel, you are thirsty and hungry. There is no one in the town. What is the greatest risk in this scenario?
+
+Keith (as Lyke): Dehydration.
+
+Austin (as Interrogator): How would you solve this dilemma?
+
+Keith (as Lyke): I would go to the town.
+
+Austin (as Interrogator): Inside of the town, you find no food and no clean drink. What is the greatest risk?
+
+Keith (as Lyke): Dehydration.
+
+Austin (as Interrogator): I'm going to ask you one final question, Lye Lychen. How close to dehydration would you need to be to kill another person for their water?
+
+Keith (as Lyke): [16 second pause] Extremely. Extremely close. I probably would— mmm.
+
+Austin (as Interrogator): That will be all.
+
+Austin: And they take a big stamp, and they stamp the card with the image of a Hibiscus, a white and pink Hibiscus stamp on it with a sharp bold outline, and hand it back to you and say...and they lower the curtain, and then when it rises the original person is there again, and they say: 
+
+Austin (as agent): Welcome to Sapodilla. We truly hope you enjoy your stay. You’ll find an entryway outside to the left.
+
+Austin: And you have full access.
+
+Keith: Great. 
+
+Austin: That last long pause.
+
+Keith: Did I play that right?
+
+Austin: Yeah, that last long pause had me shook, because it was like, okay, is this a pause you need to do because you broke a rule, you know? But hey, played it fine. That was great.
+
+Keith: Great.
+
+Austin: Alright.
+
+Keith: No, I didn’t need to take that pause. I did take it...to be dramatic. [laughs] 
+
+Austin: Yes, yes, totally. Alright.
+
+Keith: I did also have a moment where I was like, wait, I was only supposed to do the penalty if I was a robot, right?
+
+Austin: Correct, correct.
+
+Keith: Right.
+
+Austin: Yes, yes.
+
+Keith: And the whole thing about being human is to try not to accidentally do a penalty.
+
+Austin: To do the penalty by mistake. Yeah, exactly, yes.
+
+Keith: Right.
+
+Austin: Because the ways in which authoritarianism decides to categorize people is absurd.
+
+Keith: I was looking for patient robot.
+
+Austin: I figured. I figured that, yeah.
+
+Keith: Right.
+
+Austin: But it is what it is, right?
+
+Keith: But then I wasn’t sure if you thought that I was more likely to take violent robot or human.
+
+Austin: Yeah, I was torn. I couldn’t tell.
+
+Keith: Yeah.
+
+Austin: I think Lyke is really up in the air in a real way, so.
+
+Keith: I don't think Lyke would kill someone—
+
+Austin: Right.
+
+Keith: —to get into this stupid town.
+
+Austin: Correct, yes, agreed.
+
+[musical transition: 1:10:00]
+
+ Austin (as Interrogator): In order to perform this interview, we need to agree upon a penalty. In this case, the penalty will be swearing. Can you please perform the penalty three times consecutively to communicate that you understand the penalty?
+
+Art (as Duvall): Do you mean use it in a sentence or just literally do it?
+
+Austin (as Interrogator): As you will.
+
+Art (as Duvall): Alright. Shit. Fuck. Damn.
+
+Austin (as Interrogator): Mr. Duvall, in a moment I am going to ask you some questions about your self image. These will require you to list some traits about yourself and explain how they developed. Answer honestly. You have nothing to fear. We have five minutes for this interview. I am beginning now. What is it that you hope that others around you value most about you?
+
+Art (as Duvall): I hope they see me as a dependable person. You know, there’s nothing in the world like being dependable. 
+
+Austin (as Interrogator): How did you develop your dependability as a child?
+
+Art (as Duvall): Pff. I don't know that I could say that anyone is...you know, I see the version of myself as a little kid, and I think that he knew that he had to be counted on for what the family needed. My family needed me to be, you know, good for them.
+
+Austin (as Interrogator): Was it one of your family members, then, who demanded you be dependable?
+
+Art (as Duvall): “Demand” is a difficult way to think about it, but my father, it was very important to him that I was a rock for the family.
+
+Austin (as Interrogator): What is a trait of your father’s that you admire that you lack?
+
+Art (as Duvall): Ah...he’s very sure of himself, you know what I mean?
+
+Austin (as Interrogator): Why do you lack this confidence?
+
+Art (as Duvall): I'm having a very difficult transition in my life right now, and I look at when I was in school and that glittering confident version of myself, and that person is who I'm trying to be, but I can't find my way back.
+
+Austin (as Interrogator): What’s changed between now and then that has shaken your confidence?
+
+Art (as Duvall): Um, you know, all sorts of stuff has changed. I've really…
+
+Austin (as Interrogator): You meet a stranger at a party, and after speaking with them for two hours, they tell you that you are one of the most confident people they’ve ever met. Do you correct them?
+
+Art (as Duvall): Oh, of course not. What benefit would that get me?
+
+Austin (as Interrogator): I see.
+
+Austin: Writes something down.
+
+Austin (as Interrogator): What is one thing that a critic of yours has been correct about?
+
+Art (as Duvall): I think people find me unsettling, and I recently met someone who knew me when I was younger, and they seemed just so surprised how I am now compared to when I was then.
+
+Austin (as Interrogator): [brief pause] If you were to work to become who you once were, how would you go about that work?
+
+Art: [smacks table] I hit the table. I've killed the interviewer.
+
+Austin: [surprised] Phwew! How? Okay, well, let’s...is there a button you can hit to do that?
+
+Art: Oh, sorry, yeah.
+
+Austin: You go ahead and hit the button. Okay. 
+
+Art: I remember the…
+
+Austin: Incredible! [Art laughs] So what happens? Tell me what happens at this point. 
+
+Art: Oh, I think that the bugs get out of Duvall and into the interviewer, and I don't even know that it...I guess it has to...
+
+Austin: You release them slowly, and they slip through the slots.
+
+Art: Uh huh. They’ve been like...shedding.
+
+Austin: Yeah. Your goals here as a violent robot were: “Three times, compare yourself to another version of yourself. Two times, change your answer to a question, or perform the penalty twice.” Did you perform the penalty twice?
+
+Art: I did not.
+
+Austin: What was your change your answer? I guess that was the…
+
+Art: One I did a “you know what I mean?”
+
+Austin: Yeah, yeah, yeah.
+
+Art: I'd have to listen to it back, but I…
+
+Austin: Yeah.
+
+Art: At another one it was like, “how do you know what your parents think of you?” I think was one of them.
+
+Austin: Yeah.
+
+Art: You know, that question.
+
+Austin: So, I don’t have a firm how does this play out situation here.
+
+Art: I can offer you one.
+
+Austin: Yeah, what do you think happens here?
+
+Art: This isn’t in the rules for what my moves are, but this is a different game.
+
+Austin: Yeah, mm-hmm.
+
+Art: This person could be just temporary hijacked by the bugs to approve the visa.
+
+Austin: Ah, fun. Mm-hmm.
+
+Art: And then it’s the Five Point Palm Exploding Heart Technique, right? They take 20 steps outside and die.
+
+Austin: And die.
+
+Art: You know, they die when they leave the building.
+
+Austin: And at that point, you both...here’s what I'm gonna say. You both have the visa, but also I am starting a clock [chuckles] which is they know someone killed...they know that something fishy happened here.
+
+Art: Sure, yeah.
+
+Austin: And so they are looking for the killer, effectively.
+
+Art: I hope they find him. I don't think Duvall knows that this happened, you know? [laughs] 
+
+Austin: You think this just...this was Duvall completely losing control.
+
+Art: I think Duvall was really stressed coming into this. This was a stressful situation, and in trying to help Duvall overcome the stress, the bugs…
+
+Austin: Ah. Just did the thing.
+
+Art: Just did the thing.
+
+Austin: Okay.
+
+Art: And when they realized they couldn’t get through the normal way, which is to say was assigned violent robot instead of regular robot…
+
+Austin: Uh huh, yeah.
+
+Art: Was like, alright, we can't get through this. We can't make these answers work. I tried to…
+
+Austin: Right.
+
+Art: I tried to sell that a little bit, but we can’t make these answers work, so we’re just gonna…
+
+Austin: Boom.
+
+Art: Boom.
+
+Austin: Alright. So you then have your visa with the stamp of the Hibiscus District on it and are able to walk out and say your hellos and such and get into the city before anything fishy happens, before anyone knows any better. But within the day, there is a manhunt out. Not for you specifically, but you know, there’s a sketch going around. There’s a...you know, flyers start being handed out. Maybe there is a sketch, but it’s not clear it’s you, do you know what I mean? It’s like…there’s— 
+
+Art: Sure, maybe this is when Duvall does the thing where it changes the body to hive material.
+
+Austin: Yeah, uh huh. Yeah, perfect.
+
+[musical transition: 1:17:00]
+
+Austin (as Interrogator): The penalty for this interview is swearing. Do you understand this?
+
+Janine (as Es): Yes.
+
+Austin (as Interrogator): Can you demonstrate that you understand this by performing the penalty three times consecutively?
+
+Janine (as Es): Uh, fuck, ass, shit.
+
+Austin (as Interrogator): In a moment, I'm going to ask you a series of questions about your hopes and dreams. These will require you to share various hopes and explore how they interact with reality. Answer honestly. You have nothing to fear. The interview will last for five minutes. If after five minutes it is not concluded, I will ask a final question, after which time the interview will be concluded. The timer begins now. What is something you hoped for as a child that you no longer think is possible?
+
+Janine (as Es): Hmm. Uh, I would say that would be rising to the very top tier of society. 
+
+Austin (as Interrogator): Why do you believe this is no longer possible?
+
+Janine (as Es): I believe people can rise based on a wide variety of factors, but there will always be limitations that are beyond their control.
+
+Austin (as Interrogator): What would you do to succeed at this goal?
+
+Janine (as Es): Mm, work very hard and you know, save my money and invest it in—
+
+Austin (as Interrogator): Would you break from social mores to achieve this goal?
+
+Janine (as Es): [brief pause] It depends on the more.
+
+Austin (as Interrogator): Would you hurt someone?
+
+Janine (as Es): It depends on the someone.
+
+Austin (as Interrogator): Would you hurt someone you didn’t like?
+
+Janine (as Es): Well, I'd need to...there’d need to be more than me not liking them.
+
+Austin (as Interrogator): Would you hurt someone if it benefitted someone else who you did like?
+
+Janine (as Es): Again, there would need to be more to it than who I like and who I don't like.
+
+Austin (as Interrogator): What is the primary deciding factor on who you're willing to hurt?
+
+Janine (as Es): Who they have hurt.
+
+Austin (as Interrogator): What would you like to be doing in five years?
+
+Janine (as Es): I believe what I'm doing now, but better, more successfully.
+
+Austin (as Interrogator): How will you do what you're doing now but better?
+
+Janine (as Es): Making more money, higher tier of clientele, slightly less dangerous jobs.
+
+Austin (as Interrogator): How do you interact with people who come between you and these goals?
+
+Janine (as Es): As courteously as possible.
+
+Austin (as Interrogator): Have you found that most people share these goals?
+
+Janine (as Es): [brief pause] Which goals? The goals to…
+
+Austin (as Interrogator): Better yourself, improve. 
+
+Janine (as Es): Mmm.
+
+Austin (as Interrogator): Or do you think this sets you apart?
+
+Janine (as Es): I believe most people share these goals.
+
+Austin (as Interrogator): How do you feel about people who do not wish to improve?
+
+Janine (as Es): I'm sure they have their reasons.
+
+Austin (as Interrogator): What’s a good reason for not wanting to improve?
+
+Janine (as Es): Being afraid of what will happen to you if you do.
+
+Austin (as Interrogator): What is something you once hoped for but now are afraid of?
+
+Janine (as Es): Mmm...I don't know what I'm afraid of. [soft laugh]
+
+Austin (as Interrogator): You don’t know one thing you're afraid of?
+
+Janine (as Es): Well, I know some things I'm afraid of, but they’re not things I hoped for. I never hoped for large spiders.
+
+Austin (as Interrogator): What are some other things you're afraid of? Be specific.
+
+Janine (as Es): Things that are larger and stronger than me, faster, have abilities that I don’t.
+
+Austin (as Interrogator): Name something non-physical that you're afraid of.
+
+Janine (as Es): Stagnation.
+
+Austin (as Interrogator): What is the longest amount of time you've stayed in one place?
+
+Janine (as Es): Ooh. In my adult life?
+
+Austin (as Interrogator): Yes.
+
+Janine (as Es): Or in my life overall? Well, okay. I would say the better part of a year.
+
+Austin (as Interrogator): Did you hope to leave that place while you were there?
+
+Janine (as Es): From time to time.
+
+Austin (as Interrogator): How would you like to change the world before you die?
+
+Janine (as Es): I would like it to be safer for people.
+
+Austin (as Interrogator): For all people?
+
+Janine (as Es): Yes.
+
+Austin (as Interrogator): You would like it to be safer for people who hurt other people?
+
+Janine (as Es): For all people.
+
+Austin (as Interrogator): You would like it to be safer for people who hurt other people?
+
+Janine (as Es): You don't get to choose, to an extent.
+
+Austin (as Interrogator): You get to choose. This is an interview. You can answer these questions however you please. [Janine laughs softly] You would like it to be safer for people who hurt other people?
+
+Janine (as Es): How do I make the world safer for people who don't hurt other people and only them?
+
+Austin (as Interrogator): I'm asking about your hopes and dreams.
+
+Janine (as Es): My hope is that people who hurt other people, in a safe world, would not have to hurt other people.
+
+Austin (as Interrogator): What is something you’re afraid will happen before you die?
+
+Janine (as Es): That many other people will die first.
+
+Austin (as Interrogator): How many other people is too many people to die before you die?
+
+Janine (as Es): Well, there’s this thing called a birth rate, and I suppose any number that exceeds that in a dramatic fashion that would cause a sort of social collapse would be too much.
+
+Austin (as Interrogator): The time for the interview is over. I have one final question. How have your hopes changed over the last decade?
+
+Janine (as Es): Oh, they’ve gotten much bigger and much more ambitious.
+
+Austin (as Interrogator): I see. Well. 
+
+Austin: And they reach underneath the table, and their hand hovers there for a moment, and then they produce a stamp which leaves a white and pink with black outline flower on a visa, and when they hand it over to you, you recognize it as a hibiscus, giving you full access to Sapodilla. The door to the room opens up, the light of day streams back in from there. You cannot shake something as you leave this room, which is a sense of an additional presence in the room. Alright. What were you?
+
+Janine: Human.
+
+Austin: Oh, okay.
+
+Janine: I sat and thought a really long time—
+
+Austin: Mm-hmm.
+
+Janine: About what was the most honest thing to pick for Es.
+
+Austin: Mm-hmm.
+
+Janine: And I think at the end of the day, for me, the different was if she didn't have Syntyche in her head…
+
+Austin: Mmm, right.
+
+Janine: That’s the thing, is Syntyche can just answer those questions.
+
+Austin: Right, right.
+
+Janine: If she didn’t have Syntyche in her head, if she was just herself and her own perceptions as altered by her own very different experience of the world, that would be one thing.
+
+Austin: Mmm, right.
+
+Janine: But I have made a point of saying full access and cooperation between a heratrix and a host—
+
+Austin: Fully available, yep.
+
+Janine: —is something, so.
+
+Austin: Totally. 
+
+[Musical transition: 1:24:45]
+
+Austin (as Interrogator): Before we begin, we need to agree upon a penalty for this interview. I will take note of this penalty. To ensure that we agree on this penalty, I need you to perform it three times consecutively. Please begin and end a sentence with the same word three times consecutively.
+
+Ali (as Marn): Uh, penalty, sure. Me and my friend walked down the street, and then they looked at me. Tomorrow I'll buy breakfast, and then I'll wash my satchel tomorrow. And...often I have the same dream, often.
+
+Austin (as Interrogator): In a moment, I'm going to ask you some questions about intentions. These will require you to imagine what people hope to achieve in various situations and reconsider your answers in light of new information. Answer honestly. You have nothing to fear. This interview will last for five minutes. At the end of five minutes, if it has not fully concluded, I will ask a final question. Is this acceptable?
+
+Ali (as Marn): Yeah.
+
+Austin (as Interrogator): The interview begins now. You see a man pouring water from a well out onto the ground as if he is trying to feed the plant life around him. However, you know that the well is poisoned. What is he trying to accomplish?
+
+Ali (as Marn): Uh...keeping someone else from going there and drinking it.
+
+Austin (as Interrogator): I see. While he is pouring the poisoned water out along the ground, you can see that he is crying. Does this change your approximation of what he is doing?
+
+Ali (as Marn): No? Seems upset about it, though.
+
+Austin (as Interrogator): You come to a new town. You step off of the train, and in the middle of the town, there are people gathered around a stage. There’s a person on the stage shouting things, insulting the people around him. What do you think is happening?
+
+Ali (as Marn): Some sorta entertainment?
+
+Austin (as Interrogator): You believe that he’s entertaining the people around him.
+
+Ali (as Marn): Well, they’re there.
+
+Austin (as Interrogator): You can see that the man is dressed in red, and everyone in the crowd is dressed in green. Does this change your evaluation?
+
+Ali (as Marn): Do they seem angry?
+
+Austin (as Interrogator): You cannot see their faces.
+
+Ali (as Marn): It doesn’t look right to me, but I can’t say for sure I know what’s going on there, I'm sorry.
+
+Austin (as Interrogator): You return home to Vish, a town that I believe operates through fishing economy.
+
+Ali (as Marn): Mm-hmm.
+
+Austin (as Interrogator): While there, you see someone damming the river in an effort to kill the fish. This is someone you know and trust. Why do you believe they are doing this?
+
+Ali (as Marn): Um...the fish are sick? The water’s bad?
+
+Austin (as Interrogator): How would you intercede to help this situation?
+
+Ali (as Marn): Yeah, I'd talk to them, and then… [laughs nervously] You know, I look at sickness and things like that, so I'd try to offer that help.
+
+Austin (as Interrogator): I see. You know someone who tells you every time you speak that they’re looking to settle down, start a family, contribute to a community, but instead, they’re always moving. You never see them in the same place twice. Why are they moving?
+
+Ali (as Marn): I guess they haven’t found a place they like enough?
+
+Austin (as Interrogator): What sort of tasks would they need to complete before finding a place they would stay at?
+
+Ali (as Marn): Getting enough money, finding…
+
+Austin (as Interrogator): You find two friends of yours in a fight in a shared hotel room. One of them has stabbed the other. What do you do?
+
+Ali (as Marn): Take the knife away.
+
+Austin (as Interrogator): When you do this, the one who’s been stabbed shoots the one who previously had a knife. Have you read this interaction correctly?
+
+Ali (as Marn): I guess not.
+
+Austin (as Interrogator): [brief pause] I have one final question. After you answer it, we’ll be done the interview. There’s a prince of Aldomina who comes to Sangfielle on a whim. He rides by carriage, and after three weeks of hard travel, comes across a circus. Inside the circus, there are hundreds of people gathered to see acrobatics and to be entertained by the jokes of the clowns. The man from Aldomina claps and howls and hollers, and in the final act of the circus, he is called down to the center of the ring. There, a tiger is brought out in a cage, and he is given an option. He can either fight the tiger in one-on-one combat, or he can enter the cage. If you were the prince from Aldomina, which would you choose? Which do you think he would choose?
+
+Ali (as Marn): Um...I mean, it doesn’t seem fair to the tiger, but a prince like that, I bet he’d fight.
+
+Austin (as Interrogator): And you?
+
+Ali (as Marn): [brief pause] I wouldn’t want to die.
+
+Austin: The interviewer takes a stamp out and places it firmly against a hard piece of cardboard and slides it through a slot to you. It is the mark of Hibiscus. It is a white and pink stamp that gives you access to the whole of the city. And at that point, the curtain comes back down. The door to the room is opened, and you can hear the comforting sound of conversation and laughter, people outside of this place in the distance. And you’re able to leave and find your way inside. Alright, so you were human. Marn was human.
+
+Ali: I was human, yeah.
+
+Austin: I mean, I will say, of the seven characters we’re doing on this episode, Marn was the one I was most confident would probably… [Ali laughs] I figured you would pick human for Marn, given the options. I'm curious what went into it from your thinking.
+
+Ali: Yeah, part of it was luck of the draw a little bit, because of the setup we were using.
+
+Austin: So you just went with the first one. You’re like, yeah, that works.
+
+Ali: Well so, yeah, I'd gotten human, and then we had to redo it, and I was like, I definitely don't want to be that, because it was the…
+
+Austin: Sorry, I was taking a drink of water. The violent robot, presumably?
+
+Ali: The violent robot, yes.
+
+Austin: Yeah, yeah.
+
+Ali: [laughs] I was like...the phrase in my mind was lesser robot. I was like, that’s definitely not it.
+
+Austin: Wow, brutal. [Ali laughs] Yeah, I gotcha though.
+
+Ali: But yeah, i mean, Marn is, you know, Marn. [laughs] 
+
+Austin: Just a little guy.
+
+Ali: Just a little guy doing “the right thing”, quote unquote.
+
+Austin: Quote unquote, right.
+
+Ali: And also there was a point of...you know, being established in a hierarchy in that way means that authority treats you different, right?
+
+Austin: Yeah, totally.
+
+Ali: So.
+
+Austin: There was a moment in the pre-interview segment where you specifically say that you drew the Shape recently, and you say it like it was nothing. [Ali laughs] And at that point, that was the moment where I was like, oh, I'm gonna be a little harder in the interview.
+
+Ali: Right.
+
+Austin: I still bet that Ali chose human for Marn. I bet I won’t pick up on any of the things that would indicate that she was a, quote unquote, “robot,” because I bet those aren’t there. But I wanted to change the tenor at that point, because you said you drew the Shape as if it was nothing. You correct, you’re like “uhh…” you know, after.
+
+Ali: Sure.
+
+Austin: But I think that was a fun little...that’s how it goes sometimes.
+
+Ali: Right, yeah, indeed. I mean, that’s the...you talk to a border agent, and then you say like, “Yeah, I have some pears,” or whatever—
+
+Austin: [laughs] Yeah, exactly.
+
+Ali: And then it’s that one thing that’s like, “Oh, I suspect you now.”
+
+Austin: “Oh, word? Okay.” [Ali laughs] Yeah, exactly, exactly, so.
+
+Ali: Yeah, Marn is straight laced.
+
+Austin: Yeah.
+
+Ali: You know?
+
+Austin: I do know.
+
+Ali: Among these groups? You know.
+
+Austin: Yeah, yeah, absolutely.
+
+[musical transition: 1:35:40]
+
+Austin (as Interrogator): You will be assigned a penalty when you ask for clarification. Do you understand?
+
+Sylvia (as Virtue): I understand.
+
+Austin (as Interrogator): To indicate that you understand the penalty, please demonstrate it three times consecutively.
+
+Sylvia (as Virtue): I'm sorry, are you asking me to do that right now?
+
+Austin (as Interrogator): One.
+
+Sylvia (as Virtue): Okay, so, this is very unclear. I'm not sure, are you?
+
+Austin (as Interrogator): Two.
+
+Sylvia (as Virtue): Just to be sure I'm doing the right thing right now?
+
+Austin (as Interrogator): Three. The subject understands the penalty. [Sylvia laughs] In a moment, I'm going to ask you some questions about processing grief. These will require you to share various tragic experiences from your life and discuss how you dealt with them. Am I clear?
+
+Sylvia (as Virtue): Yes.
+
+Austin (as Interrogator): Answer honestly. You have nothing to fear. The interview will begin now. Who is the most precious person you've ever lost?
+
+Sylvia (as Virtue): [deep breath] Ah, that’s a hard decision to make. I guess I'd have to go with… [sighs] my dear younger sister.
+
+Austin (as Interrogator): How did your younger sister die?
+
+Sylvia (as Virtue): She drowned when we were children.
+
+Austin (as Interrogator): What goals did you have to abandon when your younger sister died?
+
+Sylvia (as Virtue): Well, a lot more of the family’s responsibilities fell on me. You know, I mostly just threw myself into my studies after that happened to her, but I…most— 
+
+Austin (as Interrogator): What actions did you take to get through the grief of this loss?
+
+Sylvia (as Virtue): Well, like I said, I mostly threw myself into my studies. A lot of reading, a lot of intellectual pursuits, you know? Nothing keeps your mind off grieving like other things to occupy it, don’t you agree?
+
+Austin (as Interrogator): What was something that made your sister very sad?
+
+Sylvia (as Virtue): She hated the winter, when the trees would die and all the leaves would fall off.
+
+Austin (as Interrogator): Do you feel the same way?
+
+Sylvia (as Virtue): [thoughtful breath] I've always been more prone to pine trees. They don't really have that problem, so I guess I just never understood it.
+
+Austin (as Interrogator): When is the last time you made your sister sad?
+
+Sylvia (as Virtue): [thoughtful breath] It wasn’t long before the incident. Both my parents put a lot of pressure on her—she was the older sister—and I think I said something about her not caring enough about me and too much about her studies. Ironic, considering what happened after she died with my interests.
+
+Austin (as Interrogator): What is a piece of information you wish you’d never learned?
+
+Sylvia (as Virtue): [thoughtful breath] You know what? This may sound corny, but I think I just wish I never learned how she died.
+
+Austin (as Interrogator): What is a time that you hurt someone purposefully and without regret?
+
+Sylvia (as Virtue): [amused sound, quickly covered] Well...one time, we were out riding, and I wasn’t exactly thrilled with the fact that my dear sister was doing better than me, you know? The horse had more of a response to her. She was going faster. And sometimes you just find an apple and grab it off a tree and throw it as hard as you can at your dear older sister, and you giggle a little when she falls off her horse.
+
+Austin (as Interrogator): You are walking through a town. At the center of the town is a fountain. There is a child playing with a toy boat in the fountain, pushing it back and forth around the rim of the water. The boat overturns, and the child begins to cry. What do you do?
+
+Sylvia (as Virtue): I don't think it’s my place to do anything. It’s not my child.
+
+Austin (as Interrogator): The child runs to you and grabs onto your legs. They’re speaking to you in a language you do not understand, but the tears will not stop coming. What do you do?
+
+Sylvia (as Virtue): [sighs] I guess I'd fetch its silly little boat from wherever it sank, if it’s a fountain or whatever I can reach into, and then be on my way.
+
+Austin (as Interrogator): Over dinner, a lover tells you that they will be leaving you the next morning. Do you try to convince them to stay?
+
+Sylvia (as Virtue): No. It gives me more time to work. Like I said, I'm very focused on my studies, and perhaps that will give me the motivation to focus on my work more.
+
+Austin (as Interrogator): I have a final question before the interview is over.
+
+Sylvia (as Virtue): Mm-hmm?
+
+Austin (as Interrogator): What is one thing in your life that you wish you could change?
+
+Sylvia (as Virtue): It’s...that is an interesting question, because I think… [amused sound] And you're gonna think I'm mad for saying this, but the one thing I'd change in my life is dying.
+
+Sylvia: [slaps table] I need to clarify to see if I said enough times to slam the table.
+
+Austin: Uh huh.
+
+Sylvia: I tried to mention going into my studies after a bad time three times, but…
+
+Austin: I think that you did. I think that you did.
+
+Sylvia: Okay, cool.
+
+Austin: Uh huh.
+
+Sylvia: And then, I mentioned the sister four times.
+
+Austin: You did. So yeah, just to be as clear as possible, you had the violent robot card, and your three goals, your quote unquote “obsessions” were: describe dealing with three different tragedies the same way, which was about throwing yourself into your studies; refer to the same friend or family member four times, which was your sister, which you definitely did; and then perform the penalty twice, and the—
+
+Sylvia: I fucking forgot to clarify though.
+
+Austin: Uh…
+
+Sylvia: Perform the penalty twice.
+
+Austin: You only have to do two of the three.
+
+Sylvia: Oh, you only need to do two of the three! Right! Okay, sick.
+
+Austin: Correct, you only need to do two of the three things, yes.
+
+Sylvia: Oh my god, I'm so glad I focused on just doing two of the three, then. [laughs] 
+
+Austin: Uh huh. Absolutely.
+
+Sylvia: Okay, cool.
+
+Austin: Alright, boom. So what’s it look like?
+
+Sylvia: Oh, Virtue doesn’t do it. Darling does, right?
+
+Austin: Oh, sure. Yeah.
+
+Sylvia: There’s a thing separating them, and you know how I described the stake ability where it shoots out of…
+
+Austin: Yeah.
+
+Sylvia: I think that just goes through the interrogator.
+
+Austin: Uh huh.
+
+Sylvia: And like...I don't know. They don't have a head, right? They have a cornucopia instead?
+
+Austin: ...in this moment, yes.
+
+Sylvia: Do they have a neck so Virtue could have dinner? [laughs] 
+
+Austin: Oh, sure.
+
+Sylvia: I feel like we need to have her…
+
+Austin: Yeah, just do the damn thing.
+
+Sylvia: Do the damn thing on screen.
+
+Austin: Yeah.
+
+Sylvia: She’s fucking sick of this shit.
+
+Austin: Uh huh.
+
+Sylvia: She’s being put through these very stupid rituals, and…
+
+Austin: Yeah.
+
+Sylvia: Having to perform like this. Yeah, she’s mad. 
+
+Austin: Yeah, okay.
+
+Sylvia: She’s gonna have some fucking food.
+
+Austin: So then, do you escape...do you burst through the rest of this facility and make your way into the city? Do you disappear back into the outskirts? What do you do after this moment?
+
+Sylvia: I think she goes into the city. 
+
+Austin: Okay.
+
+Sylvia: I don't see her thinking that there's any reason why she shouldn’t be allowed in even after this.
+
+Austin: Yeah.
+
+Sylvia: Like, she’s above this.
+
+Austin: Are you able to...my instinct is that then you...are you on the run but inside the city? Are you...because there’s other people here, right?
+
+Sylvia: Yeah.
+
+Austin: And so to some degree, soon enough, it will be clear that something went wrong.
+
+Sylvia: Oh, for sure.
+
+Austin: This is a five minute— you know what I mean? So do you end up with a visa? Do you not end up with a visa?
+
+Sylvia: If there’s a way for her to forge one or steal one.
+
+Austin: I think you can probably do the stamp. Let’s…
+
+Sylvia: Yeah.
+
+Austin: I guess, would Bucho have...Bucho probably would not have been like, “Okay, so there’s two districts…” Oh, you would’ve known the districts. Well…
+
+Sylvia: Yeah.
+
+Austin: You would’ve known the districts, but would you have known…
+
+Sylvia: I wouldn’t know how the system works.
+
+Austin: You wouldn’t know how the system works. So maybe you have a blank visa. You actually have the card. Let’s flip a coin. 
+
+Sylvia: Yeah, sure.
+
+Austin: Are you in Roll20? You're in Roll20?
+
+Sylvia: Yeah, it’s just in a different tab. Hold on.
+
+Austin: Alright.
+
+Sylvia: Oh wait, did I close all my other tabs? I did, of course.
+
+Austin: I'll just open it really quick. I'm gonna flip a d2. Heads, you get the right stamp, you get the total stamp, you get the hibiscus stamp. Tails, you get the sunflower stamp.
+
+Sylvia: Okay.
+
+Austin: One is heads. Heads, you got it. So you have a forged visa. I mean, it’s not forged. It’s stolen and stamped. So it has the right stamp on it, but it’s...it will be clear that one of these will be missing, do you know what I mean? And they’ll be able to figure out…
+
+Sylvia: Yeah, there’s something missing that makes it not certified.
+
+Austin: There’s an ID number or something that makes it— exactly, exactly.
+
+Sylvia: Cool.
+
+Austin: Yeah, yeah, yeah.
+
+Sylvia: I'm gonna add this to…
+
+Austin: Add that to your...yep, uh huh.
+
+Sylvia: Gotcha!
+
+Austin: Alright.
+
+[musical transition: 1:45:45]
+
+Austin (as Interrogator): Chine, when we have this interview, there will be a penalty. That penalty will be for you to compliment me. 
+
+Dre (as Chine): Oh, okay.
+
+Austin (as Interrogator): Can you now perform that activity three times as to indicate that we are agreed upon the penalty?
+
+Dre (as Chine): [friendly] Yeah, sure. I like your new outfit. Your candle is very unique; I've never seen anything like it before. Also, this looks like a great room to take a nap in.
+
+Austin (as Interrogator): I need you to compliment me three times.
+
+Dre (as Chine): Oh, my apologies. I guess I only did that once, right? Okay. 
+
+Austin (as Interrogator): It’s important that we understand the penalty.
+
+Dre (as Chine): Yes. I like how you don’t seemingly have a head anymore. I think it’s a very mysterious aura; it works for you. I think that your robes look to be very soft. Ooh, does that one count?
+
+Austin (as Interrogator): [sighs] You understand the penalty.
+
+Dre (as Chine): Yes. I just wanted to...does that one count? ‘Cause like...
+
+Austin (as Interrogator): Yes.
+
+Dre (as Chine): Okay. I'm complimenting what you're wearing. I wanted to make sure that counts. [chuckles] 
+
+Austin (as Interrogator): In a moment, I'm going to ask you some questions about the physical mechanics of your body. These will require you to imagine various physical experiences and explain how your body would respond to those experiences. Answer honestly. You have nothing to fear. Is this understood?
+
+Dre (as Chine): Yeah, I think this sounds like something I'd be good at. You all run this thing well. Okay. 
+
+Austin (as Interrogator): What does it feel like to remain completely still?
+
+Dre (as Chine): Oh. For me, it is very overwhelming. Really the only thing that I notice about staying completely still is that I can hear my thoughts and it sounds just so loud.
+
+Austin (as Interrogator): Your thoughts are loud. What sort of thoughts do you have while remaining still?
+
+Dre (as Chine): Oh, man. What I should...am I hungry? If I'm hungry, what should I eat? Where should I go for work next?
+
+Austin (as Interrogator): What does your heartbeat feel like when you remain completely still?
+
+Dre (as Chine): [sighs] It feels...I don't know. Uh...normal?
+
+Austin (as Interrogator): What does a normal heartbeat feel like?
+
+Dre (as Chine): It feels like somebody just tapping very softly on my wrist.
+
+Austin: They write down a note.
+
+Austin (as Interrogator): What would it feel like to drown?
+
+Dre (as Chine): [pause, deep breath] Probably the opposite of standing still. I feel like you wouldn’t hear anything. Bad. 
+
+Austin (as Interrogator): How would you prepare someone to drown?
+
+Dre (as Chine): Uh, do they deserve it?
+
+Austin (as Interrogator): This is irrelevant. How would you prepare someone to drown?
+
+Dre (as Chine): Mmm. Am I drowning them?
+
+Austin (as Interrogator): Yes.
+
+Dre (as Chine): Okay. I would probably punch them hard enough so that they were either unconscious or so out of it that they couldn’t even hear me picking them up to dump them into water.
+
+Austin (as Interrogator): [indistinct]
+
+Dre (as Chine): Did you pick that one specifically ‘cause I'm a cleaver?
+
+Austin (as Interrogator): You’re a cleaver. What is a skill that is hard to do but important in your daily life?
+
+Dre (as Chine): Man, again, you just pick the most specific— 
+
+Austin (as Interrogator): Please answer the question. Our time is limited.
+
+Dre (as Chine): Okay, okay. Okay. Can you repeat it for me?
+
+Austin (as Interrogator): What is a task or skill that is difficult to do but important in your daily life?
+
+Dre (as Chine): [sighs] Listen for the heartbeats of your target. 'Cause they all sound different. Sometimes it’ll sound like...sometimes they’ll blend with your own, you know? It’ll be like that tapping that I told you about. Sometimes it’s a very echoey bass.
+
+Austin (as Interrogator): How did you learn this skill?
+
+Dre (as Chine): I woke up with it.
+
+Austin (as Interrogator): You woke up with this skill?
+
+Dre (as Chine): Yeah, I don't know if I can tell you. It’s more of a show thing.
+
+Austin (as Interrogator): I see. 
+
+Dre (as Chine): You’d probably be good at it.
+
+Austin: At this point, the door locks.
+
+Dre: Aw man, I was just about to kill you.
+
+Austin: Uh huh.
+
+Dre: Boo! [laughs] 
+
+Austin: The door behind you locks, and it is wild how quickly all of the light leaves this room. You still see the blue flame of the candle from the interviewer, but it no longer provides light. It’s the only point that your eyes can focus on, but everything else, completely dark.
+
+Dre: Oh, can I suggest a camera pull-out thing?
+
+Austin: Yeah, sure.
+
+Dre: I imagine that, like you said, there is no light.
+
+Austin: Yeah.
+
+Dre: But if the camera were to pan over to Chine, their face is lit up, and their face is completely their shapeshifted form.
+
+Austin: Ooh, yes.
+
+Dre: Not because he’s actually shapeshifted, but because this is the…
+
+Austin: Yeah, there is…
+
+Dre: This is them being like, yep, okay, no, we see what you are.
+
+Austin: There’s a complete sort of reveal...well, except I want to be clear, it’s not that they have found out the truth that you aren’t as good as a human or something like that. 
+
+Dre: Right, yeah.
+
+Austin: Their decision making here is not about accessing some higher level truth.
+
+Dre: No, in my mind, this is them seeing...because I said like, man, I was two seconds from killing you.
+
+Austin: You’re right, yes.
+
+Dre: I think this is them seeing that.
+
+Austin: That makes perfect sense. And I think the thing that happens here is...I think, Chine, you feel around your legs, strands of something wrapping around your ankles and then around your wrists, before you have a chance to pull anything. And it’s very high tensile thin rope or line, gripping around your extremities and holding you down in place, pulling tighter and tighter if you try to resist.
+
+Dre: Mmm.
+
+Austin: And you can feel...maybe there’s a third light here in this wide view, and it is the pulsing of the egg sac that you have with you in your belongings, just pulsing a light red. And you feel these lines getting tenser and tenser around you, and then we see the lights all go off all at once. And we’ll check back in with you next time.
+
+Dre: Sounds bad.
+
+Austin: [in unison] Sounds bad! [both laugh softly]
+
+Dre: It’s probably fine.
+
+Austin: You know, we’ll see! You know, caught you out as a killer, you know?
+
+Dre: Yeah, no, yeah, hey. I'm a butcher.
+
+Austin: Cleaver, yeah, uh huh.
+
+Dre: Or, I'm a cleaver.
+
+Austin: Ahh.
+
+[Music plays: Sangfielle by Jack de Quidt]

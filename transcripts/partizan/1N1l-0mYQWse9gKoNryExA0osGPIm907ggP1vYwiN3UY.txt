@@ -1,0 +1,3258 @@
+PARTIZAN 14: Deception in the Canyon City
+Transcriber: Brigid @woodlandmists/brighty#2727
+
+CW: Body Horror at 1:31:17 - 1:32:57
+
+-
+[Jack de Quidt’s TANAGER. PERFECT. TOUCHPAPER. begins playing]
+
+AUSTIN: Before they were Stel Nideo, progenitors of Asterism put little in as high esteem as poetry.  So sublime was verse that they made it the cornerstone of their faith, filling their doctrine with metaphor and meter, and even naming the greatest defenders of this prelapsarian twilight after its most eloquent expressions.  But by the fifteenth century of the Perfect Millenium, Stel Nideo had developed a more functional relationship with the poem.  To rhyme was to draw attention, to deploy imagery was to influence, and to build a canon of texts was to make a vault, inside of which civilization would be protected forever.  Which is why it should come as no surprise that Nideo’s most complicated locks are built around poetic ciphers and literary charades.  Accessing the Stel’s innermost secrets requires more than just knowing a code phrase or being able to quote the great works.  It means inhabiting the aesthetic logic of empire.  Few know this as well as Jesset City, rising star of the Oxblood Clan, who’d spent years studying the literature which wielded a sort of disinterested cruelty towards people like him.  The poems of the great masters would not simply call him wounded or disabled, but unfinished or broken.  All so that he could take on jobs for the sorts of people who loved their own words so much that they turned them into keys.  Well, he had his Cipher Certification now, didn’t he.  And the technical know-how, combat experience, and raw nerve necessary to put them to use.  And so, when a simple job protecting the Partizan Palace came across the Oxblood Clan’s desk, he saw an opportunity drenched in irony.  They’d taught him how to open the doors so that he might repair them.  Instead, he decided, he’d blow them the fuck open.
+
+[Jack de Quidt’s TANAGER. PERFECT. TOUCHPAPER. continues playing until end of song]
+
+AUSTIN: Welcome to Friends at the Table, an actual-play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends.  I am your host, Austin Walker, and joining me today, Alicia Acampora.
+
+ALI: Hello, um, you can find me @ali_west on twitter.com and you can find the show over @friends_table.
+
+AUSTIN: Andrew Lee Swan.
+
+DRE: Hey, you can follow me on twitter @Swandre3000.
+
+AUSTIN: And Janine Hawkins.
+
+JANINE: Hi, you can follow me on twitter @bleatingheart.
+
+AUSTIN: You can follow me on twitter @austin_walker, you can follow the show @friends_table, and as always- Ali already said that part.  Thank you Ali for saying that part already, I didn’t mean to (JANINE chuckles) duplicate your work.  Um, you can support us by going to friendsatthetable.cash.  Um the- any announcements?  I don’t think so.  Oh I guess-
+
+DRE: You wanna say the Bluff City thing?
+
+AUSTIN: I’ll say the Bluff City thing here.  I said it already on-  By the time this is out, it will have been true for two weeks.
+
+DRE: Yeah, fair.
+
+AUSTIN: And I said it on the SBBR downtime episode, but I’ll say it again.  Bluff City is free!  You can go listen- uh, season one of Bluff City is free.  You can go listen to it by going to tinyurl.com/freebluff.  F-R-E-E-B-L-U-F-F.  Um, you can also just go to the Patreon page and look up Bluff City and all of the season one stuff will be free to listen to.  There’s also now, in the description of episode one, there is now a link to a zip file that has all the mp3s so that you can download it, because Patreon doesn’t let you download unless you’re supporting someone, so there’s no like, link to download if you’re not already supporting us at least at the one dollar level, and we wanted to make sure that was possible, so you can just click that link, it’s good to go.  Uh, so yeah, there you go.  Um-
+
+ALI: Um, one other thing is that um, we’ve been linking out transcripts on our um,
+
+AUSTIN: Right!
+
+ALI: On our episode descriptions now.  Those are being added to the episode descriptions when we get the chance.  Um, but you can find a full list of all completed episode transcriptions over at tinyurl.com/transcriptsatthetable.  No spaces, transcripts, plural, at the table.  Um, and then you can find the uh, the transcription team if you wanna join them or if you want more information, and that is, um…
+
+AUSTIN: It’s @transcript_fatt
+
+ALI: Okay.
+
+AUSTIN: But you could just search for “Transcripts at the Table” and you’ll find them.
+
+ALI: (laughing) Sure.
+AUSTIN: That’s probably the easiest way.  And all the links are there.
+
+ALI: Yeah, yeah.
+
+AUSTIN: And if you wanna join, all that info is there too, so.  Shoutouts to that team-
+
+JANINE: (crosstalk) Mercifully few Ed Sheeran results for that particular search.
+
+(DRE laughs)
+
+AUSTIN: Yes.  Unlike Friends at the Table, which is poisoned by Ed Sheeran.  So.  When we played last time, y’all were on the Isles of Logos, the Isle of Logos.  You were, uh, being escorted into… Gucci Garantine’s like- you were already in the Horizon base, but she was going to lead you to like, some sort of briefing room, right?  I’m not missing anything?
+
+ALI: Yeah.  Yeah, that’s it.
+
+DRE: (crosstalk) That sounds right.
+
+AUSTIN: And you were gonna get a briefing about a mission that she wants you to come on.  Um, on which, she will also be attending, she will be with you on that.  Um, also, secondarily, briefly, before we actually continue, can we go over beliefs and, uh, if anyone has, I don’t remember-  There’s one, there’s one scar, right Valence, you’re the only one with a scar still?
+
+DRE: I believe so.
+
+AUSTIN: Alright, so let’s go over beliefs and scars.  Uh, let’s start with you Valence.
+
+DRE: Um, you wanted beliefs and scars, right?
+
+AUSTIN: Yeah, beliefs are the relationship beliefs, you know, the connections.
+
+DRE: (crosstalk) Yeah, yeah, yeah.  Yeah, so I have one scar, it is Haunted.  My beliefs: “Broun is quite dependent and competent, I hope to see them as trustworthy.”  Um, for Thisbe I have two.  “I’m not sure why Thisbe resists her potential, but I want to open her eyes.”  My second one is that “Thisbe is simple and straightforward.”
+
+AUSTIN: Great.  Good.  Uh, Broun, can I get yours?
+
+ALI: Um, yeah, but I think that I need to- We discussed this, and it was disapproved but it’s still written here.
+
+AUSTIN: Yeah, we can- we can work with it.
+ALI: Yeah, I um, so, for players at home, (AUSTIN laughs) anyone who’s also switching from Dungeon World to Beam Saber, um, the bonds are kind of tough here because they shouldn’t be, like, “I” statements.
+
+AUSTIN: Right.
+
+ALI: Unless it’s like, an assumption about the character.
+
+AUSTIN: It can be like- the secondary part can be an “I” statement, the primary statement should be like- the one that Valence just had for Thisbe, “Thisbe is simple and straightforward.” It’s primarily about how your character sees another character, less about- it’s less of a vector for you describing your own character, which is what they were for us in Dungeon World.
+
+ALI: Right.  (laughing) I’m also playing a deeply selfish person, so this is tough for me to like, think outside of Broun’s head.
+
+AUSTIN: (crosstalk) Sure. Sure.  Yeah.
+
+(DRE giggles)
+
+ALI: I’m gonna read them as is-
+
+AUSTIN: (crosstalk) Think about- My advice that is like, think about a con person, not that Broun is a con person, (ALI laughs) but think about a con person working a room.
+
+ALI: Right.
+
+AUSTIN: Being like, okay, that person is, is a draw-
+
+JANINE: (crosstalk) A mark?
+
+AUSTIN: That person is a mark, that person is- exactly that.  Yeah, exactly that.
+
+ALI: Yes.  Yes, yes, yes.
+
+AUSTIN: This person’s eyes are blah blah blah.
+
+ALI: Right.  I’m-
+
+JANINE: That person is strong and can help me rear children.
+
+(ALI laughs)
+
+AUSTIN: Yes.
+
+ALI: Um, I’m gonna read what I have as written, and then it will probably change by next recording and we can talk about it.  Um, but my, my beliefs for Thisbe, the first one is, “If I can gain Thisbe’s trust, I can help her to get me develop something.”  Um, and then my second one is “Forget developing something, I can make Thisbe think I’m a ticket out.”  Um, and-
+
+AUSTIN: Which, I think that the subtext to that is still a good belief, right?  Cause the subtext there is something about believing that Thisbe can be taken in.  Right?
+
+ALI: (crosstalk) Right.  Yeah.
+
+AUSTIN: Um, and that to me is the thing that we should drill at and get to-
+
+ALI: (crosstalk) Right.
+
+AUSTIN: The belief is just like- yeah.
+
+JANINE: (crosstalk) Yeah.  When-
+
+ALI: (crosstalk): I think I’m gonna switch it- oh sorry, you go on.
+
+JANINE: No, you go ahead.  (ALI laughs)  It’s your belief, you do it.
+
+ALI: Um, I was gonna switch it to the opposite way, which is like, “If what Thisbe wants is to get out of here, I’m gonna see how far she’ll go” or whatever.  Um-
+
+AUSTIN: I think than that- you have to go further to “Thisbe will do anything to get out of here.”
+
+ALI: Sure.  Okay.
+
+AUSTIN: It has to be an active, clear belief, because you could be wrong, it doesn’t- you shouldn’t hedge.  It should be like your character’s made a read, and we’ll test it down the line maybe and see if it’s right or wrong, but-
+
+ALI: Sure, sure, sure.  Yeah.
+
+AUSTIN: And then for Valence.
+
+ALI: (laughing) And then for Valence it’s, uh, “If I can impress Valence, there has to be money in it down the line.”
+
+AUSTIN: Which is similar in some ways and probably could be revisited, but it’s also only the first one, so I want it to be a little broader, and that was okay.
+
+ALI: Sure.
+
+AUSTIN: Um, Thisbe.
+
+JANINE: So Thisbe has two beliefs for Valence.  First, “Valence seeks my obsolescence.” 
+
+AUSTIN:  Mm-hmm.
+
+JANINE: Um, the second one.  “Valence’s priorities-” I’ve tweaked this one a little bit.  “Valence’s priorities are beyond my understanding.”
+
+AUSTIN: So it’s like, Valence is kind of inscrutable, right?  Like, you can’t, yeah.  That’s fine.
+
+JANINE: (crosstalk) Va- It was the whole thing with Valence trying to find a spot for Thisbe at the table, and Thisbe just-
+
+AUSTIN: Riiight.
+
+JANINE: That doesn’t make sense to- Thisbe doesn’t eat, she’s big, she’s not the same kind of thing that all the other people at the table are.
+
+AUSTIN: Right, right, right.
+
+JANINE: Just, like, every single compo- every single component of that just doesn’t make sense to her.
+
+AUSTIN: Yeah.
+
+JANINE: Um, and for Broun, “Broun will sell or trade me in-” Sorry, (laughing) I don’t know why I read that like a robot!
+
+(AUSTIN and DRE laughing)
+
+AUSTIN: Well, hmm.
+
+JANINE: “Broun will sell or trade me in the moment my usefulness is expended”
+
+AUSTIN: God.  Okay, love it.  Um, alright so, with all that in mind, y’all go down this hallway and then probably down some other secondary elevator and then eventually find your way to a darkened briefing room in this Horizon facility.  It has kind of like a um, it has like a holographic map set up, but by that I super mean the style of holographic map that you see in something like Star Wars, which is like flickery, and kind of low-resolution, and honestly maybe a photo would be better.  Uh, maybe like, also as you come in, there’s, there’s- There’s a couple other people in the room, I’d say there’s probably three other people in the room.  Some sort of attaché to Gucci, who hands you a um, each of you (amused) including you, Thisbe, as you kind of step into this room that, again, is probably too small for you, um, a manila envelope with photos inside of this location.  And uh, the- I guess there’s three people.  The attaché, there’s a person who is in military- the same sort of like, rebel military uniform that the rest of the people in this area are, um, and she has- where did I put my character notes?  Where are they?  Here they are. (laughs)  She has like, dark lipstick on and a tight crew cut, like recently- like a buzz cut actually, that’s like, colored blue.  And the way that she holds herself and the way that she stands behind where Gucci is sitting, you get the vibe that she is Gucci’s like, number two.  Um, and then there’s another person in like, back in the dark, already seated, is kind of barely, barely lit by the light, you can’t quite recognize any details of that person yet.  Um, and then, and then yeah, there’s this table.  And on it is a kind of 3D, holographic, flickery image of a box canyon, um, which is- A box canyon is the type that has like, the long, deep, and then there’s like a hard stop, do you know what I mean?  It’s like a- imagine you know, a hundred yards and then instead of just being like, it keeps going and it’s a canyon,then it’s like, cliff face!  Inside of this box canyon is a town.  Um, it’s a city, it’s actually a city, but it’s small compared to what we might think of as a city today.  It’s a city of about 75,000.  It’s the city of Orzen, which is deep inside of the Pique Ridge, the Pique Mountain Range, inside Nideo territory.  Um, the names- the points on the map that you see in front of you-
+
+JANINE: (crosstalk) These fucking weird-ass weirdos.
+
+AUSTIN: -are on the map already.  Um, I guess I’ll describe it.  It’s kind of a north-south, again box canyon, where at the very north end there’s some sort of large structure, in the middle there are kind of two, um, bigger open areas, and then there’s kind of like, a western area that has kind of large buildings, the middle area has a bunch of smaller buildings, tightly compact, and the eastern area has like, some other small- or like mid-sized buildings.
+
+(ALI snorts and AUSTIN laughs)
+
+AUSTIN: That’s correct Dre, we do have- 
+
+JANINE: You know, I uh…
+
+AUSTIN: Mm-hmm?
+
+JANINE: When I go and get a hot dog at a street cart-
+
+AUSTIN: Yeah.
+
+JANINE: -I really like to ask for um, barbeque sauce and relish and high watchtower on it.
+
+AUSTIN: (laughing) Uh-huh, it’s a good little high watchtower.
+
+JANINE: That’s my- that’s my favorite combo.
+
+AUSTIN: Yeah, uh-huh.
+
+DRE: I’ve heard from a friend that lives in Chicago, that’s how you get a real Chicago dog.
+
+(ALI giggles)
+
+AUSTIN: That’s the real- yeah, that’s the real shit.  Uh for people who don’t see, people calling- listening in at home, there are one, two, three, four, five, I guess six words on this map.  That northern complex that is a big building surrounded by a wall is called Point Pesto.  There’s a point right outside of it, uh, that is kind of like a brown, um- I mean what it is, and maybe you can tell this from the kind of holographic render, is a big statuary with like, dozens of statues of Divines, that’s Point Salsa.  (ALI cackling)  To the direct west and south of that is a big residential area, um, that is like huge apartment buildings, like very dense, urban, residential, and that’s Point Relish.  Um, in the middle of town there’s a big theatre that is kind of like a, kind of a squat T-shaped theatre, kind of.  That is- that is the center of the commercial district.  All of this around is a bunch of little shops and stores and some other theatres and other entertainment things.  That’s Point Tahini.  And, um, on the far east side is the Quartz District, aka Point Barbeque Sauce.  Um, there aren’t very many Q-
+
+JANINE: BBQ.
+
+AUSTIN: Yeah, BBQ Sauce.  There aren’t very many Q condiments, is a thing that Gucci found out while doing this naming.
+
+DRE: Quetchup.
+
+JANINE: (crosstalk) Quince jam?
+
+AUSTIN: Quetchup.  Uh-huh, yeah.  So, BBQ Sauce, Point BBQ Sauce, which is like a mining district.  There’s like, kind of a mineral dig site going into the edge of this cavern.  Um, this map is a- kind of has three tiers to it.  There’s the dark brown is the very top, the very highest point of the map.  Um, then the second elevation is kind of an interior, like, cliff face.  It’s kind of big in certain areas and very thin on other areas.  It’s not necessarily sturdy enough or safe enough to build part of the city on, but maybe you can use it for your robots, who could say?  Um, and then there’s the base level.  All said, if we’re looking straight down at this, this is probably 3,000 to 4,000 feet deep, so it’s like a deep valley in that way.  It’s a deep, deep canyon.  To the degree that like, you couldn’t necessarily jump your mech off the top and think it would go well, you know?  Um, without some sort of additional support or something.  So, Gucci goes into her spiel once everyone sits down and says-
+
+	AUSTIN (as Gucci Garantine): Thanks for coming, everyone.  We have brought together
+kind of an elite unit of people from around Partizan who want what’s best for this moon. 
+And as far as I can tell, the next step in making this a better place for everyone is here,
+in the Nideo city of Orzen.
+
+AUSTIN: Uh, that’s O-R-Z-E-N.
+
+	AUSTIN (as Gucci Garantine): I don’t know if many of you do a lot of tourism, but it’s a
+city famous for the cathedral at its north end and the statuary just outside it.  That
+cathedral is to one of the founding Divines of the Principality, a better time in many ways. 
+That is a cathedral dedicated to the Divine Imperium, and the statuary out front includes
+many monuments to a great number of Divines from that age and from the brighter days
+of Divinity.  However, it’s a cover.  Underneath Point Pesto is an elaborate facility housed
+by- or run by the Partizan Palace, which houses certain archival footage.  Some of that
+footage is footage I need to see.  It’s footage that the people need to see.  Normally,
+getting access to Partizan Palace footage is impossible.  It’s mostly held in the Nideo
+capital city, where defenses are high and any sort of espionage will be countered before 
+you even think of it.  Eventually, it’s moved to something off-world.  I don’t know where, I
+don’t do much work in space.  But in this brief window, this operational time period that
+we have access to, it’s here in this hidden staging facility, getting one more, uh, one
+more look over by the members of the Partizan Palace.
+
+AUSTIN: Which, Austin is now going to remind you, is sort of like a news service-slash-wikipedia-slash-censorship bureau, um, and that is where like- you might remember from the first mission there was like that flying mech that got a look of everything in town, or tried to get a look of everything, did not necessarily identify y’all.  Um, but did identify a bunch of other stuff, um, and that’s the- an example of the sort of news feed stuff that the Partizan Palace has access to.
+
+	AUSTIN (as Gucci Garantine): Normally, getting here would also be difficult, for three
+reasons.  First of all, as you can see, this sort of steep canyon walls would prevent entry
+from anywhere except for the southern, um, the southern road in, which makes it a very
+defensible position.  Second, because this is a cathedral to Imperium, it has its own
+group of Hallowed defenders.  These are the sorts of mechs that have the blessing of
+the Divine on them.  They’re called Imperium’s Plume and they are aggressive as hell. 
+When they step onto the battlefield, they command it with complete authority. 
+Thankfully, with tensions between Kesh and Apostolos high, they’ve been deployed
+westward.  I don’t know if they’re going to get directly involved in the war or not, but
+regardless, it means they’re away from the roost, so to speak.  Third, there is accessing
+the facility itself.  Even if you could get in the town without being noticed, even if you
+could slip into the cathedral, then you have to get underground to where the Palace is. 
+To do that, you need clearance.  You need to have a high caliber of security clearance,
+and more than that, you need to understand how their poetic ciphers work.  The Nideans
+are… fans of complexity for its own end.  And while maybe your facility or my facility
+might use a simple key or have a code, theirs require the deciphering of long poetic
+verse.  I’m not a poet.  I suspect none of you are, SBBR?
+
+AUSTIN: Kind of gestures at you, just in case.
+
+DRE: Uhh.
+
+ALI: (crosstalk) I think Broun looks at Valence. (laughs)
+
+	DRE (as Valence): A reader, not a writer.
+
+	AUSTIN (as Gucci Garantine): Maybe you’ll come in- Maybe you’ll- That- Maybe that’ll
+come in handy.  Thankfully, we have someone who is both.  Both has security clearance
+and has the poetic qualifications necessary to see us through.  I’d like to introduce you to
+Special Operative Jeremiah Cateye.
+
+AUSTIN: And the person in the back stands up, and it probably takes a second to recognize this guy, this kid.  This is not someone named Jeremiah Cateye, unless that is his real name, but- that’s a fake name, you’ve heard fake names, that’s probably a fake name.  That is Jesset City, a member of the Oxblood Clan, who you worked with in your first mission.  Um, and he looks very embarrassed to suddenly see people he knows in this undercover operation.  Um, he does like the thing where he like, sucks some air through his teeth, and is like- his eyebrows are up like, whew.  And he says-
+
+	AUSTIN (as Jesset City): (stutters) Saint Dawn, we uh, believe it or not, uh, the fine
+members of SBBR and I have- have worked together!  In the past.  Hi.
+
+DRE (as Valence): It’s nice to see you again, Jeremiah.
+
+AUSTIN: He like, sighs, like a sigh of relief, and says-
+
+	AUSTIN (as Jesset City): Um, so, the thing is, with Imperium’s Plume deployed
+westward, Nideo needed new security.  I happened to secure this contract for Oxblood
+and because our goals and Horizon’s goals overlap, I’m willing to risk this one.  Oxblood
+is willing to risk this one.  We think that there’s a way to do this where we don’t throw
+ourselves under the bus, and Saint Dawn gets what she wants.  We have to be very 
+careful though.  I’m in charge of a security deployment, both inside of the Palace
+underground itself, and also in the surrounding area.  We’ve been brought in as
+mercenaries, which means we do not have complete security clearance, but I can get
+you into the front door.  However, if I do that myself, that will be… bad.  For me and for
+Oxblood in general.  We have a solution.  It’s experimental, but we think it will work.
+
+AUSTIN: And, uh, at that moment the kind of, Gucci’s second in command, pulls out this- Janine, how would you describe that wire recorder that you sent me the other day?
+
+JANINE: Oh.  Um-
+
+AUSTIN: I guess it’s just this.  I can just link it, right?
+
+JANINE: I mean it looks deceptively like an old-fashioned reel-to-reel tape recorder, right?
+
+AUSTIN: Yeah.
+
+JANINE: Except it doesn’t have tape, it has very, very, very, thin wire, to the point where it almost looks like metallic thread, and then that weird like, stick part that moves up and down so it doesn’t wear and stuff.
+
+AUSTIN: Yeah.  It’s like very- I mean if you look at it, it looks very much like something you would find in the corner of a Fallout, like, a Fallout video game room.  It’s like, kind of polished metal, with like old speakers, and a bunch of knobs and turny bits, and then yeah, reel-to-reel, except the reel, like you said, instead of being magnetic tape or something, is coil, is like, very thin metal thread.  Um, and in this case it’s this, but it also has like, a messenger strap on it, as if you could like, sling it over your shoulder, like a shoulder strap.  Um, and Jesset says-
+
+	AUSTIN (as Jesset City): This is- Do any of you know what perspective bleed is?
+
+AUSTIN: I think maybe- I think maybe you would know this, um, Broun?  The Columnar- actually give me a Gather Information roll here, which means there’s no- there’s no like, risk to it, it’s just a matter of how much you know about this, including what some of the- what some of the issues might be.  I would suggest- I would say this could be Study, or Engineer, or even Interface.
+
+ALI: Um, let me, let me roll one.  Engineer is two and Study is one.
+
+AUSTIN: Yeah.  You could do either.  So you can- you can do two.  2d6.
+
+ALI: Sure.  2d6.  
+
+AUSTIN: Alright.  Two fours.  
+
+ALI: Yeah.
+
+AUSTIN: So four.  (ALI laughs)  Which means you get like- you get like, more than the basic information, but nothing extra.  Perspective bleed and perspective bleeding was a thing from before Columnar was Stel Columnar.  It used to be that in Columnar territory, like every week, everyone would upload all of their memories from that week and they would become like, assimilated into a big, like, group memory, and then that would then get uploaded from whatever that little region was up even further until you had kind of a galactic, or I guess nation-wide blend of perspectives.  Um, and that is how like, political decisions got made and policy decisions got made.  It kind of addressed the difference without erasing it, which meant that like- the example I come back to a lot is, imagine you have a town, or like a city block, where someone wants to put in a parking lot or something, and someone goes, well that would be useful for x, y, z reasons, but the noise, and the pollution, and the added traffic would be bad for this.  It kind of like, addresses all that stuff directly instead of throwing it out because it lost the vote by five votes, and tries to find some sort of compromise.  It is like- it is very much a fence-sitting vision of democracy that is very much interested in finding the most common ground possible.  It’s, it’s- In doing that, it tends to mean very, very, very small changes happen and lots of things get deadlocked, but at the same time, it means that no one’s perspective is totally ignored.  Um, and a lot of things you wouldn’t necessarily say out loud, but are just hunches, can contribute to some sort of decision making.  That was outlawed when Columnar joined the Principality.  But some- in recent years on Partizan, some enterprising young criminals have figured out how to rework that technology, basically as like a fun drug.  (DRE laughs)  Um, it’s a way for you to experience someone else’s experiences.  To like, blend with them, to bleed your perspective into theirs.  Um, and normally it’s used under like, lock and key, and you’re like, alright, I’m gonna go on a trip.  I’m gonna like, live the life of a pop star who’s uploaded their memories into this thing.
+
+	AUSTIN (as Jesset City): In this case-
+
+AUSTIN: Jesset says.  Sorry, Jeremiah Cateye says-
+
+	AUSTIN (as Jesset City): I’ve recorded my expertise and my memory of the facility and
+my understanding of their security ciphers.  The- Saint Dawn will be your lead and will
+intake my memory and will lead you through the facility as best as she can while she’s
+holding my own mind inside of her own.  Um, it will be tricky.  But this is why she needs
+escorts inside.  That’s half of this mission, is getting her inside, getting her to the storage
+area where she will find whatever it is she needs, and then your group can bring her out. 
+If there’s anything you’d like to dig through while you’re there, feel free.  The other half is
+ensuring that, again, Oxblood doesn’t get into too much trouble, and what that means is
+putting on a good show.  I’m not going to go with you so that I have a clear alibi.  I am
+going to defend the perimeter of the Palace, and you’re going to fight me.  And we’re
+going to make it look very good.  (pause)  How’s that sound?
+
+	ALI (as Broun): Easy.
+
+AUSTIN: (laughs) I think-
+
+	DRE (as Valence): It does sound like a more solid plan than we’re used to working with?
+
+AUSTIN: (still laughing) Y’all are very successful, wait a second.
+
+DRE: (giggling) Yeah, but we just kinda riff.
+
+AUSTIN: That’s true.  You do just kinda riff.
+
+JANINE: And rip.
+
+[TIMESTAMP 30:00]
+
+AUSTIN: And rip.  That’s- uh huh.  Doom Eternal, riff and rip, that’s what they say.  
+
+(JANINE laughs)
+
+	AUSTIN (as Jesset City): There are, of course, things that could go wrong.  It is a city, it
+is filled with tens of thousands of people.  We need to be very careful.  Our fight, fake or
+not, cannot, cannot move into the residential zone.
+
+AUSTIN: And Gucci says,
+
+	AUSTIN (as Gucci Garantine): That’s Point Relish.
+
+AUSTIN: Um, and Jesset says,
+
+	AUSTIN (as Jesset City): Right, we cannot let any damage come to Point Relish.  Even
+in, in Point Tahini we need to keep destruction to a minimum.  If we can keep the fighting
+in the statuary-
+
+	AUSTIN (as Gucci Garantine): Point Salsa.
+
+	AUSTIN (as Jesset City): In Point Salsa, or in the quartz mi- in BBQ Sauce, um, that
+would be ideal.  Not a lot of people in those places, and there’s nothing wrong with
+kicking over a few Divine statues, is there?
+
+AUSTIN: And, I think at that point Saint Dawn says,
+
+	AUSTIN (as Gucci Garantine): Are there any questions from your side?
+
+	DRE (as Valence): I would like to know what is on the footage you want us to get.
+	AUSTIN (as Gucci Garantine): Oh, that’s the thing, is I have to go myself, cause I know
+what is on the footage, otherwise I would just send someone else.  But I know what I’m
+looking for and that’s why I have to be the one who goes.
+
+DRE (as Valence): Oh, I- I just want to know what’s on it.
+
+AUSTIN: This is a roll.  This is a Gather Information roll, for sure.  Um, what are you using, what are you rolling here?
+
+DRE: Ummm. (longish pause)  Hmm.
+
+AUSTIN: This is a Consort or a Sway probably, right?
+
+DRE: Yeah, I think so.  And probably a Sway.
+
+AUSTIN: Yeah, that’s fair.
+
+DRE: Okay, so it’s just 1d6.
+
+AUSTIN: Give me your 1d6.
+
+(pause)
+
+AUSTIN: That’s a four.
+
+DRE: (crosstalk) Meh.
+
+AUSTIN: That- no, the four is not a failure.  Again, on Gather Information, four is you get it, it’s just you just don’t get extra.
+
+DRE: (crosstalk) Ohhh, yeah, yeah, yeah.
+
+AUSTIN: She says, um, I think she actually (clears throat) she looks over at the attaché who handed you the manila envelopes, and then that attaché leaves, leaving you with just her second in command, whose name is uh, Meridian Street.  So it’s Meridian, you, Jesset, and Gucci now, and Gucci says,
+
+	AUSTIN (as Gucci Garantine): (sighs) This is showing a bit more of my hand than I like,
+but… I have reason to believe that the events in Obelle are not in line with what the
+Palace has said they are.
+
+AUSTIN: And she kind of leans across the table conspiratorially, face lit by the hologram.  She has no idea she’s talking to people who were there that night.  (laughing)  Literally four of the six people in this room were there that night.  She does not know that.
+
+	AUSTIN (as Gucci Garantine): Some things don’t add up.  I’ve seen no evidence that
+there is a House Whitestar base anywhere in the Prophet’s Path.  I’ve looked.  I’ve tried
+to make contact through official and unofficial means.  But that’s not even the biggest
+thing.  We retrieved parts of Past and… I don’t think Apostolos shot Past down.  I don’t
+know who did.  If anyone knows, it’s the Palace.  And there are some other things that I
+need to look into, but those are small worries.
+
+	(pause)
+
+	DRE (as Valence): I appreciate your honesty.
+
+AUSTIN: Jesset says, um,
+
+	AUSTIN (as Jesset City): Yeah, um, a lot of questions about the destruction of Past and
+that whole night, I- I agree.  Hopefully that will all be cleared up!
+
+AUSTIN: (laughing) And crosses his arms.
+
+	AUSTIN (as Gucci Garantine): Any other questions?
+
+(long pause)
+
+DRE: Ummm.  I’m almost tempted here to try to talk telepathically with Jesset.
+
+AUSTIN: Ooh.  Okay.  Feel free, listen.  You have that ability, right?
+
+DRE: Yeah.  It says it requires a revealing interaction, but I almost feel like not blowing his cover.
+
+AUSTIN: (crosstalk) Yeah, you’ve done- yes.  Yes, and I think, going through that whole night is a revealing interaction with him specifically.
+
+DRE: Yeah.  Um.  I’m trying to- Is Gucci Garantine, is that they/them, she/her?
+
+AUSTIN: Gucci is she/her.  Gucci is she/her. Yeah, yeah, yeah.
+
+DRE: She/her, okay.  I look at Jesset like, out of the corner of my eye and you know, telepathically say like,
+
+	DRE (as Valence): Sooo, are we going to tell her?
+
+AUSTIN: (laughing) Um, his eyes go extremely wide as you speak with him telepathically.  (ALI giggles)  Um, I think he’s like, he’s like,
+
+	AUSTIN (as Jesset City): If I think really hard, maybe- Is this- I- Can you hear this?
+
+	DRE (as Valence): Yes.  You don’t have to think that hard.
+
+	AUSTIN (as Jesset City): Oh no.  Oh no.  Oh no.  Alright, gather my thoughts, don’t-
+okay don’t think- okay.  Okay.
+
+AUSTIN: He’s trying to like, keep himself from thinking of things now, cause he doesn’t know how deep your brain scan goes.
+
+(ALI giggles)
+
+DRE: Yeah, I don’t think it works that way.  And I think even if it did, Valence wouldn’t want it to work that way.
+
+AUSTIN: I know that, but he doesn’t know that.  (AUSTIN and ALI laughing)  You are talking to him in his mind.
+
+DRE: Sure.  I’m gonna tell him it doesn’t work that way.
+
+AUSTIN: Okay, good.  He’s like,
+
+	AUSTIN (as Jesset City): Okay, okay.  Um.  I don’t think she needs to know.  She knows
+Oxblood was involved already.  She doesn’t need to know- if the Palace had seen you
+there, they certainly would have made that known, right?
+
+DRE (as Valence): Oh, they saw me there, flying the colors and the song of House
+Whiteside.
+
+AUSTIN: Whitestar.
+
+(ALI laughs)
+
+DRE: Whitestar.
+
+AUSTIN: Yeah.  Yeah.
+
+	AUSTIN (as Jesset City): Right, but they think that that was Whitestar, not you.  There’s
+no proof that it was you, right?
+
+DRE (as Valence): I mean, I don’t know if you’ve seen the thing I fly around in, but it’s
+pretty identifiable.
+
+	AUSTIN (as Jesset City): (whispers) Shit.  (normal volume)  It’s up to you- it’s up to you,
+Valence.  (long pause, sighs)
+
+AUSTIN: And he starts to like, you can feel the guilt radiating off of him now, after he said that.  (sighs)
+
+	DRE (as Valence): Why do you feel guilty?
+
+	AUSTIN (as Jesset City): Saint Dawn has been nothing but nice to me.
+
+AUSTIN: He says out loud.  (DRE giggles)  And Saint Dawn and Meridian turn and look at him, as if, like, what?  What brought that on?  Why would you just say that out loud with no prompting?  And he goes,
+
+	AUSTIN (as Jesset City):  Ah.  (deep breath)  I- I have to admit something.  Um, I was
+there that night.  I was there and um, I think you’re probably right.  Apostolos was
+fighting us on the ground and there was some sort of fight above us, but we don’t know
+who it was and I- They didn’t- It was like they were fighting to secure the landing spot,
+not like they were fighting to destroy Past.  Also my name is not Jeremiah Cateye.  We
+should be- Everything on the table.  My name is… Jimson… Courthouse. (pause)  It’s
+Jesset.  It’s Jesset City.  My name is Jesset City.  (DRE laughs)  Um, and-
+
+JANINE: I was gonna say, did my connection cut out, or did he say just his name was Jimson Courthouse.
+
+(ALI  giggles)
+
+AUSTIN: That is what he- that is what he said.
+
+JANINE: Okay.
+
+	AUSTIN (as Jesset City): I- My superiors on this operation suggest that I use an alias. 
+I’m not very good at aliases.  I’m very good at piloting mechs.  I’m a very good engineer. 
+Um and I’m… a loyal member of the Oxblood.  Not so loyal that I continued to use an
+alias, but loyal nonetheless.
+
+AUSTIN: I think Saint Dawn is like,
+
+	AUSTIN (as Gucci Garantine): We did our own reconnaissance.  We knew Oxblood was
+there.  It’s a boon that you were, it means that you could be trusted.  Alright.  Are there
+any other questions at this time?  Or should we start to prepare?
+
+DRE: Uh, I think Valence is now side-eyeing Broun.  Doesn’t say anything, but is just side-eyeing.
+
+AUSTIN: Uh-huh.
+
+ALI (as Broun): Hey! What did I do?
+
+DRE (as Valence): Noth- nothing.
+
+AUSTIN: God.  
+
+(ALI laughs)
+
+DRE: God.
+
+AUSTIN: Alright, um.  At this point, like, we can talk about how you want to do this, I can talk about what is kind of on the table in terms of the specific, like, stuff.  Uh, the gist of it is that Oxblood has a force in this city that do know that this is going to be a fake fight.  Um, and the kind of idea is that it’s gonna be a fight between y’all plus some Horizon troops against the Oxblood crew.  It has to be with like, real weapons to be convincing, is kind of Gucci’s pitch.  Um, but beyond that, it’s kind of up to you how you wanna get into this Palace; it’s kind of up to you when you want to do this; it’s kind of up to you, like, other elements of this.  Gucci is Saint Dawn, correct.  
+
+DRE: Okay.
+
+AUSTIN: Saint Dawn is her- I almost spoiled Gundam Wing.  (DRE giggles)  Or Gundam.  Saint Dawn is her, like, her Quattro Bajeena, you know what I mean?
+
+DRE: Yeah, yeah, yeah.
+
+AUSTIN: Is her, is her alias for Horizon, whereas Gucci Garantine is the name she uses as just like- that is- that is like, the name she uses in polite society where she isn’t tied to a rebellious movement.  I think that this-  I think that this is just about everybody, if you can see that.  For those listening, the Oxblood Clan, who you may have forgotten- there’s the dossier, you can just scroll down and look at the dossier in the show notes, but the Oxblood Clan is the- is a group of like, laborers that was founded by a group of orphans who were kind of left to die in their orphanage, who ended up growing up to become- You know what’s made- become very clear to me is Newsies.  (everyone laughs)  I watched the trailer for Newsies two nights ago, and the Oxblood Clan is just Newsies.
+
+JANINE: (crosstalk) Yeah.
+
+ALI: (crosstalk)  This only just occurred to you?
+
+AUSTIN: Well, I don’t think about Newsies that often, but I grew up loving Newsies.
+
+ALI: (crosstalk) Sure.
+
+JANINE: You don’t think about the Oxblood Clan singing.  And Christian Bale.
+
+AUSTIN: No, I don’t think about them singing that often.  But this is like, what if the newsies from Newsies remained radicalized instead of taking whatever fucking compromise Hearst offered them.  And, and- Well, I guess radicalized isn’t even the right word.  Angry, they stayed angry.  Um, because, I don’t know that they necessarily have a next step, but they know that what exists right now fucking sucks.  And I think, you know, in private conversations Jesset would tell you as much, that this is- this whole thing is kind of a feeling-out, is kind of a high-stakes feeling-out between Horizon and the Oxblood Clan.
+
+DRE: Mmm.
+
+AUSTIN: One of the kind of sub-missions here is kind of these two… These two groups that are on the opposite side of the current- Well, maybe not even the opposite side, but certainly are opposed to the status quo, feeling out whether or not they can work together on things.  And that is definitely one of like the- the subtextual elements of this mission.  Um, what do you all want to do?  There’s kind of-
+
+DRE: Is-
+
+AUSTIN: Yeah, go ahead.
+
+DRE: Is Broun our connection to Gucci here?
+
+ALI: Yeah.
+
+AUSTIN: (crosstalk) Broun is the connection to Gucci, correct.
+
+DRE: Okay.  I- I mean, I think Valence would want to talk to Broun about like, (ALI chuckles) heyyy, do we tell your friend, or?
+
+ALI: Um…
+
+AUSTIN: Just have that scene.  You’re out in the hallway, you’re in- you’re in another, you know, whatever room you wanna be in.
+
+ALI: Yeah, totally.  This could be like, (laughs) as we’re leaving the, uh, the briefing room, um.
+(long pause)
+
+	ALI (as Broun): Do I think she should know?  No.  Uhh.  I don’t think she needs to.
+
+	DRE (as Valence): She’s going to.
+	
+	ALI (as Broun): You don’t know that.  Why would she?
+	
+	DRE (as Valence): Because she’s gonna look at a videotape!
+	
+	ALI (as Broun): (smacks lips) Well…
+	
+	DRE (as Valence): We kind of stick out.
+
+	ALI (as Broun): Eh.  Um.  What do you want to do, edit the tape?
+
+(AUSTIN and JANINE laugh)
+
+	DRE (as Valence): No, why don’t we just tell her?
+
+	ALI (as Broun): Ohhhh.  Ehhh.  (everyone laughs)  I mean…
+
+	DRE (as Valence): What are you worried about happening if we tell her?
+
+	ALI (as Broun): Well, it just would get complicated, she would ask questions.  She’s very,
+um, I don’t know.  I wouldn’t know how to describe it.
+
+DRE (as Valence): She’s gonna ask questions after she watches the video.
+
+ALI (as Broun): But then we’ll-
+
+DRE (as Valence): And she sees my very recognizable vehicle.
+
+ALI (as Broun): Yeah.  I mean, uh-
+
+DRE (as Valence): And Thisbe’s!
+
+ALI (as Broun): Well-
+JANINE (as Thisbe): I believe Operant Broun is suggesting that once we deliver the
+tape, we flee very quickly.  Yes?
+
+ALI (as Broun): Yeah, well, I mean… no.  Because, I would want her to call me a second
+time.  Um, she’s a very important client of mine.  Um, yeah, while we’re talking about
+that, can we cool it with the “Markup” stuff around her, cause um, that’s another thing
+she’s gonna ask questions about that she’s not gonna find funny.
+
+DRE (as Valence): With the what stuff?
+
+ALI (as Broun) Well… (AUSTIN laughs)  That’s what you call me… And that’s…
+(laughing)  It’s just not the right, um… setting.
+
+AUSTIN: You’re calling attention here to the fact that your, your new call sign, your recent call sign, we changed your call sign, is Markup, and literally the person you mark things up for is Gucci Garantine.  (ALI laughs)  Got it.
+
+ALI: Um-
+
+	DRE (as Valence): Broun, I never call you that.  I only call you that because you told me
+to start calling you that.
+
+ALI (as Broun): Well it’s safer.  That’s the reason we call each other weird names, is 
+cause it’s safer, Valence.  But um-
+
+AUSTIN: (laughs) That’s just Valence’s name! (everyone laughs)
+
+	ALI (as Broun): Anyway, you know, if you’re afraid of her thinking-
+
+AUSTIN: (crosstalk) Valence’s call sign is DJ, (ALI laughs) which is the thing that they don’t want associated with them in this particular moment, cause it’s about the time that they did the false flag!
+
+ALI: Um, oh yeah!
+
+	ALI (as Broun): I mean, if you’re afraid she’s gonna think you’re part of whatever group
+she’s gonna think you’re a part of, sure.
+
+DRE (as Valence): I’m not afraid; I don’t wanna be lying to someone that you trust and
+consider a friend.
+
+ALI (as Broun): (laughing) No.  Don’t worry about it.  If that’s what you’re worried about
+Valence, (AUSTIN and JANINE laugh) honestly, don’t worry about it.  Um, I lie to her
+very often.  That’s not the situation we’re in.  She’s a client, we’re on a job.
+
+DRE (as Valence): I think I’m more worried now.
+
+(AUSTIN laughs)
+
+	ALI (as Broun): What’s there to be worried about?
+
+	DRE (as Valence): What a- I don’t know.  How much are you lying to me?
+
+	ALI (as Broun): (laughs) Not very.  Never!  I don’t lie to you Valence, we work together.
+
+	DRE (as Valence): There’s a big difference between “not ever” and- or “never” and “not
+very.”  
+
+(AUSTIN and JANINE laughing)
+
+	ALI (as Broun): Well…(sighs)  I can’t prove that I don’t lie to you.  I can just continue to
+be open and forthright, which I always am.
+
+DRE (as Valence): Fair.  So I think that’s what I’m going to be.
+
+ALI (as Broun): Okay.  I don’t- I mean, I don’t know that she’s gonna care, um…
+
+DRE (as Valence): I’d rather know now.
+
+ALI (as Broun): That is your decision to make.
+
+DRE (as Valence): (sighs) What do you think, Thisbe?
+
+JANINE (as Thisbe): I suggest that if Operant Gucci doesn’t care now, she won’t care
+later, or if she doesn’t care now, she will care a lot later.  Or she will care now and also
+care a lot later.
+
+DRE (as Valence): Yeah.
+
+ALI (as Broun): She’s only interested in the stuff with Palace.  We didn’t touch- we didn’t
+destroy the Divine, obviously.  So-
+
+JANINE (as Thisbe): I don’t believe- I don’t believe that Operant Broun is the telepath.
+
+DRE: I think Valence just kind of looks down.
+
+(AUSTIN laughs)
+
+	ALI (as Broun): Fine. I- you know.  Go ahead.
+
+AUSTIN: Valence?
+
+DRE: Yeah, I’m gonna- I’m gonna go find her.
+
+AUSTIN: Um, she is- she is staring up at her mech in the hangar.  Um, like, almost like you would at like, a shrine or a- like almost in prayer as you approach.  Um, and then, you know, she hears you approach and she turns and you know, she isn’t in any- at this point- at this point she’s already changed into kind of more casual wear.  I don’t know if this is what she’s going to wear into the actual mission, but she’s not like, in her full Saint Dawn getup, she isn’t in any military gear, um, she’s kind of like, mask off, both literal and figurative, um, and says,
+
+	AUSTIN (as Gucci Garantine): Valence!  Questions about the operation?
+	
+	DRE (as Valence): I think it’s your questions and I will hopefully try to answer.
+
+AUSTIN: Raises her eyebrows.
+	
+	DRE (as Valence): I know Jesset said Oxblood was there, we were also there.
+	
+	AUSTIN (as Gucci Garantine): You were there? At Obelle?
+	
+	DRE (as Valence): (crosstalk) Yeah.  Mm-hm.
+	
+	AUSTIN (as Gucci Garantine): Why did you say “mm-hm” as if your hand had been
+caught in the cookie jar?
+
+(pause)
+
+DRE (as Valence): Cause I don’t feel great about not telling you this sooner?
+
+AUSTIN (as Gucci Garantine): What’s the bearing to the mission?  What is it you know
+that I don’t?
+
+DRE (as Valence): (sighs) (pause)  Well, I mean…(pause)  Whew, where do we start? 
+Okay.  I mean, you’re right, I don’t- I mean, I don’t know this for sure, but I get sense that
+nobody that was there were the people that shot down Past.
+
+AUSTIN (as Gucci Garantine): Why do you believe that?
+
+(long pause)
+
+DRE (as Valence): It- (sighs) It reached out to me in a way that I haven’t felt anything
+before and…
+
+DRE: I think they kind of shuffle their feet.
+
+	DRE (as Valence): And I hope to not?
+	
+	AUSTIN (as Gucci Garantine): It reached out to you?  A Divine message or… (pause)
+Are you- Are you a Stratus?  There are these things, uh, people, I guess, Strati,
+Stratuses- There are none left, as far as I know.  But, um, psychics, espers, you know,
+that sort of thing, can see visions of other places and connect in a moment.  It’s said
+that they- they understand things immediately.
+
+DRE (as Valence): I knew it was falling.
+
+AUSTIN (as Gucci Garantine): Falling.
+
+DRE (as Valence): And I knew it could kill everyone.
+
+(long pause)
+
+AUSTIN (as Gucci Garantine): And you… I almost said stopped it, but that’s not true.
+
+DRE (as Valence): No.
+
+AUSTIN (as Gucci Garantine): I saw it with my own eyes.
+
+DRE (as Valence): No, it, yeah.  It hit.  But I think… I mean, I told everyone to leave
+and I think that’s why we’re here, that’s why Jesset’s still here.
+
+AUSTIN (as Gucci Garantine): So you’re why there weren’t as many casualties as- as
+there would have been.  That’s something to be proud of, why hide this fact?  (DRE
+sighs) (long pause)  Wait, can you confirm that Kesh was there?  (pause)  You must
+have heard the anthem.  Seen their Hollows?
+
+DRE (as Valence): Oh, okay.  So that’s, that’s the other part of this.  (pause)  That was
+also me.  (pause)  Things weren’t going well for Oxblood and another unit was about to
+converge on them.  We needed a diversion.
+
+AUSTIN (as Gucci Garantine): A diversion?  And what you reached for was to convince
+the world that Kesh was invading from the south.  Hm.  (pause)  It’s brilliant.  I wonder
+how you sleep.
+
+DRE (as Valence): I don’t.
+
+AUSTIN (as Gucci Garantine): Why tell me now and not go to the Palace?  Why not,
+you’re from Orion, spread the word that, in fact, Kesh isn’t there.  There must be some
+sort of, um, what is it that the folks in Orion say, a vector of opportunity, some sort of
+angle for profit in knowing Kesh’s absence.  
+
+DRE (as Valence): You would think that about me, even after I did this?
+
+AUSTIN (as Gucci Garantine): I apologize, maybe I judge your Stel too severely.  (long
+pause)  But I do wonder, why sit on this information if it troubles you so?  (pause)  You
+present with a great deal of moral authority, Valence.  And yet, in this moment-
+
+DRE (as Valence): That’s excessive.
+
+AUSTIN (as Gucci Garantine): I didn’t say you had authority.  I said you present with it. 
+This show that you’re making, this contrition.  If you had guilt on your soul, you would
+have spoken before this.  How many-  How many people in Kesh and Apostolos go to
+war now partially on that lie?  (long pause)  Live with it.  Make amends, but don’t pretend
+you didn’t have an opportunity to right this.  And you can start by helping me find out
+what really happened in the sky that night.
+
+(long pause)
+
+AUSTIN: I think she reaches out and puts a hand on her mech, which is this like, very regal looking thing in silver and blue that has this kind of crystalline heart that you can see a little bit of, that is just like, entrancing.  Um, and she says- I think she doesn’t even say this, but it’s clear as she walks away, that she’s not bringing this with her and it’s almost like leaving a security blanket at home.  Um, but she just walks away from you at that point.  She’s not giving you a chance to retort here.  Like, this doesn’t change her mission, but it’s information that she has now, and that’s always good.  Um, I think maybe as she walks away, this is the point at which Meridian Street, who is like her second in command, comes over and says, um,
+
+	AUSTIN (as Meridian Street): Whatever you told her fired her up!  That’s good.
+	
+	(pause)
+	
+	DRE (as Valence): Uh, okay.  Great!
+	
+	AUSTIN (as Meridian Street): Haven’t seen her lecture anyone in a minute.
+	
+	DRE (as Valence): I don’t know if it’s a- a lecture.  A lecture usually involves teaching,
+but…
+
+AUSTIN (as Meridian Street): Well, maybe you’ll realize you learned something later,
+and then, retroactively, I think it makes her a teacher.  It doesn’t matter.  We should all
+get suited up and get moving.  You wanna do any on-the-ground reconnaissance, the
+window is closing, so.  Get your stuff!
+
+(long pause)
+
+AUSTIN: Um, okay.  Anyone else want to do anything either here or in Orzen before we roll engagement?  (pause)  And also we have to talk about what that engagement looks like.
+
+ALI: Um, just high-level of like, what the mission is…
+
+AUSTIN: Yes.  I will paste that stuff into that chat.  So.
+
+ALI: Um.
+
+AUSTIN: Yes, uh, couple things.  One, objective is to escort Gucci into the Palace.  Into the Palace staging area, which is Pesto, and to secure her extraction.  And then there’s a secondary mission, which is to maintain the ruse for the length of the mission.  Then there is a rule of engagement, which is- let’s see here, let me paste this in and edit it, so that the very- Actually I’ll just leave it as it is.  Um, do no harm to the residential district and minimal harm to the theatre-commercial district, to Relish or Tahini.  Um, there will be a four-step clock, basically, on Tahini, that is like, a thing I can tick when rolls go bad for the outside crew, if there is- if you’re dividing it that way.  My guess is you will divide it that way.  And if that hits four, that will have been too much damage, it will make Horizon look bad, which Gucci doesn’t want.  And it will hurt people, but that is the- you know, that’s...  Gucci’s priorities are very macro-scale, if that makes sense.  She wants to help a lot of people, which means if she hurts a lot of people- or hurts a few people now, and that turns the masses against her, that looks bad.  Um, so… But you can damage the cathedral area, you can damage the statuary, you can damage Pesto, Salsa, BBQ Sauce, no problem.  (DRE laughs)  But that’s the gist of the mission, as it were.  Your employer is House Brightline-slash-Horizon, your target is the Partizan Palace.  Um, I think that that’s it for the setup.  Um, there’s more that you could discover, you know, like there is more information you could get, but mostly from like, on-the-ground reconnaissance, or I guess looking things up if you had questions about the area or other stuff, you know.
+
+[TIMESTAMP 1:00:12]
+
+ALI: Mm-hm.  And is our understanding that we want to have the battle going on while Gucci is being moved?
+
+AUSTIN: (crosstalk) Yes. The- yes.  
+
+ALI: (crosstalk) Okay.
+
+AUSTIN: So the specific setup is basically… They have one trick up their sleeve, which is fun.  Um, I don’t know if this came- this didn’t come up in the Obelle arc, but the Oxblood have a special type of mech called a Yoke, (ALI snorts) uh Y-O-K-E., that have these like, big ox-like horns, and when you have two of them, you get like, this really detailed map of the vicinity, which is like, not at thing most mechs have access to, because like, live, up-to-the-minute, dynamic maps are beyond the sort of, thing you can- the degree of technology you can put into a single mech in this setting.  Um, but with two of them, they can kind of like, build that data.  And so on one side of this fight is going to be, um, Jesset in his Yoke, and on the other side is going to be Meridian with her Yoke, and the two of them are going to be providing like, perfect map data for everyone outside, so that they can really, very carefully make it look like they’re having a real fight.  Which, it is a real fight, cause it’s live ammo, it is- you’re still shooting giant bullets, like, it’s still dangerous, but you’re trying not to kill each other.  Um, you’re kind of having like a scrimmage, right?  Um, so that is the kind of, outside plan, as far as Gucci’s side goes.  The inside plan is not very detailed, because the like- it’s based on just the like, how far in can you get without being caught, you know?  How many- how many weird poetry ciphers can she break without a guard noticing or whatever.  Um, but yes, the kind of point is to- because, sorry, the reason the outside needs to happen is because the Oxblood Clan needs to be busy not being at the Palace, because if they just do it themselves and just bring her in, it will be very clear that it was an inside job.  So the outside job part, or the outside fight is like cover for the Oxblood Clan, who will otherwise just be demolished by Stel Nideo, who is very powerful, you know.
+
+(pause)
+
+ALI: Okay, cool.  Um, sure.  
+
+AUSTIN: But there's complete freedom in terms of like, who wants to guide her inside, who wants to make a loud mess outside.
+
+ALI: Yeah.  I’m wondering if for a prep thing I can do…  We’re gonna have access to the city during prep?
+
+AUSTIN: Yeah, I think so.  I think it like, makes sense to me that you would be like, you have all whatever shit you need off-map, basically, ready to come in however you need.  Um, you’re at a hotel room or something.  
+
+ALI: (crosstalk) We’re setting up the area, yeah.
+
+AUSTIN: (crosstalk) You’re in the Tahini district.  You’re in the theatre district.  Which is like… the city is like a small mining town in some ways, a small mining city in some ways, but this particular area is big, and gaudy, and weird.  There’s a big like, marketplace plaza with lots of like little stands, there’s like a lot of little shops that are really tightly packed throughout that whole area, and probably a bunch of hotels for people who are coming either to see this kind of famous cathedral and statuary or coming to see whatever the fuck is happening in this giant theater.  This is one of the biggest theaters on the planet probably, or on the moon.  It’s, it is- I’ve written down here, “It’s style is neon-classical.”  This is like that classic, super gaudy, terrible, almost vaporwavey Nideo misunderstanding of Twilight Mirage aesthetics.  I think it’s like, if you look up the duh-duh-duh-duh, what’s it called?  The Grand Theatre in Warsaw?  It’s like that, with like, kind of multiple tiers of kind of columns, and kind of again, a neo-classical look, except instead of being like, you know, lit in a very, in a very, you know, classy way, it is instead a laser light show out front, pointed at the thing at all times.  Instead of like, five magnificent horse statues on the top, it’s a giant firebird that is like, glowing in the night sky.  The banners are all like, fake blowing in the- they’re like holographic banners blowing in the wind, blowing in the nonexistent wind.  It’s just chaos.  But it’s chaos dressed up as if it’s high-class chaos, you know?
+
+ALI: (crosstalk) Right, yeah.  I’m like, immediately imagining them doing like, sound and color therapy.  (laughs)
+
+AUSTIN: (crosstalk) Yes.  Yes.  Totally.
+
+ALI: And it’s like, you just go in and it’s just a nightmare.  Way too bright to be…
+
+AUSTIN: (crosstalk) There is in fact an out-of-town group right now, there’s like a famous Columnar music duo, and their attached performance art troupe that are in town right now, doing, what I’ve written down here as “Wave-fried art,” (ALI snorts) which is where you make something, and then you make it, and you put it on some sort of- you know how there’s the Perennial Wave?  You put it on something that is like, powerful enough, technologically, that the Wave will destroy it.  And you just kind of like, run it through again and again (ALI laughs) as if you’re like, compressing it, you know what I mean?  
+
+ALI: (laughing) Yeah.
+
+AUSTIN: And it’s just artifacted as hell, it’s great.
+
+ALI: Oh my god, I was trying to find-
+
+JANINE: I’m so sad that my connection fucked up, when it did, cause I was going to say when you were describing this theatre, “So it’s Phantom of the Opera meets Phantom of the Paradise.”
+
+AUSTIN: (laughing) Yeah, yeah.  100 percent, yes.  What were you gonna say, Ali?
+
+ALI: I, um, this is an aside.  I was trying to find a website that did that when the You Know That Feeling When Mondays picture came out-
+
+AUSTIN: (crosstalk) Oh, damn.  Yes.
+
+ALI: -because people kept retweeting it and I wanted the effect of like, as if people had been doing it for years and saving that picture over and over again.  So I’m glad Columnar created that technology.
+
+AUSTIN: (crosstalk) Yeah, uh-huh.  Columnar did it, yeah.  Columnar, Columnar figured out how to Wave-fry things, so…
+
+ALI: The thing that I wanna do is to, um, maybe find points of the city to set up like, flare detonators?  
+
+AUSTIN: Ooh.  Okay.
+
+ALI: To like, make the combat seem more… bad.  (laughs)
+
+AUSTIN: More bad than it is, yeah.  And like broader, or in different locations, etcetera.
+
+ALI: Right.  Yeah, yeah, yeah.
+
+AUSTIN: Useful.  That’s useful.
+
+ALI: Yeah.
+
+AUSTIN: Um, give me a- that’s something, what is that?  Depends on how you’re doing it.  Are you doing it yourself, are you ordering people to do it, like what’s the- I’m guessing you’re doing it yourself, cause that’s the thing you’re good at.  
+
+ALI: Yeah…
+
+AUSTIN: You still have zero in Resolve, right?
+
+ALI: Uh-huh.  (laughs)
+
+AUSTIN: Yeah.  Uh-huh.
+
+ALI: Yeah.  I think that’s building or tinkering with an object.  Um…
+
+AUSTIN: Yeah, definitely.  Go ahead and give me an Engineer.  I think this is a setup roll, which means that it will be something that you can kind of get a bonus for later.  That’s the way I’m gonna play it.
+
+ALI: (crosstalk)  But I’m still doing this as a quote-unquote action roll?
+
+AUSTIN: Yeah, this is an action roll.  Yeah, it is still an action roll, setup rolls are action rolls, I believe.  Which is to say, a failure could be bad, it’s just it won’t be bad right this second, in this instance.
+
+ALI: Fair, yeah.  Um, 2d6-
+
+AUSTIN: (crosstalk)  Hey, that’s a five!  That’s a five.
+
+ALI: Okay.  It’s a two and a five.
+
+AUSTIN: It is a two and a five, that’s true.  (ALI laughs)  Let me- let me check my find thing, one second.  Or is it not there.  It’s not there.  Yeah, so any- Basically, what I’m gonna do is basically say, with a five, that’s a success.  There will be a consequence; that consequence will come later.  (laughs)  It will be a Controlled consequence, so it’s not a huge deal, but the- whenever you want to like, call that in, I’m basically gonna say that you can get an improved position or effect on a roll when you like, activate those, if that makes sense.
+
+ALI: Sure.  Yeah, yeah, yeah, okay, yeah.
+
+AUSTIN: But yeah, those are in place.
+
+ALI: Okay, cool.
+
+AUSTIN: Um, does anyone else want to do anything on the ground in this kind of coal mining, or quartz mining town?  This is regular quartz, this is not Memoria, this is not anything- there are no special magic gems here.  
+
+(JANINE and DRE laugh a little)
+
+JANINE: Yes.  What are my options for if I want to acquire some kind of object?
+
+AUSTIN: Uh.  Well, what type of object is it?  That’s where we start.
+
+JANINE: A mining tool.
+
+AUSTIN: (amused) How big of a mining tool?
+
+JANINE: So I found this thing on DeviantArt, (AUSTIN and ALI laugh) that someone-
+
+AUSTIN: Uh-huh?
+
+JANINE: It’s a design concept for Siegfried Remote Operated Asteroid Drill Mark 3.  Now I’m not saying this has to be remote or anything-
+
+AUSTIN: (crosstalk) Can you link it?  No, yeah.
+
+JANINE: I’m thinking of this as some sort of- like a carryable version of this, and I can absolutely link it.  I’ll link it in SBBR chat, just so it’s…
+
+AUSTIN: Yeah, yeah, yeah.  So we have reference.  Um, my- Oh my god.  That’s cool-looking.  Uh…
+
+DRE: Oh, geez.
+
+AUSTIN: My thought is you’re not gonna need to acquire shit.  Um, but let me double check, let me see something.
+
+JANINE: My thing is basically I want Thisbe to have a weapon other than herself.
+
+AUSTIN: Yeah.  Totally.
+
+JANINE: And I would like it to be an appropriate-to-the-area weapon, just for consistency and storytelling.
+
+AUSTIN: (crosstalk) Right, no, I gotcha.  Um, I think that is a heavy weapon.
+
+JANINE: Yeah.
+
+AUSTIN: Which you can declare, just in the mission.
+
+JANINE: Okay.  Fair.
+
+AUSTIN: (crosstalk) You just declare that as a heavy weapon.  Um, which, that’s how this works, yeah.  Um, I’m surprised that there wasn’t already a thing in the item load for that, but so it goes.  Um, anyway.  Like, in your special item, but I guess it’s cause Artificial- Your playbook can do so many different things that that makes sense.  Okay.  Well.  Cool.  Um, anyone else want to do something ahead of this?
+
+DRE: I don’t think so.  
+
+AUSTIN: Okay.  Are y’all good with what- god, what was… Did I write down a plan name for this?  Um, I didn’t.  But for Gucci’s, I guess Plan Condiment?  For, for, what’s a good- What’s a phrase with condiment in it?  (ALI giggles)  Let’s see here.
+
+ALI: It should be something-
+
+JANINE: (crosstalk) Phrase with condiment in it?
+
+ALI: (crosstalk) It should be like-
+
+AUSTIN: You know like “Extra Sauce” you know?  Like-
+
+JANINE:  “On the Side?”
+
+AUSTIN: “On the Side.” (laughs)
+
+ALI: “On the Side.”  I was gonna say like, “Lazy Susan” or like, “Food Cart.” (laughs)
+
+AUSTIN: Ohh, that’s right.  Yeah, uh-huh.
+
+ALI: “Drink Tray.”
+
+DRE: “Ramekin.”
+
+AUSTIN: God.
+
+JANINE: “Expandable Paper Cup.”
+
+(DRE laughs)
+
+AUSTIN: Mm-hm.  Ramekin is really funny, I think it’s Ramekin.  Ramekins are the things that you put sauces- you put like-
+
+JANINE: Yeah. 
+
+AUSTIN:  Like, they’re little, tiny bowls, right?
+
+DRE: Mm-hm.
+
+AUSTIN: Yeah, I love it.
+
+JANINE: (crosstalk) You like, bake a little cake in them too.
+
+AUSTIN: (crosstalk) Operation Ramekin is very funny.  Alright.  (DRE chuckles)  Um, I’m gonna write that down.  (laughing) It’s a very funny episode name!  Uhh.  
+
+(ALI and AUSTIN laugh)  
+
+DRE: God.
+
+AUSTIN: Great.  Alright, engagement, if you’re going forward with this mission as is.  I know that makes it sound like there’s an axe over your head.  Which is like, true to some degree cause that’s what this game is, but I think it’s a fun, goofy mission.  We’ll see how it goes.  We should talk about who is doing what in this mission.  It sounds like Thisbe is on foot.
+
+JANINE: It seems- (sighs) I mean it was very tempting to be like, “Thisbe should be the escort,” but it’s- it just seems like one of those things where like, no, this is- Thisbe does the big, messy stuff, like-
+
+AUSTIN: Right.
+
+JANINE: It would be- You know there’s a path through changing that up, but also there’s a path where you just play to the person who has two points in Wreck and Destroy.
+
+AUSTIN: Right.
+
+JANINE: Respectively.
+
+AUSTIN: Fair.. Fair.  Good call.  Alright, so, that means Thisbe’s on outside team, right?
+
+JANINE: Mm-hm.
+
+AUSTIN: Then who is- who’s doing the escort?
+
+DRE: (sighs) I mean maybe- I guess me?
+
+AUSTIN: That seems like it makes sense.
+
+DRE: (crosstalk) I’m the most like, stealthy, talk our way out of things person.
+
+AUSTIN: (crosstalk) Yeah.  Yeah.
+
+ALI: Yeah, I feel like I could get in and out effectively, um, because I’m a sneaky person.
+
+AUSTIN: Mm-hm.
+
+ALI: But I don’t know what I would do if we got caught. (laughs)
+
+AUSTIN: Yeah, do you not have much in the way of ground-fighty stuff?
+
+ALI: Um, I mean, I have Battle, I have Maneuver, I have Bombard, I have Manipulate.
+
+AUSTIN: Oh, but that’s all- that stuff’s all mech shit, none of that is- uh, you have- yeah, you don’t have Struggle.  You have Prowl, Prowl is good sneaky stuff, like we said, yeah.
+
+ALI: (crosstalk) Right, I have Prowl and I have Wreck.
+
+AUSTIN: Right, yeah.  Which you can specifically use to like-
+
+ALI: Smash through a locked door.
+
+AUSTIN: Smash through a locked door, but also do it quietly, to hide damage, because you have Saboteur, which is useful.  Um, but I am good with whatever.  But also you’re very good outside with a big robot, so.
+
+ALI: Sure.  Yeah.
+
+AUSTIN: You could go either way.  But it’s up to you.  I’m- As I’m- This is me asking you to confirm which side.
+
+ALI: Yeah, um.  I guess I’ll do outside, if um.  If that makes more sense.
+
+AUSTIN: (crosstalk) Okay.  So- Yeah, I’m down.  So Thisbe and Broun outside, Valence inside.  Sound good, Valence?
+
+DRE: Mm-hm.
+
+AUSTIN: Okay.  Um, let me come up with a name for Gucci’s other- the like, attaché, who I guess is her third-in-command now.  Actually, no, that person would stay behind.  Let me come up with a name for, or let me see if I have a name already for a guard who will come with her.  Look at my name list.  My brainstorming doc, which is like, the thing I dump all of my ideas into, and names, and everything else, is forty-four pages long.
+
+DRE: Whew.
+
+AUSTIN: Too fucking long.
+
+JANINE: Now who’s got the name book?
+
+AUSTIN: Yeah, right? (DRE and AUSTIN laugh)  It’s true.
+
+JANINE: Publish that.
+
+AUSTIN: Uh-huh.  Never.  (JANINE laughs)  Will never publish my season six brainstorming doc.  Uh, let me add this character here.  I haven’t- this character hasn’t come up yet, right?  This person’s name Thet- uh, Thetonious?  No?  AKA Tone?
+
+ALI: (crosstalk) No.
+
+JANINE: (crosstalk) No.
+
+AUSTIN: Okay.  Well I’m gonna write their name down here.  I guess-
+
+JANINE: AKA Tone, not AKA The Tone?
+
+AUSTIN: No, just Tone.
+
+JANINE: The perfect radio DJ name?
+
+AUSTIN: (laughs) They’re not a radio DJ, they’re a- they’re a tough, they’re a-
+
+JANINE: Give it a few years, if they have a good voice, they could change careers.
+
+AUSTIN: (crosstalk)  That’s true.  Uh, okay.  Um, so, on the inside team is Valence, Gucci Garantine AKA Saint Dawn, and Thetonious AKA Tone, who I’ve written down here is “a big, fuck-off, enby guard.”  Uses they/them.  Um, they are ready to beat people the fuck up, but they are undercover, wearing kind of Oxblood- Oxblood Clan you know, coveralls basically.  I think that’s probably also what you’ve been asked to wear, Valence.
+
+DRE: Okay.
+
+AUSTIN: That way it’s like- But also you’re still wearing the mask, I guess.
+
+DRE: Yeah.  Yeah.
+
+AUSTIN: Okay.  I guess Oxblood Clan has people who wear masks.  We’ll see how that goes.  Um, the- actually, no, I think at some point, I think while you’re getting ready for this, like maybe the day before, Meridian breaches it, because I don’t think Gucci would do it herself.  Meridian, her number two, kind of pulls you aside and says,
+
+	AUSTIN (as Meridian Street): Listen.  I’m gonna be outside during the fight, or during
+this mission, causing- helping to cause the distraction.  I know you’re gonna be there
+with Dawn.  Um, are you gonna- with the whole, the fox thing?
+
+AUSTIN: Like, points to her face.
+
+	DRE (as Valence): I- Do you take your face off?
+
+	AUSTIN (as Meridian Street): That’s your face?!
+
+	DRE (as Valence): Yeah…
+
+	AUSTIN (as Meridian Street): Are you Columnar?  I thought you were Orion.
+
+	DRE (as Valence): No, I’m Orion-
+	
+	AUSTIN (as Meridian Street): (crosstalk) Can I touch it?
+
+	DRE (as Valence): I- Yeah?
+
+AUSTIN: She’s like- she does, like,
+
+	AUSTIN (as Meridian Street): Wow.  I thought that was like a- I thought you’d maybe,
+there was like a scarring or like a- Sorry if I’m being to forward, it’s just, you know, we’re
+on an operation together, you gotta be forward with people.
+
+DRE (as Valence): Uh, sure, I don’t know about face-touching forward-
+
+AUSTIN (as Meridian Street): I asked!  If you don’t want me to touch your face you could
+have said no.
+
+DRE (as Valence): Can I touch your face?
+
+AUSTIN (as Meridian Street): Sure.  It’s just, I’m like a person, I’m a human.  I mean,
+you’re a person, I’m not saying you’re not a person cause you’re a robot or whatever,
+um, but, no it’s just flesh.
+
+AUSTIN: And she’s like, touching her own face.
+
+	AUSTIN (as Meridian Street): Like, you can touch it.  See we’re cool.
+
+	DRE (as Valence): No, I’m f- Okay.  But yeah, no, I’m not gonna take my face off.
+
+	AUSTIN (as Meridian Street): Alright.  I just- this isn’t me, cause again, I am cool with
+your face, (DRE laughs) but I do think it might raise some suspicions, just so you know
+ahead of time.  I don’t think Gucci’s gonna say anything.  Tone might.  Tone’s- I mean,
+you know.  But…
+
+DRE: Hmm.  Ummm.  Maybe this is like a... Acquire an Asset roll or something?  I know one of the other classes has a thing that’s basically like a way to disguise your face.
+
+AUSTIN: Oh, that’s true.  You could get like a Halloween mask.  (DRE snorts)
+
+DRE: What is-
+
+JANINE: I was gonna say that jokingly to put on- yeah.
+
+ALI: You should-
+
+JANINE: Like a big, rubber Nixon mask on or something.
+
+AUSTIN: Uh-huh.
+
+(DRE and ALI giggle)
+
+ALI: You should get something that like, fits to it though, right?  
+
+AUSTIN: Yeah.
+
+ALI: Like a sheet of fabric that fits to it and has like, another picture over your actual mask.
+
+AUSTIN: But it’s- But it’s a wolf mask.  I guess it could be like, hair?
+
+ALI: (crosstalk) There are other kinds of masks.
+
+JANINE: (crosstalk) Then you’re just kind of- that’s kind of like an original Hypha situation, right, where it’s like skin stretched over bone, but it’s like, a human face stretched over a dog face.
+
+AUSTIN: (crosstalk) Yeah.  Yeah.  Fantastic.  (groans)  I hate this.  
+
+(JANINE laughs)
+
+DRE: So the Envoy has a fine disguise kit, where in the, um, thing, it says that it’s like putty you put on your face that’s connected to a program.
+
+AUSTIN: You could do an Acquire Asset roll here.  Um, I believe you have to spend to do it because you’re out of downtime actions, right?  
+
+DRE: (crosstalk) Yeah.
+
+AUSTIN: (crosstalk) Uh, let me see if I can remember how to spell anything.  Here we go.  Uh, how much…?  What are your resources?  Four Materiel and one Personnel right now.  It would cost, uh- God, I need this to work cause I need to know what your- what your fake human face looks like.  Or alien face, it doesn’t have to be a human face, right?  It doesn't have to be anything, just to be clear, I’m not saying you have to do this.  This person who is like, the worst sort of Facebook liberal, who is like, can I touch your hair, is saying this.
+
+DRE: (crosstalk) Yeah.  Yeah.
+
+AUSTIN: Just to be 100 percent clear.
+
+DRE: Yeah, yeah, no.  But I think it is a good point of like, we’re breaking in somewhere.
+
+AUSTIN: That is true, yes.  Um-
+
+DRE: And I wouldn’t- you wouldn’t wear a nametag with your government on it when you’re breaking into somewhere.  (laughs)
+
+AUSTIN: (crosstalk) Right.  Absolutely true.  Uh, it’s one Materiel, of which you have four, so you can spend one of those to do an Acquire Asset roll.  You get a temporary use of an asset, one special item or a set of common items, blah blah blah.  Don’t you have something that makes you good at this?  You do.  Y’all have a move, Pack Rats.  You get plus 1d on this, which is great.
+
+DRE: Oh!
+
+AUSTIN: Um, so here’s an example of using that move!  Go ahead and give me a, what do you roll?
+
+DRE: Are you all okay with me using the Materiel to do this?
+
+ALI: How much do we have?
+
+AUSTIN: You have four.  It costs one.
+
+DRE: (crosstalk) And it costs one.
+
+ALI: Sure.
+
+AUSTIN: (laughing) Wow.  Love it.  Um, you, duh-duh-duh-duh-duh.  The result indicates the quality of the asset you get, using the squad’s tier as the base.  So if you get a 1 to 3, you’re gonna get a tier zero item, if you get a four or five, you’re gonna a tier item, which would be a tier 1, if you get a six, you will get a tier two item, if you get a crit, you’ll get a tier three item.  Um, so go ahead and give me your 2d6, which is one from your tier, which you ranked up last time, and then another one from having whatever it is.  Junk- junk?  Pack Rats?  Pack Rats, not Junkyard.  
+
+DRE: (crosstalk) Pack Rats sounds right.
+
+AUSTIN: Yeah, 2d6.  Hey, that’s a five.
+
+DRE: (crosstalk) Okay, a five.
+
+AUSTIN: So you get a tier 1 mask.  Which means it’s not- it’s not great, but it’ll do.  You know for- in a world where there was high-definition cameras, it would not do.  Up close, it would not do.  Someone would see you and be like, that’s a- that’s fake- that’s a Reagan mask, you know, or a Nixon mask, like, big time.
+
+JANINE: So you’re like two steps above the Jenna Marbles Rabwitch?
+
+AUSTIN: I don’t know what that is.
+
+JANINE: That’s when Jenna Marbles put on a bunch of theatre prosthetics, including a caveman forehead, a rabbit nose, and a witch chin.
+
+AUSTIN: (crosstalk) Ah.  I see.
+
+JANINE: And put pink stage makeup on over the top of them and a blonde wig.
+
+DRE: Aaah!
+
+AUSTIN: (crosstalk) You’re- not this.  This is not- I mean if you wanna go for this, that’s fine.
+
+JANINE: It’s a few steps, with a more natural color.
+
+DRE: Yeah.
+
+AUSTIN: Yeah.  Uh-huh.  Definitely.  Yeah, you have to tell me, what is this mask, what does this mask look like?
+
+DRE: Oh boy.  Um, who do I wanna look like? (laughs) Oh man, I think it’s the equivalent of whatever that website is that creates fake people-
+
+AUSTIN: Oh, sure.
+
+DRE: -by like, doing machine learning algorithms on just a bunch of pictures of people.
+JANINE: (crosstalk) thispersondoesnotexist.com?
+
+DRE: Yeah.
+
+AUSTIN: I thought it was thisisnotarealper- Yeah, that is it, you’re right.  I think that that’s it.  These people just look real!
+
+DRE: No, I know.
+
+JANINE: Yeah…
+
+AUSTIN: This is still unbelievable.
+
+JANINE: That’s why I made this a- that’s why I made that one Bluff City character just one of these people, cause…
+
+AUSTIN: (crosstalk) Did you see the This Is Not Modern Art one?  That recently hit?  Uh, I don’t know where it is now, because I didn’t look at it on this website.
+
+JANINE: Is it thisisnotmodernart.com?  No it’s not.
+
+AUSTIN: (crosstalk)I don’t think it is, no.  Um, I have to find it, but it’s cool.. It’s cool that they’re just straight-up… Fuck, I’m not gonna find it, it’s fine, it’s fine.
+
+JANINE: (crosstalk) This is not helpful internet search, no.
+
+AUSTIN: Uh, alright.  So, engagement time?  It sounds like?
+
+ALI: Okay.
+
+DRE: I think so.
+
+AUSTIN: Okay.  So, what type of engagement is this?  Would you say that this is Assault, Deception, Scientific, Social, Stealth, or Transport.  This feels like Deception to me?  Depending on- I guess the question is engagement, right?  So this is the beginning of this, right?  Um, to paint the picture a little bit- Or also, one, are you doing this in the day, are you doing this at night?
+
+DRE: Ooh.
+
+ALI: (crosstalk) Mmmmmm.
+
+AUSTIN: Different benefits for these, you know?
+
+DRE: Like, I assume the daytime, like, the fight would draw more attention?
+
+AUSTIN: Right.  Definitely.  But also there’d be people out and about in a different way, right?
+
+DRE: Yeah.
+
+ALI: (crosstalk) Right.
+
+AUSTIN: Like, at night, you can be pretty sure people are gonna be in Point Relish.  Whereas, in the day- or like late at night.  That’s like an- overnight.  In primetime, like evening, evening until midnight, they’re going to be both in Relish and Tahini.
+
+JANINE: (crosstalk) In Tahini.
+
+AUSTIN: Yeah.  More- Tahini will be busy.  And all day Tahini will be busy.
+
+ALI: I mean, but when- when is it gonna wind down?  You know?
+
+AUSTIN: Late night. Late- you know?
+
+ALI: (crosstalk) Yeah.  Sure.  It’s a theatre district is what I’m saying, like, people are in Times Square at two a.m.
+
+AUSTIN: You’re right, totally.  That’s- yeah.  Definitely.
+
+ALI: Yeah.  So.
+
+AUSTIN: And you risk going too- you risk going too late into the night, one, you’re tired, it’s sleepy time.  Two, people will start getting up to go to the mines, people will start doing whatever.  Also, I think the mines are probably running 24/7 at this point.
+
+ALI: Right.  But I don’t know- I don’t know that like- hmm.  Like a 6 p.m. sleep situation, start the mission at like three.
+
+AUSTIN: Yeah.
+
+ALI: You don’t get a lot of dawn action, you know?
+
+AUSTIN: That’s true.  That’s true.  (ALI laughs) Which is ironic, given the Saint Dawn.  Yeah, uh-huh.
+ALI: (crosstalk) Right.  Right, right, right.  And I hope she’s impressed when I suggest this because I’m...
+
+AUSTIN: She’s like,
+
+	AUSTIN (as Gucci Garantine): Ah! Dawn action!  (laughs)
+
+ALI: She’s like, “Oh, yeah, yeah, yeah.  This will work for me.”
+
+AUSTIN: That’s- yeah.  You could do that.  The late night attack.  But then the second half of this for me is, what is the engagement roll?  Is the engagement roll drawing- Is it walking through the front door, is it finding some sort of side entrance, is it drawing everyone away, is it- In other words is it the loud part or is it the quiet part?  Which happens first?  You know what I mean?
+
+ALI: I feel like what happens first is we get Valence and Gucci in place and then start the mission, right?
+
+AUSTIN: And then, yeah, okay.
+
+ALI: Yeah.
+
+AUSTIN: Then, the engagement there is probably Stealth, right? Cause it’s like getting them through the very first outer wall.  I guess like, that’s a thing I’ll say.  Middle of the night, everyone’s in bed, a lot of people are home in their residential area.  Residential homes in Relish.  Um, there are probably still a few people in Point Salsa, looking at giant statues of Divines, dozens of these gigantic- we had this statuary vibe in, all the way back in COUNTER/Weight, there was a one- there was a faction episode that had this kind of massive statuary park.  Um, this is not as big as that, but it’s still pretty big, and all the statues are these gigantic things that are, again, just garishly lit.  You know, I think there’s probably really good sculpture work in there that is covered up with bright, you know, green and pink lights.  
+
+Um, everything is a little bit too much.  Um, Tahini is probably basically deserted by the point at which you’re at.  There is a big show tonight, so I’ll say this.  Like, there are people in the theatre district, but they're in hotels, they’re in inns, they’re in, you know, they’re staying over at their friend’s houses and stuff because there was a big performance tonight.  On the plus-side, you’re not going to be interrupting that performance.  No one is in that theater currently to get hurt, in case that theater takes damage.  Um, and then in the actual- the actual, like, cathedral itself, is again, a cathedral to this giant firebird Divine called Imperium, who is one of the founding Divines of the Divine Principality.  Um, and it is just gigantic, orange and red stained glass windows.  Um, it is, you know, a very tall cathedral, um, and what Jesset has told you is that, you know, you have to go and sit in some corner pew and open the, what do you call it, the, uh, why am I blanking on the thing with the liturgy in it?  The, uh, oh my god.  Not with the liturgy in it, but with like, I have to look it- oh, the hymnal, is what I’m thinking.  You have to open up a hymnal to a right page, and then like, break the code printed on that page, because there’s like, a fake hymn in this hymnal every day, and you have to find it, and then find the right words, using some sort of weird, you know, rhythmic cipher, basically.  And say those, and it will- the pew will descend into- into the floor, bringing you down into the Palace place.  So like getting in there is probably fine, the question is, will you pick up a, one of the few remaining actual Palace guards as a tail, will someone see you coming, et cetera, so to me that’s a Stealth roll.  Um, Valence, since you’re going first here do you wanna- Since you’re the one doing the infiltration part, do you wanna do a Stealth roll here?
+
+DRE: Sure.
+
+AUSTIN: Alright, so.  Start with one die, then is the mission bold?
+
+ALI: Yeah.
+
+DRE: (crosstalk) Yeah, I mean, I think so?  Yeah, we’re breaking in while also staging a fake fight.
+
+AUSTIN: Okay, follow-up question.  (laughing)  Is it especially complex?
+
+DRE: The part that’s complex doesn’t really have to do with us.
+
+AUSTIN: No, true.  That’s true.  That’s true.
+
+ALI: Yeah.
+
+AUSTIN: Yeah, okay.  So take-
+
+JANINE: I’m sorry, we’re staging war games (AUSTIN laughs) in order to let a poet break into a church.
+
+DRE: Yeah, but the person who is doing the breaking in is not the complex part.
+
+AUSTIN: (crosstalk) (laughing) Sorry.  You’re not- The poet isn’t breaking in.  Someone with the poet streaming through their mind is breaking in.
+
+[TIMESTAMP 1:30:04]
+
+JANINE: Yeah.  That’s- no that simplifies it, definitely.
+
+AUSTIN: Uh-huh.  I think it-
+
+ALI: (crosstalk) But it’s not complicated.  Like we’re all- we do this.  This is a thing that we do.
+
+AUSTIN: I think there’s lots of points of failure.
+
+JANINE: (crosstalk) You know what else- you know what else we do is like, we fight people on a beach.  That’s not complicated.
+
+AUSTIN: That’s not complicated.  
+
+DRE: Yeah.  Fair.
+
+AUSTIN: (crosstalk) I think this is complex.  I think this is- as far as these missions go-  If you could remove one joint, (ALI laughs) it would be less complex.  But it has a bunch of joints and they go in different directions.  Does the mission exploit target’s vulnerabilities, take plus one.  Yes.  Is the mission ineffective?  No.  So take- you’re up to two.  Do you receive external support?  Yes.  Is anyone interfering with the mission other than the target?  Yes, you’re still at two.  Are there any other factors that affect the mission?  Uh, nothing that comes to mind.  Uh, so you’re gonna take- you’re at two right now, 2d6.
+
+DRE: Okay.
+
+AUSTIN: Um… You want this to be high, I believe.
+
+DRE: Nope.
+
+AUSTIN: Yikes!  That’s a three.  That’s not good.  Uh, well, “if the result of the engagement roll is one to three, the starting position of the squad is Desperate.”  
+
+CW: Body Horror 1:31:17 - 1:32:57 (Austin further describes the perspective bleeding device)
+
+AUSTIN: So, you sit down with Gucci and Tone in this pew and uh, Gucci has this like, again, this reel-to-reel like, wire recorder slung over her shoulder and the wire is going into her brain, right?  Like, it’s going up like the back- it’s coming off the back of this recorder and then up to like the brain stem, and like going into the back of her, like above her neck, below like the- her head.  Uh, and it starts like, going through and then back out.  It’s not gross.  It’s like, you know, this is- I mean it’s gross, don’t get me wrong.  It’s gross that she’s hooked up this thing, but it is not painful and it’s not gory or anything really.  I imagine like, stainless steel, like, input/output holes or whatever.  Um, and you can hear the tape, like start to spin up.  Um and you can almost- You know if you don’t have a- Have you ever like, turned on a vinyl record player and just listened to the needle on vinyl without a speaker, like-
+
+DRE: Mm-hm.
+
+AUSTIN: And you like- you can hear the song.  Cause it’s just in there, you know?  Um, you can hear Jesset making similar sounds to when you heard Jesset’s voice in his head.  Where he  was just kind of like, oh god, what’s going on.  That Jesset, that nervous Jesset.  Um, and you can hear, coming through the same wire, Gucci’s voice also.  And it’s like, from the wire running through her brain- 
+
+CW Ends
+
+AUSTIN: -you can tell that the like, melding of these two people is not necessarily going great.  Or at least it’s not like, synced up yet.  But she manages to like, pick up the hymnal.  You immediately notice that she picks it up with her other hand.  I’m gonna say that- god, I don’t  remember- this is bad that I don’t remember this.  Um, let me see something.  Duh-duh-duh-duh.  (pause)  Uh, I don’t think I have it in this document.  Um, so Jesset has a prosthetic- a prosthesis on one of his arms.  She uses the other arm, which I think is her non-dominant arm, but is his dominant arm to pick up this hymnal.  Um, he’s also replaced it, by the way, right now.  His current prosthetic is like a- like, so this is for the people who’ve dealt with him outside.  He currently has on like, his piloting, which has, like some- He has one prosthetic for doing like, engineering stuff, he has a different prosthetic for social situations, for like, eating and drinking, and then he has a third one for- and this is one he only got after the Obelle mission, this was like, what he got with his payday money from that, was one that helps him pilot more effectively.  Um, it like, directly can jack into parts of his mech to make it like- to get one degree closer to it.  So he has that hooked up in real life.  Here, in the imagined version, in her own mind, she, Gucci is just like, as confused and clumsy as I sound currently, cause I’m trying to keep everything in my head, but she does manage to pick up the hymnal and then say like, the code phrase, and as it begins to lower, you can hear footsteps approaching from the Palace guard, which are not members of the Oxblood group, this is, this is like, real, actual, Palace guard people, and you hear them like, turn on the radio and say, and this is you, Valence, hearing it.
+
+	AUSTIN (as Palace Guard): I think we have- Some- Is someone scheduled to go down
+right now?
+
+AUSTIN: Um, so you’re on this long elevator down, knowing that there will probably be guards when you get there.  What do you do?
+
+DRE: Oh, boy.  Okay.  Ummm.  (pause)  Is there any like, hatch or anything in this elevator?
+
+AUSTIN: Um, I think it’s like, as you start to go down, there’s like rough- You can see the mechanical, like, um, not the rail, but the like, track that the elevator is on.  It’s being lowered from below you, it doesn’t have a cable or anything, obviously.  And above you the hatch is closed, but to the left and right, no, it’s kind of like stonework, with this elevator track on the side.  You know that at some point, it’s going to reach a door, though.  I think Tone looks at you.  Tone says like,
+
+	AUSTIN (as Tone): Saint Dawn, we’re definitely gonna run into company.
+
+AUSTIN: And Saint Dawn, Gucci, just goes like, nothing, just does not respond.  I’ll remind you, really quick that you have a cohort on this mission, who is a tier lower than you.  That was kind of one of the- I don’t know if you remember that entanglement you rolled at the end of last session.  Uh, this is- Gucci is that rank zero cohort who you’re stuck with.
+
+DRE: Oh, gotcha.  Okay.
+
+AUSTIN: (crosstalk) Uh-huh.  Yes.  Um, so then Tone looks to you and goes like, 
+
+	AUSTIN (as Tone): Valence, we’re gonna run into trouble.
+	
+	(pause)
+	
+	DRE (as Valence): Okay.  Um, Saint Dawn is a lot better in a fight, right?
+
+	AUSTIN (as Tone): Than who?
+
+	DRE (as Valence): Me.
+	
+	AUSTIN (as Tone): Yes.
+
+	DRE (as Valence): What happens if we unplug her?
+
+	AUSTIN (as Tone): If we unplug her then this is for nothing.  We can’t unplug her.
+	
+	DRE (as Valence): What if you plug it into me?
+	
+	AUSTIN (as Tone): If you plug… We haven’t- I mean, one, I don’t know that you can do
+that.  You don’t have the holes-
+
+AUSTIN: And he like, points to the back of his head.  
+
+(DRE giggles)
+
+	AUSTIN (as Tone): They said there was surgery involved.  (DRE sighs)  I think she’s not
+gonna be able to- Also, you unplug her, there’s gonna be a period of time where she has
+to get her senses again.
+	
+	DRE (as Valence): Okay.  Okay, okay.
+	
+	AUSTIN (as Tone): Sorry to put it all on you like this, bud, but.  I mean, I- you know
+what?  
+
+AUSTIN: And like, unzips the coverall, and like, reaches in and just grabs a heavy pistol from inside his- sorry.  Just reaches into their coveralls and pulls out a heavy pistol and is like, 
+
+	AUSTIN (as Tone): I think we’re gonna go loud.
+	
+	DRE (as Valence): There’s a time and a place to go loud, I don’t think the beginning is it.
+
+AUSTIN: (sighs) And they like,
+
+	AUSTIN (as Tone): I’m gonna give you one chance, but um.
+
+AUSTIN: And like, tucks the gun behind their back in their belt, instead of back inside of the coveralls.  And it goes “ding!”  And the doors begin to open, and coming down a long hallway are a set of guards.  Um, what do you do?
+
+DRE: Um…
+
+AUSTIN: One of them is wearing Oxblood, like, uniform.  Like an Oxblood, like, mercenary uniform, or again, like, basically the same coveralls you were wearing, but the two people with that person are very clearly in the, kind of like, dress suit security.  I’m imagining like, cause it is Stel Nideo, a very colorful turtleneck, with a blazer and like, chinos.  But very clearly has like, an underarm holster with a gun, for both of them.  Um, and the Oxblood person is like, this is not, is clearly distraught on their face.
+
+DRE: (crosstalk) Okay.
+
+AUSTIN: (crosstalk) They were supposed to very calmly let you through the front gate, you know.  These guards were not supposed to be here.  If you hadn’t- if you hadn’t gotten a three on that engagement roll, this first step would not have been a step at all.
+
+DRE: Right, umm.  Could I roll a Survey here?
+
+AUSTIN: Sure, give me a Survey.  What are you looking for and what’s it look like?
+
+DRE: Uhh.  I mean I think this is, Valence is just kind of like, pinging everyone's emotions here.
+
+AUSTIN: Okay, so you’re just-
+
+DRE: So like, picking up on the anxiousness of the Oxblood person, but then also knows, so okay, they know, they’re in on this , they know we’re supposed to be here.
+
+AUSTIN: Yeah.  That I can just give you.  That is true and clear.
+
+DRE: Sure, yeah.
+
+AUSTIN: Are you looking for some sort of like, opportunity, are you looking for-
+
+DRE: I’m looking for an opportunity to try and like, not make this escalate-
+
+AUSTIN: Sure.
+
+DRE: And to satisfy the non-Oxblood guard.
+
+AUSTIN: Are you using telepathy here, or are you… are you-
+
+DRE: No, I don’t think so.
+
+AUSTIN: Okay.  So then give me a um- I guess you can’t, right, because you have to have had a revealing interaction with someone to even try it.  Give me your survey, which is 2d6, Desperate.
+
+DRE: Yup.
+
+AUSTIN: Um, the desperation here is the speed with which something could break bad, do you know what I mean?
+
+DRE: Right. 
+
+AUSTIN: You’re hesitating, in a sense.
+
+DRE: Um, do I mark XP for that?
+
+AUSTIN: (crosstalk) Yes, you mark- mark Insight XP.
+
+DRE: Okay.  Uh, Standard effect or Limited?  
+
+AUSTIN: Standard effect.
+
+DRE: Okay.
+
+AUSTIN: Are you pushing yourself, are you doing anything else?
+DRE: I can push myself, or I can-?
+
+AUSTIN: You can ask for a Collateral Die.
+
+DRE: Mmm.  And that’s like a- What happens with a Collateral Die again?
+
+AUSTIN: I get to offer you a bad thing (DRE and AUSTIN laugh) and you’ll get another die, or can uh- and yeah, I think you just get another die basically.
+
+DRE: Okay.  I’ll push myself.  That’s two stress?
+
+AUSTIN: Yup.  You can do both, I’m just letting you know.  It is two stress.
+
+DRE: Yeah, yeah, yeah.  I’ll just push myself for now.  Okay.  Okay, five.
+
+AUSTIN: Five ain’t bad.  Um, so you get a- Five ain’t bad, but a Desperate consequence is still a Desperate consequence, unfortunately.
+
+DRE: (crosstalk) Right.
+
+AUSTIN: Um.  What the- The vibe that you get from these dudes, as they approach you in their matching turtlenecks, their shaved bald heads, their like, you know, designer sunglasses.  One of them actually lifts up the designer sunglasses as they approach and does like a sigh and shake of his head.  And he’s like, the vibe is very much he doesn’t want to be here, um, like not here as in this particular hallway, but doesn’t want things to go bad.  Just like, give me any excuse, like please let this just be a schedule got, you know, fucked up.  Please let this just be- like, I don’t want to fucking shoot anybody today.
+
+DRE: Yeah.
+
+AUSTIN: You know?  (laughs)  Like, it’s gonna be so much paperwork!  It’s gonna be a pain in my ass.  Um, it’s not that they’re not, that these two people aren’t true believers, it’s just that given the state of the world, is this really one more thing on my fucking plate right now?  Imperium’s Plume isn’t even here, so like the head honchos are gone, if that makes sense?  So this is just like, the Palace side of the guard.  So like, they’re not even- these aren’t religious zealots, these are- these are people who believe in what they’re doing, but, but yeah.  Would love a- Could be convinced, if that makes sense.  Um, I’m trying to think of other things here.  I mean, this is just a thing that you know from your Survey.  I think you know that if you go loud, you win that fight.
+
+DRE: Yeah. 
+
+AUSTIN: They are not practiced in the way that truly milit- Like, they’re security guards, not military officers, you know?
+
+DRE: Yeah.
+
+AUSTIN: Not even front line fighters.  Whereas Tone seems like they could put in work, you know?
+
+DRE: Yeah.  Yeah.  Um.  Okay.  I think- I would actually, I’m gonna run with your idea of it being  a mixed-up schedule.
+
+AUSTIN: Yeah.
+
+DRE: I would like to do a flashback where we are fabricating a false schedule.
+
+AUSTIN: Love it.
+
+DRE: Or like, some kind of papers that are basically like, oh yeah, no, we’re supposed to be here.
+
+AUSTIN: I think you can just declare that.  Um, let me see if you can.  Uh, maybe you can’t.
+
+JANINE: Would that be documents?
+
+AUSTIN: I think that would be documents, yeah, but I would- you know what, I’ll say that it costs one stress to have them be like, accurate.  Or, no it doesn’t, because you have that information.  You have that person on the inside, right?  Like, you know what the schedules are, it would be easy to have someone in place do that.  In this case, for this specific thing, as long as you declare documents, I will let you do that without it being stress.
+
+DRE: Okay. 
+
+(AUSTIN sneezes)
+
+AUSTIN: Excuse me. 
+
+DRE: I don’t see that as a thing in my- is that- should that be under general items?
+
+AUSTIN: (crosstalk) It’s under- It’s in your general items list.
+
+DRE: I don’t have that on here.
+
+AUSTIN: I’m highlighting it right now.
+DRE: Oh!  I’m looking at my fucking vehicle, sorry.
+
+AUSTIN: Yeah.  Your vehicle does not have documents.  (DRE laughs)  I mean, it probably does.  If you get pulled over, you have to be ready to hand over your documents.
+
+DRE: Right.  Okay, then yes.  I will declare documents.
+
+AUSTIN: Great.  And they say- so I think one of them says,
+
+	AUSTIN (as Palace Guard): Hold on, hold on, hold on.  Nothing is scheduled for tonight,
+um, can I see some ID?
+
+DRE (as Valence): (crosstalk) Sorry!  Yeah, yeah, hold on.  We’re a late addition, I think
+I’ve got my paperwork here.
+
+AUSTIN: (crosstalk) One of them is squinting at you and your face.
+
+DRE: Yeah.  I think I’ve found the face I have.
+
+AUSTIN: Yeah, what is it?
+
+DRE: I think it’s just this guy, cause I look at this face and- oh right.  That doesn’t work.
+
+AUSTIN: That’s not gonna work either, can’t- do a screenshot.  Yeah.  Just link to thispersondoesnotexist, I mean.
+
+DRE: Yeah.  That is one that like- there’s something about the eyes in that picture that are just like, that’s not real.
+
+AUSTIN: (crosstalk) Oh yeah!  That person’s not real.  That actually looks like an incredibly cleaned up Himanshu Suri, formerly of Das Racist, current hip hop artist.  (DRE giggles)  Um, I also found the artwork one, Janine.  I know you were curious.  It’s thisartworkdoesnotexist.  It’s just, it’s on the bottom of the page, if you click.  
+
+JANINE: Oh.
+
+AUSTIN: It’s good.  Anyway.  (pause)  This is like a very modern penguin.  Okay, we’re gonna keep playing this game, I’m not gonna keep hitting refresh on this modern artwork does not exist.  Alright.  Um.  So yeah, do you approach to deliver these documents yourself, do you hand them off?  Cause this is, this is the moment- this is going to be the moment of does your-
+
+DRE: Yeah, no, I’ll do it.  I’ll do it myself.
+
+AUSTIN: Alright, I- What is- I think this might be a- This is- this is something.  This is a Sway or a Prowl, or something.
+
+DRE: Yeah, I’m- I think either Sway or…
+
+AUSTIN: I think it’s Sway.
+
+DRE: Yeah.
+
+AUSTIN: It’s not Consort!  You’re not mingling with allies or acquaintances.  (laughs)
+
+DRE: (crosstalk) No, yeah.  Yeah, okay. I’ll-
+
+AUSTIN: You’re at four stress, do you want to push yourself again?
+
+DRE: Mmm.  It’s like, do I wanna push myself, or do I (laughing) spend it on the consequence, for resisting the consequence?
+
+AUSTIN: Right, totally.
+
+DRE: Um, if I ask for a Collateral, do you tell me what it is first and then I get to say yes or no?
+
+AUSTIN: (crosstalk) I do.  I do.  I do.  Yeah.
+
+DRE: Okay.
+
+AUSTIN: Um, the Collateral is that they’re going to call for backup from a military- someone military nearby.
+
+DRE: Gotcha.  Um, yeah, I’ll do that.
+
+AUSTIN: Uh, to be- okay, well, and also it’s not as bad as it sounds, which is- what I mean is I’m going to put a clock on the table that is if that clock fills up, the backup will show up.
+
+DRE: Now is that no matter whether I succeed or not?
+
+AUSTIN: That is no matter whether you succeed or not.
+
+DRE: Ohhh, okay, I’m not gonna take that.
+
+AUSTIN: (crosstalk) You take the Collateral Die means that you- the collateral happens.
+
+DRE: Then that happens.
+AUSTIN: Yes.  You’re at 1d6 right now.
+
+DRE: (crosstalk) I’m just gonna roll it.
+
+AUSTIN: Okay…
+
+DRE: I’ll just roll it straight up.
+
+AUSTIN: On the Sway, 1d6.  This is still Desperate.
+
+DRE: Okay.
+
+AUSTIN: So Desperate Standard.
+
+(pause)
+
+AUSTIN: That’s a failure.
+
+DRE: (crosstalk) Oof, okay.  Hey, the bad rolls are here!
+
+AUSTIN: The bad rolls are here!  Fuck!
+
+JANINE: (crosstalk) Had to happen eventually.
+
+AUSTIN: Ohhh!   Aaah!  This is bad Dre!  Why didn’t you take the Collateral Dice?!
+
+DRE: Cause I don’t want fucking bad, mean people showing up!
+
+AUSTIN: I get it, but let me tell you something about failing on a Desperate roll!
+
+DRE: Hey guess what, I leveled up Resolve. (laughs)
+
+AUSTIN: That’s good, congrats.  What are you putting the point in?  You do this instantly.
+
+DRE: Oh, do I?
+
+AUSTIN: Yeah, you don’t have to wait for a downtime.
+
+DRE: I’m gonna- I’m gonna put it in Sway.
+
+AUSTIN: Um.
+
+DRE: I’m using that a lot more than I thought I would be.
+AUSTIN: Alright, you are going to take the level three harm, um… Actually I think we can go slower than this.  I’m not gonna shoot you quite yet, but you’re already in Desperate, which is rough.  Fuck.  Um.  Oh, I mean- This is the thing that happens, is I get the thing regardless, here.  You failed this roll in a Desperate situation.  Uh, I’m going to introduce a clock.  This clock is called Backup.  And one of the level three- One of the Desperate consequences is advance a clock by three ticks.  So, this four-step clock- Whoops, fuck, I just-  What happened?  Did everything just disappear for you?
+
+DRE: Yup.
+
+AUSTIN: It did?
+
+DRE: All the condiment names are gone.
+
+AUSTIN: Are they back?
+
+ALI: Oh, they’re back, yeah, they’re back.
+
+DRE: (crosstalk) Yes, they’re back.
+
+AUSTIN: Okay.  Whew.  That was close.  Uh, this goes here, and Backup Arrives advances to… three out of four.  Um, one of them draws their gun on you and says,
+
+	AUSTIN (as Palace Guard): Stay exactly where you are.  No one move.  Uh, we’re
+gonna need- put out a- put out a request, we need serious backup right now, we have an
+infiltration.
+
+AUSTIN: Uh, up top?  How are y’all doing?
+
+(ALI snorts)
+
+ALI: Um…
+
+AUSTIN: I will say this.  Outside, where are you right now?  Give me the picture before you go loud and start making noise.
+
+ALI: How many of there are us besides just me and Thisbe?
+
+AUSTIN: It’s the two of you- On your side, it’s the two of you, plus Meridian, plus probably two or three more Horizon members.  Maybe like, two more on the ground and two more in mechs, you know?  At the edge of town.
+
+JANINE: Are we not- Do we not have our mechs with us?
+AUSTIN: You do or don’t, it’s up to you.
+
+JANINE: Okay.
+
+AUSTIN: Okay, but I think they specifically have two people posted up on like, you know, some tall rooftop to do like, sighting and stuff.  Um-
+
+ALI: Sure.
+
+AUSTIN: And then on the other side, cause the Oxblood Clan is here, there are six of them.  Uh, which again, I’ll say four on- four- Actually, probably a lot more on foot, but then four people in mechs.  And those are mostly up near Point Pesto, just kind of hanging out in their big robots, you know?  Um, I’m guessing you don’t have the update on Dre’s side right?
+
+ALI: I was gonna ask, I’m also guessing that we uh… We don’t know about that.  Uh-
+
+DRE: Can I resist that consequence?
+
+AUSTIN: Yes, you can.  Absolutely you can.  How do you wanna do it?  What do you want to- I guess I tell you what you roll for that.  That would be a Resolve resist.  
+
+DRE: (crosstalk) Yeah. Okay.
+
+AUSTIN: Which ironically- Oh, it doesn’t go up because you put the same point- you put the point into a skill you already had, but that’s fine.
+
+DRE: (crosstalk) Yeah.  But I’m very good at it.
+
+AUSTIN: You are very good at it.  3d6.  The thing is here, what I- what will be resisted will be the degree to which this clock fills.  The clock will still come out, because-
+
+DRE: Okay.
+
+AUSTIN: It will basically reduce it from a Desperate consequence to a lower consequence.  Um, I will note, one two, three, four, you could- this could be really bad.  If you roll- if you roll a one, you will, you will take a trauma.
+
+DRE:  You- So you don’t take your highest, you take your lowest of everything you roll?
+
+AUSTIN: You take- no, you take your highest, but if you somehow rolled three ones.
+
+DRE: Three ones, yeah.
+
+AUSTIN: Yes, which you’re not gonna do.
+
+DRE: Mmm.
+
+AUSTIN: (laughs) Now that I’ve said it.
+
+DRE: Yeah, now that you’ve put that out there.
+
+AUSTIN: Yeah.
+
+DRE: Okay.
+
+AUSTIN: Yeah, so the Resolve here would be- It’s 3d6, um, you take six stress minus whatever your highest die is.  You want a high- You want a six here.  Ideally, you want two sixes, cause you would lose stress, if that happened.
+
+DRE: Oh, that’s two sixes.
+
+AUSTIN: Look at you!  Look at you!  God damn.
+
+JANINE: (crosstalk) Damn.
+
+AUSTIN: Um, what’s that look like?
+
+DRE: Um-
+
+AUSTIN: Are you just like reasserting that it’s okay?
+
+DRE: (crosstalk) Okay, this doesn’t stop him from making the call.
+
+AUSTIN: They make the call, but maybe before they say, “We have an infiltration here,” you can quickly solve your QTE and stop them from going that far, you know what I mean?
+
+DRE: (laughs) Um, I think as he’s making that call, I just- Like, I snap my fingers and I think that’s when Tone just gunbutts that guy.
+
+AUSTIN: Oh, okay!  (laughing) So you’re going loud, okay.
+
+DRE: We’re not going loud, I mean we didn’t shoot him!
+
+AUSTIN: No, sure.  What’s the other guy- the other guy then draws his gun, instantly here.
+
+DRE: The other Oxblood guy?
+AUSTIN: No, there’s two- there’s two security guys plus an Oxblood guy.  There’s three people in this hallway.
+
+DRE: Oh, okay.
+
+AUSTIN: Yeah.
+
+DRE: I don’t know.  Maybe the other Oxblood guy also hits that guy.
+
+AUSTIN: Yeah, okay.  Good.  Yeah, fine, good.  I love the, uh- I love the snap of the fingers, you know, go to Plan B.  Um, yeah, knocks them out, but the call does go out before that, so the Backup clock- The Backup Arrives clock is still at one of four.  Um.  Up top, uh, what do you do?
+
+(pause)
+
+(something on ALI’s computer make a weird message notification noise, AUSTIN laughs)
+
+ALI: I assume we- Sorry.  (JANINE laughs)
+
+AUSTIN: You get a LINE message from Valence that says, “It’s go time.”
+
+ALI: (crosstalk) I know, weird.  Um…
+
+JANINE: It just says “finger snap emoji.”
+
+AUSTIN: (laughs) Oh, Valence finger snap emoji, or specifically a LINE sticker, is great.
+
+ALI: (laughs) I, um… I assume we have, like a choreography here, right?
+
+AUSTIN: You must, right?
+
+ALI: We have a plan.
+
+AUSTIN: That’s what it sounds- yeah.
+
+ALI: (crosstalk) Some people are gonna be some place, we’re gonna be shooting that direction, you know.
+
+AUSTIN: (crosstalk) It’s like- I think it’s- I think it’s like a wrestling match, right?
+
+ALI: Yeah.
+
+AUSTIN: I think you have spots planned, you know what I mean?  Um, but there’s probably some like, wiggle for, you know, a little bit of, okay, now go off the ropes, you know?  You send that message and you come up with it on the fly, to some degree.  So yeah, what is the opening dance move here.
+
+(ALI laughs)
+
+JANINE: What’s that statue made of again?
+
+AUSTIN: Which statue?
+
+JANINE: The- Isn’t there a-
+
+AUSTIN: There’s like a bunch of- That whole- All of Salsa is giant Divine statues.
+
+JANINE: Oh, okay, okay.  Uh…
+
+AUSTIN: Yeah.  There is also a big Divine statue on the top of the theater, which is this west building at the edge of Tahini.
+
+JANINE: Is that the specifically mentioned statuary?
+
+AUSTIN: No, the statuary is Salsa.
+
+JANINE: That’s the statuary.  Okay.
+
+AUSTIN: Salsa is the statuary.
+
+JANINE: Okay.
+
+AUSTIN: “S” is for statuary.  And also Salsa.
+
+JANINE: Um, sorry Ali, what were you gonna say?
+
+ALI: Um.  Nothing important.  I think we were just figuring out what the um- what this first thing was gonna be.
+
+AUSTIN: (crosstalk) First- yeah.
+
+JANINE: Well, I have a big mining tool and there’s a lot of statues around.  And I’m weird looking and scary.  And big.
+
+AUSTIN:  (crosstalk)  Uh-huh.  True.
+JANINE: Car-sized.
+
+AUSTIN: Yeah.
+
+JANINE: I’m a car-sized deer woman.
+
+ALI: Mm-hm.
+
+AUSTIN: (amused) What Divine are you destroying?  (DRE laughs)  Which statue?
+
+JANINE: Hmmm.  Do I get to take my pick?
+
+AUSTIN: Yeah!  Why not?  
+
+JANINE: Are they all there?
+
+AUSTIN: Any one you want is there.  
+
+JANINE: Ummmm.
+
+AUSTIN: There are ones that are not there, because they’re like, villainous, ancient Divines that no one would build a statue to, you know what I mean?
+
+JANINE: Yeah.
+
+AUSTIN: (crosstalk) Particular villains from- there are ones that are not there.  Um, but you can basically have whatever.  And-
+
+JANINE: Oh, dear.
+
+AUSTIN: You’re not allowed to say that, as a Hypha robot.  (ALI and JANINE laugh)
+
+JANINE: What if I type in “list of-”
+
+AUSTIN: (laughing) “List of Divines.”  Does that work yet?
+
+JANINE: I don’t know.  No.
+
+AUSTIN: No, it doesn’t, because fucking Elder Scrolls.  We’re coming for you, Skyrim.
+
+JANINE: List of Friends at the Table Divines?
+
+AUSTIN: There’s two different- there’s three different wikis you have to look at.
+JANINE: My connection’s fucking up again, one second.
+
+AUSTIN: Mm-hm.
+
+ALI: Just look at a list of serious words.  (laughs)
+
+AUSTIN: That’s exactly right.  Uh-huh.
+
+(pause)
+
+DRE: What’s a word in the dictionary you got beef with?
+
+AUSTIN: Yeah, that’s the- that’s the way to do it.
+
+(pause)
+
+JANINE: Hmm.
+
+AUSTIN: Um, I could list you the ones that are definitively in this setting-
+
+JANINE: I would like to know which ones aren’t here.
+
+AUSTIN: That’s- that’s not how it works.
+
+JANINE: Okay, well.  Fine.  List the ones that are definitely, definitely here.  
+
+AUSTIN: Uh, let me find this-
+
+JANINE: I have an idea, but I would like to hear-
+
+AUSTIN: Wait, I wanna hear your idea.  Your idea’s more important to me than the fucking drawings I- the, the constellation drawings I did that time, you know?
+
+JANINE: I don’t know if this one counts.  Um, I was gonna say Privign.
+
+AUSTIN: Ooh.  Uh, yeah.  Privign exists here.  Do you wanna- What’s a statue of Privign look like?
+
+JANINE: (laughing) I don’t know!
+
+(DRE laughs)
+
+AUSTIN: Great.  Um-
+JANINE: Is it just a chair and a bunch of wires or some shit?  Like…
+
+AUSTIN: Maybe.  Uh, privign was a noun that was used in the seventeenth century that basically means “stepson.”  Um, I think it is a statue of a human, of- Ooh!  Ooh!  Ooh!  I’m rubbing my fucking hands together like Birdman in that gif!  God damn!  All right!  Privign!  Privign is a name that was once used- Ooh!  Ah!  Ah!  This is good!  All right.  
+
+Privign, historically- There was once a time where there was this thing called Privign that was like, a space station and also a Divine.  I didn’t mean for that to rhyme or sound like the beginning of a limerick.  (laughs)  “There once was a time where there was this Divine.  It’s name was Privign.”  That was collaborated on between a group from Kesh and a group where Nideo was from.  Nideo was like a minor family in this group.  Um, but in some ways, if you kind of think of the words “Divine” and “Principality,” the Divine comes from the Nideo side and the Principality comes from the Kesh side.  There used to be a thing called the Principality of Kesh.  Um, the- there was a kind of joint Divine made as a place where members of old, ancient Kesh society and members, then, of a group that Nideo was from, called the Divine Fleet, kind of collaborated for the first time.  That’s why it was called Privign, because it was sort of like this adopted son, the adopted child of both sides.  
+
+That Divine- that actual Divine is long since gone.  The new Divine named Privign is a statue of the kind of father of Asterism, Aram Nideo, who is the only human ever who, after his death, posthumously- posthumously be called a Divine.  The Divine of Privign is now a Divine of- is now a statue of Aram Nideo, the founder of Asterism, one of the founders of the Divine Principality, so called such because his like, vigor for state- for like, statehood, his like keenness for understanding what it would take to build an empire, could not be from just a human, he must have been sent by God.  He must be- he must have been, you know, an embodiment of the state itself.  And so yeah, that is what it is a statue of.  It is like a statue of an old man, in a big wide hat, long robes, with a knowing smile on his face.
+
+[TIMESTAMP 2:00:00]
+
+JANINE: (crosstalk) Gross!  Well, that’s two reasons to attack it then.
+
+AUSTIN: Oh, yeah.  He fucking- This sucks, this is terrible.  (laughs)
+
+JANINE: Great.
+
+AUSTIN: That’s a Wreck, it sounds like?
+
+JANINE: Oh, yeah.  Yeah, yeah.  Yeah.
+
+AUSTIN: Give me, um- So that’s like the sign.  That’s the thing that I love about this.  The sign to go loud is the- the statue of the founder of the Divine Principality-slash-now a Divine, being destroyed.  Uh, what is your Wreck?  Your Wreck is two?  This is labor, you get a thir- you get an extra die for this, for sure.
+JANINE: Hell yeah.
+
+AUSTIN: It’s 3d6.  This is- this is Risky Standard up here.  Um.  God, I can’t believe you got two sixes on that Resolve resist, Dre.  Good job.  (pause)  Part of the risk here is, you’re destroying a giant statue.  Hey, that’s a six!  That’s a two, two, six, but it’s a six!  (JANINE laughs)  Um, yeah-
+
+JANINE: Thank god for that purpose.
+
+AUSTIN: What’s this thing look and sound like?  This big machine that you have?
+
+JANINE: Um, I wanna make sure I said the pers- the artist who did it, I don’t remember if I did.  It’s by Magnum117.
+
+AUSTIN: Mm-hm.
+
+JANINE: Um, I think it’s supposed to be some sort of drone, but I’m kind of- I’m kind of picturing it as one of those things, one of those like, video game weapons where there’s clearly like a hole with a bar in it, and you put your hand and you grab the bar.
+
+AUSTIN: Gotcha.
+
+JANINE: So with like your fist.
+
+AUSTIN: Yeah.
+
+JANINE: And then kind of just- It’s like an extension of your arm.  Um, I imagined it’s-
+
+AUSTIN: (crosstalk) I actually think that’s exactly what it is, because it’s called, in the top left, the name of the group is Drescher-Faust and faust means fist.  I guess it’s remote operated though, so you’re probably right.
+
+JANINE: Yeah.
+
+AUSTIN: Anyway.
+
+JANINE: It’s a remote operated asteroid drill, so I assumed it was some sort of thing.
+
+AUSTIN: (crosstalk) Yeah.
+
+JANINE:  It also like, turns into some sort of weird grabby claw?  I don’t know.  Um, I imagine it’s just, you know, to describe this for people who haven’t- who aren’t going to look it up because I don’t blame you, you don’t have to look everything up, it’s like, three big, weird gears with like- with like a- all kind of together, like very grindy, it’s like something you would put coffee beans through in hell.  (AUSTIN and DRE laugh) It’s that kind of thing, uh, with like a bunch of vents and shit on top of it, and like, weird bits.  Um, it’s cool, but it’s probably very loud.  
+
+AUSTIN: Mm-hm.
+
+JANINE: Um, and probably very heavy, so like, I kind of imagine Thisbe sort of running out of nowhere at this statue with it, not dragging on the ground behind her, but like- I always kind of imagine her running kind of a Naruto run.  I’ve made that joke before, but I think it’s true.
+
+AUSTIN: Uh-huh.
+
+JANINE: Um, with very like, big, strong legs, torso leaned forward, arms kind of back, but one arm a little more back than the other because of this big heavy thing on top of it now.  Um, or on the end of it now.  And I think she just runs up on this statue and fires this thing up, and it is just suddenly this like, horrible grinding sound, and then she just slams it directly into Nideo’s face.
+
+AUSTIN: God.  Great.
+
+JANINE: Grinds his- Tries to grind his face off is my intention.  (DRE laughs)
+
+AUSTIN: Oh, it’s being destroyed utterly.  The whole thing starts to tumble down.  There’s rocks, you know, everywhere.  And then there’s like, the loud sound of one of the- you know, one of his arms hitting the ground.  Um and at that point, over- in open communications, like local communications networks in all of the mechs, you hear the voice of Jesset Ci- Jesset, who says,
+
+	AUSTIN (as Jesset City): This is Commander Jesset City.  Uh, I think we have- we
+definitely have some Tangos here.  We’re engaging, we have it under control.  No
+outside- no outside support is requested at this time.  Oxblood has it.
+
+AUSTIN: Um, and kind of suddenly, you hear the sound of the Oxblood mechs kind of moving into position.  Um, and a regular night time flare, not one of your special flares, Broun, (ALI chuckles) goes off and like, lights the entire city.  Which is like, especially in the statuary, incredibly cool.  I didn’t mean to- I didn’t mean to reference this this quickly, but there is an incredible sequence in the movie 1917, where-
+
+DRE: Oh god, yeah.
+
+AUSTIN: Did you see that sequence, do you know what I’m talking about?
+
+DRE: Mm-hm.
+AUSTIN: Um, the cinematographer on that is Roger Deakins, who is incredible.  Uh, and there is a sequence in a cemetery where these night time flares go up that is- I don’t think you can even find this on the internet yet because that movie only recently came out, but basically, because there’s this super, super bright light in the sky, that get shot up in the sky and is almost like a spotlight over everything, it catches all of the different limbs of all these statues, catches all of the, you know, all of the cement work that’s here and just makes these shadows that rapidly move around, because the flare is moving up into the sky and then kind of slowly drifting back down.  It’s almost as if there is like- the moon is rising and setting over just a few minutes of time and so you can see the shadows rapidly move.  Um, it’s really cool-looking and disorienting, but, but yeah.  That’s what’s happening here.  Um, what are you doing, Broun?  As the Oxblood side of this starts to move into, into place.  What is your first wrestling maneuver?
+
+ALI: Um, yeah.  Um, so Thisbe’s over here in Salsa.
+
+AUSTIN: Yes.
+
+ALI: Um.
+
+AUSTIN: Do you want me to put points on the map for where y’all are?
+
+ALI: Yeah, that’d be great.  Just for the other NPCs too, so I have an idea.
+
+AUSTIN: (crosstalk): I’ll do that.  Yeah.  Definitely.  Definitely, 100%.  Um.  I so wish I could just drag..  Maybe you can and I just don’t know how.  Like drag a, a token from your name just out into the thing, but it’s fine.  It’s fine.  I can find what I need.
+
+(pause)
+
+JANINE: I have a whole set of icons of the little deer, if that helps.
+
+AUSTIN: That’s fine, I found a deer.  There you go.  Uh…
+
+JANINE: Or LINE stickers.
+
+AUSTIN: Oh, those- yeah.  They’re very good.  Uh, I don’t know what this is from, but that’s you.  (laughing)  I don’t know why I happen, Dre, to just have a wolf in sunglasses.
+
+JANINE: (crosstalk) (laughing) Oh my god!  That’s half a mask right there, yeah.
+
+AUSTIN: That’s basically a mask.
+
+DRE: Mm-hm.
+
+JANINE: If I saw that, I’d squint at it.  
+
+(ALI laughs)
+
+AUSTIN: I don’t- Broun, I’m gonna need some help.  
+
+ALI: Sure.
+
+AUSTIN: What should I put on the thing for you?  And where are you?
+
+ALI: Um.  I uhhh.  I feel like I’m like, on top of the theatre, maybe?
+
+AUSTIN: Okay.  I like that.  (ALI laughs)  Just you, not your robot.
+
+ALI: I think and my robot.
+
+AUSTIN: Oh, okay.  Cool.  I put this chemist down?
+
+ALI: Mmm.
+
+AUSTIN: No, don’t like it?  Okay, what about- I just looked for engineer and that’s what came up.
+
+ALI: (giggles) Um…
+
+AUSTIN: That’s Broun.  
+
+ALI: (laughs)  There’s a brown square.
+
+AUSTIN: Uh-huh.  There might be more coming.
+
+ALI: (crosstalk) You don’t have like, fish or whatever?
+
+AUSTIN: I thought that was rude.
+
+ALI: No.  Here.
+
+AUSTIN: Oh, I got a good one.
+
+ALI: Do you?
+
+AUSTIN: I think.  Let’s see how long it takes to get it on-
+
+JANINE: (crosstalk) That’s a- mmm.
+AUSTIN: There you go.
+
+JANINE: I don’t- Is that fish wearing a bowtie?  (ALI laughs)
+
+AUSTIN: No!  But that would be cute.  Broun could pull off a bowtie.
+
+JANINE: Oh, it’s little fins, okay.
+
+AUSTIN: It’s little fins.
+
+ALI: (crosstalk) Here, use this one.  I know you’re not gonna be able to copy and paste this from Discord and put it into…(breaks off laughing)
+
+AUSTIN: (crosstalk) I’m not.  Oh, that’s a pretty fish!
+
+ALI: (laughing) That’s why you should do it!
+
+AUSTIN: I’m gonna save image.  Let’s see if this works.
+
+ALI: Thank you.  Ummm.
+
+AUSTIN: Fuck.  I just closed roll20 trying to drag this fish in.  (ALI cackles)
+
+ALI: Uh.  Yeah, anyway, I think that there’s like, value in having my back to Relish.
+
+AUSTIN: Mm-hm.
+
+ALI: To sort of like, draw the, the edge of…
+
+AUSTIN: Yeah, I see what you're saying.  Yes.
+
+ALI: Yeah.
+
+AUSTIN: Like, you’re the edge of conflict.  No one should go past you.
+
+ALI: (crosstalk) Right.  Yeah, yeah, yeah.  Uh, yeah.
+
+AUSTIN: I’ll delete this fish and fix this.
+
+ALI: Yeah.  Um, and then I feel like I might be shooting blank shots into, if there’s any ground support set up at BBQ Sauce?
+
+AUSTIN: Uh, sure.
+ALI: Cause that’s the other space that has like another open…
+
+AUSTIN: It didn’t fucking- It didn’t get rid of the- It’s fine.  
+
+ALI: (laughs) It’s fine.
+
+AUSTIN: It didn’t maintain transparency, so there is just a white and grey checkerboard from this image.  It’s very funny to me.
+
+ALI: For those at home, I sent Austin a picture of like, a um, a maroon colored fighting fish.
+
+AUSTIN: Yep.
+
+ALI: Looking great.
+
+AUSTIN: It’s a great photo, I love this photo.  (ALI laughs)  Anyway.
+
+JANINE: It looks like a fly fishing lure when it’s all shrunk down.
+
+AUSTIN: (laughs) Alright, so that to me sounds like a Bombard, if you’re just like, blasting the area.
+
+ALI: Yeah.
+
+AUSTIN: Right?
+
+ALI: Um, yeah.
+
+AUSTIN: It could be a Maneuver- mmm, I think it’s Bombard.  Uh, and so what are you shooting at?  You’re just shooting at like, that area and basically trying to make it seem as if there are targets there, even though there are probably not- Well-  They’re blanks, what happens when they hit the ground?
+
+ALI: Yeah, I’m looking at the things that my payload bay has right now…
+
+AUSTIN: Mm-hm.
+
+ALI: To kind of make sense of what it could be or try to figure out something else. Um, the- the closest thing I have that might make sense is the um, the one that causes blindness?
+
+AUSTIN: Yeah, we- we’ve fucked with that before, right?
+
+ALI: Yeah, so I would just sort of fire them off, and then it would give us even more cover.  
+AUSTIN: Yeah.
+
+ALI: (crosstalk) Um, I think the, the backwards thing I would have to do is maybe do like a flashback or something to give something to the Oxblood people so they have special glasses or their mech cameras aren’t fucked up.
+
+AUSTIN: I mean, if they know this is the opening thing, then they could also turn off their sensors, right?
+
+ALI: Sure.  Sure, sure, sure, yeah.
+
+AUSTIN: And close their eyes and shit, right?  Like, the- that’s all part of Thisbe initiating this dance, you know?  
+
+ALI: Right, yeah, yeah.
+
+AUSTIN: Thisbe’s destruction of Aram Nideo’s face is the equivalent of like, the starting gun or like, the checkered flag being wa- woven.  Woven?  Waved.  It’s not the checkered flag, cause that’s the end.
+
+JANINE: We’ll all weave a flag, and then start a race.  It’s a very slow start to a very fast thing.
+
+AUSTIN: (crosstalk) Everyone weave- (laughs)  Yes.  Exactly.  Exactly.  Um, give me a Bombard for this.
+
+ALI: Sure.
+
+AUSTIN: It could also be- no it has to be- uh, it could be Manipulate.  I know you only have- you already have a one in Manipulate.  Eh, Manipulate’s not exactly right either.  No, I think it’s Bombard.
+
+ALI: (crosstalk) Yeah, Manipulate is like, picking stuff up with mech hands.
+
+AUSTIN: Yeah, it’s Bombard.
+
+ALI: Yeah.
+
+AUSTIN: It’s interesting here, because there is just straight-up not a “lie with your mech” move, which is important, because being a good liar doesn’t make you a good mech pilot.  (ALI laughs)  Unfortunately.
+
+ALI: Yeah, two different skills.
+
+AUSTIN: Yeah, uh-huh.
+
+ALI: I could roll the person skills for coming up with this very good plan and then..
+
+AUSTIN: Yeah…  You would need-
+
+ALI: Sure?  That’s not a- (laughs)
+
+AUSTIN: Unfortunately your person skills, also not great.
+
+ALI: Sure.  Um, is this Desperate still?
+
+AUSTIN: This is- no, this is Risky.  You’re Risky up here. Downstairs, still Desperate.
+
+ALI: Okay.
+
+JANINE: Can I aid?
+
+AUSTIN: Yes!  Totally.  How would you like to aid?
+
+JANINE: Um. Can- Okay how- Are we gonna define aid here in terms of making it more convincing, or are we defining aid in terms of like, making the bombardment hit buildings better?
+
+AUSTIN: You know, I think it’s up to you on a given roll, and your decision around that affects consequences, right?
+
+JANINE: Yeah.
+
+AUSTIN: What do you have in mind?
+
+JANINE: I kind of want to lean into the theatricality of it all.
+
+AUSTIN: Sure.
+
+JANINE: Um, and also do the thing that Thisbe is increasingly becoming required to do whenever we fight, which is scream really loudly.
+
+(ALI snorts)
+
+AUSTIN: Oh, god.  Okay.
+
+JANINE: Um, this time I- this time it feels extra appropriate because she’s doing a fucking kaiju impersonation with a mining tool.
+AUSTIN: (laughs) Fair.
+
+JANINE: Basically.  Um, so I just feel like a really horrible scream as a bunch of explosions happen is a pretty convincing… event.
+
+AUSTIN: (crosstalk) Yeah, I’m down.  Give me a- Or take one stress, because you have a one connection with Broun still.
+
+JANINE: Mm-hm.
+
+AUSTIN: Broun, are you taking that one stress- Or, are you taking that assist to do plus one on effect, plus one on dice?
+
+ALI: Um, my effect right now is…?
+
+AUSTIN: Uh, Standard.
+
+ALI: Standard?
+
+AUSTIN: Yeah.  You’ll see I put down a “Convincing Dance” clock here.
+
+ALI: (crosstalk) Yeah.
+
+AUSTIN: Which is an eight-step, which I will actually mark up by two for that initial Nideo thing. Um, so yeah, you have to fill that eight-step to kind of, convince the people of this place that this was really a fight.  Um, so yeah, with the assist you can take plus one die, plus one effect, plus one position, or- Those are the ones.  Those are the ones that matter for this current situation.
+
+ALI: Um, I feel like because this is sort of the opening salvo I’m gonna go for effect here.
+
+AUSTIN: Good call.
+
+ALI: Um, so I’m gonna bring that up to Great.  And then I’m still rolling one die.
+
+AUSTIN: (crosstalk) Yup.  Because you have one in Bombard, right?
+
+ALI: Yeah.
+
+AUSTIN: You’re not gonna push yourself here?  (ALI huffs)  Would you like a Collateral Die?
+
+ALI: Um, what are you offering?
+
+AUSTIN: Um, a- I’ll give you a choice here.  Either I get to click up the Backup Arrives by one or a- You will find- you will find actual resistance in the town that you did not expect.
+
+ALI: (laughs) What was that first one?  That you brought up.
+
+AUSTIN: (crosstalk) That I will tick up this Backup Arrives clock.  And I’ll say very much straight up: all through town at this point, what’s happening is, as this first thing, as this salvo lands, you’re going to basically- All around town, loyal members of Stel Nideo, who have dedicated their lives and their volunteer time to be part of this town’s home militia are going to start suiting up and spilling out into the streets.  Um, these are just like the equivalent of like your National Guard, but your town militia.  Do you remember in Valkyria Chronicles I.  (AUSTIN and ALI laugh)  Do you remember the first mission, where you're in the bread town, and everyone there is not part of like, a big army, they’re part of like, the town militia?  That’s these people.  Who are like, “Our town is under attack!  We gotta help!”  Uh, they will start waking up and getting into place.  They are gonna be pushovers, but they are gonna be people from this town.  Um, the backup that’s arriving is like, strong military backup, but they’re- and they’re soldiers, and they’re ready to fight, and probably ready to die for their cause, just like the town militia is, but they’re like- I think there’s probably an important distinction between the two in terms of degrees to which you should be willing to engage with them directly, you know?
+
+ALI: Right, yeah, yeah, yeah.
+
+AUSTIN: (crosstalk)  I guess there is no ROE, there is no Rule of Engagement that says you can’t fight against the civilian militia, but they are a civilian militia.
+
+ALI: Sure.  Yeah, um, I feel like I’m gonna go for that one, just because it seems- it seems less risky and it feels like the sort of thing that this crew, and especially Broun, would sort of know going into it?  You know?
+
+AUSTIN: (crosstalk) Sure.  That that’s a possibility.  Yeah, yeah, yeah.
+
+ALI: Right.  Like, there’s these people here.  You know, there’s always gonna be sort of, hobby mech fighter people.
+
+AUSTIN: (laughing) Yes.  Uh-huh.
+
+ALI: You know, you do this for long enough, you kind of run into that type.
+
+AUSTIN: Definitely.
+
+ALI: That’s an extra die?
+
+AUSTIN: That is an extra die, correct.
+ALI: Okay, cool.  Bump.  (laughs)
+
+AUSTIN:  Oo-ah.
+
+ALI: That’s two twos!  
+
+AUSTIN: Two twos!  
+
+DRE: Oof.
+
+ALI: Two twos.
+
+AUSTIN: (crosstalk) What goes wrong here on this Risky attack?  Um.  God damn.  That ain’t it.
+
+ALI: No.
+
+AUSTIN: So I think-
+
+JANINE: Wait, did- Sorry was- You used the aid for effect, right?
+
+AUSTIN: For effect.
+
+ALI: (crosstalk) Yeah.
+
+JANINE: Okay.  Okay.
+
+AUSTIN: (crosstalk) Yeah, to get a Risky Great instead of- instead of Risky Standard.
+
+JANINE: (crosstalk) Welp!
+
+ALI: Well, and then- yeah.  And then also I had another die and it sucked, so.
+
+AUSTIN: Oh, was that- Right.  Right, the Collateral Die is the second die.
+
+ALI: (crosstalk) The Collateral Die.
+
+AUSTIN: You didn’t have two in Bombard, you had-
+
+ALI: Nope.
+
+AUSTIN: Stuff for SBBR’s gone so well up until this moment!  (ALI laughs)  You know what I mean?  Um, so the two things happen at once here.  One is, alarms are sounded.  With that- with that Collateral Die, you just hear people like, ringing bells in the street from your west.  From Relish, from Point Relish, from the residential district, as that is where the militia begins to emerge from their homes and starts to like, straight-up wheel out old like, gun emplacements.  You can hear the diesel engine of some sort of, you know, antique tank start up.  Um, they are outgunned, they’re a four-step clock to deal with.  Uh, that is not- That was gonna happen no matter what.  Um, do you wanna resist the second consequence, which is that one of the members of Oxblood group’s mech gets hit directly by this shell that you launched, which, just by its velocity, will do serious damage and will decrease the Convincing Dance number- I guess it actually will- It will increase that dance number by one, (ALI laughs) but it will- but, but you will be like, down a mech and a person.  Would you like to try to resist that?
+
+ALI: Um.. I would like to try to resist that.
+
+AUSTIN: Okay.  Give me a um, an Expertise resist.  Your Expertise is two, right?
+
+ALI: Okay, yeah.
+
+AUSTIN: Or, sorry, an Acuity.  Acuity, Acuity, Acuity.  Acuity.  My bad.  That’s also two.  So 2d6, you’re gonna take high to resist.  Um, I don’t think you have anything else-
+
+ALI: That’s a six.
+
+AUSTIN: That’s a six!  Take no stress!  Nice work.
+
+ALI: Cool.  It didn’t work anyway, so.  (laughs)
+
+AUSTIN: (laughs) Yeah, well.  So yeah the- It goes off, but it doesn’t hurt anybody, thankfully.  Um, and this militia begins to roll into place.  Let’s go back down to you, Valence.  You’re downstairs.  Um, I think that the person who was at the gate, who was like the Ossblood Clan- Oxblood member undercover is like,
+
+	AUSTIN (as Oxblood Clan Member): I didn’t- I don’t know where those guys came from. 
+I’m sorry, I didn’t- Is everyone okay?
+
+DRE (as Valence): Yeah, we’re good.  You’re good.  Start planning your story-
+
+AUSTIN (as Oxblood Clan Member): (crosstalk) What am I supposed to do with these
+bodies?!  Okay.
+
+DRE (as Valence): Yeah, no, that’s your thing.  We gotta keep moving.
+
+	AUSTIN (as Oxblood Clan Member): (crosstalk) My story- Oh!  I’ve seen this, or I’ve
+heard this in the stories, I saw this in a play.  You gotta hit me.  Like, boom!  That way I
+can be like, “Look, they hit me.”
+DRE: Um, I think like, as that person is finishing their sentence, that’s probably when Tone punches them. (laughs)
+
+AUSTIN: (laughing)  Yeah, what you said.  Just, bop!  Um, at this point you’ve also noticed that Gucci is just walking forward, like past you as the- completely tuned the rest of you out.  And just gets to the front gate- Uh, there’s like a, kind of a sliding door, and goes to like, put in a code, or kind of decode whatever this thing is, but the guard gets there first and says like,
+
+	AUSTIN (as Oxblood Clan Member): Uh, I got this one, I got this one, I got this one.
+
+AUSTIN: And then presses- like types in a word on the- like a little keypad that pops up.  Like, it’s literally a, um, it literally looks like flip phone- not a flip phone, a Sidekick-style micro keyboard, and just types in some sort of word that is the solution to today’s poetic cipher for the main gate, and it opens up.  It goes like whissht! and it slides up, and now you’re in like a big facility, and Gucci continues walking forward, mumbling under her breath, clearly lost in the combined selfhood of her and Jesset blending.  Uh, you and Tone follow suit I’m guessing?
+
+DRE: Oh yeah.  If anything we probably need to be walking in front of her.
+
+AUSTIN: Right.  Um, in fact you see on the route you know you’re supposed to take, I think Jesset probably just gave you the, “alright, turn left, then right, then left,” right?  Um, there is a camera at the end of this coming hallway that is pointed basically right at- right down this hallways’ direction.  Um, what do you do?
+
+DRE: Oh…
+
+AUSTIN: And there’s a timer here in the sense that Gucci is going to just like, keep walking.
+
+DRE: Yeah.  Um.  Hold on, I’m looking at my items here.
+
+AUSTIN: Mm-hm.
+
+DRE: That I could potentially use.  Uuuummmm.  Okay.  I've got an item that’s ‘flashlights, flares, or glowsticks.’
+
+AUSTIN: Mmm.
+
+DRE: Uh, I just wanna like, light a flare inside?
+
+AUSTIN: Okay.
+
+DRE: And so that it’s so bright that it basically blinds the camera.
+
+AUSTIN: Love it.  It- Also pause for a second.  Ali, I should have asked you if you wanted to use your preset flares there.  Uh, but you could save those for next time.
+
+ALI: Oh, we- the- yeah, yeah.  I mean, I’m sure it’s like an orchestrated thing.  There’s parts of them that go off.
+
+AUSTIN: Right, right.  You can-  But you can-  I’m just reminding you, you have that setup roll to spend when you want it.  It’s an additional boost.
+
+ALI: (crosstalk) Oh, sure, sure, sure, yeah, yeah.
+
+AUSTIN: But, you didn’t spend it there, so it’s still there.
+
+ALI: Well, I wouldn’t have wanted that three, so.
+
+AUSTIN: (laughs) Yeah.  Yeah, fair.  Valence, that sounds to me like… Like a Prowl or a Wreck or a-
+
+DRE: Oh, god.
+
+AUSTIN: Yeah, this is not the stuff you’re good at.
+
+DRE: Nope.
+
+AUSTIN: If this had stayed quiet, I think you would have had a good time.  Unfortunately…
+
+DRE: Mm.
+
+AUSTIN: I mean, what’s the camera gonna do?  You know?  Call more guards?
+
+DRE: (laughs)  I mean, yeah, that’s not great either.  Um.  Okay.  Yeah, no.  There’s definitely no way I can swing this into an Interface, I don’t think.
+
+AUSTIN: Um, I also think just to give a little color here- Yeah, this is not an Interface.  (DRE giggles) Not from this distance and not this facility.  Um, just to color it a little bit.  There is something interesting here, which is, this is a space where there’s lots of polished stone.  Not like marble or anything, actually kind of just like grey, beige, like, stonework mixed with kind of shiny metal.  Like shiny metal doors, but like, the floor is just very polished, like polished sandstone almost, you know?  So there’s moments when it feels like you’re walking through a crypt, and then also it’s like a Star Trek set in other places, you know?
+
+DRE: Okay.  I’ve changed my mind.
+
+AUSTIN: Yes.
+
+DRE: Here’s what I’m going to do.
+
+AUSTIN: Mm-hm?
+
+DRE: Um, how high up is this camera?
+
+AUSTIN: It’s in the corner.  It’s you know, I think this is not like a super tall, high hallway.  It’s not like, cathedral-esque down here, this is like a squat, secret base vibe, you know?
+
+DRE: Yeah.  Um, I want Tone to basically like, hold back Gucci.
+
+AUSTIN: Mm-hm.
+
+DRE: (crosstalk) I don’t know if they have to like, pick her up to do that?
+
+AUSTIN: Right.
+
+DRE: Basically, I’m gonna run ahead, and I want to basically shove my face in front of the camera.  
+
+AUSTIN: Okay, yeah.
+
+DRE: Blocking its view of the hallway.
+
+AUSTIN: Okay.  That will keep Gucci’s identity safe, um, but… I mean, I guess yeah, you have your mask on.  It will-
+
+DRE: I got this weird- this weird face on.
+
+AUSTIN: It will probably cause someone to come check what the fuck is going on, just so you know.
+
+DRE: Sure.
+
+AUSTIN: But.
+
+DRE: Yeah, that’s fine.
+
+AUSTIN: I’m just gonna let you do this, this is not a roll.  (DRE and AUSTIN laughing)  You can do the thing you just said!  And yeah, Gucci manages to get past this first corridor, or this first hallway, this first like, corner.  Um, but then you do hear a, a door open from your east basically, down the hall.  You kind of turn left, and if you had gone right, you would have gotten to where there was security, like, protocol, like a security, like camera room and stuff.  And you hear that door open, and someone from down the hall is like,
+
+	AUSTIN (as Security Guard): H- Hey!
+
+AUSTIN: Uh, and someone is shouting at you as Gucci and Tone turn the corner.  What do you do?
+
+DRE: Oh, boy.  Um.  So they’re down the hall from us?
+
+AUSTIN: Yeah, they’re like pretty- they’re like very far down the hall.  You like, walked forward and turned left, right?  If you had walked forward and turned right, at the end of that hall is where this person is yelling at you from.  Uh, they have drawn a gun.  They’re also in this kind of turtleneck vibe.  We get a close up on this gun by the way, and because it’s a Nideo gun I want to point out that it has a little statue on it.  It has like, under the barrel, or under the under part of the barrel, there is a little statue on this big heavy pistol of some Divine or other.  I bet you, given where you are, it’s the Divine Imperium, it’s the same kind of firebird vibe with its wings out.  So it’s almost like looking at a crossbow or something.  Um, and this person’s ready to shoot at you.  It’s very far.  You’re not in a lot of immediate threat from like, getting shot, but you never know, you could roll a bunch of ones again.
+
+DRE: Yeah, um.  Is our- What is our way out of here?
+
+AUSTIN: That’s a good question.
+
+DRE: Is it just the way we came in?
+
+AUSTIN: That’s the way you know about without rolling some sort of flashback stuff, right?  Um, there’s probably some sort of- there is probably some sort of other exit.  Um, I think the plan was walk in and then walk out.
+
+DRE: Yeah.  Um, I think what I would like to do is- Is there like, another door we’re about to go through?
+
+AUSTIN: You’re going down another long hallway, which- Gucci and Tone are safe, they’ve already- from this person with the gun.
+
+DRE: Yeah, yeah, yeah.
+
+AUSTIN: They’ve turned this corner.  You’re passing a bunch of little side rooms, many of them are just like big closets basically.  This is a storage facility.  And they’re headed for basically an editing suite, is what they’re- is the direction that they’re heading.  Which is going to be down one more long hallway and then another turn, and then they’ll be there, basically.
+
+DRE: Okay.  Um, I want to duck into one of those rooms.
+
+AUSTIN: Uh-huh.
+
+DRE: And then when he- when this guard comes running by, I basically want to just slam the door into them.
+
+AUSTIN: Good. Love it.  That is either a Struggle, or a Prowl, or a Wreck, depending on how you do it.
+
+DRE: I think Struggle.
+
+AUSTIN: Yeah, “lethal or less than lethal violence.”
+
+DRE: (crosstalk) Cause I don’t think it’s sneaky.
+
+AUSTIN: Yeah.
+
+DRE: Like, I think it’s like, literally him being like, “hey, what are you doing?!” and then like-
+
+AUSTIN: Bop!
+
+DRE: I swing the door back open.
+
+AUSTIN: (laughing) Okay, give me a Struggle.  This is, uh, this is at this point Risky Standard.  I think you’ve earned your way up to Risky.  Um, again I will offer you a  Collateral Die and the Collateral is there is going to be a problem with Gucci’s wire thing.  Wire brain.  Perspective wire brain.  
+
+DRE: Mmm.
+
+AUSTIN: That will need some time to like, get it back on track.  Like, it’s gotten jammed, basically.
+
+DRE: Okay.  Um, yeah, let’s do it.  I’ll deal with that when we come to it.
+
+AUSTIN: Alright, take one die extra.  That puts you at two.  2d6 Risky Standard.  I’m guessing no push here.
+
+DRE: No.
+AUSTIN: Hey, that’s a six!  It’s a one and a six, but it’s a six!
+
+DRE: Glad I took that die.
+
+AUSTIN: Yeah.  Uh, bop!  You catch this guy as he’s coming around the corner, or coming past your door, and drop him to the floor, and I think at that moment, Tone says like, 
+
+	AUSTIN (as Tone): Hey, Valence?  There’s a problem with the machine.
+
+DRE: Um, I think before we go, like Valence goes to pick up the guard’s gun.
+
+AUSTIN: Yeah.
+
+DRE: And is like, looking at it in their hands, like uh, uh, uh.  And I think knows enough to like- is it like, does it have like, physical ammo in it?
+
+AUSTIN: Yeah.  It has these… We saw these on the Rapid Evening side recently.  It shoots these like, long needles.
+
+DRE: Okay.
+
+AUSTIN: Like, little crossbow bolts, basically.
+
+DRE: I think I unload it, and like take the ammo, but throw the gun down the hallway.
+
+AUSTIN: Nice.  Good.  Um, alright, yeah.  So you go around and, um, I think what’s happened is Gucci’s brain jack has advanced to a place that it shouldn’t have gotten to yet.  Um, and she and Jesset are trying to do this like- they’re trying to like, crack the code too early.  And it's like their hands are typing something- I say ‘their’ because it’s both of them together- are trying to type out a word, but this is not, they’re not at a door panel where they could type out a word yet, you know?
+
+[TIMESTAMP 2:30:00]
+
+DRE: Do you want me to do this now, or do you want to pop-
+
+AUSTIN: Let’s pop back up and then we’ll wrap back around.  Upstairs, how’s it going as the militia rolls into the streets?  Um, I’m gonna put down a couple of things that they have.  Uh, they have one old tank.
+
+ALI: (laughs)  I, um.  I have militia ideas, if-
+
+AUSTIN: Ooh, okay, let’s hear your militia ideas.
+
+ALI: You don’t mind me tapping in here.
+AUSTIN: Please.
+
+ALI: Um, but I do have Roadmaster.  “You know how to Wreck or Destroy an area with experimental substances and methods so it is either impassable or good terrain to infantry vehicles or apps.”
+
+AUSTIN: Damn.  True.
+
+JANINE: Hmm.
+
+ALI: And in my payload bay, I also have a… buh-buh-buh.  A compound that will permanently fuse two surfaces until parted with a neutralizer.
+
+AUSTIN: Ooh.  Yes.  It’s a glue.
+
+JANINE: Uh-huh?
+
+ALI: And in anticipating that…
+
+AUSTIN: Mm-hm??
+
+ALI: There might be some military support and that we don’t even want to deal with this section of the city at all, I would love to just trap them there.
+
+AUSTIN: Love it.  
+
+ALI: Um, so, you know, they would- yep.
+
+AUSTIN: (crosstalk) Take- You can do this, I’m gonna say this is- this is definitely a flashback, you have to take a stress to do it.
+
+ALI: Sure.
+
+AUSTIN: Um, but, yeah, it’s good.  Give me a- This is a Wreck, or is this a- How did you do this?  What do you do with this?
+
+ALI: Um.  Yeah, I don't know  I was thinking I would fire it off now.  Um-
+
+AUSTIN: Oh, I see.  I gotcha.  Then it isn’t- yeah, then it isn’t a flashback.
+
+ALI: (crosstalk) Like a Bombard?
+
+AUSTIN: Yeah, yeah, yeah, that’s a Bombard roll then.
+ALI: Yeah.  I don’t mind taking the stress, cause I think that I’ve narrated twice now that like, oh Broun would know that these people were here, and I don’t know that I set that up.
+
+AUSTIN: Right, well, it’s up to you.  If you wanted to- If you want to do it now, the consequences will be different, right?
+
+ALI: Sure.
+
+AUSTIN: If you want to do it now and miss a shot, that’s a bigger problem than if you went ahead, you know, while Thisbe was going through the Salsa, you know, to set up goo traps or whatever.
+
+ALI: (crosstalk) Yeah.  Yeah.  I feel like it’s more of a, Broun packed this ammo in anticipation of doing this.
+
+AUSTIN: Oh, but that’s just-
+
+ALI: But didn’t set up the glue.
+
+AUSTIN: I think that’s fine.
+
+ALI: Okay.
+
+AUSTIN: Because the way payload bays work is meant to be the thing where you just decide what it is on the way.
+
+ALI: (crosstalk) Right.  Yes, yes, yes.
+
+AUSTIN: So, you’re good.  Yeah.
+
+ALI: Okay, cool.  So yeah, I think this is like an action that’s happening right now, but I think that I’m gonna take my setup plus one.
+
+AUSTIN: Yes.  Good call.
+
+ALI: Just in terms of being like, oh, I’m sure Broun set up extra of those flares in that area, but did not do this glue thing.
+
+AUSTIN: Yeah, that makes sense to me.
+
+ALI: You know what I mean, yeah, okay, perfect.
+
+AUSTIN: Totally.
+ALI: That sounds like a Bombard?
+
+AUSTIN: That’s a Bombard. (ALI laughs) For sure.  So, that’s a one right now, you can have a Collateral Die if you let me tick the Backup Arrives clock.
+
+ALI: Mmmmmmmm.
+
+(DRE laughs)
+
+AUSTIN: I will- yeah, mm-hm.
+
+ALI: (laughs) Um, I feel as though I would rather push myself.
+
+AUSTIN: That sounds fair.
+
+ALI: It’s not an and/or though, right?  I could do both if I want to?
+
+AUSTIN: (crosstalk) You could do both!  You could do both if you wanted to.
+
+ALI: Um.  The thing is that I don’t want the backup to be here. (laughs)
+
+AUSTIN: No, I get you.  I understand.  I just have to make the offer.
+
+ALI: No, I know.
+
+JANINE: (crosstalk)  I would say- I have like a- If this goes bad, I have a thing I can do also.  It doesn’t deal with the militia as cleanly, but it is definitely like a Plan B in terms of like, there’s other things we can do here, it’s not gonna be a complete wash, you know?
+
+ALI: Sure, sure, sure, sure, sure.  Yeah, um, yeah.  Um?
+
+JANINE: Your way is better, so I want it to work, (ALI laughs) but I just want to put that on the table so you don’t feel pressured.
+
+ALI: (crosstalk) Yeah.  No, no, no, no, yeah, yeah, yeah.  Um.  Fuck it.  I want this to work.
+
+AUSTIN: Taking the- taking the plus one then?
+
+ALI: Sure.
+
+AUSTIN: Alright.  Advancing Backup Arrives to two out of four.
+
+ALI: And I’m also-
+AUSTIN: There is the sound of a violin on the wind.
+
+(pause)
+
+ALI: Sure.  Um, and then it’s two stress to push myself?
+
+AUSTIN: It is two stress to push yourself.  Correct.
+
+ALI: Okay, perfect.  So this is a Bombard.  Um, position?
+
+AUSTIN: Uh, Risky.  Actually, Controlled.  Well, no Risky.  The risk here is that you are launching- like, it is still just like a glue bomb or whatever, but you are launching a glue bomb into a residential area.
+
+ALI: (crosstalk) Right.  Yeah.  Um, effect is Standard?
+
+AUSTIN: Uh, effect is Great.  This is an old tank.  They’re tier zero.  Like-
+
+ALI: (laughs) Okay.
+
+AUSTIN: This is that tier one working out for you.
+
+ALI: And then-
+
+JANINE: They were probably not expecting a glue fight.
+
+AUSTIN: They were not.  They brought a tank to a glue fight.
+
+ALI: (crosstalk) Yeah…
+
+AUSTIN: Never bring a tank to a glue fight.
+
+(ALI laughs)
+
+JANINE: No.
+
+ALI: Um, and number of dice is three.  One for me, one for the Collateral Die, one for pushing myself.
+
+AUSTIN: Sounds good.
+
+ALI: Holy stromboli.
+
+AUSTIN: It’s still a four.  A four is a success.  It’s still a Great success.
+
+ALI: I got two fours and a one.
+
+AUSTIN: You did, that is true. Uh, so that advances it from- that four there- Town Militia clock goes from zero to three.  It’s a four step clock, so they’re not fully dealt with yet.  I think what’s left is basically ground fighters spread throughout the town.  Tell me about what it looks like when this, when this goo hits.
+
+ALI: Yeah, I think that they’re, they’re sort of interesting weapons in that what it is is that, um, the Three Cheers has like a cannon gun or whatever, it doesn’t really matter how they shoot.
+
+AUSTIN: (crosstalk) Mm-hm.
+
+ALI: And they shoot-
+
+AUSTIN: (crosstalk) It’s like a lob though.  It’s like a booo, right?  Like it goes like- like an arc?
+
+ALI: (crosstalk) Right, right, right. Yeah.  Um, yeah, I think that it shoots out like three of them at once and what they do is they actually like, they’re these like, these big balls that sort of bounce three times and then burst.
+
+AUSTIN: Right.
+
+ALI: It’s sort of like an opposite thing of the um, the like, Pokémon ball. (laughs)
+
+AUSTIN: Yeah, no, it’s like, when the Pokémon ball goes out, not when it comes-
+
+ALI: Or no, it’s that exact thing.
+
+AUSTIN: Yeah.  Yeah, it’s that thing.  Yeah.
+
+ALI: When it goes “bump, bump, bump.”  (makes crashing noise)  Yeah.  Um.
+
+AUSTIN: (laughs) That’s really good.
+
+JANINE: (crosstalk) Have we considered trapping the militia into tiny balls?
+
+(AUSTIN and ALI laugh)
+
+AUSTIN: She has to- Ali-
+
+JANINE: (crosstalk) I’ve heard they’ll be very comfortable in them and it’s like an ideal environment.
+
+AUSTIN: Yes. That- Next downtime activity, you can have them develop the Pokémon ball, the Pokéball, and then we’ll go from there.
+
+ALI: Yeah.  Um- That’s where you’re going to have to make me-
+
+AUSTIN: (crosstalk) It’s more of a Time of Fables...
+
+(AUSTIN and ALI laugh)
+
+ALI: You’re gonna have to help me develop making things very tiny first, and then once we squish them, they can go into the balls.  Um, but for now it’s glue.  Sure, okay.  Good.  Glad I had more dice to fail with.
+
+AUSTIN: Well okay, you still get a consequence here, unfortunately.  (ALI laughs)  Which is, as you do this, the um- there is a sound of a rocket comes your way and slams into the side of the Three Cheers, as a unit of militia folks have climbed the side of the theatre, and launched like a bazooka shell your way.  Um, let me see something.  Types of consequences.  Or, not types.  I need to look at the- this one right here.  You were Risky, right?  Um, I think it’s still only a level one harm, because- uh, level one damage to the Three Cheers.
+
+ALI: Sure.
+
+AUSTIN: What’s a good- what’s a good “you’ve gotten blasted by a bazooka shell.”
+
+JANINE: It’s not Blasted?
+
+AUSTIN: Yeah, it could be Blasted.  That’s fair.  I feel like I’ve used Blasted before.  Um, think that it’s like- Uh, it’s less about that and I think it’s more, just like Rattled, do you know what I mean?  But I guess that’d be more for you.  What’s the equivalent of a mech getting Rattled?
+
+ALI: Oh, um…
+
+AUSTIN: You know what I mean?
+
+ALI: I’m wonder- I- yeah.  I’m like- the word that I’m reaching for is like, Unbalanced, but I know that also isn’t it, but like-
+
+AUSTIN: That’s not bad though.  Um.  God, I need a better- I should just commit to Word Hippo.  I should just-
+
+JANINE: There’s gotta- Something about like, fucked up calibration.
+
+AUSTIN: Yeah, that’s good.  I like Uncalibrated, or like, Decalibrated.  It’s not really a word, but we’re doing it.
+
+ALI: This is level one?
+
+AUSTIN: Level one.  It just reduces your effect.  Yeah, Decalibrated is fun, because it’s basically like, all of your aiming apparatuses have gotten- Thank you for gooing up the ground, whoever did that.
+
+ALI: You’re welcome.
+
+AUSTIN: (laughs) Um, is it bright green goo?!
+
+ALI: (laughs) Why wouldn’t it be?
+
+AUSTIN: I’m just asking!  I’m just asking the questions here.
+
+ALI: (crosstalk) Sure.  You know?  You know.
+
+AUSTIN: So yeah, it’s Decalibrated from getting blasted with a Bazooka shell.  It just makes aiming a little harder.  So that means when you do mech things, you have less effect, until you repair this.  Sorry, it’s not harm, it’s damage, it’s on the Three Cheers, not on you.  Uh, so if you scroll down, you have that extra little bit.
+
+ALI: Sure.
+
+AUSTIN: Uh, alright.  Thisbe, what are you doing?
+
+JANINE: Um, where are the Oxblood folks at?
+
+AUSTIN: They are mostly in BBQ Sauce.
+
+JANINE: Okay.  
+
+AUSTIN: Uh, yeah, I can put down- I should put down some markers for them too, huh?
+
+JANINE: Yeah.
+
+AUSTIN: I’ll do that.
+
+JANINE: I want to- So I have a remote vehicle control.
+AUSTIN: You do have a remote vehicle control.
+
+JANINE: Um, I want Mow to basically drop down on them.  In the middle of BBQ.
+
+AUSTIN: Oh, jesus.  Okay.  Um, let me put some tokens out for us.  Um, alright, so these are the four Oxes.  The big one- Here, I’ll make- I’ll make Jesset a different color or I’ll like, give him a cool tint.  Boom.  There you go.  Um, I’m just gonna [??? 2:40:36]
+
+JANINE: That’s a good ox.
+
+AUSTIN: It’s a good ox, isn’t it?
+
+JANINE: It’s weird though, it’s like a skull but it’s pierced.
+
+AUSTIN: I love it.  It’s fucking sick.
+
+JANINE: (crosstalk) It’s a little strange, but.
+
+AUSTIN: Um, and then… Alright, there we go.  The Horizons are these diamonds that are black on the top, white on the bottom.  They should not be as- they should be a little wider than this, they’re just squares, but I made them more of like a triangle-y diamond.  It’s fine, don’t worry about it.  Uh, so there’s four of them there, and then there’s four of the Oxes that are- The biggest one, the Yoke is in BBQ Sauce, the other ones are spread out kind of, through the mining district and the commercial district.  Basically all of the Horizon troops are in the south, kind of like the entryway, to kind of simulate a big attack, you know, from outside, in.  So that is where they are.  So you’re gonna have Mow drop down on like this one?  The northest one maybe?
+
+JANINE: Yeah.
+
+AUSTIN: Okay.  What is that?  That is a Maneuver roll if it’s a remote piloting thing.  Is what it sounds like.
+
+JANINE: Uhhhhhhhhh.
+
+AUSTIN: Or a- I could imagine a Destroy?  I’m gonna say- I’m-
+
+JANINE: I mean, I kind of wanted to drop him like on a building.
+
+AUSTIN: Okay.
+
+JANINE: I’m enjoying the whole messiness aspect.
+
+AUSTIN: Yeah, I’ll give you Destroy.  I’ll give you Destroy.  Um, I will not give you a plus one on Labor for this, this is very much-
+
+JANINE: No, this isn’t Labor.  That’s-
+
+AUSTIN: No.
+
+JANINE: I like plus ones, but that’s silly.
+
+AUSTIN: (crosstalk)  This would be the Ruin- the Ruin- one of the other purposes you could have been built for is Ruin, but-
+
+JANINE: No.
+
+AUSTIN: This is not that, yeah.  Or, that is Ruin, but that is not what you’re built for, so.  Um, Destroy is two dice.  Do you wanna push yourself by expending a quirk?
+
+JANINE: Um, uh, yeah?  Let’s expend Intimidating Bulk.
+
+AUSTIN: That makes sense.  So take an-
+
+JANINE: My favorite one.
+
+AUSTIN: Your favorite one.  Take another plus one here.  Um, so you’re landing near this robot, not on it, right?  That is the aim?
+
+JANINE: No, I’m landing- I’m landing like- I wanna say like, on the building beside it?
+
+AUSTIN: Yeah, I gotcha.
+
+JANINE: I want like a big, dusty crunch.  You know?
+
+AUSTIN: I do know.  I do know.  Mow big.
+
+JANINE: Mow big.
+
+AUSTIN: Alright, give me-
+
+JANINE: Mow big or go home.
+
+AUSTIN: (laughing) Mow big or go home!  (JANINE laughs)  God.  The fucking Big Dog shirts write themselves.  There’s a six.
+
+JANINE: I got a six.
+
+AUSTIN: (crosstalk) There’s a six.  Yeah, hundred percent.
+
+JANINE: Mm-hm.
+
+AUSTIN: Uh, I’m gonna, I’m gonna say that this is, this is, again tier- that plus one tier and the size and scale of Mow gives this a Great effect, so that’s- I should have said that ahead of time.  Um, you’re up to five in Convincing Dance.  What’s more convincing than a giant fucking robot dropping a thousand feet, landing in a quartz, you know, warehouse- There’s not just dust everywhere now, there’s just quartz in the air, everything is kind of harder to see through-
+
+JANINE: It’s probably glittery.
+
+AUSTIN: It’s very glittery.  A hundred percent.  Um, Mow’s knees buckle from this a little bit.  Uh, you rolled a six, so it’s fine.  But this was dangerous, just to- just so you know.
+
+JANINE: Mm-hm.
+
+AUSTIN: Um yeah, things are going well up here.  I think at this point you get, um, Jesset puts out a call over like, the comms that says,
+
+	AUSTIN (as Jesset City): We’re pushing them back!  I think we have this under control!
+
+AUSTIN: Which is not even true a little bit.  Um but you get the, some of the Horizon troops in the back, one of them does like, the pilot ejection.  Um, you know for a fact that that was like an old shitty model that they already- they pre-damaged it.  Like they filled it with gunshots and holes before even deploying it, so it looks like it’s shot up, but it was shot up ahead of time.  And so like, one of them, let’s say this one here, the bottom right one, gets taken off the board as the pilot ejects in a big like, (makes explosion noise).  Explosion.  Um.  Hey, Valence, downstairs.
+
+DRE: Mm-hm.  
+
+AUSTIN: What’s your next move?
+
+DRE: Oh boy.  Um-
+
+AUSTIN: Tone’s like, 
+
+AUSTIN (as Tone): I don’t know how this works.  I’m sorry, I don’t- I’m not an engineer.
+
+DRE: Is she still moving?
+
+AUSTIN: Uh, she’s standing in place and as if she’s typing in the password to the next door.
+
+DRE: Okay.  Um..
+
+	DRE (as Valence): Okay, Tone, pick her up.  Um, let’s just keep moving and I’m, I’m
+gonna think of something.
+
+AUSTIN: Alright, you pick her up, you keep on moving.  Um, you can hear- Suddenly, the alarms go off down here, Valence.  There’s like klaxons, like (makes alarm noises).  And alarm lights start to- start to light up the hallways.  Like, the security lighting comes on and the regular lights cut off.  Um, and you hear doors- Like that door that you slammed open before, slams shut.  Uh, the one that you like, slammed in that person’s face, and like, locks.  Um, all of their- There’s like a secondary layer of locks in place now, which is bad news.
+
+DRE: Cool.  Cool, cool, cool, cool, cool.
+
+AUSTIN: But you carry- You carry her around the corner.  You can hear footsteps coming your way, but you get to like, the door that you’re supposed to get to.  Uh, this is the door that leads into like, the edit suite that, that she’s supposed to go into.  Um, and she puts in the code and it goes beep, beep, beep!  Um, it’s clear that there is some sort of- Whatever the last code was changed, and that snaps her out of this.  And she like, speaking with Jesset’s voice, says,
+
+	AUSTIN (as Gucci Garantine): They changed it!  They changed it, they changed it.  Give
+me a moment, I can work out- I can work out a- You have to hold them off.
+
+AUSTIN: Um, and Tone like, reaches back and grabs the gun from the back holster, and like, goes to post up around the corner and wait for these people to show up.  What do you do?
+
+DRE:  Mmmm.  I almost want to use like a mix of my Telepathy and Emoji moves to like, give my processing brainpower to Jesset?
+
+AUSTIN: Mmmm.  Interesting.
+
+DRE: To like, overclock his brain so he solves this faster.
+
+AUSTIN: Right. Over- Overclock the recording of Jesset’s brain.
+
+DRE: Yeah.
+
+AUSTIN: I’ll let you roll for it.  This is an Interface.  This is weird, spooky shit.  
+
+DRE: Mm-hm!
+
+AUSTIN: Um, because this is- The question here is like, is this Jesset also a person?  Do you know what I mean?  Or, like, not is- That’s not the question, but that is- That is part of the thing that you will be interacting with is: here is a brief person.  Here’s a person who runs for as long as this coil exists, or is active.
+
+DRE: Yeah.
+
+AUSTIN: And you’re stepping into that as a third party.  Not just a third party as in, as in like a second, like an outside, but literally the third person in this collective, you know, Gestalt consciousness.  Uh, that’s an Interface, you have a one in Interface, right?
+
+DRE: Yeah.
+
+AUSTIN: Um, you can- I’m gonna say what this is, is an Interface group action, basically.  “When you’re part of a group action, you can spend one stress per participant to let everyone participate.  Use your-”  I guess this will only work if this was- if these were player characters.  So that doesn’t actually come into effect here.  So let’s just do it as a raw Interface roll.  Um, you are, you are- You will get Potency here, though, because of Emoji.  Which says you get Potency while communicating with digital entities, of which this is one of the very rare ones in this setting.  So that means you have Great effect here.  Um, I’m gonna put down a four-step clock, which is getting into this place, getting into the door.
+
+DRE: Okay.  Um, I’m gonna make problems for myself on purpose  and ask you if there’s any way I can get a Collateral Dice that maybe goes alongside my Haunted scar.
+
+AUSTIN: Yeah!  Definitely!  (DRE laughs)  Um, absolutely you can.  Uh, hmm.  There will be a surprise for you when you open the door.  Or, more importantly, when you start looking at this footage.
+
+DRE: Perfect!  Let’s do it, I love surprises.
+
+AUSTIN: Yeah.  Alright, let me make this zero, this Open Door.  (DRE laughs)  Boop-boop-boop, okay.  Give me a, um-
+
+DRE: I’m gonna push myself too.
+
+AUSTIN: (crosstalk) I wanna be- Actually yeah, I think I should be more clear here.  There will be a surprise that will give you a level one harm when you get in this room.
+
+DRE: Okay, that’s fine.
+
+AUSTIN: I just want to be as clear as possible.
+
+DRE: Mm-hm.
+
+AUSTIN: What are you rolling now, 2d6?
+
+DRE: I’m gonna push myself too.
+
+AUSTIN: (crosstalk) 3d6!
+
+DRE: 3d6.
+
+AUSTIN: Give me this Interface.
+
+DRE: Uh, so is this Risky…?
+
+AUSTIN: This is Risky- this is Risky Great.
+
+DRE: Okay.
+
+AUSTIN: There’s a six!
+
+DRE: (crosstalk) Whew.
+
+AUSTIN: Alright, so the door’s almost open.  Um, you’ve basically- I think what you see- What you get when you do this is this incredible feeling of like, briefly understanding an entirely different- Like you said, you’ve done some reading.  You’re a reader.  You know poetry.  You know religious poetry, even.  But you don’t necessarily understand the specifics of what this type of verse looks like, what the rhyme scheme is, what the rhythm is.  But in this brief moment, it’s as if you’ve learned another poetic language.  Um, and the- You understand suddenly that the thing here isn’t just like, looking for a word in a certain, in a sonnet.  You know, it's not like, yeah, this means that it’s the thirteenth word.  Um, it’s actually about composing a counter- a counter poem, and then finding a word in that poem.  It’s like a response poem, you compose it according to the form, and then there’s a certain word that will definitely show up in that response, and you find that word and put that word in.  Um, and you do that and it begins to open, but now it’s just a matter of time.  The door is just slowly unlocking and raising very slowly from the bottom.  Um, so it will open, it’s just a matter of holding out for another minute.  And we’ll come-
+
+DRE: So is it normally on six you’d get a two, and then I got three cause of the Great effect?
+
+AUSTIN: (crosstalk) Great effect, correct.  Correct, correct.
+
+DRE: (crosstalk) Okay, gotcha.  
+
+AUSTIN: Um, yeah.  Uh, normally on a six- yeah.  On Standard you would get a two, on Limited you’d get a one.  Correct.
+
+DRE: Gotcha.
+
+AUSTIN: The thing that makes it a success is there’s no consequence, no one came around the corner yet and started shooting at you.  But that will be happening in a moment.  But we’ll go back upstairs really quick.  Or, outside.  What’s happening up here?  We still got some loose soldiers, we got the bazooka people shooting at Broun, we got the dance is almost as convincing as it’s gonna be, you’re at five out of eight there.  We’ve got, again, Town Militia’s at three of four.  Backup Arrives is at two of four.  Um, so backup is still on its way, but we’ll see if they show up.
+
+ALI: Yeah.  Um, I think my bigtime concern right now is making sure none of the militia people get like- are not fucking up Valence and Gucci’s exit out.  Right?
+
+AUSTIN: Sure.  Yeah.  
+
+ALI: Um.  That’s the big fear.
+
+AUSTIN: Yeah.
+
+ALI: Um, where is this bazooka person?
+
+AUSTIN: There’s one on the building that you’re on.  It’s like the southern half of the building.
+
+ALI: (crosstalk) Oh, oh, oh, oh.  They are that close.  Okay, I wasn’t sure.
+
+AUSTIN: Yeah.
+
+ALI: Um, yeah.  I- I have a stupid idea.  Um-
+
+AUSTIN: Well, now I gotta know it.
+
+ALI: (giggles)  Can you- can you describe their mech again real quick, or is it just like, people with a gun?
+
+AUSTIN: (crosstalk) This is- these are human beings.  With a bazooka.  Yeah.
+
+ALI: (laughing) That’s great.
+
+AUSTIN: Uh-huh, what’s up.
+
+ALI: I just watched Mow’s thing move, (AUSTIN and JANINE laugh) and then the panties like, trailed behind it, while it resynced, and I loved to see it.  Um, okay.  Um, lord.  And the thing that I wanted to do, because I, thankfully because of Janine using her quirk, I was able to remember that I could do that.
+
+AUSTIN: Uh-huh, good.
+
+ALI: And I wanted to like, open up one of the hidden compartments, and have like, another trick fall out.  (laughing)  My first idea was like, marbles.
+
+AUSTIN: Ooh.
+
+ALI: Cause the, you know.  
+
+AUSTIN: Yeah.
+
+ALI: Why mess with a classic?  And I feel like that would be a-
+
+AUSTIN: (crosstalk) Marbles is good.
+
+ALI: Yeah, it would be effective against ground soldiers.
+
+AUSTIN: Yeah, definitely.  
+
+ALI: Um, sure.
+
+AUSTIN: I think you need- You will have to declare- I mean, you could use that as a payload thing.  I think that that’s a fine- What are your payload options?  Oh my god, some of these are so bad.
+
+ALI: Yeah…
+
+AUSTIN: These are all miserable.  One of these is “burst into intense flame on contact with air.”  One of these is “cause an incapacitating sensation of drowning!”
+
+ALI: Yeah, I’m saving that one.  (JANINE laughs uncomfortably)  I’ve used the fire one, I’ve used blindness, I’ve just used the two surfaces.
+
+AUSTIN: (crosstalk) Yeah.  Uh-huh?
+
+ALI: And yeah, “explode into shrapnel” is also not one that I- I’ve used that I think, but not- Anyway.
+
+AUSTIN: Yeah.
+
+ALI: Um.
+
+AUSTIN: I would let this be- If you want to declare this as one of your- as your second payload bay use, I think that that’s in the mix of these things.  I think that that’s fine.
+
+ALI: Sure.  I’m looking through my other gear, but like, also just like, Broun having a bunch of like, shit.  (laughs)
+
+AUSTIN: Is very good.
+
+ALI: It could just be like, a pack of screws.  It’s not gonna be something that they’re gonna- They’re not gonna-
+
+AUSTIN: (crosstalk) Right, right.  Yeah.
+
+ALI: It could be something that they wanna leave here, but it doesn’t have- yeah.
+
+AUSTIN: It doesn’t have to be- it doesn’t have to be- Yeah, I get what you’re saying.
+
+ALI: Right, yeah, yeah, yeah.  Um, I-
+
+AUSTIN: That- I don’t think it’s Bombard even, right?  This is…  I guess it could be.
+
+ALI: (crosstalk) There’s a part of me that feels like this is a Maneuver, cause it is probably Broun setting themselves up to get off of that roof safely.
+
+AUSTIN: Right.  And then like, you know, pocket sand, except it’s a bunch of things that are gonna make people trip and get the wind knocked out of them.
+
+ALI: (crosstalk)  Right.  Yeah.
+
+AUSTIN: Yeah, uh-huh.  That’s Maneuver.
+
+ALI: Sure.
+
+AUSTIN: You’re launching yourself out and- yeah.
+
+ALI: (crosstalk) Great for me. Yeah.
+
+AUSTIN: It’s a 1d6 right now.
+
+ALI: Um, I’m spending that quirk, so that’s 2d6, right?
+
+AUSTIN: Which qu- oh yes.  2d6, correct, cause you’re spending the Hidden Compartments quirk.
+
+ALI: (crosstalk) Hidden- yeah.
+
+AUSTIN: Love it.
+
+ALI: Um, what are my positions here?
+
+AUSTIN: You are at Risky Standard here.
+
+ALI: Okay.  Um, Risky Standard.  I have three stress left.
+
+AUSTIN: Uh-huh, are you gonna push yourself?
+
+ALI: Hmmmm.
+
+AUSTIN: I’ll give you a Collateral, Backup Arrives advances one more.
+
+ALI: You don’t say?
+
+AUSTIN: Uh-huh.
+
+ALI: Um.  I, um.  No.
+
+(AUSTIN and ALI laugh)
+
+AUSTIN: Yeah, good.
+
+ALI: No thank you.
+
+AUSTIN: It would be bad!  I’m not- I’m not playin’.
+
+ALI: (crosstalk) I don’t want it to happen!
+
+AUSTIN: I know.
+
+ALI: I don’t want it to happen.  Yeah  I’m just gonna roll these two dice and hopefully they’ll be better dice than I’ve rolled.  Oh, before we move on, does this game have the um…  If you fail you get a XP in the thing?  In the track?
+
+AUSTIN: No, it only has it if you’re doing a Desperate thing.
+
+ALI: Fuck.  Okay.
+
+AUSTIN: Sorry.
+
+ALI: No, that’s fine.  Um, yeah I definitely didn’t do that.  Okay, perfect.  I’m gonna leave this.  Oh, geez, hey.
+
+AUSTIN: Well that’s a one and a three.
+
+ALI: Yeah.  That is what that is.
+
+AUSTIN: (crosstalk) A one and a three.  Uh, the- uh, ooh, hee.  Whewf!  Whewf!
+
+ALI: (crosstalk) Mm-hm.  Whoops!
+
+AUSTIN: Ya whoopsied!  That’s not good!  I’m just gonna double check, like there’s no other move you got here?  There’s no other secret, we didn’t forget something?  No, not that I see.  Uh, so.  Let me look at my- let me look at my notes real quick.
+
+ALI: Hoo-ie.
+
+AUSTIN: At least it’s only Risky.  At least it’s only a Risky, I say.  Um, the rockets keep firing on you as this happens.  They- I think that they smartly hold in place as they see you beginning to leave.  Um, and you hear the like, doo-doo-doo-doo. Doo!  As like the heat-seeking locks onto your, you know, your jumping away engine.  You manage to dodge this rocket, which is good.  But, it lifts into the air and explodes in the sky, um, and it explodes in the sky with like a bright orange, you know, warhead.  Um, and that- So far, the things that have been deployed have been military hardware, right?  It’s very clear that it’s been like, oh, that’s a, one of the Oxblood flares, oh this must be from whatever is attacking.  This specific explosion is clearly an old explosion from the town militia.  And in a sense, that is as strong a signal as ever that things are not under control, and I get to tick a clock by two.  And so, the backup arrives.
+
+ALI: Sure.  Yeah.
+
+AUSTIN: Um, the backup is- It’s not that many things, all said.  In fact it is… Let’s see here.  Um, the- It is only (laughs).  God.  It is only three mechs.  There’s- Two of those three are the same.  They are Adamant Arms and- What is it?  Adamant Arms and Artifice Flocks.  These are these kind of- They look sort of like the Troop, except outfitted for like, jumping around and skirmishing, and kind of flying maneuvers.  Not staying up forever, but kind of leaping between spaces to get closer.  They basically have like, a close-range axe, underneath one of their arms, and then kind of a shotgun flack cannon thing under the other.  But above them, swooping down with a sort of angel wing jet pack, sort of like what we saw in the Cast back in Obelle is something new.  The first Hallow you’ve ever seen.  The Cadenza.  Hallows, again, are blessed by Divines, which means that they have something special going on with them.  This one is red and gold, in a way that immediately communicates Nidean authority, and sort of clarity of purpose.  Um, it has- where the other two mechs have those kind of underarm weapons, it has statues there.  Each one is of Imperium, which is represented as this kind of firebird, but it’s kind of like the bird in repose, so the wings aren’t out, the wings are kind of down, but it’s almost as if those are just- They’re really- they’re really embellished- What are those things called that you wrap- Okay, so on a boat, or on a dock, you wrap like, a rope around a thing, do you know what I’m talking about?  Oh, it’s called a cleat, I think.  If you do a search for cleat, or boat cleat, or cleat boat, you’ll see what I’m talking about.  And it is around those kind of cleats are these ropes or chains that are extending and wrapping back up over and over, as it swings these sorts of weapons, weapons-slash-mobility devices, as it sort of Spider-Mans its way toward you.  
+
+[TIMESTAMP 3:00:13]
+
+AUSTIN: Uh, this is a light mech, this is a smaller mech than the Three Cheers, Broun, than most of the vehicles we’ve seen here in this season in fact, and it’s incredibly mobile, but that doesn’t take away from its sort of presence, which is aided, by the way, by the fact that each time it does one of these swings, each time it moves these kind of kusarigama around, it creates the sound of a violin being played.  So it’s just this thing with like, angel wings and a cape, and a violin is playing, and it lands right on top of the theater, near where the people were, near you.  And it- it has just like this aura of heat, to the degree that when it lands on top of the theater that you’re backing away from-
+
+[Jack de Quidt’s TANAGER. PERFECT. TOUCHPAPER. begins playing]
+
+AUSTIN: -it seems to set your like, marbles, and caltrops, and screws, and other stuff that you left behind as like a trap to trip up the bazooka folks, it melts them down to liquid as it steps across this thing.  Um, and I think the pilot opens up a channel- or doesn’t even open up a channel.  I think actually what she does is she turns on her speakers and says,
+
+	AUSTIN (as the pilot of the Cadenza): People of Orzen.  Fear not.  The Plume has
+returned.
+
+[Music plays out to finish.]

@@ -1,0 +1,4097 @@
+COUNTER/Weight 03: It’s Fine, We’re Criminals
+
+Transcribers: Dee (0m-20m), Max (pine#6681) (20m-112m)
+
+
+KEITH: Hey there, everyone. It is your producer and friend Keith here, with a quick message. The audio for this week is a little bit worse than usual. I did my best to make it as listenable as possible. We had to use the skype backup instead of the normal uh, mish-mash of local recordings, because Art’s file messed up. But it’s fine! It sounds fine. It’s not good, but it’s fine. And, the episode is extra good, to make up for it. We didn’t know at the time that we would need to make up for anything, it just kind of worked out that way. So here it is, and enjoy it. 
+
+[MUSIC - "The Long Way Around" by Jack de Quidt begins] 
+
+KEITH: This week and next week, by the way, both messed up.
+
+AUSTIN: As the sun sets at the edge of the horizon, smoke pours out of a launch bay at Counterweight’s Addax-Rethal Spaceport. Inside the bay, hygieni-bots go to work, scrubbing and scraping away the blast residue from the brief encounter between the Chime, your group of freelance problem solvers, and the mercenary band known as the Weightless. In the corner of the room lies a seemingly ruined black mech, a modified Rook with the King designation, its heads and arms torn apart by a plasma blast. Just as some of the cleaning bots begin to approach it, a light in its cockpit blinks on. [SFX: powering on] A monitor shudders to life and reads, "Automatic rendezvous. Destination: Snowtrak Lab Tau." And then the machine shakes itself awake, and in a moment, it pierces the smokeshakes itself awake and takes to the sky. 
+
+[MUSIC - "The Long Way Around"] 
+
+AUSTIN: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. We are presented by StreamFriends.tv and RunButton.net. I am Austin Walker, I’m GMing the game. You can find me on twitter @austin_walker. Where can people find you, Jack?
+
+JACK: You can find me on twitter @NotQuiteReal. 
+
+AUSTIN: Art?
+
+ART: You can find me on twitter @ATebbel. 
+
+AUSTIN: Keith.
+
+KEITH: You can find me on twitter @KeithJCarberry, and you can find the Let's Plays that I do at youtube.com/RunButton, or RunButton.net.
+
+AUSTIN: And Ali.
+
+ALI: You can find me @ali_west on twitter.
+
+AUSTIN: So this is the first second session of Mechnoir. The first second session. [laughs]  Which is not true, even a little bit! In some ways, this is the third second session, or the second second session!
+
+JACK: Oh, gosh.
+
+KEITH: And in some ways, this is the fourth first session.
+
+AUSTIN: In some ways.
+
+ALI: Yeah.
+
+AUSTIN: So, we played a game last week… This is the first time in a long time that we’ve done literal back-to-back weeks of this game. [KEITH: Yeah.] And I think it’s the first time we’ve done…
+
+KEITH: Or of… Or of Friends at the Table.
+
+AUSTIN: Sorry, of Friends at the Table is what I mean. 
+
+KEITH: Yeah, yeah. 
+
+AUSTIN: And it’s the first time we’ve done back-to-back weeks with the same group, I think, [KEITH: Yeah.] since the first— the very first couple of episodes. 
+
+KEITH: Yep.
+
+AUSTIN: So, it’s good, because it makes me feel like there’s momentum here, I’m excited about that. Um… 
+
+KEITH: I agree, there’s a lot of momentum. What happened last week?
+
+AUSTIN: Oh, lord.
+
+KEITH: No, no, I remember, I’m just…
+
+[ALI laughs]
+
+AUSTIN: So that’s my hope. I hope that because we as players will be doing the same thing every week [KEITH: Yeah.] for the most part, with some rare exceptions, the— there won’t be as much need of a recap. But if we can do a recap, in five sentences, ten sentences, what would that look like?
+
+ART: Thirty words.
+
+[ALI laughs]
+
+AUSTIN: Thirty words. Good, great. 
+
+[JACK laughs]
+
+AUSTIN: No one’s going to hear that joke. 
+
+KEITH: Um… Jack and Ali made some people mad, and Art and I made their friends mad, and  then we shot ‘em all. And ran away.
+
+[AUSTIN laughs]
+
+JACK: Oh, and we learned that our friend has been kidnapped, and taken to a place called… (hesitantly) Snow… trak…
+
+AUSTIN: Snowtrak Synergies is the name of the company, yeah.
+
+ART: But that’s ok, because we kidnapped one of them right back. 
+
+ALI: Uh huh.
+
+JACK: Yup.
+
+[KEITH laughs]
+
+AUSTIN: That did happen. That did happen. It’s true.
+
+KEITH: Yeah. 
+
+JACK: Yeah, we could do a beginning of Salt prisoner transfer.
+
+AUSTIN: [laughs] Yeah, that’s all. That’s how it works, right?
+
+KEITH: I somehow think this guy is not as important as…
+
+AUSTIN: Weird! [JACK laughs] As your friend Cene Sixheart, who was a kind of a kind of a technician and roboticist for the Diaspora, who has since kind of settled on Counterweight, Where they are um… They’ve been working on the Blue Sky Prototype, they’ve been working with Jack’s character, AuDy, and just generally being a smart person. So…
+
+JACK: Good pal to the Chime.
+
+KEITH: And where are we now?
+
+AUSTIN: I think you’re all on the Kingdom Come. 
+
+KEITH: Okay. 
+
+AUSTIN: Everyone has… You kind of had this encounter as a group, against the group I’ve just told you as players is called the Weightless, who you kind of fought to a standstill. Right? Like, Ali’s character, Aria Joie, was being— was outnumbered in some ways, but at the same time, the leader of the Weightless, who was flying the Queen-class Rook, was kind of taken by surprise and knocked down a peg or two and was kind of in a weak position, and in the end, retreated. Um, so where we left off I think is probably with you all back in the Kingdom Come. The mechs are back docked, and you’re probably in a public space? I’m imagining you… I guess you can tell me, but I’m imagining you in a public space on the ship with— with the person that you kidnapped. 
+
+KEITH: And we learned...
+
+JACK: Shell.
+
+KEITH: We learned, yeah, Shell’s name [AUSTIN: Yeah.] and that he was, um… he was… Oh, that he was the guy that did mech upgrades for…
+
+AUSTIN: For his group, the Weightless, yeah.
+
+KEITH: No, but before that he was in some military thing and (cross) he fixed mechs for the Diaspora?
+
+AUSTIN: (cross) Oh right, right, sorry. Yeah, no, no, for OriCon.
+
+KEITH: For OriCon, right.
+
+AUSTIN: He flew with— with Jace Rethal — 
+
+KEITH: Jace Rethal, yeah.
+
+AUSTIN: — and was like, a technician for OriCon’s military. [KEITH: Yeah.] Like a high-end techni— Like a sort of real thinker, you know? The sort of person who pushes, who figures out how to get more out of their machines in general. His name is Shell Lotz. Yeah.
+
+KEITH: Yeah. 
+
+AUSTIN: And currently, he has the fleeting adjectives, Intimidated and Restrained. (pause) So, what are you doing?
+
+(pause)
+
+KEITH: Uh… I’m…(pause) I think I want to interrogate Shell, is what I’m doing.
+
+AUSTIN: Okay.
+
+ART: You want to like, good cop-bad cop this?
+
+KEITH: Yeah! We could bad— He’s intimidated, we could bad cop-bad cop if you wanted. [Austin laughs] Or we could mutual cops…
+
+ART: “I really want answers!” 
+
+[AUSTIN makes a derisive sound]
+
+KEITH: "I really really want answers!” 
+
+[AUSTIN laughs]
+
+ART: There it is!
+
+AUSTIN: There it is. Okay. So… 
+
+ART: Shoutout to John Lithgow. 
+
+AUSTIN: [laughs] That episode’s really good. Okay. So what’s the… I guess— I guess technically Jack has the ship. What’s the public space of the ship look like?
+
+JACK: I think it’s, um… I think it’s a slightly more comfortable version of, you know you sometimes see photographs of the inside of um, like troop carriers, where there are benches along the walls.
+
+AUSTIN: Mhm. 
+
+JACK: There’s overhead luggage storage. 
+
+AUSTIN: Sure. 
+
+JACK: But I think that it’s more homely here. I don’t quite know exactly what that entails. The shelves probably have some sort of, just, clutter on them. Ornaments. The Fallout 3 clutter person has come through, you know?AUSTIN: Right, right. Added some clutter. 
+
+JACK: Yeah, totally
+
+AUSTIN: Some old books you can’t read, and some pillows.
+
+JACK: Totally. And we can’t read them. Look, I’m trying right now. [ALI and AUSTIN laugh] But I think we got those. I think as well it’s not quite a rectangle. You know the um… What’s that ship they fly in the Avengers?
+
+AUSTIN: Which one?
+
+JACK: The little one.
+
+ART: Um, um…
+
+JACK: The little one they fight a bunch of people in.
+
+AUSTIN: Oh. The Avengers...craft?
+
+ART: Probably a Quinjet, right?
+
+AUSTIN: Yeah, probably.
+
+JACK: Yeah, that’s what it is. You know it has that sort of central section [AUSTIN: Mh-hmm.] where they sort of sit on the floor and lounge? I think it looks a bit like that?
+
+AUSTIN: Ok. I think we can...
+
+KEITH: Wait, the Avengers sit on the floor?
+ 
+JACK: Yeah, there’s definitely, in Avengers 2, there’s definitely a bit where um, Hulk is like, just sitting on the floor.
+
+AUSTIN: Well he’s big. He doesn't fit on regular…
+
+JACK: No, like, Bruce, sorry. Bruce Banner sits on the floor.
+
+ALI: Oh, yeah.
+
+AUSTIN: Ah, okay. 
+
+JACK: Wrapped in a blanket. 
+
+ALI: He was also like, having a mood, so he was probably on the floor for a reason, but... [laughs]
+
+JACK: Yeah, he was having a— It was a— It was a mood situation! 
+
+ALI: Yeah. 
+
+JACK: (cross) But I mean, we’re about to interrogate a guy, so.
+
+ART: (cross) Bruce Banner feels like a floor-sitter.
+
+JACK: Yeah, he does. 
+
+[ALI giggles]
+
+AUSTIN: Uh, so yeah. 
+
+JACK: Anyway, where are the bad cops? 
+
+AUSTIN: Where are the bad cops? So AuDy, you’re piloting presumably. Um… 
+
+JACK: Are we in the sky?
+
+AUSTIN: You’re in the sky, yeah. I guess, unless you don’t want to be. You could be docked somewhere if you’d like to be.
+
+ JACK: I think we’re in the sky so that, you know, we could maybe do the Batman “I’m going to throw you out of this craft,” if needs be. But I don’t think it’s going to come to that. 
+
+AUSTIN: (laughing) Okay.
+
+ART: Sure. 
+
+KEITH: Oh, that’s a really good one though. 
+
+[ALI laughs]
+
+ART: Do you want to just start with that?
+
+KEITH: Yeah. Yeah, let’s start with that. 
+
+AUSTIN: Uh…
+
+KEITH (as Mako): Grab his other leg!
+
+KEITH: And then I grab his other leg, and we bring him to the fucking edge. 
+
+[ALI  laughs]
+AUSTIN (as Shell): Wha...what are you doing?!
+
+[ALI laughs some more]
+
+AUSTIN (as Shell): What?
+ 
+JACK (as AuDy): (cross) They’re going to throw you out of the ship. 
+
+KEITH (as Mako): (cross) Tell us some other stuff!
+
+AUSTIN (as Shell): (a little scared, a little affronted) I already told you where your friend is!
+
+KEITH (as Mako): Yeah, but, come on, you’ve got to give us something else!
+
+AUSTIN (as Shell): I don’t… What do you want? Just bring me in, bring me in!
+
+KEITH: He’s half out of the ship still.
+
+{TIMESTAMP 0:10:00}
+
+AUSTIN (as Shell): (cross) Bring me in, bring me in!
+
+KEITH (as Mako): (cross) Just more stuff, more stuff!
+
+AUSTIN (as Shell): I don’t know. What do you want?
+
+KEITH (as Mako): What’s the... How come the…
+
+AUSTIN: At this point, it feels like you’re trying to assert another adjective here. 
+
+KEITH: At least— 
+
+JACK: (cross) Uh, I don't— 
+
+[ALI laughs]
+
+AUSTIN: (cross) At the very least it feels like you’re trying to assert something beyond Intimidated? 
+
+KEITH: Uh...
+
+[ALI giggles]
+
+AUSTIN: Beyond a Fleeting Intimidated. This feels like you’re trying to escalate that, maybe.
+
+KEITH: Uh. Uhhh...
+
+ART: Uh...
+
+JACK: You went into an interrogation with just no plans. 
+
+KEITH: (laughing) Yeah. Literally no plans.
+
+ART: I don’t know what we want out of this either.
+
+AUSTIN: Good.
+
+ART: (amused) It felt like it would become apparent when we were talking to him, and then it didn’t.
+
+AUSTIN: You could give me… It sounds like you’re going to need to give me a Coax roll. [KEITH: Okay.] Mako.
+
+KEITH: I’m gonna use…
+
+AUSTIN: Mako Trig, Jesus Christ. [laughs]
+
+KEITH: Where’s my coax? I forgot all my numbers.
+
+AUSTIN: Your Coax is a 3. 
+
+KEITH: It’s a 3? Okay.
+
+AUSTIN: Yep. Um… (pause) I don’t think this is clever, quick or charming. 
+
+[ALI laughs]
+
+ART: Nope. 
+
+KEITH: No, it is not. It is not. I did get a 6.
+
+AUSTIN: And you have no Hurt die, you have no negative adjectives currently, right?
+
+KEITH: Right.
+
+AUSTIN: So that means you can give him a…
+
+KEITH: Well, right now I only have— I don’t have any die in my thing? I should have all my die back.
+
+AUSTIN: No, you should have not— you should not have all your die back. 
+
+KEITH: Oh.
+
+JACK: (cross, muffled) I'm a blunt enforcer. 
+
+AUSTIN: (cross) Oh, you should get this one, that one that you had left should come back over to uh… 
+
+KEITH: Okay. 
+
+AUSTIN: What were you saying, Jack?
+
+JACK: I’m a blunt enforcer?
+
+AUSTIN: Yeah, but you’re not involved. You’re piloting the ship, you know?
+
+JACK: Yeah, who wants to fall out of the sky? He probably doesn’t want to fall out of the sky… Well, we tried that already.
+
+AUSTIN: Well you, at this point Keith is in the middle of this action, (cross) so let’s resolve that.
+
+KEITH: (cross) I want to give him fleeting… 
+
+JACK: (cross) Yeah, yeah, yeah. 
+
+KEITH: I want to give him fleeting cooperative.
+
+AUSTIN: Ok...Ok, that’s fair. Let me write that down.
+
+[ALI laughs]
+
+JACK: Nice one.
+
+ART: Why didn’t you give him sticky docile or something?
+
+AUSTIN: He can’t give— He can't give him sticky…
+
+KEITH: I couldn’t sticky him because I don’t have any Push die.
+
+AUSTIN: He didn’t spend any of his Push die, yeah.
+
+KEITH: Yeah. 
+
+ART: Ah. 
+
+AUSTIN: Yeah, whenever you start a roll you get your Push die back from Discharge, but you still only have the one right now. So just to go over that, Ali has two Push die, or three Push die total right now, Art has three, Jack has three, Keith has one, [KEITH: Yeah.] and I have four… I don’t know if that adds up. That might not add up. (quietly) Three, four, six, seven, eight, ten…
+
+KEITH: That… sounds like it works.
+
+AUSTIN: There should be…
+
+ART: We added dice?
+
+KEITH: We have one extra die. 
+
+AUSTIN: Yeah, I’ll get rid of one of mine. We shouldn’t have… Yeah, we do have one extra. So let me just— Let me just delete one of mine. Um… 
+
+KEITH: Alright, so now that he’s cooperative, bring him back in. 
+
+KEITH (as Mako) Cass, reel him back in. So...I know you. We both know you.
+
+ART (as Cass): Who are you? 
+
+[JACK laughs]
+
+KEITH: Art, you know him too.
+
+ART (as Cass): Who are you working for?
+
+AUSTIN (as Shell): Uh. The Weightless, it’s the same group I’ve been working for, for a while. It’s… you know, we just do jobs, we get things done for people.
+
+KEITH (as Mako): Like mercenaries?
+
+AUSTIN (as Shell): Yeah, yeah, like mercenaries. 
+
+KEITH (as Mako): You don’t have like...what do you have, like, some sort of a guiding ideal? 
+
+AUSTIN (as Shell): Our fucking guiding ideal…
+
+JACK (as AuDy): Your name is a bit specific.
+
+KEITH (as Mako): Yeah, it’s a bit specific, it kind of has a guiding ideal ring to it. 
+
+AUSTIN (as Shell): Our guiding ideal is things were better back before we were on speaking terms with the fucking Diaspora.
+
+KEITH (as Mako): So you're like—  
+
+AUSTIN (as Shell): That’s our guiding ideal.
+
+KEITH (as Mako): So you’re kind of like a (amused) terrorist thing.
+
+AUSTIN (as Shell): No, we’re sort of like patriots.
+
+KEITH (as Mako): I mean, you know.
+
+AUSTIN (as Shell): I look around this room, I don’t see any Diaspora fucks here.
+
+KEITH (as Mako): Jesus Christ, dude! What!?
+
+[ALI laughs]
+
+AUSTIN (as Shell): You weren’t there.
+
+KEITH (as Mako): What the fuck’s wrong with you!?
+
+AUSTIN: Ah, that’s not that… That's not that— I want to be clear, this is not a rare position.
+
+KEITH: Oh, ok.
+
+AUSTIN: There was a fucking war. You know, remember that historically…
+KEITH: But wasn’t it like… Well, I guess if this guy was a part of it…
+
+AUSTIN: Right.
+
+KEITH: Yeah. 
+
+AUSTIN: And then historically, in the kind of legend of these two groups is that they— There were times when both sides committed huge, huge terrible acts to each other where like, millions of people died.
+
+KEITH: Well, but both sides did. 
+
+AUSTIN: Yes, yeah. But you know how that goes.  
+
+KEITH: Yeah, yeah, yeah. 
+
+AUSTIN: Yes, he’s an asshole. You’re not wrong to be like, ‘Ugh, this guy’s an asshole.’ But like, you’ve definitely… You have this person on your future Facebook wall, you know? 
+
+KEITH: Right. 
+
+AUSTIN: Especially you who went through the September Institute. Who literally came from the group that was training people to kill the Divines, right? 
+
+KEITH: Yeah. 
+
+AUSTIN: Like, this is not a… This is probably not a rare position for you specifically to have heard.
+
+KEITH: Okay. I had forgotten that the September Institute was attached to the— the…
+
+AUSTIN: To OriCon, yeah. 
+KEITH: To OriCon, yeah um… 
+
+AUSTIN (as Shell): So yeah. We’re patriots.
+
+KEITH (as Mako): Sure, okay. 
+
+ART (as Cass): Why…
+
+AUSTIN (as Shell): We’d like things…
+
+AUSTIN: Go ahead.
+
+ART (as Cass): Why blow up the— the dome, though?
+
+AUSTIN (as Shell): Like I said, we’re mercenaries. We take a job.
+
+KEITH (as Mako): From who? 
+
+AUSTIN (as Shell): Snowtrak.
+
+KEITH: Who is...what is Snowtrak? Do we know what Snowtrak is?
+
+AUSTIN: Click on known factions in your notes thing. Snowtrak is a corporation…
+
+ART: (reading) "...another industrial corp that still builds labor-focused riggers but also military ones for harsh climates. They’ve been digging something up on Ionias [JACK: Uh-oh.] for decades now."
+
+AUSTIN: I think we mentioned Ionias last time, also.
+
+KEITH: Yeah.
+
+(pause)
+
+KEITH (as Mako): Is there a… Do you have a name? A high… Of a person at Snowtrak?
+
+AUSTIN (as Shell): No, I don’t do any of the— I don’t do any of the people stuff.
+
+KEITH (as Mako): Alright.
+
+AUSTIN (as Shell): Tea does…
+
+ART (as Cass): Who does do the people stuff?
+
+AUSTIN (as Shell): Tea.
+
+KEITH (as Mako): Tea?
+
+AUSTIN (as Shell): Tea.
+
+ART (as Cass): 'T,' the letter 'T'? 
+
+AUSTIN: 'T-E…' You would hear it, uh… 
+
+AUSTIN (as Shell): T-E-A,
+
+AUSTIN: He says. 
+
+AUSTIN (as Shell): My boss.
+
+KEITH (as Mako): Okay. They got, uh...I was trying to hack your ship, you know how I was doing that? 
+
+AUSTIN (as Shell): Yeah.  
+
+KEITH (as Mako): Is that the person that stopped that?
+
+AUSTIN (as Shell): No. 
+
+KEITH (as Mako): Okay. 
+
+AUSTIN (as Shell): Tea’s the one who nearly shot you out of the sky.
+
+KEITH (as Mako): Well. I wouldn’t go that far, but sure. 
+
+JACK (as AuDy): So the Queen?
+
+AUSTIN (as Shell): Yeah.
+
+ART (as Cass): Alright. Are we done with him?
+
+KEITH (as Mako): Yeah, I’m done with him.
+
+ART (as Cass): What do we do with him?
+
+KEITH (as Mako): I don’t know. 
+
+JACK: Um. 
+
+KEITH (as Mako): Do we kill him?
+
+JACK: I’ve got a...
+
+[ALI laughs uproariously]
+
+AUSTIN (as Shell): Aha. Excuse me?
+
+JACK: (laughing) This is some Grosse Point Blank level interrogation.
+
+ART (as Cass): I say we don’t kill him!
+
+JACK: Um...how would we go about...what’s the hardest an adjective can get?
+
+AUSTIN: Locked.
+
+KEITH: Locked.
+
+JACK: Mm.
+
+AUSTIN: So to give a locked adjective you have to discharge two Push dice through like, through use, like you’re spending your two, and then I take those two Push dice from you, basically.
+
+JACK: Right, okay. Right. I’ve…
+
+ART: Can we just give him like a sticky unconscious?
+
+AUSTIN: Yes.
+
+JACK: I was won— 
+
+AUSTIN: Well, mmm...no. You actually… Ugh, it’s complicated. We’ll… Let’s… Yeah, we’ll get there. What were you going to say, Jack?
+
+JACK: I mean, is there any way we could… No, I can’t really work out how it would work. There’s no way we could get a double agent here, right? Like essentially just like, take him back to…
+
+AUSTIN: You could, but it would take some...it would take some doing. 
+
+JACK: Oh! What if we give him...what if we give him... Um, who’s our tech expert?
+
+KEITH: Me.
+
+JACK: Could you make a bug?
+
+KEITH: Could I make a bug?
+
+JACK: We could give him bugged, right?
+KEITH: I think that sounds like a bio thing.
+
+JACK: Locked bugged? (cross) I mean, like a, like a, like a…bug, that you...
+
+AUSTIN: (cross) That would probably be— That would be sticky. That probably wouldn’t be locked. Like he could go get that treated, you know?
+
+KEITH: Yeah, yeah, yeah. 
+
+AUSTIN: Locked is longer than that. You know?
+
+JACK: Alright. Okay.
+
+AUSTIN: (cross) But yeah, you could give him...
+
+ART: (cross) No one else is on board for my pistol whip and leave him in a gutter plan, [KEITH: I like that one!] I just want to toss that out. That’s my whole whole plan that I was working on…
+
+JACK: (cross) I mean, look. These plans can go together!
+
+KEITH: Yeah, we can do both!
+
+JACK: These plans can go together!
+
+ART: Yeah. 
+
+KEITH (as Mako): Cass, hit this guy with your pistol right now! Do it literally now!
+
+AUSTIN: Okay…
+
+ART: Alright.
+
+AUSTIN: I can just— I’m not gonna make you roll for this. He’s tied up. So you’re giving him sticky… knocked unconscious? Is that what it sounds like you’re doing?
+
+ART: Concussed?
+
+AUSTIN: Concussed is more… mmm…
+
+ART: (audio dropping) Unconscious probably — 
+
+AUSTIN: Is this my connection, or is this…
+
+ART: — or are we just saying I can do it?
+
+JACK: What? No, I think it’s mine. 
+
+AUSTIN: Is this my connection falling apart, or is this— is this Art’s?
+
+KEITH: Do you guys hear me?ART: Yeah.
+
+AUSTIN: Yo? Am I better? Can you hear me?
+
+ALI: Yeah.
+
+KEITH: Yeah, this is—- this is much better. 
+
+JACK: Yeah, much better.
+
+AUSTIN: Ok. That’s good. Um. One second.
+
+JACK: We don’t have to worry about about how Keith is going to make a bug, right? Is that just a thing that they can do?
+
+AUSTIN: I think it’s… I think it’s a thing you can do… I think that’s probably a thing you can do. I’ll let you do it. It’s not a thing you should do constantly, do you know what I mean? 
+
+KEITH: Right. Yeah yeah yeah.
+
+AUSTIN: You know what I mean?
+
+JACK: Right, right. 
+
+ALI: Well, like— 
+
+JACK: I mean here we have a real opportunity.
+
+AUSTIN: Yeah, definitely.
+
+ALI: Robotics stuff (cross) is a thing you wanted to do with your character…
+
+ART: (cross) I don't know about that. 
+
+AUSTIN: No, no, Keith can do it. I have no problem with Keith doing it. 
+
+JACK: Oh yeah. 
+
+ALI: Right. 
+
+JACK: Yeah, yeah, yeah. 
+
+AUSTIN: My problem is with, or my concern is with, the…
+
+JACK: Like the mechanical… like, frequency of use?
+
+AUSTIN: The cost. What’s the cost of you doing it?
+
+JACK: I mean it would be— it would be funny to have situation (cross) where we just bugged every single person that fell into our hands. 
+
+[ALI giggles] 
+
+AUSTIN: (cross) No no, it— I just— I want to make sure that it’s… It’s… You know, one of the things about film noir is that the protagonists rarely have resources, right?
+
+JACK: Oh yeah.
+
+AUSTIN: And so, I want to make that there’s a situation here where you are, uh… 
+
+KEITH: Well, I’m thinking about the…
+
+AUSTIN: The easy thing for me to do is to say, "Yeah, you can do it. It costs you a credit." Do you know what I mean? 
+
+KEITH: Okay. 
+
+AUSTIN: Like you need those supplies. That’s probably the right call here, because that’s a pretty soft cost for… But at the same time, that makes me more inclined to make it a locked adjective, because it's— 
+
+KEITH: Yeah.
+
+AUSTIN: Because it’s a cost. But for sticky, I think we just… I think maybe that’s the thing. If you don’t pay a credit it’s sticky. 
+
+KEITH: Okay. 
+
+AUSTIN: If you pay a credit you can lock it. 
+
+KEITH: Got it. 
+
+AUSTIN: Because you’re doing some sort of deep shit, you know? 
+
+KEITH: Yeah. 
+
+JACK: Yeah. I mean, I was— 
+
+ART: We have access to connections for that. We have— Our connection map includes people who could get us that stuff.
+
+AUSTIN: Yeah, totally. 
+
+{TIMESTAMP: 0:20:00}
+
+KEITH: Yeah. 
+
+ALI: But then that would be calling in a favor, right? That would be a whole kind of thing.
+
+AUSTIN: It would, well at point— At that point, I mean, you would be calling in a favor to do it but it would still… Like you could get it still but it would mean uh, it would mean complicating things a little bit, for sure.
+
+ALI: Yeah.
+
+AUSTIN: Which is fine. And also just means like, okay, you want to bug this guy? Let's go meet up with our friend and do that. And then we can do that, and that would be a different scene.
+
+ALI: Right.
+
+AUSTIN: That wouldn't just be a we roll for right this second.
+
+JACK: Yeah.
+
+AUSTIN: We would go to that person. Um... Which again, totally fine. So I mean, don't—
+
+JACK: I mean, I'm not tied to bugging this guy. Like we could save the bug for better opportunity. I just feel that like in terms of… future stuff, just knocking him and leaving him unconscious [AUSTIN: Mhm. Mhm.] we have an opportunity here, right?
+
+AUSTIN: Yup.
+
+ART: Sure.
+
+KEITH: I wanted to push him out of the plane.
+
+AUSTIN: Are you a murderer?
+
+JACK: What here is evil?
+
+AUSTIN: Is Mako a murderer?
+
+ART: Yeah, that would be murder.
+
+AUSTIN: That's fine but I—
+
+KEITH: It wasn't my idea.
+
+AUSTIN: But I want to know— It is.
+
+ALI: It was...
+
+ART: Kind of was.
+
+AUSTIN: You're going forward on it.
+
+JACK: No! My idea wasn't, "Drop him out of the plane." (laughing) My idea was like, "Suggest that he might be dropped out of the plane."
+
+KEITH: No, no, Art's idea was, "Should we throw this guy out of a plane?" And I said, (laughing) "Sure."
+
+ART: That's not how I remember that going.
+
+[ALI laughs]
+
+JACK: Alright. Okay. So what are we doing… With this sucker?
+
+ALI: We're not gonna kill him.
+
+JACK: Okay. Agreed.
+
+KEITH: Um...
+
+ART: But are we— Are we— Do we want more out of him? 
+
+ALI: (cross) Do we need more out of him? 
+
+ART: (cross) Like, we can't just like let him walk out the front door.
+
+KEITH: I don't think there's any more out of him. I'm all set—
+
+JACK: Oh, we could search him.
+
+ALI: Oh.
+
+KEITH: Oh yeah.
+
+AUSTIN: Yeah, you don't find anything of any extra value on him.
+
+JACK: Alright.
+
+AUSTIN: He doesn't have like, you know, that's just not— He's given you what he has. I think. [JACK: Okay.] Let me— Let me be honest and let me think about stuff. [KEITH: Okay.] What's he have— I can also just look at his sheet really quick and—
+
+JACK: [gasps] 400 credits?
+
+AUSTIN: Yeah, exactly. Yeah, he doesn't have a thing that is anything like a...
+
+KEITH: Does he have a cool watch?
+
+AUSTIN: No. No.
+
+[JACK and ALI laugh]
+
+JACK: Alright. Okay. So we're gonna go for bug, or are we just gonna go for leave him?
+
+KEITH: Uh, I mean, why not bug him if we can, right?
+
+AUSTIN: Yeah.
+
+ALI: Yeah.
+
+AUSTIN: Go ahead and give me the… That's— How are you bugging him? You're making a thing?
+
+KEITH: I— I think I'm gonna be making a thing.
+
+AUSTIN: Okay.
+
+JACK: Then are we gonna like inject it him or like?
+
+AUSTIN: Yeah, how are you keeping him from getting rid of this? What makes it sticky?
+
+KEITH: Um...
+
+AUSTIN: 'Cause that will explain what the roll is.
+
+KEITH: I think that it's uh… I think it's like an X-Files style like little metal thing under their skin.
+
+AUSTIN: Okay. So that would be gone once— You're knocking him out first?
+
+KEITH: Yeah, yeah, yeah.
+
+AUSTIN: Right? Okay.
+
+JACK: Oh, yeah, yeah. He doesn't know it's there.
+
+AUSTIN: Gotcha. Um, okay so he's unconscious...
+
+ART: Maybe put it like a place he doesn't like, check all the time.
+
+KEITH: Oh, you know what?
+
+ART: Put it in the small of his back or something.
+
+KEITH: Does this look like a jacket that this guy wears all the time or whatever shirt he's got on?
+
+AUSTIN: No.
+
+KEITH: No, okay.
+
+AUSTIN: No, he's a clean boy. He's— He's—
+
+KEITH: A clean boy.
+
+AUSTIN: He'll change his shirt. Um… 
+
+KEITH: Okay.
+
+AUSTIN: You know what, his jacket is though, probably. You're right, like he has like a— Or he has a flight suit on, [KEITH: Okay.] is what I'm imaging him in. It's like a— like a coverall situation. Or an overall— overall situation?
+
+KEITH: Can I— Can it sew it to the...
+
+AUSTIN: Uh, what's the— Coveralls or overalls? Which is the thing I'm thinking of?
+
+KEITH: Coveralls.
+
+ALI: Yeah.
+
+ART: Coveralls are what you're thinking of.
+
+KEITH: Yeah.
+
+ART: Overalls are what like farmers wear.
+
+AUSTIN: Right. He's not wearing those.
+
+KEITH: Can I attach it to the inside of a leg of the flight suit?
+
+AUSTIN: Sure. Sure. Um, at that point, it sounds like you're rolling to like make the thing, I guess?
+
+KEITH: Yeah. Mhm.
+
+AUSTIN: Which, [sighs] I can't decide if that's a Hack or— or. I think that's probably a Hack.
+
+KEITH: I think it's probably Hack.
+
+AUSTIN: Right?
+
+KEITH: So yeah.
+
+AUSTIN: I'm gonna re-read.
+
+JACK: This is just audio, right?
+
+AUSTIN: Yeah. Uh, and location maybe?
+
+JACK: Yeah, location and audio.
+
+ALI: Yeah.
+
+JACK: I mean, if we're putting it on his leg, video seems like a bust.
+
+AUSTIN: Mhm.
+
+JACK: Just gonna get sort of an ant's view of whatever's happening.
+
+AUSTIN: Yeah, I—
+
+JACK: Some strange boots.
+
+AUSTIN: Yeah, let's use— let's use... Let's use Hack.
+
+KEITH: Okay. Yeah, so to make this sticky, I've gotta use my Push die.
+
+AUSTIN: Mhm.
+
+KEITH: And then which four... I guess clever because I'm making...
+
+AUSTIN: Clever makes sense. Yeah.
+
+KEITH: Um... I got a 6.
+
+AUSTIN: Okay. You don't have any Hurt die. And that beats his—
+
+KEITH: I don't have any Hurt die—
+
+AUSTIN: That beats his resistance so I'll take that. Okay. I'll give him bugged. And that is sticky. And then how are you getting rid of him?
+
+KEITH: I mean, can we still throw him out of the ship, but just be really close to the ground?
+
+JACK: What— What I'll do is I'll bring you down [AUSTIN: Sure.] low over a rooftop, like a flat rooftop. Um, which we could toss him out there if we want.
+
+AUSTIN: Uh, remember that most of this stuff is domed so you can't fly the ship in the cities.
+
+JACK: Oh, so when we're— we're above the— Oh, okay, I didn't know whether or not they were like Schenectady, New York style domes where you could actually fly stuff above.
+
+AUSTIN: I think that there are those probably, but the one that we described that you were near was not like that because the ship's docked in that like, through the weird docking bays that like, [JACK: Oh, yeah.] ran up right through the ground, [JACK: Yeah.] you know what I mean? Um... And there are— Yeah, we're talk about the other stuff when we get there in the story. Anyway.
+
+ART: I think we should just like dock in sort of like leave him in the spaceport, right? Like...
+
+AUSTIN: That works.
+
+ART: Put him on a bench. Walk away.
+
+[ALI laughs]
+
+AUSTIN: [laughs] Okay.
+
+[ALI laughs]
+
+KEITH: Rest him up at the— at a stool at a bar and buy him a drink and put like in his hands, as he's slumped over.
+
+[JACK laughs]
+
+ALI: That's generous.
+
+AUSTIN: Yeah. At least, yeah.
+
+KEITH: I don't know, maybe he'll think it was all of a— He was on a real bender.
+
+JACK: Don't think he's gonna think that.
+
+KEITH: He might think he's on a real bender. "Boy have I been on a bender."
+
+AUSTIN: Okay.
+
+ART: "I hate waking up from these benders."
+
+AUSTIN: Great. Good.
+
+ART: "Very clearly concussed. Windswept hair."
+
+[ALI, JACK laugh] 
+
+KEITH: "I must have fallen down from a height, on my bender."
+
+AUSTIN: Bender is actually...
+
+JACK: I don't even like this drink.
+
+[ALI, KEITH laughs]
+
+AUSTIN: Weird. Okay. So you do that. You're able to— You dock back at the Addax-Rethal Spaceport. You drop off— You drop him off at like some— some, maybe just like at another some— maybe just at another terminal, you know?
+
+ART: Yeah.
+
+AUSTIN: Uh, and...
+
+ART: International Departures.
+
+{TIMESTAMP: 0:26:00}
+
+AUSTIN: [laughs] So now, what do you do? You have him bugged. You vaguely know where Cene might be. Your stuff is all kinda beat up, right? What's your— What's your stuff situation?
+
+KEITH: All my stuff is fine. I think the ship has damaged… 
+
+AUSTIN: Yeah, the ship has —
+
+KEITH: ... armor.
+
+AUSTIN: — disabled armor. [KEITH: Disabled armor.] And then I know that the Regent's Brilliance, the Rook Custom that— that Aria has, I think also has.
+
+ALI: Uh, it's blinded, so I think just the cameras are fucked up, you know?
+
+AUSTIN: Okay. Was that— Was that fleeting or was that sticky?
+
+ALI: Um, I think it was sticky. And then I had a fleeting confused, but have I lost that?
+
+AUSTIN: Yeah, that's gone. That's gone.
+
+ALI: Okay.
+
+AUSTIN: And that's just time. Time gets a fleeting stuff.
+
+ALI: Okay.
+
+AUSTIN: Your— The condition changes. Um, and then... Was it... Cass— Was Cass's...
+
+ALI: Cass had—
+
+ART: There's one of two disabled armors on the Megalophile.
+
+AUSTIN: Um...
+
+JACK: Big buddy.
+
+AUSTIN: Big buddy. On the big buddy.
+
+ART: Yeah.
+
+AUSTIN: Okay, so... So... You could work on those? Give me— Give me scenes of that and give me some rolls on those? Which...
+
+ART: Sure.
+
+AUSTIN: To... To...
+
+ART: Do a... Do a...
+
+AUSTIN: Go over that, it's the roll for repairing stuff. Uh, depends on what the thing is? Like, if you're fixing a negative attribute on a person, that would be like a Treat roll, probably.  It can change, depending on stuff. But for, for repairing a rig, it would be Operate, I'm pretty sure.
+
+ART: I believe that's correct.
+
+AUSTIN: And you're looking for 4 or better on your roll. You don't have any— No one's missed anything, so... That means no one has any chance on— on improving a skill, sadly, um, but— But you're looking for a 4 or better on an Operate roll to...
+
+JACK: Do we add adjectives to that if needs be? 
+
+AUSTIN: Yup.
+
+JACK: Or are we just literally just rolling just that.
+
+AUSTIN: Nope, you can totally use adjectives that can make sense.
+
+JACK: So should we dock the Kingdom Come in a— in a bay somewhere?
+
+AUSTIN: Yeah, I think you've docked at that— at that space port.
+
+JACK: Okay.
+
+AUSTIN: You've probably, J-m, one of the things that like knowing J-m gives you is like a place to dock when you're in this kind of dome.
+
+JACK: Alright. So I would like to try and fix up the Kingdom Come.
+
+AUSTIN: Okay.
+
+JACK: Um, I have...
+
+AUSTIN: What's that look like? What's it look like for AuDy to like repair the whole— like the armor of the Kingdom Come?
+
+JACK: Um, I think like to an extent, AuDy leaves a lot of it up to the manufacturing and repair robots.
+
+AUSTIN: Okay.
+
+JACK: But I think they* watch them with a sort of air of um, like, "Yeah, get a— Good work I guess. Yeah, good— Good work, things."
+
+AUSTIN: So the thing is that like, you have to be doing something to make the roll. To some degree.
+
+JACK: Yeah, okay. So I think—
+
+AUSTIN: So what is it that— How does AuDy oversee them or what's the—
+
+JACK: I think that what happens is— is—
+
+AUSTIN: 'Cause that, in an interesting way, that sounds like you're making a Coax roll and not an Operate roll, unless you're, you know what I mean?
+
+JACK: No, I think what AuDy is doing is um... You know in the way that's— Like, children might help skilled parents with a thing, kinda amateurishly?
+
+AUSTIN: Yes. Yes.
+
+JACK: Um, like you know, if— if like uh, a parent is doing like carpentry or something, a kid might be there, like handing a screws over or something.
+
+AUSTIN: Uh-huh. That's perfect.
+
+JACK: I think, like, AuDy has no experience with like repair. He was a parking—
+
+AUSTIN: Right.
+
+JACK: Or they were a parking robot.
+
+AUSTIN: Yeah.
+
+JACK: Um, and so I think that they're probably just sort of like handing tools —
+
+AUSTIN: Mhm.
+
+JACK: — and getting in the way that's...
+
+ALI: [laughs] Oh.
+
+JACK: You know.
+
+AUSTIN: That's— Yeah. That sounds right. That sounds— That sounds about right. Um... Okay so you'll be rolling your Operate score, plus any positive adjectives.
+
+JACK: Mhm.
+
+AUSTIN: And then you also have to roll one Hurt die after that for [JACK: Okay.] however many negative adjectives are impacting this. In this case, it's one.
+
+JACK: Okay. So I think I'm gonna go um... I think I'm gonna go Operate plus pilot because AuDy kind of knows how the ship works?
+
+AUSTIN: Well, pilot is your— is not an adjective. Pilot is just a...
+
+JACK: Oh, I can't add this as an adjective. I'm not sure...
+
+AUSTIN: Yeah, that's just— that's just what your background is. Those for me— 
+
+JACK: So I would've done—
+
+AUSTIN: Those for me work as sort of like modifiers to like what's believable for you to be able to do.
+
+JACK: Okay. That makes sense.
+
+AUSTIN: So that like having pilot means that if you tell me you want to like, "Oh, there's a helicopter over there, can I pilot it?" I'll say, "Yeah, you have the pilot background," you know what I mean?
+
+JACK: Sure. Yeah.
+
+AUSTIN: Um, where as— whereas, Art who's Cass has never had an pilot training. I guess he's Rigger— Rigger. That would like, "Oh, you can kind of do it." But having pilot means like, "Yes you can pilot any vehicle in this world," you know?
+
+JACK: Mm. Yeah. Okay.
+
+AUSTIN: So yeah.
+
+JACK: So I think I'll just roll Operate, then. I would've gone for coordinated but I like the mental image of me [AUSTIN: Yeah, me too.] not exactly being tremendously helpful.
+
+AUSTIN: Me too.
+
+JACK: Um. These people. So I'm gonna roll just 2 Operate dice.
+
+AUSTIN: 2 Operate dice and then after that, roll a Hurt die. A single—
+
+JACK: Yup, okay.
+
+AUSTIN: A single d6. (pause) Okay, there's your 4.
+
+JACK: That's a 5.
+
+AUSTIN: That's good. You— Remember it's just each individual dice matters.
+
+JACK: Oh, yeah. Sorry.
+
+AUSTIN: So here you've gotten a 4 and a 1, the 4 is high and that's good enough. So now you just hope that this other d6 is not a 4. (pause) Okay.
+
+JACK: It's a 1.
+
+AUSTIN: You're good. You're good. So that means you— Your armor goes from disabled to... to just regular.
+
+JACK: Okay.
+
+AUSTIN: And then Art, same thing with you. Are you...
+
+ART: Talk to me about what disabled armor means.
+
+AUSTIN: It means— So any Hurt adjective will mean that you have to roll a Hurt Die when you are using your um… Actually I'm not sure. Let me double check that because— because armor might be a special thing.
+
+ART: No, actually I— It's actually, it's a different question.
+
+AUSTIN: Okay.
+
+ART: It's like what is— 'Cause it doesn't need to be replaced. What am I— What's happening? What am I doing here exactly?
+
+AUSTIN: You're like hammering out the dents.
+
+ART: Okay.
+
+AUSTIN: Do you know what I mean? It's— It's— Or it's like, "Oh, I can just fix this with like the scrap that's around. I can weld on some scrap." It's not like, "I need to replace the entire fitting," Do you know what I mean?
+
+ART: Sure.
+
+AUSTIN: It's the difference between needing to pull the entire like, all of the joint— the way it's jointed in, you know what I mean? Like, "Oh I need a whole fucking new thing here," versus [ART: Sure.] "Okay, I can— I can patch this up." Um, but I think— 
+
+KEITH: (cross) You can just pop it in.
+
+ART: (cross) But like, something this scale, it's not like I'm hammering it out, right? It's probably— There's probably like tools involved here?
+
+AUSTIN: What do you think is the best image? Do you know what I mean? Like, if you want it to be [ART: Sure] "I can hammer this out, this is the type of situation it is," It can be that. But if it's— But if yeah, it could be using drones or using, you know, some sort of big, you know, mecha hammer. Who knows? Um...
+
+ART: I think it's uh, it's using the... the... 'Cause uh, the Megalophile is— is strong.
+
+AUSTIN: Mhm.
+
+ART: And I've always— I've pictured both of the weapons on the sides. I think it's Cass standing in front of the Megalophile with his— using his uh, cerebral input.
+
+AUSTIN: Right.
+
+ART: To sort of like, oversee the mecha fixing itself.
+
+AUSTIN: Right.
+
+ART: Like it's kind of like— like you know, taking it's thumbs or whatever, [AUSTIN: Mhm.] and like putting it in the— the armored, kinda popping it out again.
+
+AUSTIN: Right, right. I think that's uh— I like that— I like that image a whole bunch. Um, so I think—and here's the thing I want to just be clear on so that we are clear on it going forward—if you're armor is damaged, it's disabled or damaged, it doesn't actually hurt you. There are not hurt like… There are not like negative adjectives in the sense that they impede your capabilities. Um, whereas normally, if you had your thrusters were hurt, were damaged, right? If you had like— If you had like grounded because your thrusters were damaged, right?
+
+ART: Right.
+
+AUSTIN: That would mean one, you can't use your thrusters in narrative. You couldn't say, like, "Oh, I leap over him using my thrusters, blah, blah, blah." And two, you would have to take a negative on rolls where that— where they would affect you. I think the rule that I'm gonna give, and the book is not clear on this, but the rule that I'm gonna say is that, having disabled or destroyed armor does not negatively impact your rolls, it just means that it's not there to protect you, in the future, you know?
+
+JACK: Fine.
+
+ART: Yeah, I believe that was— that was how I interpreted that as well.
+
+AUSTIN: Yeah, yeah. Okay. So go ahead and give me your Operate roll.
+
+ART: Operate?
+
+AUSTIN: Yeah. Yeah, your— And then— And then any bonuses that you— Like if you think you're gonna use strong, you can totally... disarm— discharge a...
+
+ART: Uh, I think I'm not because I'd sorta like to fail this roll to get my Operate a little higher.
+
+[ALI, JACK laugh] 
+
+AUSTIN: That's— That's... That's fair. That is more than fair.
+
+ART: And I got a 6. What the... [AUSTIN, ALI, JACK laugh] I had a 4.
+
+KEITH: We're rolling so well.
+
+AUSTIN: You're— I don't know where this... What's happening here? I don't know.
+
+ART: I'm still rolling that Hurt die.
+
+JACK: This season is just gonna be...
+
+AUSTIN: Yeah, still roll... Yeah, still— Ah, it doesn't even matter, 'cause your Hurt die is not going to— Like you still got a 6, you know.
+
+ART: Uh-huh.
+
+AUSTIN: 'Cause the way Hurt die work is they just cancel things out. Uh, you rolled a 6, a 1, and a 4 in your Operate. You rolled a 4 on your Hurt die. Which means you got a total of 6, so you got a 6 with the high. Um... Okay.
+
+JACK: I like this system a whole bunch.
+
+AUSTIN: Totally. Me too.
+
+JACK: Sponsored by Mechnoir.
+
+[AUSTIN, ALI laugh] 
+
+AUSTIN: Make sure you take back your— your push die, after you— At the beginning of any roll.
+
+ART: Oh sure.
+
+AUSTIN: Um. Okay.
+
+KEITH: (whining) I don't have any dice left!
+
+AUSTIN: You don't. You'll get more when I hurt—
+
+JACK: Oh no!
+
+AUSTIN: You'll get more when I hurt you.
+
+KEITH: Uh, yeah, but that means you've gotta hurt me.
+
+[ALI giggles]
+
+AUSTIN: There's another thing that can happen. There's another way for you to get Hurt die. I don't think this is the right— Or to get Push die back, um, like it's important that I have these now so that I can hurt you. But let's say it's been the whole game session and I still haven't managed to give you any Push die back.
+
+KEITH: Yeah.
+
+AUSTIN: If you're like, "Fuck, I just need some." There's a thing you can do called... What is it called? It's called resetting. Resetting Push die. 
+
+(reading) "Sometimes you'll end up with a majority of Push dice and the player will have few— few or none. In these situations you may offer a player the opportunity to reset her Push dice. She does this by playing out a scene with a connection or a protagonist that she has a relationship adjective with. As long she doesn't act against this character during this scene and something happens in the scene that exemplifies the relationship adjective, you give her enough Push dice to return to 3. Here are some ways a relationship adjective can be exemplified. Affectionate, she comforts him in a time of need. Et cetera." 
+
+Um, so, so if after this session, you're still low on Push dice, we can totally do a thing. But I feel like, in the middle of this investigation, it probably feels unrealistic for you to like, "Oh, well I'm just gonna go act out one of my..."
+
+KEITH: Yeah.
+
+AUSTIN: "One of my things." Unless it is...
+
+KEITH: "Uh, I think I hear— I think I hear J-m yelling that he needs help and I gotta protect him."
+
+AUSTIN: He needs— Right I'm protective so I'm gonna go help him. So yeah. Uh, so yeah, you kinda dock and take in stock of where you're at. I'm imaging all of this is happening to again, like most things happening here, at dusk with the sun setting. And— And I— I kind of like the notion that the... even though you don't actually fly out of this hanger into the sky, there is just like a big virtual, like a virtual screen that is showing outside, like the conditions outside, along one of the walls. Or maybe like, at the far end where the exit tunnel goes upwards, there is a projection of what the skyline is like outside. So you're in...
+
+JACK: Heh. But does it then have the weather written on it next to it.
+
+AUSTIN: Yes.
+
+JACK: Right across it.
+
+[ALI giggles]
+
+AUSTIN: Absolutely. Like it's literally the picture of a sunset, and like a little and it's like, a little smoggy and it says, "The sun is setting." [JACK laughs] "The weather conditions are a little smoggy." It's like natural language. It's like the kind of like, "I'm your operating system and your friend." It's like written in that way, like the way the Xbox One is written. It's great.
+
+{TIMESTAMP: 0:37:30}
+
+JACK: And then there's a stock ticker, just scrolling…
+
+[ALI giggles]
+
+AUSTIN: Right, also underneath at the bottom, yeah. Um... Actually yeah, and this is actually a really nice... A nice way for me to introduce the thing. Which is, that screen glitches out for a second. Um, and like, (FOLEY: electronic noises) "Bleup, vhit." It stutters and then on the screen you see uh, the Kingdom Come in the sky and the fight that you just had. Um, from like the— It's kinda like a handycam perspective. Or like, it's like a— it's like a drone camera perspective. Maybe it's even… Maybe it's even the drone that you had harassing the queen.
+
+JACK: Mmm.
+
+AUSTIN: Except that that footage has been— The camera wasn't facing her, the camera was like— The camera maybe has like a 360 degree camera, probably, right 'cause it's the future.
+
+JACK: Mmm.
+
+AUSTIN: And it's shots from that of the fight that happened. Um, and— and uh, you can see in the little corner, there are some— some written characters. Like some uh... We've been using— We've been— We haven't talked about what writing looks like here, and I don't want to just do the thing where it's just Japanese 'cause it's cyberpunk future, but I do think it's a language like that, in which there are characters that have meaning, the way like, "Oh, this is like a single piece of kanji can mean a complicated thing, right?" And there it says, "The Angels of Counterweight." And that just plays for like forty five seconds. And then it stops and goes back to, "The weather is slightly smoggy. Make sure you wear your masks." It's very strange. It does not feel good, I don't think. Maybe it does. I don't— I should not— I should not tell you what your characters think, but like...
+
+JACK: Do they have access to my drone camera?
+
+AUSTIN: Uh, I— Who? Does who?
+
+JACK: Well, like should that image—
+
+AUSTIN: No!
+
+JACK: (cross) Should anybody but us have access to that image?
+
+AUSTIN: (cross) No. No one but you should have access to that image.
+
+JACK: Okay.
+
+KEITH: Who's being called "The Angels of Counterweight" here?
+
+AUSTIN: Uh, who knows? It's just the— It's just a logo. It's like the CBS logo.
+
+KEITH: Probably us, right, you guys?
+
+AUSTIN: In the bottom right, do you know what I mean?
+
+ALI: I hope so, yeah.
+
+ART: Probably us, yeah.
+
+AUSTIN: Uh...
+
+ALI: Of course that's us.
+
+AUSTIN: In the bottom right it was just there, like a— like again, like the CBS logo or something.
+
+JACK: Um, does Aria need to fix anything?
+
+ART: The CBS logo?
+
+ALI: Yeah.
+
+AUSTIN: You know, like a TV logo during a TV show. Where it says, "The Angels of Counterweight"—
+
+KEITH: Oh you're saying that was—
+
+AUSTIN: That was—
+
+KEITH: "The Angels of Counterweight" had their waterstamp on this footage.
+
+AUSTIN: Yes. Yes.
+
+KEITH: It wasn't—
+
+AUSTIN: In the bottom right... Who knows?
+
+KEITH: Okay.
+
+AUSTIN: Who knows what it means?
+
+KEITH: Right.
+
+AUSTIN: Uh, you've never seen this before.
+
+KEITH: Alright.
+
+AUSTIN: So we'll move off that but that's a thing that happens there.
+
+KEITH: And sorry, which screen was this?
+
+AUSTIN: This was like— There was like a virtual screen at the end of— So I'm picturing the hanger as a rectangle. A big, big, big, big rectangle.
+
+KEITH: Yeah.
+
+AUSTIN: And at the far end of it, there's a tunnel that turn— that like, slowly turns and goes up, so that you can leave through like the— Remember you're deep underground, kind of, but you're gonna like take off through the tunnel that leads up to the surface of the planet. Um, but where you go through there, there's like a virtual screen that you actually fly through, that's giving you like a picture of what the conditions are like, above ground. Does that make sense? It's like a—
+
+KEITH: Yeah.
+
+AUSTIN: It's like a… It's hard to— I think I've done an alright job.
+
+KEITH: Mhm.
+
+ART: Yeah, I think I got it.
+
+AUSTIN: It's like a virtual window in like a weird way. Okay. That is a thing that I expect you to figure out or like to follow right now. If you would like to follow that right now, somehow, that's totally fine, but that was just a taste of a thing I've been thinking of. 
+
+(pause)
+
+JACK: Okay.
+
+KEITH: Um...
+
+ALI: Can I do my Heal roll?
+
+AUSTIN: Absolutely. What are you...
+
+ALI: Okay.
+
+AUSTIN: What are you need to Heal? Oh, you need to heal blinded [ALI: Blinded.] to fix the, yes, absolutely.
+
+ALI: Yeah.
+
+AUSTIN: That's a, probably a Hack roll because that's about software, not about hardware?
+
+ALI: Yeah.
+
+AUSTIN: Um.
+
+ALI: Um, okay. Um, so I imagine her kind of sitting on the Brillance's like just like shoulder with like a little uh, like entry pad in front of her. [AUSTIN: Mhm.] Like, with like a little monitor, like trying to figure out how to like reset the system I guess, [AUSTIN: Yeah.] to make it... um, work again.
+
+AUSTIN: Yeah, 'cause you've been kind of blinded.
+
+ALI: Right.
+
+AUSTIN: The cameras have been over— have been overloaded. Yeah.
+
+ALI: And then I'm going to roll Hack plus savvy?
+
+AUSTIN: Yeah, savvy is definitely right there, I think. [ALI: Um...] Definitely spin savvy that way.
+
+ALI: Yeah. Do I use a Push dice for that?
+
+AUSTIN: Yes.
+
+(pause)
+
+ALI: I got a 5.
+
+AUSTIN: So 5. Perfect. And then give me...
+
+ALI: With my dice.
+
+AUSTIN: And then the Hurt die. (pause) Alright, you're good.
+
+ALI: Whoo!
+
+AUSTIN: Alright, so now your cameras are back up. Everyone's repaired, everything is— everything is back to being okay. What do you do, as the sun sets over Counterweight?
+
+{TIMESTAMP: 0:42:45}
+
+ART: We've got to find someone who knows— who knows more.
+
+AUSTIN: I mean. What do we know at this point? You do. You— I'm not saying you don't have— you don't need to do that. Um, but you do have at least some clues to go on at this point.
+
+KEITH: Can we get to Snowtrak?
+
+ART: Well we know… 
+
+ALI: Yes.
+
+AUSTIN: Yes.
+
+ART: Yeah.
+
+AUSTIN: Totally. You could totally look up Snowtrak and like, where their lab is. Or I guess you know what they have... [sighs] They have something like six or seven labs on Counterweight, so you're not necessarily sure which one it is. And just so you know, if you had pushed a little bit on Shell, Shell also would not have known which one.
+
+KEITH: Okay.
+
+AUSTIN: So like, no, you didn't lose anything there.
+
+ART: We're not gonna go like barging in with mechs [KEITH: Yeah.] to all six labs.
+
+[ALI giggles]
+
+AUSTIN: Right.
+
+KEITH: Yeah, I feel like when we had— when we had Shell...
+
+ART: Because they will catch on.
+
+KEITH: When we had Shell hanging out of the thing [AUSTIN: Yeah.] and they were being like, "Snowtrak!" like I feel like that was the time to elaborate on what Snowtrak...
+
+AUSTIN: Yeah, no, that's not... Um... Hm...
+
+KEITH: Who...
+
+AUSTIN: I think you could probably, here's what you could do. There are— Let's say there are six facilities. There are six Snowtrak facilities. Two of them are… Two of them have retail fronts, where it's like, "Oh, you can come buy mechs from us." Two of them are like research and development places. Um, one of them is like a business partnership like, spa. Uh, and one of them is like a... a software support place.
+
+KEITH: Okay.
+
+AUSTIN: Which is like connected to the R&D but it's a little bit different. It's like it's about— That last one was like a customer service thing. It's like, "We'll help you run your shit. You know, if you have a problem, it's a call center." It's basically call center.
+
+KEITH: Oh...
+
+ART: Call center for your— for your war machine? 
+
+AUSTIN: Right.
+
+ART: That seems a little...
+
+AUSTIN: Little— Well, okay, so to be clear, Snowtrak does make war machines. They also make— They're big at making like [KEITH: Mining shit.] mining shit and like, um, [ART: Commercial] commercial and industrial riggers.
+
+ALI: Yeah. Also our war— our war machines do industrial stuff.
+
+AUSTIN: Yes.
+
+ALI: So there's a lot of overlap.
+
+AUSTIN: This is true. There is a lot of overlap.
+
+KEITH: Do you think Orth knows more about Snowtrak that we do?
+
+ART: Orth was a thought.
+
+JACK: Yeah, like I— One of the things about this game is like, what do they say, Austin? Like, push your contacts or something? Press them for...
+
+AUSTIN: Ah, yes. One of them— I should've in fact read those at the beginning of the game. I feel bad that I— that I didn't.
+
+KEITH: If you want, you can read it and sent it to me and I'll put it in.
+
+AUSTIN: Well, I'll just read them now, which (reading) "Work your contacts."
+
+JACK: Woah.
+
+AUSTIN: (reading) "Work your contacts, shake the tree and see what falls out. Get hurt, come at them sideways."
+
+KEITH: Yeah.
+
+AUSTIN: (reading) "Play them against each other."
+
+KEITH: So if Cene— If we know that Cene is at Snowtrak and we know that the Weightless uh... they are basically a militant OriCon organization and Orth was a soldier for them, maybe he knows something? Not a soldier for the Weightless, soldier for OriCon during the war.
+
+AUSTIN: Right, soldier for OriCon, right.
+
+KEITH: Maybe they tried to get him in.
+
+ART: Well, none of us have any ins with Orth.
+
+AUSTIN: No, you all have an in with Orth.
+
+JACK: Uh...
+
+AUSTIN: It's just that you don't have a—
+
+ALI: Well, yeah.
+
+AUSTIN: You don't have a… um, an adjective with Orth.
+
+ART: Uh, but none of us took him as a...
+
+AUSTIN: No, mul— Multiple people of you took him as one of your three. I think, I thought. Am I wrong?
+
+JACK: Orth… — 
+
+ART: Maybe that map doesn't have all the lines.
+
+AUSTIN: The lines are only adjectives. They're not — 
+
+ART: And Orth isn't…Okay.  
+
+JACK: — lent me the Kingdom Come.
+
+AUSTIN: — just connections. Right.
+
+JACK: That Orth gave me the Kingdom Come. Or, I paid him.
+
+ART: Okay, so you probably know him.
+
+AUSTIN: Oh yeah. Oh yeah.
+
+ALI: Yeah, we all know him, we just don't have any like… moves towards him that would affect our conversations or like, yeah… 
+
+AUSTIN: Yeah, you know what, I should update this… 
+
+JACK: Debt is a mood.
+
+AUSTIN: Debt is a mood. [ALI laughs] Um, I should make note of that though. I should make note of the connections, even without the adjectives. Um, at the very least, move Orth over here. Okay. So...
+
+ART: And then— And then Paisley was my other thought. Paisley might just know.
+
+ALI: Right.
+
+AUSTIN: Paisley is a fixer… So Orth, again, is the person who you actually working for in this case and work for often. They're the kind of a… We talked about them being kind of like an alderman.
+
+ART: Sure.
+
+AUSTIN: Uh, you're kind of their— one of their primary resources for solving problems, uh, and Paisley is another problem solver.
+
+ALI: Well wouldn't it make sense then to go to Orth and be like, "Hey, this is what we know so far…"
+
+AUSTIN: Sure.
+
+ALI: "Can you kind of (cross) help us close the gap here?"
+
+ART: (cross) Yeah. As long as it doesn't— As we don't think it's gonna make us look like incompetent, right? Like… 
+
+ALI: Yeah, I mean… 
+
+ART: "Hey, boss, we got this far and we're stuck! Oh no."
+
+ALI: Yeah. Just kinda like a check in, like, "Hey buddy."
+
+KEITH: "Yeah, hey."
+
+ART: Yeah, "Hey buddy."
+
+JACK: "Give us information."
+
+AUSTIN: Do… 
+
+KEITH: "Do you know about the Weightless and also maybe Snowtrak?"
+
+AUSTIN: Do you uh, actually go to see Orth or are you calling in? What's your— What's your deal?
+
+JACK: Should we— Should we Skype him?
+
+AUSTIN: Yeah, we could Skype him.
+
+ALI: We could probably just Skype him.
+
+ART: Yeah, it sounds like Skype.
+
+KEITH: What did we say last week? VidCom?
+
+AUSTIN: VidCom. VidCom?
+
+KEITH: VidCom.
+
+AUSTIN: LiveCom? VidCom.
+
+KEITH: VidCom.
+
+AUSTIN: I also think that— that Orth probably is like set up for like holo communications. Like just appears in the middle of the room, standing or sitting or something.
+
+JACK: Or, I mean he doesn't, because the first three times the hologram cuts out.
+
+AUSTIN: Right.
+
+JACK: Uh, and then once we can't actually hear him.
+
+AUSTIN: Yeah, uh-huh.
+
+JACK: But eventually we just...
+
+AUSTIN: Yeah. That's perfect.
+
+JACK: We just—
+
+AUSTIN: Or maybe then you're just like, "Just go— We're just gonna do— Just, let's just do regular— Let's just do video communication."
+
+JACK: "Just do audio, or like..."
+
+AUSTIN: "Just do— Yeah, audio only. Yeah." It's audio only and it's a picture of Orth in— in like Orth's future skype. Orth's VidCom like profile pic, is him in his like, his OriCon uniform from like the old days. He also looks a little bit younger and a little bit less like, beat up. A little bit more optimistic. I'm picturing him… 
+
+JACK: He's changed the lighting a little in the background so that...
+
+AUSTIN: [laughs] Right.
+
+JACK: Disguise the side of his face...
+
+KEITH: He hasn't been— He hasn't yet been offered the position of US President.
+
+AUSTIN: Right, that's exactly— Yeah. Uh, I'm— I've been imaging him a little bit like um... what's his face, the guy who played President David Palmer in 2— The first few seasons of 24. Uh, he's also in all those All State ads. Very sharp looking black dude.
+
+KEITH: Oh, okay yeah. I know who you're—
+
+ART: Yeah.
+
+AUSTIN: What is his name?
+
+ART: I know who you're talking about. I definitely did know his name at one point.
+
+KEITH: Uh...
+
+AUSTIN: I was right, his character's name was David Palmer. Um...
+
+KEITH: Dennis Haysbert.
+
+ALI: Yeah.
+
+AUSTIN: Yeah, Dennis Haysbert. Yeah, I'm picturing him as like a Dennis Haysbert, Orth. Kind of together and kind of… but also a little weary. A little weary. Who is his main connection from your group?
+
+ALI: Um... I think...
+
+JACK: Me may... Well, I don't know who it's—
+
+KEITH: For Orth, I thought it was… I thought it was Art.
+
+ART: Oh, did you?
+
+AUSTIN: No, Art doesn't have—
+
+ART: I— I don't have a connection to him and we fought on opposite sides of a war.
+
+KEITH: Right, no, I'm thinking of— I'm thinking of Koda.
+
+AUSTIN: Yes. Yeah.
+
+KEITH: Yeah.
+
+AUSTIN: Okay. So yeah, AuDy, he— When you call him up, he says uh,
+
+AUSTIN (as Orth): Audy, what's the latest?
+
+JACK (as AuDy): Uh... So. Uh, we managed to capture one of their uh, agents. Uh, we received information that Cene Sixheart has been kidnapped and taken to a Snowtrak Facility. Do you have any information about Snowtrak and facilities that we might want to search?
+
+KEITH (as Mako): (whispering) Audy, tell him. Tell him about the Weightless.
+
+JACK (as AuDy): There was a strange organization. The people who attacked the dome described themselves as an organization known as the Weightless. They hate the Diaspora.
+
+AUSTIN (as Orth): I'm familiar with them.
+
+JACK (as AuDy): You are?
+
+AUSTIN: He nods. We're—
+
+JACK (as AuDy): Tell us everything.
+
+AUSTIN: It's just— Again, it's just an image so you don't see him nodding. Uh… 
+
+AUSTIN (as Orth): They were a group who… They did a lot of good work in the war against Apostolos. While… 
+
+JACK (as AuDy): They shot at my friends.
+
+AUSTIN (as Orth): I'm sure, uh, if you were in their position, you would've done the same. I— I have a lot of sympathy for them, but it breaks my heart to hear that they put a paycheck above the betterment of all of Counterweight.
+
+AUSTIN: One second let me do a roll. Ah, uh-huh.
+
+ART: Who would've thought that people who work for corporations would choose money and a paycheck over a greater good?
+
+[JACK laughs]
+
+AUSTIN: Okay.
+
+ART: Fuck it. 
+
+[AUSTIN, KEITH laugh]
+
+AUSTIN: Oh lord. Oh lord. Okay. Uh, update his chart. So I just rolled on his chart to decide— to decide some things 'cause that's how this game works 'cause it's weird and good. Okay. He says, um...
+
+AUSTIN (as Orth): I— A... Okay. A rogue rook came up on our— on our comms or on our radar screens —
+
+AUSTIN: Radar screen is probably wrong.
+
+AUSTIN (as Orth): — on our sensors a couple of hours ago, headed towards a Snowtrak Facility. That might be the... That might explain uh... What you just told me might explain where it was going and why it was going there.
+
+AUSTIN: He sends over the coordinates to a Snowtrak Facility that is— that is kind of within… within a couple hours of the Blue Sky Prototype Dome. It's like two cities over from it.
+
+AUSTIN (as Orth): I don't know what Snowtrak has going on there. Those folks are uh... You know, I just don't know too much about them.
+
+KEITH (as Mako): Uh... Regardless of their sort of I guess, more mercenary side, what does Weightless want specifically, do you know?
+
+AUSTIN (as Orth): As far as I understand, they just don't like it that we all have made sort of a permanent peace with the Diaspora. They especially think that we shouldn't be messing around with Weight, and whatever is happening up there.
+
+KEITH (as Mako): Oh. Weight-less. They don't want Weight. Got it.
+
+ART: Are you kidding me?
+
+KEITH: [laughs] I was— Yeah.
+
+ART: If their— If their base isn't at the gravity neutral point between these two planets, I give up on this whole game.
+
+[ALI, AUSTIN, ALI laugh] 
+
+JACK (as AuDy): Before we go — 
+
+KEITH: There's a Starbucks there. They couldn't— They had to go slightly to the left.
+
+AUSTIN: Okay. That's fair.
+
+JACK (as AuDy): Are you— Are you aware of the Angels of Counterweight?
+
+AUSTIN: He... I hate not having his physical body. I hate not being able to show you his face. Um...
+
+JACK: Yes, Skype's like that, Austin.
+
+AUSTIN: It is. It totally is. He… There is a hesitation when he says,
+
+AUSTIN (as Orth): No, I'm not— I'm not familiar.
+
+JACK (as AuDy): I'll remember that.
+
+{TIMESTAMP: 0:53:25}
+
+[AUSTIN, KEITH, ALI laugh] 
+
+JACK: And then I just end the call.
+
+KEITH: Did you just Telltale our boss?
+
+AUSTIN: I think— I think they* did.
+
+[ALI giggles]
+
+JACK: Who's boss? Um... He's already got me— He's already got me by the throat for the ship.
+
+AUSTIN: Uh-huh.
+
+JACK: I don't— You know. (laughing) I don't know how much worse it can get.
+
+AUSTIN: That's true.
+
+JACK: And the answer is, much worse. So much worse.
+
+[ART laughs]
+
+JACK: Should we just go for the facility? Does anybody have any objections?
+
+ART: I mean he ended that conversation with lying to us, so it's sorta like (cross) don't know my favorite...
+
+AUSTIN: (cross) Ah, you don't know...
+
+ALI: (cross) That's a different thing.
+
+KEITH: He could've hesitated to think about it. But I don't —
+
+JACK: Yeah.
+
+KEITH: — think he lied to us...
+
+ALI: Mmm.
+
+JACK: I don't think that's why he was hesitating.
+
+AUSTIN: Skype is weird, so, who knows?
+
+ART: Oh, did he all get all robot-voice and we had to like stop for five minutes?
+
+[ALI laughs]
+
+AUSTIN: Yeah, that's happened. That's exactly what happened?
+
+JACK: Or he just went, "Oh, it's breaking up. I can't hear you."
+
+AUSTIN: [laughs] Mhm.
+
+JACK: Hm, what, hm?
+
+ART: Oh my god. My audacity hasn't gotten any of this.
+
+AUSTIN: Okay.
+
+JACK: Oh no.
+
+AUSTIN: That's okay my— my—
+
+ART: From the start until now… 
+
+AUSTIN: Okay, my stream— My OBS is going.
+
+KEITH: Okay, that's good 'cause mine isn't.
+
+ART: We're really—
+
+KEITH: That would've been a disaster.
+
+AUSTIN: Oh lord.
+
+JACK: Oh no!
+
+AUSTIN: Okay.
+
+KEITH: Since we— Oh no, sorry. My Audacity is going. I just didn't have a backup going.
+
+JACK: Oh, oh, okay.
+
+AUSTIN: Okay.
+
+KEITH: Um, I also do a backup.
+
+AUSTIN: Right.
+
+KEITH: Uh...
+
+ART: It gave me like an error message but it didn't— it didn't assert itself.
+
+AUSTIN: Mhm.
+
+JACK: Weird.
+
+KEITH: Okay, so let me run to the bathroom and then we'll do a time.is clap.
+
+AUSTIN: Sounds good.
+
+ALI: Okay.
+
+AUSTIN: Ready to go at maybe 50 seconds?
+
+ALI: Yeah, I'm finishing this burrito and then, yes.
+
+KEITH: Did you say 'dorito' or 'burrito'?
+
+ALI: Burrito.
+
+AUSTIN: Two, one… 
+
+[four separate claps]
+
+AUSTIN: Nah.
+
+KEITH: Alright, I wasn't on there. I wasn't on.
+
+JACK: I don't— 
+
+AUSTIN: 57 seconds. We're gonna go at 57.
+
+[three claps together and one late]
+
+{TIMESTAMP: 0:55:13}
+
+KEITH: Good.
+
+ALI: That was fine.
+
+KEITH: Yeah.
+
+AUSTIN: It was fine. It was fine. Where were we?
+
+ALI: We just finished up our call with uh...
+
+AUSTIN: Orth. Right. Uh, so yeah.
+
+ALI: We're heading to that place, probably.
+
+AUSTIN: The rook that he tracked, when he sends you over the coordinates. Um, again it's in— It's in a city that's like a— like a kind of two maglev train routes, away from the Blue Sky Dome. Um… 
+
+KEITH: Uh...
+
+AUSTIN: Go ahead.
+
+KEITH: If uh, I just want to say, 'cause this is— this is a place where we're deciding whether to go to the place immediately or do another thing?
+
+AUSTIN: Mhm.
+
+KEITH: I do want to say, I'm gonna make two notes. Austin, we did talk about uh, me getting a fly board.
+
+AUSTIN: That's a— Yeah, I said that's a thing you should work towards, yes.
+
+KEITH: Work towards, okay. Uh...
+
+AUSTIN: Yeah. Like that's gonna cost you money.
+
+KEITH: Yeah, yeah, yeah. How much money, would you say?
+
+AUSTIN: A couple credits.
+
+KEITH: A couple credits? Okay.
+
+AUSTIN: Yeah. Everything in this system is basically a couple credits until it's a vehicle. And then it's ten credits, plus a couple more for whatever bonus it has.
+
+KEITH: You're adding on. Yeah, yeah, yeah, okay.
+
+AUSTIN: Yeah. So like, for that, I would say like, for one, you get a fly board. For two, you get a flyboard with thrusters, do you know what I mean? Like, or...
+
+KEITH: Fly— Yeah.
+
+AUSTIN: You're adding tags to make it...
+
+JACK: Three, you get a fly board with thrusters and a cupholder.
+
+AUSTIN: Right, exactly.
+
+ALI: Ooh. Shaped like a cat.
+
+AUSTIN: Aww.
+
+JACK: [laughs] It's great.
+
+ART: Cupholders shaped like a cat or the whole thing shaped like a cat?
+
+AUSTIN: Both?
+
+JACK: Both, I think.
+
+ALI: Eh, whatever you want.
+
+JACK: A whole cat.
+
+KEITH: The whole thing is shaped like a cat and the cupholders is shaped like a cat's paw.
+
+ALI: Yeah, it's mm.
+
+AUSTIN: Okay.
+
+JACK: Do we want to come at these people sideways? I mean, it seems— Like if we were— if we were doing this the Dungeon World way, we'd turn up there and then we'd all stand behind Hella. [ALI laughs] And we'll go into the reception and Hella would go...
+
+KEITH: Well, I would fly above.
+
+JACK: Yes, that's true.
+
+AUSTIN: Great.
+
+JACK: And we'd go, "Hey, we're here now."
+
+ART: None of this is relatable to me at all.
+
+ALI: Uh... You know who Hella is. It's fine.
+
+JACK: Do we want to like try and sneak in or do we want to try and uh... Do we want to go in through the front, is what I'm asking?
+
+ALI: Are we sneaky sneaks or are we tough boys?
+
+KEITH: I'm a little bit of a sneaky sneak.
+
+JACK: I'm a tough boy.
+
+ALI: I think I'm also kind— I'm like a charmer. I could probably get us in by like smiling at a guy.
+
+AUSTIN: Wow.
+
+KEITH: I mean, we have the— We have the thing in Coax.
+
+ART: I'm kind of a guy who drives a giant robot and isn't super useful outside of a giant robot.
+
+AUSTIN: Oh, you have something I'm sure.
+
+ALI: No, you have stuff.
+
+AUSTIN: You can heal people. You have Treat. You were a doctor, that time.
+
+KEITH: [laughs] That time.
+
+ART: Yeah. (laughing) Remember when I pretended to be a doctor for several years.
+
+AUSTIN: [laughs] I've picked up a few things.
+
+KEITH: Cass is a lot like John Hamm for 30 Rock.
+
+AUSTIN: Yeah. Yeah.
+
+ALI: Well you're— No you're authoritative and you're intuitive.
+
+ART: A lot like John Hamm, thank you.
+
+ALI: You could authority a guy to open a door.
+
+ART: Sure.
+
+AUSTIN: But it still sounds like front door is what you're doing.
+
+JACK: I mean, sorry, what is this facility?
+
+ALI: Yeah.
+
+AUSTIN: That's a good question, Jack.
+
+ALI: Yeah, yeah, that.
+
+AUSTIN: How do you find out about it?
+
+JACK: I'm gonna google it.
+
+AUSTIN: Okay.
+
+[ALI laughs]
+
+JACK: Sorry, I'm gonna... Sorry, uh...
+
+KEITH: Yeah, uh, it's back to Yahoo. Swing back to Yahoo.
+
+JACK: I'm gonna use the search engine and I'm gonna type um...
+
+AUSTIN: What's the name of the search engine?
+
+JACK: It is called, uh...
+
+ALI: SGs.
+
+JACK: Man, it's called um...
+
+AUSTIN: That's what it's called? It's called, "Man, it's called," and then you type in the thing you want to know and then the top answer is like, "Oh yeah, man, it's called, blah."
+
+[ALI and KEITH laugh] 
+
+JACK: It's called, Polestar.
+
+AUSTIN: Polestar, that's good.
+
+JACK: Because you use it to get where you want to go.
+
+AUSTIN: Oh. Mm, okay. I don't know how to spell this thing you just said, but, I love it.
+
+JACK: Like —
+
+KEITH: P-O-L-E.
+
+JACK: P-O-L-E.
+
+AUSTIN: Okay.
+
+KEITH: (cross) S-T-A-R.
+
+JACK: (cross) S-T-A-R.
+
+AUSTIN: Got it.
+
+ART: Man, the future's going to have… Things are going to get a lot more mature or there's just a lot of— there's a lot of dick jokes flying around that search engine.
+
+AUSTIN: [laughs] It's a little bit of both. Uh...
+
+JACK: There's uh, loads of dick jokes. Um… 
+
+ART: Okay.
+
+JACK: So I guess I'm just like— I'm cross referencing the coordinates that we were given —
+
+AUSTIN: Mhm.
+
+JACK: — with the name of a Snowtrak facility to try to work out like...
+
+AUSTIN: Yeah, so you know that that's...
+
+KEITH: .polestar.com/
+
+AUSTIN: Yeah.
+
+JACK: Yeah, basically.
+
+AUSTIN: There's a— You know that there's a Snowtrak facility in this— this subcity. I should get a thing up that just generates city names. Uh, or I should just make a map of this planet. I'll do that.
+
+JACK: I could write you a thing that generates city names.
+
+AUSTIN: I know. Let's talk about that after this game. Or after this session. Um... So it is there and it is one of their primary like um, rig R&D facilities. Um...
+
+JACK: Okay.
+
+AUSTIN: Um... It is— It is Snowtrak Synergies Lab Tau. Uh, and it is one of the places where they develop, not just new rigs but new— new uh, AI like, um... AI routines for their rigs. Uh, as far as you can tell, let me give you some more details about like— It's sort of like a— Like the front end of it is like a very small version of that great level from uh, Titanfall, where it's uh, a very, very— 
+
+JACK: Oh, yeah.
+
+AUSTIN: — pretty marbled floors, a couple of statues of Snowtrak's rigs. Um, and a um, kind of a front desk area, a waiting room. It's all— It's very crisp and clean. And then like some proto— As you walk through the hallways there, there's like a, not a virtual tour —
+
+KEITH: Two different J-ms.
+
+AUSTIN: But like, yeah, there's a bunch of different rigs there that are on the size. Like, oh, this is our first model, this is our prototype model, this is our human sized model where like, you just kinda walk into it, instead of it being a big lumbering thing. There are like, other versions of the sort of robot J-m is there, walking around and like cleaning things up. 
+
+Um, they've also built lots of robots like that—nowhere near as much as like Minerva has—and in general, um, Snowtrak is much more focused on the creation of bots and rigs that are for use in hazardous conditions. And so they've done good work here, since the war. Right, like, they've made lots of money dealing with, building robots to go out and building rigs to go out and um, you know, create the mag lev trains out in the terrible wastelands of Counterweight. They were also part of the work done on uh, the Blue Sky Prototypes. Like their machines were definitely part of what was used to build that thing. 
+
+I think you also recognize that it is guarded. Like, it's, they never come out and say, "Oh hey, we have guards here," but they do talk about it being a secure facility. They do talk about how it is um... If you do business with them, you can be sure that it will be— That any details of your arrangement will be protected through the um, you know the highest tier most innovative cybersecurity measures, blah, blah, blah. Stuff like that.
+
+JACK (as AuDy): Aria, Mako.
+
+KEITH (as Mako): Hi!
+
+JACK (as AuDy): Do you think you would be able to get a guided tour?
+
+KEITH (as Mako): Yeah.
+
+ALI (as Aria): Oh, yeah.
+
+AUSTIN: How are you— What's the plan there? That's a good plan. I like this plan.
+
+KEITH: That's a good plan. [ALI laughs] Um, are we— Are we tourists or are we like looking to do business with them?
+
+ALI: Um...
+
+JACK: You have the Coax stat.
+
+ALI: Yeah, we could probably sell being tourists easier, maybe?
+
+KEITH: But if we're doing business with them, we might… be able to see some better shit.
+
+ALI: Oh yeah, true. Well, what business would we be doing?
+
+KEITH: Uh, a bulk sale of... mine… of drills. Of like drill bots.
+
+ALI: Okay.
+
+AUSTIN: Yeah?
+
+KEITH: Yeah.
+
+JACK: Drillbot Taylor. I like… Sorry.
+
+[ALI, AUSTIN laugh] 
+
+KEITH: Hi, I'm Flowen Wilson.
+
+AUSTIN: Oh lord.
+
+ALI: [laughs] I...
+
+AUSTIN: Okay, let's see how this works.
+
+JACK: Cass and I can try and get in around the side while they're having the tour. Or do we want to let them just—
+ 
+ART: Sure.
+
+JACK: Just rush it. (amused) In so far as a tour is rushing it.
+
+[ALI laughs]
+
+ART: I guess the— My reservation is that things go very wrong, I don't want to be too isolated from our— from our stuff.
+
+JACK: That's a very good point, actually.
+
+ALI: Where is our stuff, actually?
+
+JACK: I mean I can —
+
+AUSTIN: All your stuff is in the ship. 
+
+ALI: Okay. How far away is our ship from...
+
+JACK: You were just in the parking lot?
+
+AUSTIN: In in the— It's not in the— No, it's in like the dome parking lot. It's like back at the... There's kind of like a space for all of the ships to dock at a given dome and then you use smaller transports to get around the dome city.
+
+JACK: Okay.
+
+AUSTIN: You know what I mean? You don't fly.
+
+JACK: We just got here on a train.
+
+AUSTIN: Or— Right, right, right, you go in kind of from the space— or like the docking port downtown or like there are like, let me explain this, Jack. So there are pi— There are robots that pilot people around uh, you might be familiar, like the variation of the model you are. I even like really like the notion of you getting into basically a robot uber and you're the pilot, also.
+
+JACK: Mm. Do we know who manufacturers AuDy yet?
+
+AUSTIN: Was it not— Automated Dynamics was the name of for their* model or… 
+
+JACK: Oh yes, it is um...
+
+AUSTIN: Yeah, I think it's just um...
+
+JACK: I think it's just Automated Dynamics, right?
+
+AUSTIN: Yeah, me too.
+
+JACK: AuDy is the parking— The Automated Dynamics Parking Robot.
+
+AUSTIN: Yeah, yeah.
+
+KEITH: Um, I have a...
+
+AUSTIN: So there's also an Automated Dynamics like driving robot or you know, um… 
+
+JACK: Presumably they're the same chassis, I think.
+
+AUSTIN: Mhm.
+
+KEITH: I have a smarter plan for Ali and I to do.
+
+AUSTIN: Okay.
+
+ALI: Mhm.
+
+KEITH: Or at least one that makes slightly more sense. Um, what are the names of the um, sort of fast travel subways that go from bubble to bubble?
+
+AUSTIN: They are the Maglevs. Just call them the Maglev Trains. 
+
+KEITH: Okay. 
+
+AUSTIN: That's a real thing. You know.
+
+KEITH: Okay. Um... We— We work for a construction company that is contracted out to do repairs on Maglev Stations and we're looking into expanding some of the stations to add basically space keno machines and we need big robots to bash down some walls.
+
+AUSTIN: I just realized also, I mean that's a good, I'm supporting that plan. I just remembered I do actually have a name for those things. They're called the Starlight Straights, and that's the name of the Maglev stuff.
+
+KEITH: That's a good name.
+
+JACK: What like, S-T-R-A-I-G-H-T?
+
+AUSTIN: Yes.
+
+JACK: Or like the Bearing Straits?
+
+AUSTIN: Like, like going straight.
+
+JACK: Oh, cool. Starlight Express.
+
+AUSTIN: It is absolutely supposed to be evocative of like the Bearing Strait, but like, you know, people think they're clever. That's— That's how people are.
+
+JACK: Yes. Yeah. Drillbot Taylor.
+
+AUSTIN: Uh... So is that— Is that you're plan?
+
+KEITH: I mean… 
+
+AUSTIN: It's basically like a similar plan. It's like a little more—
+
+KEITH: It's a similar plan but it's a more believable story.
+
+ALI: Yeah, it's a… 
+
+AUSTIN: It is. So you're just going in? Like what's the… Is this like a walk in situation?
+
+JACK: Uh, let's have a...
+
+KEITH: Yeah, we're going in and I'm just gonna say that we called ahead.
+
+AUSTIN: Okay.
+
+[ALI laughs]
+
+AUSTIN: You're sure.
+
+KEITH: I'm sure.
+
+AUSTIN: Okay.
+
+ALI: Uh, should—
+
+KEITH: Alright. (confidently) I'm sure.
+
+AUSTIN: Oh lord. Keith really wants to get hurt.
+
+KEITH: I've got no dice left!
+
+[ALI, JACK laugh]
+
+{TIMESTAMP: 1:06:27}
+
+AUSTIN: Okay. So the front of the building— The building is big. The building is like, I'd say three times bigger than the Kingdom Come in terms of length, and then, you assume like most buildings on Counterweight, it goes underground quite some bit, too.
+
+KEITH: Okay.
+
+AUSTIN: Um, that first floor you walk in, it is like a shining pristine showroom floor, uh. Again it's not as big as their actual showroom.
+
+KEITH: Yeah.
+
+AUSTIN: But it is still like a… 
+
+KEITH: An impressive room. 
+
+AUSTIN: It's still an impressive place. Um...
+
+KEITH: So Austin, you know the expression, "Hiding in plain sight?"
+
+AUSTIN: Yes.
+
+KEITH: I'm gonna go uh,
+
+KEITH (as Mako): Wow, big place.
+
+AUSTIN: Oh lord.
+
+ART: Hey, Austin, you know the expression, "Hiding in plain sight?"
+
+AUSTIN: Uh-huh.
+
+ART: "Here's a non-sequitur."
+
+[AUSTIN, ALI laugh]
+
+AUSTIN: Um, there is a sharply dressed man at the counter with— with his hair combed back, his nice vest on with a tie. And a nice pair of black slacks.
+
+AUSTIN (as the receptionist): How may I help you, sir?
+
+KEITH (as Mako): Uh, yeah, we called earlier. My name's Taylor. Uh, we called ahead, we're looking to get some bots to help us with bots to help us with construction on the Starlight Straights?
+
+AUSTIN (as the receptionist): Uh... Taylor...?
+
+KEITH (as Mako): You said you'd give us a tourcall.
+
+AUSTIN (as the receptionist): What's your last name, sir?
+
+KEITH (as Mako): We called ahead. Taylor.
+
+AUSTIN (as the receptionist): Taylor. What's your first name?
+
+KEITH (as Mako): Drillbot.
+
+ALI (as Aria): It could be under Ausche. Mara Ausche.
+
+AUSTIN (as the receptionist): Ausche, Ausche…
+
+KEITH (as Mako): A-U-S-C-H-E, Ausche.
+
+AUSTIN: He's looking through his stuff.
+
+AUSTIN (as the receptionist): I don't see… I don't see anything here.
+
+KEITH (as Mako): You know what, she gets it spelled wrong all the time. It's in there.
+
+AUSTIN (as secretary): Okay. I— I don't.
+
+ALI (as Aria): Try it with an O. Try it with an O.
+
+AUSTIN: He's— He's trying. He's going to keep trying. He doesn't see— I don't see—
+
+AUSTIN (as the receptionist): I don't see— I don't see anything.
+
+KEITH (as Mako): We called ahead. Where's the tour manager?
+
+AUSTIN (as the receptionist): The tour manager?
+
+KEITH (as Mako): The tour manager.
+
+AUSTIN (as the receptionist): Woo. Uh... There isn't a tour manager. Are you looking for our…
+
+KEITH (as Mako): He does the sort of— We just need to make sure that the facilities and the— and the mechs are up to standing. Uh, we just kinda want to take a look around. Someone promised us a tour and— and—
+
+AUSTIN (as the receptionist): Jorne— Jorne is the sales associate here but…
+
+KEITH (as Mako): It might've been Jorne.
+
+AUSTIN: You're gonna— This is— What are you trying to apply here?
+
+JACK: Who knows?
+
+KEITH: Uh. I'm trying to apply… I guess this is a Coax.
+
+AUSTIN: This is definitely a Coax.
+
+ALI: I think it's the Coax. I think we're trying to make them like sort of frazzled so they'll let us through.
+
+AUSTIN: Frazzled is good. Frazzled is solid.
+
+KEITH: Yeah, frazzled is— Yeah, it's frazzled.
+
+AUSTIN: For him to—
+
+ALI: Do you want to roll or should I—
+
+KEITH: I'll roll.
+
+ALI: Yeah.
+
+KEITH: I'll roll.
+
+ALI: Yeah, it's—
+
+KEITH: We both have 3s for Coax, right?
+
+ALI: Yeah.
+
+KEITH: Alright, I got a 6.
+
+ALI: Alright, perfect.
+
+AUSTIN: And you have no Hurt die, right?
+
+KEITH: No hurt die, yeah.
+
+AUSTIN (as the receptionist): Ah, phew. Yeah. I'll call—
+
+KEITH (as Mako): So you'll get us Jorne.
+
+AUSTIN (as the receptionist): Yeah, just give me a— Just give me a second.
+
+KEITH (as Mako): Alright, thank you.
+
+ALI (as Aria): Take your time. It's fine.
+
+KEITH: I just—
+
+AUSTIN: He steps backwards from the receptionist area and there's just like another him standing there. It's like a solid hologram of him.
+
+KEITH: Okay.
+
+AUSTIN: In his place. Like, in— in like a waiting mode. He's kind of like—
+
+KEITH: What! That's neat.
+
+AUSTIN: Oh lord. Okay. He goes...
+
+ALI: This guy is really nice.
+
+AUSTIN: into a back room and you can hear him like,
+
+AUSTIN (as the receptionist): Yeah, I don't— I know! I— I don't think they called. Maybe they talked to Shirley. No, I'm pre— Just can you— Can you— Can you? Okay. Okay. O-okay.
+
+AUSTIN: And then he comes back out.
+
+AUSTIN (as the receptionist): Jorne will be with you, just can you please take a seat, um and…
+
+KEITH (as Mako): Absolutely, I'd love to take a seat.
+
+AUSTIN (as the receptionist): Okay. 
+
+{TIMESTAMP: 1:10:20}
+
+AUSTIN: What are... Cass and AuDy, what are you up to?
+
+JACK: I think we're probably just chatting?
+
+AUSTIN: Oh okay. I thought you were going to try to come in the side. Is that not happening?
+
+KEITH: Oh, and then but...
+
+JACK: But like I didn't know whether or not, like is that what we're—
+
+AUSTIN: I don't know?
+
+JACK: Cass had reservations about that, right?
+
+AUSTIN: Yes.
+
+ART: I did have reservations about that, is that like, if things go bad, wouldn't we want our giant robots. On the other hand, like this is giant robot factory. Maybe a giant robot fight isn't the scale we want to be on.
+
+AUSTIN: Right.
+
+ART: Maybe we do want to be a little more ground level.
+
+AUSTIN: Also just—
+
+ALI: I mean like—
+
+AUSTIN: Go ahead.
+
+ALI: I can control my robot, like, I can have it run here.
+
+AUSTIN: And also its… 
+
+ART: I don't—
+
+AUSTIN: You could. Uh… And also, well… 
+
+ART: Can we?
+
+AUSTIN: It depends on how you're connected to it. I'm pretty sure you both could, based on the way...
+
+KEITH: If Aria has a neurolink, right? That's connected.
+
+ALI: Yeah.
+
+KEITH: Yeah.
+
+ART: Oh, I have a neurolink too. That's what that does— That's—
+
+AUSTIN: It means you can control it.
+
+ART: I guess I thought there was a proximity part to it.
+
+AUSTIN: There is but like, but if you can connect to the internet and your thing is also connected to the internet, then that's fine. You know?
+
+JACK: You know, the connection is through Microsoft.
+
+KEITH: There's a lot of internet out there.
+
+AUSTIN: There is.
+
+ALI: The way that I've always thought about it is like putting your titan in guard or defend mode.
+
+JACK: Oh yeah.
+
+AUSTIN: Yes. It's similar to that.
+
+ALI: Where like, guard or follow, essentially.
+
+AUSTIN: Yeah. Uh... So yeah, the other thing here is that like, rigs aren't gonna fit in most of these hallways. Like they have like an R&D place where they're doing stuff, um, but like they don't have, like— Most of the stuff is like business rooms and like little laboratories, like less so… It's like an office building, sort of, less than a place where you can have a big robot fight, inside a facility, anyway.
+
+ART: Alright.
+
+KEITH: You can go to the R&D section and I've gotta steal a hyper-cat.
+
+AUSTIN: Right.
+
+JACK (as AuDy): So Cass, do we want to go in?
+
+ART (as Cass): Yeah, let's go in.
+
+AUSTIN: Um...
+
+JACK: Do you want to split up or do we want to go together.
+
+ART: We should— We should probably go together. I'm not the best sneaky guy.
+
+KEITH: Can I give them— Can I give uh, Cass and AuDy, like a— Can I communicate with them?
+
+AUSTIN: Sure.
+
+KEITH: Can I—
+
+AUSTIN: Yeah, at this point, everyone in this game has just a— As long as you can connect to the internet.
+
+KEITH: Yeah.
+
+AUSTIN: So AuDy can't, but everybody else has a — 
+
+KEITH: Right.
+
+AUSTIN: — has a neural connection. Or a verbal connection with each other.
+
+KEITH: Or— But I suppose I could probably talk directly into AuDy's head.
+
+[JACK yells]
+
+AUSTIN: I think there's a range to that, right? And also...
+
+JACK: (yelling) That's really uncomfortable...
+
+AUSTIN: And also that doesn't seems like a good thing to do.
+
+ALI: Yeah, I don't think—
+
+KEITH: I mean, if it were an emergency.
+
+AUSTIN: Shh.
+
+KEITH: I'm sure that AuDy wouldn't mind.
+
+AUSTIN: We'll see.
+
+ALI: AuDy just has like a little earpiece sort of clipped to one of their microphones, maybe?
+
+JACK: Yeah, I think AuDy just has like a phone or something. Or like a bluetooth headset or something.
+
+AUSTIN: Right, but that's like… 
+
+KEITH: A phone...
+
+AUSTIN: Yeah, yeah, but that's not the same— Again, like, you would actually have to buy that, for AuDy. And that would be—
+
+JACK: Oh, I would have to buy a phone?
+
+AUSTIN: Yeah, yeah. The same way you'd have to buy a neural connection. Like if it's— If it's— The reason everybody else can do this is because they have the connection to the internet, you know?
+
+JACK: Oh, right, okay. Does the Kingdom Come have a phone? The Kingdom Come has a phone, right? Just has a—
+
+AUSTIN: The Kingdom Come totally does, yeah.
+
+KEITH: Probably does.
+
+JACK: But if I'm like walking around, I'm essentially flying with airplane mode on. 
+
+AUSTIN: Yes, exactly. 
+
+JACK: After this.
+
+AUSTIN: Yeah.
+
+KEITH: So I'm gonna talk to Cass and is like,
+
+KEITH (as Mako): Hey, maybe I should come in and say Stacey offered you a tour.
+
+ALI (as Aria): We can't both do tours.
+
+ART (as Cass): That's 100% no.
+
+[AUSTIN laughs] 
+
+KEITH (as Mako): Well, cause I mean, we overheard, we fucking overheard Jorne going like, "Maybe it was Stacey."
+
+ALI (as Aria): It was Shirley.
+
+AUSTIN: Yeah, it was Shirley, so...
+
+KEITH (as Mako): It was Shirley.
+
+ALI: (laughing)We are the worst detectives.
+
+KEITH: Well I didn't have the idea until they were gonna come in. I wasn't paying attention super close.
+
+AUSTIN: Good, great.
+
+JACK (as AuDy): What's he talking about, Cass?
+
+ART (as Cass): He wants us to come in and pretend we have a tour as well.
+
+[AUSTIN laughs]
+
+JACK (as AuDy): Tell him we're not going to do that.
+
+ART (as Cass): I'm telling him we're not gonna do that.
+
+[ALI laughs]
+
+KEITH (as Mako): No, no, no. It'll make our story more believable.
+
+ART (as Cass): How many of these tours come in every day?
+
+ALI (as Aria): No, it won't! It'll make it so much less believable.
+
+JACK: Wait a second. Also, one of us is a robot.
+
+[AUSTIN, ALI, KEITH laugh] 
+
+AUSTIN: And a competitor's robot, also.
+
+ALI: Yeah, can you make this robot for me?
+
+ART: Best case scenario, we get someone fired, right?
+
+KEITH: I mean, but I'm sure that— I'm sure that AuDy has experience going like, "I know that I'm a robot. No, I'm not that kind of robot."
+
+AUSTIN: Oh boy. Let's— Let's keep moving.
+
+JACK: Not at a robotics company! Oh god. Cass.
+
+AUSTIN: It sounds like AuDy and Cass want to just sneak in the side. There's another thing here too that gives them a benefit if they're sneaking through the side but we'll get to that in a second.
+
+KEITH: Okay.
+
+AUSTIN: That makes that— That makes sneaking through the side beneficial, that is.
+
+KEITH: Alright.
+
+AUSTIN: Um, so let's talk about that. Like I think that there— You kinda can case the place and see that there is um, there's definitely a wall around the kind of— the building. There's like a little… There is like a little outside area that's protected by that wall. And there's also probably a couple of side entrances. There's a docking port there for large deliveries to come in. There's an emergency exit. That's probably the thing that's the easiest to get to, but there's also a camera pointed at the emergency exit. Then again, there's probably just cameras everywhere.
+
+JACK: Mmm. 
+
+ART: Okay.
+
+AUSTIN: But there's one directly— Art you're really quiet again.
+
+ART: (quiet) Oh, is that better?
+
+AUSTIN: No.
+
+ART: (getting louder) Uh-oh. This is literally...
+
+AUSTIN: There you go.
+
+KEITH: Now you sound—
+
+ALI: That sounds good.
+
+KEITH: Art sounds better to me, yeah.
+
+AUSTIN: That's better, that's good.
+
+ART: Oh my— Oh, my Audacity's fucked again. What happened?
+
+AUSTIN: Oh boy.
+
+ALI: Oh...
+
+AUSTIN: My OBS is still going so we're fine. Just, make sure you speak up so it gets to my OBS.
+
+ART: Okay. I—
+
+KEITH: This is just gonna be an OBS episode.
+
+ART: This is just gonna be shitty.
+
+AUSTIN: Okay.
+
+JACK: It's World Population Day today thing.
+
+ALI: Oh. 
+
+AUSTIN: Oh weird. Okay.
+
+JACK: Don't know what that is. Um...
+
+AUSTIN: Me neither.
+
+JACK: Um, I'm concerned about the camera.
+
+ART: There are—
+
+JACK: Uh! Wait a second, hang on. Um, are there— Are there Automated Dynamics chassis working around here?
+
+AUSTIN: Like, in public? Yeah, totally.
+
+JACK: Uh, like around this place?
+
+AUSTIN: No, Snowtrak uses their own stuff internally.
+
+JACK: Aw rats, okay. Cass, do you have anything that might be useful against a camera?
+
+ART: Not at all. I mean, I could theoretically Hack it but I'm not good at it. I could like pound my fingers on keys and whatever happens when you hack something with a neurolink.
+
+AUSTIN: Uh… I mean, yeah, you could— Do you have? You could try to Hack it. I know it's not your—
+
+ART: I have a Hack of 1.
+
+AUSTIN: Okay.
+
+JACK: The alternative is that I just try to pull the camera off the wall.
+
+AUSTIN: That's also a thing you could do.
+
+JACK: I mean I— Like to an extent, even if that triggers a security lockdown, we'll all be in the building.
+
+AUSTIN: That's a choice to make, certainly.
+
+[ALI laughs]
+
+JACK: Yup, I'm blunt.
+
+ART: We have to put some distance between us and that door pretty quickly.
+
+JACK: Uh, that's… Would I have to roll for that, Austin?
+
+AUSTIN: Uh, you wouldn't have to— it depends. You could roll to do that sneakily. To like, you could Prowl so it doesn't spot you doing it.
+
+JACK: We're assuming that— Is this camera automated or are we assuming that there are people watching this thing?
+
+AUSTIN: That's not a— I— Do you know? How would you know that?
+
+JACK: Uh, like, I don't know, I think nowadays, based on a size of a building, we could probably make some estimate as to their security.
+
+AUSTIN: You imagine—
+
+ART: Why am I hearingWhy I'm hearing myself in the call right now?
+
+JACK: Oh my god. 
+
+AUSTIN: What?
+
+ART: No one else is hearing me?
+
+ALI: No.
+
+AUSTIN: I mean, I can hear you.
+
+JACK: Well, we can hear you.
+
+KEITH: I mean, I can— Yeah, I hear you as if it was normal.
+
+ART: No one's hearing everything we did awhile ago?
+
+AUSTIN: No.
+
+ALI: No.
+
+KEITH: No.
+
+JACK: No.
+
+AUSTIN: Did you hit play instead of record?
+
+ART: No, I'm definitely recording right now but I'm also hearing play.
+
+AUSTIN: You— You're recording a new file. You need to mute that first file.
+
+ART: There's only one window.
+
+AUSTIN: No, no, no, are there two—
+
+KEITH: No, in Audacity, you have two different stacks of stuff?
+
+ART: Yeah, but they're both recording.
+
+AUSTIN: No, that top— that top stack is playing, not recording. When you hit—
+ 
+KEITH: Yeah, you want— You want to delete the bottom one. You know what? We can stop using Audacity and just— we'll just use the OBS for the whole way through.
+
+AUSTIN: At this point, yeah.
+
+ART: Oh, alright yeah. Oh there is a… 
+
+AUSTIN: I just really need you to speak up so that it comes through on my side, so that when Keith gets it, you're clear.
+
+ART: Sure.
+
+AUSTIN: 'Cause Skype is bad.
+
+KEITH: Yeah.
+
+ART: Alright.
+
+KEITH: I would say, just move closer to your microphone.
+
+AUSTIN: Yeah.
+
+ART: Alright, this is— This is— I'm literally at— I'm lips to windscreen at this point.
+
+AUSTIN: That sounds— 
+
+KEITH: Yeah, that's basically how we all go.
+
+AUSTIN: Yeah, that is me too, yeah. Like I'm right up on this mic.
+
+KEITH: Yeah, my nose and chin are on my windscreen.
+
+AUSTIN: You—
+
+KEITH: And that's how you know that you're close. How you—
+
+AUSTIN: Hear my beard. My beard is touching it.
+
+KEITH: Yeah.
+
+ALI: Oh.
+
+AUSTIN: Um...
+
+ART: Oh, I don't like that kinda… Who knows what's on this?
+
+AUSTIN: You.
+
+KEITH: Your breath.
+
+AUSTIN: You.
+
+ALI: It's yours?
+
+KEITH: Just you.
+
+ALI: You use it.
+
+AUSTIN: It's just you.
+
+KEITH: Yeah.
+
+ALI: What are you doing around it?
+
+KEITH: After eight years, here's the thing, here's what you get a new windscreen every seven years and that's because after the eighth year, a second you starts growing on the windscreen.
+
+AUSTIN: Huh, okay.
+
+[JACK laughs]
+
+ART: Ugh.
+
+KEITH: Yeah, so you gotta replace it once every seven.
+
+AUSTIN: Interesting.
+
+KEITH: Yeah.
+
+AUSTIN: Okay.
+
+ART: What were our non-camera options, here?
+
+AUSTIN: There were just other— There was like a docking bay—
+
+JACK: There's a loading bay.
+
+AUSTIN: Loading bay in the back. There's this emergency exit that has a camera pointed right at it. Um, there is… The front door, um, and then just stuff that you can't see in the back because of the wall. The wall that there's protecting it.
+
+ART: Yeah, I think— I think I like the rip down the camera plan. It's not a good one but I like it for some reason.
+
+JACK: Yeah.
+
+KEITH: Um… 
+
+JACK: Okay, so um, um… So if I'm not doing this stealthily, I don't need to do this, Austin?
+
+AUSTIN: Nah, yeah, you just rip the camera off.
+
+JACK: So I guess I just walk up to the camera and just pull it out of the wall.
+
+AUSTIN: That— Okay, let's...
+
+KEITH: Do you have telescopic limbs? 
+
+ART: AuDy's got kind of a stealth component here 'cause he's trying to look like he's a somehow malfunctioning regular unit?
+
+JACK: I mean, I think that would trigger a similar response, to be honest, but...
+
+ART: Sure.
+
+AUSTIN: Um, yeah.
+
+ART: But they wouldn't be looking for you.
+
+AUSTIN: Do you like just jump up and grab it. It's like above the door, you know what I mean? It's like a pro— It's not looking at the door, it's looking down from...
+
+JACK: Oh yeah, I guess I just brace my legs against the wall and then just try to pull it out.
+
+AUSTIN: [laughs] And then from the camera angle, it's just a close up of your face— your robot face, your robot head.
+
+JACK: Oh, no, I'm covering my face with one hand.
+
+AUSTIN: Oh, okay. That's good.
+
+ALI: Uh...
+
+ART: Whereas I was kinda thinking you'd be like— you'd just like walk up like really rigid and then just like do it. (laughing) Just like.
+
+AUSTIN: Break.
+
+ART: Uh...
+
+JACK: Nah, I think I'm just going for it, really, to be honest.
+
+AUSTIN: Uh-huh. That's fine.
+
+ART: Sure.
+
+AUSTIN: Rip that out and then now you're at the emergency exit door. What do you do?
+
+JACK: Uh...
+
+AUSTIN: Same thing?
+
+JACK: I think that since we— Since we've come this far, I probably punch the lock through the door.
+
+AUSTIN: Sure, okay. That's good.
+
+JACK: Um, and just open the door.
+
+ART: Great.
+
+AUSTIN: Door swings open. Meanwhile, in the front room, Jorne comes out. Jorne looks a lot like— Did I name the receptionist?
+
+{TIMESTAMP: 1:21:43}
+
+JACK: Wait, hang on a second, is their name Jorne?
+
+AUSTIN: Yeah, Jorne.
+
+KEITH: J-O-R-N-E?
+
+AUSTIN: Yeah.
+
+JACK: That's such a good name.
+
+AUSTIN: Jorne comes out and Jorne looks like the receptionist like, fifteen years later.
+
+KEITH: Okay.
+
+AUSTIN: Uh, a little heavier, and like...
+
+KEITH (as Mako): The receptionist said he had ice water for us. Do you have the…
+
+AUSTIN (as Jorne): Are you uh —
+
+AUSTIN: What did you say your name was? Oh.
+
+AUSTIN (as Jorne): Drillbot Taylor.
+
+KEITH: (amused) Drillbot Taylor.
+
+AUSTIN (as Jorne): Water— We have water this way. Come with me.
+
+AUSTIN: And he starts walking down a hallway.
+
+KEITH (as Mako): He was very nice.
+
+AUSTIN (as Jorne): Just— This was not in my schedule but— but because Billy told me that it was very important, you're important clients, I will of course show you whatever you need.
+
+AUSTIN: Uh, you're walking down the hallway with him. Do you— What do you have on you?
+
+KEITH: I have two guns. [ALI laughs] No, I have my one gun that's two guns.
+
+AUSTIN: Okay. Beep beep beep beep beep.
+
+KEITH (as Mako): (yelling) Oh, that's probably this!
+
+AUSTIN: Do you take it out? Did you just draw your gun 'cause you sound like the Joker, right now, Keith.
+
+[ALI, ART laugh] 
+
+JACK: Say that's—
+
+KEITH: No, I'm bumbling.
+
+JACK: Like the Joker.
+
+AUSTIN: So do you—
+
+KEITH: Uh… The Joker's not bumbling.
+
+AUSTIN (as Jorne): Uh, sir— Sir?
+
+ALI: I—
+
+KEITH: Yeah.
+
+AUSTIN: What are you doing, Aria?
+
+ALI: So it beeps and then I purposely step past the security thing.
+
+AUSTIN: Ah, okay.
+
+KEITH: Yeah.
+
+ALI: So I can keep my gun and he's just like, "Oh."
+
+KEITH (as Mako): (southern accent) Should I keep this with Billy.
+
+AUSTIN (as Jorne): Yes. Billy.
+
+KEITH (as Mako): (southern accent) Billy!
+
+ALI (as Aria): He was very accommodating.
+
+KEITH (as Mako): He was very, very sweet.
+
+AUSTIN (as Jorne): Yeah, he's a good kid.
+
+AUSTIN: Billy heads over and takes your weird gun.
+
+KEITH: It's not that weird, it looks normal.
+
+AUSTIN: I thought it had two barrels that it switches between.
+
+KEITH: It does have two barrels [AUSTIN: Okay!] but it doesn't look wrong, it looks fine.
+
+AUSTIN: Okay.
+
+JACK: It looks like Fiona’s gun in Tales from the Borderlands.
+
+KEITH: One of the barrels is very small.
+
+AUSTIN: Okay.
+
+ALI (as Aria): Our line of business, you know, you have to protect yourselves these days.
+
+KEITH (as Mako): Mm. Yeah.
+
+AUSTIN (as Jorne): Yeah, I've heard that from some of our other clients. Okay, uh. So what is it you're in the market for?
+
+KEITH (as Mako): We're looking for mainly wall smashing robots and also some —
+
+AUSTIN (as Jorne): Okay, okay.
+
+KEITH (as Mako): — heavy carrying robots.
+
+AUSTIN (as Jorne): Some wall smashes, some carriers. Okay, okay. We'll see what we can do.
+
+KEITH (as Mako): Um, if you've got any that would be good with installing keno machines, we'll take some of those too.
+
+AUSTIN (as Jorne): Like in the— So wait, are the new trains going to have keno machines?
+
+KEITH (as Mako): All the new trains are gonna have keno machines.
+
+ALI (as Aria): Don't tell anyone.
+
+KEITH (as Mako): Don't tell anyone.
+
+AUSTIN (as Jorne): Uh-huh. I love a good keno game. Well we got the uh... The Lunas which are uh, they're man-sized units. They're person—excuse me—they're person sized units.
+
+ALI (as Aria): Thank you.
+
+KEITH (as Mako): Mhm.
+
+AUSTIN (as Jorne): Uh, and you just go in there and uh, you know, got thermal imaging, got a drill, the pulse laser for uh, you know, if the—
+
+KEITH (as Mako): Upholster?
+
+AUSTIN (as Jorne): Nah, I mean, for a little extra, we could get it upholstered.
+
+KEITH (as Mako): I don't think they'll spring for—
+
+AUSTIN (as Jorne): If you want the—
+
+KEITH(as Mako): It's a government job.
+
+AUSTIN (as Jorne): I— Okay. Well, if that's the case, you don't want the Luna at all.
+
+KEITH (as Mako): (southern accent) I thought you said upholstered. What did you say?
+
+AUSTIN (as Jorne): A pulse laser.
+
+KEITH (as Mako): (southern accent) A pulse laser. That's good.
+
+AUSTIN (as Jorne): You know. Like you said, you've gotta defend yourselves these days.
+
+KEITH (as Mako): Mhm.
+
+AUSTIN (as Jorne): Come this way.
+
+AUSTIN: He starts leading you through the facility. You're walking past the kind of like— You actually walk past one of those Lunas. And that's like— It's a weird machine because it's like a rig in that it has mechanical arms and stuff but like, the person's is in it and you can still see the person. Like the person isn't in a cockpit, they're like— It's like, almost like an exo-suit but a little bit bigger, you know?
+
+KEITH: Okay.
+
+AUSTIN: And he shows you like some other models and stuff.
+
+KEITH: Is like the suit from Aliens?
+
+AUSTIN: No, it's not. I have in mind something here from like… Did you ever play the Lost Planet games?
+
+KEITH: Yes, yeah. We...
+
+AUSTIN: One of those —
+
+KEITH: Okay.
+
+AUSTIN: Where it's like, it open— There's lots of curving bits. There's kind of like— I imagine like at the joints they have some like extra armor that goes like up past the bit that it armors so that like if you were to like duck behind that bit, it was like an actual shield for the person. 
+
+KEITH: Yeah. 
+
+AUSTIN: Um, but it's not— These are not— They have weapons but these are not primary military machines. Um...
+
+KEITH: Right.
+
+AUSTIN: Uh, let's see if there's anything else that he'd show you. Um... He shows you the Saturn, also, which is huge. There's like— I guess that's where we go to. He takes you into the big open air facility. Like the big open air like uh...
+
+KEITH: Right.
+
+AUSTIN: Uh, it's like a garage basically.
+
+KEITH: R&D Place?
+
+AUSTIN: Yeah, it's a garage where they're working on stuff and he shows you the Snowtrak Saturn, which is uh… 
+
+KEITH (as Mako): (appreciative) Ahh.
+
+AUSTIN: Which is this big quad leg rig that has like a big mining drill at the bottom and he says,
+
+AUSTIN (as Jorne): You know, the Saturn is perfect for that first run. You know, you want to dig deep quick, —
+
+KEITH (as Mako): Yeah.
+
+AUSTIN (as Jorne): — you put the Saturn out there.
+
+KEITH (as Mako): One and done.
+
+AUSTIN (as Jorne): It scurries around, one and done.
+
+KEITH (as Mako): One and done.
+
+AUSTIN (as Jorne): One and done.
+
+KEITH: So who drives this?
+
+AUSTIN: That's it.
+
+AUSTIN: Um, I'm going to— He's going to roll on you.
+
+KEITH: Okay.
+
+AUSTIN: He's going to give you the um, what's a good word for being interested in buying something.
+
+[ALI laughs]
+
+JACK: Prospective client-ed.
+
+AUSTIN: It's close. It's not quite an adjective. Um...
+
+JACK: I know adjectives.
+
+ART: Um...
+
+KEITH: Sincerity?
+
+AUSTIN: I— I think like—
+
+ART: Sold?
+
+AUSTIN: Sold isn't bad. Sold isn't bad.
+
+JACK: Yeah, sold could be...
+
+AUSTIN: But sold— Sold is probably— Sold is too— He doesn't— I don't think it's that sticky. I think this is like— this is a little thirsty.
+
+ALI: Intrigued?
+
+AUSTIN: Intrigued?
+
+ART: Intrigued.
+
+AUSTIN: What's a good synonym for intrigued?
+
+ALI: Um...
+
+JACK: Ali, you have a thesaurus open.
+
+AUSTIN: We need to get thesauruses.
+
+ART: Captivated?
+
+AUSTIN: Captivated isn't bad. Um...
+
+ALI: I'm trying to—
+
+KEITH: Prospective?
+
+AUSTIN: That's— Mm, mm.
+
+JACK: Tantalized.
+
+AUSTIN: I think— I think captivated. I think you're like— Or no, I think just charmed. You're charmed by this guy, it's really what's happening.
+
+[ALI giggles] 
+
+KEITH: Well, I might be charmed by this guy.
+
+AUSTIN: Right, right, if he gets this roll.
+
+KEITH: Okay.
+
+AUSTIN: Uh...
+
+KEITH: Can I also try to charm him, though?
+
+AUSTIN: Not yet. I have to finish this roll. Um, so he has a 3 in Coax.
+
+KEITH: Okay.
+
+AUSTIN: And then he has charming, so that's a +1. Uh, he has no Hurt die, so what's your Coax?
+
+KEITH: My Coax is 3.
+
+AUSTIN: Okay, you are charmed. I'm gonna make it sticky.
+
+KEITH: Okay.
+
+AUSTIN: So did I give you back one of these dice. I'm gonna mark down that you are charmed.
+
+KEITH: Got it.
+
+AUSTIN: Charmed by Jorne.
+
+KEITH: I'm gonna charm— (amused) I'm gonna try to charm Jorne.
+
+AUSTIN: So also Coax.
+
+KEITH: Yeah.
+
+KEITH (as Mako): Jorne, does somebody drive one of these Saturns?
+
+AUSTIN: He says— You're gonna make out soon. [ALI, JACK laugh] Um... So again, Coax. What are you— What are you spending? Are you spending that Push die?
+
+KEITH: I'm gonna— I'm gonna spend it for charming, so that I have 4d6.
+
+AUSTIN: And then give me a Hurt die because you have been charmed.
+
+KEITH: Oh, um...
+
+AUSTIN: Which is 1d6 after that. Okay, no yeah, you get him.
+
+KEITH: Okay.
+
+AUSTIN: Jorne is— You guys just charmed—
+
+KEITH: We just charmed each other.
+
+AUSTIN: Aria, these two guys are… 
+
+KEITH: It's just fleeting, though. This charm is fleeting.
+
+AUSTIN: Okay, you're keeping your— Okay. Um, so let's not do charmed then, let's do something— Either make it— Either you shouldn't be charmed or he shouldn't be charmed, one of them should be a little bit higher. I think maybe he's— Maybe he's impressed.
+
+KEITH: Okay.
+
+AUSTIN: "No, I was impressed by you." Like, "Yeah, you're actually invested in this," or something else. What do you think? It's up to you. It's your adjective.
+
+KEITH: Um. I'm gonna go— I'm gonna say that he is um... I like im— I like impressed.
+
+AUSTIN: Okay. Jorne is impressed.
+
+KEITH: Yeah.
+
+AUSTIN: Write this down. I got a pen and a pad so I wouldn't have to type all this shit up.
+
+KEITH: That's a good idea.
+
+AUSTIN: So that you wouldn't hear it on the microphone.
+
+KEITH: Mmm.
+
+AUSTIN: Uh, yeah Aria, these fucking guys. I— this is… 
+
+[ALI laughs] 
+
+{TIMESTAMP: 1:30:22}
+
+AUSTIN: Alright, AuDy and Cass. There are no alarms as soon as you open it, so there isn't any immediate response. You're in— You're in kind of a stairwell that runs up and down. Um, and it says— Uh it says, pointing upwards, it actually— In both directions, it says, "Doors will be locked— Doors are locked behind you. Head to exit immediately."
+
+ART: Shit. Well we can force open— We can force open one door, we can force open another.
+
+AUSTIN: Yeah.
+
+JACK: [laughs] As we go in—
+
+ART: I'll be going up.
+
+JACK: Well— [takes a deep breath] Alright.
+
+AUSTIN: Okay. Um, you go up for, and there's only— You go up what feels like three floors. There haven't been any doors after that first like— the first few flights. And there's a door there, and it says, "R&D Garage."
+
+JACK: Hmm.
+
+ART: That's a— That's probably where they'd take a kidnapped worker, right?
+
+JACK: Maybe if they were a car? Why would you take someone to a garage?
+
+KEITH: Sounds like you need R&D Lab.
+
+JACK: (cross) Yeah. But if they're making mechs… 
+
+ART: (cross) They could be if it's vehicles, right? They could be doing work in the R&D Garage.
+
+JACK: Yeah, or are we looking for like a brig or something?
+
+ART: I don't think they're gonna have a brig.
+
+KEITH: Well this is not a ship so it can't be a brig, it might be a cell though. Like dungeon.
+
+ART: Alright, Captain Carberry. 
+
+ALI: Maybe the garage has like—
+
+JACK: Sorry, Ali?
+
+ALI: Maybe the garage has like a— like a directional thing in it at least? Like display for...
+
+ART: Well maybe we should get out of this stairwell just 'cause that's where they know someone (laughing) just broke into their place and a garage seems big enough to get lost.
+
+JACK: Good plan. Um, we don't know whether or not this door's locked or unlocked, do we?
+
+AUSTIN: Uh, you know what, here's the thing. It doesn't have a handle on this side.
+
+JACK: Oh. Hm. Alright, I'm just gonna punch through where I think the handle's gonna be.
+
+ART: Okay, you do that. You punch through it, there's a handle there. The handle goes flying from where you punch it, uh… 
+
+KEITH: Does AuDy have a thing that lets them punch through stuff?
+
+AUSTIN: He's a fucking—
+
+JACK: Chassis. Chassis.
+
+AUSTIN: He's a robot.
+
+KEITH: Yeah, well I mean, robot that drives cars.
+
+AUSTIN: No, he's a robot.
+
+JACK: Uh...
+
+KEITH: Alright.
+
+JACK: Well, no, look. If you want to make a robot that drives cars, you want to make it so that they can survive car accidents, I think.
+
+AUSTIN: Mhm.
+
+KEITH: Oh.
+
+AUSTIN: He also has tough. He has toughtouch and he has bodyguard.
+
+ALI: And he's—
+
+AUSTIN: Those are the things that would say make this happen.
+
+KEITH: Alright.
+
+AUSTIN: Um, I would let anyone with 'the bodyguard' background force a door open. Again, this is one of those situations where your backgrounds work to help me know what you can do.
+
+KEITH: Okay.
+
+AUSTIN: Because I'll never make anyone roll against a door that is locked that is not being, like I might make you roll against a door that is hacked to be shut and there's a security operative there to protect it from being opened but if it is— If you come up to a door that is locked through a cyber security mechanism, there's not a person there to assert an adjective on, and you have 'the hacker' background —
+
+KEITH: Right.
+
+AUSTIN: Then yeah, you can just open it.
+
+JACK: One of the things that I wrote in the character bio, which is security bots, which AuDy technically isn't, AuDy's like a parking robot.
+
+AUSTIN: Mhm.
+
+JACK: Um, security bots have a tendency of walking through closed doors rather than trying to force them open. [AUSTIN laughs] Um, that's just a thing that they do. And I think that AuDy in an attempt to maybe emulate security bots, they have a security vest.
+
+AUSTIN: Right.
+
+JACK: They can't quite manage to just straight walking through doors but I think they...
+
+AUSTIN: They can punch through, yeah.
+
+JACK: Punch locks open and stuff.
+
+AUSTIN: Yeah, totally. So uh, Mako and Aria, you hear like a "Clank, clank-clank," in the distance. As you open the door to the R&D Garage, you realize you're up in some catwalks, Cass and AuDy above the R&D Garage where— where Aria and Mako are. In fact, you probably see them in their clothes like, talking up a storm with Jorne, off in the— on the ground level distance.
+
+KEITH: They hear me saying,
+
+KEITH (as Mako): (strong southern accent) I don't quite trust those automata.
+
+[ALI giggles]
+
+AUSTIN: Oh my god. This is the worst. This is the worst. Um, so yeah, that—
+
+ART: I think the worst part is gonna be when he buys all these robots. [laughter] And this guy gets him to just buy just so much money worth of— We don't have that money.
+
+KEITH: I don't have any money. I can't buy robots.
+
+AUSTIN: You could make a contract. You could sign a contract.
+
+KEITH: I guess that's true but then we're be—
+
+JACK: Oh my god, what if like most of this campaign where he owns like...
+
+KEITH: [laughs] I own just like twenty robots.
+
+[AUSTIN, ALI laugh]
+
+JACK: Entirely useless robots.
+
+KEITH: They're not useless, [ALI: No, no.] they've got big drills and they can, you know,
+
+ALI: Yeah.
+
+KEITH: Run around and punch stuff.
+
+AUSTIN: [sighs] Jorne.
+
+ALI: And we're gonna have those games in them.
+
+AUSTIN: Right, wait, wheugh?
+
+ALI: No, they're just gonna… 
+
+AUSTIN: No, they're not actual—
+
+ALI: Into the Kingdom Come. Perfect.
+
+AUSTIN: Um, so Cass and AuDy, you're looking down on this— on this floor. There's kind of like a rung of catwalks up here. You can see down uh, you know, let's say a couple hundred feet away from you on a different— Like on a connected catwalk, towards the center of the room, there are people working on like one of the big Saturn, like quad-leg, rigs. So there're people up here. No one seems to have noticed you yet.
+
+JACK: I think AuDy just turns to Cass and kind of shrugs in so far as a robot can shrug.
+
+[AUSTIN laughs]
+
+ART: Yeah, I'm not sure from here either. Uh, I guess we should like sort of use our perch to like look around a little bit.
+
+AUSTIN: Okay, yeah, you can see… 
+
+ART: See if we can—
+
+AUSTIN: You can see this place is— is like, you can see they're like testing new equipment off in the distance. Like firing some— some drills up and like testing them against different surfaces. There's a robot that is doing the kind of like, you've seen the gifs of robots falling over and it like keeps trying to walk up stairs and it keeps falling off to the side over and over and it's like, scientists shaking their heads and like, "[sharp inhale] Welp, can't get this right." Um, there are...
+
+JACK: AuDy's just sort of like, looking at it like wincing.
+
+ALI: Aww.
+
+AUSTIN: Yes, yes. Ugh, setting us all back. Um... [JACK laughs] Yeah, there isn't— there's not too much here. I think again, you see Mako and Aria being led along from like one machine to another.
+
+ART: I guess, do we see another— Do we see another stairwell? Like where does this catwalk terminate?
+
+AUSTIN: Uh, the ladder terminates with a ladder at the far end, like across from you on that other wall, and probably yeah. There's a stairwell down to this floor, I'm imagining off in the corner somewhere. And then if you go— If you go around it, like to— I should be drawing a map, but okay, let's imagine that this rectangle, the white one where Art's name is. Right, you see this?
+
+JACK: Mhm.
+
+AUSTIN: This is the catwalk, let's say. It's a— It is a—
+
+JACK: Okay.
+
+AUSTIN: A rectangle that is longer than it is tall, for people listening. You're on the southern end of this rectangle, there where I marked it.
+
+ART: Yeah.
+
+AUSTIN: There is— There are the catwalks run all along the top here. There's a ladder down here on the north end. On the north-eastern and south-eastern corners, there are little, like metal staircases just down to the bottom of this floor. And on the western wall, there is a double door that opens up into the rest of the facility.
+
+ART: We should go through there.
+
+JACK: Okay.
+
+{TIMESTAMP: 1:38:00}
+
+AUSTIN: Uh, okay, you start heading that way and literally walk past, like right over, Mako and Aria. Sorry, I'm still trying to internalize all these character names. I'll get there. Mako and Aria, you've been shown like a bunch of different mech types. You've seen Saturns, you've seen Lunas, you've seen the Mars Robot, you've seen all sorts of stuff, at this point. Um, at a certain point Jorne holds up his hand, he goes like, one second, and he puts a hand to his ear. And he goes,
+
+AUSTIN (as Jorne): Uh-huh. Yeah. Yeah, we should be wrapping up pretty soon. I think they're gonna buy.
+
+AUSTIN: And he winks at you. He does a little like...
+
+KEITH: I wink back for sure.
+
+AUSTIN (as Jorne): Uh, sounds— Okay, I'll be on the lookout. [laughs] Security.
+
+AUSTIN: He shrugs.
+
+AUSTIN (as Jorne): Uh, so, what can I— What are we gonna do here today? You think uh…
+
+KEITH (as Mako): (southern accent) Now, Jay, can I call you Jay?
+
+AUSTIN (as Jorne): I prefer Jorne.
+
+KEITH (as Mako): (southern accent) Now Jorne.
+
+JACK: (laughing) Oh my god.
+
+KEITH (as Mako): (southern accent) Where do you— I prefer to do business with a forward looking company.
+
+AUSTIN: I like that you turned into a southerner, this is amazing.
+
+KEITH: I've been doing a— I've been doing a a seventy percent southerner, this whole time.
+
+AUSTIN: Okay, you knocked it up to eighty percent.
+
+ART: This has been a weird Colonel Sanders-Foghorn Leghorn mashup this whole time, guys.
+
+[AUSTIN, ALI, JACK laugh] 
+
+KEITH: I mean, I'm glad Art picked up on it.
+
+AUSTIN: Okay.
+
+KEITH: Uh, ope, I unplugged my headphones, hold on.
+
+AUSTIN: Okay.
+
+KEITH: Mmm. Alright, I'm good.
+
+KEITH (as Mako): (southern accent) Where do you— Where do you see Startrek going?
+
+AUSTIN: Snowtrak.
+
+KEITH (as Mako): (southern accent) Snowtrak going?
+
+AUSTIN (as Jorne): You know, we uh— we uh...
+
+KEITH (as Mako): (southern accent)What's on the horizon?
+
+AUSTIN: This is— I can't— I can't— He says,
+
+AUSTIN (as Jorne): Big things. We got big things in store. I can't share, you know, listen. You make a big purchase, we can talk about some future plans. But I can't let you in on that, you know, businessman stuff. Business-person stuff, I'm sorry.
+
+KEITH (as Mako): (southern accent) We all get it here. [ALI giggles] We're— I have one thing left to say, Jorne. Where do I sign?
+
+AUSTIN (as Jorne): Right here sir.
+
+AUSTIN: And he brings out a— He has like a pad that is a thing that you're used to which is just like a thumb imprint thing to sign away. And he says,
+
+AUSTIN (as Jorne): We got you set up with uh, one of the Saturn Models, four of the Lunas. A couple of the Mars Drones, obviously we want to try those out. We'll see how they work, one thing after another. And uh, you know what? Just for you, I'm gonna— I'm gonna toss on uh, one of the— one of the Rings of Saturn, just a little— It's a luxury vehicle. It's a thing for you on your off time. Just climb on it, with your feet, and you can just fly around.
+
+KEITH (as Mako): (southern accent) Huh, sort of like a fly board.
+
+AUSTIN (as Jorne): It's— Now listen, other companies have fly boards, we have the Ring of Saturn.
+
+KEITH (as Mako): (southern accent) Okay.
+
+AUSTIN (as Jorne): It's the Ring.
+
+KEITH (as Mako): (southern accent) The ring...
+
+AUSTIN: And he points like up and behind him with his hand. He like opens up his—
+
+AUSTIN (as Jorne): Of Saturn.
+
+KEITH (as Mako): (southern accent) Of Saturn...
+
+AUSTIN: Just put your thumb here. The whole thing is yours.
+
+KEITH: I put uh, both thumbs.
+
+AUSTIN: Okay. What's your credit like?
+
+KEITH: (southern accent) It's good as good can be.
+
+AUSTIN: No, no, that's me the player, asking you the player.
+
+KEITH: Oh, it's as good as good can be.
+
+AUSTIN: I think so, right? Like I don't think you have bad— Like you came up with that school, like you probably have some—
+
+KEITH: Yup, I don't—
+
+AUSTIN: You don't have any cash.
+
+ALI: He's was a criminal for a while now. [laughs] 
+
+ART: I don't think Black— Black Ops uh, experimental people have a solid credit history.
+
+[AUSTIN laughs]
+
+ALI: Yeah, I don't think he's on the grid very much. I don't know.
+
+AUSTIN: I think he's probably— Yeah, do you have— Are you in the grid? Is there a Mako Trig?
+
+KEITH: Um... There's a— I like, I'm not going to say that I'm off—
+
+AUSTIN: I have an answer for this.
+
+KEITH: Uh… 
+
+AUSTIN: It comes up and it like beeps for a second and it says, "Co-Signer Required." And he says,
+
+AUSTIN (as Jorne): Ah, now I see why you brought your uh, your wife here. 
+
+AUSTIN: And he hands over the pad to Aria, for her to put her thumb.
+
+ALI: I'm being a— I can't do this. I think she sighs and she grumbles and she says,
+
+ALI (as Aria): We're not married.
+
+ALI: And she puts her thumb down.
+
+AUSTIN: [laughs] Um, you signed the contract for a lot of money. I'll have to figure out how much money this is now. That's good. That's good.
+
+[laughter]
+
+ART: That's gotta be like a hundred credits.
+
+AUSTIN: It has to be so much money!
+
+ART: Like literally more money than we'll ever see the rest of your life.
+
+JACK: Like, we're talking more than the ship, right? Like...
+
+AUSTIN: Yeah, by a lot.
+
+JACK: We're talking more than the Kingdom Come.
+
+KEITH: (cross) We can flip the robots. We can flip the robots, it's fine.
+
+AUSTIN: (cross) One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, four— The Saturn alone is 25 Credits.
+
+KEITH: Okay. We can flip the robots.
+
+[JACK laughs] 
+
+ART: You're gonna resell the—
+
+KEITH: We can also just not honor the deal. It's fine, we're criminals.
+
+JACK: The— The Kingdom Come cost me 22 Credits.
+
+AUSTIN: 18, 18 times 3 is... 54 plus 25— Okay. Yeah, it's like a lot.
+
+KEITH: It's a lot. We can flip the robots or we can just not honor the deal and I'll take the fly board.
+
+KEITH (as Mako): (southern accent) Can I have the fly board now?
+
+AUSTIN (as Jorne): Yeah, of course— Of course.
+
+KEITH (as Mako): (southern accent) Oh, sorry, the Ring of Saturn.
+
+AUSTIN (as Jorne): I'll have uh— I'll have Billy. Billy—
+
+KEITH (as Mako): (southern accent) Billy.
+
+AUSTIN (as Jorne): Billy, Billy, can you—
+
+KEITH (as Mako): (southern accent) Oh, and he's got the water, what a dear.
+
+AUSTIN: And he comes out with a— It's packed like an Apple product. You know, and it has a little carrying case.
+
+KEITH: Mhm.
+
+AUSTIN: It's all very clean and pristine.
+
+KEITH: The water or the board?
+
+AUSTIN: Both.
+
+KEITH: Okay. [laughs]
+
+AUSTIN: Uh... And— And it's— I think they're probably both in similar sized packages which is strange. Just like, little— Big juice boxes and one of them as a fly board in it and the other one has water in it.
+
+KEITH: Yeah.
+
+AUSTIN: It unfolds, it's beautiful.
+
+KEITH (as Mako): (southern accent) Jorne, now that we're partners, may I please have my sidearm back.
+
+AUSTIN (as Jorne): Uh, Billy has it out front for you. You gotta head out and we'll have the delivery for all the—
+
+ALI (as Aria): Wait. Um…
+
+ALI: And then she glances to Mako um...
+
+ALI (as Aria): Should we discuss the experimental stuff?
+
+AUSTIN: Hoho.
+
+ART: Oh.
+
+KEITH (as Mako): (southern accent) I would love to talk about the experimental stuff.
+
+ALI: I— So Aria this whole time while they were just like, falling in love with each other —
+
+AUSTIN: Uh-huh.
+
+ALI: — and I have been—
+
+KEITH (as Mako): (southern accent) Oh, I'm just a bit of a gearhead.
+
+ALI: I imagine she's just been like— Her bracelet has been projecting like different like, just like fake ones that she doodle really quickly while they were talking but like —
+
+AUSTIN: Uh-huh.
+
+ALI: — prototype rigs and like, just like layouts of like land and like different equipment.
+
+AUSTIN: Uh-huh.
+
+ALI: So it looks like she's doing a business thing. And is like,
+
+ALI (as Aria): I'm glad that we have this partnership. There's not really a lot that we can talk about but we're interested in what more you might have to offer in the future, you know?
+
+KEITH (as Mako): I can go very big amount.
+
+AUSTIN: He nods.
+
+[ART laughs]
+
+AUSTIN (as Jorne): I-I— I think I understand.
+
+KEITH (as Mako): (southern accent) I think you do.
+
+AUSTIN (as Jorne): I think I get where you're coming— I—
+
+[ALI laughs]
+
+AUSTIN: [sighs] Okay, we're gonna go back to Cass and AuDy who are now in… 
+
+ALI: Wait, should that—
+
+AUSTIN: Uh-huh?
+
+ALI: Should that have been— Should we apply an adjective? I feel like that would—
+
+AUSTIN: Yes. Let's apply— Yeah. Give me a Coax, Ali.
+
+ALI: Okay, um… Keith, what do you think we should… 
+
+AUSTIN: Yeah, I— Mmm.
+
+KEITH: Um… 
+
+ALI: Tru-Trusting?
+
+AUSTIN: Trusting, might work, yeah.
+
+ALI: Yeah.
+
+KEITH: I like— I like trusting. Yeah, I like trusting.
+
+AUSTIN: Yes.
+
+ALI: So that is going to be a Coax Roll plus alluring.
+
+AUSTIN: Yeah, I think Alluring works.
+
+KEITH: You might want to do— You might want to do like excited.
+
+AUSTIN: Mm.
+
+KEITH: If they're excited to show us a bunch of stuff.
+
+AUSTIN: I see what you're saying. Either one of those would get those— that effect.
+
+KEITH: Okay. I like trusting then, if either one would—
+
+ALI: Yeah.
+
+AUSTIN: Yeah.
+
+KEITH: I like trusting more.
+
+ALI: Yeah.
+
+AUSTIN: Um, also you can also spend another one to use your holo bracelet, 'cause you kind of did a nice narration of you setting up —
+
+ALI: Okay.
+
+AUSTIN: — what that is so you—
+
+ALI: Could I get a— I— The discharged Push dice I get back but that—
+
+AUSTIN: Yup, you get that back right away. Yeah.
+
+ALI: Um... And trying— So that's just my Coax is 3, I think?
+
+AUSTIN: Yeah.
+
+ALI: So that's five.
+
+AUSTIN: Wait. Did you—
+
+KEITH: Five dice total.
+
+AUSTIN: Five dice total, right, right, right, sorry.
+
+ALI: Yeah. Sorry. [laughs]
+
+AUSTIN: 6. Three 6s, good. What is up with this game?
+
+KEITH: What is up?
+
+JACK: Woah.
+
+KEITH: We are just super good at it.
+
+ALI: We're just good, is what up with this. We're—
+
+KEITH: We're super good at luck and chance.
+
+AUSTIN: Jesus Christ.
+
+KEITH: And I think that uh— I think that my commitment with the accent has been uh, helping.
+
+AUSTIN: Yeah, it's good. So yeah, you give him trusting, also. Are you sticky-ing this or is this just fleeting, too.
+
+ALI: Uh, how long do you think we would need it for?
+
+AUSTIN: That's— Here's what I'll say. I think if things hit— If shit hits the fan and it's sticky, you can count on it.
+
+KEITH: Yeah.
+
+ALI: Oh.
+
+AUSTIN: If shit hits the fan and it isn't sticky, that's the sort of thing that would clear a fleeting adjective.
+
+KEITH: Yeah.
+
+ALI: Okay. Yeah, I have the dice to spend.
+
+AUSTIN: Okay.
+
+ALI: I'll do that.
+
+AUSTIN: I'll take— I'll take one of these. Why not? [ALI giggles] Okay.
+
+ALI: And then—
+
+ART: Can't believe we're the ones that are gonna fuck this up.
+
+[KEITH, JACK laugh]
+
+KEITH: I can— I don't— I can't believe that you guys don't think that uh, fucking Foghorn Leghorn over here isn't the most believable [AUSTIN: Oh lord.] third party construction owner business guy of all time.
+
+ALI: Yeah, we're killing it.
+
+KEITH: Yeah.
+
+ALI: So I'm good.
+
+AUSTIN: Cass and AuDy.
+
+ART: You just bought all the robots!
+
+KEITH: Look.
+
+ALI: We know people, we can sell them.
+
+KEITH: Laura and Drillbot fist bump.
+
+AUSTIN: Oh god.
+
+[ALI giggles]
+
+JACK: I'm peering through my fingers. I have my hand over my eyes.
+
+[AUSTIN laughs]
+
+ART: You guys aren't robot salesmen, you can't just turn around and sell a bunch of—
+
+ALI: We know people.
+
+AUSTIN: I just—
+
+KEITH: We know J-m. We got it.
+
+ALI: We have—
+
+AUSTIN: Wait I—
+
+JACK: Wait, so— So wait a second. So your plan, is to turn up [AUSTIN: Uh-huh.] to a customs officer at a station and say, [AUSTIN laughs] "I have about thirty-five larger than human size drilling robots that I would like you to get rid of." Like wh—
+
+KEITH: We wouldn't bringbuild the robots with us.
+
+ALI: Isn't there a favor that's like, "You can buy a thing from someone or you can have them sell a thing,"?
+
+AUSTIN: There is.
+
+KEITH: Yeah, that's—
+
+AUSTIN: I want to read you what Fence says 'cause I think that's important— That's an important thing.
+
+KEITH: Okay.
+
+AUSTIN: It was meant for— It's meant for selling, uh, stolen stuff. "Buy a bulkload of stolen merchandise for five credits. So..."
+
+[ALI laughs]
+
+KEITH: Oh, well that's not stolen. Well, okay, that's not stolen. We could find a legitimate person to buy these, then.
+
+AUSTIN: You could.
+
+KEITH: There were—
+
+JACK: That's what fences are for!
+
+KEITH: No, fences are for stolen shit.
+
+ART: You want to put an ad in the newspaper? "I've got twenty robots."
+
+[AUSTIN laughs]
+
+ALI: [giggles] You just people?
+
+KEITH: I feel like you guys are overestimating the— the ridiculousness of this situation.
+
+JACK: I feel like you are underestimating the fact that you essentially bought a small company.
+
+ALI: Okay.
+
+KEITH: [laughs] I don't know, maybe I'll set up a drilling thing on the side.
+
+ALI: Yeah, the Chime can expand, A. And B, we both have like— we both have an in with Paisley.
+
+AUSTIN: I feel like this is… 
+
+ALI: And like a romantic in?
+
+KEITH: Mhm.
+
+ALI: So he'd be like, "Haha, you guys are so silly. I will sell these robots for you."
+
+KEITH: To be fair, I— I'm infatuated with Paisley. Paisley is not infatuated with me.
+
+AUSTIN: That's true.
+
+KEITH: Po— Well I mean.
+
+AUSTIN: Lustful. Let's be clear. You're lustful towards—
+
+KEITH: Lustful.
+
+AUSTIN: "Hey, do you want to bone? Also —"
+
+KEITH: Also.
+
+AUSTIN: "— I have 27 robots I need to move, stat."
+
+KEITH: Hey, you're— You're move—
+
+ART: Why didn't you bargain down the number of robots you were going to buy if you—
+
+KEITH: "Paisley, you are moving my hearta lot faster than I'm moving these robots."
+
+[AUSTIN sighs]
+
+JACK: Oh boy.
+
+ALI: We're good this.
+
+JACK: Great.
+
+KEITH: (southern accent) I'm sure we can work out a deal.
+
+AUSTIN: Pais— Paisley knows your real voice! Paisley doesn't need the—
+
+KEITH: (laughing) I know, it's a fun voice to do!
+
+{TIMESTAMP: 1:50:31}
+
+AUSTIN: Cass and Audy.
+
+ART: (southern accent) You've got to excuse me, I've got the vapors.
+
+[AUSTIN sighs]
+
+[ALI, KEITH laughs]
+ 
+JACK: Are we just heading towards the double doors?
+
+AUSTIN: Twenty-seven of them—
+
+KEITH: One of them is in my merchandise.
+
+AUSTIN: I have twenty seven of the vapors, I need to sell them immediately. It's a vapor-class rig, by Snowtrak Synergies.
+
+[MUSIC - "The Long Way Around" begins] 
+
+AUSTIN: Fuck, okay, Cass and AuDy.
+
+JACK: [sighs] Double doors.
+
+AUSTIN: You head back through the double doors. Give me— Who is— Who is in the— Who is going in first?
+
+JACK: Uh...
+
+ART: Probably I am.
+
+AUSTIN: Okay, AuDy.
+
+ART: 'Cause I'm not the one on camera destroying the merchandise.
+
+AUSTIN: Yeah, that's fair.
+
+JACK: Yeah, that totally makes sense.
+
+AUSTIN: AuDy, give me a Detect roll. Um, with...
+
+JACK: That's for me?
+
+AUSTIN: Actually no, I'm sorry, this is the opposite. I keep— This is a thing I need to keep reminding myself. AuDy, what is your Detect Score?
+
+JACK: Oh, okay. My Detect Score is 2.
+
+AUSTIN: Okay. Pretty low. Um… 
+
+JACK: It's not big.
+
+AUSTIN: Uh, I'm going to try to give you the adjective shadowed.
+
+[MUSIC - "The Long Way Around"] 
+
+
+

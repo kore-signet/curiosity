@@ -1,0 +1,2319 @@
+Winter in Hieron 01: An Arrow Let Loose 
+Transcribed by Steph @downsnowing [0:00-14:00], thedreadbiter [14:00-1:39:48]
+
+AUSTIN: There is a dirt road that runs from Velas to Rosemerrow. It runs alongside the hidden city of Nacre and the light snows of the mark of Erasure, which have spread into a broad blizzard that has consumed the northwest of Hieron. It runs between trees and over babbling brooks. And there in those woods, an arrow is let loose and flies through empty air towards you…
+
+[MUSIC Inside begins] 
+
+Hadrian. What do you do?
+
+ART: I try to move sideways so it hits me in the shoulder, which is a more armored part of my body. 
+
+AUSTIN: Give me a roll.
+
+ART: What are we calling that?
+
+AUSTIN: I think it’s Defy Danger: Dex.
+
+	ART (as Hadrian): Oh great, I’m terrible at that. 
+
+[ALI and JANINE laugh]
+
+AUSTIN: That’s a 10. Off to a good start. 
+
+[ART laughs]
+
+JANINE: [cross] Nice. 
+
+ART: [cross] Yeah, [AUSTIN: You turn—] this is gonna be the best year ever.
+
+[TABLE FRIENDS laugh]
+
+[MUSIC Inside plays and finishes]
+
+AUSTIN: Welcome to Friends at the Table, an actual play podcast focused on critical world building, smart characterization, and fun interaction between good friends. Today, we are back to playing Dungeon World by Adam Koebel and Sage LaTorra, which is a hack of D. Vincent Baker’s Apocalypse World. 
+
+My agenda is to portray a fantastic world. “Dungeon World is all about guts, guile, and bravery against darkness and doom. It’s about characters who have decided to take up a life of adventure in the hopes of some glorious reward.” It is also to fill the characters lives with adventure, “which means working with the players to create a world that is engaging and dynamic. Adventurers are always caught up in some world threatening danger. Dungeon World adventure portrays a setting in wh—a setting in motion, someplace significant with creatures big and small pursuing their own goals.” Finally, my agenda is also to play to find out what happens. I’m sharing in the fun of finding out what happen finding out how the characters react to and change the world that I am portraying. We are all participants in this great adventure that’s unfolding.
+
+And because it’s the first game of the season, I also want to state my principles, which are to draw maps but leave blanks, to address the characters and not the players, to embrace the fantastic, to make moves that follow, to never speak the name of those moves, to give every monster life, to name every person, to ask questions and use the answers, to be a fan of the characters, to think dangerous, to begin and end with the fiction, and to think off-screen, too. 
+
+I am Austin Walker, the host and GM. You can find me on twitter @austin_walker. You can also read the website that I am now the editor-in-chief of at waypoint.vice.com or waypoint.zone or bazinga.zone or digitalpyramids.com.
+
+[ALI laughs softly in background]
+
+Thank you Chief Keef for giving us the name Digital Pyramids. You’re good. Uh—joining me in this, the first game of the full season three of Friends at the Table, you’ve already heard from Art Tebbel. Where can people find you, Art?
+
+ART: Hey, they can find me on Twitter @atebbel.
+
+AUSTIN: Awesome. Ali Acampora.
+
+ALI: Hi! You can find me @ali_west and you can find the show over @friends_table.
+
+AUSTIN: Uh. Andrew Lee Swan.
+
+DRE: Hey! You can find me on Twitter @swandre3000.
+
+AUSTIN: And joining us for the first time with a character, an individual character, is Janine Hawkins.
+
+JANINE: Hi! You can find me on Twitter @bleatingheart. That’s B-L-E-A-T-I-N-G heart, like the thing in your chest.
+
+[FRIENDS laugh]
+
+AUSTIN: [cross] Good.
+
+JANINE: [cross] I write stuff on places. It mostly goes up on there.
+
+AUSTIN: Off to a…good start. 
+
+So, currently you, this party of four, like I said, is on their way from Velas to Rosemerrow. You’re doing that for two reasons. First of all, you are escorting a halfling merchant who goes by the name of Sol Cider-Brew. His name’s Solomon, Solomon Cider-Brew, who is a halfling merchant who is in the middle of trying to move a kind of a whole shipment of food and drink to—part of it to Rosemerrow, and part of it to another city, another—or not a city, a kind of a mid-sized town, that’s on the way to Rosemerrow, kind of equidistant between Rosemerrow and Velas. The name of that town is Twinbrook and you are approaching it and were supposed to make it there tonight. Unfortunately, travel has been slower than anticipated, for a couple of reasons. First of all, it has been snowing? For the last three months? Which has made everyone’s estimations on what travel looks like, way off. Like even when you say, okay, it’ll probably take me an extra…week, that’s still not enough. Because you know you’re estimating how long it takes for a horse to move through snow, maybe, but you’re not adding the fact that the snow has like toppled over trees to block the pathway or has—you know—a river has frozen over in a way that makes it too dangerous to cross even though normally you’d be able to wade through it no problem. So there’s all sorts of hurdles there—and also the other thing is, Sol’s horse has just been a pain in the ass. Like, it is not—it’s a big beefy horse, but it doesn’t wanna be doing this. So it’s just taking you an extra couple of days.
+
+So, that arrow bounces off of your armor, Hadrian, and kind of…bounces off into the snow nearby. What’s everybody else do at this moment? I think the horse and carriage come to a halt. From the front of the carriage, Sol, like throws his hands up. He’s a kind of a chubby halfling with kind of a little too bushy of a beard and a bald head and he has like a wool cap on the bald head. The first thing he does when the arrow comes in and bounces off, he pulls the wool cap off and is just like slams his hand on his head and is like “AHH.” And then like very naturally, like flips himself from the front of the carriage into the back where all of the stock is and like tucks himself away like as if this has happened a dozen times before. 
+
+JANINE: And he’s a little turtle?
+
+[ALI laughs]
+
+AUSTIN: And he’s a little turtle, yeah. 
+
+[JANINE and ALI continue laughing]
+
+AUSTIN: He knows how to live. So who does something when the arrow comes in?
+
+JANINE: I’d like to Discern Realities, if that works? I’m still figuring out this system, so I apologize. 
+
+AUSTIN: Um. So instead of saying like you wanna roll Discern Realities, tell me what Adaire is doing. Like, what’s that look like?
+
+JANINE: She’s—she wants to basically follow the direction the arrow came in and [AUSTIN: Okay.] observe what she can from there.
+
+AUSTIN: Okay, so, yeah, give me a Wisdom roll. Roll +Wis. 
+
+JANINE: Okay. 
+
+DRE: Nice!
+
+JANINE: 10, nice.
+
+AUSTIN: That’s a 10. When you closely study a person or situation roll +Wis. On a 10+, ask the GM three questions from the list below, and then take +3 forward when acting on the answers. Remember, everybody, you have that +3 preparation that you spend, also. So mark that down somewhere and try to remember it. You can cash that in. I’ll let you do that after you’ve rolled, also. That can be like a little bonus that you can say, like yeah, I’ll add that here and make this a success. 
+
+But in this case, you succeeded with flying colors. So, you can ask me; ‘What happened here recently?’, ‘What is about to happen?’, ‘What should I be on the lookout for?’, ‘What here is useful or valuable to me?’, ‘Who’s really in control here?’, and ‘What here is not what it appears to be?’
+
+JANINE: Uhm, okay, well the first thing I wanna ask is what is about to happen?
+
+AUSTIN: You are about to be ambushed and killed.
+
+JANINE: Cool! Um…
+
+ART: [cross] Looks like Discern Realities doesn’t know how well we’re rolling.
+
+JANINE: [cross] And I wanna also ask—[laughs]
+
+[AUSTIN laughs]
+
+What should I be on the lookout for?
+
+AUSTIN: Uh, movement in the trees above you. Based on [JANINE: Ooo.] when the arrow came in, it—based on like the angle that it hit, uh—uh Hadrian—I almost said Samothes’ armor, which is not true.
+
+[ALI laughs] 
+
+Uh, Hadrian’s armor, it was coming from above him. And so you’re able to discern like, ‘oh shit, they’re above us.’
+
+JANINE: Cool. Uhm…not cool at all.
+
+AUSTIN: No, not cool.
+
+JANINE: Uh…[clicks tongue] Shit. This last one’s tough. Um…I wanna know, uh, what here is not what it appears to be?
+
+AUSTIN: That’s the right one. You chose the right one. 
+
+[ALI laughs]
+
+So, I’m gonna give you a picture of this place a little bit, which is—and also I should—there’s a lot of like world building setup. Even though this is a world we know, it’s changed so dramatically that there are a few things that are important.
+
+That snow storm hit really bad, and then it left for a while, and then it came back. It hits in cycles. Like once every three weeks, it returns. And then when it’s gone, like on the edges of when it’s gone, it still snows now and then, a little bit, like in a much more natural way? And so, because the climate has just completely changed.
+
+Right now, there’s kind of a light flurry happening and between all the different little specks of snow, you know, you’re looking at a bunch of different trees and it’s mostly, in this region deciduous trees that are now just dead, right? So it’s just like broken, or just empty branches. Every now and then, there’s a pine tree…that’s doing fine. But you notice that there are three, or actually four? Trees that are discolored and you would not have noticed this naturally. And then you see a little bit of a flicker of motion from one of them and you realize that those—whatever is—whatever that thing that looks like a tree is? That’s not a tree, that is something that just shot that first arrow at you. And so, whatever you’re up against can blend in with these trees.
+
+JANINE: Cool, okay. …Okay, does someone else go now?
+
+AUSTIN: Yeah. What is anybody else doing, in this moment?
+
+JANINE: Also, should I—wait. Do I like shout, like—
+
+AUSTIN: I don’t know, do you?
+
+JANINE: [cross] “Y’all, they’re—”
+
+AUSTIN: [cross] What do you—do you share that information at all? 
+
+[ALI laughs in background]
+
+Or do you just? Like, yeah. What’s Adaire do at seeing this? And generally, what does Adaire do when she gets information, like this.
+
+JANINE: Uh…I would say Adaire—Adaire, like, [sighs] does a very quick assessment of like, is it valuable to share this or keep this information, like which in this situation [AUSTIN: [amused] Right.]—
+
+[MUSIC, an unreleased arrangement of Inside, cuts in softly]
+
+—provides the most benefit to me? 
+
+[scene break]
+
+AUSTIN: Janine, who is Adaire?
+
+JANINE: Who isn’t Adaire?
+
+[MUSIC cuts out]
+
+AUSTIN: Let’s start with this actually then. What is Adaire doing in this group that is—one of their missions, again, is to deliver this uh…guy, Sol, to Rosemerrow and to Twinbrook to drop off his stuff. And the other one that we didn’t get to, because I got sidetracked, is to visit this mark on the map, that is, uh—I just didn’t do the thing I meant to do. There we go. It is this mark, here, that is on the map, that the first—that the kind of boat party group was supposed to go to last game, and didn’t get to. 
+
+So, what is your role with that mission? Why are you with them?
+
+JANINE: So, Adaire is a, I would say amateur map maker, where, you know, maps are—at this stage, there’s not like—I don’t think there’s like much in the way of printing and stuff, right? Like—
+
+AUSTIN: No.
+
+JANINE: Most of it is…for things like maps, you’d have to deal with a lot of hand done stuff, and therefore really fucking expensive.
+
+AUSTIN: Mmm.
+
+JANINE: So the role that she sort of has made for herself is that she makes maps that people can actually afford when they need to go places, ‘cause.
+
+AUSTIN: Right.
+
+JANINE: You know, people need to go places. People, especially, people want to maybe move towns, if something’s, you know, if the winter’s too harsh somewhere, and they’re like, [AUSTIN: Yeah.] well, maybe it’s not as bad in Rosemerrow. My friend said, blah blah blah, whatever.
+
+AUSTIN: Has your business gotten better or worse since the snow’s hit?
+
+JANINE: I imagine…mm, it’s hard to say. I wanna say—like, my instinct is that it would get better because people—like that’s kind of the instinct, right? Is like, oh, something’s bad here…
+
+AUSTIN: Right.
+
+JANINE: Maybe if we go somewhere else, it’ll be less bad.
+
+AUSTIN: Or even just [cross] like, oh I think I—
+
+JANINE: [cross] Or like I said, my friend said it was totally cool over there.
+
+[thedreadbiter begins transcription]
+
+AUSTIN: Or even just like, oh, I think I know how to get there, but given the snow, I should get a map. [cross] Right? Just like. That’s just a pretty, like.
+
+JANINE: [cross] Mm-hm—…Yeah. Exactly.
+
+AUSTIN: People are extra cautious.
+
+JANINE: ‘Cause you need those landmarks. Like.
+
+AUSTIN: Right, exactly. Exactly.
+
+JANINE: You can’t see the road, you need to know, like, okay, there’s a weird tower here and, right, I go this way.
+
+AUSTIN: So let me tell you about Twinbrook a little bit, because you’ve probably been to Twinbrook before, I’m guessing? [JANINE: Mm-hm.] You’ve been to most of the places. So Twinbrook on the map is like between these two lines that I’ve driven? Or. Driven, drawn? Um.
+
+JANINE: Mm-hm.
+
+AUSTIN: That are two—they’re two rivers! One of them is—
+
+[15:00]
+
+—Cloud River, the northern one. One of them is Rose River. Cloud River is this kind of cloudy murky—it doesn’t move very fast, and so lots of—it just gets kind of gross. Rose River, because of the soil or because of the minerals, has this really beautiful like shining red color to it. Kind of pinkish. And Twinbrook sits in between the two! Uh. Rose River is like way wider than…Cloud River. [JANINE: Mm-hm.] But it kind of sits right in between the two and it kind of thrives off of fishing, and some other stuff. And it also has just been like a fairly successful part of the general expansion of Rosemerrow, which is where all the halflings live. It’s been—it has gotten stronger as a kind of trading post as Rosemerrow expands. But you haven’t been there since the snow has fallen. So you’re maybe not so sure about how things are there these days? I do have a question. [JANINE: Mm-hm.] Which is, um. What happened last time you were in this village? How was your last trip here?
+
+JANINE: Um. I’m gonna say the last trip here, because it’s relatively close to Adaire’s kind of de facto…not base, but you know, her home turf is Velas.
+
+AUSTIN: Mm-hm.
+
+JANINE: So places that are near Velas are places she’s probably been to more recently than not.
+
+AUSTIN: Right.
+
+JANINE: [sighs] God, that’s tough though! [cross] I wanna say—uneventful?
+
+AUSTIN: [cross] How bout—I mean, well, how bout this?
+
+Give me a roll. Roll +Charisma. Really quick.
+
+JANINE: [laughs] Okay! Uh…let’s see here. 7. That’s…
+
+AUSTIN: All right, 7’s not bad. On a 10+, you would have gotten to tell me a new detail, and then acted—taken a +1 while acting on the result, but a 7-9 isn’t bad. Tell me a detail about Twinbrook. Tell me something about the town, and then you can also ask me a question about something that you know about because you’ve been here before.
+
+JANINE: Uh…
+
+AUSTIN: So what’s just like a feature of this little town.
+
+JANINE: You mean like a geographical feature, like a social [cross] kinda feature…?
+
+AUSTIN: [cross] Social feature, geographical, totally up to you.
+
+JANINE: Okay, well, you said fishing is a big industry.
+
+AUSTIN: Mm-hm!
+
+JANINE: Um. So how bout there's like a…because there’s a big fishing industry, there’s also a big—not necessarily like canning industry—I don’t know if they have…do they have canning? Do they have…
+
+AUSTIN: Um, they don’t here. We—weirdly specifically mentioned that Nacre had canning? So this place does not.
+
+JANINE: That makes sense, though.
+
+AUSTIN: Yeah.
+
+JANINE: Um. Well, I mean, they probably still have like fish processing. Maybe.
+
+AUSTIN: Yes.
+
+JANINE: Because they’re a reasonably large fish operation like there’s probably a point where selling people processed fish—not processed like machine, but like you know gutted and stuff, [cross] pre-gutted—would give you…
+
+AUSTIN: [cross] Gutted, maybe even salted. Preserved.
+
+JANINE: Yeah. Yeah! Would give you sort of an edge over the person who’s just like slapping a herring into someone’s…shopping bag? I don’t—
+
+[ALI starts to laugh]
+
+AUSTIN: [doubtful] Mmm…
+
+JANINE: I don’t know much about fish. Sell me—
+
+AUSTIN: Janine, tell me everything you know about fish.
+
+[ALI, JANINE and ART laugh]
+
+JANINE: So, I…I bet there’s like a—I would say the thing that Adaire knows, the thing I’m putting forth here, is that there is a reasonably sized industry that is sort of attached to the fishing industry of like…
+
+AUSTIN: Right.
+
+JANINE: …processing the fish and—in those situations like you feel like historically they often had a lot of…you know, like the healthy young men are on the boats, and everyone else is sitting at home, or sitting in the [AUSTIN: Okay.] place with the knife cutting open the fish.
+
+AUSTIN: Okay. So there was a—or there’s kinda of a big fishing industry of people who went out on the rivers to get the fish, specifically.
+
+JANINE: Mm-hm.
+
+AUSTIN: Okay, cool. Good to know. For reasons. [JANINE: Great…] I’m drawing—I’m adding that to the map, in a sense. Um, okay! Cool. Uh…
+
+Oh, you have to ask me a question, also, before I move on.
+
+JANINE: About Twinbrook?
+
+AUSTIN: Yeah.
+
+JANINE: Um…Fuck, I…This is hard!
+
+AUSTIN: Mm-hm!
+
+JANINE: I’m not used to this! Um. Okay, what’s the most useful thing that I could possibly know about Twinbrook?
+
+AUSTIN: [laughs] [ALI laughs] That’s a good way—you’re doin all right. If that’s your first question, that’s pretty good!
+
+JANINE: How like…[sighs] okay, so we know that they’re sort of like a successful extension of Rosemerrow—how do they actually feel about…Rosemerrow proper?
+
+AUSTIN: Um [sighs] they…
+
+JANINE: What’s the sentiment there?
+
+AUSTIN: They’re in this weird position, because Rosemerrow proper, which we’ll get to at some point, either in this game or the other game, is this rapidly growing kind of collection of little municipalities that adds up to be this kind of massive rolling city, and so there—over the last few years, there’s been this notion that Rosemerrow’s filled with like city boys, basically? Who [JANINE: [amused] Hm!] don’t really know what’s happenin out in the world? And then that got doubled down on. A thing you know. Is that about I’d say four or five months ago, a delegation from Velas came—obviously, a lot of delegations come and go from Velas.
+
+JANINE: Mm-hm.
+
+AUSTIN: But. A delegation of tradesmen, and a woman, Sister Carol, from the church of Samothes came down as a missionary to help lead the conversion? And I’d say that was probably like five or six months ago, and that was the last time that you were there, and that had taken on pretty well. The church of Samothe has slowly been moving them away from Rosemerrow culture, and towards Velasian culture. Which…
+
+JANINE: [considering] Hm.
+
+AUSTIN: Isn’t—things aren’t necessarily in direct conflict, but it isn’t simple, either. Like it isn’t like…I think Rosemerrow—
+
+[unreleased MUSIC cuts in softly]
+
+—would prefer them to remain more like Rosemerrow. You know?
+
+JANINE: Yeah.
+
+AUSTIN: So, that’s the kind of situation it is.
+
+[scene break]
+
+JANINE: In this case, sharing the information that the trees are shooting arrows probably [ALI laughs] provides the most benefit to keeping [AUSTIN laughs] the people that she’s with alive.
+
+[MUSIC cuts out]
+
+AUSTIN: Is that literally what she says, the trees are shooting arrows?
+
+[ALI laughs]
+
+JANINE: No—no, I—you know, I’m…
+
+AUSTIN: Okay.
+
+JANINE: Yeah, uh—um. I think she’s—okay, she’s probably gonna show like, you know, their—so wait, actually, the shots came from above, but the trees themselves…[cross] So is it like…
+
+AUSTIN: [cross] Also above. You—the thing, the parts that you noticed that were discolored were spots on the trees above.
+
+JANINE: Oh, okay. Okay, okay. [cross] I was thinking like trunks.
+
+AUSTIN: [cross] Like—sorry. No, not the trunk, [JANINE: But—okay.] yeah. Up above. Yeah.
+
+JANINE: Um. So I think Adaire shouts like…
+
+(as ADAIRE): They’re above. They’re the trees—like, the treetops.
+
+AUSTIN: At the moment, you can now see. Everybody else is like, oh, yeah, look, there they are. [cross] Cool. No no no, I’m saying like—
+
+JANINE: [cross] Oh, welp. [huffs] Great.
+
+AUSTIN:—when you say that, you [JANINE: Oh, okay.] clue people in into seeing it. Yeah, [JANINE: Okay!] totally. They’re like oh, like it’s not—once you’re aware, once you’re looking for it, you can see it. You’ve done the hard work of [JANINE: Mm.] figuring out where they are. They’re not like cloaked, do you know what I mean, like they’re naturally camouflaged but they’re not like invisible. So wait—what’s Adaire look like? [cross] I just realized we never described Adaire.
+
+JANINE: [cross] Yeah, I also realized, shit, I haven’t explained what Adaire looks like…
+
+[DRE laughs]
+
+Um. [laughs] So, based on like the…Thief things.
+
+AUSTIN: Mm-hm.
+
+JANINE: The things that I picked out are shifty eyes, I kinda cheated with the hooded head, I’m saying she has sort of a snood cap and a wrapped braid? [cross] In my sort of—
+
+AUSTIN: [cross] That’s not cheating, just—you can just write [JANINE: Well!] that she has a snood cap on. 
+
+JANINE: Yeah.
+
+AUSTIN: That’s fine.
+
+JANINE: Um. [cross] The sort of—
+
+AUSTIN: [cross] What’s a snood cap?
+
+[ALI snorts]
+
+JANINE: It’s—the thing I was gonna say is what I sort of modeled her after is da Vinci’s La Bella Principessa? Where the—so if you google that, it’s very straightforward it’s like it’s a sidelong picture of this lady, so you can see her hair very clearly. But it’s like a netted cap—
+
+AUSTIN: [cross] Oh yeah, I see her.
+
+JANINE: —[cross] and then there is sort of a long braid that’s wrapped with cord or something. She also doesn’t quite have shitty clothes or fancy clothes. The phrase I have in mind is like, she looks fancy if you don’t know what fancy looks like.
+
+AUSTIN: [snorts] Sure.
+
+JANINE: So she has clothes that are pretty basic, but she has sort of hired people to fancy them up with like hte braid and embroidery and stuff so [AUSTIN: Mm-hm.] she looks a little bit better than she maybe is? Um. Lots of blues and browns, leather armor kind of bodice, and she’s covered from the neck down, basically. So she’s got like gloves, she’s got a little capelet, a poofy skirt, kinda like…the merchant Madeleine from Dragon’s Dogma?
+
+AUSTIN: Yeah, that’s—yep! Fair.
+
+JANINE: That’s kinda my model there?
+
+AUSTIN: It’s a good model to have, frankly.
+
+JANINE: And the Thief thing also offers flabby as an adjective, but I prefer soft. [huffs]
+
+AUSTIN: Oh, also you’re playing a thief, that’s an important [JANINE: Yes! [laughs]] thing that didn’t come up!
+
+JANINE: I am playing a thief. 
+
+AUSTIN: [cross] Eh, “amateur mapmaker” bullshit.
+
+JANINE: [cross] I’m not playing a…
+
+[ALI laughs]
+
+AUSTIN: [cross] Oh. A thief!
+
+JANINE: [cross] I’m sure someone has—someone’s made like a fan cartographer class, but. Yeah…
+
+AUSTIN: That’s absolutely true, I’m sure.
+
+JANINE: Yeah.
+
+DRE: Mm-hm.
+
+JANINE: [cross] But—
+
+AUSTIN: [cross] Um, but—
+
+JANINE: —that’s not quite what I have in mind here.
+
+AUSTIN: Okay. Um! What’s—let’s go over these character looks again really quick. So, Hella, go—describe Hella for us again?
+
+ALI: Oh, sure! So, Hella is a human.
+
+AUSTIN: Mm-hm.
+
+ALI: She is a really big buff brown lady?
+
+AUSTIN: Mm-hm.
+
+ALI: [laughs] She…the way that I described her in season one was there is this like semi-iconic, I guess, drawing of Samus in her like power suit, but half of it is showing like her actual body?
+
+AUSTIN: Mm.
+
+ALI: So I imagine her as like really kind of tall, but like in a way that’s like unnatural?
+
+AUSTIN: Hm!
+
+ALI: Like if you think of Charlotte Flair, but like if her and Rusev had a kid?
+
+AUSTIN: Okay.
+
+ALI: Um [huffs] ‘cause like—
+
+AUSTIN: [cross] I’ve learned that—I—
+
+ALI: —[cross] she’s like the…
+
+AUSTIN: Yeah. Uh-huh!
+
+ALI: [laughs] She has like really long arms and really long legs, but not in a way that’s like genetically superior, I guess, or like…
+
+[AUSTIN laughs]
+
+…conventionally attractive, the word that I actually wanted to say, but. It’s what the WWE uses. Um.
+
+AUSTIN: Yeah, they do use genetically superior, don’t they.
+
+ALI: [sighing] A lot!
+
+AUSTIN: Yeah. Hm.
+
+ALI: So much. Um. [AUSTIN: Cool.] But yeah, so she’s kind of brooding and can beat you up.
+
+AUSTIN: Hadrian? What about you?
+
+ART: Um. I’ve always wanted to describe Hadrian as like a bodybuilder from an Elvis movie?
+
+AUSTIN: [wheezes a laugh] That’s a good comparison!
+
+[ALI laughs]
+
+ART: [cross] Because it’s like before they had…
+
+AUSTIN: [cross] Our audience will get that easily, of course, they’re huge Elvis Presley fans.
+
+[ALI laughs]
+
+ART: Because they’re like, it’s—before they had Nautilus machines, it was much harder to isolate muscles.
+
+AUSTIN: Right.
+
+ART: So people were like, big and strong, but not like cut the way we think of them now?
+
+AUSTIN: Right. That’s actually a really interesting thing, yeah, that’s good. I like that.
+
+ART: Like your limbs are gonna be, right—it’s very easy to figure out like, this is how I work my leg, [AUSTIN laughs] this is how I work my arms. [AUSTIN: Roll.] But your trunk is basically just like big blobby muscle.
+
+AUSTIN: Right. That’s really good, I like that a lot. And Throndir! What about you?
+
+DRE: Um. So—
+
+AUSTIN: What’s a distinctive…
+
+DRE: Yeah.
+
+AUSTIN: Thing.
+
+DRE: Throndir’s the elf, and I guess I’m the only elf in this party.
+
+AUSTIN: [amused] That’s true. You’re the only nonhuman in this party.
+
+DRE: Yeah. Um. So one of the things that I kinda described Throndir as in the first season was that he was a little…I think Janine used the word soft earlier and I like that. Um. A lot of that came from him, you know, leaving Auniq and coming to a new city and being like, oh man, all this new food, where people have like leisure time to cook stuff that tastes good, not just to like, have the energy to survive.
+
+AUSTIN: Right.
+
+DRE: I think he’s gotten a little leaner, just because of like…with the snows coming, he’s like oh man, yeah, I know what it takes to survive this. But he’s still definitely like—I think of him as like…I don’t know, it’s just like a Midwestern kind of body type. Where it’s just like—or like a blue collar body type. Yeah, and he’s got a—
+
+AUSTIN: I got you.
+
+DRE: I think he’s—
+
+AUSTIN: You’re like the—you’re like the bodybuilder from an Elvis Presley movie like [DRE laughs] after they stop working out?
+
+DRE: Yeah. Yeah.
+
+AUSTIN: And move back home, [ALI laughs] and are just like, meh, you know! [cross] And get a job in the mill.
+
+DRE: [cross] Like he could put in—I think first season I said he could put in a day’s work but then he can also put away those chicken wings. I think that’s kind of how we described him.
+
+AUSTIN: Yeah. Yeah. He works in the docks, for sure!
+
+DRE: Yeah. [laughs] [cross] Just a small town world.
+
+AUSTIN: [cross] That’s good, I’m into it. Yep, great. That’s next season. [DRE laughs] For sure.
+
+So what else is somebody else doing in this moment?
+
+ART: How accessible are they, like…can they be gotten, or how—do I need to climb a tree? What are we talking about?
+
+AUSTIN: You—do you have a way of attacking at range?
+
+ART: No!
+
+AUSTIN: Then no, [ALI laughs] yeah, you can’t reach them. But you could do other things.
+
+ALI: I’m gonna try to take cover?
+
+AUSTIN: Okay. What’s that look like? 
+
+ALI: Um.
+
+AUSTIN: Like behind the cart?
+
+ALI: [cross] I—yeah.
+
+AUSTIN: [cross] Let’s say—let’s zoom in on this map just a little bit, and let’s say that like we are at this spot—you’re kind of like I’d say like an hour away from…Twinbrook? Right where I marked on the map, there? And you’re being shot at from the kind of western side of the woods here.
+
+ALI: Okay. But like directly above us, like there’s not a—we’re not like surrounded?
+AUSTIN: No. All of them are attacking from the western side. [ALI: Okay, so—] All three of them that you’ve seen.
+
+ALI: If I got behind like a tree to the east…
+
+AUSTIN: Yeah. Totally.
+
+ALI: Okay. Okay!
+
+AUSTIN: So that sounds a little bit like a Defend to me. When you stand in defense of a person, item or location under attack, roll +Con. On 10+ hold 3, on a 7-9 hold 1. As long as you stand in defense, when you h…Uh. As long as you stand in defense, when you hold the thing you defend…when you or the thing you defend is attacked, you may spend hold 1-for-1 to choose an option: redirect an attack from the thing you defend to yourself; have the attacks effect or damage—half the attack’s effect or damage; open up the attacker to an ally, giving that ally +1 forward against the attacker; or deal damage to the attacker equal to your level. In this case, it just sounds like the thing that you’re—
+
+[unreleased MUSIC cuts in softly]
+
+—standing in defense of is yourself. [laughs a little]
+
+[scene break]
+
+All right. Hella.
+
+ALI: Hi.
+
+AUSTIN: How you been doin?
+
+ALI: Probably not great! [slight laugh]
+
+[MUSIC cuts out]
+
+JANINE: [sympathetic] Mm.
+
+ALI: Um. I don’t know, I think that there’s like an attempt to just continue as business as usual, [AUSTIN: Sure.] but like that’s a very difficult thing to pull off?
+
+AUSTIN: Yeah!
+
+ALI: I think that she’s in Ordenna more?
+
+AUSTIN: Mm.
+
+ALI: Like she either—she’s on the island more, or is around the embassy in Velas, mostly.
+
+AUSTIN: Totally.
+
+ALI: Um.
+
+AUSTIN: I have a question
+
+ALI: Yeah?
+
+AUSTIN: Does she ever go where that map is supposed to—
+
+[30:00]
+
+—take her?
+
+ALI: Oh! Um.
+
+AUSTIN: For people who don’t remember, which is fair.
+
+[ALI laughs]
+
+Forever ago, Hella found a map. For somewhere weird in some place in Ordenna.
+
+ALI: Yeah, I—oh, god. [cross] I think coming—
+
+AUSTIN: [cross] You remember where you got the map?
+
+ALI: I got it from Brandish!
+
+AUSTIN: You did.
+
+ALI: The f—when I killed him.
+
+AUSTIN: Yep.
+
+ALI: [cross] Quotation mark.
+
+AUSTIN: [cross] Well—yeah. [ALI laughs] Uh-huh. You tried. You did your best, certainly.
+
+ALI: I did my best. But I think yeah, knowing—like I think that she has a lot of questions.
+
+AUSTIN: Okay.
+
+ALI: Um. And that’s part of it?
+
+AUSTIN: Sure. Um.
+
+ALI: Um. Yeah.
+
+AUSTIN: All right, so [sighs] first, tell me a little bit more about like—let’s actually talk a little bit about Ordenna and then we’ll get to where that map takes you.
+
+ALI: Okay!
+
+AUSTIN: One of the things that we kind of talked about was that—and we kind of gestured to this before—I know I actually brought it up during the recap episodes. Ordenna is kind of split into three clans, and they kind of run a kind of bickering council that goes between like backstabbing and like needing to show complete unity, because there’s three of them. Like you can’t—[ALI: Mm-hm.] it’s…a bad look if you’re doing like two versus one over and over and over again?
+
+ALI: Right.
+
+AUSTIN: But every now and then, you do have to backstab one person and disagree, and like [ALI laughs quietly] that’s a thing that happens. There’s a lot of like politicking over that last vote. Um. And that’s like not at the High Council level, that’s also at the local level, and you know across the different regions of Ordenna, which again is this like pretty sizable island. I think that’s a thing that we forget sometimes, or I certainly do, is that Ordenna is like massive. Ordenna runs basically from Velas down past Nacre almost all the way like the most—the southern tip of Ordenna is equal—is on the same line of latitude as Rosemerrow is. So it’s a big place. What’s Hella’s—like where does Hella live on Ordenna, like where does she go quote-unquote “home” to?
+
+ALI: Um. I think that she’s somewhere by the shore on the east side, [AUSTIN: Okay.] a little bit south of Velas?
+
+AUSTIN: Okay. That’s—what’s that like?
+
+ALI: Um. [sighs] I feel like it’s—mm. Like almost—like not exciting? You know, [AUSTIN: Mm-hm] it’s not like…it’s probably like a town people go through, but not…
+
+AUSTIN: Okay.
+
+ALI: But there’s not like a lot of trade and stuff, like ‘cause it’s kind of right in the middle there.
+
+AUSTIN: Yeah. So it’s more of just like a general crossroads of like travelers, it’s not like a…it hasn’t grown from the fact that people are passing through there.
+
+ALI: Yeah. I think so. I think there’s like—there’s a little bit of that, like there’s a community there, obviously, [AUSTIN: Mm-hm.] ‘cause there’s enough homes there that there’s like a neighborhood. But it’s not like…cosmopolitan in [AUSTIN: Sure.] any sort of way, or like yeah.
+
+AUSTIN: Awesome. So, this map…it probably takes her a little while to—like it’s been a couple of…months—oh! Here’s an important fact that I just remembered.
+
+ALI: [laughing] [cross] Yeah?
+
+AUSTIN: [cross] It ain’t snowin on Ordenna.
+
+ALI: Oh!
+
+AUSTIN: Um.
+
+ALI: Huh!
+
+AUSTIN: There are…fuck, there’s a lot to talk about Ordenna. There’s a lot, Ali. 
+
+[ALI laughs]
+
+[DRE laughs]
+
+ALI: Hey hi, hey. 
+
+AUSTIN: Hi. Let’s start with the map. [ALI: [cautious] Okay.] Which is the reason I brought up the fact that it’s not snowing there is like it wasn’t difficult for you to move through Ordenna, towards where the map was leading you? But it [ALI: Mm-hm.] was difficult for you to [amused] find the place to begin with. And you eventually figured out that it was…based on like some of the…[sighs] I’ll kind of give it to you this way, that the northern—the map is like the northern half of Ordenna, and like I don’t know how many maps Hella has looked at of Ordenna. Do you know what I mean?
+
+ALI: [cautious] Probably a bunch?
+
+AUSTIN: Okay! Well, then, maybe it is easier. The thing that definitely makes it difficult is it’s a part of Ordenna that isn’t on the map at all. 
+
+ALI: Oh.
+
+AUSTIN: It’s like—do you see this like divot in the like the very north of Ordenna, where it like kind of dips back in and there’s like a…
+
+ALI: Yeah yeah yeah.
+
+AUSTIN: It’s there, but like instead of being a dip in, it’s completely filled in. There’s like land there instead of not being there. And so it—she charters a boat, [ALI laughs] and goes out there, and like—dives! And finds a little cave with a metal door on it. And she opens it and then there’s air—like there’s kind of like she can pop up from the air and like—from the water and there’s kind of a…what’s the—like a bubble of air there that then leads into a different little place, and inside is [sighs] a…kind of a carved-out little library, filled with books and papers and maps and a ton of stuff, and it’s a lot of it’s written in language that she can’t understand!
+
+[ALI laughs]
+
+A lot of it is—a lot of it is stuff that she does understand ‘cause it’s like, oh! I recognize—these are the three symbols of the clans, like. And then there’s also another symbol there along with them that she doesn’t recognize. Give me an Intelligence roll?
+
+ALI: Would love to.
+
+AUSTIN: Uh, it’s gonna be great! Um.
+
+ALI: [breathes in loudly] [wheezes] It’s a 4…[laughs]
+
+AUSTIN: Oh, it’s a 4? It’s a 4?
+
+ALI: I have a -1 in Intelligence.
+
+AUSTIN: Well, buddy, you rolled a 4. All right. Then I’ll give you one thing here.
+
+[ALI sighs]
+
+Which is that the name Varal?
+
+ALI: Mm-hm?
+
+AUSTIN: When you hear the name Varal now, what people think it means, or like the thing that you were raised believing it to mean was like, clothing line? Like a thing that you hang clothes on for them to dry.
+
+[ART laughs]
+
+[JANINE laughs slightly]
+
+Uh, so you like assumed that you were from a family of like maids and launderers and like that’s just…that’s just what it is, right, like that’s just, oh yeah, like the way that your name is Smith and you come from a family of smiths or whatever. But you find another reading of it here. [amused huff] It’s just drying line? And it’s not like you put clothes out to dry, it’s like you hang people to dry. Like you [ALI: Oh!] hang them in the sun.
+
+ALI: [amused huff] Kay.
+
+AUSTIN: And then they dry until they’re not there anymore. And that is where the name Varal comes from.
+
+[Pause]
+
+ALI: Cool! [silent laugh]
+
+AUSTIN: You’re able to take some stuff back, and you can reference it later in more down time, but you’re not—you can’t quite…[sighs] break it today. So how much does Hella inquire into what’s happening at Nacre?
+
+ALI: I think a bunch?
+
+AUSTIN: Okay.
+
+ALI: I think it’s tough ‘cause I think that she has access to…people in the government but not like way way up, you [AUSTIN: Mm. Mm-hm!] know what I mean? But like she can also go to Nacre and be like I killed the queen of Nacre. [cross] While you were attacking it.
+
+AUSTIN: [cross] But she can’t go to Nacre. Nacre is locked down.
+
+ALI: Oh, no, she can go to Ordenna.
+
+AUSTIN: Right.
+
+ALI: And say that she was the one who killed the queen. [cross] Like during—
+
+AUSTIN: [cross] Does she do that?
+
+ALI: I—…Probably?
+
+AUSTIN: Huh. How do you prove it?
+
+ALI: Oh! [laughs]
+
+AUSTIN: Like if you’re the twelfth person today who said like oh yeah, I was part of storming Nacre and I was the one who killed the queen.
+
+ALI: [quietly] God. What would she…? Oh…
+
+AUSTIN: The official belief is that the queen fled. And that she’s still somewhere out there in Hieron.
+
+ALI: [musing] I didn’t take anything from there, did I…
+
+AUSTIN: I don’t know! I don’t remember.
+
+ALI: I don’t think…
+
+AUSTIN: I mean, thinking back, would Hella have taken something?
+
+ALI: No, they fled pretty much immediately.
+
+AUSTIN: No…
+
+ALI: Um. That’s too bad.
+
+AUSTIN: I’m trying to think, is there anything that you were given there that was like—I don’t think so.
+
+ALI: I mean, she left in the queen’s like—no, yeah, she—there was like…[clicks tongue] Adelaide like gave her visions of a secret path?
+
+AUSTIN: Right, that was to escape. That was like the secret pathway out of Nacre.
+
+ALI: Right, to [AUSTIN: Right.] escape and then like also led her to the cart or whatever, so Hella [AUSTIN: Right! Yeah!] could easily be like, we went through that tunnel. That’s the cart that she was in. [laughs]
+
+AUSTIN: Yeah, no, you could totally have something from that cart that is like [ALI: Yeah.] clearly the royal crest of Tristero, basically.
+
+ALI: Right.
+
+AUSTIN: So you go and you present this?
+
+ALI: Um, yeah! I think in an exchange—like a way to haggle information.
+
+AUSTIN: I mean, at that, you’re whisked away for the period of this three months [ALI laughs loudly] and are like taken on tour, and they give you a title.
+
+ALI: Oh, cool. [laughs]
+
+AUSTIN: And are like…‘oh, you’re the queenkiller. Right, like you’re the one who…’
+
+ALI: [whispering] God.
+
+AUSTIN: ‘This is amazing, like this is…’ and like every time it comes up you hear Adelaide chuckle in your mind?
+
+ALI: [laughs loudly] Cool. We’re so gnarly with this. This is great.
+
+AUSTIN: Yeah. I still have to—I’ll figure out what the title is, ‘cause it could be one thing, but I wanna make s—I just wanna think about it for a little while.
+
+ALI: Okay. [laughs]
+
+AUSTIN: So what—I mean—[amused huff]
+
+[ALI laughs]
+
+Ordenna stormed Nacre, and killed a bunch of people, and the way Ordennan steel works is, it kills people dead. Like, they were uniquely suited for taking on a town of ghosts.
+
+ALI: Mm-hm.
+
+AUSTIN: And so…they…took Nacre, and then they kind of pillaged it for information, and a thing about Nacre is…[sighs] a thing about Nacre is, it had information from before the Erasure. Lots of it. Because it was protected by Tristero, and because, as we talked about during Marielda, it was a major trade partner with the rest of the world. Um. And so Ordenna has been able to, you know, combining that information with the resources that Ordenna has, which are incredible—and with the ingenuity that they have, which is also incredible. And just like their notion of engineering is stronger than what people in Velas and Rosemerrow and even the New Archives. Like, they are great engineers in Ordenna, it’s a culture of engineering—they are able to exploit a lot of Marielda-era technology. 
+
+There is a train [quiet laugh] that runs from the north to the south of Ordenna, now. [ALI: [laughs] Nice!] Towns on Hieron know when the Ordennan soldiers are coming, because they see black smoke on the horizon. They have all sorts of weird steam-powered equipment now.
+
+And they found something else. And I am…[overcome by some kind of emotion] sh…So.
+
+ALI: Yeah?
+
+AUSTIN: You probably hear about it—you probably see them one day, Hella. Just like walking in formation.
+
+ALI: Oh god.
+
+AUSTIN: Uh, like. Actually, you know what?! You probably lead them in a fucking parade!
+
+ALI: [amused] God—shut up! [laughs]
+
+AUSTIN: Of like…here is the Ordennan like army, here is Ordennan might. Like, the queenkiller, Hella Varal, who came from nothing, and who like has become this great Ordennan hero, walking in front of this like collection of like living metal.
+
+[ALI snorts]
+
+It’s Ordennan steel shaped into the form of…like, knights. That pump out this black smoke from their backs. And you—one of the things that you’ve leveraged and you find out about is like, they found the designs for this not in Nacre, actually. They found a collection of these—not with metal, obviously, it was like a very like…prototypical version of these—in a room, locked in a tower to the north, [ALI laughs] that no one ever opened, until Ordenna got there.
+
+ALI: Oh, yeah? Weird, huh.
+
+AUSTIN: It’s weird.
+
+ALI: Yeah.
+
+AUSTIN: It’s weird.
+
+ALI: Don’t remember that one.
+
+AUSTIN: No, you don’t remember not opening that door?
+
+[ALI laughs]
+
+That was literally—from day one, the pala-din were in that room. So the Ordennan now have…
+
+ALI: [rueful] God, you had that day one!
+
+AUSTIN: Yeah, that was day one.
+
+ALI: Just ready to go!
+
+AUSTIN: They have…
+
+[ALI laughs]
+
+…an entire battalion of like metal pala-din. And they’re using that to put pressure on both Velas and Rosemerrow and all of these little other towns? They’re also enacting huge witch hunts, because—weird thing that’s happening right now is…people keep reporting the undead throughout northwestern Hieron. And so these like justiciars come in and—kill—the undead, or anyone that they believe to be undead, and they move in kind of small, elite packs, and…I’m torn between giving Hella that title and giving her something special and different. I think that it’s kind of more interesting if it’s not just one of those. And I’ll think about it—
+
+[unreleased MUSIC cuts in softly]
+
+—and we’ll find something. Until then, like, Queenkiller Hella totally works!
+
+ALI: [laughs] Yeah, it’s fine. She’ll take it. [laughs]
+
+[scene break]
+
+AUSTIN: So give me a Con.
+
+ALI: Yeah. [cross] 10!
+
+AUSTIN: [cross] That’s a 10! Look at that! No one’s gettin—
+
+ART: We’re all gonna live forever!
+
+AUSTIN: Oh, oh, Hella, take an experience from failing that roll earlier.
+
+[MUSIC cuts out]
+
+ALI: [cross] Oh, for sure!
+
+DRE: [cross] Oh, right.
+
+ALI: Would love to.
+
+AUSTIN: Yeah! Awesome. And then take—so take 3 hold for Defend, that you can spend later.
+
+ALI: Okay.
+
+AUSTIN: Um. So, Throndir, what about you?
+
+DRE: Uh, well I guess since I’m the person with ranged stuff I’ll shoot back.
+
+AUSTIN: Are you using Volley?
+
+DRE: [cautiously] Yes. For those [AUSTIN: Okay.] prep points, is that something we have to say, I’m gonna use one now, or can we use it…?
+
+AUSTIN: You can use it the case.
+
+DRE: Okay.
+
+AUSTIN: After the fact. But you can only use one per roll. All right, so you got a 7. “When you take aim and shoot an enemy at range, roll +Dex. On a 10+, you have a clear shot. Deal your damage. On a 7-9, choose one. Whichever you choose, you deal your damage. Either you have to move to get the shot, placing you in danger as described by the GM; you have to take what you can get, -1D6 damage; or you have to take several shots, reducing your ammo by 1.” Which do you choose?
+
+DRE: If we’re fightin people with arrows, I’ll probably be able to find one later—
+
+[unreleased MUSIC cuts in softly]
+
+—so I’ll reduce my ammo by 1.
+
+[scene break]
+
+AUSTIN: Uh, Throndir. What about you? What were you up to over the break?
+
+[MUSIC cuts out]
+
+DRE: Um. [cross] So I think—
+
+AUSTIN: [cross] Over winter break. 
+
+DRE: [laughs] Right. So I think it’s—
+
+AUSTIN: I mean, wait, before I move on, actually, really quick. I say winter break, like…just to paint a picture for everybody, and maybe Throndir is the one who is the one who kind of figured this out first as the Ranger, like…it became really clear to Throndir quick that like, oh, it’s just like it was near the Mark of the Erasure now.
+
+DRE: Mm-hm.
+
+AUSTIN: Like, it’s just like that everywhere up near here. Everywhere that you’ve been is now just covered in snow. And every—you know, the first week passed—first few days after the snow hit, everyone was like, ‘this is it, it’s the Erasure again. Uh-oh. We’re done.’ And then like a week later, people started to calm a little bit and go like, ‘oh, well, you know, I heard the Archivists talk about—
+
+[45:00]
+
+—there was a thing called snow once that was everywhere and not just near where the Erasure happened, theoretically? This must be it, and then it’ll melt soon! And then like a month later, people were like, oh wow, like we’re figuring out how to live in this—like ‘oh, we’ll get through it, we’ll get through it, like, we have all these—we have a good, you know, set of rations stored, we have, you know—it just worked out such that because we were growing, we were able to weather this.’ And then month two happens, and it’s gettin a little grim. 
+
+And then month three happens, and there is this notion, and like things are really coming down to it, now, like things are…the rations are getting even slimmer, and you know, the…everyone’s kind of mood is really pushing it, but, again, the people who know about the way things used to be say that winters used to last about three months. And so this must be up soon, and so there is this notion that’s kind of spreading—that spring is coming. 
+
+I don’t know how you each individually feel about that? Um. But Throndir, you know what it’s like to live with winter all the time, so that is one thing that I think separates you from nearly everyone else you’ve spoken to. [DRE: Yeah.] What have you been doing?
+
+DRE: Well, I think what Throndir or what I’ve been doing has been like…going to you know the people that are normally like farmers, hunters, gatherers, and being like, okay. This is how you’re gonna have to do things different in order to like keep up with this snow. So if you’re a [AUSTIN: Mm-hm.] farmer, like, here’s the crops you can grow. Here’s the stuff that like probably isn’t gonna work anymore. Here’s how you bury it under straw to keep the soil warm. Teaching [AUSTIN: Right.] hunters like, here’s how you track things in snow.
+
+Basically just—yeah, just giving people skills to try and cope with the winter.
+
+AUSTIN: Awesome. So, about six weeks in—do you remember Mitta? The snow elf who you met during the holiday special?
+
+DRE: Yeah, that I…helped escape from justice?
+
+AUSTIN: Right.
+
+DRE: Yes. [laughs]
+
+AUSTIN: Yep! Uh-huh. She gets in contact with you and says that you are requested back in Auniq. There are…negotiations going on between the goblins and Auniq. The goblins have recovered their words, and they have begun rebuilding their society in the kind of space between Auniq and Velas, and the town of Auniq was damaged severely in the kind of escape of the goblins from the prisons there, and they now are trying to work out loose trade agreements, and kind of truces, and all sorts of stuff. 
+
+Do you return to help? Or do you let them stay and deal with their own shit? [DRE: [sighs] No—] I promise the result of this won’t be you don’t get to be in this game.
+
+DRE: Right, yeah!
+
+[ALI laughs]
+
+Time to reroll, fucker!
+
+AUSTIN: It’s like—you know, I’ll be more specific—it’s like oh, there will a week of negotiation. In a neutral space.
+
+DRE: Um. Yes. Yeah,  think—Throndir goes back, but he requests that he helps delegate and negotiate with the goblins instead of with Auniq.
+
+AUSTIN: Oh, okay, well then maybe I don’t even need to make you roll this thing. Um. Yeah, if that’s your choice, then you gain an ally that you can determine later that is from the goblin side. Just like put that in your back pocket, if you ever need to roll to make a connection to somebody—I think there is literally a roll for that, somewhere in here, that’s like, oh yeah, I’m looking for a certain person.—you can get a bonus to it or just add—you know—
+
+[unreleased MUSIC cuts in softly]
+
+—you just—if you’re looking for a certain person, it can be this goblin friend that you made. [DRE: Okay.] Kind of like a goblin diplomat.
+
+[scene break]
+
+All right, so go down to 2 ammo.
+
+DRE: Yep.
+
+AUSTIN: And then roll your damage. For people who first—the first time they’re listening to this, every class in this game just has damage. 
+
+[MUSIC cuts out]
+
+Which means that like as long as it makes sense for you to be able to be able to deal that damage, you’ll deal the same damage that you’re doing, unless your weapon gives you some bonus. So like Throndir just does d8, as a ranger. It doesn’t matter if he’s using a sword or his bow, he’s gonna be doing d8. Or like a table stool, or something. So yeah, give me that damage.
+
+DRE: Yeah.
+
+AUSTIN: That is 3.
+
+DRE: Meh. …Yes.
+
+AUSTIN: All right, so. You…shoot that arrow up into the dark, at one of these three trees that have the kind of discoloration on it, and it strikes true and like a jut of black blood sprays up into the night sky, and you can kind of see it against the moonlight. And then you see, there’s like a—I’m trying to figure out what this would look like to you. This thing moves what look like two big limbs, like two giant limbs, off of its side, like big, very round, oval-shaped things, and then like is—like kind of jumps up off of that tree and you can see that the discoloration is gone, and then it vanishes again, and it’s like hidden up in the trees again. Hadrian, what are you doing?
+
+ART: Um, I have another clarifying question, and then [AUSTIN: Sure.] another choice. You said these trees weren’t doin great?
+
+AUSTIN: No. Not built for sn—not built for the winter.
+
+ART: Um. [stammers] You think a burly person might be able to push a tree over?
+
+AUSTIN: Maybe. Maybe! [cross] I guess—I think—
+
+JANINE: [cross] What’s the root structure like? That’s—you know.
+
+AUSTIN: Yeah. So I think that [DRE laughs] they’re—you know, what is their root structure like? That’s a good question. I think you can make—there’s probably a…just a Defy Danger: Strength roll that you’re doing here? [cross] But I don’t wanna s…
+
+ART: [cross] Wait—I have—
+
+AUSTIN: Go ahead.
+
+ART: I have a better idea.
+
+AUSTIN: Okay.
+
+ART: I’m gonna cast the cleric spell Darkness.
+
+AUSTIN: Okay. This is [cross] the better idea?
+
+ART: [cross] Choose an area I can see.
+
+[Laugh]
+
+AUSTIN: Uh-huh.
+
+ART: It is filled with supernatural darkness and shadow.
+
+AUSTIN: Okay. [cross] Which area are you choosing?
+
+ART: [cross] So I’m gonna try to draw em down.
+
+AUSTIN: Ah, okay so you’re like—that’s a good idea. That’s a better idea than push over a tree.
+
+[ALI laughs]
+
+[cross] Only because—
+
+ART: [cross] Yeah, I said I had two ideas and one was bad, but I…pushing over a tree is cooler.
+
+AUSTIN: It’s pretty cool. It’s pretty cool, Art. So how do you cast spells?
+
+ART: I roll Wisdom!
+AUSTIN: Uh-huh.
+
+ART: And then we see what those numbers are like.
+
+AUSTIN: Uh-huh.
+
+ART: And it’s a 9!
+
+ALI: Wonderful.
+
+ART: Which is great!
+
+AUSTIN: Well, it’s—are you gonna use one of those preps, to make it a 10?
+
+ART: [fiercely] No!
+
+AUSTIN: Okay! That’s fine. [DRE laughs] When you unleash a spell by your deity, roll +Wisdom. On a 10+—also, I need to know which spells you’ve actually memorized. When you get a second. [cross] One of them is clearly D—
+
+ART: [cross] That in media res thing makes the prep thing a little hard!
+
+AUSTIN: Totally, well just let me after this! I’m giving this one. I’m not saying you can’t do it. Just tell me what the other ones are. “When you unleash a spell granted by y—granted to you by your deity, roll +Wisdom. On a 10+, the spell is successfully cast, and your deity does not revoke the spell [snorts] so you may cast it again. On a 7-9, the spell is cast, but choose one: you draw unwelcome attention to yourself or put yourself in a spot, I’ll tell you how; the casting distances you from your deity, take -1 ongoing to cast any spell until the next time you Commune; or after you cast it, the spell is revoked by your deity, you cannot cast the spell again until you Commune and have it granted to you.”
+
+ART: I will take the first one, I will draw unwelcome attention or put myself in a spot.
+
+AUSTIN: Uh-huh.
+
+ART: I will also say that my other spell is Commune with the Dead. That’s a fun spell to have.
+
+AUSTIN: [over ALI laughing] Yeah, you used that one before! That’s good! So you get two spells, or do you get more than that?
+
+ART: I get spells up to my cleric—up to the—the total levels is my cleric level +1, which is 4.
+
+AUSTIN: Uh-huh.
+
+ART: And Darkness is 3, and Commune with the Dead is 1. There’s also three like basic spells that I just have?
+
+AUSTIN: Okay.
+
+ART: Which are Light, Sanctify and Guidance.
+
+AUSTIN: Okay, cool. Yeah, I got you, I got you. I didn’t realize that’s how—
+
+ART: So I get four 1s, or a 3 and a 1.
+
+AUSTIN: Or a 3 and a 1, and so you went 3 and a 1. And now I’m gonna read how Darkness actually work. It’s just the thing you said! Okay, cool! Um. Thing to note, you take -1 ongoing to cast other spells, though. While this—while you kind of maintain this.
+
+ART: Right.
+
+AUSTIN: This is—I think casting a spell like Darkness, when you’re—[slyly] when your god is Samothes? Is this the first time you’ve cast Darkness?
+
+ART: Oh, yeah, this is the fi—this—I mean, this is the first time I've had access to any of these level 3 spells.
+
+AUSTIN: No, but like as a char—like, even during the downtime, you’ve never cast Darkness before.
+
+ART: Uh, I doubt it, I mean, what—why?
+
+AUSTIN: So what was it like Communing to get this spell before? Like what did—
+
+[unreleased MUSIC cuts in softly]
+
+—asking for Darkness…feel like? What was the prayer?
+
+[scene break]
+
+So what’s goin on with you? What was Hadrian’s response…in the week, let’s say, after…
+
+[MUSIC cuts out]
+
+…you…saw the prelate, Lucius, who had orchestrated the death of a mage in the town, after you saw Lucius killed, who was the k—Lucius was the prelate and the kind of leader of the prelature of Samothes in the northwest, the kind of like whole church in this kind of quadrant of Hieron. So what did you do after that?
+
+ART: I think for Hadrian it was a chaotic week because what he wanted to do was grieve.
+
+AUSTIN: Mm.
+
+ART: But what he couldn’t do was take that time away. He needed to be a visible presence…
+
+AUSTIN: Mm-hm.
+
+ART: …in the church, and in the lives of those who follow the—who follow Samothes?
+
+AUSTIN: Right.
+
+ART: In Velas? And so…Hadrian was a working and a ragged man that week, and what he did was…was try to contemplate and in prayer—and I don’t mean that in the way…
+
+AUSTIN: [amused huff] [cross] You don’t mean thoughts and prayers?
+
+ART: [cross] Like the—the…
+
+[ALI laughs]
+
+I don’t mean like thoughts and prayers, but I also don’t mean the spell Commune.
+
+AUSTIN: Okay.
+
+ART: You know, Hadrian wasn’t looking for an answer, like a direct answer like that, because—that didn’t work out for him very well [AUSTIN: No.] in the tail end of that episode. He threw himself into his faith like a child does, or a like…regular person who [AUSTIN and ALI laugh] doesn’t have magic powers that directly connect them to their deity, [amused] now that I think about it for more than a second there.
+
+[Laughter]
+
+Um. I do want to make it clear that I have nothing against people [AUSTIN: Yeah.] of profound faith. I think [AUSTIN: Of course.] it’s a great quality a lot of the time. But it’s not something that immediately comes to my mind.
+
+AUSTIN: [sighs] So, two question. One.
+
+ART: Sure!
+
+AUSTIN: How is Hadrian’s family?
+
+ART: Bad? I mean, like a normal neglect-y kinda bad?
+
+AUSTIN: Okay.
+
+ART: They’re used to him being on the road, right?
+
+AUSTIN: Yeah.
+
+ART: He’s not…he’s not home a lot. But when he is home, it’s usually such a good time.
+
+AUSTIN: Mm.
+
+ART: You know, Hadrian’s a happy man. Hadrian loves his family. And the week after the Day of High Sun, they get a distant and somber and you know…lonely version of Hadran. And I think it slowly melts away. I think he starts to come to terms with it, because he has to. And I also think that he stopped needing to shoulder as big a burden in the church.
+
+AUSTIN: Mm-hm.
+
+ART: As you know the other lay clergy—
+
+AUSTIN: Do you send for another—like for more support?
+
+ART: I believe—I don’t know if Hadrian—Hadrian might not do it personally? I’m not sure that that’s his…
+
+AUSTIN: [cross] Right. So a thing to know is like.
+
+ART: [cross] Spot, but I…I think that yes. I think the word goes out that our prelate has fallen.
+
+AUSTIN: In the days after the prelate died, you do realize Hadrian is—like Hadrian realizes he is the highest-ranking member of the church in Velas. Like.
+
+ART: Mm.
+
+AUSTIN: [sighs] It’s…it’s not because you rose through the ranks in that way, it’s almost ornamental? It’s one of those things of like, oh right like, when you become a paladin like, oh yeah, this is your holy soldier for Samothes, that means that you are given this rank, technically. It’s a technicality. But like you are the one who is technically in charge. Um.
+
+ART: Sure.
+
+AUSTIN: But a call goes out, and a messenger meets up with another messenger somewhere, and then that one meets up with another messenger somewhere, and then at some point, Exarch Alyosha shows up, who is from…somewhere in the south? You’re not quite sure where? Or the east, it’s not—you get different answers when you talk to different people who spend time with the Exarch. 
+
+ART: Great…
+
+AUSTIN: But he’s like, young and really well-meaning, and a little—…After seeing what you’ve seen, you can’t help but thinking he’s maybe a little naive? And in that way is like a reverse of everything that Lucius was.
+
+ART: Sure.
+
+AUSTIN: So that’s I think it for you. I got—this is technically a Love Letter, but I’m not gonna make you roll for anything here. I just kinda wanted to get that picture of Hadrian. Is he in—like, when he leaves, is he still…? Two things. One, are you wearing the ring of Samothes that is holy symbol?
+
+ART: Uh, Hadrian is wearing the ring of Samothes on a chain around his neck.
+
+AUSTIN: Okay.
+
+ART: He hasn’t put it on his finger since it fell off.
+
+AUSTIN: [heavily] Okay. It’s better—it’s safer on the neck?
+
+ART: Much safer. 
+
+AUSTIN: [cross] But it’s also not touching your skin anymore, right?
+
+ART: [cross] If it falls off of the chain then we’re gonna really need to…figure something out.
+
+AUSTIN: Is it touching your skin still?
+
+ART: Absolutely.
+
+AUSTIN: Okay, so it’s under your shirt. It’s a chain that’s like up ag—okay, cool. 
+
+[unreleased MUSIC cuts in softly] 
+
+And then, two, are you still wearing the cloak that Samot gave you? The cape.
+
+ART: Yes.
+
+AUSTIN: [amused] Okay. Some mixed messaging going on.
+
+[DRE and ALI laugh]
+
+[scene break]
+
+ART: I mean, the sun is Samothes’ most basic…
+
+AUSTIN: Yeah.
+
+ART: Blessing, and the most…you know, the most holy almost. Being in the light of the sun any day.
+
+AUSTIN: So this isn’t so much like, I’m adding darkness here, it’s you’re revoking the sunlight.
+
+ART: Yeah, I’m revoking the sunlight…[stammers] for people who act against…Samothes and the area directly around them, [cross] coincidentally.
+
+AUSTIN: [cross] Interesting. Okay, cool. That is…that sounds good. Uh, so yeah! You manage to pull that off, but it does put you in danger. And it isn’t from one of three things that you, uh…that you’ve seen in the trees. You hear from the east, which is the side that Hella is hiding on now, the sound of hooves against the snow. And as you turn—
+
+[1:00:00]
+
+—to your right and look, there is massive like Clydesdale, huge horse? That is being ridden by a huge figure in lacquered armor, that has a massive curved blade, and is charging for you. What do you do?
+
+ART: Oh, shit. Get ‘em, Hella!
+
+[ALI laughs]
+
+AUSTIN: [laughing] Oh, is that what you do? Okay!
+
+ART: Uh. No, I want to…I want to hold my ground. I want to make him…
+
+AUSTIN: Okay!
+
+ART: I’m guess—like I’m daring him not to flinch.
+
+AUSTIN: That also sounds like a Defend to me? So give me a Con.
+
+ART: I think it’s Defy Danger: Con, but I’ll listen to you if you think it’s the other way.
+
+[ALI laughs]
+
+AUSTIN: Uh, I think it’s like—Defy Danger: Con is—I guess it could be! Um. Yeah, I—that’s totally fine. I was…trying to give you like a bonus, but yeah, give me a Defy Danger: Con! 
+
+Oof.
+
+ART: [happily] Everything’s terrible!
+
+ALI: Oh boy.
+
+AUSTIN: Take an XP. Art rolled a 4. You do not defy danger, at all, actually. You…so, for you it was like, I’m gonna stand my ground and just take the blow, right, get him close enough to where like I can…what was your plan, exactly?
+
+ART: Um. My plan.
+
+[AUSTIN laughs]
+
+And, in retrospect, this sounds like a 4 plan.
+
+[AUSTIN laughs again]
+
+[JANINE laughs quietly]
+
+Was. This guy expects me to move.
+
+AUSTIN: Yeah!
+
+ART: Or do something.
+
+[ALI laughs]
+
+To not get stabbed right here.
+
+AUSTIN: Okay.
+
+ART: What I’m gonna do is just kinda stand here.
+
+AUSTIN: Yeah.
+
+ART: And he’s gonna overcorrect.
+
+AUSTIN: Gotcha.
+
+ART: He’s gonna be like, oh, I’m not gonna hit where he is, I’m gonna hit where he’s gonna be. But I’m not gonna be there, I’m just gonna stay here?
+
+AUSTIN: Uh-huh! That didn’t work.
+
+ART: Yeah, that sounds like a 4, [AUSTIN: It does.] doesn’t it? Like—process-wise?
+
+AUSTIN: It does.
+
+[JANINE laughs]
+
+So he does—he rolls—he takes the best of 2d10, so he rolls 2d10 and takes whatever the higher one is? And because he’s using this huge curved sword, he also gets +3 to whatever that roll is.
+
+ART: Mm. Great!
+
+AUSTIN: So 8! You get—he rides up on you and just, with both hands, he like removes both hands from the reins, and the horse like continues, and I think the last thought you have before being cut really badly [laughs] is, ‘Wow! Like, that horse and he are really synced up! [ALI starts laughing] Like, he and that horse [JANINE huffs in amusement] are really good friends.’ And then just, slice! From like waist-up—it’s like a—an angle—he like cuts downwards, and then pulls it back up across your entire midsection. Obviously, you have some armor, so it doesn’t get all the way into you? But it’s 8 damage.
+
+ART: Okay, can we have a quick—can we have a quick…discussion on what debilities are and how I fix them?
+
+AUSTIN: You shouldn’t have any debilities right now.
+
+ART: No no, but I could take one to take no damage.
+
+AUSTIN: Totally. So—
+
+ART: That’s my new move?
+
+AUSTIN: That—it’s a pretty good move! So a debility is a thing that gives you a permanent minus to a stat. So like for instance, you could get Sick or Shaky. Sick gives you a -1 to your Constitution modifier, Shaky gives you a -1 to your Dex modifier. It’s kind of tough to get rid of them. The only way to really get rid of them—I think there might be magical ways to do it? Or like item-based ways? But you have to Recover, which is “when you do nothing but rest in comfort and safety, after a day, you recover all of your HP; after three days, you remove one debility. If you’re under the care of a healer, magical or otherwise, you can heal a debility for every two days of rest instead.”
+
+ART: All right, I’m just gonna take 8 then. That’s never gonna happen.
+
+[ALI laughs]
+
+AUSTIN: I mean, there might be times where it makes sense to do it—like—you’d rather do that than die, certainly! Right?
+
+ART: Yeah. Yeah. [AUSTIN: Right.] They could have really—if I took it ‘cause it really would have saved my bacon at the Tower!
+
+AUSTIN: Right. Totally. Um.
+
+ALI: Is 8 like a lot for you?
+
+AUSTIN: [cross] Yeah, where are you at?
+
+ART: [cross] It’s a third of my health.
+
+AUSTIN: Okay, [ALI: Oh!] you have 24, that’s not so bad. That’s—
+
+ALI: Okay.
+
+AUSTIN: Okay. You g—the other that you noticed is like—I think you’re like oh wow, they’re real tight. And the other thing is like, oh, that’s like a big monster man! [ALI laughs] Riding a horse. That has like dark red skin, and a pair of horns coming out of its head.
+
+ALI: Well, cool!
+
+JANINE: Cool…
+
+AUSTIN: Yep.
+
+DRE: Real quick, before we move on, is it you subtract your armor from the damage you receive?
+
+AUSTIN: Yes. [DRE: Okay.] Correct.
+
+ART: Oh, whoops.
+
+DRE: So yeah, you shouldn’t take that full 8, Art.
+
+AUSTIN: No. No. [cross] What is your armor?
+
+ART: [cross] I only take 6.
+
+AUSTIN: Yeah, there you go!
+
+ART: My armor’s 2.
+
+AUSTIN: There you go.
+
+[ALI sighs]
+
+Important! Um, all right! [sighs] Uh, so…the big man on the horse has now run right into this whole situation, but that’s given his back to you, Hella. What do you do?
+
+ALI: Um. I…I wanna attack but I would like to Discern Realities first?
+
+AUSTIN: Sure!
+
+ALI: [amused] Okay.
+
+AUSTIN: So you will lose the opportunity to hit him in the back if you Discern Realities, and [ALI: Oh.] also if you attack, you will lose your defense bonuses, because you won’t be standing in defense anymore. You could totally Discern Realities still, though. That’s—[ALI: Okay.] I’m [cross] just giving you—
+
+ART: [roughly] [cross] I’m on my back.
+
+AUSTIN: —letting you clear—letting you know what the options are here.
+
+ALI: Uh, I guess I’ll just go for it! [laughs]
+
+AUSTIN: Okay! [ALI: Um, yeah. I guess—] What do you do? What’s it look like?
+
+ALI: Mm. Oh, he doesn’t think that I’m there. He probably doesn’t see me while he’s charging for Hadrian. [AUSTIN: Yep.] So like as soon as he gets that like one good swipe, like, I probably try to stab him in the back?
+
+AUSTIN: Like are you like jumping up to hit him, are you—like ‘cause he’s—you can [ALI: Yeah.] hit him from the ground, but stabbing would be kind of tough? [cross] Do you know what I mean?
+
+ALI: [cross] Right, okay. Yeah! But I think I c—mm. I probably still try to go for it, right?
+
+AUSTIN: All right, go for it.
+
+[ALI lauhs]
+
+No, I’m just saying a stabbing motion might be tough ‘cause he’s…
+
+ALI: Yeah. Okay, so it’s probably more of like [cross] a slashing up?
+
+AUSTIN: [cross] Yeah, that’s—that’s fine.
+
+ALI: So like the tip of my sword will like catch it.
+
+AUSTIN: Sounds good.
+
+ALI: In the motion.
+
+AUSTIN: Give me a Hack & Slash, which is Strength. [ALI: Huh!] When you attack an enemy in melee, roll +Strength. On [ALI: Wonderful] 10+ you deal damage to the enemy and avoid their attack. At your option, you may choose to do +1d6, but expose yourself to the enemy’s attack. And we’ll see what you roll.
+
+ALI: [cross] I got an 11!
+
+AUSTIN: [cross] There’s an 11!
+
+DRE: [cross] Damn!
+
+ALI: Well, fine!
+
+AUSTIN: Do you wanna spend 1 to get 12? 1 Prep.
+
+ALI: Um.
+
+AUSTIN: Um, I say this because you have a new ability, called Smash.
+
+[ALI laughs]
+
+It says, when you Hack or Slash, on a 12+, deal your damage and choose something physical your target has: a weapon, their position, a limb. They lose it.
+
+ALI: Ooh. That’s really good, but this is like prep for the whole mission, right? Or is it just to this town?
+
+AUSTIN: It’s just for the whole mission. But I—like it’s a +1, like I don’t want you to…I gave you those points because they’re fun and good, not because I want you to sit on them for the next three months.
+
+ALI: Okay, yeah. Fair enough, [cross] so let’s do it.
+
+AUSTIN: [cross] Which—you know, what I’ll say is, if you don’t use them by the time you time you get out of Twinbrook, you’ll lose them forever. So it’s good [ALI: Okay.] for like this mission, this like first little bit of the game.
+
+ALI: Okay, um, I…yeah. Sure. I’ll spend it.
+
+AUSTIN: Okay!
+
+ALI: And [laughs] then…I—okay. So I either want—I can just decide anything, right?
+
+AUSTIN: Totally.
+
+ALI: I would like that guy’s arm to be gone. [slight laugh]
+
+AUSTIN: Awesome. I just realized I kind of fucked you, but it’ll be fun anyway.
+
+ALI: [objecting noise] Austin! [cross] [laughs helplessly]
+
+JANINE: [cross] Oh my god.
+
+[DRE laughs]
+
+AUSTIN: [cross] I forgot what you were fighting. But this is actually the best possible way of doing this. In fact, here’s the thing. I’ll give you that point back.
+
+[ALI makes a noise and laughs]
+
+I’ll give you that point back, ‘cause I just remembers how this works. Do your damage.
+
+ALI: C—
+
+AUSTIN: Um.
+
+ALI: ‘Cause I was gonna break his  sword, but…[laughs]  Like. Mm—okay. I’m gonna do my damage. I can do a lot of damage. [cross] I’m just gonna do it.
+
+AUSTIN: [cross] You can. Are you going the extra 1d6 damage or just your regular…
+
+ALI: Oh. Oh, wait, what?
+
+AUSTIN: So when you attack and get over a 10, or—at your option when you attack successfully, you can…you can do an extra 1d6 damage but expose yourself to their counterattack.
+
+ALI: Oh, I get…10 plus an extra d4 every I attack anyway?
+
+AUSTIN: Right, so you’re not also gonna do the extra d6.
+
+ALI: No, yeah.
+
+AUSTIN: Okay. So you do 6 damage. All right, so, you do cut off this thing’s arm, its left arm, and it like—it does not expect you at all, and its arm like falls off into the snow. And you expect blood to come pouring out of it. That doesn’t happen. It like—it has its—he has his like right arm out with the sword in it still, this giant sword. But it like pulls up and turns to face you, and…oh wait, you used your sword! I’m completely wrong. If this was anybody else’s sword, a [ALI snorts and claps] different thing would happen here.
+
+[JANINE laughs slightly]
+
+You do. You cut off his fuckin arm. [cross] You’re—his arm’s gone.
+
+ALI: [cross] Nice. Cool thank you. 
+
+AUSTIN: Phew. Okay.
+
+ALI: Hi.
+
+AUSTIN: So I am gonna take that prep point.
+
+ALI: This is—[JANINE laughs] Hella Varal, Queenkiller.
+
+[DRE laughs]
+
+[cross] So.
+
+AUSTIN: [cross] Yeah. Um.
+
+ALI: I know what you’re thinking.
+
+AUSTIN: I forgot—I forgot who you were. Shit.
+
+ALI: Mm-hm!
+
+AUSTIN: Um, also, yeah, you actually do another +2 damage on top of that, Ali.
+
+ALI: Wonderful.
+
+AUSTIN: From your sword being Sharp.
+
+ALI: [laughs triumphantly] Nice!
+
+AUSTIN: Um, so that’s actually down to…so wait did you roll 4 dam—or you rolled 6 damage. All right! That’s a—that was a good hit. Uh, and yeah! Now he’s missing his left arm!
+
+[ALI laughs]
+
+Um.
+
+ALI: Have at him, guys.
+
+AUSTIN: Good work.
+
+[ALI laughs]
+
+Adaire. [amused huff] A man on a horse just rode past you, and one second he had an arm, and now he doesn’t have an arm anymore.
+
+[DRE and JANINE laugh]
+
+JANINE: Uh. Okay, what’s the situation with the tree boys, that you like—‘cause—okay, so Andrew shot—sorry. Throndir [AUSTIN: Yes.] shot at one of them.
+
+AUSTIN: Yep. Uh, and the other two are now like hopping around, but you still have track of them. The third one has disappeared. Um. [JANINE: Okay.] But the other two—they’re moving from tree to tree and trying to line up different shots. Ideally at your own backs. And they’re like getting ready to counterattack.
+
+ART: Wait, they’re in the dark, though.
+
+AUSTIN: Oh, right! You’re right. That’s—I forgot. [JANINE: Right.] So yeah, they’ve come down. They’ve come down lower. They’re still like trying their best to hide behind the trees, but you can totally still spot them. Because now there's snow.
+
+JANINE: Is the hurt boy still coming down, or is he still hiding?
+
+AUSTIN: Hurt boy is still hiding.
+
+JANINE: Okay. Um. I think I’m going to do a volley at one of the shooty boys, then.
+
+AUSTIN: Okay, what are you attacking with?
+
+JANINE: I’m going to—‘cause I’ve got throwing daggers?
+
+AUSTIN: Awesome.
+
+JANINE: I…don’t entirely know how to do this roll? [laughing] Hang on…
+
+AUSTIN: It’s just a—it’s a Dex roll. So just hit the—
+
+JANINE: Okay.
+
+AUSTIN: The Dex button.
+
+JANINE: So it doesn’t—oh, right, ‘cause it’s not like my—it’s not my other weapon, so it wouldn’t be the d8 thing, it’s just a—okay.
+
+AUSTIN: Well, no—so yeah—so to attack, you’re just rolling Dex. Like [JANINE: Okay.] whenever you do a Volley, Volley does Dex. Hack & Slash does Strength, [JANINE: Okay.] unless you have a [cross] Precise weapon.
+
+JANINE: [cross] I have a Precise weapon, so it would also…
+
+AUSTIN: So you’ll always be—you will almost always be attacking with Dex.
+
+JANINE: Then what’s the Damage: d8 thing for?
+
+AUSTIN: That’s when you hit, that’s how much damage you do. This is just to [JANINE: Oh, okay.] see if you hit.
+
+JANINE: Oh, okay, okay. Sorry.
+
+AUSTIN: Yeah.
+
+JANINE: I’m new.
+
+AUSTIN: And that’s a 9!
+
+JANINE: Got a 9!
+
+AUSTIN: So, one, do you wanna use a prep to get that up to a full success? Or do you wanna just leave it at 9?
+
+JANINE: Let’s see, what’s the difference here, I get to choose one versus…[AUSTIN: Uh.] over choosing one of these bad things. [cross] Or just being cool.
+
+AUSTIN: [cross] Yes, a 7-9…yes. That is the difference.
+
+[JANINE laughs]
+
+7-9 is always like, yeah you get it, but…there’s also this other bad thing.
+
+JANINE: Fuck. I think I would rather take—I think I wanna keep the preps.
+
+AUSTIN: Okay.
+
+JANINE: To be honest.
+
+AUSTIN: That’s fine! [JANINE: So.] So which of the 7-9 do you choose? [JANINE: I will…] You either get put in danger, you take -1d6 damage, or you have to take several shots, reducing your ammo by one.
+
+JANINE: I will take several shots, [AUSTIN: Okay.] reducing my ammo by one.
+
+AUSTIN: So then we just get this shot of you just like throwing knives over and over again.
+
+[JANINE clicks teeth]
+
+‘Cause even though you have three ammo, that doesn’t mean that you have three knives. It means that you have this kind of—
+
+JANINE: Yeah.
+
+AUSTIN: —three abstract notion of what kni—it’s like there’s three shots in the movie of you throwing knives, basically.
+
+JANINE: Mm-hm.
+
+AUSTIN: Or it’s like that scene—it’s like a scene in Lord of the Rings or something where it’s like oh Legolas is shooting a bunch of arrows and keeps missing, which like kind of indicates that like, oh, resources are going to be limited.
+
+JANINE: Right.
+
+AUSTIN: Um, so it takes a few and these creatures, now that they’re down, near the snow, I think it’s like they’re moving fast, they’re moving fast, they’re moving fast, and you’re throwing these knives and they’re like, almost like…in a very like Dragonball Z or Ninja Scroll way, you get that like vertical black line effect when they’re jumping from place to place? [JANINE: Mm-hm.] And then finally one of your—you like predict where one is gonna go and toss the knife exactly where it’s supposed to be and you catch it in the—roll damage, we’ll see where you catch it. So hit the—all right!
+
+JANINE: Mm.
+
+AUSTIN: 4 damage ain’t bad. I’m gonna put this on the first of the three. And you catch it in what you expect to be a human throat, but is not a human throat. At first glance, this is like a cloaked figure that has a kind of spotted white cloak from the shoulders down, and then kind of bare brown legs with those sort of like Japanese sandals that split your kind of toes into two groups, do you know what I’m talking about?
+
+JANINE: Mm-hm.
+
+AUSTIN: But then like you look closer at the legs, and those aren’t sandals, those are just, it has two like foot grouping—it has two—it has like two claws on each foot, and then you realize it’s not brown s—
+
+JANINE: It has bird feet.
+
+AUSTIN: No. Not bird feet, my friend. 
+
+JANINE: No? Oh boy.
+
+AUSTIN: It has kind of brown, chitinous skin?
+
+JANINE: Ew.
+
+AUSTIN: And then you realize it’s not a cape, those are like wings?
+
+[JANINE sighs]
+
+Dusty white [sighs] like—thin wings? And then where it would be a throat is—I mean, it’s still its throat, I guess, but it’s this like really wrinkly, again, kind of chitinous, hard-shelled skin, and above that is the face of a moth.
+
+JANINE: Ew!!
+
+AUSTIN: Huge big eyes with big antennae popping out of it.
+
+[JANINE groans]
+
+And…[cross] mandibles that are chittering.
+
+JANINE: [cross] It had to be moths.
+
+AUSTIN: Yeah.
+
+[JANINE sighs in disgust]
+
+And it’s chittering, and is bleeding from the neck, and drops down to one knee. Um. But the second that it does that…another arrow from a short bow comes in from the other one at you. From the other moth ninja thing. What do you do?
+
+JANINE: I’m going to…Defy Danger by getting out of the way or acting fast.
+
+AUSTIN: So what’s that look like?
+
+JANINE: Uh, fucking dodging? [cross] I don’t know! [laughing] Getting the hell out, like.
+
+AUSTIN: [cross] Okay. But does is she like moving back toward the cart, is she like—I’m trying to pos—like imagine the visual—like where’s she standing right now?
+
+JANINE: So I imagine she was for this standing like near the cart and for this she’s probably going to…here’s an idea, how bout she tries to like dive under the cart?
+
+AUSTIN: Totally. That totally works. So yeah, give me a Defy Danger: Dex.
+
+JANINE: Meh. That’s a success.
+
+AUSTIN: That’s—well, that’s a partial success, that’s an 8. Um, so on Defy Danger, when you act despite an imminent threat or suffer a calamity, say how you deal with it and roll. An a 10+ you do what you set out—
+
+[1:15:00]
+
+—to do, the threat doesn’t come to bear. On a 7-9 you stumble, hesitate or flinch. The GM will offer you a worse outcome, a hard bargain or an ugly choice. So you’re able to dodge out of the way, but if you get all the way under there, your rapier starts to get stuck on the bottom of the [JANINE: Mm…] cart, and you either have to—you have to like undo your belt really quick to get all the way under there otherwise you'll take damage. And you’ll lose the rapier in the process. Or you’ll have to spend an action, basically, picking it up and putting it back on, if you wanna use it again.
+
+JANINE: So wait, what are my choices here? Either take damage or—
+
+AUSTIN: Take damage or lose your rapier until you pick it up, as a specific action.
+
+JANINE: [sigh]…Uh, I’m gonna lose the rapier.
+
+AUSTIN: All right.
+
+JANINE: Until I pick it up.
+
+AUSTIN: So we just get you like da—we get again like a shot of like three arrows coming at you and you like dive underneath the cart, and you’re like aaah to undo the fuckin belt [laughs] and get under safely. [JANINE: [amused] Kay.] All right.
+
+Hadrian. How you doin, buddy?
+
+ART: I’ve been better, but I’ve also been much worse.
+
+AUSTIN: That’s true.
+
+[DRE laughs]
+
+You have been much worse. Um, the big red figure is now like kind of further away into the trees, to the west, and but is like kind of spinning back around? There is also the one moth that’s on a knee? That moth’s name is…that moth’s name is Frond. The other one that’s hurt is Foliage. Uh. And then there’s one that you’ve not hurt at all yet. And Foliage has disappeared, Frond is on one knee, and the other one is still bouncing from place to place trying to like get to a point where it can attack you without being hit.
+
+ART: Um, all right. 
+
+AUSTIN: [cross] That’s the state of affairs.
+
+ART: [cross] Good job with the Pan’s Labyrinth names.
+
+AUSTIN: [amused] Yes. 
+
+[ART and JANINE make amused noises]
+
+Do my best.
+
+ART: Oh, I feel like the big red guy’s the—oh, I guess he’s missin an arm.
+
+AUSTIN: Yeah.
+
+ART: Uh, but no I think I would like to—I’d like to try to get to him. I’d like to…I don’t know. Try to finish the job we’ve started with him.
+
+AUSTIN: Sounds good. Um, so you just like charge at him?
+
+ART: Yeah, I think I charge him. [AUSTIN: All right.] I’m hoping he’s a little rattled, but my plans are not goin great right now.
+
+[ALI laughs]
+
+AUSTIN: That’s fair. Do you have a special move for that, or are you just using Hack & Slash?
+
+ART: I am just using Hack & Slash, I specifically did not take the move that does this.
+
+AUSTIN: Okay. [amused] Um. Let’s…that’s not great. Um. Because there’s some distance between you—what sort of weapon do you have?
+
+ART: Uh, the golden sword?
+
+AUSTIN: What range is that? That’s probably Close, right?
+
+ART: Close.
+
+AUSTIN: All right, so he has reach, which gives him a little bit of extra defense against you. You’re gonna have to Defy Danger in some way to get in close enough to actually hit with that sword.
+
+ART: All right. Give me a moment to consult the ways I can Defy Danger.
+
+[ALI laughs]
+
+AUSTIN: Um. For the listeners: by powering through, with Strength; by getting out of the way or acting fast, with Dex; by enduring, with Con; with quick thinking, with Int; through mental fortitude, with Wisdom; or by using charm and [laughs] social grace, [DRE laughs] by Charisma.
+
+I would—I could conceived of a charm or social grace maneuver here. It would just be very…interesting here.
+
+JANINE: You curtsey and he misses you.
+
+AUSTIN: Yeah, that’s it. I think it’s like you’re really flashy, and it distracts him in some way. You know?
+
+ART: Sure. Um. I think I’m gonna try to do Strength. I’m gonna try to [AUSTIN: Yeah.] hit his sword with mine and power it out of the way and get in and hit him.
+
+AUSTIN: That totally works.
+
+ART: Here we go, Defy Danger: Strength.
+
+AUSTIN: Boom! 13. You get [ART: Boom.] what you’re going for. So yeah, you—he comes down with a—with a one-armed slash, but because he’s only using his one arm, and because you are at full strength, like, you easily deflect his blow and get in close to him. What do you do?
+
+ART: Uh, I try to plunge into—I guess I’m not high enough, right? He’s still up?
+
+AUSTIN: Yeah, he’s still up on a horse.
+
+ART: Um. I wanna—to run—I wanna stab him in the thigh. I’m trying to—
+
+AUSTIN: Ooh, nice. Okay.
+
+ART: Limit his ability to control that horse.
+
+AUSTIN: Gimme a Hack & Slash.
+
+ART: It’s worse!
+
+AUSTIN: It’s an 8. [amused huff] It’s a 8. Uh, when you attack an enemy in melee, roll +Strength. On a 7-9, you deal your damage to the enemy, and the enemy makes an attack at you. So I think you trade blows here. Give me your damage first.
+
+ART: Ah, this is another in media res query.
+
+AUSTIN: Yep.
+
+ART: I have +1d4 damage when I’m on a quest.
+
+AUSTIN: Yep.
+
+ART: But quest is like a whole complicated thing. It [AUSTIN: Yeah.] it assumed that I am on a quest, and we haven’t defined it, [cross] or that I—this is a milk run.
+
+AUSTIN: Yes. I’m—absolutely. Absolutely [ART: All right.] you’re on a quest.
+
+ART: All right. [cross] I have plus—
+
+AUSTIN: [cross] The quest is to reach that other—is to that other mark on the map, probably. Or some other—that’s part of the—that’s the material part of that quest that—your quest could be something about Samothes or something else, but you’re on a quest right now.
+
+ART: All right, the whole quest thing is very specific. We’ll get to it. [cross] Uh, so this and a d4.
+
+AUSTIN: [cross] Yeah, we’ll do that as soon as this is over. Okay. Gimme it.
+
+ART: That wasn’t great.
+
+AUSTIN: You rolled a 2. [sighs] And a 3. That’s fine.
+
+ART: And uh +1 for the weapon, so we’re up to—
+
+AUSTIN: 6!
+
+ART: —or is that plus—no, that’s not built in. So it’s a 6.
+
+AUSTIN: All right. It is a 6. I also just realized this character also has armor. All right. So yeah, you manage to plunge it in, and as you do, he also slides—actually, he just hits you with the hilt of his—‘cause you’re in too close for him to get a full slash on you, so he just hits you with like the hilt of the sword. Which will be less damage than normal. Which is…still best of 2d10, just he doesn’t get the +3. So take 4.
+
+ART: All right, minus the armor, so 2.
+
+AUSTIN: Yep. D’you pull the blade back out?
+
+ART: Yeah.
+
+AUSTIN: Okay. So, as you pull it out, you can immediately s—so it starts bleeding as you’re pulling it out, but once it hits the air, once it’s just the air touching the wound, you can see it begin to stitch itself closed.
+
+ART: Oh, jesus.
+
+[ALI groans]
+
+AUSTIN: He like uses—and like—you can see it happening ‘cause he actually does the thing you were hoping you could stop him from doing, which is he kind of like smacks the horse with the side of his feet, and begins moving forward again. And he’s headed towards the moth that’s down on one knee. 
+
+Uh, you get a better look at him at this distance, by the way, and in the light of the snow, you can see that he has like—he’s a big, bear-chested…masculine figure who has, again, kind of dark red skin, these two horns coming out from his head, kind of messy black hair, a black goatee, smiling eyes—like, there’s something in him that’s like, this is a joy. This whole experience is kind of joyful for him. Even though he’s just lost his arm. 
+
+Yeah, he is an oni from the side of a sake bottle. He is a—[ALI and JANINE laugh] he is a Japanese troll. Art in the chat said he’s an oni from the side of a Japanese sake bottle. That’s accurate. 100%. And actually, this close—[sighs] you’ve probably heard the kids…in Velas talk about Red Jack before. Red Jack is this kind of like mythological—or like urban legend? And it’s just like the sort of like one, two, Red Jack’s coming for you, style like nursery rhyme, or like—not nursery rhyme. But uh. You know what I mean. Like a thing kids say during re—like sing during recess and dance around. And, you know, you probably have alternately used Red Jack as a way to tell kids to behave, um, and understood it to just be complete nonsense?
+
+ART: Sure.
+
+AUSTIN: Or maybe not, like I don’t know. It’s up to you. Maybe you actually do believe in Red Jack, or did, because you’re a man of the faith and understand that there are monsters in the world, right?
+
+JANINE: Maybe you went on a talk show and baited him and then he [AUSTIN laughs] came after your wife and kids, and you spent the next few years of your life [laughs]…
+
+AUSTIN: Yes.
+
+JANINE: [laughing] Hunting him down…
+
+AUSTIN: Great. Um. So yeah, that’s—this is probably Red Jack. Red Jack is real. Whatever you thought of him before. And is galloping back towards that other moth. 
+
+Throndir. What are you up to?
+
+DRE: Um. I wanna knock Red Jack off of their horse.
+
+AUSTIN: Ooh. How do you plan on doing that?DRE: So I think the way that I set this up is that you know Throndir basically creates a diversion by like shooting at Red Jack with an arrow, just to get their attention, but then [AUSTIN: Yeah.] Kodiak bust out of the underbrush and basically just tries to tackle him off of the horse.
+
+AUSTIN: This is the debut of the season [laughs] the season three debut of everyone’s favorite character, [DRE laughs] Kodiak, your big dog.
+
+DRE: Yes. My big goofy dog.
+
+AUSTIN: What type of dog is it again?
+
+DRE: Oh…gosh! I had like a very specific breed from season one. I think I said a [AUSTIN: You did.] bull mastiff.
+
+AUSTIN: I think so too.
+
+ALI: Oh, yeah.
+
+DRE: Yeah, it’s a big dog.
+
+AUSTIN: The Big Dawg Mastiff is in the house, got it.
+
+[DRE laughs loudly]
+
+ALI: [sighs] God.
+
+[JANINE sighs]
+
+The Big Dog isn’t here!
+
+AUSTIN: [cross] That’s true. Our Big Dog.
+
+ALI: [cross] Tune in for the Big Dog next week.
+
+[DRE laughs]
+
+AUSTIN: Our good Big Dog.
+
+[ALI laughs]
+
+Give me a roll.
+
+DRE: Uh, what would that…?
+
+AUSTIN: What is this roll?
+
+[DRE sighs]
+
+That—wait, what would that be? So you’re using your dog to—I think it’s probably…let’s see. Um. You know what—it might be Called Shot, in a sense? Which is, when you attack a defenseless or surprised enemy at range, you can choose to deal your damage or name your target and roll +Dex. Um, and there’s—if you hit them in the head, it’s ‘they do nothing but stand and drool for a few moments’? Or ‘they’re hobbled and slow-moving’ if you call legs, which I think either of those works, and the way that i’m gonna let you do that is that like…Red Jack is expecting an attack from you, is not expecting an attack from Kodiak.
+
+DRE: All right.
+
+AUSTIN: And so there’s the other thing about this roll is that you’re using Kodiak—when you work with your animal companion on something it’s trained in, you attack—and you attack the same target, add its ferocity to your damage. Like you’re co-attacking here, so. Give me a Called Shot, which is roll Dex.
+
+DRE: Kay. Woof!
+
+AUSTIN: That is a 5. That is not a success.
+
+DRE: Woof!
+
+AUSTIN: That is, in fact, a failure.
+
+DRE: That is a 1 and a 1 and a +3.
+
+ALI: [sighs] Ooh…
+
+AUSTIN: Yeah. That is—so I think your arrow strikes Red Jack right in the chest—like and it’s like you gave him the full fuckin—like the full draw on the bow, and like normally when you hit something like that, like even if you’re hunting, you know, when you got that full draw on, you hit a deer or something, it’s like, oh. Like there is a force, there’s a push to it. You catch him in the chest and he does like back up for a second, and then breaks off the shaft, and you can see the arrow head just gets consumed into his body.
+
+DRE: Hm!
+
+AUSTIN: And then Kodiak jumps up at him, and he like goes to kick it, and then like [amused huff] sees it’s a nice dog, and just like turns his—he goes,
+
+	(as RED JACK): [deep voice] Ace!
+
+—and turns his horse such that the back—like the butt of the horse slaps Kodiak in the face.
+
+[DRE laughs]
+
+[ALI laughs sympathetically]
+
+And kind of knocks him away. Um. At that point Red Jack goes up and picks up with one—with his one remaining arm—he has sheathed his giant sword—picks up the one moth that’s on the ground, and like lays him across the back of Ace, his giant horse.
+
+JANINE: Oh.
+
+AUSTIN: Who has not go—Hella! What are [ALI: Hi.] you up to?
+
+ALI: Um.
+
+AUSTIN: So there is still one moth that’s hurt really bad, [stammers] is at 3 HP, I’ll give you, and [ALI: Okay.] there is one that is not accounted for.
+
+ALI: Okay, the one that’s hurt really bad is on the back of Ace.
+
+AUSTIN: No, sorry, the one that’s hurt really bad is on the back of Ace. That one’s really hurt. The [ALI: Oh oh oh.] other one is - the other one is like [cross] pretty hurt.
+
+JANINE: [cross] Foliage?
+
+AUSTIN: Foliage is the one who is not really hurt—Frond is really hurt, Foliage is pretty hurt. [ALI laughs quietly] There’s also Sprig. No one knows where Sprig is.
+
+ALI: …Okay, and what’s my like—what’s the distance situation here?
+
+AUSTIN: [breathes in] Um, I’d say that you’re within like sprinting distance to Foliage. [ALI: Okay!] You could also probably get to…Red Jack, he’s just in the woods to your west. [ALI: Okay.] But that’s the distance that Hadrian sprinted last action, so.
+
+ALI: Okay, um! I guess I’ll go for Foliage?
+
+AUSTIN: Okay.
+
+ALI: Yeah, that seems like the easiest…
+
+AUSTIN: Um. So you’re again sprinting at him and just gonna hit him with a sword?
+
+ALI: Yes. Just goin for it.
+
+AUSTIN: So again I think this is a Defy Danger, because he has a bow. He has a short bow, it’ll be firing [ALI: Right.] at you while charging.
+
+ALI: Okay.
+
+AUSTIN: So.
+
+ALI: [cross] Wh—Defy…
+
+AUSTIN: [cross] So how are you…how are you Defying?
+ALI: Um…
+
+AUSTIN: What’s Hella doing to…[cross] get close enough?
+
+ALI: [cross] I think—I think just by powering through! [slight laugh]
+
+AUSTIN: So is that—so, this is one of the things that’s been a long-running Dungeon World debate, is—is this—are you using Con? Are you using Strength? What are you using?
+
+ALI: Um…what’s the difference between those two? I don’t know like the D&D like…
+
+AUSTIN: [sighs] So…so Strength is like physical, like I’m buff, I can lift shit?
+
+ALI: Okay.
+
+AUSTIN: Con is like, I’m tough. I don’t get sick, I have a lot of HP.
+
+[ALI laughs]
+
+If you punch me I can do the thing that action heroes do where they act like they didnt feel it? Like you’re just a tough—you’re just tough! You just take it.
+
+ALI: Right.
+
+AUSTIN: The thing that ends up being difficult with Defy Danger is…it says, ‘When you act despite imminent threat or suffer a calamity, say how you deal with it and roll. If you do it…by,’ and then with Con it’s ‘by enduring.’ You…the debate ends up being like…if you succeed at the roll, shouldn’t you not take damage. Because you succeeded at Defying Danger?
+
+ALI: Oh, yeah…
+
+AUSTIN: But I don’t think that’s how Con works! I think the thing that you’re defying is that you’re able to still get close enough to do the attack.
+
+ALI: Right.
+
+AUSTIN: But with Con it’s like, you’re getting hit. You’re just getting hit and still managing to push forward. You know?
+
+ALI: Right, okay. [cross] Yeah. Um.
+
+AUSTIN: [cross] So I think you could do Con, but. And I don’t know how—I don’t know what Strength looks like here. I don’t—[ALI laughs] like you don’t have an ability to knock arrows out of the sky, right?
+
+ALI: Yeah, except for a cool sword. But that doesn’t [laughs]...
+
+AUSTIN: Does your sword have like anti-arrow abilities?
+
+ALI: No, but I could just like wave it on the way there.
+
+AUSTIN: That might be Dex, then.
+
+ALI: [laughs] No, I’m just gonna go for Con.
+
+AUSTIN: Okay.
+
+[ALI laughs]
+
+[JANINE laughs]
+
+Fair.
+
+ALI: Which is a 10.
+
+AUSTIN: That’s a success, okay. But [ALI: Uh-huh.] you do get hit on the way in. It’s just [ALI: Okay.] like you don’t give a fuck.
+
+ALI: Right.
+
+AUSTIN: …They have a d8 for damage. Oh, look at that! That’s a good roll. [ALI mumbles] It’s only a 1 and you’d probably have 1 armor.
+
+ALI: [smug] I have 3 armor, so. [laughs]
+
+AUSTIN: Look at that. Wait, [ALI: I endure.] how do you have 3 armor? Jesus christ!
+
+ALI: I upgraded to scale mail.
+
+AUSTIN: Ah.
+
+ALI: Which is 2. And then I have—
+
+[1:30:00]
+
+—my like boots and like greaves.
+
+AUSTIN: Oh, you have like extra—you have like instead of the shield you have that like extra [cross] attack-y…armor. Gotcha.
+
+ALI: [cross] Yeah, I have like a…yeah.
+
+AUSTIN: Cool. So yeah, not a problem at all [ALI laughs quietly] for Hella Varal, Queenkiller. Um.
+
+ALI: Oh…
+
+AUSTIN: You charge ahead! Gimme a Hack & Slash, as you [ALI: Oh—[groans]] bring your sword down on the kneeling—[ALI: To—]] or I guess this one is not kneeling, but.
+
+ALI: Yeah, still though. That’s a [laughing] 15…
+
+AUSTIN: No no no, that’s a Strength roll. That’s not your damage. Gimme your—oh, right! Sorry. That is [ALI: Yeah.] a 15. That—you—did—fuck. Okay! So.
+
+[JANINE laughs]
+
+[ALI laughs silently]
+
+You roll well, huh?
+
+ALI: [laughing] Uh-huh!
+
+AUSTIN: What’s it like to be playing a game where you don’t fail all the [laughing] time anymore?
+
+ALI: It’s so good! [cross] It’s wonderful!
+
+AUSTIN: [cross] It’s such a thing. All right, so. When you Hack & Slash, on a 12+, deal your damage and choose something physical your target has. They lose it.
+
+ALI: Ah, what do I got? What’s the…[laughs quietly]…The bow, probably? [AUSTIN: Sure.] Do they have anything else except for that bow?
+
+AUSTIN: They got limbs. They have…
+
+ALI: Mm.
+
+AUSTIN: [cross] They have limbs, they also have—
+
+JANINE: [cross] Gross feeler-y things.
+
+AUSTIN: They do have feeler-y things. They do have like antennae. They do have…yeah.
+
+ALI: Oh, god.
+
+AUSTIN: [cross] They have wings!
+
+ALI: [cross] Oh, that’d be so mean and gross!
+
+AUSTIN: Look, do your—how about. Do your damage real quick, and let’s see if it even matters.
+
+ALI: [laughing quietly] ‘Kay…6.
+
+AUSTIN: That is—you kill this thing. How do you do it?
+
+ALI: Cool. I…just stab at it once I get in range, I guess.
+
+AUSTIN: Aw, so you just like slam the sword into it and the [ALI: Yeah!] black insect blood pops out all over your armor and you look like a Dragon Age I character.
+
+[ALI and DRE laugh loudly]
+
+Um. Awesome!
+
+ALI: We’re back at it. We’re doin it!
+
+AUSTIN: You’re doin the games!
+
+[ALI laughs slightly]
+
+Um. [sighs] So where is every—give me just a picture of where everybody is at. Let’s go through the line here. I’ll like—[cross] there’s the red dot—
+
+JANINE: [cross] I’m under a cart.
+
+AUSTIN: You’re under the cart. Good to know. Hadrian?
+
+JANINE: [amused] But my belt is on the ground. 
+
+AUSTIN: Yes. Hadrian, where are you?
+
+ART: I’m like standing in the woods, but the action’s not here anymore?
+
+AUSTIN: Okay. Throndir?
+
+DRE: I think Throndir has run over to check on Kodiak.
+
+AUSTIN: Good call. And Hella just killed this thing. [ALI: Okay.] So I think…I think Adaire is who sees it. Another pair of insect feet slowly fall right in front of you, and land like, very softly like, one, two. Right in front of the cart.
+
+JANINE: [doubtful] Mm.
+
+AUSTIN: What do you do?
+
+JANINE: Uh.
+
+AUSTIN: And you can see this one has like even longer like wings that the other ones, because the other one, their wings kind of stop like a cloak at their like thighs, their insect thighs? This one goes all the way down to just above their feet.
+
+JANINE: Wait, are they coming out of the back of the cart?
+
+AUSTIN: No. They just—they’re coming from above.
+
+JANINE: Oh, okay, so they like flutter down [AUSTIN: Yes.] with their gross moth wings.
+
+AUSTIN: Uh-huh!
+
+[ALI laughs quietly]
+
+JANINE: [not okay] Okay! Um. If I pick up my rapier, that’s it, right, like [cross] that’s the thing I did?
+
+AUSTIN: [cross] Yeah, that’s the only thing you do. Yeah.
+
+JANINE: Okay. I wanna…use one of my—this is weird. How do I [laughs]…would it still be Volley if I’m—if like the ankle is right in [cross] front of me and I’m…
+
+AUSTIN: [cross] No, that’s a Hack & Slash. You’ll Hack & Sla—
+
+JANINE: [cross]…doing a throwing dagger at that?
+
+AUSTIN: [cross]—you can Hack & Slash with a—yeah, you just use that knife to stab instead of throwing it. So that’s…
+
+JANINE: So that’s…
+
+AUSTIN: That’s a Hack & Slash, which will be Strength.
+
+JANINE: Wow, that’s not as great, but it…
+
+AUSTIN: No!
+
+JANINE: That ankle’s right there. I kinda gotta do it.
+
+AUSTIN: [sighing] Yeah, it’s right there…
+
+JANINE: All right. Well, I’m gonna roll Strength at that.
+
+AUSTIN: Gimme your roll!
+
+JANINE: Nope. That’s…
+
+AUSTIN: That is not a—that is a 5, in fact.
+
+JANINE: Did not—that did not work out for me!
+
+AUSTIN: [cross] That’s not great.
+
+ALI: [cross] Take XP.
+
+AUSTIN: Um—yeah, so take XP! Good job! [JANINE: Yeah…[laughs]] Thank you to Ali.
+
+[DRE laughs]
+
+So in general, her—again, for new listeners, the—you’ll notice a couple of things. One is I’ve never made an attack roll here. I’ve made some damage rolls, but in Dungeon World as with most Apocalypse World and kind of inspired games—most—they’re called Powered by the Apocalypse games—the DM or the GM doesn’t really make attack rolls or anything. What happens is, I get to make moves based on how the play is going. If there’s a lull in the action, I can make a move. If someone rolls a 7-9 I can do things according to what moves that they’ve done. And if someone fails, I can, quote, “make a move as hard as I want.” So! [laughs quietly]
+
+Adaire, you reach that bl—you reach out with that blade, and the like—you’re so sure you’re gonna slash the foot. But she lifts her foot up just as you reach out, and then slams it down on your wrist, and then grips you by the wrist. With her [JANINE: Cool.] foot.
+
+ALI: Ew!
+
+AUSTIN: And pulls you out, and then like…
+
+JANINE: Nice.
+
+AUSTIN: Tosses off the side of her wing like—again, like a cloak—and…sees you—like, you look up and see that you are off the ground as she begins to flutter away with you in one of [JANINE laughs] her legs—her leg claws, and then kind of a box, from one of—under her other arm. What do you do?
+
+JANINE: Uh, I gotta Defy Danger, right? How am I gonna..
+
+AUSTIN: How are you doing that?
+
+JANINE: Um.
+
+AUSTIN: You also—you can also see—she’s flying up into the dark. Like towards the dark.
+
+JANINE: How far am I off the ground when I’m reacting?
+
+AUSTIN: I’d say you’re like five feet off the ground.
+
+JANINE: Okay. That’s okay.
+
+AUSTIN: You notice what’s happening pretty fuckin quickly.
+
+JANINE: [amused] Yeah, I would hope. Um…let’s see, what’s the best thing I could do here…? Could I—could—[sighs] I know we just talked about using Charisma for Defy Dangers.
+
+AUSTIN: [amused] Yes?
+
+JANINE: Do you think there’s—[laughs] sorry. Is there a way I could like—you know, could I like try and throw her off by being kinda like…weirdly, um, charming?
+
+AUSTIN: No.
+
+[ALI starts laughing]
+
+JANINE: Like instead of—
+
+[ART starts laughing]
+
+[laughing] like—
+
+AUSTIN: Not like that!
+
+[ALI, JANINE and ART laughing]
+
+I’m not gonna—
+
+ALI: You’ve just been ablaze today!
+
+JANINE: [laughing] I mean like instead of doing the thing she would expect, maybe being like ‘oh hey I really like your wings.’
+
+AUSTIN: [laughing] I don’t think that’s gonna throw her off!
+
+JANINE: [amused] Okay! Well, it was worth asking.
+
+AUSTIN: It was worth asking. It’s worth asking.
+
+ART: Good catch, beautiful. Me.
+
+AUSTIN: [laughing] Yeah! [laughs] [ALI starts laughing] I didn’t know Janine was playing Aria!
+
+JANINE: [laughs] Um, okay, [cross] so instead, I…
+
+AUSTIN: [cross] I don’t think—I don’t think—Yeah, I don’t think you’re gonna end up dating this moth lady.
+
+JANINE: I’m gonna go with [AUSTIN: Who knows.] ‘by getting out of the way or acting fast,’ then. 
+
+AUSTIN: [cross] All right. So what’s that look like?
+
+JANINE: [cross] A Dex thing. So the thing—the thing…so she has her—let’s see. I’ve gotta like model this with my own hand. She's got her like weird foot thing on [AUSTIN: Uh-huh!] my wrist? [AUSTIN: Yep.] Pulling me up. 
+
+AUSTIN: Yep.
+
+JANINE: So I think the thing Adaire’s gonna do is like grab her like—
+
+AUSTIN: Ooh. Cool.
+
+JANINE: Thing, and then twist?
+
+AUSTIN: Sure.
+
+JANINE: And then like let go, like [AUSTIN: Sounds good.] that’s the idea, is the release, etc.
+
+AUSTIN: Gimme a check.
+
+JANINE: Fuck!
+
+AUSTIN: That’s another 4. Um.
+
+DRE: [amused] Mark XP!
+
+AUSTIN: So yeah! You, uh—
+
+JANINE: So I give her an Indian sunburn.
+
+AUSTIN: Yeah—mark XP, one. Two, [JANINE: [laughs quietly] Great.] you get your—you reach up to grab with the other—with the other…claw, and she grabs that one too. You take—and like squeezes until you’re bleeding at the wrists. [cross] You’re gonna take…[JANINE: Oh, good!] She like does her foot attack on you. Um. Which is pretty fuckin good. I’m not gonna give her the Piercing ‘cause she’s not using her weapons. That’s 5. Take 5 damage.
+
+JANINE: [shocked] What?! From a little bit of wrist bleeding? [AUSTIN: [doubtful] Mm.] Well, I have armor, so I guess they cut that down to 4.
+
+AUSTIN: Well, do you [JANINE: Right?] have wrist armor?
+
+JANINE: It’s just gloves!
+
+AUSTIN: Okay, fair! I’ll give it to you.
+
+JANINE: Like leather gloves.
+
+AUSTIN: Leather gloves is fine. So yeah, take 4.
+
+[MUSIC Inside begins]
+
+Hey everybody. Adaire is flying through the air.
+
+[ALI laughs]
+
+[JANINE sighs and laughs slightly]
+
+ALI: Bye…
+
+JANINE: Great.
+
+AUSTIN: GoodYou have an answer.
+
+[ALI and JANINE laugh]
+
+[ART laughs a bit]
+
+[MUSIC Inside plays and finishes]
+
+[1:39:48]

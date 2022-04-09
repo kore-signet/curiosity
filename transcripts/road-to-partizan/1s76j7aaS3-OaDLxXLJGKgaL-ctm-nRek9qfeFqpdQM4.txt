@@ -1,0 +1,2430 @@
+The Road to PARTIZAN 01: Dialect Pt. 1
+
+AUSTIN (As Cymbidium): An excerpt from the journal of Cymbidium, Elect of the blessed Divine Past, servant Eternal to Stel Kesh and the Holy Church of Received Asterism, and defender of all Divinity in this, the Perfect Millenium, year 1423.
+
+[Jack de Quidt’s”HOURGLASS. SUNRISE. CRYSTALLINE.” begins playing]
+
+I am yours Past, but today I found myself praying to Commitment and Detachment, in hope that they might hone my character before I falter.
+
+I was born of the ash and antler, but just like every human child of the Divine Principality, I spent my youth in the educate. There, I learned that there was a time before the galaxy was marred by conflict. Peace and prosperity for eons. An era of guaranteed events. But I never truly believed. 
+
+I studied well. I memorized Nideo’s fifth constellation. I learned to quote the approved histories. And soon, I was offered up by my family, and approved by my house, and nominated by my Stel, and exalted by you, Divine. And now you demand I believe. 
+
+I walk your crystalline halls looking for a window out of this place, but all I can find are windows back in time. You give me your perfect record of events. You make me see their accounts, hear their echoes, feel the warm light of easier days. You whisper to me in the Resolute Regent’s words: “Peace was breached by history itself, and so, we must respond by obliterating time.” Even now I wonder if you might be right...
+
+But through these windows I see other truths too. I hear other whispers. And they tell me that the warmth you offer is not yours to give.
+
+[00:02:26]
+
+AUSTIN: Welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterization, and fun interaction between good friends. I am your host, Austin Walker, and this is the first episode of the Road to Season 6. If you missed previous announcements, or did not follow the Road along the way, don’t worry. This is, like I said, the first episode, and I can introduce you to what it is pretty quickly. 
+
+So, I’d say about a year ago—maybe more than that at this point—we started talking internally about what our next season was gonna be. And one of the things that was brought up was the idea that we test some games out before committing to what we wanted to do for a full season. Obviously, if you’ve listened to the show in the past, we have a habit of changing systems as we go. I’m not making any promises that we will not continue to do that into the future. But, based on that idea I started to kick around this idea of doing a sort of interlude season or a mini-season that would connect Twilight Mirage with the season that would come after it set in the same universe. That season now we know is called PARTIZAN. 
+
+And so, about—I guess, what is it? It is October now, so—ten months ago, eleven months ago, it was last December, we kicked off this thing called The Road to Season 6, which would be comprised not only of games we might want to play in Season 6 proper, in PARTIZAN, but also games that would help us tell the story and build the world of PARTIZAN and kind of explain how we got from final events and the kind of galactic state of Twilight Mirage to where we were in PARTIZAN, at the beginning of the upcoming Season 6. 
+
+A couple of notes on that, because I think folks hearing that might go “Ah, I have to go back and listen to Twilight Mirage before I listen to this!” That’s fair, if you want to go do that. I’m not telling you to not go listen to Twilight Mirage. I’m fond of Twilight Mirage. We’ve put a lot of work into it. I love it. It’s messy and beautiful, and I’m really proud of it. That said, there aren’t that many spoilers for Twilight Mirage in the Road to Season 6 content. You can listen to this game, and all the rest of the games without hitting any real hard spoilers except for one thing. There is kind of one broad, setting-related thing about something that happens to a couple of factions in the end of Twilight Mirage. But we do not talk about what happens to characters, about what happens to primary plot arcs with those characters, throughout all of the following releases—and remember, these are kind of- this is an anthology series, these are oneshots... some of which will take up multiple episodes, even though I’ve edited them down—or this one down, at least. I’m editing the first one, this game of Dialect, that you’re gonna listen to in a second; Ali will also be editing a number of these too—even though we’ve edited them down, some of them do end up being multiple parts. But even in those multiple parts we do not spoil big picture stuff from previous seasons set in this universe. 
+
+So if you’re like, “Hey, I wanna hear all of the cool stuff that goes from the end of Twilight Mirage,” this big bright colorful season of kind of utopian ideals coming into collision with reality and with each other, “to PARTIZAN,” which is going to be a much down-and-dirtier season, a season about conflict, and war, and peace, and politics, and faith, and it’s going to be… It’s a war story, I hope.—You know, we’ll see, we’ll see how it all goes. Kind of very contrasting palettes there. You know, if Twilight Mirage is Frank Ocean, I’m hoping PARTIZAN is Vince Staples—then you should listen to this, or you can feel comfortable listening to this without feeling like you’re going to miss out on, er going to be spoiled on big plot beats from Twilight Mirage. 
+
+That said, if you also are like “You know what? I just care about the characters that are gonna be the characters that you guys play for a year.” Then it’s okay to hold out and not listen to any of the Road to Season 6. None of what is about to be played in this episode or any other episode will be necessary listening for PARTIZAN. I think it’ll be cool and fun in the same way that COUNTER/Weight is… will help you put together some cool stuff in Twilight Mirage. There are some cool nods, some cool references in that, but it’s not necessary to listen to Twilight Mirage. And for evidence you can look to a lot of the people who started listening to our show via Twilight Mirage. And so, that is a plan with PARTIZAN, is to reference some of this material, but unlike something like Marielda, which I feel like is essential for your Hieron listening experience, I don’t think The Road to Season 6 is an essential listen, a must-listen for PARTIZAN. It’s really good. There are some incredible high moments throughout all of these games, and so I do encourage you to listen to them, but you get what I’m getting at. 
+
+Two other quick notes. First, you can listen to all of The Road to Season 6 right now if you want to. They will not have the intros that I’ve added at the top here, but you can go listen to them at Patreon, at our Patreon at friendsatthetable.cash. These were originally Live at the Table episodes, and you can get access to Live at the Table for $5 a month. We have a ton of previous Live at the Table episodes, along with our Bluff City campaign, along with new Drawing Maps episodes where I’m putting up all of the prep as I make factions for Season 6, and along with Tips at the Table, a live show where we answer your questions about everything from questions about our own show to questions about how to do different, you know, best practices at the table to helping you decide which upgrade to pick in a tabletop roleplaying game. So, you can go check all of these out. If you’re like “I need to know how this game ends, I cannot wait a week.” you can go find that out right now for $5, and also listen to the rest of The Road to Season 6. 
+
+The other half of that—and I already kind of touched on this—is, the version of these episodes that will appear in this feed have been further edited from the Live at the Table original releases. I probably cut an hour of us Googling stuff in this episode, 45 minutes to an hour easily, along with a lot of dead air, as we, you know, thought about words and names and stuff. Dialect, the game that we play in this episode, is a very name- and word-centric thing, and so there was lots of thesauruses opened, lots of Googling, lots of thinking about and talking about other words, and lots and lots and lots of dead air. So, I cut a lot of that down to make this a digestible two-episode run of this particular game. But if you really wanna hear all the rest of that stuff, it’s up on the Patreon, it’s $5 a month to get that version of it and all that other stuff I talked about.
+
+So, that’s it. I hope you enjoy all of The Road to Season 6, it is something that I think is really cool. We have, like I said, some games that I absolutely adore, some of my favorite all-time Friends at the Table characters, and I’m so excited to get to PARTIZAN proper. But for now, at least, I really hope that you enjoy this taste and this Road to Season 6.
+
+[00:09:54]
+
+[Originally transcribed by Ril (@kaorukeihi)]
+AUSTIN: Welcome to Live at the Table, an actual play podcast focused on critical worldbuilding, smart characterisation, and fun interactions between good friends. I am your host, Austin Walker, and joining me today—I’ve just interrupted them in the middle of a conversation [laughs] —Janine Hawkins. JANINE: [laughs] Hi, you can find me @bleatingheart on Twitter.
+
+AUSTIN: And Andrew Lee Swan.
+
+DRE: Hey! You can find me on Twitter @swandre3000.
+
+AUSTIN: Let me talk about Dialect really quick. Dialect is a game about language and how it dies. “Dialect is a story game about an isolated community, their language, and what it means for that language to be lost. It’s for three to five people and runs in three to four hours. Let’s tease that apart.” 
+
+“In Dialect, you’ll define and explore an isolated community through it beginning, rise, and end. You may be pilgrims to Mars, a cyberpunk gang fighting a megacorp, or students at an English boarding school. Some Isolations will be voluntary, others not. Some will choose to barricade themselves against an unforgiving world while others lie stranded and adrift from home. On their own, one thing is certain—these people will be left to simmer in what makes them special. They will change because of it. You will decide what they become.” 
+
+“Language building. You’ll tell the story of the Isolation by building their language. Over the
+course of the game, you will create new words off the fundamental traits of the community, the pivotal events that have defined their lives, and how they respond to a changing world. You will use the language you create to explore your character and advance the story of the Isolation. Each time a new word is made, the language grows, and the community is tightened.”
+
+“Dialect’s spark comes from gradually building up elements of language among players, who gain fluency in their own dialect over the course of play. From age to age, the Isolation will change, and you’ll see those changes reflected in their language. In the end, you’ll define what happens to that language and community. Players take away both the story they’ve told and the dialect they’ve built together.” 
+
+Um, and the both of you have read the intro of this already, so I don’t have to go over things like what the Facilitator is, or some key rules, though I will say that like some of the principles here are “be obvious, listen, and be kind,” and I will briefly go over the very broad flow of play. 
+
+So we’re gonna start by creating an Isolation which involves us picking a Backdrop. A Backdrop is kind of a playbook that gives us a starting point for our Isolation. Then we will create characters—each of us will be playing a character that is grounded in one of the 15 different archetypes, we’ll have a little bit of choice around that. Then we will each go around the table and play a card from our hands that kind of helps us make a word and frame a scene. We’ll do it one each until we’ve all done it, and then we’ll advance into a new Age, and when we advance into a new Age some things change in the Isolation. 
+
+When that change comes one of the key things, one of the Aspects that makes the Isolation what it is will also change. And we’ll do that again—we’ll go around the table, we’ll each frame a scene, we’ll create a word, all that, one more time, and then we’ll go into the Final Age. So it’s three Ages, so there’s gonna be a total of nine scenes. We might end up with more words than that because one of the things you can do in this game is kind of voluntarily create a new variation, a new variant of an old word, um, and then in the very end, after three Ages, which is after like nine kind of base new word units, base scenes are done, we’ll have kind of an epilogue called the Legacy. It is largely pretty straightforward, all said. Um, it is a really great joy to read, and there’s some fucking great art in this book. Uh, it is really pretty. I have a hard copy—they’ve sent us a hard copy, I should say—and it is beautiful to look at. Um, any questions at this point before we dig into building the Isolation? 
+
+JANINE: Nope, not really. 
+
+DRE: I’m ready to go. 
+
+AUSTIN: Okay. Um, I will now say, one more time that if you REALLY don’t want to know anything about Twilight Mirage’s ending now is a good time to jump out, because I wanna set the stage a little more particularly. Um, so, that is my final little warning here. 
+
+So. For people watching—oops, for people watching me scroll through other maps—here is what I’m now calling the map of this place, and it’s gonna help us know where we are gonna be setting the stage here. This area right here is like in between where the OriCon red and the kind of New Earth Hegemony blue and the Twilight Mirage is like, this area is like the little bundle of bright lights is where we’re going to begin the game today. 
+
+This place we’ve never seen before. Um, I think we’ve seen some other alien species over the course of this, this franchise’s history. Over the course of this show’s history, we’ve seen the Apostolisians, we know that Talonites exist, we know there are slime people and cat boys now, for sure those all exist. We know that those are species. I think that those exist on this arm here. Um, and we don’t need to talk about how they get places. They’re not the focus today. Today is gonna be something entirely new that we’re gonna figure out, and it’s going to be one of the cultures, if not the original culture that lived in the area that Season 6 is gonna take place, which is gonna be right here in this little nubbin of space. 
+
+To decide what that looks like we have to pick a Backdrop. That is the kind of, one of the first things to do with the way Dialect works. Um, and I guess at this moment is when I’ll say the big final thing that is the Twilight Mirage spoiler, which is—at the end of Twilight Mirage there is a group called the Divine Free States that merged with the Principality of Kesh to create a new thing called the Divine Principality. One day the Divine Principality is going to come and, whether through assimilation or through destruction, wipe out this little linguistic Isolation. Um, and I thought it was important to start there, and also am terrified of the Divine Principality already, so [laughs]. Starting with them destroying a language is maybe already the best way to communicate that they are fucking terrible. Um, alright. So. 
+
+[00:16:19 - Prep]
+[00:16:19 - Backdrop]
+
+“To start your game, choose a playset that defines the bones of the setting and the source of the Isolation. These playsets are called Backdrops. Follow the steps below to begin.” 
+
+Their default ones are the Outpost which is like a Martian outpost, a Compound which is—I should say this right now: this game is willing to go some really interesting places, and some really loaded places in terms of the content being tricky. So, the second one is a compound in 1982, a group that has separated from society to create a new utopian commune. And I think like, once you start thinking about groups in the 1980s that separated themselves from mass culture that were then destroyed by outside culture, you can immediately see the breadth of what this game is trying to tackle, right? The Czaten Dacha which is one I’m leaning towards, which says “Always on the move—”
+
+JANINE: [crosstalking] I actually… Sorry, that fits into a thing I was gonna suggest VERY strongly [laughs]. 
+
+AUSTIN: The Czaten Dacha? 
+
+JANINE: Yes. 
+
+AUSTIN: Yeah. Okay, I’m super into it already. “Always on the move, they make their homes in their carts and caravans. Distrusted by outsiders, locals refer to them as the Czaten Dacha, or horse people.” 
+
+AUSTIN: So, Janine, why does the Czaten Dacha jump out for you? 
+
+JANINE: Umm, becau— Well, [laughs]...
+
+AUSTIN: Uh-huh.
+
+JANINE: Reading through some of this I don’t know if it’s actually work, but I just had an idea for like the kind of people…we could play.
+
+AUSTIN: Okay. What’s the, what is your thought? 
+
+JANINE: I mean, I mean like, in terms of like, physical.
+
+AUSTIN: Oh, let’s start there! What are you thinking? 
+
+JANINE: Um, so I had… You know The Ancient Magus' Bride? 
+
+AUSTIN: Yes. 
+
+JANINE: You know that manga? There’s like, I think his name is Elias, and he has like a big skull face? [AUSTIN: Yeah.] Um, I was thinking, what that would look like [laughs] sorry, what that would look like if it had skin? Because I don’t think it would just be like a deer face.
+
+AUSTIN: ...Right. 
+
+JANINE: It makes me think it would be a lot like… you know, sometimes you see very twee artists like “oh, it’s a little deer lady, but she’s all pink, but it’s fantasy so we don’t worry about it?” 
+
+AUSTIN: Sure.
+
+JANINE: What if it’s just like a very smooth deer face but it’s just like skin? 
+
+AUSTIN: But like, when you say ‘skin’?..
+
+JANINE: [crosstalking] It could look very elegant and not grotesque, but, um, 
+
+AUSTIN: So, like deer people? 
+
+JANINE: ...like skin. 
+
+AUSTIN: Yeah. 
+
+JANINE: Yes. Like deer people. Like, they have instead of skull faces, their faces are like what we would recognize as faces but very long, and like, maybe like a little nose...
+
+AUSIN: [crosstalking] Wait, when you say ‘skin’, I have a question, wait, do you mean human, humanoid skin or do you mean like deer? 
+
+JANINE: Yeah, like skin. Like not fur. [AUSTIN: Yeah] Cause I know there’s skin under fur, obviously. 
+
+AUSTIN: That’s what I was confused by. 
+
+JANINE: Like skin, yeah. Yeah. No.
+
+AUSTIN: Yeah, okay. 
+
+JANINE: Just like skin.
+
+AUSTIN: I’m actually totally here with this. I actually really wanted there to be something that was another humanoid species. I, you know, [JANINE: Yeah.] one of the first rules we had with COUNTER/Weight was like, “No Star Trek aliens”, but that was COUNTER/Weight, and then with Twilight Mirage we were like, “Fuck it, man, there’s slime people, let’s go, let’s get it!” Um, [Dre chuckles.] And I wanted to start here. 
+
+JANINE: Yeah. I definitely… I definitely always have kind of, uh, [laughs] I guess I like, came back to feeling a little frustrated that I ended up picking, that I ended up playing like a very straightforward human character, because we had a lot of like, there was a lot of room to invent stuff—
+
+AUSTIN: Yes.
+
+JANINE: But a lot of our characters ended up being like mostly, you know, recognizable, but like maybe they were blue or had like fish gills...
+
+AUSTIN: Yeah. I mean, we talked at the Post Mortem that you wished you could have been given a way, like your finger bones more on screen.
+
+JANINE: Yeah.
+
+AUSTIN: So. 
+
+JANINE: Yeah. [laughs. Dre laughs.] We all have regrets. 
+
+AUSTIN: Um. Let me read the actual Czaten Dacha write up so that people listening can know what the fuck we are talking about. So. This is written by a great game designer in his own right, Jason Morningstar, um, which, we’ve played games by Jason a lot actually. We have played Fiasco; we’ve played Skeletons. Did we just play another, didn’t we just played another Morningstar thing? I think we just played Fiasco again recently. That’s, that was the other one. Um, I think… I thought there was another one... I guess I just mentioned Night Witches which is also I believe, Jason Morningstar. Great, great designer. Anyway. 
+
+Jason writes: “In their language they call us “Czaten Dacha,” horse people, but we know who
+we are. The carts our horses pull are our homes, our workshops, our market stalls. We travel from place to place, from the shores of the great ocean to the highest mountain passes and back, always among them, but never of them. We are redsmiths, merchants, and entertainers—sometimes scorned, usually grudgingly welcomed, never really trusted. 
+
+We ignore the hard looks and ignorant taunts and endure the spiteful laws of the petty warlords, because when things go well there is prosperity and joy all around. But when things do not go well, when fear and distrust turn to hate and murder, that we cannot ignore. We have our carts, and our horses, and the Czaten Dacha look again to the road. There is always another village, and we see to our own.” 
+
+Obviously I think Jason is pulling—and I think he has written about this somewhere—pulling from steppe people, from the travellers of which there are many different ethnicities. This is, there are lots of cultures who are nomadic both in medieval, ancient, and modern times. This is not necessarily a stand-in for any one people, and I think it’s important that we, as players, both recognize that there are real people who even today, in, who, not just ‘even’ today, but like have had an unbroken history of travelling and kind of nomad life that has gone on for thousands of years. And so, I want to make sure we’re like, drawing from that, but not necessarily doing a very reductive one-to-one thing here. The thing that I want to, on note that I wanna say here—I think the thing that I really wanna do with them, to kind of help underscore that is—I don’t think that they are just travelling roads. I think their carts and their horses are ships, right? I kind of like the idea of deer people who are not just like—oh yeah, they are deer people of the hills on this one planet. 
+
+JANINE: Uh-huh. 
+
+AUSTIN: I kind of like the idea of like they are deer people who are… So, we’ve seen, in our setting, we’ve seen the Divine Fleet which is this group of refugees who is fleeing and who are like, living in the Twilight Mirage because of danger. I like the idea of like—no, these are people who are just like, this is what their lives are. And that hasn’t prevented them from developing advanced technology. This hasn’t stopped them from having, you know, a culture in a very robust way. They’re not “primitive people,” quote-unquote. They have a lush life. They also happen to not have the interest in settling down in one place and performing that style of life. Or at least maybe for a long, long time, right? Maybe not- they’re not empire builders. They’re not looking to like—Here’s our biggest city. [pause] Any other thoughts on the big picture around this group before we walk down the path here? People want to know if they have skele— antlers, do they have antlers? They definitely have antlers, right? 
+
+JANINE: Yeah. I think probably they have like different kinds of things. I don’t wanna say that they can only have antlers. 
+
+AUSTIN: Sure.
+
+JANINE: Maybe they have like cool spirally ones… Or like, you know.
+
+AUSTIN: Yeah. Totally. Or horns, or whatever. Yeah.
+
+JANINE: Yeah.
+
+AUSTIN: And yes, Dre, the guy you just linked in chat is absolutely right. That is the Ancient Mages… Magus? I always get that wrong.
+
+JANINE: Maggie. 
+
+AUSTIN: Maggie. That’s his name, Maggie. Alright, so we picked the Backdrop. Now we have to do something VERY important, we have to be like, very keyed in on this. We have to define the Backdrop’s Aspects. 
+
+[00:23:39 - Aspects]
+
+AUSTIN: Each Backdrop provides guidelines for generating three pillars of the community called Aspects. These are the major traits of the Isolation that would be the focus for language creation. These are like, this is the most important thing in the game to some degree, because this is like what the beating heart of the community is, and these are the things that will be put under threat by the outside over time. And the way the game works is, two of them, they give us kind of prompts, and one of them is completely free for us to come up with. Let’s start with the first one, and then we can start there and work out how this feels. 
+
+So, the first one is Wheels Always Turn. “No matter how much we move and all that we leave behind, what do we never forget?” So we’ve got these deer people. They’re moving around space. You know, maybe there’s like a- again, there’s this collection of planets that they, that they’re you know, this big bright collection of planets right at the edge of what I think is the habitability zone in space. What do they never leave behind when they leave behind a planet? Also, are they moving in groups, do you think? Or are they moving in like individual smaller units? Any ideas? I’m happy with, truly, whatever, right? There is no continuity here to play with. Like, this is one of the things that’s so nice about this is we are making this bullshit up as we go along. [laughs]
+
+DRE: I don’t know why, but I like the idea more of just this one giant group, as opposed to like, kind of small splinters. I don’t know. 
+
+AUSTIN: Okay. 
+
+JANINE: Uh-huh. 
+
+AUSTIN: Like, you know, thousands of ships lifting off at once from one planet, and then moving on...
+
+JANINE: So, it’s like a nomadic city almost.
+
+AUSTIN: Yeah. 
+
+DRE: Uh-huh. 
+
+JANINE: Where it’s like, they do have a foundation, but the foundation is each other, and they all move in this like, big, um… Is agglomeration the word I want? I don’t know. I don’t know words.  
+
+AUSTIN: That sounds like a thing. [typing] An agglomeration is “a mass or collection of things, an assemblage”. Yeah, that sounds good to me. 
+
+JANINE: Okay. 
+
+AUSTIN: Perfect. Nice work. “A heap or cluster of usually disparate elements; a large, densely and contiguously populated area consisting of a city and its suburbs.” So yeah, you got it. Because then it’s like, there are these giant ships, but also a bunch of little ones nearby, you know? What are… So, that’s a good, we needed that. That helps. But let’s go back to the question at hand. What do they never leave behind? What do they never forget? Because presumably they’re leaving some stuff behind, right? Like, you don’t necessarily get to bring everything with you. 
+
+DRE: Uh huh.
+
+AUSTIN: But what is the thing that they make sure they always keep? [pause] Is it an animal? Like, when I think about, is it like, some sort of livestock? Is it something ritualistic or religious? Is it, um, something to do with making sure the engines work, or their ships work?
+
+JANINE: I had kind of been thinking about this less as like, a physical object...
+
+AUSTIN: Uh-huh.
+
+JANINE: Um, the thing that came to mind for me was kind of like when you use a piece of string to draw a circle or an arch...
+
+AUSTIN: Uh-huh. 
+
+JANINE: ...by like, pinning it to a center point, and then putting your writing thing at the end. Like a compass kind of thing, but it’s more flexible. I had been kind of thinking like they’re, the thing they never forgot was like a point that they used to… not calculate navigation by, but more like, decide navigation? Um...
+
+AUSTIN: Like something that helps them decide where to go next? 
+
+JANINE: Kind of like if the North Star was behind you, and there was like an invisible tether between you and that star, kind of. There’s like—you don’t wanna get within, you don’t want to get too many degrees outside of its like, um… I don’t, this time I definitely don’t know the right word. 
+
+AUSTIN: It’s like if you, it’s like a leash in some way. 
+
+JANINE: Yeah. 
+
+AUSTIN: It’s like, you don’t leave the…
+
+JANINE: Or like, they can still get far away, but like, in a cone shape [AUSTIN: Sure.] or something like that. There’s a range of degrees, and they don’t go outside of that degree range when they’re sort of zig-zagging around.
+
+AUSTIN: I wanna get really specific on this, because getting these Aspects to— We have to be like, avoid being wishy-washy on is so we can really leverage this stuff and name it. And like, I really like this concept. I’m wondering if it might be a better free Aspect, or a third Aspect, but I... 
+
+JANINE: Mm.
+
+AUSTIN: Because having a specific physical thing, or a specific conceptual thing, I think, works a little bit better on this question which is like [JANINE: Yeah.] what is... But I actually like this a lot as the third one which is like, is there some sort of— Let’s come up with a name for that third thing that you just came up with because I like that a lot, as like, um… Is it telling them the direction that they’re going in? Is it like a collection of like, texts, and/or calculations, or a mix thereof? Like a mix of religion and science that gives them a general direction that they’re supposed to be going in? Is…
+
+JANINE: Um, there’s actually a, [laughs] there’s like a DIY trend that I think would actually illustrate the way that I’m seeing this in my mind if I can... [typing]
+
+AUSTIN: Please. 
+
+[DRE chucking]
+
+JANINE: If I can find the right string of words to actually search here [typing]...
+
+AUSTIN: [laughing] Okay.
+
+JANINE: I’m gonna try “string pull art”... Yes, that’s exactly what it is! If you look up “string pull art”. Um. It’s this thing where you soak a piece of string in paint and then you like- 
+
+AUSTIN: Oh wow, that’s really pretty!
+
+JANINE: -drape it kind of curled up in a book. and close it, and press and pull, and there’s usually always this one point at the bottom where it all sort of comes together because that’s where you’re pulling the string,  [AUSTIN: Uh-huh.] but then it branches out into these spirals and things like that.
+
+AUSTIN: Right, I see.
+
+JANINE: So, it’s like, there’s like this point of origin, but there’s this sort of like, weird, there is a sort of like logic to the random patterns that go in front of it. 
+
+AUSTIN: Yeah! And they understand it in the way that outsiders don’t.
+
+JANINE: Yeah.
+
+AUSTIN: Right? Like, they understand like—Okay, I lift off here, here are the next seven planets that we’re gonna go to, or whatever.
+
+JANINE: Yeah. They understand why they turned and swerved back the way they came to this position, but no one else would.
+
+AUSTIN: This also gives me a feeling of like, maybe there’s one big fleet, but they’re actually going to a broader grouping of planets at a time than just one. Like, they roll into a solar system, and there’d be another nearby solar system, they’re still close enough to like travel between the two fairly quickly, but there’s like, it branches, it like, literally branches out or—the one that I’m looking at almost looks like flower petals, right? 
+
+JANINE: Uh huh. 
+
+AUSTIN: Or like, okay, maybe there’s like a big central thing, but you are still gonna get the occasional grouping of these other ships here or there, as long as it’s within this zone that is like—this is where you’re allowed to go to in the next little batch. You are still very close together, but there’s some degree of—It isn’t just… a thousand ships landed on your home planet, [laughs] you know what I mean? 
+
+JANINE: Yeah.
+
+AUSTIN: What’s a good name for this? I actually like this a lot, this thing that delimits and directs where we go next.
+
+JANINE: It’s also interesting ‘cause when you look at these, there is this sort of big overwhelming shape that is like the first thing you see, but then when you look closer there are all these like individual strands [AUSTIN: Yeah, totally.] Some of which go all the way, some of which join up with the others. Like, there is sort of a lot of detail that is easy to zoom in or zoom out on. 
+
+AUSTIN: Totally, I like it a lot. Um, do we… I want like, a name. Is this like, let’s, I wanna use “string” in it for now too. Is there just like? “Stay within the string”, or like, “string”… “String Theory”...It’s not String Theory. [Dre and Janine laugh] It’s not that one. Um…[pause]
+
+JANINE: Have we used “strand” for anything before? “Strand” is a good word.
+
+AUSTIN:  I don’t think so. I don’t think so, um. Yeah, I’ll write down—
+
+JANINE: [crosstalking] I feel like “strand” is already a thing I’ve heard about, though. 
+
+AUSTIN: There’s a bookstore in Manhattan but, you know.
+
+JANINE: Oh right, that’s true. [overlapped] That might be what I’m thinking of.
+
+DRE: Yeah. Isn’t that like- I also think The Strand is like a Syfy series, isn’t?
+
+AUSTIN: That seems like it— Is that like a-
+
+DRE: Like a TV station Syfy, not the...
+
+AUSTIN: Isn’t that like about a disease? No? 
+
+JANINE: Would that be The Strain? 
+
+AUSTIN: That would be The Strain. 
+
+JANINE: [typing] There’s a lot of words that start with these letters…
+
+DRE: No, it’s not The Strain.
+
+AUSTIN: It’s not The Strain, The Strain is the thing I was thinking of, the CDC show, yeah.
+
+DRE: Yeah.
+
+AUSTIN: Let’s do “the Strand.” 
+
+JANINE: Oh, it’s a newspaper.
+
+DRE: Yeah, I like “the Strand”.
+
+AUSTIN: Let’s do “the Strand.” Which is like, um, I’m just gonna write “delimits and directs the fleet in future travel” for now. So. That’s one. That’s good. So, that is the first of our Aspects. It’s actually the third of our Aspects but that’s okay, um. So, we still need two more here, we still need, uh… What do they never forget? And then the other one, I’ll just read it now, is Protecting the Mysteries. “The Czaten Dacha are always outsiders, but to some, our secrets are tempting. What secret do we keep to ourselves no matter what?” 
+
+AUSTIN (cont.): I would like maybe one of these to have to do with something that we’ve never filled in the gaps on, which is something to do with Strati. Stratuses? [Dre hums.] Maybe that’s two? Like, we’ve historically had this idea in this world of Stratuses, which are like, you know, our Newtypes, I guess, right? People who are attuned to some sort of connective extrasensory perceptive field of connection or whatever, right? There is some degree of like... sometimes that shows as like, technical aptitude, sometimes that shows as a great deal of empathy, and sometimes it shows as the ability to see future events. It’s pretty broad. 
+
+AUSTIN (cont.): But the Strati have been, historically, that we’ve seen, a mix of people who are like, induced to be Strati, and that is like, Tender Sky had, had like, a cyber brain for a bit, and then afterwards was a Strati. And we don’t what the fuck was going on there. And there has also been this notion of like—oh, there are like, naturally-born ones like Jace Rethal, at least that’s what we’ve said about Jace. I love the idea of like—they can, they have a way of producing Strati? Or teaching people to connect to that second layer. Though I don’t know if that’s too simple. It would be something someone would want, right? It would be something that they would not want taught, for sure. 
+
+DRE: In your mind, is it something that they like, teach? Is it something that’s innate within them?
+
+AUSTIN: Not innate. Not innate. 
+
+DRE: Okay. 
+
+AUSTIN: I think it’s something that they teach, something that they, like, do, in the sense of, um... training, in the sense of, you know, technology. Like, it doesn’t have to be, it is not like mystics on the hill even necessarily. Do you know what I mean? [laughs]
+
+DRE: Right Yeah.
+
+AUSTIN: It could very much be like—oh, my guy came out and now has like, silver antlers that have attuned them to knowing when it’s time to leave this planet because staying longer will, you know, wound the environment in such a way that this is not a good place to live in anymore, you know, or whatever. 
+
+DRE: Yeah. Do you think it’s something that like, everyone in this group like, learns to do? 
+
+AUSTIN: No. 
+
+DRE: Okay. 
+
+AUSTIN: I don’t think so. I think it’s like, ‘cause otherwise—
+
+DRE: Like, everybody could, but not everybody does. 
+
+AUSTIN: Yeah, I think it’s—otherwise it’s too easy to imagine this having slipped out already. Do you know what I mean? [DRE: Yeah.] If everybody has this ability? I think it’s a protected mystery. It’s something that they need. It’s also probably something that’s kept them safe, do you know what I mean? 
+
+DRE: Uh-huh.
+
+JANINE: I was gonna make a joke, and then I realized there might be something useful in the joke I was going to make.
+
+AUSTIN: Always.
+
+JANINE: When you were giving that example, I was like, waiting for you to stop talking [laughs], I was waiting for it to be a little shorter, so the rhythm would be right to jump in with “And they could pick up AM/FM signals.” [Dre laughs]
+
+AUSTIN: Oh, that’s actually super interesting! 
+
+JANINE: But… See? 
+
+AUSTIN: Yeah…
+
+JANINE: That lead me to thinking like—Okay, well they do have antlers.
+
+AUSTIN: They do. 
+
+JANINE: And I imagine that, you know, you could ornament the antlers, or something. What if there’s like a way that’s like… It should be reasonably uncommon, like it should probably be like a really time-consuming procedure, or something like that [AUSTIN: Yeah.] where it’s like maybe you have to cut into the core of the antler and like, do like, basically some kind of inlaid metal or something. Um. 
+
+AUSTIN: And that—
+
+JANINE: Something like that, [AUSTIN: Yeah.] that is like, a thing that they know how to do. A thing that is restricted to them to a degree. A thing that like, also kind of hints at maybe, you know, the stuff with Tender, and like, [AUSTIN: Yeah. Yeah.] why it would progress for her, but...
+
+AUSTIN: No, totally. Like, I… A big part of me… I am fairly resistant to the idea… So like, Newtypes in the Gundam universe are, the presumption that like, or the premise of it is—Ah, this is what the next step of human evolution is. People left in space long enough will, you know, escape from the gravity of Earth, and from the conflict of Earth, and emerge as people who can connect, and who know that we are each just these swan souls, you know, flying away into stardust. And Gundam does a good job of being like—No, they’re not gonna stop fighting. No one ever stops fighting. You can’t fucking escape this stuff. But, one of the things that I always thought about with Strati is like—I don’t know that you just get to evolve into being one. [Dre hums] 
+
+AUSTIN (cont.): I think there’s something that in our mythologizing of Jace Rethal, it’s like—Oh wow, Jace is someone who was just a natural, naturally talented. But like, I don’t know that that’s true about Jace, right? Like, I don’t know that Jace like, woke up with superpowers one day. And I do know that I kind of like, always chafe against stories where some are born with like, innate superpowers, and that that is something to be prized. And I’m much more interested in something like, what you’re pitching, Janine, which is like, you know, you go, you dial in, you like, they do surgery on these, on these antlers, which connects, which makes them... One, it can like, it can straight up make them Stratuses, but I actually love the AM/FM relationship also. [Janine laughs] I kind of like the idea of like…
+
+JANINE: Maybe that’s why they originally started doing it was, it was like, a way to—
+
+AUSTIN: Communicate, I would think.
+
+JANINE: —for the fleets or whatever we wanna call them to sort of attune to each other and communicate, and to have like, you know, designated communicators on board. And then when they end up landing on planets and stuff, [AUSTIN: Yeah.] they can also pick that up. 
+
+AUSTIN: Yeah, totally. I like it.
+
+JANINE: [crosstalking] I also, I like the idea of it. For me, I think it’s important that it feel technical and deliberate [AUSTIN: Me too.] because of the kind of story that we’re telling. Because there are so many traveller cultures that are… They have this like, really exotisized reputation about—Oh, they have these innate mystical proclivities [AUSTIN: Right.] and, so it’s… I don’t wanna fall into doing that necessarily. [laughs]
+
+AUSTIN: Well, and the—I think one of the big mistakes about the way that those cultures and their religious beliefs or their mystic, their mysticism, whatever it is, is presented is [JANINE: Yeah. Yes.] actually this thing that’s like, wishy-washy and phony [JANINE: Yeah.] whereas, like, you know, if you speak to people who move in those groups, what you end up finding is like—Oh wait, no. There’s lots of technical like, knowledge here. There’s lots of specific cultural knowledge, it’s not people waving their fucking hands around, right? There’s like a particular—
+
+JANINE: Like that article about how incredibly difficult astrology is, a while back?
+
+AUSTIN: Yeah, yeah-yeah-yeah, exactly that, totally. Totally, totally. And so like, this should blend. And in a world in which you have spaceships instead of carts, like—yeah, there should be something that feels special and religious about this surgery, or about this operation, about the  creation of these new antlers, but like, or whatever the process is, but it should not feel like simple or pre-technological, or something, you know? 
+
+JANINE: Uh-huh.
+
+AUSTIN: Those two things should blend because that binary is bullshit.
+
+JANINE: Yeah.
+
+AUSTIN: So, let’s see. Do you want to call this like, um… Let’s see… Do you have a good name for it? For these antlers? [typing] I’m writing down “Stratus antlers,” and that’s not great. [Dre laughs]
+
+JANINE: I kind… I’m drawn to the word like… It’s kind of cheap. I find myself drawn to like “tuning” or something like that because of the idea of tuning forks, [AUSTIN: Yeah.] where you get that sort of… low reverberation? 
+
+AUSTIN: [crosstalking] Yeah… I think too much of like.. What’s the Stephen King with that, though? 
+
+JANINE: I don’t know.
+
+AUSTIN: Isn’t that the thing, isn’t what it’s called in?... Or no, it’s not that. [laughs] I’m thinking of Dark City. In Dark City, it’s called “tuning”. [Dre laughs]
+
+JANINE: Oh. 
+
+AUSTIN: What’s it called in, in?... [sighs] What is the name of the movie with the fucking… and the book, with the?..
+
+JANINE: IT. 
+
+AUSTIN: No, the other one. The Overlook Hotel?
+
+JANINE: Christine. 
+
+[typing]
+
+JANINE: The Shining. 
+
+AUSTIN: Oh, The Shining. Oh, [laughs] it’s called the Shining in The Shining! 
+
+JANINE: Yeah, weird. [She laughs. Austin laughs.] It’s weird how he did that. 
+
+AUSTIN: It’s weird how he did that.
+
+JANINE: He’s a master. 
+
+AUSTIN: Uh-huh. Is there another word for “tune”? 
+
+JANINE: And in Christine, the car is named Carol, so I don’t get it.
+
+AUSTIN: Wait, is that real? Are you bullshitting me? 
+
+JANINE: No, it’s not, Austin. Come on.
+
+AUSTIN: Goddammit. I thought it might have been. [Dre laughs] 
+
+JANINE: [sighs] Anyway. 
+
+AUSTIN: Is there a good word for like, something that, um… We’re not, we’re not calling it “Strantlers.” We’re not, chat. [typing]
+
+JANINE: [laughs] I want like, I’m looking at—oh wait that’s not how you spell “thesaurus”. I want like a word for like [typing]... I want like other words for “hum” or like… “reverberation”... 
+
+AUSTIN: Is there like… Yeah. What’s lightning do inside of clouds? Is there like, a good word for that? For like cloud-to-cloud lightning? And the sound and like thunder, [Dre hums] that it makes? [typing] Like, a better word? You know what I mean? Cause that way we can like, connect back to Stratus too? 
+
+JANINE: Yeah. [pause] That’s a better path than this one, ‘cause these are all horny, so. 
+
+AUSTIN: Sorry, you lost connection for a half second there. [typing]
+
+JANINE: I was saying all the words that I’ve found as the synonyms of “hum” were horny. 
+
+AUSTIN: Oh, yeah, that makes sense. Yeah. 
+
+JANINE: So, it doesn’t work.
+
+DRE: For some reason when I’m thinking of like… You’re talking about like, the lightning as it kind of like, is building up within the storm cloud itself?
+
+AUSTIN: Yeah. 
+
+DRE: For some reason that… “simmering”? [Austin hums]
+
+JANINE: “Sybillate”? That’s not a word for that, but that’s a cool word.
+
+AUSTIN: It’s a cool word. [pause] What about “fulminate”? What about… Welcome to Friends at the Table, an actual play podcast. 
+
+JANINE: Has anyone just googled what does cloud-to-cloud lightning, what’s that called?
+
+AUSTIN: Janine and Dre, are you guys recording locally? 
+
+DRE: Yes.
+
+JANINE: Yes. 
+AUSTIN: Okay, good. Just making sure. I guess we clapped, so that makes sense, duh. 
+
+JANINE: [with disappointment] Oh, it’s just called “intracloud lightning”. 
+
+AUSTIN: Yeah, that’s not fun. [Dre laughs]
+
+JANINE: “Sheet lightning”...
+
+AUSTIN: “Ball lightning”... Does “ball lightning” have a cooler name? Or does “heat lightning” have a cooler name? [typing]
+
+JANINE: [typing] “lightning… vocabulary”...
+
+AUSTIN: “cool words lightning”... [amused] “cool lightning words”.
+
+JANINE: “Lightning terms glossary”
+
+DRE: Oh, heat lightning is sometimes known as “silent lightning”!
+
+AUSTIN: [laughing] “Associations to the word ‘lightning.’” Here we go. I got you. 
+
+JANINE: Arc? 
+
+AUSTIN: Flash. Thunder. McQueen. [He laughs. Dre laughs]
+
+JANINE: Yours is bad. Your list is bad. [Austin laughs]
+
+AUSTIN: “Arc” isn’t bad, I kind of like “arc”. 
+
+JANINE: Mine’s… My list is so much better! “Coulomb”…
+
+AUSTIN: Okay. 
+JANINE: Uhh, “discharge” [laughs]
+
+AUSTIN: Oh, yeah. I love it.
+
+JANINE: “Path web”... “Capacitance”...
+
+AUSTIN: [crosstalking] “Sonic”. Mine has Sonic on it. “Surge”. 
+
+JANINE: Umm…
+
+DRE: Ooh.
+
+JANINE: Uh…
+
+AUSTIN: You like “Sonic”, Dre? You wanna go back to “Sonic”? 
+
+DRE: No, I like “surge”. I like Surge.
+
+AUSTIN: Oh, Surge, yeah. Yeah, your friend. Yeah, uh-huh. [laughs] 
+
+JANINE: “Isokeraunic”... [typing]
+
+AUSTIN: “Lightning terminology”. “Arrester”...
+
+DRE: I’m looking up “lightning types”...
+
+AUSTIN: “Bond,” “bonding.” “Bonding” isn’t bad. 
+
+DRE: No, that’s not bad.
+
+AUSTIN: ‘Cause it’s like, this double bond—
+
+JANINE: [crosstalking] …”Ring earth electrode”...
+
+AUSTIN: —or this double meaning of “bonding,” like electrical bonds [Janine hums] and also, like you’re bonding with people. “Joules”...
+
+DRE: There’s a type of lightning called “Anvil Crawler” lightning.
+
+AUSTIN: Ooh. …”Spark”... Uh…
+
+JANINE: “Zone of protection”! That’s fun. 
+
+AUSTIN: No, that’s, that’s the thing—
+
+JANINE: [crosstalking] It’s not, not for us. That’s just, it’s this… 
+
+DRE: [crosstalking] That’s, that’s D&D..
+
+AUSTIN: —that’s the thing Clint McElroy casts all the time.
+
+[DRE laughs]
+
+JANINE: Uh-oh. Oh. That’s also… “The presumed volume of space adjacent to a lightning protection system that is substantially immune to lightning strikes.” [Austin hums.]
+
+DRE: Okay, here’s this… “Sympathetic lightning is the tendency of lightning to be loosely coordinated across long distances. Discharges can appear in clusters when viewed from space.”
+
+AUSTIN: Sympathetic lightning…
+
+JANINE: Sympathetic bonding? 
+
+AUSTIN: “Sympathetic bonding” isn’t bad, yeah. ...Wait, read me what sympathetic lightning is again! 
+
+DRE: “Sympathetic lightning is the tendency of—”
+
+AUSTIN: Oh wow.  
+
+DRE: “—lightning to be loosely coordinated across long distances.” 
+
+AUSTIN: You know what I love about this, too, is that the strands also have a sort of lightning look. The like, string art? They’re like flowers, [Janine and Dre hum in assent] but they could also totally… be the branching...
+
+JANINE: I mean, so do antlers.
+
+AUSTIN: Totally, totally.
+
+JANINE: Antlers do the branching thing. [overlapped] We’re onto something here.
+
+AUSTIN: “Sympathetic bond” is kind of nice. I kind of like that. But it’s a little too, it’s a little too literally on the nose, do you know what I mean? Like… [sighs]
+
+JANINE: Yeah…
+
+AUSTIN: I mostly wish sympathetic lightning had a slightly different name.
+
+DRE: Yeah. 
+
+JANINE: Back to thesaurus! “Sympathetic”... [typing] “Responsive”? Um… 
+
+DRE: Op. Hold on, I just found a video about UFOs flying through lightning strikes.
+
+AUSTIN: Hell yeah! That’s how they get away.
+
+JANINE: This is… this is not in the spirit of thesaurus.com! Synonyms for “sympathetic”: [derisively] “having heart in right place”!
+
+[AUSTIN laughs]
+
+JANINE: [scoffs] Get out of here! Get lost!
+
+AUSTIN: I just want a … What is, what is a “sprite”? 
+
+JANINE: It’s like a lemon-lime kinda… [laughs]
+
+AUSTIN: Okay, right. But what about the kind that’s like, lightning? [Dre laughs] “A large-scale electrical discharges that occurs high above thunderstorm clouds.”
+
+JANINE: We can’t call it “sprite”.
+
+AUSTIN: What about “Coke”? Or “Cola”?
+
+JANINE: [laughing] Anything… [laughs]
+
+AUSTIN: Oh, what about?.. What the fuck is a “chorus”? 
+
+JANINE: It’s like a lemon-lime…
+
+AUSTIN: Okay, yeah, yeah. [Dre laughs] “The electromagnetic dawn chorus is a phenomenon that occurs most often at or shortly after dawn local time. With the proper radio equipment, dawn chorus can be converted to sounds that resemble” bond… uh, “birds' dawn chorus (by coincidence).” Is this the thing? [typing] Is this the thing?
+
+JANINE: Maybe?
+
+AUSTIN: No, no, do you know what I mean? Uh, is this?.. I need to find a recording. [pause] ‘Cause if it is, then I- we have to- it has to be called the “Chorus Bond” or something, because…
+
+JANINE: Yeah, I was thinking like, if were replaced one of those words with “bond”... 
+
+[Same electromagnetic sounds that can be heard in the end of The Long Way Around play.]
+
+AUSTIN: Yeah, HOLY SHIT! Yo, it’s literally the thing!
+
+JANINE: You gotta link us to something with it.
+
+DRE: Yeah, you gotta drop that link.
+
+AUSTIN: Yeah, I’ll link you, and you’ll know it immediately… Oh, I’m gonna lose my shit!
+
+JANINE: I’m just getting excited while you link this looking at the Magus guy. It’s like, a cool picture.
+
+DRE: Oh, hey! Yeah, uh-huh. Yeah, that’s the thing. 
+
+JANINE: Oh! Huh. Well... full circle. 
+
+AUSTIN: Uh-huh!
+
+[The sounds stop.]
+
+JANINE: That’s what it is. 
+
+AUSTIN: They were always there already, you know? Alright! Well. 
+
+JANINE: Shit! Alright. 
+
+AUSTIN: I also love that it’s, this is actually called The Dawn Chorus, so we already have all sorts of Rapid Evening terminology in here. Yeah. [Dre hums] So, I like the “Chorus Bond”, it’s really good. [typing] Operation that… connects… Special antler operation… [Dre laughs, Janine sighs] What’s it do? Does it, like, not bespoke—Does it, does it look cool? It looks cool, right? 
+
+JANINE: Well, yeah. I imagine that it looks a lot… Again, it has to be complicated, so it can’t just be inlaid, but I imagine from the surface it looks like an inlay, but the truth is like—oh, it’s hollowed out and it’s filled with this metal. The horn, the natural horn that’s, or the natural antler material—I used to know what it was called. I don’t right now—uh, the natural antler material is kind of like a veneer left on the surface by the end of things, and the interior would be some other material that kind of pokes through as if it is just inlaid.
+
+AUSTIN: Awesome. Cool. Um, I don’t like my own language here of like, “turns a person into a Stratus”. A person is a Stratus, or a Stratus is a person already, but like, I have to write this down real quick, so. I’m gonna just do the thing that I did. Tshh. 
+
+JANINE: Yeah. 
+
+AUSTIN: Uh, so that is our second one! We still need one more. What do they not leave behind? 
+
+DRE: I mean. Do they leave behind like, things that let them like, basically like, number stations or like, tuning stations for… the antlers? 
+
+AUSTIN: Oh, maybe… 
+
+JANINE: But this is something you don’t leave behind.
+
+AUSTIN: [crosstalking] Oh, no! Sorry. This is something you don’t leave behind. This is something you don’t leave behind.
+
+DRE: Oh! 
+
+AUSTIN: Yeah-yeah-yeah. 
+
+DRE: Okay. 
+
+AUSTIN: Sorry. 
+
+JANINE Remains? Like it, that seems like a low-hanging fruit, but if you’re like a nomadic people—
+
+AUSTIN: [crosstalking] Yeah, but hey. Yeah.
+
+JANINE: —I imagine it could be a big deal to like, bring your dead with you. 
+
+AUSTIN: Yeah. I think that’s… What do they do with their dead? And it’s something we’ll figure out in play I’m sure, but like, um…
+
+JANINE: Yeah. 
+
+AUSTIN: But— Whoop, didn’t mean to move the whole, all of space.
+
+DRE: I don’t know. Do they make spaceships out of them? I don’t know.
+
+JANINE: [in a low voice] Is that, is that what they make the metal for the horns out off? 
+
+DRE: Oh shit.
+
+AUSTIN: The dead people? 
+
+JANINE: Yeah…
+
+AUSTIN: Maybe! Yeah. Is it like, a process? 
+
+JANINE: Cause then it’d be like it’s a real chorus.
+
+AUSTIN: Yeah. Um. 
+
+JANINE: Also, it’s like, a little bit unsettling and that’s always my favorite, so. 
+
+AUSTIN: Agreed. Alright, let’s do that. Let’s do “Never leave behind the bodies of the dead… which are often turned into the material needed for Chorus Bonds.” [typing] Shout-outs to Wikipedia, by the way. Wikipedia is a real one. For hooking me up with chorus, with dawn chorus.
+
+JANINE: Yeah.
+
+AUSTIN: Alright. I’m already way into these people. I appreciate how like, straight-up this one is—Like, yeah, don’t leave dead people behind, duh.
+
+JANINE: Yeah.
+
+AUSTIN: It’s good. [pause] Okay. That’s our Aspects. Now we have to add definition and depth to the Isolation by answering questions provided in the Backdrop. Um, there are more than, there are five of these, but we only do the first three. The other ones can come up in play, and that’s fine. So, we each, I believe we each answer one of these, let me see. We’ve defined our Aspects, we’ve made them big, we’ve made them clear, we’ve made them bite. They all do all of those things. Um. 
+
+[00:51:37 - Community questions] 
+
+AUSTIN: So, community questions. “Ask each player one of the questions in order.” Uh, so. Let’s start with, um, let’s start with Dre. “How do people…” Hmm, I’m trying to decide. I’m looking at these three questions and I’m like, who do I wanna—
+
+DRE: Right.
+
+[JANINE laughs]
+
+AUSTIN: Who do I wanna answer what here? Um. Oh man. We should— Does anyone have... These first three questions, do you see them here in the list? 
+
+DRE: Yeah.
+
+AUSTIN: Just does anyone like, have one they really wanna answer? 
+
+DRE: Man, I’m really nervous about answering any of them. 
+
+AUSTIN: Me too! [Dre laughs] There are three of them. So, the three that we’re answering are: “How do people display their fear and distrust of us? Does an Aspect play a prominent role in this?” “What services do we offer that usually overcome people’s wariness?” “How are our carts and horses decorated? What distinctive garment marks us as Czaten Dacha?” We also are gonna change “Czaten Dacha”, though I think like, “horse people” is a fun and terrible thing that I suspect non-members of the Isolation certainly call us, but I, you know. We need to be able to— It has to be our thing. [laughs]
+
+JANINE: Uh-huh. 
+
+AUSTIN: So yeah, of these three, does any, do any, does anyone like—Ah, I really wanna answer that one? 
+
+JANINE: Uhhh, you know me, I’m with the aesthetics, I think that third one… 
+
+AUSTIN: Okay. [laughs a bit]
+
+DRE: Yeah. 
+
+AUSTIN: Dre, how about you? And also, Janine, you can answer that one now if you have an answer. 
+
+JANINE: I’m thinking a little bit more.
+
+AUSTIN: Okay. 
+
+DRE: I think I might wanna go with the services one, but I’m still trying to get to what that would be. 
+
+AUSTIN: Um. Okay. I’ll say that then “How do people display their fear and distrust of us? Does an Aspect play a prominent role in this?” They do. And it is— I know how, I know how they display it. Which is they hunt other horned and antlered animals, and they display the antlers prominently when you are not wanted. Alright, so we are a nomadic people and we are landing on planets, or orbiting planets, we’re not like barging into cities and like kicking people out. Like, there’s no, we are not colonizers here, right? But like, there are times when— Or I think this is especially true when the new colonists arrive, when the colonists from the Divine Principality arrive, the thing that they do is put antlers that they’ve hunted from animals out as a way of being like—“Fuck off. We don’t see you as real people.” I think that that is the thing that they do. 
+
+And I suspect that when it’s really bad, they take our dead, and use their own, the antlers from the real dead. They don’t necessarily kill them—or maybe they will eventually, who the fuck knows how this game goes! But I can imagine settlers basically taking the bodies of the dead and using the adorned, bonded antlers in that same way. 
+
+I wanna be very clear—The Divine Principality sucks. Like, if Twilight Mirage’s whole thing was me being like—“Uh, how do I make a show where like, a centrist still has some degree of like, sympathy that I’m just exhausted by? How do I make sure that like, everyone involved here has a complicated position and that like, it’s all competing utopias?”—That is not what season 6 is. [laughs] Season 6 is like— I’ve already, for Dre and Janine, I’ve already hit touchstones of like, the Holy Roman Empire as the Divine Principality, um, you know, immediately pre-World War I Europe... It is an empire. It is like an empire at its— I don’t know. We’ll see where it’s at when we get there, but it is not a good place. Um, you will know from day one that the place that this game takes place in is shitty, and that like, the status quo is garbage, and in a different way than COUNTER/Weight was garbage. Um, the HRE is really what I keep coming back to. So, those people fucking suck. Not that everyone in the HRE sucked, most of them were like, peasants, you know?
+
+DRE: Oh, I thought I’d lost you. 
+
+JANINE: Um. 
+
+AUSTIN: Oh, did you lose me? 
+
+DRE: No, I think we’re good.
+
+JANINE: No, we’re all just thinking.
+
+AUSTIN: Oh, okay. 
+
+JANINE: Quietly. Thoughtfully.
+
+DRE: I wonder if this answer is like, maybe too obvious, but... I mean if our group is just constantly like, on the move, I wonder if they just offer either like, people can travel with them, or like, send like, packages or whatever with them, for like, very, very cheap. 
+
+AUSTIN: Hmm, that’s good.
+
+DRE: It’s like—“We’re already going this way, so like, just like, yeah, we’ll take some of your letters or whatever, or you can like hitch a ride and sit in the back.”
+
+AUSTIN: Um, so like, transport, and then— And then also, what about like... I think maybe building on that— Or a suggestion I have, I guess is: what about communication also? Right? Like, [Dre hums] I mean, I guess we didn’t, we weren’t hyper-specific on this but—can the Bonded actually communicate over far distances using their bonds? 
+
+DRE: Yeah, I think so.
+
+AUSTIN: And is that a thing that they would be willing to— to do?
+
+JANINE: I mean I think we— I think that we suggested that this was sort of the initial purpose of it. 
+
+AUSTIN: [crosstalking] Yeah, yeah. 
+
+JANINE: And then they discovered that it did let them do more. 
+
+DRE: Yeah. 
+
+AUSTIN: Cool. So, then it’s like, transportation, communication, uh...
+
+JANINE: Like messengers.
+
+DRE: Do you—So, when we were talking about the Strand…
+
+AUSTIN: Yeah.
+
+DRE: Do we think that they’re always moving to new places, or do you think there’s a specific like, almost like, migratory pattern? Because if we’re talking about them as being like being able to offer to like, communication, if they travel in a pattern, I could almost see like, certain communities—
+
+AUSTIN: Yeah. 
+
+DRE: —having like, a specific time of the year where like, these people come, and that’s like, the only time that you can like, call your family members— 
+
+AUSTIN: Right, yes.
+
+DRE: —or like, people that you care about like, in another part of the galaxy or something. 
+
+AUSTIN: Yeah, so I do wanna say that’s the other thing here is that like—I think what we’re going into with Season 6 is a place where lots of people born in—born, hm, born—are born, live, and die on one world, or maybe they get to visit one other one, or they have families spread apart, and they are not the ones like… You know, there’s a serf class, right? There is a burgeoning merchant class. Like, we’re doing that whole fucking thing. And so, the thing that you’re talking about is... 100% makes sense for me. 
+
+It’s like, the citizens of the Divine Principality and the non-citizens also would not have the ability for themselves to always like—they’re not gonna go get a fucking ship, you know? Let me tell you how much tarps cost in the future—way more [Dre laughs]. You better be a prince if you want a fucking tarp. And so, yeah, I think that that makes sense. Maybe what it is—like, I can imagine it almost being like a spirograph, in terms of what the migratory pattern of the Strand is, right? Where it isn’t just a circle, you know? It is, it is like, imagine that string art, but like, done in a spirograph format, where like,— yeah, there are sort of cycles to it, but that cycle does change. So like, yeah. Who was it that was just telling us—Janine, was it K.B. during our Vancouver trip? Or Jack? They were telling us about the like, the sheep—the sheep situation? 
+
+JANINE: [laughing] What are you talking about?
+
+AUSTIN: The sheep situation! I wanna say Russian sheep people—Italian! They were Italian! They were Italian! They were Italian, and they sold sheep. They came into town every year and sold sheep? Or cows? I think it was sheep… I’m gonna message them. 
+
+JANINE: [laughing] I wish I could help you, I really do. 
+
+AUSTIN: [sighs in frustration] I’m mad I can’t remember this Italian sheep situation. Anyway. If they get back to me, I will let you know. So yeah, so then, three, Janine, fashion. 
+
+JANINE: Okay. So. Um. There is this artist named… at least I think this is the artist named Lilit Beglarian? Um, I don’t know what their pronouns are. 
+
+AUSTIN: [crosstalking] Can you spell... oh, I see, Beglarian.
+
+JANINE: And they do these—They did this like, series of illustrations of like, stone masks that had figures of people sort of built into them. [Austin hums] And the figures are holding these like, veils and drapes and things like that. And I like the idea of these—of this people, not masks, cause I very much like their faces and want them to be on full display. [AUSTIN: Uh-huh.] And their heads are already very complicated. [Dre chuckles] But I’m thinking of like, basically kind of the shapes you’d expect of plate mail. Like, here’s an arm piece. Here is a forearm piece. [AUSTIN: Right.] Here are leg pieces, but they are made out of a sort of a stone-looking material that is like, highly sculpted? 
+
+AUSTIN: Yeah. 
+
+JANINE: Like, it looks a lot like what you’d expect to see over Neo-Classical doorways and stuff like that.
+
+AUSTIN: Yeah.
+
+JANINE: But it is on them.
+
+AUSTIN: I pulled up some of their designs. 
+
+JANINE: Probably like deer and stuff. 
+
+AUSTIN: The one I’m talking about—the one that I think you’re talking about is called The Silent Ones, it’s the name of this project, and it’s really fucking good. 
+
+JANINE: Yeah, it’s so good. 
+
+AUSTIN: Is this also extended to their ships? Like, do their ships just have like, asymmetrical statues on their sides or their tops or whatever? 
+
+JANINE: I was thinking a lot of that, but maybe instead of being stone it would be more enameled. 
+
+AUSTIN: Sure.
+
+JANINE: Again, they would look like, uh… I’ve seen some sculptures that were like this, that were like—here is a whole fucking shape... vessel kind of thing, and I can’t really—I don’t remember what they were called, um. But like, just like a very solid giant complicated sort of sculpted piece. I don’t think enameled with a lot of detail, they’re probably all one color.
+
+AUSTIN: Uh-huh
+
+JANINE: ‘Cause it’s like a coating, um, not like a fucking Easter egg, but—
+
+AUSTIN: Right, right. 
+
+JANINE: There—It’s like, you know, there’s a protective quality to it still, ‘cause it’s a fucking spaceship. Like, it’s gotta enter atmospheres and stuff. But like, to—probably to keep all the little components of the statues from too much wear and tear. The details.
+
+AUSTIN: I love it. So. Um. So [typing] “Clothing/armor is affixed with stone statuettes, and ships have decorative enamel”... Spelled “enamel” wrong. There we go. Cool. Pig butchers, by the way. It was pig butchers, that’s what I was thinking of. The Italian pig butchers. 
+
+JANINE: Oh, yeah! Yes, I remember this. They would go from town to town and butcher people’s pigs. You should’ve said pigs, I would’ve known exactly what you were talking about.
+
+AUSTIN: Yeah, I was thinking sheep, apparently it was pigs...
+
+JANINE: You don’t wanna butcher.. oh it’s fucking…
+
+AUSTIN: They were called the “norcini”... I can’t tell what type of “c” this sound is making ‘cause I don’t know Italian… They would go around in pairs from town to town and would butcher the pigs, and so like, if you had pigs, you had to be like, “Alright, butcher all my pigs this year. It’s gonna be a long winter, and we’re gonna need that meat, or like, they’re probably gonna freeze to death”. Or you’d have to be like, “No, I think we’d be fine, I think we’ll make it through.” Eventually the group got like, papal approval to become a trade guild, and also the approval to like, do dental work and surgery, because it’s the same basic thing. And they are also the ones who could like, they knew how—
+
+JANINE: [laughing] It is the same basic thing!
+
+AUSTIN: Yeah, you know? And in 1400s, or whatever, 16, 15, the fucking, may as well be. They’re also the ones who like, knew how to make prosciutto and salami and stuff, and so, they were like… You know. If you want—Anybody can kill a pig and eat it, but if you wanted good like, spiced Italian meat, you had to wait for one of these butchers to show up. Anyway, that’s not what we’re—
+
+JANINE: If you need salami and a pulled tooth, you had to wait. 
+
+AUSTIN: God damn, do I ever. [Dre laughs] Thank you. Thank you to K.B. for responding very quickly to my IM, which was “Was it y’all that told us about the Italian sheep sellers?” And they said, “I talked about butchers.” And I said, “Butchers!,” and they said, “Butchers! Of pigs!” [laughs] And I said, “Pig butchers!” So. That’s good. That’s good. Um. Alright, so that is our three questions. Nice work for that. Uh, so we have one more thing to do before we, I mean, before we look at our characters, which is name our Isolation. 
+
+[01:05:16 - Naming the Isolation] 
+
+AUSTIN: “Names are deeply meaningful. The act of naming says something about what is named and who does the naming. The same holds true in the Isolation. Together, you will finish assembling your community by coming up with a name for it. As a group, decide on how members of the community refer to the Isolation. Write the name on an index card. Place it outside of your Language Tableau for all players to see. The name should reflect something about how members of the Isolation view themselves. The community may have other names like, an official title or what outsiders call them. Those don’t matter right now. The name you are defining is the one used by the Isolation itself. Take stock of the Aspects and your answers to the Community Questions while making your choice.” So. What the fuck are we called? 
+
+DRE: I’m trying to remember like, my different “bond” words. The only one I can think of is like, “covalence” which is a cool-sounding word. 
+
+AUSTIN: Oh yeah. That is a cool word. [typing]
+
+DRE: Do we want to either—
+
+AUSTIN: [crosstalking] What about playing with that and going to like… “Covalence” is a word, “covalent” is a word, but what about like, The Cóvalent? Or something like that? Where we’re taking a word like that and just changing where, shifting where the pronunciation is, or where the emphasis is, rather? 
+
+DRE: [hums] The emphásis is on the different sylláble?
+
+AUSTIN: Exactly. 
+
+DRE: Do we want to do anything as far as like, musical terms riffing on the “chorus” part, or?
+
+AUSTIN: Oh, maybe. That’s an interesting thing, too. Um. Or ideally it’s like, a word that hits all of those, right? 
+
+DRE: Uh-huh. Yeah. 
+
+AUSTIN: Lots of Googling happening here. 
+
+DRE: Uh-huh. 
+
+AUSTIN: Sadly, we cannot use “Resonant,” yeah. [laughing]
+
+DRE: [crosstalking] Oh, that’s...
+
+AUSTIN: What were you saying? 
+
+DRE: I tried to Google “music in chemistry,” and now there’s just this article about lemons singing, which I can’t read ‘cause that’s just what I’ll do for the next twenty-four hours. 
+
+AUSTIN: That’ll be it. You’ be in that. What about like, “The Valent,” the… I’m… If I can’t say it right away, that’s not it. I was gonna say like, The Val… See? I can’t say twice! Valent. I can say “covalent” but I can’t say “valent”. It’s hard. 
+
+JANINE: Vespertine is a Björk album, so it’s kind of a music thing. 
+
+AUSTIN: That is true. [Dre laughing] That is true. So. So. 
+
+JANINE: You know there’s a website called whatdodeereat.info? And if you go there, there’s a sidebar that’s just like—What Do Bears Eat, What Do Mice Eat, What Do Elephants Eat, What Do Raccoons Eat…
+
+AUSTIN: [crosstalking] Those are on the same website or nah? 
+
+JANINE: No, these all go to their own .infos. 
+
+AUSTIN: Where?
+
+JANINE: whatdorabbitseat.info, whatdopigseat.info. 
+
+DRE: Weird. whatdozebraseat.info. 
+
+AUSTIN: Oh.
+
+JANINE: I wanna share the train of thought I’m currently on, in case we like it or don’t. Um, I was thinking of some kind of moss-like plant that spreads that [Austin hums] deer graze on, because it is spread and scattered, but also, there’s lots of kinds of like, moss and shit that… and grass, like that might be…
+
+AUSTIN: Yeah, that’s useful.
+
+JANINE: But I don’t know where to find that. [laughs]
+
+AUSTIN: Like moss words? 
+
+JANINE: I tryin’ to find that info, and it’s hard. [typing]
+
+AUSTIN: Yeah. 
+
+JANINE: I need to first start with—do deer eat moss or just grass? I think they mostly eat leaves and grass… Oh no, they do eat moss, okay. “Mushrooms are a gourmet treat to deer”...
+
+AUSTIN: [crosstalking] “Nomadic plants”... 
+
+DRE: Ooh! 
+
+AUSTIN: I’m looking at nomadic plants. 
+
+JANINE: That doesn’t… make sense.
+
+AUSTIN: Why? All plants are nomadic a little bit.
+
+DRE: If you think about it. 
+
+JANINE: Well, shit. 
+
+AUSTIN: See? That’s like, the whole thing! 
+
+JANINE: I found the list of the mosses of Britain and Ireland, and it’s mostly— and it’s on Wikipedia, but only like, five of these are real links and the rest are red [laughs].
+
+AUSTIN: Hm. 
+
+JANINE: Oh, there’s way too many…
+
+AUSTIN: I kind of like “hypha”. 
+
+JANINE: Oh, hypha’s nice. 
+
+AUSTIN: Cause it’s a fungus. It’s a branching fungus.
+
+JANINE: Uh-huh. 
+
+DRE: Oh, okay. 
+
+AUSTIN: Um, and it’s just nice. Hypha! 
+
+DRE: Alright, I’m into Hypha.
+
+JANINE: Yeah. 
+[01:09:00 - Character Archetypes]
+ 
+AUSTIN: Alright. Nice work! So. We ready for the next stage? In history? 
+
+DRE: Boy, howdy. 
+
+JANINE: You mean we’re not done? 
+
+AUSTIN: Nah, that was not it, unfortunately. [Dre laughs]
+
+JANINE: The whole game? That wasn’t it, we didn’t win? 
+
+AUSTIN: That was—we didn’t make characters yet. So. 
+
+JANINE: Hmm.
+
+AUSTIN: “Language is the dominion of people; we say it, wield it, bend it, make it. As an individual, how you use language is a window to who you are. In Dialect, it will be at the core of who you are in the Isolation. To this end, each player will create an archetype to be their voice. You’ll do this in two phases.” First, we’ll pick an Archetype. They are “baselines from which you build your character. Each Archetype has a connection to the Aspects that ties your character to the language and community in a unique way.”
+
+Then you will give an Introduction. You’ll “ground your character in the setting based on their Archetype and introduce them to the group. While doing so, you will explicitly define how they relate to the three Aspects of the Isolation as prompted by the Archetype Card. Like any community, the Isolation is colorful and complicated. Characters are not carbon copies, and not everyone will identify with all of the Isolation’s Aspects equally.”
+
+“Humans in groups feed a natural friction, and you will see this played out in the story and language. A word that one character uses casually may be deeply meaningful to another. How you speak to those you trust, to those with power, in moments of strength and weakness will draw a line between you and others. In this way, language gains meaning both at the level of the world and the individual.”
+
+So, “The Facilitator starts this phase by dealing three Archetype Cards, pictured below, to each player. After this, each player should select one of those three cards as their Archetype, set aside the rest, read the card aloud and give a brief outline of a concept for your character. In this outline, mention which Aspects you’ll focus on with your character.”
+
+So, I should go back to this page here… Boom. Okay. Uh, I… So, shout-outs briefly to Riley Rethal in the chat who sent me great links where they had already compiled some good like, lists of these things so that I wouldn’t have to go through the process of building out all of these decks in roll20. Which I then built out anyway, because I am that person. [Dre laughs] 
+Um, alright. Who wants their Archetype drawn first? 
+
+DRE: Hit me, Austin. 
+
+AUSTIN: You’re ready? Alright. One. Two. Three. So, your choices, Dre, are: Healer—Um, zoom in more… 
+
+“HEALER. When we hurt, we come to you. You make sure we’re ready to serve the Isolation for another day. People talk to you about their pain. You identify with two of the Aspects. One of our Aspects is the cause of our pain.” 
+
+“PROTECTOR. Steadfast and secure, you are the shield that guards the Isolation—either from outside or within. People talk to you about safety. You identify with all but one Aspect. You fear the remaining one.” 
+
+Or “SCROUNGER. Something’s in short supply here. We rely on you to provide whatever scraps of it we can get. People talk to you about getting what they need. You identify with two of the Aspects. One is causing the scarcity.” So, do any of these appeal to you? 
+
+DRE: Yeah, I’m gonna go with Healer. 
+
+AUSTIN: Okay. I’m gonna discard these other ones. ...Is there not just a discard button? Can I not just?... Oh my God, I swear to God… I’m gonna take these cards off the screen. That’ll do it. Boom. Alright, so I’m just gonna lift this up to you here, and… Let me re-read really quick ‘cause I don’t remember what the order is… Do you decide now what the relationship is or do you do that after? Um, I think you do that now, so. Which of the Aspects do you identify with, and which one do you think is the cause of our pain? 
+
+DRE: So, the Aspects are the three that we have on these outside of the circle? 
+
+AUSTIN: Yes, it’s the Chorus Bond, it’s never forgetting our dead, and it’s the Strand.  It’s the, the... yeah. 
+
+DRE: I think.... The one that I think is the most interesting as the cause of the pain is “Never forget your dead”.
+
+AUSTIN: Really. Interesting. So, you think that we should leave our bodies behind? 
+
+DRE: No, not necessarily. I’m just thinking like, in terms of like—what does the grief cycle look like if like, you never… 
+
+AUSTIN: Yeah. 
+
+DRE: The idea of like, burying someone or going to a funeral or something is like, a very… closing part of the grief cycle, [AUSTIN: Yeah.] or a big part of the grief cycle, and if like there’s never that closure, like, you know, if body parts are just kind of like, part and parcelled out and there’s never that like, singular moment where you say goodbye to the physical part of, you know, of that person?
+
+AUSTIN: Yeah. I like that. I think that’s a good direction here, you know, and in general, there’s an idea here of like—We need to be able to grieve. And that’s like a, like grieve, and finality, and move on is an interesting way to frame a Healer, for sure. Cool. 
+
+AUSTIN: Janine, would you like to go next or should I? 
+
+JANINE: Hit me. 
+
+AUSTIN: Okay. [Dre chuckles] Magician, Zealot, and Leader. I’ll read through these, that’s Healer still... here we go. 
+
+MAGICIAN says: “No one understands how you accomplish what you do. You have your secrets. People talk to you when they’ve exhausted all rational options. You identify with only one of the Aspects. Your secret lies within it.” 
+
+ZEALOT says: “There’s a right way for the Isolation to live. You know what that way is. You will convince the others. People talk to you about your followers. You identify with one of the Aspects. You take it much too far.” 
+
+And “LEADER. A paragon of what it means to be in the Isolation, we come to you when we need decision or action. People talk to you about what to do next. You identify with all of the Aspects. You draw your power from one.”
+
+JANINE: Hmm. Let’s see here. I’m re-reading the Aspects just so I can know if [AUSTIN: Yes.] I can do anything real wild. 
+
+AUSTIN: Yeah, totally. So, they are, again: Never forget your dead—never leave behind the bodies of the dead, which are often turned into the material needed for the Chorus Bonds; The Chorus Bond itself, which is the special antler operation that turns a person into a Stratus, inlaid metals, circuitry, etc.; and then the Strand which delimits and directs the fleet in future travel. 
+
+JANINE: Zealot is so tempting, but I truly don’t want this game to go too dark, and I feel like if I picked Zealot, I would do that.
+
+AUSTIN: Sure. 
+
+JANINE: Instinctively. [Austin laughs quietly] So, I’m going to tie my own hands here. 
+
+AUSTIN: Uh-huh. 
+
+JANINE: To be honest, I kind of feel the same way about Leader.
+
+AUSTIN: Uh-huh. 
+
+JANINE: I don’t think I’m good at thinking ahead enough to not be a disaster with that, so I’m gonna be a Magician. 
+
+AUSTIN: I wanna be clear, it is gonna be a disaster of some sort no matter what. 
+
+JANINE: I know, I know, but there are certain kinds of disasters…
+
+AUSTIN: Fair. 
+
+JANINE: And yeah.
+
+AUSTIN: Okay. So. So, here’s my question, I guess. Which is the Aspect you identify with? 
+
+JANINE: Um... It’s the first one. Because like, the basic idea is that…
+
+AUSTIN: Wait, which is the first one? 
+
+JANINE: Sorry, the one about the dead. 
+
+AUSTIN: Oh, so it’s “Never forget your dead”.
+
+JANINE: Claiming and never leaving the dead, but, you know, part of it being the use of the dead. 
+
+AUSTIN: Gotcha, gotcha. That makes sense. Cool.
+
+JANINE: Yeah, that makes sense as a secret to me. 
+
+AUSTIN: So yeah, is that not widely known? That we use the bones or the antlers of the dead in, or the bodies of the dead in the Chorus Bonding? Like, is that part of the secret? 
+
+JANINE: I think… I don’t think that’s a… As a secret, that kind of bothers me.
+
+AUSTIN: Yeah. 
+
+JANINE: I feel like that’s the kind of thing that should be open...
+
+AUSTIN: Uh-huh. 
+
+JANINE: —and should be known because otherwise it’s like—Okay, we just gave our dead to this person, and then they disappeared—
+
+AUSTIN: They disappeared, yesh. 
+
+JANINE: —so I guess we’re fine with that. 
+
+AUSTIN: Yeah. So, is it more just the secret as in you know how to use it? 
+
+JANINE: I don’t know if this secret should be that the Magician is one of the roles that like does this process? [Austin hums] Or I don’t know—like, I don’t know if that’s reasonable to say that it’s that closed off? Even within the culture? 
+
+AUSTIN: Right.
+
+JANINE: Or it’s more interesting or more reasonable to say that like, they have something in particular that they do with their own abilities. 
+
+AUSTIN: Right, right. 
+
+JANINE: You know what I mean? 
+
+AUSTIN: We’ll figure it out in play, you know? We’ll think about it. 
+
+JANINE: Yeah. 
+
+AUSTIN: Alright. Time for me to draw three of these cards. Celebrity. Artist. And Explorer. Alright, let’s read these. Zoom in, here we go. Alright. 
+
+CELEBRITY says: “We all recognize you. Silence descends on any room you enter. Heads turn. People talk to you about the latest gossip. You identify with one of the Aspects. It made you famous.” 
+
+“ARTIST. The Isolation has a certain charm to it—thanks to you. You keep us going when things look their darkest. People talk to you about your masterpiece. You identify with two of the Aspects. And one of them is your muse.” 
+
+And “EXPLORER. We rely on you to venture beyond where the rest of us do— to push the boundaries and uncover new potential. People talk to you about the unknown. You identify with all three of the Aspects. You know there’s undiscovered potential in one.”
+
+This is interesting. These are all super interesting. Part of me likes Explorer a lot here, especially with the notion of the Strand. Like, is there someone who runs thread forward through space, and the Strand blossoms around it? There’s something really interesting about that. Part of me also likes Artist as being— Artist and Celebrity as both being people who are tied to... Either Celebrity as being someone who has the Chorus Bond or who works with it and creates. Same thing with Artist— the idea of like, the Artist being one of the people who can do that surgery... though if you are going that direction, Janine, I think I’d rather go Explorer. 
+
+JANINE: I mean that’s the thing. I think it’s more interesting—Like, it doesn’t make sense for a group of this size plus the way the Magician card is phrased, [Austin hums] for the Magician to be like, the one person who knows the whatever… So, it makes— 
+
+AUSTIN: No, yeah. 
+
+JANINE: It’s more interesting to me if you pick like, Artist or Celebrity as like—oh this is, you know, one of several people. 
+
+AUSTIN: Yeah. 
+
+JANINE: Instead of being the only one. So the Magician would then be someone who—
+
+AUSTIN: Has something special there on top of it.
+
+JANINE: —does something extra, yeah. 
+
+AUSTIN: Yeah. I think I might just be more interested in the Explorer. Because I wanna see us at… I think that’s what I wanna do, because I wanna see the Strand on… in a character here, and right now it’s not. Right? Like, we have this great connection between the Chorus Bond and the dead, and I want to make sure that the Strand as an Aspect doesn’t get left behind, so I’m actually gonna go Explorer I think, if that makes sense. 
+
+JANINE: Yeah. 
+
+[01:20:57 - Character Introductions]
+
+AUSTIN: Alright, so now, Introduction. “Take a few minutes to decide on a concept for your character based on the Archetype you picked. A concept is a character’s name, their role in the Isolation, and their relationship to the Aspects. After all players have their characters set, go around the table and let each player introduce their character.” So, again, it’s name—and so, there’s something special here which is: there’s a common name and a limited name. Limited name is just my quick way of writing “what only some call them”. A common name is “how they’re most commonly known. This may be their given name, a name they chose, or a ubiquitous nickname. Each Backdrop comes with a list of examples.” 
+
+Then, what only some people call them is “a word or phrase that some call your character within the Isolation that’s different from their common name. Some examples are a special nickname, an honorific, an official title, a name they’d rather forget.” That one’s actually like super easy for me, uh, so. That one I got. The other one I don’t fucking know yet. 
+
+Then, the other stuff is role in the Isolation, summary for the role of you character “based on their archetype. Tell us why they are important in the community. Make it big and make it count.” So, it’s easy to convince yourself that you’re just like—“Oh, I just wanna be an average Joe, or Jane, or whatever, right? I just wanna be like… Here is just a regular perspective in society.” That’s fine, but like, we are archetypal characters that are the lense for the death of this language, so. While that impulse makes sense, be willing to be, you know, the average person who happens to be the one who for whatever reason is positioned in such a way that they’re more important, you know? At least. And don’t feel like you need to go quiet or small here, is the other thing. 
+
+Alright. I’m gonna go down the line. I am Timea Asche. I use she/her. I am known to people who like are in—I guess I’m probably known... This is like, what my title is, but the time I hear it is probably just like, over the Chorus Bond when I’m doing it, is Thread-Runner. So like, you know, operations back home, Control back home will say like, “Alright, Thread-Runner” Like, “you’re running late on this one”, or whatever. My role is that I fly a ship into space to guide/release the Strand. I think if you asked her like, “Wait a second, doesn’t the Strand go where it goes?,” she would say like, “Yeah-yeah-yeah, of course, but sometimes it needs a little nudging.” 
+
+Like, or she would say like, “Of course, well, it’s like that, but at the same time, I’m travelling ahead of it, but it’s guiding me even though it’s behind me…” It’s very weird. The Stand is my lifeblood. I understand the Strand in a way that—I underStrand [laughs]—I understand the Strand in a way that no one else does. It could guide us anywhere. And that is my, that is the thing, the potential I have with it. So, that is the one that I think has potential that is untapped, undiscovered. 
+
+My relationship with never leaving the dead behind is that I... My first job with it was to recover the last Thread-Runner, and I’ll never forget that. Like, that was, I had to go out and get the body of someone who had died in space. And then finally, I couldn’t do my job (or feel connected to home) without my Chorus Bond. So, I am also Bonded. And those are my feelings on this stuff. 
+
+I think that she is young. She’s maybe even young for someone with this job. Like, very talented, has been fairly… I wanna say like, in a weird way, fairly sheltered, has not had much contact with outside cultures, has been very focused on ships most of her life. And has been very, like, interested in space, right? You’ll never have to convince her that like, you should, that she should leave a place, you know? [laughs] She’s eager, as soon as she touches ground, to lift off again. And I think that that shows. I think she’s young, I think she has like—do these people have like, the white spots that deers can have sometimes? Almost like freckles, do you know what I’m talking about? What are those called? 
+
+JANINE: I wanna say that’s, well, I think that’s—One that’s like, usually a juvenile thing, although some deer...  you’re right, it’s not. I think that might be fur though, I don’t know if it’s on the skin.
+
+AUSTIN: Oh, right-right-right. Well, what about like, those but like, brown on skin? Do you know what I mean? Like, actually like birthmarks or freckles…
+
+JANINE: They can have freckles, yeah. I mean, it’s skin. 
+
+AUSTIN: Yeah. So, yeah, but I think that they’re bigger. Like, I think that they’re bigger like those white spots are. Um, than just like— 
+
+JANINE: That’s my new catchphrase. “I mean, it’s skin.”
+
+AUSTIN: Yeah, yeah. 
+
+JANINE: Oh, sorry, you cut out for a bit. I thought there was dead air. 
+
+AUSTIN: No, there was not dead air. Yeah, there’s like, the brown, like brown birthmarks or freckles but like, bigger, the way those spots are. Along her cheeks and neck, and probably like arms and stuff too. Um, yeah, that is Timea. Dre?
+
+DRE: I’m playing Asper Mykell, they/them. They are a Concomitant, which is a person who helps family and loved ones process the death of someone, and then also guide them through the process of how the remains are gonna be used. 
+
+AUSTIN: Uh-huh. 
+
+DRE: So, Aspect 1 which one of the… Is seeing death each day, I value that Strand keeps us within proximity of those we love. Like, obviously within this like, the way that the Strand  kind of like, lays out where we can go... there are limits within that, and I think that for Asper, they see it as important, as like, you know, we don’t stray outside of this because we need to be able to like, see each other and be in touch with one another. 
+
+AUSTIN: Uh-huh. 
+
+DRE: Aspect 2 which is the “never forget your dead,” and this is the one that I had said is the cause of our pain.
+
+AUSTIN: Right. 
+
+DRE: It is easy to understand we use the bodies of our dead until you your parent or child is lying before you. 
+
+AUSTIN: Hmm. 
+
+DRE: Like, I think it’s like—it is easy to understand that like—even within our society, we all talk that there are certain things that happen to everyone, [AUSTIN: Yeah.] but then when it happens to you or somebody you care about, it’s hard not to feel like it is special, or worse, or something specific to you. 
+
+AUSTIN: Yeah.
+
+DRE: And then Aspect 3, “to truly connect to one another requires the courage to be vulnerable, a trait we should all seek.” I think that for Asper, like, they do see that the Chorus Bond is like, a really important thing, but I think they also think that we should all try to form that level of empathy and connection with one another.
+
+AUSTIN: Regardless of whether we need it for our work or we need it to get the Chorus Bond, like, that’s just traits we need. Got it. 
+
+DRE: Yeah. 
+
+AUSTIN: Cool. Janine? 
+
+JANINE: I’m going to be playing as Sabil Nodra, who is called Dust-Eater by— I imagine this is something that is like, a thing that you hear from people who are a little bit bitter or find what you do a little bit distasteful.
+
+AUSTIN: Uh-huh. 
+
+JANINE: But also, a term that like, people in that position would maybe use against each other just like, you know,“You old Dust-Eater.” 
+
+AUSTIN: Sure. 
+
+JANINE: That kind of—It has kind of a double intention. [laughs a bit]
+
+AUSTIN: Yeah. 
+
+JANINE: What were you gonna say? 
+
+AUSTIN: So, this is not just a thing Sabil— Sabeel or Sábil? 
+
+JANINE: Sábil.
+
+AUSTIN: Sabil, that Sabil does? Is this is a thing that there’s like, a couple of you, or like a handful or you, or hundreds, or?.. 
+
+JANINE: Yeah, I imagine each— I feel like each chunk of—Like, each—
+
+AUSTIN: Yeah, I gotcha. 
+
+JANINE: We’ve said that there are ships of different sizes, but I think that each ship should have at least one, and then the larger ships should have like, one and an apprentice kind of thing 
+
+AUSTIN: Uh huh. 
+
+JANINE: Or a couple, things like that. The thing that makes her unique is not that alone. 
+
+AUSTIN: Okay, cool. And then your Aspect relation? 
+
+JANINE: Yeah. I use the remains of our dead in the Chorus Binding process, but I also use them to enhance my own abilities. That is the thing that makes her unique. That is her secret in relation to that Aspect. 
+
+AUSTIN: Right. So, you have—
+
+JANINE: Every time she is Binding someone to the Chorus she is also... topping herself up a bit? Like— 
+
+AUSTIN: Yeah, skimming a little bit for your own antlers? 
+
+JANINE: I imagine that most people’s antlers, the inlaid part would feel a little bit recessed, but hers feels a little bit raised. She’s like, tracing over those lines and building onto it with this sort of excess material, instead of disposing of it or giving it back or—
+
+AUSTIN: We’ll see specifics, but does that... Is that just like, you can connect a little bit further, a little faster, a little better, you’re a little quicker—like what is the, what does enhancing your own abilities looks like? Or do you not wanna talk about that until we’re in play? 
+
+JANINE: I’m not really sure. I think it is more interesting to see how it comes into play. Like how it sort of would work rather than just defining it right now. 
+
+AUSTIN: Yeah. Alright, sounds good. And then the other two, you don’t have like, a direct relationship to in terms of your card, but are you… So, you don’t identify with them, but are you... What do you think about those other things? 
+
+JANINE: I mean, it’s... I don’t identify with them, but I also don’t refute them, so I don’t know what to say about any of them other than like, this is just a fact of—
+
+AUSTIN: Of life. 
+
+JANINE: Yeah. 
+
+AUSTIN: Okay. You’re like—you’re not here to like… You have no feelings about the Strand, the Strand is the Strand, at the start of the game, and then… I guess like, the thing here is like, the “never forget your dead” plus the Chorus Bindings are blending for you a little bit, right? So, it is…
+
+JANINE: Yeah. 
+
+AUSTIN: Which is fine.
+
+JANINE: Cause that’s… I mean, they are sort of blended in the thing. 
+
+AUSTIN: Uh huh. Totally. 
+
+JANINE: That is kind of what they are. 
+
+AUSTIN: Uh-huh. Okay. Cool. So. We have our characters. We have our Aspects, we have our Backdrop, we have everything we need. Now we need to do a thing. So. 
+[01:30:53 - Age 1]
+AUSTIN: “With the world and characters set, you’re ready to dive in. The turn sequence is the heart of the game and the engine for language creation. Each turn you will advance the story of the Isolation and root that change in the language. In this way, the language and story will be bound together. A turn revolves around playing cards from the Language Deck. This deck is divided into cards for each Age by the number on the back of the card.
+Begin Age 1 by dealing three cards for Age 1 to each player.”
+So, let’s start with that. This should be fun! Alright… [pause] Oh, good ones here… Okay. So, I’ve drawn three cards for each of us. So, here is the way that these turns go. One of us—and I’ll start since I’m facilitating—will pick a card from our hand and tie it to one of the current Aspects in the Age. “Describe why this Aspect has led to a new word for the concept on the card. Use the connection to build new detail into the world.” Then as a group we construct a new word or phrase for the concept based on the connection we’ve just made. It’s communally, suggestions can come from anyone, but the person whose turn it is makes the final decision. 
+
+Then you write the word on an index card, and you place it over there… For us, I think we’re just, I think we’ll just drag the card up to the respective trait and then write the word on the card itself… since we’re not using real cards. [laughs] And then, we hold a conversation. We set a scene and hold a conversation in character, inspired by the prompt at the bottom of each of these cards. “Play out the conversation until all characters in the scene make their relationship to the new word clear. Certain cards, designated as Action cards”—and so we have one of those here. Dre, you have one called CREATE A WORD—“bend the normal flow of play. These may result in words changing, being generated through alternate means, or even leaving the language.”
+
+“When you’ve finished your turn, draw a card for the upcoming Age.” So, I’ll get this next set of cards ready also. I’ll shuffle that, shuffle those cards up. There we go. “In other words, draw an Age 2 card during Age 1 and an Age 3 card during Age 2. Do not draw a card in Age 3. After each player has taken a turn, you will move to the next Age.” One thing… Let’s do my opening turn, and then I’ll talk about one more thing that we’re allowed to do.
+
+[01:33:23 - Turn 1]
+
+AUSTIN: So, I have three cards to choose from. I have:
+
+GOOD LUCK, which is “How we affirm our hope in happy outcomes. A spoken wish for victory that bonds us together. A particular kind of luck or fortune for the Isolation.” And then the prompt is “When good luck is needed most.” 
+
+WONDERFUL, “A vision of hope. Milk and honey and all that is good. May we fill our days with it.” Shared— And the prompt is “A shared moment of wonder.”
+
+Or BAD OMEN. “A symbol for our dread. We’ve always had worries about the future, but this thing anchors it to reality. When we say this word, we feel how fragile the Isolation really is.” “A bad omen only some acknowledge” is the prompt. 
+I’m gonna start with... WONDERFUL, I think is the one that I’m gonna go with. And I think I’m gonna start it with where I should start it, which is—for me at least—which is The Strand. I think that we begin at the beginning of a new Strand, like, I’ve… You know, it’s a shot looking up from a planet as the Strand blossoms, and I think those who are Chorus Bound can literally physically see this, this like, amazing, like, paint almost, like running through the sky and into space, shaping the direction that all the Hypha will, the Hypha fleet will go down in the next, you know, in the next months and years, or whatever, right? Like, that’s going to be our next home. 
+
+I’ll note right now too that we get to play with time here as we want—each Age is not an age in history in that big picture sense. You know, we’re not jumping 500 years or something... unless we live that long, ‘cause we’re staying with these same characters throughout each Age. But we are able to jump weeks, months, years as appropriate, you know? But yeah, so I think… I think the connection I wanna make here is like… there’s a special word that started for describing when a new Strand was… whenever there was new Stranding, a new, like, the Stands launched or whatever, a new age of a new Strand, and that word became a kind of stand-in for the word “wonderful”, right? Or for like, “this is good”. Like a positive thing. 
+
+Um, does anyone have any good ideas for what that might be? [Pause. Dre hums.] You know, this could be as simple in the word as like... “blossom,” right? Like, we could be like, “That’s blossom,” you know? Or like, “That’s bloss,” right? “Bloss” could be our word for “wonderful.” Or like, um, I’m trying to think of other things… Like “flowe” or “flow”, right? Things that are like, take longer word like, “flower” or “flowering” and cut it down to something smaller than that. Or it can be, um... “Strandfull” or like, is there like, a special year that we’re calling it? Like “the Strand year” or “Newstrand,” “New Strand,” right? Like, is there something like that that has generalized to be just a positive thing? Does anyone else have any ideas here? Do any of those stick out? 
+
+JANINE: Um, there’s a kind of plant called a heliconia, or hēlicona, and I really like “heli-”, something about that with something else on the end feels like it has like, a brightness that might work here. 
+
+AUSTIN: Uh-huh. Yeah... So, a thing I wanna say really quick that I should have said before that is in the book but... We work for, in default, we work in like, our own language by default. There are cards that are about inventing new words completely, so like, Dre has the CREATE A WORD card, right? 
+
+JANINE: Hmmm. 
+
+AUSTIN: But. So, I’m gonna read from the book really quick… Ugh, I cannot find this section. But there is a thing in here that effectively says like… we should be—not that the name of the flower isn’t that already—but like, we should be playing with stuff that we intuitively know because the characters intuitively know them, right? 
+
+JANINE: Uh-huh. 
+
+AUSTIN: There are special circumstances when it is about doing the like, let’s sound out good interesting sounds, but for this it should be like… We should be speaking as if we are people who understand the language, you know? 
+
+JANINE: Right. 
+
+AUSTIN: I’m just frustrated that I can’t find this specific thing, but that’s okay [laughs] Any other suggestions on this? What about like, “brightsky?” [Dre hums thoughtfully] Like, does it just— ‘cause it’s just something that looks so dramatic—Like, what are we—That’s kind of where I wanna start—what do we call it when the Strand happens? Because that’s the term that I think eventually becomes the stand-in for the word “wonderful.” [pause, some clicking] I’m gonna just say it’s “brightsky.” I kind of like that, I kind of like that notion.
+
+DRE: I do, too. 
+
+AUSTIN: And let’s roll with that. I can, I’m allowed to make that call, it is my turn. [Dre chuckles] So, I’m gonna write “brightsky” here, and then I’m gonna… So, that is the part where we put the words together, where we create the word. But now we have a conversation. So, “Read the prompt at the bottom of the card played this turn. This will act as a prompt for a conversation where you’ll use the language you just made.” 
+“A shared moment of wonder” is our prompt. “Choose at least two characters to have a conversation. This is done by the player whose turn it is. You may choose yourself to be in the conversation, but it’s not required. Feel free to discuss who it makes sense to include in the scene. Conversation participants set the scene.” 
+
+Players who will be in the conversation should first answer two questions:
+Where are we? Establish where the conversation will take place.”
+And two, “What are we doing? Say what the participants are doing as the conversation starts.”
+“Participants then have a conversation that demonstrates their relationship to the new word defined. All participants in the conversation should either use the word, conspicuously avoid using it, or explore a shade in between. Once all characters in the conversation have shown their relationship to the word and the prompt is resolved, anyone at the table may end the scene.” So, we can go “Cut!” whenever. So. 
+
+I think the scene that I want here is— Sabil, do we… do you do like— I know that you use your own abilities to like, like you said, top yourself off and give yourself some extra psychic juice—do you also do that with others or is it like?— Is there a sort of check-in or check-up model for this? 
+
+JANINE: No. That’s… for me that’s like the thing—
+
+AUSTIN: [crosstalking] Okay, so it’s a one and done? 
+
+JANINE: —the Magician’s thing is like—oh, there’s like, a secret you have, and so I want it to be kind of… covert.
+
+AUSTIN: But like… Sorry, I guess what I mean is like—Do you do check-ups? Or do you just do the initial thing? 
+
+JANINE: Umm…
+
+AUSTIN: Like if antlers get damaged, or if you’re feeling a little… I’m just trying to see, is there a scene in which Timea could show up to your office to be like— 
+
+AUSTIN (as Timea): I just did a Strand run, I—or the Thread run—Could you just make sure that my antlers are all still good? That my Bond is still tight? 
+
+AUSTIN: Or is this too close to the thing that you wanna do as a private separate thing? 
+
+JANINE: I think it makes sense to do check-ups, but I also don’t know... um, in terms of a physical thing, I don’t know where the fault would be, like where the fault would… what the thing to check would be. 
+
+AUSTIN: Maybe it’s not physical? Maybe it’s like a— maybe it is actually a Bonded thing, you know?
+
+JANINE: But like, then there’s a thing where I wonder if it verges on Dre’s character? And what they do. 
+
+AUSTIN: But their whole thing is about processing death, not about actually healing, right? 
+
+DRE: Hm. 
+
+JANINE: [crosstalking] Yeah, but like, I mean the, um—
+
+AUSTIN: I’m asking Asper. 
+
+DRE: Yeah... I mean, in a way that is healing, but it’s not physical healing. 
+
+AUSTIN: [crosstalking] It is, it is, but I mean… yeah. That’s what I mean, it’s not—
+
+JANINE: [crosstalking] It seemed like a psychological health kind of… strain of things.
+
+DRE: Yeah. 
+
+AUSTIN: Okay, so, I guess that’s my question—
+
+JANINE: So. I don’t wanna step too much on that. 
+
+AUSTIN: —for Asper then: is that a— is there a broader therapeutic role that you play? Or is it really focused on being… death… like, around death? 
+
+DRE: I think it is focused. 
+
+AUSTIN: Okay. Then yeah. 
+
+JANINE: Okay. 
+
+AUSTIN: I don’t think it does make a— I think... ‘cause what I’m thinking is like almost more—
+
+JANINE: It just seems weird to have two characters that have a sort of psychological care role. 
+
+AUSTIN: I don’t even think this is psychological care. That’s not what I’m propositioning. 
+
+JANINE: Okay. Okay.
+
+AUSTIN: I’m saying there’s a difference, I’m saying like… You’re right, you don’t have to like, take a wrench to my antlers, but like, what is the equivalent of—You know how cars used to have like... you’d get under there with a wrench, and now there’s a lot of stuff that you like, bring up a touchpad for? 
+
+JANINE: Hm. 
+
+AUSTIN: Do you know what I mean? Like—
+
+JANINE: Yeah. 
+
+AUSTIN: —it is distant, it is  technological still, but it’s not… you don’t have to actually.... But maybe you’re doing it via Bond versus… Like, I don’t think this is like, talking therapy. I don’t think this is like, you know?..
+
+JANINE: Uh-huh. Yeah, I just didn’t know if you meant like... if it would be like a “how are you processing the information” kind of thing—
+
+AUSTIN: no. 
+
+JANINE: —versus a like, clarity check. 
+
+AUSTIN: Yeah. I think it’s like, All Systems Nominal. [Janine hums] Like, alright... You know, it’s like an eye doctor more than a… You know what I mean? 
+
+JANINE: Yeah, yeah. 
+
+AUSTIN: So yeah, that’s the scene I would like. What is your?... So, that is the scene I would like, it would be me after doing the… after doing my run, my first full run maybe… Or maybe not the first one, early though. I come to your ship because I got a recommendation. I hear you’re the best, and now that I’m a Thread-Runner, like—Hey, I can afford the best, you know? [Janine laughs] Or I can… I have the social cash to access the best, whatever it is. So that is the... where we are and what we’re doing. What is your office like? 
+
+JANINE: Um… I think it’s like... sort of a half-globe suspended from a sort of ceiling structure, so instead of being what we’d recognize as a building or instead of being like a partition of the space within the sort of ship that I’m based in, I picture it as sort of like a half-orb kind of mounted to a… 
+
+AUSTIN: Cool. 
+
+JANINE: So, the straight would be, like you know, if you’re walking past it—
+
+AUSTIN: Below you.
+
+JANINE: —you’d really be walking underneath it. 
+
+AUSTIN: Do you climb up? Do you hover up? What is the— how do our ships work? 
+
+JANINE: That’s a good question. 
+
+AUSTIN: I kind of like the idea of there being certain spots inside the ship that don’t have gravity.
+
+JANINE: I like the idea of entry points not being horizontal, but being vertical because you have giant antlers. 
+
+AUSTIN: Yeah, totally. Yeah, totally. 
+
+JANINE: So, if you have… you know, your choice is either have a giant doorway that’s a big waste of space, but can still accommodate everyone’s antlers or just have like, a hole and everyone just has to go through the hole. 
+
+AUSTIN: Yeah, either up or down. 
+
+JANINE: Yeah. More usable space. 
+
+AUSTIN: I like the idea of me, this like, young doe like, popping up from the bottom of… like into your like, your entry hall, or your reception room or whatever, right? 
+
+JANINE: Uh-huh. 
+
+AUSTIN: Just in general, people popping up through the floor to reveal these antlers is really good. Um. And so, I do, and… How is it decorated? What’s this room like? Or like, when I’m shown into your office or wherever your operation space is. 
+
+JANINE: Um, I think a lot about that like, the enamel I mentioned as the exterior. I’m thinking a lot about enameled like, clocks and collectibles, like [Austin hums] little mini enameled architectural things. So, there is everything that’s… everything is probably very shiny, and there are like, windows and openings and things like that, but everything has this kind of smoothness to it. Like, there’s no real right angles, [AUSTIN: Uh-huh.] even the things that are supposed to be or that like, maybe structurally at some point it was a right angle, but then you put enamel coating over it, and it all gets kind of rounded out like a Disney Little Mermaid castle kind of thing. 
+
+AUSTIN: Uh-huh. 
+
+JANINE: Like, it’s kind of softened. Um. 
+
+AUSTIN: Cool. So then, I think we… I like… come in, and I sit down, I’m just like—
+
+AUSTIN (as Timea): Hey, Doc. Uh, thanks for taking me today. You know I just finished the run, and so, you know, the Council was like, “Make sure you get your Bond checked out just in case.” Uh. How are you doing? Nice to meet you? 
+
+JANINE (as Sabil): Nice to meet you, too. 
+
+JANINE: Um, I didn’t describe her before, but I think Sabil is... probably pale in a way that doesn’t look healthy? 
+
+AUSTIN: Yeah. 
+
+JANINE: Like, I imagine her as being… when I initially thought of like—Oh cool, like fleshy deer people—I was thinking very specifically of, um… There are some artists who I’ve seen every now and then that will draw like, pink or lavender [AUSTIN: Yeah.] like, deer people that look all soft and nice. Um. But I think with her, she’s probably more like blue-ish? Like, kind of a very pale-pale-pale blue-ish, purple-ish kind of… Not like a bright pink, or tan, or any other, you know, orange-brown-whatever color. 
+
+AUSTIN: Uh-huh. 
+
+JANINE: And I think she has points kind of like a lavender point Siamese. So, kind of like gray, darker sort of gray gradients on the extremities—AUSTIN: Cool. 
+
+JANINE: —like the hands, feet, nose, ears. Which really looks kind of gross, but you know. 
+
+AUSTIN: You know. I think, yeah. I suspect that I’m doing my best to hide that I think that, you know? 
+
+JANINE: [laughs] Yeah. 
+
+AUSTIN: Um. 
+
+AUSTIN (as Timea): So, I just take a seat? What’s the… I obviously had the Bonding, but I have never done this part of it…
+
+JANINE (as Sabil): Uh-huh. Well, it’s usually a little better if you sit down. Headaches aren’t uncommon, so it’s just easier to— to have people sitting down than to risk any swooning.
+
+AUSTIN (as Timea): Yeah, I… I’m not much of a swooner, Doc, but, you know..
+
+JANINE (as Sabil): [laughs a bit] That’s what everyone says. No one admits to being a swooner. 
+
+AUSTIN: Takes a seat.
+
+JANINE (as Sabil): Except for the people who actually aren’t. [Austin laughs] It’s actually really funny. We joke about it at the conventions. 
+
+AUSTIN (as Timea): There’s conventions?
+
+JANINE (as Sabil): Get-togethers.
+
+AUSTIN (as Timea): Oh. Okay. Um.
+
+JANINE (as Sabil): Do you not have get-togethers? It’s fine, but...
+
+AUSTIN (as Timea): There’s not many people who do what I do, you know? 
+
+JANINE (as Sabil): You’ve got to trade information, you have to keep up to date on everyone’s methods…
+
+AUSTIN (as Timea): Honestly, that does sound brightsky but… It is me and myself out there. And some books and notes from the last guy who did this and the one who did it before him, and so on, but…
+
+JANINE (as Sabil): That’s a kind of conference. 
+
+AUSTIN (as Timea): [exhales, something between a sigh and a laugh] 
+
+JANINE (as Sabil): You’re… conferring. 
+
+AUSTIN (as Timea): Alright, well, I guess…
+
+AUSTIN: She sits down, she’s like...
+
+AUSTIN (as Timea): Take a peek... Or whatever it is you do, I don’t really… I do ships, you know? 
+
+JANINE: I’m still really stuck on the idea of her using tuning forks.
+
+AUSTIN: Sure. Love it.
+
+JANINE: Probably like, much daintier tuning forks that are like, sharp on all ends…
+
+AUSTIN: Yeah. 
+
+JANINE: So, they’re kind of unsettling.
+
+AUSTIN: So, a thing to know here is—our prompt is “a shared moment of wonder,” and I’m curious, how does that happen here? 
+
+JANINE: This is also why I like tuning forks because tuning forks are really cool.
+
+AUSTIN: Okay. Yeah, they’re really cool. 
+
+JANINE: Did you ever play with tuning forks when you were like, in the elementary school and stuff? 
+
+AUSTIN: Yeah, totally.
+
+[Dre chuckles.]
+
+JANINE: It’s really neat to like, hit a tuning fork, and then like, touch it to your head, or like bring it to your ear, or you put it against something that amplifies vibration—like the antlers, I imagine…
+
+AUSTIN: Uh-huh.
+
+JANINE: So, I imagine this like… It seems very manual considering what this actually all is. But I like the idea of like… Maybe she doesn’t hit the tuning fork, maybe she has to like, trigger it herself. 
+
+AUSTIN: Ooh, yeah. 
+
+JANINE: But it is just the thing, like... She touches it to the exposed, like, metallic part, and then it starts vibrating, and it just, like, fills your head with very-very simple music.
+
+AUSTIN: Hmm. 
+
+JANINE: But it just feels like it’s everywhere. 
+
+AUSTIN: Cool. Um. I think it relaxes all of my nerves and all of my, like, muscles, and I swoon. [Laughs. Janine laughs.] Um. So the thing we need still is for your relationship to wonder and to brightsky. What… Is there… Do we get Sabil, I keep saying Sabíl, Sabil… like, enjoying this work? Is there something about this work that is brightsky for her? 
+
+JANINE: I feel like there’s a point where the wonderfulness becomes more routine. Like, I think…
+
+AUSTIN: Sure. 
+
+JANINE: Probably when she got her Chorus Binding done, it was that wonderful feeling. But now I think the wonder for her is when she enhances?
+
+AUSTIN: Uh-huh.
+
+JANINE: Like when she intensifies things, then she feels the wonder again. 
+
+AUSTIN: Yeah. 
+
+JANINE: But there is a baseline that kind of doesn’t register for her anymore. 
+
+AUSTIN: Here’s a question that’s… dark. One. Are there different quality antlers for the boosting of your own Bond? Are there like—Oh… Can you be like, “Oh, when this person dies, I will add these antlers to mine. Or I will add, I will use them to enhance my own abilities, and this will be very good?” Or is it just like, “Eh, antlers are antlers”? 
+
+JANINE: I don’t know. I’ve been thinking of it as sort of… it’s just material. 
+
+AUSTIN: Okay. 
+
+JANINE: Like, you know, it’s not like Harry Potter wands. 
+
+AUSTIN: No, no. 
+
+JANINE: It’s not like—oh, you get the phoenix feather interior, I want one of those. It’s—
+
+AUSTIN: It’s, you’re getting all the copper out of the house…
+
+JANINE: [laughing] Kind of. 
+
+AUSTIN: Yeah, cool. Alright. So, yeah, I think that scene doesn’t need to be much then, right? It’s like, this amazing music fills the room, and we get Timea taking it all in for a moment, and, you know, in her vision, it blends with what she saw during the running of the Thread, the leading of the new Strand, and she swoons. And for her, it is incredibly brighsky. And for Sabil, it’s old hat. 
+
+JANINE: Yeah. 
+
+AUSTIN: Alright. From this moment now, at the end, I draw an Age 2 card. 
+
+[01:52:03 - Turn 2]
+
+AUSTIN: Uh. Asper. You have three options: 
+“FILLER WORD. Sometimes we need to fill the air and stall for time. This unique way of gathering space to speak is particular to us.” “Someone is left speechless” is the prompt. 
+
+“CREATE A WORD. Pair with any Aspect and create a word for an important concept linked to that Aspect. You define the concept. When picking the concept, explain why the origin of the word is special. Did it come from another language? Was it found as a marking somewhere, or is its origin simply lost to time? Build the word using the “Create a Word” instructions provided in the rulebook.” So that’s an example where we would actually literally come up with new sounds and phonemes and stuff. Not new ones, but build a word out of them. 
+
+And then, “GREETING. How we greet one another. Small rituals to open conversation that reflect who we are. It may differ based on who we say it to or when we say it.” And that prompt is “Meeting in an unexpected place”. Oh, the CREATE A WORD prompt was “Desires revealed”. 
+
+DRE: Uh-huh. 
+
+AUSTIN: So, which of those do you want to do? 
+
+DRE: So… I want to create a word that refers to the emotional state of kind of what I was describing earlier, of the idea that there are certain, like, things that happen in life to everyone, but then when they happen to you, something about it feels very specific. 
+
+AUSTIN: Yeah. 
+
+DRE: Or like, that moment where, like—logically you know that, like, this person passing away isn’t particularly worse for you than it is for other, like, someone else to lose someone important to them…
+
+AUSTIN: Totally. 
+
+DRE: But in that moment that emotion feels bigger, and specific, and targeted in a way that your logic can’t grapple with. 
+
+AUSTIN: Totally. I like that a lot. Um, so. “Certain Action Cards are labeled “Create a Word” and instruct the player to do just that. They replace the BUILD A WORD portion of the turn with a special phase to construct a word from scratch. Follow the steps below to construct your new word. Or for more advanced play...” there’s a whole chapter later that we’re not gonna use. [laughs] “There are many ways to tinker with words. You’ll decide how these original words came to be. They may stem from an outside community, a mix of languages in cultural contact, or perhaps they are a borrowing with mysterious origin. These new words can add depth and dimension to the language you create.” So, Step 1, you pick a root. Do you see this stuff, by the way, Dre? [overlapped] Are you reading along?
+
+DRE: Yeah.
+
+AUSTIN: Okay, I wanted to make sure. Pa-pa-pah. Pick a root. “Pick one of the options below to form the root of your new word. They are arranged in groups from simple to more complex. Focus on the sounds of the root itself and choose what makes you happy. Follow your taste and don’t worry about which inventory it comes from yet.” [laughs] There are four Inventories here: Basic, Average, frictive, heavy, sorry, Fricative Heavy, and Balanced. And then there’s a second step which is choosing an affix, or affixing an affix, I guess. “Choose one of the affixes below to attach to the root to form the full word. Pick an affix from the same inventory as your root. The affixes are grouped according to whether or not they join with roots that begin or end with a consonant (C) or vowel (V).” So, what jumps out for you for this word? 
+
+DRE: Hmm. 
+
+AUSTIN: Basic Inventory are things that are like, “ka, li, tu, ma, pi, ipu”...
+
+DRE: Yeah.
+
+AUSTIN: Average Inventory are things like, “eb”, and “ol”, and “us”, and “bleʃ”. You’ll see that there are certain characters here that have a special pronunciation guide underneath. Be sure to check that out. [DRE: Yeah.] Because I definitely went “blef” over and over again before I realized… oh, actually it is “blef”, isn’t it? Is it “blef” or… Yeah, it’s “blef”! I thought it was “bleʃ;” it’s “blef”. 
+
+DRE: Yeah.
+
+AUSTIN: But like, that’s not “zad”, that’s “ʒad”. 
+
+DRE: Yeah. I actually like, um... let’s see…
+
+AUSTIN: For people listening, there are about forty of these, ten per Inventory, and that’s just the root, and then there’s like, all the affixes later, and that’s like, another... I don’t even know, like eighty…
+
+DRE: Yeah. 
+
+AUSTIN: There’s a lot going on. See, what does this— Go ahead.
+
+DRE: [starts talking simultaneously] What’s the… No, you go ahead. Say what you were gonna say.
+
+AUSTIN: I said, do you want this to sound round? Do you want it to sound swift? Do you want it to have a sort of like, plodding, like boom-boom rhythm? Do you want it to have a—?
+
+DRE: No, I want it to actually be something that is kind of like, um, like short and like, sharp.
+
+AUSTIN: Okay. 
+
+DRE: Like, it’s the feeling of being punched in the gut made into a word. 
+
+AUSTIN: Okay. Interesting. Um. 
+
+DRE: Umm… I kind of like… Is that “vawt”? Is the v-a-w-t, is that “vawt”?
+AUSTIN: “Vawt.” Yeah, “vawt.” 
+
+DRE: I like that. 
+
+AUSTIN: So, that’s the root, so then we need an affix with it, too. 
+
+DRE: Okay. 
+
+AUSTIN: So, that is a fricative heavy word, so we scroll down to the next thing. There’s the Fricative Heavy Inventory, and so “vawt” is a consonant initial and consonant final word, so you could have “vawt-ja”, “vawt-etʃ”, “vawt-iv”, “vawt-ozga”, “vawt-uweʃ”. Or you could put the affix, like, a prefix above it, like “he-vawt”, or “ʒi-vawt”, or “vlo-vawt”, or “zwa-vawt”.
+
+DRE: I actually like “vawt-iv.” 
+
+AUSTIN: Yeah, me too. That’s good. You wanna… or I guess I’ll write it for you on this card, unless… Oh, you can write on stuff, yeah. Go ahead and write that on the card here. 
+
+DRE: Yeah.
+
+AUSTIN: “Vawtiv.” I like it. [Pause] Cool, so. Now you’ve done that. You’ve added the thing to the word, you’ve made the word vawtiv, which, again, means the feeling of… can you describe it again? 
+
+DRE: So, it is that feeling when logically you know that something you’re going through is something that everyone goes through…
+
+AUSTIN: Right.
+
+DRE: ...but in the moment, the rawness and the harshness of the emotion overwhelms your logic. 
+
+AUSTIN: Right. Love it. 
+
+DRE: So, it’s like… I’m trying to think of… like, there are times when I have been like, extremely depressed, and in that moment I feel like I—Like, whenever something goes wrong for me, I feel like I’m cursed. [AUSTIN: Yeah.] Like, there is some sort of like, great power out there, it’s not even necessarily a god or something, but there is something out there that is actually focused on making me miserable. 
+
+AUSTIN: Yeah. Uh-huh. 
+
+DRE: And like, when I’m not as depressed, I look back on those moments and I recognize that like… Yeah, there were things that were happening that like, that I was upset about, and that were like, valid for me to be upset about, but it’s not that overwhelming, like, hopeless feeling, or that targeted feeling.
+
+AUSTIN: Yeah. Um, cool. So, now we need you to create a scene, um, have a conversation. So, read the prompt at the bottom. Which is what, again? 
+
+DRE: Whoop, I clicked out… Um, “Desires revealed”. 
+
+AUSTIN: Ooh, okay, interesting. Then choose at least two characters… You’re the one who picks characters. You can choose yourself; you don’t have to choose yourself [laughs], but you can. Um, and then, once you set the participants, as a group, you two should answer—or three, or whoever it is—establish where the conversation takes place, what you’re doing. I’ll say again, like this opening Age is sort of the status quo. This is like a snapshot of the society, the Isolation working before change really hits it. So. So yeah. What is the scene? Who’s in it? 
+
+DRE: I think it’s Asper and Sabil.
+
+AUSTIN: Uh-huh. 
+
+DRE: And… Janine, do you think that there are like… When Sabil is using remains, is there like, something that makes like a… something like… a type of remain more potent than others? Like, I’m thinking of your previous scene, where like, Timea was like, “Oh, I’ve got enough money now for the good stuff.” What makes the good stuff? 
+JANINE: I think in Timea’s case, Timea meant like, in terms of service, in terms of like… which service she’d be dealing with. 
+
+AUSTIN: Yeah. 
+
+DRE: Okay, okay. 
+
+AUSTIN: I was going with like, “Sabil is super good at this” versus like—
+
+DRE: Sure.
+
+AUSTIN: —“You have the good copper pipes.” 
+
+JANINE: Get a master vs apprentice kind of thing. 
+
+AUSTIN: Yes. Yes. 
+
+DRE: Uh-huh.
+
+JANINE: You get a discount for going to the Chorus Binders College…
+
+DRE: Yeah. 
+
+[Austin chuckles.]
+
+JANINE: ...to get your haircut. [She laughs]
+
+DRE: Do you think…?  Is it like, is a bone a bone, or...? 
+
+JANINE: So, the reason I gave Sabil the name, the nickname Dust-Eater is because I imagine it as being kind of like… a lot like the process where you can get someone’s ashes turned into a diamond [Dre hums.] or something like that. Where it is basically, you know, the base component you’re working with is ash, is dust. 
+
+AUSTIN: Yeah.
+
+JANINE: And then you are adding something to it or doing something to it, that… I mean, maybe it could be a thing of like… you, depending on—like, there are different metals that have different efficacy.
+
+DRE: Yeah…
+
+JANINE: I have been kind of thinking of it as a more like… um, I don’t know what I—mono, like... something… I've been kind of thinking of it as the material itself is kind of consistent. It is the material. 
+
+DRE: Yeah. 
+
+JANINE: It is this metallic ash, um, substrate kind of thing.
+
+AUSTIN: I have a question on this—
+
+JANINE: Yeah? 
+
+AUSTIN: —which is—Is there a difference though between using someone’s remains who were Bonded and someone who’s un-Bonded?
+
+JANINE: Uh….
+
+AUSTIN: Do you know what I mean? 
+
+JANINE: I don’t think you would… Um… Yeah. I mean, my technical answer is, well you would probably have to remove the… or when you incinerate the body, the metal elements would need to be removed or separated because it would be like a clump of stuff in the ash. I just seems like it’d be a mess…
+
+AUSTIN: [laughing a bit] Right.
+
+DRE: Yeah. 
+
+JANINE: But like the, you know, the greater thing is—does having this process done change your remains in a way that makes them more...
+
+AUSTIN: Yeah. 
+
+JANINE: ...apt to take to the metal or something like that? I don’t know, again—
+
+AUSTIN: [crosstalking] I guess—
+
+JANINE: Like, my whole… I’m really drawn to the idea of like—this is a process that sort of reduces everyone to the same thing. 
+
+AUSTIN: Right. 
+
+DRE: Yeah, totally. Then actually, I think I like that ‘cause I think maybe the scene is… like, I think maybe part of this process is that Asper, when they’re counselling either like a family or an individual, or whatever… um, you know, the latter part of this, part of that process is also talking about like, “this is what will, this is what the remains will go through. This is what they’ll be used for.” 
+
+JANINE: Uh-huh.
+
+DRE: Um, and maybe they bring in someone like Sabil to help like, explain that process. 
+
+JANINE: Yeah. 
+
+DRE: And maybe this is like, where we’re jumping into the scene where Asper is explaining that someone, this person is particularly vawtiv. [Janine hums] And it’s like, how do you explain to that person that… this per… the remains of this person they loved are just the same as anybody else.
+
+AUSTIN: Yeah, let’s jump in and have this scene. Where is it? 
+
+DRE: I guess like… I wonder if it’s in Asper’s…like, I don’t know. I don’t know what their office looks like, but maybe it’s there. 
+
+AUSTIN: Are you... Asper, are you currently on-world or have you already taken off with the fleet? I imagine this is a thing, it’s like, we’re in the process of leaving behind one set of… like, one Strand and moving into the next one.
+
+DRE: Yeah. I think Asper… Asper might be one of the last people to leave the world.
+
+AUSTIN: Okay. 
+
+DRE: I wonder if there is like a… I mean, I don’t know, do you think it is… 
+
+AUSTIN: Yeah, that makes sense, actually, right? 
+
+DRE: People that are like, you know, either maybe about to die, or like, who are ill or something, maybe they’re the last people to be put on the ships—
+
+AUSTIN: Yeah. 
+
+DRE: —because, you know, just ‘cause like, if someone is very, very sick or very like frail— [AUSTIN: Yeah.] you know, moving them might not be a good idea. And so, Asper just is one of the last people to leave because their services are probably more likely to be needed planetside than shipside. 
+
+AUSTIN: Uh-huh. [Janine hums.] I can see that. So yeah, it could be like, on this world which... Is it like green… Is it, I almost said is it Green Hill Zone? It’s not Green Hill Zone.
+
+JANINE: [laughing] Yeah, I heard you almost say that, and I was like… 
+
+AUSTIN: You heard me almost say it. 
+
+JANINE: You wouldn’t say that.
+
+AUSTIN: Is it like… No, I wouldn’t say that! What type of plan—not planet is it even, but what type of area is it that you’re in? Is it big open plains? Or is it a bunch of ships that are landed and there’s like a… almost like a… the equivalent of having like a bunch of… like, not a tailgate party, but like, [laughs a bit] you know, a bunch of ships that are opened up [Dre laughs quietly] and local homes have built around it for while people are here on the planet for however long that is. 
+
+DRE: Janine, do you think Sabíl would be planetside, or would she be like, up on a ship and Asper has like, asked Sabíl to come back planetside? 
+
+AUSTIN: Is it Sábil? I just want to get this right.
+
+JANINE: It’s Sabil.
+
+DRE: Oh, Sabil, sorry.
+
+JANINE: Yeah. Every time it comes up, it just makes me feel whiter and whiter? 
+
+DRE: No, I like Sabil. 
+
+JANINE: Cause it, I didn’t… It’s fine. I think Sabil is more inclined to spend as much time on the ship as possible.
+
+DRE: Okay. 
+
+AUSTIN: Is this a thing that being Chorus Bonded and also enhanced would allow you to just straight up project your presence there? 
+
+DRE: Oh.
+
+JANINE: Maybe... Um, I don’t know. 
+
+AUSTIN: Like, we should, the thing I wanna say here, we should lean in—we should make it big, right? Like—
+
+JANINE: Yeah. 
+
+AUSTIN: —because it should feel bad when it’s gone. [laughs]
+
+JANINE: Yeah. 
+
+AUSTIN: Um, you know, one of the things again—I kinda breezed past it ‘cause we’d all read the book—but all of the Aspects and the way we play them and the ways in which our words connect to them and everything else, should be really bold. It should be really, really, we should not be subtle here. The subtlety is… you know, I think we have a deep interest in restraint and subtlety generally [Dre chuckles.]
+
+JANINE: Yeah. 
+
+AUSTIN: But given that we have nine scenes. [laughs] Play big, right? And this is an opportunity to do that, so. Maybe it’s not this, but in general, I still wanted to put that forward. 
+
+JANINE: Um. Then yeah, I mean it... Yes, I mean it makes sense for spacefaring people, it’s not unreasonable that they might have abilities like that anyway.
+
+AUSTIN: Right. Cool. So, what’s this, what’s your area look like, Asper? 
+
+DRE: Hm. 
+
+JANINE: [in a stage whisper] I guess the other thing is also that Sabil… her presence, her physical presence maybe isn’t the most comforting. 
+
+AUSTIN: Sure. 
+
+DRE: Oh, sure. Yeah. Um. You know what? No, I don’t think Asper has an office. They probably go where they’re needed. So, maybe they are just like, out in a field, um, and because… yeah, if Sabil, if Sabil’s presence is sort of unnerving for some people, then maybe Asper has just isolated themselves out in the field to talk to Sabil. 
+
+JANINE: Like, still projecting or like, in person? 
+
+DRE: Um, I think whichever Sabil would prefer. Like, I would imagine like, in our society, is there even a huge difference between someone being physically there versus projected? 
+
+JANINE: I think for Sabil there is. I think Sabil probably finds planets very loud. 
+
+DRE: Okay. Okay.
+
+AUSTIN: Yeah. I also think that it’s.. I think that the thing that Sabil can do is the thing that Sabil can do because she’s the Magician, right? 
+
+JANINE and DRE: Yeah. 
+
+AUSTIN: She has not just done, like… maybe not no one else could do it, right? But I think projecting is a rare enough thing that you’d be like, “Oh shit, that’s the Magician!,” you know? [Dre hums] The other thing I want to, the other note that I wanna say here that’s coming together in my mind that’s interesting is—maybe we’re, the three of us are tied to the rear of the fleet. Like we’re the ones who… Or at least maybe Asper and I, right? Like, even though I take the lead and I do the Thread-Running, I come back home and then recover and wait for the end of the fleet and then follow up. Like, I also have to like… I have to run the rear of the Thread, right? I have to come back and kind of seal it behind us or whatever. Um, and so, the two of us at least are at like, that is the part of fleet that we’re a part of. In terms of why the three of us are tied together. And maybe, Sabil, that’s just also where you happen to be? 
+
+JANINE: Uh huh. 
+
+AUSTIN: Is like, one of your ships is part of the last that, that always leaves last, you know? 
+
+JANINE: Yeah. 
+
+AUSTIN: There’s safety in that, in some ways. 
+
+DRE: Uh-huh. 
+
+AUSTIN: Anyway. So. Open field, beautiful open field. The sun is, I want to say it’s like a hazy day maybe. What is this conversation? 
+
+DRE: Hm. 
+
+[Pause]
+
+DRE (as Asper): Sabil, thanks for making the time for this. 
+
+JANINE (as Sabil): No problem. 
+
+DRE (as Asper): I know… [sighs] I do this with a lot of Chorus Binders, and you’re actually really good at this, and I think I’m really gonna need your help on this.
+
+JANINE (as Sabil): Well, I’m glad to help. 
+
+DRE (as Asper): Um.
+
+JANINE (as Sabil): I don’t know why the others would be bad at it, but. 
+
+DRE (as Asper): [laughs] They’re not… It’s not that they’re bad… I don’t know. [Short pause] Sometimes when someone is… particularly vawtiv, they need… They don’t need me to help them, you know, empathize and be understanding, they need someone to just give them, you know, the by-the-numbers of what’s gonna happen. 
+
+JANINE (as Sabil): Hm. 
+
+DRE (as Asper): Um. So, this person that I want you to speak to… it is their partner passed away.
+
+JANINE (as Sabil): That is one of the harder ones, certainly. 
+
+DRE (as Asper): Yeah. When I’ve spoken with them, they… they would really… they would find it comforting to know exactly what’s going to happen to their partner’s body, but I’m worried that they will ask you to promise that it will be used in a way that is… you know, particularly significant because of the way they felt about her. 
+
+JANINE (as Sabil): Hm. Well, I would say that… Name an instance when what is done with it isn’t significant. 
+
+DRE (as Asper): Hm.
+
+JANINE (as Sabil): When we use this material, we don’t use it to plug holes in the wall. 
+
+[Dre chuckles.]
+
+DRE (as Asper): Yeah. I can say that, but… it sounds different coming from you. 
+
+JANINE (as Sabil): That’s fair. 
+
+DRE: Okay.
+
+AUSTIN: And that’s scene. Unless you want more there. I don’t think we need more...
+
+DRE: No-no-no, I was about to wrap, yeah. 
+
+AUSTIN: Awesome, cool. Alright. So, now I will draw you another Age 2, or an Age 2 card to replace that first one… It’s a good one. You've got EUPHEMISM. That’s a good. [Janine laughs.] I’ll note that I’ve got DISCOVERY, which is a good one for someone who has the Explorer archetype to have [He laughs. Dre chuckles.] And now, before we continue, I’m actually going to interject because there’s another thing that you can do in this game that we haven’t done yet, and I wanted to wait a couple of turns to do it, which is: you can at any point create a—at any point, let me just see what it is—I think it’s at any point, it’s any point in between turns, basically—you can make a Variant. 
+
+“Any player can create a Variant at any time; it doesn’t count as a turn. To make a Variant: Discard any card from your hand.” The text on the card is irrelevant. The discard is just… that’s the cost of it. So, I’m gonna discard GOOD LUCK here. “Declare the new…” Actually wait, let me take that back. One second, wait, come back! [laughs] I’m gonna use it, I’m gonna use it as the thing… There we go. So… close this deck… Alright, so, discard it from your hand, um. “Don’t go through the normal turn sequence.” Instead, “Declare the new word or phrase you’re defining and what Language Item it’s related to. Add it to the Language Tableau. Write the Variant down as a Language Item and place it next to the item it’s related to. And then draw a card for the upcoming Age, as in a normal turn.”
+
+So, it’s a way to effectively eject cards you don’t want from your hand and draw new cards from an upcoming Age, and also continue to add new words or new variations on established Language Items to the game. And so, what I’m gonna go is add a Variant for vawtiv, actually, called… what did I want?… I wanted... I think I wanted vawt-ja… or vawt-etʃ... vawtesh is what I wanted. [Dre hums.] So. Can I just flip this? Can I flip it? What’s it look like on the back? Eh, I’m gonna take this instead. I’ll just use one of these many index cards that we have here. [Dre chuckles] Shrink that down… So yeah, vawtesh is the feeling of having vawtiv and then getting past it. It is the feeling of being like, “the world is against me. I am small and miserable and et cetera.” Okay. So, that is my little thing, and that is a rule that we can all use, just as a clear, as a thing. It’s not like a special thing for the Facilitator only. [laughs a bit] 
+
+[02:16:18 - Turn 3]
+
+AUSTIN: Okay. Janine. You have some cards also. 
+
+JANINE: Um, I do. 
+
+AUSTIN: Your cards are: 
+
+TERM OF ENDEARMENT. “An affectionate name to call someone in the Isolation. Using this word is deeply meaningful, and we remember the first time we say it.” “A tender moment shared in secret” is the prompt. 
+
+DEATH. “Our language for ultimate loss.” And the prompt is “Letting go.”
+
+And THE PAST. “How we refer to what’s come before and how it shaped us. This may be a specific time period in the past or the past as a general concept.” And the prompt there is “What haunts some of us.” 
+
+So, let’s walk through the flow of play one more time here. Make a Connection. So, which one of those do you make a connection and to what Aspect do you want to connect it? 
+
+JANINE: Uh-huh. Um. Before I pick one of these, can I get the rules for setting like, a scene again? 
+
+AUSTIN: Sure. You...
+
+JANINE: ‘Cause I don’t know how to connect any of these to existing player characters. 
+
+AUSTIN: So, you set a scene and hold a conversation. You can have other characters in the scene, but one, they can’t be outsiders to the Isolation, it has to be someone from within the Isolation.
+
+JANINE: Okay, yeah. 
+
+AUSTIN: Um, and the thing that I’m not sure is does it have to be two player characters? Let’s see… “play out a scene in character, based on the prompt”... “This scene will highlight the language you’ve made”... “Read the prompt. Choose at least two characters to have a conversation.” So, I think you do need two. 
+
+JANINE: Yeah. 
+
+AUSTIN: I think you could do these— I mean I think one of the things here is like… we just need to figure out how to do those, you know? 
+
+JANINE: Yeah. Yeah.
+
+AUSTIN: Time… We can jump through time. We can reframe some stuff…
+
+JANINE: That’s true. Um… [Pause] 
+
+AUSTIN: Is there one that you’re feeling like… it connects to or that you’re interested in the most, but you’re having a hard time figuring out the connection? 
+
+JANINE: I like… It’s basically one of them feels like a topic that’s relevant to what’s already been happening and the other two I just don’t have ideas for. 
+
+AUSTIN: Uh-huh. 
+
+JANINE: Like, I… You know, DEATH feels like we’ve been talking about death a lot, so that seems like the easy one. I have nothing for the other two though. [laughs] 
+
+AUSTIN: Yeah. So, I think DEATH is a totally good one to do. I think TERM OF ENDEARMENT is definitely hard for where we’re at, though the last scene did include a conversation about a partner losing, or a person losing their partner, so a term of endearment could have... could definitely come up there. Though I don’t know what the “tender moment shared in secret” is. Though, you know. Listen.
+
+JANINE: Yeah.
+
+AUSTIN: If you’re doing some dust-eating or whatever the fuck… That seems like a kind of tender moment. [Dre laughs] And in THE PAST…
+
+JANINE: It’s not supposed to be a euphemism. Shit!
+
+AUSTIN: [laughs] THE PAST is also… I could see a connection because we are ending one Strand and beginning a new one, right? So like, what is the name for the… immediately past Strand? I could see a scene around that. But I also think DEATH is a totally good one. Especially given that like, Asper just set up this idea of like, “Can you please talk to this third party for me?” 
+
+JANINE: The other thing is I don’t… I don’t super want to have a conversation about a dead partner.
+
+AUSTIN: Yeah, that’s fair. 
+
+JANINE: That’s the other thing. Is like, I’m comfortable talking about it in vague, but getting really into the nitty-gritty is a little… eh.
+
+AUSTIN: Sure. Then we can do… I mean, there’s other things we can do there given what your job is, right? [laughs a bit] 
+
+JANINE: Yeah. 
+
+AUSTIN: Which one… I guess here is my question: which of these three do you think is the most important for the Aspects that are on the board? To… Or not the most important, just the most interesting to you to fill out a special word for, that we could continue to use tonight as we play? 
+
+JANINE: Um… Oh! Okay. I have an idea for THE PAST.
+
+AUSTIN: Okay. 
+
+JANINE: [thoughtfully] What Aspect does it go with, though? I guess this is a Chorus Bond thing. 
+
+AUSTIN: Okay. Zzzip! I moved it. How does it connect? “Describe why this Aspect has led to a new word for the concept on a card.” So how has the Chorus Bond led to us having a new word for the past? Or a past or whatever. 
+
+JANINE: Uh, I think there is an effect that certain Bound people can pick up on—probably like most, because I suspect this would be like noisy to a degree—but I think there’s sort of an effect where people can hear past space travel— 
+
+AUSTIN: Ooh. Sure. 
+
+JANINE: —like engines and things because those, you know, kind of the equivalent of like leaving tracks in the snow, but it’s like, this sort of energy thing. [Austin hums.] And they would sort of spread out like ripples in ponds. So, it’s not even necessarily that someone was in this exact place before…
+
+AUSTIN: Sure. Sure. That’s good. I like that a lot. So, which… 
+
+JANINE: And that I imagine would also be haunting to a degree.
+
+AUSTIN: Oh yeah, totally. Well, and we can talk about that, right? ‘Cause we can talk about how it haunts us or if it haunts us. 
+
+JANINE: Yeah.
+
+AUSTIN: Do you have a direction for the word there? 
+
+JANINE: Uh… I feel like it should be something that like, evokes, uh… I mean, things that I imagine are like footsteps or like ripples or tracks…
+
+AUSTIN: Yeah. Is it a sound word? Is it a patter? Is it a rumble? Is it a… is it tracks? Yeah, is it… Is it a hum? Is it the hum, the past? Is it…
+
+JANINE: Hum is good too. 
+
+[Pause]
+
+AUSTIN: God. Given our… the context of all of this too, of like… Given the context of the world of Twilight Mirage and COUNTER/Weight, hums have a certain connotative quality, you know? [laughs a bit]
+
+JANINE: Yeah. 
+
+AUSTIN: There are hums that you don’t want to hear, and we can hear them. From a long time ago. Even from our own, right? Maybe we don’t know if it’s ours or if it’s someone else’s. Um. I’m trying to think if there’s anything else there. [Pause] Probably do some stuff with engines or ‘gines’ or like, other things that engines and space do, or other sorts of sounds. 
+
+JANINE: Humming, thrumming…
+
+AUSTIN: Thrumming is good, too. 
+
+JANINE: Murmuring…
+
+AUSTIN: Murmuring feels haunted in a good way. 
+
+JANINE: Yeah.
+
+AUSTIN: The Murm? The Murmur? Murmuring…
+
+AUSTIN: [laughs] I don’t like The Murm. 
+
+JANINE: The Murm is… [laughs] The Murm is like—
+
+AUSTIN: Yeah. 
+
+JANINE: Something about that feels like a mall for space teenagers. 
+
+AUSTIN: Yeah. 
+
+JANINE: Gonna go to The Murm and get some orange julius… 
+
+[Austin and Dre laugh.]
+
+AUSTIN: God. 
+
+JANINE: I feel like there is a word for some kind of [sighs] audio trail…
+
+AUSTIN: Oh, like a… not like a reverberation, but like a…
+
+DRE: Um…
+
+JANINE: Resonance? 
+
+AUSTIN: Someone said “Echo, obviously” in the chat. [laughs a bit]
+
+JANINE: Oh, we’ll call it the Echo Reverie!
+
+AUSTIN: Oh wow! We got it! [Janine laughs shortly] Is there like a… When you say “audio”, you mean like a… almost like radio more than audio, right? 
+
+JANINE: Yeah. What are those machines called that the ghost-hunters use that just like, skim radio channels?
+
+DRE: Oh.
+
+AUSTIN: The RF Scanner or whatever? 
+
+JANINE: Yeah… Oh, we’ll call it the HAM!
+
+[Austin laughs quietly]
+
+DRE: Echo—It’s like the things that makes white noise, right? While it’s like…
+
+JANINE: Yeah.
+
+AUSTIN: [typing] “Ghost hunting equipment”... Oh, a spirit box? A radio sweep ghost box? 
+
+[Janine laughs]
+
+DRE: I think they do call it the spirit box, but I feel like there is like, another term for that…
+
+JANINE: Yeah… 
+
+AUSTIN: Keys, white noise, fast scanning radio frequencies…
+
+JANINE: I think that’s a dead-end. 
+
+AUSTIN: ...transmissions… Transmission, is there something? Mission? Is there something with -miss? Is there, uh.... 
+
+JANINE: [laughs] I was gonna say The Murrow? 
+
+AUSTIN: What’s the Murrow? 
+
+JANINE: Like murmur and burrow…
+
+AUSTIN: It feels like ‘morrow, feels like it’s the future.
+
+JANINE: Yeah.
+
+AUSTIN: I still like murmur in a general direction. What do you call it when an engine is like, doing the thing that engine does? 
+
+JANINE: Pur-ring?
+
+AUSTIN: Oh, it’s purring. That’s not really what you want, huh? 
+
+DRE: Yeah. [He and Janine laugh.] 
+
+AUSTIN: The Purr? You know, the Past? The Purr? [laughs] Croon? Strum? Warble? 
+
+JANINE: Wake? Is another like—
+
+AUSTIN: Ooh, wake is good! 
+
+JANINE: Like a ship’s wake.
+
+DRE: Oh, wake is good.
+
+AUSTIN: Wake is it, you got it! Boom. Love it. Can we fuck with it a little bit? Is there like a… I mean, “wake” is already good but…
+
+JANINE: Wake is also almost too past-y though. It’s almost like I just said “yesterday”.
+
+AUSTIN: Yeah. You’re right. “In the wake”...
+
+JANINE: Like “wake” has a… Yeah, yeah. 
+
+AUSTIN: Yeah, yeah, yeah. Like, that’s cause we’ve already, we do this one already. 
+
+JANINE: Yeah. 
+
+AUSTIN: But this is referring… This will be… yeah…
+
+JANINE: This is more like a ship’s wake…
+
+AUSTIN: You know what? We are getting too far away from your original concept which is: it is sounds we hear. So let’s—
+
+JANINE: Yeah. 
+
+AUSTIN: I think we should zero in on that, right? Because that is the, the word is… The first time someone said it, they were saying: “Listen to me, yesterday is like this hum we all hear.” You know? 
+
+JANINE: Yeah. 
+
+AUSTIN: And then that stuck. Um.
+
+JANINE: Verb? 
+
+AUSTIN: Like reverberation? 
+
+JANINE: Like reverberation, but also like action. 
+
+AUSTIN: Yeah, I like that. Yeah. Like past action. 
+
+JANINE: Yeah.
+
+AUSTIN: It’s like, it started with reverberation… Yeah, I like that a lot. Do you want to add that to THE PAST? 
+
+JANINE: Yes. [clicking, typing] I was thinking if we could like, spell it a different way, but all of those ways are terrible, is the thing. 
+
+AUSTIN: Vr.. Vurb, v-u-r-b? Vurb? [laughs]
+
+JANINE: Think about literally any of them, and they’re worse. 
+
+AUSTIN: Vurb, vorb. [He and Dre laugh.] What about Vorb? 
+
+JANINE: If you can’t say it without laughing, it’s not a good… [She laughs.]
+
+AUSTIN: [in a deep voice] Listen, I just wanna leave the Vor— [laughs] Listen. 
+
+JANINE: Uh-huh. 
+
+AUSTIN: I just wanna, I just gotta… [breathes a laugh] I gotta put the Vorb behind me. 
+
+[Janine and Austin laugh.]
+
+AUSTIN: Alright. What is your scene? Frame me a scene. 
+
+JANINE: Uh, I think this scene… Actually, I wonder if the scene is—is it Tímea or Timea? 
+
+AUSTIN: Timea. 
+
+JANINE: Timea? Timea. I think this scene might be Timea coming back for a check-up because… You know that thing you do where sometimes you go to the doctor and like, you have a problem in mind…
+
+AUSTIN: Yeah. 
+
+JANINE: And you’re kind of just hoping they’ll just like, figure it out? 
+
+AUSTIN: Yeah. 
+
+JANINE: Without you having to like, say anything? 
+
+AUSTIN: Oh, and I just don’t know what this is yet!
+
+JANINE: Or yeah, it’s just like, sometimes I get headaches, and I don’t wanna just be like, “I get headaches sometimes.” 
+
+AUSTIN: Yeah. 
+
+JANINE: Because your doctor’s just gonna be like, “Well, you’re human, so congrats!”
+
+AUSTIN: Uh-huh.
+
+JANINE: But then you know, nothing comes of it, so you have to go back and be like, “Heeey.”
+
+AUSTIN: Yeah, yeah. Okay, I like that. 
+
+JANINE: So, maybe for Timea, the Verb is a bit much. 
+
+AUSTIN: Yeah. Okay. I like that. So, I think it’s been a week. Or it has been more than that, let’s say it’s been a couple of weeks, and it’s like, we’re getting ready to leave this world behind. And this, it’s like the last gasp of the last Strand, of the Verb Strand. So, here’s a question. Is the Verb, when we use it to refer to what’s come before, we now use it in terms of like... it is... the past generally, not a particular past? 
+
+JANINE: Yeah, I think it is like… It should evoke the past the same way that like, a footprint evokes a foot that was there, you know what I mean?
+
+AUSTIN: Oh, so it should be a particular past, you’re saying?  
+
+JANINE: N-no…
+
+AUSTIN: Sorry, I misunderstood. 
+
+JANINE: I guess I just mean it should be more physical. When we say “the past,” it is just this big shapeless like… thing.
+
+AUSTIN: Right. 
+
+JANINE: But I feel like this should have a more... because it’s also referring to this like… actual what has come before us physically.
+
+AUSTIN: Right. I just wanna hear it in a sentence, which I guess we’ll get to. Yeah. 
+
+JANINE: Yeah.
+
+AUSTIN: So, yeah. Let’s—The sentence shouldn’t be referring to the sound. That’s the key. 
+
+JANINE: Yeah. Yeah.
+
+AUSTIN: Right. Do you know what I mean? Okay. So yeah, I think it’s been a week, and I’m just like… I think Timea just like, shows herself in and sits down quickly in the chair, and like [sighs], like, rests head back on chair and like, absentmindedly pokes, or… I don’t know what you do with antlers? Do you like, pick at them? 
+
+JANINE: Like rub ‘em on a tree? 
+
+AUSTIN: Yeah, I think like, rubs it on something… Are there things to rub your antlers on across our ships? 
+
+JANINE: That’s cute. I want there to be. 
+
+AUSTIN: Yeah, let’s do that. And this is just like—she does that and is just like, clearly irritated, and she’s like—
+
+AUSTIN (as Timea): Hey. Thanks for taking me again so soon, I know I wasn’t scheduled until the next Strand, which is like, in a while. Um, but I just… I can’t kick this… You’re gonna think this is ridiculous… It’s just, it’s really loud in there right now. 
+
+JANINE (as Sabil): Hm. That’s not ridiculous at all. That’s uh… Well, I wouldn’t say it’s very common, but I would say, you know… [sighs] 60th percentile? So, reasonably common. 
+
+AUSTIN (as Timea): Like sixty of us? 
+
+JANINE (as Sabil): [sighs]
+
+AUSTIN (as Timea): I’m kidding, I know how that stuff works.
+
+JANINE (as Sabil): [laughs]
+
+AUSTIN (as Timea): They wouldn’t let me fly a ship otherwise.
+
+JANINE (as Sabil): Well, you never know. You know, it’s… You are more sensitive to things now, and if you think about it… Present is very, very small, and the Verb is very, very big, it’s infinitely bigger than it could be for… It’s infinitely bigger than the present ever could be, because it’s everything that was.
+
+AUSTIN (as Timea): Yeah, but there is more moss in the history of all of our kind than there is eaten in any one life, but I don’t have to taste all of it. Why the hell do I have to hear the whole fucking Verb? 
+
+JANINE (as Sabil): [sighs] Well… In some sense it is just… background noise. It’s a… It’s a crowded room, and you are there with your friends, and you’re just trying to hear their conversation… 
+
+AUSTIN (as Timea): [tiredly] And you’re telling me there’s not—
+
+JANINE (as Sabil): And the Verb is every other conversation around you.
+
+AUSTIN (as Timea): So, there’s no quick fix for this? 
+
+JANINE (as Sabil): You will probably get better at tuning it out. [Austin/Timea sighs.] Some days it’ll be a conscious thing, some days it won’t be. And some days you’ll just be fine, you’ll hit a nice… We’ll hit, you know, the ships will go through a nice quiet patch where… [Timea scoffs.] you know, coincidences happen sometimes. There’s not a lot to say in one particular location. Sometimes other locations have everything to say.
+
+AUSTIN (as Timea): That’s just brightsky. You have all that… You’re really.... Your antlers are really nice. How is it that you get to where you’re at, and you’re not just hearing this all the time? Would it be easier if I… had antlers like yours? 
+
+JANINE (as Sabil): No. I don’t go on-world much. I find it easier in here. I can… I can tune myself more to just this place. The materials here, the… everything here. It’s familiar, and it can… What works for me is not gonna work for you. 
+
+AUSTIN (as Timea): Well. [sighs] I’ll do my best not to be vawtiv, carry my own burden, and… anyway. Thanks again for seeing me on short notice.
+
+JANINE (as Sabil): Of course.
+
+AUSTIN: I think that’s scene. Um. So, we should take a break, but before we do, I wanna read what happens… Or first of all, does anyone wanna do a Variant before we wrap up this Age? Is anyone itching to switch out cards? 
+
+JANINE: Uhh, man, I really wanna get rid of some of them, but…
+
+AUSTIN: [crosstalking] Also, you should get a new card, my bad. One second. Boop. There’s your new card, WIDENING, which is an Action card. Which will, presumably, widen out the use of a certain term, which is interesting. Um. You don’t have to do it now anyway. You can, you know, anytime before your next term…
+
+JANINE: I wanna get rid of TERM OF ENDEARMENT though—
+
+AUSTIN: Totally, totally.
+
+JANINE: —’cause It’s difficult for me to— 
+
+AUSTIN: Imagine using it?
+
+JANINE: —think of one of these characters… I just don’t it works with this character.
+
+AUSTIN: Sure. Then yeah. Then if you have a Variant in mind now, you can do that now, or you can wait until before your next turn, you’ll have more words on the board to play around with, right? To make a Variant, so... no rush on it, if you don’t want there to be. 
+
+JANINE: Can I make a Variant of the word I’ve just put up? 
+
+AUSTIN: Yep, totally. 
+
+JANINE: Can I get a card there or are we just putting them on the thing? 
+
+AUSTIN: I’ll just… What was I doing? I’ll take this… and then put a little.
+
+JANINE: You put a little card onto the other one thing...
+
+AUSTIN: Yeah. Oops. Come here. Hey. Take this card, boom. [Dre laughs.] And I’m zooming in, that’s not what I wanna do. Grab one of these index cards and boom. There you go. What’s your Variant? 
+
+JANINE: Um, my Variant I think is going to be… This might be too cutesy… I was thinking of Diverb…
+
+AUSTIN: Oh no, that seems fine.
+
+JANINE: As like the specific moment when the present becomes the past.
+
+AUSTIN: Ooh, that’s good. Yeah, no, let’s do that. I like that a lot. 
+
+JANINE: I should probably write— Yeah.
+
+AUSTIN: Uh, just write underneath what that—Yeah, you got it. Cool. And then I’ll give you another Age 2 card. TITLE OF COMMAND. Interesting. Okay. So— [typing] Dre, you don’t have any other Variants to play right now? 
+
+DRE: No, I don’t think so. 
+
+AUSTIN: Okay. So... Now that we have all made our first scenes and our first words… 
+
+[02:36:37 - Age Transition]
+
+AUSTIN: “When an Age is over (meaning each player has taken a turn), it will mark the beginning of a new chapter within the Isolation’s story. To move into the new Age, follow the steps below:”
+
+“Read the Transition prompt for the upcoming Age. These prompts provide a framework for the Transition, reminding us of how the story of the Isolation should change when entering the new Age. The three Transition prompts are:”
+
+Age 2. This is the one we’re going into, “An event to foreshadow the end of the Isolation. It finds its way into all conversation and is impossible to ignore.”
+
+And then we will “Address the prompt through one of the Backdrop Pathways.
+Each Backdrop comes with two Pathways to answer these Age transition prompts. When entering Age 2, pick one of the Pathways to follow. When entering a new Age (including Age 2), read the passage from your Pathway under the Transition prompt you just read.”
+
+“Transitions between Ages mark the passage of time. It could be weeks, months, or years. After reading the passage in the Pathway, flesh out details and the specific meaning of your Isolation together.” Sorry, “to your Isolation together. Make sure you address: If specific people or groups are referenced, who are they? How much time has passed during the Transition? How does the community react?”
+
+“If the Transition in your Pathway ends with a question, you should discuss it, but you don’t have to resolve it completely. Let this be a seed for the fiction you develop in the upcoming Age. Each Pathway provides a different take on language loss for that particular Isolation. If you’ve already played through both Pathways…” which we haven’t done, that doesn’t matter. 
+
+AUSTIN (cont.): So. This is where things get tricky. There are two things we can choose from here. Two Age Transitions. There is a black column and a red column. We are picking one of these and sticking with them. I will say, at a high level, the black one is about assimilation. The black one is about being brought into something bigger. It would be about the Hypha coming to stop on planets and stay there. The red would be being driven away, would be being killed, being fought, or being, you know, terrified so badly that we as a culture end. I think both of these are viable. 
+
+And the thing that makes me the most curious, the thing about this is... I mean, I guess I can read what the two current options are for us, but once we pick one that’s it, we’re in it. Like, we don’t jump between these two sides. Do you know what I mean? Is… There is a thing coming for the Hypha. That thing is the Divine Principality. We know that the Divine Principality is a combination of the worst traits of the Divine Free States and the Principality of Kesh. It is a… I’ve described it earlier as being this kind of boiling mass of substates, like the Holy Roman Empire, that are all loyal to a Prince or a Princess, to the Principality, right? To whomever is the sovereign of the Principality, but it is a collection of Houses, of bickering Houses, and weird interlocking, you know, substates. And it is unstoppable when its full might comes to bear, as many have already learned in the Galaxy. Here we may only be getting the start of one House or of one, you know, minor power, come into contact with us, but in the end, it will be something we cannot successfully resist. 
+
+And so for me, one of the biggest questions is: how does this thing, the Divine Principality, that has part of its roots in a nomadic fleet, react when it comes into contact with something like the Hypha? Is its urge to integrate? Or is its urge to take from it? And I don’t have an easy answer here because I know in the history of what the Divine Principality becomes, it will sometimes do the former, and it will sometimes do the latter. Just as all empires do. Do either of you have thoughts on this? 
+
+DRE: So, is the question whether the Hypha will take or integrate or whether the outside force will take from us or integrate us into it? 
+
+AUSTIN: We do not make this choice. We, as players, as co-authors, are making this choice. Take a step out of your character role here and decide what you think is more interesting for the future of this game. You can read through these different groupings here... you know, if you look at the Legacy, it becomes pretty clear from the bottom ones here that like… one of them ends up being very much about becoming comfortable, you know, residents of the thing that has colonized us, and that is a tragedy in some real way, right? To have given up our culture in favor of what this new world is. Like, I think this game is very smart because it does not frame lack of conflict as being good in and of itself. 
+
+And then the red path is that we do resist in some way. There is unjust action done, and we bit by bit are unable to stay here. We don’t get to continue to live in what have been our ancestral homes. We’re driven away, and the language dies. Like, that ends up being the most important way to think about this. Regardless of the outcome, the words we’ve written down here, they dwindle. They become something maybe only a handful of people speak, if that. There’s no happy ending here, but I’m curious which of these two tragedies we are more interested in pursuing. For now I can read what the two different options are for this Age.
+
+“Entering Age 2. An event to foreshadow the end of the Isolation. It finds its way into all conversation and is impossible to ignore.” In the black path we have, “A powerful Hypha woman marries an outsider, and instead of shunning her forever, her kin attend the wedding. What permanent change to Hypha customs emerges from this unlikely occasion?”
+
+And then the red path is, “Dark rumors precede us—people are convinced we work evil magic, communicate with spirits, and lay curses upon those who cross us. How can we convince fearful outsiders that we are harmless, so that trade might continue and we might eat?” Neither are particularly positive things. [He laughs a bit.] Do you have thoughts? Anyone have a strong inkling one way or the other? Or even just… I’m curious what you think about these two paths. 
+
+JANINE: My number one thought is that like if… If they encounter people who can, you know, control this like, psychic things that had been taken as just like an arbitrary manifestation… [AUSTIN: Yeah.] It seems like the more logical thing to try and incorporate that rather than drive it out. On like a practical empire-building kind of thing… 
+
+AUSTIN: I will say—
+
+JANINE: Which is like, the coldest most cynical way to look at it, but. 
+
+AUSTIN: It is, but I’ll also say that the last thing that we heard from them was declaring all other Divines heresy. [Janine hums.] There is a theocratic element to the Divine Principality, right? 
+
+JANINE: Yeah. 
+
+AUSTIN: It refers to the reaches of this empire as divinity, and… I think you’re right that there’s a version of it that… Like, I think that’s one of the things that should be contested going forward. Does it try to incorporate it or does it not? But the thing that we have to make a decision about more broadly here now… Like, I can imagine us going down the red path and making that choice to try to like, “Oh look, we can give you this too” and it still being the red path, you know? 
+
+JANINE: Yeah, yeah. 
+
+AUSTIN: I’m not making a decision, like, I really am interested in both of these. And I will say that like, regardless of which we choose, I promise you there will be Hypha in whatever Season 6 ends up looking like. It’s just a matter of what is their starting position there, you know? 
+
+JANINE: Uh-huh. 
+
+AUSTIN: And also, it won’t be this Hypha culture. This Hypha culture will have been something that died a long time ago. Dre, how are you feeling? 
+
+DRE: Um.
+
+AUSTIN: I know it’s a toughie. 
+
+DRE: Yeah. I’m trying to think… Where is this stuff? 
+
+AUSTIN: Uh, so the specific read are on, it’s in the...
+
+DRE: Oh, I see it. I found it. Sorry. 
+
+AUSTIN: You got it. Yeah. [Pause] I will say like, at a high level, the first Age’s thing is like, “hey, a marriage that begins to get rid of this boundary” versus “dark rumors.” The second Age is, or the transition to Age 3 is that “we stay places longer. We stopped leaving” versus “a killing.” Like, there is an actual killing that we are... You know, it’s actually broad. It’s not clear if it’s our killing, a killing of someone from us or somebody else being killed, but we— us trying to appease someone who is angry and powerful. And then the final Legacy divide is that we become, “we fall into who they are” or we are… “we slip away into hills perhaps to find new lands… those who survive and… those few who survive.” 
+
+JANINE: This game would be very easy to adapt to my Dragon Age group [laughs]. 
+
+AUSTIN: Oh yeah. Uh-huh! Totally.
+
+JANINE: Very easy, very tidy. [Austin laughs.] No problem. 
+
+AUSTIN: It’s good. 
+
+JANINE: Very little highlighting required.
+
+AUSTIN: I think part of me leans red because… Straight up because I want to be very clear about how bad the Divine Principality is. 
+
+DRE: Yeah.
+
+AUSTIN: You know, I think there are lots of characters in our… in the history of Friends at the Table, and lots of factions for whom there are like, The Ibex Defender has logged on, right? And I think there are characters for whom their behaviour is worse than their intention, and characters whose intentions are worse than their behaviour. And there is often debate around a lot of that stuff. And I think that’s like, healthy, right? I think that’s right, oh yeah, different interpretations, blah-blah-blah… I think there can be different interpretations about a lot of this stuff, and I think that part of the Divine Principality… People are going to have a favorite House of the Divine Principality, or whatever we end up calling their Houses. That’s gonna happen, I know that. But I don’t want that to be the first blush. I don’t want like, “And look, they integrated with the…” I don’t even want that on the fucking table.
+
+JANINE: Yeah, yeah, that’s the thing. 
+
+DRE: Yeah. Yeah.
+
+AUSTIN: Like, no. That’s not… One, that’s shitty. And like, maybe it’s on us to make it clear how shitty that is, and that’s why we’re starting with this game, but. I want… I think I want to go even further and be like, “Look. Immediately this is what they did.” And so, I lean red on this. “Dark rumors precede us—people are convinced we work evil magic, communicate with spirits, and lay curses upon those who cross us. How can we convince fearful outsiders that we are harmless, so that trade might continue and we might eat?”
+
+And maybe the way this happens for me is like, you know, part of the way the Strand works is that we go to and from a bunch of places, over and over and over again, over generations and generations and generations, but we’d leave, right? And we don’t, we… You know, again, maybe we leave some, certain things behind, but we by and large are not touching the places. We’re not leaving big cities behind. 
+
+And so, while we were away from one of these worlds, the Divine Principality has come and set up colonies. [Jack de Quidt’s”HOURGLASS. SUNRISE. CRYSTALLINE.” begins playing] And they have probably already, you know, colonized the other people who lived there, the people who maybe aren’t spacefaring races who’ve lived at these places. They’re in control of these places now, and they’ve learned that we do strange shit with our antlers, right? They know that we have access to some stuff that is maybe taboo, but at least powerful. And I think maybe that’s what we see is like, we land, and when we send our first scouts into town to be like, “Oh hey, we’re ready to set up trade again like we were 34 years ago” or whatever it is, we see like a deer, a huge stag head with its antlers on a stick at the town’s gates. And it’s like, “Oh. Okay, things here have changed.” 
+
+

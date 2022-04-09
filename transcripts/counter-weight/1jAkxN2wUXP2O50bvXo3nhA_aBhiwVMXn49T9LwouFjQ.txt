@@ -1,0 +1,1839 @@
+COUNTER/Weight 32: Through The Crosshairs
+(transcribed by @lu_____u)
+
+[narration, over music—The Long Way Around by Jack de Quidt]
+
+AUSTIN (narrating): "You move like a soldier. You a soldier?" 
+
+She asked a lot of questions but Orth answered only in short noncommittal grunts. In his spectrum of modes, stuttering appeaser on one end and a sharp monosyllabic fire ire on the other, Orth had wound up somewhere right in the middle. A light rain had started but that didn't dissuade Ms. Green from prodding away at him. 
+
+"So where are we going exactly?" 
+
+He'd never been to September before but he'd heard rumours—somewhere surreal, a floral quarry, the unification of the physical and the digital, a real workers paradise in an empire devoted to the pastiche of the thing. Others were horrific—noises in the dark; wet, grey, soft laboratories; the sort of special ops programs that could drive a man to disappear himself. 
+
+"How well do you know AuDydi and them? You guys seem pretty close." 
+
+He stopped and turned around with a sigh ready to let Jacqui down with a well-placed look but he saw something strange in her face. The rapid questions had led him to expect a sort of childlike inquisitiveness, a big grin, teasing eyes, but that’s not where she was, he realised. 
+
+"I mean, like, do you trust them?" 
+
+And suddenly it hit Orth too—how deeply they'd been dragged in. They were on September with no backup and they were doing a job for Ibex who, as far as Orth could tell, was halfway to becoming a puppet for a very powerful computer devoted to being a bit of a prick. The rain sped to a torrents pace and Orth's breathing followed suit. One breath then another then a number more and Orth's face slowly came to match Jacqui's. What the hell were they doing? And then suddenly, mixed in with the hard slaps of thick rain against the pavement, feet running in what could only be paramilitary step, Orth's breathing relaxes and he nods to her as he reaches into his jacket, producing his old service revolver.
+
+"Yeah, that's right. I'm a soldier." 
+
+And then Orth added a new syncopation to the rain and the tactical march, a black powder rhythm that he'd forgotten he knew how to play.
+
+[narration and music end]
+
+AUSTIN: Hey everybody, welcome to Friends at the Table, an actual play podcast focused on critical worldbuilding, smart characterisation, and fun interaction between good friends. We are presented by streamfriends.tv and runbutton.net. We are continuing our game of The Sprawl by Hamish Cameron. I don't know if we're actually going to use this intro because I guess this is technically inbetween episode adventures, right?
+
+ALI: Yeah, but I guess we'll see. 
+
+AUSTIN: That's Ali. Where can people find you, Ali?
+
+ALI: You can find me at @ali_west on Twitter.
+
+KEITH: Hello, I am the Run Button part. You can find me on Twitter at @KeithJCarberry or youtube.com/runbutton.
+
+AUSTIN: And there's Jack.
+
+JACK: Hi, I'm Jack. You can find me on Twitter at @notquitereal. 
+
+AUSTIN: And Art.
+
+ART: Hey, you can find me on Twitter at @atebbel.
+
+AUSTIN: And I'm Austin Walker. You can find me at @austin_walker. We're continuing The Sprawl. Our agenda as always is to make the sprawl dirty, high tech, and excessive. To make the big things bigger and the small thing smaller. To fill the character's lives with action, intrigue, and complication. To entangle the characters in the sprawl and to play to find out what happens. Your personal directives remain the same as last time—I don't wanna continue to go over those because those have not shifted this time. But—and your mission directives are the same which are: when you get the job, take XP; when you obtain actionable information on Rigour, take XP; when you locate and secure Maryland September, take XP; if every member of the Kingdom Come leaves September alive, take 2 XP; and when you get paid, take XP.
+
+ART: So through one session we're really strongly committed to 0 XP out of this mission. 
+
+[JACK chuckles]
+
+AUSTIN: No you already got one out of taking the job.
+
+ART: Oh sure. 
+
+AUSTIN: Um—
+
+JACK: Oh, I've got a new move. 
+
+KEITH: Oh, I don't know if I took that one. Did we say out loud, "Hey everybody, take this one?"
+
+AUSTIN: At the time? I dunno.
+
+ALI: I don't think so. I know I took it so you should. 
+
+KEITH: Okay.
+
+AUSTIN: Yeah, everyone should have taken it. But, yeah.
+
+KEITH: Then I think—I think that I have hit my XP cap— 
+
+AUSTIN: Yes.
+
+ALI: Ooh.
+
+KEITH: —for the next level. 
+
+ALI: Cool. 
+
+AUSTIN: Uh, yeah, and actually we did develop a new move to represent the Liberty and Discovery system for AuDy. We kind of tried to figure that out before? You know, there was kind of a bit there where, um—you know, a couple of episodes ago we had love letters again? And everybody made a roll and got a thing on that roll? In general, that meant a big power increase for the people with giant robots. For Mako, it meant getting Larry who you still haven't used quite yet now that he's under your control but that's a thing you will be able to do.
+
+KEITH: Yep.
+
+AUSTIN: And we should actually write out a Larry move to make that clear. Like, right now that's just fictional positioning but we should have a whenever you “Larry,” do this.
+
+KEITH: Right, yeah. So, so far the rules for Larry are as if I'm hacking myself.
+
+AUSTIN: Yes, but like in general it's just you have a duplicate you in the system.
+
+KEITH: Right, who I can send to do other things.
+
+AUSTIN: Exactly. Or who could, you know, take a hit for you or who could whatever. The fictional positioning helps in the sense that, like, you could give me an explanation of what you're doing using a Larry. But for AuDy it was just like oh, here's a thing that can maybe heal you once which is not as cool as a big new robot and that's 'cause I knew the Liberty and Discovery stuff was coming. Now that that's here, we have a new Liberty and Discovery move. Did you add it to your sheet?
+
+JACK: I haven't added it to my sheet but I'm looking at it in the chat now. 
+
+AUSTIN: Do you wanna read it?
+
+JACK: So the move doesn't have a name but it's probably just called Liberty and Discovery. [reading] When I scan the Liberty and Discovery databank to research a person, place, object, or service, ask one of the questions from the research move and roll Synth. If I get a 10+ I take Intel and I choose two from this list. 7-9 below. 7-9 choose one: you get your answer immediately, you get the sort of information you can really use, take Intel, or you get little something else. Ask an additional question from the research list. So I can basically research with Synth and without a source because I am the source. 
+
+AUSTIN: Right. Normally research is like, oh you have to access some database, or you have you be in a library, or you have to have a dossier or something. Whereas like, no, Liberty and Discovery has been around for 80,000 years and it has a pretty big database, but it's hard to work through that database. Like it took 30 days for AuDy—especially in the chassis that AuDy has—it took AuDy 30 days to load the file about what happened when Liberty and Discovery fought Rigour, uh, so it takes a little while sometimes unless you roll a 10+ in which case you can actually get the information. We've also spoken about it as being kind of a dry sort of knowledge? An extensive but not intimate sort of knowledge? I kind of see it as the opposite of the sort of thing Lem knows in Hieron, right? Like, Hieron—or sorry, Lem's archivist knowledge is very much about the little details that make up life and so you might know what this recipe is and because of that understand something about the trade routes of an old empire. Whereas, Liberty and Discovery knows all of the trade routes but not what daily life feels like and I really like that distinction. Um, anyway, where were we? I think you were on a corner and the rain was really coming down hard and the snow was on its way. I think that we were like here-ish on the map? Um, and your plan had been kind of to get into the September Institute proper and then do some other stuff, I guess. We'll find out? [ALI and JACK laugh] It was never really clear to me I'll be honest.
+
+ALI: Yeah, it was me and Cass were gonna go get Maryland and then AuDy and Mako were gonna go get information about Rigour to sell to Ibex.
+
+AUSTIN: Yep. Okay.
+
+JACK: I would like to make a—I would like to make a proposal and I don't know how Mako is for this. Um, last episode or I guess—yeah, last episode Austin talked about showing us the barrel of the gun before making a hard move on Orth and Natalya. 
+
+AUSTIN: Jacqui not Natalya.
+
+JACK: Oh sorry, yeah, god. Jacqui. Um, and I am afraid that Austin has shown us the barrel by them shouting down the phone to us so I wonder whether or not Mako and I should maybe go check out those guys?
+
+ALI: Oh I—so, I have a thing that I wanted to do which was the last scene of the last game we learnt that they said that it's the Tzadik Unit? I don't know if I'm pronouncing it—
+
+AUSTIN: Tzadik. Yep.
+
+ALI: Which I was like, "Oh that's cool." But I have that data card... thing?
+
+AUSTIN: You do. Yep.
+
+ALI: Yeah. So I am gonna give that to AuDy and Mako and be like,
+
+ALI (as Aria): Hey, maybe you can learn some stuff from them, from this.
+
+JACK: You just gave us just a card.
+
+ALI: Yeah, with like a—Aria's just like,
+
+ALI (as Aria): Here's this picture of this weird attractive guy?
+
+JACK (as AuDy): Ah. Thanks.
+
+ALI (as Aria): Oh, I dunno. Maybe you can get something from it.
+
+JACK (as AuDy): Um.
+
+ALI (as Aria): He seems really nice. I dunno.
+
+JACK: I mean, could I research the card, Austin?
+
+AUSTIN: Um, yeah, totally. Absolutely you could. 
+
+JACK: I'm rolling Synth which kind of brilliantly is something I'm neither good nor bad at. I'm just—y'know, I have 0 Synth.
+
+AUSTIN: But it's also something you've never—like you very rarely have rolled it before because AuDy's whole M.O. has been don't be online, right? Don't do synth-y things.
+
+JACK: This is the most online. Um, Art in the chat— [wheezes] no, go ahead, Art.
+
+ART: Should we have brought our giant robots? It like literally didn't occur to me at all that we owned mechs and they could've been helpful in this operation last time.
+
+ALI: Uh, I don't think that— 
+
+KEITH: I think that September is a bad planet to be in mechs on.
+
+ALI: Yeah.
+
+[JACK laughs]
+
+ART: Sure.
+
+AUSTIN: I'm just saying that it trains people to hack mechs.
+
+[KEITH and JACK laugh]
+
+ART: I just think it's weird that we didn't think of it. It's just—it's like we showed up without guns.
+
+ALI: We have guns is the thing which is why we don't need our giant robots.
+
+ART: Sure… why would we.
+
+JACK: Hm, okay, I'm going to roll Synth.
+
+AUSTIN: Roll Synth.
+
+JACK: Here we go… [laughs]
+
+ART: Oh!
+
+ALI: Oh no.
+
+AUSTIN: Oh boy. That's good.
+
+ALI: Oh no. Can I—
+
+AUSTIN: You rolled a 3. Can you what?
+
+KEITH: Go back in time to stop Jack from rolling?
+
+ALI: I was going to ask if I could aid him but I don't know if fictionally I could.
+
+AUSTIN: He would need a +4 at this point somehow to get into a territory of success.
+
+ALI: Can we all aid him?
+
+AUSTIN: It's a pretty bad—it's a pretty bad roll.
+
+JACK: So what happens?
+
+AUSTIN: Um, I think— 
+
+JACK: How do I miss that roll?
+
+AUSTIN: So I think what you actually find is something that came up in an intro to an episode a couple of episodes ago which is you realise that you had conversations with Ibex that you locked away. The Tzadik Unit—you see that there is a conversation. There's a memory of talking about them with Ibex but that you don't have access to that—that you denied yourself access to that conversation. [JACK laughs] So I think you're gonna take a -1 forward on the next roll that you make.
+
+JACK: Uh, okay.
+
+AUSTIN: Because you have this weird doubt about your own capabilities that like you not only did you—not only do you not have access to this, you didn't even remember that you had made yourself not remember some things and why would you do that.
+
+JACK: So I reckon I can infer from this and communicate to the rest of the team that I don't know what it is but I know it's connected to Ibex and that I know that it's ominent, that there's something weird going on with this stuff.
+
+AUSTIN: Yep.
+
+JACK: Which we knew already but at least it you know... [laughs]
+
+AUSTIN: [amused] At least you don't have to say, "Oh, I don't know anything about this."
+
+JACK: Yes. 
+
+AUSTIN: You can at least lie.
+
+JACK: [laughing] It's not lying.
+
+AUSTIN: Hm.
+
+JACK: Um, right. So is this where we split?
+
+ALI: Uh, I guess?
+
+ART: Yeah, I guess so.
+
+[overlapping]
+
+AUSTIN: Alright, where you going?
+
+ART: I sort of hope we... [unintelligible]. 
+
+KEITH: Again, I'm against the splitting.
+
+AUSTIN: I wouldn’t mind—
+
+ART: Well then your place to object was during the Here's The Plan portion of this.
+
+JACK: Yeah.
+
+[ALI and JACK laugh]
+
+AUSTIN: We are past that.
+
+KEITH: No, I—we—I had resigned to, "Yes, we have to split." I just wanna—I, I don't think it's a good one to do.
+
+AUSTIN: Hm.
+
+JACK: [laughing] Of the things.
+
+KEITH: Of the things I don't think it's a good one of those things.
+
+ART: Well, if you don't wanna split up you'll lose your +1 forward for following the plan.
+
+KEITH: No, no, no, no. I'll—I'm splitting up. I'm just being a naysayer.
+
+ALI: Well, I mean we could stay together but still do our own separate parts of the plan, right?
+
+KEITH: Yeah.
+
+ART: Yeah, I don't think we—like, if we stayed together for a little while longer I don't think it breaks the plan—
+
+KEITH: Yeah. I also think—
+
+ART: —the way the mechanics dictate the plan could be broken.
+
+KEITH: Um, I, I, I like the plan. I just am always cautious about splitting up.
+
+[overlapping]
+
+ALI: We'll be fine.
+
+KEITH: We're stronger together.
+
+ART: Is it because when you split up you buy an entire company's worth of robots without anyone stopping you?
+
+[AUSTIN and JACK chuckle]
+
+KEITH: Yeah, and that turned out to be a good decision. That's never come back to bite us in the ass. Ever.
+
+AUSTIN: Yeah.
+
+ALI: Also he had someone who could have stopped him and it was me and I didn't. So.
+
+KEITH: Yeah, you co-signed. [ALI laughs] You literally co-signed.
+
+ART: Yeah, that's why you two aren't in the same part of the plan anymore.
+
+[AUSTIN and ALI laugh]
+
+KEITH: I'm very persuasive. I can get anyone of you to co-sign an absurd purchase.
+
+JACK: Hm. Okay, how do people feel about maybe checking out Orth and um, Jacqui?
+
+ART: I think it's a fine idea.
+
+ALI: Yeah.
+
+JACK: I really—yeah.
+
+AUSTIN: I wanna know how—
+
+KEITH: I think it's a good idea also. I'm very concerned about them. I want them all to live. I want them both to live.
+
+[overlapping]
+
+ALI: Where are they?
+
+AUSTIN: Okay, where do you go?
+[00:15:00:00]
+KEITH: Oh right we don't know weirdly where they are.
+
+AUSTIN: No. You know that they were going to a library but that was where they were going when you were off doing shit with Lazer Ted.
+
+JACK: Security cameras! [wheezes] Um, can I see them on any security cameras?
+
+AUSTIN: No, your security cameras are only near that one building and back at the base. They're not, like, throughout town.
+
+JACK: Oh… [laughs]
+
+KEITH: Okay.
+
+JACK: Well, I know where they're not.
+
+KEITH: Let's—I think we should try the library. I think that that's an optimistic first place to check out.
+
+AUSTIN: Okay.
+
+ALI: Okay.
+
+JACK: Where is the library to? That's inside the September Institute?
+
+AUSTIN: Well, depends on which one you were sending them to I guess and I'm trying to remember 'cause it's been a week.
+
+KEITH: I—
+
+ART: I thought we sent them to the outside one. I remember someone not letting them in.
+
+AUSTIN: I'm pretty sure too. Yes.
+
+ALI: Right.
+
+KEITH: Well, I remember that the argument was I said that we should send them to look at microfiche and everybody assumed we meant into the September Institute because that's where the most resources would be.
+
+AUSTIN: Mm-hm.
+
+KEITH: And I don't remember where we came out on that if, uh—
+
+ALI: No, they're doing—the exact phrase is that they are doing recon in the town.
+
+AUSTIN: Yeah.
+
+KEITH: Then yeah.
+
+AUSTIN: I think that they are at this triangle thing here to the south of these like—the end of these suburban, like, sprawl. There's a big library there. That's what that—that's what that triangle is. That's where they went anyway.
+
+JACK: Okay.
+
+AUSTIN: Ah, so as you pass through the, um, the kind of long suburban place here? You see like—it's a really weird thing because each of these little buildings on the map is actually pretty large and the front is just, like, it's almost like they're massive townhouses stacked one on top of the other. There's not a lot of activity here. Most of the people have gone inside but you also just get the impression that there aren't many people who go outside here at all. If the recreational district before was like the mall this place just feels like really... like counterculture and really old and really like, y'know, baby boomer-y in the sense that, like, it feels like it predates whatever youth culture has been on this planet. Um, and because of that you feel really vulnerable and out in the open, right? Like, at the mall there are lots of people around. Here it's four people—it's three people and a robot walking down the street, right? I'm not saying AuDy is not a robot I'm just saying AuDy also, you know, for the people here is a robot.
+
+JACK: I'm very well disguised.
+
+AUSTIN: That's true, oh right, you do look like a person right now don't you? I forgot.
+
+JACK: Well... [laughs] sort of.
+
+ALI: You have a suit and a face.
+
+KEITH: I bet it's really—I bet it's adorable.
+
+ALI: Yeah.
+
+KEITH: Just imagine a suit where battle droid in formalwear?
+
+[JACK laughs]
+
+AUSTIN: Mm-hm. That—it's perfect. Well you have the fake face.
+
+JACK: Except that it's not a super battle droid. It parked cars. And also I don't think it's a very good face.
+
+AUSTIN: Mm.
+
+JACK: Like I think it probably is, I don't know, didn't you describe it as the antenna you can see kind of?
+
+AUSTIN: You can kind of see, yeah.
+
+JACK: Like a node clipping through it.
+
+KEITH: But this is also a universe where maybe it's not so weird that somebody's got some antenna sticking out of their head.
+
+ALI: Yeah, it's fine.
+
+KEITH: It's y'know. It hasn't been en vogue for a decade but those things are hard to take out and still pretty useful.
+
+AUSTIN: Keith, you wanna know if you can take a move because you leveled up in between sessions?
+
+KEITH: Yup.
+
+AUSTIN: You can totally take a move but it has to be something that would be plausible for you to have learned or achieved in that downtime 'cause there isn't downtime, right?
+
+KEITH: Right.
+
+AUSTIN: So I think you—are you looking at muscle grafts? What's the one that you're looking at here?
+
+KEITH: That one is muscle graft. It occured to me because—specifically because of my nice punch on Ibex.
+
+AUSTIN: Ibex, yeah.
+
+KEITH: But I guess, yeah. I don't know if, like, during that time there would've been time specifically to get muscle grafts.
+
+AUSTIN: To go get muscle grafts put in, no, probably not. If you wanna hold on to that, if you want that thing we can just like—that can happen the first chance that there is a reason for it to happen, y'know.
+
+KEITH: Okay.
+
+AUSTIN: You just have to figure out where that is. That could be inbetween episodes. That could be you find a thing this episode that lets you get muscle grafts but then also you just gotten muscle grafts and that doesn't feel like a thing you wanna have to happen in the middle of a mission and it won't necessarily feel great.
+
+KEITH: Yeah, yeah, like okay, we're gonna go figure stuff out about this Maryland character but hold on you guys I need to—fifty minute outpatient procedure, muscle grafts, go doc.
+
+AUSTIN: [laughing] Exactly.
+
+[JACK laughs]
+
+KEITH: And Lazer Ted says,
+
+KEITH (as Lazer Ted): I'm not technically a doctor.
+
+[all laugh]
+
+ART: He has a PhD.
+
+AUSTIN: [chuckling] Yes. It's a different sort of doctor. The other question I had was, do you already have—you already have at least one move from another playbook, right?
+
+KEITH: This is my— 
+
+AUSTIN: Your second, right?
+
+KEITH: Uh, yes, so this is the last one that I can take I think?
+
+AUSTIN: Yeah, yeah, you can only take two from another playbook.
+
+KEITH: Yeah, one of them was the starting one and then this is the second one that I've leveled up to get.
+
+AUSTIN: Right, this is the first, the other one was the infiltration, covert entry, when you infiltrate a blah, blah, blah. Okay. So yeah, hold on to it and we'll figure out if there's a time where it makes sense.
+
+KEITH: Okay.
+
+AUSTIN: You know, unless you've always had muscle grafts and for whatever reason they've activated now in which case that's a whole other fucking thing isn't it? Uh, alright, so you— 
+
+KEITH: Yep.
+
+ART: That's super interesting.
+
+AUSTIN: It is, it totally is, and I don't—we can run with it. Like, maybe that is the thing, maybe you did this punch and are like, "Huh."
+
+KEITH: Like,
+
+KEITH (as Mako): Oh, man. I had these things?
+
+AUSTIN: That's weird.
+
+[ALI laughs]
+
+KEITH (as Mako): That's weird. I shouldn't have been able to Mix It Up that well.
+
+AUSTIN: Yeah, fuck it, let's run with it 'cause it actually works with something else I've been thinking about a lot lately.
+
+KEITH: Alright, great.
+
+JACK: Uh-oh.
+
+AUSTIN: Uh, alright. So you can— 
+
+KEITH: I'm two other divines.
+
+AUSTIN: [laughing] Yeah, it's—you're actually—you're actually six divines.
+
+KEITH: [amused] Yeah, I'm six divines.
+
+AUSTIN: Which is also—
+
+KEITH: And one of them is Liberty and Discovery, a different divine that's one divine.
+
+[ALI and JACK wheeze]
+
+AUSTIN: Right. Uh, alright, so you get to the public library here, um, and when I say public I mean because this is OriCon it definitely has, like, a seven word title that ends in the word library but before that it's like, you know, The Public Home For Information And Resources As Dedicated By The People Of September, Their Sacrifice Will Not Be Forgotten, First Library. [JACK laughs] Like, that's great.
+
+JACK: Memorial stone laid by so-and-so.
+
+AUSTIN: Right, exactly, exactly. The building is—of these buildings here, this is one of the rare buildings that has no Apostolosian architecture to it. This is not a converted building. This is—it almost looks modular and it has this sort of sleek chrome and concrete of most of OriCon's architecture. The thing that's different about it and kind of weird is it's pretty clean in comparison to most of the OriCon architecture you've normally seen.
+
+KEITH: Is this different than the sort of modular style of the rebel base that we were in?
+
+AUSTIN: Yes, it is different than that style, yeah. I think that that base is probably less, um—y'know, that base isn't meant to look attractive whereas everything OriCon does is built to be consumed, right?
+
+KEITH: Okay.
+
+AUSTIN: Even it's architecture.
+
+KEITH: Really loves the style.
+
+AUSTIN: Right, this has, like, really nice windows, some weird, y’know, neon displays, a very minimalistic neon book icon on a sign out front and that light is actually—the book icon is red as if to immediately indicate that the library has been closed for the day.
+
+ART: We can poke around, right? There's no-one.
+
+AUSTIN: Sure.
+
+JACK: Is the door open?
+
+AUSTIN: No, the door is locked.
+
+ALI: Uh.
+
+ART: I would like to Assess.
+
+AUSTIN: Sure.
+
+JACK: Oh, yeah, good.
+
+KEITH: Should I—hey, good idea.
+
+AUSTIN: How are you— 
+
+KEITH: Wait can I—can I aid their* Assess?
+
+AUSTIN: Sure, how are they* aid or—how are they* assessing? Describe to me what Cass is doing and then talk to me about how you're helping, Mako.
+
+KEITH: I'm going to—Cass is looking around, like poking around seeing if there was any signs of why it's closed or if there was any forced entry recently to see if maybe they snuck in and I think that I am just kind of, like, if they’re* going left, I'm going right. Looking around.
+
+AUSTIN: Okay.
+
+ART: Yeah, I sort of thought of it as like, uh, y'know, looking at the windows, yeah, going around to the back. Y'know, I've seen some shit. Let's see if some shit's going down here.
+
+[ALI laughs]
+
+AUSTIN: Okay.
+
+ART: Does aid come—
+
+JACK: [laughing] Just to get into libraries.
+
+KEITH: Yeah, aid comes first. I have 2 with you so there's a 6.
+
+AUSTIN: A failure.
+
+KEITH: That’s a failure.
+
+ART: So you made it worse.
+
+AUSTIN: Yeah.
+
+KEITH: I did make it worse.
+
+AUSTIN: We'll come back to what that is in a second.
+
+KEITH: Alright, and I'm very sorry and... goodnight.
+
+AUSTIN: Okay, bye. Let's finish up this Assess and then we'll talk about Mako's failure. [light laughter] You gain 1 hold, Cass. When you closely study a person, place, or situation, blah blah blah, what of these questions are you taking? And remember that you take +1 forward when acting on the answer.
+
+ART: Uh, I guess it doesn't make sense to hold it.
+
+AUSTIN: I mean if you want to you can.
+
+ART: What do I notice despite an effort to conceal it? Boom.
+
+AUSTIN: The person who's about to shoot Mako in the back from a roof.
+
+KEITH: Well that's a good thing to notice, thanks.
+
+ART: That's a good thing to notice.
+
+[ALI and JACK laugh]
+
+KEITH: I'm way into that.
+
+AUSTIN: From across the way. I think you, like, meet back up and you hadn't seen anything inside, Cass, and Mako, who wandered back around to the main path that you had already spent a lot of time on, wandered back and—and we kind of get a shot of him through the crosshairs of a scope. Um, and then he turns back around and does a shrug at Cass and then Cass you see this person—you see the glint of the scope in what little light there is. What do you do?
+
+ART: I take out my rifle and yell at Mako to get down.
+
+AUSTIN: Oh, interesting, okay. Uh, so what are you doing though?
+
+ART: I'm gonna shoot that guy.
+
+AUSTIN: Alright, I want you to roll here. Mako does not get a chance to Act Under Fire. You get a chance to make a move.
+
+ART: Okay. Uh— 
+
+AUSTIN: So give me, give me—I guess that's Mix It Up.
+
+ART: I guess that's Mix It Up. Shooting is Mix It Up?
+
+AUSTIN: Oh, yeah. [reading] When you use violence against an armed force to seize control of an objective, state that objective and roll Meat. So in this case the objective is to seize control of— 
+
+KEITH: Me not getting shot.
+
+AUSTIN: —this person's life or to seize control of Mako's safety.
+
+ART: Sure, and my targeting interface sure doesn't work. 
+
+AUSTIN: It sure doesn't.
+
+ART: So I can't use— 
+
+JACK: Why doesn't your targeting interface work?
+
+AUSTIN: Because their*— 
+
+KEITH: It disintegrated because of a failed roll from yesterday or, uh—not yesterday that was several days ago.
+
+AUSTIN: Several days ago. Remember their*—they* had decaying cyber hardware.
+
+JACK: Oh no, they* did, didn't they.*
+
+AUSTIN: They* did.
+
+ART: That let me roll Synth to Mix It Up. That's why I thought I wasn't bad at shooting and I am.
+
+AUSTIN: Huh-ho, that's actually really interesting.
+
+[KEITH whistles]
+
+ALI: Oh my god.
+
+AUSTIN: Oh, you've very bad at shooting actually.
+
+KEITH: Yeah, yeah, Meat is 0.
+
+AUSTIN: He rolled a 5. So the scene is Mako turns the corner and shrugs and then, I guess, Cass, what's your rifle look like? How are you carrying this rifle around?
+
+ART: It's an assault rifle.
+
+AUSTIN: Okay. Does it like—so you just lift it off your back?
+
+KEITH: Does it fold all cool?
+
+AUSTIN: Yeah, is it fold-y? I mean, like, it doesn't conceal itself. We haven't talked about it as a—I love the image of it unfolding into your hands.
+
+ART: Yeah, I do too. Yeah, I guess it's sort of like it's inconspicuous, it's not concealed, so there's a bulge in their* coat. 
+
+AUSTIN: Okay.
+
+KEITH: If it folds— 
+
+ART: It's not an assault rifle sized bulge, right? They* pull it out and it's, y'know, bigger.
+
+AUSTIN: Yeah, got it.
+
+KEITH: If it folds it's for mobility not for concealment.
+
+ART: Yeah.
+
+AUSTIN: And then you take aim and take a shot and it just, you just, you just miss, like it's just high. You know what it probably is? You realise one, it's your targeting interface doesn't work so I think you, like, pause for a second to wait for like, oh, lock-on to hit and it doesn't. 
+
+[JACK sighs]
+
+ART: No.
+
+AUSTIN: Do you even have the chance to pull the trigger I wonder? I wonder if you're waiting for it and the lock-on doesn't get acquired. And then the shot rings out and Mako, take 3 harm, armor piercing.
+
+KEITH: 3 harm.
+
+AUSTIN: Don't get shot by sniper rifles.
+
+KEITH: Yeah, I assume that I'm armored now that I'm not just in our ship.
+
+AUSTIN: Right, but it's armor piercing.
+
+KEITH: Oh, it's a 3, okay.
+
+AUSTIN: 3 straight.
+
+KEITH: Uh.
+
+ALI: Aw.
+
+ART: I suppose it's a good time—oh, I guess I didn't get to shoot, nevermind. I was gonna point out that my weapon has a loud tag.
+
+AUSTIN: Uh, I mean you could—if you wanna shoot you can shoot but I really like the notion of, like, you waiting for the signal to come to pull the trigger and not doing it.
+
+ART: It just never does. I like that a lot. I'm not messing with that.
+
+AUSTIN: Yeah, that's like the—that's the whole bit, right? Our weird reliance on technology.
+
+KEITH: Alright, so.
+
+AUSTIN: So now you make the harm move.
+
+KEITH: God, I'm so bad at remembering how to do this one. It's 2d6+3 right?
+
+AUSTIN: Plus however much harm you have now, yeah.
+
+KEITH: Yeah.
+
+JACK: Oh, god. That's such a good move.
+
+KEITH: [while typing] Roll 2d6+3. God, this is gonna be bad. 10.
+
+AUSTIN: That is bad.
+
+KEITH: That's a bad one.
+
+AUSTIN: You wanna roll low on harm.
+
+KEITH: Yeah, you do and I rolled, y'know, effectively the highest you can get.
+
+AUSTIN: [reading] It's a dangerous world out there especially in your line of work. When you suffer harm, even 0 harm or stun harm, lower the harm suffered by the level of your armor if any, in this case that doesn't happen 'cause it's armor piercing rounds. [continues reading] Fill in a number of segments on your harm clock equal to the remaining harm and roll harm suffered. 10+ you choose one, either you're out of action, unconscious, trapped, incoherent, or panicked; two, you take the full harm of the attack before it was reduced by armor, if you already took the full harm, take +1 harm, lose a piece of cyberware until you can get it repaired, or lose a body part.
+
+KEITH: Can I be panicked?
+
+[JACK laughs]
+
+AUSTIN: Yeah, but like panicked means you won't get to make moves for the rest of this scene.
+
+KEITH: Rest of the scene?!
+
+AUSTIN: Yes. You would be—this is, like, you could be conscious but you can't be—you're not acting.
+
+KEITH: Okay.
+
+AUSTIN: Or unless someone else somehow talks you out of that but you are unconscious, trapped, incoherent, or panicked, and that means, like, unable to act, not just— 
+
+KEITH: And what's the one after that?
+[00:30:00:22]
+AUSTIN: Take the full harm or +1 harm if you already took the full harm.
+
+KEITH: Um, let me look at how much harm that is.
+
+AUSTIN: That would be a lot. That would put you at 22:00— 
+
+KEITH: Which is bad.
+
+AUSTIN: —which is not a place you want to be.
+
+KEITH: Okay, then I'm going to be panicked.
+
+AUSTIN: Okay.
+
+[overlapping]
+
+JACK: [takes a sharp breath in] What do you do, yeah.
+
+AUSTIN: Okay, what's that look like? Talk to me about Mako being panicked.
+
+KEITH: I've literally never been this hurt since we were playing the other game.
+
+AUSTIN: Mechnoir? Yeah, yeah. So what's that look like? What does Mako being panicked and bloody look like?
+
+KEITH: Um, yeah I guess, I guess if anything it's like—it's just making him harken back to the only other time he's ever been this hurt which was when he was—he literally died. Like oh my god, I don't want to literally actually die again. That sucked. I hate it.
+
+AUSTIN: Also back on September. Like, fuck this. This is why I fucking left September.
+
+KEITH: Yeah, I don't want to bleed out, like, I don't want to get another liquid metal injection.
+
+AUSTIN: Yeah. What's everybody else doing as Mako drops to a knee, his chest bloody?
+
+JACK: Okay, right, so. You said use your cyberware.
+
+AUSTIN: Let's do AuDy and then Aria and then we'll wrap back around. What were you saying AuDy?
+
+JACK: You said use your cyberware, right?
+
+AUSTIN: I've said that. That's a thing I've said.
+
+JACK: I'm a Drone Jockey. 
+
+AUSTIN: You are.
+
+JACK: Um, I, uh—where are the—are the drones just back on the Kingdom Come?
+
+AUSTIN: I think so 'cause you didn't explicitly say you were bringing them, right?
+
+JACK: Goddamnit. 
+
+AUSTIN: Do you want them? I mean, this is the thing—this is the thing that's always tough about this. On one hand you're a fan— 
+
+KEITH: I thought that your drones were, like, little buddies that came with you.
+
+ALI: Yeah.
+
+JACK: I had a—I had like a one that I remote pilot and I think that got destroyed? I don't think I have that drone anymore.
+
+AUSTIN: You crashed into Detatchment. No, you crashed that into— 
+
+JACK: Territory Jazz?
+
+AUSTIN: —Territory Jazz. Yeah.
+
+ALI: You still have the dog though.
+
+JACK: And then I have the dog. The mechanical dog but I didn't—we didn't describe the dog coming with us. What I could do is I could call the dog. It might arrive too late but I could.
+
+AUSTIN: This is the thing that's always tough for me is that on one hand I want to be your fan and just have this dog roll in, on the other hand part of what makes Cass so fantastic is they* literally have a move that lets them* do that. 
+
+JACK: Yep, totally.
+
+[overlapping]
+
+AUSTIN: And to take that away from them* is like removing part of what makes their* character rad.
+
+JACK: Um, so, can I just—can I just summon the dog? Would that count as my move?
+
+AUSTIN: That would be your move.
+
+JACK: That would be my move now. I'm not going to do that.
+
+AUSTIN: And also—and also realistically, where is that dog?
+
+JACK: It's in the Kingdom Come.
+
+AUSTIN: Which is miles away.
+
+JACK: I'm—I'm networked to the headquarters of— 
+
+AUSTIN: No, no, no, no, it wouldn't be here next round, like—
+
+JACK: Aw yeah. 
+
+AUSTIN: —it's a city, you know what I mean?
+
+JACK: It's not even a very fast dog.
+
+AUSTIN: I—I'm sure he's very fast.
+
+JACK: No.
+
+AUSTIN: I'm sure he's—or it is the best robot dog there is.
+
+JACK: Okay, well.
+
+AUSTIN: But, but— 
+
+JACK: Well, discounting— 
+
+KEITH: Every robot dog is the best robot dog there is.
+
+AUSTIN: [laughing] It's true.
+
+[ALI laughs]
+
+AUSTIN: Always remember, like, rounds are seconds we're talking about here. This is a gunfight that is, like, seconds into happening.
+
+JACK: It's like X-COM style.
+
+AUSTIN: Yes, exactly.
+
+JACK: So, as a character equipped with a shotgun, I'm very well suited to fighting a sniper. Um.
+
+KEITH: You've got a different gun than that also.
+
+JACK: Actually, Aria, you should make the move. I—I feel that AuDy would be more useful reacting to two steps rather than just Mako falling over and screaming.
+
+KEITH: Two Steps is a really good future character name.
+
+AUSTIN: It is pretty good.
+
+[ALI laughs]
+
+JACK: Two Steps.
+
+ALI: Um, I'm gonna try to grab Mako and pull him out of harm's way. 
+
+AUSTIN: Okay. Um, give me a— [thinking noises] what's it called? Uh, Act Under Fire, Act Under Pressure. That will get you both out of harm's way so you're gonna, like, pull him away out from around the corner basically, right?
+
+ALI: Right.
+
+AUSTIN: Yeah, sounds good.
+
+ALI: [whispering] Jesus.
+
+JACK: Oh, jesus.
+
+AUSTIN: Oh, buddy.
+
+JACK: Ali rolled a 6.
+
+KEITH: This is the episode where we all anticlimactically die before reaching the September Institute.
+
+[JACK laughs]
+
+ART: It must—it must be late in a Friends at the Table season.
+
+AUSTIN: [laughing] Everyone's got shot. Fucking bleeding out. Ah, alright so you hear the—you hear the familiar sound of a bolt being pulled back on the rifle and, like, the casing of the last round hitting the ground. Like clink, clink, clink, uh, and then the bolt being placed back in and you have split second. I want to see what AuDy does here. I'll put AuDy in the same place Cass was in which is depending on what you do, Aria or Mako or Cass could get shot here.
+
+JACK: Thanks. [laughs] Thanks for that.
+
+KEITH: Can I say real quick that one of my least favourite, I'll say, tropes of listening to play role-playing games is hearing them say, like, oh I rolled a 1, I've y'know—I forgot how to climb ladders and I fell and I died.
+
+AUSTIN: Yeah.
+
+KEITH: But this last whole scene just reminds me of, like, I'm trying to help look at a thing and I broke it and then I fell down and then someone shot me and then Cass fell down and then Ali fell down on me.
+
+[ALI and JACK laugh]
+
+AUSTIN: You didn't break anything. You didn't break anything. You just walked back to the place where I already clearly indicated you were being trailed. That's what the fail was. The fail was you walked around—you walked back to the place where I talked about you being vulnerable.
+
+KEITH: Yeah.
+
+AUSTIN: And I'm also paying something off you did last episode still too which we'll get to depending on if this sniper is ever revealed. Also to be clear, Aria is like pulling you away. Aria didn't just forget how to lift you up but you're panicked.
+
+KEITH: [amused] Yeah, I know.
+
+AUSTIN: You're resisting being pulled away because you're panicking.
+
+JACK: Okay, so just so I can make the most intentioned move fail the most dramatically incidentally, can we just get a recap of where people are in the scene right now?
+
+AUSTIN: Sure, I'm gonna literally zoom in on the map here.
+
+JACK: Cheers. So Keith—Keith has got wacked and is being pulled behind the building.
+
+AUSTIN: Yeah, Keith is like literally—
+
+JACK: Ineffective.
+
+AUSTIN: —in the, like, bottom. The most south corner of this triangle building.
+
+JACK: Right.
+
+AUSTIN: Also gonna rotate this triangle so it's a little bit more even 'cause I'm—
+
+JACK: Is he in cover?
+
+AUSTIN: No.
+
+KEITH: I would've been if Ali had succeeded the roll.
+
+AUSTIN: Correct. If Ali had succeeded at that roll, she would have gotten them both into cover safely.
+
+JACK: And, uh, Aria's not into cover either.
+
+AUSTIN: That is correct.
+
+KEITH: No.
+
+JACK: And neither is Cass.
+
+AUSTIN: Neither is Cass.
+
+KEITH: Unless we're counting me as her cover.
+
+[someone snorts]
+
+JACK: And I have a shotgun.
+
+ART: Cass is at least holding a weapon, I mean, Cass is the most—
+
+KEITH: Jack, do you not have a gun besides a shotgun? I thought that you also had a pistol.
+
+JACK: [dragging out] Nope.
+
+AUSTIN: You mean AuDy?
+
+KEITH: Yes, AuDy.
+
+AUSTIN: No, you said Jack, you said Jack. I thought you said Cass. I was very confused.
+
+[ALI laughs]
+
+JACK: No, I—
+
+AUSTIN: AuDy does have synthetic nerves which helps them* with Mix It Up.
+
+JACK: Yeah, okay.
+
+AUSTIN: And to Act Under Pressure you get a bonus to both of those things.
+
+JACK: Uh, could you describe Act Under Pressure?
+
+AUSTIN: Act Under Pressure is the one—Act Under Fire. It's—shit's going down and you do something that has a lot of pressure or, uh, y'know, has a lot of risk.
+
+JACK: How tall is the building?
+
+AUSTIN: It's, I’d say, four-five stories high.
+
+JACK: So I can't climb it.
+
+AUSTIN: You could start to climb it but that would be—
+
+[overlapping]
+
+JACK: That would—like, basically what I wanna—
+
+KEITH: Well, you are a small gang you could use the other parts of you to support.
+
+JACK: Oh, I also have, like, legs don't I? Don't I have, like, robo-legs?
+
+AUSTIN: Yeah, you're a robot.
+
+KEITH: Verba-legs.
+
+JACK: Uh, what I wanna do is I wanna—I wanna, um, I wanna essentially, uh— [thinking noises]. Oh, I know what I want to do. Um, hang-on, what's my harm clock at?
+
+AUSTIN: Only at 15:00. So only at 1.
+
+JACK: I need—he took 3 harm. Can I just draw his fire?
+
+AUSTIN: Sure, totally. How do you do that?
+
+JACK: Um, I step out into the middle of the street and I turn off the human face.
+
+AUSTIN: Ha.
+
+JACK: Um, and then I just start shouting at him.
+
+[KEITH laughs]
+
+AUSTIN: [laughs] Okay. Are you bringing out your shotgun arm or are you just waving in the air?
+
+JACK: I think I'm bringing out my shotgun arm but not really with the intention of using it, just with the intention of maybe making myself a bigger target.
+
+KEITH: Would they be Playing Hardball?
+
+AUSTIN: That's what I'm curious about. I'm curious if this is Play Hardball or if this is—
+
+KEITH: I wanna—I wonder what the, uh, thought behind not shooting at him is.
+
+AUSTIN: Me too.
+
+[overlapping]
+
+JACK: Because I have a shotgun. My weapon is near-close. I can't—
+
+AUSTIN: The answer is near-close. That is why.
+
+JACK: I can't. I won't hit him.
+
+AUSTIN: This is—this is not near or close.
+
+KEITH: Yeah.
+
+AUSTIN: Um, if it was on the ground floor it would totally be close but at this length it is not.
+
+JACK: Okay, so what I'm doing is I'm turning off my face and I'm walking slowly towards the building which he's on.
+
+AUSTIN: Mm-hm.
+
+JACK: With the intention of Playing Hardball with the ultimatum being, "I'm gonna come up and get you."
+
+KEITH: [laughing] You better not mess with me, the robot man!
+
+JACK: Yeah! With uh—man, I can park cars really fast!
+
+AUSTIN: I like really—I'm trying really hard to decide if it is Play Hardball or if it's Act Under Fire. 
+
+JACK: I'd go either way.
+
+AUSTIN: Here's the thing that makes me think it's Act Under Fire and why it'd be rolling Cool. 'Cause you're literally like, I'm just gonna walk towards you. I'm literally going to walk into fire, right? I'm going to try to get shot here or shot at at least.
+
+JACK: Yeah.
+
+AUSTIN: Um, and that to me reads like Act Under Fire and not—
+
+JACK: Well, 'cause you know what this is as well, right? This is cultivate saplings. This is Liberty and Discovery just going, "Okay, there's three of them."
+
+AUSTIN: But at the same time, I guess, if you're—if the idea—I guess that's my question is, is AuDy's goal here to present themself as a target or is it to threaten? Is it to be a threatening presence? 'Cause that's what decides what move it is to me.
+
+KEITH: I agree.
+
+JACK: Um.
+
+AUSTIN: And it's some insight into how AuDy is thinking.
+
+JACK: You know what? I think it's to present themselves as a target because I think this is the opposite move to AuDy opening fire inside the dome.
+
+AUSTIN: Yes, I like that too. In the—or outside the dome at the, um—
+
+JACK: In the broken dome.
+
+AUSTIN: At the broken dome, right.
+
+JACK: In the city, yeah.
+
+AUSTIN: Alright, so give me Act Under Fire and—
+
+JACK: I'm pretty good at this.
+
+AUSTIN: —take another +1 because of synthetic nerves.
+
+JACK: In theory, okay. So, I'm just gonna hit Cool and add 1 to whatever the roll is.
+
+AUSTIN: Yeah.
+
+JACK: Damn!
+
+ART: Hey! 
+
+AUSTIN: Cool is very good. There it is.
+
+KEITH: Nice. There's a good roll.
+
+AUSTIN: You do it no problem. I think you step out and the rifle turns to you, the sniper, like, gets ready to take the shot and then you like, hit the button on your collar and your face appears and the person pulls the trigger but misses. The bullet goes high. 
+
+JACK: [takes sharp breath in] Okay.
+
+AUSTIN: In that time, Aria has a chance to get Mako and herself around the corner. Cass, what do you do?
+
+ART: [exhales] Shit. I'm bad at everything I can do.
+
+KEITH: It's not impossible to get a 7 or up on with a +0 roll.
+
+JACK: I mean, Cass—Art just typed earlier, I have a really good idea for when my plan comes together but this is definitely too early. Is this too early? We're in a bad way here, dude.
+
+ART: Yeah… 
+
+KEITH: I think this is—I think this is a fine way that we've turned into a bad way. [ALI laughs] I think we can get out of this without a plan.
+
+JACK: We've been recording for forty minutes. [laughs] There's like no time.
+
+ART: Tell me about this building.
+
+AUSTIN: The one in front of you? 
+
+ART: Yeah.
+
+AUSTIN: It's one of these—it is one of these like townhouses, um, except that it is—you can kind of tell like the ones further to the south here are the first ones that were built and are much less... or you know it's not that they're the first ones built, it's that they're further away from everything and so they're smaller. They're less luxurious. So it's like four or five floors high and it's—this one isn't that Apostolosian style. Big, faux new-classical columns. A bunch of residential windows—right, like it's clearly those are people's living rooms in the—are the windows. If you're looking at it right now you can probably see at least one or two people inside, like, closing up the blinds and ducking as they hear the gunfire.
+
+ART: Uh, how hard do you think it'll be to get up there? To get to that roof?
+
+AUSTIN: It's four or five floors high. You tell me. Um, like, you don't see stairs on the inside or on the outside.
+
+ART: There's not like a fire escape.
+
+KEITH: Piece of gear, rocket shoes.
+
+AUSTIN: There's not a fire exit on this. You do have gear, right?
+
+ART: I do have 1 gear. 
+
+AUSTIN: You don't have, uh—you don't see a fire exit on the front of this facade.
+
+ART: If I'm using a gear to get someone up there, I'm slapping it on AuDy.
+
+[AUSTIN laughs]
+
+ALI: I mean it's gear Ibex gave to us though, right?
+
+AUSTIN: Yep, you know, it's gear that you found in the base.
+
+ALI: Right.
+
+AUSTIN: So it could be a lot of things. You just have to tell me what it is and whether or not it's conceivable but in that base, lots of things are conceivable.
+
+ALI: Right. I would say that we should decide on something that would make them stop shooting [laughs] which could be a lot of things or nothing.
+
+KEITH: A really convincing sign.
+
+ART: Yeah, I don't know what the thing is that stops someone who's trying to kill you.
+
+ALI: A bach. We can just hold up the keycard and be like, "No, we're with the same squad, what are you doing?"
+
+JACK: Oh, I don't think that'll be a good idea.
+
+[ALI laughs]
+
+ART: Yeah, that's a terrible idea.
+
+AUSTIN: I got this ID from this guy. Have you seen him lately? Is he around? I swear I didn't kill him.
+
+ALI: Hey, we found this?
+
+KEITH: We're just students and these are real.
+
+AUSTIN: Um, alright, what are you—so what are you doing?
+
+ART: Uh… I'm checking all my moves. Uh, hey I can get a +1 from assessing.
+
+AUSTIN: You should, you should take that.
+
+ART: Yeah? 
+
+AUSTIN: You assessed before successfully, right?
+
+ART: That's while leading a mission from the front. I didn't think it applied.
+
+AUSTIN: You're leading this mission from the front. You're literally the one—
+
+JACK: I think that's true.
+
+AUSTIN: —who stepped forward with a gun. You the furthest—I guess, AuDy is literally technically steps ahead of you now but whatever, you're fine. You roll that Assess move.
+
+ART: Sure. Uh, I mean, it would've given me a 10 on that earlier Assess.
+
+AUSTIN: Do you wanna—take that, you have extra hold on the Assess now, right?
+
+ART: Sure, let's see.
+
+AUSTIN: Uh, that's a question. Do you wanna ask questions from that?
+
+ART: Yeah. Where can I gain the most advantage?
+[00:44:51:27]
+
+AUSTIN: I think, um, so you see that there is a—there's some—hm, what's the quickest way to get you to a place where you actually have advantage here. Um, it's one of those things of like how do I give you advantage without betraying the truth of the scene. I think the best way you could get advantage would be to either be on the same elevation or to be inside the building that they're in, that they're on top of, because they can't shoot down at you. And then, once they lose sight of you, you technically have some advantage because—
+
+ART: Alright.
+
+AUSTIN: —y'know. If that makes sense.
+
+ART: I'm gonna—I'm gonna try to get into that building which I assume is gonna be Act Under Fire.
+
+AUSTIN: Okay, and you're going to continue to hold your two remaining Assess?
+
+ART: I have one remaining Assess.
+
+AUSTIN: What was your first question again?
+
+ART: Uh, the one that got the—
+
+KEITH: F to conceal.
+
+ART: Yeah. [unintelligible]
+
+AUSTIN: Oh, right, yes, I gave you the chance to make that stop. Okay.
+
+ART: So I'm Acting Under Fire. I'm trying to just run into the front door that—
+
+AUSTIN: You can get into the building. I'm not going to make you roll to get into the building when we've already established that AuDy has threat so to speak. AuDy has hate here. AuDy's tanking.
+
+JACK: [laughs] Oh dear.
+
+AUSTIN: Um, so yeah, you sprint forward and again, you can hear in the rain the clinking of the large shell hitting the ground and the new round being loaded into the rifle and you burst into the front door. It's unlocked like the lobby was unlocked and inside you can hear people scurrying around. Really nice tile flooring here. It's all—it's all nice soft yellows and browns laid out in really familiar patterns. Again, this feels like—this is the sort of thing that you—this sort of tile work you saw in your schools growing up, Cass.
+
+ART: Sure.
+
+KEITH: Really incredible portraits of fish on the wall.
+
+AUSTIN: No, like, they've been replaced, right? Like, all the portraiture here, all of the—it's one of those things where the wallpaper is older than the paintings that are up on the walls and that's really noticeable to Cass. Um, you make your way up the—you're like rushing up the stairs as fast as you can. I guess give me an Act Under Fire for that. Give me an Act Under Fire to see if you get there now or if you get there in a turn.
+
+ART: Okay, and I'm taking the +1 on acting on my forward?
+
+AUSTIN: Yes, totally. Totally.
+
+ART: And, so it's that plus one. So it's 10.
+
+AUSTIN: Look at that!
+
+KEITH: Nice.
+
+AUSTIN: Alright, so you—
+
+JACK: We're getting somewhere.
+
+AUSTIN: —you like, so by the time the next—the sniper shot is lined up you, like, burst through the back door of this rooftop. It's pouring up here now and you see a figure with the sniper rifle and, like, a cloaked, a hooded cloak—like a parka, a rain parka—readying the next shot. What do you do?
+
+ART: I throw a flashbang? 
+
+AUSTIN: Oh, cool.
+
+ART: Like, just try to like, get a flashbang between their legs or whatever.
+
+AUSTIN: I was wondering if you had flashbangs earlier. I was gonna say maybe you could use your gear for that but yeah, you have that. That's a good call.
+
+ART: I have a flashbang. It was a bad idea on the ground, it's a better idea up here. It's still—
+
+AUSTIN: Totally.
+
+ART: —gonna be shitty for me but...
+
+AUSTIN: Yeah, whatever. You know it's coming and don't fuck up this roll. Give me a Mix It Up.
+
+ART: Let's go Mix It Up.
+
+AUSTIN: Yeah.
+
+ART: Hey! 
+
+AUSTIN: Look at that. It's an 8. So, when you Mix It Up and you roll a 7-9, um, which this still is even if you get that other +1, right?
+
+ART: Yeah, which I don't think I, I mean—it doesn't matter.
+
+AUSTIN: Yeah. I think that would be a stretch. Um, I get to choose one, oh no sorry, that's Play Hardball. [reading] You choose two: you make too much noise, advance the relevant mission clock, you take harm as established by the fiction, an ally takes harm as established by the fiction, or something of value breaks.
+
+ART: Uh, I think make too much noise is too perfect?
+
+AUSTIN: Yes. You mean too perfect as in you were gonna use it.
+
+ART: Right, because it's—because it's a flashbang. It's literally making too much noise.
+
+AUSTIN: Mm-hm. 
+
+ART: Uh, and then I'll take harm as established by the fiction. I don't wanna...
+
+AUSTIN: Okay. Um, hm. Also, wait one second, where the fuck did my clocks go? Oh, here they are. Here they are. We're good. Let's advance the legwork clock again. Okay.
+
+ALI: Are we still in legwork?
+
+AUSTIN: Oh, yeah. 
+
+ALI: Okay.
+
+AUSTIN: I—you tell me where—where are you gonna find Rigour? Information on Rigour? Where are you gonna find Maryland?
+
+ALI: [laughing] I dunno.
+
+ART: In the September Institute. God, it's not like even listening, Austin.
+
+JACK: Yeah, Austin.
+
+AUSTIN: Uh—okay, sure. Uh, alright so—
+
+JACK: We're on the roof!
+
+AUSTIN: Yeah. Good. The—what's the other one that you're choosing?
+
+ART: I was gonna take harm.
+
+AUSTIN: You take—you take harm. Alright, so I think the flashbang goes off. The building like—the roof shakes at the concussion of the flashbang going off and then the sniper rifle falls over the edge and lands with a clatter on the ground below and you manage to look away from the flashbang but when you turn back—I don't know what you're prepped to do, maybe we even see that on Cass' face. Alright now, like, now what? Um, but the sniper has pulled out a pistol and is, like, covering her eyes and her face and just shooting blindly in your direction and you get caught in the shoulder. Take 2 harm.
+
+ART: Alright, so that's -1 from my—this is not armor piercing, right?
+
+AUSTIN: This is not. This is the pistol, yeah.
+
+ART: Alright.
+
+ART: Alright.
+
+AUSTIN: Okay, so you still take one right away. 
+
+ART: And then roll 2d6+1.
+
+AUSTIN: Right.
+
+ART: And I did only okay.
+
+AUSTIN: You did only okay. You got an 8. Um, alright, you— [laughs]. So on a 7-9, I choose one: [reading] you lose your footing, you lose your grip on whatever you're holding, you lose track of someone or something you're attending to, or someone gets the drop on you. You get hit and, like, cover up your—like you reach up to, like, hold the wound and she keeps firing at you and you have to duck behind cover. Just before she runs she, like, runs towards you and then leaps up over you on top of where the doorframe is above the sort of second—you know what I mean on like the roof of buildings where there's doors, there's another like—the door has to have a ceiling too. She vaults herself up there and you catch her face. It's the receptionist from the building from earlier.
+
+[ALI gasps]
+
+ART: Oh, great.
+
+AUSTIN: And her—
+
+KEITH: Sorry, you guys.
+
+AUSTIN: —glasses do like, do the thing in an old movie when there were still lots of film cameras, they do the shutter like, ch-ch. We get that with a picture of your face on her eyes or not on her eyes but on her glass—her glasses lenses and then she heads out. So you lost—you lose track of something or someone you're attending to.
+
+ART: Sure. I think I'm going to take the moral victory here. She's probably not gonna be able to hear for a little while.
+
+[JACK laughs softly]
+
+AUSTIN: Yes, oh, or see super well.
+
+ART: Yeah.
+
+KEITH: Do you get to take a moral victory when you flashbang someone?
+
+[ALI and AUSTIN laugh]
+
+ART: Uh-huh. Yeah.
+
+AUSTIN: [laughing] Okay, is that how that works?
+
+ART: It's a—I don't—you guys probably don't know a lot about Apostolosian religion and I understand that. [someone snorts] Like, I empathise with you here but yeah, there's a—
+
+KEITH: Mm-hm.
+
+ART: —a lot of morality in explosions.
+
+AUSTIN: Okay.
+
+KEITH: Okay.
+
+AUSTIN: That's Jacqui about that. Um, what are the rest of you doing now as you bleed in the streets? Mako?
+
+KEITH: Panicking. I—hey, I'm panicking.
+
+ALI: Uh—
+
+AUSTIN: Now you can be calmed down. Aria, how do you calm him down?
+
+ALI: [laughing] Oh, hu-ho.
+
+[overlapping]
+
+AUSTIN: Or do you even try?
+
+ALI: Yeah, absolutely.
+
+KEITH: And remember you've got to calm me down during me going,
+
+KEITH (as Mako): Ah! Ah! Ah! Ah—wha—ah?!
+
+ALI: Actually what I was gonna ask is, um, I turn the corner, is there a way into the library that I could see?
+
+AUSTIN: The doors are all locked.
+
+ALI: Okay.
+
+AUSTIN: I mean there are doors but they're locked.
+
+JACK: We're in a gunfight can we just break a window?
+
+ALI: Um, but—
+
+AUSTIN: You can go and do that, uh, that's a thing you could do.
+
+[overlapping]
+
+ALI: Yeah, my plan was to get—
+
+KEITH: Austin said that in a way that he means it's a bad thing.
+
+JACK: Yeah, yeah, yeah, he means don't do it.
+
+AUSTIN: I mean I will advance a clock if you break a window, yes.
+
+JACK: Yeah, that's what I figured. Yeah, I thought that he meant that in the bad way.
+
+KEITH: Yeah. Don't that's a—
+
+ALI: Oh.
+
+KEITH: —that's a thing you can do. That's a warning.
+
+AUSTIN: Yes.
+
+ART: None of us know how to pick a lock.
+
+[JACK laughs softly]
+
+ALI: Um—
+
+ART: What a weird batch of shitty criminals we are.
+
+[ALI and AUSTIN laugh]
+
+KEITH: I can pick—no I'm good at picking locks. It's like my whole thing.
+
+ALI: Anyway, what I was actually gonna do is try to apply aid to Mako and that's how I'm going to calm him down.
+
+AUSTIN: Oh, sure.
+
+ALI: Pulled him into cover and like—
+
+AUSTIN: What are you—what's that—what sort of aid can you apply with what you got?
+
+ALI: Um, I think that I can—Mako what are you wearing?
+
+AUSTIN: Nice.
+
+[ART laughs]
+
+KEITH: Um, ratty jeans, a t-shirt, and then—and a sort of like a weird pink hat.
+
+[ALI laughs]
+
+AUSTIN: Good. Good looks.
+
+ALI: [laughs] Okay. Um, I was gonna say that I was trying to cover up his wounds with something.
+
+AUSTIN: Yeah, I'm not saying you can't do it. I just want the picture.
+
+KEITH: If you imagine—imagine someone from the grunge-era but if there was a lot more—a lot, like a lot of coloured hair and a lot of pinks.
+
+[ALI snorts]
+
+ALI: Okay? Then I will use my sleeve because you only have a weird t-shirt that's already bloody.
+
+KEITH: Oh, I was thinking—I was thinking I had in my head I also—I have like the future flannel? Imagine flannel but for the future?
+
+ALI: [softly] Okay.
+
+[ALI and JACK laugh]
+
+AUSTIN: I am—okay. Yep.
+
+JACK: It's the size of a car.
+
+AUSTIN: I can see why you're Lazer Ted's best friend.
+
+[ALI laughs]
+
+KEITH: [laughing] Tomorrow—this is—I'm wearing tomorrow's flannel.
+
+ALI: Okay, well because I hate that shirt instead of ruining my shirt I'm [laughing] using your future flannel to bandage your wound.
+
+KEITH: Listen. One of the—one of the very nice people that do excellent fanart for us will be able to figure out exactly what I'm talking about.
+
+AUSTIN: What future flannel looks like. Good.
+
+ALI: Anyway I succeed with flying colours.
+
+[overlapping]
+
+AUSTIN: Like unbelievable.
+
+KEITH: Yeah.
+
+ALI: That is a 13.
+
+AUSTIN: 13. Two sixes.
+
+KEITH: Two sixes. Putting Cass to shame.
+
+AUSTIN: Uh-huh.
+
+KEITH: With your aid.
+
+AUSTIN: I will say that there's a cap on what you can do here with what you have, like, there's no—you can't heal him to full with his flannel. With—you know what I mean?
+
+KEITH: 21:00.
+
+AUSTIN: I think you reduce it by one segment and call it there. I think that that's—
+
+ALI: Okay.
+
+AUSTIN: Because there's just, 'cause—I mean apply first aid says when you treat someone wounds using appropriate medical equipment which you just don't have. 
+
+ALI: Yeah.
+
+AUSTIN: And—but you rolled really well, uh, so I kind of feel like… 
+
+KEITH: Yeah, it sort of feels like rolling a 20 for applying a bandaid. [AUSTIN and ALI laugh] Like it's still a band aid. Like it's still a band aid.
+
+AUSTIN: It's still a band aid.
+
+[JACK laughs]
+
+ALI: Right.
+
+AUSTIN: But he's not bleeding out, right?
+
+KEITH: Yeah.
+
+ALI: Yeah.
+
+[overlapping]
+
+AUSTIN: In fact—
+
+ALI: And you feel better.
+
+KEITH: It's not—the band aid isn't on any of my hair so it won't hurt when I pull it off.
+
+AUSTIN: Right. It was very well applied.
+
+KEITH: Yeah.
+
+AUSTIN: As far as bandaids go.
+
+ALI: And now you feel very relaxed 'cause you've been cared for.
+
+KEITH: Uh-huh.
+
+AUSTIN: Alright, so what now? What's going on?
+
+[overlapping]
+
+JACK: Can I pick up the sniper rifle?
+
+ART: So we very much didn't accomplish our objective.
+
+[someone snorts]
+
+AUSTIN: That's correct.
+
+JACK: Yeah.
+
+AUSTIN: Uh, yes, you—
+
+JACK: We just went to go check out Orth and Jacqui.
+
+KEITH: We were trying to do someone a favour by making sure they're not dead.
+
+[overlapping]
+
+JACK: Yeah, yeah.
+
+KEITH: Instead I got really close to dead.
+
+JACK: You very nearly—yeah.
+
+AUSTIN: Yeah, you're still in a lot of pain, Mako.
+
+JACK: I'm gonna pick up this—
+
+KEITH: Yeah, I'm just not—
+
+JACK: —sniper rifle.
+
+KEITH: —I'm being real cool about it now.
+
+AUSTIN: Right, you're just a cool guy.
+
+JACK: Um, can I fire this one-handed, Austin? I probably can't, can I?
+
+AUSTIN: Oh, right you don't have a second arm still. Um, you could. You're not—you know what here's what I'll say is that it doesn't have far. There's no way you could stabilise it to shoot far.
+
+JACK: But it's medium.
+
+AUSTIN: But you can shoot medium, yeah. Yeah.
+
+JACK: Okay.
+
+AUSTIN: Medium, is medium a thing in this game actually? Wait, it's close, it's—
+
+JACK: Medium.
+
+AUSTIN: I don't know if medium's a thing. I think it just might go hand, near—or hand, close, near, far. Which near I think means like down the block, y'know?
+
+JACK: Okay, yeah, yeah.
+
+AUSTIN: Which I think is acceptable in this case.
+
+JACK: Um, okay, can I pick it up and try and take a shot at the person?
+
+AUSTIN: Oh you can't see her. She's on the roof. She's, like, jumping across rooftops.
+
+JACK: Crap. Well—
+
+ALI: I—
+
+JACK: —I'll just pick it up.
+
+AUSTIN: What were you going to say, Ali?
+
+JACK: Oh, go on Aria.
+
+ALI: Well she's, like, running away at this point, right?
+
+AUSTIN: Right, but she leapt over.
+
+ALI: Okay.
+
+AUSTIN: She's, like, y'know—she's getting away. Art—Art shows to lose or Art missed that harm roll and lost track of her and he was the only one who had eyes on her, you know? It would be one thing again if she was at ground level, but.
+
+JACK: What do we do now?
+
+KEITH: Listen I've got my flyboard.
+
+AUSTIN: You do have your flyboard.
+
+KEITH (as Mako): I can get up there.
+
+JACK (as AuDy): You're very ill.
+
+KEITH (as Mako): I—you know. I'm cool now.
+
+JACK: Okay, so.
+
+KEITH: I'm still crying a little bit but I'm mostly cool.
+
+JACK: [laughs] Do we want to—is this just a wash? Oh wait, hang on a second. Hang on, wait a second. If this person was—so there's two ways at looking at this, right? Either we went to the library and we got attacked or this person was here to attack Orth and Jacqui when they arrived and they haven't arrived yet.
+
+AUSTIN: They definitely arrived just by nature of time. I'm not gonna—I'm not gonna deny you that knowledge.
+
+JACK: Damnit. I was—
+
+AUSTIN: There's no way they didn't already arrive.
+
+KEITH: And also it's too much of a coincidence that this is the receptionist that—
+
+AUSTIN: Yes.
+
+KEITH: —like that definitely...
+
+AUSTIN: You understand that you were tailed. You understand now that that weird feeling you got while walking down this block was being tailed.
+
+JACK: [takes a sharp breath in and exhales] So do we want to stay at the library or do we want to pursue this lady? I feel like pursuing this lady might, um, distract us from our other goal.
+
+ART: Yeah, this, I mean, ugh. It would really help if we knew something about what Orth and Jacqui were up to but they're both capable people, right?
+
+[overlapping]
+
+ALI: Yeah.
+
+KEITH: When do we—are we unable to contact them now the storm is over or…?
+
+JACK: One of them is.
+
+AUSTIN: Right now it is still mid-storm and you won't—and yeah, you cannot contact them. There will be—at some point this storm seems like it will end before the next storm picks up, um, and there will be probably a window for communications then.
+
+KEITH: Okay.
+
+AUSTIN: Again, you just know that because you used to live here, Mako.
+
+KEITH: Right. I say that we ditch and go to the September Institute.
+
+ART: And I think that there's something useful here, right? I don't wanna, like, polish this too much but we—we sort of gave her—she was tailing us, we went to not our objective, and then got rid of her.
+
+[01:00:03:19]
+
+ALI: Yeah.
+
+ART: I don't think that this is a total failure.
+
+AUSTIN: That's a good commander right there.
+
+ART: Yeah.
+
+KEITH: Yeah. Nice job.
+
+[ALI and JACK laugh]
+
+AUSTIN: How are you getting into September? You gonna walk through the main gate up there?
+
+KEITH: Yeah, we're just gonna—we're all just gonna, you know, we belong there so why wouldn't we just walk in.
+
+JACK: Is anybody concerned? Is anybody concerned that there's like—
+
+AUSTIN: There are sirens in the distance.
+
+JACK: Yeah, that was what I was thinking.
+
+AUSTIN: Um, and there are—you can hear people yelling. You could have during the gunfight. Again, we're, like, seconds after that gunfight ended still. Um, that's kind of just like that True Detective season two gunfight that happens a few episodes into the season where it's just like, "Oh shit. That's a thing that just happened." So but it sounds like you're gonna get the fuck out of here before anyone else arrives.
+
+ALI: Yeah.
+
+AUSTIN: Alright. Is Mako bloody and—like, you're fine, I'm not going to kill you here but you should not be in the rain for—don't stay in the rain. It will get worse.
+
+KEITH: Could I have Cass try to heal me more?
+
+[overlapping]
+
+ART: I don't know if I can. I don't know if you—
+
+AUSTIN: Um, not without better equipment.
+
+KEITH: They're just a better and more capable healer.
+
+ART: I mean I have a traumaderm that's better than your shirt.
+
+KEITH: Oh, I just assumed that Cass—I just thought that Cass had first aid stuff on them* because they're* a doc.
+
+AUSTIN: Their* first aid stuff is in the ship like that's their*—you need surgery to heal more than this. Like, you got shot. There's y'know—you need to be actually laid down somewhere.
+
+JACK: Is it like walking up to a surgeon in the street and going, "Help! Help! Heal me!"
+
+AUSTIN: Right, and Aria did a fantastic job of getting the bullet out and patching you up but you need sutures or whatever future sutures are and you need to be disinfected and stuff like that. And maybe they* could do it in a nice clean room where they* had—even if they* didn't have all of their* medical equipment they* could make some effort but given the conditions, she did everything that could possibly be done for you out here.
+
+KEITH: Okay.
+
+AUSTIN: So you head up towards the main campus and you can see, Mako, the storm lights are on, that are like—there's a sort of silent claxon that rotates that you can see all throughout the city once you, um, once you kind of clear the suburban sprawl, that kind of signals that all students are supposed to return to their dorms immediately. So there's actually—they barely check you as you come through. The scanner scans your IDs—it's just like an automated—I'm imagining it as sort of a camera on a swivel that is just scanning IDs from a distance as people walk through. It's basically just looking for RFID tags but it still has to animate for some reason? It's not just an area of effect scanner. It has to literally, like, bzzt bzzt bzzt, and you all walk through and no-one stops you. There are a bunch of other students all younger than you who are hurrying towards the various dorms here on the north side of campus.
+
+KEITH: We're very mature for our age, especially AuDy.
+
+AUSTIN: [laughs] Yes. Who is a man.
+
+JACK: And Cass!
+
+ART: Yeah, and Cass who's almost 40.
+
+AUSTIN: [laughs] And AuDy who looks like a Republican president candidate. Who looks like Marco Rubio who maybe is not a candidate—
+
+JACK: [amused] Carrying a sniper rifle.
+
+AUSTIN: —by the time people hear this. [KEITH laughs] Uh, right, what are you doing with your sniper rifle?
+
+JACK: Oh since this is a university, Austin—
+
+AUSTIN: [amused] Hold up. Wait. What are you doing with that sniper rifle?
+
+JACK: [nonchalantly] Oh, let's move. It's fine. Let's move.
+
+AUSTIN: No, let's go back one second. What are you doing with that sniper rifle?
+
+KEITH: Can you hide it in your other arm?
+
+JACK: I don't—what other arm?
+
+KEITH: Oh yeah, can you make it your other arm?
+
+JACK: It's a sniper rifle!
+
+ALI: Can you just tuck it into your sleeve?
+
+AUSTIN: No it's—guys. Guys. It's a sniper rifle. [ALI and JACK laugh] It's big fuck off armor piercing—like it's built to go through mechs.
+
+KEITH: Can we make it a sawed off sniper rifle?
+
+AUSTIN: Sure.
+
+JACK: No, no, 'cause that defeats the objective of why I picked it up!
+
+AUSTIN: Yes, at that point it's just another gun that has the same range as the gun they* have in their* arm.
+
+[JACK hums]
+
+KEITH: A snub nosed sniper rifle?
+
+JACK: No, like, hypothetically, what happens, hypothetically, what happens if I just carry it through?
+
+AUSTIN: You, uh—the guards at the gate would see that you have a sniper rifle. Like I'm not making you—you don't get to roll to not be seen carrying a Barrett .50 caliber.
+
+JACK: How tall is the wall?
+
+AUSTIN: Very tall. The wall—I should actually describe the wall. When you approach from the west at first there's a bit where you think it's too big red buildings. Then you get closer and realise the buildings don't stop, and that they don't have any windows, and that it's a wall. It's massive, right, like it's as big as the suburban area you just walked through, like it's as long as those blocks are.
+
+KEITH: How's—how's this for a compromise? We can hide it outside and if shit doesn't go so bad that we can't go and get it, we can come back and get it.
+
+AUSTIN: Totally. You can hide it wherever you want but point somewhere on the map.
+
+JACK: Does anybody have any bags?
+
+KEITH: Um.
+
+JACK: Nobody's carrying bags?
+
+ART: Probably not.
+
+JACK: No?
+
+AUSTIN: Again the size—this is a person tall. Like, this is a—I don't know what—the length of one of these sniper rifles is very big. This isn't like a hunting rifle.
+
+JACK: Okay. Okay.
+
+AUSTIN: Again they make bags for those but you would need a bag that's as tall as a person is.
+
+JACK: Right. Okay.
+
+AUSTIN: Or I guess you could disassemble it, right. If you wanted to disassemble it then you could totally fit in in a smaller bag.
+
+JACK: But I—yeah, no, I'm— [laughs]. I'm gonna, uh—where is a place people aren't going to storm raids?
+
+AUSTIN: It is 5 feet long. It's like 4.75 feet long.
+
+JACK: Oh my god. Oh! Are there cars on the street?
+
+AUSTIN: Um, yeah. There are some parked.
+
+[overlapping]
+
+KEITH: Oh yeah, you can hide it in someone else's car.
+
+JACK: Okay. I just wanna put it under a parked car. I'm going to put it under a car. Nobody—nobody is driving in this—
+
+AUSTIN: Point to me on the map where.
+
+JACK: Here.
+
+[music begins to play—The Long Way Around by Jack de Quidt]
+
+AUSTIN: Okay. So AuDy, before you get too close to the building it cuts down through an alley and through these nice parks. So at the north end of each of these kinds of suburban districts, there's a big state park, um, not a state park not like a national state park, but like a, again, filled with statues of famous OriCon heroes and like just a little too phoney like there's something about it. It doesn't feel like people go here on their days off. It feels like it's a little too manicured. It looks like the sort of thing where if you were on the—it looks like the sort of grass that you're not supposed to walk on. Um, but you cut through it no big deal and you hide it underneath a nice golden sedan. [JACK laughs softly] And you make your way into the campus.
+
+JACK: Great. What are we doing here?
+
+AUSTIN: Good question. I still have no idea.
+
+[music continues and plays out until the end]

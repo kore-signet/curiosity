@@ -1,0 +1,789 @@
+Twilight Mirage 41: No Value in a Closed Door
+Transcriber: Terin
+["The Notion" begins]
+AUSTIN: One hour after receiving word about the negotiations, Cat’s Cradle, part-time mercenary and loyal envoy of the Concrete Town Particulars found herself catching her breath in the strangest place. She stood horizontally against the horizon, miles above Gift-3. Attached by maglock boots to the Advent Society Techmain, a massive orbital elevator connecting their burgeoning groundside headquarters with their research and development station above. For the last 15 minutes, she’d been counting the lightning strikes of the storm below, ears straining involuntarily in hopes of hearing thunder, and trying to make sense of what the proposed deal would mean for her, and for the entire Quire system.
+She breathed deeply, like city tourist on mountaintop. Despite the lack of oxygen, it was easier for her respirator here than below or, anywhere else on the Nine Idylls. People had misunderstood the mechanism that the citizens of Concrete Town wore. Most folks thought that the Hegemony’s experimental cement had made it hard for the Particulars to breath the gaseous form of the Mirage. But that was backwards. The reason they could breath near their homes was that the material was fused with Mirage-stuff. The problem with the planets wasn’t the trace amount of strange particles in the air, it was the oxygen.
+Cradle took hold of the momentum-grip nearby and pushed herself upwards, falling further away from Gift-3, and towards the nearest transpost station. By the time she’d arrived, she counted another five strikes in the massive, permanent storm that swam across Gift-3’s fields of bubbling Q-Glass. She found herself remembering a lesson taught to her by a grade school teacher many sleep detachments long dead.
+“Though we think of lightning striking the ground,” her teacher told her, “it actually moves in two directions. First, countless branching leader sparks reaching downwards, cutting through invisible channels in search of vulnerability. But it is when they find their match below, when negative meets positive, that the snake of blue-white plasma we call lightning really happens.”
+You need both, she told herself. You need both.
+[“The Notion” ends]
+AUSTIN: Welcome to Friends at the Table, an actual play podcast, focused on critical world building, smart characterization, and fun interactions between good friends. Today we are continuing our game of Scum and Villainy by Strauss Asimovic and John Lebouf Little, a hack of Blades in the Dark by John Harper. My goals as GM are to convey the world, the fictional world honestly, to bring the Twilight Mirage to life, and to play to find out what happens. I'm your host, Austin Walker. Joining me today, Janine Hawkings.
+JANINE: I'm Janine Hawkins, you can find me @bleatingheart on Twitter.
+AUSTIN: Also, Sylvia Claire.
+SYLVIA: Hey, I'm Sylvia, you can find me on Twitter @captaintrash.
+AUSTIN: And Andrew Lee Swann.
+ANDREW: Hey, you can find me at Twitter @swandre3000.
+AUSTIN: You can find me on Twitter @austin_walker, and the show @friends_table. You can support the show over on Patreon, by going to http://friendsatthetable.cash, or http://patreon.com/friends_table. Either one, they take you to the same place. We have bonus shows, we have live shows, we've done a lot of really cool live stuff lately, and I think I mentioned this on somewhere, somewhere, at the, we've had like a really, a ton of really fantastic stuff at the, I would say at the $5 and the, or rather at the, I think we've got of great stuff across all the levels, but at the $10 level and at the $50 level, there are some really incredible things that have dug into what this transition to the Scum and Villainy has been? Last month, I showed the whole map of Quire, and at the Pusher level, which is the $50 level, I went over all of the places on the map, and like, gave all of the descriptions that I had? And also, I also released for Mapmaker level backers, who are the $10 level, a faction document that goes over all 44 factions. It's the same document that the players use for Scum and Villainy, that have all of their faction ratings, and all of the descriptions of all 44 factions, so if you're super curious about what the Twilight Mirage looks like after the Miracle, $10 a month- in fact, you can do the $10 a month for one thing then drop down to $5 or $1 or whatever, afterwards, if you're just really curious to see some stuff. But I just wanted to shout all that out. The most recent Pusher update has included a bunch of text from, text and screencaps from conversations with the cast about switching over into the Scum and Villainy, and what was going through everyone's' minds with their characters, and also at the Pusher level, Jack, Ali, and I did a 50 minute podcast all on how I pitched them this? And what some of the difficulties were getting here in terms of producing episodes and like, getting, figuring out how to do it at a fast enough rate at we didn't lose momentum, but slow enough that it felt earned, and not just kinda like, "Oh yeah, we're gonna change systems tomorrow", so check those out, we've put a lot of work into those, and thank you as always for your support if you already support us, at any level. Really, every buck counts, seriously, and so thanks for sticking with us.
+Okay, "Ad Zone" is out of the way, let's talk about Friends at the Table stuff, like robots, and sadness, and other junk.
+(Andrew laughs)
+SYLVIA: Fuck, nailed it in one, man.
+AUSTIN: Swish. Did it. So I think we are going to pick up very soon after the last recording ended? We might even have to do some weird production stuff here, where I think maybe the conversation we're about to have might get attached to the previous one? But I want to kinda pick up at the farm that Graph-2, or let me just... let's get a summary goin' on what happened last time, real quick.
+So, y'all were sent to Gift-3 by Cascara, by the Seneschal's Brace, to help reconnect a group of refu- two groups of refugees, right? To reconnect the two sides of the Tides of Harmony. On this side is Seiche, which is a group of, is kind of a, one-half of the Tides of Harmony, and they have become a very militant, a militia group? Not all of them, but there's a, they're kinda, the prominent leadership in the... Texas, rural, small city of Seiche? Is kinda lead by the Volunteers of Seiche, who are kind of a civilian-led militia group. We met Echo's older brother who is part of that group, in somewhat of a leadership role. I don't think like, head of? But like, up there. We saw y'all retreat through the Crashyards and come back to Seiche. After finding the Stitch that you're looking for, because you're trying to reconnect these refugees via a Stitch, which are these places throughout the Quire system that connect planets directly, almost like, little- almost like organic stargates or something? A very like, liminal space that are weird, you didn't actually see the stitch itself, but you saw the compound that was built around it. That compound is under control of Advent Discovery and Salvage Society, the Advent Discovery and Salvage Society, and is currently kinda being led by a contractor, Cat's Cradle, who is the soldier from the... Concrete Town Particulars. You specifically just need to get this... the mission is get these four people through this door, basically, right? Get this family plus another person through this door. The family is, I guess it's actually more than that, it's... Fountain Facade, Meliange Facade... Fountain is 39, Meliange is 15. Juniper-3, who is... the... Fountain's partner who is a synthetic who is here. And then it is... Evangel, who is the... one of the characters from the postcards. And also with them was Graph-3 who is a rancher who owns a ranch here, and is kinda one of the civilian leaders of the Seiche area, who is not directly involved with the Volunteers of Seiche? You also met up with Cascabel and traded notes about like, got some weird vibes? Cascabel doesn't seem to trust the Volunteers that much? You, Signet, you went to the local preacher and... temple and church or whatever, and kinda... listened to a sermon, meditated with some people, and kinda... not shmoozed, but like... did your old "Listen to people" thing give little bits of help, and learned faith had drifted away from this community and was replaced with a sense of... aggression against Earth? That was the social glue here was, they were defining themselves negatively against Earth instead of positively in terms of their connection to faith, or to each other, or any of these other things that would totally be valid, right? They are, pretty much that whole culture, that whole city is about "Fuck off, Earth". And understandably, because they got split by the events of the Mirage, and are blaming that on whatever they can. So maybe not fully understandably? But there's a line there. They're not just like, they're not just like... guessing or something, like "Yeah, Earth showed up and then... and now we don't know where our families are." Then you tried to go, you made a plan to go get into the Stitch. You led them there, Signet used the... the robes that you have, I forget what those are called... to approach without being attacked? And proceeded...
+JANINE: Oh, it was the light...
+AUSTIN: Oh, right.
+JANINE: It was like, the fucking (laughs) like....
+AUSTIN: The yellow underglow...
+JANINE: The car-like kitting, except for your holy garbs.
+AUSTIN: Uh huh.
+JANINE: Yeah. Okay.
+AUSTIN: You met up with them, everybody else kind of hung out with a weird guard outside who was... his name wasn't Greg, but he's a Greg, you know what I mean?
+(Sylvia laughs)
+ANDREW: He was VERY much a Greg.
+AUSTIN: And... you negotiated with Cat's Cradle and came to a position that was like, she was gonna go back to Advent and say, there's an offer on the table to kind of to do this in a collaborative sense, with, working with the Concrete Town Particulars, with Advent, with the Volunteers of Seiche. I don't remember if O-Comm came up or not? But they're also going to be involved. With like a bunch of different groups, basically, instead of it just being an Advent thing. But also, there'd be kind of a truce signed so that no one's fighting over it. You left that meeting and the, and Graph-3, the rancher was very much... (laughs) did you just invite a bunch of foxes into a hen house? Because I don't trust any of these people basically. So I think that's everything, am I missing anything? Does anyone remember anything big?
+ANDREW: That's...
+AUSTIN: There were mini Amprunners, there were mini Amprunners.
+ANDREW: Oh yeah, yeah.
+AUSTIN: The Crashyards are wild, the Crashyards are filled with technology that are, that exist, that have existed for you know, for real in the universe? And also technology, kinda drawn from the mental energy of people on the planet who inspire weird things that never existed before like little mini Amprunners. Not little, like, panther-sized or something, you know? Not, they're not bab- they're not little babies you could pick up. Maybe they're, maybe some of them are. Maybe if Even dreams hard enough...
+(Sylvia and Andrew laugh)
+AUSTIN: He'll wake up and there will be baby little Amprunners. So I want to pick up just back at that garage, and again, or not garage, at the... I wanted to pick up back at the ranch. And again, I think there's a lot of wide, flat shots of Seiche and the area around Seiche? With like... just miles and miles of empty land, farmland, land that's like, they're going grain and stuff on it, or cattle are grazing, or robotic cattle are grazing in the case of Graph-3, and you, we get just the wide, quiet shot with the- it's like, you know, it's always either dawn or dusk in the Twilight Mirage? But dawns and dusks can be this kind of cold blue, sometimes? This dark, not particularly sunset-y or sunrise-y, like... you can have that early morning dawn that is not... isn't particularly saturated with reds and yellows and all of that, so I think we have one of those, and have a weathervane, and maybe one of those mills spinning, and... then, in like a two-story, three-story house. Two-story, I'd say, with a big porch, and all these cows grazing, all these robotic cows, and we can hear, we hear the sound of tea being stirred while we're still on that wide shot, and we go in to the, we cut to a dinner table. It's a different dinner table than the one we saw before, the one that had... Echo, what was your older brother's name again?
+SYLVIA: Ballad?
+AUSTIN: Ballad. So it's not that one. And in fact, it immediately feels a little bit different in nature, because that one, if you remember, was just like filled with militiamen? The militia people were all just like around *doing* stuff. I almost, thinking back on it now there's almost like a Project Mayhem vibe, of just like, a bunch of people in khakis and black shirts, you know? Like, getting prepped for some bullshit, whereas here it feels a little bit more- and like, there was a family at the center of that, right? Like, that was the thing that made it not feel creepy was Ballad was there, and was like, making sure everyone was fed, and Ballad has this like, warm personality. But here, it's just this family vibe. There's like somebody who's not at the dinner table who's like, over in the living room watching ener- whatever the entertainment medium in this, in this place? I think it's probably like, there's... so one of the things we've shown is like, there's lots of physical stuff that then gets projected on, or something, so I think there's a weird, almost like gaseous projection screen system, that then gets lit up? And so there's a little bit of 3d?
+
+-- 15:00 --
+
+AUSTIN: There's a little bit of volume in all the images, and you know, there's like, someone's aunt over there watching a game show or something, there's like, the sound of a dog barking. And there are three of Graph's here. Graph again is this like, I'm picturing, I'm picturing him very much in the Cayde-style, or the, whatever the, Exos, is that what they're called in Destiny?
+SYLVIA: Yeah.
+ANDREW: Yeah.
+AUSTIN: Yeah, they're like a very Exo-style robot, you know, like, big, bright eyes with like, metallic-framed faces that have... kinda weird shapes sometimes? Like holes in their cheeks, that's just like how it looks. I think one of his big things is he definitely has like, a glowy goatee on his face? At least two of them do. The, there are three of them, and it's Graph Once, Twice, and Thrice-killed. They're, you've, he's kinda given you the speech already? He's like "Listen, I know this is weird, but..." And he is a robot who, when he dies he has a thing set up that like, just builds a new robot, but also builds one that doesn't remember dying? Because dying fuckin' sucks. And so, he has like, multiple copies of himself at any numbered time. So there are three of them here. There is no "original Graph" here, the first Graph died a long time ago, so it's Graph-1, Graph-2, Graph-3. There's other people, and I, like, there's, it's probably a fairly large family, it's like, 8 people in this house. And they are currently serving the first of many courses, and also the other refugees who you're meant to take over the border, who again are... Fountain Facade, Meliange Facade, Juniper-3, and... and Evangel are all meant to, or all also here. And so it's like a big, loud dinner table, where people are having a bunch of different conversations at once. And there's this weird expectation that like, someone else is going to arrive at all times, do you know what I mean? No one says that, no one says like "Oh, we're waiting on so-and-so", but there's just a vibe of like, "Oh yeah, someone else could walk in the door at any more, so we'll have a place for them ready."
+SYLVIA: Got like, an ear out to hear if the door opens, type of thing?
+AUSTIN: Yes, exactly, 100%, like, you know, it's already happened twice, the dog starts barking and then someone says "Be quiet, boy! That's, you know that's just your cousin so-and-so" or whatever... or not your cousin, not the dog's cousin... (laughs)
+JANINE: I was gonna say...
+AUSTIN: It might be... listen, I don't know... fuckin', the Twilight Mirage is wild. A different dog shows up with a pot roast. (laughs) Ready to go. And so I think, I think on one hand, or one side of the table is Graph-3, the one you went with, and Evangel, and the three of you around the head of the table. Signet, they had you bless the meal, if that's a thing you're willing to do.
+JANINE: Yeah.
+AUSTIN: Is there a special blessing? What does the meal prayer look like?
+JANINE: Umm... I think it's probably... the first thing that comes to mind, and like, the thing I like the most is, it's probably like... it's not very, you know, referring to... to scripture, or important figures, or anything like that, or Divines or, it's probably like very complementary to the chef?
+AUSTIN: Mmm, sure.
+JANINE: Or whoever cooked it, it's probably like, very flattering and very like, man, you took all this time
+AUSTIN: (laughs) Yeah...
+JANINE: Like, you know, good on you
+AUSTIN: Good hustle. Yeah, totally.
+JANINE: It's probably very... yeah. Very focused on like, the people who are in the room, and acknowledging effort made.
+AUSTIN: Mmm hmm. Totally. So everyone's digging in, and I think at some point, Evangel kinda leans forward, almost conspiratorially, and is like... I wanna say it's been like a couple of hours, you know, you got back from, from that adventure and come back in, and everyone collects their thoughts, basically? Graph has insisted you stay for dinner at least, basically, and Evangel is like the first one to break the ground on this, and he says like...
+AUSTIN (as Evangel): Alright. What is the best case scenario here? (sigh) If Advent agrees, and they decide to work with the Volunteers and with the Particulars and with... O-Comm and with... who else knows what... is that a good thing for us? They are tomb robbers, and the Particulars are no fans of Divines, and... the Volunteers are... they're loyal. To the Free States. Or at least... They hate Earth so much that they... I'm happy that they're at least loyal to the Free States, because I don't want to know they would be like if they weren't. I just want to make sure we're not building a monster here?
+ANDREW (as Even): So you're thinking that if we get all these people to play nice instead of, you know, helping a bunch of different people be able to travel and things, or to... we're just bringing everything closer to blowing up for you all?
+AUSTIN: I think Graph says like...
+AUSTIN (as Graph-3): It's like we got a lot of pots boiling right now. We got like, 7 of them. And... I could imagine some of them, you mix them together, you get a good stew. But I think what Evangel is saying is, you put them all in the same pot, it's gonna boil over. Or, or maybe you just get a stew you really don't want to eat. You mixed a chowder with a beef stew, a wonton soup... that doesn't sound good.
+ANDREW (as Even): No yeah, the vinegar and the cream. No, that's... yeah. I'm not saying that you're wrong, but... I mean, we don't have, you know, say that, okay, we go after Advent, and look. I would love to do that. But... okay, they get displaced, and then say the Volunteers take it over. And then we're back at... we're back almost where we were.
+AUSTIN (as Graph-3): (sighs)
+ANDREW (as Even): I mean it's... it's almost like we're choosing between the threat of mutually assured destruction where everybody has one of these pots going, and you're just, and maybe you're waiting for them to boil over, or maybe you're hoping that everyone takes care of their own damn pot and just keeps stirring, or you just get one pot, and you kinda just have to take what you get.
+AUSTIN: I think Evangel looks to Echo and Signet and says
+AUSTIN (as Evangel): What about you two? Echo, your brother is with the Volunteers. And Signet, you... you're the one who started negotiating all this out. (sigh)
+SYLVIA (as Echo): I'm just trying to find a peaceful solution for all of this, and I wasn't expecting for us to enter talks with these guys, but, if it keeps us from... (sighs) getting people killed, I'm happy to do it. That's my whole stance here.
+AUSTIN (as Evangel): I'm worried about people in the long run. I can imagine this going well for now, but... I just... if the Particulars end up on this part of the planet, and they manage to rebuild Gumption, what do you think the Particulars are going to think of that? How does that not become their target number one? I'm sorry, I'm just a bartender. I don't really... I'm not a politician, and I'm not an Excerpt.
+AUSTIN: And he nods a little bit towards you, Signet.
+AUSTIN (as Evangel): And I'm not a... hero. But I've seen what happens to ordinary people down the line.
+SYLVIA (as Echo): If there's one thing I can say to you, it's this: I can't make any promises that everyone's going to be safe, but I can promise that I'm going to make sure that I'm gonna do everything to keep them as safe as I can. The people have this idea in their that I'm able to do tons of shit because of what happened a year ago, and it's not quite true. (upbeat) But I'm pretty good. And... I'm gonna try my hardest, and I'm expecting you guys to do the same to keep, you know, the little people, I guess, from getting hurt by this.
+AUSTIN: I think both Graph and Evangel look to Signet at this point, as like, the one person who hasn't really sounded off.
+JANINE: I think... (sighs) Signet is very much like, agrees with what's already been said, like, that's kinda what's been in her heart this whole time, with this plan, is like... I think she says, though, is something to the effect of,
+JANINE (as Signet): It's not necessarily that it's going to be a stew that you mix together, there are things that... (sighs) You can add paper fibers to glue, and it makes a stronger glue. You can add rock particles to a cement, and you make a stronger material for it. The ideal situation is that the combination of unlikely parts could... possibly lead to more stability. More strength in that, in that sense... (sighs) It's difficult. And it would be easier if certain people could, or if certain groups could be excluded from that, but that's not really how this works. When you start excluding people, you start taking that stability away, you start undermining that foundation, and, you know, as was already said, we risk just ending up where we are now.
+AUSTIN (as Evangel): When someone starts a fight in my bar, I throw them out. I don't let them come back. No. (agitated) No, we don't get to say that everyone's allowed. Some people... some people can't be allowed.
+AUSTIN: And Graph goes like,
+AUSTIN (as Graph-3): Now hold on...
+AUSTIN: And Evangel's about to say something else, and... you hear the dogs start barking. And someone's at the door. And they don't wait for it to be opened for them. They just open it. And in her black metal armor, and with her like, her gas mask that kinda pulses out breath every once and awhile, you hear like, the (poooof), and in walks Cat's Cradle. And under her arm, she's carrying what looks like a Roomba? (laughs) And... and through her mask, she says like...
+AUSTIN (as Cat's Cradle): Excerpt?
+JANINE: (nervous laugh)
+AUSTIN: And like, the aunt looks over from the living room, or love seat or whatever, and the dogs are barking like mad now, and... the whole table like stops eating and turns to look at Cat's Cradle as she walks in.
+JANINE: I think Signet stands up and specifically tries to usher Cat's Cradle back outside, because it's... it's rude that...
+(Austin chuckles)
+JANINE: You don't do that. You don't just walk in.
+AUSTIN: She... is not moving. Like, you would have to, you could... you could push her out the door. But it would not be like an usher? Like, there's a difference between those two motions. Do you know what I mean?
+JANINE: Okay, I think Signet probably like, sorta lifts arm as if to like, lifts one arm sorta, not around her?
+AUSTIN: (overlapping) Mmm hmm, yeah.
+JANINE: But like, in that sorta gesture of like... and then, you know, uses the other gesture towards the door, and I think when Cat's Cradle doesn't move, I think Signet just goes outside herself.
+AUSTIN: Okay, yeah.
+JANINE: Because it's clear that Cat's Cradle to talk to her, so...
+AUSTIN: She says...
+AUSTIN (as Cat's Cradle): Anyone else who has business, come outside.
+AUSTIN: And then steps back through the door.
+JANINE: Space Katharine Hepburn is here...
+AUSTIN: Uh huh. She was Australian last time and I can't find it again...
+(Sylvia and Janine laugh)
+AUSTIN: So I'm gonna go with Space Katharine Hepburn for now, and if I can get back to Australian, I'll do it.
+(Andrew laughs)
+AUSTIN: So she like, steps... she has this really loose step going down the stairs, do you know what I mean? Like, jangling step almost, as she moves down the stairs, where it's just like, the only time you see her like that. Otherwise she has this very strict, careful step. And she waits for... or she waits outside because she knows that Even are Echo are with you too... but she, or she just knows there were a big group of people really, so she doesn't know what, who else in that room, she knows like a bunch of people in that room were with you at the place, but were not necessarily, some of them were refugees you were transporting, and some of them were other people, part of the Notion, so like... she's just waiting for more people to show up. Even and Echo, do y'all go out?
+SYLVIA: Yeah, for sure.
+ANDREW: Uh... yeah.
+AUSTIN: Graph and Evangel join you, and I think the family kind of... I think just... what is her name, I've already forgotten her name, not Meliange... let me just look at my, way too many notes for this mission now, because it blew up in many ways... here we go. Fountain. Fountain Facade comes outside and sits on the porch, or like stands on the porch looking down at y'all. Juniper and Meliange stay inside. Juniper takes Meliange to a back room, basically, sent there by Fountain. Evangel like, lits a cigarette. Or probably vapes. He like takes out a vape pen.
+(Andrew and Sylvia laugh)
+AUSTIN: And... Cat's Cradle says
+AUSTIN (as Cat's Cradle): I bring a message from the head of Advent Tech Main.
+
+-- 30:00 --
+
+AUSTIN: And she puts down this little roomba. The audience has seen the roombas at this point, I don't remember if this crew has seen these roombas before. They're like little circular discs that are like, roomba-sized, basically? I finally figured out what they're called, (laughs) thank fuckin' Christ, so I can stop calling them roombas. They are LSPs - they are Limited Self Projectors, that... they all do something, they all, so what they do is, and you'll know this in-fiction, is like, long-range communication is still fucked. You cannot, like, call to Seneschal from here. You cannot call to like, Altar from here or something. So it's tough to actually communicate with people long range, and so, these are like little... limited - which is why the word Limited is there - AI modules that bring a certain part of a person to you, to have a conversation. And the responses are stored and brought back, and it's like sending an envoy version of yourself to make... instead of having a message you can't speak back to, basically, it's like a messenger you can speak back to but only about a limited amount, certain amount of things. And they all work by projecting something that then, like, is the stand-in, in the past, we've seen them do a metal liquid, almost like a T-1000 style thing. We saw that in Grand Magnificent's monta- or not montage, vignette, and maybe like one other time but I can't quite remember when. Here, it's like a weird gas, sorta like the TV was inside, that kind of like, kinda comes up and then... Cat's Cradles hits a button on her... armor, and projects, like, color onto it? From, like, there's like a little flashlight in her armor, basically, and it projects color onto this gaseous form that's being shot up out of this little roomba-looking device? And it makes, like, a low-poly person appear. Made out of gas, basically. It's almost as if, PS1/PS2-era, no texture, like flat-shaded, and it is a... the figure that appears in this kinda color smoke and gas is a... kind of like a bird, or a feather dinosaur person? Humanoid, has arms and legs, but also has these like, big wings that are feathered by still kinda leathery. It's hard to make that out with this projection system. And then, his head is very much like, big curved beak, with like big, pointed, spike-like feathers, and like, dark eyes with white irises, and dark pupils. He's basically like a bearded vulture, do you know what a bearded vulture is?
+SYLVIA: Yeeahhh.
+AUSTIN: I'm gonna link this image in chat because it's good. This one right here. So basically like this, but a little bit more of a dinosaur, and also a person who stands on two legs. And this is, he just says, as soon as, before she even has, before she even finishes like, coloring him in with her projection system, he says
+AUSTIN (as Kitcha Kanna): (with a rough, loud voice) I am Kitcha Kanna.
+AUSTIN: Which is K-i-t-c-h-a K-a-n-n-a.
+AUSTIN (as Kitcha Kanna): Chief Expeditionary of the Advent Tech Main. We have received your request.
+AUSTIN: And he's like, waiting to be acknowledged, basically. Who speaks to this bird guy?
+(Sylvia and Andrew laugh)
+SYLVIA: Ohhh... that's a Friends at the Table question right there.
+AUSTIN: Uh uh.
+ANDREW: I mean, if no one else is going to say anything, Even will definitely say something.
+SYLVIA: I mean, the weird robot guy talking to the weird bird guy seems to make sense to me.
+(Austin and Andrew laugh)
+JANINE: Weird bug guy, right? Bug guy talking to bird guy?
+SYLVIA: Oh, be careful, birds eat bugs.
+AUSTIN: Birds eat bugs, true.
+(Janine laughs)
+ANDREW: I mean, I've got wings too...
+JANINE: Does anyone need any armor components from a Great Jagras?
+(Andrew, Sylvia, and Austin laugh)
+AUSTIN: Also wait, Signet, you're also a bug person. You also do bug stuff. You've got a beetle.
+JANINE: (indignant) I'm not a bug person, I just have a bug friend!
+SYLVIA: (overlapping) Hangin' out with a bunch of bugs...
+AUSTIN: No, once you have two bugs friends, you're a bug person.
+ANDREW: Yeah...
+AUSTIN: One is okay. Two, you're a bug person, which is also okay, you just admit you're a bug person.
+ANDREW: It's cool, though, I mean the Insect Glaive is pretty fun, so you'll be fine.
+(Austin and Janine laugh)
+SYLVIA: Jesus.
+AUSTIN: Oh, does Signet use Insect, oh, Signet uses Insect Glaives! Of course she does! God! Okay.
+(Andrew laughs)
+AUSTIN: Monster Hunter World on the brain. Gotta keep moving.
+(Sylvia laughs)
+ANDREW (as Even): We're glad to hear that.
+(Austin laughs)
+ANDREW (as Even): And... your thoughts are...?
+AUSTIN: You can like, see it like, it... blinks in like, a very, like... bird-like way? Like, kind of like slides his head back and forth? And I think "it" there because it's this projection, right? Like, you imagine that there's also just this CPU is running because he expected like a different response, the AI expected a different response basically, and he says
+AUSTIN (as Kitcha Kanna): We have begun working on it's... on it's... execution. We have made contact with the Volunteers of Seiche, and with the headquarters of the Concrete Town Particulars. They are amenable.
+AUSTIN: And then just like, stops there.
+ANDREW (as Even): Have you all start discussing of terms of use for the Stitc-
+AUSTIN (as Kitcha Kanna): (suddenly interrupting) Yes! We have comes to term with each other. But there is a missing piece.
+AUSTIN: And he kinda just lays it out for you.
+AUSTIN (as Kitcha Kanna): The Advent Society will remain in control of the Stitch on Brighton. But here, on Gift-3, the Concrete Town Particulars will turn the Stitch into an operating base, and will manage.
+AUSTIN: Stops, and like, doing a check.
+AUSTIN (as Kitcha Kanna): And will manage all incoming and outgoing materials and people.Except for those tied to the Tides of Harmony, who will be managed by... (pause) the Volunteers of Seiche. Additionally, the Organized Comm-Tech Workers of... Quire. Will be able to run a cable through the Stitch, connecting these... communities.
+AUSTIN: His like, head is doing the weird tilt back and forth, over and over.
+AUSTIN (as Kitcha Kanna): This will bring us to even.
+AUSTIN: And like, leans forward, in a really aggressive way? Out of the "frame", like, the AI like, leans past the gas that's coming out, so like, disappears as it's supposed to be leaning over you, and standing... it's also really tall, I should have made that clear, it's like 10 feet tall.
+JANINE: Also, does it disappear, or does the camera clip and then we see inside its mouth?
+AUSTIN: I think... (laughs) That's funnier. I think it's that, for sure. The camera clips, definitely. And so, yeah, I'll lay it out in plain detail. He's going to ask you something, to do something. But, if you do it, you'll go back to 0 with Advent. And you'll gain +1 with the  Concrete Town Particulars and with O-Comm. The Volunteers of Seiche are not getting what they really want here? But they're not, they're still involved, and so they'll be still at 0 for you, you'll still be neutral for them? I'm also going to add a new color to the faction chart that indicates this alliance, because this will be pulling the Volunteers of Seiche away from the Divine Free States, and pulling the Concrete Town Particulars away from the New Earth Hegemony. This will really establish Advent as its own, like, major faction in the system. In a way they were not previously. So currently you're at -2 with the Advent, which, again should communicate what a big deal this is for them. Having this is... having, I think you're all smart enough as characters to know that, them saying that this is even shows that, that this would make you even shows exactly what a big deal this is for them, in a way that maybe they didn't necessarily intend to show their handy a little bit?
+ANDREW: Hmmm.
+AUSTIN: Like, the things here are all really good, all that is great by itself, like, if they were like, that'll push us closer to square one, then like, okay, maybe? If they were going to give you +1 status back to just to bring it up to -1 from -2, I think it would be fair to be like "Okay, that's good enough." That's about what that counts as. But the fact this is making you even should make you probably a little suspicious that there's like, more going on there? That they're getting more from this than what, you know, at first blush? But also the fact that, yeah, we'll be stable. This is me saying that outside of the New Earth Hegemony or the Divine Free States taking military action, having, like, a fully... this group will be a stable group. It's just also a group that... has some VERY really issues (laugh) with it.
+ANDREW: Yeah. So is the deal that they basically the other side of the Stitch?
+AUSTIN: They will control the other side of the Stitch. The Volunteers of Seiche will contro- sorry. So they'll control the other side of the Stitch which is in Brighton. Which is where the other half of the Tides of Harmony are. The Concrete Town Particulars will control both this side of the Stitch, and will also bring more people? Presumably through the Stitch on the other side, and will make that their forward operating base inside of a Divine Free States planet. It's also near the Crashyards, which is like, near a bunch of shit they would love to lock down, because it's dangerous for them and as far as what they're concerned. The Volunteers of Seiche will control all migration from people who are citizens of the Tides of Harmony, which means that they can bring people back and forth at will, they will have special visas, basically, that let them pass through. They can, you know, their citizens will be able to effectively be citizens of both sides, which means they'll be able to bring goods through, they'll be able to do whatever, right? It's like, huge, in terms of trade and in terms of being able to go see your family, and being able to visit these two planets, right? And then, other than that, Advent will control all other migration between the two? Meaning like, they will be the ones who say that if you're part of the Brighton Lineage or whatever, they're the ones who get to give you a visa to come through to Gift-3. They're not necessarily asking the Mandati about that, but also, the Mandati... are not in Seiche, you know what I mean? They're not in like, the numbers the people from the Tides of Harmony are. There's a lot of like, there's a lot of thoughts, there's a lot of ways the thinking about these places as sovereign, singlce worlds falls about because like, the Mandati weren't here two... or the Mandati were here before that, but GUmption Gambit wasn't here two years ago, you know? That whole crew is new, and so like, the Mandati weren't all over the planet, they were mostly nomadic, with one big city. And so there's definitely some weirdness there around like... who has the right to do any of this? Which is not an argument FOR this, necessarily? So much as it is like, an added complication, because if the Mandati are like "No, you can't do this.", Advent can be like "Why can you?" like, who gave you the right too? And that's why it's so complicated, like, the only person, the only group in this fuckin' system who has any right to be here pretty much... is the, not "right" to be here, but has that like default right are the Qui-Err Assembly, and they are on Moonlock and not here right now. So. It is a very... it is a minefield, is what I would say. But, as you're considering this, he then goes to explain what the mission is.
+AUSTIN (as Kitcha Kanna): (with wrong accent) In order for-
+AUSTIN: No, that's the wrong person, fuck.
+AUSTIN (as Kitcha Kanna): In order for-
+AUSTIN: He's down here.
+AUSTIN (as Kitcha Kanna): In order for this arrangement to come into... being... you will need to... assure for us... that a major threat does not come to pass.
+AUSTIN: And... he like, shrinks a little bit? And above him...? Like, it's as if someone like, selected all, and then like, shrunk down...
+(Sylvia laughs)
+AUSTIN: And above him, a map of the Crashlands shows up, not a map, like a satellite image of the planet shows up? And you see a thing that Even, you've been to before. Like, the giant storm over the Q-Fields, over the Q-Glass Fields, where you ate those bullets. (laughs) And tried to build them. With Cascabel.
+ANDREW: Why are you bringing up old stuff, Austin?
+AUSTIN: I'm just trying...
+ANDREW: Why are you bringing up old stuff?
+AUSTIN: I'm just saying you REMEMBER, we all remember what happened? He says
+
+AUSTIN (as Kitcha Kanna): Deep within the Crashyards, there is a storm and a field of... energized materials. Within that storm, our recording indicate that there are... Axiomatic signals. We do not know their number or strength. But as the storm and field move, through the Crashyards, they could impact the Stitch. We need you to infiltrate and... capture, or destroy these Axioms. We will pay more for capture.
+
+-- 45:00 --
+
+AUSTIN: And when he says capture, Cat's Cradle, like, pulls like up, there's like... I'm trying to imagine what this even looks like. I think it's like... a long, black, thin rectangular... device on like, a side... not a bandolier, but a holster basically, that she taps a button on three times, and she has like, one hand underneath it, and three little... kind of square-shaped, they almost look like old seat belts or something? But bigger, right? Like big, like the size of a hamburger or something, right? But square...
+JANINE: (laughs) What?
+AUSTIN: I'm just thinking like a hamburger or controller or like a... it's a big piece of metal.
+JANINE: (incredulous) They're like old seat belts but the size of a hamburger?
+AUSTIN: Like an old metal seat belt that has like the button in the middle.
+JANINE: Ohhh, okay.
+AUSTIN: Do you know what I mean?
+JANINE: Yeah, yeah.
+AUSTIN: The seat belt connector bit.
+JANINE: The buckle.
+AUSTIN: The buckle, yeah. The actual buckle, the actual thing that the belts...
+JANINE: Okay...
+AUSTIN: Not the belt. Yeah, sorry, the buckle that it clicks into. They're bigger, and like hamburger sized, or like... you know, I was gonna say like, a PS VR offboard thing, but like, that doesn't, because that's what I'm looking at right now, like, it's about that size? But... that doesn't make any sense. And there's a button in the middle. And he like, the little version of him looks over and watches her, because he can see you, because he's there, because he's an AI thing, sees her, she distributes them to you, one each, and there's a lock on it. So don't... you can't just hit the button by mistake. And he says
+AUSTIN (as Kitcha Kanna): Our friends in the Particulars tell us that these devices will lock down any of the... Mirage's most uncanny creatures.
+AUSTIN: And they're basically like... they're basically like quick-freezing concrete, or quick... not freezing... what's the word I'm... drying.
+ANDREW: Setting?
+AUSTIN: Setting, concrete devices, that will like, lock a thing down with metal tendrils, like, literally lasso it together, like tie it up with metal, and then... deploy this like, concrete gas... I think Even, you've probably seen this in your many, your many hours looking at technology over the last year, and what the developments have been? You know they've used this to capture at least one Axiom before. It's almost like a mine, you put on something and you hit the button. It's like, Tracer's weird Overwatch mine, you know what I'm talking about?
+SYLVIA: Mmm.
+AUSTIN: Her ult... is that still her ult? I haven't played that game in a long time.
+SYLVIA: I think so? I don't know...
+JANINE: Her new ult is that she pulls out a cup of tea, and flings it at someone, and then time travels...
+AUSTIN: Gotcha. Great. It's like the old one, where she has a mine...
+JANINE: Still a good game.
+AUSTIN: And like, four of these metal tendrils like, go out and tie this thing down and pins it to the ground, or tie down whatever they hit, and it releases this quick-drying concrete gas? And liquid mixture that then like, completely like, breaks it down and makes it, one, makes it smaller? And two, traps it in this concrete.
+AUSTIN (as Kitcha Kanna): Are there any questions? Don't play with those, they're dangerous.
+(Janine laughs)
+ANDREW (as Even): Thanks Dad, we'll be careful.
+AUSTIN (as Kitcha Kanna): I am not your father probably?
+(Sylvia laughs)
+ANDREW (as Even): I like that you said probably though?
+AUSTIN (as Kitcha Kanna): I leave things open. There are many mysteries in the Mirage...
+ANDREW (as Even): So question. What happens when someone wants to come through your all's end on Brighton?
+AUSTIN (as Kitcha Kanna): If they are a member of the Tides of Harmony, that would be something I would defer to the soldiers... volun... the Volunteers of Seiche. I was getting it confused with another one.
+(Janine laughs)
+AUSTIN (as Kitcha Kanna): It had soldiers in the title, I think. Otherwise, we would do what any good sovereign state does. We would... analyze their application for visa, we would see whether or not they were safe, we would... determine whether or not their visit was valuable...
+ANDREW (as Even): Valuable to who?
+AUSTIN (as Kitcha Kanna): To us and our allies. Including the Volunteers, the Concrete Town Particulars, O-Comm... and any others we develop. Do not get us wrong. There is no value in a closed door.
+AUSTIN: As far as you can tell, this is true. Like... I can make you roll to see if he's lying? He's not lying.
+ANDREW: Yeah...
+AUSTIN: Right? Like... they will collect taxes on this, do you know what I mean?
+ANDREW: Yeah, yeah.
+AUSTIN: They will do the things that all countries do, which is like "Yeah, you can come in if you can prove that this is going to be a quick visit, or if you prove that you can move here, and do some science work for us, or if you're a millionaire will just kinda, let that go?"
+There's definitely a degree of like, they're not gonna, you know... there's definitely a degree of like, getting it right on their side, right? Because they're not gonna send troops in to find someone once they go through because
+ANDREW: (overlapping) Mmm hmm.
+AUSTIN: the planet's so big, and it'd be so easy for them to just go to like, Big Garage, and go to a different place? But like... so they would be picky, I think, but there, they'd... would definitely take a toll. And I think they of it more as a tool booth than a border, do you know what I mean?
+ANDREW: Right.
+AUSTIN: And I think they would be willing to close it to certain people, right? Like if they... if a faction inside of the Rogue Wave wanted to pass through, if they were not allies with them, I don't think they would let them through, you know? There's a lot of stuff I have to do after this adventure in terms of figuring out what their allegiances are across the map.
+SYLVIA: (sighs) Alright... so, do we have any idea of what course of action we want to take here, guys, or...?
+ANDREW: (laugh) I assume are we gonna end this conversation with birdman?
+AUSTIN (as Kitcha Kanna): My name is Kitcha Kan... I am Chief Expeditionary of Advent Tech main!
+JANINE: Wasn't it Kitcha Kanna?
+AUSTIN (as Kitcha Kanna): Kitcha Kanna! That is what I said!
+ANDREW: He's got a lot going on.
+JANINE: AI are rough sometimes.
+SYLVIA: God, you shouldn't have said Birdman, cause now I'm just thinking of him rubbing his hands together.
+(Austin laughs)
+ANDREW: Yeah, no, good. (laughs)
+AUSTIN: He has big talons, for sure.
+SYLVIA: I hope he's rubbing them together.
+AUSTIN: He is!
+SYLVIA: Good. I'm definitely...
+JANINE: (overlapping) I'm happy for him
+AUSTIN (as Kitcha Kanna): Kitcha Kanna! Handrubs!
+SYLVIA: I'm definitely down to go take care of this Axiom problem just because those are dangerous in general.
+JANINE: Yeah.
+SYLVIA: I think that like, short term, this is okay, but like, this is... I don't feel like this deal is going to last long term for either faction?
+ANDREW: Right.
+SYLVIA: Just with how uneasy the peace feels here.
+AUSTIN: I wanna say as a GM very clearly. If this goes forward, I will make this last as long as I can make this last.
+SYLVIA: Okay.
+AUSTIN: Advent has the, Advent is so much stronger than these other two factions that they will basically brecome, you know how you look at the faction sheet, something like the... the Merciful, or the Loving Gaze exist inside of the Divine Free States, right? Because those are like, level 2 or level 3 factions. Advent is a level 4 faction, and is like, one of the strongest ones in the fleet. They can stuff, they can move stuff all across the entire sector in a way that nobody else here can? And are also just like, already built to get even stronger going forward, so... the... they would kinda fall under this bigger group, and would change to make to make that make sense in terms of their ideologies. So like, I can imagine a version of the Volunteers of Seiche here who say basically, "Fuck Earth" still, but... the Divine Free States didn't save us either. And so now we are this other group. The, we've already not been particularly high on the Divines, our Divine died a long time ago, like... this has been bad for us. And then with the Concrete Town Particulars, like, don't forget that part of their, they are like super anti-magic shit, basically? But part of their thing is that they can't breathe because of a fuck-up that the New Earth Hegemony did, when they were expanding into these different towns, they tried to use this concrete that like, completely shut down any of the weird shit, but also messed up their respiratory system so they could only breathe air when near this concrete. So I could so easily breaking off from the New Earth Hegemony, also, and joining up with Advent as this new culture, or not culture but this new, like, group? And so yes, 7 episodes, 8 episodes from now, or 8 recordings from now I could imagine things going back because of rolls, but like... this would be about the found- the formation of a new group inside, which would itself both a stabilizing and maybe a destabilizing effort. And it's interesting, I actually think it's fascinating, I think it's an interesting thing from a storytelling perspective, I thought that these were going to be bad guys who you fight, you know? (laughs) And I think it's much more interesting that they are now on a path, I don't know how this all shakes out still, but that is what the stakes are, so I want to be clear about those, so that it doesn't feel like 7 recordings from now, you've been misled, do you know what I mean?
+SYLVIA: Okay, yeah. So here's where I'm standing with this, is that if we do this, I don't want to give, I don't want to capture this thing, I don't want to an Axiom being like, a thing that falls into people's' hands, generally speaking?
+ANDREW: Mmm.
+SYLVIA: Cause we've seen how dangerous those are? Like Echo first hand...
+AUSTIN: Right, like you know... yeah, yes.
+SYLVIA: And like, there's fear there, with that. Like, I don't want anyone having this thing.
+JANINE: This is a conversation we should probably just have
+AUSTIN: (overlapping)Yes, 100%.
+JANINE: away from the bird.
+AUSTIN: you should have this, yes.
+SYLVIA: Oh, for sure, for sure.
+JANINE: From the birdbox and the gas mask?
+AUSTIN (as Kitcha Kanna): (interrupting) Kitcha Kanna!
+JANINE: (sighs and laughs) I'm not saying this...!
+AUSTIN (as Kitcha Kanna): It's me!
+JANINE: Signet would never call someone a birdman!
+SYLVIA: Alright, see you later, birdbrain!
+AUSTIN (as Kitcha Kanna): That's not... I'm also a dinosaur! Don't forget it!
+ANDREW: (laughs) Aren't those like the same, evolutionary-wise?
+JANINE: How would they even have the concept of a dinosaur?
+AUSTIN (as Kitcha Kanna): How did the Apostolosians even have a concept of fish? You might ask?? Hm?
+JANINE: No, I'm...
+AUSTIN (as Kitcha Kanna): Hmm???
+JANINE: No, cause fish are... (laughs) are like a water animal, so I still kinda get that...
+AUSTIN (as Kitcha Kanna): The T-Rex...
+(Sylvia bursts into laughter)
+AUSTIN (as Kitcha Kanna): is my ancestor...
+SYLVIA: What??
+AUSTIN (as Kitcha Kanna): My noble kin...
+SYLVIA: Who is this Metal Gear Solid motherfucker?
+JANINE: (overlapping) You're just aping Voyager now!
+(Austin and Andrew laugh)
+SYLVIA: (with a deep voice) The T-Rex is majestic...
+AUSTIN: (emulating Solid Snake) The T-Rex?
+SYLVIA: Like, this is when the fuckin', like, FMV footage starts playing...
+AUSTIN: (laughs) Of the dinosaur!
+SYLVIA: While this dude goes OFF, like fuckin', it's like museums of people looking at T-Rexes and shit
+AUSTIN: Yeah, uh huh.
+SYLVIA: While this guy's just going off about how the T-Rex is the apex predator.
+AUSTIN: (emulating Otacon) Snake, have you heard of dinosaurs?
+SYLVIA: (overlapping No!
+AUSTIN: Dinosaurs are a diverse group of reptiles, one of the clade Dinosauria.
+(Sylvia and Andrew laugh)
+AUSTIN: They first appeared during the Triassic period, between 243 and 231 million years ago!
+SYLVIA: Oh my god.
+(Andrew sighs)
+SYLVIA: Hideo Kojima, I should write... I guess Konami now, let me write Metal Gear Solid 6, I'm better at it. We're better at it. All of us.
+AUSTIN: (emulating Otacon) By human standards, dinosaurs were creatures of fantastic appearance and often enormous size.
+SYLVIA: Oh my god. Your Otacan's good enough that it's like, fucking me up.
+AUSTIN: Oh shit this... this is actually really good. (emulating Otacon) Public enthusiasm for dinosaurs first developed in Victorian England, where in 1854, three decades after the first scientific descriptions of dinosaurs remains, a menagerie of life-like dinosaur sculptures was unveiled in London's Crystal Palace Park. The Crystal Palace dinosaurs... (breaking) and then... (emulating Solid Snake) Crystal Palace?
+SYLVIA: Yeah.
+AUSTIN: Isn't that a thing already?
+SYLVIA: And then this guy is from there. Yeah.
+AUSTIN: Yes, totally.
+SYLVIA: Fuckin' Christ. Good detour.
+AUSTIN: Uh huh. Love it.
+(Andrew laughs)
+AUSTIN: So yeah, y'all can go inside. Y'all wanna...
+SYLVIA: Yeah, so...
+AUSTIN: I think Cat's Cradle is like
+AUSTIN (as Cat's Cradle): Should I wait out here? Or will you send word?
+SYLVIA (as Echo): Can we talk this over a little bit before we reply? Just like...
+AUSTIN (as Cat's Cradle): How much time do you need?
+SYLVIA (as Echo): Like, 15 minutes.
+JANINE: I think... are we all agreed that we're going to do this, just on our own ter- like, the thing is I wonder if we even need to, to... I'm wondering if the thing we're discussing is like, actually whether or not we're doing it...
+SYLVIA: Yeah, true.
+AUSTIN: Oh.
+JANINE: Or if how we're doing it... so we can probably just like, tell her like, yeah, we're good.
+AUSTIN (as Kitcha Kanna): (interrupting) Kitcha Kann... a, also Kanna, I didn't wanna say Kitcha Khan, like it's K, like a Khan. Like from the Mongols. Like Genghis Khan.
+SYLVIA: (laughs) Ohh... my god.
+AUSTIN (as Kitcha Kanna): It's similar.
+JANINE: Like Chaka Khan.
+AUSTIN (as Kitcha Kanna): Like Chaka Khan.
+SYLVIA: I was also thinking about ????
+(Andrew laughs)
+AUSTIN (as Kitcha Kanna): Oh that's pretty good. Kitcha Kanna wants to remind you that this would be... a contract. And you would be paid well. 7 cred...its.
+(Andrew and Janine laugh)
+JANINE: It's what?
+AUSTIN (as Kitcha Kanna): It's 7... (laughs) it's 7... cred... its.
+ANDREW: Oh... well that's awkward because there's three of us.
+AUSTIN (as Kitcha Kanna): Two each and then one for the crew.
+(pause)
+JANINE: (quietly) They didn't do shit.
+(Sylvia bursts into laughter)
+AUSTIN: Damn. Owned.
+SYLVIA: Ohhh, fuck.
+JANINE: (laughs) This is a fever dream by this point, I don't think this is actually happening.
+SYLVIA: (sighs) Just, Signet being just like "They didn't do shit"...
+AUSTIN: They didn't do anything, actually.
+SYLVIA: Yeah.
+AUSTIN: They didn't do shit. That's a lot of money, to be clear.
+ANDREW: Yeah.
+AUSTIN: Uh, 6 is like, selling a hovercar, or a small house.
+
+-- 1:00:00 --
+
+ANDREW: Alright, yeah. Let us, let us reconvene...
+AUSTIN: (interrupting) Actually, you know what, I think maybe it's 8? It's 8. It's 8.
+ANDREW: Oooh.
+AUSTIN: Kitcha Kanna offers you 8 cred... its.
+(Andrew, Janine, and Sylvia chuckle)
+AUSTIN: "A major score, serious loot, buy important ship parts."
+SYLVIA: Alright, it's not bad.
+JANINE: Do I get to be on the team that earns a lot of money, for once?
+AUSTIN: Also, also, also,
+ANDREW: (overlapping, to Janine) Oh, yeah, yes. (laughs)
+AUSTIN: If then, the Volunteers of Seiche let you, let the rest of, let the refugees through, that's another 6, on top of that, from Cascara. So that, yes. This would be the big money crew, for sure.
+ANDREW: Man, now I'm... [????]
+SYLVIA: I'm just saying, who's the common denominator?
+AUSTIN: I know right? Yeah (laughs)
+(Andrew laughs)
+SYLVIA: I'm the... fuckin' rainmaker over here.
+(Janine laughs)
+ANDREW: That's what they call you, Sylvia "Big Money" Claire.
+AUSTIN: Uh huh.
+SYLVIA: Yeah! Big dog, big money, you know how we do!
+(Andrew laughs)
+AUSTIN: Yeah, uh huh.
+JANINE: Okay, so I think... I think the thing that probably happens is that, like we clearly we need to discuss how we're gonna go about this.
+SYLVIA: For sure.
+JANINE: But I think maybe, like, Signet looks to Even and Echo to be like, "Can we more or less say yes on this, and send them on their way, because they're creepy?"
+SYLVIA: I'd say yeah,
+JANINE: (overlapping) Like, are we...
+SYLVIA: At this point, this is our best option.
+ANDREW: (sighs) I mean, if... yeah. I think Even still has reservations about making Advent any stronger than they are...
+JANINE: Oh yeah.
+SYLVIA: Oh, for sure.
+ANDREW: But like, yeah, this is definitely better than like... I think that's probably a better... that agreement that Kitcha Kanna is way better than I think what Even expected.
+AUSTIN: Mm hmm.
+JANINE: Yeah.
+ANDREW: As far as like, all those groups organizing and like, not being total shitheads to each other. So... and, like, Echo was saying like, Axioms are just bad, so...
+SYLVIA: Yeah.
+JANINE: Yes, exactly.
+AUSTIN: Okay.
+SYLVIA: Like, it's basically us going to stop this natural disaster in a way, you know? But this living natural disaster. (laughs)
+AUSTIN: So as everyone's getting ready to go back inside and talk about details or whatever, I think Evangel, like, you see Cat's Cradle kneeling down to pick up Kitcha Kanna, and Evangel says like,
+AUSTIN (as Evangel): What are you really getting from this? That's a good deal. What are you really getting from this?
+AUSTIN: And Kitcha Kanna goes like,
+AUSTIN (as Kitcha Kanna): Necessary self data is unavailable.
+AUSTIN: And then she hits the button and Kitcha Kanna goes back into the roomba. And... she like says,
+AUSTIN (as Cat's Cradle): (with little accent) You know where to find us.
+AUSTIN: That's... way not even her voice. That's not even her fake voice.
+AUSTIN (as Cat's Cradle): (with much stronger, different accent) You know where to find us.
+AUSTIN: Wow. Bad.
+JANINE: That's a new one!
+AUSTIN: That's a third one.
+JANINE: (overlapping) That's a third one!
+SYLVIA: Oh man... [????]
+ANDREW: Nah, I've been there.
+AUSTIN: I need more...
+JANINE: It's also really close to one I was gonna do to kinda like, make fun of you?
+AUSTIN: Good, great.
+JANINE: And then I was like "Nah, I don't need to do this.
+AUSTIN: Wow. Great.
+(Janine laughs)
+AUSTIN: Voices are hard when I haven't had enough coffee.
+(Andrew laughs)
+AUSTIN: And when I haven't like, walked the block practicing them the way I do normally. And then, yeah. She's gonna get back in her vehicle and leave.
+ANDREW: That's pretty sneaky, don't tell your AI stuff so that AI doesn't have to lie.
+JANINE: Yeah.
+AUSTIN: Yeah.
+JANINE: I mean, why would you tell it yo- why would you? (laughs)
+AUSTIN: As you're going back inside, Evangel takes like, one more puff of the e-cig, and then... goes to like, slide it into a pocket, but then Graph is like, "Hey!" and hands it over to Graph, or, he takes the e-cig from Evangel and then like, slides it into a slot on his arm that then like, zaps out the rest of the energy in the e-cig? As if like "Oh yeah, let me get a puff of that also" and just like, slides into like, a forearm slot. Clears out the rest of the remaining e-juice plus power, and then hands it back to Evangel, who then puts it back in his pocket, his shirt pocket. (pause) That's all. I just wanted that image of technology happening.
+(Sylvia and Andrew laugh)
+ANDREW: Arm vapes!
+AUSTIN: Uh huh. It's the future.
+JANINE: Arm vapes, you got a vulture in a roomba who's also a dinosaur wikipedia article.
+Austin/Andrew?: [????]
+SYLVIA: Hold on, I need to take a hit off my bicep real quick.
+(Austin and Andrew laugh, Janine groans)
+JANINE: Great.
+AUSTIN: Alright, so y'all go back inside.
+SYLVIA (as Echo): Alright, so we're not letting them get their hands on this Axiom, right?
+ANDREW (as Even): Nope!
+JANINE (as Signet): No, absolutely not.
+SYLVIA (as Echo): Okay, good. Just making sure.
+JANINE (as Signet): They gave us the option to destroy it, I... don't see why wouldn't take that option, we don't need the money that badly.
+SYLVIA (as Echo): Mm hmm. I'll be honest, mostly what I'm looking for is a peaceful resolution to this... Stitch stuff, so if us
+JANINE (as Signet): (overlapping) Yes.
+SYLVIA (as Echo): having to go up against an Axiom gets us that, I'm happy.
+AUSTIN: I think it's probably, I think it's Fountain who says like,
+AUSTIN (as Fountain Facade): You could capture it and not give it to them. You could capture it and give it to the Free States, and they could do what they did with Bounty. Whatever it is, maybe it could be another Divine.
+SYLVIA (as Echo): It depends on what it is. Because with Bounty, there was, like, a clear point A to point B with it. We don't know what it is. This could be something that's just destructive.
+AUSTIN (as Fountain Facade): I guess so.
+SYLVIA (as Echo): So... that's definitely an option, but, again, until we know what this Axiom is, I'm firmly saying we destroy it. I dunno.
+JANINE (as Signet): I'm inclined to agree.
+ANDREW (as Even): Yeah.
+JANINE (as Signet): Yeah.
+ANDREW (as Even): I'm with Echo.
+AUSTIN: Alright. So, unless there's more to talk about here, I think it is time for like, legwork, and/or engagement. The mission, to like, again, just to restate it super plainly is to enter into this giant storm that is over this field of Q-Glass. Q-Glass is like, the stuff that still works, as far as bullets go, and is the stuff that Cascabel uses to make the special rounds, including the ones that y'all brought to fight Independence. The, it's like in these boiling fields of glass, basically, that go on for miles and miles and miles, and the thing that's different now is that like, the storm, it, the fields are huge on Gift-3, they're bigger than what they were originally on just Quire. On now the storm, instead of just kinda like, instead of just being right over them, it's bigger and also moves around, like a giant storm does. It's not just like this thing that's stuck in just one place. And so, you have to find where ever the Axiom is inside of there. So that is like the very basic, like, that is your target, is capturing or killing the Axiom at the heart of the massive thunderstorm in the Crashyards. The... you have to figure out where that is, is part of this, or you know, you can find the thunderstorm. That part's easy. And then... we have to come up with what the vector is. What the attack vector is. What type of plan you'll use. But you also have time right now if you want to do more research, if you wanted to do other stuff, you can do that now, the key is that we don't wanna get into like, nitty-gritty planning, but there isn't that much to plan here, so. Feel free to do some legwork and investigation rolls and stuff like that.
+SYLVIA: So is this downtime, or is this something else?
+AUSTIN: It's not downtime, because
+SYLVIA: (overlapping) Okay.
+AUSTIN: downtime is, you then roll for like, vices and stuff.
+ANDREW: (quietly) Right.
+SYLVIA: Right.
+AUSTIN: This is like, we're right before a mission.
+SYLVIA: Where... alright.
+AUSTIN: And this is a mission inside of a mission, which is why you have not had downtime,
+SYLVIA: Yeah, no worries.
+AUSTIN: that like, your previous mission has lead into this other thing, basically.
+ANDREW: So... I think I might want to try and propose a flashback.
+AUSTIN: Mm hmm.
+ANDREW: So, when... Echo and Even were outside stuck talking to... Greg, or whatever that dude's name was. (laughs)
+AUSTIN: Yes.
+ANDREW: I think like, if I remember right, Even and him got into a discussion where Even was like "Ah, what'd you do to get stuck on like babysitting duty?"
+AUSTIN: (laughs) Uh huh.
+ANDREW: And the guy was talking about how he lost at cards?
+AUSTIN: Yes.
+ANDREW: I wanna do a flashback where Even is like, talking to him and is like "Aw, man, well they're probably playing with like, a loaded deck. Here, borry my lucky deck and you'll win next time."
+AUSTIN: Oh, shit.
+ANDREW: And I want that deck to have, like, I'm looking at my items, and I don't know what, like, Spy Gear or like...
+AUSTIN: That's Spy Gear, totally. That's definitely Spy Gear.
+ANDREW: (overlapping) hacking tools and stuff would... yeah.
+AUSTIN: I think, so what are you saying? It's like...
+ANDREW: Like, it's like a remote thing that would get us into some of Advent's systems.
+AUSTIN: Okay, yeah. So I think it would give you the basic connection. You'd still have to roll to like, actually hack in. But I'll, I think that that's a 1- so, I'm gonna read the rules for flashbacks, since we haven't done many on this side yet, right? "The rules don't distinguish between actions performed in the present and those performed in the past. When a job is underway, you can invoke a flashback, to take an action in the past that impacts your current situation. Maybe you convinced a warehouse guard to take the night off, so you make a Sway roll to see how that went. The GM sets a stress cost when you activate a flashback action. 0 stress for an ordinary action, which you easil- which you had an easy opportunity for. For instance, the Muscle consorted with her friend to agree to arrive at the dice game ahead of time to suddenly spring out as a surprise ally. 1 stress for complex action or unlikely opportunity: The scoundrel skulked his pistols into a hiding spot under the card table, to be on hand after the pat down at the front door. Or 2 or more stress for an elaborate action that involved special opportunities or contingencies like: The Speaker has already met the former owner of the property and learned who it's architect was, an architect that can be compelled to reveal the location of the hidden vault. After the stress cost is paid, a flashback action is handled like any other action. Sometimes it entails an action roll because there's a danger or trouble involved. Sometimes a flashback entails a fortune roll because we need to find out how well or much or long, etc. Sometimes a flashback won't require a roll at all."
+
+So, I guess there's a couple we could do this, it's like, I need to know how  the spy gear works in this case. Is it, or whatever it is we're sending in, basically. So it's like a bugged deck of cards, or is it a deck of cards that like has, the ability to hack into stuff? Like, what is it?
+ANDREW: I'm gonna say it's a deck of cards that has like... almost like a communications extend? Or repeater built into it?
+AUSTIN: Mm hmm.
+ANDREW: So like, normally you would have to be, if you would have to be within like, a certain amount of feet to like, be able to access the Advent systems in that building,
+AUSTIN: Right.
+ANDREW: It would then like, basically take that and broadcast it back out to us, so that we could do that remotely.
+AUSTIN: So are you... so this is about hacking then, it's not about overhearing something, it's not about like, it's not about like recording. It's not a bug. It is literally about getting into systems.
+ANDREW: Yeah, I think so.
+AUSTIN: Okay.
+ANDREW: Cause I don't know what like, overhearing Greg's card game would really like...
+(Austin laughs)
+ANDREW: do for us? (laughs)
+AUSTIN: No, totally. Totally. So I think, I think this is like, a pretty low stress thing. I think this is, it depends on, on... how it works, in a weird way, which is like, I think if you... if you spend... I think it's 1 stress, because I think it's meaningful. This is not a friend who you're relying on, do you know what I mean?
+ANDREW: Yeah.
+AUSTIN: So definitely mark 1 stress. What I'm trying to figure out is whether or not you can spend more to not have to do the hack roll.
+ANDREW: If you give me that choice, I'll probably take the stress, because I have 0 Hack.
+AUSTIN: Right. I know, totally. I'm trying to think about what that looks like, in terms of... play, in terms of
+ANDREW: (overlapping) Hmmmm.
+AUSTIN: how would you get there?
+ANDREW: Right. Hmm... I would say like, maybe I spend a cred to get like, better gear, but I don't have any cred.
+AUSTIN: Right, that's fine.
+(Andrew laughs)
+AUSTIN: No, I'm actually trying to think about if whether or not this is a moment where like... we could tag in another character. Because we've talked about doing that. Who here is, who's a good hacker? Do we have any hackers on this crew...?
+(Andrew laughs)
+AUSTIN: Does anyone hack?
+SYLVIA: Mmmn nhhh.
+AUSTIN: Does no one have Hack?
+JANINE: I mean, I would say Even's the one who's closest to hacking cause he has the weird like, Avatar... thing.
+AUSTIN: Yeah, I just literally mean does anyone have a point of hack in this fucking game?
+SYLVIA: No.
+AUSTIN: Does no one have Hack?
+JANINE: I don't think so.
+AUSTIN: Holy shit, we made a game in a sci-fi setting where no one could hack. We did it again, y'all.
+ANDREW: We did it.
+SYLVIA: I mean... you know.
+ANDREW: (overlapping)I have Rig?
+SYLVIA: I'm sure Gig can! (laughs)
+ANDREW: I mean, I have Rig.
+AUSTIN: Rig is not Hack. Rig is explici- yeah, it's very explicitly not Hack. So yeah, I think it's...
+JANINE: I have Attune, but that's...
+AUSTIN: That's still different, yeah.
+JANINE: That's like, magic shit.
+AUSTIN: That's like magic shit.
+(Sylvia laughs)
+JANINE: That's magic hacking.
+AUSTIN: It is. I think there's...
+SYLVIA: (interrupting) Does Scrap help?
+AUSTIN: (laughs) I like this a lot, so what I'm going to say is like... here's what I want to say, is... I think maybe you and Gig built this, during downtime, maybe? Previous, on the way over- I guess that's the question too, is that, how did you just have this on hand for this dude? So my guess is like, maybe you had a deck of cards, and you also had this hacking device, that you and Gig came up with, and built during downtime? Gig is a Mechanic, you know? Obviously you have Spy Gear already. So yeah, I'd say spend 2 stress, and it'll count as like, it's in, you know?
+ANDREW: Okay.
+AUSTIN: You'll still have to do a roll, but that roll won't be a hacking- it'll still be a hacking roll, but it won't be a, it'll be a Gather Information roll instead of being a... like a contested roll where you could get in trouble, do you know what I mean?
+ANDREW: Okay.
+AUSTIN: Instead of being an Action Roll. So maybe that's, here's what it comes down to. For 1 stress, you can do an Action Roll as a Hack, or, which would mean there's a chance where you could get it wrong, and like, get heat, or get other consequences. You could fail. Or you can do it as a Gather Information roll if you spend 2 stress, in which case you just get to ask questions, and the result indicates, like the, how good the answers are.
+ANDREW: Okay, yeah, I'll take the 2 stress, then, to do that.
+AUSTIN: Alright, sounds good. So... let me go to "Gathering Information" in my doc, one second, sorry for clicking a bunch. Here we go: "Ask a question, then make an Action Roll or a Fortune Roll." This is, in this case, it would be a Fortune Roll. "The GM answers honestly with the level of detail depending on the level of effect." So... I'm now thinking maybe it's Study. Because if you spend the 2, that means it just gets in, and you're not actually hacking, right? You're just looking at all the data. So, yeah, I actually think this is a Study.
+ANDREW: Okay.
+AUSTIN: Not a... not a Hack. So what does this look like, visually, for the screen?
+ANDREW: I guess...
+(Austin laughs)
+ANDREW: We have the ship here with us, right?
+AUSTIN: I think so, I think y'all have the ship, yeah.
+ANDREW: Yeah. So I think it's like, Even is retreating to the ship, and like, pulls up like, the comms screen on the ship.
+AUSTIN: Mm hmm.
+ANDREW: And like, this stream of data just kinda starts coming across it.
+
+-- 1:15:00 --
+
+ANDREW: You know? It's like, it's got like an old-school boot up screen, and it's like, searching for connection, and then it like, pings as it connects to the,
+AUSTIN: (overlapping) Yeah.
+ANDREW: the bug, and then stuff just starts scrolling in.
+AUSTIN: You know what, I think one thing we're saying is I think that this is probably a one-use thing, like they...
+ANDREW: Oh yeah, that's fine.
+AUSTIN: Just because I, I was like, they're a 4-tier faction. You have crew quality 1. You get to do this once, and then they're fuckin'... they'll see what happened, you know? And, er, you have to like, it has to self-destruct before it gets identified, or whatever.
+ANDREW: Right.
+AUSTIN: You know?
+ANDREW: Or like, like, as soon as you connect to it, like, their system is so advanced that they're like "Hey, shut this shit out!"
+AUSTIN: Right, exactly. Exactly.
+ANDREW: Yeah.
+AUSTIN: It won't trace you back or anything, because again, this is not an Action Roll, it's a Fortune Roll. So... so how are you, are you just kinda pouring over the data? Do we get, does it look different because of the way Even is, or... does it still just look like looking at a bunch of stuff on screen?
+ANDREW: Oh, that's a good question. I mean, he probably is like at this point like, doing the hair tendril thing, to like hook into the ship.
+AUSTIN: Mm hmm.
+ANDREW: But no, I don't, I think this is, I think it is like, even though he is like, that's how he's like, you know, running the OS and the program and stuff?
+AUSTIN: Right.
+ANDREW: But I think it is, he's still just like, reading.
+AUSTIN: Okay, cool. So "When you want to know something specific about the world, your character can gather information. The GM will ask you how your character gathers the info or how they learned it in the past." That's what we've done already. It is not common knowledge, there is no obstacle, so simple Fortune roll. "Each attempt at gathering information takes time. If the situation allows, you can try again, if you don't initially get all the info you want. But often, the opportunity if fleeting." Which it is, in this case. You only get one chance to roll for that particular question. So go ahead and give me a Study roll.
+ANDREW: Okay.
+AUSTIN: Risky, Standard, doesn't like, whatever. Positioning and effect,
+ANDREW: Right, yeah.
+AUSTIN: don't really matter here, unless you have a move that helps you with this stuff, but I don't think it does.
+ANDREW: No.
+AUSTIN: You're not studying a machine or anything here.
+(roll)
+ANDREW: Oof!
+AUSTIN: That, so that (upbeat) that's a 3! A 3 is, (realizes) bad
+(Andrew laughs)
+AUSTIN: That ain't good.
+SYLVIA: Nice.
+AUSTIN: So "Limited: You get incomplete or partial information, more information gathering will be needed to get all the answers." So what is your question?
+ANDREW: Ohhh.
+AUSTIN: There are, you can ask anything here. There are some like, there are some test, or uh example questions at the bottom of your sheet.
+ANDREW: Oh, okay, good.
+AUSTIN: Also... "What's their intention? What might I suspect about this? What can I prove? What's the danger here? How can I find <blank>? What's really going on here? And Ask about a detail for a plan."
+ANDREW: I mean, I think my question is "What the heck do they want this Axiom for?" So I don't know if that's
+AUSTIN: (overlapping) Yeah, that's, that's fine.
+ANDREW: "What's really going on here?"
+AUSTIN: So, you get detail on the Axiom, and you get, and you get... you, well... you get some detail on the Axiom. What we get is like, do you remember at the very beginning of Mass Effect 1, there's that fleeeting shot of Sovereign, in, on the camera? I don't know if... (sigh) I don't know why this is drilled in my fucking memory. But you're landing on Eden Prime, and Shepard is like with the, with Nihlus and Anderson, and they're like going over the Eden Prime footage, and then they like, pause, and they can kinda see a shape in the clouds, basically?
+ANDREW: Oh, yeah, yeah yeah.
+AUSTIN: It's like, and it's just, that's Sovereign. That's Sovereign on Eden Prime. Like, taking off. It's dope, you don't remember that, you should go rewatch the beginning of Mass Effect, cause it's incredible. The... you can get footage of that, of this Axiom, and it's almost like, the scale doesn't make sense to you at first? Cause it looks like it's a coral reef? Or something. But the coral is moving, and like, growing and changing and sometimes it takes the shape of a person, and other times it's like a giant wall? But all through the fog, so it's almost, you know, it also looks like, a little bit like Shadow of the Colossus or something, right? Like, but because it's coral at first it just looks really small, like, it just looks like it's tiny. And then you see it like, grows and crawls all over a crashed ship, that's in the, in the kinda Q-Glass fields. And it's on fire, and it just kinda like, crawls all over it, and you see it like, puts out the fire. And it's in this rainstorm, too. And so you get that, well you kinda get an image of what it is. And then you get a doc, that basically, high-level doc that's like, it's like... it's probably somebody's unsecured notepad file, (laughs) do you know what I mean? Like they haven't, it hasn't been saved, so it's stored in RAM, which means that you can access it that, you know? Once it was saved, it would be, it would be, locked behind certain gates or whatever, and that would be really hard for you to get to. But because it's just open in RAM, you can access it, and the note is basically like "Axiom will provide additional defenses against potential NEH or DFS attacks on controlled Stitches." And so they basically want to turn it into, they want to make it not be a sentient or sapient or whatever creature, they want to get rid of this notion of its will, and use it to build really good walls, basically, and defenses, and maybe living defenses? But like, depends on what happens with it, you know? Bounty got turned into, or Bountiful got turned into the Divine Bounty, but I mentioned that it could have also been turned into a machine, an apparatus that would just Do A Thing? Which would have just been infinite food for one planet, without any sort of consciousness. And so it feels like it's that sort of thing, which is like, a perfect defense. Some sort of wall or defender that would keep something, that would be, you know, an ace in the hole for if a different force tried to attack them.
+ANDREW: Okay, so yeah, they definitely don't get this thing.
+AUSTIN: (laughs) Alright, anybody else have legwork-y stuff? Investigations, talking to characters? I know, Echo, you wanted to give your jacket to Ballad?
+SYLVIA: I do want to do that, yeah.
+AUSTIN: Before, maybe before this?
+SYLVIA: Probably before we go, yeah.
+AUSTIN: Yeah, yeah.
+SYLVIA: But just in terms of like, can I still do like, legwork for the mission?
+AUSTIN: Yeah, absolutely.
+SYLVIA: So this thing's in the storm, right?
+AUSTIN: Yep.
+SYLVIA: And we don't have any way of kinda figuring out where in the storm?
+AUSTIN: I mean, that's part of what legwork is, right?
+SYLVIA: For sure, like, I'm just saying, we haven't figured that out yet, right?
+AUSTIN: You have not yet figured it out, correct.
+SYLVIA: And I'd like to see if I could go about that somehow, whether it's like, finding someone who's like, a meteorologist?
+AUSTIN: (interrupting) Oh, I for- I forgot a big thing. I forgot two big things.
+SYLVIA: Yeah?
+AUSTIN: On top of the fact that they give you these devices to lock down the Axioms, they actually give you each the, their like algorithm? For identifying Axiomatic forces. Or...
+SYLVIA: Oh.
+AUSTIN: Which come from the, actually, that comes from the Particulars. It's not just the Axioms, it's like, it's like a, almost like a filter that you can add to various devices you have? That will pick up Divine stuff, Axiomatic stuff, Quire-based stuff, like Quire/Mirage-based weirdness. It's not perfect, there's often overlap because the tech does not, like, it's not perfect, right? Like, a lot of these categories do blend in weird ways, you know? The Iconoclasts, for instance, have a weird, or the Axiom, an Axiom shows both touches of Volition and also the thing they call Axioms, but like, Iconoclasts only show the Volition touch, or, I bet if you scan Bounty you would still get a touch of Axiom because it comes from Axiom, you know? So it's not perfect. And the other thing is, it doesn't, it can scan stuff at close range to be like, "Okay, here is, that thing I'm looking at is an Axiom", right?
+(Sylvia laughs)
+AUSTIN: But from long range, it's just like a Geiger counter, it's just like, "Okay, in this general direction, we've noticed some uncanny, you know, weird incursion" or whatever.
+SYLVIA: Alright. And this, this has like, this doesn't have limited uses at all, does it?
+AUSTIN: No, this just goes, this is just like a thing that you can put in your, your eyepatch, and Even, right, probably right into you, and maybe your Exuvia, Signet? Like, some other sort of thing that lets you, like, you can teach this to something or install it basically somewhere. Maybe just into your, into Belgard for sure, but I think Belgard can probably do this anyway, (laughs) honestly.
+JANINE: Yeah, Belgard probably knows what a Divine looks like. (laughs)
+AUSTIN: Yeah, yeah yeah yeah. But also, now the Axioms and all that stuff too. Like, Belgard's probably smart enough and like, strong enough to do that.
+SYLVIA: (quietly) Uh, I wanna really quickly scan Even.
+ANDREW: Whoa.
+AUSTIN: Wow, rude.
+SYLVIA: I guess, as like a joke!
+JANINE: Does he notice?
+SYLVIA: If he notice-
+JANINE: Is it obvious that he's being scanned?
+SYLVIA: If he notices, I'll stop.
+AUSTIN: I don't think so. I don't think so.
+SYLVIA: (overlapping, quietly) I just wanna, I just wanna test it. It's fine. I just wanna test it.
+AUSTIN: Not an Axiom. (laughs)
+(Andrew laughs)
+AUSTIN: Not a Divine. This is me, Austin, saying, right now, I have zero plans for Even to be a secret Divine.
+(Andrew, Janine, and Sylvia laugh)
+SYLVIA: It's mostly just like, "I'll, what are, what are all these bits from?" (laughs)
+AUSTIN: Right, well-
+JANINE: It's going to be a whole season of "What here is Axiom?"
+AUSTIN: Uh huh. Exactly. (sigh)
+ANDREW: (quietly) Oh my [????]
+AUSTIN: So yeah, I think that's, that's part of it, and you could also upload those into, if you wanted to, The World Without End's scanners. You have those long range scanners.
+SYLVIA: Ooh.
+AUSTIN: Right?
+SYLVIA: Yeah. We should definitely, do that. (laughs)
+AUSTIN: Yeah. So yeah, actually, I think... the... hmm. So "When you use a module outside of a ship-to-ship context, consider if there should be a roll. If the crew has long range scanners, and they're surveying a pirate encampment, it's unlikely to be a contest." So yeah, I think because you have those long range scanners in the ship, like, the Axiom isn't trying to hide itself in any way, you know? So you upload this software that you have, and you're able to zero in on where it is inside of this storm. And it's not anywhere special, you know what I mean? It's not like "Ohh, it's behind the old, the old mill!" Like, no, it's just, it's in a certain place inside of this storm. You can find it now, totally. So no roll required. But you could, you could gather information here, maybe the scanners could pick something else up if you want. If you have other Axiom questions, I think that would also be a Study, probably. A Study or a Hack.
+SYLVIA: I have a point in Study.
+AUSTIN: Mm hmm.
+SYLVIA: So I'm leaning towards that.
+AUSTIN: Okay, so again, that would be like, you're looking at the data,
+SYLVIA: Yeah.
+AUSTIN: you're not like, it's not that like, you're tuning the data. Or whatever, you know?
+SYLVIA: For sure.
+AUSTIN: Which will limit what you can get access to, kind of.
+SYLVIA: Yeah...
+AUSTIN: So yeah, give me a, give me a Study. So again, it's a Fortune Roll, so the stuff doesn't matter in terms of difficulty. In terms of positioning.
+SYLVIA: Ohkay, so just hit whatever for this?
+AUSTIN: Yeah, yeah.
+(roll)
+AUSTIN: Aww, that's a 6!
+SYLVIA: What's up!
+AUSTIN: Hell yeah! Nice. That does not produce a Gambit, unfortunately, because that's not an Action Roll.
+SYLVIA: It's, yeah. But I'm very smart.
+AUSTIN: But, that's a 6. Which means that you get great detail. So what is your question?
+SYLVIA: Ooh, let me take a peek.
+AUSTIN: Again, if you scroll to the bottom of the page, you can get good ones.
+SYLVIA: Yeah.
+AUSTIN: Or you could asking anything, you could ask anything, to be clear. Anything that you could- or if I say "Oh, you couldn't get that from this", I'll say that, but then aft- let you ask a different question, so.
+SYLVIA: So I'm assuming because of the way it acts, we can't get like, a direct bead on where the Axiom stuff is, right?
+AUSTIN: No, okay, I can give you, I could give you that.
+SYLVIA: Oh, okay.
+AUSTIN: Do you know what I mean?
+SYLVIA: Yeah.
+AUSTIN: If that's the question that you want. Especially with a 6? Totally.
+SYLVIA: Yeah, for sure. So I'm torn between that and torn bet- I don't think there would be any way for us, would there be a way for us to figure out what the Axiom does?
+AUSTIN: Sur... I think that's part of this.
+SYLVIA: Okay.
+AUSTIN: My answer will involve that, too.
+SYLVIA: Okay then, I guess I'll just ask that then,
+AUSTIN: Okay.
+SYLVIA: because I wanna know, I just want the most detail I can have about this thing.
+AUSTIN: Yeah, so you're able to, you're able to study the data, and like, kind of pull out the most relevant stuff, and build a kind of a picture of it. So, it is this, coral-like structure, that at first, okay. So it's outermost shell is this, is this coral-like structure, and that kinda grows walls all around something. And you can see while studying it that those walls have different thicknesses, and sometimes one of the walls will disappear and another wall will show up in the other direction as something like, you definitely see there's a bit where like, a big animal of some kind like, flies towards it, and it grows a new wall in that direction, and opens up one of its other flanks. We're talking about miles of wall here,
+SYLVIA: Okay.
+AUSTIN: Where it's like, huge, right? And so like, "Oh it opens up this huge pathway on the other side so that it can add another wall to stop this thing that's coming in at it." But the walls aren't the Axiom itself? The Axiom is deep, deep, deep inside. You kinda catch there's a signal there, of the Axiom deep inside. There's like a, there's like a focus, you know what I mean? Like, it doesn't pull out a specific signal necessarily, but it does, it is able to say like "Okay, all of those things are like, limbs. The Axiom itself is at the dead center of this." And so past all of the walls, past all of the, occasionally you'll see a loose part of Axiomatic energy? Kind of like, flying around inside of the data, inside of like, the space around it? So it's almost as if like, a radar, you kind of see extra bogies or whatever, like extra dots on the radar that are also tied to the Axiom, but are not the Axiom itself. So like, the wall isn't it. The extra little dots that are showing up on the radar isn't it. It's somewhere deep inside, at the very very center. At the kind of, at the, almost like the eye of the storm inside of the storm in a sense.
+SYLVIA: Okay.
+AUSTIN: And it's, it is, it is, what it does is build walls. And it protects whatever's inside. That is the thing it does. It is the Axiom Barricade.
+SYLVIA: Hmm. Okay. Definitely don't want to give it to these guys. (laughs)
+AUSTIN: No! Signet, do you have any stuff you want to do?
+JANINE: So we know, we know... why they want it.
+AUSTIN: Mm hmm.
+JANINE: And we know, more or less where it is, right?
+AUSTIN: Yeah, you know where it is, basically. You know where it is geographically.
+JANINE: Yeah. What else do we, like... need?
+AUSTIN: This is a pretty straightforward thing, like, I'm not hiding that much. I will say that there's
+JANINE: (overlapping) Yeah.
+AUSTIN: still more Advent shit out there in terms of the what they're doing in the big picture? But like, not... not that is
+JANINE: (overlapping) I guess-
+AUSTIN: relevant to go to get this thing?
+JANINE: Yeah. I guess the thing we don't know is like what advantage they're getting out of the arrangement in general?
+AUSTIN: Yes, totally.
+JANINE: But I don't know... I don't know that this is the time to like... pursue that, or if there is a way to...
+AUSTIN: Mm hmm.
+JANINE: Um... okay. I actually, I think maybe Signet wants to reach out to Belgard?
+AUSTIN: Okay.
+JANINE: And see if Belgard can actually provide a greater context in terms of what the Advent is...
+
+-- 1:30:00 --
+
+JANINE:  Any moving pieces
+AUSTIN: (overlapping) Right.
+JANINE: that they maybe, they may not be aware of.
+AUSTIN: Yeah. Okay.
+JANINE: Because, I mean Signet does have an advantage in terms of like, I have a thing where I can kind of communicate with a thing in a way that defies...
+AUSTIN: Mm hmm.
+JANINE: The, the,
+AUSTIN: (overlapping) The physics or whatever?
+JANINE: the way things work, right now.
+AUSTIN: Yeah.
+JANINE: Yeah. It just costs me two stress. (laughs)
+AUSTIN: Yeah. I, I actually like, I think it only costs you 1, right? Doesn't it only... oh, talking [????], yeah.
+JANINE: It costs me 2 if I want to actually communicate.
+AUSTIN: So I'm not even going to make you spend that, cause there's not much here for you in this way.
+JANINE: Mmm.
+AUSTIN: Belgard can tell you... like, that zoomed out map of the world, of this, this sector, like, lets you know, basically what you already know, which is: There are different Advent Discovery and Salvage Society operations on different planets. There is like, there's one that's about history. There's one that's like, about biology. There's one that's about faith. There's one about culture. And then there's this one is about technology. And, the... big picture thing here worth, that Belgard could I guess conceive of, is that... the... one of the known things on Brighton, so on this side, it is, it is technology. On that side, on the Brighton side is a biological group? Of Advent. And they are researching... some sort of biological thing there. You, Belgard would guess that it is probably the Living Sea, which is the ocean there that has like, a weird life of its own. I forget how exactly how I phrase it... "The Wandering Sea" is actually what it's called, not the Living Sea. The Wandering Sea. "Did you catch that? A gleaming in the Mirage, the sound of a foghorn. The glint-" oh no, I'm sorry, that's actually not on Brighton anymore, is it? That's actually just in the fuckin' space. So yeah. So, they're studying something in the ocean there, is what you know. That's kind of, kinda all you get from that, which is why I don't want you spending stress on it. Belgard doesn't know what like, Belgard hasn't hacked into Advent, you know? So yeah, they're studying something biological there, for sure. And probably blending it with something, with the technological side of stuff from the Crashyards. Alright, so maybe let's have, before we commit to the mission, let's have the Eve- or the Echo/Ballad scene. What's that look like?
+SYLVIA: I think it's like... (sighs) it's not super complicated, honestly. It's just sort of... Echo shows up to like, Ballad's, like, where ever Ballad's living
+AUSTIN: Yeah.
+SYLVIA: at like, in the evening after dinner and stuff.
+AUSTIN: Mm hmm.
+SYLVIA: Like, when they're... when Ballad's sorta like, done all his stuff for the day.
+AUSTIN: Right.
+SYLVIA: Just sorta looking for him with the jacket in hand, you know?
+AUSTIN: Yeah. Where do you find him? You set the scene a little bit here.
+SYLVIA: I'm trying to think of what he would do in his free time,
+AUSTIN: Um, good question.
+SYLVIA: Because I'm trying to make him different than Echo in a lot of ways, cause he didn't
+AUSTIN: Yeah.
+SYLVIA: have to do the same stuff Echo did.
+AUSTIN: Free time...
+SYLVIA: Maybe he's reading or something.
+AUSTIN: Yeah, I think reading probably makes the most sense.
+SYLVIA: Yeah, just like... trying to unwind,
+AUSTIN: Yeah.
+SYLVIA: after all the shit that's been going on.
+AUSTIN: Is it in, just in that house he was in before?
+SYLVIA: I think so?
+AUSTIN: Or does he go somewhere else?
+SYLVIA: I think so, yeah.
+AUSTIN: Okay, cool.
+SYLVIA: I think he's got like, a study or something.
+AUSTIN: Alright, yeah, so he's in the study, with, I think it's like, a cool note is definitely like, the bookshelves aren't filled? They're like... he has these nice bookshelves, that he has coup- like, he has some books on, not a couple. He has like, you know, 12 books on these shelves. But the selves could hold 50, you know? But they're like, the books he's been able to find. The books that are important to him. The ones that like, he wants to build, he wants to fill that bookshelf up, but it's not there yet. And you see him put a book down as you come in, and he's like...
+AUSTIN (as Ballad): Echo, good to see you, uh... this is wild. All this stuff with Advent... and, the Particulars? I thought they were, I thought they were like, Earth folks, I don't... I'm surprised that they're willing to work with us.
+SYLVIA (as Echo): (sigh) Honestly, lately, I'm not surprised by anything.
+AUSTIN (as Ballad): Yeah.
+SYLVIA (as Echo): But, you gotta get used to the weird stuff around here, because Quire is... (sigh) You know, like, it's basically if someone took the world "Weird" and made a planetary system out of it? That's kinda what we're stuck in. (laughs)
+AUSTIN (as Ballad): (laughs)
+AUSTIN: He laughs.
+SYLVIA (as Echo): Anyway...
+AUSTIN (as Ballad): I mean, that's part of what I guess appeals about the Particulars.
+AUSTIN: He like, squints his eyes a little bit, and like, looks down at his desk.
+AUSTIN (as Ballad): It's a real unpredictable world out there, like you said. It's "interesting", in the worst way, and... you know, I guess if they can kinda... if they can kinda freeze things in place, here or there, it makes it more manageable for everybody, right?
+SYLVIA (as Echo): I guess, but... do we really want this strange, scary, sure, but beautiful thing to be frozen?
+AUSTIN (as Ballad): I'm not sure. I... I think safety is more important than beauty.
+SYLVIA (as Echo): Yeah.
+AUSTIN (as Ballad): Full stop. And, the Fleet was unable to protect us, and he know that Earth is knocking at the door. So if Advent can... (sigh) like, Advent should be here either, but... they're better than fuckin' Earth.
+SYLVIA (as Echo): (quietly) Yeah.
+AUSTIN (as Ballad): They're just seeing an opportunity and seizing on it, I, I get that comparatively. Earth already has a home. I guess.
+SYLVIA (as Echo): (sighs) I think... I get what you're saying, just be careful around them? Especially with the things that their concrete has done to them themselves, I don't want to see that happening to... I don't want to see that happening to you, or anybody else here.
+AUSTIN (as Ballad): I'll be careful. (upbeat) They should be careful of me!
+SYLVIA (as Echo): Yeah.
+AUSTIN: He does a little like, shadow boxing, you know? Like, doot doo.
+(Sylvia laughs)
+AUSTIN (as Ballad): So what's up anyway? Sorry, I didn't mean to...
+SYLVIA: (overlapping) When he does the shadow boxing, Echo like, walks over and adjusts his form just a tiny bit
+(Austin laughs)
+SYLVIA: on his like, left hand punch? Is like,
+AUSTIN: Yeah, good.
+SYLVIA (as Echo): Your, your left was always a little shaky.
+AUSTIN (as Ballad): Yeah. Same as it ever was.
+SYLVIA (as Echo): Anyway, I just wanted to drop this off. I remember back before I left, god, it feels like forever ago, you said to hold onto it, that it'd keep me safe. But I think I'm... I want you to have it back.
+AUSTIN (as Ballad): Oh man...
+SYLVIA (as Echo): Because... I don't know, I think... (sighs) I think you need something to keep you safe, especially, especially with what you're doing down here. I've got, I've got all the people I need keeping me, watching my back. I think that, you know... carry a little bit of me around with you and it might help out, yeah?
+AUSTIN: And then you take off the, the jacket, and gave it back?
+SYLVIA: Oh, the jacket's like, in Echo's hands already.
+AUSTIN: Oh, okay. He takes it and holds it up and he says like
+AUSTIN (as Ballad): (sighs) I saw it on you, and I just thought like... "That's... that's my Echo." And, uh... I'm glad it helped.
+AUSTIN: And like, he stands up, and he takes his jacket off. He has on like odie green, kind of like, M65 jacket, and he puts it all, and he like, lowers it onto the back of the chair, and he puts your jacket on. And it fits him still, right?
+SYLVIA: Yeah.
+AUSTIN: He's probably, he's probably put on a little bit of weight. (pause) Maybe, actually, maybe he's lost some weight since you last saw him. That actually makes more sense.
+SYLVIA: Yeah.
+AUSTIN: And he takes the black Volunteers of Seiche armband off his jacket and puts it on over yours, and he says.
+AUSTIN (as Ballad): Perfect fit. And... don't worry about me, you know? It's all about family, right?
+SYLVIA (as Echo): When have we ever not worried about each other?
+AUSTIN (as Ballad): (laughs)
+AUSTIN: He laughs, and like, brings you in for a quick hug, you know, like a, grab you by the hand, pull you in hug.
+SYLVIA: Yeah, yeah.
+
+ -- 1:39:05 --
+
+["The Notion" begins]
+AUSTIN: And... and he says
+AUSTIN (as Ballad): Alright. I heard about the whole thing. Be careful. And let me know once you're back.
+SYLVIA (as Echo): Oh, it's-
+AUSTIN (as Ballad): We're going to be getting ready for the one-year, so... hopefully you're back in time for that.
+SYLVIA (as Echo): Wouldn't miss it for the world.
+SYLVIA: And Echo gives him a little thumbs-up.
+AUSTIN: Yeah. And he gives one back to you, and then he kinda leans back in his chair, with the jacket on. With the armband on. And then like, picks the book back up to start reading.
+["The Notion" ends]

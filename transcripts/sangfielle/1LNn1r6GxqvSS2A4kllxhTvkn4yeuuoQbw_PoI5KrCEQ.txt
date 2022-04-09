@@ -1,0 +1,2299 @@
+Sangfielle 42: Two Kinds of Quarry Pt. 1
+Transcriber: robotchangeling
+
+Austin: Sangfielle is a series that draws on elements of dark fantasy, horror, and gothic fiction. As such, a list of content warnings will always be made available in the episode description.
+
+[Music begins: “Sangfielle” by Jack de Quidt]
+
+Austin (as narrator): If you take a single lesson from this here serial, let it be this: you just don't know what's gon’ happen on a trip. I don't care if you're walkin’ an old familiar road to your granny's house or steppin’ aboard one of them fancy new Kay’van ironclads or sitting in the dining car of Ms. Chantilly Scathe’s so-called Shackled Engine, there are bound to be some surprises. And with that in mind, I'd like to use this particular platform to offer a few pieces of travel advice, some derived from the keen and otherwise sharpened skills of the Blackwick Group's membership, others the sort of counsel which might have benefited said organization on their journeys. Now, I have been advised by the Heartland Rider’s solicitor, who we keep on [emphasized] hefty retainer, that I'm to tell you this is not official expeditionary or navigatory advice, just a collection of opinions and ideas that I am presenting informally—oh, how I hate this. Anyway, tip number one: whether you travel by day or travel by night, pick one and stick to it. One’s faculties—mental, physical and spiritual—are first flexible and then brittle. At the start of a journey, they are like warm sugar, malleable in shape and even a little drippy. But once they cool, they become stuck in their ways, and a shake up in traveling habit will risk shattering you whole. Second: your destination is more important than your route. Keep your eyes on landmarks, not maps. How you twist and turn is the Heartland’s business. All that matters is arrival. Third: bring a change of pants. I'm not gonna say more than that, just bring a second pair of pants. Finally, and this one is of utmost importance: carry a gift. Bring everything you think you might need—food, a knife, a fiddle, an umbrella—and then add one more thing on top. You may set out on your journey by yourself, but in Sangfielle, it's rare to arrive anywhere alone. And companions in travel, like the Heartland itself, rarely go away empty handed. 
+
+[song ends]
+
+Austin: Welcome to Friends at the Table, an actual play podcast focused on critical world building, smart characterization, and fun interaction between good friends. I'm your host, Austin Walker. Joining me today, Andrew Lee Swan. 
+
+Dre: Hey. You can find me on Twitter at @swandre3000.
+
+Austin: Sylvia Clare.
+
+Sylvia: Hey, I'm Sylvi. You can find me on Twitter at @sylvibullet and listen to my other show Emojidrome wherever you get your podcasts.
+
+
+Austin: And Keith Carberry.
+
+Keith: Hi, my name is Keith J. Carberry. You can find me on Twitter at @keithjcarberry. And for the love of God, go to youtube.com/runbutton and watch some Run Button. [Sylvia and Austin laugh] 
+
+Austin: Today, we are continuing our campaign of Heart: The City Beneath by Grant Howitt and Christopher Taylor. Our goals, as always, are to ask questions instead of planning; to evoke an atmosphere of wonder, horror, and humanity; to build and break tension; to pay attention to what everyone at the table wants, both long and short term; and to play to find out what happens. It's been a minute since this little group of people played.
+
+Keith: Yeah.
+
+Austin: I wasn't even 100 percent sure if we were gonna do…if we were just going to hand-wave the trip back, but I decided there's some fun stuff to do on the trip back, if that's even what we are doing. I guess I'm assuming that after the Moon-Touched Woods, after faux Marrowcreek or real Marrowcreek or wherever the fuck we all were, that you'd be heading back to Blackwick, but I guess I don't know that for 100 percent sure. Maybe if it lines up with your Beats, and we should just go over those up top now. So let's do Beats, and then we'll talk about what you get up to. Chine, hit me with them Beats. Beats and Fallout. 
+
+Dre: All right, Chine's active Beats. My first Beat is a minor one.
+
+Austin: Mm-hmm.
+
+Dre: “Receive a strange surgical implant or heartsblood transfusion.”
+
+Austin: Mm.
+
+Dre: You know, just a easy one. 
+
+Austin: Mm-hmm, mm-hmm.
+
+Dre: My next Beat is a major one: “Destroy a Haven, returning the land to the Heart.” And then this third one is a Zenith, which I believe was introduced in the last session— 
+
+Austin: It was.
+
+Dre: As like an optional one, and that is, “Become one with the Course, and bind you and your creature’s essence to it.” I believe…
+
+Austin: That is correct. 
+
+Dre: I have Minor Blood Fallout of Limping, so I am slowed. “If someone or something attacks your party, they'll attack you first. If there's any question of who arrives last, it's you.” 
+
+Austin: Wait, say that one— oh, yes. Yes, yes, yes. Limping. Classic Limping. 
+
+Dre: Yep. 
+
+Austin: All right, Hazard.
+
+Sylvia: Yeah, so my Beats, I believe, are the same as going into Marrowcreek, which is “Enlist someone in your plot for revenge,” and “Destroy the personal property of your target in spite.” 
+
+Austin: Mm-hmm.
+
+Sylvia: And my current Fallouts are Fascination with the one-horned devil: “You become obsessed with a strange topic.”
+
+Austin: Mm-hmm.
+
+Sylvia: In this case, it’s the devil. “You must try and learn more about it, firsthand if possible. When you attempt to learn more about your fascination, roll with Mastery, but if you have the opportunity to learn about it and refuse, mark D4 Stress.” I have Foreboding: “Something bad is about to happen. GM, hint at an ominous future event. [Austin laughs softly] This Fallout can be upgraded to Crisis, see below.”
+
+Austin: Yeah, yeah, yeah. 
+
+Sylvia: And Furious: “You're hurt, short-tempered, and perceive slights everywhere. You cannot help another character by adding dice to their roll.” And that's everything. (??? 5:56)
+
+Austin: There's one other thing there, which is that Marrowcreek and exposure to the Moon-Touched Woods and the raw Course—
+
+Sylvia: Mm-hmm.
+
+Austin: —also should have changed something on your sheet, right?
+
+Sylvia: It did. So, what it changed was my weapon.
+
+Austin: Mm.
+
+Sylvia: So, I…after, I think, because I was able to— I did shoot Uno while we were there. 
+
+Austin: You did.
+
+Sylvia: So the way I was thinking of it is it like got a taste of revenge but not enough of it. And so it's become this sort of like…it's Bloodbound, is the tag that's been added to it since, and that, just to explain ahead of time, is you take D4 Stress to Blood to roll with Mastery for the rest of the situation with this item.
+
+Austin: Mm-hmm.
+
+Sylvia: And so it's become this sort of like…it's like still like a filigreed fancy revolver, but it's also kind of like, pointier and… 
+
+Austin: Yeah.
+
+Sylvia: Yeah. I'll get into how it works more when I use it, but.
+
+Austin: When you use it. Yeah, yeah, yeah. 
+
+Sylvia: It's like, you know how normal fonts are compared to like black metal logos? That's what this is to a normal pistol.
+
+Austin: To a regular pistol. 
+
+Sylvia: Is what I’m thinking in my head. 
+
+Austin: Yeah, I love that. That's very fun.
+
+Sylvia: Yeah.
+
+Austin: Uh, speaking of your head, there's one other thing that's changed about you. I don't know where to put this. Maybe this is…maybe this is like a D4 piece of equipment, a Kill piece of equipment. You have a horn growing from your forehead. It looks like it's like piercing through your mask. And it's made of a bullet, and it's exactly where Uno Riscano’s horn is. You have a matching horn now, except yours, instead of being a traditional devil horn, has the sort of like metal casing of a bullet. And it's kind of twisted and, again, like in that black metal sense, like it has that sort of like, it looks like a tree branch. You know what I mean?
+
+Sylvia: Mm-hmm.
+
+Austin: But it's made of the sort of like, that sort of like brass of a bullet casing. So yeah, let’s call that a D4 piece of Kill equipment.
+
+Sylvia: Sure.
+
+Austin: It probably has some fucked up tags. It's probably not good to use. You know what I mean?
+
+Sylvia: Yeah. I mean, it's on my head, so.
+
+Austin: Exactly, exactly. So, let’s—
+
+Sylvia: Seems like a real last resort situation.
+
+Austin: Yeah. I would say call it Dangerous, “When you inflict Stress with this item and roll the maximum amount, mark D6 Stress to Blood.”
+
+Sylvia: That makes sense.
+
+Austin: So it’s dangerous to use it, ‘cause you're kind of like head butting yourself and like, I don't know, there's a— don't use your little bullet horn.
+
+Sylvia: Yeah.
+
+Austin: That seems dangerous to me. [laughs softly] All right, so that's you, and then, and we went over your Fallout. So, Lye, talk to me about your Beats.
+
+Keith: Hello.
+
+Austin: Your current Beats, your Fallout, and then whatever changed on your sheet.
+
+Keith: Yeah, so I have got “Make a dramatic entrance that's a Risky action” as a minor. 
+
+Austin: That's fun. 
+
+Keith: And then I have “Save a Haven from destruction or doom,” which is a major.
+
+Austin: Also a good one, for reasons you might not even know yet. 
+
+Keith: Well, we’ll see.
+
+Austin: I don't know if you've listened to the other side of the game, you know?
+
+Keith: I do know what's going on on the other side of the game. I'm like four out of five through that.
+
+Austin: Mm-hmm, mm-hmm.
+
+Keith: Or maybe a little bit more. 
+
+Austin: It ain’t great over there, let me tell you.
+
+Keith: Yeah. I wasn't sure how resolved it was, though. So, we’ll see.
+
+Austin: I guess you'll find out. Yeah, uh huh. [laughs softly] 
+
+Keith: Yeah. Um, Fallouts are easy. I've got a plus one Fallout to the next time I play false war. 
+
+Austin: Mm-hmm. Uh, hmm. Okay. Let's just say that that carries forward. 
+
+Keith: Yeah.
+
+Austin: You know, maybe you could challenge the, the…whatever happened over there, you know? 
+
+Keith: Uh, yeah, Art cheating and stealing my seat and uh… [Austin and Sylvia laugh] 
+
+Austin: Uh huh.
+
+Keith: And taking it all unscrupulously 
+
+Austin: Maybe we should have a true true false war finale, you know?
+
+Keith: Yeah, true false war finale, yeah.
+
+Austin: Yeah.
+
+Sylvia: God.
+
+Keith: To correct the false false war.
+
+Austin: Right, uh huh. 
+
+Keith: And then I have the Ravening Call. The text here is wrong, ‘cause it's the text for the Ravening Beast, ‘cause I just—
+
+Austin: You just left it.
+
+Keith: I stopped changing it back and forth.
+
+Austin: Yeah. It's the smaller version of Ravening Call.
+
+Keith: Right. Ravening Call is the one where I'm hearing the beast in my, like, and I'm like sort of, you know, feeling like I'm being watched and stuff like that.
+
+Austin: Mm-hmm. 
+
+[0:10:04]
+
+Keith: I don't have the actual text. Oh, “Nothing yet besides a distant howl.” That's the test— text. 
+
+Austin: Yeah, yeah. 
+
+Keith: Okay, great. And my change. Uh, I had a move called Rusted Iron, which gave me the Technology domain that I never took.
+
+Austin: Mm-hmm. 
+
+Keith: We went over that. I forgot to add the Technology domain to my thing. 
+
+Austin: You did. 
+
+Keith: And I learned the following spell: “Roll Mend plus Technology to improve a piece of equipment that has moving parts, using a ritual that takes around half an hour. On a success, increase the equipment's quality by one step—Standard becomes Good, Good becomes Excellent—and give it the Dangerous and Unreliable tags.”
+
+Austin: Mm.
+
+Keith: Once you have improved a piece of equipment with this spell, you can't improve it again. I have changed the word Dangerous to the word Conduit. So it now gives me the Conduit and Unreliable tags. Conduit is a tag that has you mark D4 Stress to Mind to roll with Mastery when using this equipment for the rest of the situation.
+
+Austin: Right. And the…as is its way, the Moon-Touched Woods, the raw Course reaches in and touches back. As you change one thing, it changes another. And this time it reaches through you to somewhere else. It has done a few things to your Sanctum of the Stone Chorus. It has reached into the kind of temple of Aterika'Kaal or the domain of Aterika'Kaal. Some of this is good, and some of it is less so, but here are the— here are the big ones. One is it is now a D8 die instead of a D6 die for Echo, Supplies, and Fortune. And then, this is a kind of a— let me give you the raw things first. It is a D8— that place now does D8 damage, which was not a sort of thing we've talked about, but it's— if you were to fight something there, it would do D8 damage. In the way that like it's a place, and places in this game do all have an amount of Stress associated with them, it is now a D8 Stress place, which is a risky kind of place to be. That's a lot of damage you can get if something goes wrong in there. It is also a Tier Three place in there now. And then, and then the big one is you or anyone else who has Mastery over the place can exchange Blood Stress one for one with anybody else who is there, if both people are willing. 
+
+Keith: Oh, that's really valuable with Pickman, huh? 
+
+Austin: Yes, though it's also the case that Aterika’Kaal can do this without the— can, if Aterika'Kaal has someone, it can do this for them to heal itself. So a lot of— a lot of Aterika'Kaal kind of gaining strength and Mastery through this kind of, you as the throughway between the Course and it. I'll write all this up and send it over to you so that we can just add it directly to the thing.
+
+Keith: Okay.
+
+Austin: Just remind me after we record, and I'll just drop it in there. But the big stuff, again, is it is a Tier Three place, it does D8 healing and D8 damage if you end up fighting something there, and then you can use Aterika'Kaal kind of—as long as all the participants are willing, including Aterika'Kaal—to kind of move Blood Stress around one for one. And then, also, it can kind of drain Blood Stress one for one from anybody itself. It can make that decision, you know? All right, that's our setup. When we last left y'all, you were moving down the river. You were trying to find a way back towards Blackwick. But again, I want to open the door to like, is that still what your plan is? Is your plan still to get back with the rest of the crew, as a trio? 
+
+Keith: Yeah. For me, yeah. 
+
+Dre: Yeah, same. 
+
+Austin: All right.
+
+Sylvia: I don't really know where else to go, right now.
+
+Austin: Yeah, fair enough.
+
+Sylvia: I need to regroup and then get back to looking.
+
+Keith: That's true. For Hazard, it might be kind of like a “What should I even do? I was supposed to be working on the boat.” 
+
+Austin: Yeah.
+
+Sylvia: Well, I was supposed to be carrying out a vendetta against a weird guy, more—
+
+Austin: More than anything.
+
+Sylvia: More than the working.
+
+Austin: Yeah.
+
+Keith: Okay. Well, but the boat that you were, you had a job on—
+
+Sylvia: Oh, for sure.
+
+Keith: —is now a bunch of bugs. 
+
+Austin: Yeah. 
+
+Sylvia: I mean, I don't know that. 
+
+Austin: Yeah, you don’t know that.
+
+Keith: Well, we know that it was scuttled, at least.
+
+Austin: Yeah, by now. Yeah. You've been wandering through the woods at this point. Not the Moon-Touched Woods, just regular woods. Here on this main map, y'all are kind of here, west-southwest of the Moon-Touched Woods. You kind of got off the boat at a certain point and started heading west, because that seemed to be the place that was the closest to a place. I mean, I guess the picture I'll paint you is that from the top of a hill at a certain point, you could see some light and some smoke from that western horizon, and you’ve kind of realized, okay, this is the closest place to get to. The land between here and there is not too rough. I'm gonna say that it's probably…I'll say that it's Tier One. You're basically just moving through the woods and some hills. I kind of imagine it as kind of like rolling hills, maybe the occasional tall butte, but otherwise this is not a particularly wild place. I mean, it is literally, domain is Wild and Warren, because of like some caves and tunnels and stuff. But this is just traditional old, “you're moving through the damn wilderness” type stuff, you know? It's Sangfielle, which means at all points, you know, you never know when you might wander into a weird fragment of some other world or something. But by and large, y'all are doing a classic move through the woods camp out at night type of adventuring. And again, west-southwest, you can see that there is some smoke on the horizon, and at night, you can see the kind of glow at the edge of the horizon of some sort of encampment or settlement or town or something. Who is taking the lead in this sort of, the Delve that we are now entering? 
+
+Keith: Um, well, I have the Delve skill. I don't know where we are on that for everyone.
+
+Dre: I also have it.
+
+Keith: Okay.
+
+Sylvia: Uh, I don't think I do? No, I don't have Delve. Also, I can't help with anything right now. 
+
+Austin: Yeah, because you're Furious, right?
+
+Sylvia: I’m grumpy.
+
+Austin: You're grumpy. [grumbles grumpily]
+
+Keith: Yeah. Fair. [Austin laughs softly] What's the— what is the domain?
+
+Austin: It is Wild and Warren here. 
+
+Keith: Okay. I have Wild.
+
+Dre: I have Warren, so I guess we're about equal there, yeah.
+
+Austin: The two of you can handle this, then. 
+
+Keith: Yeah.
+
+Austin: Yeah. Let's do a Delve roll. We haven't done Delves in so long that I feel like— or, it’s not that we haven't done them. Like, we did one sort of in the underground of Sapodilla, but that was still months ago of recording.
+
+Keith: Right. Well, it's like that, uh, that example that you give out sometimes about, um…who is it, the person who did Powered by the Apocalypse or whatever? Their Marielda games, they do like a heist in 45 minutes or something?
+
+Austin: Oh, it's…
+
+Keith: Who is it?
+
+Austin: It’s Blades in the Dark, not…not 
+
+Keith: Blades in the Dark.
+
+Austin: Yeah, yeah.
+
+Keith: Oh, right, right, right. Yeah, wrong…
+
+Austin: John Harper does—
+
+Keith: John Harper, right.
+
+Austin: Yeah, 40 minute heists, does 40 minutes scores, and we’re out here…
+
+Keith: There’s definite—
+
+Austin: Four hours.
+
+Keith: I know there's people playing Heart where every time they sit down to play, they're making a Delve roll. 
+
+Austin: Yes. Yep, totally. Doing a a lot of Delve.
+
+Keith: It’s just not us. [laughs] 
+
+Austin: Yeah. And we still do them now and then. I feel like all of our main, all of our early game stuff has been Delve-focused.
+
+Keith: Right.
+
+Austin:  It's just that we kind of hit a city, and that kind of fucked us up for a while.
+
+Keith: Yeah. 
+
+Austin: In any case, Delves: “Some locations or areas are infamous enough to become landmarks. These are used for navigation through the Heart, in as much as one can navigate it. Though the precise location of landmarks shift, their nature stays the same. You can generally find them if you’re a skilled tracker or on the same tier— er, on the same tier as them. A journey through the Heart is considered to take place between two landmarks, and it's called a Delve. If the landmarks are connected by a road or path, see the Connections section below. If there's no established connections, the players will have to forge their own route through the unstable and shifting terrain of the Heart.” For us, it's obviously of Sangfielle. “Traveling on a route between two unconnected landmarks or from one landmark into unknown territory is a Delve. Delves are dangerous and uncertain. The travelers must rely on their wits, bravery, and equipment just to survive, let alone get to where they're heading. For more information on creating Delves, see page 133.” So, it sounds like, Lyke, you're doing this kind of initial Delve, as you travel across these hills and forests with Chine helping out?
+
+Keith:  Sure. Yeah, that sounds good to me.
+
+Austin: Yeah. I could go either way. It doesn't especially matter who's helping and who's not, because of how, you know, repercussions work. So yeah, give me, um…give me a Delve and then Wild or Warren, Standard.
+
+Keith: Okay.
+
+Austin: Plus one from the help.
+
+Keith: And plus one, and I clicked away. 
+
+Austin: Hey, that is eight. Take no Stress. And so now what you do is, ‘cause it's been so long, you think about a Delve as having HP, having a Stress or having a resistance as if it were an NPC. 
+
+Keith: Yeah.
+
+Austin: So this is where you would use any sort of Delve equipment you have to do extra, quote, unquote “damage” to it, you know? To do that Stress to the Delve. In this case, I don't know that you have any?
+
+Keith: I don't have any. 
+
+Austin: Yeah, I don't think that magnifying glass, again, is the thing that's gonna work for you here. 
+
+Keith: One day.
+
+Austin: One day. This just ain’t the place for it. 
+
+Keith: Actually, I do think I've used it one time, but. 
+
+Austin: You've used it. Yeah, I think you've used it before. I think maybe in the library or in the house, the Esterhazy house.
+
+Keith: Yeah.
+
+Austin: Or not the Esterhazy house. What was the…it's been so long.
+
+Keith: You're talking about the friend vamp, the acquaintance vampire?
+
+Austin: The acquant— I mean, that would have been in the library, yes. Yes.
+
+Keith: Oh. No, no, no. I mean, um, the, uh, Virtue’s like acquaintance whose book I stole. 
+
+[0:20:05]
+
+Austin: Oh, you did that from the house, right? You didn't do that from— yeah, from like the apartment is where you did that.
+
+Keith: Yeah, yeah, yeah.
+
+Austin: Yes. True.
+
+Keith: I think maybe I may have used it there.
+
+Austin: That's where you may have done it. Anyway, do your— so do D4.
+
+Keith: Okay.
+
+Austin: And that'll be your initial kind of progress through this Delve.
+
+Keith: Four.
+
+Austin: Hey! That's a four. That ain’t bad. Um, your initial goings through this place are pretty clear. I think, between the two of you, you're able to avoid any obvious pitfalls. You're able to move past, you know, some wrong turns. There's definitely a bit where you're like, “Ooh, are we going around in circles?” which is especially scary coming out of the Moon-Touched Woods where you were like, is Marrowcreek even a real place? and it's very easy to kind of carry that paranoia forward. But you're able to like, “Okay, no, we are marking up— you know, we leave some marks on the trees. We leave behind a few things to make sure we're not going in circles. We're making progress.” And at some point, you come to one of these classic decisions to make, right? which is there is a kind of perilous hill upwards with where the— this particular…this particular hill is kind of marked among many, in that it does not seem to have much living on it. It doesn't seem to have as much greenery as most of the other area around you. You're not sure why. And you could try to climb it and its kind of very rocky surface, or you could try to Delve through it, through a cave mouth that you see, you know, that maybe you passed a couple of minutes ago. You could turn back and try to go through that cave, instead of trying to continue up it. Or you could safely go around it, but it's gonna, it's gonna take…it'll be safer to do that, for sure, but it's gonna take a little bit of extra time around. This is a Risky roll, in comparison, if you go up and over. You're not sure what's inside of it. And going around it would be would be safest, but it will effectively just not advance the Delve as quickly, if that makes sense. You know, clocks will move, as it were. 
+
+Keith: I feel like over seems sort of like the middle choice. To me, cave is obviously the scariest [Austin makes amused noise] option with the worst negative outcomes.
+
+Dre: [“I don’t know” sound] It could be empty. 
+
+Keith: But it al— it also could be full.
+
+Dre: Mm. So could the top of the hill.
+
+Keith: But at least— but it's open, right? So it's like, at least we can see. You know? 
+
+Dre: Mm.
+
+Austin: You know, if you want more information this is a investigate type beat right here. 
+
+Keith: Okay.
+
+Austin: You know? 
+
+Keith: I'm willing to do a…I'm willing to do a sort of cave mouth Discern.
+
+Austin: Yeah, let's do…let's do a Discern. That would be Discern Warren, ‘cause you're really looking into the dark in that sense, you know?
+
+Keith: Mm. Okay. I do not have Warren, so maybe if Chine wants to do a cave mouth Discern. 
+
+Dre: Uh…I don't have Discern.
+
+Keith: Damn.
+
+Sylvia: [laughs] I was gonna ask, like, does Chine have Discern?
+
+Austin: Uh huh.
+
+Keith: Okay, well, then how about this? Can I roll, uh…can I roll a hilltop Discern Wild, then? 
+
+Austin: Well, you’d have to climb the hill to do a hilltop Discern. But you could give me a— you could give me a Wild, just on the journey up. You don't— you still won't know what's at the top, but you could give me a…
+
+Keith: Okay.
+
+Austin: A Wild Discern for, “Hey, is there anything I can understand about the route upwards?” 
+
+Keith: Okay. Yeah, I'll do that. Ooh, six. 
+
+Austin: Success at a cost. All right. Take two Stress to Echo, as your smell, your magic smell kicks in. I’m trying to think if you’ve smelled this before. Um…I don't think so. Does Lyke have much history with the Residuum? Does anyone remember if Virtue ever took Lyke through the Residuum?
+
+Sylvia: [thinking] Oh. I don't know if Lyke went through it. Who did— did I bring anyone?
+
+Austin: You brought people through it in Yellowfield, for sure. 
+
+Sylvia: Yeah, but Lyke wasn’t there.
+
+Austin: No.
+
+Keith: I have a…I have a distinct memory of the Oratorium. We talked about the Residuum, but I don't remember exactly what happened. 
+
+Austin: Yeah, I don't know if you went…
+
+Sylvia: ‘Cause I got missing in it. 
+
+Keith: Okay. Yeah.
+
+Austin: You went missing in it. 
+
+Sylvia: Yeah. 
+
+Dre: Mm.
+
+Keith: I do remember…
+
+Sylvia: So no, I don’t think so. 
+
+Keith: No, I—
+
+Sylvia: But you probably know the energy. 
+
+Keith: I think I did go, and you were— we had a conversation of like, “Virtue, does anybody know about the Residuum?” 
+
+Austin: [laughs softly] Right.
+
+Keith: And you were like, “No,” and then you, in character, were like, [imitating Virtue] “So, this is a thing I can do,” or something like that. [Austin laughs] 
+
+Sylvia: Yeah, sounds like her.
+
+Austin: Yeah, that sounds like her. So, so you smell this, like, there is…and I think, you know, you still fundamentally succeeded on this, right? 
+
+Keith: Yeah. 
+
+Austin: And we do need a Fallout test in a moment, but, um, there's something…the way that the Residuum is supposed to work is that when something dies, it naturally fades into the Residuum. The color of it kind of…kind of leaves our kind of plane of existence and goes into the Residuum, this kind of death plane of color and life. This feels like something has tilted the way the Residuum works here. Something is wrong about how the Residuum works here. It's as if it has sucked the life out of already living things instead of letting them die naturally. You know, with a six, that's about as much as you can get. You know that there's some sort of weird Residuum fuckery happening [laughs softly] here on, you know, either on this hill or in this hill.
+
+Keith: Okay.
+
+Austin: Yeah. Give me that Fallout check. 
+
+Keith: [sadly] Yeah, I guess. I guess I’ll do that. 
+
+Austin: Uh huh. You got seven Stress, which ain’t great.
+
+Keith: No. Oh, I was like, why won't my thing open? ‘Cause it was minimized at the top of…
+
+Austin: Mm. Yeah, Roll20, classic. Take Minor Fallout. I mean, this is an easy one. 
+
+Keith: Great way to start. 
+
+Austin: Oh, yeah. This is an easy one for me. Uh, you know.
+
+Keith: Oh no. [Sylvia laughs] 
+
+Austin: You see the eyes glow from inside of the cave. The bright red eyes of the Ravening Beast.
+
+Keith: Well, that's easy. That's a one word swap. 
+
+Austin: Uh huh. Yeah, just put Beast in instead of Call. It's another Minor. It combines. 
+
+Keith: Yeah. Nice job, past me being like, “I'm just not gonna change the Beast text.” [Austin and Keith laugh]
+
+Austin: Wh— oh!
+
+Sylvia: Oh, this is the train crew, too. 
+
+Keith: Yeah.
+
+Sylvia: This is the crew that was there for that.
+
+Austin: Is that true? Is that the…oh, yes, it is. 
+
+Sylvia: I think that was— 
+
+Austin: Yeah, yeah, yeah.
+
+Sylvia: It was the three of us, right?
+
+Keith: Yeah.
+
+Austin: It was. It was. 
+
+Sylvia: And then Duvall showed up towards the end. 
+
+Keith: Duvall was there too. 
+
+Austin: Yeah. 
+
+Keith: Yeah. 
+
+Austin: And a thing that you see is as it's red, you know, it's bright red eyes begin to glow, you can actually see the red beginning to almost evaporate into the cave, as if the same Residuum shit that was happening to the life on top is pulling at the beast itself and the color and life of the beast itself. But it's the Ravening Beast, and so it's like, it just kind of gives it this effect as if its red, the red color of its eyes is steaming upwards.
+
+Keith: Mm-hmm.
+
+Austin: But it's still able to like keep the coals going, you know? 
+
+Keith: Okay. 
+
+Austin: It isn't…I don't know, maybe this would be a place to fight it, and maybe there should be some sort of bonus to this, but— 
+
+Keith: I— 
+
+Austin: Whatever’s happening to it, you are not convinced would not also happen to you. 
+
+Keith: I have— okay, so I do have a kind of an idea. 
+
+Austin: Mm.
+
+Keith: And I don't want to go like, “Hey, we just started this trek home. Let's immediately take this detour to do this beast thing.” But what, the idea that I did have, and I don't even know if Lyke knows this yet. [Austin laughs softly] I know that I know it. I don't know if Lyke knows this yet. But we could lure it into the Sanctum of the Stone Chorus and let Aterika'Kaal suck all the blood out of it. 
+
+Sylvia: Huh.
+
+Austin: You can give it a shot. You could also run from it. You can also, you know, you tell me what type of scene you want. I think that that's acceptable as a strat. It's a fun strategy. It’s a real—
+
+Keith: The other option is, uh, that we could just run from it, yeah.
+
+Austin: Yeah, mm-hmm.
+
+Keith: We do have— we do have a Limping player. 
+
+Austin: Oh, this is true. 
+
+Dre: Mm-hmm.
+
+Austin: This is true. And Limping will over— I think Limping, you know, succeeds. Not succeeds, but but overwrites the thing about the Ravening Beast only hurting, only— or mainly hunting you, Lyke.
+
+Keith: Right.
+
+Austin: You know?
+
+Keith: It does say, “It will attempt to maul others, but its primary motivation is to consume you utterly.”
+
+Austin: Yeah. Yeah. 
+
+Keith: So.
+
+Austin: Yeah.
+
+Keith: I mean, I'm definitely better at fighting than I was for the train.
+
+Austin: The last time. Yeah.
+
+Keith: Yeah. 
+
+Sylvia: Yeah…
+
+Austin: Well, you know, let's put this in character a little. How do you— when these eyes appear at the edge of the cave, how do y'all react?
+
+Sylvia (as Hazard): You've gotta be fucking kidding me. [Austin laughs] 
+
+Keith: I think Lyke is, uh, borders on fear of this thing. I mean, it really is like kind of a constant stress. [laughs] Like, I've literally been haunted and hunted by this thing for like months, right? 
+
+Austin: Yeah, yes. Months and months, at this point. 
+
+Keith: Yeah. 
+
+Austin: And time is very weird for us, because there's probably— you could probably do a day to day breakdown of Sangfielle and be like, this is basically, there's no time at all. But I'm actually, I lean towards being really fast and loose with longer periods of time and treating the time between our episodes as being even broader than what we normally would think of. 
+
+[0:30:06]
+
+Sylvia: Mm-hmm.
+
+Keith: Yeah.
+
+Austin: Because I think that there's like a— it should have been— I think it should have been almost a year of play, in the same way that it's been almost a year of play, maybe even longer than that, from the jump, you know? Anyway, yes, it's been months and months at this point. 
+
+Keith: Yeah. 
+
+Dre (as Chine): [sighs] It's always this shit with you, huh? [Sylvia laughs] 
+
+Keith (as Lyke): [defensive] I didn't haunt me!
+
+Austin: [laughs softly] That's not what that doctor told you.
+
+Keith: [laughs] Okay, I can…I can sort of narratively justify this, because I'm remembering now the…the two, you know, ostensibly innocent people who were dead inside Aterika'Kaals domain. 
+
+Austin: Yes.
+
+Keith: And so even if I don't literally know about the blood sucking thing—
+
+Austin: Yeah, yeah, yeah. 
+
+Keith: The blood transfer thing.
+
+Austin: Yeah.
+
+Keith: I think that that seems like an option. 
+
+Austin: Yeah. That Aterika'Kaal is at a point now where there is a lot of strength and power there, or there's enough to actually kill people again.
+
+Keith: Right.
+
+Austin: Yeah?
+
+Keith: Well, it's fun because the thing, the…when we were first doing the junk mage stuff.
+
+Austin: Mm-hmm.
+
+Keith: Like, the thing that jumped out was that the like old god kind of stuff that it leans towards in the last half of the playbook kind of seems like it comes out of nowhere. 
+
+Austin: Mm-hmm.
+
+Keith: And it doesn't quite feel incongruous with the premise of the character, but it doesn't feel necessarily like it follows from one thing to the other thing.
+
+Austin: Mm-hmm.
+
+Keith: But the thing that I realized, you know, a few arcs ago, is that Aterika'Kaal is like…like building one of the thing, like a Zenith move.
+
+Austin: Yeah. Yeah.
+
+Keith: Basically. 
+
+Austin: Yep, a hundred percent. 
+
+Keith: So, um…
+
+Austin: We got there. 
+
+Keith: Yeah. Uh, so I…I guess if, as long as…as long as people don't mind the like, “Hey, we can't run from this thing, so we should fight it,” thing, then I think I would like to try to Stone Chorus it.
+
+Sylvia: Yeah. 
+
+Keith: Okay. 
+
+Sylvia: It seems like it's better to try and kill this thing than just keep like running away from it, and, like, I don't know if it's gonna ever get rid of it permanently, but it might help at least to do this.
+
+Keith: Yeah.
+
+Austin: Mm-hmm.
+
+Dre: [sighs] Okay.
+
+Keith: Okay. All right, I can…I can do— I failed this spell for the first time recently, but I do definitely think I can do it still. 
+
+Austin: So this is— what is the— read me the spell. What are you rolling? And also, do you want to—
+
+Keith: I’m rolling Sanctum of the Stone Chorus.
+
+Austin: Yes. 
+
+Keith: “Priests and prophets offer in a thousand voices a respite and maybe a place to pray.” Blah, blah, blah.
+
+Austin: Mm-hmm.
+
+Keith: Roll— oh, no, it's— the spell’s only just right there. “Roll Discern plus Religion to cast the spell. On a success, you find or spontaneously create—
+
+Austin: Yep, okay.
+
+Keith: —a path to one of the halls or temples of the Boundless Conclave.”
+
+Austin: So, Discern Religion. I think opening it will not be Risky. What comes next would— uh, it might still be Risky, because it's definitely being opposed by this, by the Ravening Beast, right? The Ravening Beast does not want you doing any sort of spells right now, so it's still gonna be Risky. I don't know if you can get help with that. Think about— think about that broadly. The spell itself isn't what you need help against. What you need help against is keeping the Ravening Beast from pouncing on you and killing you while you're trying to do the spell, you know?
+
+Keith: Right. Yeah. 
+
+Austin: Also, do you want to use Sacrifice to get a little Protection?
+
+Keith: Yeah, I'm considering that. So, it's Discern plus Religion, so I've got Discern and then Religion. And then, um…yeah, I. [laughs] I just, I'm looking at my items, and it's very funny.
+
+Austin: Yeah.
+
+Keith: Because I can't…I can't get the idea that I had, which was kind of not really true from the beginning of the game, that when it says “consume” that I'm literally eating these things. 
+
+Austin: Yes. That you can't— yeah, you can't get it out of your head. [Dre chuckles] Yeah, uh huh. 
+
+Keith: Right. So, I was looking at like, oh, I have an Occult triadic pyre coupon, [Austin laughs softly] and I was just picturing him stuffing like a piece of paper in his mouth. [Keith and Sylvia laugh]
+
+Austin: You know, it's kind of fun. What if you put it in your mouth and it sort of just dissolves like into like a magical mist. [Sylvia laughs] 
+
+Keith: Oh, like a Listerine tab? Like a…
+
+Dre: Oh.
+
+Austin: Like a Listerine. Yeah, exactly. Like one of those— [Dre laughs] 
+
+Sylvia: Yeah, like a Listerine tab. That’s what I— yeah.
+
+Austin: Yeah, like a Listerine tab. I love it. 
+
+Sylvia: Just like Listerine. 
+
+Austin: Give me your— give me— roll that D4 for Protection. 
+
+Keith: Okay. [Sylvia laughs quietly]
+
+Austin: That's very fun. Hey, that's two Protection. Okay. Give me a…give me your…
+
+Keith: Oh, and I have to take away my two Echo Fallout.
+
+Austin: Yeah, from that. 
+
+Keith: Yeah.
+
+Austin: Yeah. A hundred percent. 
+
+Keith: And I just—
+
+Austin: And who's helping? Is anyone helping? 
+
+Dre: I'll help. 
+
+Austin: Okay.
+
+Keith: Okay. So that’s one help. 
+
+Austin: What are you helping with? What are you doing? 
+
+Dre: Uh. Stand in front, [laughs] in front of Lye.
+
+Austin: Yeah, I think that’s like an Endure or Kill. I think that makes sense. You're just trying to take that hit. All right. So, Risky. 
+
+Keith: Oh! 
+
+Austin: Plus one. 
+
+Keith: Ooh…
+
+Dre: Oh? 
+
+Keith: Well, actually…
+
+Austin: Mm?
+
+Keith: There's something that I didn't do.
+
+Austin: What—
+
+Keith: And I'm catching it now, so maybe we can rewind just a little bit. 
+
+Austin: Yes. 
+
+Keith: And I don't want to take away the fun that we're having here…
+
+Austin: Yeah. 
+
+Keith: But you told me there's a Beat that I didn't know that I took. 
+
+Austin: Yes, that's correct. 
+
+Keith: So I have to do my legendary move— or my move, Legendary. 
+
+Austin: Ah.
+
+Keith: Which is, “You strive to live up to stories they'll tell of your exploits. When you gain a minor advance, refresh D6,” which I didn't do. 
+
+Austin: Oh, you should do that.
+
+Keith: I actually didn't do that for the last two, ‘cause I didn’t—
+
+Austin: You should do that.
+
+Keith: I also didn't do it for, uh, “Claim a resource of at least D10 from a dangerous location.”
+
+Austin: Yeah, you should have done that. 
+
+Keith: Yeah. 
+
+Austin: Yeah. Do you want to just clear the rest of— do you want to say let's roll with this, but clear the rest of your Stress down to zero? 
+
+Keith: Yeah, let's do that. 
+
+Austin: Let's do that. Because I think that that’s a fair—
+
+Keith: All right, so I cleared seven total Stress there.
+
+Austin: Yeah, yeah, yeah. But let's keep the momentum going forward of fun Ravening Beast shit. 
+
+Keith: Yeah.
+
+Austin: Because we spent so much time on it, but let's clear out the rest of that Stress. I think that's fair. 
+
+Keith: Yeah, great. 
+
+Austin: All right. Cool. All right. So, what are you rolling?
+
+Keith: Totally forgot about that move. I’m glad that I took the time to like look at what I had to make sure there wasn’t something else I needed to do. [Austin and Keith laugh]
+
+Austin: We’re deep in a campaign in a way where, like, everyone has like 12 moves now.
+
+Keith: Yeah.
+
+Austin: And that's like a lot to keep track of, so. 
+
+Keith: Yeah.
+
+Austin: All right, so this is Discern, Religion, plus one, Risky.
+
+Keith: Yeah. Uh, Risky.
+
+Austin: Hey, that’s a success, no Stress. 
+
+Keith: Nine. Uh, eight. Great. 
+
+Austin: Eight. Yeah, eight, eight, four, nine. You drop that nine. You still have some eights. So yeah, what’s— you open this, this portal. The classic portal to Aterika'Kaal appears. The vines, the thorns, and whatnot. And—
+
+Keith: No one has been— everyone here has been in the Boundless Conclave passageway pre-Aterika'Kaal. No one has been in there since Aterika'Kaal.
+
+Austin: No one. That's correct, I think. So, do you just open it for long enough for Aterika'Kaal to go in, and then close it? Do you go in after it? What is the, what do you…
+
+Keith: You mean for the beast? 
+
+Austin: Yeah.
+
+Keith: I kind of thought that we were gonna go in there with it.
+
+Austin: With it.
+
+Keith: But…
+
+Austin: Okay. Yeah, yeah, yeah.
+
+Keith: Yeah. 
+
+Austin: I think that's probably…
+
+Keith: Like, just let it chase us in, you know?
+
+Austin: Yeah, yeah. Uh huh. Do you— were you looking to communicate something about the fact that no one else had been in here before?
+
+Keith: Um…
+
+Austin: When you brought that up? I guess for— Chine doesn't know anything about Aterika'Kaal, right?
+
+Keith: Right.
+
+Dre: Nope. 
+
+Austin: Chine wasn't on that.
+
+Keith: And…
+
+Sylvia: I don't think I would either. 
+
+Keith: Yeah.
+
+Austin: No. No. Or, wait, didn't you both go on it, go into it on the train?
+
+Dre: Wait.
+
+Sylvia: Oh, wait. Yeah, no, we did go in during the train, actually.
+
+Austin: Okay.
+
+Sylvia: Now that I think about it.
+
+Austin: Yeah, yeah, yeah.
+
+Sylvia: That’s how Lye and I got out of there. 
+
+Austin: And that's how…
+
+Dre: Yeah. I didn’t, but…
+
+Austin: Right, you didn't. So, so that means, you know, for you then, Hazard. You'd be like, “Okay, I'm back in this place.” But… 
+
+Sylvia: Yeah.
+
+Keith: Okay. Was that— that was post-Aterika'Kaal, though. Right?
+
+Austin: That was post-Aterika’Kaal. 
+
+Keith: Okay. 
+
+Austin: Yes, yes, yes.
+
+Keith: But I didn't have to explain anything to Hazard, because…
+
+Austin: Right, yes! As far as Hazard knows—
+
+Sylvia: I assumed this is what it was like normally.
+
+Austin: Yes. All the time.
+
+Keith: Yeah. 
+
+Austin: Yeah.
+
+Keith: Like, “Hey, by the way, I know this might look familiar. It's like that evil god that you— oh, you don't know about the evil god, so we’re fine.”
+
+Austin: No, exactly. Just didn’t come up.
+
+Sylvia: Sorry, could you repeat that? Huh? [Austin and Sylvia laugh]
+
+Keith: Aterika'Kaal: not evil, just misunderstood. Also, a little evil. [Sylvia and Dre laugh]
+
+Austin: Yeah. Uh huh. All right, well, you're all in this place now, and I think Aterika'Kaal— and like, there's a sort of gasp. Like, if plants could gasp, they gasp as the Ravening Beast is let in. And you get the sense like immediately, and maybe this is a smell thing, that there—maybe this is a like the flowers let off a certain scent in here—that there is confusion from Aterika'Kaal, that you would be chased in by this beast in this way. And, and maybe it's looking for direction. In this moment, it is trying to separate— wait, which one of you is limping? 
+
+Dre: Me. 
+
+Austin: You. Because you're the slowest to get in, Chine, it is going to try to take a swing at you. I think it's like nipping at your heels as you move through the portal. And it kind of bounces off, and maybe—
+
+Keith: The beast is. 
+
+Austin: The beast, the beast. Not Aterika'Kaal, the beast. And is— like, maybe pounces on you and almost pins you to the ground. What do you do? 
+
+Dre: Oh. Um…
+
+Austin: It hasn't done damage to you yet—
+
+Dre: Yeah.
+
+Austin: But it's like right fucking on you, you know? 
+
+Dre: Um, I think with my ankle being fucked up…
+
+Austin: Mm-hmm.
+
+Dre: I still try— I'm not trying to do anything to actually fight. I think I'm using like my poleaxe as like, as like leverage to help me like swing around quicker, since I can't pivot on my one leg. 
+
+Austin: Yeah.
+
+Dre: I'm basically pivoting on my poleaxe instead. 
+
+Austin: Gotcha. So give me an Evade. What is it in here? It's probably Wild in here, right?
+
+Dre: Okay.
+
+Austin: ‘Cause we didn't say say what the domain is, Lye, right? But this— Aterika'Kaal, Wild. 
+
+[0:40:00]
+
+Keith: Yeah.
+
+Austin: For sure. 
+
+Keith: Yeah. 
+
+Austin: Wild Religion, probably, right?
+
+Keith: Yeah. 
+
+Austin: Uh, and that is Risky, because—
+
+Keith: I can help. 
+
+Austin: Yeah, totally. You should help. Well, how are you helping?
+
+Keith: Uh, I've got my Aterika'Kaal ritual knife.
+
+Austin: Mm, okay. 
+
+Dre: Oh. 
+
+Austin: Yeah. Try to pry that thing off. Let's do—
+
+Keith: Yeah.
+
+Austin: Give me that Evade, then, Chine. 
+
+Dre: So, with help, it's a plus one, right? 
+
+Austin: Yep, you got it.
+
+Dre: Okay. 
+
+Austin: [sucks air through teeth] That's a four. 
+
+Dre: Whaaaa… 
+
+Austin: That ain’t good. Uh, all right. Ravening Beast, of course, does D8 damage, [wincing] from its fractal teeth and blackstone claws.
+
+Dre: Mm-hmm, mm-hmm, mm-hmm.
+
+Austin: Oh, brother. All right, so this is Chine. Hey, two damage, two Blood. And hey, we know that this— I established earlier today, Aterika'Kaal's domain is Tier Three. So that's—
+
+Dre: Oh, perfect.
+
+Austin: You’re good.
+
+Dre: No damage, baby. 
+
+Austin: Lyke.
+
+Keith: Yeah.
+
+Austin: [pained] Take seven Blood damage, as it throws you away with its— it kind of swipes at you and knocks you into the vines of Aterika'Kaal.
+
+Keith: That’s so many. 
+
+Austin: That’s so many.
+
+Keith: Wait, so, hold on. What is the Tier Three? Remind me why it's imp— why—
+
+Austin: Chine has a thing that gives them…
+
+Keith: Oh, okay, it’s a Chine thing. Okay.
+
+Austin: Yeah, that gives them Protection equal to the tier they’re on. [laughs softly] 
+
+Dre: Mm-hmm. 
+
+Austin: Hey, no Fallout!
+
+Keith: No Fallout. Okay. 
+
+Austin: Great roll, eleven.
+
+Keith: Are we…we are not cleared into the Aterika'Kaal clearing, are we?
+
+Austin: You're here now, yeah.
+
+Keith: Okay.
+
+Austin: A hundred percent.
+
+Keith: Okay. Um, so, um…when we first got here, Aterika'Kaal was like confused by the beast.
+
+Austin: Yeah.
+
+Keith: If it sees what we're doing, is that enough to be like, to like know the score?
+
+Austin: I think what we— what I should— the way, here's how I'm gonna represent this. Aterika'Kaal is going to take, is basically going to back you up on this, at this point. When you swing at it, you should swing with Mastery, and then you can do extra damage to it, basically.
+
+Keith: Okay. Great.
+
+Austin: So, what are you doing to attack, here?
+
+Keith: Do I get— and now this is, I'm, uh…I'm grabbing for anything I can get here, because I hate this stupid beast.
+
+Austin: Uh huh. [Sylvia laughs] 
+
+Keith: Do I get any— I know it's already a Good weapon, but if I'm using the Aterika'Kaal ritual knife—
+
+Austin: Mm.
+
+Keith: —do I get anything else, anything extra? ‘Cause it is its special ritual weapon.
+
+Austin: I think…I think the fact that it's already a Good knife is probably what you're getting in here.
+
+Keith: Okay.
+
+Austin: And the bonus that you're gonna get to damage here, which is it's going to— you succeeding on attack means it will then do an attack also, effectively.
+
+Keith: Yeah.
+
+Sylvia: I can also like get a shot in—
+
+Austin: Yeah, Hazard has not done anything quite yet. 
+
+Sylvia: If people feel like they are rolling too much. 
+
+Keith: That’s true.
+
+Austin: Yeah. So, maybe let's—
+
+Sylvia: I don’t want you guys to absorb all the Stress here.
+
+Austin: Let's bounce the Hazard here and see how Hazard reacts after this fucking beast has swiped at you, Lyke. Hazard, are you firing your new gun?
+
+Sylvia: Yeah, it's like a—
+
+Austin: Or your…
+
+Sylvia: [laughs softly] There's a little bit of like, the body language of like an annoyed sigh.
+
+Austin: Mm-hmm.
+
+Sylvia: And then they like pull their pistol out, and I'm gonna do the thing that gives me— Mastery stacks, right? So if I get Mastery from my gun, I get an additional Mastery from Aterika’Kaal, I guess?
+
+Austin: Where’s the Mastery come from here? You don't get Mastery from Aterika'Kaal. Lyke is getting Mastery from…
+
+Sylvia: Oh, only Lye does.
+
+Austin: Yeah, at this point, at least. 
+
+Sylvia: Okay. That's fine, then. 
+
+Austin: So yeah, so your Mastery from your gun. What's the Mastery from your gun come from?
+
+Sylvia: Uh, I take one D4 Blood Stress—
+
+Austin: Mm.
+
+Sylvia: And it gives me Mastery for…
+
+Austin: That is Bloodbound, right?
+
+Sylvia: Yes, that’s Bloodbound.
+
+Austin: Yes. Well then, let's take that D4 Blood Stress.
+
+Sylvia: Okay. One D4. That's a one.
+
+Austin: That’s a one.
+
+Sylvia: Which I don't take, ‘cause— oh, no, wait. I got my— oh yeah, no, I do have Blood Protection.
+
+Austin: Yeah, you have Protection. You have Blood Protection. You have one Blood Protection.
+
+Sylvia: Okay.
+
+Austin: So that’s free.
+
+Sylvia: I am still gonna describe how this works.
+
+Austin: Please.
+
+Sylvia: The handle, like the, um…yeah, the grip of the gun. The part— you know, there were like, the the filigreed revolver we described as having like designs etched into it and stuff. 
+
+Austin: Yeah.
+
+Sylvia: And some of those now, like, thorns will come out and pierce the skin of the person holding it.
+
+Austin: Mm-hmm.
+
+Sylvia: And then when their blood sort of like trickles through the…the designs, it coats the bullet, and that is what makes it more effective. 
+
+Austin: Love it. Love it. And that's Good, which means this is Standard instead of Risky. And likewise, Lyke, when you swing with your Aterika'Kaal thing, that will be Standard instead of Risky.
+
+Keith: Great.
+
+Sylvia: So, I have Kill. I don't have the domain here, but I do have Mastery on this. 
+
+Austin: Yep. 
+
+Sylvia: And it's Standard?
+
+Austin: It is Standard. 
+
+Sylvia: That's a nine.
+
+Austin: That’s a nine. Take no Stress.
+
+Keith: Nice.
+
+Austin: Give me that damage, which is D8. Try not to roll an eight, if I remember right.
+
+Sylvia: Uh, I don't— no, that's Dangerous, I think.
+
+Austin: No, Expensive is also not good for it. 
+
+Sylvia: Oh, Expensive, right. [Dre chuckles] 
+
+Austin: Yeah, yeah, yeah. It’s expensive to replace these bullets. 
+
+Sylvia: I got a five.
+
+Austin: You got a five. That's not so bad. 
+
+Sylvia: Yeah. 
+
+Austin: You fling one of these bullets into it, and it boun— you know, it definitely reacts. You've hit it in the side, and it turns and growls at you. Lyke, now would be probably a time to… 
+
+Keith: Yeah.
+
+Austin: To hit hard.
+
+Keith: Uh, so, this is fun. You told— again, I slightly referenced this earlier, but last session, I got the Beat, I accomplished the Beat “Have at least three Havens know your name,” which I don't think you told me on the day. 
+
+Austin: We ended that session because it was such like a wild, heavy session.
+
+Keith: Yeah.
+
+Austin: And I don't think we mentioned it, but yes, that was the one for sure. 
+
+Keith: Right, so—
+
+Austin: I think that people— you specifically spent so much time towards the end there saving the— trying to save people and help people in the hospital, and I think that and like talking to the one occultist or alchemist person, and…
+
+Keith: Yeah.
+
+Austin: Your name got left behind, even though that's a place that— I kind of went back and forth, like, is that Marrowcreek really a Haven? And the answer at the end of the day is, just like they're really people, it's really a Haven. It's a town that kind of comes in and out of existence.
+
+Keith: Right.
+
+Austin: You know, as the Course wills it, as people's desires will it to, but it counts as a real place.
+
+Keith: Right.
+
+Austin: So I'm gonna let that stand. Anyway.
+
+Keith: So basically, two or three or four hours ago or whatever…
+
+Austin: Yeah.
+
+Keith: I learned that I had an extra…
+
+Austin: Mm-hmm. An advance, yeah.
+
+Keith: Point to spend. 
+
+Austin: Yeah.
+
+Keith: And I used it on…I splurged.
+
+Austin: Mm.
+
+Keith: I wouldn't normally have taken this, but I was like, “You know what? Fuck it.” I took the Kill skill. 
+
+Austin: Oh.
+
+Dre: Mm!
+
+Austin: Look at you! [Keith laughs] 
+
+Dre: Welcome to the party. [Austin laughs]
+
+Keith: So, I’m going to effectively combat, I hope.
+
+Austin: For the first time.
+
+Keith: For the first time.
+
+Austin: You just have the skill Kill. Love it. 
+
+Keith: Yeah. 
+
+Austin: Kill plus Mastery plus Wild, which you have, and it's Standard instead of Risky. 
+
+Keith: Yeah. Ten.
+
+Austin: And that's a fucking crit. That's what we're talking about! 
+
+Dre: Damn. [laughs] 
+
+Keith: Yeah.
+
+Austin: Gimme that.
+
+Keith: Yeah. 
+
+Austin: So increase your damage on that from a D6 to a D8, and give me D8 damage. 
+
+Keith: Right. 
+
+Austin: And then— actually, just give me two D8 damage, 'cause the other D8 is coming from Aterika'Kaal.
+
+Keith: Oh, nope, not— that's not how you do it. Okay. Seven.
+
+Austin: Seven. All right. You should heal two Blood Stress, Lyke, as it has begun to sap it away from the beast and put it into you. Now, it is putting…it is putting Ravening Beast blood into you, which, you know, there's a lot metaphorically happening there, given that we've talked about the Ravening Beast as already being kind of inside of Lyke’s being or soul or whatever.
+
+Keith: Yeah.
+
+Austin: But it's happening.
+
+Keith: Mm-hmm.
+
+Austin: And what the result is is that you reduce your Stress by two.
+
+Keith: Yeah.
+
+Austin: That hits, and I think it has like begun to wrap the beast up in its vines, as you kind of carve away at it. The beast is not…has not given into this and is continuing to snap and claw at you.
+
+Keith: Mm-hmm.
+
+Austin: But I think you do catch it eying the portal as if it wants to try to escape and get away. Chine, are you back on your feet at this point?
+
+Dre: Yeah, I think so. Pfft, man, I'm just admiring the beautiful work that Lye's doing over here. [Austin and Dre laugh]
+
+Keith: Thank you. Appreciate it.
+
+Dre: Um…yeah, I guess it looks like we've kind of got this thing on the ropes, so I'm gonna keep pushing the advantage 
+
+Austin: All right, what do you do? 
+
+Dre: Um…definitely going to…I think It and I just kind of go in. 
+
+Austin: Sure.
+
+Dre: So I want to use the Pounce move.
+
+Austin: Okay. Which says what? 
+
+Dre: “Once per situation, select an adversary you can see. That adversary marks D6 Stress as It leaps on them.”
+
+Austin: Mm. Love it. Yeah, I guess once per situation. Yeah, you don't have to do shit. 
+
+Dre: Nope.
+
+Austin: You can just give— roll that D6.
+
+Dre: Mm-hmm. 
+
+Austin: That's a six. 
+
+Keith: Nice.
+
+Dre: Nice. 
+
+Austin: Uh, it goes for the juggler, right? The jugular, not the juggler. [laughs] 
+
+Keith: There’s a juggler here?
+
+Austin: There’s a juggler here.
+
+Sylvia: Oh no!
+
+Austin: Oh no!
+
+Dre: It goes to the juggalo-er.
+
+Keith: Aterika’Kaal, let this juggler go! 
+
+Austin: [laughs] And between the four of you, you bring it down. It is lapping away at its— at the Ravening Beast’s blood. 
+
+Keith: Mm.
+
+Austin: The beast itself begins to deflate? Or not deflate, but it's as if…
+
+Keith: Uh, it's like the changeling bounty hunter that gets shot with the poison dart in Attack of the Clones?
+
+Austin: That's a good— that's a great reference. You know I’m here for it. [Dre and Sylvia laugh] But it's not. It's as if all of its fur, all of the individual hairs of its fur turn to pine needles, blackened pine needles. And, in fact, you realize there is no bone structure inside at all. There is no, there are no blood vessels. There are no…there's no musculature. It's all of these black needles going all the way down. And Chine, It is just eatin’ them up. Yum yum yum yum yum. The only thing left of the Ravening Beast are these needles and then this heart, its kind of big red heart, which is a D12 Occult resource. And you could take— you could each take a D6 bag of Ravening Beast needles. [laughs] 
+
+[0:50:20]
+
+Sylvia: Hell yeah.
+
+Austin: Also Occult. You do not clear this, Lyke.
+
+Keith: No.
+
+Austin: You keep it. I think it specifically says something like, it just, the only thing that happens is it doesn't…it doesn’t…
+
+Keith: Yeah, it doesn't show back up, but you don't clear it until you clear it.
+
+Austin: Until you clear it, yeah.
+
+Keith: Right.
+
+Austin: “Fighting off the beast does not move this Fallout, but it has no further effect.”
+
+Keith: But actually…
+
+Austin: Mm-hmm?
+
+Keith: I could—
+
+Austin: You're here.
+
+Keith: I'm here. I could clear— I could put it down to Ravening Call right now. 
+
+Austin: You could.
+
+Keith: Who's— can I take this heart? What's going on with the heart?
+
+Austin: You tell me what's going on with the heart. Is anyone taking that heart? 
+
+Sylvia: Uh, I mean…
+
+Austin: Anyone fighting Lyke over that heart?
+
+Keith: This is my beast, so I think I should take the heart. [laughs softly] 
+
+Dre: That's fair.
+
+Sylvia: [reluctant] Fine. 
+
+Austin: I almost imagine it to be almost, when you lift it, the heart has like a, um…almost like a, I guess let's go with it. It has a kind of a wooden quality. It’s as if it's been carved out of some sort of red wood, like a chunk of it. And has almost a barken quality. Almost like a barking quality. No, it's just a bark. Like bark, you know? 
+
+Dre: Bark.
+
+Austin: And that's D12. You cannot break it down. 
+
+Keith: Right.
+
+Austin: Without it vastly kind of coming apart, so, so D12 Occult on that.
+
+Keith: Um, needles are also Occult?
+
+Austin: Needles are also Occult, D6 worth.
+
+Keith: And is that an equipment or a resource?
+
+Austin: That's a resource. That's a resource.
+
+Keith: Okay. Um…
+
+Dre: Um…
+
+Keith: Okay, well.
+
+Dre: Does— 
+
+Austin: What’s up, Chine?
+
+Dre: Oh, I was gonna say, is It like doing okay?
+
+Austin: [thoughtful exhale] Give me a, give me a Discern, a Discern Cursed, Chine.
+
+Dre: Oh, good. I don’t got those. Oh, I've got Cursed.
+
+Austin: You got Cursed. 
+
+Dre: Yeah.
+
+Austin: Yeah. Standard. That's a crit. Look at that.
+
+Dre: Mm-hmm. 
+
+Keith: Look at that.
+
+Austin: Uh…
+
+Dre: I'm in tune. I’m in tune!
+
+Austin: You're in tune with this fucking thing. Absolutely. You want to know if it's okay, right?
+
+Dre: Yeah, like what's going on as it eats this?
+
+Austin: It is becoming Ravening Beastlike. You can— you go to— do you touch it? How are you Discerning? Give me the image of Chine Discerning.
+
+Dre: Oh boy. 
+
+Austin: Are you looking from a distance or are you getting up close? 
+
+Dre: No, I'm getting up close.
+
+Keith: I have a quick clarifying question. 
+
+Austin: Yeah. 
+
+Keith: When you said it is lapping up the Ravening Beast’s blood, I thought you meant Aterika'Kaal was. 
+
+Austin: No, I meant that It. It, Chine’s creature. 
+
+Keith: Oh, right. Sorry, I'm just, just a…
+
+Austin: Yeah, I know. We have a lot of creatures in this scene. [Dre laughs] 
+
+Keith: Yeah, yeah. And we— and I know that Aterika'Kaal is interested in blood, so I was just like, that makes sense.
+
+Austin: Yeah, I think maybe Aterika’Kaal also been doing this, but lapping is more of a beast, is more of a creature…
+
+Keith: Okay, sorry. Continue.
+
+Dre: Mm.
+
+Austin: So how are you invest— how are you Discerning? How are you…how are you investigating your…? 
+
+Dre: I mean, I'm definitely getting up close. I mean, I think—
+
+Austin: Yeah.
+
+Dre: It maybe even starts with Chine not even necessarily worrying about what It's doing. 
+
+Austin: Mm-hmm.
+
+Dre: But like getting up close as, you know, as Lye is like pulling out the heart, and… 
+
+Austin: Yeah, you're bagging up some of these needles. 
+
+Dre: Yeah, Chine’s just seeing, okay, like, what else is here that would be useful—
+
+Austin: Yeah.
+
+Dre: —that I can get off of this thing?
+
+Austin: You very quickly, then, see the sort of like, you know, the follicles of these needles beginning to grow on Its flesh. ‘Cause it currently is smooth, right? 
+
+Dre: Mm-hmm.
+
+Austin: Like a, like, It’s fleshy. 
+
+Dre: Yeah.
+
+Austin: Right? 
+
+Dre: I think of like dolphin skin. 
+
+Austin: Yeah, yeah, yeah. 
+
+Keith: Ugh.
+
+Austin: Well, imagine if a dolphin’s skin suddenly looked like it was like just… [laughs softly] like it had a five o'clock shadow, you know? [Keith and Sylvia laugh]
+
+Dre: Oh. Oh, I hate that.
+
+Keith: Ugh.
+
+Austin: Like, there’s suddenly follicles here, as these needles begin to slowly push through. And there is something about…I mean, you see that faint red glow in its eyes. And the thing that I want, with a ten, the thing that I want to communicate is that it's not just about it’s eating the Ravening Beast, right? Maybe part of what happens here too is—to better communicate this—is its lower jaw extends and pushes through its flesh the way yours does sometimes, or your upper jaw sometimes does, your skull and stuff does.
+
+Dre: Mm.
+
+Austin: It's as much about reflecting you and your behaviors as it is eating this thing and consuming part of what the Ravening Beast is. That didn't help! You know, you are what you eat, as they say, in a very paternalistic way often.
+
+Dre: Yeah.
+
+Austin: But it is eating…it is consuming this thing that we've talked about as being metaphorical for some sort of, you know, you know, psychoanalytical desire—
+
+Dre: Right.
+
+Austin: —for violence or power or something else, who knows what. So it is doing that, but it is also reflecting your long term behaviors. 
+
+Keith: [sarcastically obtuse] Sorry, Austin, this is just my dream dog, and it doesn't mean anything. 
+
+Austin: Oh, sorry. Sorry, your dream dog. Yeah, it's just your dream dog. [Keith and Dre laugh] Sorry, apologies to your dream dog. Which is definitely permanently dead now, for sure, for sure. It's not. Or is it? 
+
+Dre: I don't…this feels bad. 
+
+Austin: Mm-hmm.
+
+Dre: This feels bad. Um…
+
+Austin: Why? [Dre sighs] 
+
+Keith: Tell it no.
+
+Dre: The Course is a lot of things. It does not feel cursed. 
+
+Austin: The Course— uh, the Course is Cursed.
+
+Dre: Is it? Okay. 
+
+Austin: In our game, the reason you have Cursed is the Cursed— Cursed refers to things touched by the Course. Yes. 
+
+Dre: Oh, okay. 
+
+Austin: A hundred percent. 
+
+Dre: Oh, okay.
+
+Austin: Technology is the Shape and the Structure. Cursed is— in Heart, Cursed is the Heart, right? 
+
+Dre: Mm.
+
+Austin: The Heart is Cursed, and things that are like fleshy and gooey and gross are Cursed, right? 
+
+Dre: Okay.
+
+Austin: Versus Occult, which has that more magical thing, right?
+
+Dre: Yeah, yeah, yeah.
+
+Austin: The more structured magical. For us, the reason you are the character who starts with Cursed or who got Cursed early is because you are the one who's comfortable in places like the Moon-Touched Woods, the kind of…the strangeness and wilderness of it all is the Course. I was actually just looking at the list of domains to make sure I was on the right track while building this, this particular Delve and stuff. [reading] “Cursed areas of the City Beneath are actively harmful to those who would venture inside. Where the parasite dimension of stone and flesh exists most closely with the outside world, the bodies and minds of delvers are corrupted by the strangeness of the place. These places are mostly shunned by inhabitants and may become tied to religious rituals. The witch settlement of Hallow is built on cursed catacombs where the elders of the cult are buried so that they might be fully absorbed into the Heart Itself.” For us, that is the Course, right? 
+
+Dre: Mm-hmm.
+
+Austin: So a little less fleshy than it is in the Heart. It has a sort of touch of, quote unquote, wild for us in a way that it doesn't here. But it is that sort of raw, postmodern, you know, empty signifier, anything can be anything. 
+
+Dre: Yeah.
+
+Austin: And so, so yeah.
+
+Dre: Okay.
+
+Austin: That doesn't mean you shouldn't be concerned by this, let’s say, but…
+
+Dre: Well, and maybe this is difference between me as person being concerned versus Chine being concerned. [laughs] 
+
+Austin: Right.
+
+Dre: [sighs] ‘Cause I still think, in Chine's mind, even if Cursed is the Course, there seem—
+
+Austin: Mm-hmm.
+
+Dre: There's still a like, a different vibe to them between, you know, a cursed animal that like comes from Lye’s brain curse.
+
+Austin: [amused] Mm-hmm.
+
+Dre: Versus like something that's, in Chine's mind, quote, unquote, “true Course.” 
+
+Austin: In-nature Course, yeah. 
+
+Dre: Yeah, yeah, yeah.
+
+Austin: I think this is— I think it's important that we frame that as a stumbling block for Chine, who has particular—
+
+Dre: Yeah.
+
+Austin: You know, particular perspectives on nature and people and where that line is— where those lines get divided, you know? I think…I really love Chine, because Chine both seems like they undercut our natural inclinations towards civilization and the wilderness but also kind of reaffirms them. It's just that Chine often is situated on the other side of weirdness and wilderness, right?
+
+Dre: [chuckles] Yeah.
+
+Austin: So. Anyway, do you pull— do you pull it away? Do you…?
+
+Dre: Yeah. Yeah, I think I just, I reach out for It and just kind of like tug at it. 
+
+Austin: It snaps at you, but then you're able to tug it away, and it gives up on the pine needles. 
+
+Dre: Mm. 
+
+Austin: But it does snap at you.
+
+Dre: I think I go:
+
+Dre (as Chine): Ah! [scolding] Uh uh uh uh! 
+
+Keith: Um…
+
+Austin: [laughs softly] Uh huh? And hey, you're here now. You're in…
+
+Keith: Yeah.
+
+Austin: You are in the…Lyke’s Aterika'Kaal domain.
+
+Keith: So, yeah. So I do have a couple, couple things. 
+
+Austin: Yep. 
+
+Keith: The first thing is I want to let Chine, who hasn't been in here, right? 
+
+Austin: Yeah.
+
+Dre: [“I don’t know” sound]
+
+Keith: Or maybe a downtime one time?
+
+Austin: Maybe a downtime one time.
+
+Keith: I'm explain— I'm definitely doing a better explanation to Hazard and a explanation to Chine, if Chine hasn't been in here, about…about the place. Maybe I give a brief Aterika'Kaal introduction. I don't mind explaining.
+
+Austin: Yeah, well, how do you explain Aterika'Kaal? What do you— what do you say about Aterika'Kaal?
+
+Keith: I'm gonna ask Chine, I guess, about what they know about Aterika'Kaal. 
+
+Dre: Uh…
+
+Keith: Like, did we talk— 
+
+Keith (as Lyke): Did anyone talk about the Rose, uh…
+
+Austin: Roseroot.
+
+Keith (as Lyke): Roseroot, Roseroot Hall, to you?
+
+[1:00:00]
+
+Dre (as Chine): Not really. I'm gonna be honest, they might have. I've kinda— I've been preoccupied.
+
+Keith (as Lyke): Well, long story short, there was this sort of cursed god that was haunting this mansion. 
+
+Dre (as Chine): Uh huh.
+
+Keith (as Lyke): And we…we were there to get rid of it. And a little bit of it was like, [pitifully] “Noo.” And I felt really bad about it, and I thought maybe I could get it back up to not being evil.
+
+Dre (as Chine): Well, eh, what made it evil?
+
+Keith (as Lyke): Blood, uh, pacts? Ancient blood pacts? 
+
+Dre: [laughs softly] Looks back at pile of blood that my pet was just eating.
+
+Austin: Uh huh. Uh huh.
+
+Dre (as Chine): [unconcerned] I mean, I guess that could be bad, but okay. 
+
+Keith (as Lyke): Um, so. I mean, it's definitely dangerous. Like, even if it's not evil, it still is dangerous. 
+
+Dre (as Chine): Okay.
+
+Keith (as Lyke): But it's also— it's also under control. 
+
+Dre (as Chine): Hey, I—
+
+Keith (as Lyke): You know, for now.
+
+Dre (as Chine): I trust you. 
+
+Keith: Uh, and I guess in whatever sort of real world language, explain about that they can heal Echo, Supplies, and Fortune Stress. [Austin, Keith, and Dre laugh]
+
+Austin: Yes.
+
+Keith: So if you have any that kind of Stress, you can heal D8 out of that. And then I—this is a new one—I can find a non-unique item of D8 value or lower.
+
+Austin: Ooh.
+
+Dre: Ooh.
+
+Austin: Hey, where do you think those came from?
+
+Keith: Those…
+
+Austin: Yeah.
+
+Keith: Items?
+
+Austin: Yeah, those items.
+
+Keith: They was just in here.
+
+Austin: Oh, it was just in here. Let's find out what. Give me a— oh, it's just once per session. You just get one, huh?
+
+Keith: Yeah. Yeah, you just get one.
+
+Austin: Let’s say the first one was not something taken from the body of something Aterika'Kaal killed. Let's just say it is like a D8 rose. Right? A perfect rose. It's a Wild D8. Maybe it's a bouquet of them, you know?
+
+Keith: Okay. 
+
+Austin: D8 Wild, and it's a gift from Aterika'Kaal as it continues to lap up the remains of the Ravening Beast. [laughs softly] 
+
+Keith: Wild. Since, uh…no, never mind. I don't…it’s not important.
+
+Sylvia: Um…
+
+Austin: Mm-hmm?
+
+Sylvia: So, it's D6 to get rid of— a D6 resource to get rid of Minor Fallout?
+
+Austin: It is. So, the thing here is you can straight up just remove D8 on Echo, Supplies, or Fortune. 
+
+Sylvia: Mm-hmm.
+
+Austin: But that does not equal…I don't believe you can use this to get rid of Fallout. 
+
+Sylvia: Oh, I can't? Oh, okay, never mind.
+
+Austin: But you can— but you can— you can use it the way you could use a temple. Do you know what I mean? It will…you could spend— this is a place where you could spend a resource to heal those types of things. It just doesn't do it for free.
+
+Sylvia: Oh, so I am— okay. As long—
+
+Austin: Yeah, yeah, yeah.
+
+Sylvia: Like, that’s fine. I just wasn't sure if I was able to do it.
+
+Austin: Yeah.
+
+Sylvia: I was gonna use the stick knife that I got, 'cause I don't want to be carrying that around.
+
+Austin: No, you don't want to carry that knife around?
+
+Sylvia: Not really.
+
+Keith: Just real quick to clarify. We…it is for free for here, right?
+
+Austin: Healing is free. 
+
+Keith: Oh, gotcha.
+
+Austin: Like, a refresh is free, or like healing Stress is free, but healing Fallout still requires an exchange of some sort.
+
+Sylvia: Yeah.
+
+Dre: Oh.
+
+Keith: Gotcha. Gotcha. Okay.
+
+Austin: I believe.
+
+Keith: Yeah.
+
+Austin: I believe that is how we've played it. 
+
+Keith: Yeah. 
+
+Austin: That is what my gut says, anyway. 
+
+Sylvia: Makes sense to me. 
+
+Austin: Yeah.
+
+Keith: Yeah, 'cause I remember we, at first, weren't sure whether healing was free or not. 
+
+Austin: I think it’s free.
+
+Keith: But it does say, “When you meditate, you get…”
+
+Austin: Yeah, that's totally free. 
+
+Keith: You heal, yeah.
+
+Austin: So that means that anybody who has Echo, Fortune, or Supply Stress should heal that, should roll a D8.
+
+Sylvia: I only have one Fortune Stress, so, should I…
+
+Austin: I mean, so yeah, clear it. Yeah.
+
+Sylvia: …even roll?
+
+Austin: No, you don’t need to roll.
+
+Sylvia: Yeah. And I'm gonna make this stick knife off my sheet now.
+
+Austin: You're sure you want to get rid of the stick knife and not the worst knife that you have?
+
+Sylvia: Uh…
+
+Austin: The hooked blade. 
+
+Sylvia: Yeah, the… [sighs] 
+
+Austin: [laughs softly] I know the hooked knife sucks.
+
+Keith: Wow, called out. [Dre laughs softly] 
+
+Austin: Because it—
+
+Sylvia: The hooked knife is like shittier, but I also don't want to be carrying around this guy's knife specifically. 
+
+Austin: Yeah. Mm-hmm.
+
+Sylvia: So I think, in character, that Hazard would want to get rid of it. 
+
+Austin: Fair enough. 
+
+Sylvia: More than…
+
+Austin: Yeah.
+
+Sylvia: More than I would want to use the resource.
+
+Austin: I get you. You don't want to trade it to somebody else? I know that I'm playing real min maxy here, but it's a D— for people who don't know, it's a D6 Piercing Good knife. 
+
+Keith: Ooh, that's really good.
+
+Sylvia: Yeah.
+
+Sylvia (as Hazard): Do you guys— look, does somebody want this fucking knife? I don't want to have it. 
+
+Sylvia: That can be in character. I’m Furious. I’m allowed to say the F word.
+
+Keith: That’s better than my Aterika’Kaal knife.
+
+Dre (as Chine): I mean…
+
+Austin: It is. 
+
+Dre (as Chine): It’d just be a shame to throw away a good knife. [Austin laughs softly] 
+
+Sylvia (as Hazard): What do you got? 
+
+Dre (as Chine): Oh, are we— I thought you were just giving. We're not, we're trading? 
+
+Sylvia (as Hazard): Why would I give it away for free? 
+
+Dre (as Chine): Well, you didn't want it. You were just gonna get rid of it. 
+
+Sylvia (as Hazard): Yeah, but I was gonna use it. 
+
+Dre (as Chine): Okay. I mean, I've got a regular knife. You don't like that knife.
+
+Austin: Chine does have just a D6 hunting knife. 
+
+Dre: Yeah.
+
+Austin: That's just a regular D6 hunting knife.
+
+Keith: It's the same value though, for the healing purposes, right?
+
+Austin: It is. It is.
+
+Sylvia (as Hazard): Yeah, sure. Okay.
+
+Dre (as Chine): All right. 
+
+Dre: What are the tags on this weird knife I just traded for?
+
+Austin: Piercing…
+
+Sylvia: It’s Kill, Piercing, Good.
+
+Austin: Yeah.
+
+Dre: Okay. 
+
+Sylvia: And it is a sharp stick knife, D6. 
+
+Keith: Piercing, that's sick.
+
+Austin: Piercing’s real good.
+
+Sylvia: Yeah. Went right through my hand.
+
+Austin: I got it, Dre.
+
+Dre: Oh, yep.
+
+Austin: I just popped it in there for you.
+
+Sylvia: Am I cool to delete it now? I don't wanna get rid of it before…
+
+Austin: Yeah, you go ahead and delete it. You're good. 
+
+Sylvia: Cool. And I'm not gonna even take the other thing, ‘cause I'm immediately using it to get rid of Forboding. 
+
+Austin: Yeah, yeah, yeah.
+
+Dre: Mm.
+
+Sylvia: I can't get rid of Furious, ‘cause it's Blood…?
+
+Austin: It’s Blood Stress.
+
+Sylvia: Is Furious Blood Stress? 
+
+Austin: It seems like…wait, is it?
+
+Sylvia: That's— I would have guessed, though…
+
+Austin: Maybe we just put that wrong.
+
+Sylvia: I might have marked that wrong.
+
+Austin: Let's see. Uh…nope, it's Blood. Yeah.
+
+Sylvia: It is Blood? Okay.
+
+Austin: “You're hurt, short-tempered, and perceive slights everywhere.” I’d slide that into Mind or I'd accept anybody taking that in terms of Mind.
+
+Sylvia: Yeah.
+
+Austin: I guess it's because it comes from Blood.
+
+Sylvia: Yeah.
+
+Austin: That's from Blood damage. That's why it's there.
+
+Sylvia: That makes sense.
+
+Dre: Mm.
+
+Keith: Um, I…if it's Blood, I can heal you. 
+
+Sylvia: You can heal my Fallout?
+
+Austin: I think we've, again, decided that you cannot heal Fallout. 
+
+Sylvia: Yeah, I was…
+
+Austin: You can heal Stress.
+
+Keith: Um, I actually— I thought we decided specifically that Blood Fallout I can heal, at least some of it, with— because I have like basically magic stitches. 
+
+Austin: You do have magic stitches. I guess it's a thing of like…but that's not the problem here. The problem is…the thing here is that, is not, the thing here is that Hazard is furious, not that Hazard has cuts on them. 
+
+Sylvia: Yeah.
+
+Austin: You know?
+
+Keith: Right. Sure. Okay, fair. 
+
+Sylvia: I’m just angy. 
+
+Keith: Yeah.
+
+Austin: You're just angy. 
+
+Keith: I can’t fix angy. 
+
+Sylvia: Yeah.
+
+Austin: Yeah. Yeah.
+
+Dre: Can you…can you fix my fucked up ankle? 
+
+Austin: Now that, to me, makes perfect sense. That, to me, fictionally follows that you could use your healy stuff to try to heal Fallout. Yes. I think, Keith, what we decided on was that you have to roll for it when it comes to Fallout.
+
+Keith: Right. Yeah, yeah, yeah.
+
+Austin: You have to do a Mend check.
+
+Keith: Yeah.
+
+Austin: But if it makes sense and you do have the spiderweb hands and all that stuff, we should let that happen. That can work, for sure. 
+
+Keith: Okay.
+
+Austin: So, do you want to do that? Do you want to do a Mend, Mend Wild on Chine?
+
+Keith: Um, yeah, I can do that.
+
+Austin: Let's do it.
+
+Keith: Mend, Wild, um…
+
+Austin: Uh, take your— are you using your once a session Mark of the Weaver?
+
+Keith: Um…
+
+Austin: Or are you saving that?
+
+Keith: Yeah, I can use that. Yeah, I’m gonna use that.
+
+Austin: Then take Mastery on it.
+
+Keith: Okay.
+
+Austin: Let's say that gives me Mastery on this.
+
+Keith: Gotcha. Mend, Wild, Mastery. Roll. Six. 
+
+Austin: Success at a cost. That's not the end of the world.
+
+Keith: No.
+
+Austin: But you are in a bad place to get a mixed success, because again, this is D8 damage place here. Take four Mind Stress, Lye, as you…as you need to, uh…as this is a stressful thing to do.
+
+Keith: No Fallout.
+
+Austin: Phew, close one.
+
+Keith: Yeah. 
+
+Austin: And you could now meditate to get rid of that Mind Stress, right? ‘Cause you haven't done that yet. 
+
+Keith: Uh, that is tr— 
+
+Austin: Or did you do that to get rid of something else that I've already forgotten about?
+
+Keith: Um, well that— mm…no, it's only Echo, Supplies, or Fortune.
+
+Austin: Oh, it's not Mind. Okay.
+
+Keith: Right.
+
+Austin: Well, then. All right.
+
+Keith: But it's fine, because—mark it down, this is a historic occasion—when your Mind Stress is four or higher, roll with Mastery when you attempt to cast a spell.
+
+Austin: [laughs softly] Love it. Great. Finally.
+
+Dre: Mm.
+
+Keith: Finally. I got it.
+
+Austin: And then, yeah. Chine, Lyke sets your ankle or whatever and supports it with some spider web, magic spider web ink, and uh, from his hands, and now you’re all fixed up from Limping. 
+
+Dre: Thank you. 
+
+Keith: No problem. 
+
+Austin: All right. We should get back to this Delve. 
+
+Keith: Yeah.
+
+Austin: I'm gonna say that this whole little encounter was a boon. Someone give me a D4, as if you’ve kind of advanced further here.
+
+Dre: Um…
+
+Keith: I recommend—now that we got rid of the monster in the cave—that we go through the cave.
+
+Austin: Uh, that monster— 
+
+Sylvia: So we roll a D4?
+
+Austin: You put that monster in the cave. [Dre laughs] 
+
+Keith: Oh, right.
+
+Austin: That monster was not naturally in the cave. [Keith laughs] Yeah, someone give me a D4, as a furthering—
+
+Sylvia: Yeah, I got it.
+
+Austin: You got it. Okay. 
+
+Sylvia: Oh, wait. Why did that not work? ‘Cause I forgot the one. What? Okay. [Austin laughs softly] 
+
+Dre: You good? [laughs softly] 
+
+Sylvia: Yeah, I'm just typing poorly. I got a three.
+
+Austin: There you go. All right. You come back out of Aterika'Kaal's domain and continue your journey. You safely— uh, the— for people who don't remember, a boon is a thing that can happen in a Delve where you like successfully do a little mini side quest type thing. You're rewarded with a boon that lets you kind of advance further, do some damage to the Delve, even though you didn't technically move forward. So, in this case, I think killing Ater— or at least temporarily knocking out, uh, the Ravening Beast, not Aterika'Kaal—I started to say Aterika'Kaal, that's wrong—the Ravening Beast earns you that boon. So yeah, you end up making some progress. Whichever way you end up going, maybe you go up and over the hill, it's, you know, pretty much eventless. It's a simple journey up the hill. And from the top, you actually do see a little campfire down below with three people at it, and then beyond the trees and this kind of edge of the forest, you can see your destination from here too. And that destination is a…it looks like, from this distance, a quarry of some sort? It's a hole in the ground where people are, you know, have dug up a lot of stone. You see big piles of big stone, kind of giant stone bricks that are being hauled, you know, up the kind of the side of that quarry. I would say it's probably still a couple of hours away, but you can see it from this hilltop. And then again, yeah, below, you know, probably 30 minutes away, is a campfire down in another little grove. Or another little al— not alcove. Uh, a grotto? What do you call— clearing. A clearing, I guess, in the woods. 
+
+[1:11:11]
+
+Keith: [laughs] A glade? 
+
+Austin: A glade. That's, yeah, a glade counts. 
+
+Dre: Mm.
+
+Austin: Yeah, mm-hmm. Um, so yeah, which way…which way you going? You headin’ down, you gonna check out the people who are down there? You gonna just try to beeline it as quick as you can?
+
+Keith: I'm always down for checkin’ out some people.
+
+Sylvia: I mean, I guess…
+
+Austin: Yeah.
+
+Sylvia: We know which direction…like—
+
+Austin: Yeah, yeah, yeah.
+
+Sylvia: Do we know like geographically where we are?
+
+Austin: You know that you're about here on the map, near the E in Sangfielle. 
+
+Sylvia: Okay.
+
+Austin: You're nearing that place to your left, which will be another landmark of some sort.
+
+Sylvia: Okay. My— I was like wondering if we should like figure out, like, get advice from people. 
+
+Austin: Yeah. I mean, I think it's probably fair to head down that way and, and kind of descend this hill and see how it goes. Give me a…give me, um, one more Delve roll here to get down this hill safely. It's a little treacherous. And again, you are feeling sort of drained by the Residuum fuckery, but you're moving quick enough that it hasn't quite hit you too bad. You know?
+
+Keith: Not limping anymore.
+
+Austin: Not limping anymore. Is this a Chine and Lyke roll, as they've been?
+
+Keith: Uh, yeah, sure. 
+
+Sylvia: Yeah, I don't have (??? 1:12:29)
+
+Keith: Who's on point here? I can do it again. I don't mind. 
+
+Dre: Um, yeah. I mean, I think at this point, with not having a fucked up ankle, Chine is also happy to be in front and do the roll.
+
+Austin: Chine also has zero Stress compared to Lyke’s nine. 
+
+Dre: That’s true.
+
+Austin: So…
+
+Keith: Right, but I'm getting that Stress either way if I'm helping. 
+
+Austin: That's true, you are.
+
+Dre: Mm.
+
+Keith: So.
+
+Dre: You could just not help. 
+
+Austin: But— 
+
+Keith: I will—
+
+Austin: You could just not help. 
+
+Keith: Eh, yeah. We can do that.
+
+Dre: Listen, you’ve…
+
+Austin: Yeah, we’re almost…
+
+Dre: You worked hard. 
+
+Austin: You can tell you're almost done this. 
+
+Keith: Yeah. 
+
+Dre: You can just vibe.
+
+Austin: Yeah. [laughs softly] 
+
+Dre: What's the, uh…what is the domain?
+
+Austin: It is either Warren or Wild, for you.
+
+Dre: Okay. And it's a Delve, right? 
+
+Austin: And it is a Delve.
+
+Dre: Okay.
+
+Austin: Standard. 
+
+Dre: Boom. 
+
+Austin: Hey, that's a fucking crit.
+
+Keith: Nice.
+
+Austin: Give me, uh…do you have any Delve equipment? You don't, but because you got a ten, it still goes up from a D4 to a D6. 
+
+Dre: Oops.
+
+Keith: Oof.
+
+Dre: That's not…
+
+Keith: Oh, that's just one— it just rolled a one.
+
+Austin: Uh, you rolled one F6 is what you rolled there.
+
+Dre: Yeah. (??? 1:13:29)
+
+Austin: All right, there we go. There's three. [Keith laughs] All right, yes. You lead the group down this Residuum-drained hill and towards the little campfire you see. I'd say that it is…by the time you get there, the campfire is starting to go a little harder as the suns begin to set. And here, as you near it, you see three humanoid figures and then also four larger animals that are kind of, uh…what do you call it when you like put a horse and its reins like on a thing to like keep it from getting away?
+
+Keith: Uh… 
+
+Austin: You know what I'm talking about.
+
+Dre: Mm.
+
+Austin: Right? You got a horse, and you like go, “hey, you stay here, bud.” 
+
+Keith: Hitched. They’re hitched. 
+
+Dre: Hitched, yes.
+
+Austin: They’re hitched. Yeah, they've been hitched. Three of them have been hitched. And I said horse, but I want you to imagine is what if…what if a shrimp were a horse? 
+
+Dre: Okay.
+
+Keith: Got it. Got it. [Sylvia laughs] 
+
+Dre: Yeah. Hell yeah! Hell yeah. Hell yeah.
+
+Keith: Yeah.
+
+Dre: And all three of them got hitched together? [Sylvia laughs] 
+
+Austin: Three of them got hitched. One of them's bigger. 
+
+Dre: Okay.
+
+Austin: One of them is like what if a lobster or like a bigger…
+
+Sylvia: Oh.
+
+Dre: Dang.
+
+Austin: Like, bigger than a shrimp. And that one has—
+
+Dre: So we've got married polyamorous shrimp horses. Got it.
+
+Austin: Pfft. They got hitched, that's right. 
+
+Dre: Yeah, uh huh. 
+
+Austin: Good for them, honestly! [laughs] The fourth one, the larger one, which does feel more crustacean than— [Dre laughs] really what I was looking at for this were…there's a thing called lawn shrimp, which is gross to look at. If you don't want to see bugs, don't look up lawn shrimp. They're terrestrial anthropods.
+
+Dre: Aaah! These are gross.
+
+Austin: I told you. Yeah, they're sort of flea-like, so like, know what you're getting into here. But like, they're like that. They're like these big, gross-looking…if it makes it— if it feels better to think about what if a shrimp were a horse, that's, stick with that. And it's kind of, you know, that's kind of the vibe. Three of them are clearly meant to be kind of terrestrial, like, just like beasts of…like just traveling beasts, and one of them's a beast of burden. You know, the bigger one, the more crustaceany one is a beast of burden, is currently— is itself tied to a wagon, and that wagon is filled with supplies. It looks like a lot of food and some fuel, you know, like wood and stuff. And maybe some like key building supplies. There's like, you know, buckets of nails and stuff in there in the wagon. The three people, um…who's met these people before? Lyke, at the very least, you've met…you've met these people before. Except now they're wearing new clothes.
+
+Keith: Wait, but they're in the— 
+
+Austin: You know them—
+
+Keith: They're already at the other side!
+
+Austin: [laughs softly] The Toll Collectors. 
+
+Keith: Yeah. 
+
+Austin: Uh huh. The Toll Collectors who are the, um…Adeline. Or Ad— was it Agdeline? What— let me look at these names again.
+
+Sylvia: Yeah, Agdeline.
+
+Austin: It's Agdeline, right? Yeah, yeah, yeah.
+
+Sylvia: Yeah. 
+
+Austin: Ettel and Larch, who are a devil, a drakkan, and a big ole human is Larch. 
+
+Dre: [intrigued] Mm.
+
+Austin: And they're seated around this campfire, and they've given up their…they've seemingly given up their— or at least in terms of their outfits, they look more professional than they've ever looked before. 
+
+Keith: Oh, good for them. 
+
+Austin: They are wearing leather armor, kind of musketeer-style armor, minus the tabard that like the kind of French musketeers wore, and instead they have these little half capes, and the half capes feature a symbol I don't think any of you have seen before. It's just this kind of butterfly. It's like a…imagine something in the fleur-de-lis style, that kind of very simple, symbolic, you know, coat of arms style look, but it's a butterfly silhouette. And they're kind of sitting around chewing the fat here, around this fire. And you can— as you walk up, you can hear that they're debating some sort of plan about going down to the quarry, about whether to go, you know, at night or to wait for sunrise. Y'all introduce yourselves? Do you just ignore them? What do you do?
+
+Keith: Um, I think I yell out to them, like, uh…like:
+
+Keith (as Lyke): Oh, what are you all doing out here?
+
+Austin: I think two of them look to Agdeline, and she kind of stands up and wipes herself off and says:
+
+Austin (as Agdeline): All right, who's that there? Come on out. 
+
+Keith (as Lyke): It's me! It's Lyke!
+
+Sylvia (as Hazard): This guy just knows everybody, huh?
+
+Austin: [laughs softly] I think Larch, at that point, stands up and says:
+
+Austin (as Larch): Lyke! Uh, from Katonya and… [voice drops] Bell Metal.
+
+Keith (as Lyke): Yeah, and from the mugging.
+
+[Music plays: “Sangfielle”]

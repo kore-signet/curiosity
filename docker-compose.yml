@@ -1,0 +1,23 @@
+version: '3'
+services:
+  search-at-the-table:
+    build: ./search
+    ports:
+      - "8080:8080"
+    environment:
+      - "PG_USER=curiosity"
+      - "PG_PASSWORD=quire"
+      - "PG_DBNAME=searchtable"
+      - "PG_HOST=db"
+
+  db:
+    build: ./db
+    environment:
+      - "POSTGRES_USER=curiosity"
+      - "POSTGRES_PASSWORD=quire"
+      - "POSTGRES_DB=searchtable"
+    volumes:
+      - db_data:/var/lib/postgresql/data
+
+volumes:
+  db_data:

@@ -1,0 +1,1686 @@
+Marielda 03: The Crosstown Job Pt. 1
+Transcriber: Dylan (disasterpaladin#7113) 
+
+AUSTIN (as the Narrator) [slight drawl]: It has been fifteen years since the forces of the Boy-Traitor Samot were turned away from Marielda by the violent ingenuity of the Artificer Divine Samothes. Thousands died in the finally battle of the war, and so the people of Marielda gathered to rebuild again. Except, now, with the esoteric machines of the Father Inventor, Marielda regained itself at speed. And with speed, it has changed. The city has realigned itself, [Marielda STARTS PLAYING] splitting into six parishes, each centred around a church of Samothes, and each corralling a disparate crowd into a compact mass. 
+New walls and buildings have spread into place, ready-made, lifted up by the unseen pistons of the holy apparatus. The deep abyss where the Tower of Mages once stood has bloomed verdant into an architectural and natural wonder. The Hanging Gardens of Maelgwyn, a monument to the missing son of Marielda. And in the southeast, the factories have remained factories, and the only thing that's changed about the refugee camp is there's less room and more people. 
+After all, a war is on, and the living soldiers of Samothes himself have marched out of Marielda and into Hieron to confront Samot once again. In their absence, Marielda broils. Automatic constables, frustrated exiles, and the petty politics of the wealthy-and the struggles of those who dream they might be. [CLARINETS BEGIN]
+[0:02:50 MUSIC ENDS]
+AUSTIN: Hey everybody, welcome to Friends at the Table, an actual play podcast focused on critical world building, smart characterisation, and fun interaction between good friends. I am your host, Austin Walker. Joining me today for Blades in the Dark: is Jack de Quidt,
+JACK: Hey there, um, you can find me on twitter at notquitereal, and you can play the game I wrote on Steam, it's called Dr Langeskov.
+AUSTIN: Is that it, is that the whole title?
+[Ali laughs]
+JACK: Yeah, uh, we really major in short titles.
+[Dre laughs]
+AUSTIN: Ali Acampora
+ALI: Hi! You can find me on twitter at ali_west
+AUSTIN: Andrew Lee Swan
+DRE: Hey, you can find me on twitter at swandre3000, and you can watch the streams I do at streamesteem.com
+AUSTIN: And everyone's favourite....Sylvia [Sylvia laughs] Everyone's favourite- I wanted a noun at the end there, and I couldn't find a good one. I almost said Canadian, thinking that you were the only Canadian on the show, but you weren't-
+SYLVIA: I'm not anymore!
+AUSTIN: We added a Canadian, so...
+SYLVIA: Loved by all moms, it's me!
+[Dre laughs]
+AUSTIN: Sylvia Clare
+SYLVIA: What's up?
+AUSTIN: Where can people find you on the internet?
+SYLVIA, laughing: twitter.com/captaintrash
+AUSTIN: Welcome, Captain Trash.
+SYLVIA: Thank you.
+ALI: Everyone's favourite trash.
+AUSTIN: We are playing Blades in the Dark today, and we are building off of the world that we built originally in The Quiet Year, so. Blades in the Dark, just as a quick shout out to John Harper, is the person who designed this. Ah- I played actually, in a Apocalypse World game with John Harper two summers ago now, and he's great! You can find him on twitter at john_harper.
+So, Blades in the Dark, is a game that, quote, "is about a group of daring scoundrels building a criminal enterprise in the haunted streets of an industrial fantasy city." Even though we are doing this in our own city, and not in the city that is built into the game Blades in the Dark, it is still an industrial fantasy city. "There are heists, chases, escapes, dangerous bargains, bloody skirmishes, deceptions, betrayals, victories and death. We will play to find out if the fledgling crew can thrive amidst the teeming threats of rival gangs, powerful noble families, vengeful ghosts," and some other...things that are in the city that are not in this write up that he did, because we're using our city-our setting and not his.
+My goals as the DM are to play to find out what happens, to bring Marielda to life, and to convey the world honestly. And because this is the first time we're playing Blades in the Dark, I wanna read what my principles are. They are: be a fan of the PCs, let everything flow from the fiction, hold on lightly, address the characters, address the players, paint the world with a haunted brush, surround them with industrial sprawl, and consider the risk.
+So, let's talk a little about the setting before we get into the characters, actually. That'll help, y'know, set up what your characters are, and who they are. As I said in the intro, we are fifteen years after the Quiet Year game. Which means that, y'know, there are people who were born in Marielda now, who have lived, y'know not to their adulthood necessarily, but who are now like, working. They go to the factory to work, and they were born here. They don't remember a world outside of Marielda. 
+Things have changed a little bit since the Quiet Year. It used to be, if you remember from the previous game, that there were kind of, I guess three or four sections to the city. There was Canopy Row, which was in the southwest. There was kind of like an indistinct middle area, there was the Golden Zone, and there was the eastern district where the Cobbins and some of the exiles ended up, near the black sands. That has changed because it has been fifteen years.
+Things sort of uh, you know, became organised. There is now a proper city council, and a number of other factions that help rule this place. The specific thing that happeneds is, the city was cut up into a number of districts, each based around a central church. So, there are actually six parishes, and then there's another kind of zone which is not exactly a parish because of politics.
+To the far north, which used to be outside the wall to the north of Marielda, where the exiles first started- and kind of refugees first started showing up, is now a place called Violet Parish, it's the Church of Violets. That's where that big water rock was, also, if you remember that from the previous game? That area was...a military district, and it's kind of where all the soldiers gathered, and where they trained, it's like a mix of like military corners, with lots of military compounds, and then...some like entertainment red light district style, like nightclubs and bars and like...very 'oh, this is entertainment for all the men and women of the military,’ basically. That district has since kind of emptied, and it's really weird there now. Most of the humans -- most of the mortals, not just humans -- who were part of the- Samothes' military, have left on a campaign to the north. So now, that district is like...strange and empty and there's some like mercenaries who have moved in, and it's kind of a weird mystery out there right now. The pala-din also go to a single compound up there. Uh, come and go.
+To the south of that, is kind of the remnants, or an updated version of the Gold Zone, that kind of...slid...because remember one of the things that Samothes learned how to do, or kind of decided he wanted to do because that was his wont want, is he reconfigured the city such that the Gold Zone runs horizontally across the entirety of the middle of Marielda. That is now called Chrysanthemum Parish, and that's where the University is, that's where there is like, the biggest church. That's where the courthouse was.
+It is also where there had been the...ah, that big hole in the ground, that used to be the mage tower? That has now become Maelgwyn Park. Which is named for Maelgwyn, who you might recall disappeared towards the end of the Quiet Year. People have started - not a lot of people, but some - have started to form a cult around Maelgwyn and see him as...y'know, either the child of Samothes or...you know, an aspect of Samothes, and that cult has become powerful enough to have effectively taken over a couple of these parishes. Not by force, but by political power, right? Like enough successful rich people have decided that they have joined that cult, that like 'oh, we can't just shut them out, they are important now, I guess'. So, they don't control Chrysanthemum Parish, but they have enough power now to have got that park named for Maelgwyn.
+What was formerly Canopy Row, is now Orchid Parish. Still sometimes called the Canopy by its burgeoning middle class of merchants and cafe owners. The house that used to be owned by Tamsyn is now owned by the cult of Maelgwyn and it is...this just like, really weird, like gentrifying space. It is where if you have managed to save up enough of your money from working in the shitty factories or whatever, or if you have already come from money, but got priced out of the Chrysanthemum Parish, you might be in Orchid Parish now. There is one other thing, which is the Weavers. Which is what Hedy and her other weird long armed people, called themselves, still live there. On shacks in the roof, or on rooftops and in the netting, and....they are not particularly welcome anywhere? But they are still allowed to live there for now, at least.
+To the west of that, outside the walls, is Quince Parish, is where the elves live. It's also still snowy over there from that time Samot tried to come, and now it’s just icy and shitty over there. But like, the water still...has fire under it? So you can't- if never fully freezes, or it's hard to tell if it's frozen? And the uh- I think it’s the church of- I have to check my notes really quick. The church of...nope, not the church of Maelgwyn, there, just the regular old Church of Samothes is out there, like doing missionary work with the elves out there, trying to bring them into the fold.
+The biggest and most central district is Helianthus Parish, which is often just called Hell's Parish, even though they don't have the word 'hell' like we do...maybe they do. Maybe we just decide that the word hell means the same sort of thing. [Ali laughs] But- it's Hell's Parish, and it's where the working class live, it's where the bulk of the population is, it's where Christopher used to have his church and hospital. He is no longer in control of either of those anymore. We'll come to that, I'm sure, at some point. And that's just kind of like, the densest, tenements and everything is overheated and- I suspect a lot of the Weavers also live there, on rooftop shacks? It's also part of the old Canopy Row, got kind of cut off and kicked out from Orchid Parish and into Helianthus. They kind of redistricted, the worst bits of the old Canopy row?
+And there's the Irish parish- not Irish, Iris Parish, and that is the factories district from before. Not a lot of people live there, you know some studios some loft spaces, artists presumably have started moving in. And there is also a giant white, monolithic, like church. Super broad, it's like an obelisk that's just massive. And that's there.
+And then there's Emberboro which is the little like, outcropping on the eastern shore. And that is where the refugees and the Cobbins live in majority, in their weird stone structures that go underground. And that....is...not a parish...because it is not officially recognised as an autonomous space. It is technically part of Helianthus Parish, it is a lot of weird stone buildings, it is some like, refugee camp style, uh tents and throw-tos, and that's also where the black sands are. And the end of that outcropping is called Slow Point. And you don't want to get taken to Slow Point. 
+ALI: Oh.
+AUSTIN: Is all I'll say.
+ALI: Yikes.
+AUSTIN: And also there's still that- there's still that volcano, that's still there. And there's still a weird hole in the water out to the east, or like, the south of Slow Point, I guess. So that's where the city is. There are lots of other things, I’m gonna talk about that as we play. I don't want to just go through the lore list here. But like, things have happened. 
+So that's the state of things. Let's talk about you, and like, what you all do together. Do you want to start with the crew, or do you want to start- let's start with the individual characters, because that way we can kind of understand what the weird criminal enterprise you have is, based on who you all are. Who wants to go first?
+[PAUSE]
+AUSTIN: No one.
+[Dre and Ali laugh]
+AUSTIN: Let's go down this list.
+DRE: It's a lot of pressure, Austin.
+SYLVIA, laughing: It's- always like that with us.
+AUSTIN: Sylvia, you made a mistake, which is your character's name starts with 'A'
+SYLVIA: God damn it!
+[Ali laughs]
+SYLVIA: Ummmm
+AUSTIN: That's on you.
+[Dre laughs]
+SYLVIA: Wait hold on, I need to do something really quick to my character....
+[Ali laughs]
+SYLVIA: Lemme just...
+AUSTIN: Oh my god.
+SYLVIA: I take...it starts with a 'Z'-
+AUSTIN: Hey, Jack-
+SYLVIA: Nah, I can start. I can start.
+AUSTIN: Okay. Zaubrey.
+SYLVIA: Yeah. Zaubrey. No, my character is Aubrey. I believe I am the only Cobbin in the group. Um,
+AUSTIN: It says here that you are 50% dog, 50% lizard-
+SYLVIA (over Austin): Okay no let me- I gotta, I gotta read this.
+[Ali and Dre laugh]
+SYLVIA: I'm 50% dog, 50% lizard, 10% luck, 10% skill, 15% concentrated power of will. I come from Fort Minor- no, I don't.
+AUSTIN: No, bad!
+SYLVIA: My character- but yeah, my character is a Cobbin, she's sort of this little, bookish...alchemist, basically?
+AUSTIN: Ooh,
+SYLVIA: I'm a Leech character, which basically means I'm the person who tinkers with everything.
+AUSTIN: Yeah.
+[0:15:00]
+SYLVIA: Specifically with chemicals and arcane substances, is what I've got her in. And she's from Emberboro, being a Cobbin-
+AUSTIN: So that's her...that is her heritage?
+SYLVIA: That's her heritage, yes.
+AUSTIN: So what did... so when you choose a heritage, you should have a second step there? Not only the stat that you get, but there's a second thing (SYLVIA: Okay,) when you choose your heritage or your background. Which is like - so their example in the book is 'oh, I'm from Scovlin, and I'm from a family of ore miners.' and the background for that example character is 'oh, I'm a lab-I'm in labor and I'm a leviathan hunter'. So it's like, the category and then a specific thing.
+SYLVIA: Okay,
+AUSTIN: So if you don't have that right now, that's cool, but just- write that in when we wrap back around, maybe?
+SYLVIA: I kinda do have it, I was just thinking,
+AUSTIN: Oh, okay, go for it.
+SYLVIA: I might actually- I had this, I was thinking, for both- for either of my background or my heritage, I was thinking that for- not necessarily as a front, but as like a day job, she works as something of like a makeshift apothecary, for people in Emberboro.
+AUSTIN: Yeah. Okay, then maybe that's...
+SYLVIA: That- would that be more for background?
+AUSTIN: So yeah, that would be background if that's like, what your job has been.
+SYLVIA: Okay
+AUSTIN: But like, alternatively her heritage could be that, because that's- she comes from a family of alchemists, do you know what I mean?
+SYLVIA: Yeah, I was also- that's where I was thinking how she learned this while in basically the slums so, yeah.
+AUSTIN: Right. And what are your, what are your abilities- what do your abilities do, basically?
+SYLVIA: So the abilities I have right now, Alchemist- the special abilities you're asking for?
+AUSTIN: Yeah, yeah.
+SYLVIA: It lets me tinker with chemical and arcane substances to design and produce poisons, drugs, and other strange mixtures.
+AUSTIN: Mmhm.
+SYLVIA: And the other thing I took is Saboteur, which is when I use my wreck stat, the work is much quieter than it should be (AUSTIN: Huh.) and the damage is hidden from casual inspection.
+AUSTIN: That's really cool
+SYLVIA: Yeah.
+AUSTIN: Awesome.
+SYLVIA: Yeah. And for- I actually have an idea for background, too.
+AUSTIN: Okay.
+SYLVIA: If you want me to just do that really quick?
+AUSTIN: Yeah, do it.
+SYLVIA: I was thinking she could be a smuggler of sorts- before the crew got together she was already smuggling like, medical supplies to people from-
+AUSTIN: That's cool.
+SYLVIA: Yeah. From around like, just around all of Marielda, like...she's small, she can get in places.
+AUSTIN: Sounds good. The only other thing I'm gonna do really quick while I'm on your sheet is I'm gonna add your playbook goal to where it says 'mark XP'
+SYLVIA: Oh! Cool.
+AUSTIN: Because the way XP works in this game is there's kind of playbook XP and there's like, ability XP? You get ability XP whenever you use an ability in a desperate situation, so like a- if you are in a fight, and like you're- there's no way you should be swinging at this person but you take a shot at them anyway? Then you'll get XP for that. The other thing though is like, you get- whenever you do a specific thing for each playbook, so for you it's whenever you address a tough challenge with technical skill or chaos, you'll get to mark playbook XP.
+SYLVIA: Okay.
+AUSTIN: And then, if you expressed your beliefs, drives, heritage or background, mark XP, or either playbook- on playbook or abilities, I think. Sorry- I'm actually looking at your sheet, and when you turn-when you change it, I'm getting confused.
+[overlapping]
+SYLVIA: It's fine, I'm so sorry, I'm trying to organise my shit.AUSTIN: It's okay, I should just deal with them over here. 
+AUSTIN: So at the end of the session if you expressed your beliefs, drives, heritage or background, get XP, and then you also mark XP if you struggle with issues from your vice or traumas. So that brings us to your vice. What is your vice? Every character in this game has a vice.
+SYLVIA: My vice is weird. I... figured it was the most fitting one. "You experiment with strange essences, consort with rogue spirits, observe bizarre rituals or taboos et cetera."
+AUSTIN: So that's like- yeah, the way vices work in this game is like, you know instead of having- you kind of have HP in this game, but you also have this thing called stress, and that is your kind of main...HP pool in a weird way? And...in order to get rid of stress, you have to go dig into your vice a little bit. And that isn't just like- one of the things I like a lot about this game is, that isn't just a euphemism for substance abuse. Like, going to see your family is a vice. Or could be a vice. There's a million- it's just the thing you need, it's not a judgemental vice. It is just like, 'I need this thing to fucking calm me down and make me feel more like a human being'.
+SYLVIA: Yeah.
+AUSTIN: And obviously...y'know, everything in moderation. If you overexpose yourself to your vice, things can go bad. But if you fail to let yourself go have your vice, you also will eventually suffer trauma. And that would be bad. So yeah, weird is a cool one.
+SYLVIA: Yeah.
+AUSTIN: Alright, I think that's it for Aubrey for now...let's talk about Captain E. Hitchcock.
+JACK: Okay, so...Captain Hitchcock is a...an ex-cavalry officer from Samothes' army.
+AUSTIN: Okay.
+JACK: I'm playing with the Slide playbook, which is described as a "subtle manipulator and spy". And now, in his ex-military days, Hitchcock runs a dancing academy in Chrysanthemum Parish to teach rich kids how to dance. [Austin laughs] And...at night, the same school becomes a duelling academy and there's often a fairly major overlap in the pupil books.
+AUSTIN: [laughs] Dancing and swordplay are not that different, I suppose.
+JACK: No, not really. So my two skills are Cloak & Dagger, which is when I use a disguise or other form of covert misdirection I get +1 effect. When I throw off my disguise, the resulting surprise gives me the initiative in the situation.
+AUSTIN: That's really good. That's like a very, 'aha! I got you!'. Yeah.
+JACK: Yeah, ‘it was me, all along!’ [Ali laughs] And the other one is Like Looking Into a Mirror which is that I can always tell when someone is lying, which I figured was a useful skill to pick in a game where Austin is in.
+[Everyone laughs]
+AUSTIN: Good! So you get to mark playbook XP whenever you address a tough challenge with deception or influence. Which is interesting.
+JACK: I do, yeah.
+AUSTIN: What are your- what's your heritage and your background?
+JACK: My heritage is I, uh- I when I was a kid, I used to try and sneak into fancy parties in Chrysanthemum Parish, from Orchid Parish. And I think- originally, I think that was just so I could go to the parties, as just this tiny kid, and then I think as it got further, I was like 'I could just like...steal stuff while I'm here!' [Dre laughs] 'I can just like, leave with stuff!' So... that’s a finesse point. And then my background is just military.
+AUSTIN: Cool.
+JACK: Cavalry officer, swung a sabre from the back of a horse, so now I have a point in Skirmish. For that.
+[Ali snickers]
+AUSTIN: Cool. That's-yeah. Y'know. Did you do that in a- did you do that like, to people?
+JACK: I'm sorry?
+AUSTIN: How many people- how many people have you killed?
+JACK: Oh. Um, well? Austin? [Laughs] I think there's a number...ah, where you stop counting.
+AUSTIN: Alright, well. Good to know.
+[Ali laughs, then Jack laughs uncomfortably]
+AUSTIN: That's fine.
+JACK: Shall we move onto Hitchcock's vice?
+AUSTIN: Yes!
+JACK: Hitchcock's vice is gambling!
+AUSTIN: Ooh,
+JACK: And I don't know exactly what that is yet, but- but I sort of picture that as...a desire to...demonstrate...themself as being ah, better. Or being good. So in their downtime they can be found at-at underground fight clubs, either betting on people, or fighting themselves, or they might be found at horse or dog races...or they might place bets on themselves in a duel...
+AUSTIN: Cool.
+JACK: I mean, they're willing to take a fall. When Austin and I were talking about him, we kept coming back to the fact that like, Hitchcock is a scoundrel-scoundrel.
+AUSTIN: Right, like- not just like- not just like 'ah yeah, what a good guy, but kind of a goofball’, or like kind of a... like, he's actually up to no good. Is what you're saying.
+[Ali laughs]
+JACK: Yeah, he's like a legit scoundrel.
+AUSTIN, amused: Okay. Good!
+JACK & AUSTIN: Um,
+JACK: And partly- sorry, wait- partly to reflect this- (whispering) and I know probably isn't a great idea in the long run, but I like it enough to try and stick with it
+AUSTIN: Uh-huh.
+JACK: I don't have any points in insight.
+AUSTIN, also whispering: Oh, that's a bad idea!
+JACK, still whispering: Austin! What if though?!
+[Ali and Sylvia giggle]
+AUSTIN, dismayed: You've no points in insight. Okay.
+JACK: No!
+AUSTIN: So briefly, for the listener. [Jack laughs] The way that the stats work in this game: there are three categories; insight, prowess, and resolve. There are kind of subcategories underneath those, like insight is: hunt, study, survey, and tinker. And then- so, so the way it works is to do things, you use your action abilities, almost like verb here. Again, like: hunt, study, survey, tinker, finesse - finesse is, I guess finesse is a verb - prowl, skirmish, wreck, et cetera. And then to defend, you use insight, prowess, and resolve. And so, if you have no insight, that could hurt you in the long run! It'll just take a bit of stress, don't even worry about it. It'll be fine.
+JACK: It'll be fine!
+AUSTIN: It'll be fine. Alright. Let's go down the...down the chart. Ali.
+ALI: Hi! Hey! Um, Jack, I have enough insight for the both of us, so it's fine.
+JACK: Ah, thanks Ali! [Dre laughs] Ali, I feel that your and my exploits as Hella and Lem [Ali laughs] has demonstrated that that's...uh, you know? Yeah.
+ALI, laughing: We'll be fine. This is great.
+AUSTIN: Just halfsies it. Yeah.
+ALI: So I'm playing Castille, who is a pala-din.
+JACK: Oooh!
+AUSTIN: Ooh!
+ALI: Yeah, she's just a marble lady. She-
+AUSTIN, laughing: Let's be clear! This isn't- for listeners at home, you didn't like, miss some shit. Like- [Ali and Jack laugh] that's not like, a category of being, that play- you can't just like, be that. There is- the city isn't just filled with pala-din who have jobs. Right? Who have- who go to cafes or whatever. Like, this is a weird thing. Most of them just walk around in circles and then stab people when it's time to stab somebody.
+ALI: Yeah!
+AUSTIN: They don't have- they don't have names. For instance. [Ali laughs]
+ALI: Yeah, Castille chose her name from a sign that she saw. She really liked the-
+JACK, under their breath: Ahhh that's so good!
+ALI: -the way that it sounded? And yeah, so she um, she's a pala-din who like, has a personhood. And like...a business, and like an apartment? Which is good for her, I guess?
+AUSTIN: Mmhmm! It is good for her!
+ALI: Her heritage is that she's from Irish Parish
+AUSTIN: We're all just gonna say 'Irish', we're all just gonna say it.
+ALI: I mean- did I just say? I did just say that. That's fine.
+AUSTIN: You did say it. Yep!
+ALI: Which Austin just said is the place where like, all the factories are? Which I think makes sense. I- [she sighs] It's gonna be tough playing her, cause I don't...really know how everyone is gonna react to her?
+AUSTIN: We'll find out.
+ALI: Yeah, we will. But I imagine that like, she doesn't...she doesn't go out during the day a lot. And if she does, she's probably wearing like, a big floppy hat. So people don't look at her too closely?
+[Austin laughs]
+AUSTIN: She's made of marble, [Ali laughs] and has obsidian scarring, it says here.
+ALI: Yeah, but- okay, so it's-
+AUSTIN: But she has a floppy hat on, so don't even worry about it.
+ALI: Yeah. [Laughs harder]
+DRE: Master of disguise.
+ALI: So the- so like for game purposes, the class that I'm playing is Hull, and the- one of the like, benefits of being a Hull is that, one of the things that you have if you're like a humanoid, is that you have a lifelike appearance? So I imagine that like- like if you saw her walking down the street, she would look like a person until she passed you.
+AUSTIN: Right.
+ALI: So she just like, doesn't have- like if she doesn't get super close to anyone she's fine. And like, also most of her body is covered, she like wears a dress (AUSTIN: Sure.) with a turtleneck and long sleeves- she looks cute, but it's fine. She's also a blacksmith. So- that's my background, I'm a merchant blacksmith, I... I imagine she makes things in like, her studio? And then they get sold at like, a fancy shop somewhere, like she doesn't-
+AUSTIN: You got consignment or something?
+ALI: Yeah, yeah exactly
+AUSTIN: She has somebody else go and run them to get sold.
+ALI: Yeah.
+AUSTIN: What's her vice?
+ALI: I...am torn on what my vice should be.
+AUSTIN: Mmhmm.
+ALI: I was...hmm...so I-
+AUSTIN: So my- just a, by default, by the way the book says, it's like 'oh, no, you're a robot, so you're- you don't have a vice, you just have to go recharge. Yourself.'
+ALI: Yeah that's boring and I hate it.
+AUSTIN: It's really boring, so we're just gonna do stress. [Ali laughs] We- I get it, like, for- if John is listening, I get it, like this is...you shouldn't want to be a robot in this game. It means that you-someone has put your fuckin soul in someone- something's body. It's bad. It's 'oh, you've died, and someone stole your ghost and put it into a clockwork machine, you don't get to be stressed anymore you just have weird...drain'. So like, we get it. But this is more fun for us.
+ALI: Right. Also, like- you're not supposed to start as a Hull, you're supposed to make a character and then die and then be forced into it, I think? But we're starting like this ‘cause...why not.
+AUSTIN: 'cause us. 'cause us.
+ALI: Exactly. So like, I'm torn between luxury and obligation? The idea I have for obligation is that like, sometimes she just goes down to...she either goes to Chrysanthemum or to the military district and... does a shift as a normal pala-din.
+AUSTIN: Mmmmm.
+ALI: But I don't know if that's like...leaning too into the lore?
+AUSTIN: No, that's interesting. That is interesting. I don't dislike that.
+ALI: Okay.
+AUSTIN: Luxury is fun because it makes you sound like a Lupin III character? [Ali laughs] But like- which is dope- but like, I also do like obligation.
+ALI: Yeah.
+AUSTIN: Especially if it's just like, an instinct?
+ALI: Right.
+AUSTIN: Like, she can't help it. Or she can, it sucks though. She wants to go do it, it doesn't feel- yeah. It's like missing one of your gym days, of the week, and being like 'oh this is- I feel thrown off, like everything- my whole week is just wrong, right now'.
+ALI: Right. 'cause it comes from stress, right? So if she's had a particularly bad week she just kind of wants to I guess, shut down, like the person part of her? And like just...go be this thing that I guess, I don't know. I'll figure it out. I guess.
+AUSTIN: Does she know? Does she know what she- like, she's aware during all that?
+ALI: Um...
+[0:29:59]
+AUSTIN: Oh, wait- no. Sorry. No. That's. Yes. She's totally aware,
+ALI, unsure: Okay.
+AUSTIN: Except that, the way vices work, there's a chance that you could go into it too deep.
+ALI: Okay. And- oh, and she won't come back out.
+AUSTIN: Right.
+ALI, understanding: Oh!
+AUSTIN: Or, no- you can come back out, but like- you just...disappear for a while.
+ALI: O-kay.
+AUSTIN: So like- there's a thing in this system, there's like, a while down time...system, basically? Where it's like 'okay, we're in between missions, I can go and you know, indulge in my vice et cetera, and there's a thing called overindulgence where there's a chance that when you overindulge, you can attract trouble, or you can brag about your exploits and get the cops on you more....or you can disappear for a few weeks or more. [Ali laughs] No big deal. So like, hey, if you get that one, if that's where you end up then we know what happened. Then we know that you lost- you didn’t' come back to your personhood the way you were supposed to.
+ALI: Right.
+AUSTIN: Which is interesting. Cool.
+ALI: The reason I was thinking about luxury actually goes into what one of my moves is. So, she’s a pala-din usually, which is this like marble person statue who can move and talk, but she can also put her consciousness into the frame of a small, like, cat figure?
+AUSTIN, whispering: Yes!
+ALI: Mmhmm! Yep! Which is like, a cat-sized cat figure that like, has jewelled eyes. I think that the way that that ended up happening is that she was looking in a shop window, and saw it and really wanted it? And stared at it long enough [Austin laughs, Ali starts laughing] until she realised that like...she had done that. And then just walked out with it.
+AUSTIN: That's really good.
+ALI: Yeah. Um,
+AUSTIN: I like that a lot. Alright. So....Dre....
+DRE: Yeah.
+AUSTIN: Let's talk about your character.
+DRE: Uhh...my character is Sige Coleburn, and he is a Cutter, which is a "dangerous and intimidating fighter".
+AUSTIN: Mmm.
+DRE: So his heritage is...I have marked that he lives in Emberboro and he is basically an orphan labourer, so I imagine his... (AUSTIN: Cool) his uh, parents probably died like, you know when the fighting first broke out y’know, ten, fifteen years ago.
+AUSTIN: Okay, so is he from...is he...from Emberboro? Like, was he...one of the refugees who came here fifteen, sixteen years ago? Or was he....?
+DRE: I think, so I think he was-
+AUSTIN: Did he just kind of wind up there?
+DRE: He was born to his parents in the Golden Zone, (AUSTIN: Oh, okay) but after they died he ended up in Emberboro.
+AUSTIN: Oh, that's cool. Okay.
+DRE: And kind of fell in with a group of basically like other orphan kids who all just went to go work in the factories.
+AUSTIN: Right, right. Cool.
+DRE: Uh...his-
+AUSTIN: You know, factory work. No big deal.
+DRE: Yeah, it's fine. Well then, he kind of turned that factory work into...so, I marked on his appearance that he's missing two fingers on his left hand.
+AUSTIN: Okay.
+DRE: I imagine that's from a nice, wonderful factory accident. And so, then being unable to do factory work because of his mangled hand, he turned to his background, which is 'underworld saboteur'.
+AUSTIN: Okay. Huh.
+DRE: So basically, Sige just does whatever needs to be done for money, whether that's...you know, rival factories wanting accidents to happen, or intercepting deliveries, or...breaking into places... (AUSTIN: Mmhmm.) Just...just doin’ dirt, basically.
+AUSTIN: What's he...what's he look like? Like, picture of him in my head?
+DRE: Are you...are you wanting me to read this quote that I have at the end here?
+AUSTIN, pleased: Yeah, that'd be- it's a, it's a good note.
+DRE: The note I has, the note I have here is "if Mark Henry joined the Vaudevillains"
+AUSTIN: Good!
+DRE: Uh, so...
+AUSTIN: Good.
+DRE: Yeah. He's just a huge man. And he's got like a, like a... like an old-timey like, bareknuckled boxer looking guy, like a button up shirt, suspenders, trousers, boots...like the whole thing.
+AUSTIN: Perfect. Perfect and good.
+[Sylvia laughs]
+DRE: So my two special abilities, the first one is Brutal: my attacks are more powerful, I hit something as if I'm wielding a heavier weapon. Which in game terms means I gain potency versus physical targets. And then, my second one I guess, in a shout out to our last Friends at the Table game, is Not to be Trifled With, and in close combat I am equal in scale to a small gang.
+AUSTIN, amused: Good! Perfect! Good.
+ALI: Hmm....hopefully you'll use that move once.
+[Austin and Dre make pained sounds]
+AUSTIN, under his breath: Oh my god.
+[Ali laughs]
+AUSTIN: Uh, it'll actually come up a lot in this game. Is what I'll say. Which is weird.
+DRE: I- I do have the, like advantage of also not being the person who has to be in the spaceship the whole time.
+ALI: Yeah.
+AUSTIN: Totally. 
+[Jack chuckles] 
+AUSTIN: Yeah. So the way- the reason I say it'll actually come up more is that, the way effect works in this game, the way you get stuff from rolling involves us having to take a second and go like, 'okay, well wait a second. How much of an effect should you have here?' Like, this is kind of like, I don't care how many times you punch a wall, it's gonna be limited- it's gonna have a limited effect, whereas if you punch a paper towel that's being held tight, that's- you're gonna have great effect. [Dre giggles] You know? And being a small gang will help the level of your effect. Because the scale- you'll have the higher scale in conflict.
+DRE: Yeah. And the way-
+AUSTIN: I promise I won't get too complicated- it's one of those things that we can just like, hit the ground running on it, and like...be pretty good just by playing it by ear.
+DRE: Yeah. And the way that Cutters gain XP is addressing a tough challenge with violence or threat, so...
+ALI: Cool!
+AUSTIN: Gotcha.
+DRE: Be fighting things, all the time.
+AUSTIN: Or breaking them. What's up with your vice?
+DRE: So my vice is obligation,
+AUSTIN: Mmm.
+DRE: And it's to the family boat. So... Sige’s parents helped work on that...um, what did we say that boat was made out of? It was basically the magical boat they made to try and get to the obsidian in the- melty- melty water.
+AUSTIN: Yeah, it was sort of like- yeah it was sort of like, melted down magical like, shit. It was old lockets that had little enchantments on them.
+DRE: Yeah. Um, and so...in my head, like when his parents died he like, ruffled - he went through the house basically, and kind of took what he could carry with him. One of the things he grabbed was a journal that talked about the process of building this boat. And so I imagine he just has like, a kind of lockup shack somewhere on the Black Sands where is just like...slowly trying to build one of these boats so he can get out of Marielda.
+AUSTIN: Mmhmm. I like that a lot, yeah. Or even like-
+DRE: And I imagine-
+AUSTIN: If it's your vice, it's like...you're never gonna finish this boat.
+DRE: Oh hell no. But I'm gonna throw a lot of money, and materials and time into fixing this- into trying to make this boat.
+AUSTIN: It's...it's...the building it is the thing, you know?
+DRE: Yeah.
+AUSTIN: So there is...there are two other things we need to do. Before we move off the characters, I'm glad I revisited this before we moved on. One is- and this is a thing that we can return to, you don't have to do this right this second, if you look at your character sheets,
+JACK: Yeah.
+AUSTIN: There are a bunch of items on those character sheets.
+JACK: Oh god, yeah. I didn't know what to do about those at all.
+AUSTIN: You get them all. You get all those items.
+ALI: Oh!
+JACK: Nice!
+AUSTIN: You have all of them. The thing you have to decide is which ones you have with you. “You have access to all of the items on your character sheet, for each operation decide which your character- what your character's load will be. During the operation you may say your character has an item by checking the box for the item you want to use, up to a number of items equal to your chosen load. Your load determines your movement speed and your conspicuousness. Light: you're faster and less conspicuous, and you can blend in with citizens easily. Normal: you look like a scoundrel, ready for trouble. Heavy: you're slower, you look like an operative on a mission. [Everyone laughs] Some items count as two items for load; they have two connected boxes, items in italics don't count towards your load at all.” So, take a look at that stuff and do that like, in dead time or in between sessions or whatever. 
+DRE: So is the way it works, Austin, that you have to determine ahead of time if you're going to have a light, medium, or heavy, but then you (AUSTIN: Yes.) pick items as you go?
+AUSTIN: Yes.
+DRE: Okay.
+AUSTIN: Totally.
+JACK: That's so good.
+AUSTIN: So here's the other thing you have to do. Which is...we all, everybody needs...to have a friend and an enemy.
+JACK (over Austin): And in the game.
+AUSTIN: I believe we'd forgotten about this- also in the game. [Ali laughs] You need a close friend and a rival. Mark the one who is a close friend, long time ally, family relation, or lover - the upward pointing triangle. Mark one who is a former friend turned rival, enemy, scorned lover, betrayed partner et cetera - the downward pointing triangle. There's a list of these for each class, but you don't- we can just make those up. But look at them, and you know, they're kind of cool. You know, I'll look at a class that we don't have just as an example here. We don't have a Hound, right? And so...sorry, sorry- Aubrey, you don't count as a hound technically.
+[Ali laughs]
+SYLVIA: I mean like, half one.
+AUSTIN: Oh, my god. Uh, like- for Hound, deadly friends include: "Steiner, an assassin; Celene, a sentinel; Melvir, a physicker; Veleris, a spy; and Casta, a bounty hunter." Those are all really good names, I have no problem just using the names in this, but that's only because we haven't thought up our own names. So yeah, come up with some shady friends.
+SYLVIA: I have a name for one.  
+AUSTIN: Oh, yeah? What do you- what's your-
+SYLVIA, smiling: Actually, I know who I want my friend to be.
+AUSTIN: Who's your friend?
+SYLVIA: My friend is Gentle Johnny, he's a Weaver.
+ALI, muttering: Jesus.
+[Dre giggles]
+AUSTIN, disappointed: Jesus christ.
+SYLVIA, pleased: Yeah!
+[Ali sighs]
+AUSTIN: Don't...god. (Resigned) Alright. Write it down.
+SYLVIA: Thank you!
+AUSTIN, resigned: Right. That's in-
+SYLVIA: I just like the idea of having a weird Weaver friend that helps me sneak around when I'm trying to do...
+AUSTIN, resigned: Yeah. Yep.
+SYLVIA: Smuggle-y stuff.
+AUSTIN: Uh-huh. I bet. I bet you do. Um, what about a rival?
+SYLVIA: I have no ideas for that right now. [Laughs]
+AUSTIN: Okay.
+SYLVIA, still laughing: I just know- I just had Gentle Johnny ready.
+AUSTIN: Let's- keep thinking about those, and again you can look at your sheet for inspiration at the very least. But let's move on to the crew.
+JACK: Oh, wait quickly, before we move on.
+AUSTIN: Yes.
+JACK: What I was going to say before I transformed into a horrifying, like [Sylvia laughs] router man?
+AUSTIN: Yes.
+JACK: Was...I- didn't say what my look was.
+AUSTIN: You didn't.
+JACK, happily: Which I only bring up because people who draw characters are amazing!
+AUSTIN: That's true.
+JACK: My look box says: 'Dashing and misguided ex-cavalry officer. Short curly hair. Blue cavalry jacket. Gold braid and buttons.'
+AUSTIN: Perfect. Did we get a Cobbin description from you, Sylvia?
+SYLVIA: Yeah I don't think I gave an actual description, I just gave a joke.
+AUSTIN: You just said 'oh yeah, I'm'- yeah.
+[Sylvia and Dre laugh]
+SYLVIA: And everyone was mad.
+AUSTIN: Can you do us a real one?
+SYLVIA: Yeah. 'Bookish and slight Cobbin with a somewhat blue complexion. Small rounded glasses that are held together by twine, like in the middle'
+AUSTIN: Aww!
+ALI, whispering: God!
+DRE: You're so twee!
+SYLVIA: Yeah, it's super- she's super twee.
+AUSTIN?, in a very small voice: What a cute Cobbin she is! 
+SYLVIA: Usually wearing some form of, like, charred leather lab gear. I have a note here that literally none of her clothes don't have some form of burn on them. [Austin laughs] Like every single article of clothing she has, has some form of alchemical burn.
+AUSTIN, pleased: That's really good!
+SYLVIA: Yeah.
+AUSTIN: Ahh, okay. Good. Let's...now talk about crews while you guys also think about rivals and friends. So step one is to choose a crew type. Your crew type represents the purpose of your crew, its special abilities, and how they advance. There are a bunch of these. By default, you can be thieves, and thieves are about stealing things. So it's about like, sneaking into places and stuff like that. Abilities about like, you know. Not being caught and like, letting the heat die down when that's the...when it's time to do that. 
+But there are also, on top of thieves there are: breakers, which are like mercenaries, it's a lot of like combat-y things? There are...there's a cult, which is - you can guess, lots of magicky stuff and dealing with ghosts and...just general zealotry. There are hawkers which are, you know, they sell stuff. They have different stuff that they sell. It's not- like it's a euphemism for drugs, but it doesn't have to be drugs, it could be anything. Anything that's illicit, or anything that's controlled- you know, controlled substances. You can be smugglers, who are...smugglers. But one of the things that smugglers can get is a vehicle, so. Those are the different things. I know we had talked about hawkers, but I'm not- I don't want to say it's set in stone yet.
+ALI: Yeah, I think we were thinking like, hawkers, maybe smuggler?
+AUSTIN: Yeah. Smuggler is weird because...I guess you don't have to have a vehicle, but I don't imagine...I'd have to hear a really cool pitch for a vehicle to be convinced for smugglers, I think.
+SYLVIA: We got that family boat!
+AUSTIN: Well the thing is- we just did a ship game. That's the kind of thing, for me.
+ALI: Right, right. Yeah.
+SYLVIA: Yeah, nah. I’m joking.
+AUSTIN: Like, we JUST did a ship game, and I don't just want it to be like "oh, it's the new ship!". I kind of want a place, like the thing you get-with your crew,
+JACK: I think I'm team hawker.
+AUSTIN: Yeah?
+ALI: Yeah...
+JACK: Yeah, I think I'm team hawker.
+SYLVIA: I'm down with hawker too.
+AUSTIN: Okay.
+DRE: Yeah, me too.
+AUSTIN: So let me go back to the uh...to the thing, and we'll go through what all the steps are.
+ALI: Yeah, I want like a safe house, or like a…
+DRE: Yeah!
+ALI: Like a crew pad. Yeah.
+AUSTIN: That is totally what you're gonna have! So, I've named it the Six because Aubrey is here, but I'll delete that. We don't need to be called The Six actually.
+ALI: But...
+AUSTIN: No!
+ALI, laughing: Okay, but- wait. But it- it's
+SYLVIA: We do it for the city?
+AUSTIN: There are six different parishes, it's true.
+SYLVIA: You know, the city loves us?
+ALI: I also-
+[Everyone but Austin giggling]
+SYLVIA, muffled: Oh god!
+ALI: I love the idea of there being four of us but we call ourselves 'The Six' and everyone's like 'Where's the other two?'
+[Dre laughs]
+SYLVIA: Yeah. Oh, a ca-
+ALI: And we're just like 'Don't worry about it!'
+SYLVIA: It's the cat thing, and the boat.
+[Ali laughs loudly]
+AUSTIN, smugly: Oh, Ali? Yeah. Don't- don't worry about it, is what I'll say. We could- we could just be The Six. I'm gonna just leave that there. For now. For a reason.
+ALI: We're just gonna see how it feels.
+AUSTIN: Let's- yeah. We're just trying it on for a little bit. [Sylvia chuckles] So, hawkers. Step one, choose a special ability. So let's all, let's peek at the rulebook here, at the different abilities. So your abilities here are like, you can pick any of these I guess, as a group. The top one is “Each PC may add +1 action rating to command, consort, or sway up to a max rating of 3”. Accord: “Some friends are as good as territory, you may count up to three +3 faction statuses to your hold as if they are turf”, which means like, you get bonus turf just by being friends with people. 
+The Good Stuff: “Your merchandise is especially appealing. Your products get +1 quality, when you deal with a crew or faction, the GM will tell you who among them is hooked on your product; one, a few, many, or all.”  We should talk about what your product is, by the way. Ghost Market: “Through an arcane ritual or hard-won experience [starts laughing] you have discovered how to prepare your product for sale to ghosts and/or demons! [Ali laughs] They do not pay in coin!”
+SYLVIA: Oh my god!
+AUSTIN: “What do they pay with?”
+SYLVIA: Oh my god!
+[0:45:00]
+AUSTIN: I feel like that should be a goal, I feel like that one needs to be a goal. 
+[Ali laughs]
+SYLVIA: Yeah.
+AUSTIN:  ‘cause we have to figure out how ghosts work here first. Uh, Patron: “when you advance your tier, it costs half the coin it normally would.” Tiers are kind of like, there are different tiers of faction, right? So when I look at the list all the billion factions I built for this setting, because that's the dude I am- for instance, the Gardeners are a level one- or a tier one criminal underworld faction, Samothes and his pala-din are a tier five! [Laughs softly] So, you know. There's some variation there. 
+ALI: That adds up.
+AUSTIN: Five is the cap, and very few things are five. The next one is “High Society: it's all about who you know. Take minus one heat during downtime and +1 dice to gather information about the city's elite. Hooked: your gang members use your product. Add the savage, unreliable, or wild flaw to your gangs and give them +1 quality.”  [Ali laughs] Don't get hooked on your own supply! Like, step one: don't do it. 
+“To advance as a crew-” so on top of advancing as individual characters, your crew advances, and it advances by: one, acquiring product, attracting customers or covertly selling your contraband; two, improving your product's quality, variety, or prestige; three, bolstering your crew's reputation or developing a new one; or four, contending with challenges above your current station. So, so- what do you think about...these abilities. Where do you want to go?
+ALI: Hmmm... I'm gonna say that I feel like High Society is the most useful, but I am open to anyone else's ideas.
+DRE: How do uh...what do faction statuses do for us? Like, what would getting...on this Accord one?
+AUSTIN: So, faction statuses are your relationships to other groups in the world. 
+DRE: Okay.
+AUSTIN: So when you've- by the time we've done this, you will have at least one relationship with another faction that is- that you have a- a really good relationship with. I'm pretty sure that's how that works. I'm just checking something. Yeah, so there's a chance you could have one that's at three, but at the jump there's- it's kind of a low chance that you'll end up like that.
+DRE: Sure.
+AUSTIN: The other thing is...that sort of talks about how your- that's basically just like 'oh, this is what my relationship is with these other factions'. So if you have a one with them, if you have a positive one with them, it's like 'oh, hey. Yeah, we know each other and kind of stay out of each other's way, and we're generally on good terms, but we're not like, buddies.'
+DRE: Mmhmm.
+AUSTIN: Two is like- and basically that means they'll do a favour for you at a cost. Two is like, 'oh we know each other, we're friends. And we'll do a favour for you at the cost that it would cost us'. You know, hey, listen, we're not gonna cut you a deal here, but we'll do you a favour and we're not gonna make a profit on you either. And then three is like, 'we are for real, we are tight like that, I'll have your back even when it makes no sense to have your back. Like, we'll go to war.' And the negatives is the same, but reverse. Which means that a negative three is like, 'I don't care what it costs me, I'm going to ruin you.' [Ali giggles] And that's-that's the- that's fun, and good! 
+SYLVIA: Yeah!
+ALI: Can- can we talk about some of the factions that exist before we make this decision? 
+AUSTIN: Totally! And- in fact, let’s- how about we skip special ability and move forward, and then we'll wrap back around to it once we have a better idea of how- what we kind of want, and stuff like that. Let's choose a reputation, are you ambitious, brutal, daring, honourable, professional, savvy, subtle, or strange? 
+ALI: Mmmm.
+SYLVIA: Oh.
+ALI: Hmmm.
+JACK: Daring!
+SYLVIA: Daring- it's daring or strange, are the two I'm thinking of.
+DRE: Yeah.
+ALI: Yeah, daring or strange, or ambitious maybe? 
+SYLVIA: Ambitious may- I feel like daring errs on the more interesting side of ambitious. 
+ALI: Yeah, this is true.
+AUSTIN: Ambitious to me sounds like 'oh, we're gonna run this city.'
+SYLVIA: Yeah.
+AUSTIN: Whereas daring is like, 'everyone's gonna know our name.'
+ALI: Right.
+JACK: Daring is like, 'what the hell is that clock tower, and can we be on the outside of it?'
+[Everyone laughs]
+AUSTIN: Yes. Yes. It's up to you guys.
+SYLVIA: The reason I mentioned strange is ‘cause we have a walking robot lady.
+ALI: Mmhmm!
+AUSTIN: And a Cobbin.
+SYLVIA: And a weird little gremlin buddy!
+AUSTIN: Yeah,
+ALI: But I don't know how much the other-you guys- are into magic, so…
+SYLVIA: That's true, well I mean I kinda am, 'cos I'm an alchemist, but…
+AUSTIN: Yeah, but there are other Cobbin alchemists, right? Like if you were a Weaver alchemist maybe that would be a little more-
+SYLVIA: Shit! I didn't even realise I had the option to be a Weaver! [Ali and Dre laugh] God damn it, I've committed already!
+AUSTIN: You've already committed.
+JACK: If we were all Weavers-
+AUSTIN: You have a Weaver best bud.
+SYLVIA: Ah, yeah, I do have Gentle Johnny.
+AUSTIN, laughing: If you were all a Weaver, I would quit Friends at the Table! [Everyone laughs] What are you even talking about? [Everyone laughs harder]
+JACK: 'Oh, you're just all tangled up, huh? Everybody's just’-
+AUSTIN, struggling to catch his breath: You're all just a limp flesh noodle.
+JACK: ‘Oh, you can't get through the door, 'cause you're all just tangled.'
+SYLVIA: It's my favourite thing, I love them.
+AUSTIN: You know like rat kings, when the tails get all-
+DRE, resigned: Ah, why?
+JACK: Right, exactly.
+SYLVIA: Oooooohhh! There has to be a Weaver King now, somewhere in this campaign.
+AUSTIN, questioning: Mmhmm?
+ALI: Fuck you.
+SYLVIA: We have to meet the Weaver King.
+DRE: Nope. Nuh-uh.
+ALI: Fuuuck you!
+AUSTIN: No, we're good because I actually- if you look at the crew, I can click on this factions button and we'll see I have the- we're missing one faction. So now, I'm gonna add the Weaver King.
+[Ali and Dre laugh]
+SYLVIA, excited: Yeeeeeeah!!
+AUSTIN: There it is. Added. That's a level one.
+[Ali sighs in defeat]
+JACK: Holy shit Austin, look at all these fucking factions.
+[overlapping]SYLVIA: I will say though, like-AUSTIN: Ten people. Alright, good.
+SYLVIA: Just getting back to what we were talking about, I think daring is probably...
+AUSTIN: Right, yes.
+SYLVIA: What I'm going to cast my vote for there.
+AUSTIN: I'm gonna, I'll add that in. Alright, you begin with two crew upgrades. You mark two upgrade boxes. I'm thinking about giving you a third one, again to represent that like, oh yeah, this is not a fresh crew. You've done some jobs, like you've all worked together, we're jumping into the middle of this. This is not just- the real reason I'm doing this is that we're not playing a full campaign. If we were gonna do a full campaign you would absolutely get level 0 and your crew would be level 0. But I'm thinking of giving you a third upgrade box just to like, jump right into it. 
+So the way this works, for people at home - I wish you could see it. I guess...you can by getting this game...[Ali and Dre chuckle] but there are...there's kind of a map of your potential lair, and it's really neat because theres like lines- there's like, one two three four, what is it? Five by three grid? Five across, three down, and your lair is in the middle and that's your HQ. And then you click on boxes going outward from there, like following these different connective lines almost like a sphere grid or something? [Dre giggles] and you get bonuses as you build your thing out that way. There's a bunch of cool stuff. Turf doesn't do anything I don't think? It might a defensive bonus or something for your crew? 
+But your other options here end up being like Product Refinery: +1 quality to your products. Let's decide- we need to talk about your product right now. What is your product?
+JACK: I mean we talked roughly about it being sort of like, knowledge and information.
+AUSTIN: Yeah
+ALI: Yeah.
+AUSTIN: I like that a lot. I like it because we spoke a lot during the Quiet Year about how knowledge was a controlled substance. Like, knowledge both mundane and magical and divine are all various levels of controlled. Everything from history to how you build a boat that can go out on the weird fire water to...you know, the history of Samot and Samothes, totally are all things that are regulated very closely. I really like you guys as information brokers.
+JACK: I think what's fascinating about some of this is that we probably can't read a lot of the stuff.
+[Austin and Ali laugh]
+JACK: And it reminds me of like, in the victorian times, rich people would buy books for their library by feet. They'd say 'I'd like six feet of books.'
+AUSTIN: That still happens Jack. You can go to the Strand in New York and do that right now.
+JACK: Well, but you'll know they'll be alright books, though.
+AUSTIN: Hmm, no. Because you're buying them by the foot.
+JACK: [Laughs] Well, I mean it's a lottery, I guess.
+AUSTIN: Yeah!
+JACK: But also, I like the idea that we're able to tell what's valuable sometimes, even if we don't exactly know what it is. So we just sort of have boxes that we know are worth like, 'oh yeah, this is worth something, but I can't read it.'
+[overlapping]SYLVIA: This one's got a picture of a ghost on it.AUSTIN: I do have bad news for you.
+JACK: Oh, what's the news, Austin?
+AUSTIN, amused: You're the only one with no study. The things that you're saying are just true about you.
+[Ali and Jack laugh loudly]
+JACK: Ah, yes. Yes!
+SYLVIA, amused: Yeah!
+JACK: Ah, that's fantastic.
+AUSTIN, amused: Everybody else can totally read fine.
+[Ali and Jack laugh harder]
+JACK: I think I can read!
+SYLVIA: Oh, shit!
+JACK: I just don't know that I can read, um...
+AUSTIN: Oh, wait. Wait wait, Sige doesn't have any. Nevermind, Sige also can't read. We got a halfsies situation.
+[Ali laughs with her hands over her face]
+JACK: That's so good.
+DRE: Oh, no.
+AUSTIN: Uh, Sige, you can read. You can't study, there's a difference.
+DRE: Right, yeah yeah.
+AUSTIN: There's a difference between- or, and you can, it's just- it's stressful.
+[Dre laughs]
+AUSTIN: The way this game works is that you can- you can try-
+JACK: I feel that way about academia.
+AUSTIN: Yeah, me too, and I've fucking done it! It's the worst! Ugh! 
+Okay. It's knowledge. Which is really cool, because the product refinery is sort of like, yeah you have all these feet of books, how do you into something that someone wants? I guess we fuckin' sit down with it and like, pore over this stuff and make- you know, summaries. We break it down into outlines that are actually understandable, we like, break through the weird academic jargon and put it into like, cliffnotes.
+[Ali laughs]
+AUSTIN: You can have safehouses, which are hidden staging areas throughout your turf. You have vice dens, which are...they...give you money during downtime, basically. Which are, I guess, secret libraries, and shit?
+JACK: Ah, man.
+AUSTIN: Where people come and pay you to hang out?
+ALI: Ah, man.
+AUSTIN: That's kind of cool?
+JACK: It's just sort of like a reverse confessional where we tell people things.
+AUSTIN, whispering: Oh that's really good!
+ALI, laughing: Oh my god!
+SYLVIA: Oh! And that's kind of like, in The Quiet Year they had that underground university town too, right?
+AUSTIN: Yeah, no. That's- that's one of the factions as it stands already.
+SYLVIA: Yeah.
+JACK: They just go and sit in a box and one of our agents says to them like (whispering) 'the patrols will move at this hour.'
+AUSTIN: Right, or like, (whispering) 'there are between ten and twenty apples per tree'
+[Ali, Jack, and Sylvia laugh]
+AUSTIN: No, I don't- how much, how many trees do you get on an apple tree? I don't- only the Six know! 
+Uh... you can have informants, which give you info - plus one dice to gather info for scores. Before you go after any sort of heist, you get to do like an investigation beforehand, and informants would help you do that better. You can have a luxury venue, which gives you +1d on consort and sway when you're onsite. So it's like, you could bring people back to your spot and be just like, the smoothest motherfuckers around? 
+There's a thing here called Bluecoat Bribes which- anytime you see the word Bluecoat here just read it as like, pala-din basically. In this case, it’s +1d engagement for sales scores. Uh...I think that that means you have....oh, oh- okay. Yes. So, your engagement rolls at the beginning of your heist, you make a roll to be like 'alright, we're here. We're doing it. We're in it, what's our situation like?’ And so if you were doing a...a score- if you're trying to, instead of stealing something you're trying to sell something? Because you've bribed the guards basically, you will have an easier chance of being on good footing at the beginning of your sale, basically. In this case, maybe it isn't pala-din 'cause they can't really be bought off? Maybe it's like the mercenary units that are patrolling these places, you know. Or even just, like you won't get reported very quickly.
+Alright, what else do you have an opportunity to...Cover Operation, which is -2 heat per score. You're gonna get attention no matter what, a lot like The Sprawl, and this means that you kind of have a front which protects you a little bit. Surplus Caches, which is you just get more money from selling stuff, like selling knowledge basically. City Records: +1 engagement when you are trying to acquire or attract a score, and then Foreign Market, which is you...again, you can sell stuff away from here. In that case you'd almost be like, you're selling knowledge outside of Marielda, and so you get money during downtime there.
+So you get three dots, and you kind of have to draw a bridge here from that central lair.
+DRE: I feel drawn to vice dens after we kind of painted a picture.
+ALI: Yeah.
+AUSTIN: Yeah.
+SYLVIA: Yeah.
+AUSTIN: I can get with that, for sure.
+ALI: I want like a library speakeasy that we run.
+DRE, excited: Ah!
+AUSTIN: It sounds so fucking good.
+JACK: Oh, yeah. Absolutely!
+AUSTIN: I just need to- one second, I need to find a tweet that I did the other day.
+[Everyone laughs]
+ALI: Okay!
+AUSTIN: This was that- there was that great tweet the other day that was...from BAKOON on twitter, who says “the heimengug, new yorks most secret major museum, spirals down for forty floors below the guggenheim. at the bottom is a huge pipe organ.” I'm just saying...
+[Ali laughs]
+JACK: Oh, yeah, that was a great tweet. That was a great tweet.
+AUSTIN: I'm just saying, maybe you guys should have a pipe organ at the bottom of your secret museum library.
+[Dre laughs]
+ALI: Yeah!
+[overlapping]JACK: Absolutely! How did it get down there? We bought it.ALI: So we can play music, uh Jack and I-
+AUSTIN: Jack- they didn't get it down there, it was always down there. They just built everything else around it. That's the real ground, down there.
+JACK, conspiratorially: Where the pipe organ is!
+AUSTIN: So to get to that [he chuckles] to get to...
+JACK: Vice dens
+AUSTIN: Vice dens, you either need to take turf or safe hosues.
+JACK: I'm kind of feeling safe houses. Hidden staging areas!
+SYLVIA: Yeah, that was actually gonna be the thing that I brought up.
+AUSTIN: That sounds good. That sounds good to me. I'm still not sure why you would take turf, and I feel bad that I don't remember that off the top of my head.
+SYLVIA: It's probably like a connecting thing, like say you want luxury venue right away?
+AUSTIN: Yeah, you need to- right, you're right. That just like, makes it quick to go get that. Oh, wait, wait. Here we go, I'm actually going to read this. “Another way to assist in the crew's advancement is by acquiring turf. When you seize and hold territory you establish a more stable base for your rep. Each piece of turf that you claim represents an abstracted support and assets for the crew, usually acquired via extortion or protection taxes from the citizens of that turf. [Austin and Dre chuckle] Each piece of turf that you hold is marked in your rep tracker, the marks on your tracker from turf reduce the amount of rep you need to advance.”
+DRE: Oh, okay.
+ALI: Ooh!
+AUSTIN: “When you advance and reset your rep, you keep the marks from all the turf you hold. So, if your crew holds three pieces of turf, you only need six rep to advance instead of nine. When you advance you'll clear the six rep marks but keep the three turf marks as long as you hold onto those pieces of turf.” That explains that turf bonus in the- in the ability offset.
+JACK: But safehouses though!
+AUSTIN: I mean, yeah totally. Safehouses are great.
+DRE: Are we doing three?
+AUSTIN: Yeah, three. So you could do- I mean, you could do safehouses, vice dens, and turf, if you wanted.
+DRE: Yeah.
+ALI: Right.
+AUSTIN: Or you could do safe houses, vice dens, and informants. Or you could do safe houses, vice dens, and surplus caches.
+DRE: So Austin, what would be the benefit of getting coin, since like all the items that we have are available to us at the start? Like, what do we use coin to purchase?
+AUSTIN: Oh, my friend, you use coin to live a life at the end of the day.
+[Dre and Ali laugh]
+JACK: It determines your ending, right?
+AUSTIN: It determines your ending.
+ALI: What!
+[1:00:14]
+AUSTIN: Yeah. So, coin- (pleased) This game is really good. I like this game a lot. [He sighs] 
+So the way coin works is, you can: use it to get a bonus on certain rolls, so you can just straight up spend it to get a better result when you're you know, doing a research check. You can spend it to make your vice outcome better et cetera, there's all sorts of bonuses you can get just by spending coin. 
+Or, here's the thing, if you- when the game is over, basically, you have to look at how much you've stashed away. So one, you can't ever have more than four coin with you at a time. That's just too much coin. That's just- it's not- that's a lot of coin. So you need to put that somewhere. Whatever you have at the end of your life basically, or the end of the game, determines how you are. So from 0-10 you end up broke. From 11-20 you end up with a tiny hovel that you can call your own. For 21-39 you end up modest; a simple home or apartment, some small comforts. And then 40: you get a well appointed home or apartment, claiming a few luxuries. You might even open a medium sized business. 
+In addition, once you get- when you move up that stash level, from poor to meager to modest to fine, you also just have a quality of life increase? Just in terms of what your day-to-day living is, which changes your kind of narrative reach. That's how you can say 'I pour a nice bottle of wine for my guests to get an advantage, because I live a modest life, and that means I have some small comforts, like some nice wine every now and then.’ Whereas if you're a poor soul, you can't afford nice wine! What the fuck are you talking about? Spend some coin right now if you want to have nice wine! Or tell me where you got it from and take some stress or whatever. 
+So that's what coin is for. Coin determines how you retire, and also just kind of where you're at. There's also like, the fact that like, you need to put coin somewhere. So either you put it in your own stash, or you can store it in the crew, which- you can put four coin in the crew by default, and then you have to buy a vault to put more in.
+[Ali laughs]
+AUSTIN: They'll get you, no matter what you do! They'll get you, no matter what, I swear to god.
+[overlapping]JACK: I propose-AUSTIN: Alright.
+JACK: -informants for our third one.
+AUSTIN: I like that conceptually, a lot.
+Dre: Yeah. Um,
+ALI: Yeah.
+JACK: Okay.
+AUSTIN: Oh, I might be wrong about this too, wait one second. [Dre laughs] I just may have figured out that we might have to- we might be- ah, maybe you're right, one second. Fuck! Yeah, no. That was bad. That was not what we should have done.
+ALI: Oh?
+AUSTIN: We don't get- you might get one of those right now. [Ali makes a sad sound] So what you actually get here are upgrades, which are the other thing.
+SYLVIA: Well,
+AUSTIN: Well now you have something to aim for!
+SYLVIA: Yeah...
+[Jack sighs in disappointment]
+AUSTIN: I might give you the cool thing anyway.
+SYLVIA: Vice dens?
+AUSTIN: I might give you vice dens...or like, safehosues and you can work towards vice dens. [Sylvia and Ali make disappointed sounds] So yeah, you get two crew upgrades from the bottom right, which are: fine false paperwork, fine swag - which is you can just spend that for bribe, you get a bonus for bribes any time. Elite rooks, which are a type of cohort if i believe- yeah they are, they are con artists, spies, and socialites. Lookouts, hawker's rigging, which is like, it's a concealment thing, and then prison contacts. So you get two of those. Or, the other stuff that's to the right there, like: a vault, a workshop, et cetera.
+DRE: Mmm.
+JACK: Hmm.
+DRE: I really like the rigging. Like being able to carry one extra item. I feel like that could come in handy.
+SYLVIA: Yeah.
+AUSTIN: That is really useful. Yeah I could-I think that's probably a good one. And then another one?
+ALI: I really love the idea of fine false paperwork. [Laughs]
+AUSTIN: As just a thing?
+ALI: Yeah!
+JACK: Oh, yeah. I really like that.
+AUSTIN: Me too.
+JACK: Yeah, I really like the idea of that.
+AUSTIN: That'll come in handy!
+JACK: Yeah.
+AUSTIN: The fact that it's fine will even help further.
+ALI: Right.
+JACK: Yeah, I'm actually way into fine false paperwork.
+AUSTIN: You don't say? [Ali laughs] Alright, there we go. Alright. Added. Alright, then you chose a favourite contact. So you begin with all of the contacts here; again, we'll rename these probably between sessions, but it's like: a magistrate, a bluecoat - so in that case, let's say, again we'll say like one of these is a...like someone in the courthouse, one of them is like a, one of the private security people in the Orchid Parish. A broker, a smuggler, a dilettante, and a gang boss.
+JACK: A mid tier government bureaucrat,
+[Ali chuckles]
+AUSTIN: Yep. That's- that's, you know if that's what you want, we can do that.
+[Jack and Dre chuckle]
+AUSTIN: I do feel like roland watt? 1:05:11.2 knows Orth Godlove. [Dre laughs] I feel like that's a good- [Jack and Ali laugh]
+JACK: What about a broker? What about our broker who gives us all the hot trails for the information and the things.
+ALI: And connects us with clients and stuff.
+AUSTIN: Yeah.
+JACK: Connects us with clients,
+[crosstalk]DRE: Yeah, I think that makes a lot senseAUSTIN: I like that a lot.
+SYLVIA: I'm down with that.
+AUSTIN: Sounds good. So it's a broker, and we'll come up with a name.
+DRE: We probably also just should be friends with Marlo Stanfield.
+AUSTIN: Yeah, you need to know Marlo. And you need to be on his good side, so. Um, okay. Crew name and details. Think- "start thinking of a name for you crew. It can be tricky at first, that's okay, you can make a name later based on what the crew is like. Describe the location of your lair and what it is like." What it looks like. That, we do need to do immediately.
+JACK: Pipe organ.
+[Ali laughs]
+AUSTIN: It has a pipe organ. Got it.
+ALI: Okay.
+AUSTIN: What else? Books?
+SYLVIA: Oh, like everywhere, probably.
+ALI: Yeah.
+DRE: Yeah.
+AUSTIN: Lots of books.
+JACK: Just like-
+AUSTIN: No, you can't just have a place where like, you walk in and there's a bunch of books that are illegal! [Ali laughs] That's how you get arrested.
+JACK: I have a dancing school.
+AUSTIN: You do have a dancing school. Is it the basement of the dancing school? Or is it like...
+JACK, matter-of-factly: Well the basement of the dancing school is the duelling school, Austin.
+AUSTIN: Ugh, okay. 
+[Jack laughs] 
+AUSTIN: It's the attic, then.
+SYLVIA: Or the basement of the duelling school.
+JACK: Or the sub-basement.
+[Dre giggles]
+AUSTIN: That's not-
+JACK: It's the basement of the duelling school, yeah.
+SYLVIA: Yeah!
+AUSTIN, laughing: I see.
+DRE: Basements all the way down.
+[Austin and Ali laugh]
+ALI, wheezing: God!
+AUSTIN: What else is it? Is it just- is it like a library? Is it like a smoking room? What's it- what colour is it down there?
+JACK: Oh god.
+ALI, sighing: I- I kind of like the idea of there being like a big rug, and boxes-
+JACK (over Ali): Mmm, gotta get a rug.
+ALI: - covered with fabrics, but then those boxes turn into makeshift tables-
+JACK: Yeah!
+ALI: -that like, Aubrey uses for a bunch of shit,
+SYLVIA: Yeah!
+AUSTIN: Nice. Nice, nice. I love that so much.
+JACK: God, what if we have, like..we have like bookshelves and everything, but there's also just information that's on little scraps of paper, so I reckon we've got whatever the equivalent of sort of, rolodexes or filing cabinets,
+ALI: Yes!
+JACK: Or just like, paper...something that stores lots of tiny pieces of paper that we have to reference.
+SYLVIA: I really love the idea of just a bunch of rolodexes that they open.
+[Ali giggles]
+AUSTIN: Right.
+JACK: Yeah, just like 'oh, let me find this for you-' flip-flip-flip-flip-flip.
+SYLVIA: Yeah.
+ALI: Yeah, or there's like a big-
+JACK: 'There are four apples on these trees.'
+[Ali and Austin laugh]
+ALI: There's like, a big table in the middle that sometimes we hang out at, but it's also just cluttered with like weapons, and paper, and books and stuff.
+SYLVIA: Usually whatever we used for the last job is just left on that table.
+ALI: Right!
+AUSTIN: Yes!
+ALI: I like the idea of it being really cosy and like, we walk in and know where everything is, but if anyone else did they would be like 'oh my god!'
+JACK (over Ali): Oh god, yeah.
+AUSTIN: Yes.
+SYLVIA: Yeah!
+JACK: Well the thing is, we definitely know where the inventory is, where the inventory of all our shit is, as well. Which is definitely something you need to start with, of just like 'oh god, what's in all of this stuff? Look- it's in this box, here's the list.'
+ALI: Right. 'Here's the box of everything we know about fruit, this is the tree box, over there.'
+[Everyone laughs]
+AUSTIN: Yes! Yes. Ah, so good.
+SYLVIA: Guys, do we just want to be fruit smugglers? Is this what you're getting at with all of this?
+[Everyone laughs harder]
+JACK: No no no- we're not fruit smugglers, we're knowledge-about-fruit smugglers.
+SYLVIA: Okay.
+JACK: We can tell you what an avocado is, but we don't have any.
+[Everyone giggles]
+AUSTIN: Who does? Who can afford and avocado in this economy?
+[Jack chuckles]
+SYLVIA: Literally just Samothes.
+ALI: Oh, god.
+AUSTIN: That's it. And he only has the one. So,
+[Ali giggles]
+JACK: And it's unripe.
+[Sylvia laughs]
+AUSTIN: So- I've decided to give you those two claims, which are the safehouses and the vice dens.
+ALI: Oh, thank you.
+JACK: Oh thanks, Austin!
+AUSTIN: Again, you've been doing this for a while, and- it also helps us talk about a little bit of like, what the turf around your place looks like. What parish are you in?
+JACK: I mean, we talked about being in Chrysanthemum, but I'm prepared to...um, to put it in a different place if needs be.
+AUSTIN: I will say, Chrysanthemum is- a lot of attention.
+ALI: Yeah.
+AUSTIN: But if you- you do have contacts there, so maybe that's fine.
+JACK: Where's the last place anyone would look, Austin? That's right, under a duellist, [Everyone starts laughing] under a dancing school, in Chrysanthemum Parish.
+AUSTIN, laughing: Next to the park.
+JACK, laughing: Next to Maelgwyn Park.
+AUSTIN: Perfect!
+ALI: I mean, who do we have an idea of like...who our clients are?
+AUSTIN: So yeah, do you want to talk about factions a little bit?
+JACK: Well we have safehouses-
+ALI: Yeah.
+JACK: Yeah, yeah.
+AUSTIN: I'm not gonna go over all these factions, there's a bunch.
+JACK: No dude, there's like thousands of them.
+AUSTIN: There are- a bunch. One, two, three, four, five, six, seven times four...is twenty eight.
+SYLVIA: Austin, you did it again!
+AUSTIN: I did a big.
+JACK: Austin's made six hundred factions.
+AUSTIN: It's twenty eight, they're split into criminal underworld, city institutions, labour and trade, faith and weirdness. [Dre giggles] Here's what I'll definitely go over. I'll go over the most powerful factions, because those will give you a sense of what the setting is. The most powerful faction in the crime underworld are the Black Slacks. They live in Emberboro, they are the...you know, I’d say fifteen to twenty five year olds? Fifteen to thirty year olds who live in Emberboro, who have- who are descended from the refugees and exiles who first fled here. When they first- when the reconfiguration happened and they got moved into Emberboro- when Emberboro got moved into the city walls, and they started working in the factories to the south? You may remember that those are the good pants people? They had good pants, not just golden pants but good pants?
+SYLVIA: Good pants boys.
+AUSTIN: The supervisors at the factory did not appreciate that. Um, I think that maybe the motivation originally was like, 'hey, we don't have good pants. Like, our other workers don't have good pants. Fuckin' stop showing your weird like, culture from the rest of the continent. Wear these black wool pants.' Like, super hot, gross, cheap, shitty pants. And they did because it was that or starve. And when the next generation of that group grew up, they like...still wear those pants and then wear the most flamboyant shirts you can imagine. [Ali laughs]
+Just like, peach and pink and bright orange. And they like, are basically the- the children of these refugees and they are fucking sick of taking shit. They'll still go do like, a...a you know, a shift or two at the factory, but they are gaining power after the military presence here left. There have been lots of squabbles between them and different authority figures in the-in the districts, and there are so many that it's hard to just...no one has decided 'oh it's time to deal with this' yet, because dealing with it looks very bloody. And it's hard to tell for sure how that'll go. 
+In terms of city institutions, there's the blessed council, who are those who presumably Samothes has chosen? It's- a lot of black box stuff happens there. But they are who kind of run the city day-to-day. There's Samothes himself, who is on this list but might not ever show up in this game. But he's on this list. There is the Golden Lance, who again are the group that- that came out of the notion of those weird magic guns being invented. They are a group of like, ten to twenty investigators who are sort of like, secret police? But they have like, a pretty- they have a mixed reputation, right? Like, Lance Noble Violet has a different reputation than Lance Noble Chrysanthemum. 
+Who else is big and important? The true Church of Samothes is obviously the most important church, I mentioned the- I mentioned Maelgwyn’s Faithful already...um, the Yellow House is the underground library that's in Helianthus Parish. And that was the underground, like secret university that got into a fight that time? In the last game? Um, the Weaver Union is a group of Weavers under Hedy, who are like, petitioning for better workers’ rights and like, to not have to live in shacks but most of them won't join the union because it's risky? It's risky to call attention to yourself. Uh, Marielda Human Resources Company is a-
+JACK: Straight from COUNTER/Weight, the Golden Branch Sector brings you: Marielda Human-
+AUSTIN: Straight away. Yep. They are- they are the people who run most of the non-refugee human labour force in the factory district. It is a- it is another union effectively, it's another collective- collective worker group that is deeply anti-Cobbin, deeply anti-Weaver, deeply anti-refugee. It has lots of power and lots of pull inside of the labour industry here. And then there's the Heat and the Dark, and we don't - eh, who knows? Who knows [Ali giggles] what's up with them. So those are the biggest players. But there's a lot of other stuff here! Like there's the Tea Leaf Set, which is a bunch of like, rich witches. That do tea magic, for instance.
+ALI: What? I could have been one of those?
+AUSTIN: There are the Hospitalle-the Hospitallers du Tristero, who-
+JACK: Uh, pump the brakes!
+AUSTIN: -worship some weird god who isn't from around here, but like...I don't know, they- they came in, they came in during the refugee stuff, but didn't stick with the Black Slacks. They ended up taking over Christopher's old hospital. Weird. 
+There are the Fontmen, who are the people who control knowledge? They are like the FBI but for books? There's the Bureau of Reconfiguration, that's the group that actually theoretically plans and changes the world as necessary? There's Mung, Quarry, & Conveyance, which despite sounding like a real company, is absolutely a criminal enterprise. That's the old- the Mung brothers, who got stuck on that- on that-
+JACK: Oh, those guys!
+AUSTIN: They- they decided, they kind of petitioned to get a um, a license to have boats. To have a boat to go out and get their own obsidian mining going on.
+[1:15:03]
+JACK: I think that's fair.
+AUSTIN, lowly: But really what they do is fuckin' smuggle stuff out of Marielda.
+JACK: I think that's fair.
+AUSTIN: Yeah. Me too. Uh, that's kind of- there's the Nightly news, That's kind of like an everyday underground criminal organisation. They kinda do a little bit of everything.
+SYLVIA: A little ??? 1:15:17
+AUSTIN: You can always check in with the nightly news. That's Snitch Nightly’s crew.
+SYLVIA quietly: So good!
+AUSTIN: Other things here that are like, valuable for you like...um, Sylvia, Aubrey probably knows someone in Black Sand Alchemical, which is a Cobbin alchemy group. Anybody who's from the canopy or from Orchid knows Canopy Investment & Innovation, they are a- they are like a small business association. The Red Rank Irregulars are- okay here's everything you need to know about the Red Rank Irregulars. After all of the humans left to go to war, the ones who decided they wanted to stay in Marielda formed up the Red Rank Irregulars, which are a group of mercenaries. And they are led by a very mysterious woman whose name is Claret Holiday. And then there's the Weaver King. I think that's it, I think that's all of the ones that matter.
+JACK: God, here's what I'm saying. I love the Six as a name, but there are some amazing names on this list.
+[Ali and Austin laugh]
+SYLVIA: Yeah.
+JACK: There are some like, real top end names on this list.
+AUSTIN: Oh, I didn't even get into like,
+JACK: Hard-Work-
+AUSTIN: Hard-Work-Safe-House Security. That's ah- that's-
+JACK: Which has a hyphen between each word until you get to security.
+AUSTIN: That's 'cause Hard-Work-Safe-House is the guy's name.
+[PAUSE]
+[Dre laughs]
+SYLVIA: God!
+ALI: Jesus christ! Jesus christ.
+AUSTIN: Uh, you'll also see Stone's Love Collection and Distribution, Stone's Love is that person's name. But you need to decide who you like here. And the way you do that is kind of neat? By default you start with tier zero, rep zero, [laughs] uh and two coin, but again, I'm going to boost that a little bit- I think your tier is...maybe your tier is zero, because your tier determines how big you are. Um, let's do tier one. Tier one means there's ten people. That you have ten people. So it's you plus a few other people, students at the school probably? And then your hold...probably is weak, which is fun 'cause that means there's a chance it could all go bad.
+ALI: Great! Thank you, Austin!
+AUSTIN: You're welcome. And then, I'll give you...let's say you start with four coins? But that's as much as you can hold in the crew. So. One coin each. Um, "assign faction status ticks. Each player assigns a positive tick and a negative tick with any tier one or tier two faction to represent past interactions. Then as a group, assign one positive and one negative tick at tier three, say why you have good and bad statuses with these factions." Let's go down the list, let's start with Aubrey, who's at the top of my list. Who do you- who do you like here? Who do you have a good positive interaction with before?
+SYLVIA: Ooh, uh...I guess the obvious one is Black Sands Alchemical?
+AUSTIN: Yeah, I think that makes sense. And then negative.
+SYLVIA: Oh, man. Um...okay, nevermind. Oh wait, Black Sands Alchemical are Cobbins, nevermind.
+AUSTIN: Yeah, they are. But hey, you know. Not all Cobbins have to get along.
+SYLVIA: No, I know. No, I know, I just...I have an idea for my rival as like, a human alchemist.
+AUSTIN: Ooh, okay.
+SYLVIA: But I was trying to think of where they would work .
+AUSTIN: Um, I mean they could work...they could work at Marielda Obsidian and Ore.
+ANID: Okay, how about that for my...
+AUSTIN: For your negative? Like you guys like, you had like a...
+SYLVIA: Oh yeah, no, like I've stole stuff from them to use for myself, is my-
+AUSTIN: Oh, shit. Okay.
+[Dre giggles]
+SYLVIA: Yeah.
+AUSTIN: Nice. Good.
+SYLVIA: Yeah. He doesn't-
+AUSTIN: Good and nice.
+SYLVIA: He does not like me very much.
+AUSTIN: (chuckles) Alright, um. Let's go down to Captain E. Hitchcock.
+JACK: Um, so I think I get on well with the Nightly News and Snitch Nightly.
+AUSTIN: Okay.
+JACK: As a result of-
+AUSTIN: Is Snitch your actual contact here? Like, is Snitch- do you want to add Snitch to your book as- as your shady friend?
+JACK: Yeah, absolutely.
+AUSTIN: Yeah.
+JACK: Um, Snitch Nightly. Yeah, I'll add that in a second. 
+AUSTIN: Sounds good.
+JACK: I'll just write 'Snitch' in big letters. 
+AUSTIN: Good.
+JACK: And underline it. There we go. Um, and I think I don't' get on with the Bureau of Reconfiguration?
+AUSTIN: Ooh. Why's that?
+JACK: For a really- It's a really petty reason, which is that...I keep sending my pupils, either with swords or with dance cards, to parties in Chrysanthemum, and they keep getting lost. [Austin laughs quietly] And I think Hitchcock falsely believes that he deserves some sort of advanced warning from the Bureau of Reconfiguration. [Austin laughs harder] And the Bureau of Reconfiguration is like 'you do what?'
+[Jack and Ali laugh]
+AUSTIN: 'I have a dance school.'
+JACK: I have a dance school, some of my pupils keep getting lost in alleyways that there are no exits from, and they have to climb over the wall of a butcher shop! Minus one!
+[Austin laughs]
+AUSTIN: Contempt point!
+JACK: Contempt point!
+[Dre laughs]
+AUSTIN: Uhh, Ali.
+ALI: Uhh...hmm...What's the Office of Lost Materials, again?
+AUSTIN: That is...where...missing things- things that go missing during reconfiguration go?
+ALI, laughing: Okay!
+AUSTIN: It's where you go- 
+JACK: Like my pupils?
+AUSTIN: That's where all the middle- that is where all the low Bureaucrats that I love to play are definitely at. Just like, nice people who have to be like: (in a tired voice) 'Ah, yeah. They redid- they redid the entire west side again last week and now I have three dogs- I don't- [Ali laughs loudly] We found three cocker spaniels and I don't know whose they are. We're gonna try to find- or I guess we're just gonna ask...I- we're gonna- they say they lost two golden retrievers, I don't- Did they reconfigure the dogs? Is that a thing they can do? Can- [sighs] I'll ask the- I'll ask the boys in refiguration if they can reconfigure the dogs. This was a mistake.'
+ALI: I think that I'm going to go with a negative for Lost Materials?
+AUSTIN: Ooh!
+JACK: Yeah, fuck those guys!
+ALI: 'cause I think that sometimes Castille goes down there, not like, dressed in clothes but as a pala-din, and is like 'yeah, those dogs are mine.'
+AUSTIN, quietly: No!
+[Jack and Ali laugh]
+ALI, laughing: Or like- there's like a book in there [Jack gasps] or a nice necklace, (AUSTIN: Wow!) and she's like 'Yep! Yep! That's mine!'
+JACK, excited: Do we have a dog?
+SYLVIA, in a small voice: Do we have dogs?
+ALI: Oh my god. [Dre and Ali laugh] Yes.
+AUSTIN, happily: That sounds good.
+DRE: whispering: Yes.
+AUSTIN: I do like dogs.
+ALI: We have two golden retrievers.
+JACK, shout-whispering: Yes!
+AUSTIN, quietly: I love dogs.
+SYLVIA: They're bigger than me!
+AUSTIN, louder: I like dogs. Dogs are good.
+SYLVIA: I'm gonna ride on one of these dogs.
+[Dre laughs loudly]
+AUSTIN: Well that's-
+ALI: We- Sylvia, how little are you?
+[overlapping]AUSTIN: You're not that little- I don't think- Okay.SYLVIA: I don't know, that was a joke. I'm not that little!
+[Ali laughs]
+AUSTIN: I don't think you're that little. I think you're little!
+ALI: I thought you were the big dog!
+SYLVIA: She is a little Cobbin, but she's not that little.
+ALI: Okay.
+AUSTIN: She's not a big dog? She's not a big dog pit bull
+ALI: Yeah, I thought you were a-[dissolves into laughter]
+SYLVIA: No! We got- we got a big dog. But we don't- she's not the Big Dog.
+AUSTIN: I see. I gotcha.
+ALI: Um, and I think- I think I want my positive to be with the Tea Leaf Set?
+AUSTIN: Oh yeah? Really? Is that really where you? Huh, okay.
+ALI: Yeah, yeah. It's weird, I know. That's weird.
+[Dre laughs]
+AUSTIN: So their deal- their deal, straight up is like, they're a bunch of like rich socialite witches who do tea magic? Which is like, tea leaf reading, but then also like, making different types of teas that produce magical effects? They are mostly illegal. What they do is mostly illegal. That's why they're under criminal underworld. But they also, like you it sounds like, run in rich circles, and so...like, will totally have uh, for instance, a nice ball that is really just a front for everybody to just get super high on their tea leaves. [Ali laughs] And like, go into weird magic hallucinogenic trips together. Um, or like- whatever, like. That's how they'll move their tea leaf product. And cast weird spells, and stuff. If you get invited to a tea party with them, it's like...that means a certain thing. That does not just mean like, let's come hang out. That means that they have some weird new spell they wanna try out on you?
+ALI: So one of the things I was- when I was considering Castille's vices was that like, I was thinking of her as a person? But as a marble statue?
+AUSTIN: Yeah.
+ALI: And like, she can't smell, or eat.
+AUSTIN: No!
+ALI: Or like, really feel great? (Austin hums negatively) But I imagine her like, the sort of person who like, will hold an apple in her hand and kind of squish it the way that you would in a grocery store?
+AUSTIN: Oh, that's so good!
+ALI: To like, kind of feel like 'oh, I would eat this. I would.'
+AUSTIN: God, I bet the Tea Leaf- I bet the Tea Leaf Set can do...can like, cause reactions on her...skin that produce effects like that.
+ALI: Yeah.
+AUSTIN: That's just- it's magic, right? It's just...'here, like smell this. Now you- you can smell. Now.'
+ALI: Right. (Laughing) Yeah, exactly!
+JACK: Oh, like those ridiculous chemicals which reverse sour and sweet tastes.
+AUSTIN: Right.
+ALI: Yeah!
+AUSTIN: Except they invent those tastes.
+ALI: Right.
+JACK: Yeah.
+AUSTIN: For Castille. Alright. Uh, Sige.
+DRE: Uh, I'm gonna put a negative point in the Golden Lance. Uh.
+AUSTIN: Ooh, okay.
+DRE: I tried to steal a gun from them once.
+AUSTIN: Good call. That's- you shouldn't have done that! And then a-
+DRE: Yeah, no. I shouldn't have. It didn't go well.
+AUSTIN: A positive?
+ALI: Okay, but do you have it?
+DRE: No. I definitely don't.
+AUSTIN: Aww.
+ALI: Damn.
+ALI: Okay. 
+AUSTIN: You can! You're allowed to have it.
+DRE: Oh am I?
+AUSTIN: There's one on your sheet, and I'm just saying, you're criminals.
+DRE: Yeah, shit. Yeah, no I totally have it.
+ALI: Yes!
+[Dre laughs]
+ALI, under her breath: Fuck yes!
+[Dre laughs harder]
+AUSTIN: God, okay wait. Whose is it? Whose did you get? And now we know who your rival is.
+DRE: Oh! Yeah! Um, oh boy. Do we have-
+AUSTIN: Just pick a- pick a parish and I'll tell you about their- their Lance Noble.
+DRE: Um...let's do...um, the Orchid Parish.
+AUSTIN: Okay. Um, Lance Noble Orchid is, the like youngest...is like the youngest baby brother of the Lance Nobles? And has the biggest chip on his shoulder.
+DRE: Oh, good.
+JACK: Oh, great choice, Sige. Great choice.
+ALI: Oh that's perfect!
+AUSTIN: Yeah. Uh, and so...the...the reason for that is like, Orchid Parish, despite the fact that it is like this middle class neighbourhood now. This middle class zone. It is still..is putting on airs. It's like constantly trying to talk about how it is the center of culture, the new center of culture in Marielda. It is constantly putting on you know, balls, and it's building theaters. And that's all great, except that like, they are insufferable about it? 
+Um, and in a very similar way, Lance Noble Orchid is just like, 'I care about justice way more than any of the other Lances.' Like, 'I am the one who's going to solve every crime.' He constantly leaves his parish. Like he constantly will be like: 'yeah, the Southern Bucket tavern is basically still in Orchid Parish, even though it's on the other side of the line. Like, it used to be part of the Canopy, so that means it's part of my district too. I have to go over there and check it out.' Like, he's just the- he's insufferable. And so like, you stole it from him, and that was already bad? But then like everybody gave him shit for it. So that made it way worse.
+DRE: This sounds great.
+AUSTIN: Yeah, it's perfect.
+ALI: I love this.
+DRE: I basically gave that Lance Noble a wedgie. And took his gun.
+AUSTIN: Yep. You totally did.
+JACK: That can shoot directly through people.
+[Ali laughs]
+AUSTIN: Yeah, so be careful.
+DRE: It's-
+AUSTIN: I think they probably worked on that, is what I'll say, is like. That's a thing...that's a thing that...on the- with the mark II, on the like, second edition of-of holy guns, Samothes was like 'lemme- lemme turn that down a little bit before-'
+DRE: Yeah. But then Sige probably like, sawed it off or something.
+AUSTIN: Oh, god. Oh, god-
+ALI: Oh my god, a sawed-off- God!
+[Ali and Dre laugh]
+AUSTIN: Oh, it's a sawed off magic shotgun! Our game is dope!
+[Everyone laughs]
+AUSTIN: I don't give a fuck! Right.
+DRE: Um...so now I have to figure out who I'm friends with.
+AUSTIN: Create...yeah, you've gotta figure that out, for sure. Who likes sawed-off?
+[Dre laughs again]
+DRE: What is, um... I think you kinda mentioned them earlier, but can you tell me more about Hard-Work-Safe-House Security?
+AUSTIN: Uh, they are another security group. They do...private security, basically. They work- they work out of Orchid Parish, actually. They are part of- they are connected to Maelgwyn’s faithful, uh. They are just like, a basic human private security firm, basically.
+DRE: Okay.
+AUSTIN: Like, uh- I'll put it this way. There are people in the city that don't like that the pala-din are the primary law enforcement now? And are very much like, 'no I want humans to be the ones who take care of us, and protect us. And so I'm going to pay these humans money to do this, as like my official private security. As like the guard to my- to my apartment complex, or to my shop, to guard my transport of this-or-that, et cetera.'
+DRE: Okay. Um, I'll say I have a +1 with them. I've probably done some jobs for them at some point.
+AUSTIN: Cool. I like that, 'cause this is the first one where it's like oh, in my head, they were gonna be bad guys. I like it that they are in- they- you have a connection with them. Um, cool. Okay. So then, as a group, find a three or four here that you like, and one that you don't like, and advance those by one.
+ALI: Okay. They question that I wanna ask everyone is, [Laughs] do we wanna have a rivalry with like, the other underground library society?
+JACK: Oh my god, you bet! Oh, a rivalry is so good, because then you have an information race, (AUSTIN and DRE: Yes.) which is the best and worst kind of race.
+DRE: Is that the Yellow House? Right?
+AUSTIN: That's the Yellow House.
+JACK: Oh, god, it's gotta be them, right?
+DRE: Yeah, I think so.
+AUSTIN: And, listen: they're weak. You could take their fuckin territory any day of the week.
+JACK: I bet we super could!
+ALI: We could. We could.
+JACK: I mean, we have two golden retrievers! [Ali laughs] How many golden retrievers do they have?
+AUSTIN: Uh, and then a positive. That's a negative to the Yellow House, which is again, the other underground information...broker group. That you'll see is also under 'faith and weirdness'  and not under 'criminal underworld'. That's weird.
+[Ali hums]
+JACK: Huh.
+AUSTIN: Huh. Huh.
+JACK: Hmm. Okay, so here's-here's-here's what I'm saying. Do we want to have a friend called Claret Holiday?
+ALI: We do, we do want that.
+SYLVIA: Yes!
+AUSTIN: Alright. Perfect! I think that that's it, 'cause you don't have any cohorts. What do we have left? Or, I think we might be done outside of your friends.
+DRE: Yeah.
+ALI: Um...special ability?
+AUSTIN: Special ability. Let's wrap back around- thank you Ali. Keeping us on point.
+JACK: Oh, cheers, Ali.
+ALI: Mmhmm. Hi.
+[1:29:56]
+JACK: I was on team High Society first, but I'm thinking maybe more Silvertongues
+DRE: Yeah those were the two I'm kind of looking at as well.
+JACK: That's where my vote is.
+DRE: I think so too.
+ALI: Yeah, I like that a lot.
+AUSTIN: And you can- and you're still in the Chrysanthemum district and you still have connections with some high society people, so you can still play that side of things.
+ALI: Right.
+AUSTIN: I'm gonna add that to the special abilities list.
+JACK: Oh, man. Is that is? Are we done?
+AUSTIN: Uh, just the friends and rivals thing still, but we can- we don't need to do that right this second. We need a name for your- for your broker contact. That's the- that's the last thing we actually- the actual last thing we do need is your broker contact should have a good name. So what sort of broker are they? Are they mostly knowledge?
+JACK: I think so.
+AUSTIN: Okay. Um, so...do you remember Winsley Cartwright?
+JACK: Huh.
+AUSTIN: Winsley Cartwright (SYLVIA: Yes.) is the- is the person who was like, the diplomat who tried to broker peace between the Cobbins and the humans, and then was killed with the- in a really stupid way? [Laughs] Winsley has a- has a daughter. Named Ailen. Ailen Cartwright. Who is, uh, a broker of...information and resources...and has her father's uh, you know. We've used the word 'fixer' before, very much in that sense. Not in the- not in the Paisley sense. From the last game. Not in the ‘she goes and kills people’, very much the like, she knows the right people to make deals happen. She's able to...have the conversation that leads to things getting fixed. So I think maybe she is the broker contact you know. She is the sort of person who would totally be into working with you, is what I'll say.
+ALI: Okay.
+AUSTIN: So let's go with that. Alright.
+SYLVIA: Um, do you want the name of my rival, by the way?
+AUSTIN: Yes.
+SYLVIA: It's not a weird name, it's just Elias. E-L-I-A-S. And I have them written as 'upper class apothecary, Aubrey has stolen from.'
+DRE: Are uh, are elves still around? In the Quince Parish?
+AUSTIN: Oh yes. Yep.
+DRE: Maybe' i'll have a shady elf friend.
+AUSTIN: That's cool
+ALI: Uh, I have my friend?
+AUSTIN: Uh, who is it?
+ALI: It is Daisy Velour, she owns the-
+AUSTIN: Jesus christ.
+ALI: Mmhmm.
+DRE: Such a good name!
+ALI: She owns the um, the shop that sells Castille's stuff.
+AUSTIN: Oh, nice. Cool.
+JACK: I've got a rival, but I don't have a friend yet.
+AUSTIN: Who is your rival, again?
+JACK: Uh, my rival is a man called Captain Thackeray.
+AUSTIN: Oh, you have a friend.
+(overlapping)JACK: Oh really? Oh, my friend is Snitch Nightly.AUSTIN: Your friend is Snitch Nightly. Yeah.
+JACK: Oh, great. So-
+AUSTIN: So your rival is who?
+JACK: Captain Thackeray.
+AUSTIN: Uh-huh?
+JACK: And Captain Thackeray is the captain of, uh, a neighbouring cavalry battalion. That Captain Hitchcock used to be in, and they were just the worst rivals on the battlefield. [Austin laughs] Thackeray’s armour was always shinier, his horses were always better groomed,
+AUSTIN: What a jerk.
+JACK: Oh he was the- he's the worst! I think I probably cut his nose off in a duel?
+SYLVIA: Oooh!
+DRE: Okay,
+AUSTIN: Okay! I like that.
+JACK: And I mean, that causes a rivalry.
+AUSTIN: Yeah, it sure does! When was- when was the last time you saw him?
+JACK: I think probably the time I cut his nose off.
+AUSTIN: Good. Okay. That works for me.
+JACK: But to be clear, we were rivals before that.
+AUSTIN: Oh yes. I understand.
+ALI: Um, I don't know who I want for a rival. I don't know if it should be like...should it be someone that Castille's stolen something from, or like someone from the church who's like, 'What's your deal? Hey, what's wrong with you?'
+AUSTIN: Right. Right, yeah. God, what if it's someone who actually- not just like, 'what's wrong with you' but is straight up like, 'I wanna help you'. But like, Castille wants to be left the fuck alone.
+ALI: Oh, yeah yeah! Like a priest who's like, 'hey! Hey what's wrong with you?'
+AUSTIN: 'Hey what's wrong with you?' Like,
+ALI: Oh, that's so good!
+AUSTIN: You know, or 'you would not exist unless, unless our lord Samothes had a purpose for you.'
+ALI: Right.
+AUSTIN: 'Please,'
+ALI: Yeah.
+AUSTIN: Like, 'Come through. We need to talk this out.'
+ALI: Ah, I need a good shitty priest name.
+AUSTIN: Uh, good question. Let's see. What about Silas?
+ALI: Silas, yeah.
+AUSTIN: Like as an asshole. 
+[Ali sighs]
+AUSTIN: All right.
+JACK: Ah, man. Do you think he's a like real like, fire and brimstone preacher until he's talking to Castille?
+AUSTIN: Oh yeah.
+ALI: Yeah.
+AUSTIN: Yeah. Like he definitely talks about abominations.
+JACK: And then suddenly he's like 'Look, well- look. Look. I can help out.'
+ALI: Right.
+AUSTIN: Right. Yeah. 'You know I only want the best for you.'
+ALI: Right.
+JACK: What an arsehole.
+AUSTIN: [Typing] Shitty priest. Okay. Lance Noble Orchid is your rival, Sige...and then, who's your friend, Sige?
+DRE: Uh, Lilith R'ion, she's an elf.
+AUSTIN: Spell- spell that last name?
+DRE: Uh, L- uh, R, apostrophe I-O-N
+AUSTIN: Yep. Okay. Some elf name.
+DRE: Mmhmm. She's a con artist who attempts to sell fake elven artefacts to humans.
+AUSTIN: Good!
+DRE: I think Sige probably met her because he was gonna go buy like, you know magic items to melt down to put on his boat?
+AUSTIN: And then it was not in fact magical items at all.
+DRE: Yeah.
+AUSTIN: Good!
+[END OF CHARACTER CREATION]
+AUSTIN: So, there's this train. [MUSIC - The Crosstown Job BEGINS] There's been a train now, for a while. And it runs along the entire outskirts of the city, down the wall from north to south, from the top of Violet Parish down past the forest outside of the Canopy, then east across the bottom wall, north of the sea that seems to go on forever, and then it cuts up across the coast to the east where the island is hottest. It goes up past Slow Point, and then connects back into Chrysanthemum Parish, and then it loops all the way back around at the top.
+It has been a year since this train was first built, and it seems to revolutionize things. At least at first. After all, now if you, for instance, own a shop in Chrysanthemum Parish, you could very easily have the goods that you're having produced for you down in the Iris shipped up to you without having to cross through Hell's Parish at all. If you lived in Orchid Parish, you didn't have to pass through Helianthus to go to Chrysanthemum anymore to go to the courthouse. You could take the long train up and around the entire city without having to walk where those people were. And if you lived in the north of Helianthus or Emberboro and wanted to go work in the factories, it was fairly easy to get on that train and go where you needed to go.
+But there have been some problems. After all, if you were the person in Chrysanthemum Parish who owned a transportation business, this has cut into your black a little bit. You're losing money now. And so there was an agreement struck with this transportation guild that there would be a second train, and that they would be put in charge of it. It would basically be a crosstown express. And because it would have to serve all these different people, a new station was built, right at where Orchid Parish, Hell, and Chrysanthemum all meet. And to keep things nice and neat, of course, there are different entrances, one for each different zone, basically. If you're very rich, you get to go on to the very rich car, and you don't even have to see the cars where people from Hell's Parish or the Canopy get on. And likewise, if you're from Helianthus, you're kind of stuck at the far back of the train, and it's cramped and there's not a lot of room.
+And today is the first day that that train is going to run. And, because of that, a lot of that train track hasn't been laid out yet. And you've gotten a tip, probably from Ailen, Ailen Cartwright has told you that the way this train works—the way the other train works is that it has a plate that has the route on it, and that route ensures that even when reconfiguration happens, that route will remain in place. And so if you can get the plate from this thing, you can start to unravel how configuration happens, and how to counter it. 
+And so that is your first heist. Now the way that this game works is- I'll actually just read this. I love this writing here.
+[MUSIC ENDS]
+"Your crew spends time planning each score. They huddle around a flickering lantern in their lair, looking at scrawled maps, whispering plots and schemes, bickering about their best approach, lamenting the dangers ahead and lusting after stacks of coin. But you, the players, don't have to do the nitty-gritty planning. The characters take care of that, off-screen. All you have to do is choose what type of plan the characters have already made. That's right, the planning phase is over as soon as you start it. There's no need to sweat all the little details and cover every eventuality ahead of time, because the engagement roll, detailed at right, ultimately determines what troubles appear when the plan is put in motion. No plan is ever perfect. You can't account for everything. This system assumes that there's always some unknown factor and trouble, major or minor, in every operation. You just have to make the best of it. There are six different plans, each with a missing detail you need to provide. To, quote, 'plan an operation', simply choose the plan and supply the detail. The GM will then cut to the action, as the first moments of the operation unfold."
+So, there are six plans: Assault, which is ‘do violence to a target’; deception: lure, trick, or manipulate; stealth: trespass unseen where you're not wanted; occult: confront or exploit a supernatural power; social: negotiate, bargain, or persuade; or transport: move something from place to place. Um, and then there's a detail with each of those that you have to figure out. 
+Uh, so what is the plan, for getting this thing out of this train? Also, like, you can do a little bit of legwork ahead of time? Like, the goal is not to do that? Like, the goal is to get you into it, um, and part of the reason that that's the case is that like, you can- one of the cool things about this game is there's flashbacks. Which means that like, even if right this second you haven't gathered information? We can always flash back later and get-get you to the gather information stage. Or you can say right now like 'oh, I want to gather some more information about this train.' But again, the goal is to keep you from...sitting here for the next hour talking about what the best plan is.
+DRE: Right.
+AUSTIN: You know?
+ALI: Right.
+DRE: And so the job is to get into this train and steal its...its like, its plate?
+AUSTIN: Yeah, it's like a navigation plate. Uh, that is- at least, that's, that's what you've been told.
+DRE: Right.
+AUSTIN: From Ailen.
+JACK: I feel that if we can get up onto the train. As soon as we can get onto the train. If we're in a position where we're able to move freely among the carriages, that will give us a lot more angles of attack. So, I'm suggesting deception. If we can get the whole gang [Laughs] if we can get these four weirdos,
+[Ali laughs]
+AUSTIN, laughing: If you can get a Cobbin, a paladin-a pala-din,
+[Dre and Ali still laughing]
+JACK: A gigantic man,
+ALI: I have a hat- I have my hat on, it's fine, I have my hat on, it's fine.
+AUSTIN: A giant man. A giant man,
+DRE: Some might argue, the world's strongest man
+AUSTIN: And then an ex-military...man on this train.
+JACK: Yeah. If we can just-
+ALI: Well how- [she sighs]
+JACK: -get these people- onto the train. Once we're on board the train,
+AUSTIN: You have a question Ali?
+ALI: I was gonna say, each of us could get onto like, a car...
+AUSTIN: Yeah.
+ALI: Right?
+JACK, thoughtfully: Oh, yeah!
+AUSTIN: Do you wanna? It sounds like, it sounds like this might be a place where maybe you wanna do like, a Survey check, to see what you know about this car, maybe? So maybe we just get like a shot of one of you, like in the-the week before it makes it debut? Like, skulking around where it's being, like manufactured? Or-or like, looking at, looking at- uh, you know, it's not even that. It's like, looking at blueprints in some bureaucrats office, to like figure out what the different train cars are. Maybe. Um, let's- let's do this just so we can get a roll, and see how this works.
+ALI: Um,
+AUSTIN: Who wants to be doing this?
+ALI: I have a pretty good Survey, do I want to be a little kitty cat? I go out- [Laughs]
+AUSTIN: Oh, yeah! Be a little kitty cat!
+SYLVIA: Yes!
+[Dre laughs]
+AUSTIN: Be a little kitty cat!
+JACK: Cat looks at the train.
+[Ali laughs] Just hanging out.
+AUSTIN: Um, so are you doing the thing where you're like, you're literally walking around the train? Like where the actual physical train is, or are you looking at plans?
+ALI: Uh...oh, god [starts laughing again] I could be a cat looking at blueprints!
+AUSTIN: Because those- there's two different- 'cause. Um, so here is the difference here. Because this is one of the things these games do. One of those, I'll say is control. Little kitty cat looking at the- sneaking into an office, and looking at the-the plans is ‘controlled’, but it it- it has less of an effect. Because you're not looking at the actual train, and who knows. Maybe- maybe it's not- you're not gonna get it all the way. Whereas I think if you - even as a little kitty cat - you start walking around the actual train, you'll get more information but you will- it will be ‘risky’. Instead of being ‘controlled’.
+ALI: Even if I'm just like, at the station- I guess 'cause no one's supposed to be there, right?
+AUSTIN: No one's ever been there- right. Yeah. It's only-
+ALI: Okay.
+AUSTIN: Yes. Yes.
+ALI: Feel like taking the risk! It's the first roll of the game,
+DRE: Hey, why not?
+AUSTIN: Yeah, so that means we get to open on a shot of a cat walking near an abandoned train as people like, shout and like, you know, twist wrenches and stuff.
+ALI, in a singsong voice: I love us!
+AUSTIN: Yeah, we're pretty good.
+[overlapping]DRE: Ali, important question-AUSTIN: Alright, so the way this works-
+DRE: What does that cat look like?
+[Ali laughs]
+AUSTIN: Good question!
+ALI: So it's like, um- it's like a porcelain cat figure? But it's- she can move it. So it looks like it's a real cat.
+AUSTIN: It's like, white porcelain?
+ALI: Um, it's a black cat, actually. With- yeah
+AUSTIN: Oh, okay. Nice. Nice.
+ALI: With like, um, the ears are painted gold on the inside? And then her eyes are like jewels?
+AUSTIN: Cool.
+ALI: But if you- I mean if you don't look too closely it's just a cat. It's fine.
+[Austin makes an unsure noise and Ali laughs]
+AUSTIN: Okay. Alright, so you're using Survey, which is: "you survey a location or situation, understand what's going on, sense trouble before it happens, gather information about opportunities and exploits." Uh, and I'm gonna say, again there are kind of three types of- of actions that you can take. A ‘controlled’ action, a ‘risky’ action, or a ‘desperate’ action. I'm gonna say this is ‘risky’. Uh, "you go head-to head, you act under fire, you take a chance". Um, and so to do this, you um, roll your ‘Survey’ skill. I think there's actually just a button for you to click.
+[1:45:02]
+ALI: Yep!
+AUSTIN: So go ahead and-and-
+ALI: Oh, and then it says input- oh, wow! Huh.
+AUSTIN: Wait what's it say when you click it?
+ALI: So when I click on it, it tells me...um...
+AUSTIN: Oh, nice! That's really useful! This is a good Blades in the Dark [Ali starts laughing], uh Roll20's Blades in the Dark thing is really useful.
+ALI: Yeah.
+AUSTIN: So yeah, this a risky...prospect-
+ALI: And then the effect is standard, limited, great?
+AUSTIN: Uh, standard.
+ALI: Standard. Okay.
+AUSTIN: Now if you want to go in the train,
+ALI: Um.
+AUSTIN: If you want to go in the train I can give you more, but it's gonna be more than risky. It's gonna be desperate. Uh, and for people listening in at home, that changes what the outcome can be. [Ali sighs] And those things, to be clear, aren't necessarily locked. Like, desperate does not always give you a great effect. Risky does not always give you a standard effect. But like, for this first roll that's how we're gonna do it. So.
+ALI: I'm open to suggestion here but I feel like right now what I'm just doing is trying to like, suss out how many cars there are,
+AUSTIN: Yeah.
+DRE: Yep.
+ALI: Like, how we would split up, and then once we get in, we're gonna get like, inside train information.
+AUSTIN: Sounds good. And again, we can always flashback if we ever need to.
+ALI: Um, and then extra isn't anything right now, right?
+AUSTIN: What's extra say?
+ALI: It just says 'extra', and then there's a zero.
+AUSTIN: Uh, yeah that's nothing. That would be like if I was giving you a bonus for something, I'm pretty sure. Um, so no. Ooh, [Ali starts laughing] Heh.
+DRE: Wah-wah. 
+ALI, laughing: Welcome to Friends at the Table! Ali rolled a one!
+AUSTIN: Yeah, that- Ali rolled a one. That's. Not great.
+DRE: The good news is, you'll get to date somebody at the end of this.
+[Austin laughs]
+AUSTIN: Oh, boy.
+ALI: Another cat on this-
+[Dre laughs loudly]
+SYLVIA: [sighs] Jesus.
+DRE: You-
+[Ali giggles]
+AUSTIN: Alright, so the way this game works is, you roll- for people listening at home, again - you...when you roll your dice pool, so in this you roll a number of d6s equal to what your stat is. So you have a Survey of one, right Ali?
+ALI: Mhm.
+AUSTIN: And that means that you- so you roll that dice, and then whatever the number is determines the outcome. One to a three: things go badly, you suffer harm, a complication occurs, you end up in a desperate positionsituation, or you lose this opportunity. Uh, for four or five, you do it but there's a consequence: you suffer harm, a complication, reduced effect, or you end up in a desperate positionsituation. Six, you do it. And then if you get two sixes then it's a critical and you do it with increased effect. 
+In this case, I'm gonna say...that...you uh, there's a- a complication occurs. Um, you're like walking around, it's a pretty long train, you count like eight cars, nine cars of-of serious length. And then you hear them marching in. Like, a whole rank of pala-din. Probably twenty, twenty-five. And then you hear this like, giant slam of a metal door from one of the train cars being slammed down onto the ground. And you are literally caught between the pala-din who are coming and the inside of that train car. What do you do?
+ALI: Can I hide-
+AUSTIN: Or-
+ALI: Oh- can I-
+AUSTIN: Go ahead-
+ALI: -like, hide under one of the seats?
+AUSTIN: No, there are no seats inside this train car.
+ALI: Right, 'cause it's not finished.
+AUSTIN: It is- it is like, this- so, as you turn and look into the train car, like the camera goes that way too. And you can see that inside is just like, it's just- empty metal and some like, hay.
+ALI: Can I jump into the hay? [Laughs]
+AUSTIN: Totally.
+ALI: Alright!
+AUSTIN: Um, give me a...that sounds like a Prowl.
+ALI: Okay.
+AUSTIN: "You're prowling about unseen and traversing obstacles, climbing, swimming, running, jumping, a tumble, ambush with close violence, a backstab, throat cutting, blackjack, et cetera." You're not doing that second part.
+ALI: Okay. I don't have any Prowl so is this gonna give me stress, or?
+AUSTIN: So...yeah, click it and see what happens, I'm curious if it does the right thing. So it should-
+ALI: Um, so position...risky, controlled, desperate.
+AUSTIN: Uh, this is risky again. Not desperate quite yet.
+ALI: Yeah. Um, effect standard, limited, great?
+AUSTIN: Um, standard.
+ALI: And then no extra.
+AUSTIN: No extra. So you just rolled a four and a six, but you get the- you get the four because it's the lower when you don't have a skill. So you manage to do this. You get into the car and hide inside of this like, little bundle of straw. And the pala-din follow you in. Or they come in after you, they don't follow you in. They fol- they come in after you.
+ALI: Right.
+AUSTIN: And then, they stand in place. Inside of this train car. And...the uh, the door closes. And then they just stand there. And now you're in here with these pala-din.
+ALI: (in a very small voice) Um!
+AUSTIN: Uh-huh?
+[Ali starts laughing]
+SYLVIA: This is technically still planning, isn't it?
+AUSTIN: Uh-huh!
+SYLVIA: Too.
+JACK: I mean, the other thing is...maybe Castille's just on the train now?
+ALI: Yeah!
+JACK: Maybe we just did it!
+DRE: Yeah?
+ALI: Figured it out!
+AUSTIN: Where's- That's true, you are just on the train now. Here's a question: how far can you transfer your consciousness?
+SYLVIA: Yeah.
+ALI: [She clicks her tongue] There's- nothing in the book that says- 'cause it's just like, taking it from one form to another.
+AUSTIN: Yeah. Um, yeah. Yeah, this is close enough to HQ.
+ALI: Yeah!
+DRE: Could you like, leave the cat and go back to your body?
+AUSTIN: Yeah, you totally could.
+ALI: Okay, yeah! I don't need like, line of sight or anything, yeah.
+AUSTIN: No, let's just say, fuck it, it's magic. Like, that's- [Dre giggles] Yes. So you're not sure- in fact, you're not sure what it is, to be clear.
+ALI: Right.
+AUSTIN: Um, but it's something. And it works for you.
+ALI: Yeah! She like, panics and then she's back in her other body and she's like 'oh, cool. Nice'.
+AUSTIN: As everyone else is poring over charts and stuff.
+[Ali laughs]
+SYLVIA: Castille like, starts up again and Aubrey just jumps five feet in the air basically.
+[Ali and Austin laugh]
+ALI (as Castille): Hey guys!
+SYLVIA (	as Aubrey): Aaah!
+[Ali giggles]
+AUSTIN: Good! Um, okay! So, now- unless you want to do more...is there a plan you want to do? Which of the plans?
+JACK: Um, is there any way I can stop the guard from getting onto the train?
+AUSTIN: Which guard?
+JACK: The train guard. Like the conductor- not the conductor, like the- you know, the person in the back of the train who-
+SYLVIA: Like the guy who checks tickets?
+AUSTIN: Um...
+JACK: Oh, the ticket collector! Yeah, the ticket collector! Can I stop them from getting- from boarding the train?
+AUSTIN: So, the ticketing process here is automatic. [Jack sighs in disappointment] The ticketing process here is like...it's like a subway. It's- you pay at the, you get tokens. You put tokens into a machine.
+JACK: Oh actually- okay. And then-
+AUSTIN: That's at least- that's on the Orchid and Helianthus side. In Chrysanthemum you're seeing a human and like shaking their hand, and they're taking your bags if you have bags, and you know. Et cetera.
+JACK: Okay, no I'm good.
+AUSTIN: Um. I'm trying to think, there is someone you could-
+JACK: No it's okay, because- there doesn't need to be, Austin. I can just pretend that I need to check their tickets.
+AUSTIN: Right, I see. Yeah. Good. Perfect. Um, so which of these...so, it sounds like deception is what's happening.
+SYLVIA: I was gonna say, are we rolling with that? 'cause I'm fine with that.
+DRE: Yeah.
+JACK: Yeah.
+AUSTIN: Okay. Alright, so what is the- so the thing that you have to now come up with is the detail. So, if you're going to use deception, that's great. But the question ends up being, what is the- how do you deceive people to get onto this train? It sounds like- it sou- oh! Maybe that's the whole answer. Maybe if Hitchcock is the person taking the uh, the tickets,
+ALI: He just pockets it.
+AUSTIN: And then like, gives them to the other- gives them to uh, I need to learn these names now, Sige and Aubrey.
+SYLVIA: I actually have another- if- yeah, that does work, but I have an idea for how Aubrey could be on...higher, like the more upper class area of the train if need be, without being completely out of place?
+AUSTIN: Uh-huh?
+SYLVIA: Where she disguises herself as a mechanic of some sort?
+AUSTIN: Uh...yeah, you could totally
+SYLVIA: Or is that not-
+AUSTIN: You could totally try to do that.
+SYLVIA: 'cause I was thinking like, (AUSTIN: Give the-) trains have a lot of small spaces, and they probably can't send fully grown humans into them, (AUSTIN: Totally) so they have a lot of Cobbin and children mechanics.
+AUSTIN: So that's- that's totally your plan, and then...and then what about Sige? So it sounds like we have plans for Sige, we have plans for...everybody except- also, if-if Castille's like, pala-din body wants to be on this thing.
+DRE: Yeah.
+ALI: Um, I think I should, yeah.
+AUSTIN: Okay. Maybe you're just also disguised. That's like, again, it's deception, you have that disguise.
+ALI: Right, I have a disguise, I- yeah.
+AUSTIN: Cool. And then, Sige, how about you? Are you just coming in with like, the riff-raff?
+DRE: Yeah I think so.
+AUSTIN: Okay. So it's engagement roll time. "You've provided the missing detail, like the point of attack, the social connection, et cetera. After the plan and detail are in place, each player chooses their character's loadout, this includes how much stuff they're carrying on the operation, they don't have to select individual items, just the maximum number they'll have access to."
+ALI, excited: Oh! We don't have to pick individual items now? [Austin hums 'no] Yo this game is good!
+AUSTIN: Yeah this is a good game!
+JACK: I'm gonna pick light.
+AUSTIN: Okay.
+ALI: Yeah. I'm also travelling light.
+DRE: Yeah, I think light.
+SYLVIA: I-I guess I'm gonna go with light too!
+AUSTIN: Oh, remember you have that bonus too! You have a bonus item, remember that.
+ALI: Right. 
+JACK: We can carry four.
+ALI: So light is one to three items?
+SYLVIA: Oh, okay.
+AUSTIN: One is four items, for you.
+ALI: Okay.
+AUSTIN: Because it's- I think that's right, right?
+DRE: Yes.
+JACK: Yeah, because we have that bonus.
+AUSTIN: It should be three, and then you have that bonus.
+ALI: Right. Okay.
+SYLVIA: Okay.
+AUSTIN: Alright, engagement roll. Um, "To determine the starting situation for the score, make an engagement roll. Are the PCs smoothly in control, or have things not started well? If the situation is already well established, you can go without an engagement roll. Use it when you need to." 
+This is not- you are not well established. [Dre laughs] You are going to make an engagement roll.
+ "The engagement roll is a fortune roll using the vulnerability of the target as trait for the roll. The more vulnerable the target, the more dice you roll." Um, "Judge the vulnerability of the target by comparing the detail, the player character's plan, against the awareness and readiness of the target versus that type of plan. Also consider some other differences." 
+So, this is happening on your turf, so I'll give a bonus to that. I will say that is is- it is definitely ready, the target is well prepared. It's the first time that you get to do this. Uh, or that they're running this train, so that seems like a thing that they're prepared to make sure it goes well. So I think it's two dice. I'm gonna roll two dice, take the higher result here. Oh, look at that! Six!
+DRE: Nice.
+AUSTIN: That ain't bad!
+SYLVIA: You literally rolled the two ends of the spectrum there, a six and a one.
+AUSTIN (over Sylvia): I rolled a six and a one. It's true, it's true.
+Uh, alright. "Good outcome: the PCs exploit the opportunity established by the detail. There are no sudden surprises as the action begins." So, I think again this means we get this great shot of all of you entering the uh, the cars. Which train cars do you- or I guess I'll tell you, because we've already kind of set this up. 
+Let's start with Sige. Sige, you...step into a very crammed- it's just like a subway car. There are two or three of these cars at the back end of the train? Um, and they are filled with people standing skeptical, like clearly skeptical, lots of like, 'Huh, yeah, we'll see how this goes.' Uh, people who are like, clearly going to work. There are people shouting as you get on the train, who are like, you know. 'You're a bunch of fools, I'll walk there before you get to work!' You know, 'I'm gonna have your shift, I'm gonna have your shift and the shift after your shift by the time you get there!' Again, lots of working class folks on that- those couple of cars, standing room only. And not just because there's a lot of people, like there are just no chairs in this one. But there are things to hold your- your- to like, put your hand on. 
+So let's say that that is the...I'm gonna just build a train real quick. [Dre giggles] Let's do this. [Ali giggles] Let's- that's the back train car, then there's- and that one's big - then there's two littler ones, and that is where Sige is. Don't know what that back car is. Next two cars are passenger from Helianthus, um, then there is a car that I don't think anybody's in-
+JACK: I mean, that's all a train is, right? Just boxes. That's all a train is.
+AUSTIN: Yep! Just boxes! And then there is-
+JACK: With a car at the front.
+AUSTIN: Uh- we're gonna get there, I promise, we will. Jack, where...is...Hitchcock at? What-what car did he end up in? Like, the super fancy car?
+JACK: Yeah, I think probably. Or just like, the upper-middle class.
+AUSTIN: So I guess, specifically, is he with the- the group from the Canopy or is he in the group from um, Chrysanthemum?
+JACK: I think he is... those cars are neighbouring, right?
+AUSTIN: Yes.
+JACK: I think right now he's in the group with the Canopy.
+AUSTIN: Okay. So that means...the way this works is...uh, Hitchcock is in this car. Uh, so that car, Jack, is...a nice luncheon car?
+JACK: Mm.
+AUSTIN: It's like, people are sitting down, reading their morning paper, like, chortling.
+JACK: The sort of things you do in a luncheon car.
+AUSTIN: Yeah, exactly. Uh, let's put Sige here in the back of the working class car. No one is here, so I'll put question marks. And...our good friend uh, our good friend Aubrey is in the...second to...I guess you're actually in the far back, because you're on the engine car, right?
+SYLVIA: Yeah.
+AUSTIN: Uh so there are two- you go into the engine car, Aubrey?
+SYLVIA: Yeah?
+AUSTIN: And there's another Cobbin there, um.
+SYLVIA: Uh...oh...
+AUSTIN: And he's like
+AUSTIN (as Zaktrak): I didn't expect- wh-[panting nervously] Uh, one second, I have to look at my paperwork!
+AUSTIN: And he goes over to the side and you hear another voice from like, under the floor? Shout up
+AUSTIN (as Peg): I thought it was only you and me! I thought it was only you and me!
+AUSTIN: What do you do?
+SYLVIA (as Aubrey): Uh- um...yeah- well, y- plans change, and um, they thought that some...on-the-job training would be helpful. For. Me. So, I'm here to learn. From you two.
+AUSTIN (as Zaktrak): [sighs] What's your name? What's your name?
+SYLVIA (as Aubrey): Uh...Audrey.
+[Everyone laughs]
+AUSTIN (as Zaktrak): Alright, well I'm- [sighs] I'm Zaktrak. That's Peg.
+AUSTIN: Peg lifts her hand up around- her huge weird curvy long hand, up from below some like, under- you don't even understand how a person could fit under there, like under the floor? But like, up through a grate, and like waves at you? With her fingers, each one like individually waving. And then it like, slips back down under the ground of the engine car.
+[2:00:00]
+SYLVIA: Aubrey waves back at the hand. Even though she knew no one could see it she just waves back at the hand-
+AUSTIN: Peg can see you, don't worry. Peg can see lots of things.
+SYLVIA: Okay. Okay.
+AUSTIN: Um, and they totally are cool with you. [Sylvia sighs in relief] You know, you didn't fuck up the engagement roll, you're safe back there. But Zaktrak is very quickly like,
+AUSTIN (as Zaktrak): Alright, well if I have an extra pair of hands, this is great. I need you to start-
+AUSTIN: And like, goes over to show you a bunch of knobs and levers to start moving around. So wait, where did- where did you go, Castille? Which car did were you in?
+ALI: So um, my cat form is in...
+AUSTIN: Your cat form is here. I'll put the word 'cat'.
+ALI: (laughing) Okay! Are the pala-din all still just...in there?
+AUSTIN: Do you check in?
+ALI: I can- yeah, I can do that.
+AUSTIN: Yeah, they're still all there.
+ALI: Okay. Um, but I think me, as like a passenger, is probably...with Sige?
+AUSTIN: Okay. That makes sense.
+ALI: Yeah.
+AUSTIN: Um, you know what helps, 'cause Sige is so big, it's like an extra disguise for you?
+ALI: Right, yeah, I have my big hat, and then like, he stands in front of me, it's fine.
+AUSTIN: Totally. So, the train starts to like, churn up its engine. And then it starts moving. And- which have you have been on the other train before?
+DRE: Um, I'm sure Sige has at some point.
+AUSTIN: This one moves with a smoothness that is- it's like, you know those elevators? That are like, 'oh, I'm here, I didn't feel it moving at all, that's creepy'?
+DRE: Mmhmm.
+AUSTIN: Have you ever been on an elevator like that, that's a little too smooth?
+SYLVIA: Yeah.
+AUSTIN: It's like that. Where like, you don't even notice it, and then you realise that there's a- that the, uh outside is moving past you? Um, and you start moving from...uh, the kind of intersection between these three districts, eastward along the kind of wall that separates Chrysanthemum from the southern districts. So you're like, about there. About halfway through Marielda. Like, almost at the exact centre of Marielda. I am going to advance a clock. Time is ticking.
+SYLVIA: [sighs] Yep, we really are- this really is Friends at the Table, huh?
+[Dre laughs]
+ALI: Mmhmm. Fuck yeah.
+AUSTIN: It sure is.
+ALI: Fair enough.
+AUSTIN: We made it. Okay. Cool. What are you doing? What's- what's the uh, how are you going to find this thing?
+JACK: I would like to move in to the fancy boys- try and move into the fancy boys' carriage.
+AUSTIN: Okay.
+JACK: And ideally once I'm there, attract the attention of an official or a supervisor inside that carriage.
+AUSTIN: Okay. So, you go up to the front of your car, of your train car. Uh, and...like the door- the door is locked? And there is a conductor with-with their arms crossed.
+AUSTIN (as conductor): Well- sir, can you please take a seat?
+JACK (as Hitchcock): My son's in there.
+AUSTIN (as conductor): Well, uh, 's your son made of uh- I can't say what's in there. You almost got me there, sir. Take a seat.
+JACK (as Hitchcock): My little boy!
+[Dre, Ali, and Sylvia laugh]
+AUSTIN (as conductor): Sir- [scoffs] Did you- What's the boy's name?
+JACK (as Hitchcock): [sighs] Edmund.
+AUSTIN (as conductor): Oh, okay. Well- once we get to the next stop, I can go in and see if your little boy is in there.
+JACK (as Hitchcock): He's asthmatic.
+AUSTIN (as conductor): I don't know what that means.
+[Ali laughs]
+JACK (as Hitchcock): Well, sir, [sighs] he coughs, and sometimes you know, he coughs during the night, and it's-it's been keeping me awake, but more than that, it's been keeping him awake, and I'm-I'm-I'm really worried that he's just gone in there, and just drifted off, um. And- I mean, I don't know what sleeping on one of these things does to your constitution sir, but I can't imagine it's good.
+AUSTIN: [sighs] He sighs.
+AUSTIN (as conductor): That sounds pretty bad, I'll give you that.
+AUSTIN: Uh, give me a roll here, it sounds like you're trying to sway him.
+JACK: I think I am, yeah.
+AUSTIN: Uh, so I'm gonna say that that is definitely controlled. No, this is risky. You're fuckin' tellin' this- this is risky, I just remembered what was in that next car! This is risky, and- it's going to be a limited effect.
+JACK: Okay.
+AUSTIN: So give me a sway.
+JACK: Boop! That's a five.
+DRE: That's pretty good.
+AUSTIN: That ain't bad. Um, alright, so when you get a five, that means that again, there is- you get what you want, but there is a complication of some sort. I'm gonna say...and again, bear with me as I get my bearings on this again. [sighs] Um, he says
+AUSTIN (as conductor): Alright, alright, alright. Um- Hey, Jeremy? Jeremy, can you watch the door?
+AUSTIN: And he like, shouts across the entire room, and everyone like, turns and looks at you, and gives you like- looks at you. They know what you look like. Uh-
+JACK: I think Hitchcock just sort of smiles back at them, and kind of like, you know like-
+JACK (as Hitchcock): (breezily) It's my son!
+AUSTIN: Right.
+[Austin and Ali laugh]
+JACK (as Hitchcock): It's my little boy!
+DRE: My sweet boy!
+AUSTIN: And Jeremy walks over, and then- and then- I almost just called this character 'Ali'. I almost just said 'Ali' but we have an Ali, so it can't be that!
+ALI: It can be Ali. There can be two Alis.
+AUSTIN: Alright, well this is- yeah, this is Ali. And they say like,
+AUSTIN (as Ali): Alright, well I'm going to have to go in there with you, sir. But- but Jeremy here will watch the door, and...and you know, that's- I need you to understand this is very irregular. This is not what we do normally here.
+JACK (as Hitchcock): [sighs] No, that's- thank you so much. Ali, thank you so much.
+AUSTIN: And they open the door, and...inside- they like, sneak you in quickly, and it's very dark in there. Uh,
+JACK: So is Ali in here with me?
+AUSTIN: Yes. And so is...the cat. [Ali giggles] Who is hiding in the uh, the um. What do you call it? The hay. And so are twenty pala-din.
+JACK (as Hitchcock): Ali, can you see him?
+AUSTIN: Who are you-
+ALI: Oh my god! [Laughs]
+AUSTIN: Oh!
+DRE: Oh, boy.
+AUSTIN, laughing: This is why we can't have an Ali, this is why. [Laughing harder] 'cause Ali is now actually in this scene. And Ali's like
+AUSTIN (as Ali): I- I can't see- what's your boy- Edmund. Edmund! Edmund?
+JACK (as Hitchcock): Did he fall off the train?
+[Dre laughs, horrified]
+AUSTIN (as Ali): No, there's not-
+ALI: God.
+AUSTIN (as Ali): This compartment is- this is ridiculous! Your boy isn't in here, sir.
+JACK: And the pala-din are watching?
+AUSTIN: You don't know that the pala-din- it's dark. In here.
+JACK: Can the- well, can the pala-din see in the dark?
+AUSTIN: You don't- they're weird marble stone monsters, Jack! [Dre laughs] Who knows?
+JACK: [laughs] Okay, um. Okay. Uh, so I think I'm just gonna sort of like-
+JACK (as Hitchcock): Ali, what do we do?
+AUSTIN (as Ali): I think we go back in to the lunch car, and we st- actually, it's a breakfast car, I apologise. It's very- the croissants are fantastic, I think you would enjoy one. We go, we get you a croissant, they're very affordable, and- you just take a seat, and I bet your boy is home asleep in his bed.
+JACK (as Hitchcock): (incredulous) That doesn't make any sense! [Ali laughs] I saw him get on the train!
+AUSTIN: Uh, give me a [he sucks on his teeth] huh, there's something here. There's something here that I need to- okay, I think I know what it is. I think it is...a resistance check here.
+JACK: Ah, great.
+AUSTIN: I think it's a resolve check, because they are like- they, you know what, here's what happens is- you say that, and then they kind of like, snap a little bit, and they close the door behind you, and you're just in the dark with them now.
+JACK, excited: Ah, yeah!
+AUSTIN: Uh, and they go:
+AUSTIN (as Ali): You saw him get on the train? Alright, answer this. What time did he get on the train? Ah, what was he wearing, when he got on the train?
+AUSTIN: And it's just like, a-a complete salvo of a billion questions. Um, give me a resolve resistance. And the way you do that-
+JACK: So I just- click that?
+AUSTIN: Uh, I think that that might work? Uh, each attribute resists a different type of danger. If you get stabbed, for example, you resist physical harm with Prowess- with your prowess rating. The better your roll, the less stress it costs to reduce or avoid the danger. Um, so yeah, give that a check and then...actually I need to see what happens when you do that in this...thing so I'm gonna hit a button and see how that shakes out. Okay, it just does a straight roll. Alright, that's cool. So go ahead and hit your Resolve check.
+JACK: Oh! That's a one!
+AUSTIN: You got a...oh, that's- no, that's fine. That means you take one stress.
+DRE: Yeah, low is good for this, right?
+AUSTIN: Yes. Low is good on this.
+JACK: Okay.
+AUSTIN: You want this to be low. Uh, because you- so what did you- you got a five? So, it would be six minus whatever you roll, basically.
+JACK: So do I just add a stress point here? Just one?
+AUSTIN: Yeah. Take one stress from this. But it- but you manage to get through it, like-
+JACK: So I think what happens is that in the onslaught of all these aggressive questions, Hitchcock starts crying.
+[Ali awws]
+AUSTIN (as Ali): I'm just saying- you should pay attention to where your boy is, if he's actually this- are you? [sighs] Sir, are you crying? [Sylvia laughs] Oh my god,
+JACK (as Hitchcock): (quietly) No.
+AUSTIN: They like, Ali like, rests their arm on one of the pala-dins [Dre shouts in laughter] and like-
+JACK (as Hitchcock): (crying) It's just been such a day!
+[Ali laughs]
+AUSTIN (as Ali): I-I understand, let's go back in-
+JACK (as Hitchcock): And with his mother, too!
+AUSTIN: What do you- what?
+JACK (as Hitchcock): And with his mother, too!
+AUSTIN (as Ali): Is his mother missing?
+JACK (as Hitchcock): Uh...yes?
+[Ali laughs]
+AUSTIN (as Ali): She's- what's her name?
+JACK (as Hitchcock): [takes in a deep, shuddering breath] Uh...
+[Jack and Ali laugh]
+JACK (as Hitchcock): Emilia.
+AUSTIN (as Ali): Emilia. Are you here? [PAUSE] Emilia isn't here, sir. I'm gonna need to ask you- Jeremy, hey Jeremy, open the door.
+ALI: Wh- before the door opens, can I jump into Jack's coat? 'cause it's dark.
+[Jack gasps]
+AUSTIN: Are you already, were you awake in this- in here? As the cat?
+ALI: I think-
+AUSTIN: And if so, what happens to your body? [Ali laughs] Your other body?
+ALI: I think Sige is looking over it. It's just standing there.
+AUSTIN: Okay, so it can stand under its own power.
+ALI: Yeah.
+AUSTIN: It doesn't just collapse under its weight.
+ALI: It's a statue. It's a statue!
+AUSTIN: Okay. But that means it's just standing- okay. Cool. Then yes, you can totally do that.
+[PAUSE]
+JACK: Uh- do you do this noticeably?
+ALI: Uh- I do it when like- she* closes the door and it's dark?
+JACK: Ah, okay.
+ALI: So I can just. Yeah.
+AUSTIN: Okay. Now you have a cat- yes.
+JACK (as Hitchcock): Should we go and get some- croissants?
+AUSTIN (as Ali): Yes, let's go and get you- yes.
+AUSTIN: And they open the door and go back into the luncheon car. [Dre giggles] A good effort to try and get closer to the front of the car. Good. But now, look, the cat is with you.
+JACK: Yeah! I got a cat.
+AUSTIN: Um, I should actually mark what's in there now. So now you know that the pala-din are in here, in the fifth car, and then you know that- we also just already know that Castille is here, back with Sige. And that Aubrey is in the engine room. Okay. Uh, I'm gonna advance a- that clock again. I'll let you know, that this just- you know this, that's the mission clock. This train's gonna get where it's gonna get eventually, and then it's gonna like, be in a place where you can't just get at stuff? There will be lots more guards, eventually.
+ Um, also, you get- so at this point, you get to like, right down the middle here? And then the train lifts into the air, with new supports that are being built under it as it goes. And it turns right, and starts going through Helianthus Parish, above all of the people who work and live there. But, you know, it's basically like, forty flights up, or something. Uh, and it's building like- like, um almost like roller coaster track underneath it. A huge bridge that lifts it up and over those people. And you can- we probably get a shot of that one person who was like 'I'll beat you to the factories for sure!' and like, no. No you super won't. [Dre laughs] 
+Let's talk about Sige. What are you up to?
+DRE: Um, is this...is this car just another passenger car?
+AUSTIN: Yeah, it's another passenger car.
+DRE: Okay. Uh, I mean if our mission clock is going, because this train is running, we could just try to stop this train from running.
+AUSTIN: (laughing) That is a thing you could do!
+ALI: We could do that!
+AUSTIN: I like how you think!
+SYLVIA (whispering very close to the mic): I was thinking the exact same thing.
+[Ali and Dre laugh]
+DRE: Um...is Ca-Castille are you back in your body?
+ALI: Yes.
+DRE: Okay.
+JACK: So have I just got like, a functionally dead cat in my coat?
+(overlapping)ALI: You have-you have a- yeah, you have a beautiful statue.AUSTIN: No, it's a porcelain cat statue.DRE: It's a little statue.JACK: Oh, okay.
+AUSTIN: You- you I imagine, I imagine that Hawthorne like sits down- not Hawthorne, Hitchcock. Uh, sits down, and like (laughing) puts the statue on the, like on the cafe bar? [Jack laughs] Uh, and then a nice like, bald man pours you a little cup of- like a little cup of coffee?
+JACK: Like, 'this'll fortify you, sir.' Hands it over.
+[Dre laughs]
+AUSTIN: Yeah. Exactly.
+AUSTIN (as bartender): Now, now. Can't have you crying. [Jack laughs, Ali awws] Not on train day. [Everyone laughs] (In a radio-announcer style voice) It's train day, sir! 
+[Ali shouts in laughter]
+ALI, trying to catch her breath: Don't do that voice! Don't do it.
+JACK (as Hitchcock): [Sadly] You're right- you're right, it is train day. It is. It is. I'll try and be brave.
+[Ali starts laughing again]
+AUSTIN (as bartender): Atta boy.
+SYLVIA: God!
+AUSTIN: He pours you a little glass of orange juice.
+AUSTIN (as bartender): No charge.
+JACK (as Hitchcock): Is this orange juice?
+AUSTIN (as bartender): It is.
+JACK (as Hitchcock): That's my favourite of the juices.
+[Sylvia laughs loudly]
+AUSTIN (as bartender): Mine too, sir.
+[Dre laughs harder, then coughs.]
+AUSTIN: So what's going on at the back of this car? Sounds like Castille might be trying to get into the engine room? With Aubrey?
+DRE: I think I'm going to try and get into the engine room with Aubrey.
+AUSTIN: Or- that's what- yeah. Sorry, I said Castille, I meant Sige.
+DRE: I don't know, I mean Castille can come with if she wants.
+AUSTIN: Sure.
+ALI: Uh...
+[2:14:42]
+AUSTIN: There is, again like, a conductor, or like a person in a train out- a train uniform, which I think is like- I should actually paint that picture a little bit. Um, it is a very simple uniform, it is a pair of like- it is like a pair of blue shorts. Remember, it's really hot here. It's like really hot here. Um, and there's no air conditioning, but once the train lifts up off the ground, the windows go up? And so there is like, this intense wind as you move. That cools the train. But is also just like, not- I guess it depends on which car you're in? The like, luncheon car has those nice- has like a system where the windows open outward? And so like, air just kind of flows in easily? Like they open outward from the top down? Whereas in the back cars it just like, open. Someone could easily be pushed out of one of these windows and die.
+And the- the kind of like, person who's on the back door here is the train uniform, which is like a pair of little blue shorts, and like a- a short sleeve, like lighter blue shirt, and a like, train conductor hat.
+SYLVIA: Aww, that's adorable!
+AUSTIN: Uh, yes. They are, they are- but they, but they like, are wearing it like it's- like it's a uniform, like it's a proper uniform.
+ALI: It is!
+DRE: Lil shorts!
+AUSTIN: So, Sige and Castille, what are you up to? What are you doing?
+DRE: Here's a plan. Castille, why don't I create a distraction so that you can get back into this engine room with Aubrey?
+ALI: Yeah, that works.
+AUSTIN: What sort of distraction are you making?
+DRE: Um, I'm going to yell at the top of my lungs,
+DRE (as Sige): What the fuck did you say about my mom?
+DRE: And punch somebody in the face.
+AUSTIN: Good! Good. That's a good way to live. Alright. [Sylvia sighs] Uh, I guess that's probably- I keep forgetting that I have these cheat sheets in Roll20. I keep trying to look stuff up, but I have the rules reference right here! Um, that sounds like Wreck to me? [Dre laughs] "Wreck a place, item, or obstacle with savage force or carefully applied sabotage. Create distraction and chaos." Yes, absolutely. Uh, I'll say that that is...a controlled action with great effect. So go ahead and-and make that roll.
+DRE: Oh, this poor person's face.
+AUSTIN: Well, so the thing that you're- the effect that you're having isn't on their face, itt's on the situation. And that's how clocks are really cool!
+DRE: You said controlled with great effect?
+AUSTIN: Yeah.
+DRE: Okay.
+AUSTIN: Totally.
+DRE: Uh, any extra?
+AUSTIN: Nah. Unless you have an ability that gives you extra here.
+DRE: Uh...
+AUSTIN: Alright, so you got a four with great effect, and it was controlled, so that's useful. Uh, "You do it, but there's consequences. It takes extra time, you have reduced effect, you suffer less harm, or you end up in a risky position." Um, you definitely- so that- you end up in a risky position. So you like, slam your fist into uh, a nearby- it was the, it was the guy who was betting his friend that he would get to the factories first? [Dre giggles] And you just like, slam him in the back of the head and he goes like, um. You hit him too hard. And he starts to slip out the window.
+DRE: Oh!
+AUSTIN: Uh, and then like- you just rush to grab him, but also now people are like, like shoving you? Uh, so you are not in a great place. We'll come back to you in a second. Castille, what are you doing?
+ALI: Um, what's the guard doing?
+AUSTIN: Uh, at this point he rushes forward to go after uh, Sige.
+ALI: Okay, I make the slip while everyone's distracted.
+AUSTIN: Alright, totally. You just like, slide that door open and walk right in.
+ALI: Yeah.
+AUSTIN: Uh, and there is [Ali and Austin starts laughing] Aubrey, just like, [Dre and Sylvia start laughing] Just like, moving knobs, and turning levers- pulling on levers, and like putting obsidian into different vault-or like, into different tubes and stuff? It's not exactly clear how this engine works. If you had time to study it, you could put it together, but it is not clear right now how it works. It might work on prayer, you think? As soon as you come in? Fuckin, the other poor Cobbin, uh Zaktrak, just like drops everything in their hands and then salutes, and there's a flask that breaks? And there's like a weird green smoke, like coming up off the ground? And like, salute! And then, second hand, Peg's hand comes back up from under, and does a salute motion? But like, there's no head there to salute, like-
+[Dre laughs]
+SYLVIA: Aubrey salutes as well.
+[Ali giggles]
+AUSTIN (as Zaktrak): (Nervously) Ah, w- uh- everything's, everything's going great! It's-that's- the report! For this, this sector- everything, the engine is- A-okay! Here. Everything's good.
+ALI (as Castille): What's that green stuff?
+[Dre and Sylvia laugh]
+AUSTIN (as Zaktrak): Waaaah! [Ali laughs] Why are you talking?!
+[Ali and Sylvia laugh harder]
+AUSTIN: Zaktrak like, goes back to like, the w- starts to move back to the wall? Or not the wall, the back door? Um, and like, starts like fidgeting with the handle? And then like, it opens up and Zaktrak almost falls out, and then Peg springs up out from like, the cracks in the floor, and grabs him and stands behind him? This like, huge arms that are all twisted and-and they are like, blowing in the wind back here now. But almost like a- a parachute, Peg is like blocking the wind from taking Zaktrak? And reaches out one weird twisty arm to grab the door and slam it closed. Um, and she takes like a very defensive posture. With like, one of her arms is in front of Zaktrak and her, and then with the other she's like moving her hand around the corners of- like, the distant corner of the, of the train car, looking for something to pick up as a weapon. What do you two do?
+SYLVIA: Um, so I have a question, really quick. Because I wanted to do something with alchemical stuff, (AUSTIN: Sure!) like, one of my things is- but, it says here it's like a downtime project to prepare that? So...
+AUSTIN: Mmhmm. That's fine, we can do- so, this system has a thing called-
+ALI: Flashbacks!
+SYLVIA: Yep.
+AUSTIN: Flashbacks!
+SYLVIA: Okay.
+AUSTIN: Uh, so the way flashbacks work is, um: "The rules don't distinguish between actions performed in the present moment and those performed in the past. When an operation is underway you can invoke a flashback to roll for an action in the past which impacts your current situation. Maybe you convinced the district watch Sargent to cancel the Bluecoat patrol tonight, so you make a sway roll to see how that went. The GM sets a stress cost for when you activate a flashback action. Zero stress for a normal action for which you had easy opportunity, one stress for a complex action or an unlikely opportunity, or two or more for elaborate actions which involve several special opportunities." So what do you want to do?
+SYLVIA: So what I was thinking was that Aubrey could have prepared sort of a sleeping concoction of some sort?
+AUSTIN: Sure,
+SYLVIA: And- because-
+AUSTIN (over Sylvia): That's like, one of your moves, right?
+SYLVIA: Yeah. It- well like, so...the alchemy stuff is just like, talk to your GM about what you want the thing to do,
+AUSTIN: Totally
+SYLVIA: and...it works.
+AUSTIN: Yep, so that sounds like a tinker to me.
+SYLVIA: Yeah, okay.
+AUSTIN: Um, take one stress for that.
+SYLVIA: Okay!
+AUSTIN: It's like- the stress isn't that you needed to do it, or the stress isn't that it's tough, necessarily? It's that you had to do it before the train. If you had infinite time it wouldn't be a problem,
+SYLVIA: Yeah, yeah yeah.
+AUSTIN: But you had to prep, so take one stress.
+SYLVIA: Um, should I...
+AUSTIN: And then give me a Tinker check.
+SYLVIA: So one stress, and uh, risky, controlled, or desperate?
+AUSTIN: Uh, controlled and limited- or, controlled and standard effect.
+SYLVIA: Four.
+AUSTIN: Okay! Uh, so yeah, you totally have... [He chuckles] You totally have a sleeping potion thing. The thing is, it will knock out everyone in the room who can smell it.
+SYLVIA: Oh...kay.
+AUSTIN: That is the complication. Now, you know Castille can't.
+SYLVIA: [sighs] Yeah!
+AUSTIN: But. It will knock you out.
+SYLVIA: Okay, um...actually, yeah. I think, so how- do we know how long it lasts?
+AUSTIN: Uh...for...you tell me. How long does it last?
+SYLVIA: Um, I'm thinking short- it's a short term thing, like...she made this so they could use it and then run away.
+AUSTIN: Uh, sure. So like, five minutes?
+SYLVIA: Yeah.
+AUSTIN: Ten minutes, something like that?
+SYLVIA: Yeah, I'd say ten. Ten, fifteen?
+AUSTIN: Let's say ten minutes, yeah. That's totally feasible.
+SYLVIA: Okay. So...[starts laughing] what she does, is she just sort of like, looks around, is like
+SYLVIA (as Aubrey): Sorry! Sorry! Sorry!
+SYLVIA: and then throws this like, bottle on the ground, and there's just this like, [Austin laughs] weird blue smoke goes everywhere? [Sylvia laughs again] And then her, Peg, and Zaktrak just fall. Like, face down on the ground.
+[Ali giggles]
+AUSTIN: God. Alright, Castille.
+ALI: So, I just walk over to the...all of those knobs that uh, Aubrey was just looking at, and just like, break three of them? [Dre and Jack laugh]
+AUSTIN: Give me a Wreck check. [Ali laughs] Again, definitely controlled.
+ALI: Yeah?
+AUSTIN: Uh, and- and I'll say standard effect here. Because it's not like you know anything about this stuff? Another four! This is a good system, lots of complications. [Ali and Dre chuckle] That's what I like. Um, hm...let me think what happens here. Uh, so you- you totally start to pull through a bunch of the different um, you break a bunch of the knobs, and the- the train...does not uh, fully stop, but it does start to slow down. And then you hear people like, shouting. In the- in the forward cars. In fact, this is where you realise, you notice that there is kind of like an elaborate system of like, tubes and-and uh, horns that let you listen into some of the different cars. Train cars. Not like, to like eavesdrop? But just to like, make sure that they would- you would be able to hear if someone yelled, basically. Uh, and- people are yelling. So I'm gonna say it hasn't totally stopped yet, but it- it does not advance another step yet. Um, and the engine is partially broken. So hey, good job.
+ALI: Um, would I be able to make it back into the car that Sige is in? Without being...?
+AUSTIN: Well let's talk about Sige real quick,
+DRE: Huh.
+ALI: Hey. [Sylvia laughs] Alright.
+AUSTIN: Sige. Um, you're gonna need to make a resist check for sure.
+DRE: Okay.
+AUSTIN: Because the uh- the guard who came over to interfere with you has now like, pulled back the person you almost knocked out, and is now like, like- just hammering away at your back, with closed fists. Um, and is- is trying to take you down onto the ground. But you're a- you're a big dude, so. Uh, but give me a resolve, or I guess a prowess resist.
+DRE: Okay.
+AUSTIN: To uh, to resist this. But like, he's hitting you. It is not a matter of dodging at this point. Ooh. Uh, oh no, that's really good, you got a six. So like, the- the shot- the hits just like, do nothing to you at all. Um, just like, this poor little, not even a guard, really? Like, just a train steward? Is just like, hammering on you to try and take you down, and the- the punches do nothing. At all. Um, what do you do?
+DRE: Uhhm...has Castille come, like, out of the engine room yet?
+AUSTIN: Not yet, like after your next action, that'll happen.
+DRE: Has the train started to slow down at this point, though?
+AUSTIN: ...yes, the train is now slowing down. I think, that starts to happen, and then this steward kind of like, stops hitting you? And turns and looks at the engine room because he puts together what's happening.
+DRE: Gotcha. Oh, okay. Okay. I'm gonna look at this uh, this- what are we calling them? They're not conductors, and you said they're not guards.
+AUSTIN: I think, I'm- I've been calling them stewards.
+DRE: Stewards, okay.
+AUSTIN: Train stewards, yeah.
+DRE: Um, I'm gonna look at this steward and say,
+DRE (as Sige): Look. I appreciate you've got a job to do, but this guy started something, I finished it. I think it'd be better if I just wasn't here, so why don't you just take me to this next car, and we'll just- we'll just call it a day here.
+AUSTIN: The steward at this point, is like, not even listening to you. Uh, actually- give me a, it actually sounds like you are- that's unfair. You should get to roll for this. Um, but there is a- a limited effect. Actually, I think it's just...I think it's a standard effect, it's just risky. So give me-
+DRE: Command?
+AUSTIN: Yeah, that's- ah, no, that's- ah, yeah. I'll give you command, 'cause you're basically saying- ah, I'm actually torn. Maybe it isn't command. Maybe it is sway. Are you, are you trying to- are you commanding with the force of your personality? Are you intimidating or threatening?
+DRE: I mean I def-
+AUSTIN: Or at this-
+DRE: I definitely think I'm-
+AUSTIN: You did that.
+DRE: I'm like, leaning on the fact that like, this dude just tried to like, hit me a bunch? And it didn't do anything?
+AUSTIN: Okay.
+DRE: And I'm like,
+AUSTIN: Okay.
+DRE: Just do this for me, so I don't have to punch you in the face?
+AUSTIN: Okay, well there you- that's the characterisation I was looking for. [Ali giggles] Give me a command check.
+DRE: Uh, you said risky- limited?
+AUSTIN: Yeah. Or, risky standard, not limited.
+DRE: Six!
+AUSTIN: Boom! Killing it!
+ALI: Dang!
+AUSTIN: He like, he's like just about to go check out what's happening in the engine room, and he's like
+AUSTIN (as steward): Fine, fine, fine. Fine. Fine.
+AUSTIN: And opens up the next car door, and starts moving you in. Hey, Hitchcock?
+JACK: Hello.
+AUSTIN: You hear a familiar sound.
+JACK: What is it?
+AUSTIN: There is a uh, a thing they used to give you in the cavalry. Which were these uh, metal plates which strapped, or kind of affixed to the bottom of your cavalry boots. And they said that it was something to do with the stirrups to make sure that they stayed in, or something. But, when you were in the corps, a thing that you learn, was that you always knew when a cavalryman was coming. Even when they're off their horse. Because you would hear the clanking of the sound. 
+Clank. Clank. And then you hear a door open. [He imitates a door opening] Clunk. And it closes. And then- some lighter clanking, because the metal is hitting hay now, but there's still metal ground underneath it. Clank. Clank. And it's getting closer. And the door opens. And there's a man with no nose. [Jack laughs softly] Wondering why the train is slowing down. What do you do? 
+I-I should describe him more. Um, he has on uh, he has his white uniform slacks on, with his old cavalry boots on underneath those. There is a sort of like, a shimmering dark golden line that goes down the outside of those slacks, like down their seam. He's wearing a sort of deep red, almost wine coloured button up shirt. And then his jacket is like a, it's like a long coat with wide lapels and it's the same sort of like, shimmering, deep almost brown gold, that is on the line of his pants. But with every step that he takes, it catches the light and the jacket almost changes colour, it has like a red, and a yellow, some purple, it's almost always like a dark colour, but it shines at the same time. When the light catches it. And on one of the lapels of his coat, of his long coat, he wears the badge of the Golden Lance. Because, as anyone on this train can tell you, this is Lance Sovereign Marielda, the man once you knew all those ages ago, as Thackeray. The leader of the Golden Lance [Jack laughs] in Marielda. Your old friend.
+ [2:31:03]
+JACK: Ah...
+AUSTIN: He got a promotion, since you cut off his nose. [Jack laughs] He has not gotten a new nose.
+JACK: Has he seen me?
+AUSTIN: You tell me.
+JACK: Um,
+AUSTIN: How are you keeping a low profile, or are you at all?
+JACK: I think that I'm probably sit- I- [Laughs] I think that what happens, is Hitchcock is just sort of looking in the direction of the door, trying to work out his next move, at this point.
+AUSTIN: Mmhmm.
+JACK: When the door opens. And I think that he...something in the immediate profile of Thackeray, uh, clocks with him. And almost without realising what he's doing, he turns around and puts his head on the bar, uh, knocking over the orange juice, and just starts sobbing harder? [Austin starts laughing] So his face is now completely hidden.
+AUSTIN: Give me a prowl.
+JACK: A prowl? Okay.
+AUSTIN: I think that's a- uh, let me read Prowl out loud. And I'll decide from that.
+JACK: Oh, yeah.
+AUSTIN: "Prowl about unseen and traversing obstacles..." maybe it isn't, maybe it's- That's sway. It's sway, 'cause you're charming with disguise. You're changing attitudes or behaviour with-
+JACK: And I'm getting a +1 on that,
+AUSTIN: From?
+JACK: because I am absolutely using, um, Cloak & Dagger.
+AUSTIN: Oh, yeah. I think- yes, absolutely. This is totally Cloak & Dagger.
+JACK: Um, let me just find the thing...uh, what's my position here?
+AUSTIN (over Jack): So this is-
+JACK: It's definitely risky, right? Or is it desperate?
+AUSTIN: Ah, not with Thackeray, it's desperate. It's desperate with Thackeray.
+JACK: 'cause also, I-I'm putting myself in a really vulnerable position here, 'cause I can't see him. Now.
+AUSTIN: And you're-you're...there's a double move here, right? Which is 'oh yeah, this is a disguise'. But if it fails, all you're doing is calling attention to yourself.
+JACK: Right. Absolutely.
+AUSTIN: Uh, and I think it's limited effect. This is-
+JACK: It's a five!
+AUSTIN: Mm. It is a five. Let me tell you about desperate fives, though.
+JACK: Oh, dear!
+[Ali makes an unsure noise]
+AUSTIN: Desperate fives are not as good as risky fives. [Jack starts laughing] So, on a desperate five...uh, "You do it, but there's a consequence. You suffer severe harm, a serious complication occurs."
+JACK: [laughs softly] Okay.
+AUSTIN: It's time for a serious complication.
+JACK: Ah, I figured that might happen.
+AUSTIN: Hmm. I think- you know what, here's what I can do. This is - one more rule of this game that's really neat.
+JACK: Oh, no.
+AUSTIN: So, the thing I can do is...and I'll give you a choice here. You can...your disguise can totally work here, uh, but only if Thackeray finds something else to chase. That gives you away in another way, Jack. A devil's- a devil's bargain is a thing I can offer. "Think about a fun complication or reckless decision. Offer them bonus dice in exchange. If you don't have a good idea you can offer the devil's die in exchange for heat. There are always unseen witnesses lurking about, the city is alive with informants and gossips." Um, I can just say like, you can just- totally be safe. But in exchange, something else you have going on that no one else in the party knows about, because I'm that GM sometimes, draws Thackeray's attention away.
+JACK: Okay, yeah. I'll take that option. That sounds ominous enough to be interesting.
+AUSTIN: So you're crying on the ground,
+JACK: On the bar, Austin.
+AUSTIN: Well, you knocked over the orange juice, I was imagining you were like, trying to like...
+[overlapping]JACK: Oh I don't think I care. Yeah.AUSTIN: You're not even trying to clean it up.
+AUSTIN: Um, so. Thackeray's eyes turn to you, and are like, squinting at you for a second? 
+[Marielda STARTS PLAYING] 
+AUSTIN: And then he sees somebody else. What are they doing?
+JACK: I think this person has stood up from the, the seats in this fancy luncheon car. Where they'd been sitting. And...I think if anybody else in the party were in the car, they would be immediately and violently perplexed. Because it's the spitting image of Captain Hitchcock. And he stands up, and he draws a cavalry saber, and he says
+JACK (as Hitchcock): Okay, well. This is a train robbery. Um, [Austin laughs loudly and claps, Ali giggles] 
+JACK (as Hitchcock): I'd like everybody to stand up. All of your jewels in this bag here, please. Yes that's right, yes that's right sir, that's right ma'am.
+AUSTIN: So is this the dance instructor or is this the duellist?
+JACK: I think this is definitely the duellist.
+AUSTIN: Okay.
+JACK: Because the last piece of my character creation, is that I'm going to be playing a pair of identical twins. [CLARINETS]
+[MUSIC CONTINUES UNTIL END]

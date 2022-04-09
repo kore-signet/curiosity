@@ -1,0 +1,866 @@
+PARTIZAN 01: The Seaside Town of Obelle
+Transcriber: Ella @SRbackwards
+[TANAGER. PERFECT. TOUCHPAPER. by Jack de Quidt begins playing]
+AUSTIN: Once, every 10 days, the Portcullis System activates. A hundred thousand of these massive structures, elongated, city-sized hexagons of stone and circuitry, shudder, shake, and howl all at once. And at the edge of every star system in Divinity, a geyser of liquid energy, red and oppressive, explodes into darkness. 
+Ships emerge from these crimson and white waves. Ships filled with medical supplies and mineral wealth, purveyors of faith and career politicians, censored information and refurbished war machines. The lifeblood of a vibrant, vicious empire.
+But during the most recent cycle, something else emerged from the red of Partizan’s Portcullis: The Divine Past, a living library of glass and gold, itself the size of a city. Inside, it carries the accumulated knowledge of the whole Principality, locked to all except one: Its Elect, the stern Cymbidium, son of the long-conquered Ashen people and child of Stel Kesh.
+For unknown reasons, they now trace a velocitous arc towards Partizan. And they have not gone unnoticed. 
+Deep in the rocky crags of the Apostolosian Barranca, the infamous Swordbreakers hurriedly prepare their Hallowed mechs for a late night operation. They are guided by Cas’alear Rizah, noble, national hero, and notorious killer of elects, brown skin and dark green scales lit by the flickering glow of a map display.
+This is what they’ve prepared for. A real opportunity to turn the war in Apostolos’ favor.
+Cas’alear looks skyward. It’s faint, but visible. A shining light, a star moving in the sky, towards Partizan. “How’s that saying go?” cas thinks with a soft grin. “What’s past is prologue?”
+[TANAGER. PERFECT. TOUCHPAPER. plays to end]
+AUSTIN: Welcome to Friends at the Table, an actual play podcast focussed on critical world-building, smart characterisation and fun interaction between good friends. I am your host, Austin Walker, and joining me today for the first full session of Partizan is Alicia Acampora. 
+ALI: Um, hi, you can find me over at @ali_west on twitter and you can find the show over at @friends_table.
+AUSTIN: Uh, Andrew Lee Swan?
+DRE: Hey, you can find me over on twitter at @swandre3000.
+AUSTIN: And Janine Hawkins.
+JANINE: Hey, you can find me on twitter at @bleatingheart. 
+AUSTIN: Today we are beginning our game of Beam Saber by Austin Ramsay. Uh, you can find that by doing a search on google for “Beam Saber itch.io” or “Beam Saber Austin Ramsay.” It’s over on itch. My goals are to, uh, convey the world honestly, to ensure everyone at the table is safe, to fill the world with detail – that is, to fill the world with people who have names, cities that breathe, buttons that click, screens that glow and cloth that flows – to play to find out what happens. I’m gonna do another take on that. And to play- Mm. One more time. And to play to find out what happens. 
+Um… We are kicking this off, and so, because it’s the first episode- Also really quick, like if you enjoy the show, please support us at friendsatthetable.cash. I do a shoutout to this pretty much all the time. Uh, but at the beginning of a new season, I especially wanna shout it out and say… shout it out. [Ali laughs] I really wanna just say there’s lots of great stuff over on our- over on our patreon. If you are a listener to this and you’re like, “oh wow, there are so many cool things at the edge of Partizan, at the edge of this world that y’all are playing in. I’d love to know more about the Apostolosians, I’d love to know more about what’s up with Stel Orion,” like, go listen to the Drawing Maps updates that I did. I did, right now, as of this recording, five, but there’ll probably be six or seven by the time I’m done, of just me doing the worldbuilding of these factions and the squads and the locations and the- kind of the philosophy that goes into all of them. Um, and then obviously there’s the Road to Partizan games which aired before this one. And those are also a great source of just like, “hey, what ha- what, where did these people come from? What’s up with them?” So if you want more, you can go- you can go check those out, both on this feed, and on the Friends at the Table, uh, patreon feed. Because it’s the first session of a new game, I always like to read my principles, and then also read the- So, I always read the goals, right? I always say “Play to find out what happens.” But on my first session, I always like to also just remind myself, remind the players, remind the listeners what the GM principles are, which go into those goals:
+Be a fan of the pilots. 
+You know, be excited for their stories, for their victories, for their suffering, [laughs] but make sure you aren’t actively pushing them towards defeat. The war is hard enough without the GM leaning on the scales. 
+Let everything flow from the fiction. 
+I don’t need to prepare a story, I just need to prepare a scenario. I need to have an- you know, an inciting incident that starts things, but the PCs will drive the action and consequences will flow from that. 
+I will address the pilots when I’m talking about fictional concerns. 
+I’m gonna say “hey, Broun is doing this, Thisbe is doing that. Hey, Valence, what do you do?” Also, address the players when talking about the desire for, you know, where Ali wants to take the story, or where, you know, Janine is feeling comfortable or where Dre needs to take a break. [laughs] Talk- Talk to players. 
+Fill the world with inequality. 
+Even though we’re not playing in the default Beam Saber setting, it is true that this is a world that has been at war for years. Um. The poor are conscripted to fight. Um… The wealthy can avoid that [laughs] fate if they want to, or can exploit it for glory and, um, more- more wealth and more power. 
+Make the war the enemy, not the soldiers.
+This war has been going on a long time, it is more devastating than any one person can be. Show this by giving every NPC humanity. Everyone has something that they care for, whether it’s- whether it’s because that makes survival easier or more tolerable. Humanise individuals, make groups monstrous through cold calculations or dangerous acts of passion. 
+	Make the war too big to defeat.
+The war effects multiple worlds and the starlanes in between. There are too many with their wealth tied up in the conflict. The best possible outcome would be to push the war out of sight, so it could be out of mind, but most will have to survi- settle for surviving until they can get out.
+	Make the pilots feel small, and the vehicles feel powerful.
+There is at least one character in this set who disagrees. [laughs] Because of being big. This is not to say make the pilots feel ineffective, just that as people they are much smaller than vehicles, squads and factions. They can still get things done, but they- but it might not be on the scale they wish it was. They should be constantly- The should constantly be contrasted with the power and size available to them through their vehicles. Even the smallest of these machines are as tall as three-story houses. Enemy vehicles should feel even larger and more powerful, especially when the pilots are outside of their own vehicles. These things are terrifying, whether you’re behind the controls or in danger of being absent-mindedly stepped on. 
+Consider the risk.
+Pilots lead dangerous lives and most of their actions will be with a risky position… Um, uh… etc. I don’t need to read all that, y’all know about risk. [laughs]
+	And hold on lightly.
+This isn’t a competitive game. It doesn’t require hard-line rulings. If someone, yourself included, wants to take back a statement, that’s okay, but consider what it means if the dice have been already rolled. There’s also some stuff that I really love that is about your principles as players. I’m not gonna read through all of this text because it’s, like, page after page of this, but I will read them out loud, because I think there- it’s good suggestions for [laughing] how to play the game well. One:
+Protect your comrades.
+Both in terms of… table- like, how we hang at the table, but also in terms of, um, you know, doing stuff, you know, as characters to protect each other. Forged in the Dark games, of which Beam Saber is one, work best when player characters are teaming up with each other and are helping each other and are spending their resources to help each other.
+Embrace the pilot’s life.
+Which is to say, basically, it’s okay to fail, but like, push yourself? Push yourself to do difficult things, push your character to… uh… This is sort of the like, “play your character like you’re driving a stolen car.” [laughs] Um, Janine, you- you told me recently that your goal this season was to play Blades in the Dark as hard as you can, basically, or play Beam Saber as hard as you can. That is very much “embrace the pilot’s life.” Um…
+Go into danger, fall in love with trouble. 
+Very similar thing there. 
+	Use actions honorably.
+Which is to say, use the action you think your character would use, do the thing you think your character would do. Not always the thing with the highest score. Folks who have not, uh, played or heard any Forged in the Dark games before, let me just give you the super quick “how does the dice mechanic work.” Uh, to do something, you roll your action score. 
+You have twelve actions on foot, another six in your vehicle. They can be from zero to four. You roll that many d6’s. You get a six on any of those d6’s, you succeed completely. You get a four or five, you succeed with some consequences. You get a one, two or three, you just get the consequences. The degree of your success, and the, uh, degree of those consequences are determined by your positioning and effect, which I will say ahead of any roll. So I will say, like, “oh, this is a desperate action, that’s your desperate positioning, but it will have great effect.” That is desperate, standard- uh, uh sorry, desperate, controlled and risky. Or I guess, in order it’s controlled, risky and desperate, and then limited, uh n- standard, and great, in terms of effect. There’s always rules for resisting those consequences, but we’ll get to those when we get to those. 
+There’s a lot of choice on the players’ part on what they roll. They can say, “hey, I wanna- I wanna get into this fight, by using, uh, not my fight skill, but my, like, destruction skill.” And then it’s my job to say, “okay, well you can do it, but fighting would give you a better effect [laughs] than just trying to like, swing wildly and- and hurt things.” Uh… And- and… Uh, what we should do as players is, like, keep yourself thinking about where your character is, what their headspace is, what they default to, etc. 
+	Take responsibility.
+Which means, not only for the outcomes of what your character does, but… um, you know, embody the- the tone, the theme, the- um, the- the kinda ethos you wanna see at the table and in the story that we tell. Great examples here are like, if you want the war to be serious and deadly, take serious harm when it’s offered, you know? If you want, you know, interesting politics then, you know, wave a flag, let me know you want that stuff. 
+And if you want to back off on something, as always you can- you can play an x card. If you want me to say like, “hey, I don’t want-” I’ve been listening to The Cenotaph, which is Austin- one of Austin Ramsay’s own games of Beam Saber that you can listen to if you do a search for The Cenotaph. And there was a great moment where a player – they were doing a thing where they were digging people out of rubble – and a player was like “hey, I just wanna put an x card on the table, I have claustrophobia. I’d rather not have, like, dice rolls about [laughs] claustrophobic shit.” A hundred percent exactly the way that the x card can be used at the table to keep everyone comfortable. So this is a place where you should be willing to do that, to play towards the ethos, and- and kind of environment you wanna see at the table.
+	Use your stress and quirks.
+[laughs] This is like, pro-tip. You have resources, use them. Uh, there’s a section at the top of the book that explains the ways in which Beam Saber is different than Blades in the Dark. One of the biggest ones is, uh- Two of the biggest ones, one is how you help each other? It, by default, only costs one stress to help each other. That number goes up when your relationships get better with each other, because you care more about each other, but the effect of helping also goes up. We won’t have to deal with that with this first episode because everyone has a level one relationship with everyone. 
+The second way is that you have big vehicles, and vehicles don’t take stress, they spend quirks, and we’ll get into that as we- as we play, presumably, but know that you should use them. It is okay to spend your quirks. The quirks kind of reset them- reset themselves, or you can spend points to reset them, basically, in between missions, so you should be willing to, like, push yourself and do that. 
+	Advocate for the scenes you want.
+If you want me to pause, if you’re like “wait wait wait, before we move on, I really wanna talk to this character,” I will prioritise that every time, so like, please put yourself out there. Um… 
+	Don’t talk yourself out of fun. 
+[laughs] Do the thing that you think is dope, you know?
+	Build your character through play. 
+Obviously we have all this stuff that we started with, um, but, there’s- that is, as the book says, those are who your pilot was, not who they are, or who they will become. Be willing to kind of change as we play.
+	Hustle to get ahead. 
+Let’s- You know, think about ways in which you wanna improve. Be- Talk to me, both on mic and off… about what you want… different, uh, about your character, about- like “hey, I would like an opportunity to get this type of gear,” or “hey, I’d love to see this character interact more with characters like this.” And then… Uh, these two are kinda- go together for me.
+	Break the rules with long term projects.
+	Act now, plan later.
+They’re kind of two sides of the same coin. Uh, if there’s stuff that you wanna do that I’m like, “Mm, I don’t know how you can do that,” write it down, and then we get to downtime, when we get to time away from a mission, be like, “hey, I really wanted to do blank, can I start working on a project that would let me do blank soon?” And then, the alternative of that is, when you’re in the middle of a thing, take the action, don’t get too caught up on plans. 
+One of the best things about Forged in the Dark games is that there’s very little that goes into beat by beat planning. All you really need to do is- is get kind of a gist in mind before you… get into the action. And then we can always – and this is not one of the ones listed here – but we can always do flashbacks. [laughs] You might remember those from Forged- or from Bl- from Blades in the Dark, or from Scum and Villainy. This game also has flashbacks. And, uh… And we can always, you know, retcon something, if it’s something obvious that’s like “oh shit, can we have this scene before we go, I meant to have this scene where we talk to blah blah blah.” Like that is- All that stuff is on the table, as always. 
+[15:00] 
+Um… Okay. Are there any questions before we dive in? Um… I’m trying to think if there’s any other, like, differences from other previous things that are important right now. Oh, here’s one that’s interesting: you might remember in Blades in the Dark or Scum and Villainy, I could give you a devil’s bargain? Um… Which is where I’d be like, “hey, can I do a bad thing and I’ll give you an extra die?” [laughs] In those games, you could take that or push yourself. In Beam Saber, you can do both… Uh, so that’s a fun thing to know. [laughs] Um… I think that that’s it, in terms of stuff we have to talk about today before we start. Are there any questions before we kick it off? 
+DRE: Does the… Isn’t there a different name for the devil’s [cross] bargain in Beam Saber?
+AUSTIN: [cross] Yes, it’s a collateral die. Yes.
+DRE: [cross] Okay. Is it the same kind of idea though?
+AUSTIN: Same basic thing of like, “hey, you can suffer harm, or have trust, you know, decrease, or literally cause collateral damage, or sacrifice an item or whatever,” you know? [takes a drink] Okay. Um… [exhales] I think we’re gonna jump into a little bit here. I don’t think that we are, um… befo- I don’t think that we’re like, in the shit, so to speak? But where we are is on a boat headed from the Isle of Logos, which is, uh… So, let me just describe for the audience what I’m looking at. There’s a map [laughs] in front of us. The map is of- of a moon, it’s called Partizan. [laughing] It looks like, uh- like a terrestrial planet, because a long time ago, uh, a prophet did a bunch of miracles on this planet – on this moon – um, that turned it into a habitable place to live.
+Um… Uh, the chief miracle that this prophet did – also, this prophet was a robot, it’s dope, you should go listen to the Road- The Road to Partizan – um, the biggest one was the creation of a sea, this giant ocean in the middle of the planet. Not in the middle of the planet. Like, not- Not at the core of the planet [laughs] but you know, the middle of what I’m calling the map of this planet. Called- That is now called the Prophet’s Sea.
+Around the entirety of this map, kind of at every side of it, there are major powers: the five great stels that rule the Divine Principality owned territory across this world. In the middle of it, though – or towards the middle of it – there are a couple of islands called the Isles of Logos, named for Logos Kantel, the robotic- um, the prophet who did these miracles, uh, fifteen hundred years ago- or a thousand years ago. Those islands are free nations. Those islands are not, uh, tied to any stel. They’re part of an area that’s like, kind of a special autonomous region called the Prophet’s Path, which is traditionally believed to be where the prophet walked. Which begin back on the mainland and go through the ocean and to these islands.
+You are on a boat from those towards a town, and the name of the town is Obelle, O-B-E-L-L-E. And you are doing this because you have been commissioned for, uh, a mission. Before we get into what that mission is, uh, I’m curious- So you’re basically like, on a ship that is- that is moving you- Actually I know the name of the captain but it’s not a big deal, but I’ll pull that up just in case someone wants to talk to that person at some point. It’s like a- it’s like a… [sighs] like, bigger than- it’s like a frigate I guess I would say? Like, it’s big enough to hold you and your three mechs and that is about it. And it’s probably going to get you to, uh, the location you’re going to, you’ve been in on it already for like, six hours, it’ll probably take you another twelve hours to get where you’re going. Um, maybe even longer, maybe like a full day? You’re gonna get there basically mid- let’s say midday tomorrow. Uh, you have one night of sleep before you get there.
+And I’m curious just like [exhales] where are you at on this transport ship? Describe your characters for me, maybe shorter than the long, [laughs] uh, fashion hour that we did? Or fashion – it wasn’t an hour, it was like thirty minutes – in the episode 0. But like, what does just- not downtime downtime, but this kinda pre-mission, uh, vibe look like as you’re getting in your- in the right headspace for- for what’s to come? Uh, Valence, let’s start with you.
+DRE: Hmm. Okay, what kinda ship is this?
+AUSTIN: It’s like a boat, it’s like a- like a frigate. Um… Uh, I don’t know what a- I know what a frigate is, but like, I’m imagining it- I’m imagining it looking… like, um… like it’s much, much, much smaller than… Okay, here’s the best way to say it: One person can pilot this ship, right? [DRE: Okay.] There’s no crew. This is like an individual who is moving a boat with three mechs on it? So I guess that’d be like a…
+JANINE: Like a ferry with a hold for cars?
+AUSTIN: Yeahhhh, that’s exactly right. Yes. [DRE: Okay.] But like, a sea ferry more than a- like a-
+JANINE: [cross] Like a cool ferry.
+AUSTIN: Yeah, like… I’m gonna type “cool ferry”. [laughs] [Dre laughs] But yeah, exactly like that.
+DRE: Okay. Um… I think Valence is… They’re definitely somewhere, like, above, they’re not, like, down in the hold.
+AUSTIN: Okay.
+DRE: Basically somewhere where they can have a very good view of everything around them.
+AUSTIN: And to describe your character again briefly, I know you have a mask on?
+DRE: Yes, um… so a black… uh, wolf mask that covers their entire face. [AUSTIN: Okay.] Um, and then a kind of hooded robe that also basically covers and obscures their whole body.
+AUSTIN: Big Destiny moods. [DRE: Mhm.] What t- What colour robe is it? [Dre exhales] Like a… Is it- It’s more Destiny robe than Jedi robe, right?
+DRE: Oh, hundred percent, yes. [cross] Um…
+AUSTIN: [cross] Like it’s like, fancy.
+DRE: [cross] ‘Cause I think there’s like- there’s like big lapels on the robe? And there’s an additional hood over the head.
+AUSTIN: Gotcha.
+DRE: Um… Uh, there was this one picture I found of a hood that’s like this really nice dark, deep blue colour that I really like.
+AUSTIN: Cool.
+DRE: Let me see if I can find it here.
+AUSTIN: Alright, while you are looking for that to share, uh, Thisbe, let’s talk- talk about you. Where do we- Where do we see Thisbe on this ship?
+JANINE: Um… [cross] I imagine-
+AUSTIN: [cross] And also describe yourself briefly. [laughs]
+JANINE: Yeah. I kind of picture Thisbe, sort of, just standing, like, in the middle of the deck near the prow? That- [AUSTIN: Mhm.] That sorta thing? Um… If there is a place like- I guess we don’t know [AUSTIN: Yeah.] what the deck looks like. [AUSTIN: Yeah, sure.] I imagine her literally standing in one spot for six hours. [laughs] [Ali and Austin laugh] Like, perfectly straight, every now and then maybe they hit a rough patch, and she just like, doesn’t even stagger.
+AUSTIN: [laughs] Does she like, bend her knees, like, almost autonomously to keep ex- You know what I mean? In that like, robotic, like-
+JANINE: Yes, yeah. Like, that’s the thing is like, I don’t think her joints are locked or whatever [AUSTIN: Right.] because then it’d be very easy for her to tip over. [Ali laughs] [AUSTIN: Mhm] I kind of- You know, if this was a smaller boat that was like, tipping around- Like a ferry is a pretty stable thing, if it was, like, tipping around I imagine her head would be doing that thing that, like, owl heads do?
+AUSTIN: [laughs] Yes.
+JANINE: Where they just kind of- Or they stay in one spot and everything else corrects around them. Um… But I think she’s doing that to, like, a lesser extent. It just kind of- staying in one spot. And she is like a… big… d- deer w- Not really deer though, ‘cause she’s got ram’s… she’s got more like ram’s horns that are kind of- I described them as like, clock springs, [cross] they’re kind of spirally.
+AUSTIN: [cross] Like, very tightly coiled. Yeah.
+JANINE: I also don’t- I think they’re like, mostly rigid, but I think like, again, when the water is rough, you can see kind of a sway to them.
+AUSTIN: Cool.
+JANINE: Um, like a spring. Uh… She’s sort of like… She’s about two feet taller than everyone else, I think. Um…
+AUSTIN: So is it like seven feet tall? [cross] Eight feet tall?
+JANINE: [cross] Yeah, she’s about seven- Seven or eight feet, around there. She has, like-
+AUSTIN: I guess we’ll ask after, how tall everyone else is, [JANINE: Yeah.] and that’ll determine that.
+JANINE: [laughs] Um, like really big legs and thighs, but like, feet that taper to just kind of like, small, flat- Not points, but like, it’s like a flattened point? [AUSTIN: Mhm.] Very like, sleek, not super, like, panelled? Just kinda like a very weirdly organic design, but still clearly like some kinda fucking robot thing. [AUSTIN: Mhm.] Blue-ish. Kind of a pearl finish. With a big cut down her face that’s filled with a clear, like, resin.
+AUSTIN: Cool. Uh, Dre you’ve linked this blue cloak situation. It’s a very nice shade of blue.
+DRE: [laughs] Thank you.
+AUSTIN: It goes up all the way over your head, right? [DRE: Mhm.] Like it’s not just like- It’s not just like you have a robe on, it’s like you have a robe plus like, the hood. Yeah, okay.
+DRE: Yeah. And I think it is- It’s like, very thick and layered and- Yeah.
+AUSTIN: Gotcha. [cross] Uh…
+ALI: [cross] This is like in the cornflower blue family, for the audience at home. 
+AUSTIN: Yeah... Thank you. [Ali laughs] Thank you for answering. Uh… [laughs] Better than I could. [Ali laughs] Um… Ali, tell me about Broun and where they are on the ship.
+ALI: Um… [slowly] Yeah, I think Broun is like, also sitting on the deck, but like, on a chair, with their feet up and crossed, on like, the edge of, like the- You know, the boat gate, essentially. [laughs]
+AUSTIN: Yeah, mhm.
+ALI: Just like, enjoying the breeze. I think they have like, a cross between, like, a Bop-It and like, one of those- what are those puzzle cubes that you have to like ch- You know, you have to get all the colors together?
+AUSTIN: [cross] Ru- like a Rubik’s cube?
+ALI: [cross] A Rubik’s cube. [laughs]
+AUSTIN: Like a Rubik’s cube/Bop It combo is great.
+ALI: It’s like one of those, but it keeps making noises to make you make certain patterns, [AUSTIN: Ooh.] and makes like a little “ding” when you do it, and you like- there’s another challenge. Just kind of fucking around…
+AUSTIN: Yeah… Is that- Is that like a thing that they do to like, keep, like… Do they- do they think of that as being like, good mental exercise, or is it just bullshit thing that they do for fun?
+ALI: I think it’s both, ‘cause it’s kind of like a crossword puzzle sort of thing? Where it’s like [AUSTIN: Okay.] “Oh, I’m gonna be sitting around for a little while, I might as well, like, do something that’s engaging enough…” [AUSTIN: Right.] But it’s also just, like, a game. [AUSTIN: Right.]  And yeah, Broun is an Apostolos- [laughs] I have to learn how to pronounce that [cross] [laughing] during this season.
+AUSTIN: [cross] You’re gonna have to- You’re gonna get there. Well the thing is, it’s pronounced way different than it’s written, is the problem. [Ali laughs] Because we fucked up five years ago or whatever, four years ago. And we’re stuck with it now.
+ALI: [laughing] Okay.
+AUSTIN: Um…
+ALI: Um, they’re an Apostolos- [frustrated noise] It’s fine.
+AUSTIN: You were there, you had it. [Ali laughs]
+ALI: Um… Which is like a fish person in this universe. Um, I- I kind of want them- They’re humanoid but they look sort of distinctly alien… And I kind of wanted to get that across by them having really, um, like defined features of their face? Like… Really striking cheekbones, and the, like, bone that’s where your eyebrow is. Um… [AUSTIN: Right.] Is that an eyebrow bone, I think? [laughs] Um… And they also have, um… iridescent skin. Which is like…
+AUSTIN: And that’s all over [cross] their whole skin is like that?
+ALI: [cross] Yep, their entire body. Yeah yeah yeah.
+AUSTIN: [cross] Okay, cool. Nice, nice.
+ALI: And I think because they’re outside right now, they’re probably wearing like, a sweater and some overalls, just kicking it. [laughs] [Dre laughs]
+AUSTIN: Nice. Great. Love it. Um, so… Also really quick, just to go over them, Broun uses they/them pronouns. Valence uses they/them, but also Dre, you mentioned that they are from an agender species, [DRE: Yes.] so it’s not just- not just like, non-binary, it’s explicitly agender. [DRE: Mhm.] And then- And we talked about- we talked about Apostolosian gender during the episode 0, you should go listen to that, ‘cause it’s like a whole- it’s a whole thing that’s really interesting, I think- I hope. And then… Thisbe uses she/her pronouns, right?
+JANINE: Mhm.
+AUSTIN: Alright, cool, so I think, uh, we get like, you know, the shot of Broun looking out- You know, solves the Rubik’s cube Bop-It. It goes like [robotic voice] “congratulations.” [Ali laughs] And then, like, looking out over the horizon, and we get the, like, flashback to you, um, meeting with a shaky hologram… of your- not your commanding officer, I think in Beam Saber terms, she is your commanding officer, but she is Kueen Overture Rooke. Kueen spelt K-U-E-E-N. Overture spelt overture and Rooke spelt R-O-O-K-E. She is- She is facecast as Big Freedia, the bounce musician. She’s specifically in this moment wearing like, a white, like, blazer, like a white suit top, with, uh, incredible nails, a couple- a bunch of rings, some like, golden bracelets, a black button-up shirt that’s buttoned all the way up right now. You know, heavy black lipstick. A very cool, like, latticed… um, like… golden… necklace, uh, that’s like, a little bit low, from her neck. There’s a specific photo I’ve put in our chat of her.
+And she is part of a thing called the Scrivener’s Guild. The Scrivener’s Guild is a group that is sort of like- um, they’re sort of like public notaries. We’ve talked about them as- they’re sort of like accountants and they’re sort of like… lawyers. They are- Anyone who makes a deal with a business- with an Orion- a Stel Orion business – of which you are, which we should talk about in a second – needs to go through the Scrivener’s Guild, needs to pay the Scrivener’s Guild, and needs to be approved by the Scrivener’s Guild, or else it doesn’t get a bunch of other protections, and like, it can get you in trouble with Stel Orion, and blah blah blah blah blah.
+Um, uh… As such, you have a relationship with her where she is sort of like your dispatcher? She connects clients to you. In, like, tabletop roleplay terms, you can think of yourselves as mercenaries, or Shadowrunners, you know? Like it’s like that vibe, and she is the person who gets you your missions. You’re always within your rights to say no to any given mission, including this one. You could say no, and send me away [laughs] and be like [Ali laughs] “alright I’ll figure out some other shit to do, give me twenty minutes, I’ll cook some shit up.”
+But, um, in this particular instance, she has called you for something, kind of, uh, a bit of an emergency. I know it’s hard to hold both emergency and rush you across- you know, or rather, sitting in a boat in the ocean, watching the horizon. But there is a- a sort time limit on this. And part of the reason I think those two vibes – this is a rush job, and also you’re sitting on a boat – are important to hold together is Partizan is a moon, but it’s a big moon, and it’s a moon- it’s a world where like, there is not lots of instantaneous travel.
+[30:00]
+Very few peop- Very few people have access to, like, space travel. And even flight is not particularly… Like, you could not ship your- your mechs across the- the country in, uh, in an airplane or something very easily? And so even this is like a difficult task, and so, there’s a lot of waiting. Like, distance is felt as distance here in a real way… And borders, that means, are even more intense, because where two places hit, they really really hit. And that is important for this mission because where you are headed, Kueen Overture Rooke tells you – K.O. tells you – is the border of Apostolos and the Prophet’s Path.
+You’ll see on the map that I’ve marked a little orange, like, square, kind of at this one zone where these two borders hit, kind of directly west from the Isles of Logos. And she tells you that- And we can just- we can just have this conversation I think. She’s kind of like a flickery holograph, uh, or hologram. I think that you’re probably in some sort of, like… uh… [sighs] You’re in Logos city, and like, meeting with her via hologram, in some like, bar back room, like, communications room that you can rent out? That is, uh, very… expensive, but the Scrivener’s Guild is paying for it, so no sweat off your back. She tells you that… Uh, she says:
+(as K.O. Rooke) So two weeks ago, we were contacted by a client, who requested a VIP retrieval from, uh, a territory controlled by one of the five stels. That mission was assigned to another unit, who was sent to pick them up. Three days ago, the client contacted us again, and told us that the location for the pick up changed. But because our first assigned squad was already deployed out east, they cannot get to this new location, which I have marked on your maps. That means that, [sighs] we needed a- a back-up. The client specifically requested that the VIP retrieval was to be done by an independent squad with no stel affiliation. So we assigned the Oxblood Clan. I believe that you are acquainted. But, the Oxbloods can’t do this alone, especially because the new pick up point is a little more hostile. And so, we made a contract with House Bittenbach.
+Which for the players who maybe don’t remember who that is, is like a pretty mid-to-high tier house in Stel Orion, filled with some shitty super-scientists. That’s kind of like their big defining thing. [laughs]
+(As K.O. Rooke) House Bittenbach was supposed to support the Oxblood Clan. Unfortunately they are no longer able to complete the mission. You are the only one in my rolodex… which is still a brand that exists 57,000 years in the future [Ali laughs].
+It’s like 200,000 years in the future at this point, fuck. [laughs]
+JANINE: [mimicking intonation] Hang on a second, I need a Kleenex. [everyone laughs]
+AUSTIN:
+(As Rooke) … The only- The only people in my book close enough to offer the Oxblood- Oxblood Clan support. They are in- They have, uh, a zone set up at a grain elevator outside of this town. You will, uh, rendezvous with them, and you will get more details. Or I guess I could give you more details now. The long and short is you’re gonna have to blow some shit up. But that seems… pretty much up your wheelhouse, yeah?
+ALI:
+        	(As Broun) Yeah.
+DRE:
+        	(As Valence) Mhm.
+AUSTIN:
+(As Rooke) Alright, um… Do you have any questions?
+DRE:
+        	(As Valence) What happened to Bittenbach?
+AUSTIN: [sighs] Um… She is cagy. Uh, you’re gonna need to roll to get more information. There’s a roll in this game called “get information”, [Ali laughs] which is, uh…
+DRE: [mock-intrigue] Ahh.
+AUSTIN: See this we’re using- See this? This is how this works. So there’s a bunch of different types of rolls in this game. Um… You can roll to do something under risk, where there’s like, really big stakes, and when that happens, that’s like “Uh oh, okay, I have- we have to talk about positioning, we have to talk about effect, we have to talk about all this other stuff.” There are fortune rolls also, and fortune rolls are, uh… a little- a little simpler. And- and gather information is a… is a fortune roll. [reading] When a pilot- uh- da-da-da- Here we go:
+“When a pilot wants more specific information about the game world, the GM will decide if that information is common knowledge or if there’s an obstacle to having it. The GM should consider the pilot’s playbook, tragedy, history and opening to determine if that information is common knowledge to them. If it is, the GM will simply answer the question. If there’s a barrier to obtaining the information, then an action roll is necessary, with the pilot picking an action suitable to the method for acquiring the information. If successful, the GM will answer the question honestly and provide detail equivalent to the effect level of the action.”
+So, what are you rolling for this? What are you- What have you got here?
+DRE: Um…
+AUSTIN: Take a look at your sheet.
+DRE: Yeah… probably like a- Let’s see. I’m trying to remember how these kinda map up.
+AUSTIN: Yeah…
+DRE: [cross] This probably isn’t a survey.
+AUSTIN: No. Because you’re talking to- you’re talking to her.
+DRE: Yeah.
+AUSTIN: So, it’s probably something under the “resolve” tree. [cross] Um…
+DRE: [cross] Right… So I guess a consort?
+AUSTIN: Yeah. 
+“When you- when you mingle with allies or acquaintances, you may gain access to resources, information, people or places. You might make a good impression and make a new contact. You might try to persuade someone with social pressure, but sway might be better.”
+I’d still say this is consort. I think this is just- you can do it- get information roll with consort. So that is 1d6 by default. [laughs] Not great. Uh, you could push yourself by spending some stress here. Someone could… I believe someone can help you on a gather information… thing by spending stress. But it’s up to you. There’s no consequence for failing a gather information roll, outside of the quality of the information. A 1-3 provides limited information. A 4-5 will provide standard information and a 6 will provide great information. So totally up to y’all if y’all wanna start spending resources on this gather information roll, [laughs] [Dre laughs] or if you wanna save those for mission time.
+DRE: I’m fine to just roll it straight up, [AUSTIN: Okay] unless someone else feels very strongly about this roll.
+[pause] [Ali makes a noise]
+AUSTIN: Sounds like no, okay.
+DRE: Okay.
+AUSTIN: Or unless, Broun, was that you about to say something?
+ALI: No.
+AUSTIN: Okay.
+[pause]
+DRE: [pleasantly surprised] Mm. Okay. A 5.
+AUSTIN: That’s 5, that’s a 5, which means, again, you get standard information. She says:
+(As Rooke) Alright… You know my bosses don’t like me sharing more than what I need to share… But I think it’s worth saying that Bittenbach was sabotaged. Someone broke in and cut the fuel lines.
+I guess it’s fuel lines? Do they have fuel? What are they- Bittenbach, yes, they have fuel. Um… Some people don’t have fuel in this world. Apostolos has some shit, it’s dope. [laughs] [Dre laughs]
+(As Rooke) Fuel was everywhere. It was just- It was a mess. Uh… and the damage that was done to some of the systems- it’s gonna take about a week to fix. So… um… I guess that means there could be an unexpected variable on the mission. Let me tell you, internally, we are not excited about the prospect that anyone knew that they might be involved with this mission, because that means there’s a- a leak somewhere. And not just from the Bittenbach mechs. [laughs]
+DRE:
+(As Valence) Okay, yeah. Glad I asked.
+AUSTIN:
+(As Rooke) Any other questions? … Alright.
+Okay, so just to recap one more time, your mission is to provide support for the Oxblood Clan, who is going to this mission to recover, uh, a VIP. They are recovering that VIP on this map at Point Albacore, to the west of Obelle. Obelle is a little town, it has a river running through it. On the western side of that town but still further away – like south of Albacore – is a p- is Point Dory, which is an Apostolosian military base. If you take care of the stuff there, that’s bonus bucks for you. That’s bonus- that’s a bonus objective for you.
+Your main objective is- are in the farms and fields on the east and the north and the north-east of the town of Obelle: Points Carp and Points Barnacle. Point Carp is a sensor station. Point Barnacle is a fuel depot. Your whole objective here is basically to knock out the stuff that they would need to give chase to you and/or Oxblood after recovering this VIP. You have two rules of engagement: No harming civilians, or civilian infrastructure in the town of Obelle. You can knock out, uh, military stuff, you know, across the river, um, at Point Dory, but you cannot hurt or harm anyone or anything inside of the town itself. Your client has said don’t do that. It’s okay if you hurt the fields a little bit… But you should not hurt anything in the town. And two, you should not at any point enter Point Albacore or else you will risk losing your payday.
+The pay is like… good, basically. I haven’t- I haven’t worked through what the- it’s like, more than what your normal mission is, what like a normal recon mission is for you, because it involves, like, sabotage and not just the identification of stuff, and also because it’s urgent. I haven’t worked out exactly what that means money-wise, but I’ll do that if this goes well and you get paid. [Ali and Dre laugh] Know that I’m not looking to fuck you on this. [laughs] Also, we should talk about your squad now, because- because we didn’t really do that too much in the, uh, episode 0. So does someone wanna introduce us to your squad, and the name of it, and what ability you have, and stuff like that? [pause] What your deal is, maybe is the better- is the better thing. 
+Janine, did you basically name the- Janine- it was your name, right?
+JANINE: Yeah.
+AUSTIN: I’ll let you read the name, at the very least.
+JANINE: Um… is it written down somewhere? [laughs]
+AUSTIN: It is, at the top left… of the sheet. So if you look on your- the bottom right-
+JANINE: [laughing] Which sheet? [Dre laughs]
+AUSTIN: The spreadsheet. The spreadsheet [cross] that we are using.
+JANINE: [cross] Again, wh- [trails off, laughing]
+AUSTIN: Where it says “SRRB”. Or S- that’s wrong, it should be the other way, it should be “SBBR”, [Ali laughs] right? Yes. There we are.
+JANINE: Which spreadsheet?
+ALI: The one with all the characters.
+JANINE: Oh, okay, okay, [cross] it’s in another tab. Okay.
+AUSTIN: [cross] Yeah, “The” spreadsheet. Yeah yeah yeah. Different tab.
+JANINE: Um… So our name is “The Society of Banners and Bright Returns.”
+AUSTIN: Great name.
+JANINE: Or “Saber”. 
+AUSTIN: Mhm.
+JANINE: Or “sssbbrr”.
+AUSTIN: Sa- Ssbbr, Saber.
+DRE: Ssbbr.
+JANINE: Sbubbrr.
+AUSTIN: [typing] I’m writing it in on your character sheets also. That way we don’t have to check that every time.
+JANINE: I like, mostly remembered it, but it was kind of a Signet situation of like, okay, so I have to say this now? [laughs]
+AUSTIN: Uh-huh. [laughs] Um… Named after- Or like, named in a style that was like, this style of ear- early modern company, right? Like, there’s a lot of… If you- if you look at, uh, our own history, like, the early modern European company always has this sort of rambling, kind of, objective-based name. Um…
+JANINE: Chartered companies is specifically [AUSTIN: Yeah.] I think what the- what the, like, class most commonly with those names. [AUSTÍN: Mhm.] Because they’re like, chartered by the… royalty of whatever to go fuck up someone else for money.
+AUSTIN: Right. The, uh… One of the first of these was the Mus- Muscovy, or Moscovy- Muscovy Trading Company, also called the Russian Company, uh, but… which has its roots in the Company of Merchant Adventurers to New Lands, or in full, Mystery and Company of Merchant Adventurers for the Discovery of Regions, Dominions, Islands and Places Unknown. Deeply colonialist bullshit, but also, dressed up in the most, like, “and now you have to respect us.” Um… Also you should read about- you should read about this particular company, because it absolutely starts with them being like “we should hire a general to do this, I know he’s never been on a boat before, but he can definitely find a new path to Russia through the- the fucking ice water.” Let me tell you, he did not. He did not do a good job of that. [laughing] And now he’s getting dunked on- whatever, three hundred years later, [laughs] on a podcast, [everyone laughs] so...
+ALI: Take that.
+AUSTIN: Take that, asshole. [Ali laughs] Um, so, what is- what is the deal with- with SBBR [pronounced Saber]? Also still laughing at the fact that I was like “this is a spear season” and then we named one of the squads Saber. [Ali laughs] Um, talk to me about SBBR, what is y’all deal, what do y’all do? [pause] Broadly?
+ALI: [inhales deeply] We [sighs] get stuff done for people, [laughs] I guess is the kind of- widely [AUSTIN: Uh-huh?] accepted thing- There was, like, an aspect of when we were talking about it and… There was, like, a version that, like, recon made sense for us, because there was like… a version of this that made sense that K.O. was like, looking for… uh, you know, mercs to do this thing, and it was like the three of us willing to do some bullshit that was like risky and weird that nobody else wanted to do.
+AUSTIN: Yeah… Yeah.
+ALI: Um… And then after that, being like, you know, we could keep doing this. [laughs] This could make us [money]. [laughs]
+AUSTIN: Yeah. We could be this thing.
+ALI: Yeah.
+AUSTIN: We could name ourselves some fancy shit and that’ll get some Orion clients to pay attention.
+ALI: Yeah, right, let’s give us a really fancy name so we can charge a lot of money, [Austin laughs] more than we should be charging anybody. [laughs] And uh, yeah… I… It’s weird ‘cause, like, I was hesitant to go to recon after Twilight Mirage was pretty spy heavy? [AUSTIN: Yeah.] But I feel like this is a different thing in that, like, there are so many people working here who, like, have their own ends? [AUSTIN: Yes.] That there’s a lot of people who are, like, “go find this person.” “Go-”, you know, “Find a- I have to get to this place, find the best pathway for it.” Or like, “go get information about this person,” or whatever else that... I feel like us being really flexible about the jobs we’ll take is… kind of why we’re here.
+AUSTIN: Yeah, and definitely- I mean, the- The special thing that gives you crew XP is “execute a successful reconnaissance, espionage, sabotage or theft operation.” And while the Twilight Mirage crew ended up doing some spy shit, it was rarely straight up, like, sabotage, theft, like-
+ALI: Yeah. [laughs]
+AUSTIN: Y’all know what the fuck it is. [ALI: Uh-huh.] [Ali laughs] In this- in this- You know what I mean? [laughs] Um… I’ll note quickly that you have an ability that helps you kind of get out of entanglements, called “slippery”. And when you- when you schmooze, you do it a little bit better. You have, like, an ability to train your prowess abilities a little bit better. 
+[45:00]
+Your base is hidden and it’s on- it’s like a lighthouse that’s been converted in one of the major Orion cities. Uh, a lighthouse and like, a hidden facility underneath it. You invested in a workshop, which will let you [clears throat] do long term mechanic projects, and also repair your- your vehicles, uh, and stuff. And you have recon rigging, which gives everybody two free load of tools and gear on their pilot, which is going to come in handy, I’m sure.
+I’m trying to think if there’s any other- Oh, before we continue, we should at this point, back on the boat… um… We should, uh, talk about relationships and drives. We should just say what our drives are, and then talk about what our- our relationships are with each other, so… Uh, Thisbe, since you’re first in this list, do you wanna tell me your drive, and then what your connections – your relationship beliefs – are with your two crew members?
+JANINE: Um… My drive is to find the original- the farmers that originally disinterred me, and be of use to them again. Um… My connections, uh… “Valence seeks my obsolence.”
+AUSTIN: [laughing] Great.
+JANINE: And “Broun will sell or trade me the moment my usefulness is expended.”
+AUSTIN: Great. I almost said “are those things true?” to the other players, but I remembered the way this system works is that we get to find that out in play. All that matters is that those are things that you believe are true about them right now. Valence, your drive and then your beliefs?
+DRE: Um, my drive is to convince a Stel to become a tireless defender of the Nobel, which is the people that I’m from. [cross] Um…
+AUSTIN: [cross] Right, a group of aliens from a kind of currently uncolonized space territory [DRE: Yep.] which is a pretty rare thing, because it’s still in the reach of the Divine Principality, but has not yet been conquered.
+DRE: Uh, my connections: “Broun is quite dependable and competent. I hope to see them as trustworthy.”
+AUSTIN: Okay.
+DRE: And then for Thisbe, “I’m not sure why Thisbe resists her potential, but I want to open her eyes.”
+AUSTIN: [laughing] Great. Good. And Broun?
+ALI: Um yeah, so my drive is to own a spaceship. My connection with Valence is “If I can impress Valence, there has to be money in it down the line.” Uh…
+AUSTIN: Great.
+ALI: And I don’t- I don’t have a final one with Thisbe yet. I’m gonna read the last two that I wrote, [laughs] so people can like, get my intentions.
+AUSTIN: Uh-huh.
+ALI: The… The one that I deleted [laughs] was “I’d rather have a forklift that won’t get us into trouble.” [everyone laughs] It’s so mean. Um-
+AUSTIN: It’s good, but it’s so mean.
+ALI: Yeah, I- I… The second one is, um, “If I gain Thisbe’s trust, I can get her to help develop me something.” And… Yeah, I am gonna eventually find something that’s like, a little selfish, but not, like, as directly denying Thisbe’s personhood, [AUSTIN: Mhm.] because I’d rather not do that.
+JANINE: I mean, you know, [Ali laughs] that’s… Adaire dealt with a lot of people that way, [laughs] [AUSTIN: True.] they were all people.
+ALI: [sighs] Yeah… [cross] Um… it- True.
+AUSTIN: [cross] True. This one does not- does not- Yeah. This one does not deny her personhood as much as “I would rather a forklift” [Ali laughs].
+DRE: Woof.
+JANINE: The forklift one feels like what it should be after some real bad shit happens [AUSTIN: Yes.] [Ali and Dre laugh] and it’s just like, oh my god.
+AUSTIN: Yes. And keep that in mind. Basically once per downtime, you’ll probably end up probably writing at least one new connection with everybody, as you spend time with them. Um, so, you- you might get there. [ALI: Yeah.] Ain’t nothing to- Not a problem to have that in your back pocket, you know?
+ALI: [laughing] This is [AUSTIN: Um.] both a lesson for the audience to really lean in to bad ideas but know when to lean away. [laughs]
+AUSTIN: Mhm. Mhm. Mhm… Um, okay. So I think the rest of this boat trip is not anything, as long as y’all are okay with that? Like unless you have something that you wanna get done at this point. Um… And given that, I’m just gonna move you over to the map of Obelle, here, which you have to zoom out on to get the whole picture here. Um…
+Obelle is… Uh, so you get off this boat and kind of, uh, in your mechs, travel across the countryside from the eastern shore of- of the – or I guess the western shore of the Prophet’s Sea, the eastern shore of this territory – headed westward across kind of, um, I’d say it’s like, kind of like a shrubby desert? With like patches of, uh, agricultural land, like land that’s actually, uh- what’s the word? Not just fertile, there’s a- there’s a better word for fertile farmland. Um… but you know what I mean. [cross] Farmland.
+JANINE: [cross] Fecund? [Dre laughs]
+AUSTIN: Sure.
+JANINE: It’s not that.
+AUSTIN: [laughing] No, it is not. Um… But you get across it and, uh, wind up seeing in the distance this kind of big, mechanical, um… uh, like a granary, like a… not a granary, like a- what do you call it? Uh… [thinking] Da-da-da. A grain elevator. Um… That has been taken over by a group of Oxblood Clan, um, mercenaries.
+The Oxblood Clan, you know, because you already have a slight relationship with them, and maybe we should talk about your relationships really quick, as a- as a squad. The Oxblood Clan is an independent squad that is headquartered in the same city that you’re from. You’re from a clan called Oxbridge.
+And Oxbridge is this city that is built kind of on an- I wanna say an isthmus, is that the right word? Let me look up- Let me look up if that’s the right word. An isthmus… Yes. A narrow strip of land with the sea on either side forming a link between two larger areas of land. It is the entire- it’s like, most of that isthmus, in fact I’ll pull you back onto the map really quick so you can see where that is. It is… uh, if you look at, like, the kind of the south east of the Prophet’s Sea, there’s a star that says the Oxbridge.
+Uh, and Oxbridge is on that isthmus, and the bridge – the Oxbridge – is a bridge that goes from basically the port on the south side of that sea to the port on the north side of that sea. Um… It’s gigantic, and it’s like, what if instead of building a canal, we built a giant bridge? And half of the city – or like, a third of the city, let’s say – is underneath the bridge. And that means that it’s very dark, uh, comparatively, and it’s also where the, uh- the kind of less wealthy folks, the working class folks, the disenfranchised tend to live.
+And the Oxblood are a group of folks who, the legend says, a hundred years ago – the legend has always said a hundred years ago, you don’t know how old this legend is at this point – there was an orphanage. And these kids were so fucking rowdy that they were left to their own devices. The- the people who ran the orphanage were like, fuck it, you take care of yourselves. Good luck. And they did.
+And now, they are effectively like something crossed between- as- as history has been, like, a labor guild and a what has been called or- an organised crime, you know, organisation. They have people who are in factories all across Orion territory, all across – actually – all across the planet at this point. They have people who do their best to, like, help other workers who get into trouble. They do their best to have an occasional strike, even. But they’re not- there’s no ruling- there’s no sort of developed ideology here, outside of “we have to take care of each other.” And at this point, you don’t need to be from that orphanage to be a part of the Oxblood Clan, right? You need to have the blood of the oxen, you need to be a fucking worker.
+In this case, one of things that they also do is they provide support in the way that you do. Which is they have a handful of mechs and a handful of what in this setting we’re calling hollows, uh, which are mechs which are not necessarily blessed by any religious power - any divine - and instead are just kind of, like, fucking machines that work. And they do missions like this because the payouts are pretty big, and those payouts can go pretty far, right? You only have to do a couple of missions like this a year if your main gig is not taking care of these mechs. And especially if what you’re doing is helping people who are living under the Oxbridge. [laughs] And so they are a group that you have a plus one with. If I remember right? [ALI: Mhm.] Y’all took a plus one with them, right? [DRE: Mhm.] Yeah. [JANINE: Yeah.] And that plus one comes from not only your own relationship with them, but, uh, K.O. has a good relationship with them also.
+You also have a good relationship with the Isles of Logos, which is the- those independent islands I talked about before. And those come from, like, I think that they probably helped you? Like, maybe you did some missions for them? I don’t know. Did you do some missions for them and get some gear in- in payment, or something?
+ALI: Um, yeah, I think so. I think maybe they, um… ‘Cause it’s- it’s get one, take one, and I think that maybe they [AUSTIN: Yeah.] helped us out with the workshop.
+AUSTIN: Oh, that makes sense.
+ALI: [cross] Um… Yeah. Just because we were able to, like- It’s probably easier to… uh… like acquire certain things from, like, an independent group, than having to go through one of the [cross] … other… Yeah.
+AUSTIN: [cross] Right, like, you probably didn’t go through the Scrivener’s to get that thing built. You probably just went right through the Isles of Logos. Also they’re an island country, they probably know how to build stuff that’s like, underwater in the way that you needed… [ALI: Mhm.] Um… Etc. Speaking of the Scrivener’s Guild, where your boss is from, uh, they don’t like you so much. You’re at minus one relationship with them. Y’all- Y’all just are- You’re too wild, you’re too risky. You don’t go by the books, maybe you don’t file your paperwork, [laughing] I’m not sure exactly. But one of those, right?
+ALI: It’s both of those things, which is [cross] why it’s good. [Janine and Ali laugh]
+AUSTIN: [cross] Okay, good. [laughs] Okay, good. I also just imagine it’s lots of Kueen Overture being like:
+        	(as K.O. Rooke) Now, I swear, they’re good, they’re worth it.
+Like, she still has your back, comparatively, to, like, the Scrivener’s Guild writ large, which is this giant- it’s like a tier four organisation, it’s very big. [laughing] Like, why are you worth the effort for them?
+You also have a minus one with Carrion Collections. By the rules, that’s because they didn’t get a piece of gear or you screwed them out of a piece of gear that you got… Um, which in this case would be the recon rigging. What- what happened there? Does anyone have, like, a little idea as to why Carrion Collections doesn’t like you? [pause] I know it was also floated that maybe they wanted to scrap Thisbe. [Austin and Ali laugh] Which I don’t hate.
+DRE: Mm.
+AUSTIN: They are scavengers, they are shameless scavengers… And they are- They don’t give a fuck about that. “They’re like, yeah, okay. Sure. [cross] We’re trying to get paid.”
+JANINE: [cross] You know what’s worth more than an iPhone? An iPhone that you break apart and sell for its components. [Ali laughs] [AUSTIN: True.] To people who need new fucking whatevers for their iPhones.
+AUSTIN: True. So there’s a little bit of rivalry there. Uh… Okay.
+ALI: Uh-
+AUSTIN: Cool, so- Oh go ahead.
+ALI: I was just gonna say, I also like- In thinking of the recon rigging as like, a device or something that we have as a squad, like [AUSTIN: Yeah.] being the people who discovered that, or were able to get it from the, like, merc… fucking marketplace or wherever we got it from, under them- [laughs]
+AUSTIN: Right.
+JANINE: Mhm.
+ALI: -is kind of them being like [cross] “fuck you guys.”
+JANINE: [cross] I- I was also for some reason- As this question came up, the first thing that came to my mind was auction sniping. [Ali laughs]
+AUSTIN: Oh totally. I love it.
+AUSTIN: I mean listen, we already know-
+JANINE: If we’re always fucking sniping them in their- in their fucking auctions for like, things like, you know [AUSTIN: Yeah.] shit we have.
+AUSTIN: Totally. [cross] A hundred percent.
+JANINE: [cross] Of course they’d be fucking pissed.
+AUSTIN: I love it. I mean like, this is a world where shipments from offworld only come once a- once every, like, ten days. And a lot of good shit doesn’t come from here, right? Like, this is a pretty self-sustaining world at this point, but like… um… In terms of setting, you can think about this less- more like Star Wars, and less like, even like, Twilight Mirage or less like COUNTER/Weight, where- You can imagine being on this planet. People live and die on this planet and don’t go see any other worlds. Like it is not-
+You can think about it like our world, where many people live in the country that they live in, and that is it. Like, they don’t have another- They don’t go elsewhere, and also, you can think about it as our country in an age of, like, mercantilist capitalism, not global capitalism, where, like, there is a deep interest in identifying- Like there’s still na- international trade, but the degree to which that w- that existed was much less than it is now, and it kind of- much less kind of global monoculture in terms of what’s available.
+So something like this- this rigging that you have, probably came from some cool lab deep in Orion space or Columnar space and there was one of them on that- Or maybe there were like, enough of them for the big stel companies, or the big stel, like, militaries, and there was one left for both of y’all, and yeah, you took it right out from under them. I love it.
+Um, alright. So I’ve moved you back to the map of Obelle. You can see, uh, Point- I believe it’s a- it’s a German word that I keep forgetting how to pronounce. Uh… Ziege? Zhiege? Ziege. Which is the name of a fish, and also the name of that fish is a synonym for saber fish, which is great, since your squad name is Saber. And that is a grain- That is the grain elevator where you meet up with the Oxblood Clan and you get the- Or I guess either K.O. could’ve given you these details, or, um, the Oxblood could give you these details when you get there, but the gist of this mission is the following… And you’ll have time to talk to the Oxblood people if you wanna do that too.
+But you’re in the far east here in this- this grain elevator- converted grain elevator. You’re surrounded by farmland. There’s farmland to your north, to your south, running kind of north west and south west. To your immediate west is the town of Obelle, and that is cut in half with a river. That river kind of goes kind of south, south east, and then kind of cuts back around to a kind of ocean inlet, uh, here. The eastern half of that city is a town, or it’s like a- it’s like a town in a desert, basically. In, like, a desert up against this- this waterway. It’s kind of like, again, shrub covered, and um, right up- right up against the edge of this- of this ocean. The western half of this town, across the river, is a military base, that is an Apostolosian military base.
+The Oxblood Clan’s job is to go to the north west of town, to Point Albacore, where they’re supposed to retrieve this VIP. Your job is to go to Point Barnacle and Point Carp, where, in both of those things, there is something for you to disable or destroy. 
+[1:00:00]
+At Point Barnacle, there is a- uh, a fuel depot, and at Point Carp, there is a- uh, a- like a sensor station, basically? Your job is to disable both of those things, because if you don’t, there’s a chance that the Apostolosians will be able to chase after the VIP who is being picked up by the Oxblood Clan.
+You have a secondary objective that will get you paid more, which is, you also see, uh, Point Dory, and Point Dory is that military base. That military base probably has some hollows in it. Like some mechs. Those are probably- Current- Current recon says the only mechs are at Point Dory, and they are- they’re not asleep but they’re not- they’re like, not active right now, they need to be booted up and like, turned on. And if you could theoretically get there before they launch, awesome, but even if you get there- even if they’re, like, in the field, destroying that handful of mechs would give you some bonus pay, because it would help, again, keep the Oxblood Clan from being pursued as they get away. Um…
+You all know that most Apostolosian mechs – or not, most – um… I guess here’s a thing you know: Apostolos and Kesh are basically at war, or at least at open hostilities, and we are very far from the Kesh border. Which means that all the stuff down here, in the southern end of Apostolosian territory – which, like, borders the very peaceful Prophet’s Path – is old, is not particularly well-guarded, [laughs] is like, leftovers basically, and hand-me-downs. This is a very cushy place to be assigned. It’s just like, a nice desert town, and you could just live here, and live a cool life, and not worry too much about fighting. And so you don’t expect- Or the Oxblood Clan doesn’t expect much in the way of resistance.
+In terms of the Oxbloods and the people here, the leadership is this woman named… uh, Anchor. Anchor Afton. She is like, in her upper 50s? She has, like, silver hair. I’d say she’s like… silver… silvery-grey hair. She’s older, east Asian, dark eyes, she’s muscular as shit. I think I picture her as kind of squat and muscular, like, uh, like a heavy lifter can be sometimes? And she has, like, four pilots with her, and then a, um, a fifth one who is – so it’s six people total – who, I don’t know that any of you know him, but he was on the NPC sheet. His name is Jesset. Jesset City.
+Jesset is, like, their support staff person, sort of like… You would actually- You might actually know him know him, Broun, because he works for… He’s Oxblood but he also works for, um, Adamant Arms and Artifice, which is one of the major, like, arms manufacturers… [laughs]
+ALI [cross]: Oh right, yeah.
+AUSTIN: For Stel Orion. And he’s like, young and eager, and is piloting a cool grasshopper mech, [laughs] that is like a support mech, so, you know. That’s what’s- That’s who’s here, hanging out at Point Ziege before this mission. Before we get into the mission, or like, ahead of that, do you wanna do any additional information gathering? Do you wanna talk to anyone? Do you wanna… What’s going on as- as I’d say you probably have another- by the time you get here, you probably have another, like, five hours before it’s like, night time? Which is when this mission is- is set to begin.
+ALI: Can we just do another, like, bullet point of what the, like, mission complete [AUSTIN: Yes.] status is?
+JANINE: Yeah, I was gonna say- [laughs]
+AUSTIN: Goals.
+ALI: [cross] What would be in the corner of my-
+AUSTIN: [cross] Point Barnacle. Point Barnacle has some fuel tanks. Blow ‘em up. [ALI: Okay.] Or disable them. Point Carp has a radar dish, basically. A sensor, like, station. Disable it. Then you’re done. That is all you have to do. [ALI: Mm.] There is also a bonus objective, which is get to Point Dory and disable the mechs there before they launch, or disable them if they get activated. There is also- And I think this is important and I should’ve said this earlier, there are two rules of- two major rules of engagement. Ah, this is a big thing in Beam Saber is like, hey, before you do this mission, here is a rule that you should not break or else you risk losing your money.
+1) 	No harming civilians or civilian property inside of the town of Obelle. Destruction of fields is incidental and acceptable collateral damage… 
+For the Scrivener’s Guild. [laughing] Probably not for the farmers who work those fields.
+2) 	Do not enter Point Albacore under any circumstances. 
+Stay away from Point Albacore. Not your job.
+Those are your rules of engagement and your objectives. Trying to think if there’s any other stuff that’s like pure knowledge that you would already know. I don’t think there is. I think that’s kinda like the stuff that you know know, at this point. Um… But yeah, you have time to do some… some re- some more scouting if you wanna do that, and the way that this works, as you may remember, is when it’s time to go, you have to pick a… kind of a, uh… What’s the word I’m looking for? Um… An engagement tactic? Which is like, hey, we’re gonna just kick down the door and assault the target. We’re going to deceive them. We’re going to have a social plan, etc. Those are all in a handout in your handouts folder… in Roll20. [ALI: Okay.] But so is like, gather information and stuff like that, if that’s something if you wanna do.
+ALI: Um… Can we talk to someone in Oxblood about, like, where it went wrong for them?
+AUSTIN: So, Oxblood hasn’t- Nothing’s gone wrong for Oxblood yet.
+ALI [cross]: Oh, okay.
+AUSTIN: The people it went wrong for was Bittenbach, [cross] who are just not here, at all.
+ALI [cross]: Oh, right right right. Okay. Okay.
+AUSTIN: But you can talk to Oxblood to get other information, or ask questions. As always, in Forged in the Dark games, there’s, like… One, you can just roll to get information in that way, but also, your sheets in the- I wanna say the bottom… bottom right-ish? There’s a list of questions that might be good questions about, like, that are based on your playbook. Those are things like- Valence, you have like “What drives them to do this? What are they feeling?” because you’re an empath. But- But we- You know, you can also just ask anything with a get information roll – or Gather Information roll – it doesn’t have to be that set of- of questions. Um…
+[pause]
+DRE: Uh, I mean, if we get along with them, it’s probably also worth sharing with them the information that we got that somebody… [cross] sabotaged Bittenbach.
+AUSTIN: [cross] Yeah, that’s a good point.
+DRE: Or seemingly sabotaged them.
+AUSTIN: Totally. Do you wanna- Do you wanna spark that conversation?
+DRE: Sure.
+AUSTIN: [cross] Do you go to their-
+DRE: [cross] I don’t know if it’s more of a Jesset or an Afton conversation.
+AUSTIN:  Um… It’s up to you, I think either one is- is acceptable. In fact you- It can be both of them, right? You could be hanging out [DRE: Yeah.] in the same basic area. I think, you know, some of them- some of them are playing cards on a- you know, on a card table that they- that they brought and [laughs] set up in the back. I’m gonna say that like, what we get is a scene of Afton… um… Anchor Afton, like, looking at a- a clipboard- like a digital clipboard? And… uh, in the background, Jesset is working on one of the team’s mechs, but like, he’s within ear distance, so… or like, earshot, so if he wants to get involved in the conversation, he can, but Anchor is probably the one you wanna start with.
+Um, so… I think she sees you approach, and looks up and says:
+        	(As Anchor Afton) Valence, right?
+DRE:
+        	(As Valence) Yes… Um, can I speak with you… um... one-on-one?
+AUSTIN:
+        	(As Anchor) No.
+Crosses her arms. [Austin and Dre laugh]
+        	(As Anchor) There’s no such thing as one-on-one with an Ox.
+DRE:
+        	(As Valence) … Fair…
+And I think… I haven’t really talked about this, but I- one of the first things I told you in making this character is that I wanted to have a mask that moves.
+AUSTIN: Sure.
+DRE: And I think, like, people can’t see Valence’s face, [AUSTIN: Mhm.] but the mask does move. And so I think there’s like a, like, wry… I don’t know what a smiley wolf looks like?
+AUSTIN: Scary.
+DRE: Yeah, but I think- and there’s like a weird part where… that’s not what Valence wants, but that’s probably what it looks like.
+AUSTIN: Ah, you know, I looked it up, it’s cute actually. Wolves that smile are kinda cute.
+DRE: [cross] Okay. Okay.
+AUSTIN: [laughs] Anyway… You know what, that’s- a lot of it is- is eyes closing creates a lot of, like, [DRE: Mm.] emotional smile for a wolf. Anyway.
+DRE: Yeah. Fair. So yeah, that’s probably what it is. Like a smile with like, gently, like, closing eyes, like, cocking head to the side.
+AUSTIN: Uh-huh.
+DRE: And then like a- a small nod… And Valence says:
+        	(As Valence) How much do you know about what happened with Bittenbach?
+AUSTIN:
+(As Anchor) I heard their machines were sabotaged… Which… Honestly fuck ‘em, but it isn’t auspicious for us and this mission. It means there’s more at work here than what K.O. told us. Whether she knows more or not, who could say?
+DRE:
+        	(As Valence) I felt like she does. I don’t know how much. [cross] She ??? 1:09:55
+AUSTIN:
+        	(As Anchor) [cross] You trust your feelings.
+DRE:
+        	(As Valence) [laughs] I mean, I know them to be true.
+AUSTIN:
+        	(As Anchor) Okay. [Dre laughs]
+AUSTIN:
+(As Anchor) What I know to be true is, that this is a rush job with a good paycheque. And I expect more resistance than what’s on the paper. But I always do. And I expect my people to behave professionally, and with, uh, commitment and determination, and a whole lot of fucking spit and fire. And we’ll get paid, and we might get hurt, but that’s the job.
+DRE:
+(As Valence) This is why we get along.
+AUSTIN:
+(As Anchor) [laughs] You want a drink? You want a… coffee, beer? I don’t wanna- with the mask I don’t know.
+DRE:
+(As Valence) No, I appreciate it, but I’m fine. Anything else you can tell us about, um,  	Barnacle or Carp?
+AUSTIN: Give me a Gather Information roll again. This is probably again Consort, 1d6, unless someone wants to help here? [pause] Alright, sounds like no. [Ali laughs] [DRE: Uh…] Give me a 1d6.
+DRE: Let’s see. So pushing yourself is stress, right?
+AUSTIN: Pushing yourself- So, yep, you have a couple of options here. You can spend, uh, two stress to push yourself. A- uh, ally, at this point, could push- or could spend one stress to- to aid you, and give you a benefit. I believe that those are written somewhere on the sheet. This very- Nope, further down. Where are they at? Yeah, teamwork actions: “assist a teammate” is that you spend stress equal to the number of ticks in your relationship clock with them – so at this point, one – and then they can give you plus one dice, they can have improved effect, they can give you improved positioning, they can let someone- you can let someone ignore their level three harm, which thankfully, no one has. [Dre laughs] [DRE: Not yet.] Not yet. Um...
+DRE: Uh… Let’s see. I think I probably will- We have, what, is it, nine stress?
+AUSTIN: You have…
+DRE: [counting] One, two, three, four, five, six, seven, eight, nine.
+AUSTIN: Nine, but then I believe the tenth is the one that, I believe gives you the, like, “you are stressed.”
+DRE: Yeah. Yeah.
+AUSTIN: I believe. I believe. I believe. Maybe I’m wrong about that. I’m gonna look at, like, the- the other versions of these sheets. With the- The ones that are in the- You know what I mean? [laughs]
+DRE: Yeah.
+AUSTIN: Not the cool excel ones. Uh… [quietly] Here we go, character sheets. Let me just peek at these and see how it looks there. One, two, three, four, five, six- Nope, nine is right. You were right. It’s nine.
+DRE: Alright, gotcha. Um… I will probably push myself for this, this seems like a relatively important roll.
+AUSTIN: Mhm. Go ahead. Actually, wait wait wait, wait wait wait. She would not hold back information from you. So- Before you do that- Because like, [DRE: Mhm.] you succeeding helps her succeed, she is not like, “And I’m gonna be excited when they got shot at.” [Dre laughs] Like that’s not- That’s- Let me- Again, I’m gonna be a fan of the players here. Um… She says, uh…
+(As Anchor) Yeah, I can, I can… You know, we did a preliminary, uh, survey... last night, when we first got here. Barnacle – the fuel depot – has a watchtower with a sniper. You know, be careful, stay in your machine, you’ll be fine. Some infantry guards. And there is, uh, one Troop there.
+You know – I think everyone here knows – that the Troop is like the Rook or the Zaku, or the Graze of this scenari- of this world. The Troop is a mech designed by the, um, Adamant Arms and Artifice Company, again, the company that Jesset works for, and- Ali, I don’t know if Broun- did Broun work for them, or did Broun work for a rival company?
+ALI: Oh, Broun worked for Adamant.
+AUSTIN: Okay, yeah, so then- so then, yeah you’ve worked for them. You’ve worked on so many fucking Troops in your life. [Ali laughs] They’re like fifty foot tall, fifty feet tall, they’re bipedal, they’re hollows which means they don’t- I mean, I guess you could get one blessed by a divine but you wouldn’t. [laughs] It’d be almost like an insult to the divine. Um… They’re like mid-sized, they’re like- I would check medium, for like what the size they would be, in a- in a spreadsheet- or in a character sheet – excuse me – but they’re very bulky. There is a particular Jakub Rozalski painting that I look at here for these, and I’ll po- I’ll post that here. It is the machine on the left here. This kind of like, big, very rectangular, lots of, um, lots of squares and rectangles as, like… kind of basic geometrical shapes being used here. A very, like, wide chest, very wide body, um… a shoulder mounted cannon. They have like- Their left arm is- is like, you can get it switched out to a bunch of different things, sometimes they have flamethrowers, sometimes they have like, uh, just like, very basic clasping claws. Their right hand has a bayonet.
+[1:15:00]
+But like, they don’t have, like, a gun, it’s like, the gun is the big shoulder mounted cannon, but there’s not like- they don’t have like, hands that can pick up and hold things, they have, like, very basic actuators and claws and stuff on their left hand, and then on their right hand is just basically this, like, long bayonet. Or I guess maybe that hand sometimes could be- you could put in a hand that has that style of, like, digit-based manipulation devices. Their heads are very rectangular and long, and I imagine and kind of long, flat LED light, like, eye on- on it. So it’s like a cyclops, but it’s not like a single cyclop- cyclopic eye. Cyclopic eye. It’s like a long- Almost like a Night-  Like a- Like a Night-Bright? Is that what those are called? A Bright- What are those called? … You know what I’m talking about? Those toys when we grew up?
+ALI: The, like-
+AUSTIN: Lite-Brite? A Lite-Brite.
+ALI: Yeah.
+DRE: Hmm.
+AUSTIN: Like that style of, like, very- you can see the dots in it very clearly. [laughs] As, like, a single long, red, kind of like, where the eye is? And then yeah, that big right cannon above the right shoulder. So there’s one of those up at Point Barnacle, but it’s not activated. Um, it’s like, laying flat on the ground under a tarp. [laughs] And then, that’s all they have up there. On the south, they have- At Point Carp, the- the radar dish. They have- similarly have, like, infantry there, and then they have like, a long-range cannon, that, uh, has longer engagement ranges than- than what your hollows have. So like, if you get seen coming in, they will probably start shooting at you with that, and that will make your approach more difficult. But she also says, like,
+        	(As Anchor) It’s nothing to worry about. [laughs]
+She says:
+(As Anchor) You know, there could be surprises here, but, uh, it’s nothing that… uh…
+I think she actually just straight up says, like:
+        	(As Anchor) Frankly, you have the easy job. If there are surprises, it’s gonna hit us.
+DRE:
+(As Valence) Yeah. Fair enough.
+AUSTIN: Um… [sighs] I’m trying to think if there is… You know what? Give me a- give me a get information- a Gather Information roll. But it’s gonna be a little sideways here. So go ahead and give me that consort, ‘cause Jesset is over- overhearing you, and I- There is something that he knows that I think maybe nobody else does.
+DRE: Okay… Um… I will push myself on this.
+AUSTIN: Okay.
+DRE: So that way I’ll roll 2d6 instead of one.
+AUSTIN: Yep. [pause] [excited] Hey, that’s- Oh no, that’s a four. [cross] I- I added them together.
+DRE: [cross] Yeah, that’s a four. [laughs]
+AUSTIN: Whoops. My bad. Still, with a four, you get the information here. I think at this point, Jesset says, like…
+        	(As Jesset) Um… There’s also- Hey, hi. I’m Jesset.
+Jesset is like, lanky, um, brown skin, kind of loose, curly dark hair. Imagine him played by-  There’s an actor who was in Midsommar, named Archie, uh, Madekwe. I don’t know how to pronounce his last name, I apologise if I’m butchering it… Um… But [slowly] this kid here. Let me copy it. Copy image. Boom… He’s like, um, you know, very clearly in over his head a little bit. It’s hard for him to not look that way, but he’s very- like, when you- when you saw him over Anchor’s shoulder, he was clearly, like, really into whatever he was working on with his, like, grasshopper mech. [laughs]
+In fact, I think he was probably using one of the arms on this grasshopper mech. Which is called a Cloud. Which I can describe if it comes up. But like, basically its middle two arms have- like actually have very fine hands that help them utilise- and have, like, tool attachments, to work on other mechs. And he’s basically using them both at- like one on one side, one on the other, to work on the other Oxblood mechs as he listens. And he kinda comes over to you at the end of that talk with Anchor, and is like,
+(As Jesset) I went up for a recon jump earlier, and, uh, I did see another tarp, which I suspect has a machine under it, in Obelle itself. The silhouette didn’t match anything I know. I don’t think- I don’t think it’s Apostolosian.
+DRE:
+        	(As Valence) Which part of Obelle?
+AUSTIN:
+        	(As Jesset) Can I see- Does someone have a map?
+Are you here Thisbe?
+JANINE: Yeah.
+AUSTIN: Do you wanna show off your weird map?
+JANINE: [laughs] It’s technically more than a map, but sure. I think- I think, uh, on like “does someone have a map?” Thisbe, like, walks up- I think also despite her size, when she walks, the sound she makes is closer to a, like, “tink-tink” sound than like a “thunk-thunk”. [AUSTIN: Mhm.] It’s probably somewhere in the middle, [AUSTIN: Mhm.] just because of the small feet. [AUSTIN: Right.] I think she- She like, “tink-tinks” up, and like, holds her- probably both hands out? As if she’s- In the way you would if you were like miming, like, book, opening a book. 
+AUSTIN: [laughing] Mhm.
+JANINE: So she holds both hands out, and sort of projected on her palm, she has kind of like a really, um… [sighs] Her palms aren’t a screen, but there’s sort of like a- like the- you know, like that stuff is- is sort of projected on them as like, light.
+AUSTIN: Right.
+JANINE: Sort of under the surface of whatever material is there. It’s like, very simple kind of command-line-y very basic crude shapes, but it’s all there.
+AUSTIN: Yeah, you described it as like, if I ever pull up a map, it’ll look like a Dwarf Fortress map. [cross] Which I love.
+JANINE: [cross, laughing] Like a Dwarf Fortress- for sure, yeah.
+AUSTIN: Yeah, yeah… Um so yeah, he points to a spot on it, which Thisbe, you could light up, like change the- you change the character from like, a courtyard symbol to the- whatever is the letter that means-
+JANINE: I mean, just say like, it changes from, like, a red @-sign to a green @-sign or- [laughs]
+AUSTIN: Totally, sure. And that is where it is. It’s like, in this- I’ll ping it on the map here. There’s like a courtyard, um, uh, that is next to what you know to be a hotel. Or like an inn, basically. And kind of like, right behind the inn there is a- what is very clearly some sort of- I mean, I guess it’s not a picture here, but that is where he says he saw- He can probably like produce an im- like, a- like a rough photo that he- that he could print out from the cloud- not from the Cloud, from the cloud, which is the name of his mech.
+Adamant’s mechs are all named after, uh, collective nouns for animals. Which is why they’re the troop, because that’s like, a basic primate, uh, like, ape name? And the cloud is the name of a- of a- it’s a cloud of grasshoppers. Um… He- Well, so, that is why this is called this. Because I realised a year ago when I first created my- my brainstorming doc, that if we did this, eventually we could have a thing called the murder. So yes, [Janine laughs] that is-
+JANINE: [cross] Spoilers, sorry.
+AUSTIN: Spoilers- Spoilers ahead, at some point, we will get to the murder. Um… The murder is probably a Nideo- is probably- [cross] is probably a Nideo thing. Actually-
+JANINE: [cross] That’s a holiday special mech, right?
+AUSTIN: Yeah, definitely. Uh-huh.
+JANINE: We investigate the murder.
+AUSTIN: Uh-huh. God. [laughs] Actually, you know what I’ll say is, um, are you here Broun?
+ALI: Um… I’m not sure… I think that I wanna be [AUSTIN: Okay.] doing something, or like-
+AUSTIN: Yeah, that’s fair.
+ALI: Yeah.
+AUSTIN: Alright, so then, you don’t- you don’t know what this is. It’s a- It’s a mech. [Ali laughs] It’s a mech under a blanket- under a tarp. [cross] A mech blanket.
+ALI: [cross] Sorry folks.
+AUSTIN: No, that’s fine. [DRE: That’s fine.] I’m excited to see what you’re off doing. You’ve got points in shit, you know? Cool. Uh, so yeah, that’s- that’s a thing to know. Um… And he says, like,
+(As Jesset) Good luck out there. I-I’m- I hope it goes well. If you need anything, um,  	I’m on frequency 2285… I have, you know, aerial- It- It jumps.
+And he points backwards at the giant grasshopper mech. [laughs] Um… What are you doing, Broun?
+ALI: Um… I’m actually not one hundred percent sure. I either wanna be like, out in the fields on, like, a big platform, like, trying to scope out the places that we’re going to.
+AUSTIN: Hell yeah.
+ALI: Or like, looking at blueprints.
+AUSTIN: I would say it’s probably- I mean- So, you could get blueprints by spending something here, [ALI: Uh-huh.] but- Actually I don’t know if you do- Uh… Is maps one of things you can just have? You didn’t- As a note, you did not- You chose not to take the starter gear “rare maps and means through.” [laughs] But I’m trying to see if there’s something you can just take in your personal stuff, but I don’t think… It- Documents, you could get digital documents, or documents of, like, the Obelle town, like, [cross] town layout.
+ALI: [cross] Right, there’s also intel, which is a thing, or-
+AUSTIN: Yes. True.
+ALI: Yeah.
+AUSTIN: I feel like, genuinely- Actually you- So you can’t get intel yet, because, if you mouse over it, it’ll say, you have to spend a personnel point to get it and use it. [ALI: Oh, okay.] Which you don’t have any yet because you haven’t done a mission yet. [ALI: Okay.] But… um, there just isn’t much, right? Like, it is a nothing town [ALI: Mhm.] in the south of a territory that is like, almost entirely built up other places. It is not a particularly- As far as- [sighs] It’s not that there aren’t secrets, there are some secrets here, but they wouldn’t show up in the blueprint of the town, you know?
+ALI: Right, yeah.
+AUSTIN: Which is to say, you could have them, if that makes sense? [Ali laughs] And you could look at them, you’re just not gonna get a se- I mean, one thing, maybe you do note, that’s just like, it’s clear to me from looking at this map, um, but if you want to get to Point Dory, it means fording the river or going across that bridge to the north. [ALI: Mhm.] There’s only one bridge across from the town to the military base area. And the river is wide and deep. You know… I would say… Maybe Thisbe’s hollow? The- Mo [laughs] might be able to get across it, because Mo is gigantic. Or like, I would give Mo a better roll for crossing it.
+But your mech specifically, Broun – because you have like, a medium mech, right? [ALI: Mhm.] – would be kinda risky to just kinda cross it. You’d have to roll to get across it, you know? So it’s something to just like- a note.
+ALI: Okay yeah, fair enough.
+AUSTIN: [cross] From- from like- looking at it.
+ALI: [cross] I meant for like, the bases themselves, but I don’t know that I want, like, a scene of Broun, like, going to the local library [laughs] or like, trying to find a…
+AUSTIN: [cross] No, yeah, yeah, yeah. And also that stuff just doesn’t-  Right. Yeah yeah yeah.
+ALI: So I think like, instead, like, having, like, binoculars or something, like, in the middle of this wheat field, and the wind is blowing. And like, just kind of spending an hour towards the north side and then on the south side to be like, who’s physically walking around this place? Can I see any [AUSTIN: Totally.] doors? Um, things like that. Uh-
+AUSTIN: So here’s what I’m- I’m actually gonna do for this is- ‘Cause there really is just not that much left [Ali laughs] for Barnacle or Carp, [ALI: Okay.] what I do wanna do though, is consider this a set-up roll. Um… So, you can give me the Gather Information. You tell me what you’re rolling here. It sounds like- It sounds like survey to me?
+ALI: Um…
+AUSTIN: Unless you would prefer…
+ALI: Yeah, I don’t think it’s for a better understanding, but I think that “observe your surroundings and predict outcomes” is maybe more [AUSTIN: Yes, totally.] the thing that I wanna do. Um…
+AUSTIN: So I think what- what I’m gonna do for this is if you do this, you’ll get a- So you can go ahead and give me the- whatever you wanna roll for this, [ALI: Okay.] if you wanna push yourself, you can. The result – I’m just letting you know – will determine if you get a bonus on your engagement roll, if that makes sense. [ALI: Okay.] It’s like, learning patrol guard- patrol routes, and like, hey, how often do they take a bathroom break? [laughs] And like, [ALI: Yeah.] is there a- Is there like, a- a spotlight that flickers? Stuff like that.
+ALI: Right, yeah, yeah, that’s the kinda the stuff that I’m trying to- So this is controlled…
+AUSTIN: Yeah, you don’t even need to- It’s just 1d6, yeah. [typing noises] It’s a fortune roll more than an action roll, [cross] I guess is the way to say it. Um…
+ALI: [cross] Oh okay, fair enough, okay… That’s a five.
+AUSTIN: Alright, that’s a five. So yeah, totally, I’m gonna give you a plus one. What you notice is, um, that they are- It, like, just confirms everything that I’d said before, right? They’re sloppy. You’ve been on enough military bases in your time, as like, an arms manufacturer, that you know when someone is running a tight shop, and they are not. They are like, um, you know, there’s someone on the phone, who’s just like, on the phone for forty minutes, [Ali laughs] clearly floating- like, flirting with their partner. You know? There’s just, like, not- No one is checked in at these fucking places… So… Yeah.
+ALI: Okay, cool.
+AUSTIN: Um, but yeah, you’ll get a plus one on your engagement roll, which we should talk about. Because I think we probably aren’t- It’s about that time, right? Like… I should note a detail about all of this, is… The night sky here is- The sky here in general is almost always dominated by two things. One is a collection of false satellites- Or false constellations made up by satellites. One of the things that the Divine Principality decided a long time ago is that, you know, they wanted to emphasise that we’re all part of one giant empire, and to do that, one of the many ways of propaganda that they use is this, like, system- this, like, satellite system that creates constellations that are matched across all of its worlds across the night skies. Um… And so, right now there is a- kind of like a six point constellation in the shape of- vaguely in the shape of, kind of a European style dragon. Like a traditional fantasy dragon? Um… If you check the episode description from last week, you’ll see a map of the galaxy and on that map, in the bottom left, is the dragon with the right kind of constellation points, um, that I came up with because I’m a huge nerd. [laughs]
+Anyway, it is the month of the dragon, it is the month of- of, uh, Orion, basically. The dragon is the symbol of Orion. And beyo- But- Like, to the side to that is the thing that’s even bigger and more dominant, which is the gas giant of Girandole. Girandole is the planet around which Partizan orbits. And, in- Uh, a regular fucking moon would be tidally locked, it would be always daytime on half of the planet, or half of the moon. All this other shit that would be true about it. Because of the miracles here, this moon rotates. Uh, it is not something scientists understand yet.
+[1:30:00]
+Some- Someone will have to continue- Like, people will need to- Scientists will need to continue to study this for many, many years to understand what the fuck the prophet did here. And so, because of that, Girandole is just like, a giant… It looks like a giant moon to you. And it looks like this great picture from Science and Nature on twitter. That’s not true. They didn’t- They didn’t fucking take this picture, they just uploaded it. They just stole it and uploaded it. It’s a picture of Jupiter in ultraviolet. It is like as if Jupiter was sky blue with like, pink bands of clouds. It’s like- It’s almost like looking at the Twilight Mirage [laughs] in the sky- in like a portion of the sky, it’s gigantic.
+But it does- It does eventually leave. It means that there’s lots of… One, it means that, like, there’s a lot of light, wherever it’s reflecting the light. So, in the days- are the days, they’re very bright. And like, almost oppressively bright. But it also means that at the edges of day, at kind of dusk and at twilight… or at dawn and at twilight… They- Dawn and twilight last forever. Those hours where like, the sun is just right, the light is just right, really do last a long time. And it can feel, like, exhausting in a sense. You’re like, I can’t wait for the fucking night to show up. And that is what living on Partizan is like. [laughs] Or- Or I can’t wait for the day to really start. You’re just in this pre-day forever, and everything feels like it might just explode at any moment, but it just- it lingers. And this is slowly setting. This giant moon is slow- Or giant- For you a moon, this giant planet is slowly setting across the horizon as you’re doing your- your… um… your scouting.
+Which means it’s almost time for this VIP to arrive. Because the VIP is scheduled to arrive as this day turns to night. Which means that the Oxblood clan is starting to get ready to move out. And it’s time for you to determine what type of engagement you want to- to do. Do y’all have an idea? Do you want me to go over what those engagements are?
+DRE: … I would definitely love to go over the [Ali laughs] types of engagements. [Janine laughs]
+AUSTIN: Sure.
+DRE: I’m struggling to find where they are in the book.
+AUSTIN: Uh, on the- So I have a handout for you that just says “Engagement tactics and load”, [DRE: Ah.] under the journal tab. Um, there are… six different types: “Assault” is open violence against the target. You have to come up with a detail, and that detail is like, a point of attack. Um, just like, “hey, we’re gonna just charge right in.” “Deception” is luring, tricking and manipulating the target. The detail is the method of deception. “Scientific” is engaging with technological power. The detail is the unusual procedure used. “Social” is when the sq- the squad negotiates with, bargains with or persuades the target. The detail is what is the social connection you’re using as leverage or as access. “Stealth” is for taking action undetected. The detail is the point of infiltration. And “transport” is carrying cargo and people through danger. The detail is the route and the means.
+At this point, we will also determine loadout for yourselves. We’ll do that after we determine tactic. So what do you think? What jumps out here? I also- I really promise that, like, I’m not hiding- I’m hiding some stuff [Ali laughs] but it is not- [Dre laughs] I’m not, like, ready to, like, activate my trap card on you in this particular way.
+ALI: [inhales] Um…
+DRE: Um… Okay. Probably not assault?
+ALI: No.
+JANINE: I mean, my thoughts on assault are like, that’s the thing we do once we get past x, y, z. Like, that’s- You know, the assault-like things are secondary to our actual- You know what I mean?
+AUSTIN: Approach.
+JANINE: Yeah.
+AUSTIN: Yeah.
+JANINE: Like, just because you want to blow up the thing inside doesn’t mean you have to blow up the wall to do that.
+AUSTIN: Totally.
+JANINE: The wall that’s around it. [AUSTIN: Right.] Anyway.
+ALI: And, what’s Ox- uh, Oxblood’s objection? [cross] Ob- Objective?
+AUSTIN: They have to get to Point Albacore. Do you see where Point Albacore [cross] is in the far northwest?
+ALI: [cross] Right, yeah. Okay.
+AUSTIN: They’re getting there and then supposedly a VIP shows up. Secure that VIP. They expect- They expect resistance. Um… Just because they’re smart and like, they know better. [laughs] [ALI: Mhm.] But there’s nothing- Their early reconnaissance has not revealed anything, you know what I mean? [ALI: Mhm.] There’s just like- There’s enough weird shit happening around here that makes them think some other shoe is gonna drop.
+DRE: Mhm.
+AUSTIN: Um…
+ALI: Um…
+DRE: Well, so it’s not- We can’t do transport either, because we’re not carrying- [cross] Yeah.
+AUSTIN: [cross] You’re not transporting anything.
+ALI: [cross] Yeah. [pause] I’m- I’m leaning deception, but I don’t know what the deception would be? Um… But I think that like, if we’re specifically, like, two different squads moving, like, making them think that there’s a third… [cross] Or something…
+AUSTIN: [cross] Oh that’s interesting.
+DRE: Ooh.
+ALI: … could kind of like, distract them, so everybody can kind of get where they need to go. You know? Um… [cross] But-
+AUSTIN: Yeah, you could, like, pull them out with like, a feint or like, [ALI: Yeah.] make them think that there’s a- [ALI: Uh-huh.] a third thing happening. Yeah.
+ALI: Yeah.
+AUSTIN: Does anyone have something that could like, help with that? Or like… Um… [cross] Or that would like, seem-
+DRE: [cross] Let’s see.
+ALI: I mean, I could just launch a rocket… or something [laughing] and somebody could be-
+AUSTIN: That’s true, you could do that. That’s- Yeah, I think that’s a totally [Ali laughs] fine thing, right?
+ALI: Um… Yeah…
+AUSTIN: You do have those.
+ALI: I do have them.
+DRE: We could also, like, do this in reverse. Like I know that, like, the bonus objective is to destroy the mechs at Point Dory [AUSTIN: That’s true.] but like, if we destroy those first, and then that draws, you know, the rest of the troops away from Barnacle and Carp…
+AUSTIN: That’s true.
+ALI: Mm… Yeah. Um…
+JANINE: That is a- That’s an interesting idea.
+AUSTIN: And also, you know that those- You know- Well. I guess you didn’t do any particular recon here, but the belief is that the ones at Point Dory are not activated yet, right? And there’s- The map that I’ve given you now, there are three of those down- I’ve put down three tarps there, because that’s what you believe to be there. [laughs] You believe that there’s one tarp at Point Barnacle, and you know that there is one tarp, uh, in the middle of town. Um… But yeah. Yeah. [DRE: If-] If the job is to- to do that, that might- that might be a good one.
+DRE: If they’re not activated, does that mean that we could s- Like, that we could activate them and steal them?
+ALI: [cross] Would love to.
+AUSTIN: [cross] You would have to be in them to steal- [thoughtful] Well, I guess if you [cross] there’s a path-
+ALI: [cross] I could break ‘em down. [laughs]
+AUSTIN: Yeah, you could break ‘em down, [laughs] [Dre laughs] you definitely could. I feel like there’s a combination of things you’d have to do to do that. Like, there is a thing called… um, where is it? [reading notes] Da-da-da-da-da. Remote vehicle control. If you- If you took a remote vehicle control object in your load, and like, attached them to those- to those, uh, Hollows, you could remotely control them. For sure. It wouldn’t- The default remote vehicle control device says that it’s not as effective as being in the cockpit, so I wouldn’t imagine you being like, you’re in your cockpit and you have a partner you’re fighting with? Um… It would be like having a car on autopilot, [ALI: Um.] like, following you, or something, but yeah.
+ALI: Yeah, the way I always think of stuff like that is in Titanfall, where, like, if you got out of your mech, [AUSTIN: Yes.] you could either set it to defend or follow me.
+AUSTIN: [cross] Yes. Totally.
+ALI: [cross] And then it’s just like, a mech can just run, like, very basic scripts like that, but not like, [AUSTIN: Yeah yeah yeah.] turn left, or whatever. You know what I mean?
+AUSTIN: Right, you could even- you could even be like, “hey, go back to Point, you know, Ziege.” [ALI: Yeah.] And that would be like, “Okay, I’ll run there.” [Ali laughs] You know?
+ALI: Um-
+AUSTIN: I like this. This is fun. This is not a plan I had intended. [Ali laughs] So… [cross] So, is that-
+DRE: [cross] Oh!
+AUSTIN: Go ahead, Dre.
+DRE: I just realised that I have a thing that could maybe also- If we care about figuring out what is under these tarps, I have a thing that might do that.
+AUSTIN: You do.
+DRE: Because I have Far Sight, so that means I can gather information with survey, [AUSTIN: Mhm.] and the information can be from a place or time that I am not present in.
+AUSTIN: Yeah, that is correct… Because you are an empath, we should note. [laughs]
+DRE: Yeah. But that’s also like, do we care about what’s under those tarps?
+ALI: Um… [slowly] I care enough to want to take them and strip them. [everybody laughs]
+AUSTIN: [mimicking Ali’s cadence] For parts.
+DRE: So, why don’t I see if they’re worth the trouble of us [laughing] stealing them?
+ALI: Oh, everything is worth something to somebody.
+AUSTIN: So I’m gonna say, because Dre, you took an action already, in this kind of, like- [DRE: Mm, fair.]  You can roll for it, but I want you to know that a failure means that I will put a clock on the screen.
+DRE: Oh, well, yeah. That’s- This is what we do. [Ali laughs]
+AUSTIN: Okay. [Dre laughs]
+DRE: Plus I get to roll 3d6 on this. [ALI: Mm?]
+AUSTIN: Damn! Do you? Why? Oh, it’s survey, your survey is two [cross] and Far Sight says plus one.
+DRE: [cross] Yeah, I take plus one.
+AUSTIN: That’s so good. Jeez. Give me 3d6.
+DRE: Okay.
+AUSTIN: Risky- This is risky standard.
+DRE: Okay.
+AUSTIN: Or it’s gather informa- Yeah. Whatever, you know what I’m saying. The risk is that some shit- I’m gonna add a clock if you- if you get a mixed success or fail.
+DRE: Right. [cross] Uh, five.
+AUSTIN: [cross] That is a five. So, um… And you’re doing this for Point Dory?
+DRE: [pause] Yes.
+AUSTIN: Alright, um… I’m gonna give you a little extra, actually, which is… I’m actually gonna say that there are four tarps there and one of them is in this building here. Um… Which is like a big hangar, and this one, the north one- Three of them – the three outside ones – are all just Troops. They’re all just- They are all just Ad- Uh, Ad-Arm Troops. The kind of- You know, the Zaku of this setting. The kind of like, “Yep, that’s a- that’s a mech. That’s a regular-ass mech.” They’re- None of them- What’s this look like? Wait, pause. [DRE: Yeah.] What does Far Sight look like for you?
+DRE: Mhm. So one of my, like, set, one of my items is- They call them prognostication tools.
+AUSTIN: Uh-huh. 
+DRE: Um. These are a set of tools that I use to try and predict the future.
+AUSTIN: [laughing] Uh-huh.
+DRE: For Valence, um, this is their religious text.
+AUSTIN: Okay.
+DRE: And so, they basically sit down and start to kind of, basically like, read and study their text, and through that, kind of get in like a, like, meditative trance-state.
+AUSTIN: Interesting. Um, cool… Can we declare that? I know we’re doing this a little out of order, normally [cross] you start declaring stuff once we’ve engaged.
+DRE: [cross] Yeah, sure. Yeah.
+AUSTIN: But given that you’re using them, I-I’d be- At this point, would be- I think it’s appropriate. So like, you go into that trance, and do you see a vision of the place? Is it- Is it that you come to phrases in the book that reveal something? What- What is it?
+DRE: Yeah, I was gonna say, I think it is- it’s not like visuals, but it’s like, Valence is suddenly, like, drawn to, like, certain passages.
+AUSTIN: Okay.
+DRE: So it’s like, they will start flipping, like, very rapidly and seemingly randomly through pages, and [AUSTIN: Right.] like, their eyes are drawn to certain words or certain passages.
+AUSTIN: Right, okay. So then, the… You know, one of the passages is something that’s like, you know, um, “Beware a wolf asleep is still a wolf.” Right? It’s like, okay, those are the th- You get that three times basically, those are the- You get like, maybe, more particular like “Under moonlight, a wolf asleep is still a wolf.” Right? And there’s another passage which is like, um… uh… [sighs]… You know, “Beware a wolf, but be afraid more- be afraid still more of a man, um, who dresses apples like they’re wolves.” It’s like, okay, what? It means that the fourth one, the fourth tarp that is underneath- that is in this hangar, is not covering a mech of any type at all. There’s something else in that hangar that is not a mech. It’s not a danger. Like, it doesn’t. Like it does not- triggering any fear. Like, it’s not- it’s- There is something else under there that is not- Maybe it’s apples? [Austin and Dre laugh] Who knows? But it’s not a mech, it’s not guns, it’s not ammo, it’s not explosives. Um… So yeah.
+And yeah, you get, again, like between- I’ll- from this also I will give you that plus one on engagement if you want that like- Previously you’d only get that plus one engagement if you were going to Barnacle or Carp right away, because that’s where Broun had done surveying, but now you’ll also get that plus one towards Dory. I mean, I’ll roll that plus one towards Barnacle over to something else if you do it- Like you’ll get a plus one wherever you go first, and you’ll get a plus one wherever you go second at this point regardless, because you’ve now scouted them both out. Um… So what- so what- yeah, now what are you thinking? With this extra information? Oh wait, it was also a five. I’ll note, I did put a six step clock down here. I’ll put it in Point Albacore.
+DRE: [laughing] … That’s fine.
+AUSTIN: Yeah.
+DRE: We’re not there.
+AUSTIN: Uh-huh.
+DRE: We can’t go there. [cross] Explicitly. We can’t go there.
+AUSTIN: [cross] You can’t. [Dre laughs] Here’s what I will say, as this gets added. You know what, I just said I will add the clock, so you know what? I won’t tick it yet. But- But there is a light in the sky. There’s- A star seems to be moving.
+JANINE: I was gonna make a joke and then I remembered that an albacore and an albatross are super different things. [everyone laughs]
+DRE: [dismissively] Eh.
+AUSTIN: [laughing] But does Thisbe know that? [Ali laughs] Oh, I love episode 27 of COUNTER/Weight, “An Albacore Out of Context.” [Dre laughs]
+ALI: I, um… Speaking of potential sky cameras, [laughs] [AUSTIN: Uh-huh.] I was thinking that one of the things that I could do if we wanted to go the missile route, is that I have the ability to shoot something that causes blindness for a few minutes.
+AUSTIN: Ohh… [cross] Well that-
+ALI: [cross] If we wanted to do anything. [laughs]
+AUSTIN: That to me sounds like deception.
+ALI: Uh-huh.
+AUSTIN: Right? Luring, tricking or manipulating the target?
+ALI: Mhm.
+AUSTIN: So is that the plan? You- You drop some sort of… blinding bomb into Point Dory? Is it like a ga- Is it like a smoke bomb, or is it like a flashbang? Like, what is it?
+ALI: I think it’s like a flashbang, yeah.
+AUSTIN: Okay. Like a giant- Like what if a mech threw a flashbang. [Ali laughs] Okay.
+DRE: Mech pocket sand.
+AUSTIN: Mech pocket sand. You could do this. The thing that I wanna say here is we- you do have this river to contend with if you wanna hit Dory. Which means- We’ll just- We don’t need to roll, like- That can be part of the engagement roll: “do you manage to cross the river?” And that can be a thing where things break bad, do you know what I mean?
+ALI: Mhm.
+AUSTIN: But I like this plan. I think we should do it.
+ALI: So the plan right now is to, like, physically go to Dory, and then take the stuff and then… deal with-
+[1:45:00]
+AUSTIN: And then hit Barnacle and Carp?
+DRE: And we could probably use the stuff also, to hit Barnacle and Carp.
+AUSTIN: Again, like they’re not gonna be in- [DRE: Mm.] Agh, they’ll be- They’ll be- They won’t- You know what? They wouldn’t be a hindrance if you spend your gear on remote vehicle control. Like, having extra bodies there would- is a nice thing. Having an extra titan in Titanfall, even if it’s an automated titan, would be dope. [laughs] You know?
+ALI: Right.
+DRE: Yeah… And like, two, we also don’t need them to do anything [AUSTIN: Right.] like, super fine. Like, we could just crash one of them into the fuel tanks.
+AUSTIN: That’s literally exactly it, yeah. [ALI: Ohhh.] I feel like we should get into action, because we’re doing the thing that [cross] Forged in the Dark games- You’re overplanning. [Ali laughs]
+DRE: [cross] Yeah, we’re overplanning.
+AUSTIN: Because we could- You could roll and just immediately fail, and be like, “well that’s- none of that extra shit we wanted to do once we get the machines is working.” You know?
+ALI: Okay, fair.
+AUSTIN: Um… So, this sounds like deception. Uh… I will read from the book here. Is the mission bold? Take plus one d. I think- So you start with one. Like just, sheer luck. Is it bold? Take one d. Yes, I will say it’s yes. So take one extra, so two. Does the mission exploit the target’s vulnerabilities? Um… Yeah, because the- part of the vulnerability here is that they don’t- they’re not like up on their game, their hollows are deactivated, um, they’re all in infantry mode, right? Like they’re all just walking around as people, which will make them very vulnerable to [laughs] a huge flashbang. So yes, then you’re up to three. Is the- Is the tactic ineffective against the target? No. Does the squad receive external support for the mission? Um… No… Uh… Oxblood is off doing their own thing and they’re not part of your help. They’re not helping you here. Is anyone interfering with the mission other than the target? Um… Not your part of the target, not your part of the mission. [laughs] Ah, so still at three. Is there any other factor that effects the mission? Take plus one d for that. Yeah, so you get another one from doing the survey before. So you’re up to four dice for this engagement. Maybe the highest first engagement [Ali and Dre laugh] I’ve ever seen in one of us playing Forged in the Dark games. Uh, so that’s 4d6. Who wants to roll 4d6?
+JANINE: Do- Does anyone have, like, a bonus for that stuff?
+AUSTIN: Nah, this stuff will just be the- That would’ve been accounted for at this point. So… [pause] [ALI: Um.] Janine, I’m gonna ask Thisbe to do it, because you are the only one who hasn’t rolled yet.
+JANINE: [laughs unenthusiastically] Yeah.
+AUSTIN: I guess, like, I get Ali why you- It would make sense. Broun is launching these flashbangs, but it’s a group effort.
+ALI: Oh yeah, [cross] for sure, yeah.
+AUSTIN: [cross] You know? [pause while Janine rolls] That is a six, that is a six. [Ali: Ooh.]
+DRE: Ooh, nice.
+AUSTIN: On a six-
+JANINE: And three twos to- [everyone laughs] Just for full context.
+DRE: [cross] That’s why we got four.
+AUSTIN: Listen, that’s why you got four, exactly. Um… Uh… A one-to-three, you would be in a desperate starting position, a four-to-five you’d be in a risky position, a six provides a controlled position. The GM will then craft a scene to reflect the position that the squad finds themselves in. So I think it means you ford the river completely perfectly. You’ve launched these flashbangs. Um, they’re extremely loud, [laughing] extremely bright. Everyone is disoriented. You have the complete element of surprise, again, this will be a controlled position for you. Which means that it’s- We should- Again, I don’t know that I’ve ever seen a roll go so well. Perfectly timed with a good idea I did not anticipate at all. Uh, so we’ll see how this goes.
+Um… I guess at this point we need to decide how much load you are carrying, individually, that is part of this system. It’s kind of like, what is your- your maximum amount of stuff to- to take with you. Unlike a lot of other games like DnD, you don’t pick what you’re carrying with you, like- and just know it all the time. Going into a mission you say, “I’m carrying, like, five load worth of things.” And then as you need stuff, you can kind of check the box, and it’s as if the camera shows like, “Oh, I have a grappling hook with me.” Until that happens, it doesn’t matter. What matters is, like, how- how loaded up are you? And I know we’ve done this before, but for the audience who’s just starting, uh, with Forged in the Dark games, maybe, it’s worth saying, that like, you can choose a light load, that only has three slots, but, uh, the light load means that you’re quicker and less conspicuous. You’ll be able to blend in with civilians, and that will give you increased effect when applicable. Medium is you look like a pilot who is equipped to do some shit, like, you’re- [laughs] you’re a soldier. And a heavy is like, you’re a fucking- you are weighed down, you have a bunch of shit. It’s clear that you are a part of a- uh, an armed group. You know, you’ll draw attention, et cetera. Um… You also have recon rigging, which means that you have two bonus slots for- What is it? It’s for tools, or gear. So not weapons, not armor. If- A way for us to like, that would help with this is to just mark anything you end up taking that is a gear or a tool that’s part of your recon rigging with an R in your thing, that way we know you have, like [ALI: Ohh.] “Okay, I’m using one of my recon rigging slots.” [cross] Do you know what I mean?
+DRE: [cross] Right, yeah.
+ALI: Yeah. 
+DRE: Um… Can I do that for my prognostication tools?
+AUSTIN: Yeah, totally. You can do that right now, and that way we know, like okay, hey, you’re using their- [laughs] Putting a- Putting your bible in your recon rigging is the best, I love it, it’s great. [cross] Welcome to Friends at the Table.
+ALI: [cross] What are the- What are the two things? It was tools and?
+AUSTIN: Gear. Which is just anything that isn’t… It’s really broad. It’s just not weapons and not armor, [ALI: Okay.] basically.
+JANINE: So, like parachutes or-
+AUSTIN: Parachutes, burglary gear or [cross] climbing gear.
+JANINE: [cross] Climbing gear.
+AUSTIN: Yes, subterfuge supplies. Uh…
+JANINE: Flashlights.
+AUSTIN: Ali, on your thing, I would say that bandoliers count as…
+ALI: [cross] Weapons?
+AUSTIN: [cross] Gears or- Gear or tools?
+ALI: Oh, okay. Thank you. [laughs]
+AUSTIN: [uncertain noise] Because a bomb in… Hm. It could go either way.
+ALI: They do feel-
+JANINE: [cross] It’s about what’s in your bandolier.
+AUSTIN: [cross] Right. And you know what? It’s any- That’s the thing. In- In Broun’s bandolier, there are things that would very clearly go in the gear or tools side, or very clearly go in the weapons side. [laughs]
+JANINE: I mean, even a screwdriver can be a weapon.
+AUSTIN: [cross] This is true.
+ALI: [cross] Mhm.
+AUSTIN: I’m gonna lean in the favour of the player here, and say that bandolier is gear and tools, and not weapon.
+ALI: Okay, I appreciate that.
+AUSTIN: So, yeah… Um…
+ALI: I’m just highlighting the things that are gears or tools to me [AUSTIN: Okay.] so that I can just know what they are. Um…
+AUSTIN: Yeah yeah yeah. I got ya. Yeah.
+DRE: I’m gonna declare a light.
+AUSTIN: Okay, so you’re a light load.
+DRE: Mhm.
+AUSTIN: Uh… Thisbe and Broun?
+ALI: Um, I… don’t really expect to be interacting with people much, so I’m gonna go with heavy.
+AUSTIN: Okay. Thisbe?
+JANINE: I’m like, torn, because [laughs] it’s one of the things of like, the description of light [AUSTIN: Yeah.] can never- That is not relevant to Thisbe in a- in a way. Like that’s…
+AUSTIN: You’re also plus one scale, right? You chose to be a big robot, [JANINE: Yeah. Yes.] which means those negatives, of like… You- So like, one of the examples of- of scale negative that they come up with is like, hey, if you’re in a big mech, or if you’re a group of people, and so your scale is larger, like, it’s harder to be calm, it’s harder to, like, “hey, hey how’s it going? I’m gonna like- I’m gonna smoothly, you know, manipulate you.” People are gonna feel intimidated, because you’re in a big group of people, or you’re in a big robot, and be like, “yo, why don’t you just… chill?” [laughs] And plus one scale means, like, you’re always a little intimidating. You’re always kinda gonna stand out in the crowd. Hiding- You’re not gonna be able to Agent 47 your way into a crowd.
+JANINE: Exactly.
+AUSTIN: You’re a giant robot, right? Um… So it is a bit weird to be like, “But, I’m only taking light gear.” [laughs]
+JANINE: Yeah.
+ALI: I think that there is a difference between being like, “Oh, there’s a big robot,” and being like, “Oh, there’s a robot and that robot is stacked.” [laughing] Like- [cross] “Why do they have all of those guns?” [Austin laughs]
+AUSTIN: [cross] Yeah, true. You know what?
+ALI: [laughing] “What is going on?”
+JANINE: “Why’s that robot have a huge hiking backpack… Dripping with guns?”
+AUSTIN: “Dripping with- The guns are falling out! She’s fucking ready to fight.” Um… You know what? I think that’s fair, because… Are you just a labour droid? You know? Like- In which case people might not look at you in that other way. They might no- They might notice you, ‘cause your scale is big, and that might mean that if a, you know, a detective comes later and is like, “hey, who- who was here?” They’d be like, “Yeah, there was a big labour droid here.” But if you’re… If you’re a big labour droid with heavy, they’re like, “there was a big-” They would see you immediately and be shook because you’re clearly here to cause trouble, versus just being the sort of background invisible person… labour class, you know?
+JANINE: Mhm.
+AUSTIN: So that might be- That’s a good way of thinking about it. Thank you Ali for putting that in perspective. [Ali laughs]
+JANINE: I feel like in this particular case, being nimble is… interesting though.
+AUSTIN: Yeah.
+JANINE: Like, or having that- So I’m like, torn. I guess medi- medium?
+AUSTIN: Yeah, that seems fine… Yeah, so you have five slots, plus the two recon rigging ones, which means that you have a lot of space, even though you’re only a medium. Likewise, Dre, even though you’ve decided Valence is light, like, you still have five things you can carry. That’s pretty good. Um… Uh… Do you wanna make sure to mark that on your sheet, Valence?
+DRE: Mhm. [cross] I thought I did. Yeah, I did.
+AUSTIN: [cross] Uh… No, you di- You marked load for your vehicle, [cross] which is the other half of this.
+DRE: [cross] [drawn out] Ohhhhh-kay.
+AUSTIN: So that is the other thing we have to do, is we have to confirm what our vehicle loads are. Um… Which… Uh, unlike your personal load, which is easy to change from mission to mission, it costs, like, resources to go from a medium mech to a heavy mech, or a medium vehicle to a heavy vehicle, or the other direction. Because this is like how many- This is like your whole frame, you know what I mean? [laughs] Like are you driving a- You can turn- You could theoretically turn a sports car into an 18-wheeler. That’s a lot of fucking work to do that, you know? [laughs] Um… So, where- what are your various mech sizes?
+JANINE: … Mo heavy. [Ali and Dre laugh]
+AUSTIN: Mo heavy. Mo heavy. I’ve also- I figured out what Mo’s official model number or whatever – model name – is. It is a Zenith A project prototype, Euda- Eudaimonia. All of the Apostolosian mechs, uh, made by- So it’s a Columnar mech made for the Apostolosians. They’re all named after, like, ancient Greek philosophical concepts, or like, ideological concepts? But don’t worry, really we’re just gonna- we’re just gonna say Mo. It’s Mo. Who’s like a big gorilla mech, right?
+JANINE: Yeah.
+AUSTIN: Cool. Um… Mo heavy, got it. Valence, tell me about Hippocampus.
+DRE: The Hippocampus is light load.
+AUSTIN: Light load. Okay, so tinier. Chicken walker mech. Has some helicopter blades. And finally, tell me about your mech, uh, Broun?
+ALI: Yeah, the Three Cheers is medium.
+AUSTIN: Is medium. Love that it’s called the Three Cheers.
+ALI: Mhm.
+AUSTIN: Um… Okay, I’ll note: none of you have callsigns yet. I think K.O. really wants you to all have callsigns by the time- the next time we... play. [laughs] Ideally callsigns you come up with for each other, because that’s the way real pilots do, and that’s very fun. Um… Okay, so that’s- that’s medium. The way load works, for people who don’t- who’ve not played one of these games before, you don’t have to say what that is used by. It’s not like DnD, where it’s like, “Alright, well, I have x carrying capacity, and I need to decide what is going in that carrying capacity at the jump.” You can fill that in as we go. It’s just- We need to know how much stuff you have. So at this point, we know what all those are, and if anyone has a question, now is the time, before we really, truly jump in it.
+ALI: Yeah, I had a question about vehicle gear. I know that we- We set up, like, how heavy it is, but is it like, if I click that I have a machine gun this mission, is it as, like- as- Like, will the mech always have a machine gun, or can that stuff get interchanged the way that our, like, personal gear does?
+AUSTIN: The gear can- So, it’s cheaper to change- It’s- You have to spend resources to change it, but [ALI: Okay.] it’s cheaper to change gear than to change load for a mech, if that makes sense.
+ALI: [yawning] Okay, yeah. [cross] ‘Cause you’re not messing with the structure of it.
+AUSTIN: [cross] Uh, but yeah. You do still have to-
+ALI: But like, once I say out loud, like, “oh, it has an assisted repair system,” I can’t be like, [Austin coughs] on the next mission be like, “oh, I install this other thing instead.”
+AUSTIN: Right, you- [ALI: Okay.] you can, but it costs material to do it basically. [ALI: Okay, okay.] You know? Whereas- Whereas, it’s very easy for Broun to be like, “I’m not gonna bring the airgun darts and syringes to this mission, [Ali laughs] I’m just gonna leave those at home.” It’s way harder to like, reprogram your mech’s, you know, shoulder-mounted hardpoint to not have a payload bay, or whatever. [ALI: Okay, yeah.] Sure. Alright, cool. Um… I’m gonna say that you should probably mark that you’ve used your payload bay once for that opening salvo, [ALI: Oh, sure.] does that makes sense? [ALI: Mhm.] I don’t know where you wanna mark that, but, you know, it just goes up to three every time. Uh, alright… Um… So who’s taking the lead here? The flashbang goes off. Like, does Mo rise up out of the water? [laughs] Who marches in here? What is the- What is the- How are we going?
+JANINE: I mean, that’s - So that’s the thing. That’s the thing, I- I’m wondering is like, what is our- what is our intended step two for after the flashbang goes off? Like when Broun is making this pitch of [Austin laughs] “I’m gonna throw the flashbang in, then…” I guess what I’m asking is, what does Thisbe hear? [Austin laughs] I wanna clarify what she would’ve heard [AUSTIN: Yeah.] as this plan was being explained.
+ALI: Um… I- Okay, in my understanding, [laughs] um, the idea is, we distract everybody, we go get the robots. We need- I guess we need someone to, like, physically interact with them in a way to like- to be able to be like, “hey, you all run to Point Barnacle, [AUSTIN: Right.] while the three of us all go to Point Carp.” Um… And they’ll [cross] destroy the fuel tanks.
+AUSTIN: [cross] So that means you need-
+ALI: And we’ll take care of the- the thingy. Um…
+DRE: Yeah.
+AUSTIN: Alright, so that means you need someone to, like, attach some remote vehicle controls to these things. Um… Which is the device here at the bottom, uh… You see on the bottom of your- your gear list. I think each of those needs one of those. So maybe each of you can declare one of those? If that makes sense?
+DRE: Sure.
+JANINE: [cross] That makes sense.
+AUSTIN: [cross] Or one person could use up multiple slots. But yeah, that makes sense in terms of spreading it out. And we need someone to do that. Like… Are you all at Point Dory together? Are you… Is someone still across? Like, did you launch that- that thing from across the river, Broun?
+[2:00:00]
+ALI: Um…
+AUSTIN: Or are you actually there?
+ALI: I would’ve preferred to, if it’s like, hard to get over the river. [cross] Um…
+AUSTIN: [cross] Yeah, it’s definitely hardest for you, but I would’ve let you cross the river to begi- Like, you have to decide which part- which side of the river you wanna be on before needing to roll again, you know what I mean?
+ALI: Yeah, my concern is us being like, “Oh, we’re in the mission, we have to get back over it again,” you know?
+AUSTIN: Yes, yes.
+ALI: So, that’s why I’d prefer to just, like, stay on one side for right now.
+AUSTIN: Yeah.
+ALI: But I, as the mech person, I don’t mind being the person who’s like, physically… attaching the stuff.
+AUSTIN: Yeah, that’s the thing is you’re probably the best at the physical attaching stuff.
+ALI: Okay.
+AUSTIN: If we wanna roll it by engineer. But we could also roll it by prowl, and be like, “I’m sneaking around.” Like, it’s- It’s up to y’all [cross] how you wanna do it.
+ALI: [cross] Wait.
+AUSTIN: Uh-huh?
+ALI: I can park- W- [laughing] This is such a stupid idea. I can park my mech on the other side of the river and swim across it?
+AUSTIN: You could’ve done that, yes.
+ALI: As like a person?
+AUSTIN: You’ll have to- You will- You’ll have to swim back across it, [ALI: Okay.] to get back in your mech.
+ALI: That’s easier than [AUSTIN: Okay.] getting my mech [cross] over there.
+AUSTIN: [cross] Probably.
+DRE: Can the two of us also ride on Mo?
+AUSTIN: [excitedly] Oh, that’s true. You could just do that. Mo could carry [cross] everybody over. [Ali laughs]
+JANINE: [cross] Actually, here’s the thing about Mo…
+AUSTIN: Yes! [laughs]
+JANINE: Mo has a gutted cockpit, [ALI: Oh.] so that means that y’all could probably just like, get- get in. It probably wouldn’t be nice.
+DRE: [cross] That’s fine.
+AUSTIN: [cross] Yeah.
+JANINE: [cross] Like there’s- There’s not a chair in there.
+AUSTIN: Yeah, do you wanna read us-
+JANINE: It’s like being in the back of someone’s van.
+AUSTIN: Do you wanna read us Mo’s quirks really quick?
+JANINE: So, Mo’s quirks are: intimidating bulk, [AUSTIN: Uh-huh.] gutted cockpit slash exposed pilot… I guess I haven’t talked about how Thisbe actually directs Mo, but I guess we’re getting to that now.
+AUSTIN: Uh-huh.
+JANINE: Um… Makeshift psionic amplifier and scary weapon, brackets “not combat certified”.
+AUSTIN: What’s that mean? What is Mo’s scary weapon?
+JANINE: It’s like a farm- It’s like a- Like a combine harvester kinda- It’s supposed to be some sort of basically, like, weird… grain threshing kind of device.
+AUSTIN: Fantastic.
+JANINE: That comes out of the arms, and is upsetting.
+AUSTIN: [in disbelief] God. Love it. So how does- how does Thisbe control Mo?
+JANINE: So, Mo has what I have called a saddle horn, um, on his back, but it’s not quite that, because a saddle horn is like a thing that you hold with your hands. I imagine this is actually the way that- So- So… [sighs and laughs] So in the 19th century, [Austin laughs] [AUSTIN: Uh-huh.] when women rode side saddle, a side saddle meant to be ridden side saddle would have  sort of extra protuberance on it, to be gripped with the legs, and women would wear special skirts that had extra fabric, [AUSTIN: Mm.] so that they could, you know, hold this extra, like, bit with their legs and ride side saddle securely, so they could still take jumps and participate in hunts and things like that. I imagine what Mo has on his back is actually a lot like that. Because it’s a thing that like, Thisbe kind of grips, with her- with her legs, I guess? Um… And has her hands, like, probably just like, resting in a ridge on his back.
+AUSTIN: [laughing] Okay.
+JANINE: And just kinda hangs off his back. When we were conceptualizing this, there was a lot of exchanging of, like, pictures of- of like, monkeys riding goats and stuff like that. Um…
+AUSTIN: [cross] Right.
+JANINE: [cross] So that’s the kind of- that’s the move there.
+AUSTIN: [laughing] Just drop that one in there. Yeah, love it. Great. Okay, so yeah. So then- Mo- So Thisbe’s on the back of Mo on this- on this saddle type thing. But- And then, uh, Valence and- Valence or Val-ence, I wanna get that right. [cross] ‘cause I have-
+DRE: [cross] Uh, Valence.
+AUSTIN: Okay, Valence. Valence and, uh, Broun, you’re in the gutted cockpit and are carried across. Like… Do you, like- Does Mo kneel down to let them off here? Basically?
+JANINE: Uhhh…
+AUSTIN: Do they just hop down?
+JANINE: I imagine Mo’s, like, chest is kind of- kind of like an upside-down- Now I’m just thinking about an old van.
+AUSTIN: Okay.
+JANINE: [laughing] But I imagine- I imagine Mo’s chest is like an upside-down sort of hatchback thing. [AUSTIN: Sure.] So like, once it opens up, you can just walk down.
+AUSTIN: Love it. Great.
+JANINE: And you have to, like, slam it open and make sure it catches. Or slam it shut, to make sure it [Dre laughs] latches.
+AUSTIN: [laughs] Um… Mo does the- The hatchback opens. You- Y’all can hop out and get to work if you want to… What do you do?
+DRE: [cross] Um…
+AUSTIN: [cross] Also I should note, like I guess, there are people yelling, but like, they can’t see, because of the explosion, and they can’t really hear each other. Some people are, like, mumbling. People can’t tell- Like, it’s- It’s- It is a scary thing that you have done, to be clear.
+ALI: Mhm.
+AUSTIN: You know? The sun opened up for a moment in that base. And then closed, you know? [ALI: Mhm.] Like, everyone was just shook.
+DRE:
+(As Valence) Do you all… Okay, do you all wanna, like, go put these things on the mechs, and I’ll go see whatever this extra… tarp is?
+ALI:
+(As Broun) Yeah, you don’t think it’s dangerous?
+DRE:
+(As Valence) No, I mean it is, that’s why I wanna go see what it is. [Everyone laughs]
+ALI:
+(As Broun) I mean… Do you feel in danger doing that alone?
+DRE:
+(As Valence) It’ll be fine.
+ALI:
+(As Broun) Alright.
+AUSTIN: Alright, let’s get some- Let’s get some- some stuff going on here then. Um… Valence, you find a door into this hangar, and you find- you see, like, the big tarp that’s- that is literally covering some stuff. It’s like crates- crate after crate after crate, and all of it is covered in a bunch of different tarps. As you approach that, let’s cut to- let’s cut to Broun, and- as you approach these mechs. Um, how are you doing this? Are you just, like, running up to them and trying to attach it quickly? Are you trying to be sneaky about it? What’s- What’s the play?
+ALI: [cross] Um…
+AUSTIN: [cross] Noting again you have controlled position, so…
+ALI: I think that my priority right here is doing this fast.
+AUSTIN: Okay.
+ALI: In- In Broun’s mind, the best possible way that this could work out is that like, there’s already a mech walking away before people [Austin laughs] can see again. Right? [JANINE: Yeah.] ‘Cause then it’s like, “oh, I’ve opened my eyes and now I have to deal with that.” [Austin laughs] Instead of looking for this person. Right?
+AUSTIN: [laughing] Fuck. Yeah. Totally.
+ALI: [laughs] So… Yeah… And I don’t know, like, um… How would I- It’s just interfacing tools, right? I don’t know if there’s, like…
+AUSTIN: I think you just- If you take the remote vehicle controls, that- Um, you know what? Yeah, I guess you would still need to actually attach it to this thing, so yeah. Interfacing tools works. [cross] Um… It’s…
+ALI: [cross] Yeah, I wanted it to, like, these have like- like, a thing that you could open up on the leg, and like have this thing go into it and start.
+AUSTIN: So I- I don’t think it’s like that style of like- It’s not- Things don’t get hacked in that way, so I actually think this might be more like you’re opening the cockpit and attaching a- a thing that literally… doesn’t just interface the way a USB stick does. It, like, clamps onto… Like, you know, this- this device – this remote vehicle control – is one load. It’s the same as like, ‘an unusual weapon’. It’s- It’s big. It’s almost think it’s like a cl- like a club-style thing you attach to the thing, you know?
+ALI: Oh, okay. I was thinking that was like a RAM stick, that I could like- [laughs]
+AUSTIN: It’s not, [cross] these are just like, not the world we’re in. Right?
+ALI: [cross] Just thinking- Okay, yeah.
+AUSTIN: Like- Or it might have something- have a component where there’s like a cable that you plug into a thing, but you’re probably also- you’re leaving a big computer behind, [laughing] do you know what I mean? Like- [ALI: Mhm.] It is just like a big- It is- It is- Again, the buttons are clicky, you’re getting away from that style of like- like, small devices. And so, like yeah, you like- This isn’t gonna affect your positioning or anything like that, just in terms of visual, um- It’s as if you’re clamping something into a cockpit, more than quickly hacking into a leg. You know? Mako would be quickly hacking into a leg. Broun has to do real work.
+ALI: Okay.
+AUSTIN: Sorry Mako. Um… But... Engineer?
+ALI: Sure, yeah.
+AUSTIN: Is what that sounds like to me? When you engineer, you build or tinker with an object. Yeah, yeah, totally. This is tinkering with an object.
+ALI: Okay, yeah, sure. Uh… Just 2d6?
+AUSTIN: Yeah. If you want to you can push yourself, and if someone wants to help, they can help. Um… [ALI: Um…] At this point, this would be Thisbe helping in some way?
+ALI: Can we do, like, a combined roll since we’re both doing the same thing, or is it, like…
+AUSTIN: Uh, you could-
+JANINE: I have no engineering is the thing.
+ALI: Oh okay.
+AUSTIN: That is true. You could though, do a group action, where you could lead a group action. When you direct a group of pilots to overcome an obstacle together, describe how your character leads the effort. Every pilot that’s involved rolls using the same action and the group uses a single best result for everyone. The leader would take one stress for each participant that fails. Um… But at that point, you’re probably better off, uh, just taking stress to assist… Um…
+ALI: Um…
+AUSTIN: Janine-
+ALI: [cross] Oh sorry-
+AUSTIN: [cross] Yeah, go ahead.
+ALI: Oh, I was just gonna say, I like the idea of it being kind of a group action, because I can picture, like, there’s two mechs. [AUSTIN: Mhm.] Thisbe goes to one, Broun goes to the other, and they’re like, on a radio, so when Broun gets into the cockpit and is, like, even figuring out how to do this shit, can be like “Oh, this is what you should do.” Right? Like walking through it?
+AUSTIN: Yeah. You could do that. That would be leading a group action for sure. [ALI: Okay.] At which point, you would roll, and, uh, Thisbe would roll, and then you would use the best roll. The other way to do it would be for Thisbe to just spend one stress and give you either plus one die, improved effect, or improved position… Which- In that case, I’d be- I wonder if that’s more just like Thisbe doing something to give you cover, or getting- giving you access to the mechs more quickly. [cross] You know?
+ALI: [cross] Oh okay, yeah.
+AUSTIN: Like is Mo just ripping open the cockpits on these? [Janine laughs] So that- So that-
+JANINE: [cross] That seems like a short-sighted thing.
+AUSTIN: Okay, yeah, fair. Or carrying, maybe, more quickly? You know? Um… [cross] It’s up to y’all.
+ALI: [cross] Very gingerly picking me up between each of those, like- [laughs] [everyone laughs]
+AUSTIN: Providing a ramp with- Does Mo have- Does Mo have pronouns, Thisbe?
+JANINE: I think Mo’s- I think if Thisbe can be she/her, Mo is he/him probably.
+AUSTIN: Okay. And he, like, can provide a ramp or a bridge between the two parked mechs next to each other or something? If you wanna do that? Um… You could also just roll 2d6. Or push yourself for a third one. You know? I- I could offer you a collateral die. If you let me tick this six-step clock in Point Albacore, I’ll give you a bonus die.
+JANINE: [uncertain noise]
+ALI: [takes a deep breath] Um…
+JANINE: I would rather help than that, [ALI: Okay, yeah.] I just don’t-
+AUSTIN: You could do both, I’m just letting you know that’s- that offer’s gonna be on the table.
+ALI: Uh-huh… Um… I have two here, so I- I’m probably not gonna push myself [AUSTIN: Okay.] but if you wanna assist, or… Uh, I would be open to it.
+JANINE: Yeah, the way that I was thinking to- Well, I don’t know. I- I’ve been conceiving of the remote vehicle control things as like an- especially in terms of, like, scale, as kind of like an external motherboard kind of thing.
+ALI: [cross] Yeah, that’s what I was- Yeah.
+JANINE: That’s kind of getting clamped on, and in that case, like, maybe the- maybe the thing that Thisbe is doing is… sort of interfacing with that motherboard to make it- with that, you know, thing- [AUSTIN: Sure.] with that computer to make it the- the like, active, dominant system.
+ALI: [cross] Ohhhh.
+AUSTIN: [cross] Right, so it’s like- It’s like step one-
+ALI: [cross] You’re logging in as an administrator. [laughs]
+JANINE: [cross] Like, awakening it, sort of.
+AUSTIN: Yeah, yeah, yeah. It’s like, okay- So Broun’s job is the attaching, and your job is, like, booting it up, and like…
+JANINE: Mhm.
+AUSTIN: Yeah, I like that. [ALI: Okay.] Totally. I still think the best-
+JANINE: [cross] And it’s also a little more consistent with- with like the stats and stuff, even though I’m not rolling interface here, but-
+AUSTIN: Yeah, I like that a lot. So yeah. Just take one stress and then you can give- you can give Broun either plus one effect or plus one, uh… I guess better- Plus one d. Extra dice or an extra effect. Uh, up to y’all. This is- This is controlled great. [laughs] You’re in a good position already, so…
+JANINE: I’m gonna say plus one d seems [cross] smarter.
+ALI: [cross] Yeah.
+AUSTIN: [cross] Okay, so 3d6. And then, uh, Janine, mark a stress. You got it.
+JANINE: Yep.
+AUSTIN: [pause] Uh, that is a crit, you got a crit, you got a critical success. [Janine laughs]
+ALI: Woohoo. [Dre laughs]
+AUSTIN: A critical, uh… On a- On a controlled- So, controlled, you act on your terms or exploit a dominant advantage. Uh… Critical, the action is a success with increased effect. You’re already at great effect. I don’t think that there’s anything above great effect, where you traditionally have to roll… Uh… One second. [typing sounds]
+JANINE: [laughing] There’s just an extra mech there now, it’s very weird.
+AUSTIN: [cross] I mean, there are three here, right? If a player would make- If a pilot would make greater gains than usual, they have great effect. The pilot fills three ticks on a relevant clock if applicable. The GM should detail how the additional benefit, uh, manifests. Well, you’ve gotten better than that. Um… Let me see… There is no benefit past having great effect, unless it dominates the circumstances – see “dominating effect” on page question mark question mark – to such a degree that there is no risk involved. Um… In such a case, there is no need for a roll.
+The only way to succeed past great effect is with the blind luck of a crit. That is what you did. So I’m gonna say that you got a dominating effect. [laughs] [Ali gasps] Which says… If there is a side that has a- has potency, quality, or scale that is so overwhelmingly powerful to the opposition, that side dominates the circumstances. If a soldier has a fine machine gun, blah blah blah… Da da da… Uh… Basically… It’s- It is impossible for them to counter this [Ali laughs] at this point. Oh no, I guess they would need to, quote, “understand the nature of the dominance, and take actions to decrease it.” [ALI: Hmm.] But they’re blinded while you’re doing this, so they have no idea if there’s a- You know what I mean? They’re not… Yeah… [laughs] Yeah, I think you do it. I think with a dominant effect, I’m gonna fill this four-step clock that I put down here, instantly, to the fourth step. [laughs] And this is just a montage of y’all, like- You’re doing the thing you just said. And people are starting to get their, like, wits about them, and are beginning to, like, find small arms, to like, shoot at the mechs. At these three troops. But the troops are big mechs, and they are using rifles, and are like, you know- Maybe someone tries to throw a grenade, but like, whatever. Like, it is- They’re doing the thing that you’ve programmed them to do, which is, all three of them begin to march towards Point Barnacle, uh, starting at Point Dory, crossing the river. Like fo- fording the river. [uncertainly] Fording? Forging? Forging the river… Um… Fording?
+DRE: I think it’s fording.
+JANINE: Yeah.
+AUSTIN: Okay. Um… And walking through the town. The night of- You know, the town at night, as you- as you- As they move towards Point Barnacle. 
+[2:15:00]
+You’ve given them very basic commands, but there’s not much in the way of anything stopping them. Um… And you got a dominant effect, so I’m not ticking that Albacore clock, nor am I giving you anything else that’s a problem here. I am going, though, to go back to Valence, who- What do you do? You’re looking at all these crates in the kind of, like… the, kind of, low light of this hangar.
+DRE: Uh… I guess… I want- Is there, like, any, like, markings on here?
+AUSTIN: Yeah, there’s plenty. Like, there’s definitely, like, quickly sketched, like- There’s one that’s just like “C” is written on the side of it. Another one has like, “B”. You know, like, there’s letters written on it. Some of them have longer things. You definitely recognise, like, the name on them. One of them says, like, “Lion’s Rest”, which you know is, like, a city in Apostolosian territory.
+DRE: Mm… Okay, well I guess I’m just gonna open one of these then.
+AUSTIN: Yeah, you pull back the crate- You pull back the tarp, and underneath is a crate filled with cigarettes. And under the next one is, like, a crate filled with whiskey. Um… And you hear the lights- There’s like “ka-clunk”, and the lights in here turn on. And there is a person who comes in in a military uniform. They have, like- They’re really scraggly. We don’t see a lot of scraggly Apostolosians. We don’t see a lot of Apostolosians with like, facial hair. This person has facial hair. Uh, and has like- They are balding. And they have on the uniform of the Red Fennecs. So there’s like a little red fox on their uniform. And they’re like,
+        	(As Tes’ili Serikos) Hey, we can make a deal, right?
+DRE:
+        	(As Valence) Yeah, there’s always space for a deal.
+[Jack de Quidt’s TANAGER. PERFECT. TOUCHPAPER. plays]
+AUSTIN:
+(As Tes’ili) Oh, you’re someone I can work with. My name is Tes’ili. You can call me Tes.
+DRE:
+        	(As Valence) So what is all this, Tes?
+AUSTIN:
+(As Tes’ili) You don’t need to worry about it. I mean… The one thing I can say is, you can take anything here you want, it’s yours. But I need you to… [sighs] I need you to leave. Whatever you’re being paid, I’ll double it. But I need you to leave. And we can do some work afterwards. We move things all across Partizan.
+[Jack de Quidt’s TANAGER. PERFECT. TOUCHPAPER. ends]
+
+
+

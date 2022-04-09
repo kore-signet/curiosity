@@ -1,0 +1,2626 @@
+Bluff City 17: Messy Business Pt. 2
+Transcriber: Ry (@gotnosenseatall)
+
+(Note: PCs each have two names (an Agent Name and a Character Name):
+ALI: RYDER = CHRIS
+JACK: PAGE = FLORENCE
+JANINE: SEALS = MAGGIE
+KEITH: HEARD = ROBBER)
+— 
+
+[0:00:00 - beginning]
+
+[Intro: ‘Messy Business Main Theme’ plays]
+
+AUSTIN (as COURSON): Specialist Courson, start record. Article intake file #8421. Object: Blough City Lot #92-dash-338. A collection of photographic equipment, okay! Description: Let’s see… start with a walnut-coloured leather gear bag — with a shoulder strap and a stainless steel clasp, nice. Includes one camera, brown and silver, two lenses, a pair of binoculars, also brown and silver. Additional accessories seem to be from some sort of… portable dark room? Yeah… Each piece besides the developmental equipment includes a carrying case. 
+
+Condition: Mixed. Camera shows heavy use, damage to leather and metal. But it is operational. Lenses are in excellent and near-mint condition. Binoculars, likewise in good shape. Accessories are… a grab bag, sell them as-is. 
+
+Price? For the lot, let’s say 400 to start with, 15-20 incremental. 650 up front, minimum. Actually, you know what? You know what, put an asterisk on that. Let me just, set up the machine to— 
+
+Yeah, okay. Ah, comments and analysis: Where to begin with a lot like this? I mean… [sighs] I guess I should start with the weirdest thing: the dark room. It’s… it’s weird. It’s like a little portable desk with containers for the chemicals, and a tiny bath basin for the film to develop in. This is some real ‘prosumer’ shit. But let me tell you, this right here? This is a nice camera! It has a sort of a retro aesthetic, like a lot of things in Blough City. Look for buyers with a penchant for the classics. Additional lenses are smartly chosen for surveillance work, which means it might take some massaging if you’re trying to sell to a bird watcher or something, but it’s not beyond your abilities, Momona. Binocs are solid too. Some fingerprints, a little oil on the metal, but the lenses are crystal clear. A real sense of presence when you look through ‘em. And that is just the mundane stuff.
+
+I got curious when I read this was found out on some suburban rooftop in the Thicket near the, uh… the Blake Blossom scene? You read about that? Tricky stuff. So I thought maybe this was connected — I did a spectrographic scan, ran a quick membranic analysis, and it turns out this stuff didn’t belong to a private dick. This is Concern tech, friendo. This could ID outsiders, Peels, even other business folks like us. So, you sell to a normie, start at 400, 650 up front. But if you have a cross-towner on the hook? Bump that up exponentially. Or, chuck it. Sometimes it’s better for rare goods to leave circulation. 
+
+[‘Messy Business Main Theme’ ends]
+— 
+
+AUSTIN: Welcome to Friends at the Table, an actual play podcast focused on critical world-building, smart characterization, and fun interaction between good friends. I am your host, Austin Walker. You can find me on Twitter at austin_walker, and joining me today, Janine Hawkins—
+
+JANINE: You can find me on Twitter at bleatingheart.
+
+AUSTIN: Keith Carberry—
+
+KEITH: Uh, my name is Keith J Carberry, you can find me on Twitter at KeithJCarberry, you can find the Let’s Plays that I do at youtube.com/runbutton.
+
+AUSTIN: Ali Acampora—
+
+ALI: Um, hi! You can find me at ali_west on twitter.com and find the show over at friends_table.
+
+AUSTIN: And, Jack de Quidt.
+
+JACK: Hi! You can find me on Twitter at notquitereal and buy any of the music featured on the show at notquitereal.bandcamp.com.
+
+AUSTIN: Thank you again for supporting us by going to friendsatthetable.cash, and today we are going to continue our game of Lacuna by Jared Sorenson, along with some additional elements hacked in from Tech Noir by Jeremy Keller. Um, you can find both of those on the internet by doing a search for those things I just said! [laughs] Um, I didn’t read these last time, but my agenda is to make Blough City feel- seem frightening and afraid, to fill the player characters’ lives with intrigue and mystery, and to play to find out what happens. Um, and I can do a quick, uh, summary so that we’re all on the same page. Does that sound good?
+
+JACK: Mm-hm.
+
+AUSTIN: Okay.
+
+KEITH: Yup.
+
+AUSTIN: Um, so, you are all agents of a group called the Concern, which patrols the two cities that we’ve introduced: Bluff City and Blough City, for strange behaviour and phenomena. Of course, there is a complication, which is that the Concern is in a state of endless cold war with itself. Uh, there are Bluff and Blough City divisions and factions inside that are trying to influence each others’ cities, and also prevent the influence of- of the other cities on them. Um, you are a Bluff City team that is being sent to Blough City, because, uh- an expat from Bluff City named Blake Blossom, who was an actor in Bluff City —  who was in our game of The Eighty-Six, actually — wound up dead in Blough City. You have three goals: one is to identify the cause of his death. Two is to find his final film, which is something that it seems like a lot of people are after. And three is to bring his killer to justice. There is a little extra wrinkle to this: One is that Agent Page and Agent Ryder, who we know from previous games as Florence and Chris, are on the lookout for Hector Hu, who we also know from a previous game, who also was a member of the concern named Agent Squire. Um, he is somewhere here in Blough City. Florence was even directly in contact with him, by way of some postcards, which- maybe some of you have seen. Um, and — or will see — and Agent Heard, Keith, your character, you are aware that Hector is here, that there’s a chance that Florence might be trying to contact him. And you’ve been told, ‘Hey, don’t let that happen, please. If you see Hector, bring him in. If you find Hector, if you stumble into him, try to bring him in dead or alive, ideally capture him, um, but first and foremost let us know.’ [laughs a bit]. Maggie-
+
+KEITH: Hector also was my mentor.
+
+AUSTIN: Ma- Hector was also your mentor, yes yes yes. Good, important point.
+
+KEITH: Now, real quick, I just want to clear things up at the very beginning — I forgot that we were looking for the movie last time.
+
+AUSTIN: Okay, that’s an important thing-
+
+KEITH [crosstalk]: I forgot that that was one of the things that we were supposed to do.
+
+AUSTIN [crosstalk]: One of the big things, yeah. Totally.
+
+KEITH: I thought that the only reason we were going to the film festival, was to like… find-
+
+AUSTIN: Blake.
+
+KEITH: Like, people that knew the guy. Yeah.
+
+AUSTIN: Connections. Yeah yeah yeah, no, finding the film would be great too. Um, so yeah, that’s one of the things you want. Uh, additional note here, and I’m kind of retconning or sliding this into place to make it a little clearer, is you are lead agent on this, Agent Heard, but you are not yet a quote-unquote “Senior Agent”. I think it’s worth saying that you’re- this is kind of you’re like probationary team leader senior agent-
+
+AUSTIN [crosstalk]: You know, it’s one of those, situations.
+
+KEITH [crosstalk]: Yeah, you mentioned that I was on thin ice because Hector was my mentor?
+
+AUSTIN: Exactly. I think that kind of makes sense, right? It’s like, hey, you get this thing, you do right by this, and, uh, maybe you’ll get that big promotion. You know? Uh, but this is- you are the team leader still. Uh, Agent Seals, Maggie Darcy, Janine, your character, you are kind of in the dark around the Hector stuff. Like, I don’t know that you know that Hector is here, or who Hector- I mean, you probably knew who Hector was in Bluff City-
+
+JANINE: In Bluff. Yeah.
+
+AUSTIN: Um, but do not know who Agent Squire is or any of the connection to this stuff. Uh, we opened the game by using Tech Noir’s kind of um- procedural storytelling stuff, when we rolled on the plot table. Obviously I’d written some stuff around Blake Blossom dying, the missing tape, et cetera, but we opened by rolling and what we got was, um, the- the Teardrop Coupe, which is a very fancy car, that was owned by a group called the Cultural Trust — which is, uh, you know, officially it is a group that gives grants to artists and, it kinda, promotes art and cultural work inside of the City by the Sea, aka the Metropolis, aka what outsiders call Blough City — but actually, the Cultural Trust is kind of a group of censors, and they censor everything from newspapers, to films, to- reality itself, it seems? They are the ones who, who, uh, control what types of buildings are allowed to be built, in the city, and kind of create the pul- it’s not just what types of buildings, right? It’s literally any sort of cultural expression needs to be approved by them, and it’s mostly pro- impro- and it’s mostly, approved ahead of time, by them being like these are the kinds of things you can do. You can make movies that look like this, you can make, uh, buildings that look like this- Sure, you can decorate them differently, sure, you can cast a different actor, right, but like, this is what ‘The Western’ looks like. Et cetera. Um-
+
+KEITH: So we- we- it seems- so we know about Blake Blossom has become an avant garde film director.
+
+AUSTIN: Yeah, you know that about him. Anything-
+
+KEITH: And it’s sorta always seemed like that’s been outside of the, sort of things you’re- 
+
+AUSTIN: Yo- absolutely.
+
+KEITH: -allowed to be able to do?
+
+AUSTIN: Absolutely. 
+
+KEITH: Okay. Cool.
+
+AUSTIN: Yeah yeah yeah yeah yeah.
+
+KEITH: I wasn’t sure if that was explicit, or just- [trails off]
+
+AUSTIN: Yeah, I- I would say it’s explicit, right, like the Cultural Trust has- So, I’ll, let me finish saying what’s on the, on the board right now, and we’ll talk through stuff, and we’ll talk about what’s on the, what’s on the kinda plot board, and then we’ll talk through that that way. Also, from the very beginning, Achilles Apollo was on the board, and he is a boxer and an enforcer for a group called the Whitman Syndicate. Uh, uhh, which came up briefly in our first Fiasco game, he came up in our first Fiasco game. And he stole the Coup from the Cultural Trust. So those are the thing we knew, um, going in.
+
+Uh, we also know a few other things going in. We know that there are some, uh, relationships between characters. We know Achilles Apollo, for instance, helped get Finnegan Hands, also from our Fiasco game, back onto his feet. 
+
+[0:10:07]
+
+Um, he, we don’t know- uh [laughs] we do know Finnegan Hands is working as a Santa right now, because this is a holiday game, um, somewhere in the city. But we don’t necessarily know, like, what he’s been doing day to day, or any- in any bigger way. We also have all of your relationships to various characters coming in. So Agent Seals, that is, that is, you, Maggie, you feel “Protective” about Finnegan Hands, and have made contact with him in the past, right. You could go to him whenever you want because you know where he is. 
+
+Um, Agent Page, uh, so that is you, Florence, Jack, you know Gale Green, who is a, uh, a filmmaker in her own right, who we know as Goldfinch when she was in Bluff City. She left here, went to Bluff City as a girl, uh, as a teen, maybe, somewhere in there, became the superhero Goldfinch, and has since come back here and is working to change this place, we believe, by way of the creation of art and through the kind of, uh, establishment of things like the city-wide film festival, which, y'know, creates, y'know, shows off art which is really at the limits of what is socially and legally acceptable here. Um, and you feel “Respectful” towards Gale Green. Um, we can talk if it comes up about how you specifically know her, you know, but we do know that you have a respectable relationship with her.
+
+JACK: Mm-hm. 
+
+AUSTIN: Um, we know Agent Heard, Keith, that you h- are “Suspicious” of the journalist Jennifer Jetta, who we know was somehow connected to the death of Hector Hu’s- Content-Aware Peel? His like, double that was back in Bluff City. And so, I imagine you’ve run across her here. She- she’s a journalist who works on both sides of the border, basically, in both cities. And, so, you are “Suspicious” of her. 
+
+Um, and Agent Ryder, Chris, you are “Sympathetic” to Achilles Apollo, who is again this kind of like, working class dude who’s- who’s kind of working for a- a um… an organized crime syndicate, but who’s clearly like, a good guy and who takes care of people and, I suspect you have some overlap there in terms of like, you know, sometimes the little guy. You gotta look out for each other. So you’re “Sympathetic” towards Achilles Apollo. 
+
+Um, other stuff that’s on the map going in, we knew- so I’ve added some stuff to the map as it stands, I‘ve added all those relationships I just said so that we can just see them immediately. I also added Blake Blossom, uh, who we know his body was found in the Thicket, which is a- a- one of the districts of the city. The Thicket is like a, suburban sprawl that is enclosing on the wetlands at the- at the edge of the city. Um, so I added that to the map. And then there’s stuff that came out of play. So you arrived there at the top, you break up into teams, two of you go to a movie theatre, I think that was Agent Ryder and Agent Page, go to a movie theatre to try to figure out what the fuck is up with Blake Blossom. Um-
+
+KEITH: Um- It was- it was Ryder and Heard.
+
+AUSTIN: No.
+
+ALI: We went to the film festival.
+
+AUSTIN [crosstalk]: That was-
+
+KEITH [crosstalk]: Oh, sorry.
+
+AUSTIN: -the festival, it was before that. The- 
+
+KEITH: Oh, before, oh.
+
+AUSTIN: Agent Ryder and Agent Page go to the movie theatre to try to find info on Blake Blossom, which is where- which is where they find out-
+
+KEITH [crosstalk]: Gotcha.
+
+AUSTIN: -that Blake Blossom’s, uh, scheduled to have a film in this city-wide film festival that Gale Green is organizing, and both Agent Heard and, uh, Agent Seals end up con- connecting with someone named Mike Truk who runs a souvenir shop. And manage to get some disguises for everybody. Then you do split back up into two different teams, which is Ryder and Heard — so Keith and Ali — you go to the film festival and find out that Gale Green has the keys to the- to the car that Achilles Apollo stole from the Cultural Trust. So, and you know where that is. It’s in a car park, it’s in southern car park, floor seven. 
+
+And then, we also saw, um, Agents, uh, Page and Seals go into Standard Town, which is kind of the night- kind of the nightlife district, but also kind of a low-income area, lots of like, blend of rural and urban. And, uh, you get some information from a bartender about what Blake Blossom’s movies are like. Which, you know, we kind of described them as being kind of, dreamy in narrative quality, but kind of [sighs] walking the line between fiction and kind of nature documentary? [laughs] They’re- a lot of them were shot out in the Thicket in the kind of more natural environments, the areas that were being slowly paved over. And while there, Agent Page, Florence, you get a call from yourself, it sounds, who is… saying that you’re on your way to try to find Hector Hu. You’re telling Hector that you’ll be on your way soon. So, any questions about what happened last time? Trying to remember if there’s any other big picture stuff.
+
+ALI: [sighs] Was there like a doc that you gave us with-
+
+AUSTIN: Yes, there’s a dossier. I’ll relink it.
+
+ALI: Okay. Um-
+
+JACK: I have it here [rustles papers].
+
+AUSTIN: [Chuckles] 
+
+ALI: And what did-
+
+AUSTIN: That was you making noise. Uh-huh.
+
+[Keith laughs loudly]
+
+KEITH: I forgot you had a physical one-
+
+AUSTIN: Mm-hm. Um-
+
+ALI [crosstalk]: What was the-
+
+AUSTIN [crosstalk]: Other— Go ahead.
+
+ALI: The note that uh, I found with the car keys? Did that say anything specific?
+
+AUSTIN: That said- that said that the car was at the southern car park, floor seven.
+
+ALI: Okay. And that’s uh- Okay.
+
+AUSTIN: Was the location of the thing. Yeah, totally. The name of the film, we know, is “The Tunnel”. We also know that Gale Green had added it to, or had added Blake Blossom’s film to the, um- named The Tunnel to the schedule, and then removed it the day that the newspapers reported he died, and now has re-added it to the schedule. For the, for the city-wide film festival. Um, a last thing here is I went back and I had to raise Static a few- I relistened to this episode and there are places where Static, which represents sort of [sighs] things going weird in Blough City? Um, I’ve raised it a couple of extra points here, um, for a couple reasons. One, it raises when you fail the first roll in attempting an action, so if you’re trying to climb a- a fire escape quickly and you fail the first- you fail the roll, I raise static by one. If you continue to fail that roll, I don’t continue to raise static in that sequence, but the n- the next time you do a new roll and if you fail it, I’ll raise it. You use a Technique, except for Seniority, which is used to reduce Static. So that is where I had to go back in and I added a couple more Static points for that, because of using the Judge skill, the Judge Technique, which lets you know if someone is not lying to you, which, uh, which-
+
+KEITH: So all Techniques raise Static-
+
+AUSTIN [crosstalk]: All Techniques-
+
+KEITH [crosstalk]: Except for-
+
+AUSTIN: Except for the one that lowers Static, yeah. 
+
+KEITH: Seniority, got it.
+
+JACK: [sarcastic] Cool!
+
+AUSTIN: Uh huh! Like, listen, doin’ cool shit means someone might notice, right? The world might notice. And so that was Agent Seals, you used it to make sure that, I think, Jerome wasn’t- Jeromy wasn’t lying. And then, uh, also the-
+
+KEITH: What was Jeromy’s last name? It was good.
+
+JACK and AUSTIN: Gride.
+
+AUSTIN: [crosstalk] Gride. Romy Gride.
+
+KEITH: [crosstalk] Gride, right yeah. Jeromy Gride, yeah. Romy Gride.
+
+AUSTIN: And then, uh, Agent Heard, you used your Identity Technique to talk to Mike Truk and to get disguises for your- yourselves. And then finally, uh, there’s other ways to- just so you know there’s other ways to raise Static, it’s when you’re insubordinate to a lead agent or fail to perform an order, that gives you one, and then when you come into conflict with each other that’s plus two Static, that’s any time you’re making an agent vs. agent role, so disagreeing isn’t that, but once it comes to rolls, it is time- Static will start to go up. And you’ll get an additional plus one if additional agents join into that conflict. And then you gain- you gain Static if you encounter a Crab Man, if you encounter a Concern agent from the other side here, right. From the Blough side here, basically. Um, you also will get-
+
+KEITH: But it wouldn’t look like crabs to us, because theyyy-
+
+KEITH [crosstalk]: -are in their home territory?
+
+AUSTIN: I don’t know! I don’t- you know, I don’t know. I don’t know. We’ll talk about it if it happens, right? 
+
+KEITH [crosstalk]: You don’t know? Yeah, we’ll figure it out.
+
+AUSTIN: Like, it- you’re not from here. Like, I don’t know. We’ll talk about it. Because the thing to note is like, Finnegan Hands doesn’t look like a Crab Man to people here. It’s people who like, are here from the Concern, who come in via the way you come in via the Concern, who come in with the Concern’s equipment and shit. You know what I mean?
+
+KEITH: [affirming noises]
+
+AUSTIN: So yeah. Who could say. Then there’s some special causes that are mission-to-mission. In this case the ones that you have to be aware of are, um, refusing orders from the Concern directly, specifically around, like, Heard you would get- you would create Static if you saw Hector Hu and didn’t bring in Hector Hu. Right. But also-
+
+KEITH: Because it’s against what the Concern wants?
+
+AUSTIN Has- has told you, yeah exactly. In that case that would be being insubordinate to the Concern. And then, there’s also things like inquiring about unrelated personalities or agents. So if you were like, “Oh, I’m gonna start digging around about the Concern”, that would start to raise Static here. And then there’s one more point that I gave, because there’s a point at the very end where Florence gives away her real name. Some- the- Romy says “Oh, is there a Florence here”, and Agent- Agent Page, who should be going by Agent Page [Jack laughs], and not letting even her own partners know her own name, goes like, “Oh, yeah, that’s me, I’m Florence.” [laughs] Um, and so that, that added one more Static. Um-
+
+KEITH: Um, I… Never mind.
+
+AUSTIN: Okay. So, and let me tell you how this all- how that looks. And we can talk about where- where we pick up is totally up to you, we can do a little tiny time jump if you wanted to be like, “Oh yeah, it’s an hour or two later, we’re meeting at the diner” or something. You know that’s, totally fine by me. But, wherever we are, the clouds have gathered and it has begun to snow, which is not a thing that happens that often in Blough City. Bluff City gets snow in the wintertime, all the time. You know, it’s definitely a snowy place. Blough City is not. Blough City, again, has this very Los Angeles feel. And so it’s strange when the flurries start to come down. Um-
+
+KEITH: So it’s not that it’s- that it’s - It’s not that it’s cold and just not snowy, it’s just warmer?
+
+AUSTIN: I actually think- oh, oh, you’re saying, in general?
+
+KEITH [crosstalk]: Yeah well I was-
+
+AUSTIN: Yeah, in general, the climate in Blough City is different. The climate in Blough city- 
+
+KEITH: Yeah, I was thinking at first when you said it doesn’t snow, I was thinking like, oh, it’s cold but for whatever reason it just doesn’t snow, it’s just actually… yeah...
+
+AUSTIN: Oh, no. No no, it’s a warmer climate. It is actually a warmer climate, it’s drier, it’s not as- like it is like an LA climate. Cool nights, still, you know, but not- and hot days, but a drier heat than- than what it is in- in Bluff. But today, the- I- yeah, I think this is an interesting thing. I think the day is still like, it’s above freezing down here. But the snow is falling. And right now, it’s not sticking, because it’s warm. But like, snow has begun to fall in the city. [pause] 
+
+[0:21:00]
+
+Um, where do we pick up? Do we want to do a tiny little hop forward so everyone is together in case people want to like, pair off in different places again?
+
+KEITH: Yeah! Let’s do that.
+
+AUSTIN: All right, so then- Oh! Go ahead.
+
+ALI: Oh, sorry. It was just one thing- I wanted to maybe call Apollo? But that can be something separate from the group, or like, something I sneak away to do.
+
+AUSTIN: Okay, yeah, so let’s- let’s start with the group being back together [Ali affirms] I kind of set up that there’s this place called the Diner, which is a single entry- this is like a useful thing for y’all actually? [laughs a bit] Because you’re not near each other right now, right? But if you find one of these nearby, you go into it, and it is the same diner across the entire city. And so you go in, and you- you’re able to find each other there. And you get, you know, a corner booth, and you’re all able to get, you know, some coffee, and, you know, there is some- some- I kind of imagine like, 1950s- slower rock music, in the sense of it kinda being closer to R&B, you know? So Rhythm and Blues are on the jukebox, and you’re able to like take a corner booth, and it is midday — we started at the very beginning of the day, and so now I’m going to say it’s probably around noon, which means there’s kind of a lunch crowd coming in. But you’re able to get seats. Do y’all have any conversation right now? What’s- what’s happening at the table?
+
+KEITH (as ROBBER): Did you guys find anything useful?
+
+JACK (as FLORENCE): [Inhales] Well… we found a bar. We spoke to a man called, um… Jeromy. He seemed nice. He seemed… [pause] He didn’t seem like he was having the best time. The bar was pretty empty, but I guess that’s also the, you know. The time of day when you’d expect a bar… to be pretty empty. [sighs] [Heard makes an affirming noise] I got a phone call.
+
+ALI (as CHRIS): [surprised] Oh.
+
+KEITH (as ROBBER): Yeah?
+
+JACK (as FLORENCE): It was, uh… it was me? 
+
+KEITH (as ROBBER): Huh.
+
+JACK (as FLORENCE): I don’t know what- I don’t know what to tell you? Um.
+
+KEITH (as ROBBER): Well, what did you tell you?
+
+[pause]
+
+AUSTIN: Good question! 
+
+JACK (as FLORENCE): [sighs] I was giving a message. I didn’t understand it, and I don’t remember giving it. But it was my voice.
+
+AUSTIN: Is that true?
+
+JACK: Um… I think s… Uh… [deep breath, exhales]
+
+KEITH: It sounds like what you said last week, or a couple weeks ago or whatever.
+
+JACK: I mean I suppose I do remember giving it, I just don’t… [amused] Florence is not saying this, this is me.
+
+AUSTIN: No no no no no, this is- yeah, me- yeah, me and you, Jack.
+
+JACK: I suppose I do remember giving this, but I guess I don’t reme— 
+
+AUSTIN: So here’s my question, is like, one of the things that’s interesting is, we’ve kind of plotted out Florence’s life, to some degree. We know that she used to be a cop, in Bluff City. We know that at some point, she was- she was a Concern member, right?
+
+JACK: Yeah, yeah.
+
+AUSTIN: And then she-
+
+KEITH: Previously.
+
+AUSTIN: Previously. And then in Noirlandia, she wasn’t and didn’t remember being one.
+
+JACK: Yeah.
+
+AUSTIN: And then we have this series of postcard stories, which broadly are about her being instructed by Hector Hu to get back involved with the, with the agency, right?
+
+JACK: Yeah.
+
+AUSTIN: With the Concern. And here’s a little tricky thing that we did not- we did not talk about yet, which is, the call that she makes that shows up in the end of our- or the beginning of the third Masks game? The Masks intro? [Jack affirms] Hector refers to that in one of the letters. To her. But it’s before she knows what the fuck it means. Is that just time being weird in Bluff City? Did she send that before she forgot who she was? Did she send that after all that stuff, but it just got to him late? 
+
+JACK: I think… Um, so, a thing that I really loved when I played Silent Hill 2 for the first time, [Austin affirms] is that Silent Hill 2 is extremely laissez-faire about the order that things happen in?
+
+AUSTIN: Yeah.
+
+[Keith laughs]
+
+JACK: There is some- there are some incredible moments where a character reacts very normally to something truly horrifying happening, and you’re like, “That’s weird scriptwriting.” And then later, the character has like, an extraordinary reaction to something else, and you realize that what they’re reacting to matches pretty perfectly with what they saw earlier? And it’s as though-
+
+AUSTIN: Riiiiight.
+
+JACK: It’s as though the reaction was delayed by like, by an hour and a half? And like, a completely different location? It’s so strange! Like, you’re watching - it’s not just like the timeline is messed up, it’s as though bits of the script are occuring in the wrong order [Austin affirms] and in different places. And so I think- I think Florence probably… I think Florence has- 
+
+AUSTIN: God.
+
+JACK: -a memory of giving this phone call? 
+
+AUSTIN: Right.
+
+JACK: In the same way that I have a memory of a summer sometime between 1995 and the year 2000. [Austin affirms] But if you told me what summer was it, what year was it, I’d be like “Iunno, it was a summer?” [Austin laughs] Except this is really concerning for Florence, this is not a happy memory, [stammers] it’s a- 
+
+AUSTIN: Right.
+
+JACK: It is a very… painful memory, or a memory in which pain is being expressed. And so I think Florence is there like, “I can remember this thing. I don’t know if I dreamt it. I know it happened at some point.” It’s this very disconcerting feeling… And I think it’s just compounded like a million times by listening down a phone and hearing her give the message again?
+
+AUSTIN: Right.
+
+KEITH: Right.
+
+AUSTIN: Interesting.
+
+JACK: So I think that’s what she tells, uh, her boss. 
+
+AUSTIN: Okay.
+
+JACK: She says, she says,
+
+JACK (as FLORENCE): It was a message… I suppose I remember giving it a little, but it- [sighs] I was speaking down the phone, and I’d asked for myself. 
+
+KEITH (as ROBBER): But what did it say?
+
+JACK (as FLORENCE): It said that I was coming. 
+
+KEITH (as ROBBER): That’s it? [Pause] Where to?
+
+JACK (as FLORENCE): To Blough City.
+
+JACK: And Florence is just like, nodding, visibly anxiously? And just like, sipping her coffee. She’s like, there is a piece of information here [Austin laugh-exhales] that she cannot give. And she’s very aware that she has led herself down an alley where that information, i- its absence is visible? But she doesn’t really know how to respond, so I’m like- I’m thinking this very, like, Toni Collette Hereditary panicked response, just nodding and sipping her tea and being like, “Yep!”
+
+AUSTIN: Are you… are you attempting to hide this at all?
+
+JACK: Umm… Hide the fact that there’s an absence or hide the specific piece of information?
+
+AUSTIN: Both, let’s talk abstractly because this feels like, are we about to have an agent vs. agent conflict sequence? In which- not sequence, but in which Agent Heard is trying to see through… Cause it feels like that is what Keith is setting up as a player. Is like- Keith, are- is Agent Heard trying to see through Agent Page here? Yeah.
+
+KEITH: Yeahh…. I mean, I asked what it said [Austin affirms] and Page is not saying what the message was, really.
+
+AUSTIN: Totally.
+
+JACK: [laughing, mock-indignation] I think I was very clear.
+
+AUSTIN: The camera would- I think the camera would already be framing this as one agent trying to figure out if the other agent is lying to them. 
+
+KEITH: I’m squinting.
+
+AUSTIN: Right. Is that- do you know what I mean? So I think that that might be… I think that this is a roll.
+
+JACK: Okay. Yeah, I’m prepared to make this roll. [Austin affirms] I feel like- I feel like this is a conflict that it’s worth seeing on screen?
+
+AUSTIN: Me too. Especially like- It’s the beginning of the second recording, you know what I mean? So let’s immediately start to under- underline that there is- that Hector is a pain point, is a pressure point here, especially given you are the two people who- two of the three people here who knew Hector before.
+
+JACK: Oh yeah! What’s- does- do you think Chris has picked up specifically what Florence is talking about? 
+
+AUSTIN [crosstalk]: Chris, do you think— yeah.
+
+JACK [crosstalk]: Like, do you think Chris would see that absence and be like— “Oh, I know what that absence is”?
+
+AUSTIN: Chris, do you?
+
+ALI: Um— I mean…
+
+AUSTIN: What’s the camera show Chris here- as she hears this back-and-forth, you know?
+
+ALI: [laughs] I think it’s Chris like, lea- like, I think when it’s like, “Oh, I had a phone call”, it’s like leaning forward with interest, but I don’t know that like— [Jack laughs] I mean, I don’t know that she knows the Florence-Hector relationship enough to know… 
+
+AUSTIN: Right. Cause you two haven’t actually spoken through that, other than you knew that- you knew that when she was a cop, Florence used Hector as a source.
+
+JACK: Mm-hm.
+
+ALI: Right. Um-
+
+AUSTIN: Right? But you two haven’t had the time to sit down and be like, “Oh, we should get Hector. We should find him, he’s here somewhere.”
+
+ALI: Do I know… Do I know Agent Heard’s like... [laughs] conflicting interest here? Is that a thing that I...
+
+AUSTIN: You know that Ag— Umm. I-
+
+KEITH: I mean they probably know that, that [Austin affirms] that we’re supposed to capture— 
+
+AUSTIN: No.
+
+KEITH: [crosstalk] —Or kill… Kill, right? No?
+
+AUSTIN: [crosstalk] They would not have been told Hector Hu ever. Unless you told them this.
+
+KEITH: This is Deep Blue…
+
+AUSTIN: Yeah. Hector is like, Hector is off the charts deep, deep deep deep cover. Right? [Keith affirms] You’ve heard people say that Agent, that- that Agent Squire is like, Level Black. You know? [Keith affirms] Don’t fuck around. And so they wouldn’t even know… No one would have trusted them to say, “Hector Hu might be in Blough City.” They know independently of that. Which to me means that they must have talked about it, right? Because we know that- Florence knows, because Hector reached out. We don’t know— unless Hector reached out directly to Chris also, we don’t know that. So… Or rather, she wouldn’t know, so maybe there was an exchange of information. Like, did— Florence, did you share the- the postcards with Agent, um, with Chris?
+
+[0:30:23]
+
+JACK: Umm… Not at first. 
+
+AUSTIN: Okay.
+
+JACK: But then, but then as they became more… concerning? I think that I was like, “I, I have to show this to someone.” [laughs a bit]
+
+AUSTIN: Right. All right, so then, so then yes, Chris, you know enough to know that there is, I think you could suspect that… Hector is involved here somewhere, right? [Ali affirms] Is part of the stuff being elided. To do this conflict, to basically see if Agent Heard buys into your, your kind of deflection, Page, you should both roll your Instinct. Um, which is… [idle noises] What do you each have? Uhh… Keith, you have a three, and the- you both have threes. You both have threes. [Keith affirms] And neither of you has a talent in Instinct.
+
+JACK: No.
+
+AUSTIN: So it’s 3d6 for both of you-
+
+JACK: So we roll  3d6. Okay.
+
+AUSTIN: Yeah. The agent that rolls highest wins the conflict, unless… well — and we’ll get there. [chuckles]
+
+KEITH: 13.
+
+AUSTIN: Okay. So increase your Heart Rate by 13. Which I think will push you into-
+
+JACK: Ooooh, 9.
+
+AUSTIN: Okay, so. Uh, a couple things happen here. One, both of you increase your current Heart Rate. So that’s, Florence you go up to 79, Heard, you go up to… 
+
+KEITH: 96.
+
+AUSTIN: 96, wow, you had plus 13, right okay. So that puts you square in the middle of your, um… [Jack laughs] your-
+
+KEITH: I think that was my first roll!
+
+AUSTIN: Mmm… I think you had one more, because you wouldn’t have been at eighty th- you would have been at seventy, before.
+
+KEITH: Oh, yeah, yeah I did. Yeah, you’re right, I did. Yeah.
+
+AUSTIN: I think you had a 12 before. Um, so, that is… you’re in… you are in your peak now — your like, good Heart Rate — which means, Keith, you get to roll as many dice as you want to until you fall out of your, [Jack inhales and laughs, Austin laughs] your peak?
+
+KEITH: Cool. Cool cool.
+
+AUSTIN: So here I want to explain something before we move on forward. “The agent that rolls the highest wins the conflict, unless an agent wishes to escalate the conflict, in which case everyone who wishes to continue rolls again. This generates more Static [Ali laughs], one more point per agent rolling again [laughs, Jack laughs]. Agents are free to drop out of and forfeit the conflict any time before the dice are rolled. If the agents are engaged in life-threatening behaviour, the risky action roll should be used.” This is not life, life, uh, life-threatening behaviour though. So, so Static goes up to 6 immediately, and the way that you hear that, is literally, you hear it! There is the sound of, there are the sounds of-
+
+KEITH: Wait, s-
+
+AUSTIN: -trumpets and trombones, and tubas, and drums out in the street. Outside the diner. [exhales] And a marching band goes by. And above it is a giant float on strings. Um, and… what is the float of? What is like, the most, like so benign it’s creepy, holiday float that you can imagine? Is it just like-
+
+KEITH: Businessman.
+
+AUSTIN: Just a sideways businessman? [Jack, Ali, Keith all laugh]
+
+KEITH: It’s just, yeah, it’s a businessman who’s got, yeah. It’s just a - yeah.
+
+JACK: [laughing] Wait. What is going on in America?
+
+AUSTIN: Holding a shopping bag? Holding a shopping bag.
+
+KEITH: It’s a- it’s two sep- Yeah, it’s the pe- look, it’s the, it’s us! We’re celebrating! [Austin affirms] And that’s our, that’s our visage, our- our celebration.
+
+AUSTIN: So that is the first one, that is the first thing you see here from the parade! Which is not scheduled for today. So that is the Static going up.
+
+JACK [crosstalk]: Just like snow around the businessman-
+
+KEITH [crosstalk]: Sorry, I- I- think I missed- I thought that the- I thought Static only goes up if I chose- if someone chose…
+
+AUSTIN: No, it goes up as soon as there is a conflict roll first, and now it would continue to go up if… Florence, if Agent Page says, “I want to escalate. I want to continue.”
+
+JACK: I do not!
+
+AUSTIN: And here’s the- this is like, a neat minigame here, because this is a for-real game of chicken, especially with your lead, with your lead-superior officer, your superior agent or whatever, because, if I’m reading the rules right, Jack could say, “I want to escalate”, at which point, Keith, you could say, “All right, let’s escalate”, and then you would immediately get two more Static [Jack laughs], and you’d both have to roll again, and your Heart Rates would continue to go up. Or, Keith, you could say “No, I’m not gonna escalate, you win”, at which point no one’s Heart Rates go up [Keith whistles] and the Static doesn’t, but Jack wins the encounter, because he’s* played chicken harder than you. [Laughs]
+
+JACK: Wow….
+
+KEITH: Willing to risk more. Yeah.
+
+AUSTIN: Which is a neat mechanic, especially with your lead agent!
+
+KEITH: That’s great.
+
+AUSTIN: Who is the one who’s in charge of keeping static down! You know?
+
+KEITH: I- I like that. And I also- I also like that, um, like these are all, these are all rules of the game that Heard is a player in, and has been.
+
+AUSTIN: Yes! Like literally, yes.
+
+KEITH: Like, I see, like I know, like I see the parade and like, you can, y’know, “Oh, maybe the rookie agents understand what’s happening, ‘cause they’ve learned about it”, or just because it’s like, “Well we did this thing and now there’s this weird thing that’s happening as a result,” but like, I know what’s going on.
+
+AUSTIN: Right. This is the moment when the- the Matrix agents see the brick wall instead of the open doorway. [Keith affirms] It’s like ah, fuck, it’s changing. Or when, y'know, whatever happens in Inception that does the same types of shit, of just like, the world around you has changed. That indicates that something in this dream is slipping in a weird direction. So yeah. Heard knows that this is- Heard knows that when agents have conflict, the world around them fucks up.
+
+KEITH: Right. And-
+
+AUSTIN: But in this case you’ve won this encounter [Keith affirms], and… Agent Page is not pushing back. So, what’s that look like? How- Florence, how do you- how does your guard fall apart here?
+
+JACK: I think we physically see Florence kind of deflate a little. There’s been an aspect of this phone call that she has been able to treat with some level of professionalism?
+
+AUSTIN: Mmmm.
+
+JACK: She’s been able to go, “I experienced a strange thing in Blough City.” 
+
+AUSTIN: Right.
+
+JACK: But then, as soon as, as soon as the tiniest grain of scrutiny is placed on, on what it is, and she realizes her mistake in reporting it as part of, you know, regular business [Austin affirms], we just see her shoulders slump [Austin laughs slightly]. Just, visibly, visibly deflated. 
+
+KEITH (as ROBBER): What was the message?
+
+JACK (as FLORENCE): It was to Hector? I- It was to me, the voice asked for me. But I was speaking in the message, I was speaking in the message to Hector. I- I mean, I mean, Agent Squire. And I said that I was coming.
+
+KEITH: Wait hold on, does Florence know that? I thought that that’s what we- what Florence didn’t know.
+
+AUSTIN: No, Florence does know that, but it was the thing of like, it’s a painful memory but it’s a vague memory, doesn’t really know when she sent that message, but does know-
+
+KEITH [crosstalk]: Got it, oh, okay. Right, right right right right right.
+
+AUSTIN: -what it was. Yeah yeah yeah. But this is, this is definitely news to y- umm, no, you knew that they were-
+
+KEITH [crosstalk]: I would know.
+
+AUSTIN: - in contact, Heard. You knew that they were already in contact. This is her… this is Florence being like, “Oh yeah, we were in contact.”
+
+KEITH: Admitting the… yeah.
+
+AUSTIN: Yeah yeah yeah.
+
+JACK: Uh, I don’t know! There’s a play here that I don’t know if I’m willing to make, because I think it would result in an esc- in a- what did we call it, conflict?
+
+AUSTIN: Conflict, yeah.
+
+JACK: Where it’s just Florence playing this is off as, a weird thing happened to me? But I think [Ali interjects] her presence- oh, sorry, go on, Ali.
+
+ALI: No, it’s f- I, I was gonna say if there was a way for me to interfere or escalate. Like, sideways, by being like, “Does this have to do with this mission?” 
+
+AUSTIN: I think you can just make that… I mean, let’s, let’s, I think you should jump in and do that and see what happens-
+
+ALI: Okay.
+
+AUSTIN: -but let’s get the immediate moment of the deflation beginning to happen first, do you know what I mean? [Ali and Jack affirm]
+
+JACK (as FLORENCE): But we also spoke to Jeromy, and he talked about Blake Blossom’s films. And I feel like that- can be written down as a success? Sir? We learned that he makes these, these nature films, these beautiful nature films. Really, I would say that the… [faltering nervously] the call towards the end of our interview… Really, I would describe that as secondary. Umm, in terms of the information I feel is important for us as a collective.
+
+KEITH (as ROBBER): Right. So, primarily a description of a movie, and then a message... from you to Hector. 
+
+JACK (as FLORENCE): Well, I’m sure Agent Seals could corroborate. 
+
+KEITH (as ROBBER): Seals?
+
+AUSTIN: Agent… Agent Seals? Yeah?
+
+JANINE (as MAGGIE): [sighs] Yeah. It… [sighs]
+
+KEITH (as ROBBER): Okay.
+
+JANINE (as MAGGIE): Look, it didn’t- it didn’t seem like a, like a thing, you know. She was on the phone for a bit, and then she was off. Seemed on the level to me.
+
+KEITH (as ROBBER): [deep breath] Seems on the level to me too, okay. Let’s… [Jack huffs] 
+ 
+AUSTIN: Ryder, you, you’re just gonna let this one ride out? That was not an intentional…
+
+ALI: Yeah, I mean, I guess it [laughs a bit] passed already. 
+
+AUSTIN: Yeah.
+
+ALI: I think she says,
+
+ALI (as CHRIS): Speaking of phone calls [laughs a bit, Austin laughs].
+
+ALI: And then gets up.
+
+AUSTIN: Yeah. [Ali laughs]. Keith in the chat says, “Do we know the Static levels or is that hidden?” You know it, because it’s public, it’s in front of you, it’s a Static Six right there-
+
+KEITH: Sorry, no, I mean, do we know like, where the breaks are?
+
+AUSTIN: Five-
+
+KEITH: When does nine become the next biggest worst thing?
+
+AUSTIN: Ten.
+
+KEITH: Ten? Okay.
+
+AUSTIN: It’s Five, Ten, Fifteen, Twenty. Tw- 
+
+KEITH: Got it.
+
+AUSTIN: And Twenty is wild. [Jack laughs, Keith affirms] What I’ll say is like, as agents, you wouldn’t say like, “Oh this is like a Static level Six.” You would say like, “It’s- it’s starting to go.” Do you know what I mean? Like, maybe if a doctor sat you down and said, “On a scale of Six to Twenty,” [Jack laughs] or “From One to Twenty, where would it be?”, you’d be like “Eh, Five to Eight. Somewhere in there. Five to Ten, somewhere in there.”
+
+KEITH: Right.
+
+AUSTIN: But like-
+
+KEITH: But it’s Static and we understand it in terms of that there’s Static-
+
+AUSTIN: Yes.
+
+KEITH: Like, Static.
+
+AUSTIN: Yes. And you know that things can go truly strange once you get over Fifteen [Keith affirms]. Y- Really, even once you get over Ten, it’s like, “Wow, this is the strangest day I’ve ever had in my life!” Once it’s over Fifteen, it’s like, “This is not a real place. This is fake, this is all truly wrong.”
+
+KEITH: Yeah, it’s fucked up cause we’ve ba- we basically haven’t played this game yet and we’re at Six.
+
+AUSTIN: Gettin’ going! All right, so-
+
+KEITH: [high pitched] Does any- does anybody have Seniority?
+
+AUSTIN: No! Uh-uh.
+
+KEITH: Cool.
+
+AUSTIN: Achilles Apollo, or sorry, Agent Ryder, you going to go make that call to Achilles Apollo?
+
+ALI: Yeah.
+
+[0:40:03]
+
+AUSTIN: Okay! So you just like, sneak away to like, a little phone booth. There’s like a cool corner, or not - there’s like a - you know where the bathrooms are - I almost said, do you know where the bathrooms are in here? [Ali laughs] But you don’t, because this is a fictional diner we’re inventing. But there’s a little, there’s like a little side hallway that goes to the bathroom, and has a little, like a walk-in phone booth in that hallway. So you can close the door behind you and everything. You just give him a ring. Um, and it rings a couple times, and then he picks up, and you can tell he’s kind of sleepy? [chuckles, Ali laughs] He’s just waking up. He’s like,
+
+AUSTIN (as ACHILLES): [sleepy wake-up noise] Unhh… Who is it?
+
+ALI (as CHRIS): Achilles? It’s, it’s… Miss Ryder.
+
+AUSTIN (as ACHILLES): I’m Achill- oh, okay. Sorry. I was a little slow, I had a joke… [deep breath] How you doin’, Miss Ryder?
+
+ALI (as CHRIS): Umm… I had something that I wanted to talk to you about. Do you have a minute? 
+
+AUSTIN (as ACHILLES): Mm… what time… Yeah, I don’t gotta be anywhere, yet. You in town for the festival? What are you in town for?
+
+ALI (as CHRIS): [laughs a bit] I’m- I’m in town attached to the festival. I’m, um, doing an investigation. We’re trying to…
+
+AUSTIN (as ACHILLES): Yeah, okay. 
+
+ALI (as CHRIS): I… found something of yours? Or… I found something you’d be interested in, and… 
+
+AUSTIN (as ACHILLES): Well, which is it? Cause I, y’know, I travel light. I don’t keep much.
+
+ALI (as CHRIS): Um. I mean it, it depends on how you feel about this item- I- I found a pair of car keys.
+
+AUSTIN (as ACHILLES): Ohh, car keys, yeah, I don’t, I don’t… you know, I definitely wouldn’t say on a phone that I own a car. So. Uh…
+
+ALI (as CHRIS): Mmm.
+
+[Keith laughs]
+
+AUSTIN (as ACHILLES): Is what I… So it couldn’t be my car keys. Y’know. I don’t have a- you can check the registry, I don’t own a car. [Ali interjects] I sometimes drive Mr. Whitaker’s car, or, or someone else’s, here or there, is the thing, but that ain’t mine.
+
+ALI (as CHRIS): My goodness! Oh, th- this must be a mixup. In my phonebook, I, I… [deep breath] We’re still going to meet up later though, right? 
+
+AUSTIN (as ACHILLES): Yeah, uh… yeah. Let me, um…
+
+ALI (as CHRIS): For drinks, before the, the festival. You promised.
+
+AUSTIN (as ACHILLES): Yeah! Yeah. I know a spot, it’s… you know, there’s a little, there’s a car park, and across from that is- the southern car park. Go there, go across the way, there’s a little bar. You meet me there.
+
+ALI (as CHRIS): Sounds perfect.
+
+AUSTIN (as ACHILLES): Bring whatever you got.
+
+ALI (as CHRIS): Mm-hm.
+
+AUSTIN (as ACHILLES): All right.
+
+ALI (as CHRIS): See you later.
+
+AUSTIN (as ACHILLES): Peace.
+
+AUSTIN: All right.
+
+ALI: Okay. [laughs]
+
+AUSTIN: Rest of you, y’know, the server comes over and gives you the bill, and here you’re able to pay… And, I’m curious, what is now? What is next? It sounds like, Ryder, you’ve set up this meeting with Achilles later, a little bit. I’m gonna say again it’s like early noons, or early afternoon. And so, you have some time before that. That festival is probably, 7 pm is when the red carpet goes out, you know. [Ali affirms] And so maybe meeting Achilles at 6 makes sense. 
+
+ALI: Yeah!
+
+AUSTIN: Or a little before, I- whatever.
+
+ALI: Yeah, either way.
+
+AUSTIN: What do you do before now? What other leads do you wanna track down here?
+
+JANINE: We should probably go to the Thicket, right? The-
+
+AUSTIN and JACK: Yeah.
+
+JANINE: -filming place?
+
+ALI: Oh, yeah. Where the body was found.
+
+JACK: Yeah.
+
+KEITH: Mm-hm.
+
+JACK: To try to track down- well, yeah, also, the body. And the classic, Sherlock Holmes consulting detective thing, right, of like [laughs] go to the scene of the crime! And also, like, we could maybe see if some people were there during the filming, or know anything about the film that was shot.
+
+JANINE: Mm-hm.
+
+AUSTIN: Totally. I want- Two things I want to note. One is that the… I’m just double-checking with the dossier here. Okay, yeah, so his body was found two days ago, so he would still be like, you could probably still find the, the thing cordoned off. The… where the body was found, for sure. But, as a reminder, it was found inside of- the body was found two days ago, but his body was found while draining a pond at a new housing development, which means that like, the crime scene-
+
+JACK: Ohhhh.
+
+AUSTIN: -is a drained pond. 
+
+JACK: Mm-hm .
+
+AUSTIN: Not a… not like, a place where you’ll find like, a bullet next to where the body sketch is.
+
+JACK: No.
+
+AUSTIN: Do you know, I want to make sure that that’s what that is. Two is, I need to know how you’ll get there [laughs]. You’ve done- you’ve been mostly in the city so far, and so like yeah, there’s mass transport, there’s buses, there’s stuff like that. But, this is, like, if we’re doing the LA comparison, you’re going out to the suburbs, and you can take buses out some of the way, right.
+
+JANINE: T- taxi. 
+
+AUSTIN: Okay.
+
+JANINE: Can we take a taxi?
+
+AUSTIN: You can… you can give me a- that is an Asset, probably. Or an Access roll. [Janine hems] Whoever’s gonna- whoever’s gonna take care of getting y’all out there, that would be an Access roll. So who’s going out there, and what are the other folks doing? Or are you all going out there together? Also, I guess, Lead Agent Heard, do you have feelings on this stuff?
+
+KEITH: Umm… [sighs] I- I think because we’ve already got one in the chamber for later, for the… with Achilles Apollo [Austin affirms], I think it would be fun to do all- all four of us.
+
+AUSTIN: Okay. Sounds good.
+
+KEITH: Sorry, Keith thinks it would be fun to do all four of us. [Ali laughs]
+
+AUSTIN: Yeah, yeah, I gotcha. All right, then yeah.
+
+KEITH: I- [laughs] I think that… Sorry, Heard thinks that like, “Uh, maybe I need to be watching all three of these people for the next little…” [Jack laughs]
+
+AUSTIN: Ahhhhh. [Ali laughs] Okay, that makes sense too. Totally, totally, totally. All right, then someone give me an Access roll. I also want to say, this is one of those games where it is totally chill to kind of, metagame out who has the best roll in a thing? Like, [Keith and Janine affirm] when you’re a team of secret agents, one of you handles transportation, you know? Like, that’s a thing that happens. [Keith affirms] I think in this case it doesn’t matter, because all of you have three in- or no, I guess three of you have three in Access-
+
+KEITH: Everyone but Florence has three.
+
+AUSTIN: Yeah. But no one has a special talent that makes it extra good or something like that, so.
+
+KEITH: Yeah.
+
+AUSTIN: Go ahead and give me an Access roll. Someone. Tell me who. [laughs]
+
+JANINE: Maybe whoever’s Heart Rate is lowest.
+
+AUSTIN: Mmmmm, there’s a good idea. Whose Heart Rate is lowest? Ali, Chris Andrews aka Agent Ryder, is at 111-
+
+ALI: Ohh.
+
+AUSTIN: -which is in your, your Target Range of 88 to 143. Maggie, Agent Seals, Janine, yours is 100, which is in your-
+
+AUSTIN [crosstalk] Target Range of 93-138.
+
+JANINE [crosstalk]: I don’t remember hitting my Target Range, but.. Okay.
+
+AUSTIN: You’re at 100, so-
+
+JANINE [crosstalk]: Yeah, I just don’t remember.
+
+AUSTIN [crosstalk]: You really did.
+
+KEITH: Umm, it would be me who has the lowest, then.
+
+AUSTIN: Yeah, you are at 96 which is in your Target Range of “ninety oh through one hundred and four seven”, so, great. Thanks, for that.
+
+JACK: And you can roll as many dice as you want, right?
+
+AUSTIN: As many dice as you want. And Jack-
+
+AUSTIN [crosstalk]: Florence Slowly-
+
+KEITH [crosstalk]: Yeah, all of us can. All three of us can.
+
+AUSTIN: You are- you are the lowest in Access, but for the record, you have 79 Heart Rate, which is below your peak of 85-127. 
+
+JACK [crosstalk]: I’m a good liar.
+
+AUSTIN [crosstalk]: So yeah.
+
+ALI: Umm… [Austin chuckles] Just one question before we move on.
+
+AUSTIN: Absolutely.
+
+ALI: If the body was found… do we know any information about like… do we have access to like a coroner here?
+
+AUSTIN: Y-that would be an Access roll, [sighs] right? That would be like-
+
+ALI: Okay, okay [big laugh].
+
+AUSTIN: So, so like… I’ll go over these stats one more time, just so that- you know, it’s been- it has been a couple weeks since we played. [Ali affirms] Not as long as it’s been since like, between like Masks sessions, or anything? [laughs] But. You have three stats: Force, Intuition — so that’s, is that, no, sorry— Force, Instinct, and Access. Force is doing things that are… I’m now just gonna read from the book, that way we get it right. “Force: Agents use Force to interact with Blough City. It encompasses all physical activity with personalities, hostiles, agents, and with the city itself. Mystery agents are direct and focused, able to push through physical and mental fatigue and accomplish their goals. No matter their physical level of strength or stamina, they’re able to perform exceptional physical feats in Blough City. They can also be brutish, short-tempered, and quick to anger in times of stress. Instinct defines how an agent perceives Blough City. It covers, perception, reaction, and intuition, and is primarily used when the agent relies on their judgment or experience to gauge a situation. Mystery agents are sensitive to their environments and are trained to see care- to see carefully, observe and react to those environments. They rely on hunches as much as cold hard facts, and are able to make critical decisions without hesitation. Of course, this can also lead to impulsive behaviour and paranoia in unfamiliar situations, especially when those instincts are misguided. And Access, which determines the agent’s ability to requisition material and information from Control. It represents personal charisma, resourcefulness, and pull within the company. It also describes the agent’s familiarity with the map and affects the agent’s ability to enter and leave Blough City. Mystery agents are adept at navigating the bureaucratic maze of the - of the Concern, and at-” I said the Company before, but that should be the Concern for us, “-Bureaucratic maze of the Concern, and at procuring equipment and information for missions. They gain a feel for the terrain of Blough City, and this can prove beneficial when travelling or when entering or exiting. Agents may feel disconnected from the surrounding after spending too much time in Blough City. Other potential hazards include cynical attitudes towards management, a feeling of hopelessness as case files stack up, and petty political squabbles with their peers and superiors.” So this is definitely Access. And I think, finding a, a coroner- coroner or something would also be Access. If you knew- if you like, went to the police station and were like, talking to people? That would be Instinct, but just being like, “Oh yeah, I know someone, I can call on someone” basically would be Access, for sure. Or, being like, “Hey, Control, can you put me in touch with someone who” blah blah blah blah blah, would also be Access.
+
+ALI: Okay, yeah. Cause I was wondering, as an agent, if, y’know, that would be part of the… y’know.
+
+[0:50:02]
+
+AUSTIN: If you were working in- If you were one of the Bluff City agents working in Bluff City, you definitely have people to call on. Instantly. [Ali affirms] I wouldn’t even make you roll on it, do you know what I mean? Like that would be, “Oh yeah, this is your home turf.” Here [exhales], it’s dicier. Because this is not your home turf. Even though you’re still part of the Concern, like… it’s like [pondering noise] it would be like going to… Okay, did you ever see… you ever see like, any- any movie or TV show where there is inter-departmental, like beef between the state police and the local police, or the federal government- like the FBI and the local detectives? [Keith affirms] It would feel a little bit-
+
+KEITH: Anything that’s ever had both of those things.
+
+AUSTIN: Uh huh. Yeah, it’s anything that has those two things. Or, or, you know, The Mentalist is one of my favourite examples of this, ‘cause it goes seven- it goes both directions in seven ways. Like, all the way up to like, FBI, and all the way down to like, the local cops hate the city cops hate the FBI- or, hate the state police, hate the state detectives, hate the- the prosecutor. Like, it’s great. Ugh. What a good show. Anyway. So yeah, I think this would be an Access role, to find- to know a coroner, who you… trust enough to meet with out there, or, or in an office somewhere. I think for the sake of like, brevity and focus, it would be cool to meet someone who is- who like, meet someone at the crime scene. Do you know what I mean?
+
+ALI: Yeah, I was gonna say like, even just Chris like, in the back of a bus, twirling her weird watch, and like, having a keyboard in front of her that isn’t a real keyboard? Or like, super is? Is like a tiny portable typewriter [Austin affirms] that she just brings on missions or whatever? Just being like-
+
+ALI [crosstalk]: I should get in touch with someone while we’re on the way.
+
+KEITH [crosstalk]: Ummm-
+
+AUSTIN [crosstalk]: God like a... a briefcase typewriter type situation that you’re able to bust out?
+
+ALI: I think that the- okay, so- sorry, to-
+
+JANINE: Don’t stenographers have like, little half-typewriters?
+
+AUSTIN: Mm-hm.
+
+KEITH: Yeah, I- so I had, um, I don’t know if you guys remember when I had that Buick with the touch screen in it? 
+
+AUSTIN: [laughing] Mm-hm.
+
+KEITH: One of the things that I was trying to do that I got- I don’t know, I didn’t- I didn’t get nowhere with it, but I was trying to put a second screen in where the tape deck is?
+
+AUSTIN: I remember. Yeah.
+
+KEITH: Um, and I- One of the things that I bought was like an old, like, just the number pad part of a keyboard? Like an old IBM keyboard. Um.
+
+AUSTIN: Real quick-
+
+KEITH: [laughing] Shooting out I-9 messages on an IBM keyboard would be very funny.
+
+AUSTIN: Yeah. Ali, it sounded like you had something, I just want to know what you were where you were, what you were thinking of...
+
+ALI: Yeah, there- um, I was just pulling up the link. There’s like, specifically… [laughs] Caboodles makes a make-up case-
+
+AUSTIN: Mmmmmmmm.
+
+ALI: That’s like, it’s really thin, and it’s long, and it like, opens up and there’s like, another shelf in there? [Austin affirms] And I’m always- I’m almost imagining something like that, where the keyboard’s the bottom part and then the top part is like, ink and where the like, y'know, whatever bit is. And then the top is like, one of those screens that Keith was saying? [Austin affirms] It’s just very portable. [Laughs]
+
+AUSTIN: Yeah, I’m into it. And I- here’s what I like- I like this… I didn’t… Stenography-
+
+KEITH: Is that a lawnmower?
+
+AUSTIN: Hold up, one sec-
+
+KEITH: Oh, it’s a- [starts laughing, Ali laughs]
+
+JANINE: [incredulous] It’s not a lawnmower.
+
+[Keith laughing hard]
+
+AUSTIN: Jeez. Yeah, so this thing- this thing that you just linked, Janine, is like this stenographer keyboard. I didn’t realize that they were like- they don’t have just keyboards, they have like-
+
+JANINE: I mean, that’s part of why stenotype is a thing, right? Like, one it’s faster, like every stenographer has their own like, weird code kind of thing?
+
+AUSTIN: Right.
+
+KEITH: It’s a shorthand, like-
+
+JANINE [crosstalk]: But also, yeah, it’s-
+
+KEITH [crosstalk]: It’s like syllabic shorthand. [Janine affirms]
+
+AUSTIN: This thing is just like-
+
+JANINE: And even the actual transcripts of it are like, very skinny little like, receipts. 
+
+AUSTIN: Right. [Ali affirms] Umm, this thing I just linked it’s like, one two three four five six seven eight… it’s like twenty keys total on this thing? But presumably there is some system by which-
+
+JANINE: Do you have one where you can see the letters on it? ‘Cause I found a picture that has the actual like-
+
+AUSTIN: No, that would be great, if you have one of those. I’m super curious.
+
+JANINE: It’s small, but it’s, like-
+
+AUSTIN [crosstalk]: Oh, wooooow. That’s really cool.
+
+JANINE: -T P H, there’s like an A O E U. It’s like very basic.
+
+KEITH: No I. That one’s superfluous.
+
+AUSTIN: I love this one I’m just putting in now, because it has a bunch of like- someone has just taped on letters that have fallen off, it’s just falling apart [Ali laughs], I love it. It’s so good.
+
+KEITH: Yo, buy- hey, buy your stenographers new keyboards!
+
+AUSTIN: Yeah! [Ali laughs] Courts! Fuck off, I swear. Anyway. [Keith laughing from a distance] Cool!
+
+ALI: Yeah, it’s one of those, as if you could fold it up into a makeup-type bag.
+
+AUSTIN [crosstalk]: All right. So I’m gonna need two Access rolls. I’m gonna need an Access roll to get you all out there, and then I’m gonna need an Access roll for you to contact some sort of coroner or some other type of person who could help out here. 
+
+KEITH: Okay. Sorry. So how many Access rolls is this total?
+
+AUSTIN: Two. Two. Someone’s getting the car basically, someone’s getting you a ride, and someone’s getting you a, uh… Or, you could also call in a different favour, right? That’s the other thing you could do here, is like- [Keith affirms] You know people here, you all have a connection with people who are in this city. Um, being able to be like-
+
+JANINE: I’m not calling Finnegan to get me a cab [laughs].
+
+AUSTIN: Okay. Well, or to drive you, is what I was going to suggest, but that’s- that’s fine too.
+
+JANINE: That seems awkward too.
+
+AUSTIN: All right. Then yeah. So then, two Access rolls-
+
+AUSTIN [crosstalk]: One to do-
+
+KEITH [crosstalk]: I’m- Yeah, I’m willing to make an Access roll here, 
+
+KEITH: I know- I know- there’s a car service that I trust.
+
+JANINE [crosstalk]: I’m also gonna…
+
+AUSTIN [crosstalk]: All right, so yeah, so you-
+
+[pause]
+
+JANINE [crosstalk]: Make one.
+
+KEITH [crosstalk]: And they’re in- they’ll do it.
+
+AUSTIN [crosstalk]: That is a 16, nice- Wait, wait wait wait, you should only be rolling three, not four. 
+
+KEITH: I thought I could roll as many as I want.
+
+AUSTIN: Oh, you’re right! You’re in the fuckin’ zone. My bad. Yeah, you totally can. [Keith affirms, Ali briefly interjects]. And… you both succeed, okay. Wait, so wait, who, Janine, you were doing which?
+
+JANINE: The other one. 
+
+JANINE: Whatever the- coroner? Like-
+
+AUSTIN [crosstalk]: I thought that- I thought Chris was doing that, because of the- the… weird...
+
+JANINE [crosstalk]: Okay. Sure. Then I can do that… [trails off]
+
+KEITH: Oh, I thought you said that- that Chris didn’t need to roll to do whatever... she was doing.
+
+AUSTIN: No, nonono. Well, she was trying to get a coroner, via weird stenographer type. Right? [Janine stammers]
+
+KEITH: Ohh, I thought that this was just setting up a meeting that you said that she- Oh, no, never mind, that was when you were describing if we were in Bluff, we wouldn’t even need to roll, 
+
+KEITH [crosstalk]: And then said something else. Got it.
+
+AUSTIN [crosstalk]: You wouldn’t even need to roll, if, yeah, yeah yeah yeah. [Ali affirms] So let’s let Chris do it here. Just, uh…
+
+ALI: Okay. Cool. Thanks. That’s a fail, anyway, I think, yeah… [trails off]
+
+AUSTIN: That’s a bad roll, that’s a seven. Real- Let’s resolve these in order. So, um, first and foremost, Heard, raise your Current by 16? [laughs]
+
+KEITH: Yeah, yeah, just doing the math.
+
+AUSTIN: Which is a lot.
+
+KEITH: 106, plus six, 112?
+
+AUSTIN: 112. Still in that zone, um, for now. But you succeed. Chris… you also succeed.
+
+ALI: Oh, do I?
+
+AUSTIN: Oh yeah. Totally [Ali laughs]. A hundred percent. Unless, you wanna actually succeed. So I think you send in that request - this is like a typed request that you’re sending in? What is this? Is it a phone? Like is it a combination of things?
+
+ALI: I think it might be a combination of things. ‘Cause like, I have the… Caller ability? And I think we said last time [Austin affirms] that it was like, part of the way that it works is that it like, connects to the actual like, phone lines here? [Austin affirms] Because phone operators are still a thing in this like, timeline or whatever?
+
+AUSTIN: Totally. So here’s the thing that will happen if you f- if you let this fail stand. One, I’m gonna raise Static. Again.
+
+ALI: Okay.
+
+AUSTIN: Because you failed a roll.
+
+KEITH: Either way, right?
+
+AUSTIN: Either way, that- it goes up by one. It goes up to 7, and I’ll get to that in a second too. One, here, is… so they- you like, dial in to connect to the Concern and make this request. And you can hear the sound of - and this is if you let the fail stand - you will hear the sound - or you won’t hear this, the audience will - the sound of - or maybe it’s just a closeup of the hand plugging in an extra connection? Like the operator also connecting you to someone else, basically? Or maybe you call in and you go, “Can you connect me to A1 please?” And they go, “Right away!” And instead of connecting you to A1, they connect you to B1, or to A2, or whatever. Um, and so- or you go “A1 green”, and they go “Right away!” and they definitely skip over green and go to yellow. Um, so that is if you let this fail - which you rolled a 7 - stand. Um- And also your Heart Rate goes up, did you already raise it?
+
+ALI: Yeah, I did.
+
+AUSTIN: Okay. So what do you want to do?
+
+ALI: [laughs] Wh, what are my options to not fail here?
+
+AUSTIN: You can reroll.
+
+ALI: Okay. And that’s it?
+
+AUSTIN: You can… you can always reroll, and the thing is you have to reroll all the dice… um…
+
+ALI [crosstalk]: Oh, and then it affects my Heart Rate. Okay.
+
+AUSTIN [crosstalk]: And continue to increase your Heart Rate, yeah.  You can roll more than three dice as a reminder, because you’re in your Target Heart Rate.
+
+KEITH: Ugh, so now the choice is either let the fail stand or potentially roll four more dice, five more dice?
+
+AUSTIN: Whatever she- whatever she wants.
+
+[Keith whistles]
+
+AUSTIN: Uh, letting it stand, I will say, could be fun. But. You know. Up to you.
+
+[Ali laughs]
+
+KEITH: Isn’t it always though?
+
+ALI: Um… Yeah, I don’t know, I guess this is such an unconscious thing. I think if it was like, something where she was in front of somebody, right?
+
+AUSTIN: Right.
+
+ALI: Um, and like, had a more direct interaction with her failure it would be like, “Oh, I’m an agent and I can fix this.” But it’s just like, on the back of a bus trying to- [laughs]
+
+AUSTIN: Right, right. I think you’re in a car service. You’re in a cramped- because Heard, you said you knew a car service, so I think you’re in like a big, bulbous mid-century sedan. But it’s one of you up front, there’s a driver, and then there’s three of you cramped in the backseat with Agent Ryder with this like, weird stenography phone contraption [laughs]. So yeah. Good chance you would n- And also outside, you’re like driving past this fucking parade that — and this is the Static — it keeps growing? You keep seeing more of this parade, like, you take a turn, you come off the- you go onto the highway, and like, “Ah, we’ll finally get away from that parade.” You get off the highway, and the parade is still happening. In a different district. And you’re pretty sure it’s the same people. Um, so like, easy to imagine there’s like, y'know, tubas playing, y'know, Silent Night or whatever as you’re— that’s the wrong one. I think it’s like, what’s the one-
+
+KEITH: What if it is this super brass-heavy Silent Night? [laughs]
+
+AUSTIN: Yeah. Uh huh. Yeah. Let’s do it. Silent Night brass. I bet it’s great. I bet it’s terrible.
+
+KEITH: And O Tannenbaum.
+
+AUSTIN: Right. It’s just slow. As a giant businessman floats through the sky.
+
+[Keith laughs]
+
+AUSTIN: Um, so yeah, if you want to let it ride, that’s- I’m good with that.
+
+ALI: Yeah. [amused exhale]
+
+AUSTIN: So what’s the request you put in?
+
+[1:00:19]
+
+ALI: God, I- it’s so tough because I know this is a failure now.
+
+AUSTIN: [laughing a bit] Uh huh. 
+
+ALI: But I think that it’s just like a standard like, as if I was… I think that I have enough knowledge to know that I am like- there are Concern agents on both side of the city? 
+
+AUSTIN: Yeah.
+
+ALI: And then trying to be like- it’s as if I was like, filling in a web form that’s like, “Yeah, I’m definitely, I can have access to this”, and just like-
+
+AUSTIN: Uh-huh.
+
+ALI: -hoping that the person who would look close enough wouldn’t see it? Like-
+
+AUSTIN [crosstalk]: Gotcha.
+
+ALI: Checking it like a- a child’s ticket to a movie theatre or whatever? [laughs]
+
+AUSTIN: Totally. Totally! Yeah. Yeah yeah yeah. Love it. Okay.
+
+KEITH: I’ll tell you this- they won’t notice that. 
+
+AUSTIN: So they get a- [laughs, Ali is still laughing] yeah. Good. So you get a confirmation. I think the confirmation is just a noise? It’s like, in your headset? Your like, little, one-ear headphone that comes up out of your watch. And it goes just like, “ding dong ding!” [high low middle] which means like, “Yep! Concern- The Concern’s received it [Ali chuckles], and you’ll have it coming to you soon!” Um, or “They’ll meet you there!” basically. [Ali affirms] And the rest of the ride I think goes off without a hitch, unless someone has other stuff they want to do in this cramped car.
+
+JACK: Doooo…. Does the taxi driver talk?
+
+AUSTIN: Not at all. This is-
+
+JACK: Completely? This is-
+
+AUSTIN: A- Agent Heard succeeded on, on his Access roll? So yeah, this is- a trusted car service, they will not say anything, they will not repeat anything. Unless someone fails a roll here to open that door again, I will let it ride.
+
+JACK: Right. Yeah. I just didn’t know if we had Blough City taxi driver conversation.
+
+[Austin sighs]
+
+KEITH: No, these guys are good.
+
+AUSTIN: Not these guys. No. Uh- unless you open the door. You know?
+
+JACK: No, I think after her- after her experience at the diner, Florence is just sort of like, visibly sitting there with her mouth shut?
+
+AUSTIN: Yeah. Um, I think what we do get is, there’s definitely a moment when you get off- you get off the highway and what you do get is the driver, who is… She is, uh, mid-50s, white, with like, orange-brown hair and big aviator sunglasses and a little cap, and… She almost looks like, um, a… What is the… what is the, why am I blanking on this? Um, a... a flight attendant, I guess? [Jack affirms] But is just like dri- I think, maybe just straight up is a flight attendant in, in outfit, right? Um, gloves-
+
+JACK: God, that’s good.
+
+AUSTIN: -has like a little- except, instead of the pin that has the wings, it’s a pi- it’s a pin of the car she’s driving? Just the silhouette of the car she’s driving? [Chuckles, Ali starts chuckling too]
+
+JACK: There’s something so good and spooky about Blough City being a place where like, occasionally people will show up in only tangentially related uniforms?
+
+AUSTIN: Oh yeah. Yeah.
+
+JACK: Like, you’ll go into a florist’s shop, and the person will be wearing like, a butcher’s smock? [Austin laughs] And it’s not because it’s spooky, it’s not because it’s like-
+
+AUSTIN: Right!
+
+JACK: -they’re a murderous butcher, it’s just like, “this is the clothes that a” [laughs]-
+
+AUSTIN: “That a florist does!” Yeah! Um.
+
+KEITH: Also, most butchers are not, like, murderers.
+
+AUSTIN: [laughs] No. Good note.
+
+JACK: I would say rounded [laughs]- rounded, 100% of butchers are not murderers. [chuckles]
+
+AUSTIN: Um. [laughs] It’s good statistics work.
+
+KEITH: We could round that up, though. We could round that up to 100% of butchers. 
+
+JACK: Yeah, that’s what- [laughs]
+
+AUSTIN: So, I think there’s this one moment when she gets off the highway, and then is stopped by the parade again. And she goes-
+
+AUSTIN (as DRIVER): I thought this was tomorrow. I was supposed to take my granddaughter. Oy. Okay.
+
+AUSTIN: And that’s it. That’s the only thing that she says in the entire ride. Um, she’s upset she can’t take her- she, she’s afraid she forgot what day the parade was, because she wanted to take her granddaughter to it. Um-
+
+JACK: Um- Before we arr-
+
+AUSTIN: So, you pull up to- you start, you know, you come up the highway, you go past one of the, um, one of the… the parades again, and then the houses become smaller and smaller and smaller still, until there’s just like, there’s yards, and there’s parks, and you’re in the proper suburbs. Um, and I want to be clear, you are now at seeeven Static? Right? Um, yeah, you can still- two things. One, uh, it is still snowing. The snow still isn’t sticking to the ground, but the ground is wet. Two, you can still hear the sound of the parade off in the distance? And when you turn and look back at the city, you can see just dozens of floating businessmen? All throughout the city.
+
+JACK: Oh, it's all the same guy?
+
+AUSTIN: It’s all the same one guy. With like, the bag in his hand, the tie, the like, uh, very-
+
+KEITH: Big, toothy smile.
+
+AUSTIN: Big, toothy smile. Very, y'know, carefully, carefully pressed hair. Like, very… [pitched up] y'know? He’s just a normal- he’s- average guy!
+
+KEITH [crosstalk]: He’s us.
+
+AUSTIN [crosstalk]: It’s Averageguy! He’s us!
+
+JACK [crosstalk]: The distant strains- The distant strains of Good King Wenceslas playing…
+
+AUSTIN: Uh huh. Yeah. Totally. Um, so that is happening all over the city. And it’s just like- it is absolutely a Simon Stålenhag picture. Do you know what I mean? Just, dozens of floating businessmen. Maybe more than dozens, right? It’s just- like, like zeppelins. Like, like the way you would- if this was a weird retro-futurism, like, landscape, it wouldn’t feel weird. Um, but you eventually get to the furthest outskirts of the Thicket, past all of the various suburban complexes and the rows of every house that looks kind of exactly the same, and past a number of parks, and canals, and some under- some in-development housing, and then you get to, like, the, uh, a group of, of, uh, half-built homes that have just like, the wood in place, or the foundation in place. There’s a place that’s been- the fencing is up for where there will be a tennis court at some point, but the tennis court isn’t there yet, and there is a pond that has been drained, and some police tape. And there is another car already out here. It is also a black sedan, but this is a low, blocky black sedan, vs your big bulbous one? That your driver has brought you out here in? Um… how long- uh, I think your driver says like, um... Or I guess maybe I’ll ask right now, Heard, is the thing normally that you just call back the driver later? Do they wait- how long do they wait for? Stuff like that. What is- what is your setup. What do you tell them when you’re getting out the car, what do you tell her?
+
+KEITH: Uh, when you order the car, you tell them how long you expect the trip to be. 
+
+AUSTIN: Okay.
+
+KEITH: Uh, and then they either- they either wait, um, or send a new car.
+
+AUSTIN: Mm-hm. How long did you tell them?
+
+KEITH: I told them that it would be 90 minutes.
+
+AUSTIN: Like, 90 minutes of being there basically. In like [Keith affirms] looking at the crime scene. Okay. So I think at that point, they are gonna- she is gonna say… [chuckles] I think she actually says like- I, y'know. I think she would have just been ordered to have not stuck around. There’s other drives she could do in that 90 minutes nearby. Right, so she’s gonna [Keith affirms], she lets you all off and we get just this wide-angle shot of y’all just like getting out of the car, and heading down into the, the pond, the drained out pond. Um, and I think we just get a random close-up of a single frog, that like, ribbits, and then like, hops offscreen, and the camera just hangs on the, the dirt, as the flurries start to land and melt away. And there, in the, in the pond, or the dried-out pond, the emptied-out pond, you see a lanky… a lanky agent in a black, um… Mm, I c- Probably in a similar black suit, in a, in just like a- Or y’all are just in business suits, right? You’re in like, business-casual clothing, or not business casual, but business clothing.
+
+KEITH [crosstalk]: Uh, yeah, we’re in business, yeah, or I’m in a, I’m in a three-piece suit.
+
+AUSTIN: You’re in a three-piece suit, the rest of you are all in like, not formalwear, but business wear for, for, what is it, dresses? Is that what you’re all wearing? Are any of you wearing blazers or anything like that?
+
+JANINE: Maggie absolutely has a blazer. Uh…
+
+AUSTIN: Okay.
+
+JANINE: Like, blazer and I imagine pencil skirt. [Austin affirms] Big pussy-bow blouse. That kind of thing.
+
+AUSTIN: Gotcha. Um, Chris and, and Florence?
+
+JACK: I think just like a very sort of like, um, nondescript, like, grey dress with a white collar. [Austin affirms] And like, it’s cold! It’s like, not the weather- like, we didn’t dress for snow, I guess. [Austin affirms] So like, pink in the cheeks, like, folding her- holding her arms close, folding her arms around her. I assume that I’m wearing some kind of jacket, or like, a light coat, but I was told to dress for like- mm, dress for like, kind of holiday weather. [Austin affirms] We know going into it that Blough City is kind of consistently going to be like, the holidays, right? Are we told that?
+
+AUSTIN: I don’t know, actually. I don’t- um. I don’t know that-
+
+JACK: Or were we just told like-
+
+AUSTIN: -it is always the holidays here. Did we establish it was always Christmas here?
+
+JACK: I think we like- I think we said like- we talked about Finnegan being a mall Santa, and then we thought about-
+
+JANINE: Yeah. 
+
+JACK: -how grim and funny it would be [Austin affirms] if that job never stopped, and then we extrapolated it as like, the weather might change, but it’s-
+
+AUSTIN [crosstalk]: Right. That’s right. We-
+
+JANINE [crosstalk]: It’s- it’s the perpetual like, between Thanksgiving and Christmas phase.
+
+AUSTIN: Right. But it is not- I want to be clear, that does not mean the weather is cold here.
+
+JACK: Right, right, right. Yeah.
+
+AUSTIN: The weather is normally warm here. Like, today in Los Angeles, it is-
+
+JACK: Oh, don’t remind me. [laughs]
+
+AUSTIN: Okay. I will not. But it is very warm.
+
+JACK: Um, yeah. So I think I’m wearing just like a light, like a light coat. But not… just like, the most boring business person, bus- business lady who is a little too cold. 
+
+AUSTIN: Mm-hm. Okay. Um. [sighs]
+
+KEITH: Specifically, I want to say my suit is, it’s herringbone wool. That’s the suit.
+
+ALI: Um, I just wanted to say Chris is wearing like a green turtleneck, uh-
+
+AUSTIN: Aww. Nice.
+
+ALI: -with like a grey dress over it.
+
+AUSTIN: Awesome.
+
+KEITH: While we’re stopped for clothes, can I give a, uh, semi-relevant frog fact?
+
+AUSTIN: Always.
+
+KEITH: Um, you said that the frogs ribbit, which is fun, because there’s only one kind of frog in the entire world that make a ribbit sound?
+
+AUSTIN: Oh, really?!
+
+KEITH: And it’s the frogs in Hollywood. 
+
+[1:10:20]
+
+AUSTIN: Wow, really?
+
+KEITH: And that’s why “ribbit” is associated with frogs, is because frogs in movies ribbit.
+
+JACK: That’s incredible.
+
+AUSTIN: That’s wild! What?
+
+KEITH: Yeah. Yeah. And so it-
+
+AUSTIN: What do other frogs do?
+
+JACK: They croak.
+
+KEITH: Other- yeah, every kind of frog makes a totally different sound.
+
+JANINE: A lot of frogs-
+
+KEITH [crosstalk]: Croaking, chirping-
+
+JANINE: -make like a bug-like sound, right? Like they make like a-
+
+KEITH: Yeah- [animal foley] Brrrp! Brrrp!
+
+JANINE: [animal foley] -eeeee, kind of…
+
+KEITH: Yeah.
+
+AUSTIN: [quiet] Oh, wooow.
+
+JANINE: I feel like most of the time-
+
+KEITH [crosstalk]: Yeah.
+
+JANINE: -when I’ve heard a sound and someone’s been like, “Oh that’s frogs”, it’s been going like, [animal foley] meeeeeee.
+
+JACK: And some frogs just make a sound like- [animal foley] Ohhhh.
+
+KEITH: The- yeah, [Janine laughs] yeah, that’s one. That’s a frog noise.
+
+AUSTIN [crosstalk]: That’s a good sound.
+
+KEITH: The frogs around here go- [animal foley] brrrra! Brrrrrra! Brrrrrrra! Brrrrra! Brrrra! That’s a sort of the, the mi- that’s the New England frog sound.
+
+JACK [crosstalk]: [laughing] Keith can make any sound!
+
+AUSTIN: Any sound.
+
+KEITH: Any sound. It’s really impressive.
+
+AUSTIN: It’s good. Um, so I think what we get is, uh… there’s a lanky agent in- already in the pond with like, a camera set up on like, a tripod. Actually, there’s like, four cameras set up at various different angles of the pond, looking at different things, um, plus a camera in his hand. And I’m gonna facecast this guy as Michael Pitt, specifically, um, Michael Pitt as he appeared in, uh, the movie Funny Games?
+
+KEITH: Okay. Not Michael Pitt as he appeared as a crab.
+
+AUSTIN: Wait, did he- Oh, he was- Was he- Wait, in-
+
+KEITH: No, no, I’m just saying this is not a, this is- you said this was an agent, right?
+
+AUSTIN: Yeah, this is. This is an agent.
+
+KEITH: Okay. So this is-
+
+AUSTIN [crosstalk]: But he is not a crab man here. No.
+
+KEITH: Got it. Okay.
+
+AUSTIN: Um.
+
+KEITH: Oh, I know Michael Pitt! Okay.
+
+AUSTIN: Yeah, Michael Pitt. If you do a search for “Michael Pitt-”
+
+JACK: This is like a real nasty-looking motherfucker.
+
+AUSTIN: Mm-hm. Mm-hm.
+
+JACK: Like a slimy, [Keith starts laughing loudly] like a slimy, nasty boy.
+
+JANINE: I’d only ever seen him in things where they cast him specifically to be unsettlingly attractive? [Austin affirms] And seeing pictures of him in the real world is a little jarring, cause he’s not.
+
+AUSTIN: It’s- he’s not! It’s unbelievable!
+
+AUSTIN [crosstalk]: He’s-
+
+KEITH [crosstalk]: What is he in-
+
+JANINE [crosstalk]: It looks like he’s always doing a thing with his mouth, but I don’t think he is, I think that’s just how it is.
+
+AUSTIN: Here, I’ll-
+
+JANINE [crosstalk]: But it looks… fake.
+
+KEITH [crosstalk]: What is he in where he’s supposed to be attractive?
+
+AUSTIN [crosstalk]: Like, like… anything he’s been cast in.
+
+JANINE [crosstalk]: Like, Boardwalk Empire.
+
+AUSTIN: Yeah. Uh huh.
+
+KEITH: Ohhh.
+
+JANINE: That’s the big one.
+
+KEITH: I mean like, yeah, okay, I’ve seen- I- I see here where- yeah, okay, I can see it.
+
+AUSTIN [crosstalk]: Yeah. Oh man, in fact-
+
+JACK [crosstalk]: But you have to picture him as this nasty, nasty man.
+
+AUSTIN: Mm-hm.
+
+KEITH: [loud laugh] Jack hates Michael Pitt.
+
+AUSTIN [crosstalk]: Janine, [laughs a bit] the one you just posted makes him look so goofy.
+
+JANINE: [laughing loudly] I know!
+
+AUSTIN: Um, but yeah. I think maybe this image here, this-
+
+JANINE [crosstalk]: He was also Mason Verger- he was the first Mason Verger in Hannibal-
+
+AUSTIN [crosstalk]: Oh he was, wasn’t he!
+
+JANINE: -and then they replaced him.
+
+KEITH: Who the hell is Mason Verger?
+
+AUSTIN [crosstalk]: Oh, don’t look it up.
+
+JANINE [crosstalk]: He’s the pig man.
+
+AUSTIN: He’s the pig man in Hannibal. If you search Mason Verger-
+
+KEITH [crosstalk]: Oh, okay.
+
+AUSTIN: -you’re gonna see a- some bad faces, so just heads up.
+
+JANINE: Yeah. Some stuff happens… [trails off]
+
+AUSTIN [crosstalk]: [chuckling] You’ll also see this-
+
+KEITH [crosstalk]: Oh, here’s Mason Verger and Mitch McConnell next to each other, that’s really funny.
+
+AUSTIN: [laughing] And Mitch McConnell’s a good comparison! They’re both terrible people. Um… in any case, it’s Michael Pitt and he is in a black suit with a black tie and a white shirt, um- No, he’s feeling festive, it’s a green, it’s a green shirt with a red tie. 
+
+JACK: And a- [laughing] And a black jacket. 
+
+AUSTIN: And a black jacket. A hundred- it’s terrible, it’s fashionless.
+
+JACK: Ohhh… He looks like a magician!
+
+AUSTIN: A hundred percent. And he has on black gloves, and he sees you all here as you get into the Thicket, and into this empty pond. Um- then he- as you, the four of you approach, he lifts up his camera at you and takes a photo, and there’s a flash bulb for a second. I’d say it’s like, 1:32 pm right now, maybe 2:30. What do you all do?
+
+KEITH: Do I know… do I know his name?
+
+AUSTIN: Umm… yeah, you’re senior- uh, mm- [sighs] I’m gonna say no. 
+
+KEITH: Okay.
+
+AUSTIN: Because of that previous failed roll. From, from Chris. And he says, um,
+
+AUSTIN (as AGENT): Agent Sleeves! How’s everybody doing?
+
+KEITH (as ROBBER): No more pictures, Agent Sleeves.
+
+AUSTIN (as SLEEVES): Click!
+
+AUSTIN: Umm… and he like lowers it, and it’s hanging on a thing around his- it’s hanging on a strap around his neck.
+
+AUSTIN (as SLEEVES): Working the Blake Blossom case, huh?
+
+KEITH: I don’t say anything.
+
+AUSTIN (as SLEEVES): Well, which one of you is Agent Ryder?
+
+ALI (as CHRIS): Umm, that’s me.
+
+AUSTIN (as SLEEVES): You needed someone to talk... body stuff. What do you need to know?
+
+KEITH: [noise of disgust] Eughh! Gross!
+
+[Janine laughs in surprise. Jack and Ali laugh loudly]
+
+KEITH: [mocking, as Sleeves] “Did you need to have a chat about bodies?”
+
+JANINE: I’m just gonna keep posting pictures where he looks like a fucking creep as he’s talking, how about that?
+
+AUSTIN: He’s- yeah, uh huh! He’s a creep! Mm-hm! [Keith and Ali laugh]
+
+JACK: Oh, wow, this jacket is a bad look! [laughs]
+
+AUSTIN: It’s terrible. Go ahead.
+
+KEITH: It looks like- it looks like a snakeskin jacket, but it looks like the snake [Jack laughs in the background] meant it to be.
+
+AUSTIN: Yeah. Uh huh!
+
+KEITH: [laughing] It looks like the snake was like, “Make me into this!”
+
+JACK: [laughing] I wanna be the worst. 
+
+AUSTIN: Ryder, what do you say?
+
+ALI: I think if there’s like, if there’s like dis- She like takes a couple steps forward or whatever [Austin affirms], and is just like-
+
+ALI (as CHRIS): Oh, well, I… The usual, I guess. I… The way the body was found, I was curious if…
+
+AUSTIN: Umm… He like steps around- he’s like, stepping around the spot that is not marked in the ground, um, and then you see that there is like, straight up the imprint of a body in the- in the ground, like, it’s just a light indentation, it’s not like a perfect, it’s not like a cartoon hole in the ground, [laughing] you know what I mean? And he goes, um,
+
+AUSTIN (as SLEEVES): It was found right here. And it seemed as if he died by lack of oxygen. And at first, we thought it was because he drowned, but… You know how things go in the City. Strangulation. 
+
+ALI (as CHRIS): Uhh… That’s how things go in the city. [laughs a bit]
+
+AUSTIN: Are people looking for clues? What are people doing here at the crime scene? There are those little like police, um, foldy number things that are all over the place, do you know what I’m talking about? [Janine affirms] Both-
+
+JACK: Ohhh, yeahhh.
+
+AUSTIN: -in the pond and above the- out above the pond that- what I’m describing are little placards, I guess? That are folded, that have like “one, two, three” that represent different like, evidence markers.
+
+JACK [crosstalk]: Like physical map legends, right?
+
+AUSTIN: Yeah. Yeah, basically.
+
+JANINE: Maggie’s examining grass. She’s-
+
+AUSTIN: Just for-
+
+JANINE: -looking at the grass around the area.
+
+AUSTIN: Okay. For specific-
+
+JANINE: Not for fun. Like, [laughing] to look for like, if there’s like drag m- y'know, if the grass is bent in certain areas, like…
+
+AUSTIN [crosstalk]: Yeah. Yeah. Give me- give me an Instinct. And that is again, any dice you want to roll. Any amount of dice you want to roll. Eleven is the goal.
+
+JANINE: Uhhh-
+
+AUSTIN: And it’s any amount because you’re currently in your Heart Rate. Your Target Heart Rate.
+
+JANINE: Right. …You know what, screw it. Mmm. [Austin affirms] Man, that Heart Rate thing really makes you-
+
+AUSTIN [crosstalk]: Makes you think!
+
+JANINE: -consider.
+
+AUSTIN: Uh huh. As a reminder, so, you- once you get out of your Target Heart Rate, you’re back to rolling whatever your regular stat is. And then the other thing that’s worth noting is that, umm, there’s two other things. One, Janine, you have Meditation-
+
+JANINE: I do.
+
+AUSTIN: -which means you can lower your heart rate between scenes. By spending a Commendation Point. Or I- it actually doesn’t say between scenes, so you can just do that, as long as there’s like, as long as you’re not like, being shot at-
+
+JANINE [crosstalk]: Yeah, but you need to find like, a good moment to meditate, like-
+
+AUSTIN: Yeah. Totally, totally. [Janine laughs] I’m saying, as long as you’re not being shot at, you know. But- or in a chase, or something. Umm, the second thing is that when you reach your- when you get out of your Target Heart Rate, you have some amount of Heart Rate betwe- before you hit your maximum, and when you hit your maximum what happens is all Force and Instinct rolls become Risky rolls. Which means that there’s- if you fail, then there’s a chance that your related talent goes down. That’s always a possibility when you’re in a Risky roll even when you’re in your Target Heart Rate, and Risky there means like, in a chase scene on top of buildings, or in a gunfight or a fistfight. But once you max out, even doing things like, y'know, things that are like risky but not Capital R Risky become Capital R Risky, y'know. Even like, breaking open a door or something with a Force roll has a chance of lowering your Force. Ohhh, brutal. All right, but. But-
+
+JANINE: That sucks.
+
+AUSTIN: -wait, wait wait wait, wait wait, there’s things you can do here. So, you rolled 4d6 and got a 10, so one, immediately raise your Heart Rate by 10. Wh- puts it up to 110, out of 138 is your, is your, the high point of your, uh, your Target. But, there’s two things you can do here. One is, you have a Talent that lets you- you have Investigation. This is Investigation. If you wanted to just roll one more dice, one more die, you could do that. I believe that’s how the Investigation Talent works.
+
+KEITH [crosstalk]: Oh, that’s awesome.
+
+JANINE [crosstalk]: Oh, should I have already taken an extra thing, or-
+
+AUSTIN: No no- no, you choose to do that after the fact. So instead of having to reroll the entire thing- but wait wait wait- wait wait-
+
+KEITH: You just add a die?
+
+JANINE: Yeah.
+
+AUSTIN: Yes, you could just add a die-
+
+JANINE: Keep talking.
+
+AUSTIN: Before you, before you do anything else, [laughs a bit] because I don’t want you to have to roll this and then we take it back, you can also just spend a Commendation Point, I believe, to get a +1.
+
+KEITH: So that would be two.
+
+AUSTIN: So, well you only need one. She only needs to get to 11.
+
+KEITH: I thought it was 12, I thought 12 was what you had to get to.
+
+AUSTIN: No, 11 is the goal. The goal is 11.
+
+KEITH: Ohhhhhhhhhh, okay.
+
+JANINE: What’s the cost of me rolling another 1d6? I guess the Heart Rate, yeah.
+
+AUSTIN [crosstalk]: Your Heart Rate continues to go up. But just the Heart Rate..
+
+KEITH: St- And Static goes up, right?
+
+AUSTIN: No, Static goes up if this is a failure. 
+
+JANINE: I’ll just spend a point then.
+
+KEITH [crosstalk]: Ohh, I thought you said Static goes up whenever you use one of your abilities.
+
+JANINE [crosstalk]: Like Meditation or Judge, for instance.
+
+AUSTIN [crosstalk]: Oh, that’s when- that’s a Technique, that’s a Technique, not a Talent.
+
+KEITH [crosstalk]: Techniques. Talent.
+
+AUSTIN: Talent is like, Investigation, or yours is Strategy for Force.
+
+JANINE: Talent is tied to a stat pool, where Technique is-
+
+AUSTIN: Yes.
+
+JANINE: -tied to like a, a mentor, kind of thing. Things like that.
+
+AUSTIN: A mentor. Yeah, so like- Keith, your ta- your Techniques are Endurance and Identity?
+
+KEITH: Right.
+
+AUSTIN: And then you have the Strategy talent, which is used in… Force stuff. Uh, “Incapacitate, Subdue, Capture, Process” would be Strategy.
+
+[1:20:03]
+
+JANINE: I’m just spending the point.
+
+AUSTIN: All right, you’re just gonna go one for one there? All right. Cool. I’m just gonna double check that by looking at our little cheat sheet on the side. But I’m pretty sure that that’s right.
+
+JANINE: I’m gonna post another picture of Michael Pitt.
+
+AUSTIN: Great. Love- love to see the guy. [Ali chuckles]
+
+JANINE: He looks like a Trump. That’s the problem.
+
+[Keith bursts out laughing]
+
+AUSTIN: [excitedly] I- so- so- wait wait wait, Janine, here’s the thing, here’s the thing! I went for him because-
+
+JANINE: Ahhhh.
+
+AUSTIN: -he’s- the person who I actually facecast is Eric Trump.
+
+JANINE [crosstalk]: Yeahhh. Yeahh.
+
+KEITH [crosstalk]: Oh my god, he- I wa- yeah, he totally looks like- Blough City-
+
+AUSTIN [crosstalk]: And I was like, fuck. 100%, I wanted to facecast this guy as Eric Trump without saying the words Eric Trump. So.
+
+JANINE: Sorry.
+
+AUSTIN: You 100% got it. [Jack laughs] No, it’s- it’s extremely funny to me.
+
+KEITH: That is like, I don’t- I mean, listen, Michael Pitt’s a weird looking guy. But, that is [laughing] deeply insulting to Michael Pitt.
+
+ALI: Yeah.
+
+JANINE: Yeah, but- say it’s wrong! Like, look at him and say that that’s not… Yeah.
+
+KEITH [crosstalk]: No, no it totally is. Like as soon as- as soon as you said that he looks likes a Trump, like yeah, he does just like Eric Trump. [Ali laughs]
+
+JANINE [crosstalk]: Holy fuck.
+
+AUSTIN [crosstalk]: Uh huh. 100%. 100%.
+
+KEITH [crosstalk]: Or, um-
+
+JANINE [crosstalk]: This is- the jacket on him right here, bam.
+
+AUSTIN: Oh my god.
+
+JACK: Ohhh, no.
+
+KEITH: Wait, is it- is it Eric Trump or Donald Trump Jr- no, yeah, it’s Eric Trump.
+
+AUSTIN: It’s Eric. Eric has the blond hair. 
+
+KEITH: I forgot which one was which. 
+
+AUSTIN: Yeah yeah yeah.
+
+KEITH: Yeah.
+
+JANINE: Eric’s the rejected one. 
+
+AUSTIN: [laughs] God. Great. Um.
+
+JANINE: Again, say I’m wrong.
+
+KEITH: This is the- [laughs] What’s that tweet- oh, never mind, let’s forget about it.
+
+AUSTIN: [laughing] Okay.
+
+KEITH [crosstalk]: There’s a funny tweet but I don’t wanna- I don’t care.
+
+JANINE [crosstalk]: Oh, these are all- this is all just so choice.
+
+AUSTIN [crosstalk]: Sorry, I still need to figure out this Commendation thing before we- Umm…
+
+JANINE: It’s fine, I’m keeping busy. 
+
+AUSTIN: ‘Cause I might be wrong about the Commendation thing. Commendation might only be for certain types of rolls. Which are a- which are Access rolls. [Janine affirms] Which would make sense to me?
+
+JANINE: Yeah.
+
+JACK: Does Static go up because Janine failed? 
+
+AUSTIN: She hasn’t failed, because she’s boosting it.
+
+JACK [crosstalk]: Ohhhh. Yeah.
+
+AUSTIN: That’s not a failure. That’s the thing. Umm… Yeah, I think I’m wrong. I think-
+
+JANINE: Okay.
+
+AUSTIN: -Commendation points… can only add to Access rolls? Which is what we did last time. [deep breath] Yes. Yes. That is it.
+
+JANINE [crosstalk]: Okay, I’m just gonna… roll another 1d6.
+
+AUSTIN [crosstalk] Um, so yeah, so you can do 1d6.
+
+JANINE: And that’s a 1, so that’s- [laughs] 
+
+AUSTIN: That’s a 1, so- literally the same thing!
+
+JANINE [crosstalk]: Good, I guess, but also- [laughs] I mean that’s - that is actually ideal, isn’t it, because my Heart Rate only goes up by 1, but I still get the thing I want.
+
+AUSTIN [crosstalk]: Yeah. It’s id- that is id- that is literally ideal. So, nice work.
+
+JANINE [crosstalk]: For once a 1 is good. Great.
+
+AUSTIN: For once a 1 is good! Um, there’s another thing we should be paying attention to, which is we should be making sure that no one has hit a 6… Keith, you did, what was that 13 for? Oh, that was for seeing through… uh, Florence before, right?
+
+KEITH: Yeah.
+
+AUSTIN: So you should get another Commendation point, because when you roll a 6, when you’re within your Peak, you get a Commendation point. That is-
+
+KEITH: All right. Added.
+
+AUSTIN: -the only 6 we’ve rolled so far, Janine you have a 6, but that was not a real th- roll, so.
+
+JANINE: Yeah, that was a dud roll.
+
+AUSTIN: Yeah. All right, cool. So… Um, so yeah, so I think you were looking at the grass, you’re looking at the grass, you’re looking for signs of struggle, for things being- for bodies being dragged, et cetera, and you find, uh, you find what you would only- y'know. It’s- it is so… suburban, growth, it is so new development. You catch just like, a few blades of grass that have been bent over, and like, um, y'know, trampled on a little bit. You see- you see like, a place where there is maybe a bunch of people moving around, maybe there was a fistfight, maybe there was some sort of struggle. But then you see where the body is getting dragged, and it stops because the natural grass runs up to, um, turf, to like rolled out- not astroturf, but like, um, pre-grown, like- what is that stuff called, you know what I’m talking about?
+
+JANINE: Sod?
+
+AUSTIN: Is it sod?
+
+JANINE: Sod grass? It’s like sheets of-
+
+JACK: Turf? Or is it [trails off]-
+
+AUSTIN: Yeah, sod. Sod is exactly- sod or turf, yeah. 
+
+JACK: Oh.
+
+AUSTIN: To just like, oh, they literally just rolled turf down where there was the dragging. Um, and so you end up like, following, just like looking off in the distance and kind of walking down the turf. Which is in front of a house that is again, like two quarters built, and that’s- the only one on the street that has the turf laid already? So there’s obvious like- [laughs, Janine laughs a bit], all the other ones are just dirt, and like, bad old grass and crabgrass and stuff, but this one has a beautiful green lawn. And you walk and you see that like, in the driveway to this one, you see like, an oil drip, and, um, and like… rubber marks of the, from the tires squealing and going away, and you can deduce that there was some sort of struggle near the pond, he was left in the- he was, he was tossed into the pond, or disposed of in the pond some way, and then the, the car that was here was driven aw- in fact, I think you can see there are two cars. Two cars were, or, mmm… Maybe you can’t tell that, but. Uh, no, you can see that there’s like two, two tracks, two different tire tracks, are left behind as two cars left the scene. You can imagine that um, he was, he was maybe dragged over to the car to get something out of it, or, you don’t know. Or maybe he was dragged acr- over the grass, and then lifted up, but… there is basically: two cars left the scene, he had been at the scene, there was a fight at the scene, and then two cars left.
+
+KEITH: Is there enough um, indentation left to make a note of like, the tracks that the tires left?
+
+AUSTIN: Totally. 100%. You can totally- ‘cause the, it was a while ago, but this development has frozen, and it- it’s a beautiful, dry neighbourhood normally? [chuckles] You know?
+
+KEITH: Yeah.
+
+AUSTIN: So, y'know, the rain hasn’t washed anything away yet. So yes, you’re able to mark down the types of tires they are. Y'know, this agent, or an ac- or not this guy, but an Access roll could give you firm information about what it is, but maybe I’ll just give it to you, which is like- You know what, it’s the dossier? It’s in the dossier. You’re able to look at your printed out dossier and compare the tire tracks of the Teardrop Coupe. And one of these tire tracks is the Teardrop Coupe. For sure.
+
+JACK: Damn.
+
+KEITH: That’s exactly what I was looking for.
+
+AUSTIN: Of course. So let me just give that to you instead of tying it to some bullshit roll, you know what I mean?
+
+KEITH: Yeah.
+
+JACK: Yeah, yeah yeah.
+
+AUSTIN: So. 
+
+JACK: I would like to talk to Sleeves though. Sleeves?
+
+AUSTIN: Sure.
+
+JACK: Is that his name? [laughs a bit]
+
+AUSTIN: Yeah, Agent Sleeves.
+
+KEITH: Agent Sleeves.
+
+JACK: I thought that was gonna be… I thought- I thought I was misremembering it. But it is.
+
+AUSTIN: Nope, you got it right.
+
+JACK: So I think- I think Florence, I think as the others go to like, look at the scene, Florence kinda just stays and kind of stares [Austin affirms] at Sleeves, with her arms folded.
+
+JACK (as FLORENCE): Agent Sleeves, isn’t it?
+
+AUSTIN (as SLEEVES): That’s right.
+
+JACK (as FLORENCE): My name’s Agent Page.
+
+AUSTIN (as SLEEVES): Pleasure to meet you.
+
+JACK (as FLORENCE): So, uh… we’ll be taking all of the photos that you took.
+
+AUSTIN (as SLEEVES): Excuse me? Do you have a requisition order for that?
+
+JACK (as FLORENCE): Uh, absolutely.
+
+JACK: And I pull out my documents.
+
+[Austin laughs loudly]
+
+AUSTIN: You do have documents, don’t you! Okay!
+
+JACK: Um, this is- these documents are like… So, I think we can kind of treat it in good faith that when the game says you have documents-
+
+AUSTIN: Mm-hm.
+
+JACK: -they’re… They’re legit. Obviously they wouldn’t be legit everywhere, but like, it would be weird for the game to say you have documents, and then me pull them out, and they just be- it just be like a party invite or something [laughing a bit].
+
+AUSTIN: Right right right, they’re legit not in the sense that they are… honest, because they’re secret agent documents-
+
+JACK: Mmm, oh yeah.
+
+AUSTIN: -but they’re legit in the sense that they pass snuff. It’s official looking identification.
+
+JACK: Yeah. So I guess what I’m saying is Florence knows exactly the level of artifice that she is operating.
+
+AUSTIN: Right. Yes. Totally.
+
+JACK: And it’s just like the worst- it’s the most insulting document to be handed? 
+
+AUSTIN: Mm-hm.
+
+JACK: You know, when you ask someone, oh, I want to see some papers, and what they produce is essentially like, a receipt-quality piece of paper?
+
+AUSTIN: Yeah.
+
+JACK: With like a stamp and like, you know that glossy printing on it?
+
+AUSTIN: Yeah.
+
+JACK: And she just kind of like, hands it- she’s been holding it already in her folded arms, and just like extends a hand and hands him this piece of paper.
+
+AUSTIN: Mm-hm. He looks at it, goes,
+
+AUSTIN (as SLEEVES): Well! All right, but… I’m not sure you’re gonna like what you see.
+
+JACK (as FLORENCE): That’s for us to decide.
+
+AUSTIN (as SLEEVES): Fair enough. Come with me, I have a development studio in the car. 
+
+AUSTIN [crosstalk]: And like, begins-
+
+JACK [crosstalk]: Uh, there’s like a momentary pause-
+
+AUSTIN: Uh-huh.
+
+JACK: -and Florence sort of follows him. [laughs a bit]
+
+AUSTIN: All right.
+
+ALI: Can I join?
+
+AUSTIN: Totally. Umm.
+
+JACK: Do you see Florence walking away, and just [laughs] just like jog to catch up, or?
+
+ALI: [laughs] I think I had still been like, standing nearby, or whatever. Um, like trying to look around. I don’t know how appropriate it would be to like, pull out a cigarette? [laughs] So I don’t know if I did that? Umm.
+
+AUSTIN: I- does Chris do that? Like yeah, it’s up to you- it’s up to you, what Agent Ryder does. [Ali laughs]
+
+KEITH: It sounds very appropriate. At least to me.
+
+JACK: I love that these two like- these two like, [chuckles] mixed-success secret agents are just like, “We’re gonna put the screws on this piece of shit.” [laughs, Ali keeps laughing]
+
+AUSTIN: Uh-huh. 
+
+[Keith laughs in the distance]
+
+JACK: “With a combination of one cigarette and one flimsy piece of paper.”
+
+[Austin laughs, Ali is still laughing]
+
+KEITH: And a failed roll. [Jack laughs]
+
+AUSTIN: Um, so he leads you up to the side of the pond, like the back side, the other side, the far side, from where you’re picked up. And there, on the grass, is his like, lower car, his car that’s like smaller than the big bulbous sedan. And he takes you to the back of the trunk, and he opens the trunk, and as it opens, it’s like… it almost like accordions open, and there’s side curtains? And there’s like a curtain in the back, and he just like, like- I actually- I think we get him like, taking, going between the different cameras he’s already set up, and taking film out of them. And then, uh, he goes over and he puts all the film, like, he reaches his hands into the curtains that are hanging from the back of the trunk, into just like a darkened compartment in there, and without looking at anything, you see he starts go to work. And he like- you can hear the sound of things splashing in there, you can hear the sound of- it’s almost similar in design, presumably, to your little mini compact typewriter situation [Ali laughs a bit], of the double-level thing? But you can’t see into it.
+
+KEITH: Possibly designed by the same guy.
+
+AUSTIN: Probably, right? [Jack laughs] Yeah. And he goes like- he nods, to the front seat, and he goes like… I think first he goes like,
+
+AUSTIN (as SLEEVES): Could I get one of those? The cigarette?
+
+ALI (as CHRIS): Oh, yeah.
+
+AUSTIN: Which you should not be doing while you’re developing photos. [Ali laughs] But he definitely takes one, and then like, lights it, so he’s like, speaking, like, [poorly enunciated] with a cigarette on his lip, you know what I mean? And he’s like-
+
+AUSTIN (as SLEEVES): [still with cigarette affect] Mm. Um. I have some previously developed photos inside.
+
+AUSTIN: And he nods to the front door. Of the car. The front door of the car.
+
+KEITH: I dunno…
+
+ALI: [laughs] I think I like glance to Florence, who’s better at being a cop than I am? [laughs, Austin laughs a bit] And like walks around the side of the door as like a, “You can talk to him and I’ll go check this out.” And I open the door.
+
+[1:30:41]
+
+AUSTIN: All right. Um… So you open the door, and there’s a- there’s a folder. It’s a manila folder filled with photos. Um, there’s like, more than you can just immediately… it’s like, the pond, it’s Blake Blossom alive, it’s Blake Blossom’s- dead body, it’s, it’s stuff from the- from the morgue, and from the coroner’s office. It’s like, a ton of stuff about him. It’s like, the first photo of him when he arrived. That will be a roll to kinda peak through all that stuff. Meanwhile, also, you can go ahead and give me that- that would be an Instinct roll to try to like gain information from this.
+
+ALI: Oh, sure.
+
+AUSTIN: But then also, while you’re doing that, what is happening, Florence? What are you- what are you- what’s the conversation like as he’s- as he’s going through all this stuff? Or as he’s-
+
+JACK (as FLORENCE): Busy day, then. 
+
+AUSTIN: -developing.
+
+AUSTIN (as SLEEVES): Eh, made it busier. I wasn’t supposed to be out here again. 
+
+JACK (as FLORENCE): Well, I’m sure the Concern will appreciate it. So what’s your read?
+
+AUSTIN (as SLEEVES): Um… He got strangled to death? By someone who didn’t like the stuff he made. Which, fair.
+
+JACK (as FLORENCE): You didn’t like his films?
+
+AUSTIN (as SLEEVES): No, it’s- it’s- I’m just saying, it happens like that sometimes. Someone doesn’t like something you do, someone gets strangled. That is the logic. 
+
+JACK (as FLORENCE): Fair’s a strange word.
+
+AUSTIN (as SLEEVES): As fair as anything else.
+
+AUSTIN: He smiles. And like, shakes his hands, like, reaches his hands out and shakes for a second, and wipes it on, um, on- he probably has just like, a rag that’s hanging from the tail of the car, and like wipes them there. And then puts his gloves back on. And he says, like, he takes a long drag from the cigarette and he says,
+
+AUSTIN (as SLEEVES): How ‘bout you? What’s your read?
+
+JACK (as FLORENCE): Oh, we’re still at the, process of accumulating data. We have many other stops today. We thought we’d stop by here and, and see what was going on.
+
+AUSTIN (as SLEEVES): And see what’s going on, yeah. Yeah.
+
+JACK (as FLORENCE): Did you see any of his movies?
+
+AUSTIN (as SLEEVES): No, I’m not much for film. You know, I, I read the paper. And, uh… you know. Some books. I like a good, a good piece of music. But… Not much for film. Spectacle. Distorts reality, it… confuses the senses. 
+
+JACK (as FLORENCE): You know? I’ve heard… I’ve heard that from some- from, from several people. [Sleeves affirms] It’s a more common view than you’d think. Not all of us are moviegoers. Where are you from, Sleeves?
+
+AUSTIN (as SLEEVES): You know me, born in Standard Town but worked my way up into Counting House. How ‘bout you?
+
+JACK: Oh, um… [laughs] This is now me thinking. 
+
+AUSTIN: Uh huh.
+
+JACK: So, how do agents of the Concern appear to each other? When they’re-
+
+AUSTIN: That’s a- good question.
+
+JACK: Inside their-
+
+AUSTIN: Well, you’re disguised right now, right?
+
+JACK: Yes. [Austin affirms] We’re just- we’re just wearing like our hats and veils and things.
+
+AUSTIN: Sure.
+
+JACK: I mean, we have only ever seen Blough City Concern agents in Bluff City as civilians- we’ve been civilians when we’ve seen them.
+
+AUSTIN: You’ve been civilians when you’ve seen them, correct. And they look like crab people. And we know that… we know that to other civilians here, you look like- a slightly different type of crab person. Um, hey, uh…
+
+KEITH: [from afar at first] Just in- just in case, uh, anybody… notices when the show gets released, we’ve been saying crab person as shorthand for horseshoe crab person. Not-
+
+AUSTIN [crosstalk]: Horseshoe crab person. 
+
+JACK: Yes.
+
+KEITH: Not that we forgot that- [Jack coughs] cause like, horseshoe crabs are not crabs.
+
+AUSTIN: It’s spec- right, it’s like very specific type of thing, yeah yeah yeah. We know this, yeah. Appreciated. Um- Ali, can I get that Instinct roll?
+
+ALI: Yes, yes yes yes. I’m rolling five because I’m still in my Target.
+
+AUSTIN: Sounds good. That’s 17, easy- easy win, but also, boy does that jump up your target, [Ali and Jack laugh] to- that-
+
+ALI: Gamble...
+
+JACK: God, this is a good game, actually.
+
+AUSTIN: One- one thirty- something?
+
+ALI: 135?
+
+AUSTIN: 135. You only have eight left inside of your Target. So the next success you get, you’ll be out of your Target.
+
+ALI: This is a big one.
+
+AUSTIN: So. It is, it is a big one. All right, so, I’m gonna give you a nice thing, and then I’m gonna, I’m gonna also give you some extra information that maybe would be useful to somebody else in this moment. [Jack laughs] Um, so you’re like flipping through all this stuff with Blake Blossom… um, you know, is… what do I roll here? One second, let me think. Maybe I just immediately attach it to something else. Um. Oh, I- this is an easy one. Um, you see… the… [long pause] This is, this is- you see a photo of someone wearing the uniform of the- you know, actually- [chuckles] You see something very scary. Very, very scary. I’m not gonna increase Static here, but if you saw them regularly, Static would go up. I’m gonna read from the dossier here. There’s a, there’s a Hostile Personality, aka a Threat, called- it’s Hostile Personality 44, The Curator. And this is an excerpt of the, of an agent report that says, quote, “There is a market of ideas, both impulsive and repressed. And The Curator is in search of the best product, as well as the skillful hands, mouths, and brains which make them.” There is… like, [sighs] I imagine it would be like, what if you just did a search on the Bloodborne wiki for all of the bosses? And you only got to look at it for a split second and it was weird and blurry? I think it’s like, a collection of hands. It’s like a collection of hands, kind of imm- almost like, a rat’s nest? Or not a rat’s nest, a rat king, you know? Like rat kings connected by tails, except it’s just a big, weird, oblong collection of arms? But it’s black and white, and it’s far away. And it’s, it’s like, hard to see, ‘cause it’s nighttime, and it is at the edges of Blake Blossom. Or- Blake Blossom is right at the- is being- it’s reaching for Blake Blossom in the dark. And at first, you see like, “Ok, this is, this is a weird thing for it to be here. That’s terrifying.” You knew that there were-
+
+JACK [crosstalk]: Weird that it would be in this folder.
+
+AUSTIN: -were- weird that it is just in this folder. And then you realize like, what you are looking at is the, um… the, the death of Blake Blossom, which seems to have been killed by this thing called the Curator. Which is, a- again, a terrifying monster, and that’s part of the thing that you get. The second thing you get is, the prints from inside, the, the photos, that- that have been being developed here, in this weird rapid trunk development suite, being to finish and dry off. And when they- when they are done, they like, slide through a, a, uh, a slot from the trunk into the backseat, into like, an inbox-style thing, that’s in the backseat? And you see them start to come out, and they’re just like, it’s one of the, um, the pond that’s been drained, it’s one of the indentation, it’s one of the, the section that has been, um… where the grass was all fucked up. And then it’s the first photo of y’all walking towards, towards him. And you remember he took that one. And then he took a second one, and in that one, you appear as, as horseshoe crab people. With all of your horseshoe crab f- figures. Or uh, faces, rather. Which is weird, because that disguise is not supposed to break, let alone because someone took a photo of it. Um, and so, at that moment, Florence, he says,
+
+AUSTIN (as SLEEVES): Oh, I think the photos might be done. 
+
+AUSTIN: And he reaches back in. Now, we the viewer know that he is not reaching back in for the photos, because those are going inside the car. Florence-
+
+JACK: Yeah.
+
+AUSTIN: -you should give me an Instinct roll. [Ali chuckles, Jack makes thinking noises] What is your-
+
+JACK: I mean-
+
+AUSTIN: Are you within your Heart Rate right now?
+
+JACK: Uh, no-
+
+AUSTIN: No, you are not. [chuckling] Okay.
+
+JACK: No. So I’m just gonna roll 3d6.
+
+AUSTIN: 3d6.
+
+JACK: Ohhhhh! [Keith whistles]
+
+AUSTIN: That is a 9. Uh, so that is a failure. You do not-
+
+KEITH: [in the background] Wellllll-
+
+AUSTIN: -have the ability to quickly boost that quite yet, so that Static is gonna go up.
+
+KEITH [crosstalk]: We… Can we do… Can- Jack-
+
+AUSTIN: One second, first we have to decide if Jack wants to reroll it or not. 
+
+KEITH: Okay.
+
+AUSTIN: First of all, you should go up. You sh- your Heart Rate should bump up.
+
+JACK: Yeah. So, 79 plus 9 is 88.
+
+AUSTIN: Which puts you into… uh…
+
+JACK: Into my… Heart Rate.
+
+AUSTIN: Your Heart Rate. Uh, then you can decide whether to let this thing hang… or, to reroll. The failure.
+
+JACK: And- And if I-
+
+AUSTIN: At this point, you could reroll with as many dice as you want, ‘cause you’re within your Target Heart Rate.
+
+JACK: And if I reroll, Static jumps again?
+
+AUSTIN: No. Static jumps- jumps only on the first failure of a regular roll like this.
+
+JACK: So what’s the consequence for me-
+
+AUSTIN: So, this is a, this is, I’m going to say out loud, is a Risky Action. “An agent that performs a Risky Action could impair their abilities in the field. Risky Actions include combat, high speed chases, falling, or environmental hazards. Failing a Risky Action reduces the agent’s Force or Instinct by 1 die. In most cases, Control or the team leader will request an impaired agent ejects from the mission.”
+
+JACK: Oh, so it- takes one of my stats down, if I fuck this up.
+
+AUSTIN [crosstalk]: It will take one of your stats down if you fuck this up. 
+
+JACK: Okay.
+
+AUSTIN: Um, what is happening as- I- it may be obvious. He is reaching for-
+
+JACK [crosstalk]: Reaching for some kind of a weapon.
+
+AUSTIN: -a gun. He’s just gonna sh- he’s pulling out a gun and shooting you in the stomach.
+
+JACK: Yeah. Okay.
+
+AUSTIN: It’s a silenced pistol. Yeah.
+
+JACK: Um, and the Instinct that Florence is rolling for here isn’t the recognition that something’s wrong, it’s the specific, m- manoeuvre that’s about to happen, right?
+
+AUSTIN: No, it’s-
+
+JACK: ‘Cause I think as soon as he said he was from Blough City, Florence would have been like, “Ah.”
+
+[1:40:03]
+
+AUSTIN: No, because you work with- because this is the type of person Alicia would-
+
+JACK [crosstalk]: We don’t trust them, though, do we?
+
+AUSTIN: -or not Alicia, that-
+
+JACK [crosstalk]: [laughing a bit] Alicia?
+
+AUSTIN: -that Chris would be calling for… I said Alicia. Yeah, it’s because I was looking at Ali’s name. [Ali starts laughing] In Roll20.
+
+JACK: That’s… [laughing] Ali’s formal name.
+
+AUSTIN: Well, it says Alicia A. in the… [Ali laughs] in Roll20. Um, that Chris, Chris was not calling for somebody from Bluff City.
+
+JACK: Right, that’s true.
+
+AUSTIN: There are other people from Bluff City here who aren’t your contacts, you know. Or other agents. Was gonna be someone from Blough, just like the driver that, that Heard called was from Blough. It’s just a matter of like, “Oh, can you trust this person.” Are you getting someone who’s on the level, or who’s at least neutral enough to the war, to the conflict, that they won’t, you know-
+
+JACK: Yeah.
+
+AUSTIN: -interfere? Right? So this is, this is seeing that this is a moment of aggression, and not what he is really doing, which is, going to try to kill you by shooting you in the stomach. Or the chest.
+
+JACK: Ali asks if she can aid or interfere? Which… Oh.
+
+AUSTIN: Sadly, no, this game does not have that system. [Ali laughs] In that way?
+
+JACK [crosstalk]: Okay. I’m gonna reroll.
+
+AUSTIN: I think there might be… Like, there might be, mm- I think there might be moves for that, or like, Techniques or something. But I don’t see anything, this is very much a game that is like, you’re kind of on your own out here. You know? So yeah, you’re gonna reroll.
+
+JACK: Uh- and my rerolling here, is this additive? Or am I replacing my whole roll?
+
+AUSTIN [crosstalk]: It is replacing. It is replacing.
+
+JACK: Okay.
+
+AUSTIN: If you had a Technique that- or a Talent that tied in, that would be additive. But in this case, it is just replacing. 
+
+JACK: Um, in that case, I’m gonna roll five dice.
+
+AUSTIN: Okay.
+
+JACK: God, I love this “You can roll as many dice as you want” move. It’s so good.
+
+AUSTIN: It’s as many as you want! That’s so many dice! [Laughs].
+
+KEITH: Mm-hm. [Jack chuckles]
+
+AUSTIN: That’s 19! [deep laugh]
+
+[Keith whistles, Ali chuckles]
+
+KEITH [crosstalk]: Good thing, uh-
+
+AUSTIN [crosstalk]: [distant] You’re gonna-
+
+JACK [crosstalk]: Okay, that’s about what I was- that’s about- I did some quick- [laughing] 
+
+AUSTIN: Oh-
+
+JACK: I did some Jeopardy-style quick risk maths, and that was a number that I was kind of expecting.
+
+KEITH: Wow, you know what sucks? Any one of these dice could be removed to give you a success.
+
+AUSTIN: Any one of them. Yeah.
+
+JACK: I know!
+
+AUSTIN [crosstalk]: I’m gonna increase-
+
+JACK [crosstalk]: I’m gonna take a…
+
+AUSTIN [crosstalk]: Yeah, a Commendation-
+
+JACK [crosstalk]: I get XP, right? Yeah. Commendation
+
+AUSTIN: You get Commendation, yeah, yeah. Which is like-
+
+JACK: Okay.
+
+AUSTIN: -a combination XP-slash-currency. Um-
+
+KEITH: You could remove- you could remove just- you could remove three dice from that [Austin laughs sharply] and it’s still a success. [Jack laughs]
+
+AUSTIN: Yeah. The first three dice would have been fine in this case. So.
+
+JACK: I am still in my Target Heart Rate though.
+
+AUSTIN: You are. Wait, you should increase that also. 
+
+JACK: Yeah.
+
+AUSTIN: That is- gone up from 88 to-
+
+KEITH: And, just a quick reminder-
+
+AUSTIN: [forlorn] 107…
+
+KEITH: -something we went over last episode, that Agent Page has I think by far the smallest range here.
+
+AUSTIN: Yeah. Definitely.
+
+KEITH: In their Target Heart Rate. Because you’re- yeah.
+
+JACK: I have a pretty- yeah.
+
+AUSTIN: They get to it very quickly com- in comparison, I think, [Keith affirms] but, but, has now already blown through a lot of that. So.
+
+KEITH: Yeah.
+
+JACK: I can Meditate. 
+
+AUSTIN: You can Meditate. You do have Meditation. That’s true.
+
+KEITH: Um.
+
+AUSTIN: So what do you do? What’s this look like, Florence?
+
+JACK: So I think- I think… [sighs] 
+
+AUSTIN: Is this just-
+
+JACK: Man.
+
+AUSTIN: -you’ve dodged out of the way, and-
+
+JACK: No… no. I wanna, I wanna take a forward action here, I think. [Austin affirms]. I- I’ve been thinking about how this is shot. ‘Cause we’ve been playing Masks and we’ve been talking about comic books a lot. 
+
+AUSTIN: Yeah.
+
+JACK: And we’ve also been talking about camera positioning, uh, and I think that- that there is this sort of like, um, Dogma 95-slash-nature documentary feel-
+
+AUSTIN: Mm-hm.
+
+JACK: -to what we’re seeing? It’s just this kind of like, mid-shot of the car, with- it’s very Simon Stålenhag as well- with like, Chris, at the front, like, leaning into the front. And then we see, like, it’s a single shot, um… Sleeves, leaning into the car. And Florence just goes like, 
+
+JACK (as FLORENCE): No.
+
+JACK: And just strikes him hard on the back of the head.
+
+AUSTIN: Mmm. Okay. 
+
+JACK: I’m gonna try and like- my Force… one of the verbs-
+
+AUSTIN: [chuckling] Yeah.
+
+JACK: -in my Force thing is “Incapacitate”?
+
+AUSTIN: Yes.
+
+JACK: So that’s what I’m really trying to do.
+
+AUSTIN: Give me a Force roll. Your Force is 4.
+
+JACK: Mm-hm.
+
+AUSTIN: And you have the talent Aggression. So if you need one extra- I mean, you could roll whatever you want, you’re in your Target Heart Rate. I keep forgetting this.
+
+JACK: Sure. But because I have the talent Aggression, what- what-
+
+AUSTIN: Mm-hm.
+
+JACK: What does- what would that do? Would that just give me an extra die?
+
+AUSTIN [crosstalk]: That lets you just add an extra- it lets you- after you’ve rolled, decide if you want-
+
+KEITH: Yeah.
+
+AUSTIN: -to just add one extra die.
+
+KEITH: If you fail, you get to roll one die instead of rerolling everything.
+
+AUSTIN: Yeah.
+
+JACK: Oh, damn. Okay. Sure. No, I’ll just roll 4d6. I mean, I’m gonna play- No...
+
+AUSTIN: You don’t want to roll 3d6? 
+
+KEITH: You could roll 3 and then-
+
+JACK [crosstalk]: Ohhh, that’s true.
+
+KEITH: -roll 4, after. Yeah. Yeah.
+
+AUSTIN: You’re in your Target Heart Rate, that’s like, the thing that’s so-
+
+JACK [crosstalk]: Damn.
+
+AUSTIN [crosstalk]: -fucking cool.
+
+KEITH [crosstalk]: I had specifically the, the book describes it as, “This lets you roll only two dice, if you want!”
+
+AUSTIN: Right. Right.
+
+JACK: This is one of my favourite game design mechanics, is, there’s a card in a card game that lets you set a creature’s, health to 19, and you’re like, “Damn, 19’s a really high amount”, until you realize you could also target it on a very high creature-health-
+
+AUSTIN: Right.
+
+JACK: -and bring it down to 19? 
+
+AUSTIN: [laughing] Right.
+
+JACK: And it’s one of the like- this is the reverse of that, right?
+
+AUSTIN: Right.
+
+JACK: Like I could roll one dice here, I wouldn’t do very well.
+
+AUSTIN: Totally.
+
+JACK: Yeah, I’m gonna roll 3d6.
+
+AUSTIN: Okay.
+
+JACK: Okay, that’s an 8.
+
+AUSTIN: That’s an 8. So you gotta get 3 here.
+
+JACK: Uhh… And I’m gonna roll 1 more- so, one more d6?
+
+AUSTIN: 1d6 for your Aggression.
+
+ALI: [concerned] Ohh…
+
+KEITH: Nice. Oh wait, no, that’s… Sorry.
+
+[Jack and Austin burst out laughing]
+
+KEITH: I saw… I saw the 8 and thought it was a 3, and I was like, “Oh great!” [Ali chuckles] You did it!
+
+AUSTIN: Mm-hm.
+
+JACK: No, okay. Right. 
+
+AUSTIN: Gimme that-
+
+JACK: Well, this is a 50/50 chance, isn’t it?
+
+AUSTIN: Mm-hm! [pause] Well, it’s more than that.
+
+ALI: Yeah, you- but-
+
+AUSTIN: Because all you need is the 8. Yeah. All you need is the 3, rather.
+
+JACK: Oh yeah- [Ali affirms]
+
+AUSTIN: You got it. You got a 3. Nice work.
+
+JACK: So I add 11 to my thing, right?
+
+AUSTIN: You add another 11 to your [laughs a bit], to your Current, which brings you up to 118. Leaving you 9-
+
+KEITH: Boy.
+
+AUSTIN: -away from your, the top of your, your peak.
+
+KEITH: You… Jack hadn’t rolled at all, and then blew through… [Jack and Austin laugh] to basically the last roll in their Target Heart Rate in one string.
+
+JACK: Well, I love this right? Because-
+
+AUSTIN: Yeah, me too.
+
+JACK: -we know that Florence is this like, not elderly, but like, older…
+
+AUSTIN: Mm-hm.
+
+JACK: Former cop, who is prone to violence and panic?
+
+AUSTIN: Yeah.
+
+JACK: And we saw her [Keith starts laughing hard from a distance] have this kind of like, we saw her have this kind of breakdown in the diner, when she was like, “I screwed up an information thing.”
+
+AUSTIN: Right.
+
+JACK: “And now I’m just like really flighty, and I’m really on edge.” And I think that they’re like- the upside of that is that it just lets her lash out at this dude at the right moment? And the downside of that is that she’s just so amped up about it?
+
+AUSTIN: Totally. So, what’s this look like?
+
+JACK: Umm… I don’t think the camera c- I don’t think the camera cuts, at all.
+
+AUSTIN: Gotcha.
+
+JACK: I think we just see him kind of like, crumple to his knees?
+
+AUSTIN: Yeah.
+
+JACK: And Florence just like, picks his gun up, ejects the bit of the gun that sh- that is bad [laughs].
+
+AUSTIN: Yeah.
+
+KEITH: The cartridge.
+
+JACK: [laughing] The cartridge!
+
+AUSTIN: Do you keep it? Because you don’t have a gun right now. 
+
+JACK: Oh, sure. But I think I still-
+
+AUSTIN [crosstalk]: So take a-
+
+JACK: -I think I still e-
+
+AUSTIN: Yeah.
+
+JACK: Mmmm. Yeah. I want to make sure- I want to take the gun out of action-
+
+AUSTIN: Yes.
+
+JACK: -but I want to have it. Um.
+
+AUSTIN: Totally. Totally fine. Make a note that you have a +1 gun. [Chuckles]
+
+JACK: I have a- [starts laughing] that’s very funny. Um.
+
+AUSTIN: So the way… the way-
+
+KEITH: The gun adds +1 or this gun is a +1 gun?
+
+AUSTIN: This- well, it’s both, actually. So, the way it works is that equipment of any kind adds- equipment requisitioned from inside of Blough City gives you a +1, um, regardless of its nature or utility. So for instance, if you find a gun from a, from a body, or if you find a, or if you steal a car, they are +1 cars or guns to whatever the requisite roll is, or whatever the related roll is. So if you shoot at someone using Force with this gun, you can, you’ll be rolling 5d6 instead of 4.
+
+KEITH: Right.
+
+AUSTIN: Right? You-
+
+JACK: All right, I’m gonna just like- oh, sorry, go ahead.
+
+AUSTIN: You could also try to acquisition equipment? Um, by using Access? And that gives you a bonus equal to [cat meowing in the background] um. Sorry, you know what, it’s not- [Keith laughing in background, Jack laughs a bit] sorry, it is not- yeah, great. Thanks, cat. It is not- [Ali laughing a bit in background too] it is not that you get to roll an extra die. It is a +1 bonus to the die.
+
+JACK: Mmm.
+
+AUSTIN: So you would roll 4d6 for Force +1 to whatever that roll is ‘cause you’re using the gun. Uh, but let’s say that you… let’s say that, that Agent Seals, uh, did an Access roll to requisition a gun from Control. When you do that, the bonus is tied to whatever your Access score is. So that would be a +3 gun. Versus your +1 gun that you’ve just obtained.
+
+JACK: Oh, that’s rad. That’s great. 
+
+AUSTIN: So that’s the same with cars, same with any other types of equipment that you need. You can a- that’s, that’s one of the reasons why it’s cool to use that, to get that sort of equipment. So. Nice work. Uh- this guy’s just knocked out on the ground-
+
+JACK [crosstalk]: Do we carry… handcuffs?
+
+AUSTIN: I think at this, at this moment… Um, do you? I don’t… [Ali takes a deep breath] think so.  What were you gonna say, Ali?
+
+JACK: Chris?
+
+AUSTIN: Yeah, Chris?
+
+ALI: Oh, I- I think I heard you incorrectly [laughs], I was wondering what you were- I thought you said about doing something with the body, and I was like, I have an idea for that, but that’s not what you- [breaks off into laughter]
+
+AUSTIN: I was asking what w- what’s happening with this body.
+
+JACK: So I think like Florence just like looks up, and like whistles to get Chris’s attention [laughing, Ali starts laughing] from the f- from the front of the car? 
+
+ALI: Um… Yeah, I think… I think the idea that I have [laughing] which is probably, a little much, is, um, I wanna like, take the pictures that he developed? 
+
+AUSTIN: Yeah.
+
+ALI: But I also just like, want to put his body in the front seat of his car, and then like, I don’t know if this is possible, but I want to like, roll back the numbers on his camera?
+
+AUSTIN: Ohhh.
+
+ALI: So like, it’s like he didn’t take those last two pictures, right.
+
+AUSTIN: Sure.
+
+JACK: Ohhhh.
+
+ALI: And he’s just gonna wake up in this field and be like, “Oh, that’s weird.”
+
+KEITH: I’ve got-
+
+ALI: Probably remember it, but who knows? [laughs]
+
+AUSTIN: Sure.
+
+KEITH: I have… I have a sort of… We could also, we could take the car, and not have to rely on this car service.
+
+AUSTIN: [deep laughing] You could also do that. [Ali laughs] That is true.
+
+JACK: We could also take him.
+
+AUSTIN: You’d get a +1 car here too. Um, I can show you what his gun looks like, also.
+
+KEITH: This is- I mean this is, this is Concern property. We are- we have legitimate access to this vehicle. 
+
+[pause, then Jack starts laughing]
+
+JANINE: You might need his camera.
+
+KEITH: I’m saying- I don’t know if that’s true, but I’m saying that- I’m saying it. [Jack laughs]
+
+[1:50:00]
+
+JANINE: We might need a camera at some point, and some sort of black room style-
+
+AUSTIN [crosstalk]: Totally.
+
+KEITH [crosstalk]: Yeah, this guy- this guy’s got a- Yeah.
+
+JANINE [crosstalk]: It’s hard- it’s hard to know what we’ll need, really.
+
+JACK [crosstalk]: Oh my god.
+
+[Ali laughs nervously]
+
+JACK [crosstalk]: This piece of shit. Fuckin’ fancy gun.
+
+KEITH [crosstalk]: Sleeves- Before Sleeves decided to take a nap [Austin chuckles], before this Eric Trump motherfucker [Austin laughs loudly] decided-
+
+JANINE [crosstalk]: What’s he wearing again?
+
+KEITH: -decided he was too tired to stand-
+
+AUSTIN: He has like a, a black suit with a- what did I say?
+
+AUSTIN and JACK [overlapping]: A green shirt and a red tie?
+
+KEITH [crosstalk]: I don’t want any of that.
+
+AUSTIN: Very festive.
+
+KEITH [crosstalk]: Yeah, I don’t want any of that.
+
+JANINE: Was it a green shirt or a green coat?
+
+AUSTIN: Green shirt. His coat was black. He had a black coat on-
+
+JANINE: Okay.
+
+AUSTIN: -with a green shirt and a red tie.
+
+KEITH: Yeah.
+
+JANINE: Is his coat warmer than Chris’s coat?
+
+AUSTIN: Oh! So this is the thing! He falls - this is what I was gonna say before is - and his coat is a peacoat. And his face is a horseshoe crab face. Right. Like-
+
+JACK: Oh, damn, dude’s got some kind of very good disguise.
+
+AUSTIN: Right. He was disguised to- you’ve like, knocked out his disguise, basically- his like double weird disguise, because as Concern agents, you would be able to see him, but you’ve knocked him out, and so that- that kind of fell, that face fell from him. And so yeah, you can- you could totally take this peacoat from him. For sure. Be very- [Ali laughs] it would be a very nice, warm coat
+
+ALI: [laughing] Can we just- if we’re going this far, can we just like, when our car lady comes back, [Jack laughs] just like put him in that car-
+
+JACK: Well, I don’t-
+
+ALI: -and take his car?
+
+JACK: I’m not kidding when- we might just kidnap this dude. Like…
+
+ALI: [quietly] Look, okay…
+
+AUSTIN: You’re gonna put him in the fucking trunk, with his photography equipment?
+
+JACK: N- well… [Ali laughs] that sounds like he’s gonna escape from the trunk-
+
+JANINE [crosstalk]: I mean, als- he-
+
+JACK [crosstalk]: -if I’m being honest, Austin.
+
+AUSTIN: Oh, that’s not what I meant.
+
+ALI: My name is on this aqua- acquisition form, which is why it’s like, why I’m pushing for the like, “Oh, maybe he just wakes up and thinks that he had a weird night. And a weird dream where he got beat up by-”
+
+JANINE: He’s not gonna think he had a weird dream-
+
+AUSTIN [crosstalk]: He’s not going to think he-
+
+JANINE: -he’s a secret agent crab man. [Ali laughs]
+
+JACK: He’s gonna be like-
+
+AUSTIN: No. No.
+
+AUSTIN [crosstalk]: He’s a- he’s one of you.
+
+JACK [crosstalk]: he’s gonna be like, I was gonna shoot Florence, and then- 
+
+AUSTIN: Right. [Ali laughs]
+
+KEITH: I’ve got an i- I’ve got an idea. Maybe this guy doesn’t wake up.
+
+JACK: No.
+
+ALI [crosstalk]: Mmm...
+
+JANINE [crosstalk]: Ehhhh… Okay, m-
+
+AUSTIN: You’re the senior agent.
+
+JACK (as FLORENCE): Well, what- what do you mean?
+
+KEITH (as ROBBER): He tried to kill you.
+
+JACK (as FLORENCE): He’s valuable.
+
+KEITH (as ROBBER): He’s dangerous.
+
+JANINE: Are- are we all in character back in one place now?
+
+AUSTIN: We are back in character-
+
+JANINE: Okay.
+
+AUSTIN: This- yeah.
+
+JACK (as FLORENCE): What was that, Ryder?
+
+ALI (as CHRIS): He works for our company.
+
+KEITH (as ROBBER): People that work for our company are very dangerous.
+
+JACK (as FLORENCE): I don’t think anybody’s disputing his danger, sir. I think maybe, uh, some of us just recognize his value. We have some leverage here that we did not before. 
+
+KEITH (as ROBBER): Levera- who are you trying to leverage?
+
+JACK (as FLORENCE): Chris, what was in the pictures?
+
+ALI (as CHRIS): A lot. Um… more than I thought… Basically his whole time here. Um… I- I think I have the moment of death?
+
+KEITH (as ROBBER): [quietly] The M.O.D.
+
+ALI: And she’s like, fluttering through the [laughs loudly] folder, and like, pulling out examples, as she’s saying it, and then she pulls out the weird hand photo.
+
+JANINE: Does Chris still have her cigarette?
+
+ALI: I think that she’s, she’s had it in her right hand which is like, holding up the folders, her left hand is like flipping through pictures or whatever. Um, and then, yeah. [laughs]
+
+JANINE: Can… I’m- I’m asking if I can do the th- Can Maggie take the cigarette? [Austin chuckles] And smoke it? [Jack chuckles] And then start tying this guy up? 
+
+ALI: [laughing] Sure?
+
+AUSTIN: Love it.
+
+JANINE [crosstalk]: [laughing] ‘Cause that’s what I want to have happen.
+
+JACK [crosstalk]: [chuckling a bit] Maggie Darcy’s great.
+
+AUSTIN [crosstalk]: Oh my god, I love it so much.
+
+JANINE [crosstalk]: She just walks up to rejoin this group, doesn’t say anything, listens for a bit, hears, “He has pictures of this murder”, and is like, “Okay, I’m gonna take your cigarette, I’m gonna smoke it-” [Austin affirms/laughs a bit] “-I’m gonna tie this- [laughs] this person up [Austin laughs]. We’re gonna move on with our day.” [laughs]
+
+AUSTIN: [sighing] God. So powerful, honestly. I’ve added “The Curator killed Blake Blossom” to our map.
+
+JACK (as FLORENCE): I’m not gonna kill him, sir.
+
+AUSTIN: Was that a dir- it was no- I’m gonna say this was not yet a direct order. 
+
+AUSTIN [crosstalk]: Heard, you can m-
+
+JACK [crosstalk]: It was a suggestion, right?
+
+AUSTIN [crosstalk]: It was a suggestion. So I’m not raising Static is my point. [Jack affirms] I- I could, if Heard makes that a direct order, Static will go up if you r- continue to refuse. But I’m not-
+
+JANINE (as MAGGIE): Corpses don’t talk. [Austin laugh/affirms a bit] If they did, this Blake Blossom thing would’ve been real quick. [laughs a bit, Jack laughs]
+
+KEITH: I mean, I can- I can kill him without, like, the gun, or making-
+
+AUSTIN: Yeah, you could.
+
+KEITH: -or making Page do it.
+
+AUSTIN: You could.
+
+KEITH: Yeah, I kill this guy.
+
+AUSTIN: Like a Hitman-style, kneel to the ground, quick thing?
+
+KEITH: Yeah. Yeah.
+
+AUSTIN: Okay. All right, we don’t have to focus on it. Um, so yeah, that happens. Um… Wh- like, as you stand up, a car phone inside of his car begins to ring.
+
+[Ali laughs]
+
+JANINE (as MAGGIE): Sounds like that’s for you, Agent Heard.
+
+AUSTIN (as PHONE): Pling! Pling!
+
+KEITH (as ROBBER): Got it.
+
+ALI: I- I’m-  If you want to answer, you can, but I’m like, in the car? I guess? [laughs a bit]
+
+AUSTIN: You are in the car.
+
+KEITH: Okay, if you want to answer, that’s fine. I was-
+
+ALI: Yeah, I think, Chris’s like, been making eye contact with Florence while [laughs, Austin affirms] Heard is killing this dude?
+
+JACK: Florence is just, f- s- furious.
+
+AUSTIN: Yeah.
+
+ALI: Um, and then hears the phone call, then like, reaches behind her, now that her right hand is free. Um…
+
+AUSTIN: It is like a rotary phone inside of this car.
+
+ALI: Okay.
+
+AUSTIN: It’s inside of a centre console, you open it up. You pick it up. And it is the voice of one Agent Ward, um… who you might remember showed up in Noirlandia. Um… she crashed into your car?
+
+JACK: Ohhhhhhhh.
+
+AUSTIN: Do- do you remember that? 
+
+JACK: Yeah, I do…
+
+ALI: Yeah, I do. I do.
+
+AUSTIN: And then, I think, beat the shit out of, uh, Florence? Or something? Or just like- did she just say some-
+
+ALI [crosstalk]: Yeahhhh.
+
+JACK [crosstalk]: With like a coffee cup, or something.
+
+AUSTIN: You had a m- a coffee mug, or something.
+
+JACK: Like a coffee percolator.
+
+AUSTIN: Yeah. Yeah. I don’t know if she hit you with it, or if you just- I remember you falling over. I just listened to this a little while ago, and I don’t quite remember what exactly happened. But, um… she was also known as Leslie Strada. You- we as the audience know that she was born in Blough City and betrayed Blough City to jump ship. She’s- she, she was a double agent. Or I guess she was not a double- or, I guess she was supposed to be a double agent, but she ended up being a triple agent, [Jack laughs] and stayed on the side of who she went to, to go work for, which was the Bluff side Concern. And so she is on the other line. And she says, um,
+
+AUSTIN (as WARD): Agent Ryder. Please put on Agent Heard. [sighing]
+
+[Ali and Jack laugh]
+
+ALI: Like a foot- like her arm is completely straight, and reaches it out, and looks at Heard and says,
+
+ALI (as CHRIS): It’s for you.
+
+KEITH (as ROBBER): Heard here.
+
+AUSTIN (as WARD): Heard. Status report. 
+
+KEITH (as ROBBER): Which part?
+
+AUSTIN (as WARD): The most recent. The Thicket.
+
+KEITH (as ROBBER): Um… There was a hostile agent here, and, now there isn’t.
+
+AUSTIN (as WARD): Very good. [deep breath] Have the others made moves on Squire?
+
+KEITH (as ROBBER): Others… with me?
+
+AUSTIN (as WARD): Yours.
+
+KEITH (as ROBBER): Yes. Well… maybe. Ca- they’re cagey.
+
+AUSTIN (as WARD): Watch them closely. And move with… similar confidence, if the time comes. We are considering you for great things, Heard. 
+
+KEITH (as ROBBER): I heard that before.
+
+AUSTIN (as WARD): Mm. If you need anything, let me know. 
+
+KEITH: I hang up.
+
+[The opening dial tone from “Messy Business Main Theme” plays, cueing the beginning of the song.]
+
+[“Messy Business Main Theme” plays]
+
+[“Messy Business Main Theme” ends.]
+
+[2:00:57 - end]

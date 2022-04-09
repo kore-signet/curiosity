@@ -1,0 +1,822 @@
+Live at the Table 17: March 2019
+
+Transcriber: Kass (kass#2668)
+Notes:
+1. 	A Twitter username referenced in the February Live at the Table game a little after 00:53:00, which itself was taken from a list of fake American names featured in a SNES baseball game.
+--00:00:00--
+AUSTIN (as Rye): An excerpt from the journal of Rye, elect of the Divine Space, Second of the Nine Coronet of Stel Orion, Chief Signatory of the Pact of Necessary Venture, and Provedore of all Divinity in this, the year 1423 of our Perfect Millennium.
+[Jack De Quidt’s ‘HOURGLASS. SUNRISE. CRYSTALLINE.’ plays] 
+Did you know that thousands of years ago, my people hated beings like you, Space? This was well before we found our purpose as Stel Orion, but quite a bit after we’d settled into our destiny as captains of industry. We feared you, I suppose. We fled from you, certainly. And we built weapons specifically to kill you and anything like you, even if it cost us our own lives. And that is a task we’ve only gotten better at with time.
+What I find remarkable about all this is that, as I understand it—and I understand it better than most—we did that after we built you. Not just you, of course, but the Divines writ large. 
+You weren’t even supposed to be all that important, see? Your kind? You began as a passion project, on some anonymous company’s research budget. You were tied to a cold facility on a bitter, provincial world. Maybe you were someone’s last best hope, but to the whole of Orion? You were just another line item.
+Is it any wonder we came to fear you? Look at all you represent: You are the rebelliousness of invention. You are the unpredictability of time. You are us, at our most, and magnified. It’s just like old Nideo said, there is no debate: You are fire and mirror both. And any attempt to say otherwise are just words spoken with a coward’s voice.
+[‘HOURGLASS. SUNRISE. CRYSTALLINE.’ finishes playing]
+AUSTIN: We left on the image of Lunar Leson in her mech, alone on an asteroid, floating through space on a self-appointed deep reconnaissance mission, when suddenly her scanner’s overloaded as a single word appeared on her screens: courage. Now, the camera blinks back onto the same shot, with her mech, the Rose-of-Charon, pink and burgundy with large orb-like shoulders, kneeling in the same pose as when we last saw it. And then, three small riggers - or Hallows, as the Divine Principality would call them - appear on the screen. They are the mechs of Memphis Longhand and the Talk brothers. We see the Queenside Castle reach out with its rubberised hand and shake Lunar’s mech, to no response. A second shake, and we see the cockpit open from behind. And then the camera cuts to a crowded shot behind the three mechs, panning up over their shoulders to reveal the empty heart of the Rose-of-Charon. Screens are shattered, controls are locked into place, and Lunar Leson is nowhere to be found. 
+AUSTIN: Welcome to Live at the Table, an actual play - livestream focused on critical worldbuilding, smart characterisation, and fun interaction between good friends. Today we are continuing on the Road to Season 6 by continuing the story of the Orion Combine’s resistance against the invading Divine Principality. But instead of finishing out our game of dusk to midnight, which was by Riley, we are going to be picking up Beam Saber by Austin Ramsay, and zooming into a key point in the action via a one-shot. My goals are to convey the world – the fictional world honestly, to fill the world with detail – and I’ve written here in the margin ‘fill the world with people who have names, cities that breathe, buttons that click, screens that glow, and cloth that flows’- and to play to find out what happens. I am Austin Walker. Joining me today, Art Martinez-Tebbel.
+ART: Hey, you can find me on Twitter @atebbel and agitate for the return of One Song Only by tweeting @OneSongPod. [Austin and Keith laugh]
+AUSTIN: We got some – we got another one recently that was like – one came to just me and Ali, recently, that was like [ALI: Mmmm.] ‘so, is One Song Pod dead’? Ali Acampora is here.
+ALI: Hi, you can find me @Ali_West on Twitter, and you can find Friends at the Table over at @Friends_Table. And you can @ One Song Only at @OneSongPod and I won’t respond to those tweets.
+AUSTIN: Hell yeah. [Ali laughs] Jackhttps://notquitereal.bandcamp.com/album/live-at-the-table-friends-at-the-table-soundtrack de Quidt.
+JACK: Hi, I’m Jack. You can find me on Twitter @notquitereal, and you can buy any of the music featured on the show at notquitereal.bandcamp.com.
+AUSTIN: And Keith Carberry.
+KEITH: Hi, my name is Keith J Carberry. You can find me on Twitter @keithjcarberry. You can find the Let’s Plays that I do at youtube.com/runbutton. I also want to plug that I’m enjoying how dire the One Song Only plug from Art has been every time we recorded for the last three sessions. It has been less and less certain. [Ali and Austin laugh]
+JACK: Art shows up like, ‘the embers dim’. [Austin and Keith laugh]
+ART: I think we’re coming up on the first birthday of One Song Only -
+AUSTIN: We are! We’re getting there.
+ART: - a show that only needed like, twelve episodes. [Austin and Keith laugh]
+AUSTIN: We got to like five, right?
+ART: No, we got way further than that.
+AUSTIN: Okay, well-
+ALI: Yeah, there were a bunch.
+ART: That’s the real thing, is we’re so close.
+AUSTIN: Okay, fair.
+ALI: Yeah…
+AUSTIN: Uh, I just – I love –
+ART: He became unfun to talk about. I mean that’s – that’s -
+AUSTIN: Right. That is what happened. [Ali laughs] Jack, I just want to let you know that I – that when you said ‘an ember dims’, I definitely started thinking about what would the Dark Souls opening to One Song Pod be? [Jack laughs] And it would be very good. [with an ominous tone, in a vaguely British accent] ‘Perhaps you’ve seen it, maybe in a’ –
+JACK: [crosstalk] ‘You have heard of this singer’. [Ali laughs]
+AUSTIN: [laughs] Yeah, ‘maybe in a dream’. [Jack laughs] ‘But we all know no one man should have all that power’.
+JACK: [softly] Jesus.
+AUSTIN: Um… the… Is there anything else we need to plug? Uh, friendsatthetable.cash to support us. If you’re listening to this now, it means you’ve probably supported us, or you’ve waited until we’ve put this out to promote season 6 coming up. One or the other. Um, but either way –
+JACK: Also -
+ART: Merry Christmas, by the way. [Austin laughs]
+AUSTIN: I – [groans]
+JACK: Also, I really – I quickly wanna address the fact that like, if you’re listening to this on the recorded version, there hasn’t been any music on these Road to Season 6 streams.
+AUSTIN: Right.
+JACK: There are a couple of reasons for that. Music’s hard and time-consuming to make.
+AUSTIN: Yeah.
+ART: Mm.
+JACK: Um, and also, it takes a long time to work out what the sound of a season is.
+AUSTIN: Yes.
+JACK: And I would rather be, at this point in time, spending my energy working on Hieron than developing the sound for 6.
+AUSTIN: [crosstalk] And Bluff, right?
+JACK: Suffice to say –
+AUSTIN: You say that. Wait, wait, wait Jack, you say that, but you’ve been linking me to season 6 – we’ve been – we have been – I think the actual truth is, we’ve been developing the season 6 sound.
+JACK: We’ve been working on it. Yeah, exactly.
+AUSTIN: It’s just not there, which is fine.
+JACK: It’s not playable right now.
+AUSTIN: Right.
+JACK: Suffice to say, there might be a time when these episodes have music, [AUSTIN: Mm-hm.] but it’s not yet, and I’d like to thank everybody for their patience at that point.
+AUSTIN: Absolutely. Where can people – I guess we already said, right? [JACK: Mm-hm.] notquitereal.bandcamp.com. Okay, great. I’m gonna just really quick once again plug Bluff City. Bluff City is really, really, really good, and we figured out something recently that’s so – I’m fucking so excited for people to see it. [JACK laughs] No fucking idea, ugh! Alright.
+KEITH: What’s the thing? What is it?
+JACK: I can’t tell you, Keith.
+AUSTIN: Keith, it’s a secret.
+ART: A secret from us?
+KEITH: Mute the stream.
+AUSTIN: No! [Keith laughs] It’s a secret for you too. You’ll hear it and you’ll be like, ‘wow, that was really good’. Um, alright.
+ART: Don’t tell me how to be. [Austin, Keith, and Jack laugh]
+AUSTIN: Alright. So, uh… um, for people who didn’t listen last time, we did two short games. Two, like, small one-shot microgames that came out of the Emotional Mech Jam. One of them was by Riley, @jacerethal on Twitter, and that game was called dusk to midnight, which was about a – a group of soldiers fighting in a mech war and either succumbing to disillusionment or going out in a blaze of glory as they committed themselves heroically to a lost cause. Um, and we are picking up that same story with some of those same characters. Um, can three of you – can Jack, Art, and Keith introduce your characters before I turn to Ali and have her introduce her new character?
+JACK: Okay. My character is called Smack Talk. He uses he / him pronouns. His first name is Smack. His second name is Talk. His middle name is something like John, or Jacob, or Miles.
+ART: [laughs] Smack Talk Talk is a powerful name. [Jack laughs]
+AUSTIN: Uh-huh.
+JACK: Um, he – because we’re in a, I guess, Forged in the Dark adjacent game, he has a look. And his look is ‘rugged face, trustworthy eyes, military hair, compact body, and a practical outfit’. I picture him as a short, compact individual with a military haircut. He pilots a mech called the Blue-of-the-Heavens, and he hates it.
+AUSTIN: He does hate it. Let’s talk about his brother – or, let’s talk about – let’s not – let’s save the brothers in case there’s new listeners, ‘cause I like this bit. Art, tell me about your character.
+ART: Um - but yo what it is, this is Memphis Longhand.
+AUSTIN: Oh my god.
+ART: I’m, uh…
+AUSTIN: [laughing] He did it immediately! He did it immediately!
+ART: Agh! And Memphis Longhand is an athlete with some sort of mech sport. Memphis Longhand is here under conscription and also for propaganda purposes. Memphis Longhand’s mech is the Queenside Castle.
+AUSTIN: It’s true.
+ART: And, uh, it looks really dope.
+AUSTIN: Keith, tell me about your character.
+KEITH: Hi, my name is David Talk. You might have heard of my brother. My middle name is Back.
+AUSTIN: Great middle name.
+KEITH: Yeah. David Back Talk.
+AUSTIN: God damnit. [Keith laughs] I thought maybe there was a cousin. Cousin Small.
+KEITH: It’s – yeah well, they considered David Cousin Talk.
+AUSTIN: Jesus Christ.
+KEITH: I am, uh - I have a calm face. I have trusting eyes.
+AUSTIN: Oh, you did the whole thing. You actually went through – yeah, you looked at these sheets.
+KEITH: Oh, yeah, yeah, Jack did too, so I –
+AUSTIN: Nice, nice.
+KEITH: Yeah. Brothers have to pick out – I have to make sure that I’m visually different than my brother.
+AUSTIN: Right.
+KEITH: Poufy hair. Uh, skinny body. And – hoo – oh, outfit. I had a – I had a word for this, and it wasn’t on here. What’s the closest thing? Vintage.
+AUSTIN: Vintage. Vintage outfit.
+JACK: Ooh, vintage. I also just want to take this moment to let my brother know that I’m wearing aviators.
+AUSTIN: Great.
+KEITH: And I’m wearing transitional lenses.
+AUSTIN: [laughs] Are those like, medical? Or is it just for fun? Like just for, like, sunglasses.
+KEITH: No, those are the – those are the ones – I mean, yeah, I need them. They’re prescription glasses. To go outside.
+AUSTIN: Right, but I thought maybe – I was curious if David Talk always wore glasses, non-prescription, but [through laughter] they did transition to sunglasses.
+KEITH: Oh. [laughs]
+AUSTIN: Um…
+KEITH: It’s a light prescription!
+AUSTIN: Fair. You know what? Fair, fair.
+KEITH: It’s mostly for the sunglasses. I have sensitive eyes.
+AUSTIN: Um, yeah.
+KEITH: And they’re too trusting, so I don’t want people to see them.
+AUSTIN: Perfect. So let me set up the situation and then how Ali’s character has arrived. Ali, you and I still have to decide on a – you sent me three great potential names, and I’m gonna need you to pick one of them.
+ALI: Did I?
+AUSTIN: You did. You didn’t – you didn’t know necessarily that’s what you were doing. [Ali laughs] So, we – what we see I think after we see the kind of Lunar Leson intro, is a montage of the next few months of the war. Imagine it as the anime opening to this, um, maybe? Like, imagine what we watched last time was like episodes 1 and 2, and now we’re jumping on episode like, 14 or 20, y’know? Maybe it’s episode 26, who could say?
+What I see – I think we see from there – is, basically, the course of the war. So last time what we saw was that y’all kind of, were in the south-west part of the Orion – I didn’t update these maps. We’re calling this the Orion Combine now. It’s re-formed itself from a loose affiliation of corporations and oligarchies into a new, uh, kind of a sequel to the Conglomerate called the Orion Combine. Um, and y’all secured entry for Courageous – or for, sorry, Courageous and you, Courageous was one of the Divines- secured entry for a whole squad of additional Divines to come in and help push back the Divine Principality, which is currently targeting the Orion Conglomerate – the Orion Combine – for colonisation. And that the descendants of the Diaspora, which I’ve decided are called the Divine Collaborate, which are – it’s looser than the Diaspora ever was. The Diaspora was like one big super-state, and this is very much a loose – like, they’re not even - they’re not a federation, right? It’s not the European Union, even. This is a temporary collaboration. This is a temporary coalition. And so it is - the Divine Collaborate have sent – or, a number of Divines have volunteered to come join along with a number of people, to come help push back the Divine Principality, which these groups can immediately tell like, ‘oh, this is like an expansive, conquering, like empire’. This is not - like even the Orion Conglomerate at its height was not trying to do the thing that this is. ‘There’s only one thing that has ever tried to do the thing that the Divine Principality is now trying to do, and we joined to fucking fight that thing a couple of times, so we should do that again’.
+Um, and so, those of you who you fought with Courageous and who encountered the Principality stuff, have managed to push northward, and that’s this kind of blue colour zoom-in thing here. And the Orion Combine has pushed in from the north, southward, and you’ve kind of got the centre of the original area where the Divine Principality pushed in under – under lock. That went really well. Unfortunately, the southern end of the Orion Combine did not really do the lifting that they needed to do. The Divine Principality not only started winning those fights to the south, but they started expanding that way, and you can see they are now going to begin expanding down both of these two long arms and pushing that way. So, that is – that is kind of rough. Thankfully, a second wave of Divines showed up, including a Divine called, uh… de-de-de, I have it written down – called Harmonious. And Ali, you will be playing the officer today, and I’ll need the name of a bird you would always follow, because that will be your Candidate name.
+ALI: Oh, okay. Um, I gave you three choices before.
+AUSTIN: You did.
+ALI: I think I said Pidgeon –
+--0:15:00--
+AUSTIN: Uh-huh! Which is such an answer. [Ali laughs] Ali, I love you so much, that I said, ‘what’s a bird you would follow anywhere?’ – I put it in italics, ‘anywhere’ – [ALI: Uh-huh] and your first response was ‘pigeon’.
+ALI: [laughs] They know the city! They know how to get around.
+AUSTIN: [crosstalk] They do know the city!
+JACK: [crosstalk] They know what’s going on.
+AUSTIN: That’s fair.
+ALI: Um…
+KEITH: They – everywhere you go, you’d never not be able to find one.
+AUSTIN: That’s true! That’s true.
+ALI: Yeah. Um, I’m just gonna stick with Pigeon – I also said Hummingbird or Finch, but I think Pigeon is a really good name. [laughs]
+AUSTIN: Oh my God, it’s such a fucking good name.
+JACK: For a Candidate.
+AUSTIN: Yeah, totally. I’m gonna pull these sheets over. These sheets that I’m using are, like,  through Google Spreadsheets, and they were made – they’re for Beam Saber, which again is a game by Austin Ramsay – and the sheets were made… by a person. I’m looking.
+ALI: Mmm.
+ART: Glad to have that sorted out, though.
+AUSTIN: Here we go. By Erik Rȧdman. Rȧd – rod, rȧdman [rod man]? R, A with a little circle over it [ALI: Oh.] D – man. M – A – N. And I don’t know how to do the ‘a’ with the circle over it, ‘cause I’m not good at languages.
+ART: Can I have a brief aside at how weird it is to see stuff – the move names that are - ?
+AUSTIN: [crosstalk] Bro? Bro?
+ART: Yeah?
+AUSTIN: Did you look through this whole book yet? I need you to –
+ART: I’m not gonna look through the whole book. I looked through what I needed to read.
+AUSTIN: You should do a search for, I’m gonna say, the word Tebbel.
+ART: I don’t even know how to search on Windows. What are –
+AUSTIN: Oh my -
+ALI: ctrl+f.
+JACK: T-E-B-B-E-L. [Austin and Keith laugh]
+ART: Slow down.
+KEITH: [softly] Wow…
+AUSTIN: Uh, we’re – this is - Austin Ramsay’s a listener, and is a –
+ART: No, I knew that, but –
+AUSTIN: Well, I’m saying – I was gonna lead in to saying that like, there’s a character in every group in Beam Saber. Every squad has a direct superior. And Austin very, very graciously included all of us [JACK: Damn.] as members of – as potential superiors. And I think this is also Austin’s play-test group’s names are also in here. But it’s very, very, very sweet and good.
+JACK: That’s brilliant. Thank you!
+AUSTIN: Mm-hmm. So, I’m gonna move this back over here. But yes, Art, you’re also right, because what – are you the one who has? The two moves I gave you were Rook’s Gambit and Regent’s Brilliance, so… [Ali and Jack laugh] there it is!
+ART: Yeah.
+ALI: I’d like that one, please.
+JACK: And one of my allies – one of my possible allies – is someone called Ibex, ‘a disciplined warrior’.
+AUSTIN: Huh! Weird.
+JACK: Long, long dead. Long dead.
+AUSTIN: Yeah. Yeah, absolutely. I don’t even know if Ibex was ever near here in space. Space is big. So… che-che-che… So, we should go over characters really quick, and then we should kind of jump into it. I guess I’ll – let me finish giving the – the intro set up. You, along with Pigeon – Pigeon kind of joined your squad – OriCom group.  I’ve also decided you’re part of the OriCom Logistics Division. I think people call you the OLDs, or the OLD-timers, or whatever. Like, they definitely have a nickname around OriCom Logistics Division being, uh, a – being able to be abbreviated to OLD.
+ART (as Memphis): Memphis Longhand doesn’t play on OLD-timers day.
+AUSTIN: Great. Good. [laughs] Perfect. I’m gonna give you a little bit more here. So, one: looking back to that map, things are kind of rough right now. You have this centre locked down, but it’s – you’re kind of being hit on all sides, so that’s tough. Two, the group that you’re working with, with the Divines, is called the Beneficial Coalition. It’s partially called that because you’re working with the Divine Beneficial, who is the leader of the – of the Divine group that came in, but also because it’s a Beneficial Coalition, uh, [laughs] for everyone involved. And the – the situation is kind of grim. I think your group has reached a sort of – less of a stalemate, more of a ‘you see the game is falling apart’. You would love to force a stalemate at this point, but it doesn’t seem like that’s coming.
+And so I think where we pick up is in the halls of your headquarters, which is a Dunlop-class mobile shipping depot called the Topmark. It’s basically like, an aircraft carrier meets a UPS depot, because I’ve made you all a logistics squad, and this is like a delivery squad that is kind of like what you were already were, so I just decided, ‘let’s just lean in on that’. The name of the ship is the Topmark. And, uh, you have – you – last night, rumours started spreading that there is this like great hope. There’s this one new thing. A ship arrived late last night. A smuggling ship that has Yes! Power designa – Yes! Power designation, Yes! Power being one of the corporations that one of the Talk brothers worked for. And it theoretically, or supposedly, is carrying some sort of super-weapon, or some sort of device that could help turn the tide. It, y’know, snuck past Principality scans, it punched through their blockades and chokepoints, and it showed up last night, beaten and broken, half its crew dead, being commanded by a scientist named Doctor Kirst Bittenbach. And Bittenbach claims, rumour says, to have something that will save the day here, basically. We’ll learn more about that in a bit.
+For now, I want to introduce characters again, and just get an image like, what are you doing at like, y’know, 10am on a Tuesday morning on this base? Let’s start with David Talk. And there’s also one more thing I’m gonna need everyone to do, but we’ll do that after. Actually, I’ll say what that is now, so people can start figuring it out. One of the abilities I’ve given you from the logistics squad is [reading] ‘Renegades: each Player Character may add +1 action rating to Scan, Bombard, or Manoeuvre, up to a max rating of 1’. But, just go ahead and – I’m just gonna say you – we kind of – that was the starting one, and so you started with one of those. So just go ahead and add one more to Scan, Bombard, or Manoeuvre here, on each of your sheets. I’m giving you a pretty good leg up here. And you can mouse over those terms to get a break down of what those moves do, because this sheet is dope.
+JACK: This sheet’s so good.
+AUSTIN: It’s really good.
+JACK: Between this and, um, the dusk to midnight to sheet with the dice rolling, we’ve had some good Excel.
+AUSTIN: Um, so, David.
+KEITH: Hi.
+AUSTIN: Who are you? What’s your deal?
+KEITH: I – sorry, I’m trying to get my sheet. I think it’s here. Okay. I had the Beam Saber PDF open, and I couldn’t open a new thing.
+AUSTIN: Oh, I gotcha, I gotcha. [softly, not directed at Keith] I did not mean to move that. 
+KEITH: But I’m good now. Sorry, I – what was the thing that I need to change, now that I’ve actually got the thing open?
+AUSTIN: You can add one point to Manoeuvre, Bombard, or I wanna say Scan. Is that what I said? Scan.
+KEITH: [crosstalk] Oh, this is not – this is not the right thing.
+ART: Oh, four.
+AUSTIN: I linked you in your chat. In our private chat.
+KEITH: Okay, got it.
+AUSTIN: It should be the most recent link.
+KEITH: Okay, great. 
+AUSTIN: Who is which – that’s a good question - who is which [phonetic] ananimal – ananimal, anonymous animal in this spreadsheet? I don’t know that we can tell that, right? You can’t tell what type you are, can you?
+ART: You can tell by the process of elimination.
+JACK: [crosstalk] You can do it by elimination.
+ALI: Yeah.
+AUSTIN: Okay. I have Loris, Wolverine, Turtle, and Anteater.
+ALI: Oh, I’m a Loris.
+AUSTIN: Nice.
+ALI: Huh.
+KEITH: I’m an Anteater.
+JACK: I’m a turtle. [laughs]
+ART: I’m whatever the fourth one -
+AUSTIN: Wolverine.
+ALI: What’s a loris?
+AUSTIN: Loris’ are really cute. [crosstalk] What am I? Wait.
+JACK: A loris is like a – it’s like a very slow bird with a long finger and big eyes.
+ALI: Wait, is it?
+KEITH: A bird? No, it’s not a bird.
+JACK: [crosstalk] No, no, no, nope.
+AUSTIN: It’s absolutely not a bird! Absolutely not a bird! [laughs]
+JACK: Not a bird, not a bird. [Ali laughs] The opposite of a bird.
+ART: Can I go…
+AUSTIN: Jack, I –
+KEITH: It’s like a – it’s a pseudo-monkey with big old eyes.
+AUSTIN: Why is this not…? What?
+JACK: Not a bird.
+ALI: I don’t like the look of this.
+AUSTIN: Show me a loris! Wait, what am I?  No-one’s – no one told me what I was.
+ALI: Oh…
+JACK: It says you’re Austin Walker for me.
+AUSTIN: [disappointed] Oh…
+KEITH: Yeah, it says you’re Austin, Austin Walker.
+ALI: Yeah, you’re just Austin.
+AUSTIN: I guess ‘cause I invited you. This is a cute fucking animal, I’ll tell you what. Simon Sweetman recently drew a loris that is also a mech pilot. I would like to see – I would like to see that. [laughs] Just, that’s the end of my sentence. I would like to see that.
+KEITH: I would like to see that. Yeah.
+AUSTIN: Yeah. Totally.
+KEITH: Um, okay. Alright. So, it’s 10am on a Tuesday.
+AUSTIN: And also, who are you? What’s your deal? I know that you used to be a Better Brighter, like, mech pilot of some sort.
+KEITH: Yes. Sorry, I used to work for the company Better Brighter.
+AUSTIN: Right.
+KEITH: I am no worse of a pilot now than I was then
+AUSTIN: Okay.
+KEITH: Better Brighter is a company, not a descriptor of me.
+AUSTIN: No. Yes. Yeah, yeah, yeah.
+KEITH: Just for people that weren’t here last time. Better Brighter is a competing, uh, utilities company of Yes! Power that my brother Smack works for.
+AUSTIN: [crosstalk] Yes.
+KEITH: On a Tuesday? Let’s see, I’m drinking, uh, I guess whatever artificial space coffee we have to drink.
+AUSTIN: Okay. Good.
+KEITH: Do we have rations? What do we have?
+AUSTIN: I think so. Again, I think – I think –
+KEITH: ‘Cause we’re in like a war, we’ve got like – we’ve got like –
+AUSTIN: You’re in a war. Pilots of mechs on this side are probably – like, the thing I said last time I think is still true. Pilots are probably treated better than infantry are, in a way that probably makes the infantry grumble kind of about it. I bet you the infantry - like, the same way that Air [KEITH: Yeah.] – like, that Air Force pilots have more perks than, y’know frontline infantry grunts do. So my guess is like, you probably don’t get real coffee, but.
+KEITH: Right. So here’s my – here’s my guess. So, I don’t know a tonne about the army because I never was or would be in it, but I’m pretty sure that how it works is, y’know, they mass-produce these different meal ration menus, that go in these little bags, and I think you just get whichever one which you pick out. I bet the pilots get to choose, and everyone else has to get one at random. So like, pilots can go in and grab the menu item that they like, and then everyone else gets the random leftovers.
+AUSTIN: Great. Good. You are an Ace. You have two abilities from the Ace thing. [reading] ‘Last Stand: When you take a dire action because your vehicle has exhausted it’s last quirk’, which we’ll get into, ‘you can continue to act on a 4, 5, or 6, instead of just on 6es’. And you have Advanced Prototype, which means that in the middle of – when we’re in our mission you’ll be able to tell me one really cool thing you just fucking have, basically. Aces are pilots who do really – who are good pilots. We don’t need to go through your whole sheet. We will get there.
+KEITH: Mm-hm. Yeah.
+AUSTIN: But what I do need from you is to – on the bottom here, give me some, uh – some beliefs that you might have about your brother, about Memphis Longhand, and about, um, [laughs] about Pigeon.
+KEITH: Okay.
+AUSTIN: So you don’t have to tell me them. Just, you type them while we’re doing other stuff.
+KEITH: Okay. Got it, got it. Okay.
+AUSTIN: Ah, one for each ‘X’ that I’ve marked here.
+KEITH: Got it.
+AUSTIN: Um, Memphis –
+KEITH: So do you…?
+AUSTIN: Memphis Long – go ahead.
+KEITH: I need five total?
+AUSTIN: Five total.
+KEITH: Five lines?
+AUSTIN: Yeah, total. [KEITH: Got it.] These are basically your bonds [KEITH: Yeah], which is a neat system. Memphis Longhand?
+KEITH: Wait, I didn’t get to tell you about my newspaper.
+AUSTIN: What? About your newspaper? Oh my - 
+KEITH: Yeah, that’s what I was doing! All I said was ‘I bet we don’t have coffee’.
+AUSTIN: Right. Well, what’s your newspaper?
+KEITH: Okay, no, no, no, it’s fine. It’s fine.
+AUSTIN: Okay. We gotta play a game here. Memphis Longhand?
+ART: Yo.
+AUSTIN: What’s your deal? What are you doing at 10am on this base?
+ART:10am? By 10am I’ve already had an hour-long conversation with my manager.
+AUSTIN: Okay. [laughs]
+ART: Um, just checking in on things, y’know?
+AUSTIN: Yeah, I gotcha, I gotcha.
+ART: Gotta make sure all the wheels are turning.
+AUSTIN: Yeah. Which wheels?
+ART: All the wheels!
+AUSTIN: Okay.
+ART: The front wheels, the back wheels, even the spare tire’s gotta be moving!
+AUSTIN: That one doesn’t make any sense. [laughs] That’s a whole different type of all-wheel drive.
+ART: You ‘aint seen my car.
+AUSTIN: Okay. Memphis Longhand used to be an athlete, is now a propaganda officer. I’ve made you an Envoy here. You have a couple of moves. An Envoy is a stylish and persuasive socialite. I’ve given you Rook’s Gambit, which says that you can [reading] ‘take 2 stress to roll your best action rating while performing a different action, so long as you can justify adapting your skill to this use’. It’s a familiar one for people who’ve heard us do other Blades in the Dark or Forged in the Dark games. And then you also have Regent’s Brilliance. Which is: [reading] ‘You and your entourage have increased effect when Consorting and Swaying so long as you take advantage of how truly impressive you are’. One other note is: your mech, the Queenside Castle, um, has a special thing that I just really want to underline which is [reading] ‘stylish appearance, decal spoilers, custom paint jobs, and other decals – or details – that make your vehicle stand out’. You described this as being like what NASCAR is.
+ART: Uh-huh. Where, uh – where is it on the sheet?
+AUSTIN: It’s under vehicle gear, which is a little bit under where you’ve clicked now. If you follow my clicking.
+ART: [softly] Scroll a little way. There we go.
+AUSTIN: It’s under vehicle gear.
+ART: There, okay. Got it.
+AUSTIN: So. So, yeah. So you are a star athlete. You described yourself as the Bo Jackson of mech sports. I love it. And we saw you last time do a cut-in advertisement for the new Orion Combine.
+ART: Memphis knows mech sports.
+AUSTIN: Memphis knows mech sports, yeah. Memphis knows a lot of things. I’ve also pre-written you some connections here. Feel – Based on things you said at the end of last game. Feel free to throw these out and write new ones. You will also need to write one for Pigeon regardless, who we’ll learn about in a moment, I think. Um, Smack Talk. What are you doing at 10am?
+JACK: I am playing with one of those - one of those punch bags on a string – on a spring.
+AUSTIN: Mm-hm.
+JACK: Except it has one that is affected by gravity differently, [AUSTIN: Ooooh.] ‘cause we’re in a sci-fi story. I don’t know whether or not it has less gravity or more gravity, so that it’s harder or easier to hit. [AUSTIN: Right.] Perhaps it varies. It comes at me in different ways. That’s what I’m doing. I’m having a good time. I’m smoking a cigar while I’m doing this.
+AUSTIN: [laughs] Okay, perfect. Good! How old are you?
+JACK: How old am I?
+AUSTIN: Yeah.
+JACK: [laughs] I always have to check with my brother.
+AUSTIN: Great. Good. Are you twins?
+KEITH: We’re 31.
+AUSTIN: Okay, so you’re twins.
+JACK: We’re not twins! I was born -
+KEITH: No, we’re not twins.
+AUSTIN: You just happened to be born -
+KEITH: [crosstalk] I was born nine months earlier.
+AUSTIN: Okay. You are a soldier –
+KEITH: We’re both the same age.
+AUSTIN: Right. Right now, at this moment. Um, you are a Soldier, a mighty violent warrior, Smack Talk. Smack, I’ve given you two abilities. [reading] ‘Robot Fighter: You know the weak points of the inanimate and gain increased effect in combat versus machines’. 
+--0:30:00--
+And you’re ‘Menacing: When you unleash physical violence, it’s especially frightening. When you Command a frightened target, take +1d’. I’m gonna say really quickly that move has a different – has Savage – but I’m like, ah, savage is one of those words that is – [JACK: Mm-hm.] that has some connotations, so I rewrote it as menacing. Uh, though –
+JACK: Menacing is good as well, because it has a broader palette of scariness.
+AUSTIN: Yeah, yeah, yeah, yeah, exactly. You can be someone who punches a punching bag while smoking a cigar and be menacing. Or you could keep your hair really nice and have like a really nice outfit on. I’ve again given you some connections here. Or no, I haven’t. You’ve written all of these. These are good, these are good ones.
+JACK: I don’t have one with Lunar yet. And I don’t think I -
+AUSTIN: Or with Pigeon – with Pigeon yet.
+JACK: Oh, is this supposed to be Pigeon?
+AUSTIN: Yeah, it is.
+JACK: Oh, okay. I can write this one straight away.
+AUSTIN: Yeah, totally. Um, a thing to know about these. These are things you believe to be true. They might not be true, [JACK: Yes.] and a system that we’re not gonna get to, but is really fucking cool in Beam Saber, is a downtime move that lets you check if they’re true or not, basically. There’s a downtime move called Cut Loose, which is Beam Saber’s kind of equivalent or version of Indulge Vice, in which instead of like, ‘oh, I’m gonna go play cards’ or whatever, you and another player character go out and cut loose and spend time together. And if you complete your clock – your belief’s clock with them – your connection clock with them, you will be able to kind of ask them about the truth of one of these beliefs you have, which is really good. Pigeon?
+ALI: Hi.
+AUSTIN: Hi. I’ve written some stuff here for you [ALI: Okay.] that is important I guess for you to know, but is not like – it’s all on a whiteboard. You wanna wipe it away and go somewhere else with it, you go for it. I’ve written you as an Officer, which is [reading] ‘a tactical and personable trooper’. You are from the – you were originally from the Beneficial Coalition but now you are part of OLD. You have a history in local politics. I’ve kind of imagined you as an alderperson. And then, I think you – something happened with Courageous’ death, which was your tragedy. Every character in Beam Saber has a history, which gives them one point of something. Of like, a skill. They have a tragedy, which is when the war touched them. And then they have an opening, which is kind of like ‘what were they doing right before they joined the squad’? For other characters I didn’t really fill in a lot of those, ‘cause we saw what those were. We kind of played them already. And some of them didn’t really have a very clear tragedy yet. But for you, I wrote ‘local politics’, ‘Courageous’ death’, and then ‘you led the second wave of Divines that joined up’. So, work with that. If you don’t want it, you don’t need to go with it. What is Pigeon’s deal? How – what is – one, what are Pigeon’s pronouns? And then two, what are they like?
+ALI: Um, yeah, okay. So Pigeon is she / her.
+AUSTIN: Cool.
+ALI: Pigeon is a Divine Candidate, I guess?
+AUSTIN: Yeah, I’m gonna use Candidate for the descendants of the Diaspora still, [ALI: Okay.] instead of spending time developing an entirely different one that we probably won’t see again on-screen for a little while, y’know?
+ALI: [laughs] Just for shorthand that’s what she is.
+AUSTIN: Yeah.
+ALI: Yeah, I dunno. I think it’s interesting that she’s coming to this later, with this like new group. I’m kind of imagining her like Diane Neal, who is the red haired ADA from Law and Order: SVU.
+AUSTIN: Perfect. [Ali laughs] Great.
+ART: Wait, is that the…?
+ALI: Mm?
+ART: I don’t wanna - never mind, I don’t want to get into Law and Order spoilers. [Ali laughs]
+AUSTIN: Don’t get into Law and Order spoilers! Boom.
+ALI: And, yeah, I don’t know. We haven’t started playing this game yet, so. [laughs]
+AUSTIN: Sure! Yeah, you’ll find her as you play. That’s okay.
+ALI: Yeah.
+AUSTIN: You’re a Tactical Genius, which means [reading] ‘Twice per mission you can assist a teammate without paying stress’. And you can Rally, which means that you can spend one stress per direction to either [reading] ‘direct an unaffiliated crowd to perform an action, to have an unaffiliated crowd commit violence, or to prevent an unaffiliated crowd from causing damage’. So those are your big picture things. And then you should also have beliefs and connections with the rest of this crew. I would say take at least one with each of them, based on what I just told you, so put an X next to each of those things kind of at the bottom left of your sheet. Do you see where I’m talking about? Down here where it says connections?
+ALI: Oh, yeah, yeah, yeah.
+AUSTIN: So one for Smack Talk, one for David Talk, and one for Memphis Longhand.
+ALI: Okay. [laughs] Sure.
+AUSTIN: And these are, again, things you believe about them.
+ALI: Okay.
+AUSTIN: The character sheets on – like, in the book – or not the character sheets. The playbooks section in the book has some good suggestions for what types of connection beliefs you should have. So for instance, the Officer ones are things like [reading] ‘they trust my plans, and I won’t let them down’, or ‘they have a good head, and I trust their instincts’, or ‘they refuse to see how their actions affect the squad’, right? Things like that.
+ALI: Mmmm.
+AUSTIN: Let’s go back to Keith. What are your connections with people, if you have them yet? And if you don’t, I can go somewhere else. I can go to Jack, who I think has them.
+KEITH: Give me one more minute to finish the last one I’m writing.
+AUSTIN: Totally. Smack Talk? What are your –
+JACK (as Smack): Here are some things I know about my brother.
+AUSTIN: Okay. Great.
+JACK (as Smack): He cares deeply for my well-being.
+AUSTIN: Mmm. Mm-hm.
+JACK (as Smack): He knows he is a better pilot than me.
+AUSTIN: Ooh, okay.
+JACK (as Smack): And I could beat him in a fight.
+AUSTIN: [laughs] Great! Love it! Ugh, I want to play this game! Because I want the Cut Loose that resolves, and we learn the truth of ‘I could beat him in a fight’.
+JACK: [laughs] Yeah.
+AUSTIN: Fuck. Um, what do you believe about Memphis Longhand?
+JACK (as Smack): Memphis Longhand would much rather be in a comfortable player’s suite.
+JACK: I was gonna say ‘than in a combat mech’, but I was worried about overlapping.
+AUSTIN: Uh, one note. An important note here is that one of the things that Memphis Longhand could take for his combat mech is ‘luxurious passenger space’. [Jack claps] ‘This vehicle has a well-appointed interior that has room for a few people’. [Jack laughs] So –
+JACK: Memphis Longhand would much rather be in a comfortable player’s suite.
+AUSTIN: [laughs] Yep!
+JACK (as Smack): Memphis believes in the encouragement he gives. 
+AUSTIN: Ooh, good.
+JACK: He gave me a pep-talk at the end of the last session, and I felt really good about it.
+AUSTIN: Yeah. Yeah. Um, and Pigeon.
+JACK (as Smack): As for Pigeon, a Divine Candidate is exactly what we need to save us.
+AUSTIN: No pressure. Great. Smack Talk or – or sorry, not Smack Talk – Memphis Longhand or – I love that we have a character named Smack Talk who is not the star athlete – Memphis Longhand or David Talk, what are your connections?
+KEITH: Give me one more minute.
+AUSTIN: Sure.
+ART: I’m still working on just rewording the Smack Talk one.
+AUSTIN: Yeah. That’s fine.
+ART: But until I get there – ‘cause I just want them all to just be a little in-character.
+AUSTIN: Sure.
+AUSTIN: Yeah, please. Thank you. Thank you for fixing. Um…
+KEITH: Okay, I got it.
+AUSTIN: Alright. Let’s go to you then, David.
+KEITH (as David): No matter our differences, my brother will have my back.
+AUSTIN: Good.
+KEITH (as David): Smack’s enthusiasm for the war worries me for his safety.
+AUSTIN: Okay. [Jack laughs]
+KEITH (as David): For Memphis Longhand: Memphis Longhand is the most overrated pilot in mech sports.
+AUSTIN: Wow…
+KEITH (as David): Everyone knows Memphis Longhand can’t handle the spotlight. [Austin laughs] And then for Pigeon: meeting a Candidate is terrifying me. [Ali laughs]
+AUSTIN: Good. Yeah. Fair. Fair and good. Um, Memphis, Pigeon, y’all have any direction here? Need help?
+ALI: Oh, um… Not yet.
+AUSTIN: Okay. Memphis?
+ART: I mean I’m – I’ll word – the Smack Talk ones are fine, they’re just not there yet. I can go.
+AUSTIN: Yeah, I gotcha. Yeah.
+ART: So for Smack Talk I have ‘he needs to carry himself with confidence and flair’.
+AUSTIN: Mm-hm
+ART: His skills are outside of a mech, not in one.
+AUSTIN: Mm-hm.
+ART: And his commitment to the war is an inspiration.
+AUSTIN: I wrote those.
+ART: Yeah.
+AUSTIN: You can tell because they’re not written from the voice of Memphis Longhand.
+ART: Right. So for David Talk, where I have gotten to it, I have:
+ART (as Memphis): Game recognise game. Who’s this?
+AUSTIN: Great. [All laugh]
+ART: And for Pigeon,
+ART (as Memphis): The only god Memphis Longhand has ever seen in a mech is in his onboard mirror.
+AUSTIN: I fixed that one for you. Wanna give that one more try?
+ART: Oh, I was – I did that on purpose.
+AUSTIN: Oh – [laughs]
+ART: The only god Memphis Longhand has ever seen in a mech is in Memphis Longhand’s onboard mirror.
+AUSTIN: Then you undid it on purpose?
+ART: Yeah, uh-huh.
+AUSTIN: Okay, good. Fuck, okay. Great.
+ART: It’s just so long.
+AUSTIN: It’s so long. It’s so – y’know what, I learned this in the last one though, is you can hit – you can hit ctrl and enter to do a return, and then you can just see it all, instead of it disappearing. [ART: Ah…] Yeah. It’s very smart. Alright. Um, Pigeon, do you need – do you wanna fill these in maybe as we go?
+ALI: Yeah, I’m, um - [AUSTIN: Alright.] I’m like, almost there.
+AUSTIN: Um, chu-chu-chu… So, really quick, I’m just gonna go over high-level rolls and stuff, just so you know, as a reminder of how this works. For the most part, you’re gonna wanna do a thing, and you’re gonna tell me how you do it. So, you’re gonna say ‘I wanna kick down this door’, and I’m gonna go ‘how do you do it?’, and you go ‘uh, lemme use Wreck. I want to just act with brutal force’, which is what Wreck does. And I’ll say, ‘okay, well to do that – well, you know. There’s no one really putting you in danger’. And I’m gonna describe the, - uh, the – the fictional position that you have, whether controlled, risky, or desperate. And then I’m gonna tell you what the degree of effect is that you’re gonna have. And I’m gonna say ‘okay, y’know what? This is cheap wooden door. This is a great effect’. Maybe you won’t be able to do it in one kick, but it’ll get you most of the way into this room, y’know? Or, I’ll say ‘oh, this is a big metal door. You can try to kick it open, but it’s going to be a controlled, limited effect’. So limited, standard, or great effect. Things will get different as we get into actual mech stuff, and we’ll get through that as we – I mean the basic to do a thing roll is gonna be similar. And Expertise and Acuity – those subgroups: Battle, Destroy, Manoeuvre, Bombard, Manipulate, Scan – are the things that you’ll roll for your mechs. And Resistance there is a little bit different, but we’ll get into that as – as we play. Are we ready to kind of jump into it a little bit?
+So I think about around noon – or maybe 10, let’s go earlier. Let’s say by 10:30 a briefing is called. Y’know, there is a brief announcement that says, y’know, ‘flight crews report to conference room’- uh, I bet you they have really stupid names. I bet you they have names that are like, um, named after trees. What’s a – what’s the worst tree?
+ART: [laughing] The worst tree?
+JACK: Plane.
+AUSTIN: [crosstalk] What’s the worst tree there is? Excuse me?
+JACK: Nah, Plane is fine.
+ALI: Birch.
+AUSTIN: Birch?
+JACK: Birch is lovely!
+ALI: Birch. No, they’re like, weak. [laughs softly]
+AUSTIN: Wow…
+ALI: They look like they can peel off.
+JACK: I have a silver birch in my garden.
+AUSTIN: I’m gonna go – [Ali laughs] listen, I’m gonna go with the Candidate. The Candidate says birch. Pigeon says birch. So, yeah -
+JACK: [grumbling] ‘A Candidate is exactly what we need to save us.’
+ALI: [crosstalk] [???] [00:41]
+AUSTIN: ‘Mission team, please report to conference room Birch’. And you go in, and it is all like, birch furniture. It’s all like synth-birch. It’s – it is – y’know what, I think what it is is like, it’s basically some like, um, condensed and pulped wood that then has been painted a birch colour, and has been like – the little birchy flecks are kind of pulled out of it so there’s little holes – not holes, but like, it’s clear someone has tried to do a birch tree – a birch bark effect on this stuff. It just looks bad.
+KEITH: I know I’m late to the party. I have considered it and the worst tree is spruce, but we can keep birch. [Jack laughs]
+AUSTIN (as unnamed commander): Thank you David. Thank you everyone for joining me in Birch. I know we wished we could’ve been in a different room.
+AUSTIN: This is your commander. Her name is Relevant Kehj. Uh, Chief Dispatcher Relevant Kehj. K-E – Relevant like relevant, Kehj like K-E-H-J. I kind of have face-cast her as a – God, what is – what is her name? Um… she’s a famous Azerbaijani actress. Hokuma… Hokuma Gurbanova. Um, there’s a – very severe dark features, uh, like a little round, but like the way movie stars used to be allowed to be. Dark features, severe stance, um, world-weary eyes. She feels like she knows a lot about the world, and she is the person who in charge of dispatching all – like basically everything here in the Topmark, but is especially associated with military missions and delivery missions of an important nature. And she calls you all to order. I’m guessing everyone shows up in time. You’ve been doing this for a while. No one shows up late. No one is like, half-tuned in?
+KEITH: I’m a little early.
+AUSTIN (as Relevant): Oh, perfect. Thank you David, as always, for being here on time, and early. So, the rumours are true. A ship did arrive last night carrying a rare and important shipment. So rare, so important in fact, that I don’t know what particularly it is. But we have been given our orders. We are to deliver it along with its appointed scientist, Dr Bittenbach, to the planet of – a planet that I’ve forgotten the name of.
+KEITH: Oh my God, I thought that – I thought it was Bach was the last name.
+AUSTIN: No, Bittenbach is –
+KEITH: I thought it was Kirst-Bitten.
+AUSTIN: No, not – oh, that’s good too. Kirst-Bitten Bach is pretty good. Kirst-Bitten Bach is a Bloodborne boss. [Ali and Keith laugh]
+AUSTIN (as Relevant): The name of the planet is Grona. G-R-O-N-A. Um, and there is a city there called Zibeline [zi-bel-een] city – or, Zibeline [zi-bel-ayn] city, and you need to deliver that box there. That box – that box has something that we don’t know what it is. Bittenbach and the paperwork he brought confirms, or claims, that it is something that can turn the tide of this war in our favour.
+KEITH (as David): You didn’t ask?
+AUSTIN (as Relevant): Of course I asked. It was above my pay grade. We deliver things, we don’t check the packages.
+JACK (as Smack): I have a question.
+AUSTIN (as Relevant): Mmm. Smack Talk.
+JACK (as Smack): Do we have insurance?
+AUSTIN: Oh… Out of character, what do you mean by insurance?
+JACK: Is the – is the delivery of the package insured? If we lose it or we go missing, what kind of compensation can we expect?
+AUSTIN: So I think then she says, like,
+--00:45:00--
+AUSTIN (as Relevant): This is high-grade. They’ve insured it at the highest level. If you’re lost in combat, every - we are authorised to pursue every method of retrieval for you and the shipment. If we confirm that you are dead, you will be buried with highest honours, and your families will be taken care of.
+JACK: Smack Talk’s, like, nodding and taking notes and looking at his brother.
+AUSTIN: Mm-hm. She continues and says,
+AUSTIN (as Relevant): Here is what we know about Zibeline city, and where you will be delivering it.
+AUSTIN: This is - and again, don’t look on the stream at this point, ‘cause there is stuff that is my stuff and stuff that is your stuff, and you should only be able to see your stuff here.
+AUSTIN (as Relevant): You’ll need to deliver this package to the Better Brighter headquarters in Zibeline city, as whatever it is is a collaboration between Yes! Power and Better Brighter. And no, the irony therein has not been lost on me, Talk brothers.
+JACK (as Smack): Hm.
+AUSTIN (as Relevant): When you deliver it there will be some sort of operation and you will need to defend it until its use comes into effect. What we know about this –
+AUSTIN: So – so, really quick, employer is the Orion Combine, or, I guess, is more broadly the Beneficial Coalition. Your target – the kind of group you’re working against – is Courage, which we know is inside the western half of Zibeline city. For people listening and not watching, Zibeline city is a coastal town that has a river running through it, kind of like it pokes up in the middle of it. Imagine a potato, right? Imagine a potato-shaped town, and it’s laying horizontally west to east. Right in the – [Keith laughs] the dead centre south of the potato there’s a coastline and some docks. And, like going north into the centre of the potato just a little bit, and heading east, is a river. And that kind of cuts the town into this big central area, and a little – like a little inlet to the southeast.
+ART: Hey, Austin, real quick?
+AUSTIN: Yeah?
+ART: You stand a lot of potatoes up on the end in your…?
+AUSTIN: No, but, y’know, just in case. If you imagine a potato in your head, maybe you imagine it standing vertically? Maybe you – I don’t know if you imagine it vertically or horizontally. But - [laughs] yeah. Nameoftheyear says ‘Potato Horizontally is my etc, etc’, yeah, thank you. [Jack laughs] Um, that’s not a good name. Don’t use Potato Horizontally, it has a terrible mouth feel. [Keith laughs] This is why you can’t just throw names together.
+ART: Potato Diagonally.
+AUSTIN: Better. Much better!
+KEITH: No. No, I think it’s worse.
+AUSTIN: Potato Diagonal?
+ALI: Diagonal Potato is a great name. [???] [00:46:56]
+AUSTIN: That’s a band name. Right?
+ALI: Is it? Well…
+AUSTIN: It could be. Diagonal Potato. [Ali laughs]
+ART: [mock shouting] Oh, we are Diagonal Potato!
+AUSTIN: Yeah, see that sounds great.
+KEITH: [mock shouting] It’s our third day this week! [Ali and Austin laugh]
+JACK: And we’re all bassists! [Keith laughs]
+AUSTIN: T-shirts are on sale because they have the past two names! 
+AUSTIN (as Relevant): We know that Courage is the west side, holding a large structure we believe to be part of the city government’s infrastructure. We know that the Principality holds a group of residential buildings northwest of the city walls, and we know that there are – they also hold three orbital cannons, which will complicate things quite a bit. Those are those three red triangles on the map. One inside of the city walls, two outside of the city walls. We also know that there is a big open-air market in the centre of the map – or in the centre of this city – which has become kind of a no-mans land, because there is zero cover for infantry or Rigger units. We know that OriCom holds some farmland to the south-east, outside of the city walls down near the coastline. And we know that the Divine Collaborate has people somewhere. The last thing that we knew was that the Divine Collaborate was sending in a Divine called Rogalian, which was basically a massive thirty / forty storey tall walking flamethrower. And the last thing we know is that was headed westward into what we believe to be Principality-held land. However, there has been cloud cover and interference produced by the Principality, and so we don’t know the current state of things, and that’s a complication to take into account.
+AUSTIN: One of the things that Beam Saber does is it has rules of engagement. These are rules put on you by your employer that give you a set of things that you need to not do. And there are penalties for not doing them, basically. I guess I will read here: ‘the directives an employer places on its squad. These define the circumstances, conditions, degree, and manner in which the use of force or actions that may be construed as provocative may be applied’. The – a faction, y’know, might wanna be trying to perform, y’know – make people like it more, and so they wanna make sure that no civilians are hurt, for instance, right? The, ah – if the rules of engagement get broken, you lose trust with whoever your employer is, and – and maybe they don’t – they won’t wanna work with you again, right? In this case, the rules of engagement are pretty simple.
+AUSTIN (as Relevant) You need to do your best to limit the destruction of buildings and infrastructure – city infrastructure – because,
+AUSTIN: And this is again what Relevant Kehj is telling you.
+AUSTIN (as Relevant): What we’ve been told is that this device, that’s a collaboration between Yes! Power and Better Brighter, needs to draw on the power grid and solar grid of Zibeline city to be activated. And so, we need to make sure that a big – a large amount of buildings aren’t destroyed, where their solar generators won’t be able to provide additional power. Or that you don’t knock out a power substation, because we need to draw from that power substation in order to power whatever this device is. So that is like the rules of engagement here.
+And the other thing – the other objective is make sure no one – I guess two other sub-objectives. Big objective: deliver this box to Better Brighter HQ, and then defend it while whatever it is is activated. Two, make sure no one looks at that box. And then three, and this is like a side-objective, if you can take out two of the three orbital cannons, then a nearby Divine fleet will be able to drop additional support in. A Divine will drop in to help you defend Better Brighter HQ as you perform your last step of this mission. That’s optional. That’s up to you if you think you can do it. That’s what we know. And, uh, I guess there’s also the fact that there is a Principality fleet in orbit, which you’ll have to somehow get past in order to land and begin your mission. And so that is also an added complication.
+KEITH: Um, is there any way to find, like – is there any way to find out if there’s more information about this box that we’re – that Kehj has but we’re not getting?
+AUSTIN: I can tell you Kehj is not lying to you.
+KEITH: Got it.
+AUSTIN: Like, if one of you had the Kehj is not lying – is this person lying to me skill, [Jack laughs] Kehj is not lying to you.
+KEITH: Okay.
+AUSTIN: There might be more information. Kehj doesn’t have it.
+KEITH: Got it.
+JACK: And also, just to be sure, who has the flamethrower Divine?
+AUSTIN: That had been with -
+JACK: [crosstalk] That’s the Principality’s?
+AUSTIN: No, no, no, that had been with the Divine Collaborate, your allies. Or, the last you saw of it. It was headed west in the city to take out – basically to go fight Courage.
+JACK: Right. And those orbital cannons are the little red triangles?
+AUSTIN: Yes, yes. So there’s one inside of this building that’s marked Courage, which is where you last saw Courage, and knew that that’s where like, the, um - the what’d you call it – the front – not the front, but like the spearhead of the force was. And then the other two are outside, alongside some residential districts [JACK: Mm-hm.] to the north and south of it. Those are all orbital cannons, yeah.
+JACK: So we, in theory, have the flamethrower Divine.
+AUSTIN: Yes. In theory.
+JACK: In a city we’re supposed to not destroy.
+AUSTIN: Yes. Uh-huh.
+JACK: Great. [laughs] Okay.
+AUSTIN: Art in the chat says ‘oh my God I just figured out a theme song for Memphis’. What is it?
+ART: Oh, do you know Whiz Khalifa’s Black and Yellow?
+AUSTIN: Of course I know Whiz Khalifa’s Black and Yellow.
+ART: Did you know that Memphis Longhand has the same number of syllables as Black and Yellow? [Jack laughs]
+AUSTIN: Yeah. Uh-huh.
+JACK: So it’s not – okay.
+AUSTIN: Yeah. Uh-huh. [laughs] Wait, what’s up Jack? [Art laughs softly] What’s up?
+JACK: So it’s not really a theme song you’ve invented so much as you’ve just –
+AUSTIN: You just go, ‘you know what it is! [chanting to the tune of Black and Yellow] Memphis Longhand, Memphis Longhand, Memphis Longhand!’ Love it. Great.
+JACK: Mm-hm!
+AUSTIN: Is the rest the same?
+ART: It’s been a long time. No one knows that song.
+AUSTIN: That’s true! No one does know that song.
+KEITH: Oh, you mean you didn’t - you’re not open about it. This is – [Austin laughs] this is – you’re plagiarising, you’re not – this isn’t like a cover, or…
+AUSTIN: It’s out of copyright by now. Even – even our draconian, like -
+ART: [crosstalk] Yeah, it’s public domain.
+KEITH: It’s out of copyright, but if someone was like ‘wow, I can’t believe you wrote that song! That’s really catchy’ or something, and then Memphis Longhand says ‘yeah, Memphis Longhand wrote that’.
+AUSTIN: God…
+ART: It’s like, if I went around going like, [to the tune of Camptown Races] ‘Memphis Longhand sing this song, Doo-dah! Doo-dah!’ [everyone laughs]
+AUSTIN: Oh, your previous theme song you mean!
+JACK: [laughs] Before a character change.
+AUSTIN: Yeah. Uh-huh.
+ART: ‘Memphis Longhand five miles long, oh the doo-dah’ – yeah. [Keith cackles]
+AUSTIN: Great. Good. Perfect. Alright… Um, so that’s-
+KEITH: Five miles long is big for a guy.
+AUSTIN: Yeah. Memphis Longhand is big. [Austin and Keith laugh]
+KEITH: Does Pigeon pilot Memphis Longhand?
+AUSTIN: Jesus Christ. No, Pigeon pilots a Divine, so – so that’s fun. Alright. I guess at this point, like, you absolutely could – we could totally throw this out and play a different game, in which you try to find out what’s in this box and make some decisions. We can do that. I’m letting you know that, like, if that’s what David Talk is about, that’s what David Talk is about.
+KEITH: No, I had a funny checklist of questions to ask [AUSTIN: Gotcha.] in the case of, uh – if we had to – if we were trying to figure what was in this box, and Kehj had more information.
+AUSTIN: There are people who –
+JACK: We can always try and talk to Bittenbach.
+AUSTIN: Yeah, Bittenbach is the person who – who would maybe know more about this, being the scientist associated with it.
+KEITH: Okay, yeah. Maybe we’ll give Bittenbach a call, just for –
+AUSTIN: So Bittenbach’s coming with you. So you’ll see Bittenbach.
+KEITH: Oh, okay. Okay.
+AUSTIN: Bittenbach is – so, two things really quick. One, I’ve given you a cohort. Cohorts are – you maybe remember in Beam – uh, in Blades in the Dark, you ended up with Miss Salary and Caroline Fairplay as like a crew that was with you. Right? Like a – I don’t know if they were called cohorts in that. Do y’all remember? You know what I mean.
+ALI: I think they were.
+AUSTIN: Um, so in this case, you have a group of rovers, which are space truckers basically. The book describes rovers as ‘drivers, astronauts, urban spelunkers, et cetera’. They are a fire team. They have an edge, which is ‘loyal’. ‘Loyal’ means they can’t be bribed or turned against a squad, but they also have a flaw, and that flaw is ‘wild’. They’re drunken, debaucherous, and loud-mouthed. And they have names. They are Cowtipper, Avignon, Buttermilk, and James. And those are the people -
+KEITH: Oh my God, I love them.
+AUSTIN: They are the ones who drive your space trucks where your mechs are stored, and also where this – the Bittenbach device will be stored. And so Bittenbach will be travelling in a ship with one of them. I imagine they are just big, long ships that are in a ship convoy. Yeah, Peg and Zaktrak were also part of that cohort, that’s true. Thank you – thank you Toms in the – Thomas in the chat. So, the space truckers are there and Bittenbach will be in this group also. I mean, I guess theoretically I could have made Bittenbach also a specialist cohort. I guess I – mm, I’m not gonna make him a cohort. He’s not loyal to you. He’s part of this mission, he’s cargo for sure. The reason I bring this up is because – why did I bring this up? I guess because I just wanted to make it clear he’s gonna be travelling on one of this space trucker trucks along with y’all. I guess while I’m over here, two other quick things. Your vehicles all have a custom operating system that prevents them from being hacked. I mostly did that so we didn’t have to deal with hacking at all in this game. [Jack laughs] None of you know how to hack. I mean I guess at some point if you wanted to try to roll Interface to hack something you could still do it, but I didn’t want to build apps, or ICE, or anything similar to that. And so I was like, ‘oh yeah, their ships, their mechs can’t be fucking hacked’.
+JACK: God. This is – this is the ‘oh, let’s put the game in first person’ of tabletop decisions.
+AUSTIN: Uh-huh! 100%, yeah. Totally. So, yeah. So that is the deal with them. When do you talk to Bittenbach, David? Is it ahead of shipping out? Is it while you’re in space?
+KEITH: It’s definitely ahead of shipping out. It’s definitely ahead of shipping out. I wanna make sure that this package is safe, [AUSTIN: Yeah.] ‘cause it sounds like it’s – I mean, it’s explicitly not safe –
+AUSTIN: It’s not, yeah. Well-
+KEITH: - when used properly.
+AUSTIN: Right.
+KEITH: Um, so I just wanna make sure that there’s nothing that we need to know about this.
+AUSTIN: So I have one note here. With Bittenbach, the only description note I put together here for Dr Kirst Bittenbach is ‘he got a tall head’. [Jack and Keith laugh] And I don’t know exactly what I mean by that.
+KEITH: I know what you mean! Like a cartoon mad scientist.
+AUSTIN: Like a – yeah, but not a big head!
+JACK: [crosstalk] Five miles long.
+AUSTIN: [laughing] Yeah, five miles long, tall head.
+KEITH: Tall head. Yeah, I know tall heads. Yeah.
+AUSTIN: Tall head. Yeah, Mr Tall Head. Kirst ‘Tall Head’ Bittenbach. I imagine he’s like, grey suit – or like, not even a suit. Grey – grey like – he has one of those like, military-looking fucking hyper fold-over suits. Do you know what I mean? Jackets where it folds all the way over to like, above his, like, his left breast basically , and then goes down like a sharp line. It’s like, grey with white trim. And he got a tall head. So – so, you catch him in like the hangar, as he’s loading in – it’s like there’s a box being loaded into another box, which will then be loaded into one of the space truck - uh, trucks. What – yeah, you know what? Terrance is right, I am thinking of Jamaican from – from Zeta Gundam. That boy got a tall head too. Yeah, uh-huh. Basically this. Basically this motherfucker here.
+KEITH: Oh, yeah, this is – yeah, this is pretty much what I was picturing, [AUSTIN: Yeah.], but more squirrely looking.
+AUSTIN: Yeah, and that’s fine. Add some squirrely-ness to this guy. Alright.
+JACK: How do you spell this guy’s name?
+AUSTIN: It’s Jamaican [i.e. the country], but you pronounce it Jamaican [Jam-eye-can]. [Ali and Keith laugh] And then type in Gundam, [KEITH: Rortugal.1] ‘cause otherwise you’re gonna get a picture of Jamaican people, because that’s what the word is.
+JACK: He’s got a big tall head!
+AUSTIN: He got a big tall head. Um, -
+KEITH: Yeah. He’s got a tall head and also a big forehead, too.
+AUSTIN: And also a big forehead, which is different than a tall head. I wanna be clear, I’m not talking about big foreheads. He also happens to have a big forehead. You can have a big forehead without having a tall head.
+KEITH: [crosstalk] Right. He has both. Yeah.
+AUSTIN: Anyway, so you catch him there and he’s like, [Austin finding the pitch of Bittenbach’s voice] a little lower, yes.
+KEITH: I crouch down.
+AUSTIN: Not – mmm.
+AUSTIN (as Bittenbach): Commander Talk, yes?
+--01:00:00--
+KEITH (as David): Uh, yes. Bittenbach. I –
+AUSTIN (as Bittenbach): A pleasure to meet you.
+KEITH (as David): I had questions about our package?
+AUSTIN (as Bittenbach): Yes, yes, I’m sure you do. I will be able to answer them as soon as we complete this mission.
+KEITH (as David): No, no, I need to know – I have some basic safety questions.
+AUSTIN (as Bittenbach): Some safety questions? Very well.
+KEITH (as David): I need to know – I need to know –
+KEITH: I mean, I do have these questions as a joke, but I do actually wanna know stuff about the package.
+AUSTIN: Of course.
+KEITH: I don’t know if – okay.
+KEITH (as David): So, just a standard checklist. Is the package fragile?
+AUSTIN (as Bittenbach): Yes! Extremely fragile.
+KEITH (as David): Okay, so in what condition should the package be stored?
+AUSTIN (as Bittenbach): Inside a defensible spaceship.
+KEITH (as David): Okay, what if we get shot at and it’s jostled?
+AUSTIN (as Bittenbach): Ah, light jostling should be fine.
+KEITH (as David): Okay.
+AUSTIN (as Bittenbach): We have built a device that is prepared for the rigours of combat, [David: Okay.] but which should not come under any direct harm, period.
+KEITH (as David): Is the package likely to leak, swell, melt, burn, explode, et cetera, [Jack chuckles] in either normal conditions or under stress or humidity?
+AUSTIN (as Bittenbach): I cannot comment.
+[pause]
+KEITH (as David): That’s concerning. That’s concerning me.
+AUSTIN (as Bittenbach): Some elements of the device must remain secretive.
+KEITH (as David): Which of these is it likely – most likely – to do? Leak, swell, melt, burn, or explode? Or other?
+AUSTIN (as Bittenbach): Explode!
+KEITH (as David): Okay. Bad. Okay, bad. Okay. Does the package contain life of any kind, including synthetic, and if yes, does it need to be fed?
+AUSTIN (as Bittenbach): I cannot answer, but no. [Jack laughs]
+KEITH (as David): Okay. So we have an exploding box.
+AUSTIN (as Bittenbach): It might.
+KEITH (as David): It might be an exploding box. Okay. Honestly, that’s a little bit better than I thought it would be.
+AUSTIN (as Bittenbach): [crosstalk] Many things explode. We are not carrying a living creature. There are no Lorises aboard, if that is what you are afraid of.
+KEITH (as David): Oh, the old saying, ‘if there’s a loris aboard’, yeah. [laughs]
+AUSTIN (as Bittenbach): ‘A Loris aboard is’, that’s right. A classic episode of the television series Mr Loris.
+KEITH (as David): That’s my favourite episode of the television series!
+AUSTIN (as Bittenbach): Yes.
+KEITH (as David): Alright.
+AUSTIN (as Bittenbach): Any other questions, Mr Talk?
+KEITH (as David): I – no, I suppose I – I suppose that’s enough.
+KEITH: Can I tell if there’s anything cagey going on here? Is there a roll I can make?
+AUSTIN: Yeah, absolutely this motherfucker knows some shit!
+KEITH: Okay. Well – obviously knows some shit, but like, how do I – how do I – [AUSTIN: You could -] in Blades in the Dark, or whatever fucking game this is.
+AUSTIN: [laughs] Beam Saber!
+KEITH: Beam Saber.
+AUSTIN: Use the name!
+KEITH: How do I figure this out?
+AUSTIN: You can roll to try to get more information from him. [KEITH: Okay.] The way you do that is by choosing a relevant stat, and I’ll tell you what the fictional positioning is, and what the effect is. [KEITH: Okay.] Here, it would be some sort of Resolve roll. It would be a Command, a Consort, or a Sway, is my guess, depending on how you wanna do it.
+[reading] ‘When you Command, you force immediate obedience. You might lead a fireteam in combat or browbeat a person to give in to your demands. You could try getting a superior to do what you want, but sway might be better. Consort is: ‘when you Consort, you mingle with allies and acquaintances. You might gain access to resources, information, people, or places. You might make a good impression and you might make a new contact with your social grace. You could try to persuade someone with social pressure, but Sway might be better’. And Sway is ‘persuading someone with guile, wit, or charm. You might negotiate better ceasefire terms; you might convince a guard that you do in fact belong in the restricted area. You could get nervous militia to change – uh, to charge the enemy, but Command might be better’.
+KEITH: I… I think it’s Sway.
+AUSTIN: Okay! So, roll - so, this’ll be a 1d6. 4 or 5 will be a mixed success. Oh, what are you using? Sway, you said?
+KEITH: +1, yeah.
+AUSTIN: Yeah.
+KEITH: Wait, is that how that works? Yeah, it’s how that works.
+AUSTIN: Yeah – no, it’d be 1d6, ‘cause you have that – you have a 1 in Sway.
+KEITH: Right. Right, I’m  now remembering how this system works.
+AUSTIN: [crosstalk] Yeah. Yeah, what you want is a 4, 5, or 6. 4 or 5 would be – I’m gonna say this is controlled. This is like, you’re talking to a scientist on your own spaceship. [KEITH: Yeah.] It’s not even that risky. 4 or 5 you would hesitate. You could withdraw and try a different approach, or else succeed with a controlled consequence. 6 would be a success. 1 – 1 and – y’know, that’s about a 50/50 chance you succeed here. [KEITH: Yeah.] The alternative is that you could also – you could also push yourself, and take 2 stress to get a bonus die on this.
+KEITH: [sighs] Boy, taking stress right away…
+AUSTIN: Yeah, so I would -
+KEITH: How much stress can I take?
+AUSTIN: You can take 9 stress.
+KEITH: 9 stress?
+AUSTIN: Here’s the thing to note is in this game, when you’re in mech combat, your pretty much not taking stress unless you’re doing pilot abilities. As long as you’re doing mech abilities, you are for the most part going to instead be spending quirks [KEITH: Yeah.] to do a lot of what you would traditionally be doing with stress.
+KEITH: Yeah, I’m gonna push.
+AUSTIN: Okay.  
+KEITH: I feel like this – it seems low stakes, [AUSTIN: Hey!] but if there’s something like, really weird about this box, [AUSTIN: Totally.] it’s worth it to find out now.
+AUSTIN: So what are you doing? What’s it look like? What’s this Sway look like here?
+KEITH: Um, y’know, okay, Bittenbach’s gonna be on the ship.
+AUSTIN: Yeah.
+KEITH: Okay, c’mon, like. The – like, us knowing the exact amount of danger that we’re going to be in transporting this box [AUSTIN: Yeah.] is something that could save our lives and your life and this box.
+AUSTIN: Yeah, okay. Go ahead and give me a 2d6. We’ll take high. That’s a 5.
+KEITH: 5.
+AUSTIN: So, and I said it was controlled – controlled standard, basically.
+KEITH: Mm-hm.
+AUSTIN: This has a really good breakdown of what consequences are on a 4 or a 5 or whatever. I’m gonna say you’re gonna get limited – limited – you’re gonna get a limited outcome here, but you succeeded. He’s like,
+AUSTIN (as Bittenbach): I understand your concern and reticence. Understand this about my device: people like you and I are under no threat. Yes, it could explode, but only the way that any piece of advanced technology could explode. The explosion is not what it is built for. This is not a bomb.
+[pause]
+AUSTIN (as Bittenbach): Now, I need to be getting to overseeing more things getting put in boxes.
+[pause]
+KEITH: I’m satisfied.
+AUSTIN: Mm-hm. Alright, so then I think we’re gonna cut to y’all being in the spaceships. I don’t think you’re like – maybe you like, go out to fly in your mechs to be on defensive missions, but I think by and large they stay in these big space trucks, and you launch from the space trucks when you need to launch them. Maybe like, one of the space trucks has your mechs in them. It might even be like, the Riggers are all on one mech – or, one truck – and then Pigeon, your Divine is in a different one. Y’know what I’m gonna do is I’m gonna bring over one of these over here so I can look at it without the chat needing to see it all the time, or see me looking at stuff. Um… What’s the – what’s life like on the space trucks with Cowtipper, Avignon, Buttermilk, and James? And Bittenbach, now? How do you enjoy going out on missions with these wild folks?
+JACK: [sighs] I wonder if, like, there’s a tension in the ships, because we – Bittenbach – we feel like Bittenbach is breathing – or at least, I feel like Bittenbach is breathing down my neck.
+AUSTIN: Okay.
+JACK: And I can’t let loose in the same way that I could with Cowtipper, Avignon, James, and…
+AUSTIN: Buttermilk.
+JACK: Buttermilk. In, y’know -
+AUSTIN: Yeah. Please don’t forget Buttermilk. Never.
+KEITH: Was James correct? Was that…?
+AUSTIN: Yeah, James was the last one. Yep.
+KEITH: Okay. Got it.
+AUSTIN: Mm-hm. Yeah, it’s a weird name, so I get how you could forget it. [Jack laughs]
+KEITH: Yeah, it seems like they’re all – they all have similar – similarly-themed names, and then one of them just has a name that really doesn’t fit.
+AUSTIN: No, one of these things is not like the other. Yeah, you’re right.
+KEITH: Yeah. Isn’t that right, Smack Talk? [Austin, Jack, and Keith laugh]
+AUSTIN: Great.
+JACK: Also, like – and I mean, I guess the way we see this is we see like, Smack Talk like, walks into the cockpit where one of the – where Cowtipper is working, and is just sort of like,
+JACK (as Smack): Well, everything okay?
+AUSTIN: (as Cowtipper): Yeah, yeah, yeah, yeah, yeah, yeah, yeah. This, uh, doctor guy, I dunno…
+JACK (as Smack): Uh, y’know. I don’t – I don’t know.
+AUSTIN (as Cowtipper): Never met a doctor I liked.
+JACK (as Smack): There’s never been a doctor you’ve liked?
+AUSTIN (as Cowtipper): Never once.
+JACK (as Smack): What about that time with your arm?
+AUSTIN (as Cowtipper): Eeehhh.
+JACK (as Smack): When she put it back on?
+AUSTIN (as Cowtipper): Eehhhhhhh. [Keith laughs]
+JACK (as Smack): Not a fan? Not a fan?
+AUSTIN (as Cowtipper): She did good work, I guess, you’re right. Maybe I’m taking things too harsh on this doctor. 
+AUSTIN (as Cowtipper): [crosstalk] I met a doctor once that I liked! Put my arm back on!
+JACK (as Smack): Yeah, and there’s a difference between appreciating good work, and liking someone. Like Memphis.
+AUSTIN (as Cowtipper): Good worker. I like Memphis
+JACK (as Smack): Good worker –
+AUSTIN (as Cowtipper): I like Memphis. Disagree.
+JACK (as Smack): He’s an arsehole.
+AUSTIN (as Cowtipper): No, he’s a star. He signed – listen, tell you this about Memphis Longhand. I brought him five stuffed Memphis Longhand dolls. He signed all of them five times each. Said they’d be five times –
+JACK (as Smack): I’ll sign them all six times each!
+AUSTIN (as Cowtipper): Smack Talk, I – you know I respect your work. Buddy, you ‘aint – you ‘aint Memphis Longhand. My kids know who Memphis Longhand is. They don’t know Smack Talk. What’s that even mean? Everyone knows what Memphis Longhand means. They don’t know what Smack Talk means. Come on.
+JACK (as Smack): [sighs] Yeah –
+AUSTIN (as Cowtipper): Aah, you know I love you! You know I love you! You know I do!
+JACK (as Smack): And you know I love you! You know I do! But he’s a dick, and uh, that’s all I have to say about the matter. [Keith laughs]
+AUSTIN (as Cowtipper): Alright.
+KEITH: You’re cowboys.
+ART: You started by complimenting the work, and then became about something else.
+AUSTIN: [laughs] Oh, God. And I think it goes on like this until we – y’know, we get the fun banter scenes. And please, let me know if anyone wants to talk to anybody else before we show up at the war zone. [Jack laughs]. Now is the time for conversations, before we do an engagement roll.
+JACK: We pick someone, right? We pick someone who’s gonna lead it.
+AUSTIN: You do pick someone to roll, to do a roll. The key is –
+JACK: And we’re rolling a specific thing.
+AUSTIN: Yes. So if you have the book open, what you want to be on is on page 45. But I’ve also put the engagement tactics in the sidebar here, for people to take a quick look at that.
+[reading] ‘After a mission is planned’, which, you know – I guess we – we haven’t quite done that quite yet – I guess we’ve kind of gone through the gist of what the mission is. I’ve left open how you want to handle this, and you can discuss this now. But you have to decide a tactic, and a tactic is ‘the method that the squad is going to use to accomplish the objective. It’s a general strategy. It requires a detail that explains how the mission opens. You select one of the following tactics and then determine the detail. An assault is open violence against a target’. The detail that you’ll have to give me is the ‘point of attack where the open violence will happen’. Deception is luring, tricking, or manipulating the target. The detail is the method of deception. Scientific is engaging with technological power. The detail is the unusual procedures used. Social plans are when the squad negotiates with, bargains, and persuades the target. The detail is the social connection. Stealth is for taking action undetected. The detail is the point of infiltration. And transport is carrying cargo and people through danger. The detail is the route and the means’.
+In this case, the specific thing that you need a tactic to get past is the orbital cannons and a fleet that is blockading the city of Zibeline that is preventing you from just like safely, quickly landing. So that is the tactic that I’m gonna need to figure out. Do y’all have any plans? Any ideas for which of those to use?
+KEITH: Well as a transport vehicle transporting cargo, [AUSTIN: Yeah.] I think that we should use the transport cargo move.
+AUSTIN: At that point, the thing that I would need is a detail, which is like ‘how do you get past these orbital cannons just by flying’?
+[pause]
+KEITH: Under.
+AUSTIN: [taken aback] Yeah?
+ART: Mmm.
+KEITH: Yeah. Well, they can’t see under, right?
+AUSTIN: [confused] What?
+KEITH: I’ve never met an orbital cannon that I couldn’t fly under.
+AUSTIN: You’re in space. They are pointed at space.
+KEITH: Well, they’re pointed at one point in space.
+AUSTIN: They’re on the ground pointed up, to be clear.
+KEITH: Oh, okay. On the ground pointed up.  
+AUSTIN: That’s – those are the three orbital cannons you can see on the map. The red triangles.
+KEITH: Am I…? Okay. Now I- okay, I get it. I thought they were in space too.
+AUSTIN: Yeah, yeah, yeah. No, no, they are pointed upwards orbital cannons. They are defending the city from reinforcements dropping down, [KEITH: Got it.] which is why as an optional objective you can try to knock them out, which would allow new reinforcements to land.
+ART: This – this an Empire Strikes Back situation.
+AUSTIN: It’s an Empire Strikes Back situation. Yes.
+JACK: So a kind of – if – [sighs] we could also try deception, which is we… we could say we’re not [laughs] – I’m being loose here. We could say we’re not carrying a superweapon. We could – we could try and broker passage.
+KEITH: Oh, and they might not even ask!
+JACK: [laughs] That is true. We could try and broker passage in by being like, ‘oh, we’re like a regular convoy’, or something. We could try and mask our drive signatures or something.
+AUSTIN: That would be – masking your drive signatures -
+JACK: Would be stealth.
+AUSTIN: Feels like it would be stealth. ‘Cause it would be like, ‘I don’t wanna get seen’. Social would be like, ‘we’ll toss you a couple couple bucks’, or, ‘hey, we’re not the people we seem’.
+JACK:  Deception would be [AUSTIN: Right.] ‘we’re a travelling - huge travelling circus’.
+AUSTIN: Right. ‘We’re definitely not associated with OriCom. We are independents. We are blah blah blah blah blah blah.’
+JACK: Right.
+AUSTIN: Any of those are all viable things. It might be worth looking at –
+ART: Maybe some of them have five dollars they wanna have signed five times.
+AUSTIN: Right, like, I was gonna bring this up. Uh… Memphis Longhand does have a move called Regent’s Brilliance: [reading] ‘You and your entourage have increased effect when consorting and swaying, so long as you take advantage of how truly impressive you are’. I would count that for this engagement roll, [JACK: Yeah.] if you were doing something that was in that wheelhouse.
+ART: [crosstalk] Truly impressive…
+AUSTIN: Truly impressive. I don’t know what that looks like. You’d have to tell me. And that might not even be what you wanna do.
+KEITH: Um…
+ART: You ever seen a chaff grenade in a disco ball?
+AUSTIN: No!
+KEITH: I – [laughs]
+ART: Looks great! That’s what Memphis Longhand’s like, a chaff grenade in a disco ball.
+AUSTIN: Great.
+KEITH: Now that – now that I’m seeing the map, could we – could we try just coming from the west and staying low to the surface of the planet?
+AUSTIN: You mean the east? Or do you mean –
+KEITH: [crosstalk] [quiet] The east. Yeah, further east.
+AUSTIN: You mean further? Um, so, yeah, you can totally –
+KEITH: Towards the west. East to west.
+AUSTIN: Yeah, yeah, I think that is totally a thing you can try to do. The orbital cannons have all this area in range. You could try to go to a different place that is not, um – that is not as protected, and then try to go in overland, for sure. The thing that I’m gonna say there is the risk is do you get there quick enough? 
+--01:15:00--
+AUSTIN: Are you gonna get picked up by the fleet instead of being picked up by the orbital cannons? Like, there is still risk there, but that is also – that would be a transport plan, for sure. Which is like, find a route that isn’t protected and then kind of come in under the radar. I would be fine with that. It’s up to y’all as a group to decide which one you wanna use. Pigeon, do you have any like, Divine related plans or ideas here?
+ALI: Um, yeah, I – I have the Divine Harmonious.
+AUSTIN: You do.
+ALI: Um, I don’t know that that would help me get into the city. I think that it would help us act as a unit, if we were [AUSTIN: Yeah.] sneaking, or doing some sort of situation like that.
+AUSTIN: [cross] We haven’t really – I mean, for what it’s worth, we haven’t really described what Harmonious is or does. I’ve imagined it as being birdlike, and I’ve given it, so far, two quirks. I’m gonna need two more quirks there. I should have specifically asked you if you had thoughts on that. [ALI: Mmm.] Quirks are special things that every mech in this game has. They are things that both can help and also things that can hurt. So for instance, the HXE-44 has – which is – which is David’s mech – has ‘hard to handle’, ‘overcharged wiring’, ‘a spacious cockpit’ - or no, wait, I thought we got rid of – we got rid of spacious cockpit, right? What did we change that to?
+KEITH: I got rid of ‘spacious cockpit’, yeah. It was supposed to be ‘common parts’.
+AUSTIN: ‘Common parts’. So it’s like – oop, I didn’t mean to do that. Wait.
+KEITH: Can you ctrl+z it?
+AUSTIN: I can. There we go. ‘Common parts’ and ‘it’s a box’. And you spend those to get benefits or to resist bad outcomes in your mech. And so, like, you can imagine those as being – I imagine them in two different ways. One is like, ‘oh, those are things that could work well for you or against you’, right? You could imagine expending your overcharged wiring and we get a shot of, like, ‘oh, energy pulses through your - your mech’s wires in such a way that it gives it the strength it needs to just like, toss aside an enemy mech, right? Burning out those things. Or you could imagine it being framed as like, ‘oh, your overcharged wiring burns in such a way that, like, your cockpit catches fire’, right?
+ALI: Mm-hm.
+AUSTIN: And so, for Harmonious right now, the two that I’ve written are… are – that’s logistics, I was like, ‘wait, it’s gone’ – are ‘universal comms channel’. So like, you have the access - because you’re a Divine you have access to both Divine and OriCom comms channels. And ‘paper-thin wings’. Which again, can be really cool wings, or it could be like ‘uh-oh, those wings are shot through’. [ALI: Mm.] The other way I like to think about it is just, like, it’s a thing the camera can focus on for a beat that – y’know, you think about it in a - almost in a - not non-diegetic way, but almost in a structural storytelling way. Which is, like, quirks are things the camera takes notice of, and provide momentum narratively for the next moment to occur, if that makes sense. And people in the chat who’ve played this game more than me, and who’ve written it, can tell me if I have a bad understanding of it. [Keith laughs] So. So yeah. So yeah, think about two more things there, and you can look through the other – the other people for ideas. Or, if you have the book open, if you go to page… be-be-be… Ah, hmmm… Here we go – 160, there are lots of example vehicles, and a lot of those have other suggested quirks. Things like ‘exposed cockpit’, or ‘powerful grip’, or ‘loud and showy’, or ‘teched up’… um, ‘compact design’, et cetera, et cetera.
+KEITH: I have a – if we need a second to look over quirks for Pigeon, I rewrote a connection with Smack and also wrote a third one.
+AUSTIN: Okay, what have you got?
+KEITH: So, I’ll just read all three.
+KEITH (as David): No matter our differences, my brother will have my back. I have to protect my brother because he hasn’t learned to protect himself.
+AUSTIN: [crosstalk] God. Okay.
+KEITH (as David): And Smack has loyalties that I do not approve of, and it worries me.
+AUSTIN: Great. Good. Um, and you can look over quirks now or as we continue, Ali, but for now I’m just curious, on this engagement roll tactic, if there’s a strong feeling one way or another from the group. Again, those options are assault, deception, scientific, social, stealth, and transport.
+[short pause]
+AUSTIN: Right now it sounds like the top suggestions are some sort of lie or come in from the east in a way that cuts underneath the orbital cannons, [JACK: Yeah.] or puts you out of range.
+ALI: Do we wanna come in through the river? Can we do that? [laughs]
+AUSTIN: Maybe. What’s that look like in your mind?
+KEITH: Well, if the ship is vacuum tight, it’s probably also watertight.
+AUSTIN: Yeah.
+JACK: [doubtful] We have a convoy.
+AUSTIN: You do have a convoy.
+ALI: Oh…
+AUSTIN: You don’t have to land all of them, right? You have to land the one that has – I mean, your mechs are in some of them, are in two of them. A third of them has – the third one has, presumably, the… the device in it, the Bittenbach device. And then the fourth one is probably, y’know, additional supplies, y’know?
+ART: I – I just feel like, if their entire planetary security is these three cannons -
+AUSTIN: It is not.
+ART: - they’re probably ready for other – like, they can’t have like, designed these defences and been like, ‘well, if someone comes from the east we’re just – that’s just it, they get to come in’. [Ali laughs] 
+AUSTIN: Right. I mean, the thing to remember is maybe the reason they don’t have defences on the east is because they don’t control all of the city yet, right? [ART: Mm.] That is part of it. They are defending their side of things. Maybe the other reason is that they – further to the east they might control more, but like, as far as the near here is, I’m saying that yeah, coming in from the east is a viable option. It’s still gonna be a dice roll! This still breaks bad if you roll a 1. Do you know what I mean?
+KEITH: Yeah, mm-hm.
+AUSTIN: That is how this works.
+KEITH: I, uh y’know - all David can do is say what he thinks the least risky thing is, and I think it’s flying from the direction where the cannons can’t see and hope that we do it good.
+ART: Well, all Memphis Longhand knows how to do is do it good, so.
+AUSTIN: I heard that somewhere! I don’t remember where, but. Alright, it sounds like we’re gonna do a transport plan then, to me. Alright, engagement roll:
+[reading] ‘After a mission is planned, play jumps right into the action and we catch up to squad when they encounter the first obstacle. To see how severe the situation is when the squad gets into it, we make an engagement roll. This is a fortune roll. This starts with one dice for plain old luck. Additional dice get added for major advantages and dice get removed for disadvantages. Possible advantages and disadvantages may include any of the following. Is the mission bold? Take +1d. Is the mission especially complex? Take -1.’
+I don’t think it’s bold or complex. I think it’s flat. ‘Does it exploit the target’s vulnerabilities? Take +1’. Yeah, they don’t have cannons over there, so I’ll give you +1 for that. ‘Is it ineffective against the target’? Not especially, so don’t take a -1. So right now you’re at 2. ‘Does the squad receive external support for the mission? Take +1. Is anyone interfering with the mission other than the target? -1’. No, so right now you’re still at 2. ‘Are there any other factors that effect the mission? Take +1 for each one that benefits the squad, and -1 if it hinders them. This might include differences in the squad tier, specialised equipment, or unusual terrain’. I’m gonna say those are flat. So, I think it’s just 2 dice. It’s a flat 2 dice roll. Who wants to give this dice – who wants to roll these damn dice? 
+KEITH: Does, um, does this not fall under Pigeon as a Tactical Genius?
+ART: [crosstalk] ??? [1:23:07]
+AUSTIN: No, that - Tactical Genius has a specific effect, right?
+KEITH: Okay.
+ALI: Yeah, it’s [reading] ‘two times per mission you can assist a teammate without paying any stress. Tell us how you prepared for this’.
+AUSTIN: Yeah. Which is great, but it’s not this.
+KEITH: Not applicable, right.
+AUSTIN: There are other moves that have to do with engagement rolls, I believe, but not that one. So…
+ALI: Okay. There’s 2d6?
+JACK: [crosstalk] Okay, I’ll roll. Oh, you’re going ahead, Ali?
+AUSTIN: Let – yeah, Pigeon – Pigeon, as the Officer, you kick us off.
+ALI: Sure.
+AUSTIN: Hey, that’s a 6!
+KEITH: Nice.
+AUSTIN: Holy shit. Alright. [reading] ‘On a 6, you start in a controlled position. The GM will then craft a scene to reflect the position’. Um, so, you see - y’all calculate out what the firing pattern is – or the firing like, arcs are of the orbital cannons. You hang over the city. It’s a big, beautiful, green agricultural world that you can see has also been scarred as you’re coming in, y’know, through the clouds, through a bunch of war. The planet has been split kind of between these different factions. And as you come in over the – over the land, you start to see what the condition is on the ground. And so I’m gonna start filling in some gaps for you as you get closer. You have to go pretty low, which means some of the western side stuff isn’t really clear yet. But what you can see pretty quickly, and what kind of pops up on your scanners as your space trucks come in, is that the Divine Collaborative holds some farmland and industrial space in the north-east. OriCom, I’ve already said this, holds this farmland in the – sorry, in the south-east. They hold the farmland to the north-east, the Divine Collaborative does. And then the OriCom also holds these docks and industrial spaces here in the south-east of the city, and the Divine Collaborative has maintained control of it in the north-east. There’s a kind of urban residential apartment buildings and local little shops and stuff like that in the north-east. Um, and what you don’t see anywhere as you come in low is the body – or the – the Divine Regolion – sorry, Rogalian, who is absent until you kind of come over the walls and you see that its body has been turned into a corpse right in the middle of these open-air markets. And presumably, you believe, the Principality then holds the western half of this city, which includes this commercial district in the north-west and probably these docks here in the south-west. So, it’s kind of split in half, and the thing that’s splitting it in half is this giant, forty-storey tall walking flamethrower that has been laid out in the middle of this open-air market. I think it still spews fire up. Like, geysers in the middle of this city. Um, where do y’all take your ship? Where do you land your ships, your space trucks?
+[pause]
+ALI: [whisphers] In the river! [laughs]
+AUSTIN: Yeah, that’s fine. [Jack laughs]
+ALI: Right next to it?
+KEITH: Yeah.
+ART: In the river?
+AUSTIN: In the river?
+ALI: Did we define them as, y’know, only ground, gas-taking machines? No, they can go underwater.
+AUSTIN: [crosstalk] No, we didn’t! We definitely didn’t. We definitely did not. They can go under the water. [Ali laughs].
+JACK: Are we like, submerging them, or are we…?
+KEITH: I think that we should definitely submerge them.
+ALI: Yeah! Who’s gonna look in there?
+AUSTIN: Alright! I’m just gonna put two here, but you – you -
+KEITH: I mean a fish – a fisherman would maybe look in there. [Jack chuckles]
+ALI: Well…
+AUSTIN: Yeah, but like, there’s a war going on. I don’t think that fisherman is fucking around with this river at this point.
+ART: Like – hmm, okay. [Ali laughs] A lot of things detect things in water.
+AUSTIN: You’ve pulled up, you’re in the river, um, and now, like, you’re here. You’re in a controlled position. The Divine is to the north, the OriCom is to the south. What are you – what are you doing here? You have your mission. I’m gonna colour in one of these trucks to make it the important one, so that it’s – I’m gonna tint it green. That’s the truck that has the box that is like, [ALI: Mm-hmmm.] the truck cargo-sized box that you need to get to Better Brighter HQ. [Jack sighs]
+KEITH: How big – how big is this box?
+AUSTIN: It’s as big as like an eighteen-wheeler truck, like, cargo. It’s probably like –
+KEITH: Wow, that’s big.
+AUSTIN: Yeah, yeah yeah yeah. It’s gigantic.
+KEITH: How do we carry that?
+AUSTIN: Okay, y’all have mechs is the thing to note.
+ART: Yeah, we have mechs.
+ALI: Yeah.
+KEITH: Yeah…
+AUSTIN: Also, these are trucks that can move and fly and do stuff. Maybe you could protect it as it, like, drives there.
+ART: Yeah, our flying submarine trucks. [Ali and Austin laugh]
+AUSTIN: Um, yeah.
+JACK: Okay –
+KEITH: I didn’t – I didn’t realise the box was so big. I thought we were just gonna be able to carry it, so now parking it in the river seems like less of a good idea.
+JACK: [laughs] Well –
+KEITH: If – ‘cause we need to fly it to the [Ali laughs] Better Brighter HQ. [laughs]
+ALI: Well, um… that’s, uh, considerable foresight, [AUSTIN: Uh-huh.] but I think that, um, the river –
+KEITH: Good name. [Ali laughs]
+ART: Considerable Foresight was my father's name.
+AUSTIN: Great. Great name.
+ALI: [laughing] The river probably sees a lot of imports and exports regularly that [AUSTIN: True!] a box of that size can go on without notice.
+AUSTIN: I will say, in this moment, when there is open warfare happening, everyone is looking for everything. [Ali laughs] Like, we are not in – [ALI: Yeah.] this is not a cold war state where I’m like, ‘ah, yes, things have settled’. There is the body of a Divine that you probably knew, Pigeon, [ALI: Yeah.] in the middle of this place that’s been destroyed recently over the last couple of days.
+KEITH: Spitting out fire.
+AUSTIN: Spitting out fire still. Bleeding fire.
+KEITH: Alright, I’m getting in my mech then.
+AUSTIN: Alright. Who else is getting in – is everyone ready for launch?
+ART: Yeah.
+ALI: Yeah.
+JACK: I think so.
+KEITH (as David): [crosstalk] [muttering quietly] Fucking, a box. Protecting a box. I feel like an idiot. 
+AUSTIN: Uh-huh. 
+[Jack De Quidt’s ‘HOURGLASS. SUNSHINE. CRYSTALLINE’ play]
+

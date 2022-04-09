@@ -76,7 +76,10 @@ async fn search(
     db: web::Data<DbPool>,
     query: web::Query<SearchQuery>,
 ) -> Result<web::Json<SearchResponse>, SearchError> {
-    let conn = db.get().await?;
+    let mut conn = db.get().await?;
+
+    // we use a transaction here for an edge case with exact match queries where we need to force enable_seqscan to off, but don't want that to affect everything.
+    let tx = conn.transaction().await?;
 
     let query_function = query.query_fmt.to_pg_function();
 
@@ -85,7 +88,7 @@ async fn search(
 
         if query.query_fmt != SearchFunctions::Exact {
             // going through postgres here is not the most efficient but it simplifies things
-            let stemmed_keywords_row = conn
+            let stemmed_keywords_row = tx
                 .query_one(
                     "SELECT tsvector_to_array(to_tsvector('fatt',$1)) AS stems",
                     &[&query.q],
@@ -116,9 +119,12 @@ async fn search(
         // escape with =
         let escaped_query = POSTGRES_ILIKE_ESCAPER.replace_all(&query.q, "=$0");
 
+        // postgres is very annoying about this query and chooses not to use an index even though it performs better. so we force it to
+        tx.execute("SET LOCAL enable_seqscan='off'", &[]).await?;
+
         // exact query path
         // parameters: season $1, escaped query $2
-        conn.query(
+        tx.query(
             r#"
             SELECT
                 title,
@@ -133,7 +139,7 @@ async fn search(
     } else {
         // full text query path
         // parameters: season $1, query $2, headline settings $3
-        conn.query(
+        tx.query(
             &format!(
                 r#"
                 SELECT 
@@ -150,6 +156,8 @@ async fn search(
         )
         .await?
     };
+
+    tx.commit().await?;
 
     Ok(web::Json(SearchResponse {
         status: "ok",

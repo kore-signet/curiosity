@@ -23,14 +23,15 @@ pub(crate) struct SearchQuery {
     #[serde(default)]
     pub(crate) return_highlights: bool,
     #[serde(default = "default_highlights_per_entry")]
-    pub(crate) highlights_per_entry: usize
+    pub(crate) highlights_per_entry: usize,
 }
 
 #[derive(Serialize)]
 pub(crate) struct SearchResult {
     pub(crate) title: String,
     pub(crate) id: String,
-    pub(crate) rank: f32,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub(crate) rank: Option<f32>,
     #[serde(skip_serializing_if = "Option::is_none")]
     pub(crate) body: Option<String>,
     #[serde(skip_serializing_if = "Option::is_none")]
@@ -50,12 +51,13 @@ pub(crate) struct ErrResponse {
     pub(crate) why: String,
 }
 
-#[derive(Deserialize)]
+#[derive(Deserialize, PartialEq)]
 #[serde(rename_all = "lowercase")]
 pub(crate) enum SearchFunctions {
     Plain,
     Phrase,
     WebSearch,
+    Exact,
 }
 
 impl Default for SearchFunctions {
@@ -70,6 +72,7 @@ impl SearchFunctions {
             SearchFunctions::Plain => "plainto_tsquery",
             SearchFunctions::Phrase => "phraseto_tsquery",
             SearchFunctions::WebSearch => "websearch_to_tsquery",
+            _ => "intentionally_erroring_function",
         }
     }
 
@@ -80,9 +83,11 @@ impl SearchFunctions {
                 .split_ascii_whitespace()
                 .map(highlighter::input_to_regex)
                 .collect(),
-            SearchFunctions::Phrase => vec![highlighter::input_to_regex(text)],
+            SearchFunctions::Phrase | SearchFunctions::Exact => {
+                vec![highlighter::input_to_regex(text)]
+            }
             SearchFunctions::WebSearch => WEBSEARCH_REGEX
-                .replace(text, "")
+                .replace_all(text, "")
                 .split_ascii_whitespace()
                 .map(highlighter::input_to_regex)
                 .collect(),
@@ -96,18 +101,27 @@ pub(crate) enum SearchError {
     PoolError(#[from] deadpool_postgres::PoolError),
     #[error(transparent)]
     PostgresError(#[from] tokio_postgres::Error),
+    #[error("id or season not found")]
+    NotFound,
 }
 
 impl ResponseError for SearchError {
     fn error_response(&self) -> HttpResponse<actix_web::body::BoxBody> {
         use SearchError::*;
-        HttpResponse::InternalServerError().json(ErrResponse {
+        let response_body = ErrResponse {
             status: "err",
             kind: match self {
                 PoolError(_) => "db pool error",
                 PostgresError(_) => "postgres error",
+                NotFound => "object not found",
             },
             why: format!("{}", self),
-        })
+        };
+
+        match self {
+            NotFound => HttpResponse::NotFound(),
+            _ => HttpResponse::InternalServerError(),
+        }
+        .json(response_body)
     }
 }

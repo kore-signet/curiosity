@@ -19,4 +19,7 @@ CREATE TABLE episodes (
     body_index tsvector GENERATED ALWAYS AS (to_tsvector('fatt', body)) STORED
 );
 
+CREATE EXTENSION pg_trgm;
+
 CREATE INDEX episodes_textidx ON episodes USING GIN (body_index);
+CREATE INDEX episode_trgm_idx ON episodes USING GIN (body gin_trgm_ops);

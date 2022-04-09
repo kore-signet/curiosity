@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Search at the Table</title>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:ital,wght@1,400;1,700&display=swap"
+      rel="stylesheet"
+    />
+    <link href="prism.css" rel="stylesheet" />
+    <link rel="icon" href="icon.png" />
+  </head>
+  <body>
+    <div id="content">
+      <h2>
+        <span class="small_title">API AT THE<br /></span
+        ><span class="large_title">TABLE</span>
+      </h2>
+      <p>
+        An actual play JSON api that allows you to search for key terms across a
+        whole season of Friends at the Table transcripts at once!
+      </p>
+    </div>
+    <p>
+      The main api endpoint is /api/search. It takes a simple GET request with a
+      few query parameters:
+    </p>
+
+    <ul style="text-align: left">
+      <li><i>q</i> - the query to search for</li>
+      <li>
+        <i>query_fmt</i> - the format of the query. can be 'plain', 'exact',
+        'phrase', or 'websearch' - note that currently only 'plain' and 'exact'
+        are well tested!
+      </li>
+      <li>
+        <i>return_text</i> - whether to return the full transcript of each
+        episode that matches the query, either 'true' or 'false'
+      </li>
+      <li>
+        <i>return_highlights</i> - whether to return highlights selected based on
+        the query
+      </li>
+      <li>
+        <i>highlights_per_entry</i> - maximum number of highlights to return per
+        entry
+      </li>
+    </ul>
+    the return value is a json object like this:
+    <pre style="text-align: left"><code class="language-javascript">
+{
+    "status": "ok",
+    "data": [
+        {
+            "title": "episode title",
+            "id": "episode transcript id (as in, the google doc id)",
+            "rank": 0.0, // this is the rank of this episode based on search results; field not present if query type is 'exact'
+            "body": null || "episode transcript", // only present if return_text=true
+            "highlights": null || ["array of highlight strings"] // only present if return_highlights=true. note, the keywords in the query will be wrapped like this: &lt;highlight&gt;keyword&lt;/highlight&gt;
+        }   
+    ]
+}
+    </code></pre>
+    <div id="content">
+      <p>
+        if you want the raw text of an episode by it's google doc id, you can
+        also GET /api/transcript/{episodeid}
+      </p>
+      <p>
+        to get a list of episodes per season, GET /api/season/{season-slug}
+        (currently available options are 'autumn-in-hieron', 'winter-in-hieron',
+        'spring-in-hieron', 'marielda', 'counter-weight', 'twilight-mirage',
+        'road-to-partizan', 'partizan', 'sangfielle', 'extras' and 'patreon')
+      </p>
+    </div>
+    <script src="prism.js"></script>
+  </body>
+</html>

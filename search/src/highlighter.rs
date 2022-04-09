@@ -26,7 +26,7 @@ pub(crate) fn highlights(
                 let mut sentence = sentence.to_owned();
 
                 for key in keywords {
-                    sentence = key.replace(&sentence, replacer).to_string();
+                    sentence = key.replace_all(&sentence, replacer).to_string();
                 }
 
                 Some(sentence)

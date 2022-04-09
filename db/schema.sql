@@ -23,3 +23,4 @@ CREATE EXTENSION pg_trgm;
 
 CREATE INDEX episodes_textidx ON episodes USING GIN (body_index);
 CREATE INDEX episode_trgm_idx ON episodes USING GIN (body gin_trgm_ops);
+CREATE INDEX episode_seasons ON episodes USING HASH (season);

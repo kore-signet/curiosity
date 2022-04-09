@@ -62,7 +62,7 @@ pub(crate) enum SearchFunctions {
 
 impl Default for SearchFunctions {
     fn default() -> Self {
-        SearchFunctions::WebSearch
+        SearchFunctions::Plain
     }
 }
 

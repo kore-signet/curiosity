@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Search at the Table</title>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:ital,wght@1,400;1,700&display=swap"
+      rel="stylesheet"
+    />
+    <link href="prism.css" rel="stylesheet" />
+    <link rel="icon" href="icon.png" />
+  </head>
+  <body>
+    <div id="content">
+      <h2>
+        <span class="small_title">API AT THE<br /></span
+        ><span class="large_title">TABLE</span>
+      </h2>
+      <p>
+        An actual play JSON api that allows you to search for key terms across a
+        whole season of Friends at the Table transcripts at once!
+      </p>
+    </div>
+    <p>
+      The main api endpoint is /api/search. It takes a simple GET request with a
+      few query parameters:
+    </p>
+
+    <ul style="text-align: left">
+      <li>
+        <i>page</i> - paging token
+      </li>
+      <li><i>query</i> - the query to search for</li>
+      <li>
+        <i>kind</i> - the format of the query. can be 'keywords', 'phrase',
+        or 'web' - note that currently only 'keywords' and 'phrase'
+        are well tested!
+      </li>
+      <li>
+        <i>highlight</i> - whether to return highlights for each episode
+      </li>
+      <li>
+        <i>page_size</i> - how many documents to return (max 100)
+      </li>
+    </ul>
+    the return value is a json object like this:
+    <pre style="text-align: left"><code class="language-javascript">
+{
+    "next_page": "abcd" || null, // pagination token - use for next_page!
+    "data": [
+        {
+            "title": "episode title",
+            "curiosity_id": 0, // episode id - (season * 1000) + episode-number
+            "docs_id": "abc", // google docs id for the transcript
+            "slug": "123-abc-deg", // episode slug
+            "season": "autumn-in-hieron",
+            "highlights": [
+              [ // aray of highlighted sentences
+                { text: "abc", highlighted: false },
+                { text: "def", highlighted: true },
+                { text: "efg", highlighted: false },
+              ]
+            ]
+        }   
+    ]
+}
+    </code></pre>
+   
+    <script src="prism.js"></script>
+  </body>
+</html>

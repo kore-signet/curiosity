@@ -1,0 +1,7 @@
+target/
+frontend/
+data/
+target/
+store.redb
+satt_idx/
+store.mdb

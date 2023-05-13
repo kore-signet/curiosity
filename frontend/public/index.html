@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+
+    <link rel="icon" href="icon.png" />
+    <link rel="stylesheet" type="text/css" href="stylesheet.css" />
+  </head>
+  <body>
+    <div id="content">
+      <h2>
+        <span class="small_title">SEARCH AT THE<br /></span
+        ><span class="large_title">TABLE</span>
+      </h2>
+      <p>
+        An actual play web app that allows you to search for key terms across a
+        whole season of Friends at the Table transcripts at once!
+      </p>
+      <p>
+        Just select which season of FaTT you want to search through and enter
+        your search term.<br />You can also click the episode title to go
+        straight to the transcript itself. You can view all completed
+        transcripts by
+        <a
+          class="link"
+          href="https://docs.google.com/spreadsheets/d/1KZHwlSBvHtWStN4vTxOTrpv4Dp9WQrulwMCRocXeYcQ/edit#gid=688483886"
+          >clicking here</a
+        >
+      </p>
+
+      <form id="search">
+        <div id="select-container">
+          <select id="search_seasons" multiple name="search_seasons" autocomplete="off" placeholder="Select a season.."">
+            <option value="all-seasons">All Seasons</option>
+            <optgroup label="Seasons of Hieron">
+              <option value="autumn-in-hieron">Autumn in Hieron</option>
+              <option value="marielda">Marielda</option>
+              <option value="winter-in-hieron">Winter in Hieron</option>
+              <option value="spring-in-hieron">Spring in Hieron</option>
+            </optgroup>
+            <optgroup label="Divine Cycle">
+              <option value="counter-weight">COUNTER/Weight</option>
+              <option value="twilight-mirage">Twilight Mirage</option>
+              <option value="road-to-partizan">Road to Partizan</option>
+              <option value="partizan">Partizan</option>
+              <option value="road-to-palisade">Road to Palisade</option>
+              <option value="palisade">Palisade</option>
+            </optgroup>
+            <optgroup label="Others">
+              <option value="sangfielle">Sangfielle</option>
+              <option value="extras">Extra content</option>
+              <option value="patreon">(free) Patreon content</option>
+            </optgroup>
+          </select>
+          <select id="search_format" name="search_format">
+            <option value="keywords" selected>Keyword search</option>
+            <option value="phrase">Exact match</option>
+            <option value="websearch">Google-like (experimental!)</option>
+          </select>
+        </div>
+        <input
+          type="text"
+          name="search_bar"
+          id="search_bar"
+          placeholder="Input your search term here"
+        />
+        <button
+          type="submit"
+          id="submit"
+          class="form-button"
+          onclick="event.preventDefault(); clearOutput(); searchText(true);"
+        >
+          Submit
+        </button>
+      </form>
+
+      <div id="fountainG" aria-hidden="true">
+        <div id="fountainG_1" class="fountainG"></div>
+        <div id="fountainG_2" class="fountainG"></div>
+        <div id="fountainG_3" class="fountainG"></div>
+        <div id="fountainG_4" class="fountainG"></div>
+        <div id="fountainG_5" class="fountainG"></div>
+        <div id="fountainG_6" class="fountainG"></div>
+        <div id="fountainG_7" class="fountainG"></div>
+        <div id="fountainG_8" class="fountainG"></div>
+      </div>
+
+      <div id="output" aria-live="polite"></div>
+      <button id="load-more" style="display: none;" class="form-button" onclick="event.preventDefault(); load_more();">Load more</button>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/tom-select@2.2.2/dist/js/tom-select.complete.min.js"></script>    <script src="ie8-urlsearch.js"></script>
+    <script src="javascript.js"></script>
+
+    <footer>
+      <p>
+        originally by
+        <a
+          href="https://twitter.com/bryanbakedbean"
+          class="link"
+          target="_blank"
+          rel="noopener"
+          >@bryanbakedbean</a
+        >
+        / 
+        currently upkept by
+        <a
+          class="link"
+          href="https://twitter.com/sapphiclinguine"
+          target="_blank"
+          rel="noopener"
+          >emily signet (@sapphiclinguine)</a
+        >
+        <br />
+      </p>
+      <p>
+        <a class="link" href="docs.html" target="_blank" rel="noopener">api docs</a>
+        /
+        <a class="link" href="https://github.com/emily-signet/curiosity" target="_blank" rel="noopener">source code</a>
+        /
+        <a class="link" href="https://memorious.cat-girl.gay" target="_blank" rel="noopener">library of memorious (backup/alternative)</a>
+      </p>
+    </footer>
+  </body>
+</html>

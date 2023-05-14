@@ -1,5 +1,6 @@
 use crate::store::TermsToSentencesId;
 
+use std::collections::BTreeSet;
 use std::{cell::Cell, cmp::Reverse};
 
 use crate::StoredEpisode;
@@ -34,21 +35,15 @@ macro_rules! serde_try {
     };
 }
 
-pub struct SerializableArchivedEpisode<
-    'a,
-    I: Iterator<Item = Result<AccessGuard<'a, u32>, redb::Error>>,
-> {
+pub struct SerializableArchivedEpisode<'a, I: Iterator<Item = u32>> {
     pub ep: &'a ArchivedStoredEpisode,
     pub highlights: Option<HighlightsSerializer<'a, I>>,
 }
 
-impl<'a>
-    SerializableArchivedEpisode<'a, std::iter::Empty<Result<AccessGuard<'a, u32>, redb::Error>>>
-{
+impl<'a> SerializableArchivedEpisode<'a, std::iter::Empty<u32>> {
     pub fn no_highlights(
         ep: &'a ArchivedStoredEpisode,
-    ) -> SerializableArchivedEpisode<'a, std::iter::Empty<Result<AccessGuard<'a, u32>, redb::Error>>>
-    {
+    ) -> SerializableArchivedEpisode<'a, std::iter::Empty<u32>> {
         SerializableArchivedEpisode {
             ep,
             highlights: None,
@@ -56,9 +51,7 @@ impl<'a>
     }
 }
 
-impl<'a, I: Iterator<Item = Result<AccessGuard<'a, u32>, redb::Error>>>
-    SerializableArchivedEpisode<'a, I>
-{
+impl<'a, I: Iterator<Item = u32>> SerializableArchivedEpisode<'a, I> {
     pub fn new(
         ep: &'a ArchivedStoredEpisode,
         sentence_ids: I,
@@ -77,9 +70,7 @@ impl<'a, I: Iterator<Item = Result<AccessGuard<'a, u32>, redb::Error>>>
     }
 }
 
-impl<'a, I: Iterator<Item = Result<AccessGuard<'a, u32>, redb::Error>>> Serialize
-    for SerializableArchivedEpisode<'a, I>
-{
+impl<'a, I: Iterator<Item = u32>> Serialize for SerializableArchivedEpisode<'a, I> {
     fn serialize<S>(&self, serializer: S) -> Result<S::Ok, S::Error>
     where
         S: serde::Serializer,
@@ -99,16 +90,14 @@ impl<'a, I: Iterator<Item = Result<AccessGuard<'a, u32>, redb::Error>>> Serializ
     }
 }
 
-pub struct HighlightsSerializer<'a, I: Iterator<Item = Result<AccessGuard<'a, u32>, redb::Error>>> {
+pub struct HighlightsSerializer<'a, I: Iterator<Item = u32>> {
     pub ep: &'a ArchivedStoredEpisode,
     pub sentence_ids: Cell<Option<I>>,
     pub terms: &'a [u32],
     pub is_phrase_query: bool,
 }
 
-impl<'a, I: Iterator<Item = Result<AccessGuard<'a, u32>, redb::Error>>> Serialize
-    for HighlightsSerializer<'a, I>
-{
+impl<'a, I: Iterator<Item = u32>> Serialize for HighlightsSerializer<'a, I> {
     fn serialize<S>(&self, serializer: S) -> Result<S::Ok, S::Error>
     where
         S: serde::Serializer,
@@ -119,8 +108,7 @@ impl<'a, I: Iterator<Item = Result<AccessGuard<'a, u32>, redb::Error>>> Serializ
             .take()
             .ok_or_else(|| S::Error::custom("Highlights iterator already consumed!"))?
         {
-            let sentence = &self.ep.tokens
-                [(id.map_err(|e| S::Error::custom(e.to_string()))?).value() as usize];
+            let sentence = &self.ep.tokens[id as usize];
             if let Some(highlights) =
                 sentence.highlight(self.terms, &self.ep.text, self.is_phrase_query)
             {
@@ -178,7 +166,9 @@ impl<'a> Serialize for ResultsSerializer<'a> {
 
             let mut term_to_sentence_id = TermsToSentencesId::new(doc_id.0, 0);
 
-            let sentence_ids = state
+            let sentence_ids: BTreeSet<u32> =
+                serde_try!(S,
+                state
                 .query
                 .terms
                 .iter()
@@ -186,11 +176,12 @@ impl<'a> Serialize for ResultsSerializer<'a> {
                     term_to_sentence_id.set_term(*term);
                     db.get_sentences(&term_to_sentence_id).ok()
                 })
-                .flatten();
-
+                .flatten()
+                .map(|res: Result<AccessGuard<u32>, redb::Error>| res.map(|acc| acc.value()))
+                .collect::<Result<BTreeSet<u32>, redb::Error>>());
             seq.serialize_element(&SerializableArchivedEpisode::new(
                 doc,
-                sentence_ids,
+                sentence_ids.into_iter(),
                 &state.query.terms,
                 state.is_phrase_query,
             ))?;

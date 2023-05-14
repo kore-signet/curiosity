@@ -169,7 +169,7 @@ impl ArchivedSentence {
         &self,
         terms: &[u32],
         document: &'b str,
-        must_be_consecutive: bool,
+        is_phrase_query: bool,
     ) -> Option<SmallVec<[SentencePart<'b>; 8]>> {
         let mut ranges: SmallVec<[CopyableTermRange; 8]> = SmallVec::new();
         let mut found_count = 0;
@@ -205,7 +205,7 @@ impl ArchivedSentence {
             }
         }
 
-        if found_count != terms.len() {
+        if (is_phrase_query && found_count != terms.len()) || found_count == 0 {
             return None;
         }
 
@@ -223,7 +223,7 @@ impl ArchivedSentence {
 
         let ranges = collapse_overlapped_ranges(&ranges);
 
-        if must_be_consecutive {
+        if is_phrase_query {
             if ranges.len() != terms.len() {
                 return None;
             }

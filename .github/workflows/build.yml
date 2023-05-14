@@ -1,6 +1,7 @@
 name: docker_push
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - 'main'

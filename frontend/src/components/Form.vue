@@ -111,7 +111,13 @@ const request: ApiRequest = reactive({
 
 
 async function search() {
-  let res = await api.search(request);
+  (<any>window).umami.track('search', {
+    query: request.query,
+    seasons: request.seasons || [],
+    query_kind: request.kind
+  })
+
+  let res = await api.search(request)
   emit('search', res)
 }
 

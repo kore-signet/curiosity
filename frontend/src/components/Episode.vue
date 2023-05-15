@@ -1,9 +1,13 @@
 <script setup lang="ts">
+import { computed } from "vue";
 import { type EpisodeData } from "../types"
 
 const props = defineProps<EpisodeData>()
 
-const docs_link = `https://docs.google.com/document/d/${props.docs_id}`;
+const docs_link = computed(() => {
+  return `https://docs.google.com/document/d/${props.docs_id}`
+})
+
 </script>
 
 <template>

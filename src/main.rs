@@ -1,6 +1,5 @@
 #![allow(unused_must_use)]
 
-use std::collections::BTreeSet;
 use std::io::{Cursor, Read};
 
 use std::sync::Arc;
@@ -16,11 +15,11 @@ use curiosity::{db::Db, CuriosityError, CuriosityResult, Season, SeasonId};
 use curiosity::{serialization_crimes::*, StoredEpisode};
 
 use nyoom_json::{Serializer, UnescapedStr};
-use redb::AccessGuard;
 
 use serde::{Deserialize, Serialize};
 use smallvec::SmallVec;
 use smartstring::{Compact, SmartString};
+use tinyset::SetU32;
 
 macro_rules! noescape {
     ($l:expr) => {
@@ -125,26 +124,26 @@ async fn search(
 
         let mut term_to_sentence_id = TermsToSentencesId::new(doc_id.0, 0);
 
-        let sentence_ids: BTreeSet<u32> = parsed_query
-            .terms
-            .iter()
-            .filter_map(|term| {
-                term_to_sentence_id.set_term(*term);
-                ep_db.get_sentences(&term_to_sentence_id).ok()
-            })
-            .flatten()
-            .map(|res: Result<AccessGuard<u32>, redb::Error>| res.map(|acc| acc.value()))
-            .collect::<Result<BTreeSet<u32>, redb::Error>>()?;
-
-        // TODO: include whether sentence should be escaped or not
         let mut highlights = episode.array_field(noescape!("highlights"));
+        let mut seen_sentences: SetU32 = SetU32::new();
 
-        for id in sentence_ids {
-            let sentence = &doc.tokens[id as usize];
-            if let Some(highlighted) =
-                sentence.highlight(&parsed_query.terms, &doc.text, is_phrase_query)
-            {
-                highlighted.serialize_into(highlights.add_array());
+        for term in parsed_query.terms.iter() {
+            term_to_sentence_id.set_term(*term);
+            let Some(sentence_ids) = ep_db.get_sentences(&term_to_sentence_id)? else {
+                continue;
+            };
+
+            for sentence_id in sentence_ids.value().ids.iter() {
+                if !seen_sentences.insert(sentence_id.value()) {
+                    continue;
+                }
+
+                let sentence = &doc.tokens[sentence_id.value() as usize];
+                if let Some(highlighted) =
+                    sentence.highlight(&parsed_query.terms, &doc.text, is_phrase_query)
+                {
+                    highlighted.serialize_into(highlights.add_array());
+                }
             }
         }
 
@@ -213,8 +212,8 @@ async fn main() -> Result<(), Box<dyn Error>> {
     std::fs::remove_file("./store.redb");
     std::fs::create_dir_all("./satt_idx");
     let mut db = Db::new("./satt_idx", "./store.redb")?;
-
     update_database(db.clone()).await.unwrap();
+
     Arc::<redb::Database>::get_mut(&mut db.store.db)
         .unwrap()
         .compact();

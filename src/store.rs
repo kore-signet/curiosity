@@ -1,9 +1,10 @@
-use std::{ops::Deref, sync::Arc};
+use std::{borrow::Cow, ops::Deref, sync::Arc};
 
 use redb::{
-    AccessGuard, MultimapTableDefinition, MultimapValue, ReadOnlyMultimapTable, ReadOnlyTable,
-    ReadableMultimapTable, ReadableTable, RedbKey, RedbValue, TableDefinition, WriteTransaction,
+    AccessGuard, MultimapTableDefinition, ReadOnlyTable, ReadableTable, RedbKey, RedbValue,
+    TableDefinition, WriteTransaction,
 };
+use rend::u32_le;
 use yoke::{Yoke, Yokeable};
 use zerocopy::AsBytes;
 
@@ -68,7 +69,7 @@ impl ReadTransaction {
 
 pub struct DocsAccessor<'txn> {
     docs: ReadOnlyTable<'txn, u64, &'static [u8]>,
-    terms_to_sentences: ReadOnlyMultimapTable<'txn, TermsToSentencesId, u32>,
+    terms_to_sentences: ReadOnlyTable<'txn, TermsToSentencesId, SentenceList<'static>>,
 }
 
 impl<'txn> DocsAccessor<'txn> {
@@ -76,10 +77,10 @@ impl<'txn> DocsAccessor<'txn> {
         self.docs.get(doc)?.ok_or(CuriosityError::NotFound)
     }
 
-    pub fn get_sentences<'b>(
-        &'b self,
+    pub fn get_sentences(
+        &self,
         id: &TermsToSentencesId,
-    ) -> CuriosityResult<MultimapValue<'b, u32>> {
+    ) -> CuriosityResult<Option<AccessGuard<SentenceList>>> {
         self.terms_to_sentences
             .get(id)
             .map_err(CuriosityError::REDBError)
@@ -146,12 +147,66 @@ impl RedbKey for TermsToSentencesId {
     }
 }
 
+#[derive(Debug)]
+pub struct SentenceList<'a> {
+    pub ids: Cow<'a, [u32_le]>,
+}
+
+impl SentenceList<'_> {
+    pub fn empty() -> Self {
+        SentenceList {
+            ids: Cow::Owned(Vec::new()),
+        }
+    }
+
+    pub fn from_slice(v: &[u32]) -> Self {
+        SentenceList {
+            ids: Cow::Owned(v.iter().map(|v| u32_le::new(*v)).collect::<Vec<_>>()),
+        }
+    }
+}
+
+impl RedbValue for SentenceList<'_> {
+    type SelfType<'a>
+     = SentenceList<'a> where Self: 'a;
+
+    type AsBytes<'a>
+     = &'a [u8] where Self: 'a;
+
+    fn fixed_width() -> Option<usize> {
+        None
+    }
+
+    fn from_bytes<'a>(data: &'a [u8]) -> Self::SelfType<'a>
+    where
+        Self: 'a,
+    {
+        let (_, data, _) = unsafe { data.align_to::<u32_le>() };
+        SentenceList {
+            ids: Cow::Borrowed(data),
+        }
+    }
+
+    fn as_bytes<'a, 'b: 'a>(value: &'a Self::SelfType<'b>) -> Self::AsBytes<'a>
+    where
+        Self: 'a,
+        Self: 'b,
+    {
+        let (_, data, _) = unsafe { value.ids.align_to::<u8>() };
+        data
+    }
+
+    fn type_name() -> redb::TypeName {
+        redb::TypeName::new("curiositySentenceList")
+    }
+}
+
 #[derive(Clone)]
 pub struct Store {
     pub db: Arc<redb::Database>,
     pub docs: TableDefinition<'static, u64, &'static [u8]>,
     pub terms: TableDefinition<'static, &'static str, u32>,
-    pub terms_to_sentences: MultimapTableDefinition<'static, TermsToSentencesId, u32>,
+    pub terms_to_sentences: TableDefinition<'static, TermsToSentencesId, SentenceList<'static>>,
 }
 
 impl Store {
@@ -174,7 +229,7 @@ impl Store {
     ) -> CuriosityResult<DocsAccessor<'a>> {
         Ok(DocsAccessor {
             docs: txn.open_table(self.docs)?,
-            terms_to_sentences: txn.open_multimap_table(self.terms_to_sentences)?,
+            terms_to_sentences: txn.open_table(self.terms_to_sentences)?,
         })
     }
 }

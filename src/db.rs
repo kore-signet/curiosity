@@ -1,11 +1,11 @@
 use std::{
     cmp::Reverse,
-    collections::{HashMap, HashSet},
+    collections::{BTreeMap, HashMap, HashSet},
     path::Path,
     sync::{Arc, RwLock},
 };
 
-use redb::{MultimapTable, MultimapTableDefinition, ReadableTable, Table, TableDefinition};
+use redb::{ReadableTable, Table, TableDefinition};
 use smallvec::SmallVec;
 
 use tantivy::{
@@ -19,7 +19,7 @@ use tantivy::{
 
 use crate::{
     sentence::Sentence,
-    store::{Store, TermsToSentencesId},
+    store::{SentenceList, Store, TermsToSentencesId},
     term_map::TermMap,
     CuriosityError, CuriosityResult, Episode, Season, SeasonId, StoredEpisode,
 };
@@ -59,14 +59,14 @@ impl Db {
             .open_or_create(MmapDirectory::open(index_path)?)?;
 
         let store_env = redb::Database::builder()
-            .set_cache_size(256_000_000)
+            .set_cache_size(1_000_000_000)
             .create(store_path)?;
 
         let dbs = Store {
             db: Arc::new(store_env),
             docs: TableDefinition::new("docs"),
             terms: TableDefinition::new("terms"),
-            terms_to_sentences: MultimapTableDefinition::new("terms_to_sentences"),
+            terms_to_sentences: TableDefinition::new("terms_to_sentences"),
         };
 
         let txn = dbs.begin_read()?;
@@ -83,7 +83,7 @@ impl Db {
 
             Arc::new(RwLock::new(TermMap::construct(terms_keys, terms_vals)))
         } else {
-            Arc::new(RwLock::new(TermMap::construct(Vec::new(), Vec::new())))
+            Arc::new(RwLock::new(TermMap::construct(vec![" ".into()], vec![0])))
         };
 
         let reader = index.reader()?;
@@ -115,12 +115,12 @@ impl Db {
         let txn = self.store.begin_write()?;
         txn.delete_table(self.store.docs)?;
         txn.delete_table(self.store.terms)?;
-        txn.delete_multimap_table(self.store.terms_to_sentences)?;
+        txn.delete_table(self.store.terms_to_sentences)?;
 
         let mut terms_db: Table<&str, u32> = txn.open_table(self.store.terms)?;
         let mut doc_db: Table<u64, &[u8]> = txn.open_table(self.store.docs)?;
-        let mut terms_to_sentences_db: MultimapTable<TermsToSentencesId, u32> =
-            txn.open_multimap_table(self.store.terms_to_sentences)?;
+        let mut terms_to_sentences_db: Table<TermsToSentencesId, SentenceList> =
+            txn.open_table(self.store.terms_to_sentences)?;
 
         let mut index_writer = self.index.writer(100_000_000)?;
         index_writer.delete_all_documents()?;
@@ -131,6 +131,8 @@ impl Db {
             .tokenizer_for_field(schema.get_field("body").unwrap())?;
 
         let mut term_map = HashMap::new();
+        term_map.insert(" ".to_owned(), 0);
+
         let mut authors = HashSet::new();
 
         for season in seasons {
@@ -158,12 +160,24 @@ impl Db {
                 let serialized_doc = rkyv::util::to_bytes::<_, 1024>(&stored_doc).unwrap();
                 doc_db.insert(ep_id, serialized_doc.as_slice())?;
 
+                // term -> (sentence_ids)[]
+                let mut term_to_sentence_mapping: BTreeMap<u32, Vec<u32>> = BTreeMap::new();
+
                 for (idx, sentence) in stored_doc.tokens.iter().enumerate() {
                     authors.insert(sentence.author);
-                    for term in &sentence.tokens {
-                        terms_to_sentences_db
-                            .insert(&TermsToSentencesId::new(ep_id, term.term), idx as u32)?;
+                    for token in &sentence.tokens_by_position {
+                        term_to_sentence_mapping
+                            .entry(token.term)
+                            .or_insert_with(Vec::new)
+                            .push(idx as u32);
                     }
+                }
+
+                for (term, sentences) in term_to_sentence_mapping {
+                    terms_to_sentences_db.insert(
+                        &TermsToSentencesId::new(ep_id, term),
+                        SentenceList::from_slice(&sentences),
+                    )?;
                 }
 
                 let mut doc = Document::new();

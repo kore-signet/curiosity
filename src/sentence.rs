@@ -1,9 +1,10 @@
+use core::slice;
 use std::{collections::HashMap, ops::Range, str::FromStr};
 
 use line_span::LineSpans;
 
+use memchr::memmem::Finder;
 use nyoom_json::{ArrayWriter, JsonBuffer, UnescapedStr};
-use rend::u32_le;
 use rkyv::Archive;
 use serde::ser::SerializeStruct;
 
@@ -16,13 +17,6 @@ use tantivy::tokenizer::TextAnalyzer;
 pub struct CopyableRange {
     start: usize,
     end: usize,
-}
-
-#[derive(Clone, Copy)]
-pub struct CopyableTermRange {
-    start: usize,
-    end: usize,
-    term: u32,
 }
 
 impl CopyableRange {
@@ -48,7 +42,8 @@ pub struct Sentence {
     pub author: Friend,
     pub start_in_original: usize,
     pub len: usize,
-    pub tokens: Vec<SmallToken>,
+    pub tokens_by_position: Vec<SmallToken>,
+    pub terms_by_position: Vec<u32>,
 }
 
 #[derive(Archive, rkyv::Serialize, rkyv::Deserialize, Debug, Clone)]
@@ -134,12 +129,10 @@ impl Sentence {
                         term_id
                     };
 
-                    // let term_id_bytes = term_id.to_le_bytes();
                     tokens.push(SmallToken {
                         start: token.offset_from,
                         end: token.offset_to,
                         term: term_id,
-                        // term_text: token.text.clone()
                     })
                 }
 
@@ -154,13 +147,16 @@ impl Sentence {
                 )
                 .unwrap_or(Friend::Unknown);
 
-                tokens.sort_by_key(|v| v.term);
+                tokens.sort_by_key(|v| v.start);
+
+                let terms_by_position = tokens.iter().map(|v| v.term).collect::<Vec<_>>();
 
                 Ok(Sentence {
                     author,
                     start_in_original: sentence_start,
                     len: sentence.len(),
-                    tokens,
+                    tokens_by_position: tokens,
+                    terms_by_position,
                 })
             })
             .collect::<CuriosityResult<Vec<Sentence>>>()
@@ -174,45 +170,23 @@ impl ArchivedSentence {
         document: &'b str,
         is_phrase_query: bool,
     ) -> Option<HighlightedSentence<'b>> {
-        let mut ranges: SmallVec<[CopyableTermRange; 8]> = SmallVec::new();
-        let mut found_count = 0;
-
-        for term in terms {
-            let mut token_idx = if let Ok(token_idx) = self
-                .tokens
-                .binary_search_by(|val| val.term.cmp(&u32_le::new(*term)))
-            {
-                found_count += 1;
-                token_idx
-            } else {
-                continue;
-            };
-
-            loop {
-                let token = &self.tokens[token_idx];
-                if token.term != *term {
-                    break;
-                }
-
-                ranges.push(CopyableTermRange {
-                    start: token.start.value() as usize,
-                    end: token.end.value() as usize,
-                    term: *term,
-                });
-
-                if token_idx == 0 {
-                    break;
-                }
-
-                token_idx -= 1;
+        let ranges = if is_phrase_query {
+            let (found_count, ranges) = self.find_phrases(terms);
+            if found_count == 0 {
+                return None;
             }
-        }
+            ranges
+        } else {
+            let (found_count, mut ranges) = self.find_keywords(terms);
+            if found_count == 0 {
+                return None;
+            }
 
-        if (is_phrase_query && found_count != terms.len()) || found_count == 0 {
-            return None;
-        }
+            ranges.sort_by_key(|v| v.start);
 
-        ranges.sort_by_key(|v| v.start);
+            collapse_overlapped_ranges(&ranges)
+        };
+
         let mut current_range = Range {
             start: 0usize,
             end: self.len.value() as usize,
@@ -223,29 +197,6 @@ impl ArchivedSentence {
             self.start_in_original.value() as usize,
             self.len.value() as usize,
         );
-
-        let ranges = collapse_overlapped_ranges(&ranges);
-
-        if is_phrase_query {
-            if ranges.len() != terms.len() {
-                return None;
-            }
-
-            for window in ranges.windows(terms.len()) {
-                let mut end = window[0].end;
-                for (idx, part) in window.iter().enumerate() {
-                    if terms[idx] != part.term {
-                        return None;
-                    }
-
-                    if part.start >= (end + 2) {
-                        return None;
-                    }
-
-                    end = part.end;
-                }
-            }
-        }
 
         for token_range in ranges {
             current_range.end = token_range.start;
@@ -271,12 +222,69 @@ impl ArchivedSentence {
 
         Some(HighlightedSentence(parts))
     }
+
+    #[inline(always)]
+    pub fn find_keywords(&self, terms: &[u32]) -> (usize, SmallVec<[CopyableRange; 8]>) {
+        let mut ranges: SmallVec<[CopyableRange; 8]> = SmallVec::new();
+        let mut found_count = 0;
+
+        let haystack = unsafe {
+            slice::from_raw_parts(
+                self.terms_by_position.as_ptr() as *const u8,
+                self.terms_by_position.len() * 4,
+            )
+        };
+
+        for term in terms {
+            for idx in memchr::memmem::find_iter(haystack, &term.to_le_bytes()) {
+                found_count += 1;
+                let idx = idx / 4;
+                let token = &self.tokens_by_position[idx];
+                ranges.push(CopyableRange {
+                    start: token.start.value() as usize,
+                    end: token.end.value() as usize,
+                })
+            }
+        }
+
+        (found_count, ranges)
+    }
+
+    #[inline(always)]
+    pub fn find_phrases(&self, terms: &[u32]) -> (usize, SmallVec<[CopyableRange; 8]>) {
+        let mut ranges: SmallVec<[CopyableRange; 8]> = SmallVec::new();
+        let mut needle: SmallVec<[u8; 32]> = SmallVec::new();
+        for term in terms {
+            needle.extend_from_slice(&term.to_le_bytes());
+        }
+        let finder = Finder::new(needle.as_slice());
+
+        let haystack = unsafe {
+            slice::from_raw_parts(
+                self.terms_by_position.as_ptr() as *const u8,
+                self.terms_by_position.len() * 4,
+            )
+        };
+
+        let mut found_count: usize = 0;
+        for idx in finder.find_iter(haystack) {
+            let idx = idx / 4;
+            found_count += 1;
+            let start_token = &self.tokens_by_position[idx];
+            let end_token = &self.tokens_by_position[idx + terms.len() - 1];
+
+            ranges.push(CopyableRange {
+                start: start_token.start.value() as usize,
+                end: end_token.end.value() as usize,
+            })
+        }
+
+        (found_count, ranges)
+    }
 }
 
 #[inline(always)]
-pub fn collapse_overlapped_ranges(
-    ranges: &[CopyableTermRange],
-) -> SmallVec<[CopyableTermRange; 8]> {
+pub fn collapse_overlapped_ranges(ranges: &[CopyableRange]) -> SmallVec<[CopyableRange; 8]> {
     let mut result = SmallVec::new();
     let mut ranges_it = ranges.iter();
 
@@ -286,11 +294,10 @@ pub fn collapse_overlapped_ranges(
     };
 
     for range in ranges {
-        if current.end > range.start && current.term == range.term {
-            current = CopyableTermRange {
+        if current.end > range.start {
+            current = CopyableRange {
                 start: current.start,
                 end: std::cmp::max(current.end, range.end),
-                term: current.term,
             };
         } else {
             result.push(current);

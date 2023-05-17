@@ -684,6 +684,7 @@ dependencies = [
  "anyhow",
  "base64-url",
  "line-span",
+ "memchr",
  "nyoom-json",
  "ph",
  "postcard",
@@ -698,6 +699,7 @@ dependencies = [
  "strum",
  "tantivy",
  "thiserror",
+ "tinyset",
  "yoke",
  "zerocopy",
  "zip",
@@ -2318,6 +2320,15 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "372950940a5f07bf38dbe211d7283c9e6d7327df53794992d293e534c733d09b"
 dependencies = [
  "time-core",
+]
+
+[[package]]
+name = "tinyset"
+version = "0.4.15"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "e2417e47ddd3809ad40222777ac754ee881b3a6401e38cbeeeb3ee1ca5f30aa0"
+dependencies = [
+ "rand",
 ]
 
 [[package]]

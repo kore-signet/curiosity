@@ -16,7 +16,7 @@ export async function search(
     }
 
     let res = await fetch(
-        "http://localhost:8080/api/search?" + new URLSearchParams(req),
+        "/api/search?" + new URLSearchParams(req),
         { mode: "cors" }
     );
     return (await res.json()) as ApiResponse;

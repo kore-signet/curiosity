@@ -33,6 +33,6 @@ zerocopy = "0.6.1"
 zip = "0.6.5"
 
 [profile.release]
-debug = 1
-# lto = "fat"
-# codegen-units = 1
+# debug = 1
+lto = "fat"
+codegen-units = 1

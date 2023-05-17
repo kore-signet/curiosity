@@ -2,6 +2,7 @@ use std::{collections::HashMap, ops::Range, str::FromStr};
 
 use line_span::LineSpans;
 
+use nyoom_json::{ArrayWriter, JsonBuffer, UnescapedStr};
 use rend::u32_le;
 use rkyv::Archive;
 use serde::ser::SerializeStruct;
@@ -43,6 +44,7 @@ impl From<CopyableRange> for Range<usize> {
 #[archive(archived = "ArchivedSentence")]
 #[archive_attr(derive(Debug))]
 pub struct Sentence {
+    #[archive(skip)]
     pub author: Friend,
     pub start_in_original: usize,
     pub len: usize,
@@ -127,8 +129,9 @@ impl Sentence {
                     let term_id = if let Some(term_id) = term_map.get(token.text.as_str()) {
                         *term_id
                     } else {
+                        let term_id = term_map.len() as u32;
                         term_map.insert(token.text.clone(), term_map.len() as u32);
-                        term_map.len() as u32
+                        term_id
                     };
 
                     // let term_id_bytes = term_id.to_le_bytes();
@@ -170,7 +173,7 @@ impl ArchivedSentence {
         terms: &[u32],
         document: &'b str,
         is_phrase_query: bool,
-    ) -> Option<SmallVec<[SentencePart<'b>; 8]>> {
+    ) -> Option<HighlightedSentence<'b>> {
         let mut ranges: SmallVec<[CopyableTermRange; 8]> = SmallVec::new();
         let mut found_count = 0;
 
@@ -266,7 +269,7 @@ impl ArchivedSentence {
             parts.push(SentencePart::Normal(&document[start..end]));
         }
 
-        Some(parts)
+        Some(HighlightedSentence(parts))
     }
 }
 
@@ -297,4 +300,25 @@ pub fn collapse_overlapped_ranges(
 
     result.push(current);
     result
+}
+
+pub struct HighlightedSentence<'a>(SmallVec<[SentencePart<'a>; 8]>);
+
+impl<'a> HighlightedSentence<'a> {
+    pub fn serialize_into<S: JsonBuffer>(&self, mut ser: ArrayWriter<S>) {
+        for part in &self.0 {
+            let mut part_writer = ser.add_object();
+
+            match part {
+                SentencePart::Normal(text) => {
+                    part_writer.field(UnescapedStr::create("text"), text);
+                    part_writer.field(UnescapedStr::create("highlighted"), false);
+                }
+                SentencePart::Highlighted(text) => {
+                    part_writer.field(UnescapedStr::create("text"), text);
+                    part_writer.field(UnescapedStr::create("highlighted"), true);
+                }
+            }
+        }
+    }
 }

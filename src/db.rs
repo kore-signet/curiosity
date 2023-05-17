@@ -5,11 +5,9 @@ use std::{
     sync::{Arc, RwLock},
 };
 
-use boomphf::hashmap::BoomHashMap;
-
 use redb::{MultimapTable, MultimapTableDefinition, ReadableTable, Table, TableDefinition};
 use smallvec::SmallVec;
-use smartstring::{LazyCompact, SmartString};
+
 use tantivy::{
     collector::{FilterCollector, TopDocs},
     directory::MmapDirectory,
@@ -22,6 +20,7 @@ use tantivy::{
 use crate::{
     sentence::Sentence,
     store::{Store, TermsToSentencesId},
+    term_map::TermMap,
     CuriosityError, CuriosityResult, Episode, Season, SeasonId, StoredEpisode,
 };
 
@@ -32,7 +31,7 @@ pub struct Db {
     pub store: Store,
     parser: QueryParser,
     tokenizer: TextAnalyzer,
-    term_map: Arc<RwLock<BoomHashMap<SmartString<LazyCompact>, u32>>>,
+    term_map: Arc<RwLock<TermMap>>,
 }
 
 pub struct QueryWithTerms<T: Query> {
@@ -73,7 +72,7 @@ impl Db {
         let txn = dbs.begin_read()?;
 
         let term_map = if let Ok(terms) = txn.open_table(dbs.terms) {
-            let mut terms_keys: Vec<SmartString<LazyCompact>> = Vec::new();
+            let mut terms_keys: Vec<String> = Vec::new();
             let mut terms_vals: Vec<u32> = Vec::new();
 
             for res in terms.iter()? {
@@ -82,9 +81,9 @@ impl Db {
                 terms_vals.push(v.value());
             }
 
-            Arc::new(RwLock::new(BoomHashMap::new(terms_keys, terms_vals)))
+            Arc::new(RwLock::new(TermMap::construct(terms_keys, terms_vals)))
         } else {
-            Arc::new(RwLock::new(BoomHashMap::new(Vec::new(), Vec::new())))
+            Arc::new(RwLock::new(TermMap::construct(Vec::new(), Vec::new())))
         };
 
         let reader = index.reader()?;
@@ -177,19 +176,18 @@ impl Db {
             }
         }
 
-        let mut terms_keys: Vec<SmartString<LazyCompact>> = Vec::new();
+        let mut terms_keys = Vec::new();
         let mut terms_vals = Vec::new();
 
         for (k, v) in term_map {
             terms_db.insert(k.as_str(), v)?;
-
-            terms_keys.push(k.into());
+            terms_keys.push(k);
             terms_vals.push(v);
         }
 
         let mut term_map_guard = self.term_map.write().unwrap();
 
-        *term_map_guard = BoomHashMap::new(terms_keys, terms_vals);
+        *term_map_guard = TermMap::construct(terms_keys, terms_vals);
 
         drop(terms_db);
         drop(terms_to_sentences_db);
@@ -212,7 +210,7 @@ impl Db {
             }
 
             if let Some(term) = term.as_str().and_then(|text| term_map.get(text)) {
-                terms.push(*term);
+                terms.push(term);
             }
         });
 
@@ -234,7 +232,7 @@ impl Db {
         let mut term_set = SmallVec::new();
         for term in out.iter() {
             if let Some(term) = term.as_str().and_then(|text| term_map.get(text)) {
-                term_set.push(*term);
+                term_set.push(term);
             }
         }
 
@@ -257,7 +255,7 @@ impl Db {
         let mut term_set = SmallVec::new();
         for term in out.iter() {
             if let Some(term) = term.as_str().and_then(|text| term_map.get(text)) {
-                term_set.push(*term);
+                term_set.push(term);
             }
         }
 
@@ -318,32 +316,3 @@ impl Db {
         }
     }
 }
-
-// pub struct ResultsIter<'a, I: Iterator<Item = (Reverse<u64>, DocAddress)>> {
-//     pub store: &'a LmdbStores,
-//     pub txn: LmdbTransaction,
-//     pub searcher: Searcher,
-//     episode_id_field: tantivy::schema::Field,
-//     pub results: I,
-//     pub results_len: usize,
-// }
-
-// impl<'b, I: Iterator<Item = (Reverse<u64>, DocAddress)>> LendingIterator for ResultsIter<'b, I> {
-//     type Item<'a> = CuriosityResult<&'a ArchivedStoredEpisode> where Self: 'a;
-
-//     fn next(&mut self) -> Option<Self::Item<'_>> {
-//         let (_, addr) = self.results.next()?;
-//         let doc = iter_try!(self.searcher.doc(addr));
-//         let id = doc
-//             .get_first(self.episode_id_field)
-//             .and_then(|v| v.as_u64())
-//             .unwrap();
-//         let doc = iter_try!(self.txn.get().get(self.store.docs.db, &id.to_le_bytes()));
-//         let doc_deser = unsafe { rkyv::util::archived_root::<StoredEpisode>(doc) };
-//         Some(Ok(doc_deser))
-//     }
-
-//     fn len(&self) -> Option<usize> {
-//         Some(self.results_len)
-//     }
-// }

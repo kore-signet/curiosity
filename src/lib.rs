@@ -52,6 +52,7 @@ use thiserror::Error;
     PartialOrd,
 ))]
 #[archive_attr(serde(rename_all = "kebab-case"))]
+#[archive_attr(strum(serialize_all = "kebab-case"))]
 #[repr(u64)]
 pub enum SeasonId {
     #[strum(serialize = "autumn-in-hieron")]
@@ -209,13 +210,9 @@ pub enum CuriosityError {
     #[error(transparent)]
     SerdeJsonError(#[from] serde_json::Error),
     #[error(transparent)]
-    RMPSerError(#[from] rmp_serde::encode::Error),
-    #[error(transparent)]
-    RMPDeSerError(#[from] rmp_serde::decode::Error),
+    PostcardError(#[from] postcard::Error),
     #[error(transparent)]
     REDBError(#[from] redb::Error),
-    #[error(transparent)]
-    LZ4(#[from] lz4_flex::block::DecompressError),
     #[error(transparent)]
     ReqwestError(#[from] reqwest::Error),
     #[error(transparent)]
@@ -238,13 +235,11 @@ impl ResponseError for CuriosityError {
             TantivyOpenError(e) => ("internal", e.to_string()),
             IOError(e) => ("internal", e.to_string()),
             SerdeJsonError(e) => ("internal", e.to_string()),
-            RMPSerError(e) => ("internal", e.to_string()),
-            RMPDeSerError(e) => ("internal", e.to_string()),
+            PostcardError(e) => ("internal", e.to_string()),
             REDBError(e) => ("internal", e.to_string()),
             ReqwestError(e) => ("internal", e.to_string()),
             AnyhowError(e) => ("internal", e.to_string()),
             NotFound => ("internal", "document not found".to_string()),
-            LZ4(e) => ("internal", e.to_string()),
         };
 
         #[derive(serde::Serialize)]
@@ -263,3 +258,5 @@ impl ResponseError for CuriosityError {
 }
 
 pub type CuriosityResult<T> = Result<T, CuriosityError>;
+
+mod term_map;

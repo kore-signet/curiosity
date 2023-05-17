@@ -1,19 +1,33 @@
 #![allow(unused_must_use)]
 
+use std::collections::BTreeSet;
 use std::io::{Cursor, Read};
+
+use std::sync::Arc;
 use std::time::Duration;
-use std::{collections::BTreeMap, error::Error, fs::File, path::Path};
+use std::{collections::BTreeMap, error::Error, path::Path};
 
 use actix_cors::Cors;
 use actix_web::{http::StatusCode, web, App, HttpResponse, HttpResponseBuilder, HttpServer};
-use curiosity::{db::Db, serialization_crimes, CuriosityError, CuriosityResult, Season, SeasonId};
 
-use curiosity::serialization_crimes::*;
+use curiosity::store::TermsToSentencesId;
+use curiosity::{db::Db, CuriosityError, CuriosityResult, Season, SeasonId};
+
+use curiosity::{serialization_crimes::*, StoredEpisode};
+
+use nyoom_json::{Serializer, UnescapedStr};
+use redb::AccessGuard;
 
 use serde::{Deserialize, Serialize};
 use smallvec::SmallVec;
 use smartstring::{Compact, SmartString};
-use zip::read::ZipFile;
+
+macro_rules! noescape {
+    ($l:expr) => {
+        // aesthetics
+        UnescapedStr::create($l)
+    };
+}
 
 #[derive(Serialize, Deserialize)]
 struct SearchRequest {
@@ -42,29 +56,17 @@ enum QueryKind {
     Web,
 }
 
-#[derive(Serialize, Deserialize, Default, Debug)]
-#[serde(rename_all = "kebab-case")]
-enum ResponseSerializationKind {
-    #[default]
-    Json,
-    Msgpack,
-}
-
-#[derive(Serialize)]
-struct Response<'a> {
-    next_page: Option<String>,
-    episodes: serialization_crimes::ResultsSerializer<'a>,
-}
-
-fn do_search(
-    query: SearchRequest,
+#[actix_web::get("/search")]
+async fn search(
+    query: web::Query<SearchRequest>,
     db: web::Data<Db>,
-    ser_kind: ResponseSerializationKind,
 ) -> CuriosityResult<HttpResponse> {
+    let query = query.into_inner();
+
     let mut query = if let Some(page) = query.page.as_ref().filter(|page| page.as_str() != "null") {
         let mut out = Vec::with_capacity(128);
         base64_url::decode_to_vec(&page, &mut out);
-        rmp_serde::from_slice(&out)?
+        postcard::from_bytes(&out)?
     } else {
         query
     };
@@ -77,6 +79,7 @@ fn do_search(
         _ => (db.keyword_query(&query.query).boxed(), false),
     };
 
+    // let page_size = 1;
     let page_size = std::cmp::min(100, query.page_size);
 
     let results = db.search(
@@ -87,47 +90,76 @@ fn do_search(
     )?;
     let next_page = if results.len() >= page_size {
         query._curiosity_internal_offset += results.len();
-        Some(base64_url::encode(&rmp_serde::to_vec(&query)?))
+        Some(base64_url::encode(&postcard::to_stdvec(&query)?))
     } else {
         None
     };
 
-    let res = Response {
-        next_page,
-        episodes: serialization_crimes::ResultsSerializer::new(
-            serialization_crimes::ResultsSerializerState {
-                query: parsed_query,
-                highlight: query.highlight,
-                is_phrase_query,
-                results,
-                store: &db.store,
-            },
-        ),
-    };
+    let mut out = String::with_capacity(50_000);
+    let mut ser = Serializer::new(&mut out);
+    let mut response_obj = ser.object();
+    response_obj.field(UnescapedStr::create("next_page"), next_page.as_deref());
 
-    Ok(match ser_kind {
-        ResponseSerializationKind::Json => HttpResponseBuilder::new(StatusCode::OK).json(res),
-        ResponseSerializationKind::Msgpack => HttpResponseBuilder::new(StatusCode::OK)
-            .content_type("application/msgpack")
-            .body(rmp_serde::to_vec_named(&res)?),
-    })
-}
+    let txn = db.store.begin_read()?;
+    let ep_db = db.store.get_docs_accessor(txn.get())?;
 
-#[actix_web::get("/search")]
-async fn search(
-    query: web::Query<SearchRequest>,
-    db: web::Data<Db>,
-) -> CuriosityResult<HttpResponse> {
-    do_search(query.into_inner(), db, ResponseSerializationKind::Json)
-}
+    let mut episodes = response_obj.array_field("episodes");
+    for (doc_id, _) in results {
+        let doc_bytes = ep_db.get_doc(doc_id.0)?;
+        let doc = unsafe { rkyv::archived_root::<StoredEpisode>(doc_bytes.value()) };
 
-#[actix_web::get("/search/{ser_kind}")]
-async fn search_with_custom_serialization(
-    query: web::Query<SearchRequest>,
-    db: web::Data<Db>,
-    ser_kind: web::Path<ResponseSerializationKind>,
-) -> CuriosityResult<HttpResponse> {
-    do_search(query.into_inner(), db, ser_kind.into_inner())
+        let mut episode = episodes.add_object();
+        episode.field(noescape!("curiosity_id"), doc.id.value());
+        episode.field(noescape!("slug"), doc.slug.as_str());
+        episode.field(noescape!("title"), doc.title.as_str());
+        if let Some(docs_id) = doc.docs_id.as_ref() {
+            episode.field("docs_id", docs_id.as_str());
+        }
+
+        episode.field("season", noescape!(doc.season.as_ref()));
+
+        if !query.highlight {
+            episode.end();
+            continue;
+        }
+
+        let mut term_to_sentence_id = TermsToSentencesId::new(doc_id.0, 0);
+
+        let sentence_ids: BTreeSet<u32> = parsed_query
+            .terms
+            .iter()
+            .filter_map(|term| {
+                term_to_sentence_id.set_term(*term);
+                ep_db.get_sentences(&term_to_sentence_id).ok()
+            })
+            .flatten()
+            .map(|res: Result<AccessGuard<u32>, redb::Error>| res.map(|acc| acc.value()))
+            .collect::<Result<BTreeSet<u32>, redb::Error>>()?;
+
+        // TODO: include whether sentence should be escaped or not
+        let mut highlights = episode.array_field(noescape!("highlights"));
+
+        for id in sentence_ids {
+            let sentence = &doc.tokens[id as usize];
+            if let Some(highlighted) =
+                sentence.highlight(&parsed_query.terms, &doc.text, is_phrase_query)
+            {
+                highlighted.serialize_into(highlights.add_array());
+            }
+        }
+
+        highlights.end();
+
+        episode.end();
+    }
+
+    episodes.end();
+
+    response_obj.end();
+
+    Ok(HttpResponseBuilder::new(StatusCode::OK)
+        .content_type("application/json")
+        .body(out))
 }
 
 async fn update_database_periodically(db: Db) -> CuriosityResult<()> {
@@ -140,11 +172,9 @@ async fn update_database_periodically(db: Db) -> CuriosityResult<()> {
             println!("error during db update: {e}");
         }
     }
-
-    Ok(())
 }
 
-async fn update_database(mut db: Db) -> CuriosityResult<()> {
+async fn update_database(db: Db) -> CuriosityResult<()> {
     let mirror_bytes = reqwest::get("https://github.com/emily-signet/transcripts-at-the-table-mirror/archive/refs/heads/data.zip").await?.bytes().await?;
 
     actix_web::rt::task::spawn_blocking(move || {
@@ -182,9 +212,12 @@ async fn update_database(mut db: Db) -> CuriosityResult<()> {
 async fn main() -> Result<(), Box<dyn Error>> {
     std::fs::remove_file("./store.redb");
     std::fs::create_dir_all("./satt_idx");
-    let db = Db::new("./satt_idx", "./store.redb")?;
+    let mut db = Db::new("./satt_idx", "./store.redb")?;
 
     update_database(db.clone()).await.unwrap();
+    Arc::<redb::Database>::get_mut(&mut db.store.db)
+        .unwrap()
+        .compact();
 
     let db_for_update = db.clone();
     actix_web::rt::spawn(update_database_periodically(db_for_update));
@@ -192,11 +225,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
     HttpServer::new(move || {
         App::new()
             .wrap(Cors::permissive())
-            .service(
-                web::scope("/api")
-                    .service(search)
-                    .service(search_with_custom_serialization),
-            )
+            .service(web::scope("/api").service(search))
             .service(actix_files::Files::new("/", "./static").index_file("index.html"))
             .app_data(web::Data::new(db.clone()))
     })

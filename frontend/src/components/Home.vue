@@ -103,14 +103,13 @@ async function load_more() {
   <footer>
     <p>
     <p>powered by
-      <a href="transcriptsatthetable.com" class="link" target="_blank" rel="noopener">transcriptsatthetable.com</a><br />
+      <a href="https://transcriptsatthetable.com" class="link" target="_blank" rel="noopener">transcriptsatthetable.com</a><br />
     </p>
     originally by
     <a href="https://twitter.com/bryanbakedbean" class="link" target="_blank" rel="noopener">@bryanbakedbean</a>
     /
     currently upkept by
-    <a class="link" href="https://twitter.com/sapphiclinguine" target="_blank" rel="noopener">emily signet
-      (@sapphiclinguine)</a>
+    <a class="link" href="https://cat-girl.gay" target="_blank" rel="noopener">emily signet</a>
     <br />
     </p>
     <p>

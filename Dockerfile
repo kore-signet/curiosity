@@ -22,4 +22,4 @@ COPY static static
 
 RUN mkdir satt_idx
 
-CMD ["./curiosity"]1
+CMD ["./curiosity"]

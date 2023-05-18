@@ -125,7 +125,7 @@ async function search() {
 
 <template>
   <form>
-    <div class="row" style="margin-top: 2rem">
+    <div class="row row-wrapping" style="margin-top: 2rem">
       <MultiSelect id="season-select" filter v-model="seasons" :options="season_options" option-value="value"
         option-label="label" option-group-label="label" option-group-children="items"
         placeholder="seasons to search through">
@@ -148,12 +148,12 @@ async function search() {
 <style scoped>
 #season-select {
   width: fit-content;
-  max-width: 75%;
+  max-width: 100%;
 }
 
 #search-bar {
   width: 75%;
-  max-width: 75%;
+  max-width: 100%;
 
   background: #363636;
   color: white;
@@ -164,11 +164,19 @@ async function search() {
   margin-left: 2%;
 
   padding: 1em 0.4em;
+
+  flex-grow: 1;
+}
+
+.row-wrapping {
+  flex-wrap: wrap;
+  gap: 0.4em 0;
 }
 
 .row {
   display: flex;
   flex-direction: row;
+
   justify-content: center;
   align-items: stretch;
   width: 100%;

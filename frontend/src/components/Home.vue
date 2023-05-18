@@ -183,4 +183,10 @@ h2 {
 footer {
   margin-top: 7rem;
 }
+
+@media screen and (max-width: 920px) {
+  main {
+    width: 90%;
+  }
+}
 </style>

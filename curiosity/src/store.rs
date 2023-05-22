@@ -1,14 +1,11 @@
 use std::{borrow::Cow, ops::Deref, sync::Arc};
 
-use redb::{
-    AccessGuard, MultimapTableDefinition, ReadOnlyTable, ReadableTable, RedbKey, RedbValue,
-    TableDefinition, WriteTransaction,
-};
+use redb::{MultimapTableDefinition, RedbKey, RedbValue, TableDefinition, WriteTransaction};
 use rend::u32_le;
 use yoke::{Yoke, Yokeable};
 use zerocopy::AsBytes;
 
-use crate::{CuriosityError, CuriosityResult};
+use crate::{docs_accessor::SimpleDocsAccessor, CuriosityError, CuriosityResult};
 
 #[derive(Yokeable)]
 #[repr(transparent)]
@@ -63,26 +60,6 @@ impl ReadTransaction {
         self.txn
             .get()
             .open_multimap_table(v)
-            .map_err(CuriosityError::REDBError)
-    }
-}
-
-pub struct DocsAccessor<'txn> {
-    docs: ReadOnlyTable<'txn, u64, &'static [u8]>,
-    terms_to_sentences: ReadOnlyTable<'txn, TermsToSentencesId, SentenceList<'static>>,
-}
-
-impl<'txn> DocsAccessor<'txn> {
-    pub fn get_doc(&self, doc: u64) -> CuriosityResult<AccessGuard<&[u8]>> {
-        self.docs.get(doc)?.ok_or(CuriosityError::NotFound)
-    }
-
-    pub fn get_sentences(
-        &self,
-        id: &TermsToSentencesId,
-    ) -> CuriosityResult<Option<AccessGuard<SentenceList>>> {
-        self.terms_to_sentences
-            .get(id)
             .map_err(CuriosityError::REDBError)
     }
 }
@@ -205,7 +182,6 @@ impl RedbValue for SentenceList<'_> {
 pub struct Store {
     pub db: Arc<redb::Database>,
     pub docs: TableDefinition<'static, u64, &'static [u8]>,
-    pub terms: TableDefinition<'static, &'static str, u32>,
     pub terms_to_sentences: TableDefinition<'static, TermsToSentencesId, SentenceList<'static>>,
 }
 
@@ -226,10 +202,9 @@ impl Store {
     pub fn get_docs_accessor<'a>(
         &self,
         txn: &'a redb::ReadTransaction<'a>,
-    ) -> CuriosityResult<DocsAccessor<'a>> {
-        Ok(DocsAccessor {
+    ) -> CuriosityResult<SimpleDocsAccessor<'a>> {
+        Ok(SimpleDocsAccessor {
             docs: txn.open_table(self.docs)?,
-            terms_to_sentences: txn.open_table(self.terms_to_sentences)?,
         })
     }
 }

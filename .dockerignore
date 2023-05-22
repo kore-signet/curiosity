@@ -5,3 +5,4 @@ target/
 store.redb
 satt_idx/
 store.mdb
+server/frontend

@@ -1,10 +1,13 @@
 use std::path::PathBuf;
 
 pub mod db;
+pub mod docs_accessor;
 pub mod schema;
 pub mod sentence;
 pub mod serialization_crimes;
 pub mod store;
+
+#[cfg(feature = "actix")]
 use actix_web::{body::BoxBody, http::StatusCode, HttpResponseBuilder, ResponseError};
 use sentence::*;
 
@@ -208,53 +211,11 @@ pub enum CuriosityError {
     #[error(transparent)]
     IOError(#[from] std::io::Error),
     #[error(transparent)]
-    SerdeJsonError(#[from] serde_json::Error),
-    #[error(transparent)]
-    PostcardError(#[from] postcard::Error),
-    #[error(transparent)]
     REDBError(#[from] redb::Error),
     #[error(transparent)]
-    ReqwestError(#[from] reqwest::Error),
-    #[error(transparent)]
-    AnyhowError(#[from] anyhow::Error),
+    PostcardError(#[from] postcard::Error),
     #[error("not found")]
     NotFound,
-}
-
-impl ResponseError for CuriosityError {
-    fn error_response(&self) -> actix_web::HttpResponse<BoxBody> {
-        use CuriosityError::*;
-
-        let mut status = StatusCode::INTERNAL_SERVER_ERROR;
-        let (err_kind, err_msg) = match self {
-            QueryParserError(e) => {
-                status = StatusCode::BAD_REQUEST;
-                ("query", e.to_string())
-            }
-            Tantivy(e) => ("internal", e.to_string()),
-            TantivyOpenError(e) => ("internal", e.to_string()),
-            IOError(e) => ("internal", e.to_string()),
-            SerdeJsonError(e) => ("internal", e.to_string()),
-            PostcardError(e) => ("internal", e.to_string()),
-            REDBError(e) => ("internal", e.to_string()),
-            ReqwestError(e) => ("internal", e.to_string()),
-            AnyhowError(e) => ("internal", e.to_string()),
-            NotFound => ("internal", "document not found".to_string()),
-        };
-
-        #[derive(serde::Serialize)]
-        struct ErrResponse<'a> {
-            err: bool,
-            kind: &'a str,
-            msg: &'a str,
-        }
-
-        HttpResponseBuilder::new(status).json(ErrResponse {
-            err: true,
-            kind: err_kind,
-            msg: &err_msg,
-        })
-    }
 }
 
 pub type CuriosityResult<T> = Result<T, CuriosityError>;

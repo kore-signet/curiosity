@@ -1,11 +1,13 @@
 use std::{
     cmp::Reverse,
     collections::{BTreeMap, HashMap, HashSet},
-    path::Path,
-    sync::{Arc, RwLock},
+    io::Read,
+    path::{Path, PathBuf},
+    sync::Arc,
 };
 
-use redb::{ReadableTable, Table, TableDefinition};
+use parking_lot::RwLock;
+use redb::{Table, TableDefinition};
 use smallvec::SmallVec;
 
 use tantivy::{
@@ -32,6 +34,7 @@ pub struct Db {
     parser: QueryParser,
     tokenizer: TextAnalyzer,
     term_map: Arc<RwLock<TermMap>>,
+    terms_path: PathBuf,
 }
 
 pub struct QueryWithTerms<T: Query> {
@@ -49,7 +52,15 @@ impl<T: Query> QueryWithTerms<T> {
 }
 
 impl Db {
-    pub fn new(index_path: impl AsRef<Path>, store_path: impl AsRef<Path>) -> CuriosityResult<Db> {
+    pub fn new(folder: impl AsRef<Path>) -> CuriosityResult<Db> {
+        let folder = folder.as_ref();
+
+        let index_path = folder.join("index");
+        let store_path = folder.join("store.redb");
+        let terms_path = folder.join("terms.postcard");
+
+        std::fs::create_dir_all(&index_path)?;
+
         let index = Index::builder()
             .schema(crate::schema::build_schema())
             .settings(IndexSettings {
@@ -65,23 +76,19 @@ impl Db {
         let dbs = Store {
             db: Arc::new(store_env),
             docs: TableDefinition::new("docs"),
-            terms: TableDefinition::new("terms"),
             terms_to_sentences: TableDefinition::new("terms_to_sentences"),
         };
 
-        let txn = dbs.begin_read()?;
+        let term_map = if let Ok(mut terms_file) = std::fs::File::open(&terms_path) {
+            let mut bytes =
+                Vec::with_capacity(terms_file.metadata().map_or(64_000, |t| t.len() as usize));
+            terms_file.read_to_end(&mut bytes)?;
 
-        let term_map = if let Ok(terms) = txn.open_table(dbs.terms) {
-            let mut terms_keys: Vec<String> = Vec::new();
-            let mut terms_vals: Vec<u32> = Vec::new();
+            let map: TermMap = postcard::from_bytes(&bytes)?;
 
-            for res in terms.iter()? {
-                let (k, v) = res?;
-                terms_keys.push(k.value().into());
-                terms_vals.push(v.value());
-            }
+            println!("loaded {} terms from {}", map.len(), terms_path.display());
 
-            Arc::new(RwLock::new(TermMap::construct(terms_keys, terms_vals)))
+            Arc::new(RwLock::new(map))
         } else {
             Arc::new(RwLock::new(TermMap::construct(vec![" ".into()], vec![0])))
         };
@@ -104,6 +111,7 @@ impl Db {
             store: dbs,
             parser,
             term_map,
+            terms_path,
         })
     }
 
@@ -114,10 +122,8 @@ impl Db {
     {
         let txn = self.store.begin_write()?;
         txn.delete_table(self.store.docs)?;
-        txn.delete_table(self.store.terms)?;
         txn.delete_table(self.store.terms_to_sentences)?;
 
-        let mut terms_db: Table<&str, u32> = txn.open_table(self.store.terms)?;
         let mut doc_db: Table<u64, &[u8]> = txn.open_table(self.store.docs)?;
         let mut terms_to_sentences_db: Table<TermsToSentencesId, SentenceList> =
             txn.open_table(self.store.terms_to_sentences)?;
@@ -190,20 +196,8 @@ impl Db {
             }
         }
 
-        let mut terms_keys = Vec::new();
-        let mut terms_vals = Vec::new();
+        self.replace_term_map(term_map)?;
 
-        for (k, v) in term_map {
-            terms_db.insert(k.as_str(), v)?;
-            terms_keys.push(k);
-            terms_vals.push(v);
-        }
-
-        let mut term_map_guard = self.term_map.write().unwrap();
-
-        *term_map_guard = TermMap::construct(terms_keys, terms_vals);
-
-        drop(terms_db);
         drop(terms_to_sentences_db);
         drop(doc_db);
 
@@ -217,7 +211,7 @@ impl Db {
         let query = self.parser.parse_query(query)?;
         let body_field = self.index.schema().get_field("body").unwrap();
         let mut terms = SmallVec::new();
-        let term_map = self.term_map.read().unwrap();
+        let term_map = self.term_map.read();
         query.query_terms(&mut |term: &tantivy::Term, _| {
             if term.field() != body_field {
                 return;
@@ -237,7 +231,7 @@ impl Db {
         let mut stream = self.tokenizer.token_stream(query);
         let mut out = Vec::with_capacity(query.len());
         let field = self.index.schema().get_field("body").unwrap();
-        let term_map = self.term_map.read().unwrap();
+        let term_map = self.term_map.read();
 
         while let Some(tok) = stream.next() {
             out.push(Term::from_field_text(field, tok.text.as_str()));
@@ -260,7 +254,7 @@ impl Db {
         let mut stream = self.tokenizer.token_stream(query);
         let mut out = Vec::with_capacity(query.len());
         let field = self.index.schema().get_field("body").unwrap();
-        let term_map = self.term_map.read().unwrap();
+        let term_map = self.term_map.read();
 
         while let Some(tok) = stream.next() {
             out.push(Term::from_field_text(field, tok.text.as_str()));
@@ -328,5 +322,20 @@ impl Db {
                 )
                 .map_err(CuriosityError::Tantivy)
         }
+    }
+
+    pub fn replace_term_map(&self, new_map: HashMap<String, u32>) -> CuriosityResult<()> {
+        let (keys, vals): (Vec<_>, Vec<_>) = new_map.into_iter().unzip();
+        let term_map = TermMap::construct(keys, vals);
+        let mut term_map_guard = self.term_map.write();
+
+        let term_map_bytes = postcard::to_stdvec(&term_map)?;
+        std::fs::write(&self.terms_path, term_map_bytes)?;
+
+        *term_map_guard = term_map;
+
+        drop(term_map_guard);
+
+        Ok(())
     }
 }

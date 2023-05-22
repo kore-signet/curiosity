@@ -296,12 +296,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "anyhow"
-version = "1.0.71"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "9c7d0618f0e0b7e8ff11427422b64564d5fb0be1940354bfe2e0529b18a9d9b8"
-
-[[package]]
 name = "arc-swap"
 version = "1.6.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -382,9 +376,9 @@ checksum = "8c3c1a368f70d6cf7302d78f8f7093da241fb8e8807c05cc9e51a125895a6d5b"
 
 [[package]]
 name = "binout"
-version = "0.1.1"
+version = "0.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "5d50b13022904a1343a445b397f99ea3b1256299585ac99ba374e7021c794744"
+checksum = "288c7b1c00556959bb7dc822d8adad4a30edd0d3a1fcc6839515792b8f300e5f"
 
 [[package]]
 name = "bitflags"
@@ -678,31 +672,23 @@ dependencies = [
 name = "curiosity"
 version = "0.1.0"
 dependencies = [
- "actix-cors",
- "actix-files",
- "actix-web",
- "anyhow",
- "base64-url",
  "line-span",
  "memchr",
  "nyoom-json",
+ "parking_lot",
  "ph",
  "postcard",
  "redb",
  "rend",
- "reqwest",
  "rkyv",
  "serde",
- "serde_json",
  "smallvec",
  "smartstring",
  "strum",
  "tantivy",
  "thiserror",
- "tinyset",
  "yoke",
  "zerocopy",
- "zip",
 ]
 
 [[package]]
@@ -1508,9 +1494,9 @@ checksum = "478c572c3d73181ff3c2539045f6eb99e5491218eae919370993b890cdbdd98e"
 
 [[package]]
 name = "ph"
-version = "0.5.0"
+version = "0.6.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "b50a5a1b879251a3423a83ce269a4d8eeb6419c552a6bcac238038ee83c6ff5e"
+checksum = "a0f3d66dd2bd3f0e887ba0c61787a3cdb548e55788788833ef47cced960b2c9e"
 dependencies = [
  "binout",
  "bitm",
@@ -1973,6 +1959,28 @@ dependencies = [
  "itoa",
  "ryu",
  "serde",
+]
+
+[[package]]
+name = "server"
+version = "0.1.0"
+dependencies = [
+ "actix-cors",
+ "actix-files",
+ "actix-web",
+ "base64-url",
+ "curiosity",
+ "nyoom-json",
+ "postcard",
+ "redb",
+ "reqwest",
+ "serde",
+ "serde_json",
+ "smallvec",
+ "smartstring",
+ "thiserror",
+ "tinyset",
+ "zip",
 ]
 
 [[package]]
